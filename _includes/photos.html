@@ -1,0 +1,41 @@
+<script src="/js/galleria-1.4.2.youtube-fix.js"></script>
+<script src="/js/plugins/flickr/galleria.flickr.min.js"></script>
+<script>
+	Galleria.loadTheme('/js/themes/classic/galleria.classic.min.js');
+	{% assign count = 0 %}
+	{% for gallery in page.photos %}
+			{% assign count = count | plus: 1 %}
+		// Initialize Galleria
+		Galleria.run('#galleria-{{count}}', {
+			height: 0.75,
+			responsive: true,
+
+			{% case gallery.type %}
+				{% when "flickr-set" %}
+					flickr: 'set:{{gallery.id}}',
+					flickrOptions: {
+						sort: 'date-posted-asc'
+						}
+				{% when "ahfow-set" %}
+					dataSource: {{gallery.data}}
+			{% endcase %}
+		});
+	{% endfor %}
+
+	{% for gallery in page.videos %}
+			{% assign count = count | plus: 1 %}
+		// Initialize Galleria
+		Galleria.run('#galleria-{{count}}', {
+			height: 0.5625,
+			responsive: true,
+
+			{% case gallery.type %}
+				{% when "youtube" %}
+					dataSource: {{gallery.data}}
+			{% endcase %}
+		});
+	{% endfor %}
+
+
+
+</script>

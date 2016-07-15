@@ -1,0 +1,40 @@
+<footer class="footer">
+	<div class="container well">
+		<div class="row">
+			<div class="col-md-5">
+				<ul class="list-unstyled">
+					<li>{{ site.title }}</li>
+					<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+					{% if site.twitter_username %}
+						<li>
+							Twitter: <a href="http://twitter.com/{{ site.twitter_username }}"><span class="username">{{ site.twitter_username }}</span></a>
+						</li>
+					{% endif %}
+					<li><a href="/privacy-policy/">Privacy policy</a></li>
+				</ul>
+			</div>
+			<div class="col-md-4">
+				<p class="text">{{ site.description }}</p>
+			</div>
+			<div class="col-md-3">
+			</div>
+		</div>
+	</div>
+</footer>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="{{ "/js/jquery.fitvids.js" | prepend: site.baseurl }}"></script>
+<script>
+  $(document).ready(function(){
+    // Target your .container, .wrapper, .post, etc.
+    $(".container").fitVids();
+  });
+</script>
+{% if page.photos || page.videos %}
+	{% include photos.html %}
+{% endif %}
+<script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+{% if page.title == 'Search results' %}
+	<script>$('#q').val(window.location.search.split('=')[1].replace(/\+/g,' '));</script>
+{% endif %}
+

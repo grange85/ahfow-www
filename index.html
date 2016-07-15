@@ -1,0 +1,141 @@
+---
+layout: page
+title: Home
+position: home
+---
+    {% if paginator.page == 1 %}
+    {% for post in site.tags.pinned %}
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h2>{% icon fa-bookmark-o %}&nbsp;<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+            </div>
+            <div class="panel-body">
+
+
+    <div class="row">
+        <div class="col-md-12 social">
+                        <span class="twitter">
+                <a
+                    href="https://twitter.com/share"
+                    class="twitter-share-button"
+                    data-url="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
+                    data-via="ahfow"
+                    data-related="grange85"
+                    data-hashtags="ahfow">
+                </a>
+            </span>
+            <span class="facebook">
+                <div 
+                    class="fb-like" 
+                    data-href="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
+                    data-layout="button_count" 
+                    data-action="like" 
+                    data-show-faces="false" 
+                    data-share="true">
+                </div>
+            </span>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+                <p class="byline">Posted by {{post.author.display_name}} on {{ post.date | date: "%-d %B %Y" }}</p>
+                {% if post.categories %}<p class="pull-left">in categories: </p>
+                <ul class="categories list-inline">
+                {% for category in post.categories %}
+                <li><a  class="label label-primary" href="{{ category | slugify | prepend: '/category/' }}">{{ category }}</a></li>
+                {% endfor %}
+                </ul>
+                {% endif %}
+                <article>
+                  {% if post.longpost %}
+                  {{post.excerpt}} <p class="pull-right"><a class="btn btn-default" href="{{ post.url | prepend: site.baseurl }}">Read on&hellip;</a></p>{% else %}
+                  {{post.content}}
+                  {% endif %}
+                </article>
+            </div>
+        </div>
+        </div>
+    </div>
+
+    {% endfor %}
+    {% endif %}
+
+    {% for post in paginator.posts %}
+    {% unless post.tags contains 'pinned' %}
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+            </div>
+            <div class="panel-body">
+
+
+    <div class="row">
+        <div class="col-md-12 social">
+                        <span class="twitter">
+                <a
+                    href="https://twitter.com/share"
+                    class="twitter-share-button"
+                    data-url="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
+                    data-via="ahfow"
+                    data-related="grange85"
+                    data-hashtags="ahfow">
+                </a>
+            </span>
+            <span class="facebook">
+                <div 
+                    class="fb-like" 
+                    data-href="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
+                    data-layout="button_count" 
+                    data-action="like" 
+                    data-show-faces="false" 
+                    data-share="true">
+                </div>
+            </span>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+                <p class="byline">Posted by {{post.author.display_name}} on {{ post.date | date: "%-d %B %Y" }}</p>
+                {% if post.categories %}<p class="pull-left">in categories: </p>
+                <ul class="categories list-inline">
+                {% for category in post.categories %}
+                <li><a  class="label label-primary" href="{{ category | slugify | prepend: '/category/' }}">{{ category }}</a></li>
+                {% endfor %}
+                </ul>
+                {% endif %}
+                <article>
+                  {% if post.longpost %}
+                  {{post.excerpt}} <p class="pull-right"><a class="btn btn-default" href="{{ post.url | prepend: site.baseurl }}">Read on&hellip;</a></p>{% else %}
+                  {{post.content}}
+                  {% endif %}
+                </article>
+            </div>
+        </div>
+        </div>
+    </div>
+    {% endunless %}
+    {% endfor %}
+
+<!-- Pagination links -->
+<div class="col-md-12">
+<ul class="pager" role="navigation" aria-labelledby="pagination-label">
+
+    {% if paginator.previous_page %}
+    <li class="previous">
+        {% if paginator.previous_page == 1 %}
+        <a class="pagination-item" href="/" rel="prev">previous<span class="sr-only"> page</span></a>
+        {% else %}
+        <a class="pagination-item" href="{{ paginator.previous_page_path }}" rel="prev">previous<span class="sr-only"> page</span></a>
+        {% endif %}
+    </li>
+    {% endif %}
+
+    {% if paginator.next_page %}
+    <li class="next">
+        <a class="pagination-item" href="{{ paginator.next_page_path }}" rel="next">next<span class="sr-only"> page</span></a>
+    </li>
+    {% endif %}
+</ul>
+</div>

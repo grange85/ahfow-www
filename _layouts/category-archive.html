@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	{% include head.html %}
+<body>
+	{% include tagmanager.html %}
+	{% include header.html %}
+	{% include social.html %}
+	<div class="container">
+		<div class="row">
+		<div class="wrapper col-md-9">
+			<h2>Archive of posts with {{ page.type }} '{{ page.title }}'</h2>
+			<div class="table-responsive">
+				<table class="table table-striped">
+					{% for post in page.posts %}
+					<tr>
+						<th>{{ post.date | date: "%-d %B %Y" }}</th>
+						<td><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
+					</tr>
+					{% endfor %}
+				</table>
+			</div>
+		</div>
+		<div class="col-md-3">
+			{% include sidebar.html %}
+		</div>
+	</div>
+</div>
+	{% include footer.html %}
+</body>
+</html>

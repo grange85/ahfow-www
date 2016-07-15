@@ -1,0 +1,76 @@
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <h3 class="panel-title">Facebook</h3>
+  </div>
+  <div class="panel-body">
+	<div class="fb-page" data-href="https://www.facebook.com/fullofwishes" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/fullofwishes"><a href="https://www.facebook.com/fullofwishes">A Head Full of Wishes</a></blockquote></div></div>
+  </div>
+</div>
+
+
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <h3 class="panel-title">A Head Full of Wishes</h3>
+  </div>
+  <div class="panel-body">
+    <ul>
+      <li><a href="http://db.fullofwishes.co.uk">Releases, shows and tracks</a></li>
+      <li><a href="http://oblivious.fullofwishes.co.uk" >Oblivious (Tumblr)</a></li>
+      <li><a href="http://www.facebook.com/fullofwishes/">Facebook</a></li>
+      <li><a href="http://twitter.com/ahfow/">@ahfow on Twitter</a></li>
+      <li><a href="http://instagram.com/grange85/">@grange85 on Instagram</a></li>
+      <li><a href="http://twitter.com/grange85/">@grange85 on Twitter</a></li>
+    </ul>
+  </div>
+</div>
+
+<div class="panel panel-primary">
+	<div class="panel-heading">
+		<h3 class="panel-title">Categories</h3>
+	</div>
+	<div class="panel-body">
+		<ul>
+			{% assign allcategories = site.categories | sort %}
+			{% for category in allcategories %}
+				<li><a href="{{ category | first | slugify | prepend: '/category/' }}">{{ category | first }}</a> ({{ category | last | size }})</li>
+			{% endfor %}
+		</ul>
+	</div>
+</div>
+
+<div class="panel panel-primary">
+	<div class="panel-heading">
+		<h3 class="panel-title">Archives</h3>
+	</div>
+	<div class="panel-body">
+		<select id="archives-dropdown-5" name="archive-dropdown" onchange="document.location.href=this.options[this.selectedIndex].value;">
+			<option value="">Select Month</option>
+			{% for archive in site.archives %}{% if archive.type == "month" %}{% capture newarchive %}{{newarchive}}|{{archive.url}}{% endcapture %}{% endif %}{% endfor %}
+			{% capture newarchive %}{{newarchive | remove_first: '|'}}{% endcapture %}
+			{% assign myarchives = newarchive | split: '|' | sort %}
+			{% for archive in myarchives %}
+				<option value="{{ archive }}"> {{ archive | remove_first: '/' | replace: '/','-' | append: '01'  | date: '%B %Y' }} </option>
+			{% endfor %}
+		</select>
+	</div>
+</div>
+
+
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <h3 class="panel-title">{% icon fa-rss %}&nbsp;RSS feeds</h3>
+  </div>
+  <div class="panel-body">
+    <ul>
+      <li><a href="http://feeds.feedburner.com/AHeadFullOfWishes">News and articles</a></li>
+      <li><a href="http://www.fullofwishes.co.uk/podcasts.xml">Podcast</a> | <a href="https://itunes.apple.com/gb/podcast/a-head-full-of-wishes-podcasts/id1119771496?mt=2">iTunes</a></li>
+      <li><a href="http://feeds.feedburner.com/ahfow-upcoming-luna-shows">Upcoming Luna shows</a></li>
+      <li><a href="http://feeds.feedburner.com/ahfow-upcoming-damon-and-naomi-shows">Upcoming Damon & Naomi shows</a></li>
+      <li><a href="http://feeds.feedburner.com/ahfow-upcoming-dean-and-britta-shows">Upcoming Dean & Britta shows</a></li>
+      <li><a href="http://feeds.feedburner.com/ahfow-upcoming-dean-wareham-shows">Upcoming Dean Wareham shows</a></li>
+    </ul>
+  </div>
+</div>
+
+<a class="twitter-timeline" href="https://twitter.com/ahfow" data-widget-id="609132854925262848">Tweets by @ahfow</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>

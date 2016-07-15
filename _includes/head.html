@@ -1,0 +1,71 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title | escape }} - {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncatewords: 50 | escape }}{% else %}{{ page.content | strip_html | truncatewords: 50 | escape }}{% endif %}">
+
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+<!-- social sharing tags -->
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@ahfow">
+<meta name="twitter:creator" content="@grange85">
+<meta property="fb:app_id" content="137187479629913" />
+<meta property="fb:admins" content="grange85"/>
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="{{site.title}}" />
+<meta property="og:title" content="{{page.title | escape}}" />
+<meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncatewords: 50 | escape }}{% else %}{{ page.content | strip_html | truncatewords: 50 | escape }}{% endif %}" />
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+<meta property="og:image" content="{% if page.imageurl %}{{ page.imageurl }}{% else %}{{site.image}}{% endif %}" />
+{% if artist.image %}<meta property="og:image" content="{{artist.image}}" />{% endif %}
+<!-- end social sharing tags -->
+<!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+<script type="text/javascript">
+    window.cookieconsent_options = {
+      "message":"This website uses cookies to ensure you get the best experience on our website",
+      "dismiss":"Got it!",
+      "learnMore":"More info",
+      "link":"http://www.fullofwishes.co.uk/privacy-policy/",
+      "theme":"dark-bottom",
+      "domain": "fullofwishes.co.uk"
+    };
+</script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
+<!-- End Cookie Consent plugin -->
+<script>
+  dataLayer = [{
+{% for category in page.categories %}
+{% case category %}
+{% when 'galaxie 500' %}
+    'page-artist': 'galaxie-500',
+{% when 'luna' %}
+    'page-artist': 'luna',
+{% when 'damon and naomi' %}
+    'page-artist': 'damon-and-naomi',
+{% when 'dean and britta' %}
+    'page-artist': 'dean-and-britta',
+{% when 'dean wareham' %}
+    'page-artist': 'dean-wareham',
+{% else %}
+    'page-category': '{{category | slugify}}',
+{% endcase %}
+{% endfor %}
+  'site' : 'www'
+  }];
+</script>
+</head>
