@@ -13,9 +13,10 @@ img {
     vertical-align: middle;
 }
 
-figure, img {
+figure {
     max-width: 100%;
     height:auto;
+    margin-bottom: $line-height-computed;
 }
 
 figure.aligncenter img, img.aligncenter {
@@ -54,4 +55,4 @@ audio {
     margin: 0;
 }
 
-div.fluid-width-video-wrapper {margin-bottom: $line-height-computed;}
+/* div.fluid-width-video-wrapper {margin-bottom: $line-height-computed;} */
