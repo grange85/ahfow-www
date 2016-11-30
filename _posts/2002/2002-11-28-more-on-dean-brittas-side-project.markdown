@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: More on Dean &amp; Britta's side project
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 34
+wordpress_url: http://www.fullofwishes.co.uk/2002/11/28/more-on-dean-brittas-side-project/
+date: '2002-11-28 00:00:00 +0000'
+date_gmt: '2002-11-28 00:00:00 +0000'
+categories:
+- news
+- dean & britta
+tags: []
+---
+<p>Not really news just a slight filling out on what Dean &amp; Britta are up to garnered (once again) from Tony Visconti's web site - here's the quote..."I am currently working on an album with Dean Wareham and Britta Phillips of Luna. This is a side project for them and they haven't given their splinter group a name yet. The music style is Dream Pop, with lush sonic landscapes and seductive vocals. The songs are divided into self-written and exotic covers."source: http://www.tonyvisconti.com/news/index.htm</p>

@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Video: Dean &amp; Britta - Words You Used to Say'
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 449
+wordpress_url: http://www.fullofwishes.co.uk/2007/02/23/video-dean-britta-words-you-used-to-say/
+date: '2007-02-23 20:03:36 +0000'
+date_gmt: '2007-02-23 20:03:36 +0000'
+categories:
+- dean & britta
+tags: []
+---
+<p>Fantastic video for <a href="http://www.grange85.co.uk/galaxie/index.php?track_id=309">Words You Used To Say</a> from Dean & Britta's <a href="/database/release/back-numbers/">Back Numbers</a> album. Directed by <a href="http://www.swedenmusic.com/">Richard Agerbeek</a></p>
+<div align="center"><figure class="caption "><figcaption class="caption-text"></figcaption></figure></div>

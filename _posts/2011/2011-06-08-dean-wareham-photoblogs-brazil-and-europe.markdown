@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: Dean Wareham photoblogs Brazil and Europe
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 2173
+wordpress_url: http://www.fullofwishes.co.uk/?p=2173
+date: '2011-06-08 13:24:05 +0100'
+date_gmt: '2011-06-08 12:24:05 +0100'
+categories:
+- dean & britta
+- other people's blogs
+tags: []
+---
+<p>Dean Wareham has just <a href="http://www.deanandbritta.com/blog/?p=1190">blogged about Dean & Britta's recent excursions to Brazil and Europe</a> - the blog is accompanied by a stack of pictures and a reappraisal of Nantes from "rainy and ugly" in 1999 to "a jewel" in 2011.<br />
+<figure class="caption aligncenter"><a href="http://www.deanandbritta.com/blog/?p=1190"><img alt="" src="http://www.deanandbritta.com/blog/wp-content/uploads/2011/05/hemawurst1.jpg" title="cake and sausage" width="640" height="386" /></a><figcaption class="caption-text">'The Hemawurst was not the best but the pink dessert was delicious'</figcaption></figure></p>

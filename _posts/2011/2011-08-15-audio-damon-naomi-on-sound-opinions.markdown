@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Audio: Damon & Naomi on Sound Opinions '
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 2194
+wordpress_url: http://www.fullofwishes.co.uk/?p=2194
+date: '2011-08-15 23:04:16 +0100'
+date_gmt: '2011-08-15 22:04:16 +0100'
+categories:
+- damon & naomi
+- audio
+tags: []
+---
+<p>Damon & Naomi were interviewed at length on WBEZ show/podcast <a href="http://www.soundopinions.org/">Sound Opinions</a>. The duo talked at length about their career including discussing the prospects of a Galaxie 500 reunion.</p>
+<p>Naomi:</p>
+<blockquote><p> "I can't imagine ever doing that... the idea now of playing those songs, and even more of playing them with Dean... it just doesn't seem like it would be a very artistically gratifying experience"</p></blockquote>
+<p>Songs performed live were How Do I Say Goodbye, Turn of the Century, Helsinki and A Second Life.</p>
+<p>You can <a href="http://www.soundopinions.org/shownotes/2011/081211/shownotes.html">hear (or download) the complete show</a> or <span class="removed_link" title="http://www.soundopinions.org/archive/2011/august.html#guestdamon">just the music</span> from the Sound Opinions website</p>
+<p><figure class="caption "><figcaption class="caption-text"></figcaption></figure>
+<p><a href="http://vimeo.com/27600990">Damon & Naomi perform 'A Second Life' on Sound Opinions</a> from <a href="http://vimeo.com/wbez">WBEZ</a> on <a href="http://vimeo.com">Vimeo</a>.</p>

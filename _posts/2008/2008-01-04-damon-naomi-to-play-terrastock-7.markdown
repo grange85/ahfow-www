@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Damon & Naomi to play Terrastock 7
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 598
+wordpress_url: http://www.fullofwishes.co.uk/2008/01/04/damon-naomi-to-play-terrastock-7/
+date: '2008-01-04 17:27:15 +0000'
+date_gmt: '2008-01-04 17:27:15 +0000'
+categories:
+- news
+- damon & naomi
+tags: []
+---
+<p>Damon & Naomi have been confirmed on the bill of <a href="http://www.terrascope.co.uk/Terrastock7/main.htm">Terrastock 7</a>  which takes place at the The Mellwood Arts & Entertainment Center, Louisville KY, USA between the 19th and 22nd of June 2008. The actual date of their performance hasn't been confirmed.</p>

@@ -1,0 +1,38 @@
+---
+layout: post
+status: publish
+published: true
+title: We sold our souls for rock and roll
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 4201
+wordpress_url: http://www.fullofwishes.co.uk/?p=4201
+date: '2013-04-26 15:52:31 +0100'
+date_gmt: '2013-04-26 14:52:31 +0100'
+categories:
+- video
+tags: []
+---
+<p>Galaxie 500 sell cars:<br />
+
+{% ahfowvideo "naPtNSN5r-o" "" %}
+
+<a id="more"></a><a id="more-4201"></a><br />
+Luna sell credit cards:<br />
+</p>
+{% ahfowvideo "kQltp3AbhgI" "" %}
+<p>Luna sells smells:<br />
+</p>
+{% ahfowvideo "RP7vNnABiMY" "" %}
+<p>Luna sells credit cards... again (5mins in)<br />
+</p>
+{% ahfowvideo "SxPM0JzXvmQ&start=307" "" %}
+<p>It's OK though because Henry Rollins says so... and I'll not argue!<br />
+</p>
+{% ahfowvideo "s6zVUvmkyvA" "" %}

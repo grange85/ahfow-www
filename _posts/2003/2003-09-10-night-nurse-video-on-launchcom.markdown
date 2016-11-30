@@ -1,0 +1,22 @@
+---
+layout: post
+status: publish
+published: true
+title: Night Nurse video on launch.com
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 315
+wordpress_url: http://www.fullofwishes.co.uk/2003/09/10/night-nurse-video-on-launchcom/
+date: '2003-09-10 00:00:00 +0100'
+date_gmt: '2003-09-10 00:00:00 +0100'
+categories:
+- news
+tags: []
+---
+<p>The video for Dean & Britta's Night Nurse is available online for your delectation at launch.comhttp://launch.yahoo.com/artist/default.asp?artistID=1099380</p>

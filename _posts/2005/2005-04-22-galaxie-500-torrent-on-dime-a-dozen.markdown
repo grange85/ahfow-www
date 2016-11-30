@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Galaxie 500 torrent on Dime-a-dozen
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 124
+wordpress_url: http://www.fullofwishes.co.uk/2005/04/22/galaxie-500-torrent-on-dime-a-dozen/
+date: '2005-04-22 00:00:00 +0100'
+date_gmt: '2005-04-22 00:00:00 +0100'
+categories:
+- news
+- galaxie 500
+tags: []
+---
+<p>Dime-a-dozen (formerly Easytree), has a Galaxie 500 show from 1990 currently on the tracker. Go <a href="http://www.dimeadozen.org/torrents-details.php?id=38137"> here</a> for details. You will need to register to download the show. Read the <a href="http://www.dimeadozen.org/extras-faq.php">Dime-a-dozen FAQ</a> to find out more about bitorrent</p>

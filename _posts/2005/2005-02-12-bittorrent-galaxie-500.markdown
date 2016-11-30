@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Bittorrent: Galaxie 500'
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 118
+wordpress_url: http://www.fullofwishes.co.uk/2005/02/12/bittorrent-galaxie-500/
+date: '2005-02-12 00:00:00 +0000'
+date_gmt: '2005-02-12 00:00:00 +0000'
+categories:
+- news
+- galaxie 500
+tags: []
+---
+<p>Galaxie 500 Maxwells, Hoboken NJ, USAFebruary 24th, 1990<a href="http://www.dimeadozen.org/torrents-details.php?id=27393">Go here for details</a></p>

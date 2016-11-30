@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Greetings from Dean Wareham
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 123
+wordpress_url: http://www.fullofwishes.co.uk/2005/04/15/greetings-from-dean-wareham/
+date: '2005-04-15 22:49:43 +0100'
+date_gmt: '2005-04-15 22:49:43 +0100'
+categories:
+- luna
+- news
+tags: []
+---
+<p>Dean Wareham was kind enough to jot down a few thoughts about the last days of Luna for the Luna's Last Waltz blog - you can check out what he had to say here...http://lunaslastwaltz.blogspot.com/</p>

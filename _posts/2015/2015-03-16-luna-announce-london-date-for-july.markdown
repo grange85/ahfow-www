@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: Luna announce London date for July 
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 13639
+wordpress_url: http://www.fullofwishes.co.uk/?p=13639
+date: '2015-03-16 12:48:04 +0000'
+date_gmt: '2015-03-16 12:48:04 +0000'
+categories:
+- luna
+- news
+tags: []
+---
+<p><img src="http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_2001_b.jpg" class="aligncenter"></p>
+<p>Luna have announced that they're playing in London in July for the first time since January 2005. The show will be at The Garage in Highbury and Islington on the 31st of July.
+<p><br></p>
+<p><a href="http://www.ticketweb.co.uk/event/AJI3107Z">Tickets are on sale now</a>&nbsp;</p>

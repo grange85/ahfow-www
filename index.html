@@ -63,13 +63,12 @@ position: home
 
     {% for post in paginator.posts %}
     {% unless post.tags contains 'pinned' %}
+    {% unless post.draft %}
         <div class="panel panel-default">
             <div class="panel-heading">
                 <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
             </div>
             <div class="panel-body">
-
-
     <div class="row">
         <div class="col-md-12 social">
                         <span class="twitter">
@@ -115,6 +114,7 @@ position: home
         </div>
         </div>
     </div>
+    {% endunless %}
     {% endunless %}
     {% endfor %}
 

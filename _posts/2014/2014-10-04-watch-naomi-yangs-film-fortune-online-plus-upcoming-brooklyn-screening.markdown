@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Watch Naomi Yang's film 'Fortune' online, plus upcoming Brooklyn screening
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 13183
+wordpress_url: http://www.fullofwishes.co.uk/?p=13183
+date: '2014-10-04 00:02:30 +0100'
+date_gmt: '2014-10-03 23:02:30 +0100'
+categories:
+- news
+- damon & naomi
+- fortune
+tags: []
+---
+<p>Naomi Yang's film 'Fortune' is now available to stream on Vimeo. The 30 minute film features a soundtrack of new Damon & Naomi songs accompanying the mysterious and dreamlike images of a man encountering the legacy of his recently deceased father.<br />
+<iframe src="//player.vimeo.com/video/105007573?portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="http://vimeo.com/105007573">Fortune</a> from <a href="http://vimeo.com/naomiyang">Naomi Yang</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p>The film is also getting a screening, with a live accompaniment from Damon & Naomi, at The Body Actualized Center, 143 Troutman St, Brooklyn, New York on 14 October.</p>

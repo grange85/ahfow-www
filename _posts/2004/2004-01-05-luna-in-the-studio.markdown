@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Luna in the studio...
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 60
+wordpress_url: http://www.fullofwishes.co.uk/2004/01/05/luna-in-the-studio/
+date: '2004-01-05 00:00:00 +0000'
+date_gmt: '2004-01-05 00:00:00 +0000'
+categories:
+- luna
+- news
+tags: []
+---
+<p>Britta's website has had (another) overhaul and contains the news that Luna were in the studio just before Christmas to start recording their next album. They are working with Bryce Goggin who has previously worked with Pavement and The Lemonheads (amongst many others - check AMG).SOURCE: http://www.brittaphillips.com/</p>

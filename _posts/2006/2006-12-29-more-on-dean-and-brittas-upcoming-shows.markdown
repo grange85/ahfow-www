@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: More on Dean & Britta's upcoming shows
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 243
+wordpress_url: http://www.fullofwishes.co.uk/2006/12/29/more-on-dean-and-brittas-upcoming-shows/
+date: '2006-12-29 22:55:00 +0000'
+date_gmt: '2006-12-29 22:55:00 +0000'
+categories:
+- news
+- dean & britta
+tags: []
+---
+<p>Britta posted to the Galaxie 500 Mailing List with some information about the upcoming shows.</p>
+<blockquote><p>We'll be playing with Sean McCaul on vibes & Matt Johnson on drums for the first Mo Pitkins show on January 9th.  Lara Meyerattken will join us on keys (and various other instruments) along with  Matt Johnson at the 2nd Mo Pitkins on Jan. 23rd & Union Hall on the 25th. Mo Pitkins is a very small sit-down place, so it will be on the quieter side, half electric & half acoustic guitar, probably.</p></blockquote>
+<p>A US tour will start in the first week in March.</p>

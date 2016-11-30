@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Dean Wareham off to Spain to promote Postales Negras
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 3478
+wordpress_url: http://www.fullofwishes.co.uk/?p=3478
+date: '2012-11-22 14:38:54 +0000'
+date_gmt: '2012-11-22 14:38:54 +0000'
+categories:
+- news
+- dean wareham
+tags: []
+---
+<p>Dean Wareham will be in Spain this weekend promoting the release of Postales Negras, the Spanish translation of Black Postcards. He'll be at FNAC, Calloa, Madrid on Friday evening at 19:30 and at Botiga FNAC El Triangle, in Barcelona on Saturday evening at 19:00.</p>
+<p>He <a href="http://www.facebook.com/DeanWareham">posted on Facebook</a> that he'll be</p>
+<blockquote><p>Reading and playing a few songs</p></blockquote>
+<p><img alt="" src="http://media.fullofwishes.co.uk/05-dean_wareham/pictures/postales-negras-fnac-450.jpg" title="Postales Negras promo poster" class="aligncenter" width="450" height="649" /></p>
+<p><iframe class="aligncenter" width="560" height="315" src="http://www.youtube.com/embed/zcL9T2Fh8Os" frameborder="0" allowfullscreen></iframe></p>

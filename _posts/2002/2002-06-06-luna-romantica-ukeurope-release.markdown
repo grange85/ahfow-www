@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: LUNA - Romantica UK/Europe release
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 23
+wordpress_url: http://www.fullofwishes.co.uk/2002/06/06/luna-romantica-ukeurope-release/
+date: '2002-06-06 00:00:00 +0100'
+date_gmt: '2002-06-06 00:00:00 +0100'
+categories:
+- luna
+- news
+tags: []
+---
+<p>It seems that Romantica will be getting a UK (and I assume European) release through Beggars Banquet - release date is set for Monday 10 June.source: http://www.beggars.com/artists/luna/index.htm</p>

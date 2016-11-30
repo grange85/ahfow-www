@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Galaxie 500 vinyl available now
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 1351
+wordpress_url: http://www.fullofwishes.co.uk/?p=1351
+date: '2009-06-29 07:24:48 +0100'
+date_gmt: '2009-06-29 07:24:48 +0100'
+categories:
+- news
+- galaxie 500
+tags: []
+---
+<p>The three Galaxie 500 albums are ow available to order on vinyl. <a href="http://web.archive.org/web/20140517124459/http://fierybreeze.com/">Visit the official store</a> where you can order various packages of vinyl and/or high quality downloads (and T-shirts)</p>
+<p>You can also download Fourth of July for free</p>
+<div style="text-align:center;"><figure class="caption "><figcaption class="caption-text"></figcaption></figure></div>

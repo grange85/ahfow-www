@@ -1,0 +1,37 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Friday recycling: Damon & Naomi covering Bob Dylan'
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 4111
+wordpress_url: http://www.fullofwishes.co.uk/?p=4111
+date: '2013-04-05 12:27:35 +0100'
+date_gmt: '2013-04-05 11:27:35 +0100'
+categories:
+- damon & naomi
+- audio
+tags: []
+---
+<p><a href="http://www.flickr.com/photos/fakeplasticgirl/4888247382/" title="Damon &amp; Naomi @ OFF Festival by bildungsr0man, on Flickr"><img class="aligncenter" src="http://farm5.staticflickr.com/4117/4888247382_882fa69afe_z.jpg" width="640" height="427" alt="Damon &amp; Naomi @ OFF Festival"></a></p>
+<p>Damon & Naomi are now in Japan on their way for their first ever tour down under - <a href="http://damonandnaomi.com/tours/">full details of their upcoming shows can be found on their website</a>. In honour of that here's a collection of Damon & Naomi dipping into Bob Dylan's catalogue</p>
+
+{% ahfowaudio "http://media.fullofwishes.co.uk/03-damon_and_naomi/audio/09_Damon_Naomi_I%20Shall%20Be%20Released.mp3" "Damon & Naomi with Tom Rapp - I Shall Be Released" %}
+
+<p>Damon & Naomi with Batoh and Kurihara - It's All Over Now Baby Blue</p>
+{% ahfowvideo "NOifMqYXta4" "" %}
+
+<p>Damon & Naomi - <a href="http://en.blogotheque.net/2007/05/21/damon-and-naomi-en/">Take Away Show</a> - I Wonder If / Oh Sister</p>
+<iframe src="https://player.vimeo.com/video/11186091" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<p>And here's a clip of Damon & Naomi playing Oh Sister in London in 2003</p>
+{% ahfowvideo "e1UTWNo1pa4" "" %}
+<p>And here's a poster from when Bob Dylan made his first trip to Australia in 1966<br />
+<a href="http://www.flickr.com/photos/30628061@N03/3000999404/" title="Bob Dylan, Australia Poster 1966 by misstexas1961, on Flickr"><img class="aligncenter" src="http://farm4.staticflickr.com/3192/3000999404_0671fb05d6_z.jpg?zz=1" width="465" height="640" alt="Bob Dylan, Australia Poster 1966"></a></p>

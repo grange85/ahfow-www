@@ -1,11 +1,4 @@
 # Remove content
-_posts
-_data
-_drafts
-htaccess
-robots.txt
-_config.yml
-
 
 # Created by https://www.gitignore.io/api/jekyll,linux,sass,macos,node,ruby
 

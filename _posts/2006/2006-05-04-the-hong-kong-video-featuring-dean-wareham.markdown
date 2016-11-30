@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: The Hong Kong video featuring Dean Wareham
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 406
+wordpress_url: http://www.fullofwishes.co.uk/2006/05/04/the-hong-kong-video-featuring-dean-wareham/
+date: '2006-05-04 13:47:00 +0100'
+date_gmt: '2006-05-04 13:47:00 +0100'
+categories:
+- dean wareham
+tags: []
+---
+<p><img src="http://media.fullofwishes.co.uk/05-dean_wareham/pictures/dw_tongue-tied_05.jpg" width="300" height="181"/><br/>Dean Wareham appeared as Clyde Barrow in the video for "Tongue Tied" by the band The Hong Kong. You can see the entire video at <span class="removed_link" title="http://www.etherdrag.com/thehongkong/news.html">their website</span> and you can see a bunch of <a href="http://www.grange85.co.uk/galaxie/index.php?type=2&id=845">framegrabs from the video here</a></p>
+<p><figure class="caption "><figcaption class="caption-text"></figcaption></figure></p>

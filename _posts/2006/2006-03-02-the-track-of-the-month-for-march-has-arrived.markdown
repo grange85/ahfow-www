@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: The track of the month for March has arrived
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 170
+wordpress_url: http://www.fullofwishes.co.uk/2006/03/02/the-track-of-the-month-for-march-has-arrived/
+date: '2006-03-02 23:11:43 +0000'
+date_gmt: '2006-03-02 23:11:43 +0000'
+categories:
+- news
+- damon & naomi
+tags: []
+---
+<p>A little bit late but you can now get hold of another rarity for this months featured download.</p>
+<p>Magnetophone were a short-lived post-Galaxie 500 band featuring Damon & Naomi - they recorded some demos but nothing was officially released - this months track is "Laika" - a track that would later be re-recorded for the first Damon & Naomi album</p>
+<p><a href="http://www.grange85.co.uk/galaxie/index.php?article_id=132">Full details</a></p>

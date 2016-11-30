@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Luna's European &quot;tour&quot;
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 103
+wordpress_url: http://www.fullofwishes.co.uk/2004/12/03/lunas-european-tour/
+date: '2004-12-03 00:00:00 +0000'
+date_gmt: '2004-12-03 00:00:00 +0000'
+categories:
+- luna
+- news
+tags: []
+---
+<p>It seems Luna's trek to Europe will not be as extensive as we'd hoped. They have five dates scheduled in Spain and one in London. It seems that outside of Spain and London it's hard for the band to make (or not lose too much) money on a European tour.source: britta on the Galaxie 500 Mailing list</p>

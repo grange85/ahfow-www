@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Dean & Britta to play at the opening of "Warhol Live" in Pittsburgh
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 1239
+wordpress_url: http://www.fullofwishes.co.uk/?p=1239
+date: '2009-05-11 14:39:56 +0100'
+date_gmt: '2009-05-11 14:39:56 +0100'
+categories:
+- news
+- dean & britta
+tags: []
+---
+<p>Dean & Britta will be <span class="removed_link" title="http://www.warhol.org/calendar/events_detail.php?eventID=1585&amp;dateYear=2009&amp;dateMonth=6&amp;dateDate=13">performing at the launch of the Warhol Museum's "Warhol Live" exhibition</span> in Pittsburgh. The show will take place on 13 June and tickets cost $10.</p>

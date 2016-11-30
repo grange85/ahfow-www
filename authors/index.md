@@ -26,12 +26,14 @@ tags: []
 <div class="table-responsive">
 	<table class="table table-striped">
 		{% for post in site.posts %}
+		 {% unless post.draft %}
 		  {% if post.author.display_name == a.display_name %}
 		<tr>
 			<th>{{ post.date | date: "%-d %B %Y" }}</th>
 			<td><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
 		</tr>
 		  {% endif %}
+		 {% endunless %}
 		{% endfor %}
 	</table>
 {% endfor %}

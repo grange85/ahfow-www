@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: Best of, Lunafied and DVD mention on Pitchfork
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 212
+wordpress_url: http://www.fullofwishes.co.uk/2006/06/15/best-of-lunafied-and-dvd-mention-on-pitchfork/
+date: '2006-06-15 16:53:53 +0100'
+date_gmt: '2006-06-15 16:53:53 +0100'
+categories:
+- luna
+- news
+tags: []
+---
+<p>Pitchfork has a little <a href="http://web.archive.org/web/20060827165409/http://www.pitchforkmedia.com:80/article/news/36936/Luna_Luna_Remembered_on_DVD_Comp_Rarities_Set">news item</a> highlighting all the forthcoming Luna releases.</p>
+<blockquote><p>Those pining for fireworks can carouse now, however, because on Tuesday, June 20, Rhino Records will be picking up the slack big time by giving Luna a belated send-off worthy of their career.</p></blockquote>

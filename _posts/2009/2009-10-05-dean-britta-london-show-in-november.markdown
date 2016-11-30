@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Dean & Britta London show in November
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 1645
+wordpress_url: http://www.fullofwishes.co.uk/?p=1645
+date: '2009-10-05 09:55:24 +0100'
+date_gmt: '2009-10-05 09:55:24 +0100'
+categories:
+- news
+- dean & britta
+tags: []
+---
+<p><a href="/wp/wp-content/uploads/2009/10/DeanBritta_flyer.jpg"><img src="http://www.fullofwishes.co.uk/wp/wp-content/uploads/2009/10/DeanBritta_flyer-212x300.jpg" alt="Dean&amp;Britta_flyer" title="Dean&amp;Britta_flyer" width="212" height="300" class="alignright size-medium wp-image-1644" /></a>
+<p>Dean & Britta are playing at the very lovely <a href="http://www.stgilesonline.org/">St Giles-in-the-Fields church</a> in London on Wednesday the 18th of November. The show is being put on by <a href="http://www.soniccathedral.co.uk/">Sonic Cathedral</a> and tickets are on sale now through <a href="http://www.wegottickets.com/event/61068">WeGotTickets for £12</a>.</p>
+<p>This will be a regular Dean & Britta show (not 13 Most Beautiful). I'll be there... you should be too.</p>

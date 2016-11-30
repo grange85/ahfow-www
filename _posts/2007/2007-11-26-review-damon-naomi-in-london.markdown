@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Review: Damon & Naomi in London'
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 576
+wordpress_url: http://www.fullofwishes.co.uk/2007/11/26/review-damon-naomi-in-london/
+date: '2007-11-26 11:50:27 +0000'
+date_gmt: '2007-11-26 11:50:27 +0000'
+categories:
+- damon & naomi
+tags: []
+---
+<div class="imagebox-a"><a href="http://www.flickr.com/photos/grange85/2064154592/" title="Damon &amp; Naomi by grange85, on Flickr"><img src="http://farm3.static.flickr.com/2033/2064154592_1432da0972_m.jpg" width="240" height="159" alt="Damon &amp; Naomi" /></a></div>
+<p>The Scala is a converted cinema near London's King's Cross station, we arrived about 7:30 after a long haul through the miserable traffic on London's westway. There were three bands on the bill with <a href="http://www.damonandnaomi.com">Damon & Naomi</a> up second and penciled in for a meagre 45 minute set. The venue was as expected far from packed and I took up my position to the right of the stage.</p>
+<p><a id="more"></a><a id="more-576"></a>
+<p>Shortly after my arrival six folk wandered on stage and started tuning/playing/retuning their instruments each with little or no care for what the other five were up to...this was Sunburned Hand of Man and this was their set...after about 10 minutes of this conflicting cacophony things started to pull together and with a (nearly) regular rhythm and (very) occasional hints at melody the sound they made became considerably more interesting but having wasted a third of their 30 minute slot "warming up" it seemed that they'd barely got going when they had to finish.</p>
+<div class="imagebox-a"><a href="http://www.flickr.com/photos/grange85/2064152452/" title="Kurihara by grange85, on Flickr"><img src="http://farm3.static.flickr.com/2196/2064152452_0359659125_m.jpg" width="159" height="240" alt="Kurihara" /></a></div>
+<p>Damon & Naomi arrived for their set accompanied by Bhob Rainey on sax and Michio Kurihara on guitar. The set opened with the very beautiful <a href="http://db.fullofwishes.co.uk/track/326/">Lilac Land</a> from their newest album <a href="/database/release/within-these-walls-release/">Within These Walls</a>, the rest of the set was mostly drawn from that and their previous album <a href="/database/release/the-earth-is-blue-release/">The Earth is Blue</a>, with only one foray into their more distant past - <a href="http://db.fullofwishes.co.uk/track/152/">Eye of The Storm</a> from <a href="/database/release/playback-singers/">Playback Singers</a>. If anything the new songs became more engaging in the less produced live setting - most notably the astounding set closer <a href="http://db.fullofwishes.co.uk/track/332/">Stars Never Fade</a> which saw Kurihara stunningly let loose. Kurihara for the most part stood in the dark and appeared to be playing entirely for his own enjoyment - it was almost as if he barely noticed that he was on a stage, he spent the evening looking down and caressing gorgeous sounds out of his guitar with a mix of fingers and e-bow.</p>
+<p>Damon during the set had a couple of bouts rambling banter which would have been fine except I knew they had only 45 minutes and I'd rather have heard an extra song than the lengthy explanation of the <a href="http://www2.ljworld.com/news/2006/feb/21/turins_history_turns_holy_hellish/?sports">The Black Magic Triangle</a> or the translation of <a href="http://db.fullofwishes.co.uk/track/293/">Araca Azul</a>. But we got our 45 minutes and nothing more, and all too soon it was over. I had a brief chat with Naomi about playing to metalheads in the US south and shook hands with Damon and that was it.</p>
+<p>Headliners Howlin' Rain were a rock band like many a 70s US rock band only even more rock than that. I quite enjoyed it for 15 minutes or so but by half an hour I'd had enough and wandered out into the King's Cross night and hunted down my lift home - who'd given up on Howlin' Rain even before I did.</p>
+<p>Another splendid Damon & Naomi performance - it might even have been among their best London shows if only they had played longer. Next time a headline date in a cosy folk-club would be good.</p>

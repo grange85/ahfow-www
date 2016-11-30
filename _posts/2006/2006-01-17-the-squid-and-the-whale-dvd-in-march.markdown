@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: The Squid and The Whale DVD in March
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 161
+wordpress_url: http://www.fullofwishes.co.uk/2006/01/17/the-squid-and-the-whale-dvd-in-march/
+date: '2006-01-17 20:06:16 +0000'
+date_gmt: '2006-01-17 20:06:16 +0000'
+categories:
+- news
+- dean & britta
+tags: []
+---
+<p>The essential DVD website <a href="http://www.dvdtimes.co.uk/">DVD Times</a> is reporting that The Squid and The Whale will be <a href="http://www.dvdtimes.co.uk/content.php?contentid=59984">out on (region 1) DVD</a> on the 26 March. The site also has artwork and a list of the DVD extras.</p>
+<p>Dean Wareham and Britta Phillips supplied music for the Noah Baumbach film (<a href="http://www.imdb.com/title/tt0367089/combined">IMDB</a>).</p>

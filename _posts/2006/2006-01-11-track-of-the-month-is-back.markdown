@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Track of the Month is back
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 160
+wordpress_url: http://www.fullofwishes.co.uk/2006/01/11/track-of-the-month-is-back/
+date: '2006-01-11 00:37:06 +0000'
+date_gmt: '2006-01-11 00:37:06 +0000'
+categories:
+- news
+- galaxie 500
+tags: []
+---
+<p>After a year on hiatus the Track of the Month feature of <a href="http://www.fullofwishes.co.uk">A Head Full of Wishes</a> is back. January's rarity is an unreleased Galaxie 500 track, <a href="/2006/01/01/audio-galaxie-500---on-the-sofa/">On The Sofa</a>, from the <a href="/database/release/demo-cassette-1/">1987 demo cassette</a>.</p>

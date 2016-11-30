@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: Galaxie 500 interviewed in Ptolemaic Terrascope in 1990
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 2230
+wordpress_url: http://www.fullofwishes.co.uk/2011/09/30/galaxie-500-interviewed-in-ptolemaic-terrascope-in-1990/
+date: '2011-09-30 23:39:00 +0100'
+date_gmt: '2011-09-30 22:39:00 +0100'
+categories:
+- miscellaneous
+- galaxie 500
+tags: []
+---
+<p>I've just been pointed towards this lovely interview with Galaxie 500 from a 1990 issue of Ptolemaic Terrascope</p>
+<blockquote><p>PT: You're not a very visual group live. You all stand still and look serious.</p>
+<p>DW: That's terror. But if you don't feel like jumping, why jump? It's hard to be charming every night.</p>
+<p>NY: People used to ask me why don't you smile? Why should I though? There's nothing especially cheerful going on up there!</p>
+</blockquote>
+<p><a href="http://www.terrascope.co.uk/MyBackPages/Galaxie%20500.htm">Read the whole interview from the Terrascope archives</a>.</p>

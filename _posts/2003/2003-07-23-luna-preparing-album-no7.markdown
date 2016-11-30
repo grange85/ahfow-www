@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Luna preparing album No.7
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 47
+wordpress_url: http://www.fullofwishes.co.uk/2003/07/23/luna-preparing-album-no7/
+date: '2003-07-23 00:00:00 +0100'
+date_gmt: '2003-07-23 00:00:00 +0100'
+categories:
+- luna
+- news
+tags: []
+---
+<p>One of the snippets of genuine news garnered from the revamped fuzzywuzzy is that the band are writing/preparing material for a new album to be recorded in the autumn. The actual quote is "At the moment Luna are writing songs for their seventh studio album, as yet untitled"source: http://www.fuzzywuzzy.com</p>

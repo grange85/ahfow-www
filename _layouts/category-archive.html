@@ -12,10 +12,12 @@
 			<div class="table-responsive">
 				<table class="table table-striped">
 					{% for post in page.posts %}
+					{% unless post.draft %}
 					<tr>
 						<th>{{ post.date | date: "%-d %B %Y" }}</th>
 						<td><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
 					</tr>
+					{% endunless %}
 					{% endfor %}
 				</table>
 			</div>

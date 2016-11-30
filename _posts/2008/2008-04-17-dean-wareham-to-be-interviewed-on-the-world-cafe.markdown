@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Dean Wareham to be interviewed on the World Cafe
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 660
+wordpress_url: http://www.fullofwishes.co.uk/?p=660
+date: '2008-04-17 16:35:20 +0100'
+date_gmt: '2008-04-17 16:35:20 +0100'
+categories:
+- news
+- dean wareham
+tags: []
+---
+<p>Dean will talking with host David Dye about <a href="http://www.amazon.com/dp/1594201552?tag=aheadfullofwi-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=1594201552&adid=1E9GRED7ADRBBJ2TMKWV&">Black Postcards</a> in the second hour of the 8 May edition of NPR's World Cafe. You can find out when it will be broadcast by your <span class="removed_link" title="http://www.npr.org/templates/stations/schedule/?prgId=39">local public radio station on the NPR website</span> or you can listen to the <span class="removed_link" title="http://www.xpn.org/listen_live/listen.php">WXPN stream</span> at 2pm Eastern Standard Time (<a href="http://www.timeanddate.com/worldclock/fixedtime.html?month=5&day=8&year=2008&hour=14&min=0&sec=0&p1=179">what time is that where I live?</a>). Hopefully it'll be archived and/or podcast as well.</p>

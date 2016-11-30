@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Video: Damon & Naomi''s Japanese Scrapbook'
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 2301
+wordpress_url: http://www.fullofwishes.co.uk/?p=2301
+date: '2012-02-02 16:48:04 +0000'
+date_gmt: '2012-02-02 16:48:04 +0000'
+categories:
+- damon & naomi
+tags: []
+---
+<p><a href="http://www.factorytwentyfive.com/ftf2/">Factory 25</a> have made available on Vimeo Naomi Yang's "Japanese Scrapbook" video that was previously only available on the <a href="/database/release/1001-nights/">1001 Nights DVD</a>. The video is Naomi's record of Damon & Naomi's tour of Japan in 2002.</p>
+<p><iframe class="aligncenter" src="http://player.vimeo.com/video/36040971?title=0&amp;byline=0&amp;portrait=0" width="400" height="295" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<p><a href="http://vimeo.com/36040971">Japanese Scrapbook by Naomi Yang with Damon & Naomi and Ghost</a> from <a href="http://vimeo.com/factory25">factory twenty five</a> on <a href="http://vimeo.com">Vimeo</a>.</p>

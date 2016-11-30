@@ -1,0 +1,22 @@
+---
+layout: post
+status: publish
+published: true
+title: John Peel (1939 - 2004)
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 321
+wordpress_url: http://www.fullofwishes.co.uk/2004/10/28/john-peel-1939-2004/
+date: '2004-10-28 14:34:00 +0100'
+date_gmt: '2004-10-28 14:34:00 +0100'
+categories:
+- news
+tags: []
+---
+<p>The great man died - I'll miss him. He's been a part of my life for  20+ years. Knowing that he was around was reassuring even if there were times when I drifted away from listening to his show.Here's some songs from relevant Peel Sessions, enjoy them...Galaxie 500 - Submission http://www.fullofwishes.info/galaxie/index.php?article_id=66Galaxie 500 - Moonshothttp://www.fullofwishes.info/galaxie/index.php?article_id=85Luna - Crazy Peoplehttp://www.fullofwishes.info/galaxie/index.php?article_id=42</p>

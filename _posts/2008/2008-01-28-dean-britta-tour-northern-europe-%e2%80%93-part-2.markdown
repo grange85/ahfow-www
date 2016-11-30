@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Dean & Britta tour Northern Europe – Part 2
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 605
+wordpress_url: http://www.fullofwishes.co.uk/2008/01/28/dean-britta-tour-northern-europe-%e2%80%93-part-2/
+date: '2008-01-28 11:18:00 +0000'
+date_gmt: '2008-01-28 11:18:00 +0000'
+categories:
+- news
+- dean & britta
+- dean wareham
+tags: []
+---
+<p>Dean has just posted the <a href="http://www.deanandbritta.com/blog/?p=24">second part of his European tour diary</a> to the official blog...</p>
+<blockquote><p>We took a scenic drive through Berlin, through the Tiergarten, by the Siegesäule, past the Rathaus and along Unter Den Linden, rather than driving directly to our hotel in the eastern part of the city. Our GPS device kept yelling at me to turn around, make a U-turn, or take the next left. Then she (we had programmed her to speak as a German woman) fell strangely quiet, as if annoyed at me for repeatedly ignoring her.</p></blockquote>

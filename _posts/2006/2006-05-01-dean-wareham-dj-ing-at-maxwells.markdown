@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Dean Wareham DJ-ing at Maxwells
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 197
+wordpress_url: http://www.fullofwishes.co.uk/2006/05/01/dean-wareham-dj-ing-at-maxwells/
+date: '2006-05-01 12:57:21 +0100'
+date_gmt: '2006-05-01 12:57:21 +0100'
+categories:
+- news
+- dean wareham
+tags: []
+---
+<p>Dean Wareham will be appearing at <a href="http://www.maxwellsnj.com/">Maxwell's</a> "Turntable Tuesday" in Hoboken, NJ on the 16 May - free entrance from 9pm</p>

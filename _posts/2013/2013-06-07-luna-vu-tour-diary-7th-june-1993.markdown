@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: Luna / VU tour diary – 7 June 1993
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 3873
+wordpress_url: http://www.fullofwishes.co.uk/?p=3873
+date: '2013-06-07 12:30:53 +0100'
+date_gmt: '2013-06-07 11:30:53 +0100'
+categories:
+- luna
+- velvet underground tour diary
+tags: []
+---
+<blockquote><strong>7 June:</strong><br />
+Amsterdam, coffee shops, Chokomel. It's good to be in Amsterdam</p></blockquote>
+<p class="text-muted">I had to look it up:</p>
+
+<figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/yoyental/913008434/" title="Untitled"><img src="https://c3.staticflickr.com/2/1278/913008434_9b2dc78dba_o.jpg" width="800" height="536" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></figure>
+
+<p class="text-muted">In April 1993 Luna were invited to open for The Velvet Underground on their reunion tour around Europe. Dean Wareham kept a diary of the tour which was published in the November 1993 issue of Alternative Press, I've just lifted that article and chopped it up into days and will post it here over the coming days - all without permission - if anyone objects give me a shout.</p>

@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Dean & Britta showtimes for NYC and Brooklyn
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 616
+wordpress_url: http://www.fullofwishes.co.uk/2008/02/28/dean-britta-showtimes-for-nyc-and-brooklyn/
+date: '2008-02-28 19:42:32 +0000'
+date_gmt: '2008-02-28 19:42:32 +0000'
+categories:
+- news
+- dean & britta
+tags: []
+---
+<p>As Dean & Britta and Keren Ann have been alternating who comes on first Britta has clarified just what time they'll be hitting the stage for their shows on Friday and Saturday...</p>
+<blockquote><p>There has been a little confusion about show times on this tour since we alternate who headlines every night. So.... we are going on last at the Music Hall of Williamsburg. Our show starts at 10:20p.m.<br />
+And we are going on first at the Bowery Ballroom. Our show time is 9p.m. sharp!</p></blockquote>

@@ -16,7 +16,7 @@ wordpress_url: http://www.fullofwishes.co.uk/1991/05/04/galaxie-500-split/
 date: '1991-05-04 00:00:00 +0100'
 date_gmt: '1991-05-04 00:00:00 +0100'
 categories:
-- Galaxie 500
+- galaxie 500
 tags: []
 ---
 <p><img src="http://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500_split.jpg" width="253" height="535" alt="newspaper cutting" align="right"/>

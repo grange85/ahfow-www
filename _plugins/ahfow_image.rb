@@ -49,7 +49,7 @@ eos
       if ahfowimage_caption.empty?
         "<figure class=\"caption aligncenter\"><img src=\"#{ahfowimage_url}\" /></figure>"
       else
-        "<figure class=\"caption aligncenter\"><img src=\"#{ahfowimage_url}\" /><figcaption class=\"caption-text\">#{ahfowimage_caption}</figcaption></figure>"
+        "<figure class=\"caption aligncenter\"><img src=\"#{ahfowimage_url}\" alt=\"#{ahfowimage_caption}\" /><figcaption class=\"caption-text\">#{ahfowimage_caption}</figcaption></figure>"
       end
     end
   end

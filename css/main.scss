@@ -41,3 +41,12 @@ $grid-float-breakpoint: 992px;
 .rss-icon{
 	color: #ff6600;
 }
+
+article a:link {
+	border-bottom: 1px dashed;
+}
+
+article a:hover {
+	text-decoration:none;
+	border-bottom: 1px solid;
+}

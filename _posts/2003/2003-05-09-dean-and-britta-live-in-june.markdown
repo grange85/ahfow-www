@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Dean & Britta live in June
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 43
+wordpress_url: http://www.fullofwishes.co.uk/2003/05/09/dean-and-britta-live-in-june/
+date: '2003-05-09 00:00:00 +0100'
+date_gmt: '2003-05-09 00:00:00 +0100'
+categories:
+- news
+- dean & britta
+tags: []
+---
+<p>Dean & Britta's side project album L'Avventura will be released by Jetset on the 3rd of June. Its release will be followed later that month by a jaunt round the US playing a few live dates, with Dean & Britta accompanied by Lara Gray on keyboards and Ani Cordero on drums.source: http://www.deanandbritta.com</p>

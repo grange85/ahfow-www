@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Video: Luna - Season of the Witch'
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 426
+wordpress_url: http://www.fullofwishes.co.uk/2006/08/31/video-luna-season-of-the-witch/
+date: '2006-08-31 21:16:43 +0100'
+date_gmt: '2006-08-31 21:16:43 +0100'
+categories:
+- luna
+tags: []
+---
+<div align="center"><figure class="caption "><figcaption class="caption-text"></figcaption></figure></div>
+<p>Promo video for Season of the Witch</p>

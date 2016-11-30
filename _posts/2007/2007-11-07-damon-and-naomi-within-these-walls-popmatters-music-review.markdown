@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: Damon & Naomi - Within These Walls - PopMatters Music Review
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 551
+wordpress_url: http://www.fullofwishes.co.uk/2007/11/07/damon-and-naomi-within-these-walls-popmatters-music-review/
+date: '2007-11-07 11:58:43 +0000'
+date_gmt: '2007-11-07 11:58:43 +0000'
+categories:
+- news
+- damon & naomi
+tags: []
+---
+<p>Popmatters has an excellent in depth review of Damon & Naomi's Within These Walls...</p>
+<blockquote><p>For an album that musically emulates a moment of stillness preceding potential utter devastation, it manages a surprising amount of diversity. The strings, horns, and Kurihara’s guitar are part of this, as their appearances are carefully arranged to maximize the musical and emotional effect. But Within These Walls also includes enough musical passages that feel absolutely hopeful. The brighter passages lean against the bleakest ones, creating a balance that makes the album stronger.<br/><em><a href="http://www.popmatters.com/pm/music/reviews/50532/damon-and-naomi-within-these-walls/">Damon & Naomi: Within These Walls - PopMatters Music Review</a></em></p></blockquote>

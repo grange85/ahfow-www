@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Dean & Britta to release soundtrack album for Mistress America
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 13852
+wordpress_url: http://www.fullofwishes.co.uk/?p=13852
+date: '2015-07-17 23:56:37 +0100'
+date_gmt: '2015-07-17 22:56:37 +0100'
+categories:
+- news
+- dean & britta
+- audio
+tags: []
+---
+<p><figure class="caption aligncenter"><img src="http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-mistress-america.jpg" width="500" height="500" class /><figcaption class="caption-text"> Mistress Ameirica: Original Motion Picture Soundtrack</figcaption></figure>
+<p><a href="http://db.fullofwishes.co.uk/dean-and-britta/releases/dean-and-britta-mistress-america.html">Dean Wareham and Britta Phillips' soundtrack</a> for the upcoming Noah Baumbach film <a href="http://www.imdb.com/title/tt2872462/">Mistress America</a> will be released by <a href="http://milanrecords.com/">Milan Records</a> in August when the film gets it's general release.</p>
+<p>Dean & Britta previously scored Baumbach's <a href="http://db.fullofwishes.co.uk/dean-and-britta/releases/dean-and-britta-the-squid-and-the-whale.html">The Squid and the Whale</a>, and Dean has been involved in most of his films in some form or other.</p>
+<p><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/213483539&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></p>

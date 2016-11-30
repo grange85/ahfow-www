@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Damon & Naomi back in London with Richard Youngs in January
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 3450
+wordpress_url: http://www.fullofwishes.co.uk/?p=3450
+date: '2012-11-07 14:17:01 +0000'
+date_gmt: '2012-11-07 14:17:01 +0000'
+categories:
+- news
+- damon & naomi
+tags: []
+---
+<p>Damon & Naomi will be in London on 26 January supproting Richard Youngs at <a href="http://www.cafeoto.co.uk/">Cafe Oto in Dalston</a>. As last time Damon will also be on drumming duty with Mr Youngs. No word as yet on any other dates while they're on this side of the pond.</p>
+<p><a href="http://www.wegottickets.com/event/193478">Tickets can be bought for £8.50 from wegottickets</a>.</p>
+<p><a href="http://www.flickr.com/photos/tremandy/6583613021/" title="Richard Youngs by Eleonora Birardi, on Flickr"><img class="aligncenter" src="http://farm8.staticflickr.com/7156/6583613021_07fb9259b6_z.jpg" width="640" height="427" alt="Richard Youngs"></a></p>

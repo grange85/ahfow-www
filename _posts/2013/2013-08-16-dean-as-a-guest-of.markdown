@@ -1,0 +1,47 @@
+---
+layout: post
+status: publish
+published: true
+title: Dean as a guest of...
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 4578
+wordpress_url: http://www.fullofwishes.co.uk/?p=4578
+date: '2013-08-16 13:53:14 +0100'
+date_gmt: '2013-08-16 12:53:14 +0100'
+categories:
+- dean wareham
+- video
+- audio
+tags: []
+---
+<p><figure class="caption aligncenter"><img src="http://media.fullofwishes.co.uk/05-dean_wareham/pictures/pastelsgroop.jpg" width="580" height="587" class /><figcaption class="caption-text"> Dean as a guest of The Pastels</figcaption></figure>
+Later this month Dean Wareham will be releasing a <a href="/database/release/love-is-colder-than-death-she-went-walking-in-the-rain/">solo single</a> on fab indie <a href="http://www.soniccathedral.co.uk/">Sonic Cathedral</a> - I think this is his first solo release since the Anestheisa single released between Galaxie 500 and Luna (obviously there are <a href="/2013/08/07/originals-hey-you-by-pink-floyd-covered-by-dean-wareham/">minor exceptions</a>). This has created a minor headache for me in that the <span class="removed_link" title="http://db.fullofwishes.co.uk/database/discography/dean_wareham">Dean Wareham section of the discography</span> had nicely become a repository for Dean's appearances on other folks records. It was never comprehensive but caught, I think, most of his dabbling elsewhere.</p>
+<p>While I'm pondering just how I cure my minor headache here are a few of those appearances...</p>
+<p>Dean as a guest of... Angel Corpus Christi - Je T'aime / I Wanna Boogie With You<br />
+</p>
+{% ahfowvideo "WNvzfy8zT44" "" %}
+<p><!--more Plenty more after the break...--></p>
+<p>Dean as a guest of... The Sixths - Falling Out of Love With You<br />
+</p>
+{% ahfowvideo "Ephn8t-fU48" "" %}
+<p>Dean as a guest of... The Pastels - Rough Riders<br />
+</p>
+{% ahfowvideo "Qyu7e63psqE" "" %}
+<p>Dean as a guest of... Füxa - Cheree<br />
+</p>
+{% ahfowvideo "Ug55Cs2xxZM" "" %}
+
+{% ahfowaudio "http://media.fullofwishes.co.uk/05-dean_wareham/audio/14_Shapir-O%27Rama_She%27s%20A%20Beacon.mp3" "Shapir O'Rama - She's a Beacon" %}
+
+<p><figure class="caption aligncenter"><a href="http://www.flickr.com/photos/r-e-c-e-i-v-e-d/3504815221/"><img src="http://farm4.staticflickr.com/3618/3504815221_5590ed297d.jpg" width="500" height="281" class /></a><figcaption class="caption-text"> Dean as a guest of Cheval Sombre (photo by Valdina)</figcaption></figure></p>
+<p>Dean as a guest of Cheval Sombre - I Found It Not So<br />
+</p>
+{% ahfowvideo "0lXnqpr_0H0" "" %}
+<p>I've missed out a hatful - please leave a comment if I've missed out your favourite!</p>

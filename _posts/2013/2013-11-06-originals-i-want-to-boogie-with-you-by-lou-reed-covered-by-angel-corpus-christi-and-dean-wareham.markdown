@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Originals: I Want to Boogie With You by Lou Reed (covered by Angel Corpus
+  Christi and Dean Wareham)'
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 4784
+wordpress_url: http://www.fullofwishes.co.uk/?p=4784
+date: '2013-11-06 19:07:29 +0000'
+date_gmt: '2013-11-06 19:07:29 +0000'
+categories:
+- dean wareham
+- originals
+tags: []
+---
+<p><img src="http://media.fullofwishes.co.uk/07-dean_and_britta/pictures/9a2fc3df15305e08a7fb.jpeg" width="2100" height="1406" class="aligncenter" /></p>
+<p>A quick supplement to <a href="/2013/11/06/originals-je-taime-moi-non-plus-by-serge-gainsbourg-et-jane-birkin-covered-by-angel-corpus-christi-and-dean-wareham/" title="Originals: Je t’aime… moi non plus by Serge Gainsbourg et Jane Birkin (covered by Angel Corpus Christi and Dean Wareham)">my earlier post</a> - I was a bit lazy to have left this off, but in the light of a recent sad event it gets a bonus post of its own - I Want To Boogie With You was from Lou Reed's 1979 album The Bells</p>
+{% ahfowvideo "w4YN5xEsE90" "Lou Reed - I Wanna Boogie With You" %}
+<p>... and <a href="/2013/11/06/originals-je-taime-moi-non-plus-by-serge-gainsbourg-et-jane-birkin-covered-by-angel-corpus-christi-and-dean-wareham/" title="Originals: Je t’aime… moi non plus by Serge Gainsbourg et Jane Birkin (covered by Angel Corpus Christi and Dean Wareham)">as I mentioned earlier</a>... </p>
+<p>Angel Corpus Christi and Dean covered it for a 7" single released in 1994</p>
+{% ahfowvideo "WNvzfy8zT44" "Angel Corpus Christi with Dean Wareham" %}
+<p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

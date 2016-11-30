@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Dean Wareham plays Galaxie 500 in London in December
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 2044
+wordpress_url: http://www.fullofwishes.co.uk/2010/08/06/dean-wareham-plays-galaxie-500-in-london-in-december/
+date: '2010-08-06 10:22:47 +0100'
+date_gmt: '2010-08-06 09:22:47 +0100'
+categories:
+- news
+- dean & britta
+tags: []
+---
+<div>Dean &amp; Britta are coming to London to play the songs of Galaxie 500. The show is at The Garage on the 8 December. Tickets go on sale on Monday 9 August. <a href="http://www.atpfestival.com/newsview/1008091000.php">Full details on the ATP website</a>.
+- news
+</p></div>

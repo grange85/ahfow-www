@@ -1,0 +1,22 @@
+---
+layout: post
+status: publish
+published: true
+title: Enemies of the secret hide-out
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 319
+wordpress_url: http://www.fullofwishes.co.uk/2004/01/05/enemies-of-the-secret-hide-out/
+date: '2004-01-05 00:00:00 +0000'
+date_gmt: '2004-01-05 00:00:00 +0000'
+categories:
+- news
+tags: []
+---
+<p>While Dean & Britta have been doing their thing it seems the other half of Luna have been contributing to an album by David Voigt. Both Lee and Sean contribute to various bits of "Enemies of the Secret Hide-out" - all of which is available for download for a limited period.SOURCE: http://enemiesonline.com/</p>

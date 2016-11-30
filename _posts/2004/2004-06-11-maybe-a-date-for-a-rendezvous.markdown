@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Maybe a date for a Rendezvous
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 76
+wordpress_url: http://www.fullofwishes.co.uk/2004/06/11/maybe-a-date-for-a-rendezvous/
+date: '2004-06-11 20:07:13 +0100'
+date_gmt: '2004-06-11 20:07:13 +0100'
+categories:
+- luna
+- news
+tags: []
+---
+<p>OK - this is making news out of very little but on the tourdates page of Dean & Britta's web site is the following..."Luna will start touring after the release of the new album, Rendezvous, on Sept. 28th."source: http://www.deanandbritta.com/dbdocs/Tour%20Dates.html</p>

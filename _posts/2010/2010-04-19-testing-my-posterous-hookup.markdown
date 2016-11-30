@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: Testing my posterous hookup…
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 1878
+wordpress_url: http://www.fullofwishes.co.uk/2010/04/19/testing-my-posterous-hookup/
+date: '2010-04-19 19:21:36 +0100'
+date_gmt: '2010-04-19 19:21:36 +0100'
+categories:
+- damon & naomi
+- admin
+tags: []
+---
+<div>OK, this is just to test the posterous hook-up I&#39;ve put in place (in an erffort for me to be better at keeping this site up-to-date. So... anyway here&#39;s a video of a skating game with Damon &amp;  Naomi on the soundtrack... weird huh!?
+<p /> <figure class="caption "><figcaption class="caption-text"></figcaption></figure>
+- news
+</p></div>

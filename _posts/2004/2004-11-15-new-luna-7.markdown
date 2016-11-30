@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: New Luna 7&quot;
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 100
+wordpress_url: http://www.fullofwishes.co.uk/2004/11/15/new-luna-7/
+date: '2004-11-15 09:52:42 +0000'
+date_gmt: '2004-11-15 09:52:42 +0000'
+categories:
+- luna
+- news
+tags: []
+---
+<p>German indie vinyl specialist Little Teddy are releasing a 7" of Speedbumps on the 15 November. The single will be backed with Astronaut and one other track (one site says "Eyes in Your Smoke" and another says "Undone" - the facts will appear here as soon as I know).details: http://db.fullofwishes.co.uk/discography/album/196/<br />
+source: http://www.indiepages.com/littleteddy/</p>

@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Damon & Naomi's European dates for January
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 946
+wordpress_url: http://www.fullofwishes.co.uk/?p=946
+date: '2008-11-27 09:45:46 +0000'
+date_gmt: '2008-11-27 09:45:46 +0000'
+categories:
+- news
+- damon & naomi
+tags: []
+---
+<div class="imagebox-a"><a title="Gira de Damon &amp; Naomi, by damagedgoods2006" href="http://flickr.com/photos/damagedgoods2006/3060410163/"><img src="http://farm4.static.flickr.com/3174/3060410163_5ed70f8223_m.jpg" width="162" height="240"></a><br/>Cartel para el tour ibérico</div>
+<p>Damon & Naomi will be heading to Europe for a number of dates in UK, Portugal, Spain and France.</p>
+<p><span class="removed_link" title="http://db.fullofwishes.co.uk/upcoming/damon_and_naomi/">View all of Damon & Naomi's upcoming shows</span>.</p>

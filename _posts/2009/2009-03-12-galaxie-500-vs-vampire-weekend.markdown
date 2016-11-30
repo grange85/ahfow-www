@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: Galaxie 500 vs Vampire Weekend
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 1092
+wordpress_url: http://www.fullofwishes.co.uk/?p=1092
+date: '2009-03-12 16:55:14 +0000'
+date_gmt: '2009-03-12 16:55:14 +0000'
+categories:
+- galaxie 500
+- other people's blogs
+tags: []
+---
+<p><span class="removed_link" title="http://crawdaddy.wolfgangsvault.com/Article/Ivy-League-Bands-Vampire-Weekend-vs-Galaxie-500.html">Crawdaddy compares Galaxie 500 with a more recent bunch of Ivy League graduates</span>...</p>
+<blockquote><p>When Wareham sings: “I don’t wanna stay at your party; I don’t wanna talk to your friends,” you believe him, because of the sighs of feedback and the secret code-like way he tells you what he does want: “I just wanna be your tugboat captain.” When Koenig sings, “Don’t you wanna get outta Cape Cod tonight,” it’s in the midst of a social registry name-checking of the different strata of seasonal communities, plus a dig at a rival school and a lobster bake interlude.</p></blockquote>

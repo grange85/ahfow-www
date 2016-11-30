@@ -1,0 +1,11 @@
+- name: joakim
+  display_name: Joakim Bengtsson
+- name: frank
+  display_name: Frank Silvestry
+- name: james
+  display_name: James Travis
+  description: |
+    James lives in Manchester and runs Dots & Loops which has been keeping the cool folk of Manchester entertained for ten years.
+  website:
+    url: http://www.dotsandloops.co.uk/
+    name: Dots & Loops 

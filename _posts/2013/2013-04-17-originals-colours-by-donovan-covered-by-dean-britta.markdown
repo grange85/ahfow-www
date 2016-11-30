@@ -1,0 +1,37 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Originals: Colours by Donovan (covered by Dean & Britta)'
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 4099
+wordpress_url: http://www.fullofwishes.co.uk/?p=4099
+date: '2013-04-17 12:30:48 +0100'
+date_gmt: '2013-04-17 11:30:48 +0100'
+categories:
+- dean & britta
+- originals
+tags: []
+---
+<p><img src="http://media.fullofwishes.co.uk/00-misc/pictures/donovan-colours-voguepye.jpg" width="550" height="550" class="aligncenter" /></p>
+<p>When I bought my first guitar - and cheap Washburn acoustic, I got given a book of easy guitar songs and the first song in the book, and therefore the first song I ever played on the guitar was <a href="http://en.wikipedia.org/wiki/Colours_%28Donovan_song%29">Donovan's Colours</a> - close to 40 years on I've probably not yet mastered it (or indeed anything on the guitar).</p>
+<p>Donovan released Colours as a single in February 1965 and it reached No 4 in the UK charts and has been a staple of his act and covered by pretty much everyone. Here's Donovan's single and a couple of other versions... including Dean & Britta's which turned up on their single of <a href="/database/release/words-you-used-to-say-release/">Words You Used to Say</a> in 2006.<br />
+</p>
+{% ahfowvideo "qGXafeBeZcY" "" %}
+<p>Here's Donovan with the lovely Nana Mouskouri (I grew up in a house full of Nana Mouskouri's albums)<br />
+</p>
+{% ahfowvideo "yfy0WvJP6w4" "" %}
+<p>Here's Donovan doing a live version for TV in 1965<br />
+</p>
+{% ahfowvideo "LNJyt-54vOE" "" %}
+<p>And here's Dean & Britta's cover</p>
+{% ahfowaudio "http://media.fullofwishes.co.uk/07-dean_and_britta/audio/04_Britta%20Phillips%20&%20Dean%20Wareham_Colours.mp3" "Dean & Britta - Colours" %}
+
+<p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

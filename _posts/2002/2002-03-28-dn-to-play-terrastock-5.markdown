@@ -1,0 +1,22 @@
+---
+layout: post
+status: publish
+published: true
+title: D&amp;N to play Terrastock 5
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 297
+wordpress_url: http://www.fullofwishes.co.uk/2002/03/28/dn-to-play-terrastock-5/
+date: '2002-03-28 00:00:00 +0000'
+date_gmt: '2002-03-28 00:00:00 +0000'
+categories:
+- news
+tags: []
+---
+<p>Damon &amp; Naomi will be playing the (and their) fifth Terrastock Festival which takes place in Boston between the 11th and 13th of October.source: http://www.terrascope.org/t5.html</p>

@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Photos: Damon & Naomi in Poland'
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+wordpress_id: 2048
+wordpress_url: http://www.fullofwishes.co.uk/2010/08/16/photos-damon-naomi-in-poland/
+date: '2010-08-16 14:53:21 +0100'
+date_gmt: '2010-08-16 13:53:21 +0100'
+categories:
+- damon & naomi
+- pictures
+tags: []
+---
+<div>Just came across <a href="http://www.flickr.com/photos/macskapocs/tags/damonandnaomi/">a set of pictures</a> from Damon &amp; Naomi&#039;s recent festival appearance in Katowice, Poland... this is my fave...
+<div style="text-align: center"> <a href="http://www.flickr.com/photos/macskapocs/4876529595/"><img src="http://farm5.static.flickr.com/4098/4876529595_e612ed82cb.jpg" border="0" height="334" width="500" /></a><br /><a href="http://www.flickr.com/photos/macskapocs/tags/damonandnaomi/">more pics</a> </div>
+- news
+</p></div>
