@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 72
-wordpress_url: http://www.fullofwishes.co.uk/2004/05/16/new-galaxie-500-single/
 date: '2004-05-16 21:29:22 +0100'
 date_gmt: '2004-05-16 21:29:22 +0100'
 categories:

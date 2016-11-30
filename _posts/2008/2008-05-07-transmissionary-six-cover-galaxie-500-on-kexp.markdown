@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 669
-wordpress_url: http://www.fullofwishes.co.uk/2008/05/07/transmissionary-six-cover-galaxie-500-on-kexp/
 date: '2008-05-07 22:15:56 +0100'
 date_gmt: '2008-05-07 22:15:56 +0100'
 categories:

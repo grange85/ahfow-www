@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 74
-wordpress_url: http://www.fullofwishes.co.uk/2004/06/09/galaxie-500-uncollected-gets-solo-release/
 date: '2004-06-09 20:35:46 +0100'
 date_gmt: '2004-06-09 20:35:46 +0100'
 categories:

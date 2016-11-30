@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 603
-wordpress_url: http://www.fullofwishes.co.uk/2008/01/23/lifestudies-a-diary-of-a-rock-n-roll-divorce-music-mensvoguecom/
 date: '2008-01-23 23:00:39 +0000'
 date_gmt: '2008-01-23 23:00:39 +0000'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 164
-wordpress_url: http://www.fullofwishes.co.uk/2006/02/06/damon-and-naomi-on-myspace/
 date: '2006-02-06 09:59:27 +0000'
 date_gmt: '2006-02-06 09:59:27 +0000'
 categories:

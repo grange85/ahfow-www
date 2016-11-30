@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 2025
-wordpress_url: http://www.fullofwishes.co.uk/2010/07/13/new-dean-britta-7-single-tags-dean-britta-news-13-most-beautiful/
 date: '2010-07-13 20:08:07 +0100'
 date_gmt: '2010-07-13 19:08:07 +0100'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 1894
-wordpress_url: http://www.fullofwishes.co.uk/2010/05/13/dean-wareham-plays-galaxie-500-in-atlanta-in-september/
 date: '2010-05-13 17:09:45 +0100'
 date_gmt: '2010-05-13 17:09:45 +0100'
 categories:

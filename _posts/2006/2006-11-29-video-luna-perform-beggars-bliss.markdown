@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 432
-wordpress_url: http://www.fullofwishes.co.uk/2006/11/29/video-luna-perform-beggars-bliss/
 date: '2006-11-29 23:24:56 +0000'
 date_gmt: '2006-11-29 23:24:56 +0000'
 categories:

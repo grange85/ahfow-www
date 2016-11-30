@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 2032
-wordpress_url: http://www.fullofwishes.co.uk/2010/07/19/the-nico-side-of-dean-brittas-forthcoming-double-a-side-single/
 date: '2010-07-19 11:37:51 +0100'
 date_gmt: '2010-07-19 10:37:51 +0100'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 193
-wordpress_url: http://www.fullofwishes.co.uk/2006/08/03/tmdymm-region-2-in-the-works/
 date: '2006-08-03 12:18:14 +0100'
 date_gmt: '2006-08-03 12:18:14 +0100'
 categories:

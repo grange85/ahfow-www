@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 521
-wordpress_url: http://www.fullofwishes.co.uk/2007/03/28/review-dean-britta-the-variety-playhouse/
 date: '2007-03-28 23:36:36 +0100'
 date_gmt: '2007-03-28 23:36:36 +0100'
 categories:

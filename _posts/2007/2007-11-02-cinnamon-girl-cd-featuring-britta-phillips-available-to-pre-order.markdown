@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 537
-wordpress_url: http://www.fullofwishes.co.uk/2007/11/02/cinnamon-girl-cd-featuring-britta-phillips-available-to-pre-order/
 date: '2007-11-02 06:53:05 +0000'
 date_gmt: '2007-11-02 13:53:05 +0000'
 categories:

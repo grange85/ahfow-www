@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 152
-wordpress_url: http://www.fullofwishes.co.uk/2005/11/21/dean-and-britta-working-on-another-soundtrack/
 date: '2005-11-21 10:10:32 +0000'
 date_gmt: '2005-11-21 10:10:32 +0000'
 categories:

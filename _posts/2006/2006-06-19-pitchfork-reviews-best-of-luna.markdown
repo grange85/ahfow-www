@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 213
-wordpress_url: http://www.fullofwishes.co.uk/2006/06/19/pitchfork-reviews-best-of-luna/
 date: '2006-06-19 13:46:41 +0100'
 date_gmt: '2006-06-19 13:46:41 +0100'
 categories:

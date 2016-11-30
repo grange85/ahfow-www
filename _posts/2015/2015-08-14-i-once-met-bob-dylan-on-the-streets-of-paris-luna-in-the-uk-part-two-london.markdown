@@ -10,8 +10,6 @@ author:
   url: ''
 author_login: joakim
 author_email: joakim@fullofwishes.co.uk
-wordpress_id: 13892
-wordpress_url: http://www.fullofwishes.co.uk/?p=13892
 date: '2015-08-14 23:59:51 +0100'
 date_gmt: '2015-08-14 22:59:51 +0100'
 categories:

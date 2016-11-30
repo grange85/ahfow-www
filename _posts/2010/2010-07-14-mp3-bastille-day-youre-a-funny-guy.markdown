@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 2029
-wordpress_url: http://www.fullofwishes.co.uk/2010/07/14/mp3-bastille-day-youre-a-funny-guy/
 date: '2010-07-14 13:26:16 +0100'
 date_gmt: '2010-07-14 12:26:16 +0100'
 categories:

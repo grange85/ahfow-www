@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 451
-wordpress_url: http://www.fullofwishes.co.uk/2007/03/01/pete-kember-aka-sonic-boom-on-the-making-of-sonic-souvenirs/
 date: '2007-03-01 16:35:32 +0000'
 date_gmt: '2007-03-01 16:35:32 +0000'
 categories:

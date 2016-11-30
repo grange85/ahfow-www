@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 597
-wordpress_url: http://www.fullofwishes.co.uk/2008/01/04/dean-and-britta-%c2%bb-blog-archive-%c2%bb-dean-britta-tour-northern-europe-%e2%80%93-part-i/
 date: '2008-01-04 16:58:33 +0000'
 date_gmt: '2008-01-04 16:58:33 +0000'
 categories:

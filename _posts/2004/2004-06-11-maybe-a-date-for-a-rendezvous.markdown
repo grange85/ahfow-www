@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 76
-wordpress_url: http://www.fullofwishes.co.uk/2004/06/11/maybe-a-date-for-a-rendezvous/
 date: '2004-06-11 20:07:13 +0100'
 date_gmt: '2004-06-11 20:07:13 +0100'
 categories:

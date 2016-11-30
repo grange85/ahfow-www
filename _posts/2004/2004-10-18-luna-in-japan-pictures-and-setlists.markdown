@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 95
-wordpress_url: http://www.fullofwishes.co.uk/2004/10/18/luna-in-japan-pictures-and-setlists/
 date: '2004-10-18 15:27:03 +0100'
 date_gmt: '2004-10-18 15:27:03 +0100'
 categories:

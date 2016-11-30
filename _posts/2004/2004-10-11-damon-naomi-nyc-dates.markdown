@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 94
-wordpress_url: http://www.fullofwishes.co.uk/2004/10/11/damon-naomi-nyc-dates/
 date: '2004-10-11 14:07:26 +0100'
 date_gmt: '2004-10-11 14:07:26 +0100'
 categories:

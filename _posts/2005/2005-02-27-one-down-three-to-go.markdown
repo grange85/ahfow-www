@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 289
-wordpress_url: http://www.fullofwishes.co.uk/2005/02/27/one-down-three-to-go/
 date: '2005-02-27 00:00:00 +0000'
 date_gmt: '2005-02-27 00:00:00 +0000'
 categories:

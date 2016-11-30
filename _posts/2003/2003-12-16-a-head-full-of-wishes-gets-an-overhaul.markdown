@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 317
-wordpress_url: http://www.fullofwishes.co.uk/2003/12/16/a-head-full-of-wishes-gets-an-overhaul/
 date: '2003-12-16 00:00:00 +0000'
 date_gmt: '2003-12-16 00:00:00 +0000'
 categories:

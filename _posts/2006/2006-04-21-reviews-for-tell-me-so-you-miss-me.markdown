@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 190
-wordpress_url: http://www.fullofwishes.co.uk/2006/04/21/reviews-for-tell-me-so-you-miss-me/
 date: '2006-04-21 13:04:48 +0100'
 date_gmt: '2006-04-21 13:04:48 +0100'
 categories:

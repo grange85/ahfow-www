@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 279
-wordpress_url: http://www.fullofwishes.co.uk/2007/08/24/the-roaring-silence-revue/
 date: '2007-08-24 10:53:29 +0100'
 date_gmt: '2007-08-24 10:53:29 +0100'
 categories:

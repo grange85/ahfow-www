@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 263
-wordpress_url: http://www.fullofwishes.co.uk/2007/05/11/take-the-galaxie-500-quizagain/
 date: '2007-05-11 13:56:27 +0100'
 date_gmt: '2007-05-11 13:56:27 +0100'
 categories:

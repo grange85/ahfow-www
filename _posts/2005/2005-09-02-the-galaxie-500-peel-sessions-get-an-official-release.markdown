@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 138
-wordpress_url: http://www.fullofwishes.co.uk/2005/09/02/the-galaxie-500-peel-sessions-get-an-official-release/
 date: '2005-09-02 09:02:22 +0100'
 date_gmt: '2005-09-02 09:02:22 +0100'
 categories:

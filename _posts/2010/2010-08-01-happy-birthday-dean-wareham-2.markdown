@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 2043
-wordpress_url: http://www.fullofwishes.co.uk/2010/08/01/happy-birthday-dean-wareham-2/
 date: '2010-08-01 13:29:02 +0100'
 date_gmt: '2010-08-01 12:29:02 +0100'
 categories:

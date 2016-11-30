@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 1729
-wordpress_url: http://www.fullofwishes.co.uk/2009/11/24/13-most-beautiful-at-the-sydney-opera-house-in-february/
 date: '2009-11-24 00:38:51 +0000'
 date_gmt: '2009-11-24 00:38:51 +0000'
 categories:

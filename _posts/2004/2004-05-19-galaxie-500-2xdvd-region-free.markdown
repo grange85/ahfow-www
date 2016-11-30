@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 73
-wordpress_url: http://www.fullofwishes.co.uk/2004/05/19/galaxie-500-2xdvd-region-free/
 date: '2004-05-19 10:03:25 +0100'
 date_gmt: '2004-05-19 10:03:25 +0100'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 352
-wordpress_url: http://www.fullofwishes.co.uk/2007/09/02/net-blogs-and-rock-n-roll/
 date: '2007-09-02 23:03:26 +0100'
 date_gmt: '2007-09-02 23:03:26 +0100'
 categories:

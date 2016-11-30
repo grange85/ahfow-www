@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 83
-wordpress_url: http://www.fullofwishes.co.uk/2004/08/18/rendezvous-artwork-preview/
 date: '2004-08-18 12:17:24 +0100'
 date_gmt: '2004-08-18 12:17:24 +0100'
 categories:

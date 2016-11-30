@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 169
-wordpress_url: http://www.fullofwishes.co.uk/2006/02/20/luna-tv-appearances-download/
 date: '2006-02-20 20:49:18 +0000'
 date_gmt: '2006-02-20 20:49:18 +0000'
 categories:

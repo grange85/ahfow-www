@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 346
-wordpress_url: http://www.fullofwishes.co.uk/2007/02/18/gordon-ballboy-briefly-talks-about-galaxie-500/
 date: '2007-02-18 22:04:00 +0000'
 date_gmt: '2007-02-18 22:04:00 +0000'
 categories:

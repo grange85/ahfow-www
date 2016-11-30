@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 2077
-wordpress_url: http://www.fullofwishes.co.uk/2010/09/12/video-dean-britta-in-pittsburgh/
 date: '2010-09-12 18:43:02 +0100'
 date_gmt: '2010-09-12 17:43:02 +0100'
 categories:

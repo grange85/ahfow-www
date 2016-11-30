@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 718
-wordpress_url: http://www.fullofwishes.co.uk/2008/07/16/photos-dean-britta-xponential/
 date: '2008-07-16 20:17:36 +0100'
 date_gmt: '2008-07-16 20:17:36 +0100'
 categories:

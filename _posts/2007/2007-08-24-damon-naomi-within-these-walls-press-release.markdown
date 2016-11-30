@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 460
-wordpress_url: http://www.fullofwishes.co.uk/2007/08/24/damon-naomi-within-these-walls-press-release/
 date: '2007-08-24 12:04:58 +0100'
 date_gmt: '2007-08-24 12:04:58 +0100'
 categories:

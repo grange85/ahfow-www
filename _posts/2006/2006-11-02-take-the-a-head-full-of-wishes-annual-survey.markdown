@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 343
-wordpress_url: http://www.fullofwishes.co.uk/2006/11/02/take-the-a-head-full-of-wishes-annual-survey/
 date: '2006-11-02 09:40:20 +0000'
 date_gmt: '2006-11-02 09:40:20 +0000'
 categories:

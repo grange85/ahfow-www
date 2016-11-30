@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 269
-wordpress_url: http://www.fullofwishes.co.uk/2007/06/29/dean-britta-remix-rosebuds-maybe/
 date: '2007-06-29 13:08:41 +0100'
 date_gmt: '2007-06-29 13:08:41 +0100'
 categories:

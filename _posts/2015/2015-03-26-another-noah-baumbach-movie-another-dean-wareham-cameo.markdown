@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 13661
-wordpress_url: http://www.fullofwishes.co.uk/?p=13661
 date: '2015-03-26 19:31:49 +0000'
 date_gmt: '2015-03-26 19:31:49 +0000'
 categories:

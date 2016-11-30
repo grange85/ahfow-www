@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 2045
-wordpress_url: http://www.fullofwishes.co.uk/2010/08/06/dean-wareham-interview-at-the-a-v-club/
 date: '2010-08-06 12:52:55 +0100'
 date_gmt: '2010-08-06 11:52:55 +0100'
 categories:

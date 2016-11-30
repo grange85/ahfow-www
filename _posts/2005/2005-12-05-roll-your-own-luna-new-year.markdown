@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 156
-wordpress_url: http://www.fullofwishes.co.uk/2005/12/05/roll-your-own-luna-new-year/
 date: '2005-12-05 11:49:39 +0000'
 date_gmt: '2005-12-05 11:49:39 +0000'
 categories:

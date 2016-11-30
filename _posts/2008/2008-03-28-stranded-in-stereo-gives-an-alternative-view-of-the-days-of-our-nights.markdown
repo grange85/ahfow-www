@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 643
-wordpress_url: http://www.fullofwishes.co.uk/2008/03/28/stranded-in-stereo-gives-an-alternative-view-of-the-days-of-our-nights/
 date: '2008-03-28 17:25:29 +0000'
 date_gmt: '2008-03-28 17:25:29 +0000'
 categories:

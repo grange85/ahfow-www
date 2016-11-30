@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 610
-wordpress_url: http://www.fullofwishes.co.uk/2008/02/11/dean-britta-in-toronto/
 date: '2008-02-11 14:20:06 +0000'
 date_gmt: '2008-02-11 14:20:06 +0000'
 categories:

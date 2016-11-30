@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 1059
-wordpress_url: http://www.fullofwishes.co.uk/2009/02/26/photo-galaxie-500-in-london-in-1990/
 date: '2009-02-26 10:48:16 +0000'
 date_gmt: '2009-02-26 10:48:16 +0000'
 categories:

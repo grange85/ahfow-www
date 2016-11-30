@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 641
-wordpress_url: http://www.fullofwishes.co.uk/2008/03/25/kexp-blog-interview-with-dean-wareham%e2%80%99s/
 date: '2008-03-25 17:11:41 +0000'
 date_gmt: '2008-03-25 17:11:41 +0000'
 categories:

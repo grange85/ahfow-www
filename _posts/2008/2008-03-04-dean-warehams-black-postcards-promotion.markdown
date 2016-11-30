@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 621
-wordpress_url: http://www.fullofwishes.co.uk/2008/03/04/dean-warehams-black-postcards-promotion/
 date: '2008-03-04 15:34:56 +0000'
 date_gmt: '2008-03-04 15:34:56 +0000'
 categories:

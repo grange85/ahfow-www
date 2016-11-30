@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 569
-wordpress_url: http://www.fullofwishes.co.uk/2007/11/20/video-damon-naomi-perform-eye-of-the-storm-in-italy/
 date: '2007-11-20 17:08:06 +0000'
 date_gmt: '2007-11-20 17:08:06 +0000'
 categories:

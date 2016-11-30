@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 2089
-wordpress_url: http://www.fullofwishes.co.uk/2010/10/09/audio-happy-70th-to-john-lennon/
 date: '2010-10-09 17:10:46 +0100'
 date_gmt: '2010-10-09 16:10:46 +0100'
 categories:

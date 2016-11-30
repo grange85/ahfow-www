@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 574
-wordpress_url: http://www.fullofwishes.co.uk/2007/11/26/dean-britta-christmas-single/
 date: '2007-11-26 10:31:18 +0000'
 date_gmt: '2007-11-26 10:31:18 +0000'
 categories:

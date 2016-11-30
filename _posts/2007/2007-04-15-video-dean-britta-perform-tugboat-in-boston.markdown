@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 455
-wordpress_url: http://www.fullofwishes.co.uk/2007/04/15/video-dean-britta-perform-tugboat-in-boston/
 date: '2007-04-15 21:50:54 +0100'
 date_gmt: '2007-04-15 21:50:54 +0100'
 categories:

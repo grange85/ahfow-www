@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 623
-wordpress_url: http://www.fullofwishes.co.uk/2008/03/05/happy-birthday-sean/
 date: '2008-03-05 19:13:23 +0000'
 date_gmt: '2008-03-05 19:13:23 +0000'
 categories:

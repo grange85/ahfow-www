@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 246
-wordpress_url: http://www.fullofwishes.co.uk/2007/01/31/dean-and-britta-dates-trickling-in/
 date: '2007-01-31 14:44:28 +0000'
 date_gmt: '2007-01-31 14:44:28 +0000'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 144
-wordpress_url: http://www.fullofwishes.co.uk/2005/09/17/dean-and-britta-site-gets-a-revamp/
 date: '2005-09-17 10:45:22 +0100'
 date_gmt: '2005-09-17 10:45:22 +0100'
 categories:

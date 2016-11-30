@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 249
-wordpress_url: http://www.fullofwishes.co.uk/2007/02/14/damon-naomi-valentines-day-show/
 date: '2007-02-14 10:28:11 +0000'
 date_gmt: '2007-02-14 10:28:11 +0000'
 categories:

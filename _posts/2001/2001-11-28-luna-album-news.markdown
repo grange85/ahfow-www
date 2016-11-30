@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 9
-wordpress_url: http://www.fullofwishes.co.uk/2001/11/28/luna-album-news/
 date: '2001-11-28 00:00:00 +0000'
 date_gmt: '2001-11-28 00:00:00 +0000'
 categories:

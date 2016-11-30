@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 282
-wordpress_url: http://www.fullofwishes.co.uk/2007/09/26/if-theres-money-burning-a-hole-in-your-pocket/
 date: '2007-09-26 11:05:11 +0100'
 date_gmt: '2007-09-26 11:05:11 +0100'
 categories:

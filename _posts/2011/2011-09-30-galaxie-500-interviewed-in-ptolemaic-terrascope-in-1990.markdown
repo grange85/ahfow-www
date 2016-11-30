@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 2230
-wordpress_url: http://www.fullofwishes.co.uk/2011/09/30/galaxie-500-interviewed-in-ptolemaic-terrascope-in-1990/
 date: '2011-09-30 23:39:00 +0100'
 date_gmt: '2011-09-30 22:39:00 +0100'
 categories:

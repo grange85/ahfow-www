@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 526
-wordpress_url: http://www.fullofwishes.co.uk/1998/05/20/review-damon-naomi-garage-london-uk-20th-may-1998/
 date: '1998-05-20 00:00:00 +0100'
 date_gmt: '1998-05-20 00:00:00 +0100'
 categories:

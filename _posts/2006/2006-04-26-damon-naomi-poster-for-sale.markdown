@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 192
-wordpress_url: http://www.fullofwishes.co.uk/2006/04/26/damon-naomi-poster-for-sale/
 date: '2006-04-26 10:27:51 +0100'
 date_gmt: '2006-04-26 10:27:51 +0100'
 categories:

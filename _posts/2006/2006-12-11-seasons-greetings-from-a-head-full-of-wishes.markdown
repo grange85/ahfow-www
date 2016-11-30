@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 520
-wordpress_url: http://www.fullofwishes.co.uk/2006/12/11/seasons-greetings-from-a-head-full-of-wishes/
 date: '2006-12-11 23:41:05 +0000'
 date_gmt: '2006-12-11 23:41:05 +0000'
 categories:

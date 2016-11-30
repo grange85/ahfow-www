@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 210
-wordpress_url: http://www.fullofwishes.co.uk/2006/06/10/new-dean-and-britta-track-on-myspace/
 date: '2006-06-10 22:13:23 +0100'
 date_gmt: '2006-06-10 22:13:23 +0100'
 categories:

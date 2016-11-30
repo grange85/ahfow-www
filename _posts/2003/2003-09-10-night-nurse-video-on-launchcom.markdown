@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 315
-wordpress_url: http://www.fullofwishes.co.uk/2003/09/10/night-nurse-video-on-launchcom/
 date: '2003-09-10 00:00:00 +0100'
 date_gmt: '2003-09-10 00:00:00 +0100'
 categories:

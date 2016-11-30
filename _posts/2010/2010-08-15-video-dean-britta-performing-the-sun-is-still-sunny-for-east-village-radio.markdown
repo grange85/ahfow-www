@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 2046
-wordpress_url: http://www.fullofwishes.co.uk/2010/08/15/video-dean-britta-performing-the-sun-is-still-sunny-for-east-village-radio/
 date: '2010-08-15 22:27:51 +0100'
 date_gmt: '2010-08-15 21:27:51 +0100'
 categories:

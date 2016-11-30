@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 261
-wordpress_url: http://www.fullofwishes.co.uk/2007/04/27/dean-and-britta-finally-reach-london/
 date: '2007-04-27 14:12:18 +0100'
 date_gmt: '2007-04-27 14:12:18 +0100'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 459
-wordpress_url: http://www.fullofwishes.co.uk/2007/07/21/audio-cagney-and-lacee-borderline/
 date: '2007-07-21 00:54:33 +0100'
 date_gmt: '2007-07-21 00:54:33 +0100'
 categories:

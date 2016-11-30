@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 362
-wordpress_url: http://www.fullofwishes.co.uk/2000/06/07/chat-transcript/
 date: '2000-07-06 00:00:00 +0100'
 date_gmt: '2000-07-06 00:00:00 +0100'
 categories:

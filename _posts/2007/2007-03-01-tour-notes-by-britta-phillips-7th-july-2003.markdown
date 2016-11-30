@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 452
-wordpress_url: http://www.fullofwishes.co.uk/2007/03/01/tour-notes-by-britta-phillips-7th-july-2003/
 date: '2007-03-01 16:45:14 +0000'
 date_gmt: '2007-03-01 16:45:14 +0000'
 categories:

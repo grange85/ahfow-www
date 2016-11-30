@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 305
-wordpress_url: http://www.fullofwishes.co.uk/2000/03/06/another-new-bassist-installed/
 date: '2000-03-06 00:00:00 +0000'
 date_gmt: '2000-03-06 00:00:00 +0000'
 categories:

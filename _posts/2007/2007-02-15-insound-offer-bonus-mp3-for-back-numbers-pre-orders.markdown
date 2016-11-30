@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 250
-wordpress_url: http://www.fullofwishes.co.uk/2007/02/15/insound-offer-bonus-mp3-for-back-numbers-pre-orders/
 date: '2007-02-15 11:29:04 +0000'
 date_gmt: '2007-02-15 11:29:04 +0000'
 categories:

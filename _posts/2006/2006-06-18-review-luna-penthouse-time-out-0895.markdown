@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 421
-wordpress_url: http://www.fullofwishes.co.uk/2006/06/18/review-luna-penthouse-time-out-0895/
 date: '2006-06-18 14:25:23 +0100'
 date_gmt: '2006-06-18 14:25:23 +0100'
 categories:

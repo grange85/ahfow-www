@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 402
-wordpress_url: http://www.fullofwishes.co.uk/2006/04/17/sean-eden-on-tell-me-do-you-miss-me/
 date: '2006-04-17 16:59:43 +0100'
 date_gmt: '2006-04-17 16:59:43 +0100'
 categories:

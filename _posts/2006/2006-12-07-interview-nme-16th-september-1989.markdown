@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 438
-wordpress_url: http://www.fullofwishes.co.uk/2006/12/07/interview-nme-16th-september-1989/
 date: '2006-12-07 00:00:00 +0000'
 date_gmt: '2006-12-07 00:00:00 +0000'
 categories:

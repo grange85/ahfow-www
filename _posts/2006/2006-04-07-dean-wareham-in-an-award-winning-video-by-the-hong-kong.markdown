@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 186
-wordpress_url: http://www.fullofwishes.co.uk/2006/04/07/dean-wareham-in-an-award-winning-video-by-the-hong-kong/
 date: '2006-04-07 11:14:13 +0100'
 date_gmt: '2006-04-07 11:14:13 +0100'
 categories:

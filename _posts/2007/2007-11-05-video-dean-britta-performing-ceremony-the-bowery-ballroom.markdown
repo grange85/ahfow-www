@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 542
-wordpress_url: http://www.fullofwishes.co.uk/2007/11/05/video-dean-britta-performing-ceremony-the-bowery-ballroom/
 date: '2007-11-05 21:21:48 +0000'
 date_gmt: '2007-11-05 21:21:48 +0000'
 categories:

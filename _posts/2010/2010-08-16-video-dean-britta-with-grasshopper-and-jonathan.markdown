@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 2049
-wordpress_url: http://www.fullofwishes.co.uk/2010/08/16/video-dean-britta-with-grasshopper-and-jonathan/
 date: '2010-08-16 21:14:01 +0100'
 date_gmt: '2010-08-16 20:14:01 +0100'
 categories:

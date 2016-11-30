@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 1992
-wordpress_url: http://www.fullofwishes.co.uk/2010/06/24/video-dean-britta-playing-fourth-of-july/
 date: '2010-06-24 22:43:24 +0100'
 date_gmt: '2010-06-24 21:43:24 +0100'
 categories:

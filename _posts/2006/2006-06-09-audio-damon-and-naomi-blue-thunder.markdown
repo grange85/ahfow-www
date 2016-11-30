@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 409
-wordpress_url: http://www.fullofwishes.co.uk/2006/06/09/audio-damon-and-naomi-blue-thunder/
 date: '2006-06-09 11:47:11 +0100'
 date_gmt: '2006-06-09 11:47:11 +0100'
 categories:

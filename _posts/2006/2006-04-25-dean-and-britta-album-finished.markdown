@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 191
-wordpress_url: http://www.fullofwishes.co.uk/2006/04/25/dean-and-britta-album-finished/
 date: '2006-04-25 19:16:55 +0100'
 date_gmt: '2006-04-25 19:16:55 +0100'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 182
-wordpress_url: http://www.fullofwishes.co.uk/2006/04/04/tell-me-do-you-miss-me-qa-with-britta-phillips/
 date: '2006-04-04 00:23:32 +0100'
 date_gmt: '2006-04-04 00:23:32 +0100'
 categories:

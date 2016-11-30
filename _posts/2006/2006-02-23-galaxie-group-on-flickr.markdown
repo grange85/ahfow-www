@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 337
-wordpress_url: http://www.fullofwishes.co.uk/2006/02/23/galaxie-group-on-flickr/
 date: '2006-02-23 11:01:45 +0000'
 date_gmt: '2006-02-23 11:01:45 +0000'
 categories:

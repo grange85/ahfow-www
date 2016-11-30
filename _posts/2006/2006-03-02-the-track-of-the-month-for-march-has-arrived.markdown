@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 170
-wordpress_url: http://www.fullofwishes.co.uk/2006/03/02/the-track-of-the-month-for-march-has-arrived/
 date: '2006-03-02 23:11:43 +0000'
 date_gmt: '2006-03-02 23:11:43 +0000'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 568
-wordpress_url: http://www.fullofwishes.co.uk/2007/11/20/galaxie-500-albums-recent-list-appearances/
 date: '2007-11-20 16:28:00 +0000'
 date_gmt: '2007-11-20 16:28:00 +0000'
 categories:

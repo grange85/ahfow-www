@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 745
-wordpress_url: http://www.fullofwishes.co.uk/2008/07/25/photos-dean-and-britta-the-zipper-factory/
 date: '2008-07-25 15:18:31 +0100'
 date_gmt: '2008-07-25 15:18:31 +0100'
 categories:

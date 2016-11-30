@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 172
-wordpress_url: http://www.fullofwishes.co.uk/2006/03/05/dean-and-britta-in-the-studio/
 date: '2006-03-05 21:04:33 +0000'
 date_gmt: '2006-03-05 21:04:33 +0000'
 categories:

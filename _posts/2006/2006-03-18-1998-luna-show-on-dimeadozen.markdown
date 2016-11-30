@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 178
-wordpress_url: http://www.fullofwishes.co.uk/2006/03/18/1998-luna-show-on-dimeadozen/
 date: '2006-03-18 23:33:41 +0000'
 date_gmt: '2006-03-18 23:33:41 +0000'
 categories:

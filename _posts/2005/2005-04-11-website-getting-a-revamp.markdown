@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 330
-wordpress_url: http://www.fullofwishes.co.uk/2005/04/11/website-getting-a-revamp/
 date: '2005-04-11 11:33:37 +0100'
 date_gmt: '2005-04-11 11:33:37 +0100'
 categories:

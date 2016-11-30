@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 150
-wordpress_url: http://www.fullofwishes.co.uk/2005/11/04/damon-naomi-limited-edition-dvd-available/
 date: '2005-11-04 00:31:26 +0000'
 date_gmt: '2005-11-04 00:31:26 +0000'
 categories:

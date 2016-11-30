@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 531
-wordpress_url: http://www.fullofwishes.co.uk/2007/10/29/dean-wareham-underrated-guitarist/
 date: '2007-10-29 07:06:30 +0000'
 date_gmt: '2007-10-29 14:06:30 +0000'
 categories:

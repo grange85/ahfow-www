@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 1897
-wordpress_url: http://www.fullofwishes.co.uk/2010/06/08/new-dean-britta-cd-available-for-pre-order-2/
 date: '2010-06-08 22:19:43 +0100'
 date_gmt: '2010-06-08 22:19:43 +0100'
 categories:

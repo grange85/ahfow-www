@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 199
-wordpress_url: http://www.fullofwishes.co.uk/2006/05/10/tell-me-do-you-miss-me-in-la/
 date: '2006-05-10 11:48:16 +0100'
 date_gmt: '2006-05-10 11:48:16 +0100'
 categories:

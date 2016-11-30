@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 624
-wordpress_url: http://www.fullofwishes.co.uk/2008/03/06/new-dean-britta-video-for-you-turned-my-head-around/
 date: '2008-03-06 11:50:15 +0000'
 date_gmt: '2008-03-06 11:50:15 +0000'
 categories:

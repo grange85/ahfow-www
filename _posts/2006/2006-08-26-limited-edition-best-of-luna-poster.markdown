@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 220
-wordpress_url: http://www.fullofwishes.co.uk/2006/08/26/limited-edition-best-of-luna-poster/
 date: '2006-08-26 17:27:24 +0100'
 date_gmt: '2006-08-26 17:27:24 +0100'
 categories:

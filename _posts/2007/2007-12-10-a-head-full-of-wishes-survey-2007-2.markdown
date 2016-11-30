@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 589
-wordpress_url: http://www.fullofwishes.co.uk/2007/12/10/a-head-full-of-wishes-survey-2007-2/
 date: '2007-12-10 14:18:12 +0000'
 date_gmt: '2007-12-10 14:18:12 +0000'
 categories:

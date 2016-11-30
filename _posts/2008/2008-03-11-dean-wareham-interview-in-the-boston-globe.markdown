@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 627
-wordpress_url: http://www.fullofwishes.co.uk/2008/03/11/dean-wareham-interview-in-the-boston-globe/
 date: '2008-03-11 00:09:47 +0000'
 date_gmt: '2008-03-11 00:09:47 +0000'
 categories:

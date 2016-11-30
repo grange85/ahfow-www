@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 2055
-wordpress_url: http://www.fullofwishes.co.uk/2010/08/20/dean-wareham-plays-galaxie-500-at-the-bowery-ballroom/
 date: '2010-08-20 22:21:16 +0100'
 date_gmt: '2010-08-20 21:21:16 +0100'
 categories:

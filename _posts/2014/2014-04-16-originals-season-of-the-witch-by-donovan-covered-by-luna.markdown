@@ -12,8 +12,6 @@ author_login: admin
 imageurl: http://media.fullofwishes.co.uk/00-misc/misc/season-of-the-witch-bl-flickr.jpg
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 5270
-wordpress_url: http://www.fullofwishes.co.uk/?p=5270
 date: '2014-04-16 19:30:48 +0100'
 date_gmt: '2014-04-16 18:30:48 +0100'
 categories:

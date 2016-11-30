@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 158
-wordpress_url: http://www.fullofwishes.co.uk/2005/12/08/new-mp3s-on-dean-and-brittas-website/
 date: '2005-12-08 10:05:33 +0000'
 date_gmt: '2005-12-08 10:05:33 +0000'
 categories:

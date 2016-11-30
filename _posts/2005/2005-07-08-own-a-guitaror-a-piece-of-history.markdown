@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 134
-wordpress_url: http://www.fullofwishes.co.uk/2005/07/08/own-a-guitaror-a-piece-of-history/
 date: '2005-07-08 10:54:05 +0100'
 date_gmt: '2005-07-08 10:54:05 +0100'
 categories:

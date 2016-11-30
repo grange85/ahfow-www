@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 112
-wordpress_url: http://www.fullofwishes.co.uk/2005/01/10/editorial-my-thoughts-on-lunas-final-show/
 date: '2005-01-10 00:00:00 +0000'
 date_gmt: '2005-01-10 00:00:00 +0000'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 396
-wordpress_url: http://www.fullofwishes.co.uk/2006/10/19/audio-video-dean-and-britta-blogotheque-videos/
 date: '2006-10-19 15:30:43 +0100'
 date_gmt: '2006-10-19 15:30:43 +0100'
 categories:

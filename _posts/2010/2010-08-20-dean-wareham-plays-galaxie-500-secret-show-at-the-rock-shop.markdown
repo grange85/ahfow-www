@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 2054
-wordpress_url: http://www.fullofwishes.co.uk/2010/08/20/dean-wareham-plays-galaxie-500-secret-show-at-the-rock-shop/
 date: '2010-08-20 22:13:44 +0100'
 date_gmt: '2010-08-20 21:13:44 +0100'
 categories:

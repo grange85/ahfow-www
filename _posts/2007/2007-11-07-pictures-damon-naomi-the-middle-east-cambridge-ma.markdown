@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 543
-wordpress_url: http://www.fullofwishes.co.uk/2007/11/07/pictures-damon-naomi-the-middle-east-cambridge-ma/
 date: '2007-11-07 11:18:41 +0000'
 date_gmt: '2007-11-07 11:18:41 +0000'
 categories:

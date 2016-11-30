@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 1898
-wordpress_url: http://www.fullofwishes.co.uk/2010/06/14/dean-wareham-on-crazy-rhythms/
 date: '2010-06-14 14:32:47 +0100'
 date_gmt: '2010-06-14 14:32:47 +0100'
 categories:

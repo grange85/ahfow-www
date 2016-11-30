@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 122
-wordpress_url: http://www.fullofwishes.co.uk/2005/04/11/pictures-from-lunas-last-shows/
 date: '2005-04-11 11:30:24 +0100'
 date_gmt: '2005-04-11 11:30:24 +0100'
 categories:

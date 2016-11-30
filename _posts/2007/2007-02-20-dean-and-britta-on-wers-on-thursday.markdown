@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 252
-wordpress_url: http://www.fullofwishes.co.uk/2007/02/20/dean-and-britta-on-wers-on-thursday/
 date: '2007-02-20 20:34:24 +0000'
 date_gmt: '2007-02-20 20:34:24 +0000'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 692
-wordpress_url: http://www.fullofwishes.co.uk/2008/06/08/photos-dean-britta-pics-on-flickr/
 date: '2008-06-08 14:22:11 +0100'
 date_gmt: '2008-06-08 14:22:11 +0100'
 categories:

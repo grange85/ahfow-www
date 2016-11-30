@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 188
-wordpress_url: http://www.fullofwishes.co.uk/2006/04/07/tell-me-do-you-miss-me-promo-postcard/
 date: '2006-04-07 23:55:13 +0100'
 date_gmt: '2006-04-07 23:55:13 +0100'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 89
-wordpress_url: http://www.fullofwishes.co.uk/2004/09/28/another-dean-wareham-soundtrack/
 date: '2004-09-28 00:17:03 +0100'
 date_gmt: '2004-09-28 00:17:03 +0100'
 categories:

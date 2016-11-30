@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 139
-wordpress_url: http://www.fullofwishes.co.uk/2005/09/08/dean-wareham-puts-on-his-producers-hat/
 date: '2005-09-08 17:19:48 +0100'
 date_gmt: '2005-09-08 17:19:48 +0100'
 categories:

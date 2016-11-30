@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 209
-wordpress_url: http://www.fullofwishes.co.uk/2006/06/08/britta-phillips-gazes-shoe-wards/
 date: '2006-06-08 17:44:35 +0100'
 date_gmt: '2006-06-08 17:44:35 +0100'
 categories:

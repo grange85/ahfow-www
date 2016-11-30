@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 441
-wordpress_url: http://www.fullofwishes.co.uk/2006/12/08/press-galaxie-500-this-is-our-music-september-1990/
 date: '2006-12-08 10:30:31 +0000'
 date_gmt: '2006-12-08 10:30:31 +0000'
 categories:

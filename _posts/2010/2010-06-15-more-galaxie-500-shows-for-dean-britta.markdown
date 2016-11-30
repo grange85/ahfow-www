@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 1923
-wordpress_url: http://www.fullofwishes.co.uk/2010/06/15/more-galaxie-500-shows-for-dean-britta/
 date: '2010-06-15 23:48:28 +0100'
 date_gmt: '2010-06-15 23:48:28 +0100'
 categories:

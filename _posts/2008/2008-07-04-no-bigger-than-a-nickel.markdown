@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 704
-wordpress_url: http://www.fullofwishes.co.uk/2008/07/04/no-bigger-than-a-nickel/
 date: '2008-07-04 20:27:27 +0100'
 date_gmt: '2008-07-04 20:27:27 +0100'
 categories:

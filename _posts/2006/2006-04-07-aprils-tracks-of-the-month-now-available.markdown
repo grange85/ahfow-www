@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 187
-wordpress_url: http://www.fullofwishes.co.uk/2006/04/07/aprils-tracks-of-the-month-now-available/
 date: '2006-04-07 22:59:46 +0100'
 date_gmt: '2006-04-07 22:59:46 +0100'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 221
-wordpress_url: http://www.fullofwishes.co.uk/2006/08/26/new-britta-song-on-myspace/
 date: '2006-08-26 17:31:04 +0100'
 date_gmt: '2006-08-26 17:31:04 +0100'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 443
-wordpress_url: http://www.fullofwishes.co.uk/2006/12/08/interview-galaxie-500-in-boston-rocks-95/
 date: '2006-12-08 11:01:53 +0000'
 date_gmt: '2006-12-08 11:01:53 +0000'
 categories:

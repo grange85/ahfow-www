@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 1887
-wordpress_url: http://www.fullofwishes.co.uk/2010/05/01/review-damon-naomi-in-london-3/
 date: '2010-05-01 23:54:06 +0100'
 date_gmt: '2010-05-01 23:54:06 +0100'
 categories:

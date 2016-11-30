@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 458
-wordpress_url: http://www.fullofwishes.co.uk/2007/06/23/dean-and-britta-week-on-everythings-swirling/
 date: '2007-06-23 00:51:19 +0100'
 date_gmt: '2007-06-23 00:51:19 +0100'
 categories:

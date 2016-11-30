@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 248
-wordpress_url: http://www.fullofwishes.co.uk/2007/02/12/pre-order-the-new-dean-britta-album/
 date: '2007-02-12 13:43:34 +0000'
 date_gmt: '2007-02-12 13:43:34 +0000'
 categories:

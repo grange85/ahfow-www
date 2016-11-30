@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 47
-wordpress_url: http://www.fullofwishes.co.uk/2003/07/23/luna-preparing-album-no7/
 date: '2003-07-23 00:00:00 +0100'
 date_gmt: '2003-07-23 00:00:00 +0100'
 categories:

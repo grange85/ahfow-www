@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 437
-wordpress_url: http://www.fullofwishes.co.uk/2006/12/07/review-melody-maker-7th-november-1990/
 date: '2006-12-07 22:02:27 +0000'
 date_gmt: '2006-12-07 22:02:27 +0000'
 categories:

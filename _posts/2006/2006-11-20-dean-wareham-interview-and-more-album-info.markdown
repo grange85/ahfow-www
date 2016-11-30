@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 234
-wordpress_url: http://www.fullofwishes.co.uk/2006/11/20/dean-wareham-interview-and-more-album-info/
 date: '2006-11-20 22:19:25 +0000'
 date_gmt: '2006-11-20 22:19:25 +0000'
 categories:

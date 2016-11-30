@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 336
-wordpress_url: http://www.fullofwishes.co.uk/2006/01/29/a-sparkly-new-head-full-of-wishes/
 date: '2006-01-29 00:51:21 +0000'
 date_gmt: '2006-01-29 00:51:21 +0000'
 categories:

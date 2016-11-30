@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 149
-wordpress_url: http://www.fullofwishes.co.uk/2005/11/02/galaxie-500-peel-sessions-shipping-now/
 date: '2005-11-02 11:20:00 +0000'
 date_gmt: '2005-11-02 11:20:00 +0000'
 categories:

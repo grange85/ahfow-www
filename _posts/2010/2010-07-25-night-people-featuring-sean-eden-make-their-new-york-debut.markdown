@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 2036
-wordpress_url: http://www.fullofwishes.co.uk/2010/07/25/night-people-featuring-sean-eden-make-their-new-york-debut/
 date: '2010-07-25 07:58:18 +0100'
 date_gmt: '2010-07-25 06:58:18 +0100'
 categories:

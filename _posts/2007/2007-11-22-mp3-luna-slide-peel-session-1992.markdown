@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 571
-wordpress_url: http://www.fullofwishes.co.uk/2007/11/22/mp3-luna-slide-peel-session-1992/
 date: '2007-11-22 00:35:07 +0000'
 date_gmt: '2007-11-22 00:35:07 +0000'
 categories:

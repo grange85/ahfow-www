@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 69
-wordpress_url: http://www.fullofwishes.co.uk/2004/04/27/rendezvous-clues/
 date: '2004-04-27 11:30:14 +0100'
 date_gmt: '2004-04-27 11:30:14 +0100'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 79
-wordpress_url: http://www.fullofwishes.co.uk/2004/06/22/dvd-preview/
 date: '2004-06-22 10:12:36 +0100'
 date_gmt: '2004-06-22 10:12:36 +0100'
 categories:

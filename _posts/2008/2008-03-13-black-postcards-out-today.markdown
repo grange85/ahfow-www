@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 628
-wordpress_url: http://www.fullofwishes.co.uk/2008/03/13/black-postcards-out-today/
 date: '2008-03-13 12:09:15 +0000'
 date_gmt: '2008-03-13 12:09:15 +0000'
 categories:

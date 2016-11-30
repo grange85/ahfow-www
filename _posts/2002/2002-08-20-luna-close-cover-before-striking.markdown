@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 27
-wordpress_url: http://www.fullofwishes.co.uk/2002/08/20/luna-close-cover-before-striking/
 date: '2002-08-20 00:00:00 +0100'
 date_gmt: '2002-08-20 00:00:00 +0100'
 categories:

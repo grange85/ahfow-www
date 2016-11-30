@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 280
-wordpress_url: http://www.fullofwishes.co.uk/2007/08/29/dean-warehams-book-slated-for-a-march-2008-release/
 date: '2007-08-29 00:33:24 +0100'
 date_gmt: '2007-08-29 00:33:24 +0100'
 categories:

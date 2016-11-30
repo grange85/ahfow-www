@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 146
-wordpress_url: http://www.fullofwishes.co.uk/2005/09/28/new-dean-and-britta-forum/
 date: '2005-09-28 17:39:47 +0100'
 date_gmt: '2005-09-28 17:39:47 +0100'
 categories:

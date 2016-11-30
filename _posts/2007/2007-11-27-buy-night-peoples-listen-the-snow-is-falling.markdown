@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 578
-wordpress_url: http://www.fullofwishes.co.uk/2007/11/27/buy-night-peoples-listen-the-snow-is-falling/
 date: '2007-11-27 14:59:17 +0000'
 date_gmt: '2007-11-27 14:59:17 +0000'
 categories:

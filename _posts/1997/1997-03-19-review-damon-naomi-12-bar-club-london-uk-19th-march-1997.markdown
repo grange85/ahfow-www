@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 524
-wordpress_url: http://www.fullofwishes.co.uk/1997/03/19/review-damon-naomi-12-bar-club-london-uk-19th-march-1997/
 date: '1997-03-19 00:00:00 +0000'
 date_gmt: '1997-03-19 00:00:00 +0000'
 categories:

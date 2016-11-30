@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 618
-wordpress_url: http://www.fullofwishes.co.uk/2008/02/29/dean-and-britta-%c2%bb-blog-archive-%c2%bb-february-28-2008/
 date: '2008-02-29 10:44:55 +0000'
 date_gmt: '2008-02-29 10:44:55 +0000'
 categories:

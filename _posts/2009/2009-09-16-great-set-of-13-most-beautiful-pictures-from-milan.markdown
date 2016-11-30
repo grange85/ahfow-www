@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 1601
-wordpress_url: http://www.fullofwishes.co.uk/2009/09/16/great-set-of-13-most-beautiful-pictures-from-milan/
 date: '2009-09-16 15:49:03 +0100'
 date_gmt: '2009-09-16 14:49:03 +0100'
 categories:

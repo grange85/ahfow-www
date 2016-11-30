@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 88
-wordpress_url: http://www.fullofwishes.co.uk/2004/09/26/the-memory-theater-burned/
 date: '2004-09-26 22:05:06 +0100'
 date_gmt: '2004-09-26 22:05:06 +0100'
 categories:

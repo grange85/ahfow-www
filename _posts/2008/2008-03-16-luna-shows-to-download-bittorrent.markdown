@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 630
-wordpress_url: http://www.fullofwishes.co.uk/2008/03/16/luna-shows-to-download-bittorrent/
 date: '2008-03-16 17:06:39 +0000'
 date_gmt: '2008-03-16 17:06:39 +0000'
 categories:

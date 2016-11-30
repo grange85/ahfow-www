@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 461
-wordpress_url: http://www.fullofwishes.co.uk/2007/08/28/on-the-20th-anniversary-of-galaxie-500/
 date: '2007-08-28 00:00:00 +0100'
 date_gmt: '2007-08-28 00:00:00 +0100'
 categories:

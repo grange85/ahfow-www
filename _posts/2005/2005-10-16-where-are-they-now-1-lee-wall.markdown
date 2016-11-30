@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 147
-wordpress_url: http://www.fullofwishes.co.uk/2005/10/16/where-are-they-now-1-lee-wall/
 date: '2005-10-16 23:11:10 +0100'
 date_gmt: '2005-10-16 23:11:10 +0100'
 categories:

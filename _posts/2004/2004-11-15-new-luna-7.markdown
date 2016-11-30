@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 100
-wordpress_url: http://www.fullofwishes.co.uk/2004/11/15/new-luna-7/
 date: '2004-11-15 09:52:42 +0000'
 date_gmt: '2004-11-15 09:52:42 +0000'
 categories:

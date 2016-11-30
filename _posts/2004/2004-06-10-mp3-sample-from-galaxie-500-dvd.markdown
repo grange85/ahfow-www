@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 75
-wordpress_url: http://www.fullofwishes.co.uk/2004/06/10/mp3-sample-from-galaxie-500-dvd/
 date: '2004-06-10 08:30:57 +0100'
 date_gmt: '2004-06-10 08:30:57 +0100'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 590
-wordpress_url: http://www.fullofwishes.co.uk/2007/12/13/what-else-is-out-there/
 date: '2007-12-13 17:41:58 +0000'
 date_gmt: '2007-12-13 17:41:58 +0000'
 categories:

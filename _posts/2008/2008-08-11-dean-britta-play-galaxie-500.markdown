@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 770
-wordpress_url: http://www.fullofwishes.co.uk/2008/08/11/dean-britta-play-galaxie-500/
 date: '2008-08-11 23:28:15 +0100'
 date_gmt: '2008-08-11 23:28:15 +0100'
 categories:

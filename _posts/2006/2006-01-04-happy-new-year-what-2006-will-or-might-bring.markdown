@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 335
-wordpress_url: http://www.fullofwishes.co.uk/2006/01/04/happy-new-year-what-2006-will-or-might-bring/
 date: '2006-01-04 11:01:20 +0000'
 date_gmt: '2006-01-04 11:01:20 +0000'
 categories:

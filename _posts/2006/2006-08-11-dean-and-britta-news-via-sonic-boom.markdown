@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 218
-wordpress_url: http://www.fullofwishes.co.uk/2006/08/11/dean-and-britta-news-via-sonic-boom/
 date: '2006-08-11 11:19:29 +0100'
 date_gmt: '2006-08-11 11:19:29 +0100'
 categories:

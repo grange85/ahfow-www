@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 99
-wordpress_url: http://www.fullofwishes.co.uk/2004/11/15/no-extra-track-on-japanese-rendezvous/
 date: '2004-11-15 12:43:06 +0000'
 date_gmt: '2004-11-15 12:43:06 +0000'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 523
-wordpress_url: http://www.fullofwishes.co.uk/1997/10/15/review-luna-la2-london-uk-15th-october-1997/
 date: '1997-10-15 00:00:00 +0100'
 date_gmt: '1997-10-15 00:00:00 +0100'
 categories:

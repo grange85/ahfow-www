@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 157
-wordpress_url: http://www.fullofwishes.co.uk/2005/12/08/damon-naomi-live-dvd-sold-out/
 date: '2005-12-08 09:39:00 +0000'
 date_gmt: '2005-12-08 09:39:00 +0000'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 260
-wordpress_url: http://www.fullofwishes.co.uk/2007/04/25/sean-eden-and-elk-city/
 date: '2007-04-25 12:55:13 +0100'
 date_gmt: '2007-04-25 12:55:13 +0100'
 categories:

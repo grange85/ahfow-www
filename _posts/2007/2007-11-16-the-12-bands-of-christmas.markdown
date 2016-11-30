@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 565
-wordpress_url: http://www.fullofwishes.co.uk/2007/11/16/the-12-bands-of-christmas/
 date: '2007-11-16 12:21:38 +0000'
 date_gmt: '2007-11-16 12:21:38 +0000'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 90
-wordpress_url: http://www.fullofwishes.co.uk/2004/09/29/rendezvous-available-for-amazon-pre-order/
 date: '2004-09-29 19:42:56 +0100'
 date_gmt: '2004-09-29 19:42:56 +0100'
 categories:

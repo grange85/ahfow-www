@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 163
-wordpress_url: http://www.fullofwishes.co.uk/2006/01/30/februarys-track-of-the-month/
 date: '2006-01-30 13:18:43 +0000'
 date_gmt: '2006-01-30 13:18:43 +0000'
 categories:

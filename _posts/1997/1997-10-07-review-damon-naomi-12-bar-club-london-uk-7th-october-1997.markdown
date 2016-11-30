@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 525
-wordpress_url: http://www.fullofwishes.co.uk/1997/10/07/review-damon-naomi-12-bar-club-london-uk-7th-october-1997/
 date: '1997-10-07 00:00:00 +0100'
 date_gmt: '1997-10-07 00:00:00 +0100'
 categories:

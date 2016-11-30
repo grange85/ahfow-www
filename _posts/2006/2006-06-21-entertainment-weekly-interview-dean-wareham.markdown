@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 214
-wordpress_url: http://www.fullofwishes.co.uk/2006/06/21/entertainment-weekly-interview-dean-wareham/
 date: '2006-06-21 00:18:45 +0100'
 date_gmt: '2006-06-21 00:18:45 +0100'
 categories:

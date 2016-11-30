@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 462
-wordpress_url: http://www.fullofwishes.co.uk/2007/09/24/a-luna-history-lesson-1-matt-quigley/
 date: '2007-09-24 23:26:24 +0100'
 date_gmt: '2007-09-24 23:26:24 +0100'
 categories:

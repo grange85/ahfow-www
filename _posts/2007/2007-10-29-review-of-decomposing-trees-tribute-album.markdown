@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 534
-wordpress_url: http://www.fullofwishes.co.uk/2007/10/29/review-of-decomposing-trees-tribute-album/
 date: '2007-10-29 16:21:59 +0000'
 date_gmt: '2007-10-29 23:21:59 +0000'
 categories:

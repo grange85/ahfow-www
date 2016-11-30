@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 264
-wordpress_url: http://www.fullofwishes.co.uk/2007/05/14/tmdymm-still-doing-the-festival-rounds/
 date: '2007-05-14 11:21:41 +0100'
 date_gmt: '2007-05-14 11:21:41 +0100'
 categories:

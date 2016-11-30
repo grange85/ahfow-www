@@ -12,8 +12,6 @@ author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 imageurl: http://media.fullofwishes.co.uk/05-dean_wareham/pictures/pumpkin-hell/pumpkin-hell-deanwareham_castpic-02.jpg
-wordpress_id: 2248
-wordpress_url: http://www.fullofwishes.co.uk/?p=2248
 date: '2011-10-31 00:00:18 +0000'
 date_gmt: '2011-10-31 00:00:18 +0000'
 categories:

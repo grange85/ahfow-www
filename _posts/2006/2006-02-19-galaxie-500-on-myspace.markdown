@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 168
-wordpress_url: http://www.fullofwishes.co.uk/2006/02/19/galaxie-500-on-myspace/
 date: '2006-02-19 10:24:04 +0000'
 date_gmt: '2006-02-19 10:24:04 +0000'
 categories:

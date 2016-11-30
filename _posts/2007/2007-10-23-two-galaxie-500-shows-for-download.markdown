@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 285
-wordpress_url: http://www.fullofwishes.co.uk/2007/10/23/two-galaxie-500-shows-for-download/
 date: '2007-10-23 22:33:17 +0100'
 date_gmt: '2007-10-23 22:33:17 +0100'
 categories:

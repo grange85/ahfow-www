@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 431
-wordpress_url: http://www.fullofwishes.co.uk/2006/10/04/audio-luna-kcrw-walk-on-the-wild-side/
 date: '2006-10-04 23:39:00 +0100'
 date_gmt: '2006-10-04 23:39:00 +0100'
 categories:

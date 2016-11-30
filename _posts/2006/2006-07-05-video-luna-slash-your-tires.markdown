@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 424
-wordpress_url: http://www.fullofwishes.co.uk/2006/07/05/video-luna-slash-your-tires/
 date: '2006-07-05 00:16:43 +0100'
 date_gmt: '2006-07-05 00:16:43 +0100'
 categories:

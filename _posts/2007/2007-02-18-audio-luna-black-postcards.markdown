@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 448
-wordpress_url: http://www.fullofwishes.co.uk/2007/02/18/audio-luna-black-postcards/
 date: '2007-02-18 00:20:05 +0000'
 date_gmt: '2007-02-18 00:20:05 +0000'
 categories:

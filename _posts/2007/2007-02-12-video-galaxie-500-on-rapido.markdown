@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 447
-wordpress_url: http://www.fullofwishes.co.uk/2007/02/12/video-galaxie-500-on-rapido/
 date: '2007-02-12 17:48:29 +0000'
 date_gmt: '2007-02-12 17:48:29 +0000'
 categories:

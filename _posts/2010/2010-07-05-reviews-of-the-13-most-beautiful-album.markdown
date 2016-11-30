@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 2017
-wordpress_url: http://www.fullofwishes.co.uk/2010/07/05/reviews-of-the-13-most-beautiful-album/
 date: '2010-07-05 09:07:36 +0100'
 date_gmt: '2010-07-05 08:07:36 +0100'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 265
-wordpress_url: http://www.fullofwishes.co.uk/2007/05/16/dean-britta-tour-europe-in-june/
 date: '2007-05-16 22:53:32 +0100'
 date_gmt: '2007-05-16 22:53:32 +0100'
 categories:

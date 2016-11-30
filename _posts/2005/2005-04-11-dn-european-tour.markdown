@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 121
-wordpress_url: http://www.fullofwishes.co.uk/2005/04/11/dn-european-tour/
 date: '2005-04-11 11:28:16 +0100'
 date_gmt: '2005-04-11 11:28:16 +0100'
 categories:

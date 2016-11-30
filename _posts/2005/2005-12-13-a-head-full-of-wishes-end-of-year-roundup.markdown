@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 334
-wordpress_url: http://www.fullofwishes.co.uk/2005/12/13/a-head-full-of-wishes-end-of-year-roundup/
 date: '2005-12-13 12:44:04 +0000'
 date_gmt: '2005-12-13 12:44:04 +0000'
 categories:

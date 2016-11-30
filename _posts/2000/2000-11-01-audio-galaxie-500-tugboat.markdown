@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 472
-wordpress_url: http://www.fullofwishes.co.uk/2000/11/01/audio-galaxie-500-tugboat/
 date: '2000-11-01 00:00:00 +0000'
 date_gmt: '2000-11-01 00:00:00 +0000'
 categories:

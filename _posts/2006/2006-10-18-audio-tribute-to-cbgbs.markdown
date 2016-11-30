@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 433
-wordpress_url: http://www.fullofwishes.co.uk/2006/10/18/audio-tribute-to-cbgbs/
 date: '2006-10-18 00:27:00 +0100'
 date_gmt: '2006-10-18 00:27:00 +0100'
 categories:

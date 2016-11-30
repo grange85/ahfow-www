@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 277
-wordpress_url: http://www.fullofwishes.co.uk/2007/08/08/stacks-of-dean-britta-live-videos-on-youtube/
 date: '2007-08-08 11:27:59 +0100'
 date_gmt: '2007-08-08 11:27:59 +0100'
 categories:

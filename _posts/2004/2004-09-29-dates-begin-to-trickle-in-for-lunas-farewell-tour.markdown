@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 91
-wordpress_url: http://www.fullofwishes.co.uk/2004/09/29/dates-begin-to-trickle-in-for-lunas-farewell-tour/
 date: '2004-09-29 19:47:19 +0100'
 date_gmt: '2004-09-29 19:47:19 +0100'
 categories:

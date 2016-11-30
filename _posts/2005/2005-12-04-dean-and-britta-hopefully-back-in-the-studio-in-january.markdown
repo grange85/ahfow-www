@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 155
-wordpress_url: http://www.fullofwishes.co.uk/2005/12/04/dean-and-britta-hopefully-back-in-the-studio-in-january/
 date: '2005-12-04 23:43:27 +0000'
 date_gmt: '2005-12-04 23:43:27 +0000'
 categories:

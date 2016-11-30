@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 231
-wordpress_url: http://www.fullofwishes.co.uk/2006/09/27/new-dean-and-britta-single-imminent/
 date: '2006-09-27 14:26:49 +0100'
 date_gmt: '2006-09-27 14:26:49 +0100'
 categories:

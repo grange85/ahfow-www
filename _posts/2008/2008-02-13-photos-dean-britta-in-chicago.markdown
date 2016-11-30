@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 614
-wordpress_url: http://www.fullofwishes.co.uk/2008/02/13/photos-dean-britta-in-chicago/
 date: '2008-02-13 16:42:07 +0000'
 date_gmt: '2008-02-13 16:42:07 +0000'
 categories:

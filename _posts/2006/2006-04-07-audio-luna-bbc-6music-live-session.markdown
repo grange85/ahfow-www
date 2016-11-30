@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 400
-wordpress_url: http://www.fullofwishes.co.uk/2006/04/07/audio-luna-bbc-6music-live-session/
 date: '2006-04-07 00:00:00 +0100'
 date_gmt: '2006-04-07 00:00:00 +0100'
 categories:

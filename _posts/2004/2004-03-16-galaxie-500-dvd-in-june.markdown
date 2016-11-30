@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 65
-wordpress_url: http://www.fullofwishes.co.uk/2004/03/16/galaxie-500-dvd-in-june/
 date: '2004-03-16 09:52:58 +0000'
 date_gmt: '2004-03-16 09:52:58 +0000'
 categories:

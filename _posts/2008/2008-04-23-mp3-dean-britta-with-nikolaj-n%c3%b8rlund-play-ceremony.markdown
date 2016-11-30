@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 665
-wordpress_url: http://www.fullofwishes.co.uk/2008/04/23/mp3-dean-britta-with-nikolaj-n%c3%b8rlund-play-ceremony/
 date: '2008-04-23 12:36:02 +0100'
 date_gmt: '2008-04-23 12:36:02 +0100'
 categories:

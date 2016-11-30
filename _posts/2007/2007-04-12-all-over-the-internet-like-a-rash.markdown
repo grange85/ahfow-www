@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 348
-wordpress_url: http://www.fullofwishes.co.uk/2007/04/12/all-over-the-internet-like-a-rash/
 date: '2007-04-12 15:42:41 +0100'
 date_gmt: '2007-04-12 15:42:41 +0100'
 categories:

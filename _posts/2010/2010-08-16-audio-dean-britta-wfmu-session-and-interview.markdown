@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 2047
-wordpress_url: http://www.fullofwishes.co.uk/2010/08/16/audio-dean-britta-wfmu-session-and-interview/
 date: '2010-08-16 12:52:43 +0100'
 date_gmt: '2010-08-16 11:52:43 +0100'
 categories:

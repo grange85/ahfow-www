@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 514
-wordpress_url: http://www.fullofwishes.co.uk/2005/04/01/review-luna-casts-long-shadow-on-inner-emotions/
 date: '2005-04-01 00:00:00 +0100'
 date_gmt: '2005-03-31 23:00:00 +0100'
 categories:

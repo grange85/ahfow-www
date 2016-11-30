@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 308
-wordpress_url: http://www.fullofwishes.co.uk/2002/12/20/survey-results-in/
 date: '2002-12-20 00:00:00 +0000'
 date_gmt: '2002-12-20 00:00:00 +0000'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 1987
-wordpress_url: http://www.fullofwishes.co.uk/2010/06/22/video-need-inspiration-for-the-ahfow-4th-of-july-comp/
 date: '2010-06-22 19:10:09 +0100'
 date_gmt: '2010-06-22 18:10:09 +0100'
 categories:

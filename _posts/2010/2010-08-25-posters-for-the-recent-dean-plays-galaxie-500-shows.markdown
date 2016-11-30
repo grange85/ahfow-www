@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 2065
-wordpress_url: http://www.fullofwishes.co.uk/2010/08/25/posters-for-the-recent-dean-plays-galaxie-500-shows/
 date: '2010-08-25 12:34:46 +0100'
 date_gmt: '2010-08-25 11:34:46 +0100'
 categories:

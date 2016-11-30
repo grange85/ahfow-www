@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 2042
-wordpress_url: http://www.fullofwishes.co.uk/2010/07/31/review-dean-britta-13-most-beautiful-the-barbican-london/
 date: '2010-07-31 08:11:05 +0100'
 date_gmt: '2010-07-31 07:11:05 +0100'
 categories:

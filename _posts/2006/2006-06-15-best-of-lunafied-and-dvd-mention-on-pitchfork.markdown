@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 212
-wordpress_url: http://www.fullofwishes.co.uk/2006/06/15/best-of-lunafied-and-dvd-mention-on-pitchfork/
 date: '2006-06-15 16:53:53 +0100'
 date_gmt: '2006-06-15 16:53:53 +0100'
 categories:

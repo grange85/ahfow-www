@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 563
-wordpress_url: http://www.fullofwishes.co.uk/2007/11/16/new-dean-britta-track-on-the-margot-at-the-wedding-soundtrack/
 date: '2007-11-16 11:21:24 +0000'
 date_gmt: '2007-11-16 11:21:24 +0000'
 categories:

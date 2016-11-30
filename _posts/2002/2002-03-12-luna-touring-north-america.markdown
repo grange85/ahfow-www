@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 15
-wordpress_url: http://www.fullofwishes.co.uk/2002/03/12/luna-touring-north-america/
 date: '2002-03-12 00:00:00 +0000'
 date_gmt: '2002-03-12 00:00:00 +0000'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 101
-wordpress_url: http://www.fullofwishes.co.uk/2004/11/25/luna-head-out-west/
 date: '2004-11-25 00:00:00 +0000'
 date_gmt: '2004-11-25 00:00:00 +0000'
 categories:

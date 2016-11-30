@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 85
-wordpress_url: http://www.fullofwishes.co.uk/2004/09/12/damon-naomi-join-the-swing-state-tour/
 date: '2004-09-12 19:50:46 +0100'
 date_gmt: '2004-09-12 19:50:46 +0100'
 categories:

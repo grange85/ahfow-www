@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 2236
-wordpress_url: http://www.fullofwishes.co.uk/2011/10/12/dean-britta-australian-tour-single/
 date: '2011-10-12 19:42:19 +0100'
 date_gmt: '2011-10-12 18:42:19 +0100'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 66
-wordpress_url: http://www.fullofwishes.co.uk/2004/03/23/galaxie-500-dvd-track-listing/
 date: '2004-03-23 12:11:46 +0000'
 date_gmt: '2004-03-23 12:11:46 +0000'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 232
-wordpress_url: http://www.fullofwishes.co.uk/2006/10/09/dean-and-britta-album-has-a-name/
 date: '2006-10-09 23:55:20 +0100'
 date_gmt: '2006-10-09 23:55:20 +0100'
 categories:

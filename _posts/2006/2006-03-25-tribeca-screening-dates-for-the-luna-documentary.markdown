@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 179
-wordpress_url: http://www.fullofwishes.co.uk/2006/03/25/tribeca-screening-dates-for-the-luna-documentary/
 date: '2006-03-25 23:22:21 +0000'
 date_gmt: '2006-03-25 23:22:21 +0000'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 2078
-wordpress_url: http://www.fullofwishes.co.uk/2010/09/19/video-dean-plays-galaxie-500-and-luna-in-atlanta/
 date: '2010-09-19 23:19:55 +0100'
 date_gmt: '2010-09-19 22:19:55 +0100'
 categories:

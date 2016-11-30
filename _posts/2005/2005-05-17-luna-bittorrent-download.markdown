@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 130
-wordpress_url: http://www.fullofwishes.co.uk/2005/05/17/luna-bittorrent-download/
 date: '2005-05-17 22:47:48 +0100'
 date_gmt: '2005-05-17 22:47:48 +0100'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 255
-wordpress_url: http://www.fullofwishes.co.uk/2007/03/14/dean-and-britta-review-and-pictures/
 date: '2007-03-14 14:26:17 +0000'
 date_gmt: '2007-03-14 14:26:17 +0000'
 categories:

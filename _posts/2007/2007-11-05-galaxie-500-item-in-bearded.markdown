@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 541
-wordpress_url: http://www.fullofwishes.co.uk/2007/11/05/galaxie-500-item-in-bearded/
 date: '2007-11-05 10:37:24 +0000'
 date_gmt: '2007-11-05 10:37:24 +0000'
 categories:

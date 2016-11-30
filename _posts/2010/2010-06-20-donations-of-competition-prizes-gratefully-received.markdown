@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 1976
-wordpress_url: http://www.fullofwishes.co.uk/2010/06/20/donations-of-competition-prizes-gratefully-received/
 date: '2010-06-20 21:25:11 +0100'
 date_gmt: '2010-06-20 20:25:11 +0100'
 categories:

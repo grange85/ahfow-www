@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 1929
-wordpress_url: http://www.fullofwishes.co.uk/2010/06/17/video-a-tugboat-covers-supplemental/
 date: '2010-06-17 10:47:50 +0100'
 date_gmt: '2010-06-17 10:47:50 +0100'
 categories:

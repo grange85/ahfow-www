@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 93
-wordpress_url: http://www.fullofwishes.co.uk/2004/10/05/why-luna-called-it-a-day/
 date: '2004-10-05 22:54:16 +0100'
 date_gmt: '2004-10-05 22:54:16 +0100'
 categories:

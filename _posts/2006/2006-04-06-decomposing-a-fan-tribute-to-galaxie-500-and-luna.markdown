@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 339
-wordpress_url: http://www.fullofwishes.co.uk/2006/04/06/decomposing-a-fan-tribute-to-galaxie-500-and-luna/
 date: '2006-04-06 14:23:05 +0100'
 date_gmt: '2006-04-06 14:23:05 +0100'
 categories:

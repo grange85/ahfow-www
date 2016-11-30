@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 377
-wordpress_url: http://www.fullofwishes.co.uk/2002/07/14/luna-deep-in-the-spectacle/
 date: '2002-07-14 00:00:00 +0100'
 date_gmt: '2002-07-14 00:00:00 +0100'
 categories:

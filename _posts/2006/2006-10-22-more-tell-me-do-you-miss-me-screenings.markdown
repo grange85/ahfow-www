@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 228
-wordpress_url: http://www.fullofwishes.co.uk/2006/10/22/more-tell-me-do-you-miss-me-screenings/
 date: '2006-10-22 20:17:05 +0100'
 date_gmt: '2006-10-22 20:17:05 +0100'
 categories:

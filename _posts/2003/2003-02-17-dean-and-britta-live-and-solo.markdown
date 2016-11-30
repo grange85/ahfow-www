@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 40
-wordpress_url: http://www.fullofwishes.co.uk/2003/02/17/dean-and-britta-live-and-solo/
 date: '2003-02-17 00:00:00 +0000'
 date_gmt: '2003-02-17 00:00:00 +0000'
 categories:

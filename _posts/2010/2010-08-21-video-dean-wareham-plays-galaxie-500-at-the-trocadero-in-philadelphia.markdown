@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 2064
-wordpress_url: http://www.fullofwishes.co.uk/2010/08/21/video-dean-wareham-plays-galaxie-500-at-the-trocadero-in-philadelphia/
 date: '2010-08-21 22:46:09 +0100'
 date_gmt: '2010-08-21 21:46:09 +0100'
 categories:

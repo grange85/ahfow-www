@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 2066
-wordpress_url: http://www.fullofwishes.co.uk/2010/08/25/free-screening-of-tell-me-do-you-miss-me-in-atlanta/
 date: '2010-08-25 19:49:17 +0100'
 date_gmt: '2010-08-25 18:49:17 +0100'
 categories:

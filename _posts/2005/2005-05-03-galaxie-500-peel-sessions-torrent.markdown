@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 127
-wordpress_url: http://www.fullofwishes.co.uk/2005/05/03/galaxie-500-peel-sessions-torrent/
 date: '2005-05-03 00:00:00 +0100'
 date_gmt: '2005-05-03 00:00:00 +0100'
 categories:

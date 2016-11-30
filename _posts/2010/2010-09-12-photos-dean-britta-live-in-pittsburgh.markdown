@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 2076
-wordpress_url: http://www.fullofwishes.co.uk/2010/09/12/photos-dean-britta-live-in-pittsburgh/
 date: '2010-09-12 09:20:24 +0100'
 date_gmt: '2010-09-12 08:20:24 +0100'
 categories:

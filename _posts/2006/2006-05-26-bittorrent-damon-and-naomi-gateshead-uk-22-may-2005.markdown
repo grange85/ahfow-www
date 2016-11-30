@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 204
-wordpress_url: http://www.fullofwishes.co.uk/2006/05/26/bittorrent-damon-and-naomi-gateshead-uk-22-may-2005/
 date: '2006-05-26 00:36:31 +0100'
 date_gmt: '2006-05-26 00:36:31 +0100'
 categories:

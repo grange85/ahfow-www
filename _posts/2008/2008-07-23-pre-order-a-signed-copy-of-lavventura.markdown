@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 743
-wordpress_url: http://www.fullofwishes.co.uk/2008/07/23/pre-order-a-signed-copy-of-lavventura/
 date: '2008-07-23 23:27:00 +0100'
 date_gmt: '2008-07-23 23:27:00 +0100'
 categories:

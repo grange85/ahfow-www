@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 632
-wordpress_url: http://www.fullofwishes.co.uk/2008/03/19/what-dya-thinkdo-you-think-chicks-dig-scars/
 date: '2008-03-19 13:25:08 +0000'
 date_gmt: '2008-03-19 13:25:08 +0000'
 categories:

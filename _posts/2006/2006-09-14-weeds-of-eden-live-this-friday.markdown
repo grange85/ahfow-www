@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 226
-wordpress_url: http://www.fullofwishes.co.uk/2006/09/14/weeds-of-eden-live-this-friday/
 date: '2006-09-14 17:05:18 +0100'
 date_gmt: '2006-09-14 17:05:18 +0100'
 categories:

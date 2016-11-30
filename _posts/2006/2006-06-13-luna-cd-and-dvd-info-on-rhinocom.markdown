@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 211
-wordpress_url: http://www.fullofwishes.co.uk/2006/06/13/luna-cd-and-dvd-info-on-rhinocom/
 date: '2006-06-13 21:08:00 +0100'
 date_gmt: '2006-06-13 21:08:00 +0100'
 categories:

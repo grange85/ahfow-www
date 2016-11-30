@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 2028
-wordpress_url: http://www.fullofwishes.co.uk/2010/07/13/mp3-luna-cover-kill-for-peace/
 date: '2010-07-13 22:53:01 +0100'
 date_gmt: '2010-07-13 21:53:01 +0100'
 categories:

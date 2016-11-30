@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 154
-wordpress_url: http://www.fullofwishes.co.uk/2005/11/29/where-are-they-now-3-lee-wall-and-britta-phillips/
 date: '2005-11-29 23:49:14 +0000'
 date_gmt: '2005-11-29 23:49:14 +0000'
 categories:

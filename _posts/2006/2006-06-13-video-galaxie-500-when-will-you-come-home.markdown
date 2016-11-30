@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 413
-wordpress_url: http://www.fullofwishes.co.uk/2006/06/13/video-galaxie-500-when-will-you-come-home/
 date: '2006-06-13 18:41:25 +0100'
 date_gmt: '2006-06-13 18:41:25 +0100'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 1879
-wordpress_url: http://www.fullofwishes.co.uk/2010/04/19/photos-dean-britta-live-pictures/
 date: '2010-04-19 19:56:00 +0100'
 date_gmt: '2010-04-19 19:56:00 +0100'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 415
-wordpress_url: http://www.fullofwishes.co.uk/2006/06/18/video-luna-perform-lovedust/
 date: '2006-06-18 10:55:42 +0100'
 date_gmt: '2006-06-18 10:55:42 +0100'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 453
-wordpress_url: http://www.fullofwishes.co.uk/2007/03/04/audio-magnetophone-damon-naomi-eta/
 date: '2007-03-04 22:48:46 +0000'
 date_gmt: '2007-03-04 22:48:46 +0000'
 categories:

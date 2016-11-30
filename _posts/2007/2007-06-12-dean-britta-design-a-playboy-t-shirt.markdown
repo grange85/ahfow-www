@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 268
-wordpress_url: http://www.fullofwishes.co.uk/2007/06/12/dean-britta-design-a-playboy-t-shirt/
 date: '2007-06-12 21:32:34 +0100'
 date_gmt: '2007-06-12 21:32:34 +0100'
 categories:

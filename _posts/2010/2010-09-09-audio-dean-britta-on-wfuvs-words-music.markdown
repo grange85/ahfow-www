@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 2070
-wordpress_url: http://www.fullofwishes.co.uk/2010/09/09/audio-dean-britta-on-wfuvs-words-music/
 date: '2010-09-09 08:28:07 +0100'
 date_gmt: '2010-09-09 07:28:07 +0100'
 categories:

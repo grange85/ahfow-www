@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 552
-wordpress_url: http://www.fullofwishes.co.uk/2007/11/08/a-sweet-spanish-cover-of-tugboat/
 date: '2007-11-08 15:56:51 +0000'
 date_gmt: '2007-11-08 15:56:51 +0000'
 categories:

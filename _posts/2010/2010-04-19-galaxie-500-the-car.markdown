@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 1880
-wordpress_url: http://www.fullofwishes.co.uk/2010/04/19/galaxie-500-the-car/
 date: '2010-04-19 21:53:15 +0100'
 date_gmt: '2010-04-19 21:53:15 +0100'
 categories:

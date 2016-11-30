@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 1882
-wordpress_url: http://www.fullofwishes.co.uk/2010/04/20/a-head-full-of-wishes-on-twitter/
 date: '2010-04-20 12:12:49 +0100'
 date_gmt: '2010-04-20 12:12:49 +0100'
 categories:

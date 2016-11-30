@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 529
-wordpress_url: http://www.fullofwishes.co.uk/1999/08/28/review-damon-naomi-ulu-london-uk-28th-august-1999/
 date: '1999-08-28 00:00:00 +0100'
 date_gmt: '1999-08-28 00:00:00 +0100'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 117
-wordpress_url: http://www.fullofwishes.co.uk/1999/04/16/luna-dropped-by-us-label-elektra/
 date: '1999-04-16 00:00:00 +0100'
 date_gmt: '1999-04-16 00:00:00 +0100'
 categories:

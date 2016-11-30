@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 1089
-wordpress_url: http://www.fullofwishes.co.uk/2009/03/10/photo-dean-america/
 date: '2009-03-10 13:47:50 +0000'
 date_gmt: '2009-03-10 13:47:50 +0000'
 categories:

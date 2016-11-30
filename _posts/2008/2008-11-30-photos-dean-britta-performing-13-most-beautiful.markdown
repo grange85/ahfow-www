@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 954
-wordpress_url: http://www.fullofwishes.co.uk/2008/11/30/photos-dean-britta-performing-13-most-beautiful/
 date: '2008-11-30 00:41:58 +0000'
 date_gmt: '2008-11-30 00:41:58 +0000'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 151
-wordpress_url: http://www.fullofwishes.co.uk/2005/11/21/where-are-they-now-2-sean-eden/
 date: '2005-11-21 09:48:12 +0000'
 date_gmt: '2005-11-21 09:48:12 +0000'
 categories:

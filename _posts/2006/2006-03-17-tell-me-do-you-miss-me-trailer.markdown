@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 177
-wordpress_url: http://www.fullofwishes.co.uk/2006/03/17/tell-me-do-you-miss-me-trailer/
 date: '2006-03-17 16:22:09 +0000'
 date_gmt: '2006-03-17 16:22:09 +0000'
 categories:

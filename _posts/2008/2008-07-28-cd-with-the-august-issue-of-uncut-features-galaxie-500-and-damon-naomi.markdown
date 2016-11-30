@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 756
-wordpress_url: http://www.fullofwishes.co.uk/2008/07/28/cd-with-the-august-issue-of-uncut-features-galaxie-500-and-damon-naomi/
 date: '2008-07-28 20:48:12 +0100'
 date_gmt: '2008-07-28 20:48:12 +0100'
 categories:

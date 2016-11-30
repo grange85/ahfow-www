@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 2098
-wordpress_url: http://www.fullofwishes.co.uk/2010/10/13/dean-britta-play-galaxie-500-for-kexp/
 date: '2010-10-13 11:56:57 +0100'
 date_gmt: '2010-10-13 10:56:57 +0100'
 categories:

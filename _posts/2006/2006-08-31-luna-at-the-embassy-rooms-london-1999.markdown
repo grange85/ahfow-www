@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 425
-wordpress_url: http://www.fullofwishes.co.uk/2006/08/31/luna-at-the-embassy-rooms-london-1999/
 date: '2006-08-31 17:12:57 +0100'
 date_gmt: '2006-08-31 17:12:57 +0100'
 categories:

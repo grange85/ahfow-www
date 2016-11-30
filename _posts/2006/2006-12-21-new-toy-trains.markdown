@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 240
-wordpress_url: http://www.fullofwishes.co.uk/2006/12/21/new-toy-trains/
 date: '2006-12-21 08:38:47 +0000'
 date_gmt: '2006-12-21 08:38:47 +0000'
 categories:

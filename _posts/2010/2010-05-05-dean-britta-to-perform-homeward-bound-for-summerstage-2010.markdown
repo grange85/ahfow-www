@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 1892
-wordpress_url: http://www.fullofwishes.co.uk/2010/05/05/dean-britta-to-perform-homeward-bound-for-summerstage-2010/
 date: '2010-05-05 15:36:59 +0100'
 date_gmt: '2010-05-05 15:36:59 +0100'
 categories:

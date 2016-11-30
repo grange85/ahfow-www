@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 609
-wordpress_url: http://www.fullofwishes.co.uk/2008/02/08/best-of-luna-sleeve-notes/
 date: '2008-02-08 00:52:10 +0000'
 date_gmt: '2008-02-08 00:52:10 +0000'
 categories:

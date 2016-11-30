@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 488
-wordpress_url: http://www.fullofwishes.co.uk/2003/04/02/review-kill-for-peace/
 date: '2003-04-02 00:00:00 +0100'
 date_gmt: '2003-04-01 23:00:00 +0100'
 categories:

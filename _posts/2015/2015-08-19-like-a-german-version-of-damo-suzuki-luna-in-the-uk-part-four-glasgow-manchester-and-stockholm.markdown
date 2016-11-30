@@ -11,8 +11,6 @@ author:
   url: ''
 author_login: joakim
 author_email: joakim@fullofwishes.co.uk
-wordpress_id: 13917
-wordpress_url: http://www.fullofwishes.co.uk/?p=13917
 date: '2015-08-19 21:30:38 +0100'
 date_gmt: '2015-08-19 20:30:38 +0100'
 categories:

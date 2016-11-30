@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 318
-wordpress_url: http://www.fullofwishes.co.uk/2004/01/01/happy-new-year/
 date: '2004-01-01 00:00:00 +0000'
 date_gmt: '2004-01-01 00:00:00 +0000'
 categories:

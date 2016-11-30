@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 637
-wordpress_url: http://www.fullofwishes.co.uk/2008/03/23/video-luna-indian-summer-in-valencia-1999/
 date: '2008-03-23 16:37:03 +0000'
 date_gmt: '2008-03-23 16:37:03 +0000'
 categories:

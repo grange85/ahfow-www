@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 78
-wordpress_url: http://www.fullofwishes.co.uk/2004/06/22/galaxie-500-single-delayed/
 date: '2004-06-22 10:03:37 +0100'
 date_gmt: '2004-06-22 10:03:37 +0100'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 351
-wordpress_url: http://www.fullofwishes.co.uk/2007/08/19/free-album-to-download/
 date: '2007-08-19 11:34:44 +0100'
 date_gmt: '2007-08-19 11:34:44 +0100'
 categories:

@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 1034
-wordpress_url: http://www.fullofwishes.co.uk/2009/02/02/some-nice-photos-of-dean-britta-in-vancouver/
 date: '2009-02-02 17:50:47 +0000'
 date_gmt: '2009-02-02 17:50:47 +0000'
 categories:

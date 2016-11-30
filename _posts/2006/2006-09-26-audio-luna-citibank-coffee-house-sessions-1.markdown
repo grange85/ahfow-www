@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 430
-wordpress_url: http://www.fullofwishes.co.uk/2006/09/26/audio-luna-citibank-coffee-house-sessions-1/
 date: '2006-09-26 10:32:11 +0100'
 date_gmt: '2006-09-26 10:32:11 +0100'
 categories:

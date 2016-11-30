@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 370
-wordpress_url: http://www.fullofwishes.co.uk/2002/01/31/lunar-eclipse-is-just-out-of-this-galaxie/
 date: '2002-01-31 00:00:00 +0000'
 date_gmt: '2002-01-31 00:00:00 +0000'
 categories:

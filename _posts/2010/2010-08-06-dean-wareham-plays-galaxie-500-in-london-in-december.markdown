@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 2044
-wordpress_url: http://www.fullofwishes.co.uk/2010/08/06/dean-wareham-plays-galaxie-500-in-london-in-december/
 date: '2010-08-06 10:22:47 +0100'
 date_gmt: '2010-08-06 09:22:47 +0100'
 categories:

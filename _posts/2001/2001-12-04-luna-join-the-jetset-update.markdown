@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 10
-wordpress_url: http://www.fullofwishes.co.uk/2001/12/04/luna-join-the-jetset-update/
 date: '2001-12-04 00:00:00 +0000'
 date_gmt: '2001-12-04 00:00:00 +0000'
 categories:

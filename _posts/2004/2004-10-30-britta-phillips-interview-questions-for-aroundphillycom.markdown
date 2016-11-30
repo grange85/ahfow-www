@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 389
-wordpress_url: http://www.fullofwishes.co.uk/2004/10/30/britta-phillips-interview-questions-for-aroundphillycom/
 date: '2004-10-30 00:00:00 +0100'
 date_gmt: '2004-10-30 00:00:00 +0100'
 categories:

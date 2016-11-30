@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 572
-wordpress_url: http://www.fullofwishes.co.uk/2007/11/26/damon-naomi-in-london-pics/
 date: '2007-11-26 00:33:30 +0000'
 date_gmt: '2007-11-26 00:33:30 +0000'
 categories:

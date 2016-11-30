@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 570
-wordpress_url: http://www.fullofwishes.co.uk/2007/11/20/video-luna-23-minutes-in-brussels/
 date: '2007-11-20 17:21:12 +0000'
 date_gmt: '2007-11-20 17:21:12 +0000'
 categories:

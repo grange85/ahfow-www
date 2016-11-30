@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 480
-wordpress_url: http://www.fullofwishes.co.uk/2002/11/01/audio-originals-fred-neil-everybodys-talkin/
 date: '2002-11-01 00:00:00 +0000'
 date_gmt: '2002-11-01 00:00:00 +0000'
 categories:

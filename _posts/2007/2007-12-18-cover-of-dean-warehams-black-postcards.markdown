@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 592
-wordpress_url: http://www.fullofwishes.co.uk/2007/12/18/cover-of-dean-warehams-black-postcards/
 date: '2007-12-18 10:57:13 +0000'
 date_gmt: '2007-12-18 10:57:13 +0000'
 categories:

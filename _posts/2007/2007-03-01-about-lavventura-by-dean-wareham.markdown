@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 450
-wordpress_url: http://www.fullofwishes.co.uk/2007/03/01/about-lavventura-by-dean-wareham/
 date: '2007-03-01 15:55:25 +0000'
 date_gmt: '2007-03-01 15:55:25 +0000'
 categories:

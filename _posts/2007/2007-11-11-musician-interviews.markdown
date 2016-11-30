@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 555
-wordpress_url: http://www.fullofwishes.co.uk/2007/11/11/musician-interviews/
 date: '2007-11-11 17:49:01 +0000'
 date_gmt: '2007-11-11 17:49:01 +0000'
 categories:

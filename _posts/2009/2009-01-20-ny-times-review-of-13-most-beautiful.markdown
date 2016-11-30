@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 1015
-wordpress_url: http://www.fullofwishes.co.uk/2009/01/20/ny-times-review-of-13-most-beautiful/
 date: '2009-01-20 23:39:05 +0000'
 date_gmt: '2009-01-20 23:39:05 +0000'
 categories:

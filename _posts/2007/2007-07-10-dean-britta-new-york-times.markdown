@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 271
-wordpress_url: http://www.fullofwishes.co.uk/2007/07/10/dean-britta-new-york-times/
 date: '2007-07-10 11:13:18 +0100'
 date_gmt: '2007-07-10 11:13:18 +0100'
 categories:
