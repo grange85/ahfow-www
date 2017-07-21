@@ -25,8 +25,8 @@ The show was one of the highs of a week of great shows the band played in the UK
 
 You can [download the whole show from NYCTaper](http://www.nyctaper.com/2015/09/luna-august-1-2015-leeds-uk-flacmp3streaming/) in either MP3 or FLAC and you can also stream a couple of tracks if you feel that you need to try before you download!
 
-You can read [Joakim's wonderful account of the show]({% post_url 2015-08-17-a-wilder-affair-luna-in-the-uk-part-three-leeds %}).  
-You can also [read my half-arsed review here]({% post_url 2015-08-03-luna-in-london-and-leeds %}).
+You can read <a href="/2015/08/17/a-wilder-affair-luna-in-the-uk-part-three-leeds/">Joakim's wonderful account of the show</a>.
+You can also read <a href="/2015/08/03/luna-in-london-and-leeds/">my half-arsed review</a> here.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/222838156&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 

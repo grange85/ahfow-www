@@ -25,7 +25,7 @@ For the 2004 film <a href="http://en.wikipedia.org/wiki/Clean_%282004_film%29">C
 <p>The soundtrack album also contains the Dean & Britta track Knives from Bavaria<br />
 Wait for Me was re-recorded by Dean & Britta for their 2007 album Back Numbers. The other track was this one - Strawberry Stain - </p>
 
-{% ahfowaudio "http://media.fullofwishes.co.uk/00-misc/audio/02_Maggie-Cheung_Strawberry-Stain.m4a" "m4a" %}
+{% ahfowaudio "http://media.fullofwishes.co.uk/00-misc/audio/02_Maggie-Cheung_Strawberry-Stain.m4a" "Strawberry Stain - Maggie Cheung (m4a)" %}
 
 <p><strong>Update: 2013-06-07</strong></p>
 {% ahfowaudio "http://media.fullofwishes.co.uk/00-misc/audio/09_Maggie-Cheung_Wait-for-Me.m4a" "Wait For Me - Maggie Cheung (m4a)" %}

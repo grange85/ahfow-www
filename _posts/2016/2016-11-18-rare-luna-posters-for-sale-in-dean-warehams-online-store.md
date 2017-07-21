@@ -13,7 +13,7 @@ author:
 date: '2016-11-18 23:00:00 +0000'
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-fiery-breeze-poster-attic-sale.jpg
 categories:
- - Luna
+ - luna
  - news
 tags:
  - posters

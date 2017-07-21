@@ -13,7 +13,7 @@ imageurl: https://c2.staticflickr.com/6/5484/29764174064_da1ae06ea2_b.jpg
 description: |
   Britta Phillips played at the legendary L'Olympia in Paris supporting Keren Ann on Saturday - here's a quick roundup
 categories:
- - britta
+ - britta phillips
 tags:
  - photos
  - video

@@ -7,7 +7,6 @@
   </div>
 </div>
 
-
 <div class="panel panel-primary">
   <div class="panel-heading">
     <h3 class="panel-title">A Head Full of Wishes</h3>
@@ -32,7 +31,7 @@
 		<ul>
 			{% assign allcategories = site.categories | sort %}
 			{% for category in allcategories %}
-				<li><a href="{{ category | first | slugify | prepend: '/category/' }}">{{ category | first }}</a> ({{ category | last | size }})</li>
+				<li><a href="{{ category | first | slugify | prepend: '/category/' }}">{{ category | first }}</a></li>
 			{% endfor %}
 		</ul>
 	</div>

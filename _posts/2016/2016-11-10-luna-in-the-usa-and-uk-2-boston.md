@@ -20,7 +20,7 @@ tags:
  - review
 photos: 
   - type: ahfow-set
-    photographer: Joakim Bengtsson
+    photographer: Frank Silvestry and Joakim Bengtsson
     data: |
       [
         {

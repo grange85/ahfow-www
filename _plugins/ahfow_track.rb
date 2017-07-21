@@ -45,7 +45,9 @@ eos
     end
 
     def track_tag(trackname)
-        slugged = Utils.slugify(trackname)
+        slugged = trackname.gsub('&apos;', '\'')
+        slugged = slugged.gsub('&amp;', '&')
+        slugged = Utils.slugify(slugged)
         "<a href=\"http://db.fullofwishes.co.uk/tracks/#{slugged}/ \">#{trackname}</a>"
     end
   end

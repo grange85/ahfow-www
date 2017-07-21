@@ -13,7 +13,7 @@ author:
 date: '2016-11-26 23:00:00 +0000'
 imageurl: http://media.fullofwishes.co.uk/02-luna/show_assets/1996-06-07/1996-06-07-luna-poster.jpg
 categories:
- - Luna
+ - luna
  - news
 tags:
  - dimeadozen

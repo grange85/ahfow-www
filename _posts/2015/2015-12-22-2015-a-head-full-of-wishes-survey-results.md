@@ -33,7 +33,7 @@ tags:
 <tr><td>Blue Thunder</td>	<td>22</td>	<td>8.7</td></tr>
 <tr><td>Strange</td>	<td>19</td>	<td>7.5</td></tr>
 <tr><td>Ceremony</td>	<td>18</td>	<td>7.1</td></tr>
-<table>
+</table>
 <h2>Luna</h2>
 <h3>Favourite album</h3>
 {% ahfowimage "http://media.fullofwishes.co.uk/00-misc/survey-2015/survey-2015-luna.png" "" %}

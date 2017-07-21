@@ -2,6 +2,9 @@
 layout: page
 title: Home
 position: home
+description: > 
+  A Head Full of Wishes is a site for Galaxie 500, Luna, Damon & Naomi, Dean & Britta 
+  and Dean Wareham. With news, articles and lists of releases and past and future shows. 
 ---
     {% if paginator.page == 1 %}
     {% for post in site.tags.pinned %}
@@ -18,7 +21,7 @@ position: home
                 <a
                     href="https://twitter.com/share"
                     class="twitter-share-button"
-                    data-url="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
+                    data-url="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url  }}"
                     data-via="ahfow"
                     data-related="grange85"
                     data-hashtags="ahfow">
@@ -75,7 +78,7 @@ position: home
                 <a
                     href="https://twitter.com/share"
                     class="twitter-share-button"
-                    data-url="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
+                    data-url="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url  }}"
                     data-via="ahfow"
                     data-related="grange85"
                     data-hashtags="ahfow">
@@ -84,7 +87,7 @@ position: home
             <span class="facebook">
                 <div 
                     class="fb-like" 
-                    data-href="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
+                    data-href="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url  }}"
                     data-layout="button_count" 
                     data-action="like" 
                     data-show-faces="false" 

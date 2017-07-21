@@ -14,6 +14,7 @@ date: '2016-11-30 23:00:00 +0000'
 imageurl: http://media.fullofwishes.co.uk/00-misc/audio/decomposing-the-songs-of-galaxie-500-and-luna/decomposing-sleeve.jpg
 categories:
  - galaxie 500
+ - favourite galaxie 500 covers
 tags:
  - ron harrity
  - nord express

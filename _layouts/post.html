@@ -1,83 +1,82 @@
-<!DOCTYPE html>
-<html>
-	{% include head.html %}
-	<body>
-		{% include tagmanager.html %}
-		{% include header.html %}
-		<div class="container">
-			<div class="row">
-				<div class="wrapper col-md-9">
-					<div class="row">
-						<div class="col-md-12">
-							<div class="panel panel-default">
-								<div class="panel-heading"><h2>{{ page.title }}</h2></div>
-								<div class="panel-body">
-									{% include social.html %}
-							        <p class="byline">Posted by 
-							        	{% if page.author.display_name != 'Andy' %}<a href="/authors/">{{page.author.display_name}}</a>
-							        	{% else %}{{page.author.display_name}}
-							        	{% endif %}
-							        	 on {{ page.date | date: "%-d %B %Y" }}</p>
-							        {% if page.categories %}<p class="pull-left">in categories: </p>
-							        <ul class="categories list-inline">
-								        {% for category in page.categories %}
-								        <li><a class="label label-primary" href="{{ category | slugify | prepend: '/category/' }}">{{ category }}</a></li>
-								        {% endfor %}
-							        </ul>
-							        {% endif %}
-									<article class="post-content">
-										{{ content }}
-									</article>
+---
+layout: default
+---
+<div class="row">
+	<div class="col-md-12">
+		<div class="panel panel-default">
+			<div class="panel-heading"><h2>{{ page.title }}</h2></div>
+			<div class="panel-body">
+				{% include social.html %}
+		        <p class="byline">Posted by 
+		        	{% if page.author.display_name != 'Andy' %}<a href="/authors/">{{page.author.display_name}}</a>
+		        	{% else %}{{page.author.display_name}}
+		        	{% endif %}
+		        	 on {{ page.date | date: "%-d %B %Y" }}</p>
+		        {% if page.categories %}<p class="pull-left">in categories: </p>
+		        <ul class="categories list-inline">
+			        {% for category in page.categories %}
+			        <li><a class="label label-primary" href="{{ category | slugify | prepend: '/category/' }}">{{ category }}</a></li>
+			        {% endfor %}
+		        </ul>
+		        {% endif %}
+				<article class="post-content">
+					{{ content }}
+				</article>
 
-									{% if page.photos %}
-									<div class="row">
-										<div class="col-md-12">
-											<h3>Photos</h3>
-											{% assign count = 0 %}
-											{% for gallery in page.photos %}
-												{% assign count = count | plus: 1 %}
-												{% case gallery.type %}
-													{% when "flickr-set" %}
-														<h4><a href="https://www.flickr.com/photos/{{gallery.user}}/sets/{{gallery.id}}">Photos by <strong>{{gallery.user}}</strong> on Flickr</a></h4>
-													{% when "ahfow-set" %}
-														<h4>Photos by {{gallery.photographer}}</h4>
-												{% endcase %}
-												<div class="galleria" id="galleria-{{count}}"></div>
-											{% endfor %}
-										</div>
-									</div>
-									{% endif %}
+				{% if page.related %}
+				<div class="panel panel-default">
+				  <div class="panel-heading">
+				    <h3 class="panel-title">Related links</h3>
+				  </div>
+				  <div class="panel-body">
+				  <ul>
+				  {% for page in page.related %}
+				    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+				  {% endfor %}
+				    </ul>
+				  </div>
+				</div>
+				{% endif %}
 
 
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-12">
-							<ul class="pager">
-								{% if page.next.url and page.next.draft != true %}
-								<li class="previous"><a href="{{page.next.url}}">&laquo; {{page.next.title}}</a></li>
-								{% endif %}
-								{% if page.previous.url %}
-								<li class="next"><a class="prev" href="{{page.previous.url}}">{{page.previous.title}} &raquo;</a></li>
-								{% endif %}
-							</ul>
-							<div 
-								class="fb-comments" 
-								data-href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" 
-								data-numposts="5" 
-								data-colorscheme="light" 
-								data-width="100%">
-							</div>
-						</div>
+				{% if page.photos %}
+				<div class="row">
+					<div class="col-md-12">
+						<h3>Photos</h3>
+						{% assign count = 0 %}
+						{% for gallery in page.photos %}
+							{% assign count = count | plus: 1 %}
+							{% case gallery.type %}
+								{% when "flickr-set" %}
+									<h4><a href="https://www.flickr.com/photos/{{gallery.user}}/sets/{{gallery.id}}">Photos by <strong>{{gallery.user}}</strong> on Flickr</a></h4>
+								{% when "ahfow-set" %}
+									<h4>Photos by {{gallery.photographer}}</h4>
+							{% endcase %}
+							<div class="galleria" id="galleria-{{count}}"></div>
+						{% endfor %}
 					</div>
 				</div>
-				<div class="col-md-3">
-					{% include sidebar.html %}
-				</div>
+				{% endif %}
 			</div>
 		</div>
-		{% include footer.html %}
-	</body>
-</html>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12">
+		<ul class="pager">
+			{% if page.next.url and page.next.draft != true %}
+			<li class="previous"><a href="{{page.next.url}}">&laquo; {{page.next.title}}</a></li>
+			{% endif %}
+			{% if page.previous.url %}
+			<li class="next"><a class="prev" href="{{page.previous.url}}">{{page.previous.title}} &raquo;</a></li>
+			{% endif %}
+		</ul>
+		<div 
+			class="fb-comments" 
+			data-href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" 
+			data-numposts="5" 
+			data-colorscheme="light" 
+			data-width="100%">
+		</div>
+	</div>
+</div>

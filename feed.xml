@@ -24,7 +24,7 @@ layout: null
         <title>{{ post.title | xml_escape }}</title>
         <description>{{ post.content | xml_escape }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+        <link>{{ site.domian }}{{ post.url | prepend: site.baseurl }}</link>
         {% if post.enclosure.url contains ".mp3" %}
             <enclosure url="{{post.enclosure.url}}" length="{{post.enclosure.length}}" type="audio/mpeg" />
         {% endif %}

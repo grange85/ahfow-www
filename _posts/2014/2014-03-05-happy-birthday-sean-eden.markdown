@@ -26,11 +26,25 @@ Luna - Friendly Advice MTV 120 Minutes<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/26c-CCQ6-rs" frameborder="0" allowfullscreen></iframe>
 <p>Luna - Dear Diary & Hello Little One<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yj5xwGgMo8g" frameborder="0" allowfullscreen></iframe>
-<p>... and a couple of MP3s<br />
-<a href="http://media.fullofwishes.co.uk/02-luna/audio/Luna_2005-01-17_%20BBC6Music_02_Luna_Broken-Chair.mp3">MP3: Luna - Broken Chair - BBC 6Music - 17 January 2005</a><br />
-<audio src="http://media.fullofwishes.co.uk/02-luna/audio/Luna_2005-01-17_%20BBC6Music_02_Luna_Broken-Chair.mp3" preload="none" controls /></p>
+<p>... and a couple of MP3s</p>
 
-{% ahfowaudio "http://dev.seaneden.com/wp-content/uploads/2010/06/Spanish_Odyssey_edit.mp3" "MP3: Sean Eden - Spanish Odyssey" %}
+{% ahfowaudio2
+  {
+  "audiourl": "http://media.fullofwishes.co.uk/02-luna/audio/2005-01-17-bbc6music-luna-broken-chair.mp3",
+  "audiocap": "Luna - Broken Chair - BBC 6Music - 17 January 2005",
+  "sourceurl": "http://db.fullofwishes.co.uk/luna/shows/2005/2005-01-17-luna-bbc-6-music-london-uk/",
+  "sourcecap": "17 January 2005 - Luna - BBC 6 Music, London, UK"
+  }
+%}
+
+{% ahfowaudio2
+  {
+  "audiourl": "http://media.fullofwishes.co.uk/02-luna/audio/tmdymm/06-sean-eden-spanish-odyssey.mp3",
+  "audiocap": "Sean Eden - Spanish Odyssey",
+  "sourceurl": "http://www.fullofwishes.co.uk/2013/05/10/audio-lost-tracks-tell-me-do-you-miss-me/",
+  "sourcecap": "Tell Me Do You Miss Me"
+  }
+%}
 
 <p>... and losing at chess and throwing some shapes in the video for Cherries in The Snow by Elk City<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TZ6B3TAVQE0" frameborder="0" allowfullscreen></iframe>

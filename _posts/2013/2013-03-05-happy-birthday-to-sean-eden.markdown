@@ -20,7 +20,16 @@ tags: []
 ---
 <p><a href="http://www.flickr.com/photos/birzer/407550991/" title="Luna 28 January 2005 Austin TX by birzer, on Flickr"><img class="aligncenter" src="http://farm1.staticflickr.com/153/407550991_6aaea509e0_z.jpg?zz=1" width="427" height="640" alt="Luna 28 January 2005 Austin TX"></a><br />
 Happy Birthday to former Luna guitarist Sean Eden</p>
-<p><a href="http://media.fullofwishes.co.uk/02-luna/audio/Luna_2005-01-17_%20BBC6Music_02_Luna_Broken-Chair.mp3">MP3: Broken Chair - BBC 6Music - 17 January 2005</a> [audio http://media.fullofwishes.co.uk/02-luna/audio/Luna_2005-01-17_%20BBC6Music_02_Luna_Broken-Chair.mp3]</p>
+
+{% ahfowaudio2
+  {
+  "audiourl": "http://media.fullofwishes.co.uk/02-luna/audio/2005-01-17-bbc6music-luna-broken-chair.mp3",
+  "audiocap": "Luna - Broken Chair - BBC 6Music - 17 January 2005",
+  "sourceurl": "http://db.fullofwishes.co.uk/luna/shows/2005/2005-01-17-luna-bbc-6-music-london-uk/",
+  "sourcecap": "17 January 2005 - Luna - BBC 6 Music, London, UK"
+  }
+%}
+
 <p>And surely we'll never get tired of how awesome Sean looked with long hair? Here's Luna performing California (All The Way) in 1994<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZU3QFvaMQPs" frameborder="0" allowfullscreen></iframe>
 <p>Have a great day Sean.</p>

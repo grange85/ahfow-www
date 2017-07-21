@@ -12,6 +12,7 @@ date: '2016-11-11 09:00:00 +0000'
 imageurl: https://c1.staticflickr.com/3/2469/3537950777_8dcef52ce5_z.jpg
 categories:
  - galaxie 500
+ - favourite galaxie 500 covers
 tags:
  - Hefner
  - cover versions

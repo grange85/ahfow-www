@@ -1,27 +1,10 @@
-<!DOCTYPE html>
-<html>
-	{% assign newtitle = page.title %}
-	{% include head.html %}
-<body>
-	{% include tagmanager.html %}
-	{% include header.html %}
-	{% include social.html %}
-	<div class="container">
-		<div class="row">
-			<div class="wrapper col-md-9">
-				{% if page.position != 'home' %}
-				<div class="page-header">
-					<h2>{% if newtitle %}{{ newtitle }}{% else %}{{ page.title }}{% endif %}</h2>
-				</div>
-				{% endif %}
-				{{ content }}
-				<div id="galleria-1"></div>
-			</div>
-			<div class="col-md-3">
-				{% include sidebar.html %}
-			</div>
-		</div>
+---
+layout: default
+---
+	{% if page.position != 'home' %}
+	<div class="page-header">
+		<h2>{% if newtitle %}{{ newtitle }}{% else %}{{ page.title }}{% endif %}</h2>
 	</div>
-	{% include footer.html %}
-</body>
-</html>
+	{% endif %}
+	{{ content }}
+	<div id="galleria-1"></div>
