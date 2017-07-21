@@ -1,0 +1,53 @@
+---
+layout: post
+status: publish
+published: true
+draft: false
+sitemap: true
+title: Luna play three albums in three nights in SF (a round-up)
+author:
+  display_name: Andy
+  login: admin
+  email: andy@grange85.co.uk
+  url: http://www.grange85.co.uk
+date: 2017-01-23 20:00 +0000
+imageurl: http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/2017-01-21-chapel-sf-harrison-price-005.jpg
+categories:
+ - luna
+ - news
+tags:
+ - rendezvous
+ - penthouse
+ - bewitched
+ - the chapel
+ - san francisco
+longpost: true
+---
+{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/2017-01-21-chapel-sf-harrison-price-005.jpg" "Luna in San Francisco (photo Harrison Price)" %}
+<p class="lead">From Thursday to Saturday last week Luna played a three night residency as The Chapel in San Francisco, playing a different album each night&hellip; here's a quick round-up of those shows. Lots of friends of AHFoW were at the show so hopefully someone will give the site a first person insight (hint).</p> 
+
+<!--more-->
+<p>If anyone has anything to add to this post pop in a comment down there, or <a href="http://www.fullofwishes.co.uk/about/">contact me directly</a>.
+
+{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01/2017-01-luna-chapel-sf-poster.jpg" "Beautiful screen printed poster for the shows" %}
+
+<p><a href="https://www.facebook.com/pg/DoTheBay/photos/?tab=album&album_id=1216621175054307">A nice set of pictures by Jacob Romero on the Do The Bay facebook page</a></p>
+
+<h3>Thursday: Bewitched</h3>
+{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-19/2017-01-19-chapel-sf-harrison-price-010.jpg" "Bewitched (photo: Harrison Price)" %}
+<p><a href="http://db.fullofwishes.co.uk/luna/shows/2017/2017-01-19-luna-the-chapel-san-francisco-ca-usa/">Setlist¸ poster, videos and pictures from the Bewitched show on AHFoW</a></p>
+<p><a href="http://www.dimeadozen.org/torrents-details.php?id=582599">Full Bewitched set to download from bittorrent site Dimeadozen</a></p>
+<p><a href="http://www.dimeadozen.org/torrents-details.php?id=582598">Full Britta support set to download from bittorrent site Dimeadozen</a></p>
+{% ahfowvideo "LtH2addmMdo" "Kelly's beautioful trumpet solo on Bewitched" %}
+
+<h3>Friday: Penthouse</h3>
+{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-chapel-sf-kevin-hudson-004.jpg" "Penthouse (photo: Keviun Hudson)" %}
+<p><a href="http://db.fullofwishes.co.uk/luna/shows/2017/2017-01-20-luna-the-chapel-san-francisco-ca-usa/">Setlist¸ poster, videos and pictures from the Penthouse show on AHFoW</a></p>
+<p><a href="http://www.dimeadozen.org/torrents-details.php?id=582681">Full Penthouse set to download from bittorrent site Dimeadozen</a></p>
+{% ahfowvideo "MdflAFjFlWE" "Luna playing Double Feature" %}
+
+<h3>Saturday: Rendezvous</h3>
+{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/2017-01-21-chapel-sf-harrison-price-005.jpg" "Rendezvous (photo: Harrison Price)" %}
+<p><a href="http://db.fullofwishes.co.uk/luna/shows/2017/2017-01-21-luna-the-chapel-san-francisco-ca-usa/">Setlist¸ poster, videos and pictures from the Rendezvous show on AHFoW</a></p>
+<p><a href="http://www.dimeadozen.org/torrents-details.php?id=582715">Full Rendezvous set to download from bittorrent site Dimeadozen</a></p>
+{% ahfowvideo "PwSQYrGODEw" "Luna playing Star Spangled Man with topical lyrics" %}
