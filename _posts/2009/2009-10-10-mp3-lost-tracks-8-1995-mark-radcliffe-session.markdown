@@ -28,6 +28,3 @@ tags: []
 <li><a href="http://www.box.net/shared/xpa8fgun1k">Lost in Space</a> (4.8MB)</li>
 <li><a href="http://www.box.net/shared/obvpf2o7dn">23 Minutes in Brussels</a> (7.7MB)</li>
 </ul>
-<p><ins datetime="2009-10-11T11:50:06+00:00">
-<p>UPDATE: There were some digital blips in my rip so I've taken new rips from the CD - not sure they're any better...</p>
-<p></ins></p>

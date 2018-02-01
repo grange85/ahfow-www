@@ -20,7 +20,7 @@ tags: []
 ---
 <p><a href="http://www.flickr.com/photos/93794413@N00/6759333055/" title="Rutles - I Must Be In Love by The Downstairs Lounge, on Flickr"><img class="aligncenter" src="http://farm8.staticflickr.com/7164/6759333055_c2b429f697.jpg" width="500" height="500" alt="Rutles - I Must Be In Love"></a></p>
 <p>The Rutles were a parody of The Beatles created by Eric Idle and with wonderfully authentic sounding songs written by Neil Innes - such good parodies they were that Cheese and Onions eventually had to be credited to (Innes/Lennon/McCartney). The song first turned up in the TV film "All You Need is Cash" and on the album released to accompany it. It was also released as a 7" single.<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jqiXh7w7N_w<br />" frameborder="0" allowfullscreen></iframe>
+{% ahfowvideo "ePaHG6g7uFw" "The Rutles - Cheese and Onions" %}
 <a id="more"></a><a id="more-3907"></a><br />
 Galaxie 500 covered it for the Shimmy Disc tribute album <a href="/database/release/rutles-highway-revisited/">Rutles Highway Revisited</a><br />
 </p>

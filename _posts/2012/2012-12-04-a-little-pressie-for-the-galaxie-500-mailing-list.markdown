@@ -24,13 +24,15 @@ tags: []
 <p>I've been idling away my time because it seemed hilarious when I thought of it, so... for all Galaxie 500 Mailing List fans... consider this your xmas pressie...</p>
 
 
-<figure class="caption aligncenter"><video width="480" height="360" controls>
-  <source src="http://media.fullofwishes.co.uk/video/lunawc2.mp4" type="video/mp4">
-</video>
+<figure class="caption aligncenter">
+<div class="embed-responsive embed-responsive-4by3">
+	<video class="embed-responsive-item" controls>
+		<source src="http://media.fullofwishes.co.uk/video/lunawc2.mp4" type="video/mp4">
+	</video>
+</div>
 <figcaption class="caption-text">We're simply having a wonderful xmastime</figcaption></figure>
 
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/R1-sXrdQtog" frameborder="0" allowfullscreen></iframe>
+{% ahfowvideo "PYp5de3Lt2c" "Macca - Wonderful Christmastime" %}
 
 <p>To both Luna and Macca, I humbly apologise...</p>
 <p>... everyone else just walk on...</p>
