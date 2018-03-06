@@ -23,7 +23,7 @@ tags: []
 <a href="http://www.flickr.com/photos/97019847@N00/11128980054" title="IMG_7151 by Clay, on Flickr"><img src="http://farm3.staticflickr.com/2813/11128980054_5489f3165b_z.jpg" width="640" height="480" alt="IMG_7151"></a></p>
 <p><a href="http://www.flickr.com/search/?w=97019847@N00&q=dean%20wareham">MudBoy on Flickr has a shed-load of photos, and a few short videos online</a>:</p>
 <p>michaelfgioia on YouTube has a couple of videos:</p>
-<p>Ride Into The Sun:<br />
+<p>Ride Into the Sun:<br />
 </p>
 {% ahfowvideo "yxFUtxs4Oy0" "" %}
 <p>Lost in Space:<br />

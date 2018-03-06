@@ -38,13 +38,13 @@ longpost: true
 
 <p>In honour of that, and as today is Bastille Day, we'llc elebrate with some french flavoured AHFoW tracks:</p>
 <!--more-->
-<p>First up Luna playing Bonnie & Clyde in Porto last year&hellip;</p>
-{% ahfowvideo "XxE170KbLbM" "Luna playing Bonnie & Clyde in Porto in 2015" %}
-<p>Next, their cover of Polnareff's La poupee qui fait non:</p>
+<p>First up Luna playing Bonnie and Clyde in Porto last year&hellip;</p>
+{% ahfowvideo "XxE170KbLbM" "Luna playing Bonnie and Clyde in Porto in 2015" %}
+<p>Next, their cover of Polnareff's La poupée qui fait non:</p>
 {% ahfowaudio2
   {
   "audiourl": "http://media.fullofwishes.co.uk/02-luna/audio/03-luna-la-poupee-qui-fait-non.mp3",
-  "audiocap": "La poupee qui fait non - Luna",
+  "audiocap": "La poupée qui fait non - Luna",
   "sourceurl": "http://db.fullofwishes.co.uk/luna/releases/luna-lunafied-luna-covers/",
   "sourcecap": "Lunafied"
   }
@@ -74,7 +74,7 @@ longpost: true
 {% ahfowaudio2
   {
   "audiourl": "http://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-amd-britta-keren-ann-2008-02-15-bonnie-and-clyde.mp3",
-  "audiocap": "Dean & Britta with Keren Ann - Bonnie & Clyde",
+  "audiocap": "Dean & Britta with Keren Ann - Bonnie and Clyde",
   "sourceurl": "",
   "sourcecap": "KEXP"
   }

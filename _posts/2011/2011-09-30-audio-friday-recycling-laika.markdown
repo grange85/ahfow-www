@@ -19,7 +19,7 @@ categories:
 tags: []
 ---
 <p><img src="http://www.fullofwishes.co.uk/wp/wp-content/uploads/2011/09/laika.jpg" alt="" title="laika" width="550" height="405" class="aligncenter size-full wp-image-2228" /></p>
-<p><iframe width="400" height="100" style="position: relative; display: block; width: 400px; height: 100px;" src="http://bandcamp.com/EmbeddedPlayer/v=2/track=2441630391/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://damonandnaomi.bandcamp.com/track/laika">Laika by Damon &amp; Naomi</a></iframe></p>
+<p><iframe width="400" height="100" style="position: relative; display: block; width: 400px; height: 100px;" src="http://bandcamp.com/EmbeddedPlayer/v=2/track=2441630391/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://damonandnaomi.bandcamp.com/track/laika">Laika by Damon & Naomi</a></iframe></p>
 <p>Laika first appeared on Damon & Naomi's first album More Sad Hits but had been recorded earlier for the short lived outfit Magnetophone - you can <a href="/2006/03/02/audio-magnetophone-laika/">read more about them on my previous posting of this version of Laika</a>:</p>
 <p><a href="http://www.box.net/shared/rxrcjkyddb">Magnetophone - Laika</a> (mp3 via box.net)</p>
 <p>Here's a recording of the duo performing the song at the first Terrastock festival in Providence in April 1997:</p>

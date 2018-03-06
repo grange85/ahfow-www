@@ -33,11 +33,11 @@ Penthouse was released a few months before the first survey and in that poll onl
 <p><strong>Favourite Luna track</strong><br />
 The same survey that saw Penthouse hit the top saw 23 Minutes in Brussels become Luna's undisputed champion track.</p>
 <p><strong>Favourite Damon & Naomi album</strong><br />
-Damon & Naomi's first album More Sad Hits has always topped the poll, but all Damon & Naomi's albums have fans and, as I always do, I'd suggest to any folk who only have their first, <a href="http://damonandnaomi.bandcamp.com/">go listen to some more D&N</a>!<br />
+Damon & Naomi's first album More Sad Hits has always topped the poll, but all Damon & Naomi's albums have fans and, as I always do, I'd suggest to any folk who only have their first, <a href="http://damonandnaomi.bandcamp.com/">go listen to some more Damon & Naomi</a>!<br />
 <figure class="caption aligncenter"><img src="http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_moresadhits.jpg" width="1125" height="1125" class /><figcaption class="caption-text"> Favourite Damon & Naomi album - More Sad Hits</figcaption></figure>
 <p><strong>Favourite Damon & Naomi track</strong><br />
 And once again This Car Climbled Mt Washington takes top spot for favourite track<br />
-<iframe style="border: 0; width: 100%; height: 42px;" src="http://bandcamp.com/EmbeddedPlayer/album=4050036211/size=small/bgcol=ffffff/linkcol=0687f5/t=5/transparent=true/" seamless><a href="http://damonandnaomi.bandcamp.com/album/more-sad-hits">More Sad Hits by Damon &amp; Naomi</a></iframe></p>
+<iframe style="border: 0; width: 100%; height: 42px;" src="http://bandcamp.com/EmbeddedPlayer/album=4050036211/size=small/bgcol=ffffff/linkcol=0687f5/t=5/transparent=true/" seamless><a href="http://damonandnaomi.bandcamp.com/album/more-sad-hits">More Sad Hits by Damon & Naomi</a></iframe></p>
 <p><strong>Favourite Dean & Britta album</strong><br />
 Dean & Britta's first album once again tops the poll, with 13 Most Beautiful putting in a spirited push into second place<br />
 <figure class="caption aligncenter"><img src="http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_lavventura.jpg" width="1658" height="1484" class /><figcaption class="caption-text"> Favourite Dean & Britta album - L'Avventura</figcaption></figure>

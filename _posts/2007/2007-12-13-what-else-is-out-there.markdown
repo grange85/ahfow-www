@@ -24,7 +24,7 @@ tags: []
 </ul>
 <p><strong>Facebook:</strong>
 <ul>
-<li><a href="http://www.facebook.com/group.php?gid=2209594548">Don't Let Our Youth Go To Waste: Galaxie 500 fans</a> (151 members)</li>
+<li><a href="http://www.facebook.com/group.php?gid=2209594548">Don't Let Our Youth Go to Waste: Galaxie 500 fans</a> (151 members)</li>
 </ul>
 <p><strong>Flickr:</strong>
 <ul>

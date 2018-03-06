@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Originals: Bonnie & Clyde by Serge Gainsbourg and Brigitte Bardot (covered
+title: 'Originals: Bonnie and Clyde by Serge Gainsbourg and Brigitte Bardot (covered
   by Luna)'
 author:
   display_name: Andy
@@ -33,6 +33,6 @@ Luna with Lætitia Sadier - Clyde Barrow version (fast)<br />
 <p>Luna (with Britta on vocals, live in Brazil 2001)<br />
 </p>
 {% ahfowvideo "D3o7LYyPgaA" "" %}
-<p>There are <a href="/2012/08/10/friday-recycling-bonnie-and-clyde/">a stack more Bonnie & Clyde's in this post from a couple of years ago</a> including a performance with Keren Ann and a live version from their last London show with Sonic Boom of Spacemen 3/Spectrum.</p>
+<p>There are <a href="/2012/08/10/friday-recycling-bonnie-and-clyde/">a stack more Bonnie and Clyde's in this post from a couple of years ago</a> including a performance with Keren Ann and a live version from their last London show with Sonic Boom of Spacemen 3/Spectrum.</p>
 <p><figure class="caption aligncenter"><img src="http://media.fullofwishes.co.uk/images/articles/1995-05_MelodyMaker_Luna-bonnie_and_clyde_sotw.jpg" width="603" height="552" alt="Scan of Melody Maker review" class /><figcaption class="caption-text"> Flyer for Luna show including a scan of the MM review</figcaption></figure>
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

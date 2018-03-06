@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Luna's European &quot;tour&quot;
+title: Luna's European "tour"
 author:
   display_name: Andy
   login: admin

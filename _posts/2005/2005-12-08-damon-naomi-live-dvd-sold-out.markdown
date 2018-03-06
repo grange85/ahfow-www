@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Damon &amp; Naomi live DVD sold out
+title: Damon & Naomi live DVD sold out
 author:
   display_name: Andy
   login: admin
@@ -18,5 +18,5 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p>I was just on <a href="http://www.damonandnaomi.com">Damon &amp; Naomi's website</a> preparing a little news item/plug for their recently released live DVD which slapped on my doormat at the weekend, when I discovered the limited edition release was already sold out!</p>
+<p>I was just on <a href="http://www.damonandnaomi.com">Damon & Naomi's website</a> preparing a little news item/plug for their recently released live DVD which slapped on my doormat at the weekend, when I discovered the limited edition release was already sold out!</p>
 <p>So now you have a news item about a sold out DVD - which is frankly a bit lame and I apologise!</p>

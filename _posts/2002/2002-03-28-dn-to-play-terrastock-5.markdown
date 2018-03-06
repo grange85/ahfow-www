@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: D&amp;N to play Terrastock 5
+title: D&N to play Terrastock 5
 author:
   display_name: Andy
   login: admin
@@ -17,4 +17,4 @@ categories:
 - news
 tags: []
 ---
-<p>Damon &amp; Naomi will be playing the (and their) fifth Terrastock Festival which takes place in Boston between the 11th and 13th of October.source: http://www.terrascope.org/t5.html</p>
+<p>Damon & Naomi will be playing the (and their) fifth Terrastock Festival which takes place in Boston between the 11th and 13th of October.source: http://www.terrascope.org/t5.html</p>

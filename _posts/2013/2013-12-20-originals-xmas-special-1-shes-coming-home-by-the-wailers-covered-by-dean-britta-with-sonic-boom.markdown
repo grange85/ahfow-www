@@ -21,7 +21,7 @@ tags: []
 ---
 <p>Nope! Not those Wailers, these Wailers were from Tacoma Washington and one of their biggest fans (according to Wikipedia) was a young Jimi Hendrix. They recorded She's Coming Home for a Christmas album they shared with fellow garage bands The Sonics and The Galaxies (weird... Sonics (like Sonic Boom) and Galaxies like in 500!) in 1965<p>
 {% ahfowvideo "-Z5JnzVSEf8" "She's Coming Home by The Wailers" %}
-<p>Dean &amp; Britta's version was gender adjusted, recorded (again) with Sonic Boom and released on a single by Chimney Rocks! Records (the b-side of which has <a href="/2013/12/16/originals-xmas-special-1-old-toy-trains-by-roger-miller-covered-by-dean-britta-with-sonic-boom/">already put in an appearance on this list</a>).</p>
+<p>Dean & Britta's version was gender adjusted, recorded (again) with Sonic Boom and released on a single by Chimney Rocks! Records (the b-side of which has <a href="/2013/12/16/originals-xmas-special-1-old-toy-trains-by-roger-miller-covered-by-dean-britta-with-sonic-boom/">already put in an appearance on this list</a>).</p>
 
 {% ahfowaudio "http://media.fullofwishes.co.uk.s3.amazonaws.com/07-dean_and_britta/audio/01-dean-and-britta-hes-coming-home.mp3" "Dean & Britta with Sonic Boom - He's Coming Home" %}
 

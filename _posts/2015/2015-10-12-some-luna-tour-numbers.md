@@ -65,7 +65,7 @@ tags:
 <dd>7</dd>
 <dt>Lost in Space</dt>
 <dd>6</dd>
-<dt>California (All The Way)</dt>
+<dt>California (All the Way)</dt>
 <dd>5</dd>
 <dt>Indian Summer</dt>
 <dd>5</dd>

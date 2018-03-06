@@ -43,7 +43,7 @@ Fade-in/fade-out, 16 bit 44.1kHz)>CD Wave (Track splits)>FLAC>mp3tagv2.55a (Tag 
 9.Blue Thunder<br />
 10.Babes In The Wood<br />
 11.Tugboat<br />
-12.Fourth Of July</p>
+12.Fourth of July</p>
 <p>Notes:<br />
 Recorded at barrier next to right hand stack. This was another great performance by Dean Wareham and band, very pleased how the recording has come out.
 </p></blockquote>

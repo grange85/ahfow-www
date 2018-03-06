@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Tell Me Do You Miss Me Q&amp;A with Britta Phillips
+title: Tell Me Do You Miss Me Q&A with Britta Phillips
 author:
   display_name: Andy
   login: admin

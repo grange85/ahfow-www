@@ -31,5 +31,5 @@ Dean & Britta have provided the score for the new Noah Baumbach film Mistress Am
 <a href="http://www.gettyimages.co.uk/detail/news-photo/composers-dean-wareham-and-britta-phillips-attend-the-news-photo/462114290">Composers Dean Wareham (L) and Britta Phillips attend the 'Mistress America' Premiere</a></p>
 <p>Dean & Britta mentioned on Twitter that there will be a soundtrack album:</p>
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p>Yes! “<a href="https://twitter.com/dannyd1976">@dannyd1976</a>: <a href="https://twitter.com/deanandbritta">@deanandbritta</a> is there going to be a soundtrack release?”</p>
-<p>&mdash; Dean &amp; Britta (@deanandbritta) <a href="https://twitter.com/deanandbritta/status/559446547457269762">January 25, 2015</a></p></blockquote>
+<p>&mdash; Dean & Britta (@deanandbritta) <a href="https://twitter.com/deanandbritta/status/559446547457269762">January 25, 2015</a></p></blockquote>
 <p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>

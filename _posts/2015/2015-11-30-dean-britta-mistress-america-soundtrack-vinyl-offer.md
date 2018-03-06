@@ -12,11 +12,11 @@ categories:
  - news
 ---
 {% ahfowimage "http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-mistress-america-lp-britta-instagram.jpg" "Mistress America vinyl (Photo: Britta)" %}
-<p class="lead">Dean &amp; Britta's soundtrack to the Noah Baumbach film Mistress America has just been released on vinyl and if you buy it from Dean's online store in the next couple of days and use the code <span class="text-primary">EGGNOG</span> you can get it for 15% off (that'll save you about $3).</p>
+<p class="lead">Dean & Britta's soundtrack to the Noah Baumbach film Mistress America has just been released on vinyl and if you buy it from Dean's online store in the next couple of days and use the code <span class="text-primary">EGGNOG</span> you can get it for 15% off (that'll save you about $3).</p>
 
 <p class="lead"><a href="http://deanwareham.bigcartel.com/product/mistress-america-original-soundtrack-lp">Buy Mistress America on vinyl</a>.</p>
 
-<p>On Tuesday Dean &amp; Britta will be guesting on <a href="http://www.wfmu.org/playlists/PE">WFMU's Morricone Island with Devon E. Levins</a> between 7 and 8pm to talk about Mistress America.</p>
+<p>On Tuesday Dean & Britta will be guesting on <a href="http://www.wfmu.org/playlists/PE">WFMU's Morricone Island with Devon E. Levins</a> between 7 and 8pm to talk about Mistress America.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FXChdcl5y6I" frameborder="0" allowfullscreen></iframe>
 

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Video: Dean &amp; Britta - Words You Used to Say'
+title: 'Video: Dean & Britta - Words You Used to Say'
 author:
   display_name: Andy
   login: admin

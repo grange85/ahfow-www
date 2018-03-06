@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Audio: Lost tracks: Damon &amp; Naomi - 14 Auspicious Dreams'
+title: 'Audio: Lost tracks: Damon & Naomi - 14 Auspicious Dreams'
 author:
   display_name: Andy
   login: admin
@@ -22,5 +22,5 @@ tags: []
 14 Auspicious Dreams was released in 1997 on a benefit 7" single for <a href="http://www.terrascope.co.uk/">Ptolemaic Terrascope</a>. The music was written by the late <a href="http://en.wikipedia.org/wiki/Hugh_Hopper">Hugh Hopper</a> formerly of Soft Machine, the lyrics were by Naomi Yang. That's what I've learnt from the sleeve and is pretty much all I do know about it. The single also included tracks by The Bevis Frond, Flying Saucer Attack and The Silver Apples</p>
 
 
-{% ahfowaudio "http://media.fullofwishes.co.uk/03-damon_and_naomi/audio/03_Damon%20%26%20Naomi_14%20Auspicious%20Dreams.mp3" "Damon &amp; Naomi - 14 Auspicious Dreams (mp3)" %}
+{% ahfowaudio "http://media.fullofwishes.co.uk/03-damon_and_naomi/audio/03_Damon%20%26%20Naomi_14%20Auspicious%20Dreams.mp3" "Damon & Naomi - 14 Auspicious Dreams (mp3)" %}
 

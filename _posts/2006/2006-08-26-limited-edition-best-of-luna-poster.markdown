@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Limited Edition &quot;Best of Luna&quot; poster
+title: Limited Edition "Best of Luna" poster
 author:
   display_name: Andy
   login: admin

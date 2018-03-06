@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Dean talks of &quot;disbandment&quot; and a movie
+title: Dean talks of "disbandment" and a movie
 author:
   display_name: Andy
   login: admin

@@ -18,4 +18,4 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p>I'm seeding a good recording of an excellent show. Damon &amp; Naomi with Kurihara of Ghost at The Garage in London - 15 May 2001 http://www.easytree.org/torrents-details.php?id=26052&amp;hit=1more info and samples can be found here...http://www.fullofwishes.info/galaxie/index.php?show_id=266</p>
+<p>I'm seeding a good recording of an excellent show. Damon & Naomi with Kurihara of Ghost at The Garage in London - 15 May 2001 http://www.easytree.org/torrents-details.php?id=26052&hit=1more info and samples can be found here...http://www.fullofwishes.info/galaxie/index.php?show_id=266</p>

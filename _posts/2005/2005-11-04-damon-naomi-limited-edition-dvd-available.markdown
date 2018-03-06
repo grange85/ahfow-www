@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Damon &amp; Naomi limited edition DVD available
+title: Damon & Naomi limited edition DVD available
 author:
   display_name: Andy
   login: admin

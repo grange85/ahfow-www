@@ -21,7 +21,7 @@ tags: []
 <blockquote><strong>3 June:</strong><br />
 We have our own show at the Borderline in London. I am tired and have had a bit much Guinness. The show is sloppy and the guitars are out of tune but I don't think anyone noticed. After the show we go back to the Columbia Hotel and sit in the bar.</p></blockquote>
 
-{% ahfowaudio "http://media.fullofwishes.co.uk.s3.amazonaws.com/02-luna/audio/03_Luna_Ride Into the Sun.mp3" "Luna cover The Velvet Underground's Ride Into The Sun at The Borderline" %}
+{% ahfowaudio "http://media.fullofwishes.co.uk.s3.amazonaws.com/02-luna/audio/03_Luna_Ride Into the Sun.mp3" "Luna cover The Velvet Underground's Ride Into the Sun at The Borderline" %}
 
 <p><strong>MP3: </strong><a href="http://www.mediafire.com/download.php?wxnynkzuown">Download the whole of Luna's show at the Borderline</a><br />
 <strong>AHFoW: </strong><a href="/2009/09/02/mp3-luna-live-in-london-in-1993/">My previous post about the Borderline show</a></p>

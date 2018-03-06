@@ -54,7 +54,7 @@ tags: []
 
 {% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-009.jpg" "Sean Eden (Photo: Joakim)" %}
 
-<p>{% track "Still At Home" %} means a lot to us, not just because it is a wonderful song, but we also had the luck to hear it in Barcelona as a request. Sean isn't as comfortable with singing as Dean is with the other songs, but he always puts his full heart behind it and this was without doubt the best version we've heard, I got goosebumps all over my skin and when Dean said out Sean's name after the song he got the single loudest cheers of all nights.</p> 
+<p>{% track "Still at Home" %} means a lot to us, not just because it is a wonderful song, but we also had the luck to hear it in Barcelona as a request. Sean isn't as comfortable with singing as Dean is with the other songs, but he always puts his full heart behind it and this was without doubt the best version we've heard, I got goosebumps all over my skin and when Dean said out Sean's name after the song he got the single loudest cheers of all nights.</p> 
 
 {% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-010.jpg" "Stan Demeski (Photo: Joakim)" %}
 
@@ -70,7 +70,7 @@ tags: []
 
 {% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-007.jpg" "Britta (Photo: Joakim)" %}
 
-<p>And {% track "Bonnie & Clyde" %} was up next. Dean's pedal board stops working a bit into the song, it has to be frustrating but he first acts cool about it, then finds outs which one of his pedals is defective and removes it. I liked the peculiar sound of that pedal, hand made in Valencia apparently, I hope he'll fix it half way. Bonnie &amp; Clyde was meant to be last song of the main set but since things didn't go as planned they play {% track "Time to Quit" %} instead.</p>
+<p>And {% track "Bonnie and Clyde" %} was up next. Dean's pedal board stops working a bit into the song, it has to be frustrating but he first acts cool about it, then finds outs which one of his pedals is defective and removes it. I liked the peculiar sound of that pedal, hand made in Valencia apparently, I hope he'll fix it half way. Bonnie & Clyde was meant to be last song of the main set but since things didn't go as planned they play {% track "Time to Quit" %} instead.</p>
 
 {% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-008.jpg" "Dean (Photo: Joakim)" %}
 

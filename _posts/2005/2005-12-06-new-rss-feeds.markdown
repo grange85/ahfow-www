@@ -18,7 +18,7 @@ categories:
 tags: []
 ---
 <p>I've updated the A Head Full of Wishes RSS feeds so that you now get the full article complete with working links and pictures rather than the rubbish text only feed I was running before.</p>
-<p>RSS allows you to keep up with Galaxie 500, Luna, Damon &amp; Naomi and Dean &amp; Britta news without having to keep checking the website. The news articles will be pushed to your RSS reader of choice (take a look at <a href="htt://www.bloglines.com">Bloglines</a> for a good web-based reader)</p>
+<p>RSS allows you to keep up with Galaxie 500, Luna, Damon & Naomi and Dean & Britta news without having to keep checking the website. The news articles will be pushed to your RSS reader of choice (take a look at <a href="htt://www.bloglines.com">Bloglines</a> for a good web-based reader)</p>
 <p>The following feeds are available...</p>
 <ul>
 <li><span class="removed_link" title="http://www.fullofwishes.info/galaxie/rss.php?t=rss1.0">RSS 1.0</span></li>

@@ -18,4 +18,4 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>You can read an <span class="removed_link" title="http://www.mensvogue.com/arts/music/articles/2006/12/18/dean_britta?printable=true&amp;currentPage=all">interview that Dean &amp; Britta did for Men's Vogue</span> on the magazine's website</p>
+<p>You can read an <span class="removed_link" title="http://www.mensvogue.com/arts/music/articles/2006/12/18/dean_britta?printable=true&currentPage=all">interview that Dean & Britta did for Men's Vogue</span> on the magazine's website</p>

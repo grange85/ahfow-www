@@ -20,8 +20,8 @@ tags: []
 <div>Not too much so far but this is what I have so far for the winner (or to be divided between the winners) of the <a href="/2010/06/20/fourth-of-july-competition-2010/">Fourth of July competition</a>...<br /> 
 <ul>
 <li>Some CDs (dupes I have incl (I think) The Caribbean, Dressy Bessy and others)</li>
-<li>7&quot; single of Luna - Dear Paulina</li>
-<li>7&quot; single of Dean &amp; Britta - He&#39;s Coming Home (courtesy of Scott @ <a href="http://www.chimneyrocks.org/">Chimney Rocks!</a>)</li>
+<li>7" single of Luna - Dear Paulina</li>
+<li>7" single of Dean & Britta - He&#39;s Coming Home (courtesy of Scott @ <a href="http://www.chimneyrocks.org/">Chimney Rocks!</a>)</li>
 <li>(some other stuff)</li>
 </ul>
 <p>Any other donations would be gratefully received - <a href="mailto:andy@grange85.co.uk">email me</a>

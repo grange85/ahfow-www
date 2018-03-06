@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: D&amp;N - a show and a screening
+title: D&N - a show and a screening
 author:
   display_name: Andy
   login: admin

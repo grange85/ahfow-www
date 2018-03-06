@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Review: Damon &amp; Naomi - ULU, London , UK - 28 August 1999'
+title: 'Review: Damon & Naomi - ULU, London , UK - 28 August 1999'
 author:
   display_name: Andy
   login: admin

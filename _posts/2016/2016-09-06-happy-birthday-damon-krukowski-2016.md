@@ -19,9 +19,9 @@ categories:
  - news
 tags: []
 ---
-<p class="lead">Happy birthday to Damon Krukowski, Galaxie 500's drummer and Damon and Naomi's Damon.</p>
+<p class="lead">Happy birthday to Damon Krukowski, Galaxie 500's drummer and Damon & Naomi's Damon.</p>
 
-<p>In 2016 he has shown his true rock and roll credentials by falling down hotel stairs and playing (half) a gig mere hours later, followed by an ambulance trip, a few hours in A&amp;E and then being back on-stage in another country a day later!</p>
+<p>In 2016 he has shown his true rock and roll credentials by falling down hotel stairs and playing (half) a gig mere hours later, followed by an ambulance trip, a few hours in A&E and then being back on-stage in another country a day later!</p>
 
 <p>Here he is on-stage in London with Richard Youngs, after the fall but before the ambulance trip&hellip;</p>
 

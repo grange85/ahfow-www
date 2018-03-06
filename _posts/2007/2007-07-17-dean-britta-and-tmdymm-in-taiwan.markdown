@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Dean &amp; Britta and TMDYMM in Taiwan
+title: Dean & Britta and TMDYMM in Taiwan
 author:
   display_name: Andy
   login: admin

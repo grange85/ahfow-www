@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: New Damon &amp; Naomi album in September
+title: New Damon & Naomi album in September
 author:
   display_name: Andy
   login: admin
@@ -19,7 +19,7 @@ categories:
 tags: []
 ---
 <div class="imagebox-right"><img src="http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_withinthesewalls.jpg" width="150" height="150" alt="sleeve scan"/></div>
-<p>Damon &amp; Naomi have announced details of their new album <span class="removed_link" title="http://www.damonandnaomi.com/frameset/frame.html?http%3A//www.damonandnaomi.com/frameset/main.html">on their website</span>.</p>
+<p>Damon & Naomi have announced details of their new album <span class="removed_link" title="http://www.damonandnaomi.com/frameset/frame.html?http%3A//www.damonandnaomi.com/frameset/main.html">on their website</span>.</p>
 <p>The album called <a href="/database/release/within-these-walls-release/">Within These Walls</a> will be released on 20|20|20 records on 25 September. It will feature contributions from Kurihara, the Espers strings and Greg Kelley and Bhob Rainey.</p>
-<p>You can preview a track and pre-order the album for just $10 from <span class="removed_link" title="http://www.damonandnaomi.com/frameset/frame.html?http%3A//www.damonandnaomi.com/albums/within.html">Damon &amp; Naomi's web site</span></p>
+<p>You can preview a track and pre-order the album for just $10 from <span class="removed_link" title="http://www.damonandnaomi.com/frameset/frame.html?http%3A//www.damonandnaomi.com/albums/within.html">Damon & Naomi's web site</span></p>
 <p>The duo will be setting out on a US tour with Boris in October and will be touring Europe in November.</p>

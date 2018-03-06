@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: D&amp;N web site
+title: D&N web site
 author:
   display_name: Andy
   login: admin
@@ -17,4 +17,4 @@ categories:
 - news
 tags: []
 ---
-<p>Ho hum, another D&amp;N album and yet another D&amp;N website.Still "under construction" the site can be seen at http://www.damonandnaomi.com. It includes a short clip from the coming DVD release and the ability to sign up for a mailing list.</p>
+<p>Ho hum, another D&N album and yet another D&N website.Still "under construction" the site can be seen at http://www.damonandnaomi.com. It includes a short clip from the coming DVD release and the ability to sign up for a mailing list.</p>

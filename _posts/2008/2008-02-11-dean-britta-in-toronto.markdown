@@ -19,7 +19,7 @@ categories:
 tags: []
 ---
 <div class="imagebox-a"><a href="http://www.flickr.com/photos/chromewaves/2255217462/" title="Photo Sharing"><img src="http://farm3.static.flickr.com/2277/2255217462_4da3c177ee_m.jpg" alt="20080209-deanAndBritta" /></a><br/>originally uploaded by <a href="http://www.flickr.com/people/chromewaves/">chromewaves</a><br />
-<a title="Dean &amp; Britta, by quadb" href="http://www.flickr.com/photos/quadb/2254430864/in/set-72157603882750563/"><img src="http://farm3.static.flickr.com/2412/2254430864_5c60e12c45_m.jpg" width="240" height="181"></a><br/>originally uploaded by <a href="http://www.flickr.com/people/quadb/">quadb</a>
+<a title="Dean & Britta, by quadb" href="http://www.flickr.com/photos/quadb/2254430864/in/set-72157603882750563/"><img src="http://farm3.static.flickr.com/2412/2254430864_5c60e12c45_m.jpg" width="240" height="181"></a><br/>originally uploaded by <a href="http://www.flickr.com/people/quadb/">quadb</a>
 </div>
 <div>
 <p>I always look forward to my favourite bands reaching Toronto because there seem to be some very talented writers and photographers who seem happy to write and photograph them...here's a couple of reviews of Dean & Britta's <a href="/database/show/2008-02-09-dean-britta-the-mod-club-toronto-canada/">Mod Club show</a> at the weekend...</p>

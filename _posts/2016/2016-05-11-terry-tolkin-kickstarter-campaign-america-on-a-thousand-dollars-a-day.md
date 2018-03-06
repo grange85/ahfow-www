@@ -16,7 +16,7 @@ categories:
 tags: []
 ---
 {% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2016-05-05/2016-05-05-terry-tolkin-luna-austin-joakim.jpg" "Terry Tolkin introducing Luna in Austin (Photo: Joakim)" %}
-<p class="lead">Terry Tolkin is the A&amp;R man who signed Luna to Elektra and anyone who's encountered him on Facebook knows that he has a hatful of amazing stories about the music industry that would make an amazing book.</p>
+<p class="lead">Terry Tolkin is the A&R man who signed Luna to Elektra and anyone who's encountered him on Facebook knows that he has a hatful of amazing stories about the music industry that would make an amazing book.</p>
 
 <div class="bg-info">
 <p><strong>UPDATE:</strong>Terry has now updated his Kickstarter with an affordable option for those of us who aren't as rich as the rock stars! It now has a $25 starting pledge ... and this is a book that's needing to be written...</p>
@@ -29,7 +29,7 @@ tags: []
 </blockquote>
 </div>
 <p>Well Terry has just <a href="https://www.kickstarter.com/projects/terrytolkin/america-on-a-thousand-dollars-a-day">launched a Kickstarter</a> with that very object in mind:</p>
-<blockquote>i am going to write my autobiography. Its about an average music fan who fell upwards into becoming a major player in the music industry as an A&amp;R man. Read the Wikipedia link that Ive already provided. Sex, Drugs and Rock and Roll from the person who coined the term Alternative Music
+<blockquote>i am going to write my autobiography. Its about an average music fan who fell upwards into becoming a major player in the music industry as an A&R man. Read the Wikipedia link that Ive already provided. Sex, Drugs and Rock and Roll from the person who coined the term Alternative Music
 <footer><a href="https://www.kickstarter.com/projects/terrytolkin/america-on-a-thousand-dollars-a-day">Terry Tolkin on his Kickstarter page</a></footer></blockquote>
 <p>Currently you can either pledge $100 (or more) for a personally inscribed book, or just throw a few dollars to make it happen.</p>
 

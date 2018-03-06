@@ -18,7 +18,7 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p>OK - now that the Luna "thing" has died down I thoughtI'd remind you that Damon &amp; Naomi...</p>
+<p>OK - now that the Luna "thing" has died down I thoughtI'd remind you that Damon & Naomi...</p>
 <ul>
 <li>Have an excellent new album "The Earth is Blue" out (there are a <a href="http://tinyurl.com/44wx3">bunch of reviews</a> on their website to support my assertion)</li>
 <li>Are taking a jaunt around the US promoting the album</li>

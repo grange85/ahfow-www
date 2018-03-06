@@ -23,6 +23,6 @@ tags: []
 <p /> <a href="http://espanto.bandcamp.com/">Espanto</a>&#39;s sweet Spanish take on it...<br /><figure class="caption "><figcaption class="caption-text"></figcaption></figure>
 <p />Lord exister tugboat - steel pan version!<br /> <figure class="caption "><figcaption class="caption-text"></figcaption></figure>
 <p />Quite like the Ne&#39;er Do Evers version and the fact that they&#39;re picket-fenced in<br /><figure class="caption "><figcaption class="caption-text"></figcaption></figure>
-<p /> And finally Dean &amp; Britta (who are <a href="/2010/06/15/more-galaxie-500-shows-for-dean-britta/">taking the Galaxie 500 songs on the road in the Autumn</a>)<br /><figure class="caption "><figcaption class="caption-text"></figcaption></figure>
+<p /> And finally Dean & Britta (who are <a href="/2010/06/15/more-galaxie-500-shows-for-dean-britta/">taking the Galaxie 500 songs on the road in the Autumn</a>)<br /><figure class="caption "><figcaption class="caption-text"></figcaption></figure>
 - news
 </p></div>

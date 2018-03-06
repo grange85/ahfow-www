@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Review: Damon &amp; Naomi - Garage, London , UK - 20 May 1998'
+title: 'Review: Damon & Naomi - Garage, London , UK - 20 May 1998'
 author:
   display_name: Andy
   login: admin

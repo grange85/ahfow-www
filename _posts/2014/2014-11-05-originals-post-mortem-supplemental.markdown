@@ -35,7 +35,7 @@ Lee Hazelwood : 3</p>
 {% ahfowaudio "http://media.fullofwishes.co.uk/02-luna/audio/luna-19951026-walk-on-the-wild-side.mp3" "Luna - Walk on The Wild Side" %}
 
 
-{% ahfowaudio "http://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-20110511-shine-a-light.mp3" "Damon &amp; Naomi - Shine a Light" %}
+{% ahfowaudio "http://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-20110511-shine-a-light.mp3" "Damon & Naomi - Shine a Light" %}
 
 <h3>Footnotes</h3>
 <p id="footnote-1">1: Including Magic Hour</p>

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: LUNA &quot;special&quot; instore in LA
+title: LUNA "special" instore in LA
 author:
   display_name: Andy
   login: admin

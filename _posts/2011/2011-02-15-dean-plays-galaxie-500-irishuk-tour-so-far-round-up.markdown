@@ -27,7 +27,7 @@ tags: []
 <p>Next stop was Stereo in Glasgow</p>
 <ul>
 <li>Spools Paradise <a href="http://spoolsparadise.blogspot.com/2011/02/i-feel-alright-when-you-smile.html?utm_source=twitterfeed&utm_medium=facebook">has a review</a> "From the second Wareham came on stage the scene was set for an old friend coming home" </li>
-<li>There's some video clips of <span class="removed_link" title="http://www.youtube.com/watch?v=7IOaq_MOEZg">Don't Let Our Youth Go to Waste</span> and <span class="removed_link" title="http://www.youtube.com/watch?v=7IOaq_MOEZg">Listen The Snow is Falling</span></li>
+<li>There's some video clips of <span class="removed_link" title="http://www.youtube.com/watch?v=7IOaq_MOEZg">Don't Let Our Youth Go to Waste</span> and <span class="removed_link" title="http://www.youtube.com/watch?v=7IOaq_MOEZg">Listen, the Snow Is Falling</span></li>
 </ul>
 <p>Then on to the Leeds <del datetime="2011-02-15T13:42:17+00:00"><em>(not found any links yet - <a href="mailto:andy@grange85.co.uk">email me</a> any reviews, pics or videos)</em></del></p>
 <p><ins datetime="2011-02-15T13:45:19+00:00">

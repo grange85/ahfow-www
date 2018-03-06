@@ -17,7 +17,7 @@ categories:
 
 {% ahfowimage "http://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-2014-header-background-full.jpg" "A shelf full of wishes" %}
 
-<p class="lead">This year is the 20th anniversary of the A Head Full of Wishes survey<sup><a href="#footnote-1">[1]</a></sup>, so head on over to this form and pic your favourite albums snf tracks by Galaxie 500, Luna, Damon &amp; Naomi, Dean &amp; Britta and Dean Wareham.</p>
+<p class="lead">This year is the 20th anniversary of the A Head Full of Wishes survey<sup><a href="#footnote-1">[1]</a></sup>, so head on over to this form and pic your favourite albums snf tracks by Galaxie 500, Luna, Damon & Naomi, Dean & Britta and Dean Wareham.</p>
 <p>This years form is a little simpler but does reuire a bit more typing as you'll be writing down your favourite tracks rather than picking them out from a list.</p>
 <p>I'm not sure I have much to offer as a prize this year - so you'll have to do it for the love of A Head Full of Wishes, or the love of numbers (that's why I do surveys!)</p>
 

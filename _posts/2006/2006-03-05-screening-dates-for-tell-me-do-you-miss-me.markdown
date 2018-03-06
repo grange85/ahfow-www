@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Screening dates for &quot;Tell Me Do You Miss Me&quot;
+title: Screening dates for "Tell Me Do You Miss Me"
 author:
   display_name: Andy
   login: admin

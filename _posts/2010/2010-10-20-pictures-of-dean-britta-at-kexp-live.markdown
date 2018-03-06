@@ -18,4 +18,4 @@ categories:
 - pictures
 tags: []
 ---
-<p>KEXP have posted <a href="http://www.flickr.com/photos/kexp/sets/72157625081274781/with/5099820823/">a stack of photos from Dean &amp; Britta&#39;s performance</a> at their CMJ KEXPlive event at the Ace Hotel in NYC - you&#39;ll have to head over to Flickr to take a look as they&#39;ve disabled downloading and embedding (sigh)<br></p>
+<p>KEXP have posted <a href="http://www.flickr.com/photos/kexp/sets/72157625081274781/with/5099820823/">a stack of photos from Dean & Britta&#39;s performance</a> at their CMJ KEXPlive event at the Ace Hotel in NYC - you&#39;ll have to head over to Flickr to take a look as they&#39;ve disabled downloading and embedding (sigh)<br></p>

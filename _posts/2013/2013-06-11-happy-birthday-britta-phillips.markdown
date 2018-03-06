@@ -28,7 +28,7 @@ tags: []
 
 {% ahfowaudio "http://media.fullofwishes.co.uk/07-dean_and_britta/audio/britta-phillips-00-your-baby-demo.mp3" "Britta Phillips - Your Baby (original demo)" %}
 
-{% ahfowaudio "http://media.fullofwishes.co.uk/07-dean_and_britta/audio/08-dean-and-britta-ill-keep-it-with-mine.mp3" "Dean &amp; Britta - I'll Keep It With Mine (original mix)" %}
+{% ahfowaudio "http://media.fullofwishes.co.uk/07-dean_and_britta/audio/08-dean-and-britta-ill-keep-it-with-mine.mp3" "Dean & Britta - I'll Keep It With Mine (original mix)" %}
 
 <p>Previously: <a href="/2012/06/11/audio-happy-birthday-britta-phillips/" title="Audio: Happy Birthday Britta Phillips">Last years birthday post</a></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zr0PXKSZRws" frameborder="0" allowfullscreen></iframe>

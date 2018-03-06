@@ -18,7 +18,7 @@ categories:
 - video
 tags: []
 ---
-<div>Here are a few bits and peices turning up from Dean &amp; Britta&#39;s Galaxie 500 show at The Trocadero in Philadelphia on Friday night.
+<div>Here are a few bits and peices turning up from Dean & Britta&#39;s Galaxie 500 show at The Trocadero in Philadelphia on Friday night.
 <p />
 <div style="text-align: center;"><a href="http://www.youtube.com/user/evolrecinc">evolrecinc</a> has some videos - here&#39;s Ceremony<br /> <figure class="caption "><figcaption class="caption-text"></figcaption></figure><br />Also: <a href="http://www.youtube.com/watch?v=tstYhoUT2k4">Blue Thunder</a>, <a href="http://www.youtube.com/watch?v=ekz0d1FmJOY">Tugboat</a>, <a href="http://www.youtube.com/watch?v=K5poZE53jeg">Strange</a> </div>
 <p>The Styrofoam Drone has a nice review with a couple of videos<br />

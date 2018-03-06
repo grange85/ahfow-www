@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Damon &amp; Naomi show download
+title: Damon & Naomi show download
 author:
   display_name: Andy
   login: admin
@@ -18,4 +18,4 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p>A recent show by Damon &amp; Naomi from their tour of Japan has shown up on the bittorrent site Dime-a-dozen (easytree).The show was broadcast on FM radio and features Kurihara and Batoh from Ghost.You need to register to view/download the show...<a href="http://www.dimeadozen.org/torrents-details.php?id=50549">Damon &amp; Naomi  2005.06.23   + 5 bonus tracks</a></p>
+<p>A recent show by Damon & Naomi from their tour of Japan has shown up on the bittorrent site Dime-a-dozen (easytree).The show was broadcast on FM radio and features Kurihara and Batoh from Ghost.You need to register to view/download the show...<a href="http://www.dimeadozen.org/torrents-details.php?id=50549">Damon & Naomi  2005.06.23   + 5 bonus tracks</a></p>

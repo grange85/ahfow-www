@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Dean &amp; Britta on Worldcafe on Wednesday
+title: Dean & Britta on Worldcafe on Wednesday
 author:
   display_name: Andy
   login: admin

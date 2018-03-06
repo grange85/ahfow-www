@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Video: Dean &amp; Britta perform Tugboat in Boston'
+title: 'Video: Dean & Britta perform Tugboat in Boston'
 author:
   display_name: Andy
   login: admin
@@ -17,6 +17,6 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>Video of Dean &amp; Britta performing Galaxie 500's Tugboat at their recent show in Boston</p>
+<p>Video of Dean & Britta performing Galaxie 500's Tugboat at their recent show in Boston</p>
 <blockquote><p>Tugboat live at the Meseum of Fine Arts on March 9th (our 2nd show). This version is with vibes and keyboards. After this, Lara switched to guitar and it got more "rockin'" but I think I prefer the pretty keyboards......<br/><em>Britta</em></p></blockquote>
 <p><figure class="caption "><figcaption class="caption-text"></figcaption></figure></p>

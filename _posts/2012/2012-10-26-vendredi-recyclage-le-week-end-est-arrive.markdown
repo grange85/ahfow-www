@@ -27,10 +27,10 @@ tags: []
 {% ahfowaudio "http://media.fullofwishes.co.uk/02-luna/audio/03-luna-la-poupee-qui-fait-non.mp3" "Luna - La poupée qui fait non" %}
 
 
-<p>Previously: <a href="/2011/11/18/friday-recycling-bonnie-clyde-dean-britta-keren-ann/">Friday recycling: Bonnie & Clyde – Dean & Britta & Keren Ann</a><br />
+<p>Previously: <a href="/2011/11/18/friday-recycling-bonnie-clyde-dean-britta-keren-ann/">Friday recycling: Bonnie and Clyde – Dean & Britta & Keren Ann</a><br />
 Previously: <a href="/2012/08/10/friday-recycling-bonnie-and-clyde/">Friday recycling: Bonnie and Clyde (#2)</a></p>
 <p>... and sung in English, but played in France - here's Luna playing Bobby Peru in Paris in 1999<br />
 
 {% ahfowvideo "GxZp8qhDhHQ" "Luna playing Bobby Peru in Paris in 1999" %}
 
-<figure class="caption aligncenter"><a href="http://www.flickr.com/photos/franckd/2087020675/" title="Dean &amp; Britta by Hidden Picts, on Flickr"><img src="http://farm3.staticflickr.com/2236/2087020675_7a9127b3ea_z.jpg?zz=1" width="640" height="430" alt="Dean &amp; Britta"></a><figcaption class="caption-text">Dean Wareham at La Fleche d'Or, Paris - 2007</figcaption></figure>
+<figure class="caption aligncenter"><a href="http://www.flickr.com/photos/franckd/2087020675/" title="Dean & Britta by Hidden Picts, on Flickr"><img src="http://farm3.staticflickr.com/2236/2087020675_7a9127b3ea_z.jpg?zz=1" width="640" height="430" alt="Dean & Britta"></a><figcaption class="caption-text">Dean Wareham at La Fleche d'Or, Paris - 2007</figcaption></figure>

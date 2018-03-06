@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Video: Need inspiration for the AHFoW 4th of July comp…'
+title: 'Video: Need inspiration for the AHFoW Fourth of July comp…'
 author:
   display_name: Andy
   login: admin
@@ -22,6 +22,6 @@ tags: []
 <p /> First up see what some kids made of the video... (it was kinda wack)<br /><figure class="caption "><figcaption class="caption-text"></figcaption></figure>
 <p />... and here&#39;s the video they watched...<br /> <figure class="caption "><figcaption class="caption-text"></figcaption></figure>
 <p />... and here&#39;s Luna covering it... <br /><figure class="caption "><figcaption class="caption-text"></figcaption></figure>
-<p /> ... and you can hear (but barely see) Dean &amp; Britta covering it...<br /><figure class="caption "><figcaption class="caption-text"></figcaption></figure>
+<p /> ... and you can hear (but barely see) Dean & Britta covering it...<br /><figure class="caption "><figcaption class="caption-text"></figcaption></figure>
 - news
 </p></div>

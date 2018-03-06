@@ -62,7 +62,7 @@ tags: []
 <tr>
 <td><span class="removed_link" title="http://db.fullofwishes.co.uk/database/gigography/dean_wareham/show/1341">6 April 2014</span></td>
 <td>Dean Wareham</td>
-<td>Boot &amp; Saddle, Philadelphia, PA, USA</td>
+<td>Boot & Saddle, Philadelphia, PA, USA</td>
 <td></td>
 </tr>
 <tr>

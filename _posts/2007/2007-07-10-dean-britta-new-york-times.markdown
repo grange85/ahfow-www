@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Dean &amp; Britta - New York Times
+title: Dean & Britta - New York Times
 author:
   display_name: Andy
   login: admin

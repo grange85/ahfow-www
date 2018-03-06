@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Damon &amp; Naomi Valentines Day show
+title: Damon & Naomi Valentines Day show
 author:
   display_name: Andy
   login: admin
@@ -18,4 +18,4 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p>Damon &amp; Naomi are playing a <a href="/database/show/2007-02-14-damon-naomi-tonic-new-york-ny-usa/">Valentines day show at The Tonic in NYC</a> this evening.</p>
+<p>Damon & Naomi are playing a <a href="/database/show/2007-02-14-damon-naomi-tonic-new-york-ny-usa/">Valentines day show at The Tonic in NYC</a> this evening.</p>

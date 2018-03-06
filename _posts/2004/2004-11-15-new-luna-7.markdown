@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: New Luna 7&quot;
+title: New Luna 7"
 author:
   display_name: Andy
   login: admin

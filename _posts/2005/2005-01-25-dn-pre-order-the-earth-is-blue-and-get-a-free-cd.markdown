@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'D&amp;N: Pre-order The Earth is Blue and get a free CD'
+title: 'D&N: Pre-order The Earth is Blue and get a free CD'
 author:
   display_name: Andy
   login: admin

@@ -18,4 +18,4 @@ categories:
 - galaxie 500
 tags: []
 ---
-<p>Sorry I've just had to pull the Kennel Club show as I discovered that five of the tracks appear on the Don't Let Our Youth Go To Waste DVD (which if you don't have already by the way is well worth buying) and was therefore in contravention of dimeadozens seeding policy. I apologise to anyone who spent hours downloading before I pulled the plug, I'll hopefully get somethng else up later in the week.</p>
+<p>Sorry I've just had to pull the Kennel Club show as I discovered that five of the tracks appear on the Don't Let Our Youth Go to Waste DVD (which if you don't have already by the way is well worth buying) and was therefore in contravention of dimeadozens seeding policy. I apologise to anyone who spent hours downloading before I pulled the plug, I'll hopefully get somethng else up later in the week.</p>

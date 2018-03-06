@@ -18,14 +18,14 @@ categories:
 - dean & britta
 tags: []
 ---
-<div>On Wednesday Dean &amp; Britta played a not all that secret and sold out show at the small new venue in Brooklyn - The Rock Shop - here&#039;s some bits found around the Internet:
+<div>On Wednesday Dean & Britta played a not all that secret and sold out show at the small new venue in Brooklyn - The Rock Shop - here&#039;s some bits found around the Internet:
 <p />
 <div style="text-align: center"><a href="http://www.flickr.com/photos/csgersbeck/sets/72157624759590810/with/4906414595/">A bunch of pictures by Chris Gersbeck</a><br /> <a href="http://www.flickr.com/photos/csgersbeck/4906414595/in/set-72157624759590810/#/"><img src="http://farm5.static.flickr.com/4096/4906414595_1e4b5a01b7.jpg" border="0" height="334" width="500" /></a>
 <p /><span class="removed_link" title="http://soundbites.typepad.com/soundbites/2010/08/dean-wareham.html">A review at Soundbites</span><br /> <br />
-<blockquote class="gmail_quote">So it was a thrill getting to hear &quot;Strange,&quot; &quot;Flowers,&quot; &quot;4th of July,&quot; &quot;Tugboat&quot; and others again, not to mention essential covers &quot;Don&#039;t Let Our Youth Go to Waste&quot; (Jonathan Richman) and set-closing &quot;Ceremony&quot; (Joy Division/New Order).</p></blockquote>
+<blockquote class="gmail_quote">So it was a thrill getting to hear "Strange," "Flowers," "Fourth of July," "Tugboat" and others again, not to mention essential covers "Don&#039;t Let Our Youth Go to Waste" (Jonathan Richman) and set-closing "Ceremony" (Joy Division/New Order).</p></blockquote>
 </div>
 <p>
 <div style="text-align: center">A video of Strange
-<p /> <a href="http://twitter.com/AdamMandel99/status/21583888814">A pic of the setlist</a><br /><img src="http://desmond.yfrog.com/Himg192/scaled.php?tn=0&amp;server=192&amp;filename=vlvo.jpg&amp;xsize=640&amp;ysize=640" alt="setlist" /></div>
+<p /> <a href="http://twitter.com/AdamMandel99/status/21583888814">A pic of the setlist</a><br /><img src="http://desmond.yfrog.com/Himg192/scaled.php?tn=0&server=192&filename=vlvo.jpg&xsize=640&ysize=640" alt="setlist" /></div>
 - news
 </p></div>

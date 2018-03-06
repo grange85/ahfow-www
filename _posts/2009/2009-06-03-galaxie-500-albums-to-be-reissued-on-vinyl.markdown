@@ -18,4 +18,4 @@ categories:
 - galaxie 500
 tags: []
 ---
-<p>Nothing official here but <a href="http://ditchrecords.com/upcoming/2009/06/02/galaxie-500/">Canadian record store, Ditch Records</a>, mentions that the Galaxie 500 albums will be reissued by Damon & Naomi's <a href="http://www.20-20-20.com/">20|20|20 records</a> on the 28 July. We're due one of D&N's monthly updates imminently so hopefully there'll be more details and confirmation there.</p>
+<p>Nothing official here but <a href="http://ditchrecords.com/upcoming/2009/06/02/galaxie-500/">Canadian record store, Ditch Records</a>, mentions that the Galaxie 500 albums will be reissued by Damon & Naomi's <a href="http://www.20-20-20.com/">20|20|20 records</a> on the 28 July. We're due one of Damon & Naomi's monthly updates imminently so hopefully there'll be more details and confirmation there.</p>

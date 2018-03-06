@@ -25,6 +25,6 @@ Rain was one of the Lennon <em>Lennon/McCartney </em>compositions and was releas
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T3znOTuT4K8" frameborder="0" allowfullscreen></iframe>
 <p>Galaxie 500's cover was a live version recorded at CBGB's in 1989 and appeared on a 7" released by Caff records.</p>
 <p><iframe frameborder="1" scrolling="auto" style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2614932935/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/t=14/transparent=true/" seamless="seamless"><a shape="rect" href="http://galaxie500.bandcamp.com/album/uncollected">Uncollected by Galaxie 500</a></iframe></p>
-<p>You can download this with Don't Let Our Youth Go To Waste which frankly makes it probably the best value our there!</p>
+<p>You can download this with Don't Let Our Youth Go to Waste which frankly makes it probably the best value our there!</p>
 <blockquote><p>Thank you, thank you to the soundman</p></blockquote>
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

@@ -18,4 +18,4 @@ categories:
 - galaxie 500
 tags: []
 ---
-<p>After a year on hiatus the Track of the Month feature of <a href="http://www.fullofwishes.co.uk">A Head Full of Wishes</a> is back. January's rarity is an unreleased Galaxie 500 track, <a href="/2006/01/01/audio-galaxie-500---on-the-sofa/">On The Sofa</a>, from the <a href="/database/release/demo-cassette-1/">1987 demo cassette</a>.</p>
+<p>After a year on hiatus the Track of the Month feature of <a href="http://www.fullofwishes.co.uk">A Head Full of Wishes</a> is back. January's rarity is an unreleased Galaxie 500 track, <a href="/2006/01/01/audio-galaxie-500---on-the-sofa/">On the Sofa</a>, from the <a href="/database/release/demo-cassette-1/">1987 demo cassette</a>.</p>

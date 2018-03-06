@@ -15,7 +15,7 @@ categories:
 - review
 tags: []
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26019862693/in/dateposted/" title="Damon &amp; Naomi in Berlin"><img src="https://farm2.staticflickr.com/1602/26019862693_9d1a00b7fe_b.jpg" width="1024" height="768" alt="Damon &amp; Naomi in Berlin"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26019862693/in/dateposted/" title="Damon & Naomi in Berlin"><img src="https://farm2.staticflickr.com/1602/26019862693_9d1a00b7fe_b.jpg" width="1024" height="768" alt="Damon & Naomi in Berlin"></a>
 Monday I headed home after work, grabbed a bite to eat and my son and we headed to Cafe OTO for Damon & Naomi's London show of their short European tour - they'd played Stewart Lee's ATP festival in Wales the day before and were heading off for a date in Spain and one in Berlin.
 
 I was running a bit late but Chris messaged me at eight to tell me that the doors hadn't yet opened - which seemed a bit odd but was fine because it meant I wasn't going to miss the support act, Richard Youngs who once again was being joined by Damon on drums and voice.
@@ -32,7 +32,7 @@ Towards the end of the set there was some shuffling noises over my left shoulder
 
 Set over, and after a short wait Naomi and Richard appeared on stage to explain that during Richard's solo set Damon's condition had taken a more concerning turn and that an ambulance had been called and Damon & Naomi wouldn't be playing. Refunds were offered (although I suspect mostly not taken) and shortly after the room was filled with the blue flashing lights signifying the arrival of the ambulance.
 
-{% ahfowimage "https://scontent-lhr3-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/13043746_1186232281408959_6546706305193464127_n.jpg?oh=069bda961c12a04165c17ea550c86dfb&oe=57AE070E" "Damon in the care of the NHS (Photo: nabbed from D&N's Facebook page)" %}
+{% ahfowimage "https://scontent-lhr3-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/13043746_1186232281408959_6546706305193464127_n.jpg?oh=069bda961c12a04165c17ea550c86dfb&oe=57AE070E" "Damon in the care of the NHS (Photo: nabbed from Damon & Naomi's Facebook page)" %}
 
 Damon was rushed off to A&E at Homerton hospital where the NHS did their awesome stuff with tests and drugs. Adam, Chris and I hopped on the Overground for a slightly earlier night than anticipated.
 
@@ -65,7 +65,7 @@ Damon & Naomi took to the stage played a short <em>prologue</em> set of oldies, 
 
 Then they played through Fortune - it was my third screening of Fortune and the film is still beautiful (and baffling) and the songs are gorgeous - the album stands beautifully on its own and {% track "The North Light" %} is right up there with my favourite Damon & Naomi songs.
 
-We were then treated to an <em>epilogue</em> of covers - firstly a blissful {% track "Listen The Snow is Falling" %} and closing out the set with a divine cover of Sandy Denny's {% track "No More Sad Refrains" %}.
+We were then treated to an <em>epilogue</em> of covers - firstly a blissful {% track "Listen, the Snow Is Falling" %} and closing out the set with a divine cover of Sandy Denny's {% track "No More Sad Refrains" %}.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26597556286" title="3ca0141f-3ba5-4e9b-92fe-5fdd91f996b5"><img src="https://farm2.staticflickr.com/1528/26597556286_caf584ac19_b.jpg" width="1024" height="768" alt="3ca0141f-3ba5-4e9b-92fe-5fdd91f996b5"></a>
 

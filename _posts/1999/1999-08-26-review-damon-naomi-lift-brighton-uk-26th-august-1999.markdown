@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Review: Damon &amp; Naomi - Lift, Brighton , UK - 26 August 1999'
+title: 'Review: Damon & Naomi - Lift, Brighton , UK - 26 August 1999'
 author:
   display_name: Andy
   login: admin

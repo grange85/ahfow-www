@@ -19,5 +19,5 @@ categories:
 tags: []
 ---
 <p>I know I can watch this on the lovely DVD any time I darn well please - but I still got a sweet warm buzz coming across it on YouTube just now.</p>
-<p>Galaxie 500 playing Tugboat in a school gym under the basketball hoop - it's one of many good reasons to buy <span class="removed_link" title="&lt;a href=">Galaxie 500 - Don't Let Our Youth Go To Waste 1987 - 1991 (Amazon link)</span></p>
+<p>Galaxie 500 playing Tugboat in a school gym under the basketball hoop - it's one of many good reasons to buy <span class="removed_link" title="&lt;a href=">Galaxie 500 - Don't Let Our Youth Go to Waste 1987 - 1991 (Amazon link)</span></p>
 <p><figure class="caption "><figcaption class="caption-text"></figcaption></figure></p>

@@ -18,5 +18,5 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p>A new torrent just being seeded on <a href="http://www.dimeadozen.org">Dimeadozen</a> features a short set from Damon &amp; Naomi at The Sage in Gateshead, UK from May of last year</p>
-<p><a href="http://www.dimeadozen.org/torrents-details.php?id=97045">Damon &amp; Naomi - The Sage, Gateshead, UK, 22 May 2005</a> - resgistration required</p>
+<p>A new torrent just being seeded on <a href="http://www.dimeadozen.org">Dimeadozen</a> features a short set from Damon & Naomi at The Sage in Gateshead, UK from May of last year</p>
+<p><a href="http://www.dimeadozen.org/torrents-details.php?id=97045">Damon & Naomi - The Sage, Gateshead, UK, 22 May 2005</a> - resgistration required</p>

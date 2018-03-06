@@ -37,7 +37,7 @@ longpost: true
 <table class="table table-striped">
 <tr><th>Favourite Galaxie 500 track</th>	<th>Votes</th>	<th>%</th></tr>
 <tr class="success"><td>{% track "Tugboat" %}</td>	<td>27</td>	<td>12.4</td></tr>
-<tr><td>{% track "Fourth Of July" %}</td>	<td>25</td>	<td>11.5</td></tr>
+<tr><td>{% track "Fourth of July" %}</td>	<td>25</td>	<td>11.5</td></tr>
 <tr><td>{% track "Blue Thunder" %}</td>	<td>21</td>	<td>9.7</td></tr>
 <tr><td>{% track "Ceremony" %}</td>	<td>15</td>	<td>6.9</td></tr>
 <tr><td>{% track "Snowstorm" %}</td>	<td>15</td>	<td>6.9</td></tr>
@@ -61,21 +61,21 @@ longpost: true
 
 <table class="table table-striped">
 <tr><th>Favourite Luna track</th>	<th>Votes</th>	<th>%</th></tr>
-<tr class="success"><td>{% track "23 Minutes In Brussels" %}</td>	<td>27</td>	<td>9.6</td></tr>
+<tr class="success"><td>{% track "23 Minutes in Brussels" %}</td>	<td>27</td>	<td>9.6</td></tr>
 <tr><td>{% track "Tiger Lily" %}</td>	<td>19</td>	<td>6.7</td></tr>
-<tr><td>California (All The Way)</td>	<td>18</td>	<td>6.4</td></tr>
+<tr><td>California (All the Way)</td>	<td>18</td>	<td>6.4</td></tr>
 <tr><td>{% track "Friendly Advice" %}</td>	<td>18</td>	<td>6.4</td></tr>
 <tr><td>{% track "Malibu Love Nest" %}</td>	<td>14</td>	<td>5</td></tr>
 </table>
 
-<h2>Damon &amp; Naomi</h2>
-<p>Once again Damon &amp; Naomi's debut More Sad Hits topped the album vote and This Car Climbed Mt. Washington from that album topped the tracks chart. Once again there were less votes for Damon &amp; Naomi - you can get <a href="https://damonandnaomi.bandcamp.com/">all of their albums on bandcamp for whatever you want to pay</a> (or not pay) so you have no excuse not to have an opinion next year. Slightly heartbroken that Playback Singers never got a vote, I'm listening now and it is so beautiful! I wish I'd voted for it now!</p>
+<h2>Damon & Naomi</h2>
+<p>Once again Damon & Naomi's debut More Sad Hits topped the album vote and This Car Climbed Mt. Washington from that album topped the tracks chart. Once again there were less votes for Damon & Naomi - you can get <a href="https://damonandnaomi.bandcamp.com/">all of their albums on bandcamp for whatever you want to pay</a> (or not pay) so you have no excuse not to have an opinion next year. Slightly heartbroken that Playback Singers never got a vote, I'm listening now and it is so beautiful! I wish I'd voted for it now!</p>
 {% ahfowimage "http://media.fullofwishes.co.uk/00-misc/survey-2016/damon-and-naomi-survey-2016.png" "Survey responses - Damon & Naomi album" %}
 
 <table class="table table-striped">
-<tr><th>Favourite Damon &amp; Naomi album</th>	<th>Votes</th>	<th>%</th></tr>
+<tr><th>Favourite Damon & Naomi album</th>	<th>Votes</th>	<th>%</th></tr>
 <tr class="success"><td><a href="http://db.fullofwishes.co.uk/damon-and-naomi/releases/damon-and-naomi-more-sad-hits/">More Sad Hits</a></td>	<td>22</td>	<td>50</td></tr>
-<tr><td><a href="http://db.fullofwishes.co.uk/damon-and-naomi/releases/damon-and-naomi-wondrous-world/">The Wondrous World of Damon &amp; Naomi</a></td>	<td>8</td>	<td>18.2</td></tr>
+<tr><td><a href="http://db.fullofwishes.co.uk/damon-and-naomi/releases/damon-and-naomi-wondrous-world/">The Wondrous World of Damon & Naomi</a></td>	<td>8</td>	<td>18.2</td></tr>
 <tr><td><a href="http://db.fullofwishes.co.uk/damon-and-naomi/releases/damon-and-naomi-playback-singers/">Playback Singers</a></td>	<td>0</td>	<td>0</td></tr>
 <tr><td><a href="http://db.fullofwishes.co.uk/damon-and-naomi/releases/damon-and-naomi-song-to-the-siren/">Song to the Siren</a></td>	<td>3</td>	<td>6.8</td></tr>
 <tr><td><a href="http://db.fullofwishes.co.uk/damon-and-naomi/releases/damon-and-naomi-with-ghost/">With Ghost</a></td>	<td>7</td>	<td>15.9</td></tr>
@@ -86,7 +86,7 @@ longpost: true
 </table>
 
 <table class="table table-striped">
-<tr><th>Favourite Damon &amp; Naomi track</th>	<th>Votes</th>	<th>%</th></tr>
+<tr><th>Favourite Damon & Naomi track</th>	<th>Votes</th>	<th>%</th></tr>
 <tr class="success"><td>{% track "This Car Climbed Mt. Washington" %}</td>	<td>13</td>	<td>13.7</td></tr>
 <tr><td>{% track "E.T.A." %}</td>	<td>5</td>	<td>5.3</td></tr>
 <tr><td>{% track "Judah and The Maccabees" %}</td>	<td>5</td>	<td>5.3</td></tr>
@@ -97,12 +97,12 @@ longpost: true
 <tr><td>{% track "The Mirror Phase" %}</td>	<td>4</td>	<td>4.2</td></tr>
 </table>
 
-<h2>Dean &amp; Britta</h2>
-<p>Dean &amp; Britta's debut L'Avventura also tops their album chart but with 13 Most Beautiful now giving it a run. Night Nurse still tops the track chart.</p>
+<h2>Dean & Britta</h2>
+<p>Dean & Britta's debut L'Avventura also tops their album chart but with 13 Most Beautiful now giving it a run. Night Nurse still tops the track chart.</p>
 {% ahfowimage "http://media.fullofwishes.co.uk/00-misc/survey-2016/dean-and-britta-survey-2016.png" "Survey responses - Dean & Britta album" %}
 
 <table class="table table-striped">
-<tr><th>Favourite Dean &amp; Britta album</th>	<th>Votes</th>	<th>%</th></tr>
+<tr><th>Favourite Dean & Britta album</th>	<th>Votes</th>	<th>%</th></tr>
 <tr class="success"><td><a href="http://db.fullofwishes.co.uk/dean-and-britta/releases/dean-and-britta-lavventura/">L'Avventura</a></td>	<td>34</td>	<td>49.3</td></tr>
 <tr><td><a href="http://db.fullofwishes.co.uk/dean-and-britta/releases/dean-and-britta-back-numbers/">Back Numbers</a></td>	<td>5</td>	<td>7.2</td></tr>
 <tr><td><a href="http://db.fullofwishes.co.uk/dean-and-britta/releases/dean-and-britta-13-most-beautiful/">13 Most Beautiful: Songs for Andy Warhol's Screen Tests</a></td>	<td>28</td>	<td>40.6</td></tr>
@@ -110,7 +110,7 @@ longpost: true
 </table>
 
 <table class="table table-striped">
-<tr><th>Favourite Dean &amp; Britta track</th>	<th>Votes</th>	<th>%</th></tr>
+<tr><th>Favourite Dean & Britta track</th>	<th>Votes</th>	<th>%</th></tr>
 <tr class="success"><td>{% track "Night Nurse" %}</td>	<td>23</td>	<td>14.9</td></tr>
 <tr><td>I'll Keep It With Mine</td>	<td>15</td>	<td>9.7</td></tr>
 <tr><td>{% track "Knives From Bavaria" %}</td>	<td>15</td>	<td>9.7</td></tr>

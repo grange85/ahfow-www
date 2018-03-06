@@ -18,5 +18,5 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>Dean Wareham &amp; Britta Phillips have written the original music for the forthcoming <a href="http://uk.imdb.com/name/nm0000876/">Noah Baumbach</a> film <a href="http://uk.imdb.com/title/tt0367089/combined">The Squid and The Whale</a>. The film which has been shown at a number of festivals over the last few months will get a limited release in the US on October 5th. The soundtrack album will be released by Ultra on October 18th and features two new Dean & Britta tracks as well as Dean doing a cover of the Pink Floyd track &quot;Hey You&quot;.</p>
+<p>Dean Wareham & Britta Phillips have written the original music for the forthcoming <a href="http://uk.imdb.com/name/nm0000876/">Noah Baumbach</a> film <a href="http://uk.imdb.com/title/tt0367089/combined">The Squid and The Whale</a>. The film which has been shown at a number of festivals over the last few months will get a limited release in the US on October 5th. The soundtrack album will be released by Ultra on October 18th and features two new Dean & Britta tracks as well as Dean doing a cover of the Pink Floyd track "Hey You".</p>
 <p><a href="http://db.fullofwishes.co.uk/database/discography/luna/201">More details</a></p>

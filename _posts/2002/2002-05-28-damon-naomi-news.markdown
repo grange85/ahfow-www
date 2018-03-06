@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Damon &amp; Naomi news
+title: Damon & Naomi news
 author:
   display_name: Andy
   login: admin
@@ -18,4 +18,4 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p>D&amp;N play The Knitting Factory in NYC on 4th of June (8:30pm all ages) with the wonderful Dump (James McNew of YLT) in support. They will then be heading of to Japan for a few dates in July and will be at the Terrastock festival in Boston in October.damonandnaomi.com also has an interview with Galaxie 500 by James McNew back in 1989.source: Carsten and http://www.damonandnaomi.com</p>
+<p>D&N play The Knitting Factory in NYC on 4th of June (8:30pm all ages) with the wonderful Dump (James McNew of YLT) in support. They will then be heading of to Japan for a few dates in July and will be at the Terrastock festival in Boston in October.damonandnaomi.com also has an interview with Galaxie 500 by James McNew back in 1989.source: Carsten and http://www.damonandnaomi.com</p>

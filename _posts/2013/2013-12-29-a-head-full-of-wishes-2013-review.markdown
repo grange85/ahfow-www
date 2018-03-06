@@ -22,7 +22,7 @@ tags: []
 <em>Dean</em> was in the studio finishing up his solo album with Jim James of My Morning Jacket - the album will finally get a release on Sonic Cathedral and Double Feature in March 2014<br />
 <figure class="caption aligncenter"><img src="http://media.fullofwishes.co.uk/05-dean_wareham/pictures/jim-james-dean-wareham.jpg" width="612" height="612" class /><figcaption class="caption-text"> Jim James and Dean Wareham at La La Land (photo: Britta)</figcaption></figure>
 <p><a href="/2013/01/27/damon-naomi-with-richard-youngs-in-london-video-and-photos/" title="Damon & Naomi with Richard Youngs in London (video and photos)"><em>Damon & Naomi</em> played at Cafe OTO in London</a> supporting Richard Youngs and, in Damon's case, being Richard Youngs' band.<br />
-<a href="http://www.flickr.com/photos/grange85/8417737727/" title="Damon &amp; Naomi by andyaldridge, on Flickr"><img class="aligncenter" src="http://farm9.staticflickr.com/8089/8417737727_e76c965aee_z.jpg" width="480" height="640" alt="Damon &amp; Naomi"></a></p>
+<a href="http://www.flickr.com/photos/grange85/8417737727/" title="Damon & Naomi by andyaldridge, on Flickr"><img class="aligncenter" src="http://farm9.staticflickr.com/8089/8417737727_e76c965aee_z.jpg" width="480" height="640" alt="Damon & Naomi"></a></p>
 <p><em>A Head Full of Wishes</em> kicked off the <a href="/category/originals/">"Originals" series of posts</a> highlighting the original versions of the many tracks covered by Galaxie 500, Luna, Damon & Naomi and Dean & Britta over the years. <a href="/category/originals/">By the end of 2013 there would have been 50 posts</a>!<br />
 <a id="more"></a><a id="more-4957"></a><br />
 <strong>February 2013</strong><br />

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Originals: La poupee qui fait non by Michel Polnareff (covered by Luna)'
+title: 'Originals: La poupée qui fait non by Michel Polnareff (covered by Luna)'
 author:
   display_name: Andy
   login: admin
@@ -23,10 +23,10 @@ Originally by Michel Polnareff and released in 1966<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EfuiJuKGp1k" frameborder="0" allowfullscreen></iframe>
 <p>Covered by Luna for the 1996 Emperor Norton LP Pop Romantique </p>
 
-{% ahfowaudio "http://media.fullofwishes.co.uk/02-luna/audio/03-luna-la-poupee-qui-fait-non.mp3" "La poupee qui fait non by Luna" %}
+{% ahfowaudio "http://media.fullofwishes.co.uk/02-luna/audio/03-luna-la-poupee-qui-fait-non.mp3" "La poupée qui fait non by Luna" %}
 
 <p>It's another one of those songs that gets covered by everyone - here's a rather splendid English language cover by the wonderful St Etienne<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eRaEX34fN_U" frameborder="0" allowfullscreen></iframe>
-<p>And here's the sweetest video you find on YouTube when you search for <em>La poupee qui fait non Luna</em><br />
+<p>And here's the sweetest video you find on YouTube when you search for <em>La poupée qui fait non Luna</em><br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gai0zu2gyc0" frameborder="0" allowfullscreen></iframe>
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

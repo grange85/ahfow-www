@@ -20,7 +20,7 @@ categories:
 - pictures
 tags: []
 ---
-<div>This <a href="http://rateyourmusic.com/lists/list_view?list_id=165163&amp;show=100&amp;start=0">beautiful site, Freakin&#039; &amp; Peakin&#039; by Jenell Kesler</a> hosted on Rate Your Music collects together a phenomanl amount of memorabilia related to Galaxie 500, Luna and Dean &amp; Britta. It includes the largest collection of posters as well as setlists, ticket stubs, records. It also has some interesting lists such as cover versions and recurring themes. Well worth a visit.<br /> 
+<div>This <a href="http://rateyourmusic.com/lists/list_view?list_id=165163&show=100&start=0">beautiful site, Freakin&#039; & Peakin&#039; by Jenell Kesler</a> hosted on Rate Your Music collects together a phenomanl amount of memorabilia related to Galaxie 500, Luna and Dean & Britta. It includes the largest collection of posters as well as setlists, ticket stubs, records. It also has some interesting lists such as cover versions and recurring themes. Well worth a visit.<br /> 
 <div style="text-align: center">      </div>
 - news
 </p></div>

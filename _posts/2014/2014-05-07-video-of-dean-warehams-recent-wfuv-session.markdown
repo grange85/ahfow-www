@@ -25,5 +25,5 @@ tags:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r2lVXdSsxQ4" frameborder="0" allowfullscreen></iframe>
 <p>Dean Wareham - "Holding Pattern" (Live at WFUV):<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-owYtTKCnzU" frameborder="0" allowfullscreen></iframe>
-<p>Dean Wareham - "Lost In Space" (Live at WFUV):<br />
+<p>Dean Wareham - "Lost in Space" (Live at WFUV):<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jTLvTxJ7pS4" frameborder="0" allowfullscreen></iframe>

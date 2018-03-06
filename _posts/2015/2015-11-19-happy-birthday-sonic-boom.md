@@ -20,7 +20,7 @@ categories:
 <figcaption class="caption-text">Sonic Boom with Luna at their last but one London show in 2005</figcaption></figure>
 
 <figure class="caption aligncenter">
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/577956461/in/photolist-r8sCzS-nTGuix-nzqmcD-nRQJUy-nPSvxo-nRBX6k-nzqGQU-nRLVx3-nRV7k2-nRLWbh-nzqscU-nTGvrp-nRLW5W-nTGvZi-nzqnzt-nRBWDP-nRBYq4-nzrgig-nRxvCV-nRd2um-dvtyw6-dvzb4U-dvz8NJ-dvtyCv-dvRkis-iQHn-T5bjz-jwAL" title="Dean &amp; Britta and Sonic Boom"><img src="https://farm2.staticflickr.com/1265/577956461_60a9563db9_b.jpg" width="1024" height="680" alt="Dean &amp; Britta and Sonic Boom"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/577956461/in/photolist-r8sCzS-nTGuix-nzqmcD-nRQJUy-nPSvxo-nRBX6k-nzqGQU-nRLVx3-nRV7k2-nRLWbh-nzqscU-nTGvrp-nRLW5W-nTGvZi-nzqnzt-nRBWDP-nRBYq4-nzrgig-nRxvCV-nRd2um-dvtyw6-dvzb4U-dvz8NJ-dvtyCv-dvRkis-iQHn-T5bjz-jwAL" title="Dean & Britta and Sonic Boom"><img src="https://farm2.staticflickr.com/1265/577956461_60a9563db9_b.jpg" width="1024" height="680" alt="Dean & Britta and Sonic Boom"></a>
 <figcaption class="caption-text">Sonic Boom with Dean & Britta in 2007</figcaption></figure>
 
 <figure class="caption aligncenter">

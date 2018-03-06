@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Stacks of Dean &amp; Britta live videos on YouTube
+title: Stacks of Dean & Britta live videos on YouTube
 author:
   display_name: Andy
   login: admin

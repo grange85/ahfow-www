@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Audio:Luna - California (All The Way)
+title: Audio:Luna - California (All the Way)
 author:
   display_name: Andy
   login: admin
@@ -17,5 +17,5 @@ categories:
 - luna
 tags: []
 ---
-<p>This is Luna reluctantly performing California (All The Way) on Philadelphia's World Cafe in 1997.</p>
-<p><a href="http://www.box.net/shared/i09tfftguf">Luna - California (All The Way) (mp3)</a></p>
+<p>This is Luna reluctantly performing California (All the Way) on Philadelphia's World Cafe in 1997.</p>
+<p><a href="http://www.box.net/shared/i09tfftguf">Luna - California (All the Way) (mp3)</a></p>

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Audio: Damon &amp; Naomi - This Car Climbed Mt. Washington'
+title: 'Audio: Damon & Naomi - This Car Climbed Mt. Washington'
 author:
   display_name: Andy
   login: admin
@@ -17,5 +17,5 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p>Sorry that this months track is a bit late (again); Sorry that I'm raiding a show I've used before; Sorry it's been so long since the last D&N TOTM. <br />This recording is from the show in London in May 2001. Damon & Naomi are accompanied by Kurihara on guitar. "This Car Climbed Mt. Washington" has been top of the "Favourite Damon & Naomi Track" category for nine consecutive surveys.</p>
-<p><a href="http://www.box.net/shared/3k365l4jrx">Damon &amp; Naomi - This Car Climbed Mt. Washington (mp3)</a></p>
+<p>Sorry that this months track is a bit late (again); Sorry that I'm raiding a show I've used before; Sorry it's been so long since the last Damon & Naomi TOTM. <br />This recording is from the show in London in May 2001. Damon & Naomi are accompanied by Kurihara on guitar. "This Car Climbed Mt. Washington" has been top of the "Favourite Damon & Naomi Track" category for nine consecutive surveys.</p>
+<p><a href="http://www.box.net/shared/3k365l4jrx">Damon & Naomi - This Car Climbed Mt. Washington (mp3)</a></p>

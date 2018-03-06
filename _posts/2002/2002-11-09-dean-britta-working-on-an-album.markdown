@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Dean &amp; Britta working on an album?
+title: Dean & Britta working on an album?
 author:
   display_name: Andy
   login: admin

@@ -18,7 +18,7 @@ categories:
 - video
 tags: []
 ---
-<div>Here are some videos of Dean &amp; Britta&#39;s performance at the Haiti benefit show in Pittsburgh on Friday...
+<div>Here are some videos of Dean & Britta&#39;s performance at the Haiti benefit show in Pittsburgh on Friday...
 <p />
 <div style="text-align: center;">I&#39;ll Keep it With Mine<br /><figure class="caption "><figcaption class="caption-text"></figcaption></figure>
 <p /> Blue Thunder<br /><figure class="caption "><figcaption class="caption-text"></figcaption></figure>

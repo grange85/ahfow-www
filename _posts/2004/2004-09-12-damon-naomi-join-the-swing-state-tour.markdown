@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Damon &amp; Naomi join the &quot;Swing State Tour&quot;
+title: Damon & Naomi join the "Swing State Tour"
 author:
   display_name: Andy
   login: admin

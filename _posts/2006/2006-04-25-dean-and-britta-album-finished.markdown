@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Dean & Britta album &quot;finished&quot;
+title: Dean & Britta album "finished"
 author:
   display_name: Andy
   login: admin

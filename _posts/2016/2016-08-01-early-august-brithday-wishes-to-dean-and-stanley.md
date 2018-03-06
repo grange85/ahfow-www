@@ -30,5 +30,5 @@ description: >
 {% ahfowimage "http://media.fullofwishes.co.uk/02-luna/pictures/luna_bewitched_promo_02.jpg" "Luna (Bewitched)" %}
 {% ahfowimage "http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1994_c.jpg" "Luna (1994)" %}
 {% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-stan-with-luna-janice.jpg" "Luna (2015)" %}
-{% ahfowvideo "IA43fPmrF5M" "Luna play California (All The Way) on MTV in 1994" %}
+{% ahfowvideo "IA43fPmrF5M" "Luna play California (All the Way) on MTV in 1994" %}
 {% ahfowvideo "r9mze1a1auY" "Luna play 23 Minutes in Brussels in Brooklyn in 2015" %}

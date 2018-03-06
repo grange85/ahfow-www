@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Audio &amp; Video: Dean & Britta - Blogotheque videos'
+title: 'Audio & Video: Dean & Britta - Blogotheque videos'
 author:
   display_name: Andy
   login: admin

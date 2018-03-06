@@ -18,8 +18,8 @@ categories:
 - dean & britta
 tags: []
 ---
-<div>You can now order the new Dean &amp; Britta 13 Most Beautiful T-shirt from the <a href="http://deanandbritta.11spot.com/">jazzed up deanandbritta.com shop</a>. The black and silver T-shirt was <a href="http://frankolinsky.blogspot.com/2010/06/andy-dean-britta-t-shirt.html">designed by Frank Olinsky</a> and features the names of the most beautiful thirteen as well as those of Andy Warhol and Dean & Britta.
-<p /> <a href="http://deanandbritta.11spot.com/index.php?fuseaction=item_cat.ecom_superitem_detail&amp;item_cat_id=2283">13 Most Beautiful T-shirt - $20</a>
+<div>You can now order the new Dean & Britta 13 Most Beautiful T-shirt from the <a href="http://deanandbritta.11spot.com/">jazzed up deanandbritta.com shop</a>. The black and silver T-shirt was <a href="http://frankolinsky.blogspot.com/2010/06/andy-dean-britta-t-shirt.html">designed by Frank Olinsky</a> and features the names of the most beautiful thirteen as well as those of Andy Warhol and Dean & Britta.
+<p /> <a href="http://deanandbritta.11spot.com/index.php?fuseaction=item_cat.ecom_superitem_detail&item_cat_id=2283">13 Most Beautiful T-shirt - $20</a>
 <p />
 - news
 </p></div>

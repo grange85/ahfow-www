@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Dean &amp; Britta tour Europe in June
+title: Dean & Britta tour Europe in June
 author:
   display_name: Andy
   login: admin
@@ -19,4 +19,4 @@ categories:
 tags: []
 ---
 <p>Dates announced in Spain, France and UK with more a few more to follow...
-<p><a href="http://www.grange85.co.uk/galaxie/index.php?a=7">Dean &amp; Britta European tour dates</a></p>
+<p><a href="http://www.grange85.co.uk/galaxie/index.php?a=7">Dean & Britta European tour dates</a></p>

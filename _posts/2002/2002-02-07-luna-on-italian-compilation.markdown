@@ -18,4 +18,4 @@ categories:
 - news
 tags: []
 ---
-<p>Luna's version of Jonathan Richman's "Fly Into The Mystery" is appearing on a compilation album of cover evrsions to be released by Italian label Homesleep (http://www.homesleep.it). The album also features tracks by The Zephyrs, Life Without Buildings and The Wisdom of Harry.</p>
+<p>Luna's version of Jonathan Richman's "Fly Into the Mystery" is appearing on a compilation album of cover evrsions to be released by Italian label Homesleep (http://www.homesleep.it). The album also features tracks by The Zephyrs, Life Without Buildings and The Wisdom of Harry.</p>

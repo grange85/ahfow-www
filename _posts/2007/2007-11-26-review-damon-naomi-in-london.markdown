@@ -17,7 +17,7 @@ categories:
 - damon & naomi
 tags: []
 ---
-<div class="imagebox-a"><a href="http://www.flickr.com/photos/grange85/2064154592/" title="Damon &amp; Naomi by grange85, on Flickr"><img src="http://farm3.static.flickr.com/2033/2064154592_1432da0972_m.jpg" width="240" height="159" alt="Damon &amp; Naomi" /></a></div>
+<div class="imagebox-a"><a href="http://www.flickr.com/photos/grange85/2064154592/" title="Damon & Naomi by grange85, on Flickr"><img src="http://farm3.static.flickr.com/2033/2064154592_1432da0972_m.jpg" width="240" height="159" alt="Damon & Naomi" /></a></div>
 <p>The Scala is a converted cinema near London's King's Cross station, we arrived about 7:30 after a long haul through the miserable traffic on London's westway. There were three bands on the bill with <a href="http://www.damonandnaomi.com">Damon & Naomi</a> up second and penciled in for a meagre 45 minute set. The venue was as expected far from packed and I took up my position to the right of the stage.</p>
 <p><a id="more"></a><a id="more-576"></a>
 <p>Shortly after my arrival six folk wandered on stage and started tuning/playing/retuning their instruments each with little or no care for what the other five were up to...this was Sunburned Hand of Man and this was their set...after about 10 minutes of this conflicting cacophony things started to pull together and with a (nearly) regular rhythm and (very) occasional hints at melody the sound they made became considerably more interesting but having wasted a third of their 30 minute slot "warming up" it seemed that they'd barely got going when they had to finish.</p>

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Dean &amp; Britta provide music for HBO Voyeur
+title: Dean & Britta provide music for HBO Voyeur
 author:
   display_name: Andy
   login: admin

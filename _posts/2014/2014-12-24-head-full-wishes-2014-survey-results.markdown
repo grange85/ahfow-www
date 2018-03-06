@@ -28,13 +28,13 @@ tags: []
 <h3>Luna</h3>
 <p><a href="/database/release/penthouse/" title="Penthouse">Penthouse</a> once again topped the list of favourite Luna albums with Bewitched giving it a run.<br />
 <figure class="caption aligncenter"><img src="http://media.fullofwishes.co.uk/02-luna/sleeves/luna_penthouse.jpg" width="600" height="600" class /><figcaption class="caption-text"> Favourite Luna album - Penthouse</figcaption></figure>
-<a href="/database/track/23-minutes-in-brussels/" title="23 Minutes In Brussels">23 Minutes in Brussels</a> was, as always, the favourite Luna song although it wasn't  as comfortable as usual at the top, with Indian Summer hot on its heels.<br />
+<a href="/database/track/23-minutes-in-brussels/" title="23 Minutes in Brussels">23 Minutes in Brussels</a> was, as always, the favourite Luna song although it wasn't  as comfortable as usual at the top, with Indian Summer hot on its heels.<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/81Sv57rbujA" frameborder="0" allowfullscreen></iframe>
 <h3>Damon & Naomi</h3>
 <p>Damon & Naomi's first album <a href="/database/release/more-sad-hits/" title="More Sad Hits">More Sad Hits</a> has always topped the poll but as years progress it becomes clear that folk are digging into the rest of Damon & Naomi's catalogue. <a href="/database/release/with-ghost/" title="With Ghost">With Ghost</a> was in a very healthy second place.<br />
 <figure class="caption aligncenter"><img src="http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_moresadhits.jpg" width="1125" height="1125" class /><figcaption class="caption-text"> Favourite Damon & Naomi album - More Sad Hits</figcaption></figure>
 <p>Surprisingly jumping out of mid-table to top the poll for favourite track was <a href="/database/track/laika/" title="Laika">Laika</a><br />
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4050036211/size=small/bgcol=ffffff/linkcol=0687f5/track=2441630391/transparent=true/" seamless><a href="http://damonandnaomi.bandcamp.com/album/more-sad-hits">More Sad Hits by Damon &amp; Naomi</a></iframe></p>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4050036211/size=small/bgcol=ffffff/linkcol=0687f5/track=2441630391/transparent=true/" seamless><a href="http://damonandnaomi.bandcamp.com/album/more-sad-hits">More Sad Hits by Damon & Naomi</a></iframe></p>
 <h3>Dean & Britta</h3>
 <p>Dean & Britta's first album <a href="/database/release/lavventura/" title="L’Avventura">L'Avventura</a> once again tops the poll, with only one vote separating the other two albums in the chase.<br />
 <figure class="caption aligncenter"><img src="http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_lavventura.jpg" width="1658" height="1484" class /><figcaption class="caption-text"> Favourite Dean & Britta album - L'Avventura</figcaption></figure>

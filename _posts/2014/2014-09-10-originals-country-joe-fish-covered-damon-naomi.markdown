@@ -26,7 +26,7 @@ tags: []
 
 <p>On the Galaxie 500 Mailing List many years ago, while discussing the song, Bob brought up an interesting point...<br />
 Bob:</p>
-<blockquote><p>this is a very nice version of the Country Joe and the Fish song. However, D&N leave off the final and most haunting/troubling verse of the song. Lyrics were definitely a sign of the times...ca 1967 or so....but the D&N version omits the punch line. I've thought of asking them why, but always forget whenever I have the chance to see them.
+<blockquote><p>this is a very nice version of the Country Joe and the Fish song. However, Damon & Naomi leave off the final and most haunting/troubling verse of the song. Lyrics were definitely a sign of the times...ca 1967 or so....but the Damon & Naomi version omits the punch line. I've thought of asking them why, but always forget whenever I have the chance to see them.
 </p></blockquote>
 <p>The verse in question...</p>
 <blockquote><p>And now my friend we meet again and<br />

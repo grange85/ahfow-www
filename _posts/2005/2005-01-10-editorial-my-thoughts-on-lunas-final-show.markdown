@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Editorial: My Thoughts on Luna''s &quot;FINAL SHOW&quot;'
+title: 'Editorial: My Thoughts on Luna''s "FINAL SHOW"'
 author:
   display_name: Andy
   login: admin

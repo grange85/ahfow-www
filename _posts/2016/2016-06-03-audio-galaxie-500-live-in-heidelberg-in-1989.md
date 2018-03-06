@@ -35,7 +35,7 @@ tags:
 <li><a href="/tracks/snowstorm/ ">Snowstorm</a></li>
 <li><a href="/tracks/when-will-you-come-home/ ">When Will You Come Home</a></li>
 <li><a href="/tracks/temperature-s-rising/ ">Temperature's Rising</a></li>
-<li><a href="/tracks/don-t-let-our-youth-go-to-waste/ ">Don't Let Our Youth Go To Waste</a></li>
+<li><a href="/tracks/don-t-let-our-youth-go-to-waste/ ">Don't Let Our Youth Go to Waste</a></li>
 <li><a href="/tracks/blue-thunder/ ">Blue Thunder</a></li>
 <li><a href="/tracks/ceremony/ ">Ceremony</a></li>
 </ul>

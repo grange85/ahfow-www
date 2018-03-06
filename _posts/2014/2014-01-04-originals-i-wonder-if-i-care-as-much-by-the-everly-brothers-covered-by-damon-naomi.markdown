@@ -25,5 +25,5 @@ tags: []
 </p>
 {% ahfowvideo "w70F7N_Wd5g" "" %}
 <p>Damon & Naomi covered it in 2007 for a La blogothèque video session and it is certainly a cover of the 1968 version.<br />
-<iframe class="aligncenter" frameborder="0" width="480" height="270" src="http://www.dailymotion.com/embed/video/x21ef3"></iframe><br /><a href="http://www.dailymotion.com/video/x21ef3_49-1-damon-naomi-i-wonder-if-oh-si_creation" target="_blank">#49.1 - Damon &amp; Naomi - I wonder if / Oh sister</a> <i>by <a href="http://www.dailymotion.com/lablogotheque" target="_blank">lablogotheque</a></i></p>
+<iframe class="aligncenter" frameborder="0" width="480" height="270" src="http://www.dailymotion.com/embed/video/x21ef3"></iframe><br /><a href="http://www.dailymotion.com/video/x21ef3_49-1-damon-naomi-i-wonder-if-oh-si_creation" target="_blank">#49.1 - Damon & Naomi - I wonder if / Oh sister</a> <i>by <a href="http://www.dailymotion.com/lablogotheque" target="_blank">lablogotheque</a></i></p>
 <p>RIP Phil Everly</p>

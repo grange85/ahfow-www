@@ -19,7 +19,7 @@ categories:
 tags: []
 ---
 <p>Luna's last two albums Romantica and Rendezvous, as well as the mini-album Close Cover Before Striking have all been reissues in digital form with previously unreleased tracks</p>
-<p>2002 album Romantica comes with the never released track "Mystic Rattlers" and alternate versions of "Lovedust" and "Renée is Crying."<br />
+<p>2002 album Romantica comes with the never released track "Mystic Rattlers" and alternate versions of "Lovedust" and "Renée Is Crying."<br />
 Buy <a href="http://luna.bandcamp.com/album/romantica">Romantica via Bandcamp</a>:<br />
 <iframe class="aligncenter" width="400" height="100" style="position: relative; display: block; width: 400px; height: 100px;" src="http://bandcamp.com/EmbeddedPlayer/v=2/album=3481617757/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://luna.bandcamp.com/album/romantica">Romantica by Luna</a></iframe></p>
 <p>Buy <a href="http://itunes.apple.com/us/album/romantica/id476323672">Romantica on iTunes</a></p>

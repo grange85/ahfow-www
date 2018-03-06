@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Dean &amp; Britta gig in January
+title: Dean & Britta gig in January
 author:
   display_name: Andy
   login: admin

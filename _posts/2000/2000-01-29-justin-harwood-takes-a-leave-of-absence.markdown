@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Justin Harwood takes &quot;a leave of absence&quot;
+title: Justin Harwood takes "a leave of absence"
 author:
   display_name: Andy
   login: admin

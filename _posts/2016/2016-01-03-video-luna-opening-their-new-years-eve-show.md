@@ -16,7 +16,7 @@ categories:
 tags: []
 ---
 <p class="lead">I've just come across this clip of the first 7 minutes of Luna's New Year's Eve show last week at the Starline Social Club in San Francisco</p>
-<p>They open with {% track "Egg Nog" %}, and follow it with {% track "California (All The Way)" %}
+<p>They open with {% track "Egg Nog" %}, and follow it with {% track "California (All the Way)" %}
 
 {% ahfowvideo "Bu7fwDhXogI" "Luna - New Year's Eve 2015" %}
 <p>If any one has any more clips, photos... or even a full setlist, <a href="http://www.fullofwishes.co.uk/about/">please get in touch</a>.</p>

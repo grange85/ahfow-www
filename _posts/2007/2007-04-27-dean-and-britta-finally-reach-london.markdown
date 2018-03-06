@@ -21,4 +21,4 @@ tags: []
 <p>Dean & Britta have a date scheduled in London on the 19 June, I'm guessing there may be more European dates fitted around it and if/when I hear any more I'll let you all know.</p>
 <p>The London date is at <span class="removed_link" title="http://www.blowupmetro.com/bandinfo.aspx?id=070619g">The Metro in Oxford Street, London</span></p>
 <p>.
-<p>Say &quot;Hi&quot; if you spot me there!</p>
+<p>Say "Hi" if you spot me there!</p>

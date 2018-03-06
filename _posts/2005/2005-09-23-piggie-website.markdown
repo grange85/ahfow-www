@@ -18,4 +18,4 @@ categories:
 - dean wareham
 tags: []
 ---
-<p>Piggie, Alison Bagnall's movie starring Dean Wareham has <a href="http://piggiethemovie.com/index.html">its own website</a> with pictures and interviews - still a few bits &quot;coming soon&quot; but worth a visit for the <a href="http://piggiethemovie.com/qa.html">Q&amp;A</a> with Dean and to find out if its hitting a cinema near you.</p>
+<p>Piggie, Alison Bagnall's movie starring Dean Wareham has <a href="http://piggiethemovie.com/index.html">its own website</a> with pictures and interviews - still a few bits "coming soon" but worth a visit for the <a href="http://piggiethemovie.com/qa.html">Q&A</a> with Dean and to find out if its hitting a cinema near you.</p>

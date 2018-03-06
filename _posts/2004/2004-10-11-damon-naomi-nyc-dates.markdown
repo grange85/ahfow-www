@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Damon &amp; Naomi NYC dates
+title: Damon & Naomi NYC dates
 author:
   display_name: Andy
   login: admin

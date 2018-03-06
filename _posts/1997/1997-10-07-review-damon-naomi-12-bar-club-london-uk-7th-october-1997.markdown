@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Review: Damon &amp; Naomi - 12 Bar Club, London , UK - 7 October 1997'
+title: 'Review: Damon & Naomi - 12 Bar Club, London , UK - 7 October 1997'
 author:
   display_name: Andy
   login: admin

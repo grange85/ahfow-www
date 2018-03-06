@@ -18,7 +18,7 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p><figure class="caption aligncenter"><a href="http://www.flickr.com/photos/lolitanie/3512157011/" title="damon &amp; naomi by lolitanie, on Flickr"><img src="http://farm4.staticflickr.com/3398/3512157011_34080980a3.jpg" width="500" height="333" alt="damon &amp; naomi"></a><figcaption class="caption-text">by <a href='http://www.flickr.com/photos/lolitanie/3512157011/'>damon &amp; naomi by lolitanie, on Flickr</a></figcaption></figure>Damon & Naomi are playing a show in London on Sunday (11 December) and then heading to italy for a week of dates, some with Richard Youngs so Damon will be taking his sticks along as well as his guitar.</p>
+<p><figure class="caption aligncenter"><a href="http://www.flickr.com/photos/lolitanie/3512157011/" title="damon & naomi by lolitanie, on Flickr"><img src="http://farm4.staticflickr.com/3398/3512157011_34080980a3.jpg" width="500" height="333" alt="damon & naomi"></a><figcaption class="caption-text">by <a href='http://www.flickr.com/photos/lolitanie/3512157011/'>damon & naomi by lolitanie, on Flickr</a></figcaption></figure>Damon & Naomi are playing a show in London on Sunday (11 December) and then heading to italy for a week of dates, some with Richard Youngs so Damon will be taking his sticks along as well as his guitar.</p>
 <ul>
 <li>December 11 - London, UK</li>
 <li>December 13 - Torino, IT</li>

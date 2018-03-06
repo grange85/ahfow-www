@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Originals: Fly Into The Mystery by Jonathan RIchman & The Modern Lovers (covered
+title: 'Originals: Fly Into the Mystery by Jonathan RIchman & The Modern Lovers (covered
   by Luna)'
 author:
   display_name: Andy
@@ -20,7 +20,7 @@ categories:
 tags: []
 ---
 <p><figure class="caption aligncenter"><img src="http://media.fullofwishes.co.uk/00-misc/pictures/jonathan-richman.jpg" width="627" height="352" class /><figcaption class="caption-text"> Jonathan Richman</figcaption></figure>
-I think Fly Into The Mystery might have been another song recorded in the 1973 sessions with Kim Fowley (although as mentioned in the entry on <a href="/2013/05/15/originals-dont-let-our-youth-go-to-waste-by-jonathan-richman-covered-by-galaxie-500">Don't Let Our Youth Go to Waste</a> this is not clear-cut) - this recording is available on the Songs of Remembrance bootleg :<br />
+I think Fly Into the Mystery might have been another song recorded in the 1973 sessions with Kim Fowley (although as mentioned in the entry on <a href="/2013/05/15/originals-dont-let-our-youth-go-to-waste-by-jonathan-richman-covered-by-galaxie-500">Don't Let Our Youth Go to Waste</a> this is not clear-cut) - this recording is available on the Songs of Remembrance bootleg :<br />
 
 {% ahfowvideo "Fak-OFvYgD4" "" %}
 
@@ -32,7 +32,7 @@ Live versions are available dating from as early as 1971 - such as this one from
 <iframe class="aligncenter" src="https://embed.spotify.com/?uri=spotify:track:0yUJz57e6JQbVlXzn7PvxQ" width="300" height="380" frameborder="0" allowtransparency="true"></iframe></p>
 <p>Luna's version first turned up on the <a href="http://db.fullofwishes.co.uk/database/discography/luna/104">Benicassim 98</a> compilation listed as "Fly Into The Sun" and then on the Italian compilation <a href="http://db.fullofwishes.co.uk/database/discography/luna/156">Homesleephome2</a> and later on the digital only <a href="http://db.fullofwishes.co.uk/database/discography/luna/206">Lunafied</a>.</p>
 
-{% ahfowaudio "http://media.fullofwishes.co.uk/02-luna/audio/02_Luna_Fly Into the Mistery.mp3" "Luna - Fly Into The Mystery" %}
+{% ahfowaudio "http://media.fullofwishes.co.uk/02-luna/audio/02_Luna_Fly Into the Mistery.mp3" "Luna - Fly Into the Mystery" %}
 
 <p>This is Jojo's fourth and last appearance in the Originals series, previously<br />
 <a href="/2013/02/20/originals-back-in-your-life-by-jonathan-richman-covered-by-galaxie-500/" title="Originals: Back in Your Life by Jonathan Richman (covered by Galaxie 500)">Originals: Back in Your Life by Jonathan Richman (covered by Galaxie 500)</a><br />

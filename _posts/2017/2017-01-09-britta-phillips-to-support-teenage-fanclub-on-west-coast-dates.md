@@ -30,7 +30,7 @@ tags:
         </tr>
         <tr>
         <th class="col-md-4">18 March 2017</th>
-        <td class="col-md-8"><a href="/britta-phillips/shows/2017/2017-03-18-britta-phillips-pappy-and-harriets-pioneertown-ca-usa/">Pappy &amp; Harriet's Pioneertown Palace, Pioneertown, CA, USA</a></td>
+        <td class="col-md-8"><a href="/britta-phillips/shows/2017/2017-03-18-britta-phillips-pappy-and-harriets-pioneertown-ca-usa/">Pappy & Harriet's Pioneertown Palace, Pioneertown, CA, USA</a></td>
         </tr>
         <tr>
         <th class="col-md-4">21 March 2017</th>

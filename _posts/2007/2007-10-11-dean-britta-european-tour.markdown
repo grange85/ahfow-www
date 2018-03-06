@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Dean &amp; Britta European tour...
+title: Dean & Britta European tour...
 author:
   display_name: Andy
   login: admin

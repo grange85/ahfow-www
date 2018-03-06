@@ -18,5 +18,5 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>17th of October sees the release of &quot;Words You Used To Say&quot; - the first new Material from Dean & Britta since L'Avventura in 2003. This single will be followed by a full album in January</p>
+<p>17th of October sees the release of "Words You Used To Say" - the first new Material from Dean & Britta since L'Avventura in 2003. This single will be followed by a full album in January</p>
 <p><strong>Update:</strong> Full tracklisting available - <a href="/database/release/words-you-used-to-say-release/">full tracklisting for forthcoming Dean & Britta single</a></p>

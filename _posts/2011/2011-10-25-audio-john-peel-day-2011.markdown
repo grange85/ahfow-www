@@ -20,7 +20,7 @@ categories:
 tags: []
 ---
 <p>Today is the 7th anniversary of the great man's passing. Spend the day considering just how important he was to music - no matter how hard you try, you will not be able to overestimate that impact!</p>
-<p>Here he is <a href="http://www.box.net/shared/iyjqtocnxge9sgioe94i">introducing Galaxie 500's Listen The Snow is Falling</a> (mp3 via Box.net)  - this has been lifted from the very excellent <a href="http://keepingitpeel.wordpress.com/2011/09/03/podcast-no-15-keeping-it-covered/">Keeping It Peel podcast</a>.</p>
+<p>Here he is <a href="http://www.box.net/shared/iyjqtocnxge9sgioe94i">introducing Galaxie 500's Listen, the Snow Is Falling</a> (mp3 via Box.net)  - this has been lifted from the very excellent <a href="http://keepingitpeel.wordpress.com/2011/09/03/podcast-no-15-keeping-it-covered/">Keeping It Peel podcast</a>.</p>
 <p><a href="http://www.flickr.com/photos/michael-wincott/3618555869/" title="BBC Radio 1 calendar - John Peel / Janice Long by radiothings.com, on Flickr"><img class="aligncenter"  src="http://farm4.static.flickr.com/3585/3618555869_31370108e5.jpg" width="500" height="375" alt="BBC Radio 1 calendar - John Peel / Janice Long"></a></p>
 <p>Previously:<br />
 Here's <a href="/2010/10/25/keeping-it-peel/">last year's John Peel Day post</a> from where you can download the complete 1992 Luna Peel Session.</p>

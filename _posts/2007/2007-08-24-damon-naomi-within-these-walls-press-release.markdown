@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Damon &amp; Naomi - Within These Walls - press release
+title: Damon & Naomi - Within These Walls - press release
 author:
   display_name: Andy
   login: admin

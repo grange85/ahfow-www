@@ -289,7 +289,7 @@ longpost: true
 
 <div class="col-md-6 pull-right"><blockquote>"Sean said there is beer back here", I tell Dean when I meet him for the first time on this trip. I say something like that. I wish I was pretending he was Becky. "Yes", he says. No one say "yes" like Dean does&hellip;</blockquote></div>
 
-<p>Deep Ellum declined, until the 1990s, when the area started to bloom again, there were 57 nightclubs and bars, with concert venues like the Deep Ellum Live. Luna opened up for The Screaming Trees according to Sean, and he is right, they did play at Deep Ellum Live, in 1998. There is always a story to tell. And it always leads to Lee starting {% track "23 Minutes In Brussels" %}. It never disappoints.</p>
+<p>Deep Ellum declined, until the 1990s, when the area started to bloom again, there were 57 nightclubs and bars, with concert venues like the Deep Ellum Live. Luna opened up for The Screaming Trees according to Sean, and he is right, they did play at Deep Ellum Live, in 1998. There is always a story to tell. And it always leads to Lee starting {% track "23 Minutes in Brussels" %}. It never disappoints.</p>
 
 <p>{% track "Friendly Advice" %} is the first encore, it's usually played much earlier in the show, I like it played anywhere in the show. "Do you know what this drink is called?", Dean says and shows his plastic mug to the audience. "Lee Wall Surprise", he says he's a bit worried about what's in it. Apparently it has raspberries in it, or is it mulberries Dean asks. Who knows, maybe even lemon and lime?</p>
 

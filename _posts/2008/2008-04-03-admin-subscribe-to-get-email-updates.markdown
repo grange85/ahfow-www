@@ -18,5 +18,5 @@ categories:
 tags: []
 ---
 <p>You can now get an email whenever <a href="/">A Head Full of Wishes</a> is updated so you won't have to keep checking in to find out if Galaxie 500 are reforming or what Dean & Britta's plans are...</p>
-<p><a href="http://www.feedburner.com/fb/a/emailverifySubmit?feedId=1855299&amp;loc=en_US">Subscribe to A Head Full of Wishes by Email</a></p>
+<p><a href="http://www.feedburner.com/fb/a/emailverifySubmit?feedId=1855299&loc=en_US">Subscribe to A Head Full of Wishes by Email</a></p>
 <p>You can also <a href="/feed/">subscribe to the feed</a> if that's the way you prefer to do things.</p>

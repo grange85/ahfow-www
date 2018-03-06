@@ -18,6 +18,6 @@ categories:
 - dean & britta
 tags: []
 ---
-<div>Dean &amp; Britta are coming to London to play the songs of Galaxie 500. The show is at The Garage on the 8 December. Tickets go on sale on Monday 9 August. <a href="http://www.atpfestival.com/newsview/1008091000.php">Full details on the ATP website</a>.
+<div>Dean & Britta are coming to London to play the songs of Galaxie 500. The show is at The Garage on the 8 December. Tickets go on sale on Monday 9 August. <a href="http://www.atpfestival.com/newsview/1008091000.php">Full details on the ATP website</a>.
 - news
 </p></div>

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: D&amp;N - Song to the Siren
+title: D&N - Song to the Siren
 author:
   display_name: Andy
   login: admin

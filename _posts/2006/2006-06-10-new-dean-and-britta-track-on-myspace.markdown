@@ -18,5 +18,5 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>Dean & Britta have posted a new song on their <a href="http://myspace.com/deanandbritta">MySpace page</a>. The song, &quot;We're Not Supposed to be Lovers&quot; was recorded during their recent sessions with legendary producer <a href="http://www.tonyvisconti.com">Tony Visconti</a> and is a cover of a song by singer-songwriter <a href="http://www.adamgreen.net/">Adam Green</a>.</p>
+<p>Dean & Britta have posted a new song on their <a href="http://myspace.com/deanandbritta">MySpace page</a>. The song, "We're Not Supposed to be Lovers" was recorded during their recent sessions with legendary producer <a href="http://www.tonyvisconti.com">Tony Visconti</a> and is a cover of a song by singer-songwriter <a href="http://www.adamgreen.net/">Adam Green</a>.</p>
 <p>The new Dean & Britta album will be released in January 2007 on <a href="http://www.rounder.com/">Rounder Records</a>.</p>

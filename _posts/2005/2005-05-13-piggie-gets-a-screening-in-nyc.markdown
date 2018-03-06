@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "&quot;Piggie&quot; gets a screening in NYC"
+title: "Piggie gets a screening in NYC"
 author:
   display_name: Andy
   login: admin
@@ -20,4 +20,4 @@ tags: []
 ---
 <p>The Two Boots Pioneer Theater<br />155 East 3rd Street (between Avenues A and B), New York, New York 10009</p>
 <p>May 25th at 7:00pm<br />Tickets $9.00<br /><a href="http://www.twoboots.com/pioneer">Buy tickets in advance</a> (or call  (800) 595-4849)</p>
-<p>Join Alison Bagnall and Alison Dickey for a Q&amp;A and a beer after the screening.</p>
+<p>Join Alison Bagnall and Alison Dickey for a Q&A and a beer after the screening.</p>

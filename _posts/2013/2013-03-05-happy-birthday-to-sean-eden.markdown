@@ -30,6 +30,6 @@ Happy Birthday to former Luna guitarist Sean Eden</p>
   }
 %}
 
-<p>And surely we'll never get tired of how awesome Sean looked with long hair? Here's Luna performing California (All The Way) in 1994<br />
+<p>And surely we'll never get tired of how awesome Sean looked with long hair? Here's Luna performing California (All the Way) in 1994<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZU3QFvaMQPs" frameborder="0" allowfullscreen></iframe>
 <p>Have a great day Sean.</p>

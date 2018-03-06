@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Latest Damon &amp; Naomi news
+title: Latest Damon & Naomi news
 author:
   display_name: Andy
   login: admin
@@ -18,4 +18,4 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p>OK, here's an update from D&amp;N, once again pilfered almost wholesale from their own site...They are currently working on a new album, no news of a release date as yet.Damon will have a book of poetry published in October by Turtle Point Press (http://www.turtlepoint.com/)source: http://www.damonandnaomi.com</p>
+<p>OK, here's an update from D&N, once again pilfered almost wholesale from their own site...They are currently working on a new album, no news of a release date as yet.Damon will have a book of poetry published in October by Turtle Point Press (http://www.turtlepoint.com/)source: http://www.damonandnaomi.com</p>

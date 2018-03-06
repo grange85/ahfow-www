@@ -26,7 +26,7 @@ tags: []
 <p><strong><span class="removed_link" title="http://db.fullofwishes.co.uk/survey/2009/galaxie_500/">Galaxie 500</span></strong></p>
 <p>On Fire topped the favourite album poll with almost half of all votes cast. Fourth of July just beat Tugboat for favourite track.</p>
 <p><strong><a href="http://db.fullofwishes.co.uk/survey/2009/luna/">Luna</a></strong></p>
-<p>Until the last week of the survey California (All The Way) was topping the poll but a strong finish saw 23 Minutes in Brussels retain the top spot it's held in every survey since 1998. Penthouse was comfortable album winner as usual.</p>
+<p>Until the last week of the survey California (All the Way) was topping the poll but a strong finish saw 23 Minutes in Brussels retain the top spot it's held in every survey since 1998. Penthouse was comfortable album winner as usual.</p>
 <p><strong><span class="removed_link" title="http://db.fullofwishes.co.uk/survey/2009/damon_and_naomi/">Damon & Naomi</span></strong></p>
 <p>More Sad Hits always runs away with the favourite Damon & Naomi album and This Car Climbed Mt. Washington does the same for favourite track.</p>
 <p><strong><span class="removed_link" title="http://db.fullofwishes.co.uk/survey/2009/dean_and_britta/">Dean & Britta</span></strong></p>

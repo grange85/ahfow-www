@@ -45,19 +45,19 @@ tags:
 <tr class="success"><td>23 Minutes in Brussels</td>	<td>26</td>	<td>9.4</td></tr>
 <tr><td>Friendly Advice</td>	<td>16</td>	<td>5.8</td></tr>
 <tr><td>Chinatown</td>	<td>13</td>	<td>4.7</td></tr>
-<tr><td>California (All The Way)</td>	<td>11</td>	<td>4</td></tr>
+<tr><td>California (All the Way)</td>	<td>11</td>	<td>4</td></tr>
 <tr><td>Sideshow by the Seashore</td>	<td>11</td>	<td>4</td></tr>
 <tr><td>Tiger Lily</td>	<td>11</td>	<td>4</td></tr>
 </table>
 
-<h2>Damon &amp; Naomi</h2>
+<h2>Damon & Naomi</h2>
 <h3>Favourite album</h3>
 {% ahfowimage "http://media.fullofwishes.co.uk/00-misc/survey-2015/survey-2015-damon-and-naomi.png" "" %}
 <p>Damon & Naomi's debut album <a href="http://db.fullofwishes.co.uk/damon-and-naomi/releases/damon-and-naomi-more-sad-hits/">More Sad Hits</a> once again comfortably topped the chart.</p>
 
 <h3>Favourite track</h3>
 <table class="table table-striped">
-<tr><th>Favourite Damon &amp; Naomi track</th>	<th>Votes</th>	<th>%</th></tr>
+<tr><th>Favourite Damon & Naomi track</th>	<th>Votes</th>	<th>%</th></tr>
 <tr class="success"><td>Beautiful Close Double</td>	<td>8</td>	<td>9.9</td></tr>
 <tr><td>This Car Climbed Mt. Washington</td>	<td>7</td>	<td>8.6</td></tr>
 <tr><td>Judah and the Macabees</td>	<td>6</td>	<td>7.4</td></tr>
@@ -67,14 +67,14 @@ tags:
 <tr><td>The Earth is Blue</td>	<td>4</td>	<td>4.9</td></tr>
 </table>
 
-<h2>Dean &amp; Britta</h2>
+<h2>Dean & Britta</h2>
 <h3>Favourite album</h3>
 {% ahfowimage "http://media.fullofwishes.co.uk/00-misc/survey-2015/survey-2015-dean-and-britta.png" "" %}
 <p><a href="http://db.fullofwishes.co.uk/dean-and-britta/releases/dean-and-britta-lavventura/">L'Avventura</a> was the most popular Dean & Britta album. Nice to see this year's <a href="http://db.fullofwishes.co.uk/dean-and-britta/releases/dean-and-britta-mistress-america/">Mistress America</a> putting in an appearance.</p>
 <h3>Favourite track</h3>
 
 <table class="table table-striped">
-<tr><th>Favourite Dean &amp; Britta track</th>	<th>Votes</th>	<th>%</th></tr>
+<tr><th>Favourite Dean & Britta track</th>	<th>Votes</th>	<th>%</th></tr>
 <tr class="success"><td>Night Nurse</td>	<td>31</td>	<td>15.3</td></tr>
 <tr><td>Words You Used to Say</td>	<td>24</td>	<td>11.8</td></tr>
 <tr><td>I'll Keep it With Mine</td>	<td>18</td>	<td>8.9</td></tr>
@@ -95,7 +95,7 @@ tags:
 <tr><td>Emancipated Hearts</td>	<td>22</td>	<td>12</td></tr>
 <tr><td>Love is Colder Than Death</td>	<td>19</td>	<td>10</td></tr>
 <tr><td>Babes in the Wood</td>	<td>17</td>	<td>9</td></tr>
-<tr><td>Happy &amp; Free</td>	<td>17</td>	<td>9</td></tr>
+<tr><td>Happy & Free</td>	<td>17</td>	<td>9</td></tr>
 </table>
 
 <p>Draw winners Chris, Jeff and Todd have been notified and their gifts are on their way.</p>

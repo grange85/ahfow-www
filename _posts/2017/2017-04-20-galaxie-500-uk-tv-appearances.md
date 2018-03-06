@@ -31,7 +31,7 @@ tags:
 <blockquote>Seize the day, and try and sell a lot of T-shirts</blockquote>
 
 {% ahfowvideo "Vn6db8RuV1I" "Galaxie 500 - Rapido (BBC, 1990)" %}
-<blockquote>They're so eclectic they even dip into the perplexing oevre of that former professional avant-gardist turned professional rock widow Yoko Ono for a version of the very deep Listen The Snow is Falling, how evocative, how meaningful, how to say&hellip; Rapido</blockquote>
+<blockquote>They're so eclectic they even dip into the perplexing oevre of that former professional avant-gardist turned professional rock widow Yoko Ono for a version of the very deep Listen, the Snow Is Falling, how evocative, how meaningful, how to say&hellip; Rapido</blockquote>
 
 {% ahfowvideo "oZosyvu95mk" "Galaxie 500 - SNUB TV (BBC, 1990)" %}
 <blockquote>Not much variation, sometimes it's verse, verse chorus sometimes it's verse, chorus, verse, chorus</blockquote>

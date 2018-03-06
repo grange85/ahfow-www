@@ -41,6 +41,6 @@ exclude: [
 plugins: [
         bootstrap-sass,
         jekyll-archives,
-        jekyll-paginate,
-        jekyll-sitemap
+        jekyll-sitemap,
+        jekyll-paginate
         ]

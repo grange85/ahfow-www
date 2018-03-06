@@ -17,5 +17,5 @@ categories:
 - luna
 tags: []
 ---
-<p>This version of Sweet Child O' Mine is from World Cafe some time in 1999 (Justin's voice can be heard in the interview). I'd guess around the time that "Day's..." was released in the US</p>
-<p><a href="http://www.box.net/shared/kmv5gxcmq2">Luna - Sweet Child O' Mine</a></p>
+<p>This version of Sweet Child o' Mine is from World Cafe some time in 1999 (Justin's voice can be heard in the interview). I'd guess around the time that "Day's..." was released in the US</p>
+<p><a href="http://www.box.net/shared/kmv5gxcmq2">Luna - Sweet Child o' Mine</a></p>

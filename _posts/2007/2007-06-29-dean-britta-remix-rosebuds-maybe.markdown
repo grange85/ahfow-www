@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Dean &amp; Britta remix Rosebuds (maybe)
+title: Dean & Britta remix Rosebuds (maybe)
 author:
   display_name: Andy
   login: admin

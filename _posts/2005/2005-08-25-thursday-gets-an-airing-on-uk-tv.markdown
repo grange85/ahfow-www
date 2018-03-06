@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "&quot;Thursday&quot; gets an airing on UK TV"
+title: "Thursday gets an airing on UK TV"
 author:
   display_name: Andy
   login: admin

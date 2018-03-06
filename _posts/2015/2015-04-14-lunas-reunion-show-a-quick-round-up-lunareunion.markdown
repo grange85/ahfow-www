@@ -35,7 +35,7 @@ tags: []
 <li>Malibu Love Nest</li>
 <li>Going Home</li>
 <li>Weird and Woozy</li>
-<li>California (All The Way)</li>
+<li>California (All the Way)</li>
 <li>Friendly Advice</li>
 <li>Lost in Space</li>
 <li>Tracy I Love You</li>
@@ -69,7 +69,7 @@ tags: []
 <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div>
 </div>
 <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/1ca_oJSDwq/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">LUNA!! First show in 10 years and they sound incredible. ❤️ #luna #theecho #soldout</a></p>
-<p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Echo &amp; Echoplex (@theechola) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-04-14T05:45:31+00:00">Apr 13, 2015 at 10:45pm PDT</time></p>
+<p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Echo & Echoplex (@theechola) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-04-14T05:45:31+00:00">Apr 13, 2015 at 10:45pm PDT</time></p>
 </div>
 </blockquote>
 <p> <script async defer src="//platform.instagram.com/en_US/embeds.js"></script></p>

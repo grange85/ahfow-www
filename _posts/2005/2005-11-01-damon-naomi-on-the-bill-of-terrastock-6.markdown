@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Damon &amp; Naomi on the bill of Terrastock 6
+title: Damon & Naomi on the bill of Terrastock 6
 author:
   display_name: Andy
   login: admin

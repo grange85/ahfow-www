@@ -22,4 +22,4 @@ tags: []
 <p>
 <p><a href="http://www.dimeadozen.org/torrents-details.php?id=80367">The torrent on Dimeadozen</a></p>
 <p>Here are the details</p>
-<pre>Galaxie 500CBGB's - New York City, NY1990-10-19AUD -> nth generation cassette -> Audacity -> WAV -> FLAC01-Fourth of July02-Summertime03-Decomposing Trees04-When Will You Come Home05-Hearing Voices06-Don't Let Our Youth Go To Waste (Jonathan Richman)07-Spook08-Listen, The Snow is Falling (Yoko Ono)09-Melt Away10-Snowstorm11-Here She Comes NowPretty good recording although the audience and between songbanter (what little there is) is very quiet.</pre>
+<pre>Galaxie 500CBGB's - New York City, NY1990-10-19AUD -> nth generation cassette -> Audacity -> WAV -> FLAC01-Fourth of July02-Summertime03-Decomposing Trees04-When Will You Come Home05-Hearing Voices06-Don't Let Our Youth Go to Waste (Jonathan Richman)07-Spook08-Listen, the Snow Is Falling (Yoko Ono)09-Melt Away10-Snowstorm11-Here She Comes NowPretty good recording although the audience and between songbanter (what little there is) is very quiet.</pre>

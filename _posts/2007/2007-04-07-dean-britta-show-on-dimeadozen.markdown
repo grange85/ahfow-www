@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Dean &amp; Britta show on Dimeadozen
+title: Dean & Britta show on Dimeadozen
 author:
   display_name: Andy
   login: admin

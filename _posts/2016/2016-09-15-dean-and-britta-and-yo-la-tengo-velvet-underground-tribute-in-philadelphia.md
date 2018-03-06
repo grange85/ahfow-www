@@ -18,12 +18,12 @@ categories:
 tags:
 ---
 {% ahfowimage "http://media.fullofwishes.co.uk/07-dean_and_britta/pictures/13most_nico300.jpg" "13 Most Beautiful" %}
-<p class="lead">Dean &amp; Britta are playing 13 Most Beautiful as part of <a href="http://www.gershmany.org/what-goes-on-velvet-underground-at-the-y-50th/">What Goes On: The Velvet Underground at the Y 50th Anniversary</a> on 15th December in Phaladelphia.</p>
+<p class="lead">Dean & Britta are playing 13 Most Beautiful as part of <a href="http://www.gershmany.org/what-goes-on-velvet-underground-at-the-y-50th/">What Goes On: The Velvet Underground at the Y 50th Anniversary</a> on 15th December in Phaladelphia.</p>
 
 <p><a href="http://db.fullofwishes.co.uk/dean-and-britta/shows/2016/2016-12-15-dean-and-britta-the-gershman-y-philadelphia-pa-usa/">The show</a>, which also includes a set by Yo La Tengo, is to celebrate the 50th anniversary of The Velvet Underground's Philadelphia debut.</p>
 
 <blockquote>Enjoy a performance by the legendary Yo La Tengo, who portrayed the Velvet Underground in the film, I Shot Andy Warhol, and whose uninterrupted 32-year career is unparalleled in its creative breadth. And experience 13 Most Beautiful…Songs for Andy Warhol’s Screen Tests, which features a selection of Warhol’s four-minute silent film portraits with commissioned soundtracks performed by Dean Wareham & Britta Phillips, formerly of Luna and Galaxie 500.
-<footer><a href="http://www.gershmany.org/what-goes-on-velvet-underground-at-the-y-50th/">What Goes On: The Velvet Underground at the Y 50th Anniversary featuring Yo La Tengo and Dean &amp; Britta</a></footer>
+<footer><a href="http://www.gershmany.org/what-goes-on-velvet-underground-at-the-y-50th/">What Goes On: The Velvet Underground at the Y 50th Anniversary featuring Yo La Tengo and Dean & Britta</a></footer>
 </blockquote>
 
 <p><a href="https://gershmany.secure.force.com/ticket/#sections_a0Fi000000UcBo6EAF">Tickets are on sale</a> now priced from $40 for general admission up to $125 with an after show part with the bands.</p>

@@ -23,11 +23,11 @@ description: |
 
 {% ahfowimage "http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/naomi-extracurricular-richard-youngs-back-from-a-changing-world.jpg" "Back From a Changing World by Richard Youngs" %}
 
-<p class="lead">While Damon &amp; Naomi were in Berlin recently on their short European jaunt, Naomi took the opportunity of making this lovely video for tour-mate Richard Youngs:</p>
+<p class="lead">While Damon & Naomi were in Berlin recently on their short European jaunt, Naomi took the opportunity of making this lovely video for tour-mate Richard Youngs:</p>
 
 <p>The video is for the track Back From a Changing World which is from last year's Inside The Future album.</p>
 
 <iframe src="https://player.vimeo.com/video/166196589" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/166196589">Richard Youngs &ldquo;Back From A World Changing&quot;</a> from <a href="https://vimeo.com/thewiremagazine">The Wire Magazine</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/166196589">Richard Youngs &ldquo;Back From A World Changing"</a> from <a href="https://vimeo.com/thewiremagazine">The Wire Magazine</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 

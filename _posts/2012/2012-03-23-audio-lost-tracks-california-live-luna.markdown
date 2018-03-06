@@ -26,4 +26,4 @@ tags: []
 
 {% ahfowaudio "http://media.fullofwishes.co.uk/02-luna/audio/luna-california-live.mp3" "California (live) - Luna" %}
 
-<p>Previously on AHFoW you can hear <a href="/2011/12/02/friday-recycling-luna-reluctantly-play-california-all-the-way/">Luna reluctantly playing California (All The Way)</a> on The World Cafe in 1997</p>
+<p>Previously on AHFoW you can hear <a href="/2011/12/02/friday-recycling-luna-reluctantly-play-california-all-the-way/">Luna reluctantly playing California (All the Way)</a> on The World Cafe in 1997</p>

@@ -18,4 +18,4 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p>Damon is <a href="http://www.erasingclouds.com/wk1906damon.html">interviewed</a> by webzine <a href="http://www.erasingclouds.com">Erasing Clouds</a> as part of their ongoing series <a href="http://www.erasingclouds.com/hundredQA.html">100 Musicians Answer the Same 10 Questions</a>.The interview gives a couple of hints at some forthcoming releases on Damon &amp; Naomi's label <a href="http://www.20-20-20.com/">20|20|20</a>.</p>
+<p>Damon is <a href="http://www.erasingclouds.com/wk1906damon.html">interviewed</a> by webzine <a href="http://www.erasingclouds.com">Erasing Clouds</a> as part of their ongoing series <a href="http://www.erasingclouds.com/hundredQA.html">100 Musicians Answer the Same 10 Questions</a>.The interview gives a couple of hints at some forthcoming releases on Damon & Naomi's label <a href="http://www.20-20-20.com/">20|20|20</a>.</p>

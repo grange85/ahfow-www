@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Audio: Originals: Yoko Ono - Listen The Snow Is Falling'
+title: 'Audio: Originals: Yoko Ono - Listen, the Snow Is Falling'
 author:
   display_name: Andy
   login: admin
@@ -18,4 +18,4 @@ categories:
 - audio
 tags: []
 ---
-<p>In a mildly seasonal effort this months track is Yoko Ono's original version of "Listen The Snow Is Falling" which had turned up as the flip side of the "Happy Christmas (War is Over)"  single in 1970. It is available on the reissue of John and Yoko's "Wedding Album" (Rykodisc).<br />Galaxie 500's take, with Naomi on vocals, was on their final album "This Is Our Music"</p>
+<p>In a mildly seasonal effort this months track is Yoko Ono's original version of "Listen, the Snow Is Falling" which had turned up as the flip side of the "Happy Christmas (War is Over)"  single in 1970. It is available on the reissue of John and Yoko's "Wedding Album" (Rykodisc).<br />Galaxie 500's take, with Naomi on vocals, was on their final album "This Is Our Music"</p>

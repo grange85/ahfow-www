@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Damon &amp; Naomi recording new album
+title: Damon & Naomi recording new album
 author:
   display_name: Andy
   login: admin
@@ -18,4 +18,4 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p>OK, so this is snagged pretty much verbatim from http://www.damonandnaomi.comIt appears D&amp;N are in the studio with Kurihara "working on a new album". No information on when it will be released. Also on their website it mentions that they'll be playing a festival in Taiwan in January</p>
+<p>OK, so this is snagged pretty much verbatim from http://www.damonandnaomi.comIt appears D&N are in the studio with Kurihara "working on a new album". No information on when it will be released. Also on their website it mentions that they'll be playing a festival in Taiwan in January</p>

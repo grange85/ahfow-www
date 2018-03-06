@@ -18,6 +18,6 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>The always very excellent <a href="http://www.chromewaves.net/index.php?itemid=2237">Chromewaves</a> reports that Britta Phillips will be contributing a track to the second volume of <a href="http://www.clubac30.com/">Club AC30</a>'s series of albums featuring bright young things covering the songs of shoegazings finest. Britta contributes a cover of Spectrum's &quot;How You Satisfy Me&quot;</p>
+<p>The always very excellent <a href="http://www.chromewaves.net/index.php?itemid=2237">Chromewaves</a> reports that Britta Phillips will be contributing a track to the second volume of <a href="http://www.clubac30.com/">Club AC30</a>'s series of albums featuring bright young things covering the songs of shoegazings finest. Britta contributes a cover of Spectrum's "How You Satisfy Me"</p>
 <p>Spectrum was the project that Sonic Boom/Pete Kember formed after the split of Spiritualized. Pete Kember has worked with both Dean & Britta and Luna over the years and Spectrum, like Luna, released a cover version of Beat Happening's Indian Summer.</p>
 <p>Keep and eye on <a href="http://www.clubac30.com">Club AC30's web page</a> and <a href="http://www.myspace.com/clubac30">Myspace page</a> for more details.</p>

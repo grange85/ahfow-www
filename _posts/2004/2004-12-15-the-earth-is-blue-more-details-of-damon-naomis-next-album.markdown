@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: The Earth is Blue - more details of Damon &amp; Naomi's next album
+title: The Earth is Blue - more details of Damon & Naomi's next album
 author:
   display_name: Andy
   login: admin
@@ -18,4 +18,4 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p>I've just added a full tracklisting and credits for Damon &amp; Naomi's The Earth is Blue which will be released on Valentine's day of 2005. It includes amongst a bunch of lovely originals a gorgeous rendition of George Harrison's "While My Guitar Gently Weeps". The album will be released on Damon &amp; Naomi's own 20/20/20 label.http://www.fullofwishes.info/galaxie/index.php?album_id=197</p>
+<p>I've just added a full tracklisting and credits for Damon & Naomi's The Earth is Blue which will be released on Valentine's day of 2005. It includes amongst a bunch of lovely originals a gorgeous rendition of George Harrison's "While My Guitar Gently Weeps". The album will be released on Damon & Naomi's own 20/20/20 label.http://www.fullofwishes.info/galaxie/index.php?album_id=197</p>

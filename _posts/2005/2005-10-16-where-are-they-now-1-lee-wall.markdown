@@ -18,7 +18,7 @@ categories:
 - news
 tags: []
 ---
-<p>Lee has turned up playing drums on the new album from <a href="http://www.billricchini.com/">Bill Ricchini</a>. The album, &quot;Tonight I Burn Brightly&quot;, was co-produced by Bryce Goggin who handled production duties on Luna's Rendezvous.</p>
+<p>Lee has turned up playing drums on the new album from <a href="http://www.billricchini.com/">Bill Ricchini</a>. The album, "Tonight I Burn Brightly", was co-produced by Bryce Goggin who handled production duties on Luna's Rendezvous.</p>
 <p>The album is out now on Transdreamer records</p>
-<p>Buy Bill Ricchini - Tonight I Burn Brightly from: <a href="http://www.amazon.com/exec/obidos/redirect?path=ASIN/B000A8AXU4&amp;link_code=as2&amp;camp=1789&amp;tag=aheadfullofwi-20&amp;creative=9325">Amazon.com</a> | <a href="http://www.amazon.co.uk/exec/obidos/redirect?path=ASIN/B000A8AXU4&amp;link_code=as2&amp;camp=1634&amp;tag=aheadfullofwi-21&amp;creative=6738">Amazon.co.uk</a></p>
+<p>Buy Bill Ricchini - Tonight I Burn Brightly from: <a href="http://www.amazon.com/exec/obidos/redirect?path=ASIN/B000A8AXU4&link_code=as2&camp=1789&tag=aheadfullofwi-20&creative=9325">Amazon.com</a> | <a href="http://www.amazon.co.uk/exec/obidos/redirect?path=ASIN/B000A8AXU4&link_code=as2&camp=1634&tag=aheadfullofwi-21&creative=6738">Amazon.co.uk</a></p>
 <p>via <a href="http://chromewaves.net/index.php?itemid=1996">Chromewaves</a></p>

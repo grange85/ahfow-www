@@ -154,7 +154,7 @@ longpost: true
 
 <p>Ulrika is a bit paranoid about not getting a good spot, so we left to stand in line outside. Way too early. But she prefers it that way. Me, Mike and Kelly went to a nice bar with comfortable couches.</p>
 {% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-boston/joakim-luna-boston-2016-09-29-06.jpg" "Britta and Lee (Photo: Joakim)" %}
-<p>Not much happens at the start of the show, California and {% track "Speedbumps" %} aren't exactly helping the bartenders to shake the margaritas. But in Lost In Space Dean's sweet, vulnerable voice is very touching. He has a cold I think and his voice sounds vulnerable because of that, otherwise his voice is not really vulnerable. I would avoid writing it normally. But it's fine now I guess. That kind of day. "It's true. You're lazy. You're tired. And crazy." Sean is bending the strings in this beautiful song from Penthouse.</p>
+<p>Not much happens at the start of the show, California and {% track "Speedbumps" %} aren't exactly helping the bartenders to shake the margaritas. But in Lost in Space Dean's sweet, vulnerable voice is very touching. He has a cold I think and his voice sounds vulnerable because of that, otherwise his voice is not really vulnerable. I would avoid writing it normally. But it's fine now I guess. That kind of day. "It's true. You're lazy. You're tired. And crazy." Sean is bending the strings in this beautiful song from Penthouse.</p>
 <div class="col-md-6 pull-right"><blockquote>There are long pauses between the songs, sometimes it even feels like everything is falling apart.</blockquote></div>
 <p>The venue called Royale is really spectacular. It's a big room with a balcony and decorations in gold. The floor in front of the stage is raised one step. Then Britta starts to sing {% track "One Fine Summer Morning" %} from her record. That long intro is really perfect, setting the mood. And her voice cuts through, right into your bones. And I love it when Lee is getting started a few minutes into the song, taking everything to a new level, it's quite slow but still upbeat, it's hard to not move around to it. The song gets much appreciation from the crowd but it's still pretty laid back even though it's a Friday night.</p>
 
@@ -165,7 +165,7 @@ longpost: true
 <p>"It's like Ware-Ham", Dean continues.</p> 
 <p>People starts to laugh to this non joke but it's making the atmosphere loosen up a bit. It's what Luna is so good at, even a medium good show with medium funny jokes is entertaining and always worth seeing no matter what. The drink will stir itself.</p>
 
-<p>It's a good sounding show. {% track "Sideshow by the Seashore" %} is a place in Coney Island, next to Luna Park. Sideshows are originally a secondary circus attraction, like freak shows, strange objects on display like Bonnie &amp; Clyde's death car. There's hoochie-coochie strip shows and things like that. The place still exists. "The girls are dressed as mermaids." I might go there someday.</p>
+<p>It's a good sounding show. {% track "Sideshow by the Seashore" %} is a place in Coney Island, next to Luna Park. Sideshows are originally a secondary circus attraction, like freak shows, strange objects on display like Bonnie & Clyde's death car. There's hoochie-coochie strip shows and things like that. The place still exists. "The girls are dressed as mermaids." I might go there someday.</p>
 
 <p>There are long pauses between the songs, sometimes it even feels like everything is falling apart. But watching Luna is always amusing, and we are in the front like always.</p> 
 {% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-boston/ulrika-luna-setlist-2016-09-29.jpg" "Setlist (Photo: Ulrika)" %}
@@ -203,7 +203,7 @@ Love me</pre>
 
 
 <p>One of the most bizarre stories about her is that she was stalked by a dutch man, Gert van der Graaf. He fell in love with her as a kid, who wouldn't, she was and still is stunningly beautiful. Gert even moved to Stockholm just to get closer to Agneta. But that's not the end of the story. No. He courted her, and finally, he succeeded. In 1997 they became a couple. But Agneta broke up with him a little later, but he was still in love, and they got together again. They broke up again, he kept stalking her, eventually she called the police and he was deported. But he returned. There's a documentary on Youtube about it. It's a crazy man. I don't think Wrap Your Arms Around Me is about him. By the way, there's a song on her latest record called I Was A Flower. I wish she had sung it in gibberish.</p>
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-boston/joakim-luna-boston-2016-09-29-16.jpg" "&quot;It's like Ware-Ham&quot; (Photo: Joakim)" %}
+{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-boston/joakim-luna-boston-2016-09-29-16.jpg" ""It's like Ware-Ham" (Photo: Joakim)" %}
 
 <p>There was going to be a night club in the venue after Luna's show so we got more or less kicked out from the backstage room. Greg was at the show too, we met him in Barcelona last year, and in New York too. He is spectacular. One of a kind. Frizzy hair, very social, for us unusually talkative, almost suspiciously friendly, but of course he is just being himself. And he is a doctor. One of many doctors among Luna fans.</p>
 

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Video: Damon &amp; Naomi cover A Song For You'
+title: 'Video: Damon & Naomi cover A Song For You'
 author:
   display_name: Andy
   login: admin
@@ -17,7 +17,7 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p>I found a bunch of Real video files that I grabbed from the Internet a while back - the quality is not too bad. Damon &amp; Naomi performing a cover of Gram Parsons' A Song For You - for Spin.com</p>
+<p>I found a bunch of Real video files that I grabbed from the Internet a while back - the quality is not too bad. Damon & Naomi performing a cover of Gram Parsons' A Song For You - for Spin.com</p>
 <p>      <!-- begin embedded RealMedia file... --><br />
 <table border='0' cellpadding='0' align="center">        <!-- begin video window... --><br />
 <tr>

@@ -33,5 +33,5 @@ tags:
 
 {% ahfowvideo "7RnUV-0PHGU" "Again with the bells" %}
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;I didn&#39;t quite follow that but I&#39;m pretty sure you were fucking with me.&quot;</p>&mdash; Sean Eden Quotes (@SeanEdenQuotes) <a href="https://twitter.com/SeanEdenQuotes/status/785553410460413952">October 10, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">"I didn&#39;t quite follow that but I&#39;m pretty sure you were fucking with me."</p>&mdash; Sean Eden Quotes (@SeanEdenQuotes) <a href="https://twitter.com/SeanEdenQuotes/status/785553410460413952">October 10, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

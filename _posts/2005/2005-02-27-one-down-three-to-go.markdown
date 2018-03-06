@@ -17,4 +17,4 @@ categories:
 - news
 tags: []
 ---
-<p>Luna have played the first of their last four shows at The Bowery Ballroom. You can see the setlist here - http://www.fullofwishes.info/galaxie/index.php?show_id=678 and some pictures here - http://www.fullofwishes.info/galaxie/showpic.php?type=1&amp;id=646Don't forget also about the Luna's Last Waltz blog that a few fans are throwing together over the week - that can be seen here - http://lunaslastwaltz.blogspot.com</p>
+<p>Luna have played the first of their last four shows at The Bowery Ballroom. You can see the setlist here - http://www.fullofwishes.info/galaxie/index.php?show_id=678 and some pictures here - http://www.fullofwishes.info/galaxie/showpic.php?type=1&id=646Don't forget also about the Luna's Last Waltz blog that a few fans are throwing together over the week - that can be seen here - http://lunaslastwaltz.blogspot.com</p>

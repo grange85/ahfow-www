@@ -18,7 +18,7 @@ categories:
 - audio
 tags: []
 ---
-<p><a href="http://www.flickr.com/photos/fakeplasticgirl/4888247382/" title="Damon &amp; Naomi @ OFF Festival by bildungsr0man, on Flickr"><img class="aligncenter" src="http://farm5.staticflickr.com/4117/4888247382_882fa69afe_z.jpg" width="640" height="427" alt="Damon &amp; Naomi @ OFF Festival"></a></p>
+<p><a href="http://www.flickr.com/photos/fakeplasticgirl/4888247382/" title="Damon & Naomi @ OFF Festival by bildungsr0man, on Flickr"><img class="aligncenter" src="http://farm5.staticflickr.com/4117/4888247382_882fa69afe_z.jpg" width="640" height="427" alt="Damon & Naomi @ OFF Festival"></a></p>
 <p>Damon & Naomi are now in Japan on their way for their first ever tour down under - <a href="http://damonandnaomi.com/tours/">full details of their upcoming shows can be found on their website</a>. In honour of that here's a collection of Damon & Naomi dipping into Bob Dylan's catalogue</p>
 
 {% ahfowaudio "http://media.fullofwishes.co.uk/03-damon_and_naomi/audio/09_Damon_Naomi_I%20Shall%20Be%20Released.mp3" "Damon & Naomi with Tom Rapp - I Shall Be Released" %}

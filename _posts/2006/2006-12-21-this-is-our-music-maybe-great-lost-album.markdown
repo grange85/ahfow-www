@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: This is Our Music (maybe) &quot;Great Lost Album&quot;
+title: This is Our Music (maybe) "Great Lost Album"
 author:
   display_name: Andy
   login: admin

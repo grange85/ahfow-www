@@ -25,7 +25,7 @@ I think I've posted most (although possibly not all) of these tracks separately 
 <p>The four extra tracks are as follows </p>
 <ul>
 <li><a href="http://www.box.net/shared/g80i2syptmtx6ilv4e2p">Pride</a> (mp3 via Box.net)</li>
-<li><a href="http://www.box.net/shared/ymhzgcva1h">On The Sofa</a> (mp3 via Box.net)<br />
+<li><a href="http://www.box.net/shared/ymhzgcva1h">On the Sofa</a> (mp3 via Box.net)<br />
 (featuring Claudia Silver on vocals later <a href="/2007/07/21/audio-cagney-and-lacee-borderline/">Lacee to Dean's Cagney</a> (or was it the other way round?)</li>
 <li><a href="http://www.box.net/shared/eqatnsmos8">Open Road</a> (mp3 via Box.net)</li>
 <li><a href="http://www.box.net/shared/3b9xtjuqri">Well All Right</a> (mp3 via Box.net)<br />

@@ -19,4 +19,4 @@ categories:
 tags: []
 ---
 <p><a href="http://www.sonic-boom.info/news.php">Sonic Boom</a> has just updated his website and inlcuded this news snippet...</p>
-<blockquote><p>Today been finalising a mix of a tune from the new DeanandBritta E.P. that Rounder are putting out soonish. I did the cover again too, but not the mixes of the other tracks this time, just a pretty track &quot;When I lay my burden down&quot; that Dean gleaned from somewhere special &amp; sent for the sonic mangle...</p></blockquote>
+<blockquote><p>Today been finalising a mix of a tune from the new DeanandBritta E.P. that Rounder are putting out soonish. I did the cover again too, but not the mixes of the other tracks this time, just a pretty track "When I lay my burden down" that Dean gleaned from somewhere special & sent for the sonic mangle...</p></blockquote>

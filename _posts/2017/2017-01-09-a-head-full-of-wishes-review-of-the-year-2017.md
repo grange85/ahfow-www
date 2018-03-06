@@ -22,7 +22,7 @@ longpost: true
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/30107025742/" title="Arcade"><img src="https://c7.staticflickr.com/6/5061/30107025742_bfd1eee3c5_c.jpg" width="800" height="600" alt="Arcade"></a>
 <p class="lead">A wee bit later than planned but here's a quick summary of what happened in the world of AHFoW during 2016 (I've missed out plenty so feel free to poke around the site for loads of words, pictures, videos and audios!</p>
 <h2>January</h2>
-<p>Magic Hour - the band that Damon &amp; Naomi were in with Kate and Wayne of Crytsalized Movements/Twisted Village put their <a href="https://magic-hour.bandcamp.com/">entire catalogue on Bandcamp</a> including a new collection of non album tracks - Magic Monents.</p>
+<p>Magic Hour - the band that Damon & Naomi were in with Kate and Wayne of Crytsalized Movements/Twisted Village put their <a href="https://magic-hour.bandcamp.com/">entire catalogue on Bandcamp</a> including a new collection of non album tracks - Magic Monents.</p>
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3096253867/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://magic-hour.bandcamp.com/album/magic-moments">Magic Moments by Magic Hour</a></iframe>
 <h2>February</h2>
 <!--more-->
@@ -37,7 +37,7 @@ longpost: true
 <p>In April I almost saw Damon & Naomi in London except Damon ended up in the care of our NHS&hellip;</p>
 {% ahfowimage "http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/2016-04-19-damon-and-naomi-hospital.jpg" "Damon in London" %}
 <p>&hellip; and then did see them in Berlin:</p>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26019862693/in/dateposted/" title="Damon &amp; Naomi in Berlin"><img src="https://c6.staticflickr.com/2/1602/26019862693_9d1a00b7fe_c.jpg" width="800" height="600" alt="Damon &amp; Naomi in Berlin"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26019862693/in/dateposted/" title="Damon & Naomi in Berlin"><img src="https://c6.staticflickr.com/2/1602/26019862693_9d1a00b7fe_c.jpg" width="800" height="600" alt="Damon & Naomi in Berlin"></a>
 <h2>May</h2>
 <p>In May Luna were back on the road - you can watch a 360&deg; video of them playing Friendly Advice</p>
 {% ahfowvideo "Ue-ba-QHa2Q" "Luna play Friendly Advice - 360&deg;" %}
@@ -83,13 +83,13 @@ longpost: true
 <p>November was quiet so I idly started picking my <a href="http://www.fullofwishes.co.uk/category/favourite-galaxie-500-covers/">favourite Galaxie 500 covers</a> (that's other people covering Galaxie 500 not Galaxie 500 covering other people!)</p>
 
 <h2>December</h2>
-<p>Damon &amp; Naomi released a digital album of rarities and  decided to put the whole of their back-catalogue onto Bandcamp for pay what you want - and it turned out to be a great success.</p>
+<p>Damon & Naomi released a digital album of rarities and  decided to put the whole of their back-catalogue onto Bandcamp for pay what you want - and it turned out to be a great success.</p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Over 2000 album downloads this month - we don&#39;t need no stinking streaming <a href="https://t.co/GH7Bcn5Qmu">https://t.co/GH7Bcn5Qmu</a> <a href="https://t.co/f7RCNDBLkb">pic.twitter.com/f7RCNDBLkb</a></p>&mdash; Damon K (@dada_drummer) <a href="https://twitter.com/dada_drummer/status/814822270199853060">December 30, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <p>&hellip; and thanks to the <a href="https://archive.org/donate/">Internet Archive</a> Wayback Machine <a href="http://www.fullofwishes.co.uk/2016/12/20/my-favourite-galaxie-500-covers-7-rainer-maria-hearing-voices/">I found a video I thought I'd lost forever</a>.</p>
 
 <h2>&hellip; and on to 2017!</h2>
-<p>And that was it - another busy year - thanks to Dean and Damon and Naomi for keeping on doing amazing things and keeping me in a near full time hobby. Thanks to all the brilliant fans who I'm proud to be one of - who make being fans of Galaxie 500, Luna and Damon &amp; Naomi (&amp;c.) a wonderful thing to be a part of.</p>
+<p>And that was it - another busy year - thanks to Dean and Damon and Naomi for keeping on doing amazing things and keeping me in a near full time hobby. Thanks to all the brilliant fans who I'm proud to be one of - who make being fans of Galaxie 500, Luna and Damon & Naomi (&c.) a wonderful thing to be a part of.</p>
 <p>2017 will see Damon's book, hopefully the much hinted at Luna covers album and/or Dean's album of "cowboy songs" with Cheval Sombre. And with any luck more gigs to go to and fans to hang with.</p>
 <p>It's been a blast - thank you all so much!</p>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/30179539435/" title="Loitering in the fans room backstage at the o2 Academy"><img src="https://c4.staticflickr.com/6/5676/30179539435_f0e7564aaa_c.jpg" width="800" height="800" alt="Loitering in the fans room backstage at the o2 Academy"></a>

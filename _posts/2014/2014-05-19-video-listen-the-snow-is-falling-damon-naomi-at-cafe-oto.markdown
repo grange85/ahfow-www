@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Video: Listen The Snow is Falling - Damon & Naomi at Café Oto'
+title: 'Video: Listen, the Snow Is Falling - Damon & Naomi at Café Oto'
 author:
   display_name: Andy
   login: admin
@@ -19,5 +19,5 @@ categories:
 tags: []
 ---
 <p>This deserves a post all of its own. Thanks so much to Chris for videoing it...</p>
-<p>Damon & Naomi playing Yoko Ono's "Listen The Snow is Falling" in London last night.<br />
+<p>Damon & Naomi playing Yoko Ono's "Listen, the Snow Is Falling" in London last night.<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6CKSPKAul38" frameborder="0" allowfullscreen></iframe>

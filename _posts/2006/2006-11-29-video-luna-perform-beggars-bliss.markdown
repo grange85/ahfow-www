@@ -17,7 +17,7 @@ categories:
 - luna
 tags: []
 ---
-<p>Another clip from a bunch of RealVideo files that I grabbed from the Internet a while back. This is Luna performing Beggars Bliss for getmusic.com in January 2001.</p>
+<p>Another clip from a bunch of RealVideo files that I grabbed from the Internet a while back. This is Luna performing Beggar's Bliss for getmusic.com in January 2001.</p>
 <p>      <!-- begin embedded RealMedia file... --><br />
 <table border='0' cellpadding='0' align="center">        <!-- begin video window... --><br />
 <tr>

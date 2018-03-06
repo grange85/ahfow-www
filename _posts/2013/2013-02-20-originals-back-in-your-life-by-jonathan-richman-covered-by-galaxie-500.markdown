@@ -23,7 +23,7 @@ Argh! Didn't think this was going to be a tricky one... looks like UMG are busy 
 <p>For Spotify users...<br />
 <iframe class="aligncenter" src="https://embed.spotify.com/?uri=spotify:track:5L3h2rkAEQQdKFlEKdGk8h" width="300" height="380" frameborder="0" allowtransparency="true"></iframe></p>
 <p>This <a href="http://brandybonin.tumblr.com/post/36745708093/jonathan-richman-and-the-modern-lovers-back-in">"Swell Tunes" Tumblr</a> also has the song.</p>
-<p>Back in Your Life was a cover that Galaxie 500 certainly played at least once in their early days - we know this because it turned up on the rather excellent "Don't Let Our Youth Go To Waste" as part of the set they played at The Middle East in Cambridge, MA on March 19th 1988.</p>
+<p>Back in Your Life was a cover that Galaxie 500 certainly played at least once in their early days - we know this because it turned up on the rather excellent "Don't Let Our Youth Go to Waste" as part of the set they played at The Middle East in Cambridge, MA on March 19th 1988.</p>
 
 {% ahfowaudio "http://media.fullofwishes.co.uk.s3.amazonaws.com/01-galaxie_500/audio/Galaxie_500-Back_In_Your_Life.mp3" "MP3: Back in Your Life (live) - Galaxie 500" %}
 

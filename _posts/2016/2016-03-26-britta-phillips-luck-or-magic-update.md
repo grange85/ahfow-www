@@ -22,12 +22,12 @@ tags: []
 
 <p>The Pledgemusic store is packed with goodies including signed test pressings, t-shirts, rare vinyl, Luna posters, and handwritten lyric sheets - as well as, of course, CD and vinyl copies of the album itself - and with all the extras being posted (see below) you'd be silly not to <a href="http://www.pledgemusic.com/projects/brittaphillips/exclusives">head over to Pledgemusic and order something</a>.</p>
 
-<p>You can also <a href="http://www.pledgemusic.com/blog/britta-phillips-interview">check out this nice Q&amp;A with Britta</a>.</p>
+<p>You can also <a href="http://www.pledgemusic.com/blog/britta-phillips-interview">check out this nice Q&A with Britta</a>.</p>
 
 <p>If you haven't put your order in you've been missing out on posts:</p>
 <p>&hellip; about the recording process&hellip;</p>
 <blockquote>
-	Then Dean played guitar on 3 more songs – we kept his original guitars on "Landslide" &amp; "Fallin' In Love." I kept my original demo guitars on the 4 songs I play on. I especially like what I played on the song "Luck or Magic," but I’m not really a guitar player&hellip;
+	Then Dean played guitar on 3 more songs – we kept his original guitars on "Landslide" & "Fallin' In Love." I kept my original demo guitars on the 4 songs I play on. I especially like what I played on the song "Luck or Magic," but I’m not really a guitar player&hellip;
 </blockquote>
 <p>&hellip; stacks of downloads of full tracks, demos, snippets etc. Including both sides of teh Fallin' In Love/Hey Paula single; a couple of Jem era tracks; early demos of her cover of Drive (The Cars)</p>
 

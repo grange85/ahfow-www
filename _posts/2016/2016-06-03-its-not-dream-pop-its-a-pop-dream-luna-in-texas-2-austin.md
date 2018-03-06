@@ -243,7 +243,7 @@ longpost: true
 
 <p>Dean jokes about Keith Relf, the vocalist from The Yardbirds who actually died from electrocution when playing. Sean's microphone is giving him electric shocks. It's probably not what you want to feel when you are about to sing.</p>
 
-<p>We've heard him sing Still At Home on many occasions by now, and he sings it wonderfully, with a little bit of variation in the phrasing, like he is searching for the lyrics on purpose, which gets the effect that some lines stand out more. "I got a cold master", he sings and laughs, it's great to hear, I love hearing things differently, I focus and listen. "She's gonna tell you, she's gonna break my back with a bit of amusement, oh man." Oh, man! I always love hearing Sean do this song.</p>
+<p>We've heard him sing Still at Home on many occasions by now, and he sings it wonderfully, with a little bit of variation in the phrasing, like he is searching for the lyrics on purpose, which gets the effect that some lines stand out more. "I got a cold master", he sings and laughs, it's great to hear, I love hearing things differently, I focus and listen. "She's gonna tell you, she's gonna break my back with a bit of amusement, oh man." Oh, man! I always love hearing Sean do this song.</p>
 
 {% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/05-l1030062-sean-and-mother-nice.jpg" "Sean and his mum (Photo: Joakim)" %}
 

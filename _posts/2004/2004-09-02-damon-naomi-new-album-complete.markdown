@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Damon &amp; Naomi: New album complete'
+title: 'Damon & Naomi: New album complete'
 author:
   display_name: Andy
   login: admin
@@ -18,4 +18,4 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p>This pinched wholesale from their website...Damon &amp; Naomi have finished their new album, "The Earth is Blue," which features Kurihara on electric guitar, with guest appearances by mperign (trumpet player Greg Kelley and soprano saxophonist Bhob Rainey), and Dana Kletter (piano). Release details TBA.source: http://www.damonandnaomi.com</p>
+<p>This pinched wholesale from their website...Damon & Naomi have finished their new album, "The Earth is Blue," which features Kurihara on electric guitar, with guest appearances by mperign (trumpet player Greg Kelley and soprano saxophonist Bhob Rainey), and Dana Kletter (piano). Release details TBA.source: http://www.damonandnaomi.com</p>

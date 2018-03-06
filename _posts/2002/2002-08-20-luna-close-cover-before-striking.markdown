@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Luna: &quot;close cover before striking&quot;'
+title: 'Luna: "close cover before striking"'
 author:
   display_name: Andy
   login: admin

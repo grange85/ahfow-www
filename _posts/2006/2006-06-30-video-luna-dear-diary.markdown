@@ -18,4 +18,4 @@ categories:
 tags: []
 ---
 <div align="center"><figure class="caption "><figcaption class="caption-text"></figcaption></figure></div>
-<p>Someone sent me this &quot;Days...&quot; era video of Luna performing Dear Diary but trawling through my email I can't track down who it was - if it was you thanks a lot!.</p>
+<p>Someone sent me this "Days..." era video of Luna performing Dear Diary but trawling through my email I can't track down who it was - if it was you thanks a lot!.</p>

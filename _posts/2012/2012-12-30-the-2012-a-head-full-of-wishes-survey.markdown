@@ -42,7 +42,7 @@ Favourite Luna album was, as usual, Penthouse, but a strong showing from Bewitch
 <iframe class="aligncenter" width="420" height="315" src="http://www.youtube.com/embed/81Sv57rbujA" frameborder="0" allowfullscreen></iframe></p>
 <p><strong>Damon & Naomi:</strong><br />
 More Sad Hits was once again your favourite Damon & Naomi album but nice to see that most of their albums got a vote<br />
-<iframe class="aligncenter" width="400" height="100" style="position: relative; display: block; width: 400px; height: 100px;" src="http://bandcamp.com/EmbeddedPlayer/v=2/album=4050036211/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://damonandnaomi.bandcamp.com/album/more-sad-hits">More Sad Hits by Damon &amp; Naomi</a></iframe><br />
+<iframe class="aligncenter" width="400" height="100" style="position: relative; display: block; width: 400px; height: 100px;" src="http://bandcamp.com/EmbeddedPlayer/v=2/album=4050036211/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://damonandnaomi.bandcamp.com/album/more-sad-hits">More Sad Hits by Damon & Naomi</a></iframe><br />
 This Car Climbed Mt. Washington was again favourite Damon & Naomi song</p>
 <p><strong>Dean & Britta:</strong><br />
 L'Avventura again walked away with favourite Dean & Britta album.<br />
