@@ -282,7 +282,7 @@ tags:
   "audiourl": "http://media.fullofwishes.co.uk/00-misc/audio/02_Venice%20Is%20Sinking_Tugboat.mp3",
   "audiocap": "Venice is Sinking",
   "sourceurl": "https://veniceissinking.bandcamp.com/album/sand-lines-the-georgia-theatre-sessions",
-  "sourcecap": "Sand & Lines: the Georgia Theatre Sessions (bandcamp)"
+  "sourcecap": "Sand and Lines: the Georgia Theatre Sessions (bandcamp)"
   }
 %}
 {% ahfowvideo "mca4J5ymXvc" "Venice is Sinking - Tugboat" %}

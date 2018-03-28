@@ -25,7 +25,7 @@ longpost: true
 <p>On Thursday part of that time-killing involved meeting up with Dean & Britta for a coffee!</p>
 
 <p>Saturday arrived and somehow we managed to already be cutting things fine. But it would be OK because the Paris Metro was brilliant&hellip; only tonight the normal two minute wait was a six minute wait add to that the traditional confusion about which way to walk when we got out of the station, and some (understandably) zealous security at the venue that forced me to queue to check a water bottle - meant that we managed to miss the opening of Britta's set.</p>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/30394630385/in/photostream/" title="Dean and Britta"><img src="https://c2.staticflickr.com/6/5528/30394630385_3e4d0894f0_c.jpg" width="800" height="600" alt="Dean and Britta"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/30394630385/in/photostream/" title="Dean & Britta"><img src="https://c2.staticflickr.com/6/5528/30394630385_3e4d0894f0_c.jpg" width="800" height="600" alt="Dean & Britta"></a>
 
 <p>We were shown to our seats in the stalls and enjoyed what we saw - relieved to have got there for most of the short set. It was a pleasure to see Britta and Dean on a big stage in front of a big, attentive and appreciative audience.</p>
 <!--more-->

@@ -20,9 +20,9 @@ categories:
 tags: 
 - stan demeski
 description: >
-  Happy birdthday to Luna's Dean Wareham (1st August) and former Luna drummer Stan Demeski (2nd August). Happy birthday Dean & Stan from AHFoW!
+  Happy birdthday to Luna's Dean Wareham (1st August) and former Luna drummer Stan Demeski (2nd August). Happy birthday Dean and Stan from AHFoW!
 ---
-<p class="lead">Just back from a fab and exhausting weekend at the always brilliant Indietracks festival and so lazily combining Dean and Stan's birthday wishes into one post! Happy birthday Dean & Stan from AHFoW!</p>
+<p class="lead">Just back from a fab and exhausting weekend at the always brilliant Indietracks festival and so lazily combining Dean and Stan's birthday wishes into one post! Happy birthday Dean and Stan from AHFoW!</p>
 
 <p>&hellip; and so here's a bunch of pics when from when the two played together in the same band&hellip;</p>
 {% ahfowimage "http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo92.jpg" "Luna<sup>2</sup> (1992)" %}

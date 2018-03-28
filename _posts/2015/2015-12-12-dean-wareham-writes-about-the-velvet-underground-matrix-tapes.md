@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "Dean Wareham writes about the Velvet Underground Matrix Tapes box set for Salon"
+title: "Dean Wareham writes about The Velvet Underground Matrix Tapes box set for Salon"
 author:
   display_name: Andy
   login: admin
@@ -16,7 +16,7 @@ categories:
 tags: []
 ---
 {% ahfowimage "http://media.fullofwishes.co.uk/00-misc/pictures/vu-matrix-tapes.jpg" "The Complete Matrix Tapes - The Velvet Underground" %}
-<p class="lead">Dean Wareham has a piece on Salon today <a href="http://www.salon.com/2015/12/12/were_your_local_velvet_underground_this_seasons_one_essential_box_set_is_the_complete_matrix_tapes/">writing about the recently released Velvet Underground live box set "The Complete Matrix Tapes"</a> and some reminiscences on his introduction to the band.</p>
+<p class="lead">Dean Wareham has a piece on Salon today <a href="http://www.salon.com/2015/12/12/were_your_local_velvet_underground_this_seasons_one_essential_box_set_is_the_complete_matrix_tapes/">writing about the recently released The Velvet Underground live box set "The Complete Matrix Tapes"</a> and some reminiscences on his introduction to the band.</p>
 
 <p><a href="http://www.salon.com/2015/12/12/were_your_local_velvet_underground_this_seasons_one_essential_box_set_is_the_complete_matrix_tapes/">Read the full article on Salon</a>.</p>
 

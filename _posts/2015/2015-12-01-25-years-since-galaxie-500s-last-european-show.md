@@ -11,7 +11,7 @@ categories:
  - galaxie 500
 ---
 {% ahfowimage "http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_copenhagen.jpg" "Copenhagen sleeve" %}
-<p class="lead">On the 1st of December 1990 Galaxie 500 played their last European show at Barbue in Copenhagen, fortunately for us the show was recorded for Danish national radio and in 1997 on the back of the previous year's reissues, was released as the splendid live album Copenhagen.</p>
+<p class="lead">On the 1st December 1990 Galaxie 500 played their last European show at Barbue in Copenhagen, fortunately for us the show was recorded for Danish national radio and in 1997 on the back of the previous year's reissues, was released as the splendid live album Copenhagen.</p>
 
 <p>I first heard about this show when Damon & Naomi were playing in London in 1996 and Damon mentioned that they were hoping to release a live Galaxie 500 show - he was very excited about it. A few months later a promo CD arrived unannouced from Andrea and Rykodisc, she was excited too&hellip;</p>
 

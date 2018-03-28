@@ -37,7 +37,7 @@ First up from the [Casbah in San Diego on 12 July 1994](http://db.fullofwishes.c
 <p>"Kick out the jams!" he yelled, before we had played a note.</p>
 <p>And again after our first, "Come on, motherfuckers! Kick out the jams!"</p>
 <p>He was annoyed. Luna didn't rock hard enough for him. He kept his chatter up all set long. After the last song I told him to go fuck himself, and he challenged me to a fight right then and there. Luckily for him, Stanley pulled me away.</p>
-<footer><a href="http://amzn.to/1YjwWBy">Wareham, Dean. Black Postcards: A Rock & Roll Romance. The Penguin Press, 2008</a>.</footer>
+<footer><a href="http://amzn.to/1YjwWBy">Wareham, Dean. Black Postcards: A Rock and Roll Romance. The Penguin Press, 2008</a>.</footer>
 </blockquote>
 You can see this all play out, and Justin, not Stanley, pulling Dean away at the end.
 <iframe width="420" height="315" src="https://www.youtube.com/embed/P02tq2NpB3s" frameborder="0" allowfullscreen></iframe>

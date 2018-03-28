@@ -22,7 +22,7 @@ tags:
 {% ahfowimage "http://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2017-12-15/2016-12-15-dean-and-britta-13mb.jpg" "13 Most Beautiful in Philadelphia (photo grabbed from video by michaelfgioia)" %}
 <p class="lead">A live recording of Dean & Britta's performance of 13 Most Beautiful is now <a href="http://www.nyctaper.com/2017/02/dean-and-britta-december-15-2016-philadephia/">available to download from NYCTaper</a>.</p>
 
-<p>Dean & Britta performed <a href="http://db.fullofwishes.co.uk/dean-and-britta/shows/2016/2016-12-15-dean-and-britta-the-gershman-y-philadelphia-pa-usa/">13 Most Beautiful as part of the Philadelphia Art Festival'</a>s celebration of the 50th anniversary of the Velvet Underground's first appearance in the city.</p>
+<p>Dean & Britta performed <a href="http://db.fullofwishes.co.uk/dean-and-britta/shows/2016/2016-12-15-dean-and-britta-the-gershman-y-philadelphia-pa-usa/">13 Most Beautiful as part of the Philadelphia Art Festival'</a>s celebration of the 50th anniversary of The Velvet Underground's first appearance in the city.</p>
 
 <p>The recording, another one by kubacheck and is exceptional, so <a href="http://www.nyctaper.com/2017/02/dean-and-britta-december-15-2016-philadephia/">head over to NYCTaper to stream or download it</a>.</p>
 

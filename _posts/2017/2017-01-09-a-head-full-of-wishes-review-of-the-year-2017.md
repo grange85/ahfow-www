@@ -64,8 +64,8 @@ longpost: true
 <h2>September</h2>
 <p>Luna were back on the road in the US and Joakim was of course there for most of the shows - read about his <a href="http://www.fullofwishes.co.uk/2016/10/29/luna-in-the-usa-and-uk-1-alexandria/">adventures in Alexandria</a>.</p>
 <blockquote>Sean is playing a solo, his fingers are moving like a corn in a heated pan, not a cold pan. Heated pan. What a pan.</blockquote>
-<p>Naomi was still keeping busy in her other career as a video director with a video for MV & EE's Feel Alright.</p>
-{% ahfowvideo "9FVg_jppB5A" "MV & EE - Feel Alright (dir: Naomi Yang)" %}
+<p>Naomi was still keeping busy in her other career as a video director with a video for MV and EE's Feel Alright.</p>
+{% ahfowvideo "9FVg_jppB5A" "MV and EE - Feel Alright (dir: Naomi Yang)" %}
 <h2>October</h2>
 <p>Video of Luna covering Mot&ouml;rhead appeared on A.V. Club Undercover - and rocked my world! For some reason this hasn't found its way to YouTube - <a href="http://www.avclub.com/video/luna-covers-motorheads-killed-death-243640">you might be able to see it on the A.V. Club</a> (I can't!) - luckily enough I have an mp3 grabbed from when I could access it!</p>
 {% ahfowaudio2
@@ -89,7 +89,7 @@ longpost: true
 <p>&hellip; and thanks to the <a href="https://archive.org/donate/">Internet Archive</a> Wayback Machine <a href="http://www.fullofwishes.co.uk/2016/12/20/my-favourite-galaxie-500-covers-7-rainer-maria-hearing-voices/">I found a video I thought I'd lost forever</a>.</p>
 
 <h2>&hellip; and on to 2017!</h2>
-<p>And that was it - another busy year - thanks to Dean and Damon and Naomi for keeping on doing amazing things and keeping me in a near full time hobby. Thanks to all the brilliant fans who I'm proud to be one of - who make being fans of Galaxie 500, Luna and Damon & Naomi (&c.) a wonderful thing to be a part of.</p>
+<p>And that was it - another busy year - thanks to Dean and Damon & Naomi for keeping on doing amazing things and keeping me in a near full time hobby. Thanks to all the brilliant fans who I'm proud to be one of - who make being fans of Galaxie 500, Luna and Damon & Naomi (&c.) a wonderful thing to be a part of.</p>
 <p>2017 will see Damon's book, hopefully the much hinted at Luna covers album and/or Dean's album of "cowboy songs" with Cheval Sombre. And with any luck more gigs to go to and fans to hang with.</p>
 <p>It's been a blast - thank you all so much!</p>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/30179539435/" title="Loitering in the fans room backstage at the o2 Academy"><img src="https://c4.staticflickr.com/6/5676/30179539435_f0e7564aaa_c.jpg" width="800" height="800" alt="Loitering in the fans room backstage at the o2 Academy"></a>

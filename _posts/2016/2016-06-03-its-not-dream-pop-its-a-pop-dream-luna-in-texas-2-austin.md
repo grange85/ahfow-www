@@ -119,7 +119,7 @@ photos:
       {
       thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/08-l1030117.jpg',
       image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/08-l1030117.jpg',
-      title: 'Dean and Britta (Photo: Joakim)'
+      title: 'Dean & Britta (Photo: Joakim)'
       },
       {
       thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/08-l1030122.jpg',

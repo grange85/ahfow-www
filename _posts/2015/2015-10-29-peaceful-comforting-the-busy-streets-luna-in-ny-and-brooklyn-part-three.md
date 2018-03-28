@@ -70,7 +70,7 @@ tags: []
 
 {% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-007.jpg" "Britta (Photo: Joakim)" %}
 
-<p>And {% track "Bonnie and Clyde" %} was up next. Dean's pedal board stops working a bit into the song, it has to be frustrating but he first acts cool about it, then finds outs which one of his pedals is defective and removes it. I liked the peculiar sound of that pedal, hand made in Valencia apparently, I hope he'll fix it half way. Bonnie & Clyde was meant to be last song of the main set but since things didn't go as planned they play {% track "Time to Quit" %} instead.</p>
+<p>And {% track "Bonnie and Clyde" %} was up next. Dean's pedal board stops working a bit into the song, it has to be frustrating but he first acts cool about it, then finds outs which one of his pedals is defective and removes it. I liked the peculiar sound of that pedal, hand made in Valencia apparently, I hope he'll fix it half way. Bonnie and Clyde was meant to be last song of the main set but since things didn't go as planned they play {% track "Time to Quit" %} instead.</p>
 
 {% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-008.jpg" "Dean (Photo: Joakim)" %}
 

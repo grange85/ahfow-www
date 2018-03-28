@@ -247,7 +247,7 @@ longpost: true
 
 <p>Lee comes up to us after show and hands over his setlist to Ulrika, I was almost a little moved by it. Terry Tolkin picked up the set lists after the show and handed them out to random people in the audience, which I liked a lot that he did, because not only the people closest to the stage had the chance to get one. It's impossible to get them all the time but we collect the set lists after the shows if we have the chance, both to keep as a memory but mainly to post a picture of it on A Head Full of Wishes.</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-houston/07-l1030452-lee-mike-21.jpg" "Lee & Mike after the show (Photo: Joakim)" %}
+{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-houston/07-l1030452-lee-mike-21.jpg" "Lee and Mike after the show (Photo: Joakim)" %}
 
 <p>In Santander, Spain last year I got one signed by Dean to give to Ulrika. She was too shy at the time and didn't even want to show herself. Dean signed it and I told him "my boss will be so happy". One of many bad jokes I've said on these trips. There will probably be a few more.</p>
 

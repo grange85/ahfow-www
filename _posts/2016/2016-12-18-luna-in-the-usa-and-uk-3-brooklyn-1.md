@@ -157,7 +157,7 @@ longpost: true
 
 <p>&ldquo;There's something going on&rdquo;, people are shouting. They are playing a heavy, fast Speedbumps. Always a treat. Something to move your feet to, your toes, your brain cells are left out, the knees are in, the hips, the chest, the shoulders too, the head, but not the brain. I like to move my ankles when I dance.</p>
 
-<p>We met Frank and Marjorie in the line before the show started. I was filming and I was nervous, we got back from our meal, Mike and Ulrika talked instead of me. Dean and Britta came out and said hello, they had finished their soundcheck, and were going to have dinner with Dean's younger brother.</p>
+<p>We met Frank and Marjorie in the line before the show started. I was filming and I was nervous, we got back from our meal, Mike and Ulrika talked instead of me. Dean & Britta came out and said hello, they had finished their soundcheck, and were going to have dinner with Dean's younger brother.</p>
 
 <div class="col-md-6 pull-right">{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-006.jpg" "Dean and his brother (Photo: Joakim)" %}</div>
 

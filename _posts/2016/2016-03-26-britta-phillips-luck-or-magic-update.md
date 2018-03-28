@@ -27,13 +27,13 @@ tags: []
 <p>If you haven't put your order in you've been missing out on posts:</p>
 <p>&hellip; about the recording process&hellip;</p>
 <blockquote>
-	Then Dean played guitar on 3 more songs – we kept his original guitars on "Landslide" & "Fallin' In Love." I kept my original demo guitars on the 4 songs I play on. I especially like what I played on the song "Luck or Magic," but I’m not really a guitar player&hellip;
+	Then Dean played guitar on 3 more songs – we kept his original guitars on "Landslide" and "Fallin' In Love." I kept my original demo guitars on the 4 songs I play on. I especially like what I played on the song "Luck or Magic," but I’m not really a guitar player&hellip;
 </blockquote>
 <p>&hellip; stacks of downloads of full tracks, demos, snippets etc. Including both sides of teh Fallin' In Love/Hey Paula single; a couple of Jem era tracks; early demos of her cover of Drive (The Cars)</p>
 
 <p>&hellip; and some lovely little video clips!</p>
 
-<p>The cover of Drive is the 2nd single from the album and is <a href="https://itunes.apple.com/us/album/drive/id1072803111?i=1072803122">available on iTunes</a> if you prefer to work that way. It also has a video directed by <a href="http://www.theculturecrush.com/">Debra Scherer of The Culturecrush</a></p>
+<p>The cover of Drive is the 2nd single from the album and is <a href="https://itunes.apple.com/us/album/drive/id1072803111?i=1072803122">available on iTunes</a> if you prefer to work that way. It also has a video directed by <a href="http://www.theculturecrush.com/">Debra Scherer of The Culture Crush</a></p>
 
 {% ahfowvideo "G7vyQKZP4y4" "Drive - Britta Phillips (Dir: Debra Scherer)" %}
 

@@ -27,7 +27,7 @@ Here's a beautiful video of Damon & Naomi performing The Great Wall in a Japanes
 
 As well as her silent film Fortune Naomi has also made a bunch of lovely promo videos for other folk - here are a few of them:
 
-Mary Lattimore & Jeff Zeigler - The White Balloon
+Mary Lattimore and Jeff Zeigler - The White Balloon
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8hkN_GZxaPA" frameborder="0" allowfullscreen></iframe> 
 
 Future Bible Heroes - Living, Loving, Partygoing

@@ -95,7 +95,7 @@ tags:
 <tr><td>Emancipated Hearts</td>	<td>22</td>	<td>12</td></tr>
 <tr><td>Love is Colder Than Death</td>	<td>19</td>	<td>10</td></tr>
 <tr><td>Babes in the Wood</td>	<td>17</td>	<td>9</td></tr>
-<tr><td>Happy & Free</td>	<td>17</td>	<td>9</td></tr>
+<tr><td>Happy and Free</td>	<td>17</td>	<td>9</td></tr>
 </table>
 
 <p>Draw winners Chris, Jeff and Todd have been notified and their gifts are on their way.</p>

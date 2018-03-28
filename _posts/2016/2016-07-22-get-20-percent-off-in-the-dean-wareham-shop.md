@@ -25,7 +25,7 @@ tags:
 - sale
 - shop
 ---
-<p class="lead">Everything in <a href="http://deanwareham.bigcartel.com/">Dean Wareham's online shop</a> can be had for 20% off until the 3rd of August - lots of lovely goodies can be had at the bargain price merely by entering the word <strong>SUMMERSALE</strong> at the checkout.</p>
+<p class="lead">Everything in <a href="http://deanwareham.bigcartel.com/">Dean Wareham's online shop</a> can be had for 20% off until the 3rd August - lots of lovely goodies can be had at the bargain price merely by entering the word <strong>SUMMERSALE</strong> at the checkout.</p>
 <p>Included in the sale is a colourful selection fo Galaxie 500 T-shirts, and some lovely LUNA ones too - plus CDs and vinyl by Galaxie 500, Dean Wareham and Dean & Britta.</p>
 
 <p><a class="btn btn-default" href="http://deanwareham.bigcartel.com/">20% off in the Dean Warheam shop (code: SUMMERSALE)</a></p>

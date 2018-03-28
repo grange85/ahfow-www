@@ -165,7 +165,7 @@ longpost: true
 <p>"It's like Ware-Ham", Dean continues.</p> 
 <p>People starts to laugh to this non joke but it's making the atmosphere loosen up a bit. It's what Luna is so good at, even a medium good show with medium funny jokes is entertaining and always worth seeing no matter what. The drink will stir itself.</p>
 
-<p>It's a good sounding show. {% track "Sideshow by the Seashore" %} is a place in Coney Island, next to Luna Park. Sideshows are originally a secondary circus attraction, like freak shows, strange objects on display like Bonnie & Clyde's death car. There's hoochie-coochie strip shows and things like that. The place still exists. "The girls are dressed as mermaids." I might go there someday.</p>
+<p>It's a good sounding show. {% track "Sideshow by the Seashore" %} is a place in Coney Island, next to Luna Park. Sideshows are originally a secondary circus attraction, like freak shows, strange objects on display like Bonnie and Clyde's death car. There's hoochie-coochie strip shows and things like that. The place still exists. "The girls are dressed as mermaids." I might go there someday.</p>
 
 <p>There are long pauses between the songs, sometimes it even feels like everything is falling apart. But watching Luna is always amusing, and we are in the front like always.</p> 
 {% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-boston/ulrika-luna-setlist-2016-09-29.jpg" "Setlist (Photo: Ulrika)" %}

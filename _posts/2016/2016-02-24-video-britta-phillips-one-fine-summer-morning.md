@@ -24,4 +24,4 @@ tags: []
 <blockquote><p>Dean shot the video of me on my iPhone in our backyard and I sent it to Mike in Philly and he made it beautiful and trippy. I first met Mike at a Luna show way back in 2000 and we’ve kept in touch over the years. He was very generous in offering to make a video for me and I’m so pleased with how it came out.</p><p>I delayed shooting the video for him for ages &hellip; He sent me the song sped up so that he could slow down the video and it would match, but I couldn’t get through it without cracking up, so he sent me another that was a bit closer to the original tempo and it worked.</p>
 <footer><a href="http://www.pledgemusic.com/projects/brittaphillips/updates/66248">Britta Phillips - Pledgemusic</a></footer></blockquote>
 
-<p>The album, Luck or Magic, will be released on the 29th of April and is <a href="http://www.pledgemusic.com/projects/brittaphillips">available to order on Pledge Music</a></p>
+<p>The album, Luck or Magic, will be released on the 29th April and is <a href="http://www.pledgemusic.com/projects/brittaphillips">available to order on Pledge Music</a></p>
