@@ -8,6 +8,8 @@ Punctuation
 : Ellipsis - no space before&hellip; but a space after.
 : Try not to over-use exclaimation marks (I know that I'm a serial abuser of this rule)
 : Dashes should be en dashes (but generally arent')
+: Initials should be followed by a full stop and a space so, _J. C. Oliver_ and D. Krukowski
+: Items separated by a slash should also be separated by spaces (space-slash-space) so, _Krukowski / Wareham / Yang_
 Dates
 : For full date _[ordinal_number] [full month name] [full year]_ no commas. So, 17th May 1964 or 1st January 2000 - in filenames use yyyy-mm-dd so 1964-05-17 or 2000-01-01
 
