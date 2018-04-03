@@ -3,34 +3,35 @@ layout: page
 title: AHFoW style guide
 sitemap: false
 ---
+# Style guide
 
-Punctuation
-: Ellipsis - no space before&hellip; but a space after.
-: Try not to over-use exclaimation marks (I know that I'm a serial abuser of this rule)
-: Dashes should be en dashes (but generally arent')
-: Initials should be followed by a full stop and a space so, _J. C. Oliver_ and D. Krukowski
-: Items separated by a slash should also be separated by spaces (space-slash-space) so, _Krukowski / Wareham / Yang_
-Dates
-: For full date _[ordinal_number] [full month name] [full year]_ no commas. So, 17th May 1964 or 1st January 2000 - in filenames use yyyy-mm-dd so 1964-05-17 or 2000-01-01
+## General
+### Punctuation
+* Ellipsis - no space before&hellip; but a space after.
+* Try not to over-use exclaimation marks (I know that I'm a serial abuser of this rule)
+* Dashes should be en dashes (but generally arent')
+* Initials should be followed by a full stop and a space so, _J. C. Oliver_ and D. Krukowski
+* Items separated by a slash should also be separated by spaces (space-slash-space) so, _Krukowski / Wareham / Yang_
+### Dates
+* For full date _[ordinal_number] [full month name] [full year]_ no commas. So, 17th May 1964 or 1st January 2000 - in filenames use yyyy-mm-dd so 1964-05-17 or 2000-01-01
 
-& or and
-: Always _and_ unless Damon & Naomi or Dean & Britta
+### & or and
+* Always _and_ unless Damon & Naomi or Dean & Britta
 
-Damon & Naomi
-: Always with an ampersand when talking about the band, if talking about the members then use _and_ so: _Damon & Naomi played a show_ but _Damon & Naomi hung around afterwards to sign things_
+### Damon & Naomi
+* Always with an ampersand when talking about the band, if talking about the members then use _and_ so: _Damon & Naomi played a show_ but _Damon & Naomi hung around afterwards to sign things_
 
-Dean & Britta
-: Always with an ampersand when talking about the band, if talking about the members then use _and_ so: _Dean & Britta have a new single_ but _Dean & Britta are always friendly_
+### Dean & Britta
+* Always with an ampersand when talking about the band, if talking about the members then use _and_ so: _Dean & Britta have a new single_ but _Dean & Britta are always friendly_
 
-Britta Phillps and Dean Wareham
-: Treat as two individuals rather than a band so always _and_ not _&_
+### Britta Phillps and Dean Wareham
+* Treat as two individuals rather than a band so always _and_ not _&_
 
+### British English vs American English spelling
+* *Always* use British English spelling so _rumour_ not _rumor_ and _analogue_ not _analog_ except when they are used in titles, so: _released on analogue formats_ but _The New Analog_
 
-British English vs American English spelling
-: *Always* use British English spelling so _rumour_ not _rumor_ and _analogue_ not _analog_ except when they are used in titles, so: _released on analogue formats_ but _The New Analog_
-
-Bands *are* bands!
-: When talking about bands use the plural form so Luna _are_ a band and Galaxie 500 _are_ a band
+### Bands *are* bands!
+* When talking about bands use the plural form so Luna _are_ a band and Galaxie 500 _are_ a band
 
 ### Capitalization of song titles
 This site uses the [Musicbrainz styles](https://musicbrainz.org/doc/Style/Language/English) for song and album titles.
@@ -57,57 +58,57 @@ For specific songs and any anomlies see:
 
 #### <a name="galaxie-500-titles">Galaxie 500 titles</a>
 
-Fourth of July
-: not 4th of July and not *The* Fourth of July (on the sleeve of Luna Live it's spelt 4th of July - *this is wrong!*)
+* Fourth of July
+  * not 4th of July and not *The* Fourth of July (on the sleeve of Luna Live it's spelt 4th of July - *this is wrong!*)
 
-Listen, the Snow Is Falling
-: always include the comma
+* Listen, the Snow Is Falling
+  * always include the comma
 
 
 #### <a name="luna-titles">Luna titles</a>
 
-1995
-: the year is digits
+* 1995
+  * the year is digits
 
-Beggar's Bliss
-: one beggar
+* Beggar's Bliss
+  * one beggar
 
-Four Thousand Days
-: number spelt out (on the sleeve of Luna Live it's spelt 4000 Days - *this is wrong!*)
+* Four Thousand Days
+  * number spelt out (on the sleeve of Luna Live it's spelt 4000 Days - *this is wrong!*)
 
-Malibu Love Nest
-: not Lovenest
+* Malibu Love Nest
+  * not Lovenest
 
-Mr. Jealousy Suite
-: note the . and the space after Mr
+* Mr. Jealousy Suite
+  * note the . and the space after Mr
 
-Tracy I Love You
-: no comma and no _e_ in Tracy
+* Tracy I Love You
+  * no comma and no _e_ in Tracy
 
 #### <a name="damon-and-naomi-titles">Damon & Naomi titles</a>
 
-(Scene Change)
-: always include the parentheses
+* (Scene Change)
+  * always include the parentheses
 
-Araçá Azul
-: don't forget the accents
+* Araçá Azul
+  * don't forget the accents
 
-Nineteen Sixty-Nine
-: the year is spelt out
+* Nineteen Sixty-Nine
+  * the year is spelt out
 
-This Car Climbed Mt. Washington
-: note the . and the space after Mt
+* This Car Climbed Mt. Washington
+  * note the . and the space after Mt
 
-Yoo Doo Right
-: note the spelling
+* Yoo Doo Right
+  * note the spelling
 
-Who Am I
-: no question mark
+* Who Am I
+  * no question mark
 
-How Long
-: no question mark
+* How Long
+  * no question mark
 
 #### <a name="dean-and-britta-titles">Dean & Britta titles</a>
 
-You Turned My Head Around
-: note past tense, so not _Turn_ - Dean contacted me about this when I was stressing&hellip; he wrote: "My original 7" single calls the song _You Turned My Head Around_, which is how it is registered with the songwriting society also, so that's what I went with for our CD."
+* You Turned My Head Around
+  * note past tense, so not _Turn_ - Dean contacted me about this when I was stressing&hellip; he wrote: "My original 7" single calls the song _You Turned My Head Around_, which is how it is registered with the songwriting society also, so that's what I went with for our CD."
