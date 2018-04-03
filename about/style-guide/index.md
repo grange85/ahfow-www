@@ -33,7 +33,7 @@ sitemap: false
 ### Bands *are* bands!
 * When talking about bands use the plural form so Luna _are_ a band and Galaxie 500 _are_ a band
 
-### Capitalization of song titles
+## Capitalization of song titles
 This site uses the [Musicbrainz styles](https://musicbrainz.org/doc/Style/Language/English) for song and album titles.
 
 * Always capitalize the first and last word of a title. This rule should be followed even if the words would normally be lowercase according to the other rules. If a title is broken up by major punctuation (colon according to subtitle style, question mark, exclamation mark, em-dash, parentheses, or quotes), capitalize each distinct piece of the title as if it were a distinct title. Therefore, for example, always capitalize the first and last words of each section.
@@ -56,7 +56,7 @@ For specific songs and any anomlies see:
 * [Other titles](#other-titles)
 
 
-#### <a name="galaxie-500-titles">Galaxie 500 titles</a>
+### <a name="galaxie-500-titles">Galaxie 500 titles</a>
 
 * Fourth of July
   * not 4th of July and not *The* Fourth of July (on the sleeve of Luna Live it's spelt 4th of July - *this is wrong!*)
@@ -65,7 +65,7 @@ For specific songs and any anomlies see:
   * always include the comma
 
 
-#### <a name="luna-titles">Luna titles</a>
+### <a name="luna-titles">Luna titles</a>
 
 * 1995
   * the year is digits
@@ -85,7 +85,7 @@ For specific songs and any anomlies see:
 * Tracy I Love You
   * no comma and no _e_ in Tracy
 
-#### <a name="damon-and-naomi-titles">Damon & Naomi titles</a>
+### <a name="damon-and-naomi-titles">Damon & Naomi titles</a>
 
 * (Scene Change)
   * always include the parentheses
@@ -108,7 +108,7 @@ For specific songs and any anomlies see:
 * How Long
   * no question mark
 
-#### <a name="dean-and-britta-titles">Dean & Britta titles</a>
+### <a name="dean-and-britta-titles">Dean & Britta titles</a>
 
 * You Turned My Head Around
   * note past tense, so not _Turn_ - Dean contacted me about this when I was stressing&hellip; he wrote: "My original 7" single calls the song _You Turned My Head Around_, which is how it is registered with the songwriting society also, so that's what I went with for our CD."
