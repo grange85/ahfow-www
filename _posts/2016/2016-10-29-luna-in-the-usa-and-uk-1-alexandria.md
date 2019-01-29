@@ -11,167 +11,167 @@ author:
   email: joakim@fullofwishes.co.uk
   url: ''
 date: '2016-10-29 11:00:00 +0000'
-imageurl: http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-020.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-020.jpg
 categories:
 - luna
 tags:
  - guest post
  - alexandria
  - review
-photos: 
+photos:
   - type: ahfow-set
     photographer: Joakim Bengtsson
     data: |
       [
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-001.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-001.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-001.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-001.jpg',
           title: 'Joakim and Ulrika in Washington DC (Photo: Joakim)'
         },
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-002.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-002.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-002.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-002.jpg',
           title: 'Quiz night (Photo: Joakim)'
         },
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-003.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-003.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-003.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-003.jpg',
           title: ' (Photo: Joakim)'
         },
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-004.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-004.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-004.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-004.jpg',
           title: 'Ulrika (Photo: Joakim)'
         },
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-005.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-005.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-005.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-005.jpg',
           title: 'Joakim (Photo: Ulrika)'
         },
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-006.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-006.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-006.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-006.jpg',
           title: 'The Britta Phillips band (Photo: Joakim)'
         },
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-007.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-007.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-007.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-007.jpg',
           title: 'Britta (Photo: Joakim)'
         },
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-008.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-008.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-008.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-008.jpg',
           title: 'Britta (Photo: Joakim)'
         },
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-009.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-009.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-009.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-009.jpg',
           title: 'Dean and Sean (Photo: Joakim)'
         },
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-010.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-010.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-010.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-010.jpg',
           title: 'Sean (Photo: Joakim)'
         },
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-011.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-011.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-011.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-011.jpg',
           title: 'Britta, and Dean on bass (Photo: Joakim)'
         },
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-012.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-012.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-012.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-012.jpg',
           title: 'Britta, and Dean on bass 2 (Photo: Joakim)'
         },
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-013.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-013.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-013.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-013.jpg',
           title: 'Britta, and Dean (Photo: Joakim)'
         },
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-014.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-014.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-014.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-014.jpg',
           title: 'Lee (Photo: Joakim)'
         },
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-015.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-015.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-015.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-015.jpg',
           title: 'Sean (Photo: Joakim)'
         },
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-016.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-016.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-016.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-016.jpg',
           title: 'Sean (Photo: Joakim)'
         },
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-017.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-017.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-017.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-017.jpg',
           title: 'Dean and Lee (Photo: Joakim)'
         },
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-018.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-018.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-018.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-018.jpg',
           title: 'Sean (Photo: Joakim)'
         },
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-019.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-019.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-019.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-019.jpg',
           title: 'Dean (Photo: Joakim)'
         },
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-020.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-020.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-020.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-020.jpg',
           title: 'Dean (Photo: Joakim)'
         },
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-021.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-021.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-021.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-021.jpg',
           title: 'Dean and Sean (and Lee) (Photo: Joakim)'
         },
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-022.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-022.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-022.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-022.jpg',
           title: 'Dean (Photo: Joakim)'
         },
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-023.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-023.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-023.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-023.jpg',
           title: 'Dean (Photo: Joakim)'
         },
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-024.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-024.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-024.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-024.jpg',
           title: 'Dean (Photo: Joakim)'
         },
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-025.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-025.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-025.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-025.jpg',
           title: 'Dean (Photo: Joakim)'
         },
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-026.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-026.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-026.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-026.jpg',
           title: 'Luna (Photo: Joakim)'
         },
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-027.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-027.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-027.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-027.jpg',
           title: 'Audience (Photo: Joakim)'
         },
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-028.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-028.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-028.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-028.jpg',
           title: 'Audience (Photo: Joakim)'
         },
         {
-          thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-029.jpg',
-          image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-029.jpg',
+          thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/thumbs/joakim-luna-alexandria-029.jpg',
+          image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-029.jpg',
           title: 'Mike, Paul, Kathleen and Ulrika (Photo: Joakim)'
         }
       ]
 longpost: true
 ---
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-024.jpg" "Luna in Alexandria (Photo: Joakim)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-024.jpg" alt="Luna in Alexandria (Photo: Joakim)" /><figcaption class="caption-text">Luna in Alexandria (Photo: Joakim)</figcaption></figure>
 <p class="lead">I get a text message from Ulrika, she is drinking wine with Luna in Paris. I am at home. She is seeing two more Luna shows, without me.</p>
 
 <p>&mdash; "Tell me more", I quickly reply back.<br/>
@@ -184,14 +184,14 @@ longpost: true
 <p>I'm both happy and sad this day. But mostly happy. I've seen eight Luna concerts in a little less than two weeks. And now everything is back to normal. If that's possible. This strange day. I look up and Ulrika enters the door. It's dark, I see the silhouette of her. The candle light makes her face become clearer the closer she gets, she looks happy. A little more than two weeks ago we crossed the ocean together, and got to the small town of Alexandria, Virginia. It's just a road, with a few stores and restaurants. And there's a concert venue, Birchmere. Strange name, a weird place, in the middle of nowhere. It's not where a band like Luna is supposed to play I keep thinking to myself.</p>
 <!--more-->
 <p>A couple of days earlier we arrived in Washington, DC. </p>
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-001.jpg" "Joakim and Ulrika in Washington DC" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-001.jpg" alt="Joakim and Ulrika in Washington DC" /><figcaption class="caption-text">Joakim and Ulrika in Washington DC</figcaption></figure>
 <p>We visit The Capitol, I don't get that much of all the English bureaucratic and political terms, but I like it very much. We visit the Air and Space Museum, we love it. And we see all the monuments. And the White House of course. Somewhere in the distance.</p>
-<div class="col-md-6 pull-right">{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-002.jpg" "Quiz night in Annapolis" %}</div>
+<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-002.jpg" alt="Quiz night in Annapolis" /><figcaption class="caption-text">Quiz night in Annapolis</figcaption></figure></div>
 <p>We reach the small town of Annapolis, probably the nicest city I've ever been to in the US. Everyone seems so relaxed. The sidewalks are not overflowing with people, the houses are old and beautiful, and it's where our good friend Mike lives. We go to a quiz night with him and his friends, eat delicious crab cakes and have a lot of fun. It feels like a highlight of the trip, just to be in Annapolis. But we move on. There is a band playing.</p>
 <p>I didn't know what to expect of Alexandria. We loved the cajun restaurant, called RT's, it's even better food than most in New Orleans, and the friendliest staff. I had a crab soup, I love crabs. We relaxed and then left. When you get to the box office at Birchmere you get a queue number. Then they call the numbers one by one and you can chose where you want to sit where it's available, with as many of your friends as you like. Every seat is by a table. The waitresses takes the orders. We had a flat bread pizza. Just when we had finished it Britta came on. Britta Phillips.</p>
 <p>Her opening set was even better than what we had expected. When she played Agnetha F&auml;ltskog's Wrap Your Arms Around Me I couldn't help myself from crying with happiness. She did it that well. Not just well, there's more, there's so much more. I will get back to Britta. My emotions are all over right now, I will get back to Britta another day. She is very good.</p>
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-008.jpg" "Britta" %}
-<p>It's a quiet audience. Polite. And the sound is just perfect, crystal clear. And for the first time probably ever Dean's voice wasn't low in the mix from were we where sitting in the front. Dean was wearing a patterned shirt. Sean is saying he had the special, it wasn't on the menu, but it was the special. Dean had gumbo.</p> 
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-008.jpg" alt="Britta" /><figcaption class="caption-text">Britta</figcaption></figure>
+<p>It's a quiet audience. Polite. And the sound is just perfect, crystal clear. And for the first time probably ever Dean's voice wasn't low in the mix from were we where sitting in the front. Dean was wearing a patterned shirt. Sean is saying he had the special, it wasn't on the menu, but it was the special. Dean had gumbo.</p>
 <div class="col-md-6 pull-right"><blockquote>And then it happens. The candles light themselves. Those candles. And the guitar melody played by Dean. A million, a billion, a trillion stars.</blockquote></div>
 <p>Sneaking a kiss, on the fire escape. All those fire escapes, it's like in the movies. I see Robert Mitchum, James Stewart or even better, Cary Grant. And there's Grace Kelly, looking so good, gracious, curly blonde hair. I keep dreaming, of James Stewart, what he is seeing in Rear Window. I see myself in him. I would do the same. It's just that my neighbours aren't as entertaining. I go to my friend, she lives opposite to a hotel. I bring a bottle of wine and stare. It's a hobby of mine. You've got to have a hobby.</p>
 
@@ -202,7 +202,7 @@ longpost: true
 <p>"Thank you", Dean says. "That's from our album Romantica. We have this Swedish couple that always come to our shows, complaining that we never play anything from that." The audience starts to clap. "They just got married", Dean continues, "isn't that cute?". And it starts to sound like an American TV show when someone says they've got kids and the audience goes "aaaaaahhh". That never happens anywhere else. It's just kids. You slept together, had sex, shared sheets. Anyone can do that. Then they play Malibu. It's time to put the diamonds on. Indeed.</p>
 
 <p>When Lee starts to hit that ride cymbal in a steady fast beat, something is happening, I don't know what it is. In Malibu. And those perfect melody lines by Dean. And hard hits on the snare. Sean is waving, his right arm is moving fast as a bullet. There's something in the air. They build it up, slowly, and then it gets more intense, more intense, faster and faster, Sean's arm, is waving more intense, never stop play this song, please.</p>
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-016.jpg" "Sean is drilling a hole" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-016.jpg" alt="Sean is drilling a hole" /><figcaption class="caption-text">Sean is drilling a hole</figcaption></figure>
 
 <p>The mood is so relaxed I can't stop smiling, and I'm feeling better than ever. My body is numb, not from the bourbon or the bottle of wine, it's the music. The atmosphere, the people, this band. "We can all go mad together." He is articulating we words, or are least puts meaning to them. "That's what friends are for." I'm so glad I met Mike. Recording all these shows. Being so nice to us.</p>
 
@@ -212,12 +212,12 @@ longpost: true
 <p>"I'm wearing a new shirt, it's four years old", Dean says. "I've seen it before", Sean says". "Take it off Dean", a guy in the audience is shouting. "There's a tweet about this shirt", Dean continues.</p>
 
 <p>"You can follow <a href="https://twitter.com/luna_theband">Luna the band on Twitter</a>, but you can also follow <a href="https://twitter.com/seanedenquotes">Sean Eden Quotes</a>". "Benjamin Franklin, that guy is a pervert", Dean says. It's a quote by Sean.</p>
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-021.jpg" ""you can also follow <a href='https://twitter.com/seanedenquotes'>Sean Eden Quotes</a>"" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-021.jpg" alt=""you can also follow <a href='https://twitter.com/seanedenquotes'>Sean Eden Quotes</a>"" /><figcaption class="caption-text">"you can also follow <a href='https://twitter.com/seanedenquotes'>Sean Eden Quotes</a>"</figcaption></figure>
 <p>"Tell me stories on my birthday." The music soothes my soul, milks my bones, I can't even feel the chair, I've never seen this band sitting on a chair before, other than in Madrid, two nights in a row, in a nice but theatre, it was quite stiff, until we stood up at the end. That was a long time ago. Ages. Years. Centuries. It was last year. Feels like forever. It's been ten or twenty more shows for us after that, I don't know, doesn't matter, this is the most relaxed concert i've ever been to. Luna, what a band. Sean is playing a solo, his fingers are moving like a corn in a heated pan, not a cold pan. Heated pan. What a pan.</p>
 
 <p>"Lost in her perfume." I usually don't like this song that much. On record yes, I guess. But today, it feels like a nice choice to play live, at Birchmere in Alexandria, Virginia. I've always liked the lyrics to this song, jumping from "cross eyed in the corner" to "tongue tied in the corner". I bet Dean was proud when he came up with that. I would have been.</p>
 
-<div class="col-md-6 pull-right">{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/asoftlyspoken-tiger-instagram-alexandria.jpg" "Setlist (Photo: Ulrika)" %}</div>
+<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/asoftlyspoken-tiger-instagram-alexandria.jpg" alt="Setlist (Photo: Ulrika)" /><figcaption class="caption-text">Setlist (Photo: Ulrika)</figcaption></figure></div>
 
 <p>People are shouting for songs. {% track "Still at Home" %}. "No we're not playing that one tonight", Sean says. People continues to shout. "{% track "Broken Chair" %}!" "Chair!" "Play the Chair!" They continue. "Funny thing is", Dean says to Sean, "you said if someone was asking for it you where gonna sing it". They're laughing, like always, they are laughing and it's like I'm sitting on a big soft popcorn, it's actually very comfortable. Probably lots of butter. Soothes my butt. I google butt to see if the spelling is correct. It's a good googling and it's a legitimate googling. Try it you too. But you might not like assorted butts. I like a lot of things.</p>
 
@@ -227,14 +227,14 @@ longpost: true
 
 <p>Before the show we ran into a nice couple that told me they like my blogs. We started to talk, Americans can be so nice, so friendly, so warm, so welcoming, inviting. I like that a lot. I just wanted to mention it.</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-014.jpg" "Lee" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-014.jpg" alt="Lee" /><figcaption class="caption-text">Lee</figcaption></figure>
 
 <p>They play {% track "Fire in Cairo" %}. We've never seen them play it before, just heard the recordings, it's nice to hear it for real. The Cure is band me and Ulrika has strong feelings for. Without Pictures of You and Lovesong we probably wouldn't have been together. It was about 16 years ago, in a Stockholm suburb apartment, they where playing Disintegration at a party, and we danced, slowly, the night came to an end. She lent me Bewitched and Penthouse, it was nice. I met someone else, but a couple of years later we danced again. The same songs. Music has that affect on you.</p>
 
 <p>"Please get off the stage", a speaker voice is saying after the show. We get the set list anyway. We step back out to the bar area and we meet Mike's friends, Kathleen and Paul. Kathleen had made a t-shirt, with a print saying "I only dance to New Order". It's pure genius. I wish we could have spent much more time together.</p>
 
 <p>Everyone was overwhelmed by the show. Talking about how good it was. And the band looked very, very happy when they were outside in the lobby talking to all the fans. I saw Dean standing in the crowd of people and he looked at me, did a sign with his hands, keeping that satisfied smile on his face. He's not always that comfortable after the shows, but this time he looked really relaxed. We talked with Sean for a while and Mike and Kathleen and Paul. </p>
-<div class="col-md-6 pull-right">{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-029.jpg" "Mike, Paul, Kathleen and Ulrika" %}</div>
+<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-029.jpg" alt="Mike, Paul, Kathleen and Ulrika" /><figcaption class="caption-text">Mike, Paul, Kathleen and Ulrika</figcaption></figure></div>
 <p>Sadly we had to leave, the place was closing. We called a taxi and went outside and waited in the parking lot. Someone yelled Ulrika's name and it was Lee, he was driving his own car, we waved back and shouted "hello, see you tomorrow". He is nice to us, they all are.</p>
 
 <p>The taxi was heavily delayed and that's not the most fun part of a great night. An unknown girl in the back seat of a car leaned out of the opened window and started to yell insulting words to me. I am used to it but never get used to it. I couldn't come up with anything else to say than "Good for you!", but she continued. When I told Ulrika later she came up with a lot worse things I should have replied, definitely not suited for print. The whole situation made me sad. </p>

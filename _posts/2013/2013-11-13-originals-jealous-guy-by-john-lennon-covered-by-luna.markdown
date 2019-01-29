@@ -25,6 +25,6 @@ tags: []
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DzhyKn1ThpU" frameborder="0" allowfullscreen></iframe>
 <p>Luna recorded the track for Noah Baumbach's 1997 film Mr Jealousy</p>
 
-{% ahfowaudio "http://media.fullofwishes.co.uk/02-luna/audio/01_Luna_Jealous%20Guy.mp3" "Jealous Guy by Luna" %}
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/01_Luna_Jealous%20Guy.mp3">Jealous Guy by Luna</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/01_Luna_Jealous%20Guy.mp3"></audio></div>
 
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

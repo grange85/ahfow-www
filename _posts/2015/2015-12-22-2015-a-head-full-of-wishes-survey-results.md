@@ -6,7 +6,7 @@ title: 2015 A Head Full of Wishes survey results
 author:
 display_name: Andy
 login: admin
-imageurl: 
+imageurl:
 email: andy@fullofwishes.co.uk
 url: http://www.grange85.co.uk
 date: '2015-12-22 19:00:00 +0000'
@@ -23,8 +23,8 @@ tags:
 
 <h2>Galaxie 500</h2>
 <h3>Favourite album</h3>
-{% ahfowimage "http://media.fullofwishes.co.uk/00-misc/survey-2015/survey-2015-galaxie-500.png" "" %}
-<p>Favourite Galaxie 500 was <a href="http://db.fullofwishes.co.uk/galaxie-500/releases/galaxie-500-on-fire/">On Fire</a> which received over half of all votes.</p>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/survey-2015/survey-2015-galaxie-500.png" alt="" /><figcaption class="caption-text"></figcaption></figure>
+<p>Favourite Galaxie 500 was <a href="https://db.fullofwishes.co.uk/galaxie-500/releases/galaxie-500-on-fire/">On Fire</a> which received over half of all votes.</p>
 <h3>Favourite track</h3>
 <table class="table table-striped">
 <tr><th>Favourite Galaxie 500 track</th>	<th>Votes</th>	<th>%</th></tr>
@@ -36,8 +36,8 @@ tags:
 </table>
 <h2>Luna</h2>
 <h3>Favourite album</h3>
-{% ahfowimage "http://media.fullofwishes.co.uk/00-misc/survey-2015/survey-2015-luna.png" "" %}
-<p>Favourite Luna album was <a href="http://db.fullofwishes.co.uk/luna/releases/luna-penthouse/">Penthouse</a>, with <a href="http://db.fullofwishes.co.uk/luna/releases/luna-bewitched/">Bewitched</a> giving it a run for its money.</p>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/survey-2015/survey-2015-luna.png" alt="" /><figcaption class="caption-text"></figcaption></figure>
+<p>Favourite Luna album was <a href="https://db.fullofwishes.co.uk/luna/releases/luna-penthouse/">Penthouse</a>, with <a href="https://db.fullofwishes.co.uk/luna/releases/luna-bewitched/">Bewitched</a> giving it a run for its money.</p>
 
 <h3>Favourite track</h3>
 <table class="table table-striped">
@@ -52,8 +52,8 @@ tags:
 
 <h2>Damon & Naomi</h2>
 <h3>Favourite album</h3>
-{% ahfowimage "http://media.fullofwishes.co.uk/00-misc/survey-2015/survey-2015-damon-and-naomi.png" "" %}
-<p>Damon & Naomi's debut album <a href="http://db.fullofwishes.co.uk/damon-and-naomi/releases/damon-and-naomi-more-sad-hits/">More Sad Hits</a> once again comfortably topped the chart.</p>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/survey-2015/survey-2015-damon-and-naomi.png" alt="" /><figcaption class="caption-text"></figcaption></figure>
+<p>Damon & Naomi's debut album <a href="https://db.fullofwishes.co.uk/damon-and-naomi/releases/damon-and-naomi-more-sad-hits/">More Sad Hits</a> once again comfortably topped the chart.</p>
 
 <h3>Favourite track</h3>
 <table class="table table-striped">
@@ -69,8 +69,8 @@ tags:
 
 <h2>Dean & Britta</h2>
 <h3>Favourite album</h3>
-{% ahfowimage "http://media.fullofwishes.co.uk/00-misc/survey-2015/survey-2015-dean-and-britta.png" "" %}
-<p><a href="http://db.fullofwishes.co.uk/dean-and-britta/releases/dean-and-britta-lavventura/">L'Avventura</a> was the most popular Dean & Britta album. Nice to see this year's <a href="http://db.fullofwishes.co.uk/dean-and-britta/releases/dean-and-britta-mistress-america/">Mistress America</a> putting in an appearance.</p>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/survey-2015/survey-2015-dean-and-britta.png" alt="" /><figcaption class="caption-text"></figcaption></figure>
+<p><a href="https://db.fullofwishes.co.uk/dean-and-britta/releases/dean-and-britta-lavventura/">L'Avventura</a> was the most popular Dean & Britta album. Nice to see this year's <a href="https://db.fullofwishes.co.uk/dean-and-britta/releases/dean-and-britta-mistress-america/">Mistress America</a> putting in an appearance.</p>
 <h3>Favourite track</h3>
 
 <table class="table table-striped">
@@ -85,8 +85,8 @@ tags:
 
 <h2>Dean Wareham</h2>
 <h3>Favourite album</h3>
-{% ahfowimage "http://media.fullofwishes.co.uk/00-misc/survey-2015/survey-2015-dean-wareham.png" "" %}
-<p>Dean Wareham's <a href="http://db.fullofwishes.co.uk/dean-wareham/releases/dean-wareham-dean-wareham/">eponymous album</a> was the best loved of his solo releases.</p>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/survey-2015/survey-2015-dean-wareham.png" alt="" /><figcaption class="caption-text"></figcaption></figure>
+<p>Dean Wareham's <a href="https://db.fullofwishes.co.uk/dean-wareham/releases/dean-wareham-dean-wareham/">eponymous album</a> was the best loved of his solo releases.</p>
 <h3>Favourite track</h3>
 
 <table class="table table-striped">

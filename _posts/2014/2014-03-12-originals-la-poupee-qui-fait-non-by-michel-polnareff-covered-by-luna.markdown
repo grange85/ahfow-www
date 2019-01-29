@@ -18,12 +18,12 @@ categories:
 - originals
 tags: []
 ---
-<p><figure class="caption aligncenter"><img src="http://media.fullofwishes.co.uk/00-misc/pictures/la-poupee-qui-fait-non-sheet-music-cover.jpg" width="741" height="949" class /><figcaption class="caption-text"> Sheet music - <a href="http://accordeonduriche.canalblog.com/archives/2012/08/06/24671434.html">download here</a></figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/la-poupee-qui-fait-non-sheet-music-cover.jpg" width="741" height="949" class /><figcaption class="caption-text"> Sheet music - <a href="http://accordeonduriche.canalblog.com/archives/2012/08/06/24671434.html">download here</a></figcaption></figure>
 Originally by Michel Polnareff and released in 1966<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EfuiJuKGp1k" frameborder="0" allowfullscreen></iframe>
 <p>Covered by Luna for the 1996 Emperor Norton LP Pop Romantique </p>
 
-{% ahfowaudio "http://media.fullofwishes.co.uk/02-luna/audio/03-luna-la-poupee-qui-fait-non.mp3" "La poupée qui fait non by Luna" %}
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/03-luna-la-poupee-qui-fait-non.mp3">La poupée qui fait non by Luna</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/03-luna-la-poupee-qui-fait-non.mp3"></audio></div>
 
 <p>It's another one of those songs that gets covered by everyone - here's a rather splendid English language cover by the wonderful St Etienne<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eRaEX34fN_U" frameborder="0" allowfullscreen></iframe>

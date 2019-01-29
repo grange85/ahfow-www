@@ -18,7 +18,7 @@ categories:
 - dean & britta
 tags: []
 ---
-<div class="imagebox-a"><img src="http://www.fullofwishes.co.uk/wp/wp-content/uploads/2008/10/0172.jpg" alt="" title="0172" width="216" height="216" class="alignnone size-full wp-image-848" /></div>
+<div class="imagebox-a"><img src="https://www.fullofwishes.co.uk/wp/wp-content/uploads/2008/10/0172.jpg" alt="" title="0172" width="216" height="216" class="alignnone size-full wp-image-848" /></div>
 <p>Dean & Britta and Sonic Boom will appear on yet another <a href="http://www.myspace.com/chevalsombre">Cheval Sombre</a> 7" single. I Found it Not So will be released on the <span class="removed_link" title="http://www.staticcaravan.org/item.asp?Ref=172">UK label Static Caravan</span> in November and is available to pre-order direct from the label now. The order button says its sold out but the <a href="http://www.staticcaravan.org/">home page</a> has the Paypal pre-order details.</p>
 <blockquote><p>These two sides of softly building melancholia find Cheval Sombre teaming up with Sonic Boom, who features here as well as lending production touches, and with Dean Wareham (Galaxie 500, Luna...) and Britta Phillips (Luna).<br />
 I Found It Not So is infused with a sense of sleepy reverie; a low-key lullaby which echoes and chimes while floating around your sub-conscious. Sumptuously trip-wired with sveltely layered psychotropic glazes of looping out of body transcendental hypnotics, plangent guitar melodies creep and intertwine, moving to a warm climax. It's all topped off with barely-there vocals, a whispered dream filled with a sense of longing which belies the almost post-coital atmosphere.</p></blockquote>

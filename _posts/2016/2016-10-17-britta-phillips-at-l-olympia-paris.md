@@ -31,15 +31,15 @@ longpost: true
 <!--more-->
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/29764173474/in/photostream/" title="Britta"><img src="https://c3.staticflickr.com/9/8560/29764173474_49433864b9_b.jpg" width="768" height="1024" alt="Britta"></a>
 
-{% ahfowvideo "dB2nDj-hZbM" "Britta Phillips - I'll Keep It With Mine" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/dB2nDj-hZbM" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Britta Phillips - I'll Keep It With Mine</figcaption></figure>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/30394609615/in/photostream/" title="Sadly Britta never made it onto L&#x27;Olympia marquee"><img src="https://c8.staticflickr.com/9/8417/30394609615_9dd0ea446d_b.jpg" width="768" height="1024" alt="Sadly Britta never made it onto L&#x27;Olympia marquee"></a>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/05-dean_wareham/pictures/dw_olympia_paris_ht.jpg" "Dean at L'Olympia a few years earlier" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dw_olympia_paris_ht.jpg" alt="Dean at L'Olympia a few years earlier" /><figcaption class="caption-text">Dean at L'Olympia a few years earlier</figcaption></figure>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/30278285222/in/dateposted/" title="While @britta_phillips didn&#x27;t make it onto the marquee or the poster she did make it onto the tickets, and like Cher and Madonna she only needs one name!"><img src="https://c7.staticflickr.com/6/5461/30278285222_da54ae55fe_c.jpg" width="800" height="800" alt="While @britta_phillips didn&#x27;t make it onto the marquee or the poster she did make it onto the tickets, and like Cher and Madonna she only needs one name!"></a>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/09-britta-phillips/pictures/britta-getting-nervous-2016-10-15.jpg" "Britta - 'Getting nervous'" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/09-britta-phillips/pictures/britta-getting-nervous-2016-10-15.jpg" alt="Britta - 'Getting nervous'" /><figcaption class="caption-text">Britta - 'Getting nervous'</figcaption></figure>
 
 <p><a href="https://flic.kr/s/aHskLHwk3w">A few more pics on Flickr, including some of Keren Ann's set</a></p>
 

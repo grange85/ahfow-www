@@ -23,5 +23,5 @@ tags: []
 The World's Strongest Man was written by Scott Walker and released in 1969 on host legendary LP Scott 4.<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IMtQsaKQU_E" frameborder="0" allowfullscreen></iframe>
 <p>Damon & Naomi's cover first appeared in 2009 on the Scott Walker tribute album <a href="/database/release/30-century-man/" title="30 Century Man">30th Century Man</a> that was released to coincide with the release of the film of the same name. The track subsequently turned up on the flip of the Walking Backwards single on Great Pop Supplement.</p>
-<p>MP3: <a href="http://media.fullofwishes.co.uk.s3.amazonaws.com/03-damon_and_naomi/audio/damon-and-naomi-the-worlds-strongest-man.mp3">Damon & Naomi - The World's Strongest Man</a><audio src="http://media.fullofwishes.co.uk.s3.amazonaws.com/03-damon_and_naomi/audio/damon-and-naomi-the-worlds-strongest-man.mp3" preload="none" controls /></p>
-<p><img src="http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_walking-backwards_f_001.jpg" width="1073" height="1079" class="aligncenter" /></p>
+<p>MP3: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-the-worlds-strongest-man.mp3">Damon & Naomi - The World's Strongest Man</a><audio src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-the-worlds-strongest-man.mp3" preload="none" controls /></p>
+<p><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_walking-backwards_f_001.jpg" width="1073" height="1079" class="aligncenter" /></p>

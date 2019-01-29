@@ -17,6 +17,3 @@ categories:
 - luna
 tags: []
 ---
-<div align="center"><embed style="width:400px; height:326px;" id="VideoPlayback" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?docId=2456992606001004839&hl=en-GB"> </embed>
-<p>Promo video</p>
-</div>

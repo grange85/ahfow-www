@@ -18,7 +18,7 @@ categories:
 - news
 tags: []
 ---
-<p><img src="http://media.fullofwishes.co.uk/02-luna/sleeves/luna_best-of.jpg" alt="Best of Luna sleeve" width="200" height="200" align="right"/>
+<p><img src="https://media.fullofwishes.co.uk/02-luna/sleeves/luna_best-of.jpg" alt="Best of Luna sleeve" width="200" height="200" align="right"/>
 <p>Amazon has the tracklisting (and is taking pre-orders) on <a href="http://www.amazon.com/exec/obidos/ASIN/B000FDFPO8/aheadfullofwi-20">The Best of Luna</a> - it will be ereleased on the 20th of June (simultaneously with the DVD).</p>
 <p><del>The tracklisting includes a title that I don't recognise which may be to suck the fans into buying a load of tracks they already have (or a nice bonus becasue we'd probably buy it anyway).</del></p>
 <p><b>update:</b> It seems the mysterious track is in fact a mistake and instead of "Hard Life" should in fact read "Sideshow by the Seashore.</p>

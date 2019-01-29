@@ -24,12 +24,12 @@ tags:
 
 <p>Their cover of Oblivious is a sort of reminder of my carelessness - it's a beautiful cover, and with Darren's voice berating me for just how ridiculously misguided I was to ignore them. And, as if it hasn't sucked me in enough it has a gorgeous Formbyesque uke strum <sup>[<a href="#1">1</a>]</sup> in the close out.</p>
 
-{% ahfowvideo "ESzVVHnEvE8" "Hefner - Oblivious" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/ESzVVHnEvE8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Hefner - Oblivious</figcaption></figure>
 
 <p>Hefner split up shortly after I discovered that they weren't the band I thought they were but Darren has never stopped making reocrds, and is tirelessly imaginitive in his inspiration - from <a href="https://darrenhayman.bandcamp.com/album/lido">outdoor swimming pools</a>, to <a href="https://darrenhayman.bandcamp.com/track/little-squirrel-little-arrow">dogs in space</a>, from <a href="https://glassreservoir.bandcamp.com/album/wembley-eiffel-tower">London's failed Eiffel Tower</a> to his current project of music inspired by <a href="https://darrenhayman.bandcamp.com/album/thankful-villages-volume-1">Thankful Villages</a>. All worth a listen and a few quid! As is so much of the <a href="https://darrenhayman.bandcamp.com/">stuff he has on Bandcamp</a>.</p>
 
 <p>The cover of Oblivious first appeared on Elefant's <a href="https://elefantrecordsclassics.bandcamp.com/album/snowstorm-a-tribute-to-galaxie-500">Snowstorm: A Tribute to Galaxie 500</a> - a splendid double CD tribute album that appeared in 2001 and was more recently released on the expanded edition of <a href="https://darrenhayman.bandcamp.com/album/breaking-gods-heart-expanded-edition">Hefner's debut album Breaking God's Heart - which can be had for just a tenner</a> - forty songs, including this one for &pound;9.99!</p>
 
-{% ahfowimage "https://f4.bcbits.com/img/a2274775152_16.jpg" "Hefner - Breaking God's Heart" %}
+<figure class="caption aligncenter"><img src="https://f4.bcbits.com/img/a2274775152_16.jpg" alt="Hefner - Breaking God's Heart" /><figcaption class="caption-text">Hefner - Breaking God's Heart</figcaption></figure>
 
 <p id="1">[1] - All uke strumming is Formbyesque btw - no matter how contemporary you try and make it all I see is <a href="https://youtu.be/VypRHitKnWk">sweet George strumming and gurning</a>.</p>

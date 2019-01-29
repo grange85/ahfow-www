@@ -21,7 +21,7 @@ categories:
 - audio
 tags: []
 ---
-<p><a href="http://www.flickr.com/photos/fireballzer0/4341859629/"><img class="aligncenter" src="http://farm5.staticflickr.com/4012/4341859629_964af97c0e.jpg" width="500" height="281" alt="36/365" /></a></p>
+<p><a href="http://www.flickr.com/photos/fireballzer0/4341859629/"><img class="aligncenter" src="https://farm5.staticflickr.com/4012/4341859629_964af97c0e.jpg" width="500" height="281" alt="36/365" /></a></p>
 <p>MP3: <a href="https://www.box.com/s/nlidlyfx9frgnt3jpvcf">Damon & Naomi - White Christmas</a> (via Box.net)</p>
 <p>MP3: <a href="http://www.box.com/shared/kp0crkkw04">Dean & Britta - Old Toy Trains (original 2004 mix)</a> (via Box.net)</p>
 <p>MP3: Dean & Britta - <a href="http://www.box.com/s/38902592xlc9s1gl1rpj">He's Coming Home</a> / <a href="http://www.box.com/s/ej5cf4irl138n8fdq6op">Old Toy Trains (2006 remix)</a> (via Box.net)</p>
@@ -31,4 +31,4 @@ tags: []
 <p>MP3: <a href="http://www.box.com/s/ngfcictqmgsdzg5x15gd">Galaxie 500 - Snowstorm (live in The Netherlands 1989)</a> (via Box.net)</p>
 <p>MP3: <a href="http://www.box.com/s/axmfnsd9utgznknsshud">Luna - Egg Nog (live in NYC 2005)</a> (via Box.net)</p>
 <p>Video: Dean & Britta - Listen, the Snow Is Falling (live in Manchester 2011)</p>
-<p><iframe frameborder="0" scrolling="auto" class="aligncenter" width="480" height="360" src="http://www.youtube.com/embed/pueucNzJxzo" allowfullscreen="allowfullscreen"></iframe></p>
+<p><iframe frameborder="0" scrolling="auto" class="aligncenter" width="480" height="360" https://www.youtube.com/embed/pueucNzJxzo" allowfullscreen="allowfullscreen"></iframe></p>

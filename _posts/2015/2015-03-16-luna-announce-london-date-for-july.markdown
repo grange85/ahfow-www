@@ -18,7 +18,7 @@ categories:
 - news
 tags: []
 ---
-<p><img src="http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_2001_b.jpg" class="aligncenter"></p>
+<p><img src="https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_2001_b.jpg" class="aligncenter"></p>
 <p>Luna have announced that they're playing in London in July for the first time since January 2005. The show will be at The Garage in Highbury and Islington on the 31st of July.
 <p><br></p>
 <p><a href="http://www.ticketweb.co.uk/event/AJI3107Z">Tickets are on sale now</a>&nbsp;</p>

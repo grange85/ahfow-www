@@ -23,24 +23,24 @@ tags: []
 <p>Here are a few observations:</p>
 <p><strong>Favourite Galaxie 500 album</strong><br />
 Only once has On Fire not topped the poll<sup><a href="#note-1">1</a></sup> and this year didn't buck the trend with On Fire receiving over 44% of the total votes. Last year saw This Is Our Music surprisingly pinching second place from Today, but this year found it back in third place.<br />
-<figure class="caption aligncenter"><img src="http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_onfire.jpg" width="1024" height="1024" class /><figcaption class="caption-text"> Favourite Galaxie 500 album - On Fire</figcaption></figure>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_onfire.jpg" width="1024" height="1024" class /><figcaption class="caption-text"> Favourite Galaxie 500 album - On Fire</figcaption></figure>
 <p><strong>Favourite Galaxie 500 track</strong><br />
 This year was a two horse race between Fourth of July and Tugboat with the song from the bands least favourite studio LP taking the prize!<br />
-<iframe style="border: 0; width: 100%; height: 42px;" src="http://bandcamp.com/EmbeddedPlayer/album=2405309532/size=small/bgcol=ffffff/linkcol=0687f5/t=1/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/this-is-our-music">This Is Our Music by Galaxie 500</a></iframe></p>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2405309532/size=small/bgcol=ffffff/linkcol=0687f5/t=1/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/this-is-our-music">This Is Our Music by Galaxie 500</a></iframe></p>
 <p><strong>Favourite Luna album</strong><br />
 Penthouse was released a few months before the first survey and in that poll only managed to get 16% of the vote, it wasn't until 1998 that it took top spot, but has been very comfortably top of the stack since then.<br />
-<figure class="caption aligncenter"><img src="http://media.fullofwishes.co.uk/02-luna/sleeves/luna_penthouse.jpg" width="600" height="600" class /><figcaption class="caption-text"> Favourite Luna album - Penthouse</figcaption></figure>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/sleeves/luna_penthouse.jpg" width="600" height="600" class /><figcaption class="caption-text"> Favourite Luna album - Penthouse</figcaption></figure>
 <p><strong>Favourite Luna track</strong><br />
 The same survey that saw Penthouse hit the top saw 23 Minutes in Brussels become Luna's undisputed champion track.</p>
 <p><strong>Favourite Damon & Naomi album</strong><br />
 Damon & Naomi's first album More Sad Hits has always topped the poll, but all Damon & Naomi's albums have fans and, as I always do, I'd suggest to any folk who only have their first, <a href="http://damonandnaomi.bandcamp.com/">go listen to some more Damon & Naomi</a>!<br />
-<figure class="caption aligncenter"><img src="http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_moresadhits.jpg" width="1125" height="1125" class /><figcaption class="caption-text"> Favourite Damon & Naomi album - More Sad Hits</figcaption></figure>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_moresadhits.jpg" width="1125" height="1125" class /><figcaption class="caption-text"> Favourite Damon & Naomi album - More Sad Hits</figcaption></figure>
 <p><strong>Favourite Damon & Naomi track</strong><br />
 And once again This Car Climbled Mt Washington takes top spot for favourite track<br />
-<iframe style="border: 0; width: 100%; height: 42px;" src="http://bandcamp.com/EmbeddedPlayer/album=4050036211/size=small/bgcol=ffffff/linkcol=0687f5/t=5/transparent=true/" seamless><a href="http://damonandnaomi.bandcamp.com/album/more-sad-hits">More Sad Hits by Damon & Naomi</a></iframe></p>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4050036211/size=small/bgcol=ffffff/linkcol=0687f5/t=5/transparent=true/" seamless><a href="http://damonandnaomi.bandcamp.com/album/more-sad-hits">More Sad Hits by Damon & Naomi</a></iframe></p>
 <p><strong>Favourite Dean & Britta album</strong><br />
 Dean & Britta's first album once again tops the poll, with 13 Most Beautiful putting in a spirited push into second place<br />
-<figure class="caption aligncenter"><img src="http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_lavventura.jpg" width="1658" height="1484" class /><figcaption class="caption-text"> Favourite Dean & Britta album - L'Avventura</figcaption></figure>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_lavventura.jpg" width="1658" height="1484" class /><figcaption class="caption-text"> Favourite Dean & Britta album - L'Avventura</figcaption></figure>
 <p><strong>Favourite Dean & Britta track</strong><br />
 Once again Night Nurse is the favourite Dean & Britta track with their cover of I'll Keep It With Mine moving up to second place.</p>
 <p><strong>The boring stuff</strong><br />

@@ -23,7 +23,7 @@ Anyone who read the boring bit of <a href="/2014/12/take-20th-head-full-wishes-s
 <a id="more"></a><a id="more-13331"></a></p>
 <h3>1: In the beginning</h3>
 <p> The web site came into being when someone posted on an Amiga usenet group that there was a company dishing out free web-space for non-commercial use. I signed up and, not able to think of anything better I threw together a page about Galaxie 500, Luna and Damon & Naomi - it was years later before it got a name.<br />
-<figure class="caption aligncenter"><img src="http://media.fullofwishes.co.uk/00-misc/misc/a-head-full-of-wishes-1997.jpg" width="640" height="261" class /><figcaption class="caption-text"> Sadly, neither I nor the Wayback Machine has anything from earlier than 1997</figcaption></figure>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/misc/a-head-full-of-wishes-1997.jpg" width="640" height="261" class /><figcaption class="caption-text"> Sadly, neither I nor the Wayback Machine has anything from earlier than 1997</figcaption></figure>
 <h3>2: Not always roses</h3>
 <p> Now I thought that a mailing list where we all loved the same music would be a perfect ... but sometimes it went mental - and I was somehow supposed to referee these childish spats - here's one from 1999 - I'll spare the names...</p>
 <blockquote><p>You are so out of line that I'm glad we are doing this by email, because If I was anywhere near you, I'd knock your fucking teeth out, that is the two you have left, you moron hillbilly.</p></blockquote>
@@ -34,7 +34,7 @@ Anyone who read the boring bit of <a href="/2014/12/take-20th-head-full-wishes-s
 <p> ... it was mostly a lot of fun, and I made lots of great friends... some are still friends... some of them I've even met in the flesh! The first time I met list members in the flesh was at a Luna show in 1995 at The Garage. Trenton was from the US, we shared some awkward silences. Lauren was also American but I think living in London, she was in a band called <a href="https://www.youtube.com/watch?v=htkLpQz4OEs">Dart</a> (who put out a couple of great singles and an LP) and we'd exchanged tapes (hers so much better than mine), and she knew people I knew but never knew she knew. That's also where I first met Paul... so, as I also met him at a gig this year, he wins the longest-in-the-flesh-list-pal prize.</p>
 <h3>4: A swell of pride </h3>
 <p> ... and this happened<br />
-<figure class="caption aligncenter"><img src="http://media.fullofwishes.co.uk/00-misc/misc/a-head-full-of-wishes-dvd.jpg" width="1024" height="597" class /><figcaption class="caption-text"> Galaxie 500 - Don't Let Our Youth Go to Waste DVD</figcaption></figure>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/misc/a-head-full-of-wishes-dvd.jpg" width="1024" height="597" class /><figcaption class="caption-text"> Galaxie 500 - Don't Let Our Youth Go to Waste DVD</figcaption></figure>
 <h3>5: And it still gets to be brilliant</h3>
 <p> ... the day after I turned 50 back in May, this happened<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6CKSPKAul38" frameborder="0" allowfullscreen></iframe>

@@ -32,7 +32,7 @@ Towards the end of the set there was some shuffling noises over my left shoulder
 
 Set over, and after a short wait Naomi and Richard appeared on stage to explain that during Richard's solo set Damon's condition had taken a more concerning turn and that an ambulance had been called and Damon & Naomi wouldn't be playing. Refunds were offered (although I suspect mostly not taken) and shortly after the room was filled with the blue flashing lights signifying the arrival of the ambulance.
 
-{% ahfowimage "https://scontent-lhr3-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/13043746_1186232281408959_6546706305193464127_n.jpg?oh=069bda961c12a04165c17ea550c86dfb&oe=57AE070E" "Damon in the care of the NHS (Photo: nabbed from Damon & Naomi's Facebook page)" %}
+<figure class="caption aligncenter"><img src="https://scontent-lhr3-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/13043746_1186232281408959_6546706305193464127_n.jpg?oh=069bda961c12a04165c17ea550c86dfb&oe=57AE070E" alt="Damon in the care of the NHS (Photo: nabbed from Damon & Naomi's Facebook page)" /><figcaption class="caption-text">Damon in the care of the NHS (Photo: nabbed from Damon & Naomi's Facebook page)</figcaption></figure>
 
 Damon was rushed off to A&E at Homerton hospital where the NHS did their awesome stuff with tests and drugs. Adam, Chris and I hopped on the Overground for a slightly earlier night than anticipated.
 
@@ -70,5 +70,5 @@ We were then treated to an <em>epilogue</em> of covers - firstly a blissful {% t
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26597556286" title="3ca0141f-3ba5-4e9b-92fe-5fdd91f996b5"><img src="https://farm2.staticflickr.com/1528/26597556286_caf584ac19_b.jpg" width="1024" height="768" alt="3ca0141f-3ba5-4e9b-92fe-5fdd91f996b5"></a>
 
 We said our goodbyes and slipped quietly into the Berlin night.
-{% ahfowvideo "wzE-qoNw_7E" "Damon & Naomi - No More Sad Refrains (Sandy Denny cover)" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/wzE-qoNw_7E" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Damon & Naomi - No More Sad Refrains (Sandy Denny cover)</figcaption></figure>
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

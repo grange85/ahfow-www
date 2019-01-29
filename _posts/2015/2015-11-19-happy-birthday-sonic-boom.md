@@ -32,7 +32,7 @@ categories:
 <figcaption class="caption-text">Sonic Boom's remix of Dean & Britta's Ginger Snaps</figcaption></figure>
 
 and finally&hellip;
-{% ahfowimage "http://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-club-lingerie-screengrab.jpg" "Dean modelling a Spacemen 3 T-shirt in 1990" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-club-lingerie-screengrab.jpg" alt="Dean modelling a Spacemen 3 T-shirt in 1990" /><figcaption class="caption-text">Dean modelling a Spacemen 3 T-shirt in 1990</figcaption></figure>
 
 <p>Have a great birthday Pete from AHFoW</p>
 

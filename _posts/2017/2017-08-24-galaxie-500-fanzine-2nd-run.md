@@ -20,8 +20,8 @@ tags:
  - everything's swirling
  - fanzine
 ---
-<p class="lead">I'm just sorting out a second run of 50 copies of the Galaxie 500 30th birthday fanzine - Everything's Swirling. It'll take me a little while to pull everything together but if you'd like me to let you know as soon as I put the ordering link online <a href="http://www.fullofwishes.co.uk/about/">drop me an email</a>.</p>
+<p class="lead">I'm just sorting out a second run of 50 copies of the Galaxie 500 30th birthday fanzine - Everything's Swirling. It'll take me a little while to pull everything together but if you'd like me to let you know as soon as I put the ordering link online <a href="https://www.fullofwishes.co.uk/about/">drop me an email</a>.</p>
 
-<p>You can <a href="http://www.fullofwishes.co.uk/2017/08/17/everythings-swirling-a-galaxie-500-fanzine/">find out more about the fanzine over here</a>.</p>
+<p>You can <a href="https://www.fullofwishes.co.uk/2017/08/17/everythings-swirling-a-galaxie-500-fanzine/">find out more about the fanzine over here</a>.</p>
 
 <figure class="aligncenter"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/36478301371/in/dateposted/" title="2017-08-16_10-31-17"><img src="https://farm5.staticflickr.com/4386/36478301371_f2a2545416_c.jpg" width="600" height="800" alt="2017-08-16_10-31-17"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></figure>

@@ -11,7 +11,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: '2016-12-10 10:00 +0000'
-imageurl: http://media.fullofwishes.co.uk/02-luna/pictures/pledgemusic-romantica-rendezvous-2017.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/pledgemusic-romantica-rendezvous-2017.jpg
 categories:
  - luna
  - news
@@ -20,7 +20,7 @@ tags:
  - romantica
  - rendezvous
 ---
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/pictures/pledgemusic-romantica-rendezvous-2017.jpg" "Romantica and Rendezvous reissues" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/pledgemusic-romantica-rendezvous-2017.jpg" alt="Romantica and Rendezvous reissues" /><figcaption class="caption-text">Romantica and Rendezvous reissues</figcaption></figure>
 <p class="lead">Luna are <a href="http://www.pledgemusic.com/projects/luna">reissuing their last two records, Romantica and Rendezvous on vinyl</a> in January.</p>
 <p>The albums will be released on clear vinyl and a limited number are being signed and sold through Pledgemusic along with optional "Wisco" hats (I think because they come from Wisconsin).</p>
 <p>The <a href="http://www.pledgemusic.com/projects/luna">Luna Pledgemusic page</a> has a number of package options from just the LPs right up to package containing both LPs and both hat designs.</p>

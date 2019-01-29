@@ -12,8 +12,8 @@
 #   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 #
 #  0. You just DO WHAT THE FUCK YOU WANT TO.
-# 
-# 
+#
+#
 # AHFoW liquid ahfowimage
 #
 # Example:
@@ -48,7 +48,7 @@ eos
         slugged = trackname.gsub('&apos;', '\'')
         slugged = slugged.gsub('&amp;', '&')
         slugged = Utils.slugify(slugged)
-        "<a href=\"http://db.fullofwishes.co.uk/tracks/#{slugged}/ \">#{trackname}</a>"
+        "<a href=\"https://db.fullofwishes.co.uk/tracks/#{slugged}/ \">#{trackname}</a>"
     end
   end
 end

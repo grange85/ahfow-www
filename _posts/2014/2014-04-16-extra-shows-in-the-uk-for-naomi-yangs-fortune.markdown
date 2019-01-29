@@ -23,4 +23,4 @@ tags: []
 <p><a href="http://www.ticketweb.co.uk/event/118465">15th Glasgow - Mono</a><br />
 <a href="http://www.cafeoto.co.uk/damon-and-naomi-2014.shtm">18th London - Cafe Oto</a><br />
 <a href="http://www.ticketweb.co.uk/event/118423">19th Cardiff - Clwb Ifor Bach</a></p>
-<p><figure class="caption aligncenter"><img src="http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/naomi-yang-fortune-collage.jpg" width="556" height="444" class /><figcaption class="caption-text"> Fortune by Naomi Yang</figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/naomi-yang-fortune-collage.jpg" width="556" height="444" class /><figcaption class="caption-text"> Fortune by Naomi Yang</figcaption></figure>

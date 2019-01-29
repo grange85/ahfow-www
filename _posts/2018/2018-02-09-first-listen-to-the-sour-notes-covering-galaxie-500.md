@@ -13,7 +13,7 @@ author:
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 date: '2018-02-09 09:00:00 +0000'
-imageurl: http://www.fullofwishes.co.uk/images/the-sour-notes-this-is-not-our-music.jpg
+imageurl: https://www.fullofwishes.co.uk/images/the-sour-notes-this-is-not-our-music.jpg
 categories:
  - galaxie 500
  - audio

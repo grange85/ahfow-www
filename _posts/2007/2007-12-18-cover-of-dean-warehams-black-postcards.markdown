@@ -18,7 +18,7 @@ categories:
 - dean wareham
 tags: []
 ---
-<div class="center"><img src="http://www.fullofwishes.co.uk/wp/wp-content/uploads/2007/12/410aifzt3sl.jpg" alt='Black Postcards cover' /></div>
+<div class="center"><img src="https://www.fullofwishes.co.uk/wp/wp-content/uploads/2007/12/410aifzt3sl.jpg" alt='Black Postcards cover' /></div>
 <blockquote><p>"Here is both a personal history and a cultural history. For years, Dean Wareham has made music of beguiling intimacy that draws you into mysteries, dreams and romances. Now he has written a captivating book that does the same."<br />
 <em>-- Joe Levy, Executive Editor, Rolling Stone</em></p></blockquote>
 <blockquote><p>"I have always been a fan of Dean Wareham and have worked with him and Luna many times. I love reading the thoughts of frontmen. I think it's a great read for the fan of adventure."<br />

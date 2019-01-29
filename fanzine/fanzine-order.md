@@ -5,7 +5,6 @@ sitemap: false
 ---
 <p class="lead">The second run of the fanzine will be 50 copies and will be shipping out around about the 9th September.</p>
 
-
 <div class="well">
 <p>The price including postage will be:</p>
 <ul>

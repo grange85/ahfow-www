@@ -18,5 +18,5 @@ categories:
 - pictures
 tags: []
 ---
-<div class="imagebox-a"><a href="http://www.flickr.com/photos/kirstiecat/3344241582/" title="Photo Sharing"><img src="http://farm4.static.flickr.com/3354/3344241582_1c500d64bc_m.jpg" alt="Dean America" /></a><br/><strong>Dean America</strong><br/>originally uploaded by <a href="http://www.flickr.com/people/kirstiecat/">kirstiecat</a></div>
+<div class="imagebox-a"><a href="http://www.flickr.com/photos/kirstiecat/3344241582/" title="Photo Sharing"><img src="https://farm4.static.flickr.com/3354/3344241582_1c500d64bc_m.jpg" alt="Dean America" /></a><br/><strong>Dean America</strong><br/>originally uploaded by <a href="http://www.flickr.com/people/kirstiecat/">kirstiecat</a></div>
 <p>Very cool <a href="http://www.flickr.com/photos/kirstiecat/3344241582/">composite picture of Dean Wareham and Paul America</a> from Dean & Britta's recent show in Chicago. Photo taken from <a href="http://www.flickr.com/photos/kirstiecat/">Kirstiecat's photostream</a> where you can find <a href="http://www.flickr.com/photos/kirstiecat/424177928/">another of my favourite Dean & Britta pictures</a>.</p>

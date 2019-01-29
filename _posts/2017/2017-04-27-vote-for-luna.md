@@ -8,17 +8,17 @@ title: Vote for Luna
 author:
   display_name: Joe Belk
   login: admin
-  email: 
-  url: 
+  email:
+  url:
 date: 2017-04-27
-imageurl: http://media.fullofwishes.co.uk/02-luna/pictures/luna-painting-by-annabel-wright.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/luna-painting-by-annabel-wright.jpg
 categories:
  - luna
 tags:
  - guest post
 longpost: true
 ---
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1994_b.jpg" "Vote for LUNA ~ promo 1994" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1994_b.jpg" alt="Vote for LUNA ~ promo 1994" /><figcaption class="caption-text">Vote for LUNA ~ promo 1994</figcaption></figure>
 
 <p class="lead">This may have slipped a bit under the radar, but it's been 25 years since the low-key debut of an indie supergroup was released in 1992. In this age of ubiquitous pop-culture anniversary celebrations, that news could portend a re-release, a tribute show, or any number of walks down memory lane. In this case, there's another significance as well: 2017 is the year Luna becomes eligible for the Rock 'n' Roll Hall of Fame.</p>
 
@@ -33,7 +33,7 @@ longpost: true
 
 <p>That said, Luna doesn't even get the respect it deserves from people who know and love more obscure music. Part of that is that their music comes off as direct and yet is surprisingly deceptive, benefitting greatly from additional plays as you notice layered subtleties in the lyrics and music. Their music has grown on me, and I say that as one who fell in love with Penthouse from the first time I heard the opening bars of {% track "Chinatown" %}. In the 90s, Luna was already in my contemporary pantheon at a par with my favorite grunge, lo-fi, and Americana artists; today, Luna sounds more timeless and perfect than any of them.</p>
 
-<div class="col-md-6 pull-right">{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1997_b.jpg" "Luna - promo 1997" %}</div>
+<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1997_b.jpg" alt="Luna - promo 1997" /><figcaption class="caption-text">Luna - promo 1997</figcaption></figure></div>
 
 <p>Although we've converted some of our more perceptive friends over the years, the typical response is generally polite but underwhelmed. &ldquo;They sound good, but a little soft,&rdquo; said a friend in the car last week when Lost in Space was playing (his comments reminded me of guitarist Sean Eden's recollection of the recording of Bewitched at the peak of the grunge era). &ldquo;Do they really rock in concert?&rdquo;</p>
 
@@ -45,7 +45,7 @@ longpost: true
 
 <p>The engineering of the follow-up, Pup Tent, did not fit as well, but it's still loaded with good songs. Side one is a knockout, and it shows how deep their catalogue is with several gems they never/rarely play live: IHOP, Beautiful View, Bobby Peru, and Beggar's Bliss (in addition to the terrific title song, which is on semi-regular rotation). Side two is bookended by one of their catchiest rockers ({% track "Tracy I Love You" %}) and one of their most successful experiments ({% track "Fuzzy Wuzzy" %}).</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/pictures/luna-painting-by-annabel-wright.jpg" "The dreamy New York City quartet Luna (Annabel Wright)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/luna-painting-by-annabel-wright.jpg" alt="The dreamy New York City quartet Luna (Annabel Wright)" /><figcaption class="caption-text">The dreamy New York City quartet Luna (Annabel Wright)</figcaption></figure>
 
 <p>The last major label release Days of Our Nights and the independent debut Romantica suffer by comparison, but they both have some nice tracks and on a recent listen following their vinyl re-releases held up better than I remembered. Then, out of nowhere came a near-perfect EP, Close Cover Before Striking. It's got two form-fitting covers of the Rolling Stones and Kraftwerk, yet the best songs on the album belong to Luna: especially Teenage Lightning, with Astronaut and The Alibi close behind on the medal stand.</p>
 

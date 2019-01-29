@@ -12,7 +12,7 @@ author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 wordpress_id: 536
-wordpress_url: http://www.fullofwishes.co.uk/mailing-list/
+wordpress_url: https://www.fullofwishes.co.uk/mailing-list/
 date: '2007-11-01 14:31:36 +0000'
 date_gmt: '2007-11-01 21:31:36 +0000'
 categories:

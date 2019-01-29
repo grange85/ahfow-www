@@ -9,7 +9,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2016-05-12 22:00:00 +0000'
-imageurl: http://media.fullofwishes.co.uk/02-luna/photos/lunas-seven-studio-albums.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/photos/lunas-seven-studio-albums.jpg
 categories:
 - news
 - luna

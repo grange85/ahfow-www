@@ -9,13 +9,13 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2015-12-11 10:30:00 +0000'
-imageurl: http://media.fullofwishes.co.uk/00-misc/pictures/vu-matrix-tapes.jpg
+imageurl: https://media.fullofwishes.co.uk/00-misc/pictures/vu-matrix-tapes.jpg
 categories:
 - dean wareham
 - news
 tags: []
 ---
-{% ahfowimage "http://media.fullofwishes.co.uk/00-misc/pictures/vu-matrix-tapes.jpg" "The Complete Matrix Tapes - The Velvet Underground" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/vu-matrix-tapes.jpg" alt="The Complete Matrix Tapes - The Velvet Underground" /><figcaption class="caption-text">The Complete Matrix Tapes - The Velvet Underground</figcaption></figure>
 <p class="lead">Dean Wareham has a piece on Salon today <a href="http://www.salon.com/2015/12/12/were_your_local_velvet_underground_this_seasons_one_essential_box_set_is_the_complete_matrix_tapes/">writing about the recently released The Velvet Underground live box set "The Complete Matrix Tapes"</a> and some reminiscences on his introduction to the band.</p>
 
 <p><a href="http://www.salon.com/2015/12/12/were_your_local_velvet_underground_this_seasons_one_essential_box_set_is_the_complete_matrix_tapes/">Read the full article on Salon</a>.</p>

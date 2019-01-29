@@ -18,7 +18,7 @@ categories:
 - audio
 tags: []
 ---
-<p><a href="http://www.flickr.com/photos/maile/3257967228/" title="nico by Mai Le, on Flickr"><img class="aligncenter" src="http://farm4.staticflickr.com/3384/3257967228_a1c8ca21d6_z.jpg" width="640" height="426" alt="nico"></a></p>
+<p><a href="http://www.flickr.com/photos/maile/3257967228/" title="nico by Mai Le, on Flickr"><img class="aligncenter" src="https://farm4.staticflickr.com/3384/3257967228_a1c8ca21d6_z.jpg" width="640" height="426" alt="nico"></a></p>
 <p>Last Friday night Dean & Britta performed a <a href="/database/show/2009-03-20-dean-britta-the-grind-clark-university-worcester-ma-usa/">low key and sparsely attended show at The Grind in Clark University, Worcester MA</a>. A kind soul (thanks Matt) sent me a recording of the show which included a nice mix of Dean & Britta, Luna, Galaxie 500 and a few of the songs from "13 Most Beautiful" one of which I now pass on to you. "I'll Keep it With Mine" was written for Nico by Bob Dylan and Dean & Britta use it, obviously, to accompany Nico's screen test.</p>
 <p>Mp3: <a href="http://www.box.net/shared/g2srot4x7m">I'll Keep It With Mine - Dean & Britta live at The Grind, Clark U, Worcester MA</a></p>
 <p><ins datetime="2009-03-25T17:04:37+00:00">

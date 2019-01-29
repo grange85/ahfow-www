@@ -24,15 +24,11 @@ Happy birthday Naomi Yang Galaxie 500's bassist (and occasional singer) and Damo
 
 
 Here's Damon & Naomi's gorgeous cover of Pearls Before Swine's Translucent Carriages
-{% ahfowaudio2
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-translucent-carriages.mp3",
-  "audiocap": "Damon & Naomi - Translucent Carriages",
-  "sourceurl": "http://www.fullofwishes.co.uk/2014/07/16/originals-translucent-carriages-pearls-swine-covered-damon-naomi/",
-  "sourcecap": "Originals: Translucent Carriages"
-  }
-%}
-
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-translucent-carriages.mp3">Damon & Naomi - Translucent Carriages</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-translucent-carriages.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/2014/07/16/originals-translucent-carriages-pearls-swine-covered-damon-naomi/">Originals: Translucent Carriages</a></em></p>
+</div>
 Damon & Naomi are currently touring in China which means I'm rattling this post off while it's still Naomi's birthday where she is!
 
 It's well worth following <a href="https://www.instagram.com/naomivision/">Naomi's Instagram</a> and <a href="https://twitter.com/dada_drummer">Damon's Twitter</a> for details of their Chinese sojourn.

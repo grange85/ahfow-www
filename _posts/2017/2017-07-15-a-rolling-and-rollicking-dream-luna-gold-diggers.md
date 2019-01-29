@@ -11,7 +11,7 @@ author:
   email:
   url:
 date: 2017-07-17
-imageurl: http://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-joshua-mills-003.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-joshua-mills-003.jpg
 categories:
  - luna
 tags:
@@ -19,7 +19,7 @@ tags:
  - live
  - review
 related:
-  - url: http://db.fullofwishes.co.uk/luna/shows/2017/2017-07-11-luna-gold-diggers-los-angeles-ca-usa/
+  - url: https://db.fullofwishes.co.uk/luna/shows/2017/2017-07-11-luna-gold-diggers-los-angeles-ca-usa/
     title: "11 July 2017 - Luna - Gold Diggers, Los Angeles, CA, USA"
 longpost: true
 photos:
@@ -28,59 +28,59 @@ photos:
     data: |
       [
         {
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-julie-burton-001.jpg',
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/thumbs/2017-01-11-luna-gold-diggers-julie-burton-001.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-julie-burton-001.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/thumbs/2017-01-11-luna-gold-diggers-julie-burton-001.jpg',
         title: 'Luna at Gold Diggers (photo: Julie Burton)'
         },
         {
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-julie-burton-002.jpg',
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/thumbs/2017-01-11-luna-gold-diggers-julie-burton-002.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-julie-burton-002.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/thumbs/2017-01-11-luna-gold-diggers-julie-burton-002.jpg',
         title: 'Luna at Gold Diggers (photo: Julie Burton)'
         },
         {
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-julie-burton-003.jpg',
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/thumbs/2017-01-11-luna-gold-diggers-julie-burton-003.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-julie-burton-003.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/thumbs/2017-01-11-luna-gold-diggers-julie-burton-003.jpg',
         title: 'Luna at Gold Diggers (photo: Julie Burton)'
         },
         {
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-julie-burton-004.jpg',
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/thumbs/2017-01-11-luna-gold-diggers-julie-burton-004.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-julie-burton-004.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/thumbs/2017-01-11-luna-gold-diggers-julie-burton-004.jpg',
         title: 'Luna at Gold Diggers (photo: Julie Burton)'
         },
         {
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-julie-burton-005.jpg',
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/thumbs/2017-01-11-luna-gold-diggers-julie-burton-005.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-julie-burton-005.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/thumbs/2017-01-11-luna-gold-diggers-julie-burton-005.jpg',
         title: 'Luna at Gold Diggers (photo: Julie Burton)'
         },
         {
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-julie-burton-006.jpg',
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/thumbs/2017-01-11-luna-gold-diggers-julie-burton-006.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-julie-burton-006.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/thumbs/2017-01-11-luna-gold-diggers-julie-burton-006.jpg',
         title: 'Luna at Gold Diggers (photo: Julie Burton)'
         },
         {
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-julie-burton-007.jpg',
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/thumbs/2017-01-11-luna-gold-diggers-julie-burton-007.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-julie-burton-007.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/thumbs/2017-01-11-luna-gold-diggers-julie-burton-007.jpg',
         title: 'Luna at Gold Diggers (photo: Julie Burton)'
         },
         {
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-joshua-mills-001.jpg',
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/thumbs/2017-01-11-luna-gold-diggers-joshua-mills-001.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-joshua-mills-001.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/thumbs/2017-01-11-luna-gold-diggers-joshua-mills-001.jpg',
         title: 'Luna at Gold Diggers (photo: Joshua Mills)'
         },
         {
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-joshua-mills-002.jpg',
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/thumbs/2017-01-11-luna-gold-diggers-joshua-mills-002.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-joshua-mills-002.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/thumbs/2017-01-11-luna-gold-diggers-joshua-mills-002.jpg',
         title: 'Luna at Gold Diggers (photo: Joshua Mills)'
         },
         {
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-joshua-mills-003.jpg',
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/thumbs/2017-01-11-luna-gold-diggers-joshua-mills-003.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-joshua-mills-003.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/thumbs/2017-01-11-luna-gold-diggers-joshua-mills-003.jpg',
         title: 'Luna at Gold Diggers (photo: Joshua Mills)'
         }
       ]
 
 ---
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-joshua-mills-003.jpg" "Luna at Gold Diggers (Photo: Joshua Mills)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-joshua-mills-003.jpg" alt="Luna at Gold Diggers (Photo: Joshua Mills)" /><figcaption class="caption-text">Luna at Gold Diggers (Photo: Joshua Mills)</figcaption></figure>
 
 <p class="lead">I came to Luna in a rather circuitous way. And it wasn't via Galaxie 500.</p>
 
@@ -96,7 +96,7 @@ photos:
 
 <p>With a 9pm show time, I arrived at 8:15pm and there was already a nice line down the block. In fact when the video of a track off the new album is released you'll see me in that line. The film crew shot us with a vintage Super-8 Bolex camera a few times entering the club. At the door, there was a sign alerting all who entered that a video shoot was taking place inside and we may be included in the filming. Anyone not wishing to be on camera should not enter. Fat chance. Everyone entered.</p>
 
-<div class="col-md-6 pull-right">{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-julie-burton-007.jpg" "Dean (and Britta) of Luna (Photo: Julie Burton)" %}</div>
+<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-julie-burton-007.jpg" alt="Dean (and Britta) of Luna (Photo: Julie Burton)" /><figcaption class="caption-text">Dean (and Britta) of Luna (Photo: Julie Burton)</figcaption></figure></div>
 
 <p>The bar was busy from the get go and the dance floor was soon packed to capacity. As this was only the third-ever live show at Gold Diggers, there was a small stage pushed up against gold curtains butting up to a wall on which the other side was Santa Monica Blvd. Some seriously hot lights were placed around the room and the stage was bare until a few minutes after 9pm when Luna took their place to (what I think) was the strains from their new album playing in the background.</p>
 
@@ -108,7 +108,7 @@ photos:
 
 <p>The evening continued as more of a rolling and rollicking dream over the next 80 minutes. It was a bit of a blur with one more cover of {% track "Car Wash Hair" %} (Mercury Rev), a Britta Phillips on lead vocals song ({% track "One Fine Summer Morning" %}) and forays into {% track "California (All the Way)" %}, {% track "Moon Palace" %} and {% track "Anesthesia" %} among others. Wareham and Eden's interplay was tight and spacious &mdash; each had breakout moments taking leads and solo's while the other stood back. Lee Wall's drumming was steady and punctuated many moments throughout the set with drumming so loud (and spot on) that my ears were ringing the next morning. All the while Britta Phillips' bass lines were measured and beefy, sliding in and out of each song. She was like a master cat burglar. She knew which house to hit, where the valuables were and got out before anyone knew she was there.</p>
 
-<div class="col-md-6 pull-right">{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-joshua-mills-001.jpg" "Britta Phillips of Luna at Gold Diggers (Photo: Joshua Mills)" %}</div>
+<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-joshua-mills-001.jpg" alt="Britta Phillips of Luna at Gold Diggers (Photo: Joshua Mills)" /><figcaption class="caption-text">Britta Phillips of Luna at Gold Diggers (Photo: Joshua Mills)</figcaption></figure></div>
 
 <p>For their encore, someone in the video crew finally took care of the white hot bright lights set up around the room for the video turned them off and took them away. Instantly the vibe in the room changed. Suddenly there was a mood, a presence, and a feeling rather than just blinding white light/white heat. (How the band managed to perform in that light is beyond me.) Familiar strains of {% track "Slide" %} and {% track "23 Minutes in Brussels" %} ended the night. That familiar pent up; ramped up, crescendo took you places far outside Gold Diggers to places elsewhere &endash; the stratosphere, a late-night drive, times gone by. And like that, it was over.</p>
 
@@ -119,4 +119,4 @@ photos:
 <p>Somehow that Tuesday night in East Hollywood, Luna managed to allow us to {% track "Fly Into the Mystery" %} yet again and come out the other side blissfully alive and happy.</p>
 
 <hr>
-<p class="text-muted"><strong>Editor:</strong> After hearing about the "private" show at Gold Diggers and seeing some of the great looking pictures I put a call out on Facebook and Twitter to see if anyone could write me "a few words" to pop on the site. Josh came up trumps, with so much more than I could have dreamed of. Thanks Josh.</p><p class="text-muted">I'm always on the lookout for folk to write for AHFoW - I don't pay anything except in gushing gratitude - but it's always nice to have the words of other fans on this site. If you have something you want to get out - it can be reviews, reminiscences, or opinion pieces - or anything you think might fit - <a href="http://www.fullofwishes.co.uk/about/">please do get in touch</a>.</p><p class="text-muted"> &mdash; Andy</p>
+<p class="text-muted"><strong>Editor:</strong> After hearing about the "private" show at Gold Diggers and seeing some of the great looking pictures I put a call out on Facebook and Twitter to see if anyone could write me "a few words" to pop on the site. Josh came up trumps, with so much more than I could have dreamed of. Thanks Josh.</p><p class="text-muted">I'm always on the lookout for folk to write for AHFoW - I don't pay anything except in gushing gratitude - but it's always nice to have the words of other fans on this site. If you have something you want to get out - it can be reviews, reminiscences, or opinion pieces - or anything you think might fit - <a href="https://www.fullofwishes.co.uk/about/">please do get in touch</a>.</p><p class="text-muted"> &mdash; Andy</p>

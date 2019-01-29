@@ -34,9 +34,9 @@ longpost: true
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/30071731530/in/album-72157673973784671/" title="Luna ~ Petit Bain, Paris"><img src="https://c3.staticflickr.com/9/8413/30071731530_1a4d3d499c_c.jpg" width="800" height="600" alt="Luna ~ Petit Bain, Paris"></a>
 <p>Another splendid Penthouse set was followed by a couple of sizeable encores including Sean doing {% track "Still at Home" %}, plus {% track "Malibu Love Nest" %}, {% track "Bewitched" %}, {% track "Tiger Lily" %}, {% track "Ceremony" %} and {% track "Indian Summer" %}</p>
 
-{% ahfowvideo "-znIzwg9BZ4" "Luna - Bewitched, Petit Bain" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/-znIzwg9BZ4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Bewitched, Petit Bain</figcaption></figure>
 
-{% ahfowvideo "5Of7plSF2RM" "Luna - Tiger Lily, Petit Bain" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/5Of7plSF2RM" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Tiger Lily, Petit Bain</figcaption></figure>
 
 <p>Gig finished and the staff were too keen to kick us out of the venue so still no chance top catch up with folk, so after a rather 'adventurous' route to a Metro station on the other side of the river we made our way back to our rooms.</p>
 

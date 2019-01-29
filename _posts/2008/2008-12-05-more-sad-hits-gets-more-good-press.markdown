@@ -18,7 +18,7 @@ categories:
 - damon & naomi
 tags: []
 ---
-<div class="imagebox-a"><img src="http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_moresadhits.jpg" width="200" height="200" alt="More Sad Hits sleeve"/></div>
+<div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_moresadhits.jpg" width="200" height="200" alt="More Sad Hits sleeve"/></div>
 <p>Damon & Naomi have posted <a href="http://web.archive.org/web/20091102065104/http://www.damonandnaomi.com:80/reviews/mshreviews.html">a collection of some of the reviews</a> that the reissue of their first album has been getting. <a href="/database/release/more-sad-hits/">More Sad Hits</a> has just been re-released on their own 20|20|20 label and has been garnering rave reviews, quite a few of which are from UK based sites and newspapers.</p>
 <blockquote><p>Damon & Naomi create a self-contained world of sound that drifts on softened harmony vocals and the fragile, almost bottomless, rhythms of sparsely strummed guitars.<br/><em>The Wire</em></p></blockquote>
 <blockquote><p>Shimmering beauty, gracious warmth, fragile emotion, translucent melancholy and you really don't hear the hints of cynicism and the swipes at former members unless you really tune in<br/><em>The Organ</em></p></blockquote>
@@ -32,6 +32,6 @@ tags: []
 </ul>
 <ul>
 <li><span class="removed_link" title="http://www.damonandnaomi.com/merchandise/merch.html">Buy More Sad Hist from damonandnaomi.com</span></li>
-<li><a href="http://www.amazon.co.uk/gp/product/B00193E0K8?ie=UTF8&tag=aheadfullofwi-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=B00193E0K8">Buy More Sad Hits from Amazon.co.uk</a><img src="http://www.assoc-amazon.co.uk/e/ir?t=aheadfullofwi-21&l=as2&o=2&a=B00193E0K8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></li>
-<li><a href="http://www.amazon.com/gp/product/B00193E0K8?ie=UTF8&tag=aheadfullofwi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B00193E0K8">Buy More Sad Hits from Amazon.com</a><img src="http://www.assoc-amazon.com/e/ir?t=aheadfullofwi-20&l=as2&o=1&a=B00193E0K8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></li>
+<li><a href="http://www.amazon.co.uk/gp/product/B00193E0K8?ie=UTF8&tag=aheadfullofwi-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=B00193E0K8">Buy More Sad Hits from Amazon.co.uk</a></li>
+<li><a href="http://www.amazon.com/gp/product/B00193E0K8?ie=UTF8&tag=aheadfullofwi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B00193E0K8">Buy More Sad Hits from Amazon.com</a></li>
 </ul>

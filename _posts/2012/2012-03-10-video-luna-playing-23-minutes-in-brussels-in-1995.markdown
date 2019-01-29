@@ -19,4 +19,4 @@ categories:
 tags: []
 ---
 <p>Nice Penthouse-era video of Luna playing 23 Minutes in Brussels at The Knitting Factory in New York City in 1995</p>
-<p><iframe class="aligncenter" width="480" height="360" src="http://www.youtube.com/embed/ne1bNtx2SOw" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe class="aligncenter" width="480" height="360" https://www.youtube.com/embed/ne1bNtx2SOw" frameborder="0" allowfullscreen></iframe></p>

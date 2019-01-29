@@ -20,4 +20,4 @@ tags: []
 <p>The <strong>very</strong> late Galaxie 500  and Luna tribute album finally sees the light of day. The project kicked off at the tail end of 2004 but due to an insane amount of procrastination on my part it took a year and a half to actually reach the rest of the world</p>
 <p>The CDR with a cheap b&w laser printed sleeve can be had for the insanely cheap price of just $5 a copy including postage to wherever you are.</p>
 <p>Feel free to email me to negotiate alternative methods of payment.</p>
-<p><a href="http://static.fullofwishes.co.uk/galaxie_list_tribute/">Decomposing - A Fan Tribute to Galaxie 500 and Luna</a></p>
+<p><a href="https://static.fullofwishes.co.uk/galaxie_list_tribute/">Decomposing - A Fan Tribute to Galaxie 500 and Luna</a></p>

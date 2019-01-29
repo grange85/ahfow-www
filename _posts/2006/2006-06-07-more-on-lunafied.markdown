@@ -18,5 +18,5 @@ categories:
 - news
 tags: []
 ---
-<p>The tracklisting for the download only Luna covers album can be seen <a href="http://db.fullofwishes.co.uk/database/discography/luna/206">here</a>.</p>
+<p>The tracklisting for the download only Luna covers album can be seen <a href="https://db.fullofwishes.co.uk/database/discography/luna/206">here</a>.</p>
 <p><a href="http://www.beggars.com">Beggars Banquet</a>, who released most of Luna's European output, are putting together a slightly different "Best of..." album which will come with a bonus CD of rarities. The bonus CD will be slightly different to the Lunafied release because Beggars have different rights. This is likely to be released in September</p>

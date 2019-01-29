@@ -22,4 +22,4 @@ tags:
 - earrings
 ---
 <p>Lovely video by Naomi Yang for the track Naomi from Neutral Milk Hotel's <a href="http://en.wikipedia.org/wiki/On_Avery_Island">first album</a> - keep an eye out for some familiar Galaxie 500 era earrings:</p>
-<p><iframe class="aligncenter" width="560" height="315" src="http://www.youtube.com/embed/pw1CgT5wxaU?rel=0" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe class="aligncenter" width="560" height="315" src="https://www.youtube.com/embed/pw1CgT5wxaU?rel=0" frameborder="0" allowfullscreen></iframe></p>

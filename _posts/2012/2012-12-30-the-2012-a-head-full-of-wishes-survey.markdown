@@ -33,18 +33,18 @@ Greece, Netherlands, Germany, Belgium, Austria</p>
 <p>So, onto the bands and it's all the usual suspects...</p>
 <p><strong>Galaxie 500:</strong><br />
 On Fire was yet again head and shoulders above the competition<br />
-<iframe class="aligncenter" width="400" height="100" style="position: relative; display: block; width: 400px; height: 100px;" src="http://bandcamp.com/EmbeddedPlayer/v=2/album=158016030/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://galaxie500.bandcamp.com/album/on-fire">On Fire by Galaxie 500</a></iframe><br />
+<iframe class="aligncenter" width="400" height="100" style="position: relative; display: block; width: 400px; height: 100px;" src="https://bandcamp.com/EmbeddedPlayer/v=2/album=158016030/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://galaxie500.bandcamp.com/album/on-fire">On Fire by Galaxie 500</a></iframe><br />
 Fourth of July pipped Tugboat as favourite song by a single vote<br />
-<iframe class="aligncenter" width="420" height="315" src="http://www.youtube.com/embed/cWkf_fSIxyM" frameborder="0" allowfullscreen></iframe></p>
+<iframe class="aligncenter" width="420" height="315" https://www.youtube.com/embed/cWkf_fSIxyM" frameborder="0" allowfullscreen></iframe></p>
 <p><strong>Luna:</strong><br />
 Favourite Luna album was, as usual, Penthouse, but a strong showing from Bewitched maybe helped by the vinyl release it finally got this year.<br />
 23 Minutes in Brussels again walked away with favourite Luna song<br />
-<iframe class="aligncenter" width="420" height="315" src="http://www.youtube.com/embed/81Sv57rbujA" frameborder="0" allowfullscreen></iframe></p>
+<iframe class="aligncenter" width="420" height="315" https://www.youtube.com/embed/81Sv57rbujA" frameborder="0" allowfullscreen></iframe></p>
 <p><strong>Damon & Naomi:</strong><br />
 More Sad Hits was once again your favourite Damon & Naomi album but nice to see that most of their albums got a vote<br />
-<iframe class="aligncenter" width="400" height="100" style="position: relative; display: block; width: 400px; height: 100px;" src="http://bandcamp.com/EmbeddedPlayer/v=2/album=4050036211/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://damonandnaomi.bandcamp.com/album/more-sad-hits">More Sad Hits by Damon & Naomi</a></iframe><br />
+<iframe class="aligncenter" width="400" height="100" style="position: relative; display: block; width: 400px; height: 100px;" src="https://bandcamp.com/EmbeddedPlayer/v=2/album=4050036211/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://damonandnaomi.bandcamp.com/album/more-sad-hits">More Sad Hits by Damon & Naomi</a></iframe><br />
 This Car Climbed Mt. Washington was again favourite Damon & Naomi song</p>
 <p><strong>Dean & Britta:</strong><br />
 L'Avventura again walked away with favourite Dean & Britta album.<br />
 Favourite Dean & Britta track was (again!) Night Nurse<br />
-<iframe class="aligncenter" width="420" height="315" src="http://www.youtube.com/embed/VnORaT9m3oA" frameborder="0" allowfullscreen></iframe></p>
+<iframe class="aligncenter" width="420" height="315" https://www.youtube.com/embed/VnORaT9m3oA" frameborder="0" allowfullscreen></iframe></p>

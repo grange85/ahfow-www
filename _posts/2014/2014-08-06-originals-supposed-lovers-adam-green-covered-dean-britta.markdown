@@ -23,11 +23,11 @@ tags: []
 Adam Green's original of We're Not Supposed to be Lovers was released on his second solo album "friends of Mine" in 2003.<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hRyFr4rigZ0" frameborder="0" allowfullscreen></iframe>
 <p>Dean & Britta's cover appeared on their Words You Used to Say EP in 2008<br />
-MP3: <a href="http://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-were-not-supposed-to-be-lovers.mp3">Dean & Britta - We're Not Supposed to be Lovers</a><br />
-<audio src="http://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-were-not-supposed-to-be-lovers.mp3" preload="none" controls /></p>
+MP3: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-were-not-supposed-to-be-lovers.mp3">Dean & Britta - We're Not Supposed to be Lovers</a><br />
+<audio src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-were-not-supposed-to-be-lovers.mp3" preload="none" controls /></p>
 <p>Here's a live version recorded at a secret gig in Copenhagen in 2007:</p>
 
-{% ahfowaudio "http://media.fullofwishes.co.uk/07-dean_and_britta/audio/2007-11-24-dean-and-britta-were-not-supposed-to-be-lovers.mp3" "Dean & Britta - We're Not Supposed to be Lovers (live in Copenhagen)" %}
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2007-11-24-dean-and-britta-were-not-supposed-to-be-lovers.mp3">Dean & Britta - We're Not Supposed to be Lovers (live in Copenhagen)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2007-11-24-dean-and-britta-were-not-supposed-to-be-lovers.mp3"></audio></div>
 
 <p>And here's a sweet blurry video of that show<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AQ-sDkZHqLg" frameborder="0" allowfullscreen></iframe>

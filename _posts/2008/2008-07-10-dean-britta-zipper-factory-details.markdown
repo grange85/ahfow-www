@@ -18,7 +18,7 @@ categories:
 - dean & britta
 tags: []
 ---
-<div class="imagebox-a"><a href="http://www.flickr.com/photos/gogirlsmusic/2571517696/" title="Photo Sharing"><img src="http://farm4.static.flickr.com/3148/2571517696_aa74bef2f1_m.jpg" alt="The Zipper Factory Theater in NYC" /></a><br/><strong>The Zipper Factory in NYC</strong><br/>uploaded by <a href="http://www.flickr.com/people/gogirlsmusic/">GoGirlsMusic.com</a></div>
+<div class="imagebox-a"><a href="http://www.flickr.com/photos/gogirlsmusic/2571517696/" title="Photo Sharing"><img src="https://farm4.static.flickr.com/3148/2571517696_aa74bef2f1_m.jpg" alt="The Zipper Factory Theater in NYC" /></a><br/><strong>The Zipper Factory in NYC</strong><br/>uploaded by <a href="http://www.flickr.com/people/gogirlsmusic/">GoGirlsMusic.com</a></div>
 <p>Dean & Britta have just released some more information about there upcoming shows at The Zipper Factory in NYC</p>
 <blockquote><p>The Zipper Factory show will be an intimate seated setting (stadium-style car seats!) in a renovated zipper factory. Show starts at 10p.m. sharp with the Caledonia Mission (our drummer Anthony LaMarca sings and plays guitar).<br />
 You can buy tix here (scroll down to July 24th and click on the time of the show - 10PM)    or order by phone 212.352.310</p></blockquote>

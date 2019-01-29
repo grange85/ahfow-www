@@ -20,5 +20,5 @@ categories:
 tags: []
 ---
 <p>This is a trailer for the short film, <a href="http://myspacetv.com/index.cfm?fuseaction=vids.individual&videoid=30088876">Pumpkin Hell</a>, that Dean mentioned in an interview a while back but that I'd forgotten about since then - the trailer is pretty funny and Dean looks the part as a sleazy pumpkin seller...so I hope the whole film gets onto the Internet soon...<br />
-<embed src="http://lads.myspace.com/videos/vplayer.swf" flashvars="m=30088876&v=2&type=video" type="application/x-shockwave-flash" width="430" height="346"></embed><br />
+<br />
 If you're in the Orlando area it is <span class="removed_link" title="http://www.floridafilmfestival.org/films/016281.php">showing as part of the Florida Film Festival</span> on 30 March and the 3 April. You should probably take the opportunity while you can as it'll probably go the way of Piggie and <a href="/2006/05/22/lola-a-short-film-featuring-dean-wareham/">Lola</a>...</p>

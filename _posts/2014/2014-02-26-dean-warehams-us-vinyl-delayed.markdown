@@ -22,4 +22,4 @@ tags: []
 <blockquote><p>Vinyl LP is going to be delayed two weeks while new lacquers are made [...] No problem with the CD version, and UK vinyl release will be on time. Apologies but we want the vinyl to be perfect.</p></blockquote>
 <p><a href="http://elevenspot.11spot.com/deanwareham/dean-wareham-dean-wareham-pre-order-3-11.html">Pre-order Dean Wareham's solo album (US)</a>.</p>
 <p>No problems with the Eurpopean pressing on <a href="http://soniccathedral.bigcartel.com/">Sonic Cathedral</a> which will go out as scheduled.</p>
-<p><figure class="caption aligncenter"><img src="http://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-sonic-cathedral75.jpg" width="770" height="777" class /><figcaption class="caption-text"> Dean Wareham (sleeve by Sharon Lock)</figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-sonic-cathedral75.jpg" width="770" height="777" class /><figcaption class="caption-text"> Dean Wareham (sleeve by Sharon Lock)</figcaption></figure>

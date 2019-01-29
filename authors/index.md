@@ -12,14 +12,14 @@ author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 wordpress_id: 3705
-wordpress_url: http://www.fullofwishes.co.uk/?page_id=3705
+wordpress_url: https://www.fullofwishes.co.uk/?page_id=3705
 date: '2013-02-06 14:21:37 +0000'
 date_gmt: '2013-02-06 14:21:37 +0000'
 categories: []
 tags: []
 ---
 
-{% for a in site.data.authors %}	
+{% for a in site.data.authors %}
 <h3 id="{{a.name}}">{{ a.display_name }}</h3>
 {% if a.description %}<p>{{ a.description }}</p>{% endif %}
 {% if a.website %}<p>Website: <a href="{{ a.website.url }}">{{ a.website.name }}</a></p>{% endif %}

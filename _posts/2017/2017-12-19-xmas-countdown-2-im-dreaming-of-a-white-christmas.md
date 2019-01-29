@@ -39,14 +39,10 @@ tags:
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3510813574/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3152425973/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/copenhagen-live">Copenhagen (live) by Galaxie 500</a></iframe>
 
 <p>And here's Sean Eden's Snow Drive from Tell Me Do You Miss Me&hellip;</p>
-{% ahfowaudio2
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/02-luna/audio/tmdymm/11-sean-eden-snow-drive.mp3",
-  "audiocap": "Snow Drive - Sean Eden",
-  "sourceurl": "https://www.facebook.com/Tell-Me-Do-You-Miss-Me-a-film-about-LUNA-by-Matthew-Buzzell-122077917842911/",
-  "sourcecap": "Tell Me Do You Miss Me"
-  }
-%}
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/tmdymm/11-sean-eden-snow-drive.mp3">Snow Drive - Sean Eden</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/tmdymm/11-sean-eden-snow-drive.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="https://www.facebook.com/Tell-Me-Do-You-Miss-Me-a-film-about-LUNA-by-Matthew-Buzzell-122077917842911/">Tell Me Do You Miss Me</a></em></p>
+</div>
 
-
-{% ahfowvideo "EL7skeHiw7c" "Galaxie 500 - Snowstorm (SNUB TV)" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/EL7skeHiw7c" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Snowstorm (SNUB TV)</figcaption></figure>

@@ -29,6 +29,6 @@ tags: []
 <p>I dug out my copy of Luna's cover of Everybody's Talkin' that was out out on Sub Pop's singles club back in the day. It's a gem, of course, but you knew that.<br />
 What you mightn't have known is that the demo version Of Fuzzy Wuzzy that was on the flip is also rather special. A six minute meandering drawl of a version, that still seems to end too soon.</p>
 
-{% ahfowaudio "http://media.fullofwishes.co.uk/02-luna/audio/02-luna-fuzzy-wuzzy-demo.mp3" " Luna - Fuzzy Wuzzy (demo)" %}
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/02-luna-fuzzy-wuzzy-demo.mp3"> Luna - Fuzzy Wuzzy (demo)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/02-luna-fuzzy-wuzzy-demo.mp3"></audio></div>
 
 <p>This was recorded from my vinyl using my very rudimentary set-up so you have the joy of listening to it the way I do!</p>

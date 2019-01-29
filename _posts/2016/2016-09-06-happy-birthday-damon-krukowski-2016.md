@@ -12,7 +12,7 @@ author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 date: '2016-09-06 00:00:00 +0100'
-imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-krukowski-the-new-analog.jpg
+imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-krukowski-the-new-analog.jpg
 categories:
  - galaxie 500
  - damon & naomi
@@ -37,10 +37,10 @@ tags: []
 
 <p>Here's a lovely clip of Damon & Naomi playing The Turn of the Century in Taiwan last year:</p>
 
-{% ahfowvideo "BV-OgODLNL4" "Damon & Naomi - The Turn of the Century" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/BV-OgODLNL4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Damon & Naomi - The Turn of the Century</figcaption></figure>
 
 <p>Happy birthday Damon - have a great year and a little less clich&eacute; rock and roll!</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/2016-04-19-damon-and-naomi-hospital.jpg" "Damon in hospital" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/2016-04-19-damon-and-naomi-hospital.jpg" alt="Damon in hospital" /><figcaption class="caption-text">Damon in hospital</figcaption></figure>
 
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

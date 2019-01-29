@@ -17,7 +17,7 @@ categories:
 - luna
 tags: []
 ---
-<div class="imagebox-a"><img src="http://media.fullofwishes.co.uk/02-luna/sleeves/luna_best-of.jpg" alt="Best of Luna sleeve" width="200" height="200"/></div>
+<div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/02-luna/sleeves/luna_best-of.jpg" alt="Best of Luna sleeve" width="200" height="200"/></div>
 <p>Greg <a href="http://www.grange85.co.uk/swirling/2008/01/28/how-sad-am-i-1/">commented on my blog</a> to remind me that Dean's <a href="/database/release/best-of-luna/">Best of Luna</a> sleeve notes never made it into the European release (although we did get a whole extra CD so I can't complain) so here they are. My OCR software did an OK job but it still required a fair amount of massaging into shape - there are probably still a few errors but I need some sleep...</p>
 <p><ins datetime="2008-02-17T17:28:06+00:00">
 <p>Update: <a href="/2008/02/08/best-of-luna-sleeve-notes/#comment-536">Thanks to "the 801" for pointing out</a> that the Euro release did have sleeve notes including notes for the tracks not on the US version - I'll scan in and post the missing five tracks at some point.</p>

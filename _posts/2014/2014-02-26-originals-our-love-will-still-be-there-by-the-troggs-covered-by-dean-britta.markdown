@@ -22,7 +22,7 @@ tags: []
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lBneFeNmaN0" frameborder="0" allowfullscreen></iframe>
 <p>Dean & Britta's cover of the track was on their second album Back Numbers in 2007, and a remix by Britta was released on the Variations, download only EP, here's that remix...</p>
 
-{% ahfowaudio "http://media.fullofwishes.co.uk/07-dean_and_britta/audio/03-dean-and-britta-our-love-will-still-be-there-britta-phillips-remix.mp3" "Dean & Britta - Our Love Will Still Be There (Britta Phillips remix)" %}
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/03-dean-and-britta-our-love-will-still-be-there-britta-phillips-remix.mp3">Dean & Britta - Our Love Will Still Be There (Britta Phillips remix)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/03-dean-and-britta-our-love-will-still-be-there-britta-phillips-remix.mp3"></audio></div>
 
 <p>... and here's them performing it live in 2007<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kcX-tEJtfMU" frameborder="0" allowfullscreen></iframe>

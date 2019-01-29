@@ -18,7 +18,7 @@ categories:
 - audio
 tags: []
 ---
-<p><figure class="caption aligncenter"><a href="http://www.flickr.com/photos/guwashi999/4050290960/" title="Coffee by Guwashi999, on Flickr"><img src="http://farm4.static.flickr.com/3519/4050290960_10658763d2.jpg" width="500" height="313" alt="Coffee"></a><figcaption class="caption-text">Coffee by Guwashi999</figcaption></figure></p>
+<p><figure class="caption aligncenter"><a href="http://www.flickr.com/photos/guwashi999/4050290960/" title="Coffee by Guwashi999, on Flickr"><img src="https://farm4.static.flickr.com/3519/4050290960_10658763d2.jpg" width="500" height="313" alt="Coffee"></a><figcaption class="caption-text">Coffee by Guwashi999</figcaption></figure></p>
 <p>A mere five years ago I <a href="/2006/09/26/audio-luna-citibank-coffee-house-sessions-1/">posted the first track from this session</a> and added "I’ll post the others over the next couple of weeks" - well as promised here's the rest of the Citibank Visa Coffee House Session recorded around the time of Bewitched. This is a fairly lo-res mp3 of the session... I'm sure I have this on CD somewhere but all I've managed to track down was this mp3 so I'm afraid you'll have to make do with that.</p>
 <p>The show was hosted by Pat DiNizio of The Smithereens and there are a couple of short interviews and nice live/acoustic versions of Tiger Lily, Smile and Into The Fold</p>
 <p>128 kb/s mp3 files all hosted on Box.net<br />

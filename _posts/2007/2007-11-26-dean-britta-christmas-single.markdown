@@ -18,7 +18,7 @@ categories:
 - dean & britta
 tags: []
 ---
-<div class="imagebox-a"><span class="removed_link" title="http://www.fullofwishes.co.uk/2007/11/26/dean-britta-christmas-single/hes-coming-home-sleeve/"><img src="http://www.fullofwishes.co.uk/wp/wp-content/uploads/2007/11/dandbfrontpage.thumbnail.JPG" alt='He’s Coming Home sleeve' /></span></div>
+<div class="imagebox-a"><span class="removed_link" title="https://www.fullofwishes.co.uk/2007/11/26/dean-britta-christmas-single/hes-coming-home-sleeve/"><img src="https://www.fullofwishes.co.uk/wp/wp-content/uploads/2007/11/dandbfrontpage.thumbnail.JPG" alt='He’s Coming Home sleeve' /></span></div>
 <p><a href="http://www.chimneyrocks.org/hescominghome.html">Chimney Rock! Records</a> is releasing a new Christmas 7" single by Dean & Britta.</p>
 <p>You can pre-order the single now from <a href="http://www.chimneyrocks.org/HesComingHome7record.Buyitnow..html">Chimney Rocks!</a> for $8 including shipping and the beautiful packaging ($11 international).</p>
 <blockquote><p>This 7" single features two wonderful holiday tracks that are sure to complement what ever it is you're celebrating this Season.</p>

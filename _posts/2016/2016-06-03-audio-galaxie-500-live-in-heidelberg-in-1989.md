@@ -9,7 +9,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2016-06-03 23:00:00 +0000'
-imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-11-29/galaxie-500-heidelberg-1989-11-29.jpg
+imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-11-29/galaxie-500-heidelberg-1989-11-29.jpg
 categories:
  - news
  - galaxie 500
@@ -20,13 +20,13 @@ tags:
 ---
 <p class="lead">A live <a href="http://www.dimeadozen.org/torrents-details.php?id=563117">Galaxie 500 show from Germany in 1989 is currently being shared on bittorrent site Dimeadozen</a>.</p>
 
-<div class="col-md-6 pull-right">{% ahfowimage "http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-11-29/galaxie-500-heidelberg-1989-11-29.jpg" "Timberlake Tapes - Galaxie 500 in Heidelberg 1989" %}</div>
+<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-11-29/galaxie-500-heidelberg-1989-11-29.jpg" alt="Timberlake Tapes - Galaxie 500 in Heidelberg 1989" /><figcaption class="caption-text">Timberlake Tapes - Galaxie 500 in Heidelberg 1989</figcaption></figure></div>
 
 <p>Earlier in the week I was emailed by Frank from Ludwigsburg who had recorded Galaxie 500 at the Schwimmbad in Heidelberg on his Sony Walkman in November of 1989. He shared his excellent recording with me.</p>
 
 <p>Thanks so much to Frank Tewald - Timberlake Tapes - of Ludwigsburg for getting this to me. It fair made my week!</p>
 
-<h4><a href="http://db.fullofwishes.co.uk/galaxie-500/shows/1989/1989-11-29-galaxie-500-schwimmbad-heidelberg-germany/">29 November 1989 - Galaxie 500 - Schwimmbad, Heidelberg, Germany</a></h4>
+<h4><a href="https://db.fullofwishes.co.uk/galaxie-500/shows/1989/1989-11-29-galaxie-500-schwimmbad-heidelberg-germany/">29 November 1989 - Galaxie 500 - Schwimmbad, Heidelberg, Germany</a></h4>
 <p><strong>Setlist</strong></p>
 <ul>
 <li><a href="/tracks/flowers/ ">Flowers</a></li>

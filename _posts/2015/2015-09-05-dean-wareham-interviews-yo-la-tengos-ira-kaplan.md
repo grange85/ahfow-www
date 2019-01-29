@@ -17,7 +17,7 @@ categories:
 - news
 tags: ["yo la tengo", "interview", "extracurricular", "video"]
 ---
-{% ahfowimage "http://media.fullofwishes.co.uk/00-misc/pictures/yo-la-tengo-2015.jpg" "Yo La Tengo" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/yo-la-tengo-2015.jpg" alt="Yo La Tengo" /><figcaption class="caption-text">Yo La Tengo</figcaption></figure>
 
 <p class="lead">Yo La Tengo have just released the rather lovely <a href="http://amzn.to/1Qg5u2v">Stuff Like That There</a>, a follow up to their splendid 1990 album <a href="http://amzn.to/1Fpk7Kw">Fakebook</a>. <a href="http://www.salon.com/2015/09/04/when_i_first_saw_patti_smith_i_didnt_listen_to_another_grateful_dead_record_for_five_years_dean_wareham_interviews_yo_la_tengos_ira_kaplan/">Dean Wareham has interviewed Ira Kaplan</a> about the album, the industry, Jonathan Richman, The Grateful Dead, and other miscellany for Salon.</p>
 

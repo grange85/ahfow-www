@@ -18,7 +18,7 @@ categories:
 - velvet underground tour diary
 tags: []
 ---
-<p><a href="http://www.flickr.com/photos/estherase/241601749/" title="machines by estherase, on Flickr"><img class="aligncenter" src="http://farm1.staticflickr.com/96/241601749_08d546579a_z.jpg" width="640" height="480" alt="machines"></a><br />
+<p><a href="http://www.flickr.com/photos/estherase/241601749/" title="machines by estherase, on Flickr"><img class="aligncenter" src="https://farm1.staticflickr.com/96/241601749_08d546579a_z.jpg" width="640" height="480" alt="machines"></a><br />
 <strong>June 11:</strong><br />
 Laundry day. I feel sick. The tumble dryers aren't working properly. I walk about Hamburg, pick up a copy of "Moonshot" by Buffy St. Marie, and am starting to feel feverish. We're playing another arena, the Sporthalle, capacity 7,000 or so. The Velvets play an extra long set tonight, two and a half hours. I sleep for about three hours and wake up drenched with sweat but feeling better.</p>
 

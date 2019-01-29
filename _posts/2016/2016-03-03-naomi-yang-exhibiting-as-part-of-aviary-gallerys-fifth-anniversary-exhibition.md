@@ -9,13 +9,13 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2016-03-03 23:00:00 +0000'
-imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/2016-03-naomi-yang-aviary-gallery.jpg
+imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/2016-03-naomi-yang-aviary-gallery.jpg
 categories:
 - news
 tags:
 - naomi yang
 ---
-{% ahfowimage "http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/2016-03-naomi-yang-aviary-gallery.jpg" "Naomi Yang (1995)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/2016-03-naomi-yang-aviary-gallery.jpg" alt="Naomi Yang (1995)" /><figcaption class="caption-text">Naomi Yang (1995)</figcaption></figure>
 <p class="lead">Naomi Yang has three of her pieces showing in an exhibition of visual art by musicians at the Aviary Gallery in Jamaica Plain, MA</p>
 <p>The exhibition opening reception ist at 7pm on 3 March.</p>
 <blockquote>Aviary opened with a group exhibition called Sound on Sight in March of 2011. We're celebrating our 5th birthday with another show of visual art works made by musicians. Please join us on March 3rd for the opening reception for Sound on Sight.

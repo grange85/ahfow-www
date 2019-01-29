@@ -9,7 +9,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2016-05-12 23:00:00 +0000'
-imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/naomi-extracurricular-richard-youngs-back-from-a-changing-world.jpg
+imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/naomi-extracurricular-richard-youngs-back-from-a-changing-world.jpg
 categories:
  - news
  - damon & naomi
@@ -21,7 +21,7 @@ description: |
   Naomi Yang has a new video for Richard Youngs' Back From a Changing World, shot while Damon & Naomi (and Richard) were in Berlin last month
 ---
 
-{% ahfowimage "http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/naomi-extracurricular-richard-youngs-back-from-a-changing-world.jpg" "Back From a Changing World by Richard Youngs" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/naomi-extracurricular-richard-youngs-back-from-a-changing-world.jpg" alt="Back From a Changing World by Richard Youngs" /><figcaption class="caption-text">Back From a Changing World by Richard Youngs</figcaption></figure>
 
 <p class="lead">While Damon & Naomi were in Berlin recently on their short European jaunt, Naomi took the opportunity of making this lovely video for tour-mate Richard Youngs:</p>
 

@@ -20,4 +20,4 @@ tags: []
 <p>The latest band to join the <a href="/2010/06/audio-a-fleet-of-tugboats/" title="Audio: A fleet of Tugboats">Tugboat covers club</a> are Leeds based pop band Finnmark! Who have just released their <a href="http://cathndadrecords.bandcamp.com/album/tugboat">splendidly jaunty version of the Galaxie 500 standard</a> on Cath 'n' Dad Records on Bandcamp.</p>
 <p>The track is available on a pay what you want basis with all proceeds going to the charity <a href="http://www.remap.org.uk/ ">Remap</a></p>
 <p><a href="http://cathndadrecords.bandcamp.com/album/tugboat">http://cathndadrecords.bandcamp.com/album/tugboat</a></p>
-<p><img class="aligncenter" src="http://f0.bcbits.com/img/a1993531690_10.jpg" alt="Finnmark! Tugboat " /></p>
+<p><img class="aligncenter" src="https://media.fullofwishes.co.uk/00-misc/pictures/finnmark-tugboat.jpg" alt="Finnmark! Tugboat " /></p>

@@ -17,7 +17,7 @@ tags: []
 ---
 <figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/bsides/17044101060/in/album-72157652118615975/" title="Sean Eden from Luna"><img src="https://farm8.staticflickr.com/7632/17044101060_2382eefd76_b.jpg" width="1024" height="678" alt="Sean Eden from Luna"></a><figcaption>Sean Eden in Madrid (Photo: <a href="https://www.flickr.com/photos/bsides/17044101060/in/album-72157652118615975/">bSides on Flickr</a>)</figcaption></figure>
 <p class="lead">Happy birthday to Luna's guitarist and <a href="https://twitter.com/seanedenquotes">philosopher</a> Sean Eden!</p>
-{% ahfowvideo "yyT2D-hHKYI" "Luna - Still at Home (Barcelona 2015)" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/yyT2D-hHKYI" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Still at Home (Barcelona 2015)</figcaption></figure>
 
 <figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/17313528502/in/photolist-wKEHPu-wtLQiy-wtLHES-wJ51sj-wKEGX9-wtU8XM-wKEHrW-vPnmBQ-wtLHwf-vPvTVp-wJ528C-wtLHko-wJ51K3-wJ51N9-wtU8Ci-wtLGQA-wLTBwg-wLozAe-wtU8FK-wLozqK-so6NP6-s6vod9-rrhR1X-rrhRnt-snWmQ7-rr6zWb-rrhRvV-snWmFj-rrhR5e-so4yix-so6P5M-s6vovy-rr6AuW-7kwH8h-7ksNkR" title="Sean, me  and Britta (and Lee at the drums)"><img src="https://farm8.staticflickr.com/7750/17313528502_3621998731_b.jpg" width="1024" height="768" alt="Sean, me  and Britta (and Lee at the drums)"></a><figcaption>Sean and Britta and some fan</figcaption></figure>
 

@@ -22,7 +22,7 @@ tags: []
 Submission was recorded by The Sex Pistols in 1976 and appeared on (most copies of) their only studio album 'Never Mind the Bollocks Here's The Sex Pistols')<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7UZ0bPaOdbQ" frameborder="0" allowfullscreen></iframe>
 <p>Galaxie 500 covered the track for their second session for BBC Radio One's John Peel show in October 1990.<br />
-<iframe style="border: 0; width: 100%; height: 42px;" src="http://bandcamp.com/EmbeddedPlayer/album=500961155/size=small/bgcol=ffffff/linkcol=0687f5/track=3906522565/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/peel-sessions">Peel Sessions by Galaxie 500</a></iframe></p>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=500961155/size=small/bgcol=ffffff/linkcol=0687f5/track=3906522565/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/peel-sessions">Peel Sessions by Galaxie 500</a></iframe></p>
 <p>The Sex Pistols were a 1970s British novelty act - here they are playing it live in 2007 to a large room full of middle aged men:<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hZUOKqYSd8c" frameborder="0" allowfullscreen></iframe>
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

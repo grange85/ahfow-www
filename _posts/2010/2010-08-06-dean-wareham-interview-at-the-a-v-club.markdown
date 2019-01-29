@@ -25,7 +25,7 @@ tags: []
 </blockquote>
 <p>And the upcoming shows playing Galaxie 500 songs<br />
 <blockquote class="gmail_quote"> I know I get a real kick, an emotional charge, out of playing a song I haven’t played for 10 years. It just takes you back to that point in your life. I think I should’ve been playing more of these songs all along [...] <br /> The songs are more difficult to play than I remember. I listened to the live Galaxie 500 album from Copenhagen, and I realized that’s at the end of a tour, after we had been touring for a couple of months and had gotten pretty good at it. In terms of chord structure, the songs are incredibly simple. For example, a song like “Don’t Let Our Youth Go To Waste” is only one chord, but there’s a whole lot going on in it. </p></blockquote>
-<p><a href="http://www.avclub.com/articles/dean-wareham,43887/">Read the whole interview on The A.V. Club website</a><br /><span class="removed_link" title="http://db.fullofwishes.co.uk/upcoming/dean_and_britta/">Upcoming "13 Most Beautiful" and "... plays Galaxie 500" shows</span>
-<p /> Dean & Britta performing Galaxie 500&#039;s Strange<br /> 
+<p><a href="http://www.avclub.com/articles/dean-wareham,43887/">Read the whole interview on The A.V. Club website</a><br /><span class="removed_link" title="https://db.fullofwishes.co.uk/upcoming/dean_and_britta/">Upcoming "13 Most Beautiful" and "... plays Galaxie 500" shows</span>
+<p /> Dean & Britta performing Galaxie 500&#039;s Strange<br />
 - news
 </p></div>

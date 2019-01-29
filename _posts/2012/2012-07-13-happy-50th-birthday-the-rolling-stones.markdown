@@ -18,9 +18,9 @@ categories:
 tags: []
 ---
 <p>I know... it was yesterday but I got caught up in other stuff so, here, a day late...</p>
-<p><figure class="caption aligncenter" width="525" caption="The best line-up of The Rolling Stones"><img alt="" src="http://media.fullofwishes.co.uk/00-misc/pictures/Stones69.jpg" title="The best line-up of The Rolling Stones" width="525" height="380" /><figcaption class="caption-text"></figcaption></figure>
+<p><figure class="caption aligncenter" width="525" caption="The best line-up of The Rolling Stones"><img alt="" src="https://media.fullofwishes.co.uk/00-misc/pictures/Stones69.jpg" title="The best line-up of The Rolling Stones" width="525" height="380" /><figcaption class="caption-text"></figcaption></figure>
 <p>Here's Luna's cover of Waiting on a Friend originally released by The Rolling Stones on what is maybe their last mostly listenable album Tattoo You - well I bought the next one Undercover and it was awful and never bought another so I guess I don't really know for sure, although Dean agrees (see below).)<br />
-<iframe class="aligncenter" width="400" height="100" style="position: relative; display: block; width: 400px; height: 100px;" src="http://bandcamp.com/EmbeddedPlayer/v=2/track=1581795912/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://luna.bandcamp.com/track/waiting-on-a-friend">Waiting on a Friend by Luna</a></iframe><br />
+<iframe class="aligncenter" width="400" height="100" style="position: relative; display: block; width: 400px; height: 100px;" src="https://bandcamp.com/EmbeddedPlayer/v=2/track=1581795912/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://luna.bandcamp.com/track/waiting-on-a-friend">Waiting on a Friend by Luna</a></iframe><br />
 Here's <a href="http://youtu.be/wMYjTWbU76k">the Stones original</a>.</p>
 <p>Here's <span class="removed_link" title="http://www.splendidezine.com/features/luna2/">Dean being interviewed by Splendi</span>d...</p>
 <blockquote><p><strong>Splendid</strong>: The Rolling Stones, for instance.<br />

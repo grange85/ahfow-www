@@ -18,7 +18,7 @@ categories:
 - dean wareham
 tags: []
 ---
-<p><img src="http://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-sonic-cathedral-cd.jpg" width="1000" height="992" class="aligncenter" /><br />
+<p><img src="https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-sonic-cathedral-cd.jpg" width="1000" height="992" class="aligncenter" /><br />
 Dean Wareham's UK label, <a href="http://soniccathedral.bigcartel.com/">Sonic Cathedral, currently has a sale on</a> with some discounted Dean Wareham releases:</p>
 <p><a href="http://soniccathedral.bigcartel.com/product/scr076-dean-wareham-live-at-st-pancras-old-church-mc">Cassette: Dean Wareham - Live At St Pancras Old Church &pound;5</a><br />
 <a href="http://soniccathedral.bigcartel.com/product/scr075-dean-wareham-dean-wareham-cd">CD: Dean Wareham - Dean Wareham &pound;5</a><br />

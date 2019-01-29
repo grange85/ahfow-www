@@ -29,16 +29,12 @@ tags:
 <p>It's dead easy to make and is a beautiful, thick, creamy concoction and one ladleful has me feeling quite light-headed. Hazel's done her best to get through some but there's still a jug of it in the fridge!</p>
 
 
-{% ahfowaudio2
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/02-luna/audio/02-luna-egg-nog.mp3",
-  "audiocap": "Luna - Egg Nog",
-  "sourceurl": "http://db.fullofwishes.co.uk/luna/releases/luna-time-egg-nog/",
-  "sourcecap": "Luna - Egg Nog / Time (Elektra promo 1992)"
-  }
-%}
-
-{% ahfowvideo "lecT5XxPGIo" "Luna - Egg Nog" %}
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/02-luna-egg-nog.mp3">Luna - Egg Nog</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/02-luna-egg-nog.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="https://db.fullofwishes.co.uk/luna/releases/luna-time-egg-nog/">Luna - Egg Nog / Time (Elektra promo 1992)</a></em></p>
+</div>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/lecT5XxPGIo" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Egg Nog</figcaption></figure>
 
 
 

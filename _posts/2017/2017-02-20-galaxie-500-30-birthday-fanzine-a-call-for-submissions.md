@@ -11,7 +11,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2017-02-20
-imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-first-rehearsal.jpg
+imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-first-rehearsal.jpg
 categories:
  - galaxie 500
  - news
@@ -19,9 +19,9 @@ categories:
 tags:
  - fanzine
 ---
-{% ahfowimage "http://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-first-rehearsal.jpg" "We had our first rehearsal on May 27, 1987." %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-first-rehearsal.jpg" alt="We had our first rehearsal on May 27, 1987." /><figcaption class="caption-text">We had our first rehearsal on May 27, 1987.</figcaption></figure>
 <blockquote>
-Galaxie 500 was born the day that Naomi volunteered to play bass guitar.<br>  
+Galaxie 500 was born the day that Naomi volunteered to play bass guitar.<br>
 [&hellip;]<br>
 We had our first rehearsal on May 27, 1987.
 <footer>Dean Wareham - Black Postcards pages 33-34</footer>
@@ -36,5 +36,5 @@ We had our first rehearsal on May 27, 1987.
 </ul>
 <p>It's probably fairly clear that this idea can currently be filed in the "half-baked" category but I'd like to think there's enough of us, and enough love, to pull this off.</p>
 <p>I have to admit, at this point, that the idea wasn't original and is ripping off this <a href="http://foxtrotecholimatango.blogspot.co.uk/">lovely Felt fanzine</a> from a few years ago - that took a year and was very classy - we have less than three months so our ambition should probably be scaled appropriately.</p>
-<p>Please <a href="http://www.fullofwishes.co.uk/about/">get in touch</a> if you can offer any of the above, or anything else to help make this happen.</p>
+<p>Please <a href="https://www.fullofwishes.co.uk/about/">get in touch</a> if you can offer any of the above, or anything else to help make this happen.</p>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/32981110116/in/dateposted/" title="2017-02-20-23-25-11-978"><img src="https://c1.staticflickr.com/1/444/32981110116_a404d7d279_c.jpg" width="800" height="450" alt="2017-02-20-23-25-11-978"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

@@ -10,7 +10,7 @@ categories:
   - dean & britta
   - news
 ---
-{% ahfowimage "http://media.fullofwishes.co.uk/07-dean_and_britta/pictures/mistress-america-promo-1024.jpg" "Dean Wareham in a promo still from Mistress America" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/mistress-america-promo-1024.jpg" alt="Dean Wareham in a promo still from Mistress America" /><figcaption class="caption-text">Dean Wareham in a promo still from Mistress America</figcaption></figure>
 
 A quick round up of some Mistress America bits and pieces out there on the web:
 
@@ -20,7 +20,7 @@ The New York Times reviews gives the film a glowing review and picks out Dean & 
 
 Dean & Britta had a lovely long radio interview with Ioan Dyer about scoring for films and how they got involved with working on Noah Baumbach's on Mistress America.
 
-You can hear the full interview (without the music) over on Soundcloud:  
+You can hear the full interview (without the music) over on Soundcloud:
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/220609743&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true"></iframe>
 

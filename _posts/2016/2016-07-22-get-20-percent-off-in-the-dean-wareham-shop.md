@@ -12,7 +12,7 @@ author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 date: '2016-07-22 23:00:00 +0100'
-imageurl: http://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-shop-sale-summer-2016.jpg
+imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-shop-sale-summer-2016.jpg
 description: >
   Until 3rd August everything in Dean Wareham's online shop can be had for 20% off.
 categories:
@@ -31,4 +31,4 @@ tags:
 <p><a class="btn btn-default" href="http://deanwareham.bigcartel.com/">20% off in the Dean Warheam shop (code: SUMMERSALE)</a></p>
 
 <p>Head down there and fill your boots - the secret word again is... <strong>SUMMERSALE</strong> - remember to click the add button to get the discount.
-{% ahfowimage "http://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-shop-sale-summer-2016.jpg" "Dean Warheam sale" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-shop-sale-summer-2016.jpg" alt="Dean Warheam sale" /><figcaption class="caption-text">Dean Warheam sale</figcaption></figure>

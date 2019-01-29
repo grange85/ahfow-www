@@ -18,5 +18,5 @@ categories:
 - galaxie 500
 tags: []
 ---
-<p>Pitchfork had a news story about the forthcoming Galaxie 500 DVD complete with a track listing. This was duly leeched and added to this website. So preliminary details of the release can be found here...http://db.fullofwishes.co.uk/discography/album/191/<br />
+<p>Pitchfork had a news story about the forthcoming Galaxie 500 DVD complete with a track listing. This was duly leeched and added to this website. So preliminary details of the release can be found here...https://db.fullofwishes.co.uk/discography/album/191/<br />
 source: http://www.pitchforkmedia.com/news/04-03/22.shtml</p>

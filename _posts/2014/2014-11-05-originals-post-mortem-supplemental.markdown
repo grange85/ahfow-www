@@ -17,7 +17,7 @@ categories:
 - news
 tags: []
 ---
-<p><img src="http://media.fullofwishes.co.uk/00-misc/pictures/muybridge-dancing.jpg" width="717" height="307" class="aligncenter" /></p>
+<p><img src="https://media.fullofwishes.co.uk/00-misc/pictures/muybridge-dancing.jpg" width="717" height="307" class="aligncenter" /></p>
 <p>I started the originals series on 31 January 2013 so it took me one year and eight months to get through them all... here's a few stats<br />
 <a href="/list-originals/#galaxie_500">Covered by Galaxie 500</a> : 12<br />
 <a href="/list-originals/#luna">Covered by Luna</a> : 21<br />
@@ -32,10 +32,10 @@ Lee Hazelwood : 3</p>
 <p><a href="/category/originals/" title="List: Originals">See all posts in the Originals series over here</a>.</p>
 <p>I generally stuck to tracks that had received an official release, although a few stray ineligible ones slipped through. Here are a couple that didn't but could have:</p>
 
-{% ahfowaudio "http://media.fullofwishes.co.uk/02-luna/audio/luna-19951026-walk-on-the-wild-side.mp3" "Luna - Walk on The Wild Side" %}
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/luna-19951026-walk-on-the-wild-side.mp3">Luna - Walk on The Wild Side</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/luna-19951026-walk-on-the-wild-side.mp3"></audio></div>
 
 
-{% ahfowaudio "http://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-20110511-shine-a-light.mp3" "Damon & Naomi - Shine a Light" %}
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-20110511-shine-a-light.mp3">Damon & Naomi - Shine a Light</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-20110511-shine-a-light.mp3"></audio></div>
 
 <h3>Footnotes</h3>
 <p id="footnote-1">1: Including Magic Hour</p>

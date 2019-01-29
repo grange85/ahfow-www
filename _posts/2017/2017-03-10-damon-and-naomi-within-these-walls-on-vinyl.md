@@ -11,7 +11,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2017-03-10 21:00 +0000
-imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-and-naomi-within-these-walls-promo.jpg
+imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-and-naomi-within-these-walls-promo.jpg
 categories:
  - damon & naomi
  - news
@@ -19,7 +19,7 @@ tags:
  - within these walls
  - vinyl
 ---
-<div class="col-md-6 pull-right">{% ahfowimage "http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_withinthesewalls.jpg" "Within These Walls" %}</div>
+<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_withinthesewalls.jpg" alt="Within These Walls" /><figcaption class="caption-text">Within These Walls</figcaption></figure></div>
 <p class="lead">Damon & Naomi's beautiful 2007 album <a href="https://www.20-20-20.com/store/damon-naomi-wi">Within These Walls is getting a belated vinyl release</a> this month.</p>
 
 <blockquote>
@@ -38,6 +38,6 @@ tags:
 <footer>Within These Walls press release (September 2007)</footer>
 </blockquote>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-and-naomi-within-these-walls-promo.jpg" "Damon & Naomi, and Frank" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-and-naomi-within-these-walls-promo.jpg" alt="Damon & Naomi, and Frank" /><figcaption class="caption-text">Damon & Naomi, and Frank</figcaption></figure>
 
-{% ahfowvideo "3qc_2DeWjwM" "Damon & Naomi - Within These Walls" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/3qc_2DeWjwM" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Damon & Naomi - Within These Walls</figcaption></figure>

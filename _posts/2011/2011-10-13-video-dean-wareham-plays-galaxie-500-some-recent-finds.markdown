@@ -21,17 +21,17 @@ tags: []
 <p>Here are a few videos that have recently turned up on YouTube of Dean Wareham plays Galaxie 500 shows...</p>
 <p><strong>XOYO London 24 April 2011</strong><br />
 <em>When Will You Come Home</em><br />
-<iframe width="560" height="315" src="http://www.youtube.com/embed/nWEF8fsSXAM" frameborder="0" allowfullscreen></iframe><br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWEF8fsSXAM" frameborder="0" allowfullscreen></iframe><br />
 <em>Ceremony</em><br />
-<iframe width="560" height="315" src="http://www.youtube.com/embed/P0_GL18Vh78" frameborder="0" allowfullscreen></iframe></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P0_GL18Vh78" frameborder="0" allowfullscreen></iframe></p>
 <p>A couple more:<br />
 <a href="http://www.youtube.com/watch?v=oa_PFZAfhpo&feature=related">Listen, the Snow Is Falling</a><br />
 <a href="http://www.youtube.com/watch?v=ohXeBkKfnOQ&feature=related">Plastic Birds</a><br />
 Review: <a href="/2011/04/27/review-dean-britta-xoyo-london/">Dean & Britta at XOYO, London</a><br />
-<span class="removed_link" title="http://db.fullofwishes.co.uk/wiki/Shows/Dean_%26_Britta/2011-04-24">Dean & Brtta at XOYO on AHFoW wiki</span> </p>
+<span class="removed_link" title="https://db.fullofwishes.co.uk/wiki/Shows/Dean_%26_Britta/2011-04-24">Dean & Brtta at XOYO on AHFoW wiki</span> </p>
 <p><strong>The Liquid Room, Tokyo 6 October 2011</strong><br />
 <em>Plastic Bird</em><br />
-<iframe width="560" height="315" src="http://www.youtube.com/embed/_pzU0JNYJt8" frameborder="0" allowfullscreen></iframe><br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_pzU0JNYJt8" frameborder="0" allowfullscreen></iframe><br />
 <em>Cheese and Onions</em><br />
-<iframe width="560" height="315" src="http://www.youtube.com/embed/wM5MWqOtHss" frameborder="0" allowfullscreen></iframe></p>
-<p><span class="removed_link" title="http://db.fullofwishes.co.uk/wiki/Shows/Dean_%26_Britta/2011-10-06">Dean & Brtta at The Liquid Room on AHFoW wiki</span> </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wM5MWqOtHss" frameborder="0" allowfullscreen></iframe></p>
+<p><span class="removed_link" title="https://db.fullofwishes.co.uk/wiki/Shows/Dean_%26_Britta/2011-10-06">Dean & Brtta at The Liquid Room on AHFoW wiki</span> </p>

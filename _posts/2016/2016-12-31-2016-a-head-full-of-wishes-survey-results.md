@@ -11,28 +11,28 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2016-12-31 23:00 +0000
-imageurl: http://media.fullofwishes.co.uk/00-misc/survey-2016/favourite-album-survey-2016.jpg
+imageurl: https://media.fullofwishes.co.uk/00-misc/survey-2016/favourite-album-survey-2016.jpg
 categories:
  - news
 tags:
  - survey
 longpost: true
 ---
-{% ahfowimage "http://media.fullofwishes.co.uk/00-misc/survey-2016/favourite-album-survey-2016.jpg" "What is your favourite album?" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/survey-2016/favourite-album-survey-2016.jpg" alt="What is your favourite album?" /><figcaption class="caption-text">What is your favourite album?</figcaption></figure>
 <p class="lead">Thanks to everyone who filled in this year's survey and sorry for only just getting around to popping up the results. Winners of the draw have been notified and should be receiving goodies soon.</p>
 <p>80 responses were received from nineteen countries.</p>
-{% ahfowimage "http://media.fullofwishes.co.uk/00-misc/survey-2016/countries-survey-2016.png" "Survey responses - countries" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/survey-2016/countries-survey-2016.png" alt="Survey responses - countries" /><figcaption class="caption-text">Survey responses - countries</figcaption></figure>
 <h2>Galaxie 500</h2>
 <p>On Fire once again topped the favourite Galaxie 500 album while This Is Our Music pinches second place from Today. Favourite track was Tugboat, with Fourth of July and Blue Thunder close behind.</p>
-{% ahfowimage "http://media.fullofwishes.co.uk/00-misc/survey-2016/galaxie-500-survey-2016.png" "Survey responses - Galaxie 500 album" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/survey-2016/galaxie-500-survey-2016.png" alt="Survey responses - Galaxie 500 album" /><figcaption class="caption-text">Survey responses - Galaxie 500 album</figcaption></figure>
 <!--more-->
 <table class="table table-striped">
 <tr><th>Favourite Galaxie 500 album</th>	<th>Votes</th>	<th>%</th></tr>
-<tr><td><a href="http://db.fullofwishes.co.uk/galaxie-500/releases/galaxie-500-today/">Today</a></td>	<td>18</td>	<td>23</td></tr>
-<tr class="success"><td><a href="http://db.fullofwishes.co.uk/galaxie-500/releases/galaxie-500-on-fire/">On Fire</a></td>	<td>35</td>	<td>44</td></tr>
-<tr><td><a href="http://db.fullofwishes.co.uk/galaxie-500/releases/galaxie-500-this-is-our-music/">This is Our Music</a></td>	<td>20</td>	<td>25</td></tr>
-<tr><td><a href="http://db.fullofwishes.co.uk/galaxie-500/releases/galaxie-500-copenhagen/">Copenhagen</a></td>	<td>4</td>	<td>5</td></tr>
-<tr><td><a href="http://db.fullofwishes.co.uk/galaxie-500/releases/galaxie-500-peel-sessions/">Peel Sessions</a></td>	<td>2</td>	<td>3</td></tr>
+<tr><td><a href="https://db.fullofwishes.co.uk/galaxie-500/releases/galaxie-500-today/">Today</a></td>	<td>18</td>	<td>23</td></tr>
+<tr class="success"><td><a href="https://db.fullofwishes.co.uk/galaxie-500/releases/galaxie-500-on-fire/">On Fire</a></td>	<td>35</td>	<td>44</td></tr>
+<tr><td><a href="https://db.fullofwishes.co.uk/galaxie-500/releases/galaxie-500-this-is-our-music/">This is Our Music</a></td>	<td>20</td>	<td>25</td></tr>
+<tr><td><a href="https://db.fullofwishes.co.uk/galaxie-500/releases/galaxie-500-copenhagen/">Copenhagen</a></td>	<td>4</td>	<td>5</td></tr>
+<tr><td><a href="https://db.fullofwishes.co.uk/galaxie-500/releases/galaxie-500-peel-sessions/">Peel Sessions</a></td>	<td>2</td>	<td>3</td></tr>
 <table>
 <table class="table table-striped">
 <tr><th>Favourite Galaxie 500 track</th>	<th>Votes</th>	<th>%</th></tr>
@@ -45,18 +45,18 @@ longpost: true
 
 <h2>Luna</h2>
 <p>No surprises in the Luna results as Penthouse and 23 Minutes in Brussels top the album and track charts respectively. Bewitched comes second in the album chart with the rest of the field a long way back.</p>
-{% ahfowimage "http://media.fullofwishes.co.uk/00-misc/survey-2016/luna-survey-2016.png" "Survey responses - Luna album" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/survey-2016/luna-survey-2016.png" alt="Survey responses - Luna album" /><figcaption class="caption-text">Survey responses - Luna album</figcaption></figure>
 
 <table class="table table-striped">
 <tr><th>Favourite Luna album</th>	<th>Votes</th>	<th>%</th></tr>
-<tr><td><a href="http://db.fullofwishes.co.uk/luna/releases/luna-lunapark/">Lunapark</a></td>	<td>7</td>	<td>8.6</td></tr>
-<tr><td><a href="http://db.fullofwishes.co.uk/luna/releases/luna-bewitched/">Bewitched</a></td>	<td>20</td>	<td>24.7</td></tr>
-<tr class="success"><td><a href="http://db.fullofwishes.co.uk/luna/releases/luna-penthouse/">Penthouse</a></td>	<td>35</td>	<td>43.2</td></tr>
-<tr><td><a href="http://db.fullofwishes.co.uk/luna/releases/luna-pup-tent/">Pup Tent</a></td>	<td>2</td>	<td>2.5</td></tr>
-<tr><td><a href="http://db.fullofwishes.co.uk/luna/releases/luna-the-days-of-our-nights/">The Days of Our Nights</a></td>	<td>1</td>	<td>1.2</td></tr>
-<tr><td><a href="http://db.fullofwishes.co.uk/luna/releases/luna-live/">Live</a></td>	<td>3</td>	<td>3.7</td></tr>
-<tr><td><a href="http://db.fullofwishes.co.uk/luna/releases/luna-romantica/">Romantica</a></td>	<td>4</td>	<td>4.9</td></tr>
-<tr><td><a href="http://db.fullofwishes.co.uk/luna/releases/luna-rendezvous/">Rendezvous</a></td>	<td>9</td>	<td>11.1</td></tr>
+<tr><td><a href="https://db.fullofwishes.co.uk/luna/releases/luna-lunapark/">Lunapark</a></td>	<td>7</td>	<td>8.6</td></tr>
+<tr><td><a href="https://db.fullofwishes.co.uk/luna/releases/luna-bewitched/">Bewitched</a></td>	<td>20</td>	<td>24.7</td></tr>
+<tr class="success"><td><a href="https://db.fullofwishes.co.uk/luna/releases/luna-penthouse/">Penthouse</a></td>	<td>35</td>	<td>43.2</td></tr>
+<tr><td><a href="https://db.fullofwishes.co.uk/luna/releases/luna-pup-tent/">Pup Tent</a></td>	<td>2</td>	<td>2.5</td></tr>
+<tr><td><a href="https://db.fullofwishes.co.uk/luna/releases/luna-the-days-of-our-nights/">The Days of Our Nights</a></td>	<td>1</td>	<td>1.2</td></tr>
+<tr><td><a href="https://db.fullofwishes.co.uk/luna/releases/luna-live/">Live</a></td>	<td>3</td>	<td>3.7</td></tr>
+<tr><td><a href="https://db.fullofwishes.co.uk/luna/releases/luna-romantica/">Romantica</a></td>	<td>4</td>	<td>4.9</td></tr>
+<tr><td><a href="https://db.fullofwishes.co.uk/luna/releases/luna-rendezvous/">Rendezvous</a></td>	<td>9</td>	<td>11.1</td></tr>
 </table>
 
 <table class="table table-striped">
@@ -70,19 +70,19 @@ longpost: true
 
 <h2>Damon & Naomi</h2>
 <p>Once again Damon & Naomi's debut More Sad Hits topped the album vote and This Car Climbed Mt. Washington from that album topped the tracks chart. Once again there were less votes for Damon & Naomi - you can get <a href="https://damonandnaomi.bandcamp.com/">all of their albums on bandcamp for whatever you want to pay</a> (or not pay) so you have no excuse not to have an opinion next year. Slightly heartbroken that Playback Singers never got a vote, I'm listening now and it is so beautiful! I wish I'd voted for it now!</p>
-{% ahfowimage "http://media.fullofwishes.co.uk/00-misc/survey-2016/damon-and-naomi-survey-2016.png" "Survey responses - Damon & Naomi album" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/survey-2016/damon-and-naomi-survey-2016.png" alt="Survey responses - Damon & Naomi album" /><figcaption class="caption-text">Survey responses - Damon & Naomi album</figcaption></figure>
 
 <table class="table table-striped">
 <tr><th>Favourite Damon & Naomi album</th>	<th>Votes</th>	<th>%</th></tr>
-<tr class="success"><td><a href="http://db.fullofwishes.co.uk/damon-and-naomi/releases/damon-and-naomi-more-sad-hits/">More Sad Hits</a></td>	<td>22</td>	<td>50</td></tr>
-<tr><td><a href="http://db.fullofwishes.co.uk/damon-and-naomi/releases/damon-and-naomi-wondrous-world/">The Wondrous World of Damon & Naomi</a></td>	<td>8</td>	<td>18.2</td></tr>
-<tr><td><a href="http://db.fullofwishes.co.uk/damon-and-naomi/releases/damon-and-naomi-playback-singers/">Playback Singers</a></td>	<td>0</td>	<td>0</td></tr>
-<tr><td><a href="http://db.fullofwishes.co.uk/damon-and-naomi/releases/damon-and-naomi-song-to-the-siren/">Song to the Siren</a></td>	<td>3</td>	<td>6.8</td></tr>
-<tr><td><a href="http://db.fullofwishes.co.uk/damon-and-naomi/releases/damon-and-naomi-with-ghost/">With Ghost</a></td>	<td>7</td>	<td>15.9</td></tr>
-<tr><td><a href="http://db.fullofwishes.co.uk/damon-and-naomi/releases/damon-and-naomi-the-earth-is-blue/">The Earth is Blue</a></td>	<td>4</td>	<td>9.1</td></tr>
-<tr><td><a href="http://db.fullofwishes.co.uk/damon-and-naomi/releases/damon-and-naomi-within-these-walls/">Within These Walls</a></td>	<td>1</td>	<td>2.3</td></tr>
-<tr><td><a href="http://db.fullofwishes.co.uk/damon-and-naomi/releases/damon-and-naomi-false-beats-and-true-hearts/">False Beats and True Hearts</a></td>	<td>0</td>	<td>0</td></tr>
-<tr><td><a href="http://db.fullofwishes.co.uk/damon-and-naomi/releases/damon-and-naomi-fortune/">Fortune</a></td>	<td>0</td>	<td>0</td></tr>
+<tr class="success"><td><a href="https://db.fullofwishes.co.uk/damon-and-naomi/releases/damon-and-naomi-more-sad-hits/">More Sad Hits</a></td>	<td>22</td>	<td>50</td></tr>
+<tr><td><a href="https://db.fullofwishes.co.uk/damon-and-naomi/releases/damon-and-naomi-wondrous-world/">The Wondrous World of Damon & Naomi</a></td>	<td>8</td>	<td>18.2</td></tr>
+<tr><td><a href="https://db.fullofwishes.co.uk/damon-and-naomi/releases/damon-and-naomi-playback-singers/">Playback Singers</a></td>	<td>0</td>	<td>0</td></tr>
+<tr><td><a href="https://db.fullofwishes.co.uk/damon-and-naomi/releases/damon-and-naomi-song-to-the-siren/">Song to the Siren</a></td>	<td>3</td>	<td>6.8</td></tr>
+<tr><td><a href="https://db.fullofwishes.co.uk/damon-and-naomi/releases/damon-and-naomi-with-ghost/">With Ghost</a></td>	<td>7</td>	<td>15.9</td></tr>
+<tr><td><a href="https://db.fullofwishes.co.uk/damon-and-naomi/releases/damon-and-naomi-the-earth-is-blue/">The Earth is Blue</a></td>	<td>4</td>	<td>9.1</td></tr>
+<tr><td><a href="https://db.fullofwishes.co.uk/damon-and-naomi/releases/damon-and-naomi-within-these-walls/">Within These Walls</a></td>	<td>1</td>	<td>2.3</td></tr>
+<tr><td><a href="https://db.fullofwishes.co.uk/damon-and-naomi/releases/damon-and-naomi-false-beats-and-true-hearts/">False Beats and True Hearts</a></td>	<td>0</td>	<td>0</td></tr>
+<tr><td><a href="https://db.fullofwishes.co.uk/damon-and-naomi/releases/damon-and-naomi-fortune/">Fortune</a></td>	<td>0</td>	<td>0</td></tr>
 </table>
 
 <table class="table table-striped">
@@ -99,14 +99,14 @@ longpost: true
 
 <h2>Dean & Britta</h2>
 <p>Dean & Britta's debut L'Avventura also tops their album chart but with 13 Most Beautiful now giving it a run. Night Nurse still tops the track chart.</p>
-{% ahfowimage "http://media.fullofwishes.co.uk/00-misc/survey-2016/dean-and-britta-survey-2016.png" "Survey responses - Dean & Britta album" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/survey-2016/dean-and-britta-survey-2016.png" alt="Survey responses - Dean & Britta album" /><figcaption class="caption-text">Survey responses - Dean & Britta album</figcaption></figure>
 
 <table class="table table-striped">
 <tr><th>Favourite Dean & Britta album</th>	<th>Votes</th>	<th>%</th></tr>
-<tr class="success"><td><a href="http://db.fullofwishes.co.uk/dean-and-britta/releases/dean-and-britta-lavventura/">L'Avventura</a></td>	<td>34</td>	<td>49.3</td></tr>
-<tr><td><a href="http://db.fullofwishes.co.uk/dean-and-britta/releases/dean-and-britta-back-numbers/">Back Numbers</a></td>	<td>5</td>	<td>7.2</td></tr>
-<tr><td><a href="http://db.fullofwishes.co.uk/dean-and-britta/releases/dean-and-britta-13-most-beautiful/">13 Most Beautiful: Songs for Andy Warhol's Screen Tests</a></td>	<td>28</td>	<td>40.6</td></tr>
-<tr><td><a href="http://db.fullofwishes.co.uk/dean-and-britta/releases/dean-and-britta-mistress-america/">Mistress America</a></td>	<td>2</td>	<td>2.9</td></tr>
+<tr class="success"><td><a href="https://db.fullofwishes.co.uk/dean-and-britta/releases/dean-and-britta-lavventura/">L'Avventura</a></td>	<td>34</td>	<td>49.3</td></tr>
+<tr><td><a href="https://db.fullofwishes.co.uk/dean-and-britta/releases/dean-and-britta-back-numbers/">Back Numbers</a></td>	<td>5</td>	<td>7.2</td></tr>
+<tr><td><a href="https://db.fullofwishes.co.uk/dean-and-britta/releases/dean-and-britta-13-most-beautiful/">13 Most Beautiful: Songs for Andy Warhol's Screen Tests</a></td>	<td>28</td>	<td>40.6</td></tr>
+<tr><td><a href="https://db.fullofwishes.co.uk/dean-and-britta/releases/dean-and-britta-mistress-america/">Mistress America</a></td>	<td>2</td>	<td>2.9</td></tr>
 </table>
 
 <table class="table table-striped">
@@ -122,8 +122,8 @@ longpost: true
 <table class="table table-striped">
 <tr><th>Favourite Dean Wareham album</th>	<th>Votes</th>	<th>%</th></tr>
 <tr><td>Six Feet of Chain (Cagney and Lacee)</td>	<td>3</td>	<td>4.5</td></tr>
-<tr><td><a href="http://db.fullofwishes.co.uk/dean-wareham/releases/dean-wareham-emancipated-hearts/">Emancipated Hearts</a></td>	<td>19</td>	<td>28.8</td></tr>
-<tr class="success"><td><a href="http://db.fullofwishes.co.uk/dean-wareham/releases/dean-wareham-dean-wareham/">Dean Wareham</a></td>	<td>44</td>	<td>66.7</td></tr>
+<tr><td><a href="https://db.fullofwishes.co.uk/dean-wareham/releases/dean-wareham-emancipated-hearts/">Emancipated Hearts</a></td>	<td>19</td>	<td>28.8</td></tr>
+<tr class="success"><td><a href="https://db.fullofwishes.co.uk/dean-wareham/releases/dean-wareham-dean-wareham/">Dean Wareham</a></td>	<td>44</td>	<td>66.7</td></tr>
 </table>
 
 <table class="table table-striped">

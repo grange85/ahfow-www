@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Video of Britta Phillips session at The Geary Studio, Houston 
+title: Video of Britta Phillips session at The Geary Studio, Houston
 author:
   display_name: Andy
   login: admin
@@ -12,7 +12,7 @@ author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 date: '2016-06-21 23:00:00 +0100'
-imageurl: http://media.fullofwishes.co.uk/07-dean_and_britta/pictures/2016-05-britta-phillips-houston-public-media-01.jpg
+imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/2016-05-britta-phillips-houston-public-media-01.jpg
 categories:
 - news
 - dean & britta
@@ -21,12 +21,12 @@ tags:
 - photo
 - video
 ---
-{% ahfowimage "http://media.fullofwishes.co.uk/07-dean_and_britta/pictures/2016-05-britta-phillips-houston-public-media-01.jpg" "Britta Phillips and band (Photo: <a href='http://www.houstonpublicmedia.org/articles/arts-culture/2016/06/20/157560/video-britta-phillips-performs-in-the-geary-studio/'>Houston Public Meida</a>)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/2016-05-britta-phillips-houston-public-media-01.jpg" alt="Britta Phillips and band (Photo: <a href='http://www.houstonpublicmedia.org/articles/arts-culture/2016/06/20/157560/video-britta-phillips-performs-in-the-geary-studio/'>Houston Public Meida</a>)" /><figcaption class="caption-text">Britta Phillips and band (Photo: <a href='http://www.houstonpublicmedia.org/articles/arts-culture/2016/06/20/157560/video-britta-phillips-performs-in-the-geary-studio/'>Houston Public Meida</a>)</figcaption></figure>
 
 <p class="lead">Nice video of a session Britta Phillips played at The Geary Studio in Houston last month</p>
 
-{% ahfowvideo "ddNS5zSGvDU" "Britta Phillips - Drive" %}
-{% ahfowvideo "SYNZzYc_-pQ" "Britta Phillips - Daydream" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/ddNS5zSGvDU" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Britta Phillips - Drive</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/SYNZzYc_-pQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Britta Phillips - Daydream</figcaption></figure>
 
 Head over to the <a href="http://www.houstonpublicmedia.org/articles/arts-culture/2016/06/20/157560/video-britta-phillips-performs-in-the-geary-studio/">Houston Public Media site to see some lovely pictures of the session</a>.
 

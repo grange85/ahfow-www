@@ -12,7 +12,7 @@ author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 date: '2017-06-11 09:45:16 +0100'
-imageurl: http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-008.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-008.jpg
 categories:
 - news
 - dean & britta
@@ -31,15 +31,11 @@ longpost: false
 
 <p>&hellip; and here's a gorgeous radio session version of White Horses from ten years ago!</p>
 
-{% ahfowaudio2
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/07-dean_and_britta/audio/2007-03-08-dean-and-britta-white-horses-wxpn.mp3",
-  "audiocap": "Dean & Britta - White Horses (2007, WXPN)",
-  "sourceurl": "http://www.npr.org/templates/story/story.php?storyId=9350410",
-  "sourcecap": "World Cafe - WXPN, April 2007"
-  }
-%}
-
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2007-03-08-dean-and-britta-white-horses-wxpn.mp3">Dean & Britta - White Horses (2007, WXPN)</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2007-03-08-dean-and-britta-white-horses-wxpn.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="http://www.npr.org/templates/story/story.php?storyId=9350410">World Cafe - WXPN, April 2007</a></em></p>
+</div>
 <p>Don't forget to give a listen to (or buy!) her wonderful solo album she released last year - <a href="http://amzn.to/22Zm2Ci">go buy it</a> (<a href="https://open.spotify.com/album/43brGW2fA599FbPHk5Zxdj">or stream it</a>) if you haven't already!</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-008.jpg" "Britta" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-008.jpg" alt="Britta" /><figcaption class="caption-text">Britta</figcaption></figure>

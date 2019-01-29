@@ -23,6 +23,6 @@ tags: []
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nnJ3MXXYIVM" frameborder="0" allowfullscreen></iframe>
 <p>The Galaxie 500 cover turned up on a few of Galaxie 500's first demo tapes, <a href="/2011/09/audio-friday-recycling-galaxie-500-the-extended-demo-tape/" title="Audio: Friday recycling: Galaxie 500 the extended demo tape">I've blogged about that before</a>, so here you just get to listen to it!</p>
 
-{% ahfowaudio "http://media.fullofwishes.co.uk/01-galaxie_500/audio/07-galaxie-500-well-all-right.mp3" "Galaxie 500 - Well.... All Right" %}
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/01-galaxie_500/audio/07-galaxie-500-well-all-right.mp3">Galaxie 500 - Well.... All Right</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/01-galaxie_500/audio/07-galaxie-500-well-all-right.mp3"></audio></div>
 
 <p>Obviously if I knew my alphabet this would have appeared last week!</p>

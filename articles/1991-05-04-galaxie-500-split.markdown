@@ -12,14 +12,14 @@ author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 wordpress_id: 360
-wordpress_url: http://www.fullofwishes.co.uk/1991/05/04/galaxie-500-split/
+wordpress_url: https://www.fullofwishes.co.uk/1991/05/04/galaxie-500-split/
 date: '1991-05-04 00:00:00 +0100'
 date_gmt: '1991-05-04 00:00:00 +0100'
 categories:
 - galaxie 500
 tags: []
 ---
-<p><img src="http://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500_split.jpg" width="253" height="535" alt="newspaper cutting" align="right"/>
+<p><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500_split.jpg" width="253" height="535" alt="newspaper cutting" align="right"/>
 <p>GALAXIE 500 have split after guitarist/vocalist Dean Wareham quit unexpectedly. All band commitments, including a June tour of Japan, have been cancelled. The break-up occurred when the band returned from a successful tour of the States with Cocteau Twins.</p>
 <p>Drummer Damon Krukowski told the Maker, "One day we were planning for a tour of Japan, and the next day he just quit. It was a big surprise for me and Naomi".</p>
 <p>According to Krukowski, Wareham left because he felt the band had "become more like a job than a hobby". The split came at a time when Galaxie 500 were, according to Krukowski, doing well and putting more energy into their work. This success had led to Columbia approaching the band about a US distribution deal. But it seems it was this which triggered Wareham's departure.</p>

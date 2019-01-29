@@ -24,5 +24,4 @@ Joanna Gruesome will be on the indoor stage right before Dean which gives the ex
 <p>Watoo Watoo are playing in the church on Sunday afternoon.</p>
 <p>The whole festival will be amazing, but Saturday looks absolutely exhausting!</p>
 <p>Here's Dean the last time he played a UK festival, Truck in 2011.</p>
-{% ahfowvideo "wL5V0WSvGWk" "" %}
-<p><a href="http://www.ipernity.com/doc/moley75/24358011"><img class="aligncenter" title="The shuttle to Indietracks" alt="The shuttle to Indietracks" src="http://u1.ipernity.com/34/80/11/24358011.dd55b68c.640.jpg?r2" height="480" width="640" /></a></p>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/wL5V0WSvGWk" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>

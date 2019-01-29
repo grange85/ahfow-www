@@ -12,7 +12,7 @@ author:
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 date: '2018-01-04 23:45:00 +0000'
-imageurl: http://www.fullofwishes.co.uk/images/that-bass-and-that-fanzine.jpg
+imageurl: https://www.fullofwishes.co.uk/images/that-bass-and-that-fanzine.jpg
 categories:
  - admin
 tags:
@@ -24,31 +24,31 @@ longpost: true
 <h3>January</h3>
 In January Luna played three consecutive nights in San Francisco playing a complete album on each night...
 
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-penthouse-joakim-21.jpg" "Luna playing Penthouse in Chicago (photo: Joakim Bengtsson)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-penthouse-joakim-21.jpg" alt="Luna playing Penthouse in Chicago (photo: Joakim Bengtsson)" /><figcaption class="caption-text">Luna playing Penthouse in Chicago (photo: Joakim Bengtsson)</figcaption></figure>
 
 <p>The first night was for Bewitched and featured a guest appearance from Kelly Kyle on trumpet for the title track</p>
 
-{% ahfowvideo "_JJ05dEYqGs" "Luna (feat. Kelly Kyle) - Bewitched, San Francisco, Jan 2017" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/_JJ05dEYqGs" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna (feat. Kelly Kyle) - Bewitched, San Francisco, Jan 2017</figcaption></figure>
 
-<p><a href="http://www.fullofwishes.co.uk/2017/03/19/luna-three-nights-in-san-francisco-1-bewitched/">Suddenly someone picks you up, you can fly. Luna - three nights in San Francisco (1: Bewitched)</a></p>
+<p><a href="https://www.fullofwishes.co.uk/2017/03/19/luna-three-nights-in-san-francisco-1-bewitched/">Suddenly someone picks you up, you can fly. Luna - three nights in San Francisco (1: Bewitched)</a></p>
 
 <!--more-->
 <p>Night two was a Penthouse show, but here's Anesthesia from the encore:</p>
-{% ahfowvideo "oovVD3sdB2Y" "Luna - Anesthesia, San Francisco, Jan 2017" %}
-<p><a href="http://www.fullofwishes.co.uk/2017/02/19/luna-three-nights-in-san-francisco-2-penthouse/">Sometimes you need that kick. Luna - three nights in San Francisco (2: Penthouse)</a></p>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/oovVD3sdB2Y" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Anesthesia, San Francisco, Jan 2017</figcaption></figure>
+<p><a href="https://www.fullofwishes.co.uk/2017/02/19/luna-three-nights-in-san-francisco-2-penthouse/">Sometimes you need that kick. Luna - three nights in San Francisco (2: Penthouse)</a></p>
 
 <p>&hellip; and Rendezvous for night three:</p>
-{% ahfowvideo "otweTtca1Bo" "Luna - Buffalo Boots, San Francisco, Jan 2017" %}
-<p><a href="http://www.fullofwishes.co.uk/2017/02/03/luna-three-nights-in-san-francisco-3-rendezvous/">It swivels and swirls in your head. Luna - three nights in San Francisco (3: Rendezvous)</a></p>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/otweTtca1Bo" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Buffalo Boots, San Francisco, Jan 2017</figcaption></figure>
+<p><a href="https://www.fullofwishes.co.uk/2017/02/03/luna-three-nights-in-san-francisco-3-rendezvous/">It swivels and swirls in your head. Luna - three nights in San Francisco (3: Rendezvous)</a></p>
 
 <h3>February</h3>
-<p>For the 25th anniversary of Luna's first London show in 1992 <a href="http://www.fullofwishes.co.uk/2017/02/27/download-luna-in-london-25-years-ago/">I posted some memories</a> and <a href="http://www.dimeadozen.org/torrents-details.php?id=585083">BlueKoyote posted the full show to DIME</a>.</p>
+<p>For the 25th anniversary of Luna's first London show in 1992 <a href="https://www.fullofwishes.co.uk/2017/02/27/download-luna-in-london-25-years-ago/">I posted some memories</a> and <a href="http://www.dimeadozen.org/torrents-details.php?id=585083">BlueKoyote posted the full show to DIME</a>.</p>
 
 <p>13 Most Beautiful was released on <a href="https://ww-records.com/store.html#!/products/dean-britta">three sides of vinyl by Wouldn't Waste Records</a></p>
 
 <h3>March</h3>
 <p>Britta headed out on tour supporting Teenage Fanclub here she is (with Dean) playing Drive at the Neptune Theater in Seattle:</p>
-{% ahfowvideo "wbRH3ikQ8rc" "Britta Phillips - Drive, Seattle, Mar 2017" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/wbRH3ikQ8rc" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Britta Phillips - Drive, Seattle, Mar 2017</figcaption></figure>
 
 <p>Damon & Naomi's beautiful <a href="https://www.20-20-20.com/store/damon-naomi-wi">Within These Walls gets a belated release on vinyl</a> (and can be had for a bargain $12 on their website!)</p>
 <blockquote>We looked at our recent vinyl sales, and put it out on CD only. (Cue sad trombone, the one horn we neglected to include.)</blockquote>
@@ -70,7 +70,7 @@ In January Luna played three consecutive nights in San Francisco playing a compl
 
 <h3>July</h3>
 <p>Luna perform a private show at Goldiggers in LA to shoot a video for their cover of the Cure's Fire in Cairo - the video will feature Rose McGowan:</p>
-{% ahfowvideo "RK2YatQ9S1A" "Luna - Fire in Cairo / Portrait of Rose" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/RK2YatQ9S1A" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Fire in Cairo / Portrait of Rose</figcaption></figure>
 
 <p><a href="https://damonandnaomi.bandcamp.com/">Damon & Naomi continued their pay what you want releases</a> by putting their first record, <a href="https://damonandnaomi.bandcamp.com/album/everything-quieter-than-everything-else-live-in-japan">Pierre Etoile</a>, on bandcamp</p>
 
@@ -96,19 +96,17 @@ In January Luna played three consecutive nights in San Francisco playing a compl
 
 <p>Also, Matthew Buzzell's lovely video for Luna's cover of Friends gets released:</p>
 
-{% ahfowvideo "B99f4f8lf4c" "Luna - Friends" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/B99f4f8lf4c" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Friends</figcaption></figure>
 
 <h3>November</h3>
 <p>In November Damon & Naomi headed out on a tour of Japan in support of their new compilation album Everything Quieter Than Everything Else which was released on CD over there (and digitially <a href="https://damonandnaomi.bandcamp.com/album/everything-quieter-than-everything-else-live-in-japan">as pay what you want on bandcamp</a>!)</p>
 
-{% ahfowvideo "BloMP8WGdro" "(Damon &) Naomi and Kurihara - Turn of the Century, Osaka, November 2017" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/BloMP8WGdro" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">(Damon &) Naomi and Kurihara - Turn of the Century, Osaka, November 2017</figcaption></figure>
 
 
 <h3>December</h3>
 <p>And the year ended quietly.</p>
 
 <h3>2018</h3>
-<p>And so to 2018 which starts with <a href="http://db.fullofwishes.co.uk/luna/shows/">Luna playing more gigs</a> around the US and <a href="http://db.fullofwishes.co.uk/damon-and-naomi/shows/">Damon & Naomi touring Europe</a> - and hopefully lots more to enjoy.</p>
-
-
+<p>And so to 2018 which starts with <a href="https://db.fullofwishes.co.uk/luna/shows/">Luna playing more gigs</a> around the US and <a href="https://db.fullofwishes.co.uk/damon-and-naomi/shows/">Damon & Naomi touring Europe</a> - and hopefully lots more to enjoy.</p>
 

@@ -19,7 +19,7 @@ categories:
 - 13 most beautiful
 tags: []
 ---
-<div class="imagebox-a"><a title="Carnegie Hall, Dunfermline, by dandini" href="http://www.flickr.com/photos/dandini/471788442/"><img src="http://farm1.static.flickr.com/170/471788442_ad57dcf733_m.jpg" width="240" height="201"></a><br/>Photo by <a href="http://www.flickr.com/photos/dandini/">brightonsinger</a></div>
+<div class="imagebox-a"><a title="Carnegie Hall, Dunfermline, by dandini" href="http://www.flickr.com/photos/dandini/471788442/"><img src="https://farm1.static.flickr.com/170/471788442_ad57dcf733_m.jpg" width="240" height="201"></a><br/>Photo by <a href="http://www.flickr.com/photos/dandini/">brightonsinger</a></div>
 <p>I've just found out details of the UK premiere of 13 Most Beautiful which will happen in the Carnegie Hall in Fife, Scotland. <a href="http://www.ticketweb.co.uk/user?query=search&region=xxx&category=misc&search=13+most+beautiful&x=0&y=0">Tickets on sale at Ticketweb</a></p>
 <p><ins datetime="2009-03-26T12:27:43+00:00">
 <p><strong>Update</strong>: OK that was a bit hastily thrown up before I shot off to a meeting and it probably would have helped to point out that the show will take place on Wednesday 8 July.</p>

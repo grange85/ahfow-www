@@ -12,13 +12,13 @@ author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 wordpress_id: 3830
-wordpress_url: http://www.fullofwishes.co.uk/?page_id=3830
+wordpress_url: https://www.fullofwishes.co.uk/?page_id=3830
 date: '2013-03-09 23:22:13 +0000'
 date_gmt: '2013-03-09 23:22:13 +0000'
 categories: []
 tags: []
 ---
-<p><em>This article was first published on <a href="http://static.fullofwishes.co.uk/galaxie500box/index.html">Rykodisc's promotional web site for the 1996 Galaxie 500 box set</a>, it was rewritten for the sleeve notes for the Copenhagen live album release in 1997.<br />
+<p><em>This article was first published on <a href="https://static.fullofwishes.co.uk/galaxie500box/index.html">Rykodisc's promotional web site for the 1996 Galaxie 500 box set</a>, it was rewritten for the sleeve notes for the Copenhagen live album release in 1997.<br />
 Byron Coley, Northampton, Massachusetts</em></p>
 <p>In 1996 the American "alternative" music scene is a done deal. It has been codified and packaged and crammed down the maw of the vox pop in every way imaginable. This was not the case ten years ago, when "making the big time" consisted of flying to England for a series of lousy, maybe-we'll-break-even club dates. It was not then possible to imagine the golden rings that would be offered to ostensible "underground" bands if only they would deign to hop on the proper carousels. It seems incredibly naive to imagine now, but at that time groups were forming all over the United States to play for nothing but the sheer kick of entertaining their muses. Undogmatic, highly personalized, often outside the scenes even in their own hometowns, these were the peers of Boston's Galaxie 500 -- a gorgeously melodic and inventive band whose career was finished before enough people had really made note of it.</p>
 <p>Galaxie 500 are awarded their overdue hosannas with the Rykodisc release of Galaxie 500, a deluxe four-CD box set, with all three nearly-impossible-to-find albums with bonus tracks galore, videos, detailed liner notes, and a fourth disc of rarities entitled Uncollected Galaxie 500. The program begins with the skeletal beauty of "Tugboat," Galaxie's first 45 release for the Aurora label, traverses through wildly dreamy album out-takes (all of which have been remastered by New York producer Kramer) and culminates with the box set's fourth disc. Comprised entirely of tracks of outrageous rarity -- the Caff 45, one of the bonus tracks from the European press of their debut album, and previously unreleased demos -- the material on this fourth disc (and even rumors of it) has driven collectors to twitching distraction. Each of the four discs includes an enhanced-CD track, featuring the videos the band produced with director Sergio Huidor. Lovely new art by bassist Naomi Yang, a 48-page booklet with essays by each of the members, unpublished photos and reproductions of Galaxie 500 ephemera round out this lovingly-assembled tome.</p>

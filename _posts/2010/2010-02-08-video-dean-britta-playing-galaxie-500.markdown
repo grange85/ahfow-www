@@ -28,7 +28,7 @@ tags: []
 <p>Blue Thunder:<br />
 <figure class="caption "><figcaption class="caption-text"></figcaption></figure></p>
 <p>Also spotted this rather lovely picture on flickr by Nathan Wind<br />
-<a  href="http://www.flickr.com/photos/sibilino/4335124737/" title="Galaxie 500 by Nathan Wind as Cochese, on Flickr"><img class="aligncenter" src="http://farm5.static.flickr.com/4012/4335124737_bd8550acf8.jpg" width="500" height="306" alt="Galaxie 500" /></a></p>
+<a  href="http://www.flickr.com/photos/sibilino/4335124737/" title="Galaxie 500 by Nathan Wind as Cochese, on Flickr"><img class="aligncenter" src="https://farm5.static.flickr.com/4012/4335124737_bd8550acf8.jpg" width="500" height="306" alt="Galaxie 500" /></a></p>
 <p><ins datetime="2010-02-09T09:41:28+00:00"><strong>UPDATE</strong>:<br />
 Another video (thanks <a href="http://www.doctorfassman.com">Nathan</a>!)<br />
 <figure class="caption "><figcaption class="caption-text"></figcaption></figure>

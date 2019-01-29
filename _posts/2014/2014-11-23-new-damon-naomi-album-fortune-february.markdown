@@ -19,7 +19,7 @@ categories:
 - fortune
 tags: []
 ---
-<p><figure class="caption aligncenter"><img src="http://media.fullofwishes.co.uk.s3.amazonaws.com/03-damon_and_naomi/sleeves/damon-and-naomi-fortune.jpg" width="460" height="462" class /><figcaption class="caption-text"> Fortune by Damon & Naomi</figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-fortune.jpg" width="460" height="462" class /><figcaption class="caption-text"> Fortune by Damon & Naomi</figcaption></figure>
 <p>Damon & Naomi's next studio album will be released on 17 February next year and is the soundtrack to Naomi's short film <a href="/database/release/fortune/">Fortune</a> which premiered in May of this year. The album will feature eleven new tracks and will be available on LP, CD and as a digital download.</p>
 <p>Tracklist:</p>
 <ul>

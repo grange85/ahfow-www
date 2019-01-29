@@ -15,7 +15,7 @@ date: '2016-07-11 19:00:00 +0100'
 imageurl: https://c1.staticflickr.com/6/5619/20012667640_4797e1025f_b.jpg
 categories:
 - news
-tags: 
+tags:
 description: >
   Luna have added a dates in Manchester and Oxford for their visit to the UK in October. They had previously announced shows in London and Bognor Regis.
 ---
@@ -26,18 +26,18 @@ description: >
         <tbody>
         <tr>
         <th class="col-md-4">5 October 2016</th>
-        <td class="col-md-8"><a href="http://db.fullofwishes.co.uk/luna/shows/2016/2016-10-05-luna-academy-3-manchester-uk/">Academy 3, Manchester, UK</a></td>
+        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/luna/shows/2016/2016-10-05-luna-academy-3-manchester-uk/">Academy 3, Manchester, UK</a></td>
         </tr>
         <tr>
         <th class="col-md-4">6 October 2016</th>
-        <td class="col-md-8"><a href="http://db.fullofwishes.co.uk/luna/shows/2016/2016-10-06-luna-02-academy-oxford-uk/">O2 Academy, Oxford, UK</a></td>
+        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/luna/shows/2016/2016-10-06-luna-02-academy-oxford-uk/">O2 Academy, Oxford, UK</a></td>
         </tr>
         <tr>
         <th class="col-md-4">7 October 2016</th>
-        <td class="col-md-8"><a href="http://db.fullofwishes.co.uk/luna/shows/2016/2016-10-07-luna-acacdemy-islington-london-uk/">Academy Islington, London, UK</a></td>
+        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/luna/shows/2016/2016-10-07-luna-acacdemy-islington-london-uk/">Academy Islington, London, UK</a></td>
         </tr>
         <tr>
         <th class="col-md-4">8 October 2016</th>
-        <td class="col-md-8"><a href="http://db.fullofwishes.co.uk/luna/shows/2016/2016-10-08-luna-rockaway-beach-festival-butlins-bognor-regis/">Rockaway Beach Festival, Butlins, Bognor Regis, UK</a></td>
+        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/luna/shows/2016/2016-10-08-luna-rockaway-beach-festival-butlins-bognor-regis/">Rockaway Beach Festival, Butlins, Bognor Regis, UK</a></td>
         </tr>
 </tbody></table>

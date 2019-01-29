@@ -18,7 +18,7 @@ categories:
 - dean wareham
 tags: []
 ---
-<p><ins datetime="2012-11-09T15:32:22+00:00"><iframe class="aligncenter" width="640" height="360" src="http://www.youtube.com/embed/zcL9T2Fh8Os" frameborder="0" allowfullscreen></iframe></ins></p>
+<p><ins datetime="2012-11-09T15:32:22+00:00"><iframe class="aligncenter" width="640" height="360" https://www.youtube.com/embed/zcL9T2Fh8Os" frameborder="0" allowfullscreen></iframe></ins></p>
 <p>It appears that Black Postcards has just been (or is about to be) published en Español by new independent publisher <a href="http://librosderuido.tumblr.com/post/33778118612/postales-negras-de-dean-wareham">Libros de Ruido</a> (which Google translates as Noise Books). <a href="http://web.archive.org/web/20130213090837/http://www.sones.es:80/tienda/es/62-postales-negras-dean-wareham-2012.html">More details for those who can read Spanish can be found on the publishers Tumblr</a>, and copies can be <a href="http://web.archive.org/web/20130213090837/http://www.sones.es:80/tienda/es/62-postales-negras-dean-wareham-2012.html">ordered from here</a>.</p>
 <p>I rather like the cover<br />
-<figure class="caption aligncenter" width="499"><img alt="" src="http://24.media.tumblr.com/tumblr_md4ev83cbZ1qf711mo1_500.jpg" title="Postales Negras book cover" width="499" height="750" /><figcaption class="caption-text">Postales Negras by Dean Wareham</figcaption></figure>
+<figure class="caption aligncenter" width="499"><img alt="" src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/postales-negras-fnac-450.jpg" title="Postales Negras book cover" width="499" height="750" /><figcaption class="caption-text">Postales Negras by Dean Wareham</figcaption></figure>

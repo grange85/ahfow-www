@@ -35,4 +35,4 @@ tags: []
 <p><a href="http://beardedgentlemenmusic.com/2015/02/12/review-damon-naomi-fortune/">Beaarded Gentlemen Music</a>:</p>
 <blockquote><p>With all the songs sounding similar, by-numbers production, underwhelming song lengths, and over all short running time, it sounds as if I’m describing a boring, forgettable album, but Fortune defies those synonyms and gives the listener a beautiful, personal, listening experience. It might be glorified background music for an early morning road trip, but sometimes we need just that to remind us how beautiful the simple things in life can be.</p></blockquote>
 <p>Fortune is available on <a href="http://www.20-20-20.com/store/">CD and LP</a> and <a href="https://damonandnaomi.bandcamp.com/album/fortune">download from bandcamp</a>.</p>
-<p><img src="http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-and-naomi-fortune-uk-2015.jpg" width="560" height="561" class="aligncenter" /></p>
+<p><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-and-naomi-fortune-uk-2015.jpg" width="560" height="561" class="aligncenter" /></p>

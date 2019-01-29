@@ -20,7 +20,7 @@ tags: []
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/7732905648/in/photolist-dDX875-cMkars-cnG6LG" title="Red vinyl Egg Nog"><img src="https://farm8.staticflickr.com/7265/7732905648_d99f527bc6_b.jpg" width="1024" height="768" alt="Red vinyl Egg Nog"></a>
 
-{% ahfowaudio "http://media.fullofwishes.co.uk/02-luna/audio/02-luna-egg-nog.mp3" "Luna - Egg Nog" %}
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/02-luna-egg-nog.mp3">Luna - Egg Nog</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/02-luna-egg-nog.mp3"></audio></div>
 
 <blockquote><p>Our first recording session with Sean was at Mixolydian Studios in Boonton, New Jersey, where we had gone to record a few B-sides. We recorded and mixed four tracks in two days with Don Sternecker, the engineer who had recorded several albums with The Feelies. Sean immediately stepped up to the plate and played beautiful guitar solos on "Indian Summer", "Ride Into the Sun", and "Egg Nog", our Christmas single. In contrast to our album, which took six weeks to record, this EP was a quick affair - and we were much happier with the results.</p>
 <footer>Dean Wareham - Black Postcards</footer>

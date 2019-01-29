@@ -11,7 +11,7 @@ author:
   email: joakim@fullofwishes.co.uk
   url: ''
 date: 2017-05-05 10:00 +0100
-imageurl: http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-dsc01671-3-06.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-dsc01671-3-06.jpg
 categories:
  - luna
  - review
@@ -28,206 +28,206 @@ photos:
     data: |
       [
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/bognor-adam-andy-img_6406-28.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/bognor-adam-andy-img_6406-28.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/bognor-adam-andy-img_6406-28.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/bognor-adam-andy-img_6406-28.jpg',
         title: 'Adam opens the gates (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/bognor-andy-family-img_6437-30.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/bognor-andy-family-img_6437-30.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/bognor-andy-family-img_6437-30.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/bognor-andy-family-img_6437-30.jpg',
         title: 'Visiting Andy\'s family (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/bognor-img_6446-31.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/bognor-img_6446-31.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/bognor-img_6446-31.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/bognor-img_6446-31.jpg',
         title: 'Bognor Regis (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/bognor-lee-dean-dsc03651-1-32.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/bognor-lee-dean-dsc03651-1-32.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/bognor-lee-dean-dsc03651-1-32.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/bognor-lee-dean-dsc03651-1-32.jpg',
         title: 'Lee and Dean in Bognor Regis (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/bognor-sean-standing--dsc03863-1-33.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/bognor-sean-standing--dsc03863-1-33.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/bognor-sean-standing--dsc03863-1-33.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/bognor-sean-standing--dsc03863-1-33.jpg',
         title: 'Sean in Bognor Regis (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/bognor-sheep-img_6421-29.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/bognor-sheep-img_6421-29.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/bognor-sheep-img_6421-29.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/bognor-sheep-img_6421-29.jpg',
         title: 'Waiting for the sheep to move (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/london-britta_4-dsc03370-21.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/london-britta_4-dsc03370-21.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/london-britta_4-dsc03370-21.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/london-britta_4-dsc03370-21.jpg',
         title: 'Britta opening for Luna in London (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/london-britta_5-dsc03420-22.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/london-britta_5-dsc03420-22.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/london-britta_5-dsc03420-22.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/london-britta_5-dsc03420-22.jpg',
         title: 'Britta in London (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/london-dean-dsc03590-1-24.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/london-dean-dsc03590-1-24.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/london-dean-dsc03590-1-24.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/london-dean-dsc03590-1-24.jpg',
         title: 'Dean in London(photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/london-dean-dsc03598-1-25.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/london-dean-dsc03598-1-25.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/london-dean-dsc03598-1-25.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/london-dean-dsc03598-1-25.jpg',
         title: 'Dean in London (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/london-fans-dsc03634-1-27.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/london-fans-dsc03634-1-27.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/london-fans-dsc03634-1-27.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/london-fans-dsc03634-1-27.jpg',
         title: 'Andy, Joe, Shabby, Chris and Emma - Luna fans in London (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/london-kelly-img_6328-20.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/london-kelly-img_6328-20.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/london-kelly-img_6328-20.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/london-kelly-img_6328-20.jpg',
         title: 'Kelly and her enchiladas (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/london-lee-dsc03521-23.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/london-lee-dsc03521-23.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/london-lee-dsc03521-23.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/london-lee-dsc03521-23.jpg',
         title: 'Lee in London (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/london-other-swedes-dsc03628-1-26.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/london-other-swedes-dsc03628-1-26.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/london-other-swedes-dsc03628-1-26.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/london-other-swedes-dsc03628-1-26.jpg',
         title: '&ldquo;the other swedes&rdquo; (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-bengt-ulrika--img_6174-01.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-bengt-ulrika--img_6174-01.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-bengt-ulrika--img_6174-01.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-bengt-ulrika--img_6174-01.jpg',
         title: 'Bengt and Ulrika (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-dean-dsc02113-15.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-dean-dsc02113-15.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-dean-dsc02113-15.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-dean-dsc02113-15.jpg',
         title: 'Dean in Manchester (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-dsc01627-05.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-dsc01627-05.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-dsc01627-05.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-dsc01627-05.jpg',
         title: 'Luna in Manchester (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-dsc01671-3-06.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-dsc01671-3-06.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-dsc01671-3-06.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-dsc01671-3-06.jpg',
         title: 'Luna in Manchester (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-dsc01717-07.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-dsc01717-07.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-dsc01717-07.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-dsc01717-07.jpg',
         title: 'Luna in Manchester (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-dsc01759-08.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-dsc01759-08.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-dsc01759-08.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-dsc01759-08.jpg',
         title: 'Luna in Manchester (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-dsc01765-1-09.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-dsc01765-1-09.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-dsc01765-1-09.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-dsc01765-1-09.jpg',
         title: 'Luna in Manchester (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-dsc01771-1-10.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-dsc01771-1-10.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-dsc01771-1-10.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-dsc01771-1-10.jpg',
         title: 'Luna in Manchester (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-joakim-ulrika--img_6232-02.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-joakim-ulrika--img_6232-02.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-joakim-ulrika--img_6232-02.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-joakim-ulrika--img_6232-02.jpg',
         title: 'Joakim and Ulrika by the fence (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-lee-dsc02101-14.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-lee-dsc02101-14.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-lee-dsc02101-14.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-lee-dsc02101-14.jpg',
         title: 'Lee in Manchester (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-photo-bengt--20161005_230640(0)-34.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-photo-bengt--20161005_230640(0)-34.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-photo-bengt--20161005_230640(0)-34.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-photo-bengt--20161005_230640(0)-34.jpg',
         title: 'Luna in Manchester (photo: Bengt)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-sean-bw-dsc01605-1-03.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-sean-bw-dsc01605-1-03.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-sean-bw-dsc01605-1-03.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-sean-bw-dsc01605-1-03.jpg',
         title: 'Sean in Manchester (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-sean-bw-dsc02045-12.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-sean-bw-dsc02045-12.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-sean-bw-dsc02045-12.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-sean-bw-dsc02045-12.jpg',
         title: 'Sean in Manchester (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-sean-dsc01605-04.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-sean-dsc01605-04.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-sean-dsc01605-04.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-sean-dsc01605-04.jpg',
         title: 'Sean in Manchester (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-sean-dsc01997-3-11.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-sean-dsc01997-3-11.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-sean-dsc01997-3-11.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-sean-dsc01997-3-11.jpg',
         title: 'Sean in Manchester (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-sean-dsc02045-13.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-sean-dsc02045-13.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/manchester-sean-dsc02045-13.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-sean-dsc02045-13.jpg',
         title: 'Sean in Manchester (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/oxford-andy-kelly-ulrika--img_6246-16.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/oxford-andy-kelly-ulrika--img_6246-16.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/oxford-andy-kelly-ulrika--img_6246-16.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/oxford-andy-kelly-ulrika--img_6246-16.jpg',
         title: 'Andy, Kelly and Ulrika in Oxford (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/oxford-photo-bengt--20161006_231431-18.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/oxford-photo-bengt--20161006_231431-18.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/oxford-photo-bengt--20161006_231431-18.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/oxford-photo-bengt--20161006_231431-18.jpg',
         title: 'Luna in Oxford (photo: Bengt)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/oxford-scared-of-heights--img_6319-19.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/oxford-scared-of-heights--img_6319-19.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/oxford-scared-of-heights--img_6319-19.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/oxford-scared-of-heights--img_6319-19.jpg',
         title: 'Ulrika and Joakim - scared of heights (photo: Joakim)'
         },
 
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/oxford-us-img_6258-17.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/oxford-us-img_6258-17.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/thumbs/oxford-us-img_6258-17.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/oxford-us-img_6258-17.jpg',
         title: 'Joakim, Dean, Britta, Bengt and Ulrika in Oxford (photo: Joakim)'
         }
       ]
@@ -239,7 +239,7 @@ related:
   - url: https://www.flickr.com/photos/grange85/sets/72157673619357352
     title: "Photos: Luna in London (grange85)"
 ---
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-dsc01671-3-06.jpg" "Luna (photo: Joakim)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-dsc01671-3-06.jpg" alt="Luna (photo: Joakim)" /><figcaption class="caption-text">Luna (photo: Joakim)</figcaption></figure>
 <p class="lead">We got there driving along the hills, hundreds of sheep walking around on the green grass, on the slopes, a big beautiful rainbow bowed grandly far away. Heavy clouds but the sun shone through in between them. It was magical. I just stared. Rolled down the window and breathed in the fresh air. Had to stop a couple of times to open gates so we could pass. And push away sheep just laying there on the small gravel road. We got to the house. It looks like a small castle, made of stone. It's on the southern English countryside. We had tea and biscuits with Andy's family. His son Adam, his cousin, his father and uncle too. There were daughters and boyfriends too. A nice dog.</p>
 
 <div class="col-md-6 pull-right"><blockquote>&ldquo;This documentary is about ten years old&rdquo;, I say and Andy's father is commenting again. &ldquo;Have they improved?&rdquo;</blockquote></div>
@@ -249,7 +249,7 @@ related:
 <p>A stew was cooking in a huge heavy iron pot, and a big butternut squash was getting ready to be chopped in smaller pieces and roasted in the oven. &ldquo;What band are you following?&rdquo;, they asked us.</p>
 
 <p>Andy put on the <a href="https://youtu.be/81Sv57rbujA">credit part of the Tell Me Do You Miss Me</a> documentary. While the credits are shown, with Andy's name at the top of the thank you list, 23 Minutes in Brussels is played. We are sitting in this kitchen, everyone is watching, some extraordinary live shots of the band is shown with the credits. Chocolate biscuits with almonds and dried fruit. The British love those kind of things. Dean is a playing a solo, the swirling light from the small TV in the kitchen flashes.</p>
-<div class="col-md-6 pull-right">{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/bognor-andy-family-img_6437-30.jpg" "It looks like a small castle (photo: Joakim)" %}</div>
+<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/bognor-andy-family-img_6437-30.jpg" alt="It looks like a small castle (photo: Joakim)" /><figcaption class="caption-text">It looks like a small castle (photo: Joakim)</figcaption></figure></div>
 
 <p>It's quiet for some seconds, a bit unusual in this family I think. "So you saw them yesterday too", Andy's cousin asks. "And the day before that too?" We are forced to have one more cookie. We split it in two and eat, it's very tasty. &ldquo;Actually tonight will be the eighth time this trip&rdquo;, we tell them. The happy dog runs from knee to knee, the tail's wagging back and forth. The fur is silky smooth. &ldquo;This documentary is about ten years old&rdquo;, I say and Andy's father is commenting again. &ldquo;Have they improved?&rdquo;</p>
 
@@ -260,7 +260,7 @@ related:
 
 <p>I went out for a walk and we met and had a delicious pint of ale in a charming pub called The Old Monkey across the street from our hotel. The strong noon sunlight flowed in the room, it almost looked foggy. There was a smell of dust and wood, and a strong perfume aroma from the white pellets in the urinal bowls behind the swing doors. It made me feel good. And happy to be in Europe again. Almost like being home. Ulrika woke up and joined us after a while. We were united and went to The Temple again, just had to, the old underground urinal transformed to a pub. I remember the year before, when I stumbled into Mike and Jon. These music trips really takes us to interesting places.</p>
 
-<div class="col-md-6 pull-right">{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-bengt-ulrika--img_6174-01.jpg" "Bengt and Ulrika (photo: Joakim)" %}</div>
+<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-bengt-ulrika--img_6174-01.jpg" alt="Bengt and Ulrika (photo: Joakim)" /><figcaption class="caption-text">Bengt and Ulrika (photo: Joakim)</figcaption></figure></div>
 
 <p>We walked towards the venue, the Manchester Academy on Oxford Road near the University. We drop Ulrika off by the venue, she wants to stand in line and me and Bengt did something else. We walked around or had another pint. Clear blue sky, a lovely day, happy people on the street, and suddenly Bengt stops and says with a shrug, &ldquo;there he is!&rdquo;. I look up and there's Dean. He stops too. He must have passed Ulrika without them noticing each other. Both stressed. Dean was going to buy some equipment for tonight's show. Ulrika was going to wait for tonight's show.</p>
 
@@ -274,13 +274,13 @@ related:
 
 <p>We meet Allison and Bill, our new Canadian friends, it's loud, I can't hear a thing, but I don't care, I'm in Manchester, just saw the greatest punk band play. Anything can happen now. I'm even OK with waiting one hour for the pizza delivery to the hotel that night. I don't care. I'm OK with anything. As we walked to the train station the morning after, a big van drove up next to us, someone yelled Ulrika's name. It was Dean from the front seat, smiling and waving. They finally met, and they were both going to Oxford.</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/oxford-photo-bengt--20161006_231431-18.jpg" "Luna in Oxford (photo: Bengt)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/oxford-photo-bengt--20161006_231431-18.jpg" alt="Luna in Oxford (photo: Bengt)" /><figcaption class="caption-text">Luna in Oxford (photo: Bengt)</figcaption></figure>
 
 <p>Oxford is the county town of Oxfordshire. It's an old university city, more than thousand years old. The houses and buildings looks old, because they are. The sidewalks are narrow, and it's crowded. We met Andy and Kelly and had some pies. With gravy, and mash. Stepped outside and looked at all the old buildings. And kept walking through the city and finally got to our small hotel room. It was cold. The houses have paper thin walls in this country. They build houses like it's Thailand. It's not.</p>
 
 <p>We dropped off our bags and went to meet the others again. Andy had found this lovely corner place, The Cowley Retreat, just a stone's throw away from the venue. The drinks were cheap and the light in the place was gorgeous and it was the perfect spot to wait for yet another Luna show. Shabby was there too, she had broken her arm, it looked troublesome. Sean showed up because Kelly was there and he took a photo of us, since Kelly asked him. He asked me what I had in my breast pocket of my jacket. It's a recorder, I said. He sighed and shook his head. Someone has to do it.</p>
 
-<div class="col-md-6 pull-right">{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-joakim-ulrika--img_6232-02.jpg" "&hellip;and a fence in front of the stage (photo: Joakim)" %}</div>
+<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-joakim-ulrika--img_6232-02.jpg" alt="&hellip;and a fence in front of the stage (photo: Joakim)" /><figcaption class="caption-text">&hellip;and a fence in front of the stage (photo: Joakim)</figcaption></figure></div>
 
 <p>We continued to the venue and we met Britta and Dean. I like writing their names in that order. We took a photo together. And when we finally get in we notice that the place is small, it's decorated the same way as in Manchester, just black, and a fence in front of the stage. We always arrive first, and we are alone for almost an hour or so. Andy shows up and asks if he can buy me a drink and I feel weird about it because I know he doesn't like alcohol very much and the Bourbon I want is expensive too. Any Bourbon is OK but any Bourbon is expensive. But he insists and gets me a glass. It's Andy after all. I'll buy him an ice cream some day. With topping, chocolate chips or rainbow sprinkles, whatever he decides, he can have it.</p>
 
@@ -328,13 +328,13 @@ related:
 <strong>Dean</strong>: &ldquo;That's what this next song is about.&rdquo;<br/>
 <strong>Sean</strong>: &ldquo;Ready Lee? &hellip;I think Lee is ready.&rdquo;</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/london-lee-dsc03521-23.jpg" "&ldquo;Ready Lee? &hellip;I think Lee is ready.&rdquo;" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/london-lee-dsc03521-23.jpg" alt="&ldquo;Ready Lee? &hellip;I think Lee is ready.&rdquo;" /><figcaption class="caption-text">&ldquo;Ready Lee? &hellip;I think Lee is ready.&rdquo;</figcaption></figure>
 
 <p>And then Sean, with his distinct clear Fender sound, it's that sound of his again, and with it, he starts {% track "Hedgehog" %}. And I start dancing. Didn't need to worry about bumping into someone. Britta was dancing too, in her white comfortable shoes. Luckily some people scream and make a lot of noise after Bonnie and Clyde, making it sound like there's a lot more people in the audience. It's not just the most bizarre Luna show, it's also the shortest. But they come back to play three encores. One of few Luna concerts without either {% track "Malibu Love Nest" %} or {% track "Friendly Advice" %}. Lee gave Ulrika the setlist with the misprint. And Sean posed with his setlist in front of my camera.</p>
 
 <p>We got out and went to The Library, a place next door, it's more like an apartment with books, and a tall desk with drinks instead of a regular pub. A great place. Joe from Ireland, Allison, Bill, Bengt, Ulrika and other fans came too. Then some of us went to James Street Tavern, I guess Kelly wrote me a text asking us to come. &ldquo;You guys should come here&rdquo;, something like that, that's what she usually writes to me and I can never say no. It's on a small cross street. Again one of those pubs that's impossible not to like. It's like stepping into a movie or one of those British TV series, with locals, real characters, all of them. Sean was there too, and his old friends, and we tried the assortment, enjoyed ourselves. And we stepped out and we were happy. Another day of happiness. Kelly didn't want to walk alone so we followed her. In the night. A little foggy that night. Cold. But we were happy.</p>
 
-<div class="col-md-6 pull-right">{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/oxford-us-img_6258-17.jpg" "Joakim, Dean, Britta, Bengt and Ulrika in Oxford (photo: Joakim)" %}
+<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/oxford-us-img_6258-17.jpg" alt="Joakim, Dean, Britta, Bengt and Ulrika in Oxford (photo: Joakim)" /><figcaption class="caption-text">Joakim, Dean, Britta, Bengt and Ulrika in Oxford (photo: Joakim)</figcaption></figure>
 </div>
 
 <p>The room was so cold Ulrika had to wear my old t-shirt outside her own sleepwear. I ended up standing in the room for an hour, don't ask me why, but I just did, I started writing notes. I put two towels on her too. She fell asleep and I just stood there. And I started to write this paragraph that you are reading now. I like to sleep when it's cold. I can't fall asleep when it's too warm, feels like your body is boiling, the brain is expanding, turning in all sorts of directions. I prefer the body and brain to cool off, to slow down, to hand itself over to the man above for a while, let him do whatever is needed, what's needed for a good night's sleep. But this room in Oxford is too cold.</p>
@@ -345,7 +345,7 @@ related:
 
 <p>The opening act is called Drift and is fantastic. One girl band playing electronic dance music with vocals, I don't know how to describe it other than that. A bit like Suicide but with a young British girl instead. Some of the best opening acts Luna have had lately are British. Flowers and Hookworms in 2015 for instance, and now this girl. Impressive. Britta opens her set with One Fine Summer Morning and it sounds lovely. The audience is a little cautious, but all of it sounds great. &ldquo;This is kind of a lost ABBA song, they released this in 1984, and I'm bringing it back&rdquo;, she says and continues, &ldquo;wrap your arms around me&rdquo;. We will. But you are so far away. The song is a solo track from Agneta F&auml;ltskog's album with the same name as the song, Wrap Your Arms Around Me.</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/london-britta_4-dsc03370-21.jpg" "Britta supporting Luna in London (photo: Joakim)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/london-britta_4-dsc03370-21.jpg" alt="Britta supporting Luna in London (photo: Joakim)" /><figcaption class="caption-text">Britta supporting Luna in London (photo: Joakim)</figcaption></figure>
 
 <p>We met Chris in London. He is such a nice guy, and great to be friends with on Facebook because he's a plane spotter, not a train spotter. Trainspotting is a great movie though. There's a sequel to it now, haven't seen it. And we meet other Swedes again, like we did in Manchester two years ago. Per and his girlfriend and friend, all Luna fans, never met them in Stockholm, only over here. And we met Ari from Barcelona, we met her in New York after the Bowery shows, we danced.</p>
 
@@ -353,15 +353,15 @@ related:
 
 <p>After 23 Minutes in Brussels Dean says that the title refers to when Suicide played in Brussels 1978. &ldquo;They were in Brussels opening for Elvis Costello and slowly were getting booed off the stage.&rdquo; It's a remarkable piece of history in music. It was recorded on cassette tape by Howard Thompson. Some of the audience is booing between the songs and shouting &ldquo;Elvis! Elvis!&rdquo; because they want to hear Elvis Costello, not Suicide. &ldquo;This is a love song for you from New York City&rdquo;, Alan Vega says, &ldquo;it's about a lady that lives over there, her name is Cheree.&rdquo; And it's of course very good but the audience at that time didn't really get it. Martin Rev is playing the keyboards. I was lucky to meet Martin Rev in Paris after the Dean & Britta show last year when they played the second Warhol show. It was backstage. I just had to do it. Martin Rev was sitting alone in a black leather sofa. He was wearing black leather himself. And black sunglasses of course. I walked over there, asked if I could sit next to him and have a photo taken. He hardly even looked at me, and I sat down, and our friend Franck from France took a photo of us. The first time I heard Luna was on Suicide tribute album, it was the wonderful {% track "Dream Baby Dream" %}, I wish they would play it live again some day.</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-sean-dsc02045-13.jpg" "Sean Eden (photo: Joakim)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-sean-dsc02045-13.jpg" alt="Sean Eden (photo: Joakim)" /><figcaption class="caption-text">Sean Eden (photo: Joakim)</figcaption></figure>
 
 <p>The Suicide show in Brussels includes the classics. &ldquo;This is about somebody, just like all of you, every one of you&rdquo;, Alan Vega says. And they start playing Frankie Teardrop. But someone steals the microphone. The booing continues when the try to get it back, and they continue to shout &ldquo;Elvis!, Elvis!&rdquo;. When Alan finally gets the microphone back he recites the lyrics. &ldquo;20 year old Frankie, working in a factory, from seven to five, just trying to survive, let's hear it for Frankie. Frankie, Frankie&hellip;&rdquo;. But the audience keeps booing. Alan can't control himself and screams loud with desperation, &ldquo;Shut the fuck up, it's about Frankie!&rdquo;. Absolutely devastating to hear.</p>
 
 <p>That Suicide show has been compared to when Dylan went electric. From electric guitars to electronic music, some people can't handle that. The recorded performance is titled 23 Minutes Over Brussels, because that's how long the Suicide show in Brussels lasted. &ldquo;We can't even get a gig in Brussels, we are going to Antwerp&rdquo;, Dean says, &ldquo;they don't want us&rdquo;. It's a bit funny actually. &ldquo;Move on to side two&rdquo;, Sean says.</p>
 
-<p>They are talking and laughing between the songs. Like a family that's not hating each other. I look at Kelly, Ulrika and Bengt, they are standing next to me, on my left side. I don't see Bengt smiling that often during shows, he is very serious about going to shows, at least while the shows lasts, not so much before and after, but now he's smiling. They are talking about Lee's tweets again. And it's Sean. Bengt can't stop talking about Sean's poses on stage. And Luna are indeed fun to watch, always something going on.</p> 
+<p>They are talking and laughing between the songs. Like a family that's not hating each other. I look at Kelly, Ulrika and Bengt, they are standing next to me, on my left side. I don't see Bengt smiling that often during shows, he is very serious about going to shows, at least while the shows lasts, not so much before and after, but now he's smiling. They are talking about Lee's tweets again. And it's Sean. Bengt can't stop talking about Sean's poses on stage. And Luna are indeed fun to watch, always something going on.</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/london-dean-dsc03598-1-25.jpg" "Dean Wareham of Luna in London (photo: Joakim)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/london-dean-dsc03598-1-25.jpg" alt="Dean Wareham of Luna in London (photo: Joakim)" /><figcaption class="caption-text">Dean Wareham of Luna in London (photo: Joakim)</figcaption></figure>
 
 <p>Dean is freaking out during {% track "Kalamazoo" %}, he's messing with the guitar, he's all over the fretboard, he doesn't miss a note. In fact he plays every note that can be played on a guitar. Why waste a note? And Freakin' and Peakin' is very very very intense tonight, they sound like Velvet Underground, playing Sister Ray or What Goes On 1969. It's brilliant. It's a very different show from Oxford. People are screaming and shouting for songs constantly during the break. &ldquo;Luna I love you&rdquo; someone screams with a broken voice, sounds like a movie title. No one is booing. Just loving. They play five encores, Bobby Peru among others, they end with {% track "Indian Summer" %}.</p>
 
@@ -378,7 +378,7 @@ related:
 <p>We talked about our siblings in the car. Andy's brother beat him up. They don't talk much and they don't share taste in music. His brother went the disco route. I think that even if you don't share taste in music it's still possible to talk about music. My brother kind of beat me up too, and he doesn't get Luna at all. And Dylan is the worst there is, he says. A lot of people think so and I can understand them in some way, but you have to reach beyond the surface and then there is endless things to find. We talked about jazz. Andy once tried to learn to play jazz piano but failed. He had an idea how to play jazz piano in a rock and roll style.</p>
 
 <p>The green trees rushing by outside the car windows, the landscape got more and more beautiful the more south we reached. We passed pretty little villages, with antique shops and relaxed atmosphere. I wanted to stop, and stay. But we kept going, until we reached Andy's father's house and met Andy's nice son Adam. They had got cheese and bread for us. And we got tea. Englishmen drink tea with milk, I find that a bit repulsive, it's like drinking mud, but they don't get me and that's fine. We hadn't had breakfast yet so everything tasted delicious. Then we went to Andy's cousin, living in that castle, with the beautiful scenery, sheep and pheasants walking around on the hills. That was when Andy's father asked if Luna has improved. I would say they have changed quite a lot. It's a much more relaxed band. They feel very comfortable on stage. And I think they really like playing together, and to travel together. And who wouldn't if you come to places like this. To places like Bognor Regis.</p>
-<div class="col-md-6 pull-right">{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/bognor-adam-andy-img_6406-28.jpg" "Adam opens the gates" %}</div>
+<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/bognor-adam-andy-img_6406-28.jpg" alt="Adam opens the gates" /><figcaption class="caption-text">Adam opens the gates</figcaption></figure></div>
 <p>We pulled up on the parking lot and tried to get our free tickets Dean was nice to give us. Otherwise we would have been forced to buy festival tickets for the whole weekend including lodging, we just wanted to see Luna, didn't have time for anything else either. We don't like asking for free tickets, don't want free tickets. The area is called Butlins and is a typical old British entertainment complex for city people wanting to come to the ocean and relax. It looks very outdated today, but very charming. We made it in time to see Wire. They were loud and it was nice to see the two bands talk between their sets.</p>
 
 <p>Since Suede was playing after Luna, we had no chance to get spots in the very front row, because about 50 Suede fans had already lined up along the fence. But they were young and short, we didn't mind, they were cute and friendly, they had never heard of Luna but was looking forward to seeing them, they had read good things. Dean and Sean and the others were up there rigging and when Dean saw us he looked genuinely happy, happy to see two Luna fans among 50 hardcore Suede fans. We were happy to see him too.</p>

@@ -8,6 +8,7 @@ Punctuation
 : Ellipsis - no space before&hellip; but a space after.
 : Try not to over-use exclaimation marks (I know that I'm a serial abuser of this rule)
 : Dashes should be en dashes (but generally arent')
+
 Dates
 : For full date _[ordinal_number] [full month name] [full year]_ no commas. So, 17th May 1964 or 1st January 2000 - in filenames use yyyy-mm-dd so 1964-05-17 or 2000-01-01
 
@@ -15,10 +16,10 @@ Dates
 : Always _and_ unless Damon & Naomi or Dean & Britta
 
 Damon & Naomi
-: Always with an ampersand when talking about the band, if talking about the members then use _and_ so: _Damon & Naomi played a show_ but _Damon & Naomi hung around afterwards to sign things_
+: Always with an ampersand when talking about the band, if talking about the members then use _and_ so: _Damon & Naomi played a show_ but _Damon and Naomi hung around afterwards to sign things_
 
 Dean & Britta
-: Always with an ampersand when talking about the band, if talking about the members then use _and_ so: _Dean & Britta have a new single_ but _Dean & Britta are always friendly_
+: Always with an ampersand when talking about the band, if talking about the members then use _and_ so: _Dean & Britta have a new single_ but _Dean and Britta are always friendly_
 
 Britta Phillps and Dean Wareham
 : Treat as two individuals rather than a band so always _and_ not _&_

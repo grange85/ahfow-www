@@ -22,7 +22,7 @@ tags: []
 <p class="lead">It's been twenty years since we lost Velvet Underground guitarist and tugboat captain Sterling Morrison.</p>
 <p>Time to dig out some VU, or Luna's Bewitched, and raise a glass...</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/images/misc/luna_vu_sd.jpg" "Stanley Demeski and Dean Wareham with Sterling Morrison and Moe Tucker in 1993 (photo: Stanley Demeski)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/images/misc/luna_vu_sd.jpg" alt="Stanley Demeski and Dean Wareham with Sterling Morrison and Moe Tucker in 1993 (photo: Stanley Demeski)" /><figcaption class="caption-text">Stanley Demeski and Dean Wareham with Sterling Morrison and Moe Tucker in 1993 (photo: Stanley Demeski)</figcaption></figure>
 
 <blockquote><p>We had met Sterling on the Velvet Underground European tour in 1993 [...]</p>
 <p>Getting the call to open for the Velvet Underground was weird. I thought I might have been dreaming. But weeks later I found myself in a dressing room at the Edinburgh Playhouse, listening to Lou Reed, John Cale, Moe Tucker and Sterling Morrison run through Venus in Furs.</p>

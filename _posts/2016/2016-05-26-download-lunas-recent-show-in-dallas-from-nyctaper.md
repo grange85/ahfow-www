@@ -9,7 +9,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2016-05-26 09:00:00 +0000'
-imageurl: 
+imageurl:
 categories:
  - news
  - luna
@@ -25,7 +25,7 @@ tags:
 <footer><a href="http://www.nyctaper.com/2016/05/luna-may-4-2016-granada-theater-dallas-tx/">Luna: May 4, 2016 Granada Theater Dallas TX - NYCTaper</a></footer>
 </blockquote>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2016-05/2016-05-luna-texas.jpg" "Poster: Luna in Texas" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2016-05/2016-05-luna-texas.jpg" alt="Poster: Luna in Texas" /><figcaption class="caption-text">Poster: Luna in Texas</figcaption></figure>
 
 
 

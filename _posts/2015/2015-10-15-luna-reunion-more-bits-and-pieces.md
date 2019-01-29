@@ -14,7 +14,7 @@ categories:
  - audio
 tags: []
 ---
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-13/2015-10-13-luna-toronto-bill-03.jpg" "Luna in Toronto - photo by Bill Van Der Ende" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-13/2015-10-13-luna-toronto-bill-03.jpg" alt="Luna in Toronto - photo by Bill Van Der Ende" /><figcaption class="caption-text">Luna in Toronto - photo by Bill Van Der Ende</figcaption></figure>
 <p class="lead">Another day another Luna reunion tour post...</p>
 
 <p>Matlin on DIMEADOZEN is torrenting Luna's show in Portsmouth NH from earlier in the week. I'm listening now and it's a treat and has the band being very relaxed and particularly chatty - well worth a download. You need to be registered and logged in to get this. It's available in two formats: 16 bit/44.1 khz for the likes of us and 24 bit/48 khz for people with special ears.</p>

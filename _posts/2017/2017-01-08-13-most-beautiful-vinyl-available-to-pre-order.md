@@ -11,7 +11,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2017-01-08
-imageurl: http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-13-most-beautiful-ww.jpg
+imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-13-most-beautiful-ww.jpg
 categories:
  - dean & britta
  - 13 most beautiful
@@ -22,4 +22,4 @@ tags:
 <p>The record will cost &euro;23.99 plus &euro;15 postage (to Europe AND the US) and is due to be shipped on the 20th February.</p?
 <p>The album will be released as a double LP with the tracks on three sides and the fourth side blank, and will be limited to 500 numbered copies.</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-13-most-beautiful-ww.jpg" "13 Most Beautiful" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-13-most-beautiful-ww.jpg" alt="13 Most Beautiful" /><figcaption class="caption-text">13 Most Beautiful</figcaption></figure>

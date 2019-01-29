@@ -9,19 +9,19 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2016-04-05 11:00:00 +0000'
-imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1991-04-05/19910405-galaxie-500-bowdoin-college-04.jpg
+imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1991-04-05/19910405-galaxie-500-bowdoin-college-04.jpg
 categories:
 - galaxie 500
 tags: []
 ---
-{% ahfowimage "http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1991-04-05/19910405-galaxie-500-bowdoin-college-05.jpg" "Poster for Galaxie 500's last show" %}
-<p class="lead">25 years ago today Galaxie 500 played their last show. On <a href="http://db.fullofwishes.co.uk/galaxie-500/shows/1991/1991-04-05-galaxie-500-bowdoin-college-brunswick-me-usa/">Friday 5 April 1991 the band played at Bowdoin College in Maine</a>.</p>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1991-04-05/19910405-galaxie-500-bowdoin-college-05.jpg" alt="Poster for Galaxie 500's last show" /><figcaption class="caption-text">Poster for Galaxie 500's last show</figcaption></figure>
+<p class="lead">25 years ago today Galaxie 500 played their last show. On <a href="https://db.fullofwishes.co.uk/galaxie-500/shows/1991/1991-04-05-galaxie-500-bowdoin-college-brunswick-me-usa/">Friday 5 April 1991 the band played at Bowdoin College in Maine</a>.</p>
 <blockquote>
 	<p>The band played in a building called Moulton Union, in the main lounge. A band called The Wishniaks, from Philadelphia [&hellip;] opened up. Galaxie 500 played for about an hour and really didn't seem to want to be there beforehand, although they put on a phenomenal and truly hypnotic show.</p>
 	<p>Dean drove a Dodge Dart to Maine. Damon & Naomi drove up in a blue Saab 900. Damon had a drum kit that said Galaxie 500 in silver on the bass drum. Naomi wore orange leggings. About forty or fifty people came to the show.</p>
-	<footer>Dan Pearson (who booked the show). Personal letter (2003)</footer>		
+	<footer>Dan Pearson (who booked the show). Personal letter (2003)</footer>
 </blockquote>
-{% ahfowimage "http://media.fullofwishes.co.uk/01-galaxie_500/pictures/bowdoin-orient-1991-04-05-galaxie-500.jpg" "Galaxie 500 ad in the Bowdoin Orient, April 1991" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/bowdoin-orient-1991-04-05-galaxie-500.jpg" alt="Galaxie 500 ad in the Bowdoin Orient, April 1991" /><figcaption class="caption-text">Galaxie 500 ad in the Bowdoin Orient, April 1991</figcaption></figure>
 
 <blockquote>
 	<p>We were scheduled to go on at nine that night, but the opening band played for an hour and a half while we waited in the green room that the students had set up for us. [&hellip;] We sat in that green room getting more and more irritated. And that was our final show. An annoying evening at Bowdoin College.</p>
@@ -29,9 +29,9 @@ tags: []
 	<footer>Dean Wareham. <a href="http://amzn.to/1RAuO6h" target="_blank">Black Postcards (Penguin, 2008)</a></footer>
 </blockquote>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1991-04-05/19910405-galaxie-500-bowdoin-college-04.jpg" "Naomi at Galaxie 500's last show (Photo: Dan Pearson)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1991-04-05/19910405-galaxie-500-bowdoin-college-04.jpg" alt="Naomi at Galaxie 500's last show (Photo: Dan Pearson)" /><figcaption class="caption-text">Naomi at Galaxie 500's last show (Photo: Dan Pearson)</figcaption></figure>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1991-04-05/19910405-galaxie-500-bowdoin-college-02.jpg" "Dean at Galaxie 500's last show (Photo Dan Pearson)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1991-04-05/19910405-galaxie-500-bowdoin-college-02.jpg" alt="Dean at Galaxie 500's last show (Photo Dan Pearson)" /><figcaption class="caption-text">Dean at Galaxie 500's last show (Photo Dan Pearson)</figcaption></figure>
 
 <p>On the Monday morning (8 April 1991) Damon rang Dean about the planned tour of Japan&hellip;</p>
 
@@ -52,9 +52,9 @@ tags: []
 	<footer>Naomi Yang. <a href="http://amzn.to/1RY3ukt" target="_blank">Temperature's Rising (Yeti, 2012)</a></footer>
 </blockquote>
 
-<p>And on that heartbreakingly sad note Galaxie 500 came to an end. A tiny news item <a href="http://www.fullofwishes.co.uk/articles/1991-05-04-galaxie-500-split/">appeared in the Melody Maker</a> a month later and we were left with three perfect albums and the memories.</p>
-{% ahfowimage "http://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500_split.jpg" "Galaxie 500 split" %}
+<p>And on that heartbreakingly sad note Galaxie 500 came to an end. A tiny news item <a href="https://www.fullofwishes.co.uk/articles/1991-05-04-galaxie-500-split/">appeared in the Melody Maker</a> a month later and we were left with three perfect albums and the memories.</p>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500_split.jpg" alt="Galaxie 500 split" /><figcaption class="caption-text">Galaxie 500 split</figcaption></figure>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-split-draft-presser.jpg" "Damon's draft press release" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-split-draft-presser.jpg" alt="Damon's draft press release" /><figcaption class="caption-text">Damon's draft press release</figcaption></figure>
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=158016030/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3550322277/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/on-fire">On Fire by Galaxie 500</a></iframe>

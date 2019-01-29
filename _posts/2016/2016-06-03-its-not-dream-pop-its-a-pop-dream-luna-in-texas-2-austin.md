@@ -9,7 +9,7 @@ author:
   email: joakim@fullofwishes.co.uk
   url: ''
 date: '2016-06-03 17:00:00 +0000'
-imageurl: http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/02-img-0735-outside-mohawk-before-show.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/02-img-0735-outside-mohawk-before-show.jpg
 categories:
 - luna
 tags:
@@ -22,156 +22,156 @@ photos:
     data: |
       [
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/01-img-0796-austin-sand-color.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/01-img-0796-austin-sand-color.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/01-img-0796-austin-sand-color.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/01-img-0796-austin-sand-color.jpg',
       title: 'Austin - sand coloured (Photo: Joakim)'
       },
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/02-img-0735-outside-mohawk-before-show.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/02-img-0735-outside-mohawk-before-show.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/02-img-0735-outside-mohawk-before-show.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/02-img-0735-outside-mohawk-before-show.jpg',
       title: 'Outside The Mohawk before the show (Photo: Joakim)'
       },
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/03-l1030015-mike-letting-britta-listen.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/03-l1030015-mike-letting-britta-listen.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/03-l1030015-mike-letting-britta-listen.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/03-l1030015-mike-letting-britta-listen.jpg',
       title: 'Mike letting Britta listen (Photo: Joakim)'
       },
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/03-l1030020-joe-and-ilene-from-san-antonio---unknown-in-middle.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/03-l1030020-joe-and-ilene-from-san-antonio---unknown-in-middle.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/03-l1030020-joe-and-ilene-from-san-antonio---unknown-in-middle.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/03-l1030020-joe-and-ilene-from-san-antonio---unknown-in-middle.jpg',
       title: 'Joe and Ilene from San Antonio (Photo: Joakim)'
       },
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/03-l1030022-mohawk-crowd.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/03-l1030022-mohawk-crowd.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/03-l1030022-mohawk-crowd.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/03-l1030022-mohawk-crowd.jpg',
       title: 'The Mohawk crowd (Photo: Joakim)'
       },
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/04-img-0746-britta-sean-marte---photo-by-ulrika.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/04-img-0746-britta-sean-marte---photo-by-ulrika.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/04-img-0746-britta-sean-marte---photo-by-ulrika.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/04-img-0746-britta-sean-marte---photo-by-ulrika.jpg',
       title: 'Britta, Sean, Marte (Photo: Ulrika)'
       },
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/05-l1030047-britta-kramer-terry-dean.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/05-l1030047-britta-kramer-terry-dean.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/05-l1030047-britta-kramer-terry-dean.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/05-l1030047-britta-kramer-terry-dean.jpg',
       title: 'Britta, Kramer, Terry, Dean (Photo: Joakim)'
       },
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/05-l1030048-terry---austin-this-is-luna.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/05-l1030048-terry---austin-this-is-luna.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/05-l1030048-terry---austin-this-is-luna.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/05-l1030048-terry---austin-this-is-luna.jpg',
       title: 'Terry Tolkin - Luna this is Austin (Photo: Joakim)'
       },
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/05-l1030049-terry---austin-this-is-luna-i-like.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/05-l1030049-terry---austin-this-is-luna-i-like.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/05-l1030049-terry---austin-this-is-luna-i-like.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/05-l1030049-terry---austin-this-is-luna-i-like.jpg',
       title: 'Terry Tolkin - Austin this is Luna (Photo: Joakim)'
       },
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/05-l1030051-britta-dean-terry-walking-off-stage.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/05-l1030051-britta-dean-terry-walking-off-stage.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/05-l1030051-britta-dean-terry-walking-off-stage.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/05-l1030051-britta-dean-terry-walking-off-stage.jpg',
       title: 'Britta, Dean, and Terry walking off stage (Photo: Joakim)'
       },
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/05-l1030060-sean-and-the-pedals---pedalitus.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/05-l1030060-sean-and-the-pedals---pedalitus.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/05-l1030060-sean-and-the-pedals---pedalitus.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/05-l1030060-sean-and-the-pedals---pedalitus.jpg',
       title: 'Sean and the pedalitis (Photo: Joakim)'
       },
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/05-l1030061-sean-mother-and-ashley.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/05-l1030061-sean-mother-and-ashley.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/05-l1030061-sean-mother-and-ashley.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/05-l1030061-sean-mother-and-ashley.jpg',
       title: 'Sean and his mother (Photo: Joakim)'
       },
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/05-l1030062-sean-and-mother-nice.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/05-l1030062-sean-and-mother-nice.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/05-l1030062-sean-and-mother-nice.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/05-l1030062-sean-and-mother-nice.jpg',
       title: 'Sean and his mother (Photo: Joakim)'
       },
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/06-l1030073.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/06-l1030073.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/06-l1030073.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/06-l1030073.jpg',
       title: 'Britta and Dean of Luna (Photo: Joakim)'
       },
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/06-l1030074.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/06-l1030074.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/06-l1030074.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/06-l1030074.jpg',
       title: 'Britta and Dean of Luna (Photo: Joakim)'
       },
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/06-l1030095-dean-joking-with-sean.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/06-l1030095-dean-joking-with-sean.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/06-l1030095-dean-joking-with-sean.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/06-l1030095-dean-joking-with-sean.jpg',
       title: 'Dean and Sean of Luna (Photo: Joakim)'
       },
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/06-l1030103.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/06-l1030103.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/06-l1030103.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/06-l1030103.jpg',
       title: 'Dean Wareham of Luna (Photo: Joakim)'
       },
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/07-l1030059-mohawk-crowd.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/07-l1030059-mohawk-crowd.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/07-l1030059-mohawk-crowd.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/07-l1030059-mohawk-crowd.jpg',
       title: 'The Mohawk Crowd (Photo: Joakim)'
       },
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/08-austin-kelly-ulrika-ashley-sean.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/08-austin-kelly-ulrika-ashley-sean.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/08-austin-kelly-ulrika-ashley-sean.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/08-austin-kelly-ulrika-ashley-sean.jpg',
       title: 'Kelly, Ulrika, Ashley, Sean (Photo: Joakim)'
       },
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/08-l1030117.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/08-l1030117.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/08-l1030117.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/08-l1030117.jpg',
       title: 'Dean & Britta (Photo: Joakim)'
       },
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/08-l1030122.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/08-l1030122.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/08-l1030122.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/08-l1030122.jpg',
       title: 'Britta, Dean and Lee of Luna (Photo: Joakim)'
       },
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/09-l1030167-britta-waterloo-records.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/09-l1030167-britta-waterloo-records.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/09-l1030167-britta-waterloo-records.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/09-l1030167-britta-waterloo-records.jpg',
       title: 'Britta at Waterloo Records (Photo: Joakim)'
       },
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/09-l1030168-britta-waterloo-records.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/09-l1030168-britta-waterloo-records.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/09-l1030168-britta-waterloo-records.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/09-l1030168-britta-waterloo-records.jpg',
       title: 'Britta at Waterloo Records (Photo: Joakim)'
       },
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/09-l1030192-britta-waterloo-yoga-girl-and-brittta.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/09-l1030192-britta-waterloo-yoga-girl-and-brittta.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/09-l1030192-britta-waterloo-yoga-girl-and-brittta.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/09-l1030192-britta-waterloo-yoga-girl-and-brittta.jpg',
       title: 'Britta and yoga girl at Waterloo Records (Photo: Joakim)'
       },
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/09-l1030206-britta-waterloo-signing-mikes-records.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/09-l1030206-britta-waterloo-signing-mikes-records.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/09-l1030206-britta-waterloo-signing-mikes-records.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/09-l1030206-britta-waterloo-signing-mikes-records.jpg',
       title: 'Britta signing Mike\'s CD at Waterloo Records (Photo: Joakim)'
       },
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/10-img-9948-texas-hill-country.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/10-img-9948-texas-hill-country.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/10-img-9948-texas-hill-country.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/10-img-9948-texas-hill-country.jpg',
       title: 'Joakim and Ulrika - Texas hill country (Photo: Joakim)'
       },
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/10-l1030216-austin-night.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/10-l1030216-austin-night.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/10-l1030216-austin-night.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/10-l1030216-austin-night.jpg',
       title: 'Austin at night (Photo: Joakim)'
       },
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/l1030047.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/l1030047.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/l1030047.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/l1030047.jpg',
       title: 'Luna (Photo: Joakim)'
       },
       {
-      thumb: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/l1030127-nighttime-photo-shoot-sean-and-girls.jpg',
-      image: 'http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/l1030127-nighttime-photo-shoot-sean-and-girls.jpg',
+      thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/thumbs/l1030127-nighttime-photo-shoot-sean-and-girls.jpg',
+      image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/l1030127-nighttime-photo-shoot-sean-and-girls.jpg',
       title: 'Nighttime photo shoot (Photo: Joakim)'
       }
       ]
 longpost: true
 ---
-<p class="text-muted">At the beginning of May Joakim and Ulrika travelled from Stockholm to Texas and Luna - in part two Joakim, Ulrika and Mike arrive in Austin. <a href="http://www.fullofwishes.co.uk/2016/05/27/there-is-always-a-story-to-tell-luna-in-texas-1-dallas/">Part one saw them in Dallas</a> and you can see a list of all <a href="/authors/#joakim">Joakim's previous posts to A Head Full of Wishes</a>.</p>
+<p class="text-muted">At the beginning of May Joakim and Ulrika travelled from Stockholm to Texas and Luna - in part two Joakim, Ulrika and Mike arrive in Austin. <a href="https://www.fullofwishes.co.uk/2016/05/27/there-is-always-a-story-to-tell-luna-in-texas-1-dallas/">Part one saw them in Dallas</a> and you can see a list of all <a href="/authors/#joakim">Joakim's previous posts to A Head Full of Wishes</a>.</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/02-img-0735-outside-mohawk-before-show.jpg" "Luna and Britta at The Mohawk (Photo: Joakim)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/02-img-0735-outside-mohawk-before-show.jpg" alt="Luna and Britta at The Mohawk (Photo: Joakim)" /><figcaption class="caption-text">Luna and Britta at The Mohawk (Photo: Joakim)</figcaption></figure>
 <p class="lead">After an hour and half drive from Dallas to Austin Mike said, "I wonder if we’ll see the white van on the road".</p>
 
 <div class="col-md-6 pull-right"><blockquote>It's a silly dream I've had, to listen to a concert I attended the night before while on the way to the next concert in a new city.</blockquote></div>
@@ -182,7 +182,7 @@ longpost: true
 
 <!--more-->
 
-<div class="col-md-6 pull-right">{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/01-img-0796-austin-sand-color.jpg" "The majestic sand coloured buildings of Austin (Photo: Joakim)" %}</div>
+<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/01-img-0796-austin-sand-color.jpg" alt="The majestic sand coloured buildings of Austin (Photo: Joakim)" /><figcaption class="caption-text">The majestic sand coloured buildings of Austin (Photo: Joakim)</figcaption></figure></div>
 
 <p>We checked in at our hotel and went next door to an outdoor place called Easy Tiger. It was warm, the sky clear blue, a gentle breeze. I had beef sirloin with chimichurri. I love the combination of tender, grilled meat and a refreshing sauce made of garlic, oil, vinegar and lots of chopped fresh herbs. No other sides needed. A bunch of girls laughing at the table next to us, some guys playing outdoor table tennis in the corner. Austin seemed like a very good place to be in.</p>
 
@@ -192,7 +192,7 @@ longpost: true
 
 <p>And we met Britta, she wanted to hear one of the songs from her solo set from Dallas that Mike had recorded, "the band need to practise on this one", she told Mike. I'm pretty sure I knew which one she meant. It was the only song that was a little off. She is very keen on getting it right. Britta is a perfectionist. I would have loved hearing her telling Sean and Dean to shape up. And to Lee to hit the thirds and nothing else, or whatever a band leader says to the drummer.</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/03-l1030015-mike-letting-britta-listen.jpg" "Mike lets Britta listen (Photo: Joakim)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/03-l1030015-mike-letting-britta-listen.jpg" alt="Mike lets Britta listen (Photo: Joakim)" /><figcaption class="caption-text">Mike lets Britta listen (Photo: Joakim)</figcaption></figure>
 
 <p>The doors opened and we placed ourselves in the front as always, while Mike started to set up his equipment at the back. We met a lovely couple from San Antonio, Joe and Ilene. They saw two or three shows the year before, Joe was wearing a tuxedo at the New Year's gig, Dean asked him if he "[was] going to a party afterwards". "I am at the party", Joe replied. At least that's the story I remember.</p>
 
@@ -202,7 +202,7 @@ longpost: true
 
 <p>Ilene asked what songs we really wanted to hear. "Realistically or not?" I asked. I like hearing songs I haven't heard live before, especially new songs. But far from always, rare or new songs turn out the be the best of the night. {% track "Lovedust" %}, {% track "Broken Chair" %}, {% track "I Want Everything" %}. There are so many gems they aren't playing. We all agreed on that {% track "Malibu Love Nest" %} is fantastic. Conversations like this usually end that way.</p>
 
-<div class="col-md-6 pull-right">{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/05-l1030047-britta-kramer-terry-dean.jpg" "Kramer and Terry backstage (Photo: Joakim)" %}</div>
+<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/05-l1030047-britta-kramer-terry-dean.jpg" alt="Kramer and Terry backstage (Photo: Joakim)" /><figcaption class="caption-text">Kramer and Terry backstage (Photo: Joakim)</figcaption></figure></div>
 
 <p>A strange tall figure with messy hair is walking around backstage, wearing khaki shorts a short blue jacket with gold painted lapels. "It is probably Terry Tolkin" Ulrika says. He got Dean a record deal with Elektra, and Dean started Luna. And there was another oddity in his company. I didn't know then, but later we found out it was Kramer, the producer that created the Galaxie 500 sound together with the trio. Kramer also produced both Damon & Naomi's and Low's fantastic debut albums.</p>
 
@@ -210,7 +210,7 @@ longpost: true
 
 <p>A beautiful warm night, the blue sky is getting darker. It's Cinco de Mayo, and there is a mariachi band playing next door, another outdoor venue. It adds to the mood. The Mohawk is crowded, the balcony too, it's lively but with a friendly and excited atmosphere.</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/04-img-0746-britta-sean-marte---photo-by-ulrika.jpg" "Britta and band take to The Mohawk stage (Photo: Ulrika)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/04-img-0746-britta-sean-marte---photo-by-ulrika.jpg" alt="Britta and band take to The Mohawk stage (Photo: Ulrika)" /><figcaption class="caption-text">Britta and band take to The Mohawk stage (Photo: Ulrika)</figcaption></figure>
 
 <p>Britta's band comes up on stage. Sean is gone, no one knows where he is, the only way to find him is to get up on stage Britta says, and then he comes running behind the drums. With his sunglasses in place.</p>
 
@@ -220,7 +220,7 @@ longpost: true
 
 <p>Britta is introducing the next song called Daydream by saying she wrote it when she used to live in Chinatown with a weird roommate that she found on Craigslist. I guess it wasn't Dean. It sounds really good. And I still haven't heard Britta sing a false note, she really is a magnificent singer with a unique and hitting voice. The ending with Drive is still one of the best moments of the whole night.</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/05-l1030049-terry---austin-this-is-luna-i-like.jpg" "Luna this is Austin, Austin this is Luna (Photo: Joakim)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/05-l1030049-terry---austin-this-is-luna-i-like.jpg" alt="Luna this is Austin, Austin this is Luna (Photo: Joakim)" /><figcaption class="caption-text">Luna this is Austin, Austin this is Luna (Photo: Joakim)</figcaption></figure>
 <p>Suddenly the strange tall figure with messy hair jumps up on the stage, it is Terry Tolkin, he introduces the band by saying "Luna this is Austin, Austin this is Luna". After the applause Dean is smiling and the band starts playing Egg Nog, the melodic instrumental b-side of the Indian Summer EP. I made a poster of the cover, with the pomegranate, framed it and gave it to Ulrika for Christmas last year, it's in our living room. I really like hearing it, I'm pretty sure I've never heard that one before. They heard me.</p>
 
 <p>"You're out all night, chasin' girlies". Chinatown, the song is of course about Terry. "You're late to work, and you go home earlies." When it ends, Dean starts to tell his admiration for him and says, "the gentlemen that introduced us is Terry, he signed Luna to Elektra Records a long time ago." It's all a bit touching, a nice moment in the Austin night.</p>
@@ -229,13 +229,13 @@ longpost: true
 
 <p>It's nice to be outside and see the band play, it's nice to look up and see the dark blue sky, yellow lights from the street lights and buildings reflect on the faces in the audience. It's nice to feel the warm breeze in my neck.</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/07-l1030059-mohawk-crowd.jpg" "It's nice to be outside (Photo: Joakim)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/07-l1030059-mohawk-crowd.jpg" alt="It's nice to be outside (Photo: Joakim)" /><figcaption class="caption-text">It's nice to be outside (Photo: Joakim)</figcaption></figure>
 
 <p>Dean places himself next to Britta on the small stage, facing Sean who is playing most of the solos on Going Home, always using the whammy of his guitar a lot, one of his signatures, creating this dream like sound. But I still wouldn't call Luna dream pop like others do. I don't think either the Luna sound or the lyrics are dream pop. They are not dreaming enough. And the lyrics are clever observations or cold assessments. "I'm keeping all the secrets, and I have nothing else to say."</p>
 
 <p>But there are love songs too. "Honey bunny, come on". Dean takes the leads on Malibu Love Nest like always, with his heavily melodic and rhythmical sound. During the ending, when both Sean and Dean are hammering the chords, the crowd always goes wild. They could play that ending for an hour, but it's not dream pop, it's a pop dream.</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/08-l1030117.jpg" "Dean is making things up again (Photo: Joakim)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/08-l1030117.jpg" alt="Dean is making things up again (Photo: Joakim)" /><figcaption class="caption-text">Dean is making things up again (Photo: Joakim)</figcaption></figure>
 
 <p>Suddenly there's a loud cheer from the venue next to us and Dean is making up things again. "You know what it is, they are showing a replay of when Ted Cruz is pulling out of the race". It's funny. Some in the audience are laughing, some are cheering. It's warm night, the moon man light and crooked sky are keeping us company, we are having a great time.</p>
 
@@ -245,13 +245,13 @@ longpost: true
 
 <p>We've heard him sing Still at Home on many occasions by now, and he sings it wonderfully, with a little bit of variation in the phrasing, like he is searching for the lyrics on purpose, which gets the effect that some lines stand out more. "I got a cold master", he sings and laughs, it's great to hear, I love hearing things differently, I focus and listen. "She's gonna tell you, she's gonna break my back with a bit of amusement, oh man." Oh, man! I always love hearing Sean do this song.</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/05-l1030062-sean-and-mother-nice.jpg" "Sean and his mum (Photo: Joakim)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/05-l1030062-sean-and-mother-nice.jpg" alt="Sean and his mum (Photo: Joakim)" /><figcaption class="caption-text">Sean and his mum (Photo: Joakim)</figcaption></figure>
 
 <p>"The sky is painted, deep shades of blue", Dean is singing direct and clear, into the night and it sparkles. I really like it when the songs gets more intense when played live, when there is a little bit more liveliness. If they did it even more, did things that weren't planned, which they probably hate hearing&hellip; well, I wouldn't mind that at all.</p>
 
 <p>The sirens of a police car is heard on the streets outside, or maybe it’s the fire brigade. I can't tell the difference, but it makes the night even more real. Because it's hard to believe I'm really in Texas, watching Luna play. I just can't believe it. Maybe I am here. Maybe I really am.</p>
 
-<div class="col-md-6 pull-right">{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/06-l1030074.jpg" "Luna (Photo: Joakim)" %}</div>
+<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/06-l1030074.jpg" alt="Luna (Photo: Joakim)" /><figcaption class="caption-text">Luna (Photo: Joakim)</figcaption></figure></div>
 
 <p>"Pedalitus, when something is wrong with your pedals but you don't know what it is." It's Dean again, when Sean is leaning over and complaining about his pedals. Dean starts singing Moon Palace from the album Penthouse. He is good at that, switching fast from a humorous comment to a song with a completely different emotional expression.</p>
 
@@ -271,13 +271,13 @@ longpost: true
 
 <p>"I don't wanna stay at your party, I don't wanna vote for your president." Ted Cruz is not going to be the next captain, that's for sure. I prefer tugboat captains from Houston, and their humble wishes. "There's a place I'd like to be. There's a place I'd be happy." It would be hard to find a more perfect song to end the show in the Austin.</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/08-l1030122.jpg" "Luna (Photo: Joakim)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/08-l1030122.jpg" alt="Luna (Photo: Joakim)" /><figcaption class="caption-text">Luna (Photo: Joakim)</figcaption></figure>
 
 <p>We walk some stairs up to the rooftop and go into a room full of people. They are all there. I don't feel very comfortable in situations like this, but I notice what I think are Sean's parents. Ashley and Ulrika are talking to them and I really want to meet them. I know I don't have to come up with smart observations about anything.</p>
 
 <p>Sean's father tells us that they had been sailing around the world for five years, and they ended up in Austin. He's a doctor. I ask if he got any good shots with the camera. They are both featured in the Luna documentary Tell Me Do You Miss Me, and this was the second time they saw Sean play, if I remember correctly. They seemed to enjoy the show as much as the rest of us.</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/08-austin-kelly-ulrika-ashley-sean.jpg" "Kelly, Ulrika, Ashley, Sean (Photo: Joakim)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/08-austin-kelly-ulrika-ashley-sean.jpg" alt="Kelly, Ulrika, Ashley, Sean (Photo: Joakim)" /><figcaption class="caption-text">Kelly, Ulrika, Ashley, Sean (Photo: Joakim)</figcaption></figure>
 
 <p>Kelly's friend Scott is there too, we talk about new music from Sweden. "What Swedish bands do you listen to?" he asks. His eyes are deep. I can't come up with almost any. I really wish I could, but there's just so many bands. Many of them are singing in Swedish only, so they probably wouldn't work very well over seas. We are talking about Blue Note instead, it's more relaxing for me. Scott is a very nice person, one of those people that really listens to what you are saying, honestly interested.</p>
 
@@ -293,13 +293,13 @@ longpost: true
 
 <p>The next morning we had barbecue for breakfast, at the Salt Lick, half an hour drive south of Austin. I had brisket, sausages and pork ribs. Ulrika had potatoes and beans, it's not a vegetarian's paradise to say the least. She got a pickled jalapeno too. My food was very tasty but I got full after half the plate. Mike glanced up at me, was it a smile? Maybe an expression of pity. There was a vineyard next door, selling local Texas Hill Country wines. We enjoyed the green vegetation, fresh air and sunny weather. It was beautiful, I could have stayed the whole day.</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/09-l1030167-britta-waterloo-records.jpg" "Britta (with Dean) &hellip; and Mike Periscoping the show (Photo: Joakim)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/09-l1030167-britta-waterloo-records.jpg" alt="Britta (with Dean) &hellip; and Mike Periscoping the show (Photo: Joakim)" /><figcaption class="caption-text">Britta (with Dean) &hellip; and Mike Periscoping the show (Photo: Joakim)</figcaption></figure>
 
 <p>We went back to Austin to see Britta play and sign records at Waterloo Records later that afternoon. First we stopped at a place and ordered boiled peanuts that tasted like red beans. Ulrika and Mike hated them. I love all kinds of beans. There are refried beans, barbecue beans, baked beans. Black beans, white beans, black eyed beans. Or if that is a pea? Green beans are delicious with just salt and butter. Steamed Japanese edamame beans. Yellow beans that me and my grandmother used to grow in our backyard when I was a kid. Mr Bean, soy beans and coffee beans. To be called a bean where we come from is something good, never bad. I should say it more often, to the right people, otherwise it probably gets awkward.</p>
 
 <p>We hurried to the record store, in the burning heat. Britta played a very nice set together with her band. Sean was just in the audience this time, he was having a day off, just like we did, sort of. I snapped some photos of all the people that stood in line and that got their records signed by Britta. She signed our record too, and told me she liked my writing.</p>
 
-<div class="col-md-6 pull-right">{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/09-l1030206-britta-waterloo-signing-mikes-records.jpg" "Mike gets his CD signed (Photo: Joakim)" %}</div>
+<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/09-l1030206-britta-waterloo-signing-mikes-records.jpg" alt="Mike gets his CD signed (Photo: Joakim)" /><figcaption class="caption-text">Mike gets his CD signed (Photo: Joakim)</figcaption></figure></div>
 
 <p>We met a nice yoga girl in the record store, she talked for half an hour with Mike about Maryland, then she drove us back to the hotel. The other day she saw Luna just like us. She told us about a bar with a nice backyard, I like backyards, but first we had some Mexican food on 6th Street, with a view of the noisy mess going on below. But we enjoyed it, and had guacamole, made directly at the table.</p>
 
@@ -307,5 +307,5 @@ longpost: true
 
 <p>The security guard knocked on the door. "What are you doing", he said, "it's so loud it sounds like you're having a party". "We decided to have a bed-in", I said. "But we forgot to invite anybody." I looked out the window for the last time that night, the city was illuminated in the dark by street lights, restaurants, buildings, bars, people. Music, voices and all kinds of city sounds everywhere and from all around. This is Austin, I was thinking to myself. The next day, we were going to Houston.</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/10-img-9948-texas-hill-country.jpg" "Ulrika and Joakim" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/10-img-9948-texas-hill-country.jpg" alt="Ulrika and Joakim" /><figcaption class="caption-text">Ulrika and Joakim</figcaption></figure>
 

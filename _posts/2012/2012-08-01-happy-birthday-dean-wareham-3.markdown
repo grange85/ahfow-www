@@ -17,7 +17,7 @@ categories:
 - news
 tags: []
 ---
-<p><a href="http://www.flickr.com/photos/53035674@N04/5858428635/" title="Dean_Wareham_Brooklyn_2011-02.jpg by waydown_watson, on Flickr"><img class="aligncenter" src="http://farm4.staticflickr.com/3172/5858428635_6aec421971.jpg" width="500" height="332" alt="Dean_Wareham_Brooklyn_2011-02.jpg"></a></p>
+<p><a href="http://www.flickr.com/photos/53035674@N04/5858428635/" title="Dean_Wareham_Brooklyn_2011-02.jpg by waydown_watson, on Flickr"><img class="aligncenter" src="https://farm4.staticflickr.com/3172/5858428635_6aec421971.jpg" width="500" height="332" alt="Dean_Wareham_Brooklyn_2011-02.jpg"></a></p>
 <p>Happy birthday to Dean Wareham who is still a year older than me - have a great day Dean!</p>
 <p>Here's a few things that have his name on them rather than that of Galaxie 500, Luna or Dean & Britta...
 <ul>
@@ -27,7 +27,7 @@ tags: []
 <li><strong>MP3:</strong> <a href="https://www.box.com/s/c3b7df0537ee2e581ef3">She's a Beacon - Shapir O'Rama (feat. Dean Wareham)</a> from El mundo de vapor y Valentia (Old Vienna)</li>
 <li><strong>Video:</strong> <a href="/2012/05/07/video-dean-wareham-in-psycho-babble/">Dean Wareham in Psycho Babble by Matthew Buzzell</a></li>
 <li><strong>Video:</strong> Dean Wareham plays Moon Palace in a minute for MTV<br />
-<iframe width="480" height="360" src="http://www.youtube.com/embed/MXki8W6mlcI" frameborder="0" allowfullscreen class="aligncenter"></iframe></li>
+<iframe width="480" height="360" https://www.youtube.com/embed/MXki8W6mlcI" frameborder="0" allowfullscreen class="aligncenter"></iframe></li>
 </ul>
 <p>Previously on AHFoW:</p>
 <ul>

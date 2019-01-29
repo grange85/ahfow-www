@@ -9,7 +9,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2016-04-25 20:30:00 +0000'
-imageurl: http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/britta-phillips-luck-or-magic.jpg
+imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/britta-phillips-luck-or-magic.jpg
 categories:
 - britta phillips
 - dean wareham
@@ -20,7 +20,7 @@ tags: []
 
 <p class="text-center lead"><a href="http://blogs.wsj.com/speakeasy/2016/04/25/listen-to-britta-phillipss-debut-solo-album-luck-or-magic-exclusive/" class="btn btn-primary">Stream Luck of Magic on WSJ</a></p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/britta-phillips-luck-or-magic.jpg" "Britta Phillips" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/britta-phillips-luck-or-magic.jpg" alt="Britta Phillips" /><figcaption class="caption-text">Britta Phillips</figcaption></figure>
 
 <p><a href="https://www.facebook.com/events/1590128347981270/">The launch party for the album will be taking place on April 30th at Old Style Guitar Shop</a>, 510 A N. Hoover St, Los Angeles at 8pm and will feature a full band and "very special friends" - Dean Wareham and Lee Wall of Luna, and Marte Solbakken. Free entry.</p>
 
@@ -34,4 +34,4 @@ tags: []
 	<li><a href="https://itunes.apple.com/us/album/luck-or-magic/id1072803111">Pre-order on iTunes</a></li>
 </ul>
 
-{% ahfowvideo "mrOpkUxhntE" "Britta Phillips - One Fine Summer Morning" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/mrOpkUxhntE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Britta Phillips - One Fine Summer Morning</figcaption></figure>

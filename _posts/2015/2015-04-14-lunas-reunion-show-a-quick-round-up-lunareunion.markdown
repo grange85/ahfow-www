@@ -52,12 +52,12 @@ tags: []
 <p><a href="http://threematchbreeze.com/2015/04/14/luna-the-echo-04-13-15/">Luna @ The Echo, 04.13.15 by Greg Chow at Three Match Breeze</a> (includes stacks of pictures)</p>
 <blockquote><p>While Dean Wareham and Britta Phillips have played a number of Luna songs live in the 10 years in between Luna gigs, there’s still nothing like the genuine article.  “23 Minutes in Brussels,” with its duel-guitar attack, alternating solos of Eden and Wareham, and spacey rock atmosphere, is basically Luna summed up in 7 minutes.</p></blockquote>
 <h3 id="vids">Videos</h3>
-{% ahfowvideo "4s-MptMsqBk" "" %}
-{% ahfowvideo "A3Os0_gohtQ" "" %}
-{% ahfowvideo "uI5WGsnK-ws" "" %}
-{% ahfowvideo "YwNYEBCtyCo" "" %}
-{% ahfowvideo "wcifnqpCkM4" "" %}
-{% ahfowvideo "rMFu1uxegpA" "" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/4s-MptMsqBk" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/A3Os0_gohtQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/uI5WGsnK-ws" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/YwNYEBCtyCo" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/wcifnqpCkM4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/rMFu1uxegpA" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 
 <h3 id="pics">Some pictures</h3>
 <p><a href="https://www.flickr.com/photos/bobbyshih/sets/72157651553332728/">Luna / Winter (13-Apr-2015) at the Echo by bobbyshih on Flickr</a><br />

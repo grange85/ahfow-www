@@ -21,5 +21,5 @@ tags: []
 Waiting on a Friend was on the last half-decent Rolling Stones album "Tattoo You" released in 1981, and is fine enough until the sax comes in. Apparently the song started in the sessions for Goats Head Soup in 1973 which may explain why it's not too shabby.<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MKLVmBOOqVU" frameborder="0" allowfullscreen></iframe>
 <p>Luna's cover of Waiting on a Friend was released on Close Cover Before Striking in 2002<br />
-<iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=3884059705/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1581795912/transparent=true/" seamless><a href="http://luna.bandcamp.com/album/close-cover-before-striking">Close Cover Before Striking by Luna</a></iframe><br />
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3884059705/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1581795912/transparent=true/" seamless><a href="http://luna.bandcamp.com/album/close-cover-before-striking">Close Cover Before Striking by Luna</a></iframe><br />
 No sax crime in the Luna version</p>

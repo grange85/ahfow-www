@@ -11,111 +11,111 @@ author:
   email: joakim@fullofwishes.co.uk
   url: ''
 date: 2016-12-18 09:00 +0000
-imageurl: http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-008.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-008.jpg
 categories:
  - luna
 tags:
  - brooklyn
  - rough trade ny
-photos: 
+photos:
   - type: ahfow-set
     photographer: Joakim Bengtsson
     data: |
       [
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-frank-001.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-frank-001.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-frank-001.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-frank-001.jpg',
         title: 'Dean Wareham of Luna (Photo: Frank Silvestry)'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-frank-002.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-frank-002.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-frank-002.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-frank-002.jpg',
         title: 'Dean Wareham of Luna (Photo: Frank Silvestry)'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-frank-003.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-frank-003.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-frank-003.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-frank-003.jpg',
         title: 'Sean Eden of Luna (Photo: Frank Silvestry)'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-frank-004.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-frank-004.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-frank-004.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-frank-004.jpg',
         title: 'Sean Eden of Luna (Photo: Frank Silvestry)'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-frank-005.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-frank-005.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-frank-005.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-frank-005.jpg',
         title: 'Britta Phillips of Luna (Photo: Frank Silvestry)'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-frank-006.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-frank-006.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-frank-006.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-frank-006.jpg',
         title: 'Setlist (Photo: Frank Silvestry)'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-frank-007.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-frank-007.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-frank-007.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-frank-007.jpg',
         title: 'Dean Wareham of Luna (Photo: Frank Silvestry)'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-frank-008.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-frank-008.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-frank-008.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-frank-008.jpg',
         title: 'Dean Wareham of Luna (Photo: Frank Silvestry)'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-joakim-001.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-001.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-joakim-001.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-001.jpg',
         title: 'Rough Trade NY (Photo: Joakim Bengtsson)'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-joakim-002.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-002.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-joakim-002.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-002.jpg',
         title: 'Marjorie and Frank (Photo: Joakim Bengtsson)'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-joakim-003.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-003.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-joakim-003.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-003.jpg',
         title: 'Dean and Sean of Luna (Photo: Joakim Bengtsson)'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-joakim-004.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-004.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-joakim-004.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-004.jpg',
         title: 'Joakim, Mike and Ulrika (Photo: Joakim Bengtsson)'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-joakim-005.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-005.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-joakim-005.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-005.jpg',
         title: 'Britta Phillips of Luna (Photo: Joakim Bengtsson)'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-joakim-006.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-006.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-joakim-006.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-006.jpg',
         title: 'Dean and his brother (Photo: Joakim Bengtsson)'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-joakim-007.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-007.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-joakim-007.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-007.jpg',
         title: 'Dean Wareham of Luna (Photo: Joakim Bengtsson)'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-joakim-008.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-008.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-joakim-008.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-008.jpg',
         title: 'Luna (Photo: Joakim Bengtsson)'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-joakim-009.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-009.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-joakim-009.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-009.jpg',
         title: 'Luna (Photo: Joakim Bengtsson)'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-joakim-010.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-010.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-joakim-010.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-010.jpg',
         title: 'Sean Eden of Luna (Photo: Joakim Bengtsson)'
-        }        
+        }
       ]
 longpost: true
 ---
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-008.jpg" "Luna in Brooklyn (Photo: Joakim)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-008.jpg" alt="Luna in Brooklyn (Photo: Joakim)" /><figcaption class="caption-text">Luna in Brooklyn (Photo: Joakim)</figcaption></figure>
 
 <p class="text-muted">If you want to listen to the show while reading Joakim's post <a href="http://www.nyctaper.com/2016/10/luna-october-1-2016-rough-trade/">head over to NYCTaper who have it to stream/download</a></p>
 
@@ -129,7 +129,7 @@ longpost: true
 <!--more-->
 <p>We are visiting my grandmother, she is not well, remembers almost nothing, is talking nonsense. She is not well, she has alzheimer's. While I'm used to nonsense from lyrics, it's something different to hear it for real. But it's not nonsense to her, but it is for my brother and my father, it is not nonsense to me. She is speaking from her heart. With her brain playing tricks. Her heart is right, her brain is playing tricks. I don't mind. I see her in front of me, one more time. It might be the last time I see her.</p>
 
-<div class="col-md-6 pull-right">{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-frank-005.jpg" "Britta is bending her knees (Photo: Frank)" %}</div>
+<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-frank-005.jpg" alt="Britta is bending her knees (Photo: Frank)" /><figcaption class="caption-text">Britta is bending her knees (Photo: Frank)</figcaption></figure></div>
 
 <p>I am watching my films I recorded from the Brooklyn shows. I filmed both shows, all of it, with four cameras set up in the venue. I had no experience what so ever with this kind of thing and I had to improvise, and I got all the equipment a few days before the trip. I even got the main camera shipped to the hotel in Washington. And I'm watching it. It brings me back.</p>
 
@@ -145,7 +145,7 @@ longpost: true
 
 <p>I'm back home again. Just had a crab dinner by myself. All alone, just two cats running around, one chasing the other, fur is flying. Ulrika is at a Christmas party with her office, wearing a dress for the first time that I bought for her. "We are not having fancy dinners enough for this dress" she says. Some day, I will show her. I'm glad it gets used. It's a brown crab, bigger than the blue crabs, more meat in the shield, very thick front claws, the salty umami packed meat is delicious, pairs well with Belgian dark sweet ales. And there's Luna playing in Brooklyn again. Memories that don't fade, it was two very interesting nights.</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-009.jpg" "Luna (Photo: Joakim)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-009.jpg" alt="Luna (Photo: Joakim)" /><figcaption class="caption-text">Luna (Photo: Joakim)</figcaption></figure>
 
 <p>I asked Dean if I could film the Brooklyns shows and he said "yes, do whatever you want as long as you are not up on stage". I quickly got equipment and tried to learn how to use it. I was going to use four cameras plus some occasional help from Ulrika too. I knew it was going to be a nightmare to edit it all afterwards, but I really wanted to try, see what could come out of it. And I did it. But I was nervous, didn't have any appetite. The band let me in during soundcheck so I could set up the cameras. I had one camera on the front side balcony, just above Britta. It was in the VIP section, close to the backstage room. And I had cameras in the back and behind the stage, small cheap ones that were probably not even gonna record any usable material.</p>
 
@@ -159,7 +159,7 @@ longpost: true
 
 <p>We met Frank and Marjorie in the line before the show started. I was filming and I was nervous, we got back from our meal, Mike and Ulrika talked instead of me. Dean & Britta came out and said hello, they had finished their soundcheck, and were going to have dinner with Dean's younger brother.</p>
 
-<div class="col-md-6 pull-right">{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-006.jpg" "Dean and his brother (Photo: Joakim)" %}</div>
+<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-006.jpg" alt="Dean and his brother (Photo: Joakim)" /><figcaption class="caption-text">Dean and his brother (Photo: Joakim)</figcaption></figure></div>
 
 <p>My grandmother didn't remember us. But she remembers my mother. &ldquo;My little girl&rdquo;, she said, staring into the empty space in front of her. Her eyes looking just grey, shiny and grey. Someone from the staff had painted her fingernails. Her hair was grey, short and curly like always. She is still much smarter than the rest of us. Commenting the things we say, answering, but she's answering other questions, more relevant questions. Questions than mean something to her. Her little girl. My mother.</p>
 
@@ -179,7 +179,7 @@ longpost: true
 
 <p>The other day I couldn't help myself from writing a message to Britta. How are you doing, I said, haven't heard much from you lately, are you alright? I asked. She replied and said they are fine, they are laying low after the election, and they are moving, moving in Los Angeles is like moving from London to Liverpool. I've never been in Los Angeles, I want to see it, but I don't know if I ever will. I like Bangkok, I like Rome, I don't like New York very much, I don't like London either. I like Stockholm, very very much. I always cry when I get back here, with the bus from the airport to where we live. It's not my home town, but it's where I feel at home.</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-007.jpg" "Dean Wareham (Photo: Joakim)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-007.jpg" alt="Dean Wareham (Photo: Joakim)" /><figcaption class="caption-text">Dean Wareham (Photo: Joakim)</figcaption></figure>
 
 <p>Like seeing Luna play. They are playing. Dean with his plastic slide, or metallic, don't know, it just doesn't matter, I like watching Sean moving his head, playing chords, playing whatever he wants, and I hear Britta playing, Lee too of course, it's probably Freaking and Peaking, I don't know, it's just so good, sometimes I don't care what songs they play, I say stare, I just listen, just listening.</p>
 
@@ -193,7 +193,7 @@ longpost: true
 
 <p>I keep staring at Dean. I sent a picture of the crab to my brother, while Dean is playing one of his glorious, wonderful solos, lifting his guitar, high, shaking his head, and my brother is texting me back that he loves those crabs, he eats probably 100 brown crabs each year, a lot of them, and he says &ldquo;maybe that's why I'm so stupid&rdquo;. It's my brother. He might not be like me, not like others, but he is my brother. I'm glad he is alive, I'm glad my father is alive, they shouldn't be I guess, my brother got kids, they are happy, Dean and the band, they are happy too, Frank, Mike, Ulrika, Marjorie. My shoulders are low, relaxed, it's just such a good night. It's blurry. And the band get on stage again. And Dean is teasing us again with Ihop. So funny. &ldquo;Get the record when you get home.&rdquo;</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-004.jpg" "Joakim, Mike and Ulrika (Photo: Joakim)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-004.jpg" alt="Joakim, Mike and Ulrika (Photo: Joakim)" /><figcaption class="caption-text">Joakim, Mike and Ulrika (Photo: Joakim)</figcaption></figure>
 
 <p>It's Blue Thunder again. Ulrika is still at her party, with her blue dress. I'm sure she looks good in it. I'm alone, happy, free, I drive so far away. It's the end of the show. Everyone is happy, talking about the show, like always. I plan to grab my gear. The camera on the balcony is gone. Just gone. I ask the nice woman, and she is devastated. &ldquo;Someone took your camera&rdquo;, she says.</p>
 

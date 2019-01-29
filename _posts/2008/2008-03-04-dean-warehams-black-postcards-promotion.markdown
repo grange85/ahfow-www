@@ -32,7 +32,7 @@ tags: []
 <li><strong>26 March 2008</strong> @ Book Court, 163 Court Street, Brooklyn, NY - 7:00pm<br />
 <em>Reading, book signing and Q&A</em></li>
 </ul>
-<div style="text-align:center"><img src="http://www.fullofwishes.co.uk/wp/wp-content/uploads/2007/12/410aifzt3sl.jpg" alt='Black Postcards cover' /></div>
+<div style="text-align:center"><img src="https://www.fullofwishes.co.uk/wp/wp-content/uploads/2007/12/410aifzt3sl.jpg" alt='Black Postcards cover' /></div>
 <p>If you can't make it to one of the signings you can buy the book from A Shop Full of Wishes...</p>
 <ul>
 <li><span class="removed_link" title="http://shop.fullofwishes.co.uk/us/1594201552">Pre-order Black postcards from A Shop Full of Wishes (US)</span></li>

@@ -9,13 +9,13 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2016-05-11 22:00:00 +0000'
-imageurl: http://media.fullofwishes.co.uk/02-luna/show_assets/2016-05-05/2016-05-05-terry-tolkin-luna-austin-joakim.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2016-05-05/2016-05-05-terry-tolkin-luna-austin-joakim.jpg
 categories:
 - news
 - luna
 tags: []
 ---
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2016-05-05/2016-05-05-terry-tolkin-luna-austin-joakim.jpg" "Terry Tolkin introducing Luna in Austin (Photo: Joakim)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2016-05-05/2016-05-05-terry-tolkin-luna-austin-joakim.jpg" alt="Terry Tolkin introducing Luna in Austin (Photo: Joakim)" /><figcaption class="caption-text">Terry Tolkin introducing Luna in Austin (Photo: Joakim)</figcaption></figure>
 <p class="lead">Terry Tolkin is the A&R man who signed Luna to Elektra and anyone who's encountered him on Facebook knows that he has a hatful of amazing stories about the music industry that would make an amazing book.</p>
 
 <div class="bg-info">

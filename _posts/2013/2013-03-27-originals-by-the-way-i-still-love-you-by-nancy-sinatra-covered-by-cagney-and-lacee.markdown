@@ -19,12 +19,12 @@ categories:
 - originals
 tags: []
 ---
-<p><figure class="caption aligncenter"><img src="http://media.fullofwishes.co.uk/00-misc/pictures/nancy-and-lee.jpg" width="550" height="470" class /><figcaption class="caption-text"> Nancy and Lee</figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/nancy-and-lee.jpg" width="550" height="470" class /><figcaption class="caption-text"> Nancy and Lee</figcaption></figure>
 By The Way was written by Lee Hazlewood and released on Country, My Way by Nancy Sinatra (I guess the album title's a little nod to her dad?). Cagney and Lacee first released it as on the b-side of their <a href="/database/release/time-cagney-and-lacee/">7" single Time on No.6 Records</a> and then later on the <a href="/database/release/six-feet-of-chain-cagney-and-lacee/">Six Feet of Chain</a> album.<br />
 <a id="more"></a><a id="more-3891"></a><br />
 Another track that doesn't seem to have made it to the free bits of the Internet but you can check it out on Spotify...<br />
 <iframe class="aligncenter" src="https://embed.spotify.com/?uri=spotify:track:1PKgeANqvc1OHbhOogouxc" width="300" height="380" frameborder="0" allowtransparency="true"></iframe></p>
 
-{% ahfowaudio "http://media.fullofwishes.co.uk.s3.amazonaws.com/05-dean_wareham/audio/05_Cagney%20and%20Lacee_By%20the%20Way.mp3" "By The Way (I Still Love You) - Cagney and Lacee" %}
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/05_Cagney%20and%20Lacee_By%20the%20Way.mp3">By The Way (I Still Love You) - Cagney and Lacee</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/05_Cagney%20and%20Lacee_By%20the%20Way.mp3"></audio></div>
 
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

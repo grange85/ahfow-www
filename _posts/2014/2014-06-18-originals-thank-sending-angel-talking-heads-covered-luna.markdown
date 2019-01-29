@@ -27,6 +27,6 @@ tags: []
 <p>Luna's cover was first released on their Bonnie and Clyde single on Beggars Banquet in 1995 and later on their EP on No.6.<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zAOEXZKGCSc" frameborder="0" allowfullscreen></iframe>
 <p>Here's a live version from San Francisco in February 1994<br />
-MP3: <a href="http://media.fullofwishes.co.uk/02-luna/audio/1994-02-18-luna-thank-you-for-sending-me-an-angel.mp3">Luna - Thank You for Sending Me an Angel (live in San Francisco, Februaru 1994)</a><br />
-<audio src="http://media.fullofwishes.co.uk/02-luna/audio/1994-02-18-luna-thank-you-for-sending-me-an-angel.mp3" preload="none" controls /></p>
+MP3: <a href="https://media.fullofwishes.co.uk/02-luna/audio/1994-02-18-luna-thank-you-for-sending-me-an-angel.mp3">Luna - Thank You for Sending Me an Angel (live in San Francisco, Februaru 1994)</a><br />
+<audio src="https://media.fullofwishes.co.uk/02-luna/audio/1994-02-18-luna-thank-you-for-sending-me-an-angel.mp3" preload="none" controls /></p>
 <p><a href="/category/originals/" title="List: Originals">See all the posts in the "Originals" series</a></p>

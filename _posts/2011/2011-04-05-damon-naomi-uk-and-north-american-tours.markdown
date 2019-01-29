@@ -18,7 +18,7 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p><figure class="caption alignright" width="239" caption="photo: Anabel V&aacute;zquez Rodr&iacute;guez"><img src="http://www.fullofwishes.co.uk/wp/wp-content/uploads/2011/04/damonnaomi.06-239x300.jpg" alt="Michio Kurihara, Naomi Yang, Damon Krukowski" title="damonnaomi.06" width="239" height="300" class="size-medium wp-image-2155" /><figcaption class="caption-text">[/caption]Damon & Naomi are playing four dates in the UK in early May and then will be heading out on an extensive North American tour with <a href="http://www.amordedias.com/">Amor de D&iacute;as</a>. </figcaption></figure>
+<p><figure class="caption alignright" width="239" caption="photo: Anabel V&aacute;zquez Rodr&iacute;guez"><img src="https://www.fullofwishes.co.uk/wp/wp-content/uploads/2011/04/damonnaomi.06-239x300.jpg" alt="Michio Kurihara, Naomi Yang, Damon Krukowski" title="damonnaomi.06" width="239" height="300" class="size-medium wp-image-2155" /><figcaption class="caption-text">[/caption]Damon & Naomi are playing four dates in the UK in early May and then will be heading out on an extensive North American tour with <a href="http://www.amordedias.com/">Amor de D&iacute;as</a>. </figcaption></figure>
 <p>The UK dates will be with Michio Kurihara and musician <a href="http://en.wikipedia.org/wiki/Richard_Youngs">Richard Youngs</a>. Damon will be playing drums for Richard Youngs on these dates.</p>
 <ul>
 <li>2011-05-09 	Captain's Rest 	Glasgow, UK 	</li>

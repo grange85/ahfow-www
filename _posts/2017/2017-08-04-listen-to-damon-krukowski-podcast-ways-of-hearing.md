@@ -4,14 +4,14 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: Listen to Damon Krukowski's new podcast Ways of Hearing 
+title: Listen to Damon Krukowski's new podcast Ways of Hearing
 author:
   display_name: Andy
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2017-08-04 23:30 +0000
-imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-podcast-ways-of-hearing.jpg
+imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-podcast-ways-of-hearing.jpg
 categories:
  - damon & naomi
  - news
@@ -25,4 +25,4 @@ tags:
 <p>In the first episode Damon ponders the differences between digital and analog time and how "machines have a different sense of time".</p>
 <p>You can find out more about the series and listen to (or subscribe to) the first episode over at the <a href="https://www.radiotopia.fm/podcasts/showcase">Showcase web site</a>.</p>
 <p>The first episode was also previewed as part of the excellent <a href="http://99percentinvisible.org/episode/ways-of-hearing/">99% Invisible podcast</a> earlier in the week.</p>
-{% ahfowimage "http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-podcast-ways-of-hearing.jpg" "Ways of Hearing" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-podcast-ways-of-hearing.jpg" alt="Ways of Hearing" /><figcaption class="caption-text">Ways of Hearing</figcaption></figure>

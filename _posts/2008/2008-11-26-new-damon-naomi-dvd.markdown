@@ -18,6 +18,6 @@ categories:
 - damon & naomi
 tags: []
 ---
-<div class="imagebox-a"><img src="http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan-shibuyaonest2008.jpg" width="200" height="200" alt="DVD sleeve"/></div>
+<div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan-shibuyaonest2008.jpg" width="200" height="200" alt="DVD sleeve"/></div>
 <p>Damon & Naomi are releasing another limited edition DVD of their live show. Recorded over two nights in Tokyo Japan the <span class="removed_link" title="http://www.damonandnaomi.com/merchandise/merch.html">DVD is available to pre-order on their website</span> and all orders will be shipped on 5 December and should arrive in time for the holidays.</p>
 <blockquote><p>[Hiroo] Ishihara has now cut together tracks from those two January nights in Tokyo, to make a document of our 2007/8 live show. There is no overlap in material from our previous DVD of 2005. This new set features a number of songs from Within These Walls; but also several older songs we don't usually play, which our Japanese hosts had requested (reaching all the way back to This Car Climbed Mt. Washington, from More Sad Hits).</p></blockquote>

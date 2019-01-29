@@ -17,6 +17,6 @@ categories:
 - news
 tags: []
 ---
-<p>It's survey time again so start figuring out your favourite albums and tracks and then head on over to <span class="removed_link" title="http://db.fullofwishes.co.uk/surveyform/">the survey form</span> and make your pics. You can choose one album and five tracks for each artist (Galaxie 500, Luna, Damon & Naomi and Dean & Britta). I'll probably let it run for three or four weeks (or when the form-filling dries up) so expect results shortly before xmas.</p>
-<p>If you need some inspiration feel free to peruse last year's <a href="http://db.fullofwishes.co.uk/survey/2006/">Survey results</a> (and previous surveys back until 1995)</p>
+<p>It's survey time again so start figuring out your favourite albums and tracks and then head on over to <span class="removed_link" title="https://db.fullofwishes.co.uk/surveyform/">the survey form</span> and make your pics. You can choose one album and five tracks for each artist (Galaxie 500, Luna, Damon & Naomi and Dean & Britta). I'll probably let it run for three or four weeks (or when the form-filling dries up) so expect results shortly before xmas.</p>
+<p>If you need some inspiration feel free to peruse last year's <a href="https://db.fullofwishes.co.uk/survey/2006/">Survey results</a> (and previous surveys back until 1995)</p>
 <p>Please <a href="mailto:andy@grange85.co.uk">get in touch</a> if there are any problems and feel free to <a href="mailto:andy@grange85.co.uk">email me</a> your entry if you prefer.</p>

@@ -24,14 +24,14 @@ tags: []
 <p>And here's George (although not sure of the source of this version)<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dglAZzKa7xE" frameborder="0" allowfullscreen></iframe>
 <p>Galaxie 500 covered the song on their second album On Fire:<br />
-<iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=158016030/size=medium/bgcol=ffffff/linkcol=0687f5/t=10/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/on-fire">On Fire by Galaxie 500</a></iframe></p>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=158016030/size=medium/bgcol=ffffff/linkcol=0687f5/t=10/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/on-fire">On Fire by Galaxie 500</a></iframe></p>
 <p>The band didn't play it live because, according to this 1990 interview in Sounds, because it was "too hard":<br />
-<img src="http://media.fullofwishes.co.uk/01-galaxie_500/pictures/19900929_sounds_snippet.jpg" width="500" height="203" class="aligncenter" /></p>
+<img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/19900929_sounds_snippet.jpg" width="500" height="203" class="aligncenter" /></p>
 <p>I guess things get easier over time as Dean's been playing it a few times of late:</p>
 <p>With Britta and Jonathan and Grasshopper of Mercury Rev:<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VOQx1IkN2II" frameborder="0" allowfullscreen></iframe>
 <p>With My Morning Jacket</p>
-{% ahfowvideo "qi8RVYOYZO8" "" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/qi8RVYOYZO8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>And finally Dean & Britta struggling through it in Sweden</p>
-{% ahfowvideo "5j2LWCsE24A" "" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/5j2LWCsE24A" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

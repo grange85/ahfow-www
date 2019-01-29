@@ -25,12 +25,12 @@ Happy birthday Britta.</p>
 <p>So far this year Britta has been Dean's bass player, made a cameo in forthcoming movie of <a href="http://www.imdb.com/title/tt3614530/combined">Jem and the Holograms</a>, and is hopefully wrapping up the album that was delayed by the untimely passing of producer Scott Hardkiss</p>
 <p>Here's Britta's lovely cover of Spectrum's How You Satisfy Me from Club AC30's Never Lose That Feeling, vol 2</p>
 
-{% ahfowaudio "http://media.fullofwishes.co.uk/00-misc/audio/britta-phillips-how-you-satisfy-me.mp3" "Britta Phillips - How You Satisfy Me (Spectrum cover)" %}
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/britta-phillips-how-you-satisfy-me.mp3">Britta Phillips - How You Satisfy Me (Spectrum cover)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/britta-phillips-how-you-satisfy-me.mp3"></audio></div>
 
 <p>Next up here she is adding vocals to Some Things Last a Long Time from last year's splendid Füxa album The Electric Sounds of Summer.<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UcEqp-SwoZo" frameborder="0" allowfullscreen></iframe>
 <p>Here's her and Dean in last year's Frances Ha<br />
-<img src="http://media.fullofwishes.co.uk/00-misc/pictures/frances-ha-screencap.jpg" width="640" height="338" alt="Dean & Britta in Frances Ha" class="aligncenter" /></p>
+<img src="https://media.fullofwishes.co.uk/00-misc/pictures/frances-ha-screencap.jpg" width="640" height="338" alt="Dean & Britta in Frances Ha" class="aligncenter" /></p>
 <p><a href="/2013/06/happy-birthday-britta-phillips/" title="Happy birthday Britta Phillips">Lots more MP3 downloads in last years birthday post</a></p>
 <p><a href="/2012/06/audio-happy-birthday-britta-phillips/" title="Audio: Happy Birthday Britta Phillips">And here's 2011's birthday greeting</a>.</p>
 <p>Have a lovely day Britta! Treat yourself to an egg...<br />

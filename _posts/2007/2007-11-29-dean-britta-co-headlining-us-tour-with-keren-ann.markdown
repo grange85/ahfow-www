@@ -19,4 +19,4 @@ categories:
 tags: []
 ---
 <p>Dean & Britta have announced a co-headlining tour of the US with singer-songwriter Keren Ann(<a href="http://www.rounder.com/index.php?id=news.php&newsId=817">via Rounder Records - News</a>).</p>
-<p><span class="removed_link" title="http://db.fullofwishes.co.uk/upcoming/dean_and_britta/">Full tour dates here</span></p>
+<p><span class="removed_link" title="https://db.fullofwishes.co.uk/upcoming/dean_and_britta/">Full tour dates here</span></p>

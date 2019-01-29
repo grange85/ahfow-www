@@ -19,7 +19,7 @@ categories:
 - fortune
 tags: []
 ---
-<p><figure class="caption aligncenter"><img src="http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-fortune.jpg" width="1200" height="1200" class /><figcaption class="caption-text"> Fortune by Damon & Naomi</figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-fortune.jpg" width="1200" height="1200" class /><figcaption class="caption-text"> Fortune by Damon & Naomi</figcaption></figure>
 Oh.. I know becuause of the way the modern world works Fortune has been available digitally for weeks and the vinyl has been a bit delayed... but officially Damon & Naomi's new album was been released today, and it arrives with a <a href="http://pitchfork.com/reviews/albums/20258-fortune/">lovely (7.0) review in Pitchfork</a>:</p>
 <blockquote><p>Using little more than acoustic guitar, keyboards and Krukowski’s jazz-tinged drumming, they have crafted arrangements for these 11 pieces that sound remarkably full-bodied. And it would appear that the natural constraints of the soundtrack form have worked to their advantage. The songs are concise and focused, hitting their melodic or lyrical marks and then quickly moving to the next scene without getting weighted down by repetition or digression.</p></blockquote>
 <ul>

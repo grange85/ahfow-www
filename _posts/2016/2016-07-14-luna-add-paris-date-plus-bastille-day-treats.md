@@ -16,7 +16,7 @@ imageurl: https://c8.staticflickr.com/8/7077/7010719271_da9a7857f6_b.jpg
 categories:
 - luna
 - news
-tags: 
+tags:
 - paris
 - france
 - bastille day
@@ -31,7 +31,7 @@ longpost: true
         <tbody>
 <tr>
         <th class="col-md-4">12 October 2016</th>
-        <td class="col-md-8"><a href="http://db.fullofwishes.co.uk/luna/shows/2016/2016-10-12-petit-bain-paris-france/">Petit Bain, Paris, France</a></td>
+        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/luna/shows/2016/2016-10-12-petit-bain-paris-france/">Petit Bain, Paris, France</a></td>
         </tr>
 
 </tbody></table>
@@ -39,43 +39,28 @@ longpost: true
 <p>In honour of that, and as today is Bastille Day, we'llc elebrate with some french flavoured AHFoW tracks:</p>
 <!--more-->
 <p>First up Luna playing Bonnie and Clyde in Porto last year&hellip;</p>
-{% ahfowvideo "XxE170KbLbM" "Luna playing Bonnie and Clyde in Porto in 2015" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/XxE170KbLbM" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna playing Bonnie and Clyde in Porto in 2015</figcaption></figure>
 <p>Next, their cover of Polnareff's La poupée qui fait non:</p>
-{% ahfowaudio2
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/02-luna/audio/03-luna-la-poupee-qui-fait-non.mp3",
-  "audiocap": "La poupée qui fait non - Luna",
-  "sourceurl": "http://db.fullofwishes.co.uk/luna/releases/luna-lunafied-luna-covers/",
-  "sourcecap": "Lunafied"
-  }
-%}
-
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/03-luna-la-poupee-qui-fait-non.mp3">La poupée qui fait non - Luna</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/03-luna-la-poupee-qui-fait-non.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="https://db.fullofwishes.co.uk/luna/releases/luna-lunafied-luna-covers/">Lunafied</a></em></p>
+</div>
 <p>And here's Dean & Britta's gorgeous French language cover of White Horses:</p>
-{% ahfowaudio2
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-white-horses-version-francaise.mp3",
-  "audiocap": "White Horses (version Fran&ccedil;aise)- Luna",
-  "sourceurl": "http://db.fullofwishes.co.uk/dean-and-britta/releases/dean-and-britta-white-horses/",
-  "sourcecap": "Dean & Britta - White Horses - Sonic Cathedral (2007)"
-  }
-%}
-
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-white-horses-version-francaise.mp3">White Horses (version Fran&ccedil;aise)- Luna</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-white-horses-version-francaise.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="https://db.fullofwishes.co.uk/dean-and-britta/releases/dean-and-britta-white-horses/">Dean & Britta - White Horses - Sonic Cathedral (2007)</a></em></p>
+</div>
 <p>Next up is Luna playing Anesthesia from Luna Live - which has Dean "support[ing] the French Revolution"</p>
-{% ahfowaudio2
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/02-luna/audio/06-luna-anesthesia-luna-live.mp3",
-  "audiocap": "Luna - Anesthesia (Luna Live)",
-  "sourceurl": "http://db.fullofwishes.co.uk/luna/releases/luna-live/",
-  "sourcecap": "Luna - Live"
-  }
-%}
-
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/06-luna-anesthesia-luna-live.mp3">Luna - Anesthesia (Luna Live)</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/06-luna-anesthesia-luna-live.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="https://db.fullofwishes.co.uk/luna/releases/luna-live/">Luna - Live</a></em></p>
+</div>
 <p>&hellip; and another Bonnie and Clyde, this one with Keren Ann in 2008:</p>
-{% ahfowaudio2
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-amd-britta-keren-ann-2008-02-15-bonnie-and-clyde.mp3",
-  "audiocap": "Dean & Britta with Keren Ann - Bonnie and Clyde",
-  "sourceurl": "",
-  "sourcecap": "KEXP"
-  }
-%}
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-amd-britta-keren-ann-2008-02-15-bonnie-and-clyde.mp3">Dean & Britta with Keren Ann - Bonnie and Clyde</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-amd-britta-keren-ann-2008-02-15-bonnie-and-clyde.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="">KEXP</a></em></p>
+</div>

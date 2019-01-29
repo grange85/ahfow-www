@@ -9,7 +9,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2016-08-08 21:00:00 +0000'
-imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-krukowski-the-new-analog.jpg
+imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-krukowski-the-new-analog.jpg
 categories:
 - news
 - damon & naomi
@@ -17,7 +17,7 @@ tags:
 - damon krukowski
 - extracurricular
 ---
-{% ahfowimage "http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-krukowski-the-new-analog.jpg" "Damon Krukowski - The New Analog" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-krukowski-the-new-analog.jpg" alt="Damon Krukowski - The New Analog" /><figcaption class="caption-text">Damon Krukowski - The New Analog</figcaption></figure>
 <p class="lead">Damon will be presenting a talk presenting ideas from his forthcoming book <a href="http://www.dadadrummer.com/books-1/#/newanalog/">The New Analog</a> on Thursday 11th August in Boston</p>
 <p>The talk will take place at the recently opened <a href="http://www.podcastgarage.org/events/2016/8/11/signals-the-new-analog">The Podcast Garage</a> at 267 Western Avenue, Boston MA.</p>
 <p>The book of The New Analog will be coming out on The New Press in 2017 and will...</p>

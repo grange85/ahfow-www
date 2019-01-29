@@ -11,7 +11,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2017-08-10
-imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-a-sentimental-education-lo-res.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-a-sentimental-education-lo-res.jpg
 categories:
  - luna
  - news
@@ -19,7 +19,7 @@ tags:
  - a sentimental education
  - pledgemusic
 ---
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/pictures/luna-2017-promo-luz-gallardo.jpg" "Luna - A Sentimental Education (Photo: Luz Gallardo)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/luna-2017-promo-luz-gallardo.jpg" alt="Luna - A Sentimental Education (Photo: Luz Gallardo)" /><figcaption class="caption-text">Luna - A Sentimental Education (Photo: Luz Gallardo)</figcaption></figure>
 
 <p>If you haven't been watching closely (or haven't "pledged") you might have missed things happening on <a href="http://www.pledgemusic.com/projects/luna2/">Luna's Pledgemusic</a>. If you've not pledged this is what you can get in addition to an album for as little as a tenner!</p>
 

@@ -25,6 +25,6 @@ You see I didn't think this through fully. Back when I started this series and w
 <p>Luna recorded the song as a b-side during the sessions for their fifth album <a href="/database/release/the-days-of-our-nights/" title="The Days Of Our Nights">The Days of Our Nights</a> but US label at the time insisted they put it on the album. And then dropped the band before releasing it:</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xemNsR6TzrA" frameborder="0" allowfullscreen></iframe>
 <p>Here's a radio session version from some time in 1999 (I have it listed as January 2000 but Justin is on the recording and had left the band by then so I guess the date is a broadcast date, not the recording date).<br />
-MP3: <a href="http://media.fullofwishes.co.uk/02-luna/audio/luna-sweet-child-world-cafe-1999.mp3">Luna - Sweet Child o' Mine (World Café 1999)</a><br />
-<audio src="http://media.fullofwishes.co.uk/02-luna/audio/luna-sweet-child-world-cafe-1999.mp3" preload="none" controls /></p>
+MP3: <a href="https://media.fullofwishes.co.uk/02-luna/audio/luna-sweet-child-world-cafe-1999.mp3">Luna - Sweet Child o' Mine (World Café 1999)</a><br />
+<audio src="https://media.fullofwishes.co.uk/02-luna/audio/luna-sweet-child-world-cafe-1999.mp3" preload="none" controls /></p>
 <p><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></p>

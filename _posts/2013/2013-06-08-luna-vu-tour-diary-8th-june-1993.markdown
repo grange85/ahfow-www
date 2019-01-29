@@ -18,7 +18,7 @@ categories:
 - velvet underground tour diary
 tags: []
 ---
-<div class="col-md-6 pull-right">{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/pictures/41356_1476490645606_1633930988_1144507_201511_n.jpg" "Stan Demeski's All Access pass" %}</div>
+<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/41356_1476490645606_1633930988_1144507_201511_n.jpg" alt="Stan Demeski's All Access pass" /><figcaption class="caption-text">Stan Demeski's All Access pass</figcaption></figure></div>
 
 <p><strong>June 8</strong></p>
 <p>The Paradiso, Amsterdam. Rumors that Luna will not be able to fit on stage turn out to be false. This is the smallest show on the tour with a capacity of 1200 and no air-conditioning, and there's a heatwave here in Holland. We have a great show - the heat makes us sweat and look like we're really rocking even though we're standing still.</p>

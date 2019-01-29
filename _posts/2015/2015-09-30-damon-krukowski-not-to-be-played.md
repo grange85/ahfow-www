@@ -17,7 +17,7 @@ tags:
  - exhibition
  - visual arts
 ---
-{% ahfowimage "http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/2015-10-dk-not-to-be-played.jpg" "Acetate record containing Ezra Pound reading Sestina" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/2015-10-dk-not-to-be-played.jpg" alt="Acetate record containing Ezra Pound reading Sestina" /><figcaption class="caption-text">Acetate record containing Ezra Pound reading Sestina</figcaption></figure>
 
 <p class="lead">The Carpenter Center for Visual Arts in Cambridge MA is hosting an exhibition by Damon Krukowski called <a href="http://ccva.fas.harvard.edu/damon-krukowski-not-be-played">NOT TO BE PLAYED</a> that is described as:</p>
 

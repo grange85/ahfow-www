@@ -25,8 +25,8 @@ Just a quickie to-day as I've posted a couple of times about Victory Garden befo
 Originally by Red Krayola on their second LP "God Bless the Red Krayola and All Who Sail With It" in 1968<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bur-14Z1gN4" frameborder="0" allowfullscreen></iframe>
 <p>Galaxie 500 released it on the b-side of their Blue Thunder single, and it has more recently been on the CD reissues of On Fire.<br />
-<iframe width="400" height="100" style="position: relative; display: block; width: 400px; height: 100px;" src="http://bandcamp.com/EmbeddedPlayer/v=2/track=2115667322/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://galaxie500.bandcamp.com/track/victory-garden">Victory Garden by Galaxie 500</a></iframe></p>
+<iframe width="400" height="100" style="position: relative; display: block; width: 400px; height: 100px;" src="https://bandcamp.com/EmbeddedPlayer/v=2/track=2115667322/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://galaxie500.bandcamp.com/track/victory-garden">Victory Garden by Galaxie 500</a></iframe></p>
 
-{% ahfowaudio "http://media.fullofwishes.co.uk/01-galaxie_500/audio/1989-11-15-galaxie-500-victory-garden-netherlands.mp3" "Galaxie 500 - Victory Garden (live in The Netherlands, 1989)" %}
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/01-galaxie_500/audio/1989-11-15-galaxie-500-victory-garden-netherlands.mp3">Galaxie 500 - Victory Garden (live in The Netherlands, 1989)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/01-galaxie_500/audio/1989-11-15-galaxie-500-victory-garden-netherlands.mp3"></audio></div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yDBggOqPVg8" frameborder="0" allowfullscreen></iframe>

@@ -12,14 +12,14 @@ author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 date: '2016-05-30 09:00:00 +0100'
-imageurl: http://media.fullofwishes.co.uk/02-luna/show_assets/2016-05-28/2016-05-28-luna-mass-moca-thomas-barrasso-01.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2016-05-28/2016-05-28-luna-mass-moca-thomas-barrasso-01.jpg
 categories:
 - luna
 - news
-tags: 
+tags:
 - download
 - dimeadozen
 ---
 <p class="lead">Longtime friend of (and photo contributor to) of A Head Full of Wishes <a href="http://www.nebulastudios.smugmug.com/">Thomas Barrasso</a> sent in this lovely picture of Dean Wareham from last weekend's show at MASS MoCA.</p>
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2016-05-28/2016-05-28-luna-mass-moca-thomas-barrasso-01.jpg" "Dean Wareham of Luna (photo: Thomas Barrasso)" %}
-<p>If anyone has a setlist or anything else they want to share with AHFoW - from this, or any other, show - <a href="http://www.fullofwishes.co.uk/about/">please give me a shout</a>!</p>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2016-05-28/2016-05-28-luna-mass-moca-thomas-barrasso-01.jpg" alt="Dean Wareham of Luna (photo: Thomas Barrasso)" /><figcaption class="caption-text">Dean Wareham of Luna (photo: Thomas Barrasso)</figcaption></figure>
+<p>If anyone has a setlist or anything else they want to share with AHFoW - from this, or any other, show - <a href="https://www.fullofwishes.co.uk/about/">please give me a shout</a>!</p>

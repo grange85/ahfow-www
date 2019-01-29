@@ -31,7 +31,7 @@ tags: []
 <p><a href="http://newbeats.com/2015/06/12/luna/">NewBeats has a short review and some nice pictures from the show.</a></p>
 <blockquote><p>Clearly the band was still in peak form based on the performance, especially when Wareham and Eden traded both tasty lead and rhythm parts, not to mention some humorous, friendly banter like old times</p></blockquote>
 <p>Here's the band playing Tiger Lily courtesy of michaelfgioia on YouTube</p>
-{% ahfowvideo "qVLK7CoYgpE" "" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/qVLK7CoYgpE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>There are stacks of photos on Instagram... but you Instagram doesn't make here are a couple</p>
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;">
 <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;">

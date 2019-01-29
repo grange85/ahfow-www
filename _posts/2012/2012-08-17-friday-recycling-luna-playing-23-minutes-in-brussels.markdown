@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-imageurl: http://media.fullofwishes.co.uk/00-misc/pictures/23-flickr-fraumrau-172458800-cc.jpg
+imageurl: https://media.fullofwishes.co.uk/00-misc/pictures/23-flickr-fraumrau-172458800-cc.jpg
 date: '2012-08-17 13:30:10 +0100'
 categories:
 - luna
@@ -25,15 +25,11 @@ tags: []
 
 <p class="lead">Here's a bunch of versions of 23 Minutes in Brussels I've shared on AHFoW over the years (and a couple I haven't shared before)</p>
 
-{% ahfowaudio2
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/02-luna/audio/luna-20050228-23-minutes-in-brussels-nyc.mp3",
-  "audiocap": "Luna playing 23 Minutes in Brussels at their farewell show in 2005",
-  "sourceurl": "http://db.fullofwishes.co.uk/luna/shows/2005/2005-02-28-luna-bowery-ballroom-new-york-ny-usa/",
-  "sourcecap": "28 February 2005 - Luna - Bowery Ballroom, New York NY, USA"
-  }
-%}
-
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/luna-20050228-23-minutes-in-brussels-nyc.mp3">Luna playing 23 Minutes in Brussels at their farewell show in 2005</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/luna-20050228-23-minutes-in-brussels-nyc.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="https://db.fullofwishes.co.uk/luna/shows/2005/2005-02-28-luna-bowery-ballroom-new-york-ny-usa/">28 February 2005 - Luna - Bowery Ballroom, New York NY, USA</a></em></p>
+</div>
 <ul>
 <li><strong>MP3: </strong><a href="https://www.box.com/shared/o9bg9fykoc">Luna - Tramps, NYC 1994 - very early version with completely different lyrics</a></li>
 <li><strong>MP3: </strong><a href="https://www.box.com/shared/obvpf2o7dn">Luna - Mark Radcliffe session 1995 - radio performance</a></li>
@@ -44,7 +40,7 @@ tags: []
 <li><strong>MP3: </strong><a href="https://www.box.com/s/ea5f8d269946bf3033b0">Dean & Britta (feat. Sean Eden) - Shine a Light 2012</a> (<span class="removed_link" title="http://www.nyctaper.com/?p=10394">whole show download via NYCTaper</span>)</li>
 </ul>
 
-{% ahfowvideo "81Sv57rbujA" "Tell Me Do You Miss Me end titles" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/81Sv57rbujA" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Tell Me Do You Miss Me end titles</figcaption></figure>
 
 <ul>
 <li><strong>Video: </strong><a href="http://www.youtube.com/watch?v=ne1bNtx2SOw">Luna 1995 Knitting Factory</a></li>

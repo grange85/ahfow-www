@@ -12,13 +12,13 @@ layout: null
         <itunes:name>Andy Aldridge</itunes:name>
         <itunes:email>andy@fullofwishes.co.uk (Andy Aldridge)</itunes:email>
     </itunes:owner>
-    <itunes:image href="http://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-2015-site-image1400x1400.jpg" />
+    <itunes:image href="https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-2015-site-image1400x1400.jpg" />
     <image>
-        <url>http://media.fullofwishes.co.uk/00-misc/ahfow-web/wishes-fb-icon-125x125.jpg</url>
+        <url>https://media.fullofwishes.co.uk/00-misc/ahfow-web/wishes-fb-icon-125x125.jpg</url>
         <width>125</width>
         <height>125</height>
         <title>{{ site.title | xml_escape }} - podcasts</title>
-        <link>http://www.fullofwishes.co.uk</link>
+        <link>https://www.fullofwishes.co.uk</link>
     </image>
     <managingEditor>andy@fullofwishes.co.uk (Andy Aldridge)</managingEditor>
     <language>en-gb</language>

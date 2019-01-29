@@ -18,7 +18,7 @@ categories:
 - pictures
 tags: []
 ---
-<div class="imagebox-a"><a href="http://www.flickr.com/photos/chromewaves/419683410/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/150/419683410_311781e2a7_m.jpg" alt="20070312-deanAndBritta" /></a><br/><strong>20070312-deanAndBritta</strong><br/>originally uploaded by <a href="http://www.flickr.com/people/chromewaves/">chromewaves</a></div>
+<div class="imagebox-a"><a href="http://www.flickr.com/photos/chromewaves/419683410/" title="Photo Sharing"><img src="https://farm1.static.flickr.com/150/419683410_311781e2a7_m.jpg" alt="20070312-deanAndBritta" /></a><br/><strong>20070312-deanAndBritta</strong><br/>originally uploaded by <a href="http://www.flickr.com/people/chromewaves/">chromewaves</a></div>
 <div>
 <p>That moment in "You Turned Your Head Around" when Britta leans back and belts out the "b-a-a-a-a-b-y" line is clearly like crack to photographers. It seems there's no way to resist taking a photo of that moment. So in honour of that and because I'd like to see a slideshow of all those pictures I've created a group on (photo sharing site) Flickr dedicated to photographs of that moment in that song.</p>
 <ul>

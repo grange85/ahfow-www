@@ -18,11 +18,11 @@ categories:
 - originals
 tags: []
 ---
-<p><a href="http://www.flickr.com/photos/deatonstreet/2525136610/" title="Dancing the Maypole Dance by deatonstreet, on Flickr"><img class="aligncenter" src="http://farm3.staticflickr.com/2122/2525136610_287d41534d_z.jpg" width="640" height="348" alt="Dancing the Maypole Dance"></a><br />
-The existence of <a href="/database/track/dancing-days/">Luna's cover</a> of <a href="http://en.wikipedia.org/wiki/Dancing_Days">Led Zep's Dancing Days</a> was first mentioned way back in a post on the band's official web site (fuzzywuzzy.com - but I think the post got lost in one of the reboots that site got) - it didn't however see the light until the band released <a href="http://db.fullofwishes.co.uk/database/discography/luna/244">Close Cover Before Striking</a> in digital form in 2011.</p>
+<p><a href="http://www.flickr.com/photos/deatonstreet/2525136610/" title="Dancing the Maypole Dance by deatonstreet, on Flickr"><img class="aligncenter" src="https://farm3.staticflickr.com/2122/2525136610_287d41534d_z.jpg" width="640" height="348" alt="Dancing the Maypole Dance"></a><br />
+The existence of <a href="/database/track/dancing-days/">Luna's cover</a> of <a href="http://en.wikipedia.org/wiki/Dancing_Days">Led Zep's Dancing Days</a> was first mentioned way back in a post on the band's official web site (fuzzywuzzy.com - but I think the post got lost in one of the reboots that site got) - it didn't however see the light until the band released <a href="https://db.fullofwishes.co.uk/database/discography/luna/244">Close Cover Before Striking</a> in digital form in 2011.</p>
 <p>Zeppelin's original appeared on their 1973 album <a href="http://en.wikipedia.org/wiki/Houses_of_the_Holy">Houses of the Holy</a><br />
 </p>
-{% ahfowvideo "YGST7qYvlMw" "" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/YGST7qYvlMw" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>Luna - Dancing Days<br />
-<iframe width="400" height="100" style="position: relative; display: block; width: 400px; height: 100px;" src="http://bandcamp.com/EmbeddedPlayer/v=2/track=3284964201/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://luna.bandcamp.com/track/dancing-days-bonus-track">Dancing Days (bonus track) by Luna</a></iframe></p>
+<iframe width="400" height="100" style="position: relative; display: block; width: 400px; height: 100px;" src="https://bandcamp.com/EmbeddedPlayer/v=2/track=3284964201/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://luna.bandcamp.com/track/dancing-days-bonus-track">Dancing Days (bonus track) by Luna</a></iframe></p>
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

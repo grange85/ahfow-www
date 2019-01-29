@@ -19,7 +19,7 @@ categories:
 tags: []
 ---
 <p>Only Women Bleed is from Alice Cooper's first solo album "Welcome to My Nightmare", released in 1975.</p>
-{% ahfowvideo "gZcRLKB-OlM" "" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/gZcRLKB-OlM" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p><a href="/database/track/only-women-bleed/">Luna's cover</a> first tuirned up on the Lovedust promo CD released by Beggars Banquet in 2002, and then later on the 2xCD Beggars Banquet version of Best of Luna. You can now get it from Luna's Bandcamp as one of the bonus tracks on the <a href="http://luna.bandcamp.com/album/close-cover-before-striking">re-issue of Close Cover Before Striking</a>.<br />
-<iframe style="border: 0; width: 100%; height: 142px;" src="http://bandcamp.com/EmbeddedPlayer/album=3884059705/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/t=9/transparent=true/" seamless><a href="http://luna.bandcamp.com/album/close-cover-before-striking">Close Cover Before Striking by Luna</a></iframe></p>
+<iframe style="border: 0; width: 100%; height: 142px;" src="https://bandcamp.com/EmbeddedPlayer/album=3884059705/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/t=9/transparent=true/" seamless><a href="http://luna.bandcamp.com/album/close-cover-before-striking">Close Cover Before Striking by Luna</a></iframe></p>
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

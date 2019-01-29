@@ -22,15 +22,15 @@ tags: []
 ---
 <p>In honour of <a href="/2013/05/01/a-first-look-at-temperatures-rising-lots-of-groovy-new-material/" title="A first look at Temperature’s Rising: Lots of groovy new material!">the book of the same name that I got on Wednesday</a>, and the absolute (probably relative) scorcher we're having in London this week...</p>
 
-{% ahfowvideo "BvlgOsD6MuI" "Galaxie 500 - Temperature's Rising (live Commonwealth School, Boston  1989)" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/BvlgOsD6MuI" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Temperature's Rising (live Commonwealth School, Boston  1989)</figcaption></figure>
 
-{% ahfowaudio "http://media.fullofwishes.co.uk/02-luna/audio/1992-02-27_Luna_Temperatures-Rising.mp3" "Luna - Temperature's Rising (live Underworld, London in 1992)" %}
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/1992-02-27_Luna_Temperatures-Rising.mp3">Luna - Temperature's Rising (live Underworld, London in 1992)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/1992-02-27_Luna_Temperatures-Rising.mp3"></audio></div>
 
-{% ahfowaudio "http://media.fullofwishes.co.uk/01-galaxie_500/audio/1990-02-11_Galaxie-500_Temperatures-Rising.mp3" "Galaxie 500 - Temperature's Rising (live Falcon, London in 1990)" %}
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/01-galaxie_500/audio/1990-02-11_Galaxie-500_Temperatures-Rising.mp3">Galaxie 500 - Temperature's Rising (live Falcon, London in 1990)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/01-galaxie_500/audio/1990-02-11_Galaxie-500_Temperatures-Rising.mp3"></audio></div>
 
-<p><iframe width="400" height="100" style="position: relative; display: block; width: 400px; height: 100px;" src="http://bandcamp.com/EmbeddedPlayer/v=2/track=1482508396/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://galaxie500.bandcamp.com/track/temperatures-rising">Temperature&#39;s Rising by Galaxie 500</a></iframe></p>
+<p><iframe width="400" height="100" style="position: relative; display: block; width: 400px; height: 100px;" src="https://bandcamp.com/EmbeddedPlayer/v=2/track=1482508396/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://galaxie500.bandcamp.com/track/temperatures-rising">Temperature&#39;s Rising by Galaxie 500</a></iframe></p>
 
-{% ahfowvideo "ZSen4giGlvI" "Dean & Britta - Temperature's Rising (Annadale Hotel, Sydney in 2011)" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/ZSen4giGlvI" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Dean & Britta - Temperature's Rising (Annadale Hotel, Sydney in 2011)</figcaption></figure>
 
 <p>Previously:<br />
 <a href="/2012/02/24/friday-recycling-my-fingers-are-tingling/" title="Friday recycling: My fingers are tingling">Friday recycling: My fingers are tingling</a></p>

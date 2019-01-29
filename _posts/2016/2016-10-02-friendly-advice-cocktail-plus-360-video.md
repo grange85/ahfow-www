@@ -9,7 +9,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2016-10-02 23:00:00 +0000'
-imageurl: http://media.fullofwishes.co.uk/00-misc/pictures/friendly-liquid-advice.jpg
+imageurl: https://media.fullofwishes.co.uk/00-misc/pictures/friendly-liquid-advice.jpg
 description: |
  Try out this cocktail recipe to accompany your Luna listening. Plus watch a 360&deg; video of Luna playing
  Friendly Advice
@@ -21,7 +21,7 @@ tags:
  - luna box set
  - video
 ---
-{% ahfowimage "http://media.fullofwishes.co.uk/00-misc/pictures/friendly-liquid-advice.jpg" "Friendly Advice (Photo: Chris Hamilton)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/friendly-liquid-advice.jpg" alt="Friendly Advice (Photo: Chris Hamilton)" /><figcaption class="caption-text">Friendly Advice (Photo: Chris Hamilton)</figcaption></figure>
 <p class="lead">Chris emailed me that as he didn't manage to get to see one of the recent Luna shows he instead "spent some time enjoying the recent white vinyl box set and concocting a special cocktail in its honor".</p>
 
 ### Friendly Advice
@@ -42,4 +42,4 @@ The Luna box set has just had it's second pressing - this time in black vinyl - 
 
 ---
 I just came across this 360&deg; video of Luna playing Friendly Advice in Dallas a few months back (not sure how well it will embed so you may need to <a href="https://www.youtube.com/watch?v=Ue-ba-QHa2Q">head over to YouTube</a> so you can move around the venue!)
-{% ahfowvideo "Ue-ba-QHa2Q" "Friendly Advice 360&deg; in Dallas" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/Ue-ba-QHa2Q" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Friendly Advice 360&deg; in Dallas</figcaption></figure>

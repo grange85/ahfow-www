@@ -25,8 +25,8 @@ tags:
 
 <p>Their cover of Way Up High is a beautifully gentle instrumental version, with brushed drums and gentle keys and carefully picked guitar.</p>
 
-{% ahfowvideo "v__GT8yDkRQ" "La venganza de Cheetara - Way Up High" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/v__GT8yDkRQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">La venganza de Cheetara - Way Up High</figcaption></figure>
 
 <p>Their latest album, Valles, was released a couple of months ago - you can pay for it on Bandcamp, or get it for free from <a href="http://fuegoamigodiscos.com.ar/catalogolvdch.html">the label</a> or the <a href="http://freemusicarchive.org/music/La_venganza_de_Cheetara/Valles/">Free Music Archive</a>.
 
-{% ahfowimage "http://media.fullofwishes.co.uk/00-misc/pictures/lavenganzadecheetara.jpg" "<a href='https://www.instagram.com/p/BIj97sbg_OP/'>La venganza de Cheetera by soi_jhomeless on Instagram</a>" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/lavenganzadecheetara.jpg" alt="<a href='https://www.instagram.com/p/BIj97sbg_OP/'>La venganza de Cheetera by soi_jhomeless on Instagram</a>" /><figcaption class="caption-text"><a href='https://www.instagram.com/p/BIj97sbg_OP/'>La venganza de Cheetera by soi_jhomeless on Instagram</a></figcaption></figure>

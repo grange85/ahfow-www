@@ -20,7 +20,7 @@ categories:
 - fortune
 tags: []
 ---
-<p><figure class="caption aligncenter"><img src="http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-fortune.jpg" width="1200" height="1200" class /><figcaption class="caption-text"> Fortune by Damon & Naomi</figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-fortune.jpg" width="1200" height="1200" class /><figcaption class="caption-text"> Fortune by Damon & Naomi</figcaption></figure>
 Damon & Naomi's new album Fortune is now available to buy digitally, or to pre-order on CD or LP for release on the 16 February. You can also buy the album digitally and listen to the whole thing on their bandcamp page.</p>
 <ul>
 <li><a href="https://damonandnaomi.bandcamp.com/album/fortune">Buy the album as a download from Damon & Naomi's bandcamp page</a>.</li>
@@ -28,7 +28,7 @@ Damon & Naomi's new album Fortune is now available to buy digitally, or to pre-o
 </ul>
 <p>Actually, while you're at the new <a href="http://www.20-20-20.com">20-20-20 page</a> you could take the opportunity to <a href="http://www.20-20-20.com/store/">fill your boots</a> with plenty more including Galaxie 500 LPs, CDs, books and T-shirts, plus Damon & Naomi CDs and vinyl.</p>
 <p><iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2505063369/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://damonandnaomi.bandcamp.com/album/fortune">Fortune by Damon & Naomi</a></iframe></p>
-<p><figure class="caption alignright"><img src="http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/2015-02-uncut-fortune.jpg" width="300" height="430" class /><figcaption class="caption-text"> UNCUT review</figcaption></figure>
+<p><figure class="caption alignright"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/2015-02-uncut-fortune.jpg" width="300" height="430" class /><figcaption class="caption-text"> UNCUT review</figcaption></figure>
 The album has received a lovely review in UK magazine UNCUT where the album is described as being</p>
 <blockquote><p>... full of jewel-like songs, minimally arranged, for maximum emotional resonance</p></blockquote>
 <p>and </p>

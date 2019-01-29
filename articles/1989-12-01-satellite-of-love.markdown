@@ -12,7 +12,7 @@ author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 wordpress_id: 358
-wordpress_url: http://www.fullofwishes.co.uk/1989/12/01/satellite-of-love/
+wordpress_url: https://www.fullofwishes.co.uk/1989/12/01/satellite-of-love/
 date: '1989-12-01 00:00:00 +0000'
 date_gmt: '1989-12-01 00:00:00 +0000'
 categories:

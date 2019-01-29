@@ -20,7 +20,7 @@ categories:
 tags: []
 ---
 <p>On Friday night in Boston Beck played a cover of Galaxie 500's Tugboat. Damon & Naomi were in the audience and posted this short clip of the performance...</p>
-{% ahfowvideo "evVnT-4hs6U" "" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/evVnT-4hs6U" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>... and <a href="https://www.facebook.com/damonandnaomi">said this about it on Facebook</a></p>
 <blockquote><p>Beck played an obscure cover in Boston last night. Other surprises included Billie Jean (complete with moves), and some beautiful tunes from his own Song Reader. That's our pal Smokey Hormel stage right, he tore it up all night on a series of incredible-sounding and -looking stringed instruments</p></blockquote>
 <p>Beck chose the Galaxie 500 song to cover that pretty much everyone chooses - you can check out a few more here:</p>

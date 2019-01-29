@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-09-26/19890926_dean1_lori.jpg
+imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-09-26/19890926_dean1_lori.jpg
 date: '2012-07-19 10:50:34 +0100'
 categories:
 - galaxie 500
@@ -19,20 +19,20 @@ categories:
 - audio
 tags: []
 ---
-{% ahfowimage "http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-09-26/19890926_dean1_lori.jpg" "Dean Wareham by Lori" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-09-26/19890926_dean1_lori.jpg" alt="Dean Wareham by Lori" /><figcaption class="caption-text">Dean Wareham by Lori</figcaption></figure>
 <p>At some point later this year A Head Full of Wishes will pass its eighteenth birthday, over those eighteen years I've been lucky enough to have been sent/emailed hundreds of photos (sadly a lot of them are not currently online.. but I am working on that!). Obviously in the age of the digital camera this was not really a surprise, I have been given lots of Damon & Naomi, Dean & Britta and late-era Luna photos, photos of Galaxie 500, who left us in the days of analog photography, however have been less common, so you can possibly imagine the thrill when Lori got in touch with me earlier in the week...</p>
 <blockquote><p>While going through some old photos we found some pictures that we took at the Galaxie 500 gig at ICA together with ticket stubs etc. Can I email to you?</p></blockquote>
 <p>My reply was "yes" only with more words and over-excited gibbering. So here are some great pictures of Galaxie 500's first London show at the ICA in London on 26 September 1989 (click on the thumbnail to see the full picture).</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-09-26/19890926_ticket_lori.jpg" "Ticket" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-09-26/19890926_ticket_lori.jpg" alt="Ticket" /><figcaption class="caption-text">Ticket</figcaption></figure>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-09-26/19890926_naomi2_lori.jpg" "Naomi Yang by Lori" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-09-26/19890926_naomi2_lori.jpg" alt="Naomi Yang by Lori" /><figcaption class="caption-text">Naomi Yang by Lori</figcaption></figure>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-09-26/19890926_naomi1_lori.jpg" "Naomi Yang by Lori" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-09-26/19890926_naomi1_lori.jpg" alt="Naomi Yang by Lori" /><figcaption class="caption-text">Naomi Yang by Lori</figcaption></figure>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-09-26/19890926_flyer_lori.jpg" "Flyer" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-09-26/19890926_flyer_lori.jpg" alt="Flyer" /><figcaption class="caption-text">Flyer</figcaption></figure>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-09-26/19890926_dean2_lori.jpg" "Dean Wareham by Lori" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-09-26/19890926_dean2_lori.jpg" alt="Dean Wareham by Lori" /><figcaption class="caption-text">Dean Wareham by Lori</figcaption></figure>
 
 
 <p>In Black Postcards Dean wrote about this show&hellip;</p>

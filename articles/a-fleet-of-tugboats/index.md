@@ -12,7 +12,7 @@ author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 wordpress_id: 1901
-wordpress_url: http://www.fullofwishes.co.uk/?p=1901
+wordpress_url: https://www.fullofwishes.co.uk/?p=1901
 date: '2010-06-15 21:45:47 +0100'
 date_gmt: '2010-06-15 21:45:47 +0100'
 categories:
@@ -61,239 +61,158 @@ tags:
 	<li><a href="#tugboat-xlion">X-Lion Tamer</a></li>
 </ul>
 <h3 id="tugboat-galaxie">The original and best</h3>
-{% ahfowvideo "wEwouUjDTTE" "Galaxie 500 - Tugboat (official video)" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/wEwouUjDTTE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Tugboat (official video)</figcaption></figure>
 
 <h3>The fleet</h3>
 
 <h4 id="tugboat-bestdenim">Best Denim</h4>
 <p></p>
-{% ahfowaudio2
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/00-misc/audio/bent-denim-derivative-works-03-tugboat.mp3",
-  "audiocap": "Tugboat - Bent Denim",
-  "sourceurl": "https://bentdenim.bandcamp.com/album/derivative-works-covers-ep",
-  "sourcecap": "Derivative Works (bandcamp)"
-  }
-%}
-
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/bent-denim-derivative-works-03-tugboat.mp3">Tugboat - Bent Denim</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/bent-denim-derivative-works-03-tugboat.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="https://bentdenim.bandcamp.com/album/derivative-works-covers-ep">Derivative Works (bandcamp)</a></em></p>
+</div>
 <h4 id="tugboat-blue">Blue Haired Girl</h4>
-{% ahfowaudio2 
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/00-misc/audio/Blue_Haired_Girl_-_Blue_Haired_Girl_-_Tugboat__Galaxie_500_cover_.mp3",
-  "audiocap": "Tugboat - Blue Haired Girl",
-  "sourceurl": "https://www.jamendo.com/track/174095/blue-haired-girl-tugboat-galaxie-500-cover",
-  "sourcecap": "Jamendo"
-  }
-%}
-
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/Blue_Haired_Girl_-_Blue_Haired_Girl_-_Tugboat__Galaxie_500_cover_.mp3">Tugboat - Blue Haired Girl</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/Blue_Haired_Girl_-_Blue_Haired_Girl_-_Tugboat__Galaxie_500_cover_.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="https://www.jamendo.com/track/174095/blue-haired-girl-tugboat-galaxie-500-cover">Jamendo</a></em></p>
+</div>
 <h4 id="tugboat-bmx">BMX Bandits featuring Angel Corpus Christi</h4>
 <p>Fab scottish indie stars BMX Bandits recorded the track for a Galaxie 500 tribute album that was released on Spanish label Elefant Records. The recording also features the lovely Angel Corpus Christi on the chorus.</p>
-{% ahfowaudio2 
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/00-misc/audio/1-01_BMX%20Bandits_Tugboat%20(feat.%20Angel%20Corpus%20Christi).mp3",
-  "audiocap": "Tugboat - BMX Bandits (featuring Angel Corpus Christi)",
-  "sourceurl": "https://elefantrecordsclassics.bandcamp.com/album/snowstorm-a-tribute-to-galaxie-500",
-  "sourcecap": "Snowstorm: A Tribute To Galaxie 500 (bandcamp)"
-  }
-%}
-
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/1-01_BMX%20Bandits_Tugboat%20(feat.%20Angel%20Corpus%20Christi).mp3">Tugboat - BMX Bandits (featuring Angel Corpus Christi)</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/1-01_BMX%20Bandits_Tugboat%20(feat.%20Angel%20Corpus%20Christi).mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="https://elefantrecordsclassics.bandcamp.com/album/snowstorm-a-tribute-to-galaxie-500">Snowstorm: A Tribute To Galaxie 500 (bandcamp)</a></em></p>
+</div>
 <h4 id="tugboat-british">British Sea Power</h4>
 <p><a href="http://www.britishseapower.co.uk/">British Sea Power</a> released a version on a Rough Trade compilation</p>
-{% ahfowaudio2
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/00-misc/audio/13_British%20Sea%20Power_Tugboat.mp3",
-  "audiocap": "Tugboat - British Sea Power",
-  "sourceurl": "https://en.wikipedia.org/wiki/Stop_Me_If_You_Think_You%27ve_Heard_This_One_Before...",
-  "sourcecap": "Stop Me If You Think You've Heard This One Before&hellip;"
-  }
-%}
-{% ahfowvideo "PM9fqFOMWt8" "Tugboat - British Sea Power (live in Newcastle, 2008)" %}
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/13_British%20Sea%20Power_Tugboat.mp3">Tugboat - British Sea Power</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/13_British%20Sea%20Power_Tugboat.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="https://en.wikipedia.org/wiki/Stop_Me_If_You_Think_You%27ve_Heard_This_One_Before...">Stop Me If You Think You've Heard This One Before&hellip;</a></em></p>
+</div><figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/PM9fqFOMWt8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Tugboat - British Sea Power (live in Newcastle, 2008)</figcaption></figure>
 
 
 <h4 id="tugboat-citay">Citay</h4>
-{% ahfowaudio2
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/00-misc/audio/08_Citay_Tugboat.mp3",
-  "audiocap": "Tugboat - Citay",
-  "sourceurl": "https://www.discogs.com/Citay-Dream-Get-Together/master/229822",
-  "sourcecap": "Dream Get Together"
-  }
-%}
-
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/08_Citay_Tugboat.mp3">Tugboat - Citay</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/08_Citay_Tugboat.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="https://www.discogs.com/Citay-Dream-Get-Together/master/229822">Dream Get Together</a></em></p>
+</div>
 <h4 id="tugboat-deanandbritta">Dean & Britta / Dean Wareham</h4>
 <p>Dean & Britta released a live version on a compilation CD with issue 5 of Yeti magazine.</p>
-{% ahfowaudio2
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/07-dean_and_britta/audio/06-britta-phillips--dean-wareham-tugboat-live.mp3",
-  "audiocap": "Tugboat - Dean & Britta (live, Yeti 5)",
-  "sourceurl": "https://www.discogs.com/Various-Yeti-Five/release/1277561",
-  "sourcecap": "Yeti Five"
-  }
-%}
-{% ahfowvideo "r19X_o1KMIA" "Tugboat - Dean & Britta (live on KEXP, 2010" %}
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/06-britta-phillips--dean-wareham-tugboat-live.mp3">Tugboat - Dean & Britta (live, Yeti 5)</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/06-britta-phillips--dean-wareham-tugboat-live.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="https://www.discogs.com/Various-Yeti-Five/release/1277561">Yeti Five</a></em></p>
+</div><figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/r19X_o1KMIA" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Tugboat - Dean & Britta (live on KEXP, 2010</figcaption></figure>
 
 <p>There's also a live recording on Dean Wareham Live at St Pancras Old Church, London recorded in 2013</p>
-{% ahfowaudio2
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/05-dean_wareham/audio/01-dean-wareham-tugboat.mp3",
-  "audiocap": "Dean Wareham - Tugboat",
-  "sourceurl": "https://soniccathedral.bandcamp.com/album/live-at-st-pancras-old-church-london-december-2013-2",
-  "sourcecap": "Live At St Pancras Old Church London December 2013 (Sonic Cathedral - bandcamp)"
-  }
-%}
-
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/01-dean-wareham-tugboat.mp3">Dean Wareham - Tugboat</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/01-dean-wareham-tugboat.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="https://soniccathedral.bandcamp.com/album/live-at-st-pancras-old-church-london-december-2013-2">Live At St Pancras Old Church London December 2013 (Sonic Cathedral - bandcamp)</a></em></p>
+</div>
 <h4 id="finnmark">Finnmark!</h4>
 <p>Another lovely (and beautifully cheery) cover, this time by Leeds band Finnmark! It's "pay what you want" over on Bandcamp - and all proceeds to charity... so go grab it!</p>
-{% ahfowaudio2
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/00-misc/audio/finnmark-tugboat-01-tugboat.mp3",
-  "audiocap": "Tugboat - Finnmark!",
-  "sourceurl": "https://cathndadrecords.bandcamp.com/album/tugboat",
-  "sourcecap": "Tugboat (bandcamp)"
-  }
-%}
-
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/finnmark-tugboat-01-tugboat.mp3">Tugboat - Finnmark!</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/finnmark-tugboat-01-tugboat.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="https://cathndadrecords.bandcamp.com/album/tugboat">Tugboat (bandcamp)</a></em></p>
+</div>
 <h4 id="tugboat-jazz">The Jazz Butcher Conspiracy</h4>
 <p>The Jazz Butcher released a version, titled Tugboat Captain on their 1992 The Western Family live album</p>
-{% ahfowaudio2
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/00-misc/audio/13_The%20Jazz%20Butcher%20Conspiracy_Tugboat%20Captain.mp3",
-  "audiocap": "Tugboat Captain - The Jazz Butcher Conspiracy",
-  "sourceurl": "https://www.discogs.com/Jazz-Butcher-Conspiracy-The-Western-Family/release/1028583",
-  "sourcecap": "The Western Family"
-  }
-%}
-
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/13_The%20Jazz%20Butcher%20Conspiracy_Tugboat%20Captain.mp3">Tugboat Captain - The Jazz Butcher Conspiracy</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/13_The%20Jazz%20Butcher%20Conspiracy_Tugboat%20Captain.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="https://www.discogs.com/Jazz-Butcher-Conspiracy-The-Western-Family/release/1028583">The Western Family</a></em></p>
+</div>
 <h4 id="tugboat-joanna">Joanna Gruesome</h4>
 <p>Joanna Gruesome covered it on the flip of their Sugarcrush single.</p>
-{% ahfowaudio2
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/00-misc/audio/Joanna%20Gruesome_Tugboat_Toad_session.mp3",
-  "audiocap": "Tugboat - Joanna Gruesome (Song by Toad session)",
-  "sourceurl": "http://songbytoad.com/2012/06/toadcast-229-the-republicast/",
-  "sourcecap": "Song by Toad session"
-  }
-%}
-{% ahfowaudio2
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/00-misc/audio/18-joanna-gruesome-tugboat.mp3",
-  "audiocap": "Tugboat - Joanna Gruesome",
-  "sourceurl": "http://www.fortunapop.com/release_details.php?cat_no=FPOP146",
-  "sourcecap": "Sugarcrush (Fortuna Pop)"
-  }
-%}
-{% ahfowvideo "lBN4qwAGfcE" "Tugboat - Joanna Gruesome (live at The Old Blue Last, 2012)" %}
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/Joanna%20Gruesome_Tugboat_Toad_session.mp3">Tugboat - Joanna Gruesome (Song by Toad session)</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/Joanna%20Gruesome_Tugboat_Toad_session.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="http://songbytoad.com/2012/06/toadcast-229-the-republicast/">Song by Toad session</a></em></p>
+</div><div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/18-joanna-gruesome-tugboat.mp3">Tugboat - Joanna Gruesome</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/18-joanna-gruesome-tugboat.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="http://www.fortunapop.com/release_details.php?cat_no=FPOP146">Sugarcrush (Fortuna Pop)</a></em></p>
+</div><figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/lBN4qwAGfcE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Tugboat - Joanna Gruesome (live at The Old Blue Last, 2012)</figcaption></figure>
 
 
 <h4 id="tugboat-mercury">Mercury Rev</h4>
 <p>Mercury Rev played the song for a radio show in Dublin.<br />
-{% ahfowaudio2
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/00-misc/audio/00_Mercury%20Rev_Tugboat.mp3",
-  "audiocap": "Mercury Rev (radio session)"
-  }
-%}
-
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/00_Mercury%20Rev_Tugboat.mp3">Mercury Rev (radio session)</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/00_Mercury%20Rev_Tugboat.mp3"></audio>
+</div>
 <h4 id="tugboat-meursault">Meursault</h4>
 <p>Meursault recorded the track for their crowd-funded, crowd-chosen album made to help fund the band's US tour</p>
-{% ahfowaudio2
-  {
-  "audiourl": "http//media.fullofwishes.co.uk/00-misc/audio/meursault-tugboat-galaxie500cover.mp3",
-  "audiocap": "Tugboat - Meursault",
-  "sourceurl": "https://soundcloud.com/songbytoad/meursault-tugboat-galaxie-500",
-  "sourcecap": "Soundcloud"
-  }
-%}
-
+<div class="well">
+  <p class="audio">Audio: <a href="http//media.fullofwishes.co.uk/00-misc/audio/meursault-tugboat-galaxie500cover.mp3">Tugboat - Meursault</a></p>
+  <audio controls="controls" preload="none" src="http//media.fullofwishes.co.uk/00-misc/audio/meursault-tugboat-galaxie500cover.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="https://soundcloud.com/songbytoad/meursault-tugboat-galaxie-500">Soundcloud</a></em></p>
+</div>
 
 <h4 id="tugboat-paraffin">Paraffin Brothers</h4>
-{% ahfowvideo "LWWe6wbdsv4" "Tugboat - Paraffin Brothers" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/LWWe6wbdsv4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Tugboat - Paraffin Brothers</figcaption></figure>
 
 <h4 id="tugboat-portastatic">Portastatic</h4>
 <p>Portastatic also recorded their version for Elefant's Galaxie 500 tribute album, Snowstorm<br />
-{% ahfowaudio2 
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/00-misc/audio/2-04_Portastatic_Tugboat.mp3",
-  "audiocap": "Tugboat - Portastatic",
-  "sourceurl": "https://elefantrecordsclassics.bandcamp.com/album/snowstorm-a-tribute-to-galaxie-500",
-  "sourcecap": "Snowstorm: A Tribute To Galaxie 500 (bandcamp)"
-  }
-%}
-
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/2-04_Portastatic_Tugboat.mp3">Tugboat - Portastatic</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/2-04_Portastatic_Tugboat.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="https://elefantrecordsclassics.bandcamp.com/album/snowstorm-a-tribute-to-galaxie-500">Snowstorm: A Tribute To Galaxie 500 (bandcamp)</a></em></p>
+</div>
 <h4 id="tugboat-standby">The Standby Connection</h4>
 <p>Spanish band <a href="https://www.facebook.com/thestandbyconnection/">The Standby Connection</a> are an off-shoot of Polar</p>
-{% ahfowaudio2
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/00-misc/audio/Standby%20Connection_Tugboat.mp3",
-  "audiocap": "Tugboat - The Standby Connection"
-  }
-%}
-
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/Standby%20Connection_Tugboat.mp3">Tugboat - The Standby Connection</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/Standby%20Connection_Tugboat.mp3"></audio>
+</div>
 <h4 id="tugboat-srchinarro">Sr. Chinarro</h4>
-{% ahfowvideo "LPTGxExSUHk" "Tugboat - Sr. Chinarro" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/LPTGxExSUHk" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Tugboat - Sr. Chinarro</figcaption></figure>
 
 <h4 id="tugboat-submarine">Submarine</h4>
 <p>UK 90s indie band <a href="http://en.wikipedia.org/wiki/Submarine_%28band%29">Submarine</a> released Tugboat on the flip of their Jodie Foster 7" single</p>
-{% ahfowaudio2
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/00-misc/audio/07_Submarine_Tugboat.mp3",
-  "audiocap": "Tugboat - Submarine",
-  "sourceurl": "https://www.discogs.com/Submarine-Jodie-Foster/release/702029",
-  "sourcecap": "Jodie Foster / Tugboat (Ultimate)"
-  }
-%}
-
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/07_Submarine_Tugboat.mp3">Tugboat - Submarine</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/07_Submarine_Tugboat.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="https://www.discogs.com/Submarine-Jodie-Foster/release/702029">Jodie Foster / Tugboat (Ultimate)</a></em></p>
+</div>
 <h4 id="tugboat-submarines">The Submarine</h4>
 <p>... and not to be confused with LA indie band The Submarines who recorded their version for an iTunes only EP</p>
-{% ahfowaudio2
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/00-misc/audio/01_The%20Submarines_Tugboat.mp3",
-  "audiocap": "Tugboat - The Submarines",
-  "sourceurl": "https://itunes.apple.com/us/album/live-session-itunes-exclusive/id193151857",
-  "sourcecap": "iTunes"
-  }
-%}
-
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/01_The%20Submarines_Tugboat.mp3">Tugboat - The Submarines</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/01_The%20Submarines_Tugboat.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="https://itunes.apple.com/us/album/live-session-itunes-exclusive/id193151857">iTunes</a></em></p>
+</div>
 <h4 id="tugboat-thrushes">Thrushes</h4>
-<p>Thrushes recorded Tugboat for the 2016 Blue Thunder, A Tribute to Galaxie 500</p> 
-{% ahfowaudio2
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/00-misc/audio/01-thrushes-tugboat.mp3",
-  "audiocap": "Tugboat - Thrushes",
-  "sourceurl": "https://theblogthatcelebratesitself.bandcamp.com/album/va-blue-thunder-a-tribute-to-galaxie-500",
-  "sourcecap": "Blue Thunder, A Tribute to Galaxie 500 (bandcamp)"
-  }
-%}
-
+<p>Thrushes recorded Tugboat for the 2016 Blue Thunder, A Tribute to Galaxie 500</p>
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/01-thrushes-tugboat.mp3">Tugboat - Thrushes</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/01-thrushes-tugboat.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="https://theblogthatcelebratesitself.bandcamp.com/album/va-blue-thunder-a-tribute-to-galaxie-500">Blue Thunder, A Tribute to Galaxie 500 (bandcamp)</a></em></p>
+</div>
 
 <h4 id="tugboat-transmission">The Transmissionary Six</h4>
 <p>The Transmissionary Six recorded Tugboat for a KEXP session</p>
-{% ahfowaudio2
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/00-misc/audio/Tranmissionary%20Six_Tugboat.mp3",
-  "audiocap": "Tugboat - The Transmissionary Six"
-  }
-%}
-
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/Tranmissionary%20Six_Tugboat.mp3">Tugboat - The Transmissionary Six</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/Tranmissionary%20Six_Tugboat.mp3"></audio>
+</div>
 <h4 id="tugboat-venice">Venice is Sinking</h4>
 <p>Venice is Sinking recorded Tugboat for their Georgia Theatre Sessions LP</p>
-{% ahfowaudio2
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/00-misc/audio/02_Venice%20Is%20Sinking_Tugboat.mp3",
-  "audiocap": "Venice is Sinking",
-  "sourceurl": "https://veniceissinking.bandcamp.com/album/sand-lines-the-georgia-theatre-sessions",
-  "sourcecap": "Sand and Lines: the Georgia Theatre Sessions (bandcamp)"
-  }
-%}
-{% ahfowvideo "mca4J5ymXvc" "Venice is Sinking - Tugboat" %}
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/02_Venice%20Is%20Sinking_Tugboat.mp3">Venice is Sinking</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/02_Venice%20Is%20Sinking_Tugboat.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="https://veniceissinking.bandcamp.com/album/sand-lines-the-georgia-theatre-sessions">Sand and Lines: the Georgia Theatre Sessions (bandcamp)</a></em></p>
+</div><figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/mca4J5ymXvc" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Venice is Sinking - Tugboat</figcaption></figure>
 
 <h4 id="tugboat-xlion">X-Lion Tamer</h4>
-{% ahfowaudio2
-  {
-  "audiourl": "http://media.fullofwishes.co.uk/00-misc/audio/X-LionTamer%20-%20Neon%20Hearts%20E.P.%20-%2003%20Tugboat.mp3",
-  "audiocap": "Tugboat - X-Lion Tamer",
-  "sourceurl": "https://x-liontamer.bandcamp.com/album/neon-hearts-e-p",
-  "sourcecap": "Neon Hearts E​.​P. (bandcamp)"
-  }
-%}
-
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/X-LionTamer%20-%20Neon%20Hearts%20E.P.%20-%2003%20Tugboat.mp3">Tugboat - X-Lion Tamer</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/X-LionTamer%20-%20Neon%20Hearts%20E.P.%20-%2003%20Tugboat.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="https://x-liontamer.bandcamp.com/album/neon-hearts-e-p">Neon Hearts E​.​P. (bandcamp)</a></em></p>
+</div>

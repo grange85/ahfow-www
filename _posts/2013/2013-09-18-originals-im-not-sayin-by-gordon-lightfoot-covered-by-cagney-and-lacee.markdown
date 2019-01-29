@@ -20,12 +20,12 @@ tags: []
 ---
 <p>I'm Not Sayin' was written by Gordon Lightfoot and released as a single in 1965<br />
 </p>
-{% ahfowvideo "5Af5d1FeJn4" "" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/5Af5d1FeJn4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>Later that year it was covered by Nico (before her association with The Velvet Underground)<br />
 </p>
-{% ahfowvideo "2WCnC_4QXH8" "" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/2WCnC_4QXH8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>Dean Wareham's late 90s side project Cagney and Lacee released I'm Not Sayin' on <a href="/database/release/six-feet-of-chain-cagney-and-lacee/">Six Feet of Chain</a></p>
 
-{% ahfowaudio "http://media.fullofwishes.co.uk/05-dean_wareham/audio/cagney-and-lacee-im-not-sayin.mp3" "I'm Not Sayin' by Cagney and Lacee" %}
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/cagney-and-lacee-im-not-sayin.mp3">I'm Not Sayin' by Cagney and Lacee</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/cagney-and-lacee-im-not-sayin.mp3"></audio></div>
 
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

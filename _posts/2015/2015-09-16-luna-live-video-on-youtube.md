@@ -18,15 +18,15 @@ categories:
  - video
 tags: []
 ---
-<p class="lead"> If you're not <a href="http://db.fullofwishes.co.uk/luna/shows/">down-under where Luna are currently touring</a>, you're probably kicking your heels waiting (or crossing your fingers hoping) for Luna to come by (or come back) on their reunion tour. Here's a treat to fill the waiting and/or hoping...</p>
+<p class="lead"> If you're not <a href="https://db.fullofwishes.co.uk/luna/shows/">down-under where Luna are currently touring</a>, you're probably kicking your heels waiting (or crossing your fingers hoping) for Luna to come by (or come back) on their reunion tour. Here's a treat to fill the waiting and/or hoping...</p>
 
-Youtube user [3.Cameras.and.a.Microphone](https://www.youtube.com/channel/UC8tAnV9M2FKiJF2pDbXU0hw) has recently been uploading some video masters to YouTube, as well as the previously available show from the show from [92 at the Whisky a Go Go in LA](http://db.fullofwishes.co.uk/luna/shows/1992/1992-11-05-luna-whiskey-a-go-go-los-angeles-ca-usa/) (which is now available in much better quality than previous uploads - in five parts [1](https://www.youtube.com/watch?v=oOzrVW5HUVI) [2](https://www.youtube.com/watch?v=wDEyJV3z2_k) [3](https://www.youtube.com/watch?v=urYEA-3jTe8) [4](https://www.youtube.com/watch?v=1Ldujrgwvlo) [5](https://www.youtube.com/watch?v=ZV65bUtHuFU)) there are two shows from consecutive nights from 1994.
+Youtube user [3.Cameras.and.a.Microphone](https://www.youtube.com/channel/UC8tAnV9M2FKiJF2pDbXU0hw) has recently been uploading some video masters to YouTube, as well as the previously available show from the show from [92 at the Whisky a Go Go in LA](https://db.fullofwishes.co.uk/luna/shows/1992/1992-11-05-luna-whiskey-a-go-go-los-angeles-ca-usa/) (which is now available in much better quality than previous uploads - in five parts [1](https://www.youtube.com/watch?v=oOzrVW5HUVI) [2](https://www.youtube.com/watch?v=wDEyJV3z2_k) [3](https://www.youtube.com/watch?v=urYEA-3jTe8) [4](https://www.youtube.com/watch?v=1Ldujrgwvlo) [5](https://www.youtube.com/watch?v=ZV65bUtHuFU)) there are two shows from consecutive nights from 1994.
 
-First up from the [Casbah in San Diego on 12 July 1994](http://db.fullofwishes.co.uk/luna/shows/1994/1994-07-12-casbah-san-diego-ca-usa/)
+First up from the [Casbah in San Diego on 12 July 1994](https://db.fullofwishes.co.uk/luna/shows/1994/1994-07-12-casbah-san-diego-ca-usa/)
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/ZgR4pBTCdUk" frameborder="0" allowfullscreen></iframe>
 
-... and the next night at the [Coach House, San Juan Capistrano](http://db.fullofwishes.co.uk/luna/shows/1994/1994-07-13-luna-coach-house-los-angeles-ca-usa/)
+... and the next night at the [Coach House, San Juan Capistrano](https://db.fullofwishes.co.uk/luna/shows/1994/1994-07-13-luna-coach-house-los-angeles-ca-usa/)
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/QNq24KG9RUQ" frameborder="0" allowfullscreen></iframe>
 

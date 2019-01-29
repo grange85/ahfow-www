@@ -18,4 +18,4 @@ categories:
 - news
 tags: []
 ---
-<p>Britta, in a post to the Galaxie 500 mailing list, casually dropped in a reference to a "B-sides CD to be released this fall" which it turns out will be a number of Romantica out-takes (including a cover of the Rolling Stones "Waiting on a Friend) plus Kraftwerk's Neon Lights. It is likely to be an enhanced CD with a couple of videos included. Total = 7 tracks and 2 videos.source: The Galaxie 500 Mailing List - http://www.fullofwishes.co.uk/mailing-list/</p>
+<p>Britta, in a post to the Galaxie 500 mailing list, casually dropped in a reference to a "B-sides CD to be released this fall" which it turns out will be a number of Romantica out-takes (including a cover of the Rolling Stones "Waiting on a Friend) plus Kraftwerk's Neon Lights. It is likely to be an enhanced CD with a couple of videos included. Total = 7 tracks and 2 videos.source: The Galaxie 500 Mailing List - https://www.fullofwishes.co.uk/mailing-list/</p>

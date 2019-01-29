@@ -4,19 +4,19 @@ title: He followed them from Manchester out to California
 date: 2015-11-23 21:50:00
 author:
   display_name: James Travis
-  email: 
+  email:
   url: http://www.dotsandloops.co.uk
-imageurl: 
+imageurl:
 categories:
  - luna
 ---
 <p class="text-muted">This post is by James Travis. James lives in Manchester and runs <a href="http://www.dotsandloops.co.uk">Dots and Loops</a> which has been keeping the cool folk of Manchester entertained for ten years.</p>
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-24/2015-10-24-luna-los-angeles-jvtravis.jpg" "Luna in LA (Photo: James)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-24/2015-10-24-luna-los-angeles-jvtravis.jpg" alt="Luna in LA (Photo: James)" /><figcaption class="caption-text">Luna in LA (Photo: James)</figcaption></figure>
 <p class="lead">1h 48m of my flight back to the UK remaining and they have turned up the lights, seemingly to awaken all the crying children who had earlier thought better of doing so all the way to our destination. What better time to pull together my thoughts about what were my 7th and 8th Luna shows of 2015, at LA's Terragram Ballroom; a venue choice many miles ahead of the Garage in London, and also 5000 miles from.<sup><a href="#footnote-1">[1]</a></sup></p>
 
 <p>The first evening we travelled over from Joshua Tree to LA and met up with a friend who was coming to the show with us, and headed out towards the venue in search of Mexican food. I have to say, I wasn't feeling too clever after sampling the many delights of <a href="http://www.pappyandharriets.com/" target="_blank">Pappy and Harriet's Pioneertown Palace</a> the night previous, so I did the British thing; ordered my food and promptly left it there untouched. We shot over to the venue shortly after 8 and had a few drinks there, which perked me up a little, obviously.</p>
 
-<p>Luna took to the stage just after 10pm, opting for a surprise opener with {% track "Fuzzy Wuzzy" %}. I only recall seeing this once (maybe twice) at the previous 6 shows I've attended, but the guitar interplay between Sean and Dean makes this, for me, a great opener for those who have been yearning for a return from a band Rolling Stone magazine once called &lsquo;the best band you've never heard&rsquo;. Thankfully we don't have that misfortune. {% track "Chinatown" %} followed, and by the third track of the night ({% track "Speedbumps" %}) there wasn't a person in the venue that wasn't transfixed.</p> 
+<p>Luna took to the stage just after 10pm, opting for a surprise opener with {% track "Fuzzy Wuzzy" %}. I only recall seeing this once (maybe twice) at the previous 6 shows I've attended, but the guitar interplay between Sean and Dean makes this, for me, a great opener for those who have been yearning for a return from a band Rolling Stone magazine once called &lsquo;the best band you've never heard&rsquo;. Thankfully we don't have that misfortune. {% track "Chinatown" %} followed, and by the third track of the night ({% track "Speedbumps" %}) there wasn't a person in the venue that wasn't transfixed.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PKW90mZ7Bkk" frameborder="0" allowfullscreen></iframe>
 
@@ -28,7 +28,7 @@ categories:
 
 <p>This evenings show was not quite a capacity crowd, but it filled up nicely by the time Lee served up the opening drum fill on {% track "Chinatown" %}. The band seemed tighter and more comfortable on the second night, {% track "Hedgehog" %} and {% track "Freakin' and Peakin'" %} being highlights of the Penthouse set for me, but the crowd lapped it all up without a second thought.</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-25/2015-10-25-setlist-and-pass-jvtravis.jpg" "Penthouse set list and pass (Photo: James)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-25/2015-10-25-setlist-and-pass-jvtravis.jpg" alt="Penthouse set list and pass (Photo: James)" /><figcaption class="caption-text">Penthouse set list and pass (Photo: James)</figcaption></figure>
 
 <p>The encore for the evening included a first for me, with {% track "Black Postcards" %} finally making an appearance (I had assumed it would be a setlist staple when the shows were first announced). {% track "This Time Around" %} was perhaps my favourite of the evening, though {% track "Ride Into the Sun" %} and the always brilliant {% track "Friendly Advice " %} (which closed the evening) were also solid.</p>
 
@@ -36,7 +36,7 @@ categories:
 
 <p>In what has been a highly unusual, and for the most part unsatisfactory, year; the Luna shows have been fine punctuation marks. I'd like to thank Dean, Britta, Sean, Lee, and all the promoters for 8 superb evenings in Madrid, Valencia, Barcelona, London, Leeds, Manchester, and LA. I can only hope a return to Europe is on the cards for 2016, but wherever they end up you can bet there's a good chance I'll find a way there.</p>
 
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/pictures/james-with-sean-britta-and-dean.jpg" "James in LA with Sean, Britta and Dean (Photo: James - taken in Manchester in August)" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/james-with-sean-britta-and-dean.jpg" alt="James in LA with Sean, Britta and Dean (Photo: James - taken in Manchester in August)" /><figcaption class="caption-text">James in LA with Sean, Britta and Dean (Photo: James - taken in Manchester in August)</figcaption></figure>
 
 <h2>Footnotes</h2>
 <p id="footnote-1"><strong>[1]</strong> - This review of sorts was actually completed well after my return flight. I've been busy and lazy in equal measure.</p>

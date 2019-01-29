@@ -2,15 +2,16 @@
 title: 'A Head Full of Wishes'
 subtitle: 'News, reviews and articles'
 email: andy@fullofwishes.co.uk
-baseurl: 
-url: http://www.fullofwishes.co.uk
-domain: http://www.fullofwishes.co.uk
+baseurl:
+url: https://www.fullofwishes.co.uk
+domain: https://www.fullofwishes.co.uk
 description: >
   A Head Full of Wishes is a site for Galaxie 500, Luna, Damon & Naomi, Dean & Britta and Dean Wareham.
-  With news, articles and lists of releases and past and future shows. 
+  With news, articles and lists of releases and past and future shows.
 podcast-description: >
   A Head full of Wishes is a site for fans of Galaxie 500, Luna, Damon & Naomi, Dean & Britta and Dean Wareham. The podcast is as much about being a fan as it is about the music.
-image: http://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image.jpg
+image: https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image.jpg
+
 twitter_username: ahfow
 github_username:  grange85
 permalink: /:year/:month/:day/:title/
@@ -36,7 +37,9 @@ destination: /home/andy/sites/www.fullofwishes.co.uk/
 exclude: [
     '_notes',
     'Gemfile',
-    'Gemfile.lock'
+    'Gemfile.lock',
+    '.sass-cache',
+    '.git'
   ]
 plugins: [
         bootstrap-sass,

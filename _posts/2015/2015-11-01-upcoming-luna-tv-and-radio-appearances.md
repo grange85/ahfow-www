@@ -18,7 +18,7 @@ categories:
 tags: []
 ---
 <p class="lead">Luna have a couple of media appearances while the US tour is wrapping up...</p>
-{% ahfowimage "http://media.fullofwishes.co.uk/02-luna/pictures/2015-11-02-luna-carson-daly-tv.jpg" "Luna on Carson Daly" %}
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/2015-11-02-luna-carson-daly-tv.jpg" alt="Luna on Carson Daly" /><figcaption class="caption-text">Luna on Carson Daly</figcaption></figure>
 <p class="lead">Firstly on Monday 2 November some excerpts from one of Luna's recent performances in Los Angeles will be broadcast on the <a href="http://www.nbc.com/last-call-with-carson-daly">Last Call with Carson Daly</a> TV show on NBC.</p>
 
 <p>The show airs at 01:35 (so technically it's the early hours of Tuesday morning) - so set your VCRs or whatever your modern equivalent is! The above image, pilfered from Luna's Facebook page has the details.</p>

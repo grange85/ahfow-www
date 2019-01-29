@@ -18,7 +18,7 @@ categories:
 - dean wareham
 tags: []
 ---
-<p><figure class="caption aligncenter"><img src="http://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-sonic-cathedral75.jpg" width="770" height="777" class /><figcaption class="caption-text"> Dean Wareham (sleeve by Sharon Lock)</figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-sonic-cathedral75.jpg" width="770" height="777" class /><figcaption class="caption-text"> Dean Wareham (sleeve by Sharon Lock)</figcaption></figure>
 <p><a href="http://web.archive.org/web/20140427083550/http://www.soniccathedral.co.uk/dean-wareham-reveals-new-album-details/">Sonic Cathedral have posted more details regarding Dean Wareham's solo album</a>. The album will be released on 10th of March and will be available to pre-order from the Sonic Cathedral shop imminently as either a CD or translucent yellow vinyl LP.</p>
 <p>The first track from the album, Holding Pattern, was <a href="http://www.thelineofbestfit.com/new-music/blog/listen-dean-wareham-holding-pattern-premiere-144027">streamed earlier today on Line of Best Fit</a>.<br />
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/128739160&color=eaef19"></iframe></p>
@@ -36,4 +36,4 @@ tags: []
 8. Babes In The Wood<br />
 9. Happy & Free<br />
 10. Happy & Free (Jim James Remix) – iTunes only</p>
-<p><img src="http://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-promo-2013.jpg" width="770" height="770" class="aligncenter" /></p>
+<p><img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-promo-2013.jpg" width="770" height="770" class="aligncenter" /></p>

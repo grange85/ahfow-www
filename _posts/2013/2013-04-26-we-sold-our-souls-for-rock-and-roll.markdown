@@ -19,18 +19,18 @@ tags: []
 ---
 <p>Galaxie 500 sell cars:<br />
 
-{% ahfowvideo "naPtNSN5r-o" "" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/naPtNSN5r-o" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 
 <a id="more"></a><a id="more-4201"></a><br />
 Luna sell credit cards:<br />
 </p>
-{% ahfowvideo "kQltp3AbhgI" "" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/kQltp3AbhgI" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>Luna sells smells:<br />
 </p>
-{% ahfowvideo "RP7vNnABiMY" "" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/RP7vNnABiMY" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>Luna sells credit cards... again (5mins in)<br />
 </p>
-{% ahfowvideo "SxPM0JzXvmQ&start=307" "" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/SxPM0JzXvmQ&start=307" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>It's OK though because Henry Rollins says so... and I'll not argue!<br />
 </p>
-{% ahfowvideo "s6zVUvmkyvA" "" %}
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/s6zVUvmkyvA" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>

@@ -20,5 +20,5 @@ categories:
 tags: []
 ---
 <p><a href="https://www.flickr.com/photos/grange85/4845185642" title="Herringbone Tweed by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://c1.staticflickr.com/5/4154/4845185642_6cd4ce4693_z.jpg" width="640" height="480" alt="Herringbone Tweed"></a><br />
-Dean & Britta are presenting <span class="removed_link" title="http://db.fullofwishes.co.uk/dean-and-britta/shows/2015-07-07-centre-pompidou-metz-france.html">13 Most Beautiful at Centre Pompidou-Metz on the 7 July</span> - see the site website for details and tickets.<br />
+Dean & Britta are presenting <span class="removed_link" title="https://db.fullofwishes.co.uk/dean-and-britta/shows/2015-07-07-centre-pompidou-metz-france.html">13 Most Beautiful at Centre Pompidou-Metz on the 7 July</span> - see the site website for details and tickets.<br />
 <a href="http://www.centrepompidou-metz.fr/en/13-most-beautiful-songs-andy-warhol-s-screen-tests">13 Most Beautiful… Songs For Andy Warhol’s Screen Tests</a></p>

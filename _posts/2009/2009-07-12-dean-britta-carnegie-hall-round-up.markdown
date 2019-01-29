@@ -18,7 +18,7 @@ categories:
 - other people's blogs
 tags: []
 ---
-<p><figure class="caption alignright"><a href="http://www.flickr.com/photos/isthismusic/3706916185/"><img alt="Dean Wareham" src="http://farm3.static.flickr.com/2515/3706916185_64dba55b94_m.jpg" title="Dean Wareham at The Carengie Hall in Dunfermline" width="180" height="240" /></a><figcaption class="caption-text">Dean Wareham</figcaption></figure>
+<p><figure class="caption alignright"><a href="http://www.flickr.com/photos/isthismusic/3706916185/"><img alt="Dean Wareham" src="https://farm3.static.flickr.com/2515/3706916185_64dba55b94_m.jpg" title="Dean Wareham at The Carengie Hall in Dunfermline" width="180" height="240" /></a><figcaption class="caption-text">Dean Wareham</figcaption></figure>
 <p>I know I don't do this for every concert but... <a href="/2009/07/09/13-most-beautiful-at-the-carnegie-hall-in-dunfermline/">it was a special night (for me at least)</a> so in honour of that here's a round-up of what's out there on the Internet about Dean & Britta's recent show at The Carnegie Hall in Dunfermline.</p>
 <p><del datetime="2009-07-12T18:01:34+00:00">Show organiser</del> Lindsay Hutton <ins datetime="2009-07-12T18:01:34+00:00">who suggested the show to The Carnegie Hall</ins> has <a href="http://nextbigthing.blogspot.com/2009/07/last-night-i-was-reminded-that-going-to.html">a post on Next Big Thing</a>...</p>
 <blockquote><p>In terms of mellifluous guitar, there simply isn't anyone that hits the intersecting vein between Tom Verlaine and the racket we must attribute to Lou reed and Sterling Morrison like Dean Wareham. The program is curated brilliantly and it requires the same of the location it plays at.</p></blockquote>
