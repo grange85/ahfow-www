@@ -1,0 +1,37 @@
+language: ruby
+rvm:
+  - 2.4.1
+
+install: gem install jekyll jekyll-feed bootstrap-sass jekyll-archives jekyll-paginate bundler
+script: jekyll build
+
+# branch whitelist, only for GitHub Pages
+branches:
+  only:
+  - master     # test the gh-pages branch
+
+addons:
+  apt:
+    packages:
+    - libcurl4-openssl-dev
+
+sudo: false # route your build to the container-based infrastructure for a faster build
+
+cache: bundler # caching bundler gem packages will speed up build
+
+before_deploy: pip install --user awscli
+deploy:
+    provider: script
+    script: ~/.local/bin/aws s3 sync _site s3://www.fullofwishes.co.uk --region=eu-west-2 --delete
+    skip_cleanup: true 
+    access_key_id: $AWS_ACCESS_KEY_ID
+    secret_access_key: $AWS_SECRET_ACCESS_KEY
+notifications:
+    email:
+        on_failure: always
+after_deploy:
+    aws cloudfront create-invalidation --distribution-id $CDN_DISTRIBUTION_ID --paths "/*"
+
+# Optional: disable email notifications about the outcome of your builds
+notifications:
+  email: false
