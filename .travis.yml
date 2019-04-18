@@ -24,7 +24,7 @@ cache: bundler # caching bundler gem packages will speed up build
 before_deploy: pip install --user awscli
 deploy:
     provider: script
-    script: ~/.local/bin/aws s3 sync _site s3://www.fullofwishes.co.uk --region=eu-west-2 --delete --size-only
+    script: ~/.local/bin/aws s3 sync _site s3://www.fullofwishes.co.uk --region=eu-west-2 --delete --size-only --storage-class REDUCED_REDUNDANCY --acl public-read
     skip_cleanup: true 
     access_key_id: $AWS_ACCESS_KEY_ID
     secret_access_key: $AWS_SECRET_ACCESS_KEY
