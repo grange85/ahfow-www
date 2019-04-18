@@ -32,8 +32,6 @@ port: 4040
 markdown: kramdown
 environment: production
 version: 5.0.2
-source: /media/xander4/DATA/07-AHFOW-WWW/
-destination: /home/andy/sites/www.fullofwishes.co.uk/
 exclude: [
     '_notes',
     'Gemfile',
@@ -44,6 +42,5 @@ exclude: [
 plugins: [
         bootstrap-sass,
         jekyll-archives,
-        jekyll-sitemap,
         jekyll-paginate
         ]
