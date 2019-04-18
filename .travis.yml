@@ -2,7 +2,9 @@ language: ruby
 rvm:
   - 2.4.1
 
-install: gem install jekyll jekyll-feed bootstrap-sass jekyll-archives jekyll-paginate bundler
+install: 
+  - gem install jekyll jekyll-feed bootstrap-sass jekyll-archives jekyll-paginate bundler
+
 script: jekyll build
 
 # branch whitelist, only for GitHub Pages
@@ -22,7 +24,7 @@ cache: bundler # caching bundler gem packages will speed up build
 before_deploy: pip install --user awscli
 deploy:
     provider: script
-    script: ~/.local/bin/aws s3 sync _site s3://www.fullofwishes.co.uk --region=eu-west-2 --delete
+    script: ~/.local/bin/aws s3 sync _site s3://www.fullofwishes.co.uk --region=eu-west-2 --delete --size-only
     skip_cleanup: true 
     access_key_id: $AWS_ACCESS_KEY_ID
     secret_access_key: $AWS_SECRET_ACCESS_KEY
