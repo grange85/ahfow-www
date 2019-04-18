@@ -19,7 +19,7 @@ tags:
 flickr: false
 longpost: false
 ---
-<p class="lead">Sweet vidoeo of a short interview with Dean Wareham about records followed by video of them playing Galaxie 500's Blue Thunder at Fingerprints in Long Beach, CA.</p>
+<p class="lead">Sweet video of a short interview with Dean Wareham about records followed by video of them playing Galaxie 500's Blue Thunder at Fingerprints in Long Beach, CA.</p>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/3qiSdlxBGw4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">A Couple Questions with Dean Wareham</figcaption></figure>
 
 <blockquote>One day I'll wake up and I won't be able to hit that note anymore, but that day has not come</blockquote>
