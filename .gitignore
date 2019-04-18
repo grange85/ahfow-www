@@ -6,7 +6,7 @@
 _site/
 .sass-cache/
 .jekyll-metadata
-
+.s3cfg
 
 ### Linux ###
 *~
