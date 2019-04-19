@@ -20,4 +20,4 @@ tags: []
 ---
 <p>A new torrent of Luna's 2002 show in Gothenburg in October 2002 is currently being shared on bittorrent site Dimeadozen. You need to register with the site in order to download.</p>
 <p>Download: <a href="http://www.dimeadozen.org/torrents-details.php?id=491774">2002-10-12: Luna - Goteborg, Sweden, 2002-10-12</a></p>
-<p>You can see the <a href="/database/show/2002-10-12-luna-bommens-salonger-gothenburg-sweden/" title="2002-10-12: Luna – Bommens Salonger, Gothenburg, Sweden">details of the show here</a>.</p>
+<p>You can see the details of the show here.</p>

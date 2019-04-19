@@ -39,7 +39,7 @@ longpost: false
 <p>And the full audio was released as part of KEXP's live performance podcast:</p>
 <div class="well">
   <p class="audio">Audio: <a href="http://media.kexp.org/podcasts/instudio/media/2018-03-15_luna_01-23-18_full_performance.mp3">Luna live at KEXP (23rd January 2018)</a></p>
-  <audio controls="controls" preload="none" src="http://media.kexp.org/podcasts/instudio/media/2018-03-15_luna_01-23-18_full_performance.mp3"></audio>
+  <audio controls="controls" preload="none" src="https://media.kexp.org/podcasts/instudio/media/2018-03-15_luna_01-23-18_full_performance.mp3"></audio>
   <p class="source small text-right"><em>Source: <a href="https://kexp.org/podcasts/live-performances/2018/3/21/luna/">KEXP live performances podcast</a></em></p>
 </div>
 

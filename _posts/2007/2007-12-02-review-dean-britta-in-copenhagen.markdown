@@ -18,7 +18,7 @@ categories:
 tags: []
 ---
 <p>Review by Jens Aage Pedersen - originally posted on the <a href="/mailing-list/">Galaxie 500 Mailing List</a>
-<p>I had the pleasure of attending not one, but two Dean & Britta shows last weekend, <a href="/database/show/2007-11-23-dean-britta-studenterhuset-copenhagen-denmark/">Friday evening at the Studenterhuset</a> and a surprise <a href="/database/show/2007-11-23-dean-britta-studenterhuset-copenhagen-denmark/">Friday evening at the Studenterhuset</a> (which I didn't hear about until Dean announced it on stage Friday, but luckily was able to attend - and it was free, no less!).</p>
+<p>I had the pleasure of attending not one, but two Dean & Britta shows last weekend, Friday evening at the Studenterhuset and a surprise Friday evening at the Studenterhuset (which I didn't hear about until Dean announced it on stage Friday, but luckily was able to attend - and it was free, no less!).</p>
 <p><a id="more"></a><a id="more-583"></a>
 <p>Both shows featured opening acts by The Icicles, a sweet Michigan quintet in matching outfits who played quite catchy powerpop (I guess they call it) in the vein of Camera Obscura (you know, jangly guitar pop...).</p>
 <p>Friday's show was the usual late-night deal, but Saturday's show was over by 10 o'clock, having started at 8.30, with Dean & Britta going on at 9. Dean & Britta were supported by Anthony LaMarca on drums and Ben Something on keyboard on both nights, but the last part of the Saturday show veered a bit from the traditional format, as three songs featured a guest (a different one for each song) on stage.</p>

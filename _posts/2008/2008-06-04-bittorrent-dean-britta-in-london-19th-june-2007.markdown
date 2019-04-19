@@ -22,7 +22,7 @@ tags: []
 <blockquote><p>Dean & Britta<br />
 19 June 2007 - Metro Club, London, UK<br />
 Show details:<br />
-    <a href="/database/show/2007-06-19-dean-britta-metro-club-london-uk/">2007-06-19: Dean & Britta – Metro Club, London, UK</a><br />
+    2007-06-19: Dean & Britta – Metro Club, London, UK<br />
     <a href="http://www.last.fm/event/221443">http://www.last.fm/event/221443</a><br />
 Pictures:<br />
     <a href="http://www.flickr.com/photos/tags/ahfow:showid=853/">http://www.flickr.com/photos/tags/ahfow:showid=853/</a>

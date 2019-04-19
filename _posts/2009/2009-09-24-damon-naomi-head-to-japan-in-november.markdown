@@ -24,7 +24,7 @@ tags: []
 <li><span class="removed_link" title="https://db.fullofwishes.co.uk/gigography/show/1103/">07 November 2009 - Damon & Naomi @ Garo, Misawa, Japan</span></li>
 <li><span class="removed_link" title="https://db.fullofwishes.co.uk/gigography/show/1104/">08 November 2009 - Damon & Naomi @ Cafe Mozart Atelier, Sendai, Japan</span></li>
 <li><span class="removed_link" title="https://db.fullofwishes.co.uk/gigography/show/1105/">10 November 2009 - Damon & Naomi @ Jive, Hiroshima, Japan</span></li>
-<li><a href="/database/show/2009-11-11-damon-naomi-urban-guild-kyoto-japan/">11 November 2009 - Damon & Naomi @ Urban Guild, Kyoto, Japan</a></li>
+<li>11 November 2009 - Damon & Naomi @ Urban Guild, Kyoto, Japan</li>
 <li><span class="removed_link" title="https://db.fullofwishes.co.uk/gigography/show/1107/">12 November 2009 - Damon & Naomi @ K.D Japon, Nagoya, Japan</span></li>
 <li><span class="removed_link" title="https://db.fullofwishes.co.uk/gigography/show/1108/">14 November 2009 - Damon & Naomi @ Tsukimiru kimiomofu, Tokyo, Japan</span></li>
 </ul>

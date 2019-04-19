@@ -21,9 +21,9 @@ tags: []
 ---
 <p>Damon & Naomi have announced some dates in the UK to support the release of their splendid new album Fortune. The shows will include a showing of the film with live accompaniment and (most likely) a few bonus oldies thrown in at the end. The show is well worth catching if you can make it.</p>
 <p>The shows are at:<br />
-<a href="/database/show/2015-04-07-damon-naomi-gullivers-manchester-uk/" title="2015-04-07: Damon & Naomi – Gullivers, Manchester UK">7 April at Gullivers in Manchester</a><br />
-<a href="/database/show/2015-04-08-damon-naomi-green-mind-portland-arms-cambridge-uk/" title="2015-04-08: Damon & Naomi – Green Mind @ The Portland Arms, Cambridge, UK">8 April at The Portland Arms in Cambridge</a><br />
-<a href="/database/show/2015-04-09-damon-and-naomi-rough-trade-east-london-uk/" title="2015-04-09: Damon & Naomi – Rough Trade East, London, UK">9 April at Rough Trade East in London (1pm - lunchtime show)</a></p>
+7 April at Gullivers in Manchester<br />
+8 April at The Portland Arms in Cambridge<br />
+9 April at Rough Trade East in London (1pm - lunchtime show)</p>
 <p>They then head off to Europe for more dates (which I post when I have them ready).</p>
 <p>Fortune has received some lovely (and well-deserved) praise on the internet:</p>
 <p><a href="http://pitchfork.com/reviews/albums/20258-fortune/">Pitchfork</a>:</p>

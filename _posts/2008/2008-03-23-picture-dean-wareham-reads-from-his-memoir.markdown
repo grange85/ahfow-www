@@ -18,6 +18,6 @@ categories:
 - pictures
 tags: []
 ---
-<p>Her's a cool picture of Dean reading from Black Postcards at <a href="/database/show/2008-03-20-dean-wareham-brookline-booksmith-279-harvard-st-brookline-ma-usa/">Brookline Booksmith</a> last week.
+<p>Her's a cool picture of Dean reading from Black Postcards at Brookline Booksmith last week.
 <div class="imagebox-center"><img src="https://www.fullofwishes.co.uk/wp/wp-content/uploads/2008/03/20080320_brookline_barrasso.jpg" alt='Dean reading from his memoir' /><br />
 Photo by Thomas Barrasso.</div>

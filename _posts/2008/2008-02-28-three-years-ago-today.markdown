@@ -25,6 +25,6 @@ tags: []
 <li><a href="http://www.box.net/shared/75ibhzw8wo">Indian Summer</a></li>
 <li><a href="http://www.box.net/shared/pwgtw3wwsc">23 Minutes in Brussels</a></li>
 </ul>
-<p>If wallowing in nostalgia is your thing then also check out the <a href="http://lunaslastwaltz.blogspot.com/">Luna's Last Waltz</a> group blog that includes contributions from both Dean & Britta. And there's <a href="/database/show/2005-02-28-luna-bowery-ballroom-new-york-ny-usa/">also stacks of pictures</a> to browse through...</p>
+<p>If wallowing in nostalgia is your thing then also check out the <a href="http://lunaslastwaltz.blogspot.com/">Luna's Last Waltz</a> group blog that includes contributions from both Dean & Britta. And there's also stacks of pictures to browse through...</p>
 <p><br clear="right"/>
 </div>

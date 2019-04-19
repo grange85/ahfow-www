@@ -19,14 +19,14 @@ categories:
 tags: []
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ggr8IJrAQ2o" frameborder="0" allowfullscreen></iframe>
-<p>A few more details are emerging about the event that <a href="/database/show/2014-10-24-exposed-songs-for-unseen-warhol-films/" title="2014-10-24: Royce Hall, Center for the Art of Performance at UCLA, Los Angeles, CA, USA">popped up here</a> a few weeks back...</p>
+<p>A few more details are emerging about the event that popped up here a few weeks back...</p>
 <p>So far the following dates have been confirmed (hopefully more to follow)</p>
 <ul>
-<li><a href="/database/show/2014-10-17-carnegie-music-hall-of-oakland-pittsburgh-pa/">2014-10-17: Carnegie Music Hall of Oakland, Pittsburgh, PA</a></li>
-<li><a href="/database/show/2014-10-24-exposed-songs-for-unseen-warhol-films/">2014-10-24: Royce Hall, Center for the Art of Performance at UCLA, Los Angeles, CA, USA</a></li>
-<li><a href="/database/show/2014-11-06-bam-howard-gilman-opera-house-new-york-ny-usa/">2014-11-06: BAM Howard Gilman Opera House, New York, NY, USA</a></li>
-<li><a href="/database/show/2014-11-07-bam-howard-gilman-opera-house-new-york-ny-usa/">2014-11-07: BAM Howard Gilman Opera House, New York, NY, USA</a></li>
-<li><a href="/database/show/2014-11-08-bam-howard-gilman-opera-house-new-york-ny-usa/">2014-11-08: BAM Howard Gilman Opera House, New York, NY, USA</a></li>
+<li>2014-10-17: Carnegie Music Hall of Oakland, Pittsburgh, PA</li>
+<li>2014-10-24: Royce Hall, Center for the Art of Performance at UCLA, Los Angeles, CA, USA</li>
+<li>2014-11-06: BAM Howard Gilman Opera House, New York, NY, USA</li>
+<li>2014-11-07: BAM Howard Gilman Opera House, New York, NY, USA</li>
+<li>2014-11-08: BAM Howard Gilman Opera House, New York, NY, USA</li>
 </ul>
 <blockquote><p>Created in celebration of The Andy Warhol Museum’s 20th anniversary, this multimedia performance event comprises 15 never-before-seen films captured by Andy Warhol between 1963 and 1968 on his original 16mm Bolex camera. Five songwriter-composers, reflecting the generational trajectory, musical lineage, and influence of New York-based artists from the post-Velvet Underground 70s through the present day perform original 22 scores to these rare Warhol selections—a combination of portraits and actualités featuring such superstars and luminaries as John Giorno, Marcel Duchamp, Mario Montez, Jim Rosenquist, Billy Kluver, Marisol, Taylor Mead, Mary Woronov, Edie Sedgwick, and Andy Warhol. </p>
 <p>Five songwriter-composers who reflect the generational trajectory and musical influence of post-Velvet Underground 70s to today — Guest Music Curator Dean Wareham (Galaxie 500, Luna), Tom Verlaine (Television), Martin Rev (Suicide), Eleanor Friedberger (the Fiery Furnaces), and Bradford Cox (Deerhunter)—perform live original scores to these unseen celluloid gems from one of America’s most iconic art-makers.</p>

@@ -19,4 +19,4 @@ categories:
 tags: []
 ---
 <p>Dean will be appearing on <a href="http://www.wnyc.org/shows/soundcheck/">WNYC - Soundcheck</a> today at 2pm (EDT - <a href="http://www.timeanddate.com/worldclock/fixedtime.html?month=3&day=18&year=2008&hour=14&min=0&sec=0&p1=179">what time is that where I live?</a>).</p>
-<p>Don't forget the <a href="/database/show/2008-03-18-dean-wareham-union-hall-brooklyn-ny-usa/">free book event at Union Hall, Brooklyn this evening</a>.</p>
+<p>Don't forget the free book event at Union Hall, Brooklyn this evening.</p>

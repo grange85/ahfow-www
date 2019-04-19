@@ -34,11 +34,11 @@ tags: []
 <ul>
 <li><strong>Video: </strong><a href="http://www.youtube.com/watch?v=QKfBJMIANsM">Serge Gainsbourg and Brigitte Bardot - Bonnie and Clyde</a></li>
 </ul>
-<p>Bonnie and Clyde only <span class="removed_link" title="https://db.fullofwishes.co.uk/database/track/81/shows">turned up regularly in Luna's set after Britta joined the band</span> - it was however performed live at least once with Laetitia Sadier at the <a href="/database/show/1995-05-10-luna-borderline-london-uk/">Borderline in London in 1995</a> - I was there - if anyone has a recording of that show please PLEASE get in touch.</p>
+<p>Bonnie and Clyde only <span class="removed_link" title="https://db.fullofwishes.co.uk/database/track/81/shows">turned up regularly in Luna's set after Britta joined the band</span> - it was however performed live at least once with Laetitia Sadier at the Borderline in London in 1995 - I was there - if anyone has a recording of that show please PLEASE get in touch.</p>
 <p><ins datetime="2012-08-10T20:31:49+00:00"><strong>Update:</strong><br />
 OK - this is the only other time that I'm aware of Luna playing Bonnie and Clyde before Britta joined the band. This was in NYC in December 1997 and Dean does the vocal (mostly) on his own. I suspect the track was added to the setlist as it was a good showcase for cellist Jane Scarpantoni who joined them for the show. It's a treat... enjoy:</p>
 <ul>
 <li><strong>MP3: </strong><a href="https://www.box.com/s/1e80e30a1d40ad733fab">Luna perform Bonnie and Clyde with Jane Scarpantoni in NYC in 1997</a></li>
 </ul>
 <p></ins></p>
-<p><a title="By Photo by one of the Barrow gang [Public domain], via Wikimedia Commons" href="http://commons.wikimedia.org/wiki/File%3ABonnieclyde_f.jpg"><img class="aligncenter" width="256" alt="Bonnieclyde f" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bonnieclyde_f.jpg/256px-Bonnieclyde_f.jpg"/></a></p>
+<p><a title="By Photo by one of the Barrow gang [Public domain], via Wikimedia Commons" alt="By Photo by one of the Barrow gang [Public domain], via Wikimedia Commons" href="http://commons.wikimedia.org/wiki/File%3ABonnieclyde_f.jpg"><img class="aligncenter" width="256" alt="Bonnieclyde f" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bonnieclyde_f.jpg/256px-Bonnieclyde_f.jpg"/></a></p>

@@ -17,7 +17,7 @@ categories:
 - luna
 tags: []
 ---
-<p>The last time Luna were in London was in January 2005 - they played an a <a href="/database/show/2005-01-17-luna-ulu-london-uk/">absolute corker of a show at ULU</a> - we all cheered and cried and went home. Earlier in the day Dean and Sean had gone into the BBC 6Music studios to record this live session for the Gideon Coe show.</p>
+<p>The last time Luna were in London was in January 2005 - they played an a absolute corker of a show at ULU - we all cheered and cried and went home. Earlier in the day Dean and Sean had gone into the BBC 6Music studios to record this live session for the Gideon Coe show.</p>
 <ul>
 <li><a href="http://www.box.net/shared/qa9bab7ti1">Broken Chair</a></li>
 <li><a href="http://www.box.net/shared/tgfdhtpz58">The Owl and the Pussycat</a></li>

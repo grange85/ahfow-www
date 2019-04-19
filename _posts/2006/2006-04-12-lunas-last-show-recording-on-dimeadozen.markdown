@@ -23,5 +23,5 @@ tags: []
 </blockquote>
 <ul>
 <li><a href="http://www.dimeadozen.org/torrents-details.php?id=90955">Luna 2005-02-28 (final show) *uncirculated version*</a> (Dimeadozen - registration required)</li>
-<li><a href="/database/show/2005-02-28-luna-bowery-ballroom-new-york-ny-usa/">Show details and pictures</a> - final shows group blog</li>
+<li>Show details and pictures - final shows group blog</li>
 </ul>

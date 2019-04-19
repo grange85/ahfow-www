@@ -27,4 +27,4 @@ tags: []
 <p><iframe width="640" height="360" src="//www.youtube.com/embed/videoseries?list=PLRgAVz39zTz-ZsD_rzpgcNP8DaL57gZVB" frameborder="0" allowfullscreen></iframe></p>
 <p>Luna - This Time Around<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PLAW7Zm-2s4" frameborder="0" allowfullscreen></iframe>
-<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/1996-10-05/19961005_pradejon_03.jpg" width="319" height="480" class="aligncenter" /><a href="/database/show/1996-10-05-luna-unknown-pradejon-spain/" title="1996-10-05: Luna – (unknown), Pradejon, Spain">1996 - Pradejon, Spain</a><br/><figcaption class="caption-text">Photo: Rosa Faus</figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/1996-10-05/19961005_pradejon_03.jpg" width="319" height="480" class="aligncenter" />1996 - Pradejon, Spain<br/><figcaption class="caption-text">Photo: Rosa Faus</figcaption></figure>

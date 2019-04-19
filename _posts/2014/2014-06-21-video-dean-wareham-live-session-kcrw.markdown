@@ -24,4 +24,4 @@ tags: []
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3f-WsWnChnU<br />" frameborder="0" allowfullscreen></iframe>
 Emancipated Hearts<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wsu8Ic7YoJo<br />" frameborder="0" allowfullscreen></iframe>
-<strong><a href="/database/show/dean-wareham-kcrw-santa-monica-ca-usa/" title="2014-06-19: Dean Wareham at KCRW, Santa Monica, CA, USA">2014-06-19: Dean Wareham at KCRW, Santa Monica, CA, USA</a></strong></p>
+<strong>2014-06-19: Dean Wareham at KCRW, Santa Monica, CA, USA</strong></p>

@@ -21,20 +21,20 @@ categories:
 tags: []
 ---
 <p>Well, I'm all packed and ready to head off to Portugal in the morning so before I go I'll throw together a quick and dirty round-up of the first part of Luna's reunion tour.</p>
-<h3><a href="/database/show/2015-04-17-luna-gijon-sound-festival-gijon-spain/" title="2015-04-17: Luna – Gijon Sound Festival, Gijon, Spain">17 April 2015: Luna – Gijon Sound Festival, Gijon</a></h3>
+<h3>17 April 2015: Luna – Gijon Sound Festival, Gijon</h3>
 
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/x_XK0nyRLr0" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna playing Pup Tent</figcaption></figure>
-<p><a href="/database/show/2015-04-17-luna-gijon-sound-festival-gijon-spain/" title="2015-04-17: Luna – Gijon Sound Festival, Gijon, Spain">Setlist</a></p>
-<h3><a href="/database/show/2015-04-18-luna-escenario-santander-santander-spain/" title="2015-04-18: Luna – Escenario Santander, Santander, Spain">18 April 2015: Luna – Escenario Santander, Santander</a></h3>
+<p>Setlist</p>
+<h3>18 April 2015: Luna – Escenario Santander, Santander</h3>
 <p><a href="https://www.flickr.com/photos/city_kitty/17167048956" title="Night 2. #lunareunion by city kitty, on Flickr"><img src="https://farm8.staticflickr.com/7604/17167048956_a5b1304ea6_z.jpg" width="640" height="640" alt="Night 2. #lunareunion"></a><br />
-<a href="/database/show/2015-04-18-luna-escenario-santander-santander-spain/" title="2015-04-18: Luna – Escenario Santander, Santander, Spain">Setlist</a></p>
-<h3><a href="/database/show/2015-04-19-luna-mallorca-spain/" title="2015-04-19: Luna – Teatre de Lloseta, Lloseta, Mallorca, Spain">19 April 2015: Luna – Teatre de Lloseta, Lloseta, Mallorca</a></h3>
+Setlist</p>
+<h3>19 April 2015: Luna – Teatre de Lloseta, Lloseta, Mallorca</h3>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/sxDeNNgSFlE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
-<p><a href="/database/show/2015-04-19-luna-mallorca-spain/" title="2015-04-19: Luna – Teatre de Lloseta, Lloseta, Mallorca, Spain">Setlist</a></p>
-<h3><a href="/database/show/2015-04-20-luna-teatro-lara-madrid-spain/" title="2015-04-20: Luna – Teatro Lara, Madrid, Spain">20 April 2015: Luna – Teatro Lara, Madrid</a></h3>
+<p>Setlist</p>
+<h3>20 April 2015: Luna – Teatro Lara, Madrid</h3>
 <p><a href="https://www.flickr.com/photos/-christoph-/16612647523" title="Luna live... by Christoph!, on Flickr"><img src="https://farm8.staticflickr.com/7705/16612647523_57d1c59ca2_z.jpg" width="640" height="427" alt="Luna live..."></a><br />
-<a href="/database/show/2015-04-20-luna-teatro-lara-madrid-spain/" title="2015-04-20: Luna – Teatro Lara, Madrid, Spain">Setlist</a></p>
-<h3><a href="/database/show/2015-04-21-luna-teatro-lara-madrid-spain/" title="2015-04-21: Luna – Teatro Lara, Madrid, Spain">21 April 2015: Luna – Teatro Lara, Madrid</a></h3>
+Setlist</p>
+<h3>21 April 2015: Luna – Teatro Lara, Madrid</h3>
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;">
 <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;">
 <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div>
@@ -44,10 +44,10 @@ tags: []
 </div>
 </blockquote>
 <p><script async defer src="//platform.instagram.com/en_US/embeds.js"></script><br />
-<a href="/database/show/2015-04-21-luna-teatro-lara-madrid-spain/" title="2015-04-21: Luna – Teatro Lara, Madrid, Spain">Setlist</a></p>
-<h3><a href="/database/show/2015-04-22-luna-la-cambra-valencia-spain/" title="2015-04-22: Luna – La Cambra, Valencia, Spain">22 April 2015: Luna – La Cambra, Valencia</a></h3>
+Setlist</p>
+<h3>22 April 2015: Luna – La Cambra, Valencia</h3>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/h-Unt4tIsgk" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
-<p><a href="/database/show/2015-04-22-luna-la-cambra-valencia-spain/" title="2015-04-22: Luna – La Cambra, Valencia, Spain">Setlist</a></p>
-<h3><a href="/database/show/2015-04-23-luna-bikini-barcelona-spain/" title="2015-04-23: Luna – Bikini, Barcelona, Spain">23 April 2015: Luna – Bikini, Barcelona</a></h3>
+<p>Setlist</p>
+<h3>23 April 2015: Luna – Bikini, Barcelona</h3>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/8qRVaT4uVCE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
-<p><a href="/database/show/2015-04-23-luna-bikini-barcelona-spain/" title="2015-04-23: Luna – Bikini, Barcelona, Spain">Setlist</a></p>
+<p>Setlist</p>

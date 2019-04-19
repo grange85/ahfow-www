@@ -23,7 +23,7 @@ Almost exactly 20 years ago, on the 27 February 1992, Luna first arrived in Lond
 <p>The show was great, of course, the original pre-Sean Luna line-up of Dean, Stan and Justin, was supplemented with Mercury Rev's Grasshopper on guitar, and the band seemed comfortable with each other and OK with dealing with the "they're not Galaxie 500" expectations of an audience which, for the most part, like me, seemed OK with that.</p>
 <p>I recorded the show on my new Walkman Pro - so new that I had no idea how it worked, so most of the recording is a distorted, muddy, mess. Before the encore I flicked a switch and turned a knob and managed to get a decentish recording of the encore, so here, recycled (again!) for your delectation is Luna performing Galaxie 500's Temperature's Rising as the encore of that first London show.</p>
 <p><strong>MP3</strong>: <a href="http://www.box.com/shared/6c2p7xlhau">Luna - Temperature's Rising - Underworld London 27 February 1992</a> (via Box.net)<br />
-<strong>Show details/setlist</strong>: <a href="/database/show/1992-02-27-luna-underworld-london-uk/">27 February 1992: Luna @ Underworld, London, UK</a> (on AHFoW database)</p>
+<strong>Show details/setlist</strong>: 27 February 1992: Luna @ Underworld, London, UK (on AHFoW database)</p>
 <p><em>"Bah! One track? Call that 'recycling'?"</em></p>
 <p>While in town that week Luna also recorded their only Peel session you can head over here and grab that too<br />
 <strong>Article and MP3s</strong>: <a href="/2007/11/22/mp3-luna-slide-peel-session-1992/">Luna – Peel Session – 1992</a></p>

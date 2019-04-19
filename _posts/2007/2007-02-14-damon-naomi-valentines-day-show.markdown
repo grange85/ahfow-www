@@ -18,4 +18,4 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p>Damon & Naomi are playing a <a href="/database/show/2007-02-14-damon-naomi-tonic-new-york-ny-usa/">Valentines day show at The Tonic in NYC</a> this evening.</p>
+<p>Damon & Naomi are playing a Valentines day show at The Tonic in NYC this evening.</p>

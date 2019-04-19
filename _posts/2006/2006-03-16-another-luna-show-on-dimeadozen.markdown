@@ -18,5 +18,5 @@ categories:
 - news
 tags: []
 ---
-<p>Luna's <a href="/database/show/2002-08-20-luna-south-street-seaport-new-york-ny-usa/">outdoor show at South Street Seaport</a> in August 2002 is available to download at bittorrent site <a href="http://www.dimeadozen.org">Dimeadozen</a> (you need to be registered to download)</p>
+<p>Luna's outdoor show at South Street Seaport in August 2002 is available to download at bittorrent site <a href="http://www.dimeadozen.org">Dimeadozen</a> (you need to be registered to download)</p>
 <p><a href="http://www.dimeadozen.org/torrents-details.php?id=86923">Luna 2002-08-20 NYC South Street Seaport</a></p>

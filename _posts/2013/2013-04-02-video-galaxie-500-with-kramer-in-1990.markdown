@@ -19,7 +19,7 @@ categories:
 tags: []
 ---
 <p>Sometime over the Easter weekend <a href="https://www.facebook.com/fullofwishes">A Head Full of Wishes reached 1000 <em>likes</em> on Facebook</a> - not that I'm one to put too much store by the numbers but it did seem worth a little nod... only I wasn't ready with anything (the last 5 <em>likes</em> came quicker than the previous 15!). So I hastily popped a couple of videos on YouTube from a Galaxie 500 show that was shared on Dimeadozen a few months back.</p>
-<p>The <a href="/database/show/1990-11-07-galaxie-500-leicester-university-leicester-uk/">show is from Leicester in 1990</a> on the tour where they were supporting The Sundays. Here's Dean summoning Kramer to the stage for a cover of <a href="/2011/06/20/mp3-victory-garden-enough-or-adolf/" title="Mp3: Victory Garden – Enough or Adolf">Red Krayola's Victory Garden</a>, and then Joy Division's Ceremony.<br />
+<p>The show is from Leicester in 1990 on the tour where they were supporting The Sundays. Here's Dean summoning Kramer to the stage for a cover of <a href="/2011/06/20/mp3-victory-garden-enough-or-adolf/" title="Mp3: Victory Garden – Enough or Adolf">Red Krayola's Victory Garden</a>, and then Joy Division's Ceremony.<br />
 <a id="more"></a><a id="more-4093"></a></p>
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/UMghNua4hjU" frameborder="0" allowfullscreen></iframe>

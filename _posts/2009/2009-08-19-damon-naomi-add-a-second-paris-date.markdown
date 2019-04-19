@@ -18,5 +18,5 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p>Damon & Naomi have <a href="/database/show/2009-09-05-damon-naomi-cafe-de-paris-paris-france/">added another date in Paris on the 5th of Spetember at Cafe de Paris</a>, support comes from Heligoland.
+<p>Damon & Naomi have added another date in Paris on the 5th of Spetember at Cafe de Paris, support comes from Heligoland.
 <p>Here's a <span class="removed_link" title="https://db.fullofwishes.co.uk/upcoming/damon_and_naomi/">list of all upcoming Damon & Naomi shows</span> which includes a tour of North America with A Hawk and A Hacksaw as well as their short four date European visit.</p>
