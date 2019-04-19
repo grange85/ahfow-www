@@ -54,7 +54,9 @@ exclude: [
     'Gemfile.lock',
     'Rakefile',
     '.sass-cache',
-    '.git'
+    '.git',
+    's3cfg-prog',
+    's3cfg-prog.enc'
   ]
 plugins: [
         bootstrap-sass,

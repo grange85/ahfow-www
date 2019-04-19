@@ -2,6 +2,9 @@ language: ruby
 rvm:
   - 2.4.1
 
+before_install:
+- openssl aes-256-cbc -K $encrypted_7e936d856eda_key -iv $encrypted_7e936d856eda_iv -in s3cfg-prod.enc -out s3cfg-prod -d
+
 install: 
   - gem install jekyll jekyll-feed bootstrap-sass jekyll-archives jekyll-paginate-v2 bundler rake
 
@@ -22,12 +25,12 @@ sudo: false # route your build to the container-based infrastructure for a faste
 cache: bundler # caching bundler gem packages will speed up build
 
 before_deploy: pip install --user awscli
+before_deploy: 
+  - pip install --user s3cmd
 deploy:
     provider: script
-    script: ~/.local/bin/aws s3 sync _site s3://www.fullofwishes.co.uk --region=eu-west-2 --delete --size-only --storage-class REDUCED_REDUNDANCY --acl public-read
+    script: ~/.local/bin/s3cmd sync --config s3cfg-prod --reduced-redundancy --guess-mime-type --no-mime-magic --delete-removed --exclude '.sass-cache' --exclude 's3cfg*' _site/ s3://www.fullofwishes.co.uk
     skip_cleanup: true 
-    access_key_id: $AWS_ACCESS_KEY_ID
-    secret_access_key: $AWS_SECRET_ACCESS_KEY
 notifications:
     email:
         on_failure: always
