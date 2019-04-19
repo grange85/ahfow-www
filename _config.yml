@@ -41,8 +41,6 @@ pagination:
   extension: html
   indexpage: 'index'
 
-
-
 excerpt_separator: <!--more-->
 
 # Build settings
@@ -54,6 +52,7 @@ exclude: [
     '_notes',
     'Gemfile',
     'Gemfile.lock',
+    'Rakefile',
     '.sass-cache',
     '.git'
   ]

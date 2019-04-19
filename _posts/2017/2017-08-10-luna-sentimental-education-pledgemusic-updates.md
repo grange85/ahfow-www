@@ -26,7 +26,7 @@ tags:
 <p><a href="http://www.pledgemusic.com/projects/luna2/updates/85364">A non album track to download</a>! Luna covered a Monochrome Set obscurity. Inside Your Heart is&hellip;</p>
 <blockquote>a very early song by London's Monochrome Set — possibly when they were called the B-Sides and featured one Stuart Goddard (Adam Ant) on bass guitar.</blockquote>
 <p>There is also some video of Luna in the studio recording the song.</p>
-<div class="col-md-6 pull-right"><figure><img src="{{site.baseurl}}/images/a-goat-on-the-roof.jpg" class="img-responsive" /><figcaption>&hellip; and a goat!</figcaption></figure></div>
+<div class="col-md-6 pull-right"><figure><img src="{{site.baseurl}}/images/a-goat-on-the-roof.jpg" class="img-responsive" alt="picture of a goat, on a roof" /><figcaption>&hellip; and a goat!</figcaption></figure></div>
 <p><a href="http://www.pledgemusic.com/projects/luna2/updates/87111">A lovely shaky video of Justing joining Luna</a> on stage in Wellington, plus some soundcheck footage in Auckland. And a goat. On a roof. Obviously.</p>
 
 <p><a href="http://www.pledgemusic.com/projects/luna2/updates/86830">Video of Dean listening to the album and EP test pressings</a></p>
