@@ -29,8 +29,7 @@ pagination:
   debug: false
   collection: 'posts'
   per_page: 10
-  permalink: '/page:num/' # Pages are index.html inside this folder (default)
-  #permalink: '/page/:num' # Pages are html files, linked jekyll extensionless permalink style.
+  permalink: '/page:num/'
   title: ':title - page :num'
   limit: 10
   sort_field: 'date'
