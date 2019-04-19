@@ -5,7 +5,7 @@ rvm:
 install: 
   - gem install jekyll jekyll-feed bootstrap-sass jekyll-archives jekyll-paginate-v2 bundler rake
 
-script: bundle exec jekyll build
+script: jekyll build
 
 # branch whitelist, only for GitHub Pages
 branches:
