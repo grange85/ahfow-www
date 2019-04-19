@@ -3,7 +3,7 @@ rvm:
   - 2.4.1
 
 install: 
-  - gem install jekyll jekyll-feed bootstrap-sass jekyll-archives jekyll-paginate bundler
+  - gem install jekyll jekyll-feed bootstrap-sass jekyll-archives jekyll-paginate-v2 bundler
 
 script: jekyll build
 
