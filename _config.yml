@@ -32,7 +32,7 @@ pagination:
   permalink: '/page:num/' # Pages are index.html inside this folder (default)
   #permalink: '/page/:num' # Pages are html files, linked jekyll extensionless permalink style.
   title: ':title - page :num'
-  limit: 0
+  limit: 10
   sort_field: 'date'
   sort_reverse: true
   category: 'posts'
