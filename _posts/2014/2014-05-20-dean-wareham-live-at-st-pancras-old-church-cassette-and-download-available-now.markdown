@@ -21,7 +21,7 @@ tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-live-at-st-pancras-cassettes.jpg" width="640" height="640" class /><figcaption class="caption-text"> Pic lifted from @soniccathedral's Instagram</figcaption></figure>
 The live recording of Dean Warehams shows at St Pancras Old Chruch at the tail end of last year has been released by Sonic Cathedral is now available to buy either on limited edition cassette or as a digital download.</p>
-<p>The cassettes come in either red or green packaging in a sleeve designed by Sharon Locke (who designed the sleeve for <a href="/database/release/dean-wareham/" title="Dean Wareham">Dean's new album</a> as well as the <a href="/database/release/love-is-colder-than-death-she-went-walking-in-the-rain/" title="Love Is Colder Than Death / She Went Walking In The Rain">Love Is Colder Than Death</a> 7").</p>
+<p>The cassettes come in either red or green packaging in a sleeve designed by Sharon Locke (who designed the sleeve for Dean's new album as well as the Love Is Colder Than Death 7").</p>
 <p>The Cassette is available to buy at Dean's UK shows in Bristol (but you've just missed that), Brighton, Leamington Spa and London.</p>
 <p><a href="http://soniccathedral.bigcartel.com/product/scr076-dean-wareham-live-at-st-pancras-old-church-mc">Buy the cassette from the Sonic Cathedral shop</a><br />
 <a href="https://soniccathedral.bandcamp.com/album/live-at-st-pancras-old-church-london-december-2013-2">Buy the digital download from Sonic Cathedral's bandcamp</a></p>

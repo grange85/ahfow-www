@@ -28,7 +28,7 @@ tags: []
 <strong>MP3:</strong> <a href="http://www.box.com/s/hm7qcugzb5psmydedq48">Damon & Naomi (with Tom Rapp) - I Shall Be Released</a> (mp3 via Box.net)</p>
 <p>Here's Tom covering Damon & Naomi's Tour of the World also at the first Terrastock in 1997<br />
 <strong>MP3:</strong> <a href="http://www.box.com/shared/8su1nj8un1">Tom Rapp - Tour of The World</a> (mp3 via Box.net)</p>
-<p>Here's Damon & Naomi covering Pearls Before Swine's Translucent Carriages for the <a href="/database/release/for-the-dead-in-space/">For The Dead in Space</a> tribute album<br />
+<p>Here's Damon & Naomi covering Pearls Before Swine's Translucent Carriages for the For The Dead in Space tribute album<br />
 <strong>M4A:</strong> <a href="http://www.box.com/s/zvathzhfytyrfox2zu9f">Damon & Naomi - Translucent Carriages</a> (<del datetime="2012-03-08T10:22:59+00:00">mp3</del> <ins datetime="2012-03-08T10:22:59+00:00">m4a</ins> via Box.net)</p>
 <p>Here's <a href="http://web.archive.org/web/20091101095413/http://www.damonandnaomi.com:80/interviews/magnetinterview.html">Tom interviewing Damon & Naomi</a> (and a little the vice-versa)</p>
 <p>Here's a <a href="http://members.chello.nl/cvanderlely/pearls/articles/nytreview.html">review of Tom Rapp performing with Damon & Naomi in NYC in 1997</a></p>

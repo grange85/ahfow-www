@@ -33,7 +33,7 @@ Claudine Longet has had an eventful live. She was married to Andy Williams, and 
 Jean-Claude Oliver (or Olivier) was the composer and Roger Valade wrote the lyrics to the song.</p>
 <p>Sadly I haven't managed to track down a version of Line et Willy's original but if anyone has it please do let me know!</p>
 <p>The third name was that of Diana Spyropolus who wrote the English lyrics for the second half of Claudine Longet's cover - I haven't managed to uncover much more about Ms Spyropolus - although I guess it could be <a href="https://www.goodreads.com/author/show/259288.Diana_Spyropulos">this one</a> ... but the 20 year gap between This Changing World and those books suggests otherwise).</p>
-<p>Damon & Naomi's version was the closing track on their fantastic debut album <a href="/database/release/more-sad-hits/" title="More Sad Hits">More Sad Hits</a>.<br />
+<p>Damon & Naomi's version was the closing track on their fantastic debut album More Sad Hits.<br />
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4050036211/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1612917842/transparent=true/" seamless><a href="http://damonandnaomi.bandcamp.com/album/more-sad-hits">More Sad Hits by Damon & Naomi</a></iframe></p>
 <p>So, This Changing World was the b-side of the song that came seventh in the 1968 Eurovision song contest ... that's pretty obscure...<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aJ7y5Z6pplM" frameborder="0" allowfullscreen></iframe>

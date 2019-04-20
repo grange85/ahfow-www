@@ -18,4 +18,4 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>It seems the "only available in indies" thing may only apply to the US as Dean & Britta's new single <a href="/database/release/words-you-used-to-say-release/">Words You Used To Say</a> is available to <a href="http://www.amazon.co.uk/exec/obidos/ASIN/B000JJSKEK/aheadfullofwi-21">pre-order on Amazon UK</a> with a release date set for 30 October.</p>
+<p>It seems the "only available in indies" thing may only apply to the US as Dean & Britta's new single Words You Used To Say is available to <a href="http://www.amazon.co.uk/exec/obidos/ASIN/B000JJSKEK/aheadfullofwi-21">pre-order on Amazon UK</a> with a release date set for 30 October.</p>

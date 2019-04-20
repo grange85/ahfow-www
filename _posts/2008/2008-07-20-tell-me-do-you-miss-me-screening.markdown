@@ -19,5 +19,5 @@ categories:
 tags: []
 ---
 <div class="imagebox-a"></div>
-<p><a href="/database/release/tell-me-do-you-miss-me/">Tell Me Do You Miss Me</a>, the film documenting Luna's last tour will be <span class="removed_link" title="http://www.revolvefestival.com/2008/tellmedoyou.html">screened at the Revolve Film & Music Festival</span> in North Carolina. The film will show at the <span class="removed_link" title="http://www.salem.edu/index.php?option=com_content&task=view&id=63&Itemid=95">Salem Fine Arts Center</span> on the 9th of August at 8pm, and will be followed by a Q&A with filmmaker Matthew Buzzell and ex-Luna guitarist Sean Eden.</p>
+<p>Tell Me Do You Miss Me, the film documenting Luna's last tour will be <span class="removed_link" title="http://www.revolvefestival.com/2008/tellmedoyou.html">screened at the Revolve Film & Music Festival</span> in North Carolina. The film will show at the <span class="removed_link" title="http://www.salem.edu/index.php?option=com_content&task=view&id=63&Itemid=95">Salem Fine Arts Center</span> on the 9th of August at 8pm, and will be followed by a Q&A with filmmaker Matthew Buzzell and ex-Luna guitarist Sean Eden.</p>
 <p><br clear="right"/></p>

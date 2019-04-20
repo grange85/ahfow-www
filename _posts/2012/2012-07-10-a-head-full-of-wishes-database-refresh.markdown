@@ -23,9 +23,9 @@ tags: []
 <p>An incomplete (but improving all the time) gigography of shows played by <span class="removed_link" title="https://db.fullofwishes.co.uk/database/gigography/galaxie_500">Galaxie 500</span>, <a href="https://db.fullofwishes.co.uk/database/gigography/luna" title="Luna gigography">Luna</a>, <span class="removed_link" title="https://db.fullofwishes.co.uk/database/gigography/damon_and_naomi">Damon & Naomi</span>, <span class="removed_link" title="https://db.fullofwishes.co.uk/database/gigography/dean_and_britta">Dean & Britta</span> and <span class="removed_link" title="https://db.fullofwishes.co.uk/database/gigography/dean_wareham">Dean Wareham</span>.</p>
 <p><strong>Some lists: </strong></p>
 <ul>
-<li><a href="/database/guitar-chords/">A-Z of tracks with guitar chords/tab</a></li>
+<li>A-Z of tracks with guitar chords/tab</li>
 <li><span class="removed_link" title="https://db.fullofwishes.co.uk/database/lists/albums">A-Z of albums/releases</span></li>
-<li><a href="/database/tracks/">A-Z of tracks</a></li>
+<li>A-Z of tracks</li>
 <li><span class="removed_link" title="https://db.fullofwishes.co.uk/database/track/covers">A-Z of cover versions</span> (tracks covered by the bands rather than other bands covers)</li>
 </ul>
 <p><strong>Still to do</strong><br />

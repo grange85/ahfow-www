@@ -25,9 +25,9 @@ tags: []
 <p>On the Galaxie 500 Mailing List over the years I'd take the occasional pop at it, occasionally someone would spring to defend it, like Paul in 2000...</p>
 <blockquote><p>No! It's fantastic. It rocks, it has silly lyrics. What more could you ask for from a Luna song?</p></blockquote>
 <p> ...but mostly not. </p>
-<p>Seven years ago Marc wrote to me correcting the lyrics of <a href="/database/track/rollercoaster/">Rollercoaster</a> pointing out that it makes reference to "Nathan's hot dogs, on the boardwalk" ... rather rudely as far as I can tell I neither corrected them in the database or thanked Marc for the correction... I'm responding to that email now (hopefully that seven year old email address is still alive... if not Marc, if you're out there - thanks and sorry)</p>
+<p>Seven years ago Marc wrote to me correcting the lyrics of Rollercoaster pointing out that it makes reference to "Nathan's hot dogs, on the boardwalk" ... rather rudely as far as I can tell I neither corrected them in the database or thanked Marc for the correction... I'm responding to that email now (hopefully that seven year old email address is still alive... if not Marc, if you're out there - thanks and sorry)</p>
 <p>Anyway... here's your chance to pass opinion on one of Luna's "lost tracks"... </p>
 
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/luna-rollercoaster-smile.mp3">Luna - Rollercoaster</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/luna-rollercoaster-smile.mp3"></audio></div>
 
-<p>BTW I'm <a href="/database/track/rollercoaster/">fairly certain that the line isn't 'Stinking drunk just like the pope'</a> but it's all I could think of that rhymed with 'hope' which I'm fairly sure is right - feel free to correct me!</p>
+<p>BTW I'm fairly certain that the line isn't 'Stinking drunk just like the pope' but it's all I could think of that rhymed with 'hope' which I'm fairly sure is right - feel free to correct me!</p>

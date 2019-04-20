@@ -22,7 +22,7 @@ tags: []
 <p>The Rutles were a parody of The Beatles created by Eric Idle and with wonderfully authentic sounding songs written by Neil Innes - such good parodies they were that Cheese and Onions eventually had to be credited to (Innes/Lennon/McCartney). The song first turned up in the TV film "All You Need is Cash" and on the album released to accompany it. It was also released as a 7" single.<br />
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/ePaHG6g7uFw" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">The Rutles - Cheese and Onions</figcaption></figure>
 <a id="more"></a><a id="more-3907"></a><br />
-Galaxie 500 covered it for the Shimmy Disc tribute album <a href="/database/release/rutles-highway-revisited/">Rutles Highway Revisited</a><br />
+Galaxie 500 covered it for the Shimmy Disc tribute album Rutles Highway Revisited<br />
 </p>
 {% bandcamp {"track": "1160116344"} %}
 <p>I'm not sure Galaxie 500 ever played it live, but on his "Dean Wareham plays Galaxie 500" dates it would occasionally get an airing...<br />

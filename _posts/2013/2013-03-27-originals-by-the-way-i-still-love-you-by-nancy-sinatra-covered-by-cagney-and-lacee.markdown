@@ -20,7 +20,7 @@ categories:
 tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/nancy-and-lee.jpg" width="550" height="470" class /><figcaption class="caption-text"> Nancy and Lee</figcaption></figure>
-By The Way was written by Lee Hazlewood and released on Country, My Way by Nancy Sinatra (I guess the album title's a little nod to her dad?). Cagney and Lacee first released it as on the b-side of their <a href="/database/release/time-cagney-and-lacee/">7" single Time on No.6 Records</a> and then later on the <a href="/database/release/six-feet-of-chain-cagney-and-lacee/">Six Feet of Chain</a> album.<br />
+By The Way was written by Lee Hazlewood and released on Country, My Way by Nancy Sinatra (I guess the album title's a little nod to her dad?). Cagney and Lacee first released it as on the b-side of their 7" single Time on No.6 Records and then later on the Six Feet of Chain album.<br />
 <a id="more"></a><a id="more-3891"></a><br />
 Another track that doesn't seem to have made it to the free bits of the Internet but you can check it out on Spotify...<br />
 <iframe class="aligncenter" src="https://embed.spotify.com/?uri=spotify:track:1PKgeANqvc1OHbhOogouxc" width="300" height="380" frameborder="0" allowtransparency="true"></iframe></p>

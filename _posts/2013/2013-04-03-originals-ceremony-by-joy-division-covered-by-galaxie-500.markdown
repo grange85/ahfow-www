@@ -19,7 +19,7 @@ categories:
 tags: []
 ---
 <p>Ceremony is the second track in this series to have <a href="http://en.wikipedia.org/wiki/Ceremony_%28song%29">a Wikipedia page all of its own</a>, so head over there for the full history - in short the song was one of the last songs written by Joy Division and never properly recorded. The only three known recordings by the band are below. New Order recorded the song twice and released it as their first single - also twice (and below, twice)</p>
-<p>Galaxie 500's version first turned up on the back of the <a href="/database/release/blue-thunder-ep/">Blue Thunder 12" single</a> - and was a bonus track on all the recent CD reissues of their second album On Fire.<br /></p>
+<p>Galaxie 500's version first turned up on the back of the Blue Thunder 12" single - and was a bonus track on all the recent CD reissues of their second album On Fire.<br /></p>
 
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/OH_tZKDOpU4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Joy Division - Ceremony - live version from Still recorded at their final concert at High Hall, Birmingham University on 2 May 1980.</figcaption></figure>
 

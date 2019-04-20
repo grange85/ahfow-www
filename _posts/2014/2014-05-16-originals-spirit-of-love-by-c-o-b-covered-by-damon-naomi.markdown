@@ -24,7 +24,7 @@ I managed to miss posting an 'Original' this week - luckily next up is Spirit of
 
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/marNtAKQObA" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Spirit of Love - C.O.B.</figcaption></figure>
 
-<p>Damon & Naomi covered the song on the <a href="/database/release/ptolemaic-terrascope-23/" title="Ptolemaic Terrascope #23">single that was released with Ptolemaic Terrascope #23</a> (the issue that featured the interview where they talked about the sad break-up of Galaxie 500). Here's a bit of what I said previously about one of my favourite covers...</p>
+<p>Damon & Naomi covered the song on the single that was released with Ptolemaic Terrascope #23 (the issue that featured the interview where they talked about the sad break-up of Galaxie 500). Here's a bit of what I said previously about one of my favourite covers...</p>
 <blockquote><p>
 In March 1997 Damon & Naomi played their first London show at the tiny 12 Bar Club. I still remember that show with a mixture of bliss and discomfort but the most enduring of the blissful memories is the instrument that Naomi used. A sruti box is a simple one pitch harmonium that produces a beautiful drone.</p>
 <p>In the July 1997 issue of Ptolemaic Terrascope Damon & Naomi gave an interview which showed off the still tender wounds of the Galaxie 500 split. As a fan it was a hard read. Up until that point I was blissfully unaware of just how sad the split was.</p>

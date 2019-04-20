@@ -24,4 +24,4 @@ tags: []
 <li>21 January 2008 - Damon & Naomi @ Shibuya, O-Nest, Tokyo, Japan</li>
 <li>22 January 2008 - Damon & Naomi @ Shibuya, O-Nest, Tokyo, Japan</li>
 </ul>
-<p>On the first night in Tokyo Damon & Naomi will feature songs from <a href="/database/release/within-these-walls-release/">Within These Walls</a> while on the second night they will play songs spanning their whole career.</p>
+<p>On the first night in Tokyo Damon & Naomi will feature songs from Within These Walls while on the second night they will play songs spanning their whole career.</p>

@@ -22,6 +22,6 @@ tags: []
 <p>Another one that slipped through the net...</p>
 <p>Kazuki Tomokowa is, according to his short biog on Discogs, a "Prolific Japanese folk singer, songwriter, poet, essayist, actor, betting tipster and artist". Here's his original of Watashi no Hana (My Flower) - cursory Googling has provided precious little more about the song (in English).<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vtEb5uDqmgc" frameborder="0" allowfullscreen></iframe>
-<p>Damon & Naomi performed the track live a number of times and released a live version (recorded in Tokyo in 2004) on the free 7" single given away with the Drag City re-release of <a href="/database/release/with-ghost/" title="With Ghost">Damon & Naomi With Ghost</a>.<br />
+<p>Damon & Naomi performed the track live a number of times and released a live version (recorded in Tokyo in 2004) on the free 7" single given away with the Drag City re-release of Damon & Naomi With Ghost.<br />
 MP3: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/04-damon--naomi-my-flower.mp3">Watashi no Hana (My Flower) - Damon & Naomi</a><br />
 <audio src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/04-damon--naomi-my-flower.mp3" preload="none" controls /></p>

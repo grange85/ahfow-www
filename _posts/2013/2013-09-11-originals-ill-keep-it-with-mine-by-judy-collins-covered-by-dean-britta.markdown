@@ -26,7 +26,7 @@ tags: []
 </p>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/_twArsZnZvs" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Nico - I'll Keep it With Mine</figcaption></figure>
 
-<p>In an <a href="http://www.avclub.com/articles/dean-wareham,43887/">interview for AV Club</a> however Dean suggested that <a href="/database/track/ill-keep-it-with-mine/">their cover</a> owed more to the version by <a href="http://en.wikipedia.org/wiki/Rainy_Day_%28band%29">Paisley Underground supergroup Rainy Day</a>.</p>
+<p>In an <a href="http://www.avclub.com/articles/dean-wareham,43887/">interview for AV Club</a> however Dean suggested that their cover owed more to the version by <a href="http://en.wikipedia.org/wiki/Rainy_Day_%28band%29">Paisley Underground supergroup Rainy Day</a>.</p>
 
 <blockquote>We kind of like the version by Rainy Day, which was this supergroup featuring David Roback, Kendra Smith, Susanna Hoffs, a Paisley Underground thing. That’s kind of what we based that on.</blockquote>
 

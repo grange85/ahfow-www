@@ -24,5 +24,5 @@ tags: []
 Listen to the awesome Magic Hour cover of Sally Free and Easy<br />
 MP3: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/03_Magic_Hour_Sally_Free_and_Easy.mp3">Damon & Naomi - Sally Free and Easy</a><br />
 <audio src="https://media.fullofwishes.co.uk/audio/damon_and_naomi/03_Magic_Hour_Sally_Free_and_Easy.mp3" preload="none" controls /></p>
-<p>Here are Damon & Naomi performing their folk ballad <a href="/database/track/cruel-queen/" title="Cruel Queen">Cruel Queen</a> from <a href="/database/release/within-these-walls-release/" title="Within These Walls">Within These Walls</a></p>
+<p>Here are Damon & Naomi performing their folk ballad Cruel Queen from Within These Walls</p>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/wyeUwOGPIuo" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>

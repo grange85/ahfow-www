@@ -24,9 +24,9 @@ sudo: false # route your build to the container-based infrastructure for a faste
 
 cache: bundler # caching bundler gem packages will speed up build
 
-before_deploy: pip install --user awscli
 before_deploy: 
   - pip install --user s3cmd
+  - pip install --user awscli
 deploy:
     provider: script
     script: ~/.local/bin/s3cmd sync --config s3cfg-prod --reduced-redundancy --guess-mime-type --no-mime-magic --delete-removed --exclude '.sass-cache' --exclude 's3cfg*' _site/ s3://www.fullofwishes.co.uk

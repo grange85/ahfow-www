@@ -21,19 +21,19 @@ tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/dean_wareham_tiom.jpg" width="612" height="612" class /><figcaption class="caption-text"> Photo: Norman Gholson Von Holtzendorff 1990</figcaption></figure>
 <p>With the recent releases of Dean Wareham's <em>Emancipated Hearts</em> and the more recent <em>Dean Wareham</em> you'd be forgiven for thinking that this was the first ever solo releases by Dean... this is a little thrown together post to prove otherwise:</p>
-<p>Here's what I believe was Dean's debut solo outing on the Shimmy Disc compilation <a href="/database/release/what-else-do-you-do-a-compilation-of-quiet-music/">What Else Do You Do?</a> released in 1990. It's an early, acoustic version of <em>Smile</em> which got it's full band release on Luna's debut LP Lunapark a couple of years later.</p>
+<p>Here's what I believe was Dean's debut solo outing on the Shimmy Disc compilation What Else Do You Do? released in 1990. It's an early, acoustic version of <em>Smile</em> which got it's full band release on Luna's debut LP Lunapark a couple of years later.</p>
 
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-smile-what-else-do-you-do.mp3">Dean Wareham - Smile</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-smile-what-else-do-you-do.mp3"></audio></div>
 
-<p>In 1991 Dean released a solo electric guitar piece called <em>West Broadway</em> on the No6/Glitterhouse compilation <a href="/database/release/guitarrorists/">Guitarrorists</a></p>
+<p>In 1991 Dean released a solo electric guitar piece called <em>West Broadway</em> on the No6/Glitterhouse compilation Guitarrorists</p>
 
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-west-broadway-guitarrorists.mp3">Dean Wareham - West Broadway</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-west-broadway-guitarrorists.mp3"></audio></div>
 
-<p>Also in 1991 Dean released a version of Beat Happening's <em>Indian Summer</em> (later to become a regular in Luna's set) on a <a href="/database/release/chemical-imbalance-5/">promo 7" single given away with Chemical Imbalance</a> magazine.</p>
+<p>Also in 1991 Dean released a version of Beat Happening's <em>Indian Summer</em> (later to become a regular in Luna's set) on a promo 7" single given away with Chemical Imbalance magazine.</p>
 
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-indian-summer-chemical-imbalance.mp3">Dean Wareham - Indian Summer</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-indian-summer-chemical-imbalance.mp3"></audio></div>
 
-<p>After Galaxie 500 split Dean was given some money to record some demos, these made an appearance on the <a href="/database/release/anesthesia-release/">Mint Records Anesthesia single</a> as a solo release.</p>
+<p>After Galaxie 500 split Dean was given some money to record some demos, these made an appearance on the Mint Records Anesthesia single as a solo release.</p>
 
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-anaesthesia-mint-humbucker.mp3">Dean Wareham - Anesthesia</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-anaesthesia-mint-humbucker.mp3"></audio></div>
 
@@ -43,7 +43,7 @@ tags: []
 
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-tomato-poodle-mint-humbucker.mp3">Dean Wareham - Tomato Poodle</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-tomato-poodle-mint-humbucker.mp3"></audio></div>
 
-<p>In 2005 Dean recorded a solo version of Pink Floyd's <em>Hey You</em> for the soundtrack of the Noah Baumbach film <a href="/database/release/the-squid-and-the-whale/">The Squid and The Whale</a></p>
+<p>In 2005 Dean recorded a solo version of Pink Floyd's <em>Hey You</em> for the soundtrack of the Noah Baumbach film The Squid and The Whale</p>
 
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-hey-you-the-squid-and-the-whale.mp3">Dean Wareham - Hey You</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-hey-you-the-squid-and-the-whale.mp3"></audio></div>
 

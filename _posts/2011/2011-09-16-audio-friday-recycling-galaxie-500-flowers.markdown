@@ -19,7 +19,7 @@ categories:
 tags: []
 ---
 <p><a href="http://www.flickr.com/photos/celesterc/1969189970/" title="Bajo el jacaranda by Celeste, on Flickr"><img class="aligncenter" src="https://farm3.static.flickr.com/2232/1969189970_3305dea202.jpg" width="500" height="333" alt="Bajo el jacaranda"></a></p>
-<p>I posted this a while back but it's worth a recycle - this is a live version of Galaxie 500's <a href="https://db.fullofwishes.co.uk/database/track/1">Flowers</a> that was released on a <a href="/database/release/gigantic-2/">Melody Maker CD "Gigantic 2"</a> - the song was "recorded in Amsterdam" but that's pretty much all I know about it.</p>
+<p>I posted this a while back but it's worth a recycle - this is a live version of Galaxie 500's <a href="https://db.fullofwishes.co.uk/database/track/1">Flowers</a> that was released on a Melody Maker CD "Gigantic 2" - the song was "recorded in Amsterdam" but that's pretty much all I know about it.</p>
 
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/01-galaxie_500/audio/Galaxie-500_Flowers_%28live%29_Gigantic2.mp3">Galaxie 500 - Flowers (live)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/01-galaxie_500/audio/Galaxie-500_Flowers_%28live%29_Gigantic2.mp3"></audio></div>
 

@@ -21,9 +21,9 @@ tags: []
 <p>Happy birthday to Dean Wareham who is still a year older than me - have a great day Dean!</p>
 <p>Here's a few things that have his name on them rather than that of Galaxie 500, Luna or Dean & Britta...
 <ul>
-<li><strong>MP3:</strong> <a href="https://www.box.com/s/d924e78dc85bbe5f7f19">Smile - Dean Wareham</a> from <a href="/database/release/what-else-do-you-do-a-compilation-of-quiet-music/">What Else Do You Do</a></li>
-<li><strong>MP3:</strong> <a href="/2009/09/23/mp3-lost-tracks-7-dean-wareham-west-broadway/">West Broadway - Dean Wareham</a> from  <a href="/database/release/guitarrorists/">Guitarrorists</a></li>
-<li><strong>MP3:</strong> <a href="https://www.box.com/s/0172492cc6a103c89c6e">Tomato Poodle - Dean Wareham</a> from <a href="/database/release/anesthesia-release/">Anesthesia single</a></li>
+<li><strong>MP3:</strong> <a href="https://www.box.com/s/d924e78dc85bbe5f7f19">Smile - Dean Wareham</a> from What Else Do You Do</li>
+<li><strong>MP3:</strong> <a href="/2009/09/23/mp3-lost-tracks-7-dean-wareham-west-broadway/">West Broadway - Dean Wareham</a> from  Guitarrorists</li>
+<li><strong>MP3:</strong> <a href="https://www.box.com/s/0172492cc6a103c89c6e">Tomato Poodle - Dean Wareham</a> from Anesthesia single</li>
 <li><strong>MP3:</strong> <a href="https://www.box.com/s/c3b7df0537ee2e581ef3">She's a Beacon - Shapir O'Rama (feat. Dean Wareham)</a> from El mundo de vapor y Valentia (Old Vienna)</li>
 <li><strong>Video:</strong> <a href="/2012/05/07/video-dean-wareham-in-psycho-babble/">Dean Wareham in Psycho Babble by Matthew Buzzell</a></li>
 <li><strong>Video:</strong> Dean Wareham plays Moon Palace in a minute for MTV<br />

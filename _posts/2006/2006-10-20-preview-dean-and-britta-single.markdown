@@ -18,4 +18,4 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>You can now head on over to Dean & Britta's <a href="http://www.myspace.com/deanandbritta">MySpace page</a> and stream the title track of their recently released EP <a href="/database/release/words-you-used-to-say-release/">Words You Used to Say</a></p>
+<p>You can now head on over to Dean & Britta's <a href="http://www.myspace.com/deanandbritta">MySpace page</a> and stream the title track of their recently released EP Words You Used to Say</p>

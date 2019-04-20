@@ -22,7 +22,7 @@ tags: []
 
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/kE0pwJ5PMDg" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 
-<p><a href="/2009/04/19/mp3-lost-tracks-4-cagney-lacee-orange/" title="Mp3: Lost tracks #4 – Cagney & Lacee – Orange">Cagney and Lacee, who were Dean Wareham and his then wife Claudia Silver</a>, covered the track on their <a href="/database/release/six-feet-of-chain-cagney-and-lacee/">Six Feet of Chain</a> album released in 1997</p>
+<p><a href="/2009/04/19/mp3-lost-tracks-4-cagney-lacee-orange/" title="Mp3: Lost tracks #4 – Cagney & Lacee – Orange">Cagney and Lacee, who were Dean Wareham and his then wife Claudia Silver</a>, covered the track on their Six Feet of Chain album released in 1997</p>
 
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/02-cagney-and-lacee-lovin-you.mp3">Cagney and Lacee - Lovin' You</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/02-cagney-and-lacee-lovin-you.mp3"></audio></div>
 

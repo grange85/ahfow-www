@@ -20,7 +20,7 @@ tags: []
 ---
 <p>Here's a fantastic clip of Bob(by) Darin playing Distractions for Tom Jones in 1969<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qqCbJaYXSvQ" frameborder="0" allowfullscreen></iframe>
-<p>Dean & Britta's is the second track in this series to have turned up on the <a href="/database/release/words-you-used-to-say-release/">Words You Used to Say</a> single in 2006 (<a href="/2013/04/17/originals-colours-by-donovan-covered-by-dean-britta/">previously their cover of Donovan's Colors</a>)</p>
+<p>Dean & Britta's is the second track in this series to have turned up on the Words You Used to Say single in 2006 (<a href="/2013/04/17/originals-colours-by-donovan-covered-by-dean-britta/">previously their cover of Donovan's Colors</a>)</p>
 
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/05_Britta%20Phillips_Dean%20Wareham_Distractions_Part%201.mp3">Dean & Britta - Distractions, Pt. 1</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/05_Britta%20Phillips_Dean%20Wareham_Distractions_Part%201.mp3"></audio></div>
 

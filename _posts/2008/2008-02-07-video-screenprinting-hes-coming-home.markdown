@@ -19,6 +19,6 @@ categories:
 - video
 tags: []
 ---
-<p>Here's a cool video showing the sleeves for Dean & Britta's excellent (<a href="http://chimneyrocks.org/hescominghome.html">and still available</a>) 7" single <a href="/database/release/hes-coming-home-old-toy-trains/">He's Coming Home</a> being hand printed...</p>
+<p>Here's a cool video showing the sleeves for Dean & Britta's excellent (<a href="http://chimneyrocks.org/hescominghome.html">and still available</a>) 7" single He's Coming Home being hand printed...</p>
 <p><figure class="caption "><figcaption class="caption-text"></figcaption></figure><br /><span class="removed_link" title="http://www.vimeo.com/666240/l:embed_666240">Screenprinting Dean & Britta</span> from <span class="removed_link" title="http://www.vimeo.com/user347414/l:embed_666240">dan rugh</span> on <span class="removed_link" title="http://vimeo.com/l:embed_666240">Vimeo</span>.</p>
 <p>It's a lovely little package - well worth owning and digging out every Christmas...</p>

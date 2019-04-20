@@ -25,7 +25,7 @@ The first of two appearances for Madonna in this series is her early single Bord
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/Uz-VePlh3Gg" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Madonna - Borderline</figcaption></figure>
 
 
-<p>Cagney and Lacee <a href="/database/release/borderline-release/">released it on a single</a> on the fab Earworm records in 1998 - the single also <a href="/2009/04/19/mp3-lost-tracks-4-cagney-lacee-orange/">included Cagney and Lacee's only original song</a>.</p>
+<p>Cagney and Lacee released it on a single on the fab Earworm records in 1998 - the single also <a href="/2009/04/19/mp3-lost-tracks-4-cagney-lacee-orange/">included Cagney and Lacee's only original song</a>.</p>
 
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/01_Cagney%20and%20Lacee_Borderline.mp3">Mp3: Cagney & Lacee - Borderline</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/01_Cagney%20and%20Lacee_Borderline.mp3"></audio></div>
 

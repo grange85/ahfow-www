@@ -19,4 +19,4 @@ categories:
 tags: []
 ---
 <p>Damon & Naomi are releasing a DVD of their show at Shibuya O-Nest in Tokyo, Japan. Filed earlier this year by Hiroo Ishihara it will be available only via their website (http://www.damonandnaomi.com) and costs $12.00 (plus shipping).</p>
-<p><a href="/database/release/shibuya-o-nest/">More details</a> (this site)<br /><span class="removed_link" title="http://www.damonandnaomi.com/frameset/frame.html?http%3A//www.damonandnaomi.com/merchandise/merch.html">details  and order page (damonandnaomi.com)</span></p>
+<p>More details (this site)<br /><span class="removed_link" title="http://www.damonandnaomi.com/frameset/frame.html?http%3A//www.damonandnaomi.com/merchandise/merch.html">details  and order page (damonandnaomi.com)</span></p>

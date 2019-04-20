@@ -22,7 +22,7 @@ tags: []
 <p><ins datetime="2008-07-09T19:06:27+00:00">
 <p>SOLD OUT</p>
 <p></ins></p>
-<p>I've just came across 13 copies of the Dear Paulina single put out by Grange85 Records (that's me) in 1999. The single contains two of the tracks that Luna recorded for the film Thursday. Here's the <a href="/database/release/dear-paulina-release/">info from the database</a>...</p>
+<p>I've just came across 13 copies of the Dear Paulina single put out by Grange85 Records (that's me) in 1999. The single contains two of the tracks that Luna recorded for the film Thursday. Here's the info from the database...</p>
 <blockquote><p>Dear Paulina<br />
 7" - Grange85 (1999)<br />
 Written by LUNA, recorded and mixed by Gary Maurer Limited edition of 500 copies These tracks were written for/featured in the film "Thursday"<br />

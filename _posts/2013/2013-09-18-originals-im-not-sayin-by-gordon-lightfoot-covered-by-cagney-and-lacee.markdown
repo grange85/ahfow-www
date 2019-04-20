@@ -24,7 +24,7 @@ tags: []
 <p>Later that year it was covered by Nico (before her association with The Velvet Underground)<br />
 </p>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/2WCnC_4QXH8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
-<p>Dean Wareham's late 90s side project Cagney and Lacee released I'm Not Sayin' on <a href="/database/release/six-feet-of-chain-cagney-and-lacee/">Six Feet of Chain</a></p>
+<p>Dean Wareham's late 90s side project Cagney and Lacee released I'm Not Sayin' on Six Feet of Chain</p>
 
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/cagney-and-lacee-im-not-sayin.mp3">I'm Not Sayin' by Cagney and Lacee</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/cagney-and-lacee-im-not-sayin.mp3"></audio></div>
 

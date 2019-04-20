@@ -24,6 +24,6 @@ Another one that slipped through the net (and another one that I missed in the F
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m8IV6lJSm1c" frameborder="0" allowfullscreen></iframe>
 <p>Here's Nico with Cale and Reed performing it in 1972<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FjjDmX9Tkss" frameborder="0" allowfullscreen></iframe>
-<p>Damon & Naomi recorded the track with Ghost (at Ghosts suggestion) in the sessions for their album <a href="/database/release/with-ghost/" title="With Ghost">Damon & Naomi with Ghost</a> however the track never got released until the 2012 reissue of the album when it appeared on a bonus 7" single with some copies (the other side of the 7" also got missed in this series - that's coming next week!).</p>
+<p>Damon & Naomi recorded the track with Ghost (at Ghosts suggestion) in the sessions for their album Damon & Naomi with Ghost however the track never got released until the 2012 reissue of the album when it appeared on a bonus 7" single with some copies (the other side of the 7" also got missed in this series - that's coming next week!).</p>
 <p>You can still <a href="http://damonandnaomi.com/shop/dn-with-ghost-lp/">buy copies of the LP with the 7" single from Damon & Naomi's shop</a>.</p>
 <p>I actually don't have this track digitally so you'll have to imagine how great it is... and it is at least that!</p>

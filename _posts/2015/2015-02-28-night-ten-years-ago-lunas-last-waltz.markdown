@@ -32,4 +32,4 @@ MP3: <a href="https://media.fullofwishes.co.uk/02-luna/audio/luna-20050228-23-mi
 <p><a href="https://www.flickr.com/photos/franckd/2215504848" title="Luna, final show, after party by Franck Dewannieux, on Flickr"><img class="aligncenter" src="https://farm3.staticflickr.com/2381/2215504848_ae5758526d_o.jpg" width="427" height="640" alt="Luna, final show, after party"></a></p>
 <p>BUT...</p>
 <p><a href="/2014/10/luna-reunion-confirmed-spanish-tour-april-us-dates-follow/">Luna will be back</a>, they're playing a <a href="/2015/02/luna-reunion-date-los-angeles-april/">comeback show in Los Angeles in April</a> (that apparently sold out in about seven minutes!) before heading off for a fortnight in Spain (and one night in Portugal - where you'll find me), and then playing some more3 dates around the US (and hopefully elsewhere) during the summer and autumn.</p>
-<p><a href="/database/upcoming-shows/">Keep your eyes on A Head Full of Wishes</a> for the dates as they break!</p>
+<p>Keep your eyes on A Head Full of Wishes for the dates as they break!</p>

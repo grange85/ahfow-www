@@ -20,7 +20,7 @@ tags: []
 ---
 <p>Who Am I was recorded by Country Joe and the Fish on their second album <a href="http://en.wikipedia.org/wiki/I-Feel-Like-I%27m-Fixin%27-to-Die">I Feel Like I'm Fixin' to Die</a> in 1967<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xg6KLK07Tlk" frameborder="0" allowfullscreen></iframe>
-<p>Damon & Naomi's cover was released on their second album <a href="/database/release/the-wondrous-world-of-damon-naomi/" title="The Wondrous World of Damon & Naomi">The Wondrous World of Damon & Naomi</a> in 1995:</p>
+<p>Damon & Naomi's cover was released on their second album The Wondrous World of Damon & Naomi in 1995:</p>
 
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/07-damon--naomi-who-am-i.mp3">Who Am I - Damon & Naomi</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/07-damon--naomi-who-am-i.mp3"></audio></div>
 

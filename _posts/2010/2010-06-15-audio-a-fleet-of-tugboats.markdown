@@ -29,7 +29,7 @@ tags:
 - angel corpus christi
 ---
 <figure class="caption aligncenter"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/sdeslaur/3763561031" title="I&#x27;m a boat, floatin&#x27;s what I do... *explored*"><img src="https://c8.staticflickr.com/4/3559/3763561031_211cc7b2a7_b.jpg" width="1024" height="769" alt="I&#x27;m a boat, floatin&#x27;s what I do... *explored*"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><figcaption>I&#039;m a boat, floatin&#039;s what I do... by Sarah Brooks</figcaption></figure>
-<p>Tugboat was Galaxie 500's first single, recorded in February 1988 at Noise New York by Kramer and released as a <a href="/database/release/tugboat-king-of-spain/">7” single on Aurora Records</a>. When some other artist decides to cover a Galaxie 500 song Tugboat is the one they invariably reach for. Here’s a selection of those cover versions. If anyone has (or knows of) any I haven’t included please get in touch.</p>
+<p>Tugboat was Galaxie 500's first single, recorded in February 1988 at Noise New York by Kramer and released as a 7” single on Aurora Records. When some other artist decides to cover a Galaxie 500 song Tugboat is the one they invariably reach for. Here’s a selection of those cover versions. If anyone has (or knows of) any I haven’t included please get in touch.</p>
 <!--more-->
 <p>So many... time to do an index:</p>
 <h3>The index</h3>

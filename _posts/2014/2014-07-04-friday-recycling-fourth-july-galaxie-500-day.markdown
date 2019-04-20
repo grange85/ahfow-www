@@ -17,7 +17,7 @@ categories:
 - news
 tags: []
 ---
-<p><a href="/database/release/fourth-of-july-release/"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-fourth-of-july-rtt249.jpg" width="1024" height="1000" class="aligncenter" /></a><br />
+<p><img src="https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-fourth-of-july-rtt249.jpg" width="1024" height="1000" class="aligncenter" /><br />
 Galaxie 500 gets radio play on:<br />
 Days when it snows<br />
 The Fourth of July<br />

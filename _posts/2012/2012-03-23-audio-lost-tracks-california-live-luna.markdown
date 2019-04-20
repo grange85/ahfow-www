@@ -20,7 +20,7 @@ categories:
 tags: []
 ---
 <p><a href="http://www.flickr.com/photos/library_of_congress/3549663710/" title="Toward Los Angeles, California (LOC) by The Library of Congress, on Flickr"><img class="aligncenter" src="https://www.fullofwishes.co.uk/wp/wp-content/uploads/2012/03/3549663710_35b4038392.jpg" width="478" height="500" alt="Toward Los Angeles, California (LOC)"></a></p>
-<p>All I know about this recording is what's written on the back of the <a href="/database/release/beautiful-view-release/">Beautiful View CD single</a> sleeve that this was released on. The track is called "California" without the usual parenthetical addendum and the sleeve informs us that it was...</p>
+<p>All I know about this recording is what's written on the back of the Beautiful View CD single sleeve that this was released on. The track is called "California" without the usual parenthetical addendum and the sleeve informs us that it was...</p>
 <blockquote><p>Recorded live and mixed by Brent Sigmeth at Pachyderm Studio, Cannon Falls, MN</p></blockquote>
 <p>I'm not even sure if that means that it was recorded live AND mixed or recorded live THEN mixed... There is a (small sounding) audience applauding at the end.</p>
 

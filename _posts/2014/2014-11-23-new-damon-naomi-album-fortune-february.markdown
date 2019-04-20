@@ -20,20 +20,20 @@ categories:
 tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-fortune.jpg" width="460" height="462" class /><figcaption class="caption-text"> Fortune by Damon & Naomi</figcaption></figure>
-<p>Damon & Naomi's next studio album will be released on 17 February next year and is the soundtrack to Naomi's short film <a href="/database/release/fortune/">Fortune</a> which premiered in May of this year. The album will feature eleven new tracks and will be available on LP, CD and as a digital download.</p>
+<p>Damon & Naomi's next studio album will be released on 17 February next year and is the soundtrack to Naomi's short film Fortune which premiered in May of this year. The album will feature eleven new tracks and will be available on LP, CD and as a digital download.</p>
 <p>Tracklist:</p>
 <ul>
-<li><a href="/database/tracks/the-seeker">The Seeker </a></li>
-<li><a href="/database/tracks/amnesia">Amnesia </a></li>
-<li><a href="/database/tracks/its-over">It's Over </a></li>
-<li><a href="/database/tracks/reflections">Reflections </a></li>
-<li><a href="/database/tracks/a-shining-dream">A Shining Dream </a></li>
-<li><a href="/database/tracks/shadows">Shadows </a></li>
-<li><a href="/database/tracks/towards-tomorrow">Towards Tomorrow </a></li>
-<li><a href="/database/tracks/sky-memories">Sky Memories </a></li>
-<li><a href="/database/tracks/hurt-house">Hurt House </a></li>
-<li><a href="/database/tracks/the-north-light">The North Light </a></li>
-<li><a href="/database/tracks/time-wont-own-me">Time Won't Own Me</a></li>
+<li>The Seeker </li>
+<li>Amnesia </li>
+<li>It's Over </li>
+<li>Reflections </li>
+<li>A Shining Dream </li>
+<li>Shadows </li>
+<li>Towards Tomorrow </li>
+<li>Sky Memories </li>
+<li>Hurt House </li>
+<li>The North Light </li>
+<li>Time Won't Own Me</li>
 </ul>
 <p>I imagine that given Damon's <a href="https://storify.com/dada_drummer/rant">recent comments on Twitter</a> with regards to streaming, it'll be available to stream for free too!</p>
 <p>You can still see the film of Fortune on <a href="http://vimeo.com/naomiyang">Naomi's Vimeo channel</a>.<br />

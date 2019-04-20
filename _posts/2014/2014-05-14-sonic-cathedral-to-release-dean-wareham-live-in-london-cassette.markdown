@@ -22,4 +22,4 @@ tags: []
 <p>Sonic Cathedral will be releasing a recording of Dean Wareham's shows at St Pancras Old Church in London in December of last year. The show will be released on casette and will be available at the upcoming UK shows in Bristol, Brighton, Leamington Spa and London.</p>
 <p>The show featured Dean, Britta, Anthony LaMarca (shortly before he decamped to The War on Drugs) and Jason Quever (Papercuts, who produced Dean's mini-LP Emancipated Hearts). The album includes Galaxie 500 and Luna tracks as well as tracks from Emancipated Hearts and covers of The Velvet Underground's Ride Into the Sun and Joy Division's Ceremony</p>
 <p>The album will also be released for digital download on bandcamp (link to follow).<br />
-<a href="/database/release/live-at-st-pancras-old-church-london-december-2013/" title="Live at St Pancras Old Church London: December 2013">More details in the AHFoW discography</a>.</p>
+More details in the AHFoW discography.</p>

@@ -26,6 +26,6 @@ tags: []
 <li><a href="http://www.box.net/shared/0ovgxx63fq">Blue Thunder - Damon & Naomi - NHK 505 Studio, Tokyo - 23 June 2005</a></li>
 <li><a href="http://web.archive.org/web/20100204134354/http://www.damonandnaomi.com:80/interviews/ptinterview.html">Ptolemaic Terrascope interview with Damon & Naomi from 1997</a>
 <li>
-<li><a href="/database/release/shibuya-o-nest/">Damon & Naomi - Shibuya O-Nest, Tokyo DVD details</a></li>
+<li>Damon & Naomi - Shibuya O-Nest, Tokyo DVD details</li>
 <li>Buy <a href="http://www.amazon.com/exec/obidos/ASIN/B00078XGMO/aheadfullofwi-20">The Earth is Blue by Damon & Naomi from Amazon.com</a></li>
 </ul>
