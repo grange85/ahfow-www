@@ -56,7 +56,8 @@ exclude: [
     '.sass-cache',
     '.git',
     's3cfg-prog',
-    's3cfg-prog.enc'
+    's3cfg-prog.enc',
+    'vendor'
   ]
 plugins: [
         bootstrap-sass,
