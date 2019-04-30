@@ -7,7 +7,7 @@ before_install:
   - gem update --system
   - gem install bundler
 
-script: bundle exec jekyll build
+script: bundle exec jekyll build --config _config.yml,_config_build.yml
 
 # branch whitelist, only for GitHub Pages
 branches:

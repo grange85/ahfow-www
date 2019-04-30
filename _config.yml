@@ -46,8 +46,7 @@ excerpt_separator: <!--more-->
 # Build settings
 port: 4040
 markdown: kramdown
-environment: production
-version: 5.0.2
+environment: development
 exclude: [
     '_notes',
     'Gemfile',
@@ -65,10 +64,3 @@ plugins: [
         jekyll-paginate-v2,
         jekyll-sitemap
       ]
-
-defaults:
-  -
-    scope:
-      path: "page*"
-    values:
-      sitemap: false
