@@ -1,0 +1,30 @@
+{
+  "ErrorDocument": {
+    "Key": "error.html"
+  },
+  "IndexDocument": {
+    "Suffix": "index.html"
+  },
+  "RoutingRules": [
+    {
+      "Condition": {
+        "KeyPrefixEquals": "feed/"
+      },
+      "Redirect": {
+        "HostName": "www.fullofwishes.co.uk",
+        "Protocol": "https",
+        "ReplaceKeyPrefixWith": "feed"
+      }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "feed.xml"
+      },
+      "Redirect": {
+        "HostName": "www.fullofwishes.co.uk",
+        "Protocol": "https",
+        "ReplaceKeyPrefixWith": "feed"
+      }
+    }
+  ]
+}
