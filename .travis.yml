@@ -28,7 +28,7 @@ before_deploy:
   - pip install --user awscli
 deploy:
     provider: script
-    script: ~/.local/bin/s3cmd sync --config s3cfg-prod --reduced-redundancy --guess-mime-type --no-mime-magic --delete-removed --exclude '.sass-cache' --exclude 's3cfg*' _site/ s3://www.fullofwishes.co.uk
+    script: ~/.local/bin/s3cmd sync --config s3cfg-prod --guess-mime-type --no-mime-magic --delete-removed --exclude '.sass-cache' --exclude 's3cfg*' _site/ s3://www.fullofwishes.co.uk
     skip_cleanup: true 
 notifications:
     email:
