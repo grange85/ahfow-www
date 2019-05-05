@@ -18,7 +18,6 @@ categories:
 tags:
  - friendly advice
 ---
-<figure class="caption aligncenter"><img src="/images/luna-friendly-advice-2015-w-justin.png" alt="caption" /><figcaption class="caption-text">caption</figcaption></figure>
 <p class="lead">Just came across this clip of Luna with Justin playing Friendly Advice in their rehearsal space in LA in 2015.</p>
 
 <p>The video was made by Britta and originally shared as part of the band's Pledgemusic campaign for A Sentimental Education, but I've taken it upon myself to let it out of Pledgemusic gaol as it's a shame for it not to reach a wider audienc... hopefully the band won't mind!</p>
