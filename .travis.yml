@@ -7,7 +7,7 @@ before_install:
   - gem update --system
   - gem install bundler
 
-script: bundle exec jekyll build
+script: bundle exec jekyll build --config _config.yml,_config_build.yml
 
 # branch whitelist, only for GitHub Pages
 branches:
@@ -28,7 +28,7 @@ before_deploy:
   - pip install --user awscli
 deploy:
     provider: script
-    script: ~/.local/bin/s3cmd sync --config s3cfg-prod --reduced-redundancy --guess-mime-type --no-mime-magic --delete-removed --exclude '.sass-cache' --exclude 's3cfg*' _site/ s3://www.fullofwishes.co.uk
+    script: ~/.local/bin/s3cmd sync --config s3cfg-prod --guess-mime-type --no-mime-magic --delete-removed --exclude '.sass-cache' --exclude 's3cfg*' _site/ s3://www.fullofwishes.co.uk
     skip_cleanup: true 
 notifications:
     email:
@@ -36,5 +36,6 @@ notifications:
         on_success: always
 after_deploy:
    - aws s3 mv --content-type "text/xml" --metadata-directive REPLACE s3://www.fullofwishes.co.uk/feed.xml s3://www.fullofwishes.co.uk/feed 
+   - aws s3api put-bucket-website --bucket www.fullofwishes.co.uk --website-configuration file://config/routing-rules.json
    - aws cloudfront create-invalidation --distribution-id $CDN_DISTRIBUTION_ID --paths "/*"
-
+   - curl --write-out '%{http_code}' --silent --output /dev/null https://www.feedburner.com/fb/a/pingSubmit?bloglink=https%3A%2F%2Fwww.fullofwishes.co.uk
