@@ -15,7 +15,7 @@ categories:
 tags: []
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1991-04-05/19910405-galaxie-500-bowdoin-college-05.jpg" alt="Poster for Galaxie 500's last show" /><figcaption class="caption-text">Poster for Galaxie 500's last show</figcaption></figure>
-<p class="lead">25 years ago today Galaxie 500 played their last show. On <a href="https://db.fullofwishes.co.uk/galaxie-500/shows/1991/1991-04-05-galaxie-500-bowdoin-college-brunswick-me-usa/">Friday 5 April 1991 the band played at Bowdoin College in Maine</a>.</p>
+<p class="lead">25 years ago today Galaxie 500 played their last show. On <a href="https://www.fullofwishes.co.uk/database/galaxie-500/shows/1991/1991-04-05-galaxie-500-bowdoin-college-brunswick-me-usa/">Friday 5 April 1991 the band played at Bowdoin College in Maine</a>.</p>
 <blockquote>
 	<p>The band played in a building called Moulton Union, in the main lounge. A band called The Wishniaks, from Philadelphia [&hellip;] opened up. Galaxie 500 played for about an hour and really didn't seem to want to be there beforehand, although they put on a phenomenal and truly hypnotic show.</p>
 	<p>Dean drove a Dodge Dart to Maine. Damon & Naomi drove up in a blue Saab 900. Damon had a drum kit that said Galaxie 500 in silver on the bass drum. Naomi wore orange leggings. About forty or fifty people came to the show.</p>

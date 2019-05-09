@@ -23,7 +23,7 @@ tags: []
 <ul>
 <li>Review, pictures and the setlist from the Vancouver show is on <a href="http://backstagerider.com/2010/11/16/dean-wareham-britta-phillips-galaxie-500-gallery/">The Backstage Rider</a></li>
 <p><lI>As well as the previously posted video of 23 Minutes, kubacheck has also posted videos of <a href="http://www.youtube.com/watch?v=jO33ChqROvo">Don't Let Our Youth Go to Waste</a> and <a href="http://www.youtube.com/watch?v=-5cO-rJdDck">Tugboat</a> from the Troubadour show in LA</li>
-<li>I've posted s<span class="removed_link" title="https://db.fullofwishes.co.uk/wiki/Shows#Recent_shows">etlists to most of the recent shows</span> to the Wiki - go take a look</li>
+<li>I've posted s<span class="removed_link" title="https://www.fullofwishes.co.uk/database/wiki/Shows#Recent_shows">etlists to most of the recent shows</span> to the Wiki - go take a look</li>
 <li>Mattesque has some <a href="http://www.flickr.com/photos/mattesque/tags/deanplaysgalaxie500/">great photos of the Vancouver show</a> on Flickr</li>
 <li><a href="http://the704.blogspot.com/2010/11/dean-wareham-papercuts-troubadour.html">Not so much a review as a short story</a> by someone at the Troubadour show in LA</li>
 </ul>

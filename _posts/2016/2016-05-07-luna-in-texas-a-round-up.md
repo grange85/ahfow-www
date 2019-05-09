@@ -18,7 +18,7 @@ longpost: true
 ---
 <p class="lead">Just throwing together a post collecting a few bits and pieces I've found of Luna's current trip to Texas - with added Britta Phillips solo! As I write this they're still a day from finishing theor Texan sojourn so probably best to check back in a few days time as I'm sure there'll be things added!</p>
 
-<h3><a href="https://db.fullofwishes.co.uk/luna/shows/2016/2016-05-04-luna-granada-theater-dallas-tx-usa/">Luna in Dallas</a></h3>
+<h3><a href="https://www.fullofwishes.co.uk/database/luna/shows/2016/2016-05-04-luna-granada-theater-dallas-tx-usa/">Luna in Dallas</a></h3>
 <p><a href="https://www.flickr.com/photos/billellisonphotographer/">Bill Ellison</a> has put a stack of gorgeous photos from the bands show in Dallas on Wednesday:</p>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/billellisonphotographer/albums/72157667799946551" title="Luna 5-4-16 (w/Britta Phillips)"><img src="https://farm8.staticflickr.com/7799/26770392261_8d7dcd6ae9_h.jpg" width="1068" height="1600" alt="Luna 5-4-16 (w/Britta Phillips)"></a>
 <p>There's also a few nice crowd shots - I love seeing Luna fans as well as the band&hellip; and always nice to spot a familiar face (such as occasional ahfow correspondent Joakim!)</p>
@@ -28,7 +28,7 @@ longpost: true
 
 <p style="margin-top:8px;">Dan Kueck Periscoped <a href="https://www.youtube.com/playlist?list=PLVct5ZMDmDvjdGolS_bNbwN7Al4YFz7rK">a few videos from the Luna show in Dallas - and has now popped them on YouTube</a>.</p>
 
-<h3><a href="https://db.fullofwishes.co.uk/luna/shows/2016/2016-05-05-luna-mohawk-austin-tx-usa/">Luna in Austin</a></h3>
+<h3><a href="https://www.fullofwishes.co.uk/database/luna/shows/2016/2016-05-05-luna-mohawk-austin-tx-usa/">Luna in Austin</a></h3>
 <p>On to Austin and here's a nice video of the opening of Britta's support set:</p>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/TUEc25LcWc8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Britta Phillips at The Mohawk in Austin</figcaption></figure>
 

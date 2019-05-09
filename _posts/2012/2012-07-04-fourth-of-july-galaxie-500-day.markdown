@@ -21,7 +21,7 @@ tags: []
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/hwi3qoZhMjw" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Dean Wareham plays Fourth of July in Australia in 2011</figcaption></figure>
 
 <p>Every so often I get an idea to have a Fourth of July game because for me the Fourth of July is <em>Galaxie 500 Day</em> although these games tend to have few players (although the ones that that do play produce gems) - I guess partly because of the half-baked idea for a game and partly because apparently <em>Galaxie 500 Day</em> conflicts with some other national holiday (not over here it doesn't - I'll be at work!)...</p>
-<p>Anyway... if anyone wants to play along the rules are to produce something that is somehow connected with <a href="https://db.fullofwishes.co.uk/track/25/">Galaxie 500's Fourth of July</a> for example...</p>
+<p>Anyway... if anyone wants to play along the rules are to produce something that is somehow connected with <a href="https://www.fullofwishes.co.uk/database/track/25/">Galaxie 500's Fourth of July</a> for example...</p>
 <ul>
 <li>A poem, on a dog biscuit</li>
 <li>Proof that the Empire State Building is no bigger than a nickel</li>

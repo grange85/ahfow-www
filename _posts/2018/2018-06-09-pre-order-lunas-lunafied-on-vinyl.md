@@ -32,5 +32,5 @@ longpost: false
 
 <p>Over on the label's Facebook page they're having <a href="https://www.facebook.com/RunOutGrooveLPs/posts/2180251098877025">a secondary poll on vinyl colour</a> - so feel free to head over there and pick a colour (I wouldn't want to sway the vote but seriously, don't choose C :) it looks like a spliiage)</p>
 
-<p><a href="https://db.fullofwishes.co.uk/luna/releases/luna-lunafied-luna-covers/">Lunafied</a> has until now only been available as a digital only release put out by Rhino in 2006 and, in a different form, as the bonus disc with the <a href="https://db.fullofwishes.co.uk/luna/releases/luna-best-of-luna/#beggars-banquet-cd">UK edition of Best of Luna</a>. The Run Out Groove copy will include all the tracks from both versions in a double album.</p>
+<p><a href="https://www.fullofwishes.co.uk/database/luna/releases/luna-lunafied-luna-covers/">Lunafied</a> has until now only been available as a digital only release put out by Rhino in 2006 and, in a different form, as the bonus disc with the <a href="https://www.fullofwishes.co.uk/database/luna/releases/luna-best-of-luna/#beggars-banquet-cd">UK edition of Best of Luna</a>. The Run Out Groove copy will include all the tracks from both versions in a double album.</p>
 

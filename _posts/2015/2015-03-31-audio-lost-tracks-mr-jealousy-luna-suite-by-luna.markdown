@@ -23,7 +23,7 @@ tags: []
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/03-luna-mr-jealousy-suite.mp3">Mr. Jealousy Suite - Luna</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/03-luna-mr-jealousy-suite.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://db.fullofwishes.co.uk/luna/releases/luna-mr-jealousy-soundtrack/">Mr. Jealousy: music from the motion picture</a></em></p>
+  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/database/luna/releases/luna-mr-jealousy-soundtrack/">Mr. Jealousy: music from the motion picture</a></em></p>
 </div>
 <p><a href="http://www.salon.com/2013/05/17/noah_baumbach_frances_ha_is_my_reinvention/">A couple of years back Dean interviewed Noah for Salon and talked about their work togther</a>.</p>
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/mr-jealousy-movie-poster-1997.jpg" width="580" height="864" class /><figcaption class="caption-text"> Mr. Jealousy poster</figcaption></figure>

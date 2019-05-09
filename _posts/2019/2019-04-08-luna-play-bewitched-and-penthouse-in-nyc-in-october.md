@@ -24,7 +24,7 @@ longpost: false
 <table class="table table-striped">
       <tbody><tr>
         <th class="col-md-4">19th October 2019</th>
-        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/luna/shows/2019/2019-10-19-luna-bowery-ballroom-new-york-ny-usa/">The Bowery Ballroom, New York, NY, USA</a><br>
+        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/luna/shows/2019/2019-10-19-luna-bowery-ballroom-new-york-ny-usa/">The Bowery Ballroom, New York, NY, USA</a><br>
           <span class="label label-success">Luna</span>
           <span class="label label-primary">Luna play Bewitched</span>
         </td>
@@ -32,7 +32,7 @@ longpost: false
       </tr>
       <tr>
         <th class="col-md-4">20th October 2019</th>
-        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/luna/shows/2019/2019-10-20-luna-bowery-ballroom-new-york-ny-usa/">The Bowery Ballroom, New York, NY, USA</a><br>
+        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/luna/shows/2019/2019-10-20-luna-bowery-ballroom-new-york-ny-usa/">The Bowery Ballroom, New York, NY, USA</a><br>
           <span class="label label-success">Luna</span>
           <span class="label label-primary">Luna play Penthouse</span>
         </td>

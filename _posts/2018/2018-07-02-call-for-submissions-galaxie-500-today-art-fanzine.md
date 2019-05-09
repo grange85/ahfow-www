@@ -39,7 +39,7 @@ flickr: true
 
 <p>If you'd like to be involved drop me a line <a href="https://www.fullofwishes.co.uk/about/">via any of the usual channels</a> and let me know what you're thinking and what song you'd like to work with. There'll be no payment (because I expect it'll lose money) but each contibutor will obviously get a copy, and my undying thanks & appreciation!</p>
 
-<p>Of course you can all recite the <a href="https://db.fullofwishes.co.uk/galaxie-500/releases/galaxie-500-today/">track listing of Today</a> - but in case you need a reminder...</p>
+<p>Of course you can all recite the <a href="https://www.fullofwishes.co.uk/database/galaxie-500/releases/galaxie-500-today/">track listing of Today</a> - but in case you need a reminder...</p>
 
 <ul>
 <li>Flowers <em>reserved</em></li>

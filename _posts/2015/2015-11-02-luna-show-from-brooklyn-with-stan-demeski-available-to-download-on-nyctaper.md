@@ -24,7 +24,7 @@ tags: []
 
 <ul>
 <li>Download: <a href="http://www.nyctaper.com/2015/11/luna-october-9-2015-music-hall-of-williamsburg/">Luna: October 9 , 2015 Music Hall of Williamsburg</a></li>
-<li>Details: <a href="https://db.fullofwishes.co.uk/luna/shows/2015/2015-10-09-luna-music-hall-of-williamsburg-brooklyn-ny-usa/">9 October 2015 - Luna - Music Hall Of Williamsburg, Brooklyn, NY, USA</a></li>
+<li>Details: <a href="https://www.fullofwishes.co.uk/database/luna/shows/2015/2015-10-09-luna-music-hall-of-williamsburg-brooklyn-ny-usa/">9 October 2015 - Luna - Music Hall Of Williamsburg, Brooklyn, NY, USA</a></li>
 <li>Review: <a href="https://www.fullofwishes.co.uk/2015/10/29/peaceful-comforting-the-busy-streets-luna-in-ny-and-brooklyn-part-three/">Peaceful, comforting, the busy streets - Luna in New York and Brooklyn, part three: Friday</a> by Joakim</li>
 <li>Review: <a href="https://www.fullofwishes.co.uk/2015/10/11/luna-in-new-york/">Luna in New York</a> by Frank</li>
 </ul>

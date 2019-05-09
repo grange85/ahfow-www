@@ -18,7 +18,7 @@ categories:
 - video
 tags: []
 ---
-<div>Here&#039;s a wonderful video of Dean & Britta performing with Mercury Rev&#039;s Grasshopper and Jonathan Donohue on the <a href="http://www.mysteryspotvintage.com/blog/">Mystery Spot</a> front porch on Sunday. First up is a cover of Galaxie 500&#039;s Snowstorm and then Mercury Rev&#039;s Car Wash Hair (which featured Dean on guitar when it was <a href="https://db.fullofwishes.co.uk/track/233/">released as a single all those years ago</a>!)
+<div>Here&#039;s a wonderful video of Dean & Britta performing with Mercury Rev&#039;s Grasshopper and Jonathan Donohue on the <a href="http://www.mysteryspotvintage.com/blog/">Mystery Spot</a> front porch on Sunday. First up is a cover of Galaxie 500&#039;s Snowstorm and then Mercury Rev&#039;s Car Wash Hair (which featured Dean on guitar when it was <a href="https://www.fullofwishes.co.uk/database/track/233/">released as a single all those years ago</a>!)
 <p />
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/c9JlYusC_dE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure><figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/VOQx1IkN2II" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure><figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/iQMvDMPzpoM" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>- news
 </p></div>

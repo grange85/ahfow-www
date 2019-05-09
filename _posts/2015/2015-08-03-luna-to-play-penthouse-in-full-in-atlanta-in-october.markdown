@@ -19,5 +19,5 @@ categories:
 tags: []
 ---
 <p>For the first show of the US tour in Atlanta on Friday Luna will be playing their album Penthouse in full (plus other gems). The show is an early one at Terminal West with doors at 6:30 and the show kicking off at 7:00 - support will come from Matt Hollywood & the Bad Feelings.</p>
-<p><a href="https://db.fullofwishes.co.uk/luna/shows/2015-10-02-luna-terminal-west-atlanta-ga-usa.html">Full details and ticket information can be found here</a>.</p>
+<p><a href="https://www.fullofwishes.co.uk/database/luna/shows/2015-10-02-luna-terminal-west-atlanta-ga-usa.html">Full details and ticket information can be found here</a>.</p>
 <p><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-02/2015-10-02-luna-terminal-west-atlanta-poster.jpg" width="480" height="720" class="aligncenter" /></p>

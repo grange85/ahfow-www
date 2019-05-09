@@ -19,6 +19,6 @@ categories:
 tags: []
 ---
 <div>Dean Wareham will be playing at <span class="removed_link" title="http://www.bostonbookfest.org/bookfest/blog/announcing_the_book_revue/">The Book Revue: An Evening of Music and Words</span> as part of the <a href="http://www.bostonbookfest.org">Boston Book Festival</a>. The event takes place at the John Hancock Hall in Boston on the 16 October. The show also includes Kristin Hersh and Joe Penrice amongst others. Tickets are $10 and available from the<span class="removed_link" title="http://www.bostonbookfest.org/bookfest/blog/announcing_the_book_revue/"> Book Festival website</span>.
-<p /> * <span class="removed_link" title="https://db.fullofwishes.co.uk/wiki/Shows/Dean_Wareham/2010-10-16">Details on the A Head Full of Wishes wiki</span><br />* <a href="http://www.hubarts.com/weblog/2010/09/boston-book-festival-now-with-music.html">Post on HubArts.com</a>
+<p /> * <span class="removed_link" title="https://www.fullofwishes.co.uk/database/wiki/Shows/Dean_Wareham/2010-10-16">Details on the A Head Full of Wishes wiki</span><br />* <a href="http://www.hubarts.com/weblog/2010/09/boston-book-festival-now-with-music.html">Post on HubArts.com</a>
 - news
 </p></div>

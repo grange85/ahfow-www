@@ -146,9 +146,9 @@ related:
     title: "It swivels and swirls in your head. Luna - three nights in San Francisco (3: Rendezvous)"
   - url: /2017/01/24/review-luna-delightfully-duelling-in-san-francisco/
     title: "Review: Luna delightfully dueling in San Francisco"
-  - url: https://db.fullofwishes.co.uk/luna/shows/2017/2017-01-20-luna-the-chapel-san-francisco-ca-usa/
+  - url: https://www.fullofwishes.co.uk/database/luna/shows/2017/2017-01-20-luna-the-chapel-san-francisco-ca-usa/
     title: "20 January 2017 - Luna - The Chapel, San Francisco, CA, USA"
-  - url: https://db.fullofwishes.co.uk/luna/releases/luna-penthouse/
+  - url: https://www.fullofwishes.co.uk/database/luna/releases/luna-penthouse/
     title: "Luna - Penthouse"
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-penthouse-joakim-02.jpg" alt="Lee Wall of Luna (photo: Joakim)" /><figcaption class="caption-text">Lee Wall of Luna (photo: Joakim)</figcaption></figure>

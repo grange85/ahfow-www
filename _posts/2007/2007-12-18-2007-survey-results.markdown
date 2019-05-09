@@ -18,4 +18,4 @@ categories:
 tags: []
 ---
 <p>The 2007 A Head Full of Wishes Survey is now over. This year had the lowest turnout since 2002 so maybe I'll need to consider incentives next year.</p>
-<p><a href="https://db.fullofwishes.co.uk/survey/2007/">View the survey results</a></p>
+<p><a href="https://www.fullofwishes.co.uk/database/survey/2007/">View the survey results</a></p>

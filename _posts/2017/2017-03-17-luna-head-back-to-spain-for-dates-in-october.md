@@ -26,30 +26,30 @@ tags:
 <table class="table table-striped">
         <tbody><tr>
         <th class="col-md-4">3 October 2017</th>
-        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/luna/shows/2017/2017-10-03-luna-sala-de-camara-del-kursaal-san-sebastian-spain/">Sala de Camara del Kursaal, San Sebastian, Spain</a></td>
+        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/luna/shows/2017/2017-10-03-luna-sala-de-camara-del-kursaal-san-sebastian-spain/">Sala de Camara del Kursaal, San Sebastian, Spain</a></td>
         </tr>
         <tr>
         <th class="col-md-4">5 October 2017</th>
-        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/luna/shows/2017/2017-10-05-luna-escenario-santander-spain/">Escenario, Santander, Spain</a></td>
+        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/luna/shows/2017/2017-10-05-luna-escenario-santander-spain/">Escenario, Santander, Spain</a></td>
         </tr>
         <tr>
         <th class="col-md-4">9 October 2017</th>
-        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/luna/shows/2017/2017-10-09-luna-sala-joy-eslava-madrid-spain/">Sala Joy Eslava, Madrid, Spain</a></td>
+        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/luna/shows/2017/2017-10-09-luna-sala-joy-eslava-madrid-spain/">Sala Joy Eslava, Madrid, Spain</a></td>
         </tr>
         <tr>
         <th class="col-md-4">11 October 2017</th>
-        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/luna/shows/2017/2017-10-11-luna-bikini-barcelona-spain/">Bikini, Barcelona, Spain</a></td>
+        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/luna/shows/2017/2017-10-11-luna-bikini-barcelona-spain/">Bikini, Barcelona, Spain</a></td>
         </tr>
         <tr>
         <th class="col-md-4">12 October 2017</th>
-        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/luna/shows/2017/2017-10-12-luna-ram-club-valencia-spain/">Ram Club, Valencia, Spain</a></td>
+        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/luna/shows/2017/2017-10-12-luna-ram-club-valencia-spain/">Ram Club, Valencia, Spain</a></td>
         </tr>
         <tr>
         <th class="col-md-4">13 October 2017</th>
-        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/luna/shows/2017/2017-10-13-luna-kafe-antzokia-bilbao-spain/">Kafe Antzokia, Bilbao, Spain</a></td>
+        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/luna/shows/2017/2017-10-13-luna-kafe-antzokia-bilbao-spain/">Kafe Antzokia, Bilbao, Spain</a></td>
         </tr>
         <tr>
         <th class="col-md-4">14 October 2017</th>
-        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/luna/shows/2017/2017-10-14-luna-teatre-municipal-xesc-forteza-mallorca-spain/">Teatre Municipal Xesc Forteza, Mallorca, Spain</a></td>
+        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/luna/shows/2017/2017-10-14-luna-teatre-municipal-xesc-forteza-mallorca-spain/">Teatre Municipal Xesc Forteza, Mallorca, Spain</a></td>
         </tr>
 </tbody></table>

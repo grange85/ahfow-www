@@ -274,9 +274,9 @@ related:
     title: "It swivels and swirls in your head. Luna - three nights in San Francisco (3: Rendezvous)"
   - url: /2017/01/24/review-luna-delightfully-duelling-in-san-francisco/
     title: "Review: Luna delightfully dueling in San Francisco"
-  - url: https://db.fullofwishes.co.uk/luna/shows/2017/2017-01-20-luna-the-chapel-san-francisco-ca-usa/
+  - url: https://www.fullofwishes.co.uk/database/luna/shows/2017/2017-01-20-luna-the-chapel-san-francisco-ca-usa/
     title: "20 January 2017 - Luna - The Chapel, San Francisco, CA, USA"
-  - url: https://db.fullofwishes.co.uk/luna/releases/luna-bewitched/
+  - url: https://www.fullofwishes.co.uk/database/luna/releases/luna-bewitched/
     title: "Luna - Bewitched"
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-19/20170118-luna-san-francisco-joakim-pool-10.jpg" alt="The perfect shot, a clean shot (photo: Ulrika)" /><figcaption class="caption-text">The perfect shot, a clean shot (photo: Ulrika)</figcaption></figure>

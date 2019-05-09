@@ -19,7 +19,7 @@ tags:
  - live
  - review
 related:
-  - url: https://db.fullofwishes.co.uk/luna/shows/2017/2017-07-11-luna-gold-diggers-los-angeles-ca-usa/
+  - url: https://www.fullofwishes.co.uk/database/luna/shows/2017/2017-07-11-luna-gold-diggers-los-angeles-ca-usa/
     title: "11 July 2017 - Luna - Gold Diggers, Los Angeles, CA, USA"
 longpost: true
 photos:

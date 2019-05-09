@@ -24,7 +24,7 @@ tags:
 <p class="lead">Luna have just announced details of two new releases, an album of covers and an EP of instrumentals. Both are available to <a href="http://www.pledgemusic.com/projects/luna2">pre-order on Pledgemusic</a> where you can select from a number of bundles including vinyl, CD plus T-shirts and turntable mats and more! The records will be released in September.</p>
 <p>The album, A Sentimental Education, includes 10 covers including tracks by The Cure, The Velvet Underground (from Squeeze!), Yes and Fleetwood Mac amongst others (full tracklist below). The EP, A Place of Greater Safety, is a collection of instrumentals, a couple of which might be familiar to Luna fans.</p>
 <div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/sleeves/luna-a-sentimental-education-lo-res.jpg" alt="Luna - A Sentimental Education" /><figcaption class="caption-text">Luna - A Sentimental Education</figcaption></figure></div>
-<h3><a href="https://db.fullofwishes.co.uk/luna/releases/luna-a-sentimental-education/">A Sentimental Education</a></h3>
+<h3><a href="https://www.fullofwishes.co.uk/database/luna/releases/luna-a-sentimental-education/">A Sentimental Education</a></h3>
 <ul><li>Fire in Cairo <em>(The Cure)</em></li>
 <li>Gin <em>(Willie Loco Alexander)</em></li>
 <li>Friends <em>(Velvet Underground)</em></li>
@@ -36,7 +36,7 @@ tags:
 <li>Let Me Dream If I Want To <em>(Mink DeVille)</em></li>
 <li>Car Wash Hair <em>(Mercury Rev)</em></li></ul>
 
-<h3><a href="https://db.fullofwishes.co.uk/luna/releases/luna-a-place-of-greater-safety/">A Place of Greater Safety</a></h3>
+<h3><a href="https://www.fullofwishes.co.uk/database/luna/releases/luna-a-place-of-greater-safety/">A Place of Greater Safety</a></h3>
 <ul><li>GTX3</li>
 <li>A Place of Greater Safety</li>
 <li>Captain Pentagon</li>

@@ -22,15 +22,15 @@ tags: []
 <table class="table table-striped">
         <tbody><tr>
         <th class="col-md-4">16 May 2016</th>
-        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/dean-wareham/shows/2016/2015-05-16-dean-wareham-the-barbican-london-uk/">The Barbican, London, UK</a></td>
+        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/dean-wareham/shows/2016/2015-05-16-dean-wareham-the-barbican-london-uk/">The Barbican, London, UK</a></td>
         </tr>
         <tr>
         <th class="col-md-4">18 May 2016</th>
-        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/dean-wareham/shows/2016/2016-05-18-dean-wareham-le-lieu-unique-nantes-france/">Le Lieu Unique, Nantes, France</a></td>
+        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/dean-wareham/shows/2016/2016-05-18-dean-wareham-le-lieu-unique-nantes-france/">Le Lieu Unique, Nantes, France</a></td>
         </tr>
         <tr>
         <th class="col-md-4">21 May 2016</th>
-        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/dean-wareham/shows/2016/2016-05-21-dean-wareham-philharmonie-2-paris-france/">Cité de la musique, Philharmonie 2, Paris, France</a></td>
+        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/dean-wareham/shows/2016/2016-05-21-dean-wareham-philharmonie-2-paris-france/">Cité de la musique, Philharmonie 2, Paris, France</a></td>
         </tr>
 </tbody></table>
 

@@ -25,26 +25,26 @@ longpost: false
 ---
 <figure class="caption aligncenter"><img src="/pictures/2018-04-05-luna-granadatheater-instagram.jpg" alt="Luna takeover the @granadatheatre Instagram" /><figcaption class="caption-text">Luna takeover the @granadatheatre Instagram</figcaption></figure>
 
-<p class="lead">On Friday Luna are back on stage again for the <a href="https://db.fullofwishes.co.uk/luna/shows/">first of four dates</a> in bits of the US that missed out during January. They'll be playing at The Granada Theater in Dallas and the band arrived a day early and are <a href="https://www.instagram.com/granadatheater/">Instagramming their rehearsals on the @granadatheater account</a>.</p>
+<p class="lead">On Friday Luna are back on stage again for the <a href="https://www.fullofwishes.co.uk/database/luna/shows/">first of four dates</a> in bits of the US that missed out during January. They'll be playing at The Granada Theater in Dallas and the band arrived a day early and are <a href="https://www.instagram.com/granadatheater/">Instagramming their rehearsals on the @granadatheater account</a>.</p>
 
 <p>They play in Austin on Friday before heading off to Dallas, Santa Fe and Boulder.</p>
 <table class="table table-striped">
 
       <tbody><tr>
         <th class="col-md-4">6th April 2018</th>
-        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/luna/shows/2018/2018-04-06-luna-3ten-acl-live-austin-tx-usa/">3Ten ACL Live, Austin, TX, USA</a></td>
+        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/luna/shows/2018/2018-04-06-luna-3ten-acl-live-austin-tx-usa/">3Ten ACL Live, Austin, TX, USA</a></td>
       </tr>
       <tr>
         <th class="col-md-4">7th April 2018</th>
-        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/luna/shows/2018/2018-04-07-luna-granada-theater-dallas-tx-usa/">Granada Theater, Dallas, TX, USA</a></td>
+        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/luna/shows/2018/2018-04-07-luna-granada-theater-dallas-tx-usa/">Granada Theater, Dallas, TX, USA</a></td>
       </tr>
       <tr>
         <th class="col-md-4">9th April 2018</th>
-        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/luna/shows/2018/2018-04-09-luna-the-bridge-santa-fe-nm-usa/">The Bridge at Santa Fe Brewing, Santa Fe, NM, USA</a></td>
+        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/luna/shows/2018/2018-04-09-luna-the-bridge-santa-fe-nm-usa/">The Bridge at Santa Fe Brewing, Santa Fe, NM, USA</a></td>
       </tr>
       <tr>
         <th class="col-md-4">10th April 2018</th>
-        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/luna/shows/2018/2018-04-10-luna-fox-theatre-boulder-co-usa/">Fox Theatre, Boulder, CO, USA</a></td>
+        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/luna/shows/2018/2018-04-10-luna-fox-theatre-boulder-co-usa/">Fox Theatre, Boulder, CO, USA</a></td>
       </tr>
 </tbody></table>
 

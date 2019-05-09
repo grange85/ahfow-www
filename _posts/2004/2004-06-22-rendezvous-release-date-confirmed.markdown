@@ -18,5 +18,5 @@ categories:
 - news
 tags: []
 ---
-<p>Luna's official mailing list kicked into life to issue a rare bulletin from the band. While the news was mostly stuff we already knew it did confirm that the new album, Rendezvous, WILL be released on 28 September on Jetset Records.source: http://www.fuzzywuzzy.com/docs/mailing.htmlNo sign of artwork but a provisional track-listing can be found on this sitehttps://db.fullofwishes.co.uk/discography/album/192/<br />
+<p>Luna's official mailing list kicked into life to issue a rare bulletin from the band. While the news was mostly stuff we already knew it did confirm that the new album, Rendezvous, WILL be released on 28 September on Jetset Records.source: http://www.fuzzywuzzy.com/docs/mailing.htmlNo sign of artwork but a provisional track-listing can be found on this sitehttps://www.fullofwishes.co.uk/database/discography/album/192/<br />
 The newsletter also took the opportunity to plug the upcoming Galaxie 500 DVD - which should already be on its way to the folk who pre-ordered it from Plexifilm.</p>

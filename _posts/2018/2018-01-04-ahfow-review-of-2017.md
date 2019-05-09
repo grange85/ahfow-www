@@ -108,5 +108,5 @@ In January Luna played three consecutive nights in San Francisco playing a compl
 <p>And the year ended quietly.</p>
 
 <h3>2018</h3>
-<p>And so to 2018 which starts with <a href="https://db.fullofwishes.co.uk/luna/shows/">Luna playing more gigs</a> around the US and <a href="https://db.fullofwishes.co.uk/damon-and-naomi/shows/">Damon & Naomi touring Europe</a> - and hopefully lots more to enjoy.</p>
+<p>And so to 2018 which starts with <a href="https://www.fullofwishes.co.uk/database/luna/shows/">Luna playing more gigs</a> around the US and <a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/">Damon & Naomi touring Europe</a> - and hopefully lots more to enjoy.</p>
 

@@ -24,7 +24,7 @@ Happy Birthday to former Luna guitarist Sean Eden</p>
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/2005-01-17-bbc6music-luna-broken-chair.mp3">Luna - Broken Chair - BBC 6Music - 17 January 2005</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/2005-01-17-bbc6music-luna-broken-chair.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://db.fullofwishes.co.uk/luna/shows/2005/2005-01-17-luna-bbc-6-music-london-uk/">17 January 2005 - Luna - BBC 6 Music, London, UK</a></em></p>
+  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/database/luna/shows/2005/2005-01-17-luna-bbc-6-music-london-uk/">17 January 2005 - Luna - BBC 6 Music, London, UK</a></em></p>
 </div>
 <p>And surely we'll never get tired of how awesome Sean looked with long hair? Here's Luna performing California (All the Way) in 1994<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZU3QFvaMQPs" frameborder="0" allowfullscreen></iframe>
