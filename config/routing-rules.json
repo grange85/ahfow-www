@@ -25,6 +25,66 @@
         "Protocol": "https",
         "ReplaceKeyPrefixWith": "feed"
       }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "dean-wareham/shows"
+      },
+      "Redirect": {
+        "HostName": "www.fullofwishes.co.uk",
+        "Protocol": "https",
+        "ReplaceKeyPrefixWith": "database/dean-and-britta/shows"
+      }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "dean-wareham/releases"
+      },
+      "Redirect": {
+        "HostName": "www.fullofwishes.co.uk",
+        "Protocol": "https",
+        "ReplaceKeyPrefixWith": "database/dean-and-britta/dean-wareham-releases"
+      }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "britta-phillips/releases"
+      },
+      "Redirect": {
+        "HostName": "www.fullofwishes.co.uk",
+        "Protocol": "https",
+        "ReplaceKeyPrefixWith": "database/dean-and-britta/britta-phillips-releases"
+      }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "dean-and-britta/releases"
+      },
+      "Redirect": {
+        "HostName": "www.fullofwishes.co.uk",
+        "Protocol": "https",
+        "ReplaceKeyPrefixWith": "database/dean-and-britta/dean-and-britta-releases"
+      }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "dean-wareham"
+      },
+      "Redirect": {
+        "HostName": "www.fullofwishes.co.uk",
+        "Protocol": "https",
+        "ReplaceKeyPrefixWith": "database/dean-and-britta"
+      }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "britta-phillips"
+      },
+      "Redirect": {
+        "HostName": "www.fullofwishes.co.uk",
+        "Protocol": "https",
+        "ReplaceKeyPrefixWith": "database/dean-and-britta"
+      }
     }
   ]
 }
