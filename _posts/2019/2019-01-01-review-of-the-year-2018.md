@@ -40,7 +40,7 @@ longpost: true
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-tom-rapp-I-shall-be-released.mp3">Damon & Naomi with Tom Rapp - I Shall Be Released</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-tom-rapp-I-shall-be-released.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://db.fullofwishes.co.uk/damon-and-naomi/shows/1997/1997-04-26-damon-naomi-terrastock-providence-ri-usa/">26 April 1997 - Damon & Naomi - Terrastock, Providence RI, USA</a></em></p>
+  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/1997/1997-04-26-damon-naomi-terrastock-providence-ri-usa/">26 April 1997 - Damon & Naomi - Terrastock, Providence RI, USA</a></em></p>
 </div>
 <figure class="caption aligncenter"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/40277240951/" title="Damon &amp; Naomi at Cafe OTO, London, February 2018"><img src="https://farm5.staticflickr.com/4713/40277240951_7d4efa353a_c.jpg" width="800" height="600" alt="Damon &amp; Naomi at Cafe OTO, London, February 2018"></a><figcaption class="caption-text">Damon & Naomi (London, Feb 2018)</figcaption></figure>
 <p>Damon & Naomi arrived in Europe for a pretty extensive tour with Thalia Zedek and paid tribute to Tom by playing Translucent Carriages at the shows. Here they are in Manchester (without Thalia):</p>

@@ -18,4 +18,4 @@ categories:
 - news
 tags: []
 ---
-<p>You can now pre-order your copy of the Luna documentary <a href="https://db.fullofwishes.co.uk/database/discography/luna/204">Tell Me Do You Miss Me</a> from <a href="http://www.amazon.com/exec/obidos/ASIN/B000FNNIB0/aheadfullofwi-20">Amazon.com for $13.99</a>.</p>
+<p>You can now pre-order your copy of the Luna documentary <a href="https://www.fullofwishes.co.uk/database/database/discography/luna/204">Tell Me Do You Miss Me</a> from <a href="http://www.amazon.com/exec/obidos/ASIN/B000FNNIB0/aheadfullofwi-20">Amazon.com for $13.99</a>.</p>

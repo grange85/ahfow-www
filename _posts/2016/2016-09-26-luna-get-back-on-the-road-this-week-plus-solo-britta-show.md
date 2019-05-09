@@ -29,27 +29,27 @@ tags:
 <table class="table table-striped">
         <tbody><tr>
         <th class="col-md-4">28 September 2016</th>
-        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/britta-phillips/shows/2016/2016-09-28-britta-phillips-le-poisson-rouge-new-york-ny-usa/">Britta Phillips at (Le) Poisson Rouge, New York, NY, USA</a></td>
+        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/britta-phillips/shows/2016/2016-09-28-britta-phillips-le-poisson-rouge-new-york-ny-usa/">Britta Phillips at (Le) Poisson Rouge, New York, NY, USA</a></td>
         </tr>
 
         <tr>
         <th class="col-md-4">29 September 2016</th>
-        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/luna/shows/2016/2016-09-29-luna-birchmere-alexandria-va-usa/">Birchmere Music Hall, Alexandria, VA, USA</a></td>
+        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/luna/shows/2016/2016-09-29-luna-birchmere-alexandria-va-usa/">Birchmere Music Hall, Alexandria, VA, USA</a></td>
         </tr>
 
         <tr>
         <th class="col-md-4">30 September 2016</th>
-        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/luna/shows/2016/2016-09-30-luna-royale-boston-ma-usa/">Royale, Boston, MA</a></td>
+        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/luna/shows/2016/2016-09-30-luna-royale-boston-ma-usa/">Royale, Boston, MA</a></td>
         </tr>
 
         <tr>
         <th class="col-md-4">1 October 2016</th>
-        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/luna/shows/2016/2016-10-01-luna-rough-trade-nyc-brooklyn-ny-usa/">Rough Trade NYC, Brooklyn, NY, USA</a></td>
+        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/luna/shows/2016/2016-10-01-luna-rough-trade-nyc-brooklyn-ny-usa/">Rough Trade NYC, Brooklyn, NY, USA</a></td>
         </tr>
 
         <tr>
         <th class="col-md-4">2 October 2016</th>
-        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/luna/shows/2016/2016-10-02-luna-rough-trade-nyc-brooklyn-ny-usa/">Rough Trade NYC, Brooklyn, NY, USA</a></td>
+        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/luna/shows/2016/2016-10-02-luna-rough-trade-nyc-brooklyn-ny-usa/">Rough Trade NYC, Brooklyn, NY, USA</a></td>
         </tr>
 
 </tbody></table>

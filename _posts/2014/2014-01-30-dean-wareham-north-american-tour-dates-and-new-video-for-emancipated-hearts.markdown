@@ -30,67 +30,67 @@ tags: []
 <th>Venue</th>
 </tr>
 <tr>
-<td><span class="removed_link" title="https://db.fullofwishes.co.uk/database/gigography/dean_wareham/show/1336">28-30 March 2014</span></td>
+<td><span class="removed_link" title="https://www.fullofwishes.co.uk/database/database/gigography/dean_wareham/show/1336">28-30 March 2014</span></td>
 <td>Dean Wareham</td>
 <td>Big Ears Festival, Knoxville, TN, USA</td>
 <td>Two shoes, one Dean Wareham and one 13 Most Beautiful - dates unconfirmed</td>
 </tr>
 <tr>
-<td><span class="removed_link" title="https://db.fullofwishes.co.uk/database/gigography/dean_wareham/show/1337">1 April 2014</span></td>
+<td><span class="removed_link" title="https://www.fullofwishes.co.uk/database/database/gigography/dean_wareham/show/1337">1 April 2014</span></td>
 <td>Dean Wareham</td>
 <td>The Earl, Atlanta, GA, USA</td>
 <td></td>
 </tr>
 <tr>
-<td><span class="removed_link" title="https://db.fullofwishes.co.uk/database/gigography/dean_wareham/show/1338">3 April 2014</span></td>
+<td><span class="removed_link" title="https://www.fullofwishes.co.uk/database/database/gigography/dean_wareham/show/1338">3 April 2014</span></td>
 <td>Dean Wareham</td>
 <td>Cat's Cradle Back Room, Carrboro, NC, USA</td>
 <td></td>
 </tr>
 <tr>
-<td><span class="removed_link" title="https://db.fullofwishes.co.uk/database/gigography/dean_wareham/show/1339">4 April 2014</span></td>
+<td><span class="removed_link" title="https://www.fullofwishes.co.uk/database/database/gigography/dean_wareham/show/1339">4 April 2014</span></td>
 <td>Dean Wareham</td>
 <td>U Street, Washington DC, USA</td>
 <td>Early show</td>
 </tr>
 <tr>
-<td><span class="removed_link" title="https://db.fullofwishes.co.uk/database/gigography/dean_wareham/show/1340">5 April 2014</span></td>
+<td><span class="removed_link" title="https://www.fullofwishes.co.uk/database/database/gigography/dean_wareham/show/1340">5 April 2014</span></td>
 <td>Dean Wareham</td>
 <td>Bowery Ballroom, New York, NY, USA</td>
 <td></td>
 </tr>
 <tr>
-<td><span class="removed_link" title="https://db.fullofwishes.co.uk/database/gigography/dean_wareham/show/1341">6 April 2014</span></td>
+<td><span class="removed_link" title="https://www.fullofwishes.co.uk/database/database/gigography/dean_wareham/show/1341">6 April 2014</span></td>
 <td>Dean Wareham</td>
 <td>Boot & Saddle, Philadelphia, PA, USA</td>
 <td></td>
 </tr>
 <tr>
-<td><span class="removed_link" title="https://db.fullofwishes.co.uk/database/gigography/dean_wareham/show/1342">9 April 2014</span></td>
+<td><span class="removed_link" title="https://www.fullofwishes.co.uk/database/database/gigography/dean_wareham/show/1342">9 April 2014</span></td>
 <td>Dean Wareham</td>
 <td>Horseshoe, Toronto, Canada</td>
 <td></td>
 </tr>
 <tr>
-<td><span class="removed_link" title="https://db.fullofwishes.co.uk/database/gigography/dean_wareham/show/1343">10 April 2014</span></td>
+<td><span class="removed_link" title="https://www.fullofwishes.co.uk/database/database/gigography/dean_wareham/show/1343">10 April 2014</span></td>
 <td>Dean Wareham</td>
 <td>Magic Bag, Ferndale, MI, USA</td>
 <td></td>
 </tr>
 <tr>
-<td><span class="removed_link" title="https://db.fullofwishes.co.uk/database/gigography/dean_wareham/show/1344">11 April 2014</span></td>
+<td><span class="removed_link" title="https://www.fullofwishes.co.uk/database/database/gigography/dean_wareham/show/1344">11 April 2014</span></td>
 <td>Dean Wareham</td>
 <td>Old Town School of Music, Chicago, IL, USA</td>
 <td>early show</td>
 </tr>
 <tr>
-<td><span class="removed_link" title="https://db.fullofwishes.co.uk/database/gigography/dean_wareham/show/1345">11 April 2014</span></td>
+<td><span class="removed_link" title="https://www.fullofwishes.co.uk/database/database/gigography/dean_wareham/show/1345">11 April 2014</span></td>
 <td>Dean Wareham</td>
 <td>Old Town School of Music, Chicago, IL, USA</td>
 <td>late show</td>
 </tr>
 <tr>
-<td><span class="removed_link" title="https://db.fullofwishes.co.uk/database/gigography/dean_wareham/show/1346">12 April 2014</span></td>
+<td><span class="removed_link" title="https://www.fullofwishes.co.uk/database/database/gigography/dean_wareham/show/1346">12 April 2014</span></td>
 <td>Dean Wareham</td>
 <td>Turf Club, Saint Paul, MN, USA</td>
 <td></td>

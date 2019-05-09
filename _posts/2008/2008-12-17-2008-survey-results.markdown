@@ -18,7 +18,7 @@ categories:
 - admin
 tags: []
 ---
-<p>It's all over. <a href="https://db.fullofwishes.co.uk/survey/2008/">The 2008 survey results are now up</a> for your perusal. The lucky winner of the draw has been notified by email, if you haven't heard anything then sadly you missed out...better luck next year.</p>
+<p>It's all over. <a href="https://www.fullofwishes.co.uk/database/survey/2008/">The 2008 survey results are now up</a> for your perusal. The lucky winner of the draw has been notified by email, if you haven't heard anything then sadly you missed out...better luck next year.</p>
 <p>A quick summary for those of you who just want headlines...</p>
 <ul>
 <li><strong>Galaxie 500 album:</strong> On Fire</li>

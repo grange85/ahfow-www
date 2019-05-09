@@ -24,7 +24,7 @@ tags:
 <h2>Galaxie 500</h2>
 <h3>Favourite album</h3>
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/survey-2015/survey-2015-galaxie-500.png" alt="" /><figcaption class="caption-text"></figcaption></figure>
-<p>Favourite Galaxie 500 was <a href="https://db.fullofwishes.co.uk/galaxie-500/releases/galaxie-500-on-fire/">On Fire</a> which received over half of all votes.</p>
+<p>Favourite Galaxie 500 was <a href="https://www.fullofwishes.co.uk/database/galaxie-500/releases/galaxie-500-on-fire/">On Fire</a> which received over half of all votes.</p>
 <h3>Favourite track</h3>
 <table class="table table-striped">
 <tr><th>Favourite Galaxie 500 track</th>	<th>Votes</th>	<th>%</th></tr>
@@ -37,7 +37,7 @@ tags:
 <h2>Luna</h2>
 <h3>Favourite album</h3>
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/survey-2015/survey-2015-luna.png" alt="" /><figcaption class="caption-text"></figcaption></figure>
-<p>Favourite Luna album was <a href="https://db.fullofwishes.co.uk/luna/releases/luna-penthouse/">Penthouse</a>, with <a href="https://db.fullofwishes.co.uk/luna/releases/luna-bewitched/">Bewitched</a> giving it a run for its money.</p>
+<p>Favourite Luna album was <a href="https://www.fullofwishes.co.uk/database/luna/releases/luna-penthouse/">Penthouse</a>, with <a href="https://www.fullofwishes.co.uk/database/luna/releases/luna-bewitched/">Bewitched</a> giving it a run for its money.</p>
 
 <h3>Favourite track</h3>
 <table class="table table-striped">
@@ -53,7 +53,7 @@ tags:
 <h2>Damon & Naomi</h2>
 <h3>Favourite album</h3>
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/survey-2015/survey-2015-damon-and-naomi.png" alt="" /><figcaption class="caption-text"></figcaption></figure>
-<p>Damon & Naomi's debut album <a href="https://db.fullofwishes.co.uk/damon-and-naomi/releases/damon-and-naomi-more-sad-hits/">More Sad Hits</a> once again comfortably topped the chart.</p>
+<p>Damon & Naomi's debut album <a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/releases/damon-and-naomi-more-sad-hits/">More Sad Hits</a> once again comfortably topped the chart.</p>
 
 <h3>Favourite track</h3>
 <table class="table table-striped">
@@ -70,7 +70,7 @@ tags:
 <h2>Dean & Britta</h2>
 <h3>Favourite album</h3>
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/survey-2015/survey-2015-dean-and-britta.png" alt="" /><figcaption class="caption-text"></figcaption></figure>
-<p><a href="https://db.fullofwishes.co.uk/dean-and-britta/releases/dean-and-britta-lavventura/">L'Avventura</a> was the most popular Dean & Britta album. Nice to see this year's <a href="https://db.fullofwishes.co.uk/dean-and-britta/releases/dean-and-britta-mistress-america/">Mistress America</a> putting in an appearance.</p>
+<p><a href="https://www.fullofwishes.co.uk/database/dean-and-britta/releases/dean-and-britta-lavventura/">L'Avventura</a> was the most popular Dean & Britta album. Nice to see this year's <a href="https://www.fullofwishes.co.uk/database/dean-and-britta/releases/dean-and-britta-mistress-america/">Mistress America</a> putting in an appearance.</p>
 <h3>Favourite track</h3>
 
 <table class="table table-striped">
@@ -86,7 +86,7 @@ tags:
 <h2>Dean Wareham</h2>
 <h3>Favourite album</h3>
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/survey-2015/survey-2015-dean-wareham.png" alt="" /><figcaption class="caption-text"></figcaption></figure>
-<p>Dean Wareham's <a href="https://db.fullofwishes.co.uk/dean-wareham/releases/dean-wareham-dean-wareham/">eponymous album</a> was the best loved of his solo releases.</p>
+<p>Dean Wareham's <a href="https://www.fullofwishes.co.uk/database/dean-wareham/releases/dean-wareham-dean-wareham/">eponymous album</a> was the best loved of his solo releases.</p>
 <h3>Favourite track</h3>
 
 <table class="table table-striped">

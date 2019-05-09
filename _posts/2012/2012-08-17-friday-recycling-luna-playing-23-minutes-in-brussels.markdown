@@ -28,7 +28,7 @@ tags: []
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/luna-20050228-23-minutes-in-brussels-nyc.mp3">Luna playing 23 Minutes in Brussels at their farewell show in 2005</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/luna-20050228-23-minutes-in-brussels-nyc.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://db.fullofwishes.co.uk/luna/shows/2005/2005-02-28-luna-bowery-ballroom-new-york-ny-usa/">28 February 2005 - Luna - Bowery Ballroom, New York NY, USA</a></em></p>
+  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/database/luna/shows/2005/2005-02-28-luna-bowery-ballroom-new-york-ny-usa/">28 February 2005 - Luna - Bowery Ballroom, New York NY, USA</a></em></p>
 </div>
 <ul>
 <li><strong>MP3: </strong><a href="https://www.box.com/shared/o9bg9fykoc">Luna - Tramps, NYC 1994 - very early version with completely different lyrics</a></li>

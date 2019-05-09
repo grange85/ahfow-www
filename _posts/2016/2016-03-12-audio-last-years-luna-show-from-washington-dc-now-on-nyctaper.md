@@ -22,6 +22,6 @@ tags: []
 <blockquote>This DC show is notable for the minimal amount of stage banter and for a real workman-like but very strong run through the best material from the tour. For a topper, Luna came back out a second time for an encore and delivered a bit of a rarity — a sharp cover of Donovan’s "Season of the Witch".
 <footer><a href="http://www.nyctaper.com/2016/03/luna-october-6-2015-930-club-washington-dc/">NYCTaper.com - Luna: October 6, 2015 930 Club Washington DC</a></footer></blockquote>
 <p><a href="http://www.nyctaper.com/2016/03/luna-october-6-2015-930-club-washington-dc/">Head over to NYCTaper to download the full show</a> as mp3s or lossless flacs.</p>
-<p><a href="https://db.fullofwishes.co.uk/luna/shows/2015/2015-10-06-luna-930-club-washington-dc-usa/">More details, photos and videos of the show can be found here</a>.</p>
+<p><a href="https://www.fullofwishes.co.uk/database/luna/shows/2015/2015-10-06-luna-930-club-washington-dc-usa/">More details, photos and videos of the show can be found here</a>.</p>
 
 

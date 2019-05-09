@@ -25,5 +25,5 @@ Luna on World Cafe in October 1997 cave into the DJ's requests to perform that s
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/03-luna-california-all-the-way.mp3">Luna - California (All the Way) radio session 1997</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/03-luna-california-all-the-way.mp3"></audio></div>
 
 <p>... and if California is your favourite Luna song you can go and vote for it in the 2011 Survey - or if it's not you can vote for something else!<br />
-<span class="removed_link" title="https://db.fullofwishes.co.uk/limesurvey/index.php?sid=58458&lang=en"><br />
+<span class="removed_link" title="https://www.fullofwishes.co.uk/database/limesurvey/index.php?sid=58458&lang=en"><br />
 Vote in the 2011 A Head Full of Wishes survey</span></p>

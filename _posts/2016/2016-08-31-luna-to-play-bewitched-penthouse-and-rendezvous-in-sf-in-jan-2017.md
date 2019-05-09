@@ -27,17 +27,17 @@ tags:
 
         <tr>
         <th class="col-md-4">19 January 2017</th>
-        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/luna/shows/2017/2017-01-19-luna-the-chapel-san-francisco-ca-usa/">The Chapel, San Francisco, CA, USA</a></td>
+        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/luna/shows/2017/2017-01-19-luna-the-chapel-san-francisco-ca-usa/">The Chapel, San Francisco, CA, USA</a></td>
         </tr>
 
         <tr>
         <th class="col-md-4">20 January 2017</th>
-        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/luna/shows/2017/2017-01-20-luna-the-chapel-san-francisco-ca-usa/">The Chapel, San Francisco, CA, USA</a></td>
+        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/luna/shows/2017/2017-01-20-luna-the-chapel-san-francisco-ca-usa/">The Chapel, San Francisco, CA, USA</a></td>
         </tr>
 
         <tr>
         <th class="col-md-4">21 January 2017</th>
-        <td class="col-md-8"><a href="https://db.fullofwishes.co.uk/luna/shows/2017/2017-01-21-luna-the-chapel-san-francisco-ca-usa/">The Chapel, San Francisco, CA, USA</a></td>
+        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/luna/shows/2017/2017-01-21-luna-the-chapel-san-francisco-ca-usa/">The Chapel, San Francisco, CA, USA</a></td>
         </tr>
 
 </table>

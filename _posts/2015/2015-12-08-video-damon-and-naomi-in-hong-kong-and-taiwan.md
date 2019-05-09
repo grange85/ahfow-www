@@ -33,4 +33,4 @@ tags: []
 
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/BV-OgODLNL4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Turn of the Century</figcaption></figure>
 
-<p>Damon & Naomi have one more show this year, a <a href="https://db.fullofwishes.co.uk/damon-and-naomi/shows/2015/2015-12-16-damon-and-naomi-casa-del-popolo-montreal-canada/">performance of Fortune in Montreal</a>.</p>
+<p>Damon & Naomi have one more show this year, a <a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/2015/2015-12-16-damon-and-naomi-casa-del-popolo-montreal-canada/">performance of Fortune in Montreal</a>.</p>

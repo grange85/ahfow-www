@@ -29,7 +29,7 @@ This was my first trip to XOYO. Another basement venue in London. The show was f
 <p>Dean announced that their show at <span class="removed_link" title="http://www.thisistruck.com/programme/">Truck Festival in July</span> would be the last time they'd play the "plays Galaxie 500" shows in the UK - "maybe we'll do it again in 20 years" - while I've loved the nostalgia-wallowing and have enjoyed every minute of all three shows I have to agree that I think it's time to move on. My intention is to go to Truck for one last fling.</p>
 <p><strong>Elsewhere:</strong>
 <ul>
-<li><span class="removed_link" title="https://db.fullofwishes.co.uk/wiki/Shows/Dean_%26_Britta/2011-04-24">This show on the AHFoW wiki</span></li>
+<li><span class="removed_link" title="https://www.fullofwishes.co.uk/database/wiki/Shows/Dean_%26_Britta/2011-04-24">This show on the AHFoW wiki</span></li>
 <li><a href="http://www.flickr.com/photos/grange85/sets/72157626570242302/with/5651189673/">The rest of my pictures on Flickr</a></li>
 <li><a href="http://www.flickr.com/photos/acb/tags/lastfm:event=1826811/">Another set of pics on Flickr by acb</a></li>
 <li><a href="http://antonyeagle.org/2011/04/26/dean-wareham-plays-galaxie-500/">Anthony Eagle reviews the show on his blog</a></li>

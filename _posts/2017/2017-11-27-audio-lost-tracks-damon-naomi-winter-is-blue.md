@@ -26,7 +26,7 @@ tags:
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-naomi-2005-06-23-tokyo-japan-winter-is-blue.mp3">Damon & Naomi - Winter is Blue (Tokyo, 2005)</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-naomi-2005-06-23-tokyo-japan-winter-is-blue.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://db.fullofwishes.co.uk/damon-and-naomi/shows/2005/2005-06-23-damon-naomi-nhk-livebeat-tokyo-japan/">23 June 2005 - Damon & Naomi - NHK Livebeat, Tokyo, Japan</a></em></p>
+  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/2005/2005-06-23-damon-naomi-nhk-livebeat-tokyo-japan/">23 June 2005 - Damon & Naomi - NHK Livebeat, Tokyo, Japan</a></em></p>
 </div>
 Here's Vashti's original
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/0Q1ll_hTmsU" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Vashti Bunyan - Winter is Blue</figcaption></figure>

@@ -22,6 +22,6 @@ tags: []
 <p>A Head Full of Wishes has gone through a bit of a revamp that means that some of the content has been shuffled about and you've arrived at this page because of that upheaval. All of the content is still on the site it's just not necessarily where it used to be...</p>
 <p>For articles and news items your best chance of tracking down what you're looking for would probably be by searching or you can browse using one of the following links...</p>
 <p><a href="https://www.fullofwishes.co.uk">News and articles.</a><br />
-<a href="https://db.fullofwishes.co.uk/">Discographies and gigographies</a>.<br />
+<a href="https://www.fullofwishes.co.uk/database/">Discographies and gigographies</a>.<br />
 A Shop Full of Wishes.</p>
 <p>Feel free to <a href="mailto:andy@grange85.co.uk">get in touch</a> if you have any problems finding what you're looking for.</p>

@@ -28,7 +28,7 @@ longpost: false
 
 <p class="lead">Run Out Groove Records has a monthly poll which allows us to choose an album that they will then press in a limited run. For May's vote they are throwing Luna's Lunafied into the ring. <a href="http://runoutgroovevinyl.com/lunafied.html">Head over to Run Out Groove to vote</a> to get a double LP release of some of the finest covers ever recorded!</p>
 
-<p><a href="https://db.fullofwishes.co.uk/luna/releases/luna-lunafied-luna-covers/">Lunafied</a> has until now only been available as a digital only release put out by Rhino in 2006 and, in a different form, as the bonus disc with the <a href="https://db.fullofwishes.co.uk/luna/releases/luna-best-of-luna/#beggars-banquet-cd">UK edition of Best of Luna</a>. The proposed Run Out Groove copy will include all the tracks from both versions in a double album. Now, that has to be worth your vote!</p>
+<p><a href="https://www.fullofwishes.co.uk/database/luna/releases/luna-lunafied-luna-covers/">Lunafied</a> has until now only been available as a digital only release put out by Rhino in 2006 and, in a different form, as the bonus disc with the <a href="https://www.fullofwishes.co.uk/database/luna/releases/luna-best-of-luna/#beggars-banquet-cd">UK edition of Best of Luna</a>. The proposed Run Out Groove copy will include all the tracks from both versions in a double album. Now, that has to be worth your vote!</p>
 <p><a href="http://runoutgroovevinyl.com/lunafied.html" class="btn btn-default">Vote for Lunafied</a></p>
 
 <blockquote>

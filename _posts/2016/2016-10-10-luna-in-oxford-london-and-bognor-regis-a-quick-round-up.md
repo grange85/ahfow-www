@@ -39,7 +39,7 @@ longpost: true
 <p>After a bit of post-show loitering I took my leave and headed back to London as I had to work the next day.</p>
 <!--more-->
 <ul>
-<li><a href="https://db.fullofwishes.co.uk/luna/shows/2016/2016-10-06-luna-02-academy-oxford-uk/">Show details and setlist</a></li>
+<li><a href="https://www.fullofwishes.co.uk/database/luna/shows/2016/2016-10-06-luna-02-academy-oxford-uk/">Show details and setlist</a></li>
 <li><a href="http://www.dimeadozen.org/torrents-details.php?id=573477">The whole show - including Britta's set, is available to download from Dimeadozen</a></li>
 <li><a href="https://flic.kr/s/aHskJbt2Hq">Photos: 2016-10-06: Luna in Oxford on Flickr</a></li>
 </ul>
@@ -54,7 +54,7 @@ Islington - lots of folk showed up over the course of the evening, and some who 
 <p>Another night of Penthouse for Luna. The sound was considerably better and the larger and enthusiastic crowd made for a brilliant evening ~ two encores and closing again with {% track "Indian Summer" %} made for a perfect evening. Made more perfect by getting backstage to eat the band's cheese and chocolate and then off to an after-show gathering at the Betsey Trotwood - I left early again ~ if 2am is early (not for me but it appeared to be for everyone else!).</p>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/sRoEJrEEzX0" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - 23 Minutes in Brussels in London</figcaption></figure>
 <ul>
-<li><a href="https://db.fullofwishes.co.uk/luna/shows/2016/2016-10-07-luna-acacdemy-islington-london-uk/">Show details and setlist</a></li>
+<li><a href="https://www.fullofwishes.co.uk/database/luna/shows/2016/2016-10-07-luna-acacdemy-islington-london-uk/">Show details and setlist</a></li>
 <li><a href="https://flic.kr/s/aHskJep4YC">Photos: 2016-10-07: Luna in London on Flickr</a></li>
 </ul>
 
@@ -68,7 +68,7 @@ Islington - lots of folk showed up over the course of the evening, and some who 
 <p>Show over, we sadly had to shoot off before Suede to get Ulrika on a train to London so she could get to Antwerp for Luna's show the next evening. Adam and I pondered returning to Butlins but opted instead for a stroll along the beach in the dark before grabbing some food and heading back to my dad's to eat it.</p>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/29591908244/in/photostream/" title="Adam on the beach at Bognor"><img src="https://c5.staticflickr.com/6/5791/29591908244_1f765dd546_c.jpg" width="800" height="600" alt="Adam on the beach at Bognor"></a>
 <ul>
-<li><a href="https://db.fullofwishes.co.uk/luna/shows/2016/2016-10-08-luna-rockaway-beach-festival-butlins-bognor-regis/">Show details and setlist</a></li>
+<li><a href="https://www.fullofwishes.co.uk/database/luna/shows/2016/2016-10-08-luna-rockaway-beach-festival-butlins-bognor-regis/">Show details and setlist</a></li>
 <li><a href="https://flic.kr/s/aHskF35xFS">Photos: 2016-10-08: Luna in Bognor Regis on Flickr</a></li>
 </ul>
 

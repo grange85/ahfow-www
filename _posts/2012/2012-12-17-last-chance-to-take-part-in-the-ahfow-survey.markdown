@@ -19,5 +19,5 @@ tags: []
 ---
 <p>OK - this is the last call to take part in the annual A Head Full of Wishes survey - one random lucky voter will be getting a small pile of 7" singles I have prepared for their trouble... the rest of you just get satisfaction!</p>
 <p>Head over here to:</p>
-<p><span class="removed_link" title="https://db.fullofwishes.co.uk/survey/surveyform">VOTE IN THE <strong>A HEAD FULL OF WISHES</strong> 2012 SURVEY</span></p>
+<p><span class="removed_link" title="https://www.fullofwishes.co.uk/database/survey/surveyform">VOTE IN THE <strong>A HEAD FULL OF WISHES</strong> 2012 SURVEY</span></p>
 <p>Thanks.</p>
