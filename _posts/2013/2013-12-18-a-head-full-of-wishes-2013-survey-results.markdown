@@ -19,7 +19,7 @@ categories:
 tags: []
 ---
 <p>Thanks to everyone who voted in this years survey, my relentless plugging saw the second highest turn out of all time with 153 votes. This website was launched in Autumn 1994 (yep, 20th birthday next year) and the first survey was in December 1995!</p>
-<p><strong><a href="http://olddb.fullofwishes.co.uk/survey/view/2013">View the full results here</a></strong></p>
+<p><strong>View the full results here</strong></p>
 <p>Here are a few observations:</p>
 <p><strong>Favourite Galaxie 500 album</strong><br />
 Only once has On Fire not topped the poll<sup><a href="#note-1">1</a></sup> and this year didn't buck the trend with On Fire receiving over 44% of the total votes. Last year saw This Is Our Music surprisingly pinching second place from Today, but this year found it back in third place.<br />

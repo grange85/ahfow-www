@@ -19,7 +19,7 @@ tags: []
 ---
 <p>Thanks to everyone who took the time to vote in the survey again, it's always a joy to look through the results (even if they don't change too much from year to year). Thanks also to all the really sweet things that so many of you took the time to write in the comments field. I always say that AHFoW would still exist even if I was the only person who ever looked at it but its really nice to know that so many folk do appreciate it!</p>
 <p>I pulled a name out of the hat (well actually used a web site that picked random lines from text files) to select the winner of the draw... Brad was the lucky fellow and has been emailed. Sorry I couldn't give you all something... maybe next year!</p>
-<p>The full <a href="http://olddb.fullofwishes.co.uk/survey/view/2012">results for the survey can be viewed in the database</a> (as well as the results from all the surveys going back to 1996!) but to save you the bother here's a quick analysis:<br />
+<p>The full results for the survey can be viewed in the database (as well as the results from all the surveys going back to 1996!) but to save you the bother here's a quick analysis:<br />
 <a id="more"></a><a id="more-3528"></a><br />
 <strong>Responses:</strong><br />
 There were 111 responses to the survey, this was down quite considerably on last year but I'll blame the lack of any new releases to vote on, rather than consider that the site is slowly losing its audience!</p>

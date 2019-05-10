@@ -19,7 +19,7 @@ sitemap: false
   <h3>Browsing</h3>
   <ul>
     <li>Maybe <a href="https://www.fullofwishes.co.uk">start at the home page</a></li>
-    <li>Or look through <a href="http://db.fullofwishes.co.uk">the database</a></li>
+    <li>Or look through <a href="https://www.fullofwishes.co.uk/database/">the database</a></li>
   </ul>
 </div>
 
