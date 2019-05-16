@@ -2,6 +2,8 @@
 layout: page
 title: Fanzine - pre-order
 sitemap: false
+published: false
+draft: true
 ---
 <p class="lead">The second run of the fanzine will be 50 copies and will be shipping out around about the 9th September.</p>
 
