@@ -51,4 +51,4 @@ So here for comparison you can listen side-by-side to both versions of I Want Ev
 
 So... which was better?
 
-Now go buy some Luna - you can get most (probably all now) of their albums on Amazon and iTunes, and their later stuff is on <a href="http://luna.bandcamp.com/">their Bandcamp site</a>.</p>
+Now go buy some Luna - you can get most (probably all now) of their albums on Amazon and iTunes, and their later stuff is on [their Bandcamp site](http://luna.bandcamp.com/).
