@@ -71,12 +71,20 @@ layout: default
 			<li class="next"><a class="prev" href="{{page.previous.url}}">{{page.previous.title}} &raquo;</a></li>
 			{% endif %}
 		</ul>
-		<div 
+
+		<div id="commento"></div>
+		<script defer
+		  src="https://cdn.commento.io/js/commento.js"
+		  data-href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" >
+		</script>
+
+
+		<!-- div 
 			class="fb-comments" 
 			data-href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" 
 			data-numposts="5" 
 			data-colorscheme="light" 
 			data-width="100%">
-		</div>
+		</div-->
 	</div>
 </div>

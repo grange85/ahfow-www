@@ -4,7 +4,7 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: Artefacts #003: Galaxie 500 Copenhagen advance CD
+title: "Artefacts #003: Galaxie 500 Copenhagen advance CD"
 author:
   display_name: Andy
   login: admin
