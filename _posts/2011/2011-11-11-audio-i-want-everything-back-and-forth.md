@@ -31,7 +31,7 @@ In 2006 Luna released the compilation album, imaginitively titled "Best of Luna"
 
 Here's [Dean's notes from Best of Luna](/2008/02/08/best-of-luna-sleeve-notes/)
 
-> There’s a great documentary about the Apollo trips to the moon called for A/I Mankind (with a soundtrack by Brian Eno). They’re up there in space and the astronauts are making little Super 8 movies and talking about their feelings and one of them looks back at Earth and says that he can feel an incredible unseen love emanating from the planet. I made a note of that. Check out Stanley’s cool conga pattern. We mastered this song two different ways. Some copies of Lunapark were pressed with a backward guitar solo here, some have it forward.
+> There’s a great documentary about the Apollo trips to the moon called For All Mankind (with a soundtrack by Brian Eno). They’re up there in space and the astronauts are making little Super 8 movies and talking about their feelings and one of them looks back at Earth and says that he can feel an incredible unseen love emanating from the planet. I made a note of that. Check out Stanley’s cool conga pattern. We mastered this song two different ways. Some copies of Lunapark were pressed with a backward guitar solo here, some have it forward.
 
 So here for comparison you can listen side-by-side to both versions of I Want Everything and enjoy them.
 
