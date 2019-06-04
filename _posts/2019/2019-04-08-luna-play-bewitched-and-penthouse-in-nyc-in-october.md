@@ -28,7 +28,7 @@ longpost: false
           <span class="label label-success">Luna</span>
           <span class="label label-primary">Luna play Bewitched</span>
         </td>
-        <td><i class="fa fa-external-link"></i> <a href="https://www.eventbrite.com/e/luna-plays-bewitched-tickets-59930977166" title="get tickets for Luna playing Bewitched" target="_blank">Get tickets</a></td>
+        <td><i class="fas fa-external-link"></i> <a href="https://www.eventbrite.com/e/luna-plays-bewitched-tickets-59930977166" title="get tickets for Luna playing Bewitched" target="_blank">Get tickets</a></td>
       </tr>
       <tr>
         <th class="col-md-4">20th October 2019</th>
@@ -36,6 +36,6 @@ longpost: false
           <span class="label label-success">Luna</span>
           <span class="label label-primary">Luna play Penthouse</span>
         </td>
-        <td><i class="fa fa-external-link"></i> <a href="https://www.eventbrite.com/e/luna-plays-penthouse-tickets-59931109562" title="get tickets for Luna playing Penthouse" target="_blank">Get tickets</a></td>
+        <td><i class="fas fa-external-link"></i> <a href="https://www.eventbrite.com/e/luna-plays-penthouse-tickets-59931109562" title="get tickets for Luna playing Penthouse" target="_blank">Get tickets</a></td>
       </tr>
 </tbody></table>

@@ -3,6 +3,6 @@ $(document).ready(function() {
     $('a[href^="http://"],a[href^="https://"]')
     	.not('a:has(img)')
         .attr('target','_blank')
-        .addClass('extlink')
+        .append(' <i class="fas fa-external-link-alt"></i>')
     ;
 });

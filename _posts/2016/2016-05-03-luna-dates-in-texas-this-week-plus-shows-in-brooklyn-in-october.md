@@ -79,7 +79,7 @@ tags: [lunareunion]
 							<td class="col-md-2">
 
 
-								<span class="icon" title="poster"><i class="fa fa-map-o"></i></span>
+								<span class="icon" title="poster"><i class="fas fa-map-o"></i></span>
 
 
 
