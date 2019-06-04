@@ -31,12 +31,12 @@ Luna - Friendly Advice MTV 120 Minutes<br />
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/2005-01-17-bbc6music-luna-broken-chair.mp3">Luna - Broken Chair - BBC 6Music - 17 January 2005</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/2005-01-17-bbc6music-luna-broken-chair.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/database/luna/shows/2005/2005-01-17-luna-bbc-6-music-london-uk/">17 January 2005 - Luna - BBC 6 Music, London, UK</a></em></p>
+  <p class="source small text-right"><em>Source: <a href="/database/luna/shows/2005/2005-01-17-luna-bbc-6-music-london-uk/">17 January 2005 - Luna - BBC 6 Music, London, UK</a></em></p>
 </div>
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/tmdymm/06-sean-eden-spanish-odyssey.mp3">Sean Eden - Spanish Odyssey</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/tmdymm/06-sean-eden-spanish-odyssey.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/2013/05/10/audio-lost-tracks-tell-me-do-you-miss-me/">Tell Me Do You Miss Me</a></em></p>
+  <p class="source small text-right"><em>Source: <a href="/2013/05/10/audio-lost-tracks-tell-me-do-you-miss-me/">Tell Me Do You Miss Me</a></em></p>
 </div>
 <p>... and losing at chess and throwing some shapes in the video for Cherries in The Snow by Elk City<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TZ6B3TAVQE0" frameborder="0" allowfullscreen></iframe>

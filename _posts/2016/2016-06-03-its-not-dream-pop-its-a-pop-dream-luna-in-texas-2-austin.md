@@ -169,7 +169,7 @@ photos:
       ]
 longpost: true
 ---
-<p class="text-muted">At the beginning of May Joakim and Ulrika travelled from Stockholm to Texas and Luna - in part two Joakim, Ulrika and Mike arrive in Austin. <a href="https://www.fullofwishes.co.uk/2016/05/27/there-is-always-a-story-to-tell-luna-in-texas-1-dallas/">Part one saw them in Dallas</a> and you can see a list of all <a href="/authors/#joakim">Joakim's previous posts to A Head Full of Wishes</a>.</p>
+<p class="text-muted">At the beginning of May Joakim and Ulrika travelled from Stockholm to Texas and Luna - in part two Joakim, Ulrika and Mike arrive in Austin. <a href="/2016/05/27/there-is-always-a-story-to-tell-luna-in-texas-1-dallas/">Part one saw them in Dallas</a> and you can see a list of all <a href="/authors/#joakim">Joakim's previous posts to A Head Full of Wishes</a>.</p>
 
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/02-img-0735-outside-mohawk-before-show.jpg" alt="Luna and Britta at The Mohawk (Photo: Joakim)" /><figcaption class="caption-text">Luna and Britta at The Mohawk (Photo: Joakim)</figcaption></figure>
 <p class="lead">After an hour and half drive from Dallas to Austin Mike said, "I wonder if we’ll see the white van on the road".</p>

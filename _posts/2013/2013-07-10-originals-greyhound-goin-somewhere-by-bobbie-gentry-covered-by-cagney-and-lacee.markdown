@@ -38,4 +38,4 @@ tags: []
 <blockquote>You get enough germs to catch pneumonia<br />After you do he'll never phone ya</blockquote>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/8r3E9AkRV-8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p><a href="http://croydonmunicipal.blogspot.co.uk/2012/03/mystery-of-bobbie-gentry.html">Bob Stanley of Saint Etienne (and Caff Records!) wrote a lovely article about Bobbie Gentry a while back</a></p>
-<p><strong><a href="https://www.fullofwishes.co.uk/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>
+<p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

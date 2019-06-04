@@ -4,7 +4,7 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: "Artefacts #003: Galaxie 500 Copenhagen advance CD"
+title: "Artefacts #00: Galaxie 500 Copenhagen advance CD"
 author:
   display_name: Andy
   login: admin
@@ -26,5 +26,11 @@ flickr: true
 In [March 1997 Damon & Naomi played at the 12 Bar Club](/1997/03/19/review-damon-naomi-12-bar-club-london-uk-19th-march-1997/) on Denmark Street in London - it was the first time I'd seen Damon & Naomi since Galaxie 500 had split up, and therefore since A Head Full of Wishes had come into being (in 1994) - I got up the nerve to say "hi" to them between their two sets - "oh we're afraid of you" said Damon . Damon mentioned the upcoming Copenhagen release ("I always liked that tape"), I don't remember whether I'd already received this promo from Andrea at Rykodisc then.
 
 > Make sure you pay extra careful attention to the excellent crowd patter. Those crazy Danes!
+
+* You can [buy Copenhagen digitally from the Galaxie 500 bandcamp](https://galaxie500.bandcamp.com/album/copenhagen-live) 
+* You can [buy Copenhagen on CD from the 20\|20\|20 store](https://www.20-20-20.com/store/galaxie-500-this-is-our-music) (or your retailer of choice) doubled up with This Is Our Music 
+* You can stream Copenhagen from all the usual suspects
+
+_I thought I'd just go through some of the stuff I've acquired over the years and post about it here... how interesting the posts (and aretefacts) are will undoubtedly vary!_
 
 

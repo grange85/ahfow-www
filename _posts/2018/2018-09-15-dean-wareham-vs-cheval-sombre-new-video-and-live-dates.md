@@ -24,10 +24,10 @@ tags:
 <table class="table table-striped">
       <tbody><tr>
         <th class="col-md-4">7th December 2018</th>
-        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/dean-wareham/shows/2018/2018-12-07-dean-wareham-vs-cheval-sombre-le-poisson-rouge-new-york-ny-usa/">Le Poisson Rouge, New York, NY, USA</a></td>
+        <td class="col-md-8"><a href="/database/dean-wareham/shows/2018/2018-12-07-dean-wareham-vs-cheval-sombre-le-poisson-rouge-new-york-ny-usa/">Le Poisson Rouge, New York, NY, USA</a></td>
       </tr>
       <tr>
         <th class="col-md-4">26th January 2019</th>
-        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/dean-wareham/shows/2019/2019-01-26-dean-wareham-vs-cheval-sombre-the-chapel-san-francisco-ca-usa/">The Chapel, San Francisco, CA, USA</a></td>
+        <td class="col-md-8"><a href="/database/dean-wareham/shows/2019/2019-01-26-dean-wareham-vs-cheval-sombre-the-chapel-san-francisco-ca-usa/">The Chapel, San Francisco, CA, USA</a></td>
       </tr>
 </tbody></table>

@@ -16,7 +16,7 @@ categories:
 tags: []
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-07/2015-10-07-luna-nyc-joakim-05.jpg" alt="Champagne cork (Photo: Joakim)" /><figcaption class="caption-text">Champagne cork (Photo: Joakim)</figcaption></figure>
-<p class="lead">I wasn't supposed to tell anyone, especially not Dean. But I did. I did anyway. I told him that we had visited and taken pictures outside <a href="https://www.fullofwishes.co.uk/2007/08/28/on-the-20th-anniversary-of-galaxie-500/">248 Front Street</a> the other day, where he used to live, and where Galaxie 500 held their first concert in an apartment!</p>
+<p class="lead">I wasn't supposed to tell anyone, especially not Dean. But I did. I did anyway. I told him that we had visited and taken pictures outside <a href="/2007/08/28/on-the-20th-anniversary-of-galaxie-500/">248 Front Street</a> the other day, where he used to live, and where Galaxie 500 held their first concert in an apartment!</p>
 
 <p>I didn't know how he was going to react, Ulrika always suspected that he'd think we are utter lunatics (pardon the pun) for following them around like we do. First, five concerts in Spain, then five more in the UK and now again. And to tell Dean that we went to visit his New York apartment was going to underline that suspicion. Dean smiled, or even laughed a little when I told him. He even got an inch excited and started telling me his other New York addresses, that we just had to go to as well. "Then you also need to go to 33 Bleecker Street. And then you need to go to 110 East First Street too!" And so we did. As the lunatics we are. It felt good.</p>
 
@@ -68,6 +68,6 @@ tags: []
 
 <p>I heard the band was going to a late dinner party in a restaurant after the show, two blocks away, James started talking with a guy outside about it, of course we didn't want to go there, I once asked Sean if they where going somewhere after a show and he said "not that I know of". I will never ask a question like that again. We where having a great time at the bar next door and where so relieved and glad the night turned out so nice, that we had made it, to New York, to Bowery Ballroom. Such a perfect night.</p>
 
-<p class="text-muted">AHFoW: Stay tuned for parts two and three of Joakim's fantastic NY odyssey. If you want to write up your Luna experience for AHFoW please <a href="https://www.fullofwishes.co.uk/about/?_ga=1.51643689.146996332.1441833486">get in touch</a>.</p>
+<p class="text-muted">AHFoW: Stay tuned for parts two and three of Joakim's fantastic NY odyssey. If you want to write up your Luna experience for AHFoW please <a href="/about/?_ga=1.51643689.146996332.1441833486">get in touch</a>.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0NY_zLCLD8s" frameborder="0" allowfullscreen></iframe>

@@ -25,7 +25,7 @@ tags:
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/tmdymm/11-sean-eden-snow-drive.mp3">Sean Eden - Snow Drive</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/tmdymm/11-sean-eden-snow-drive.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/2013/05/10/audio-lost-tracks-tell-me-do-you-miss-me/">Tell Me Do You Miss Me</a></em></p>
+  <p class="source small text-right"><em>Source: <a href="/2013/05/10/audio-lost-tracks-tell-me-do-you-miss-me/">Tell Me Do You Miss Me</a></em></p>
 </div>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/7RnUV-0PHGU" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Again with the bells</figcaption></figure>
 

@@ -30,7 +30,7 @@ Live versions are available dating from as early as 1971 - such as this one from
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/Cd0ZK9Gvy6g" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>It turned up officially on the 1977 release Rock and Roll With The Modern Lovers<br />
 <iframe class="aligncenter" src="https://embed.spotify.com/?uri=spotify:track:0yUJz57e6JQbVlXzn7PvxQ" width="300" height="380" frameborder="0" allowtransparency="true"></iframe></p>
-<p>Luna's version first turned up on the <a href="https://www.fullofwishes.co.uk/database/database/discography/luna/104">Benicassim 98</a> compilation listed as "Fly Into The Sun" and then on the Italian compilation <a href="https://www.fullofwishes.co.uk/database/database/discography/luna/156">Homesleephome2</a> and later on the digital only <a href="https://www.fullofwishes.co.uk/database/database/discography/luna/206">Lunafied</a>.</p>
+<p>Luna's version first turned up on the <a href="/database/database/discography/luna/104">Benicassim 98</a> compilation listed as "Fly Into The Sun" and then on the Italian compilation <a href="/database/database/discography/luna/156">Homesleephome2</a> and later on the digital only <a href="/database/database/discography/luna/206">Lunafied</a>.</p>
 
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/02_Luna_Fly Into the Mistery.mp3">Luna - Fly Into the Mystery</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/02_Luna_Fly Into the Mistery.mp3"></audio></div>
 

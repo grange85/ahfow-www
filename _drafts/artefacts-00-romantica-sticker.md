@@ -4,7 +4,7 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: "Artefacts #001: Romantica promo stickers"
+title: "Artefacts #00: Romantica promo stickers"
 author:
   display_name: Andy
   login: admin

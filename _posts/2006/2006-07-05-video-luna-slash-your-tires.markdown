@@ -18,4 +18,4 @@ categories:
 tags: []
 ---
 <div align="center"><figure class="caption "><figcaption class="caption-text"></figcaption></figure></div>
-<p>Promo video for Slash Your Tires from Luna's first album <a href="https://www.fullofwishes.co.uk/database/database/discography/luna/24">Lunapark</a></p>
+<p>Promo video for Slash Your Tires from Luna's first album <a href="/database/database/discography/luna/24">Lunapark</a></p>

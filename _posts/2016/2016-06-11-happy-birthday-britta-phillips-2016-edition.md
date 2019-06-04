@@ -36,6 +36,6 @@ longpost: true
 
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/00-dean-and-britta-lets-ride.mp3">Dean & Britta perform 'Let's Ride' for Yo Gabba Gabba</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/00-dean-and-britta-lets-ride.mp3"></audio></div>
 
-<p>Check out <a href="https://www.fullofwishes.co.uk/2014/06/11/happy-birthday-britta-phillips-2014/">A Head Full of Wishes birthday card to Britta from 2014</a> for more goodies</p>
+<p>Check out <a href="/2014/06/11/happy-birthday-britta-phillips-2014/">A Head Full of Wishes birthday card to Britta from 2014</a> for more goodies</p>
 
 <figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26913790466/" title="This slab of pink and white finally arrived this morning, thanks @britta_phillips"><img src="https://c3.staticflickr.com/8/7374/26913790466_c635eddf16_b.jpg" width="1024" height="1024" alt="This slab of pink and white finally arrived this morning, thanks @britta_phillips"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><figcaption>Luck or Magic</figcaption></figure>

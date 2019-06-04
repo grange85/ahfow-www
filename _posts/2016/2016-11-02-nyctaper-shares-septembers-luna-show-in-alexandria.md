@@ -23,7 +23,7 @@ tags:
 <p>So now you have can listen to the show while you read Joakim's fab write-up of it.</p>
 
 <blockquote>The mood is so relaxed I can't stop smiling, and I'm feeling better than ever. My body is numb, not from the bourbon or the bottle of wine, it's the music. The atmosphere, the people, this band. "We can all go mad together."
-<footer><a href="https://www.fullofwishes.co.uk/2016/10/29/luna-in-the-usa-and-uk-1-alexandria/">I'm sitting on a big soft popcorn - Luna in The USA and the UK (1: Alexandria)</a></footer>
+<footer><a href="/2016/10/29/luna-in-the-usa-and-uk-1-alexandria/">I'm sitting on a big soft popcorn - Luna in The USA and the UK (1: Alexandria)</a></footer>
 </blockquote>
 
 

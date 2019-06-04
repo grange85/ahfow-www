@@ -22,4 +22,4 @@ tags: []
 Now's your chance to vote in the A Head Full of Wishjes survey - now into its 16th year. You get the chance to vote for your favourite albums and tracks by Galaxie 500, Luna, Damon & Naomi and Dean & Britta. Feel free to answer as much or as little of the survey as you like:</p>
 <p><strong><span class="removed_link" title="https://www.fullofwishes.co.uk/database/limesurvey/index.php?sid=58458&lang=en">Vote in the 2011 A Head Full of Wishes Survey</span></strong></p>
 <p>When you've completed the survey, <a href="mailto:andy@grange85.co.uk">drop me an email</a> and I'll pop you in a prize draw for a couple of goodies.</p>
-<p><a href="https://www.fullofwishes.co.uk/database/survey/2010/">Check out the results of last years survey (and all the ones before).</a></p>
+<p><a href="/database/survey/2010/">Check out the results of last years survey (and all the ones before).</a></p>

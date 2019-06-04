@@ -33,7 +33,7 @@ Damon & Naomi's co-conspirator for the tour was up next - <a href="https://thali
 
 Damon & Naomi played a lovely set spanning a good chunk of their career for there encore they were joined by Thalia Zedek for a cover of Leonard Cohen's Dance Me to the End of Love and an emotional take on the late Tom Rapp's Translucent Carriages. Despite efforts from the crowd to lure them back for another encore Damon explained that they didn't feel they should follow theior tribute to Tom and so spent the rest of the evening chatting with anyone who cared to and signing the beautiful tour poster they had for sale.
 
-<a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/2018/2018-02-14-damon-and-naomi-cafe-oto-london-uk/">London show details, more photos and videos</a>
+<a href="/database/damon-and-naomi/shows/2018/2018-02-14-damon-and-naomi-cafe-oto-london-uk/">London show details, more photos and videos</a>
 
 <div class="col-md-4 pull-right"><figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/40286576991/in/datetaken/" title="Damon about to chat about The New Analog"><img src="https://farm5.staticflickr.com/4607/40286576991_5f0be67409.jpg" width="500" height="500" alt="Damon about to chat about The New Analog"></a>Damon with Laura Snapes in London</figure></div>
 On Thursday I headed off after work and trained and bussed and biked my way to Shoreditch where Damon would be spending the evening chatting with journalist Laura Snapes about his book The New Analog and anything that came up in relation to that - the talk was gripping, Damon was articulate and funny and Laura helped keep the subject moving along and interesting and threw in some interetsing angles. The talk was close to two hours and never really seemed to lose momentum - the subject is so broad and affects us in so many ways it's hard not to become engrossed. Afterwards Damon hung around and chatted and signed his beautiful book that they had for sale.
@@ -44,4 +44,4 @@ Damon & Naomi seemed to appreciate the venue and the relaxed atmosphere, everyth
 
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/bf2pMNJwP1c" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Damon & Naomi - Translucent Carriages, London</figcaption></figure>
 
-<a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/2018/2018-02-18-damon-and-naomi-night-and-day-cafe-manchester-uk/">Manchester show details, more photos and videos</a>
+<a href="/database/damon-and-naomi/shows/2018/2018-02-18-damon-and-naomi-night-and-day-cafe-manchester-uk/">Manchester show details, more photos and videos</a>

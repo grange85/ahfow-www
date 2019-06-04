@@ -19,7 +19,7 @@ tags: []
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/johnmcnicholas/21716189729/in/faves-78462059@N00/" title="Luna"><img src="https://farm6.staticflickr.com/5768/21716189729_4108bc14e1_b.jpg" width="1024" height="683" alt="Luna"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <h2>2 October 2015 - Luna - Terminal West, Atlanta, GA, USA</h2>
-<p><a href="https://www.fullofwishes.co.uk/database/luna/shows/2015/2015-10-02-luna-terminal-west-atlanta-ga-usa/">Setlist, photos, videos and links on AHFoW</a></p>
+<p><a href="/database/luna/shows/2015/2015-10-02-luna-terminal-west-atlanta-ga-usa/">Setlist, photos, videos and links on AHFoW</a></p>
 
 <p><a href="https://www.flickr.com/photos/johnmcnicholas/albums/72157657064373904">John McNicholas has posted an album of gorgeous photos on Flickr</a> (including the gem at the top of the page).</p>
 
@@ -34,14 +34,14 @@ tags: []
 <p>A <a href="https://www.youtube.com/watch?t=5&v=PjEXLry9KMc">cool video of Tracy I Love You with a nice Sean bias</a></p>
 
 <h2>3 October 2015 - Luna - Terminal West, Atlanta, GA, USA</h2>
-<p><a href="https://www.fullofwishes.co.uk/database/luna/shows/2015/2015-10-03-luna-terminal-west-atlanta-ga-usa/">Setlist, photos, videos and links on AHFoW</a></p>
+<p><a href="/database/luna/shows/2015/2015-10-03-luna-terminal-west-atlanta-ga-usa/">Setlist, photos, videos and links on AHFoW</a></p>
 
 <p>Dan has posted some fantastic videos taken from in front of Sean - every one a treat - here's one but <a href="https://www.youtube.com/channel/UCqpbka2fm6q60_E4I6OANMQ">check Dan's YouTube profile for the rest</a>!</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qzFxBFco03s" frameborder="0" allowfullscreen></iframe>
 
 <h2>A solicitation</h2>
-If anyone fancies writing up their LUNA US tour experiences for this website please get in touch - I can offer you nothing but thanks in return - but it's always nice to have other voices on this blog! <a href="https://www.fullofwishes.co.uk/about/">Please get in touch if you're interested</a>!
+If anyone fancies writing up their LUNA US tour experiences for this website please get in touch - I can offer you nothing but thanks in return - but it's always nice to have other voices on this blog! <a href="/about/">Please get in touch if you're interested</a>!
 
 
 

@@ -22,4 +22,4 @@ tags:
 <p class="lead">Luna's show in Brooklyn is <a href="http://www.dimeadozen.org/torrents-details.php?id=562719">currently being seeded on sharing site Dimeadozen</a>, the show featured the debut live performance of the band's cover of The Cure's Fire in Cairo.</p>
 <p>You need to be registered to download the show.</p>
 <p><a class="btn btn-default" href="http://www.dimeadozen.org/torrents-details.php?id=562719">Download: Luna 2016-05-27 The Bell House - Brooklyn, New York</a></p>
-<p><a href="https://www.fullofwishes.co.uk/database/luna/shows/2016/2016-05-27-luna-the-bell-house-brooklyn-new-york-ny-usa/">See the show's setlist and watch some videos here</a>.</p>
+<p><a href="/database/luna/shows/2016/2016-05-27-luna-the-bell-house-brooklyn-new-york-ny-usa/">See the show's setlist and watch some videos here</a>.</p>

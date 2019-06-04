@@ -18,7 +18,7 @@ categories:
  - video
 tags: []
 ---
-<p class="lead"> If you're not <a href="https://www.fullofwishes.co.uk/database/luna/shows/">down-under where Luna are currently touring</a>, you're probably kicking your heels waiting (or crossing your fingers hoping) for Luna to come by (or come back) on their reunion tour. Here's a treat to fill the waiting and/or hoping...</p>
+<p class="lead"> If you're not <a href="/database/luna/shows/">down-under where Luna are currently touring</a>, you're probably kicking your heels waiting (or crossing your fingers hoping) for Luna to come by (or come back) on their reunion tour. Here's a treat to fill the waiting and/or hoping...</p>
 
 Youtube user [3.Cameras.and.a.Microphone](https://www.youtube.com/channel/UC8tAnV9M2FKiJF2pDbXU0hw) has recently been uploading some video masters to YouTube, as well as the previously available show from the show from [92 at the Whisky a Go Go in LA](https://www.fullofwishes.co.uk/database/luna/shows/1992/1992-11-05-luna-whiskey-a-go-go-los-angeles-ca-usa/) (which is now available in much better quality than previous uploads - in five parts [1](https://www.youtube.com/watch?v=oOzrVW5HUVI) [2](https://www.youtube.com/watch?v=wDEyJV3z2_k) [3](https://www.youtube.com/watch?v=urYEA-3jTe8) [4](https://www.youtube.com/watch?v=1Ldujrgwvlo) [5](https://www.youtube.com/watch?v=ZV65bUtHuFU)) there are two shows from consecutive nights from 1994.
 

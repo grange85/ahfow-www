@@ -39,11 +39,11 @@ tags:
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-sonic-boom-old-toy-trains.mp3">Dean & Britta and Sonic Boom - Old Toy Trains (2007 remix)</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-sonic-boom-old-toy-trains.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/database/dean-and-britta/releases/dean-and-britta-hes-coming-home/">Chimney Rocks! Records 2007</a></em></p>
+  <p class="source small text-right"><em>Source: <a href="/database/dean-and-britta/releases/dean-and-britta-hes-coming-home/">Chimney Rocks! Records 2007</a></em></p>
 </div><div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/01-dean-and-britta-hes-coming-home.mp3">Dean & Britta and Sonic Boom - He's Coming Home</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/01-dean-and-britta-hes-coming-home.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/database/dean-and-britta/releases/dean-and-britta-hes-coming-home/">Chimney Rocks! Records 2007</a></em></p>
+  <p class="source small text-right"><em>Source: <a href="/database/dean-and-britta/releases/dean-and-britta-hes-coming-home/">Chimney Rocks! Records 2007</a></em></p>
 </div>
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2013-11-dean-and-britta-old-toy-trains-xfm.mp3">Dean & Britta - Old Toy Trains (XFM, 2013)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2013-11-dean-and-britta-old-toy-trains-xfm.mp3"></audio></div>
 

@@ -22,42 +22,42 @@ longpost: false
 <table class="table table-striped">
       <tbody><tr>
         <th class="col-md-4">4th October 2019</th>
-        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/luna/shows/2019/2019-10-04-luna-union-transfer-philadelphia-pa-usa/">Union Transfer, Philadelphia, PA, USA</a><br>
+        <td class="col-md-8"><a href="/database/luna/shows/2019/2019-10-04-luna-union-transfer-philadelphia-pa-usa/">Union Transfer, Philadelphia, PA, USA</a><br>
           <span class="label label-success">Luna</span>
           <span class="label label-primary">Luna play Penthouse</span>
         </td>
       </tr>
       <tr>
         <th class="col-md-4">5th October 2019</th>
-        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/luna/shows/2019/2019-10-05-luna-930-club-washington-dc-usa/">9:30 Club, Washington DC, USA</a><br>
+        <td class="col-md-8"><a href="/database/luna/shows/2019/2019-10-05-luna-930-club-washington-dc-usa/">9:30 Club, Washington DC, USA</a><br>
           <span class="label label-success">Luna</span>
           <span class="label label-primary">Luna play Penthouse</span>
         </td>
       </tr>
       <tr>
         <th class="col-md-4">12th October 2019</th>
-        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/luna/shows/2019/2019-10-12-luna-lincoln-hall-chicago-il-usa/">Lincoln Hall, Chicago, IL, USA</a><br>
+        <td class="col-md-8"><a href="/database/luna/shows/2019/2019-10-12-luna-lincoln-hall-chicago-il-usa/">Lincoln Hall, Chicago, IL, USA</a><br>
           <span class="label label-success">Luna</span>
           <span class="label label-primary">Luna play Bewitched</span>
         </td>
       </tr>
       <tr>
         <th class="col-md-4">13th October 2019</th>
-        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/luna/shows/2019/2019-10-13-luna-lincoln-hall-chicago-il-usa/">Lincoln Hall, Chicago, IL, USA</a><br>
+        <td class="col-md-8"><a href="/database/luna/shows/2019/2019-10-13-luna-lincoln-hall-chicago-il-usa/">Lincoln Hall, Chicago, IL, USA</a><br>
           <span class="label label-success">Luna</span>
           <span class="label label-primary">Luna play Penthouse</span>
         </td>
       </tr>
       <tr>
         <th class="col-md-4">19th October 2019</th>
-        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/luna/shows/2019/2019-10-19-luna-bowery-ballroom-new-york-ny-usa/">The Bowery Ballroom, New York, NY, USA</a><br>
+        <td class="col-md-8"><a href="/database/luna/shows/2019/2019-10-19-luna-bowery-ballroom-new-york-ny-usa/">The Bowery Ballroom, New York, NY, USA</a><br>
           <span class="label label-success">Luna</span>
           <span class="label label-primary">Luna play Bewitched</span>
         </td>
       </tr>
       <tr>
         <th class="col-md-4">20th October 2019</th>
-        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/luna/shows/2019/2019-10-20-luna-bowery-ballroom-new-york-ny-usa/">The Bowery Ballroom, New York, NY, USA</a><br>
+        <td class="col-md-8"><a href="/database/luna/shows/2019/2019-10-20-luna-bowery-ballroom-new-york-ny-usa/">The Bowery Ballroom, New York, NY, USA</a><br>
           <span class="label label-success">Luna</span>
           <span class="label label-primary">Luna play Penthouse</span>
         </td>

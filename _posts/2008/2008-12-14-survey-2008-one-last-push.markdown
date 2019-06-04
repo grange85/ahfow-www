@@ -18,5 +18,5 @@ categories:
 tags: []
 ---
 <p>I'm wrapping up this year's <span class="removed_link" title="https://www.fullofwishes.co.uk/database/surveyform">A Head Full of Wishes survey</span> on Wednesday so if you haven't voted already you've not got much time. You don't have to answer all (or any) of the personal questions, you don't have to vote in every category, you don't have to leave an email address unless you want to be in the draw for some rubbish that I'll pull out of my collection of rubbish for one lucky voter.</p>
-<p>If you need inspiration or are just interested in the numbers you can <a href="https://www.fullofwishes.co.uk/database/survey/2007/">see previous surveys going back to 1995</a> on A Head Full of Wishes.</p>
+<p>If you need inspiration or are just interested in the numbers you can <a href="/database/survey/2007/">see previous surveys going back to 1995</a> on A Head Full of Wishes.</p>
 <p>Anyone who has already voted but didn't leave an email address for the draw (because I haven't mentioned it before - sorry) just <a href="mailto:andy@grange85.co.uk">email me</a>.</p>

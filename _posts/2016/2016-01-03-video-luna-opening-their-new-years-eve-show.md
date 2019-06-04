@@ -19,5 +19,5 @@ tags: []
 <p>They open with {% track "Egg Nog" %}, and follow it with {% track "California (All the Way)" %}
 
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/Bu7fwDhXogI" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - New Year's Eve 2015</figcaption></figure>
-<p>If any one has any more clips, photos... or even a full setlist, <a href="https://www.fullofwishes.co.uk/about/">please get in touch</a>.</p>
+<p>If any one has any more clips, photos... or even a full setlist, <a href="/about/">please get in touch</a>.</p>
 

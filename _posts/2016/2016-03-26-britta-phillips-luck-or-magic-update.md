@@ -37,7 +37,7 @@ tags: []
 
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/G7vyQKZP4y4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Drive - Britta Phillips (Dir: Debra Scherer)</figcaption></figure>
 
-<p class="lead">Britta has also been added as support to Luna's shows in <a href="https://www.fullofwishes.co.uk/database/luna/shows/2016/2016-05-04-luna-granada-theater-dallas-tx-usa/">Dallas</a>, <a href="https://www.fullofwishes.co.uk/database/luna/shows/2016/2016-05-05-luna-mohawk-austin-tx-usa/">Austin</a> and <a href="https://www.fullofwishes.co.uk/database/luna/shows/2016/2016-05-07-luna-numbers-houston-tx-usa/">Houston</a> in May!</p>
+<p class="lead">Britta has also been added as support to Luna's shows in <a href="/database/luna/shows/2016/2016-05-04-luna-granada-theater-dallas-tx-usa/">Dallas</a>, <a href="/database/luna/shows/2016/2016-05-05-luna-mohawk-austin-tx-usa/">Austin</a> and <a href="/database/luna/shows/2016/2016-05-07-luna-numbers-houston-tx-usa/">Houston</a> in May!</p>
 
-<p><a href="https://www.fullofwishes.co.uk/database/luna/shows/">See all Luna's upcoming shows</a>.</p>
+<p><a href="/database/luna/shows/">See all Luna's upcoming shows</a>.</p>
 

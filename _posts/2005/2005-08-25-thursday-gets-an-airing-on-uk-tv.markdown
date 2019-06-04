@@ -21,4 +21,4 @@ tags: []
 <p>Thursday, featuring the music of Luna, is getting an airing on Channel 4 in the arly hours of Saturday the 2 September.</p>
 <p>The film stars Thomas Jane, Aaron Eckhart and Paulina Porizkova - sadly no soundtrack saw the light of day so this is a chance to hear a couple of Luna rarities</p>
 <p>Set your videos for 02:20 on Saturday 2 September (that'll be Friday night according to the TV guides!)</p>
-<p><a href="http://uk.imdb.com/title/tt0124901/combined">More details on the film at IMDB</a><br /><a href="https://www.fullofwishes.co.uk/database/database/discography/luna/71">Dear Paulina</a><br /><span class="removed_link" title="http://www.fullofwishes.info/galaxie/index.php?article_id=75">An mp3 of one of those rarities</span></p>
+<p><a href="http://uk.imdb.com/title/tt0124901/combined">More details on the film at IMDB</a><br /><a href="/database/database/discography/luna/71">Dear Paulina</a><br /><span class="removed_link" title="http://www.fullofwishes.info/galaxie/index.php?article_id=75">An mp3 of one of those rarities</span></p>

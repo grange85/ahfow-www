@@ -29,18 +29,18 @@ longpost: true
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/bYgBln-6uKE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Tiger Lily - Pappy and Harriet's, Pioneertown (Jan 2018)</figcaption></figure>
 <p>Meanwhile Damon & Naomi started preparing for a European tour with Thalia Zedek by releasing a video of the three of them covering Leonard Cohen:</p>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/YM37nOEZh5k" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Damon, Naomi and Thalia Zedek - Dance Me To The End of Love</figcaption></figure>
-<p>I got <a href="https://www.fullofwishes.co.uk/2018/01/07/its-psychedelic-baby-interview-with-ahfow/">interviewed about the website</a> and being a fan, for online magazine It's Psychedlic Baby:</p>
+<p>I got <a href="/2018/01/07/its-psychedelic-baby-interview-with-ahfow/">interviewed about the website</a> and being a fan, for online magazine It's Psychedlic Baby:</p>
 <blockquote>Between Galaxie 500 splitting up in 1991 and me receiving my first email from a Galaxie 500 fan in 1994 or ’95, I thought I was the only Galaxie 500 fan in the world. My friends who’d come to the gigs with me didn’t seem to love them the way I did. Discovering that there were people who missed them as much as I did was a revelation, the Internet opened up to me doorways I could never have imagined, and the key to those doors was Galaxie 500.<footer><a href="http://www.psychedelicbabymag.com/2017/12/an-interview-with-andy-aldridge.html">It's Psychedelic Baby (Jan 2018)</a></footer></blockquote>
 <p>Luna also recorded a session for KEXP:</p>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/2gx_qoTJXGk" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna (KEXP, Jan 2018)</figcaption></figure>
 
 <h2>February</h2>
-<p>In February the great <a href="https://www.fullofwishes.co.uk/2018/02/12/tom-rapp-1947-2018/">Tom Rapp passed away</a>, my encounters with Tom were brief, spread out and mostly online - but he always treated me like a friend not a fan. Here he is with Damon & Naomi at the first Terrastock festival in 1997:</p>
+<p>In February the great <a href="/2018/02/12/tom-rapp-1947-2018/">Tom Rapp passed away</a>, my encounters with Tom were brief, spread out and mostly online - but he always treated me like a friend not a fan. Here he is with Damon & Naomi at the first Terrastock festival in 1997:</p>
 <!--more-->
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-tom-rapp-I-shall-be-released.mp3">Damon & Naomi with Tom Rapp - I Shall Be Released</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-tom-rapp-I-shall-be-released.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/1997/1997-04-26-damon-naomi-terrastock-providence-ri-usa/">26 April 1997 - Damon & Naomi - Terrastock, Providence RI, USA</a></em></p>
+  <p class="source small text-right"><em>Source: <a href="/database/damon-and-naomi/shows/1997/1997-04-26-damon-naomi-terrastock-providence-ri-usa/">26 April 1997 - Damon & Naomi - Terrastock, Providence RI, USA</a></em></p>
 </div>
 <figure class="caption aligncenter"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/40277240951/" title="Damon &amp; Naomi at Cafe OTO, London, February 2018"><img src="https://farm5.staticflickr.com/4713/40277240951_7d4efa353a_c.jpg" width="800" height="600" alt="Damon &amp; Naomi at Cafe OTO, London, February 2018"></a><figcaption class="caption-text">Damon & Naomi (London, Feb 2018)</figcaption></figure>
 <p>Damon & Naomi arrived in Europe for a pretty extensive tour with Thalia Zedek and paid tribute to Tom by playing Translucent Carriages at the shows. Here they are in Manchester (without Thalia):</p>
@@ -61,7 +61,7 @@ longpost: true
 <p>After a long, long wait the first nugget from Dean Wareham's cowboy songs LP with Cheval Sombre finally saw the light of day. The first single from the album is Dean's cover of Wayfaring Stranger:</p>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/PW2MhCZH_Ts" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Dean Warehan vs. Cheval Sombre - Wayfaring Stranger </figcaption></figure>
 
-<p>Also in August <a href="https://www.fullofwishes.co.uk/2018/08/22/video-galaxie-500-london-1990/">some Galaxie 500 live video saw the light of day</a> - most of the bands show from 1990 at the Subterania in London - my first Galaxie 500 show and still my fave all time gig!</p>
+<p>Also in August <a href="/2018/08/22/video-galaxie-500-london-1990/">some Galaxie 500 live video saw the light of day</a> - most of the bands show from 1990 at the Subterania in London - my first Galaxie 500 show and still my fave all time gig!</p>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/ozeRVpP4T0Q" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 (London , 1990)</figcaption></figure>
 
 

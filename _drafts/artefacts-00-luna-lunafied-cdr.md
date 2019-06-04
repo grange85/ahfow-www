@@ -4,7 +4,7 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: "Artefacts #004: Lunafied CDR by Luna"
+title: "Artefacts #00: Lunafied CDR by Luna"
 author:
   display_name: Andy
   login: admin

@@ -27,4 +27,4 @@ tags:
 
 <p>The 32 page booklet includes articles, photographs, art and memorabilia created by fans from around the world. It comes with a numbered, hand-printed, and hand-stamped sleeve, and will include a badge (button) and a high quality photograph of the band in either London in 1989 or Frankfurt in 1990.</p>
 
-<p><a class="btn btn-primary" href="https://www.fullofwishes.co.uk/fanzine/fanzine-order/" role="button">You can order your copy of the fanzine over here</a></p>
+<p><a class="btn btn-primary" href="/fanzine/fanzine-order/" role="button">You can order your copy of the fanzine over here</a></p>

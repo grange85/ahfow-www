@@ -31,7 +31,7 @@ longpost: true
         <tbody>
 <tr>
         <th class="col-md-4">12 October 2016</th>
-        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/luna/shows/2016/2016-10-12-petit-bain-paris-france/">Petit Bain, Paris, France</a></td>
+        <td class="col-md-8"><a href="/database/luna/shows/2016/2016-10-12-petit-bain-paris-france/">Petit Bain, Paris, France</a></td>
         </tr>
 
 </tbody></table>
@@ -44,19 +44,19 @@ longpost: true
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/03-luna-la-poupee-qui-fait-non.mp3">La poupée qui fait non - Luna</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/03-luna-la-poupee-qui-fait-non.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/database/luna/releases/luna-lunafied-luna-covers/">Lunafied</a></em></p>
+  <p class="source small text-right"><em>Source: <a href="/database/luna/releases/luna-lunafied-luna-covers/">Lunafied</a></em></p>
 </div>
 <p>And here's Dean & Britta's gorgeous French language cover of White Horses:</p>
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-white-horses-version-francaise.mp3">White Horses (version Fran&ccedil;aise)- Luna</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-white-horses-version-francaise.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/database/dean-and-britta/releases/dean-and-britta-white-horses/">Dean & Britta - White Horses - Sonic Cathedral (2007)</a></em></p>
+  <p class="source small text-right"><em>Source: <a href="/database/dean-and-britta/releases/dean-and-britta-white-horses/">Dean & Britta - White Horses - Sonic Cathedral (2007)</a></em></p>
 </div>
 <p>Next up is Luna playing Anesthesia from Luna Live - which has Dean "support[ing] the French Revolution"</p>
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/06-luna-anesthesia-luna-live.mp3">Luna - Anesthesia (Luna Live)</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/06-luna-anesthesia-luna-live.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/database/luna/releases/luna-live/">Luna - Live</a></em></p>
+  <p class="source small text-right"><em>Source: <a href="/database/luna/releases/luna-live/">Luna - Live</a></em></p>
 </div>
 <p>&hellip; and another Bonnie and Clyde, this one with Keren Ann in 2008:</p>
 <div class="well">

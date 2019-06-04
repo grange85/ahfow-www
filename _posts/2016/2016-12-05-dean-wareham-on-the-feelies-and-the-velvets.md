@@ -18,7 +18,7 @@ tags:
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/13most_nico300.jpg" alt="13 Most Beautiful" /><figcaption class="caption-text">13 Most Beautiful</figcaption></figure>
 <p class="lead">A couple of Dean Wareham interviews have just been broadcast and well worth listening to.</p>
-<p>First up Dean was interviewed on Saturday afternoon's <a href="http://www.wfmu.org/playlists/shows/69879">Todd-o-phonic Todd show on WFMU</a> - you can listen to the interview where Dean talks about the upcoming <a href="https://www.fullofwishes.co.uk/database/dean-and-britta/shows/2016/2016-12-15-dean-and-britta-the-gershman-y-philadelphia-pa-usa/">Dean & Britta / 13 Most Beautiful Show in Philadelphia</a> and also touches on the new Luna covers album that has been hinted at over the last few months.</p>
+<p>First up Dean was interviewed on Saturday afternoon's <a href="http://www.wfmu.org/playlists/shows/69879">Todd-o-phonic Todd show on WFMU</a> - you can listen to the interview where Dean talks about the upcoming <a href="/database/dean-and-britta/shows/2016/2016-12-15-dean-and-britta-the-gershman-y-philadelphia-pa-usa/">Dean & Britta / 13 Most Beautiful Show in Philadelphia</a> and also touches on the new Luna covers album that has been hinted at over the last few months.</p>
 <blockquote>
 <p>Todd: You're coming out with a new album of covers</p>
 <p>Dean: That's the plan. We've been recording in a studio here, bit by bit whenever we're all in the same town and it's kind of an easy way to get back into it.</p>

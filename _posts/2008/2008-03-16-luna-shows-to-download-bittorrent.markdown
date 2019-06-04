@@ -24,7 +24,7 @@ tags: []
 <p><ins datetime="2008-03-16T23:59:51+00:00">
 <li><a href="http://www.dimeadozen.org//torrents-details.php?id=188376">Luna - Point, Atlanta GA, USA - 16 September 1995</a> (show details on A Head Full of Wishes)</li>
 <p></ins><ins datetime="2008-03-17T10:19:16+00:00">
-<li><a href="http://www.dimeadozen.org/torrents-details.php?id=188429">Luna - Bowery Ballroom, New York NY, USA - 28 February 2005<a> (the last show - <a href="https://www.fullofwishes.co.uk/database/gigography/show/684/">details on AHFoW</a>)</li>
+<li><a href="http://www.dimeadozen.org/torrents-details.php?id=188429">Luna - Bowery Ballroom, New York NY, USA - 28 February 2005<a> (the last show - <a href="/database/gigography/show/684/">details on AHFoW</a>)</li>
 <p></ins></p>
 </ul>
 <p>You need to register with the site to be able to download these.</p>

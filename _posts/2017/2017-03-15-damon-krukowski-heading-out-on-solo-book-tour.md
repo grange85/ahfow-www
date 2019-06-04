@@ -36,70 +36,70 @@ tags:
 <table class="table table-striped">
 <tbody><tr>
 <th class="col-md-3">18 April 2017</th>
-<td class="col-md-7"><a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/2017/2017-04-18-damon-krukowski-carpenter-center-for-visual-arts-cambridge-ma-usa/">Carpenter Center for the Visual Arts, Harvard University, Cambridge, MA, USA</a>
+<td class="col-md-7"><a href="/database/damon-and-naomi/shows/2017/2017-04-18-damon-krukowski-carpenter-center-for-visual-arts-cambridge-ma-usa/">Carpenter Center for the Visual Arts, Harvard University, Cambridge, MA, USA</a>
 </td>
 <td class="col-md-2">
 </td>
 </tr>
 <tr>
 <th class="col-md-3">20 April 2017</th>
-<td class="col-md-7"><a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/2017/2017-04-20-damon-krukowski-kexp-seattle-wa-usa/">KEXP, Seattle, WA, USA</a>
+<td class="col-md-7"><a href="/database/damon-and-naomi/shows/2017/2017-04-20-damon-krukowski-kexp-seattle-wa-usa/">KEXP, Seattle, WA, USA</a>
 </td>
 <td class="col-md-2">
 </td>
 </tr>
 <tr>
 <th class="col-md-3">22 April 2017</th>
-<td class="col-md-7"><a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/2017/2017-04-22-damon-krukowski-popcon-2017-seattle-wa-usa/">PopCon 2017, The Museum of Popular Culture, Seattle, WA, USA</a>
+<td class="col-md-7"><a href="/database/damon-and-naomi/shows/2017/2017-04-22-damon-krukowski-popcon-2017-seattle-wa-usa/">PopCon 2017, The Museum of Popular Culture, Seattle, WA, USA</a>
 </td>
 <td class="col-md-2">
 </td>
 </tr>
 <tr>
 <th class="col-md-3">24 April 2017</th>
-<td class="col-md-7"><a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/2017/2017-04-24-damon-krukowski-powells-on-hawthorne-portland-or-usa/">Powell's on Hawthorne, Portland, OR, USA</a>
+<td class="col-md-7"><a href="/database/damon-and-naomi/shows/2017/2017-04-24-damon-krukowski-powells-on-hawthorne-portland-or-usa/">Powell's on Hawthorne, Portland, OR, USA</a>
 </td>
 <td class="col-md-2">
 </td>
 </tr>
 <tr>
 <th class="col-md-3">26 April 2017</th>
-<td class="col-md-7"><a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/2017/2017-04-26-damon-krukowski-city-lights-books-san-francisco-ca-usa/">City Lights Books, San Francisco, CA, USA</a>
+<td class="col-md-7"><a href="/database/damon-and-naomi/shows/2017/2017-04-26-damon-krukowski-city-lights-books-san-francisco-ca-usa/">City Lights Books, San Francisco, CA, USA</a>
 </td>
 <td class="col-md-2">
 </td>
 </tr>
 <tr>
 <th class="col-md-3">27 April 2017</th>
-<td class="col-md-7"><a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/2017/2017-04-27-damon-krukowski-point-reyes-books-point-reyes-ca-usa/">Point Reyes Books, Point Reyes, CA, USA</a>
+<td class="col-md-7"><a href="/database/damon-and-naomi/shows/2017/2017-04-27-damon-krukowski-point-reyes-books-point-reyes-ca-usa/">Point Reyes Books, Point Reyes, CA, USA</a>
 </td>
 <td class="col-md-2">
 </td>
 </tr>
 <tr>
 <th class="col-md-3">30 April 2017</th>
-<td class="col-md-7"><a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/2017/2017-04-30-damon-krukowski-book-soup-los-angeles-ca-usa/">Book Soup, Los Angeles, CA, USA</a>
+<td class="col-md-7"><a href="/database/damon-and-naomi/shows/2017/2017-04-30-damon-krukowski-book-soup-los-angeles-ca-usa/">Book Soup, Los Angeles, CA, USA</a>
 </td>
 <td class="col-md-2">
 </td>
 </tr>
 <tr>
 <th class="col-md-3">2 May 2017</th>
-<td class="col-md-7"><a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/2017/2017-05-02-damon-krukowski-quimbys-chicago-il-usa/">Quimby's, Chicago, IL, USA</a>
+<td class="col-md-7"><a href="/database/damon-and-naomi/shows/2017/2017-05-02-damon-krukowski-quimbys-chicago-il-usa/">Quimby's, Chicago, IL, USA</a>
 </td>
 <td class="col-md-2">
 </td>
 </tr>
 <tr>
 <th class="col-md-3">4 May 2017</th>
-<td class="col-md-7"><a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/2017/2017-05-04-damon-krukowski-civilian-art-projects-washington-dc-usa/">Civilian Art Projects, Washington DC, USA</a>
+<td class="col-md-7"><a href="/database/damon-and-naomi/shows/2017/2017-05-04-damon-krukowski-civilian-art-projects-washington-dc-usa/">Civilian Art Projects, Washington DC, USA</a>
 </td>
 <td class="col-md-2">
 </td>
 </tr>
 <tr>
 <th class="col-md-3">6 May 2017</th>
-<td class="col-md-7"><a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/2017/2017-05-06-damon-krukowski-rough-trade-nyc-brooklyn-ny-usa/">Rough Trade NYC, Brooklyn, NY, USA</a>
+<td class="col-md-7"><a href="/database/damon-and-naomi/shows/2017/2017-05-06-damon-krukowski-rough-trade-nyc-brooklyn-ny-usa/">Rough Trade NYC, Brooklyn, NY, USA</a>
 </td>
 <td class="col-md-2">
 </td>

@@ -19,4 +19,4 @@ categories:
 tags: []
 ---
 <p>The 2010 A Head Full of Wishes survey is up and running <span class="removed_link" title="https://www.fullofwishes.co.uk/database/surveyform/">head over to vote</span> for your favourite Galaxie 500, Luna, Damon & Naomi and Dean & Britta tracks and albums. No incentives this year so you&#39;ll be doing it for the love of the music (and the love of the data) - you can see how last year&#39;s survey went over here.<br></p>
-<p><ins datetime="2010-12-23T00:28:20+00:00">voting in the 2010 survey is now closed <a href="https://www.fullofwishes.co.uk/database/survey/2010/">see the results</a></ins></p>
+<p><ins datetime="2010-12-23T00:28:20+00:00">voting in the 2010 survey is now closed <a href="/database/survey/2010/">see the results</a></ins></p>

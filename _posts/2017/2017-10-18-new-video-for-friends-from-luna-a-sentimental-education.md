@@ -21,7 +21,7 @@ tags:
  - a sentimental education
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/friends-grabs/luna-friends-video-caps-02.jpg" alt="Luna - Friends (dir: Matthew Buzzell)" /><figcaption class="caption-text">Luna - Friends (dir: Matthew Buzzell)</figcaption></figure>
-<p class="lead">Luna's cover of The Velvet Underground's Friends (well, Doug Yule's Friends) from Luna's album of covers, A Sentimental Education, has a lovely new video directed by Matthew Buzzell (of <a href="https://www.fullofwishes.co.uk/2012/05/07/video-dean-wareham-in-psycho-babble/">Psychobabble</a> and <a href="https://www.fullofwishes.co.uk/2006/04/26/film-maker-matthew-buzzell-talks-about-tell-me-do-you-miss-me/">Tell Me Do You Miss Me</a> fame)</p>
+<p class="lead">Luna's cover of The Velvet Underground's Friends (well, Doug Yule's Friends) from Luna's album of covers, A Sentimental Education, has a lovely new video directed by Matthew Buzzell (of <a href="/2012/05/07/video-dean-wareham-in-psycho-babble/">Psychobabble</a> and <a href="/2006/04/26/film-maker-matthew-buzzell-talks-about-tell-me-do-you-miss-me/">Tell Me Do You Miss Me</a> fame)</p>
 
 <blockquote>Director Matthew Buzzell re-magines indie rock luminaries Luna as a high school band in "Friends," the second single from Luna's recently released album, "A Sentimental Education," from Double Feature Records.</blockquote>
 

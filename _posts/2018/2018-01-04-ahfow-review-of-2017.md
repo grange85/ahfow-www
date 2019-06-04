@@ -30,19 +30,19 @@ In January Luna played three consecutive nights in San Francisco playing a compl
 
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/_JJ05dEYqGs" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna (feat. Kelly Kyle) - Bewitched, San Francisco, Jan 2017</figcaption></figure>
 
-<p><a href="https://www.fullofwishes.co.uk/2017/03/19/luna-three-nights-in-san-francisco-1-bewitched/">Suddenly someone picks you up, you can fly. Luna - three nights in San Francisco (1: Bewitched)</a></p>
+<p><a href="/2017/03/19/luna-three-nights-in-san-francisco-1-bewitched/">Suddenly someone picks you up, you can fly. Luna - three nights in San Francisco (1: Bewitched)</a></p>
 
 <!--more-->
 <p>Night two was a Penthouse show, but here's Anesthesia from the encore:</p>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/oovVD3sdB2Y" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Anesthesia, San Francisco, Jan 2017</figcaption></figure>
-<p><a href="https://www.fullofwishes.co.uk/2017/02/19/luna-three-nights-in-san-francisco-2-penthouse/">Sometimes you need that kick. Luna - three nights in San Francisco (2: Penthouse)</a></p>
+<p><a href="/2017/02/19/luna-three-nights-in-san-francisco-2-penthouse/">Sometimes you need that kick. Luna - three nights in San Francisco (2: Penthouse)</a></p>
 
 <p>&hellip; and Rendezvous for night three:</p>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/otweTtca1Bo" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Buffalo Boots, San Francisco, Jan 2017</figcaption></figure>
-<p><a href="https://www.fullofwishes.co.uk/2017/02/03/luna-three-nights-in-san-francisco-3-rendezvous/">It swivels and swirls in your head. Luna - three nights in San Francisco (3: Rendezvous)</a></p>
+<p><a href="/2017/02/03/luna-three-nights-in-san-francisco-3-rendezvous/">It swivels and swirls in your head. Luna - three nights in San Francisco (3: Rendezvous)</a></p>
 
 <h3>February</h3>
-<p>For the 25th anniversary of Luna's first London show in 1992 <a href="https://www.fullofwishes.co.uk/2017/02/27/download-luna-in-london-25-years-ago/">I posted some memories</a> and <a href="http://www.dimeadozen.org/torrents-details.php?id=585083">BlueKoyote posted the full show to DIME</a>.</p>
+<p>For the 25th anniversary of Luna's first London show in 1992 <a href="/2017/02/27/download-luna-in-london-25-years-ago/">I posted some memories</a> and <a href="http://www.dimeadozen.org/torrents-details.php?id=585083">BlueKoyote posted the full show to DIME</a>.</p>
 
 <p>13 Most Beautiful was released on <a href="https://ww-records.com/store.html#!/products/dean-britta">three sides of vinyl by Wouldn't Waste Records</a></p>
 
@@ -108,5 +108,5 @@ In January Luna played three consecutive nights in San Francisco playing a compl
 <p>And the year ended quietly.</p>
 
 <h3>2018</h3>
-<p>And so to 2018 which starts with <a href="https://www.fullofwishes.co.uk/database/luna/shows/">Luna playing more gigs</a> around the US and <a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/">Damon & Naomi touring Europe</a> - and hopefully lots more to enjoy.</p>
+<p>And so to 2018 which starts with <a href="/database/luna/shows/">Luna playing more gigs</a> around the US and <a href="/database/damon-and-naomi/shows/">Damon & Naomi touring Europe</a> - and hopefully lots more to enjoy.</p>
 

@@ -39,7 +39,7 @@ tags:
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/luna-happynewyear.mp3">Luna - Happy New Year</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/luna-happynewyear.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/database/luna/releases/luna-hedgehog-23-minutes-in-brussels/">Luna - Hedgehog / 23 Minutes in Brussels</a></em></p>
+  <p class="source small text-right"><em>Source: <a href="/database/luna/releases/luna-hedgehog-23-minutes-in-brussels/">Luna - Hedgehog / 23 Minutes in Brussels</a></em></p>
 </div>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/nai_collection/11495225345/" title="Happy New Year!"><img src="https://farm4.staticflickr.com/3774/11495225345_825f69f76a_c.jpg" width="800" height="522" alt="Happy New Year!"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

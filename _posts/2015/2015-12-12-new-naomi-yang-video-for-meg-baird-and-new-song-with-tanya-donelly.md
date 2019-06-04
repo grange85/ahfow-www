@@ -19,7 +19,7 @@ tags: []
 <p class="lead">Naomi Yang has directed and photographed the official video for the track "Don't Weight Down the Light" by Meg Baird.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3KL88DC9WwI" frameborder="0" allowfullscreen></iframe>
 <p>The song is the title track of the former Espers singer's <a href="http://www.dragcity.com/products/don-t-weigh-down-the-light">third solo album released last summer on Drag City</a>.</p>
-<p>Naomi <a href="https://www.fullofwishes.co.uk/2011/11/07/extracurricular-naomi-yang-video-maker/">previously made the video for The Finder from Meg's second album</a>.</p>
+<p>Naomi <a href="/2011/11/07/extracurricular-naomi-yang-video-maker/">previously made the video for The Finder from Meg's second album</a>.</p>
 
 <p class="lead">In other Damon & Naomi news the duo have a track co-written with Tanya Donelly - the track, Storm Blown Bird, will be available as one of the bonus tracks on the CD release of <a href="http://alr-music.com/tanyadonelly/">Tanya's Swan Song series coming out next year on American Laundromat Records</a>.</p>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/235746031&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"></iframe>

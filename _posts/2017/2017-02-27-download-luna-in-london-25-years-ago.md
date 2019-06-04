@@ -49,7 +49,7 @@ tags:
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/1992-02-27_Luna_Temperatures-Rising.mp3">Luna - Temperature's Rising - Underworld, London. 1992</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/1992-02-27_Luna_Temperatures-Rising.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/database/luna/shows/1992/1992-02-27-luna-underworld-london-uk/">27 February 1992 - Luna - Underworld, London, UK</a></em></p>
+  <p class="source small text-right"><em>Source: <a href="/database/luna/shows/1992/1992-02-27-luna-underworld-london-uk/">27 February 1992 - Luna - Underworld, London, UK</a></em></p>
 </div>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/32980722082/in/dateposted/" title="LUNA - UNDERWORLD FEB &#x27;92"><img src="https://c1.staticflickr.com/1/614/32980722082_1f5057762a_c.jpg" width="677" height="800" alt="LUNA - UNDERWORLD FEB &#x27;92"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

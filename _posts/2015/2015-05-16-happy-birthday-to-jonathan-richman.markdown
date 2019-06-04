@@ -33,7 +33,7 @@ tags: []
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/jasonpersse/7415234934" title="Dean & Britta"><img src="https://c7.staticflickr.com/9/8009/7415234934_d3f692ec0e_o.jpg" width="1024" height="694" alt="Dean & Britta"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<p><a href="https://www.fullofwishes.co.uk/2013/02/20/originals-back-in-your-life-by-jonathan-richman-covered-by-galaxie-500/">Originals: Back in Your Life by Jonathan Richman (covered by Galaxie 500)</a><br />
-<a href="https://www.fullofwishes.co.uk/2013/06/19/originals-fly-into-the-mystery-by-jonathan-richman-the-modern-lovers-covered-by-luna/">Originals: Fly Into the Mystery by Jonathan Richman & The Modern Lovers (covered by Luna)</a><br />
-<a href="https://www.fullofwishes.co.uk/2013/05/15/originals-dont-let-our-youth-go-to-waste-by-jonathan-richman-covered-by-galaxie-500/">Originals: Don’t Let Our Youth Go to Waste by Jonathan Richman (covered by Galaxie 500)</a><br />
-<a href="https://www.fullofwishes.co.uk/2013/04/24/originals-dance-with-me-by-the-modern-lovers-covered-by-luna/">Originals: Dance With Me by The Modern Lovers (covered by Luna)</a></p>
+<p><a href="/2013/02/20/originals-back-in-your-life-by-jonathan-richman-covered-by-galaxie-500/">Originals: Back in Your Life by Jonathan Richman (covered by Galaxie 500)</a><br />
+<a href="/2013/06/19/originals-fly-into-the-mystery-by-jonathan-richman-the-modern-lovers-covered-by-luna/">Originals: Fly Into the Mystery by Jonathan Richman & The Modern Lovers (covered by Luna)</a><br />
+<a href="/2013/05/15/originals-dont-let-our-youth-go-to-waste-by-jonathan-richman-covered-by-galaxie-500/">Originals: Don’t Let Our Youth Go to Waste by Jonathan Richman (covered by Galaxie 500)</a><br />
+<a href="/2013/04/24/originals-dance-with-me-by-the-modern-lovers-covered-by-luna/">Originals: Dance With Me by The Modern Lovers (covered by Luna)</a></p>

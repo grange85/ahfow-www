@@ -20,12 +20,12 @@ tags: []
 ---
 <div class="alignright"><img alt="" src="https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_onfire.jpg" title="On Fire - Galaxie 500"  width="150" height="150" /><img alt="" src="https://media.fullofwishes.co.uk/02-luna/sleeves/luna_penthouse.jpg" title="Penthouse - Luna" width="150" height="150" /><br/><img alt="" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_moresadhits.jpg" title="More Sad Hits - Damon & Naomi" width="150" height="150" /><img alt="" src="https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_lavventura.jpg" title="LAvventura by Dean & Britta" width="150" height="150" /></div>
 <p>Another A Head Full of Wishes survey comes to an end, and comes to an end with precious few surprises. It looked for a while as if an upset was on the cards for favourite Luna track but a flurry of last minute votes restored the status quo.</p>
-<p>So here are some highlights, <a href="https://www.fullofwishes.co.uk/database/survey/2009/">head over to the results page</a> to see the full details.</p>
-<p><strong><a href="https://www.fullofwishes.co.uk/database/survey/2009/">General</a></strong></p>
+<p>So here are some highlights, <a href="/database/survey/2009/">head over to the results page</a> to see the full details.</p>
+<p><strong><a href="/database/survey/2009/">General</a></strong></p>
 <p>More than 100 responses for the first time since 2006. There's been one voter from the Lebanon in all but one survey since 2002</p>
 <p><strong><span class="removed_link" title="https://www.fullofwishes.co.uk/database/survey/2009/galaxie_500/">Galaxie 500</span></strong></p>
 <p>On Fire topped the favourite album poll with almost half of all votes cast. Fourth of July just beat Tugboat for favourite track.</p>
-<p><strong><a href="https://www.fullofwishes.co.uk/database/survey/2009/luna/">Luna</a></strong></p>
+<p><strong><a href="/database/survey/2009/luna/">Luna</a></strong></p>
 <p>Until the last week of the survey California (All the Way) was topping the poll but a strong finish saw 23 Minutes in Brussels retain the top spot it's held in every survey since 1998. Penthouse was comfortable album winner as usual.</p>
 <p><strong><span class="removed_link" title="https://www.fullofwishes.co.uk/database/survey/2009/damon_and_naomi/">Damon & Naomi</span></strong></p>
 <p>More Sad Hits always runs away with the favourite Damon & Naomi album and This Car Climbed Mt. Washington does the same for favourite track.</p>

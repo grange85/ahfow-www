@@ -21,11 +21,11 @@ tags: []
 <p>After a rather tiring and unsatisfying traipse around East London (we'll return soon with a better plan - there's so much to see and yet we managed to see almost nothing). We got to Rough Trade East in plenty of time, picked up our wristbands said "hi" to Damon & Naomi and introduced them to Adam (because that's what proud parents do when they get the chance) and then idled away until show time. Not getting a coffee because the Rough Trade espresso bar decided to close before the gig,  and the thought of negotiating the hordes in/around Brick Lane was just too much for us to contemplate.</p>
 <p>Damon & Naomi & Alasdair (MacLean of The Clientele) took the stage for their short set while a crowd of 40 or so watched on. The setlist was...</p>
 <ul>
-<li><a href="https://www.fullofwishes.co.uk/database/track/291/">Ueno Station</a></li>
-<li><a href="https://www.fullofwishes.co.uk/database/track/226/">Song To The Siren</a></li>
-<li><a href="https://www.fullofwishes.co.uk/database/track/292/">The Robot Speaks</a></li>
-<li><a href="https://www.fullofwishes.co.uk/database/track/151/">Turn Of The Century</a></li>
-<li><a href="https://www.fullofwishes.co.uk/database/track/335/">Cruel Queen</a></li>
+<li><a href="/database/track/291/">Ueno Station</a></li>
+<li><a href="/database/track/226/">Song To The Siren</a></li>
+<li><a href="/database/track/292/">The Robot Speaks</a></li>
+<li><a href="/database/track/151/">Turn Of The Century</a></li>
+<li><a href="/database/track/335/">Cruel Queen</a></li>
 </ul>
 <p><a href="/2008/10/07/damon-and-naomi-and-alasdair-in-london/">Damon's damaged finger</a> prevented them from playing any songs from the album they were plugging (More Sad Hits) but a good selection of tracks and it was a treat to hear Cruel Queen as I was a bit disappointed they didn't play it <a href="/2007/11/26/review-damon-naomi-in-london/">last time they were in town</a>. Over far too quickly, we chatted with Naomi, she quizzed Adam on whether he'd enjoyed the show ("it was alright") and then we made our way home. As we hung around after the show a flyer was popped into my hand telling me that they'd be back in town on January 9th at The Luminaire (!) which seemed to be a surprise to Naomi when I showed it to her.</p>
 <p><a href="http://www.flickr.com/photos/grange85/sets/72157607968442242/">More pictures on Flickr</a></p>

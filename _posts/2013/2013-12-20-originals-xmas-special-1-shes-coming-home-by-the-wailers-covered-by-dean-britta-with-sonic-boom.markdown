@@ -31,4 +31,4 @@ tags: []
 
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/qpSWrmIz-a8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Fill yourself with some Christmas Spirit</figcaption></figure>
 
-<p><strong><a href="https://www.fullofwishes.co.uk/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>
+<p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

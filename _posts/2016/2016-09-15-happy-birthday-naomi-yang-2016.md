@@ -27,7 +27,7 @@ Here's Damon & Naomi's gorgeous cover of Pearls Before Swine's Translucent Carri
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-translucent-carriages.mp3">Damon & Naomi - Translucent Carriages</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-translucent-carriages.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/2014/07/16/originals-translucent-carriages-pearls-swine-covered-damon-naomi/">Originals: Translucent Carriages</a></em></p>
+  <p class="source small text-right"><em>Source: <a href="/2014/07/16/originals-translucent-carriages-pearls-swine-covered-damon-naomi/">Originals: Translucent Carriages</a></em></p>
 </div>
 Damon & Naomi are currently touring in China which means I'm rattling this post off while it's still Naomi's birthday where she is!
 

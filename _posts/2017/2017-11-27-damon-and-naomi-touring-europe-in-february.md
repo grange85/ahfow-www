@@ -26,26 +26,26 @@ tags:
       <tbody>
       <tr>
         <th class="col-md-4">14 February 2018</th>
-        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/2018/2018-02-14-damon-and-naomi-cafe-oto-london-uk/">Cafe OTO, London, UK</a></td>
+        <td class="col-md-8"><a href="/database/damon-and-naomi/shows/2018/2018-02-14-damon-and-naomi-cafe-oto-london-uk/">Cafe OTO, London, UK</a></td>
       </tr>
 <tr>
         <th class="col-md-4">16 February 2018</th>
-        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/2018/2018-02-16-damon-and-naomi-henrys-cellar-bar-edinburgh-uk/">Henry's Cellar Bar, Edinburgh, UK</a></td>
+        <td class="col-md-8"><a href="/database/damon-and-naomi/shows/2018/2018-02-16-damon-and-naomi-henrys-cellar-bar-edinburgh-uk/">Henry's Cellar Bar, Edinburgh, UK</a></td>
       </tr>
       <tr>
         <th class="col-md-4">17 February 2018</th>
-        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/2018/2018-02-17-damon-and-naomi-the-old-hairdressers-glasgow-uk/">The Old Hairdressers, Glasgow, UK</a></td>
+        <td class="col-md-8"><a href="/database/damon-and-naomi/shows/2018/2018-02-17-damon-and-naomi-the-old-hairdressers-glasgow-uk/">The Old Hairdressers, Glasgow, UK</a></td>
       </tr>
       <tr>
         <th class="col-md-4">18 February 2018</th>
-        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/2018/2017-02-18-damon-and-naomi-night-and-day-cafe-manchester-uk/">Night and Day Cafe, Manchester, UK</a></td>
+        <td class="col-md-8"><a href="/database/damon-and-naomi/shows/2018/2017-02-18-damon-and-naomi-night-and-day-cafe-manchester-uk/">Night and Day Cafe, Manchester, UK</a></td>
       </tr>      <tr>
         <th class="col-md-4">23 February 2018</th>
-        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/2018/2018-02-23-damon-and-naomi-freakout-bologna-italy/">Freakout, Bologna, Italy</a></td>
+        <td class="col-md-8"><a href="/database/damon-and-naomi/shows/2018/2018-02-23-damon-and-naomi-freakout-bologna-italy/">Freakout, Bologna, Italy</a></td>
       </tr>
       <tr>
         <th class="col-md-4">24 February 2018</th>
-        <td class="col-md-8"><a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/2018/2018-02-24-damon-and-naomi-spazio-milan-italy/">Spazio, Milan, Italy</a></td>
+        <td class="col-md-8"><a href="/database/damon-and-naomi/shows/2018/2018-02-24-damon-and-naomi-spazio-milan-italy/">Spazio, Milan, Italy</a></td>
       </tr>
 </tbody></table>
 

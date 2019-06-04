@@ -80,7 +80,7 @@ tags: []
 
 <p>The two were standing in opposite corners in the small room moving their legs while I was all over the floor. It was very fun. Finally she joined in too. And the Spanish girl was fun to dance with, she asked me later if I had taken swing dancing classes. I thought she was joking. We got back to the hotel room around four or five in the morning. I had a cup of coffee and some chocolate from the vending machine down the hall and I uploaded the videos.</p>
 
-<p class="text-muted">AHFoW: You can <a href="/2015/10/22/a-beautiful-light-fills-the-room-luna-in-ny-and-brooklyn-part-one/">read part one of Joakim's NY odyssey</a>. Stick around for part three. If you want to write up your Luna experience for AHFoW please <a href="https://www.fullofwishes.co.uk/about/">get in touch</a>.</p>
+<p class="text-muted">AHFoW: You can <a href="/2015/10/22/a-beautiful-light-fills-the-room-luna-in-ny-and-brooklyn-part-one/">read part one of Joakim's NY odyssey</a>. Stick around for part three. If you want to write up your Luna experience for AHFoW please <a href="/about/">get in touch</a>.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/khmtt4DNfdg" frameborder="0" allowfullscreen></iframe>
 

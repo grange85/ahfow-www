@@ -4,7 +4,7 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: "Artefacts #002: Damon & Naomi tenugui"
+title: "Artefacts #00: Damon & Naomi tenugui"
 author:
   display_name: Andy
   login: admin

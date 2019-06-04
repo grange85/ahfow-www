@@ -19,7 +19,7 @@ categories:
 tags: []
 ---
 <div class="alignright"><img alt="" src="https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_onfire.jpg" title="On Fire - Galaxie 500"  width="150" height="150" /><img alt="" src="https://media.fullofwishes.co.uk/02-luna/sleeves/luna_penthouse.jpg" title="Penthouse - Luna" width="150" height="150" /><br/><img alt="" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_moresadhits.jpg" title="More Sad Hits - Damon & Naomi" width="150" height="150" /><img alt="" src="https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_lavventura.jpg" title="LAvventura by Dean & Britta" width="150" height="150" /></div>
-<p>The 2010 survey has now been wrapped up. Thanks to everyone who voted despite there not being a prize draw this year. <a href="https://www.fullofwishes.co.uk/database/survey/2010/">The headlines are as follows</a>...</p>
+<p>The 2010 survey has now been wrapped up. Thanks to everyone who voted despite there not being a prize draw this year. <a href="/database/survey/2010/">The headlines are as follows</a>...</p>
 <ul>
 <li>80 responses (103 in 2009)</li>
 <li>Voters from 15 different countries</li>
@@ -30,7 +30,7 @@ tags: []
 <li>Favourite album is On Fire, as it has been in all but one survey since we started in 1995</li>
 <li>Favourite track is Fourth of July which just pipped Tugboat by one vote</li>
 </ul>
-<p><strong><a href="https://www.fullofwishes.co.uk/database/survey/2010/luna">Luna</a></strong></p>
+<p><strong><a href="/database/survey/2010/luna">Luna</a></strong></p>
 <ul>
 <li>Favourite album is Penthouse although it's position is not as secure as it has been in the past</li>
 <li>Favourite track is 23 minutes in Brussels... nothing comes close</li>
