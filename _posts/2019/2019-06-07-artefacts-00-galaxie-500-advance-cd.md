@@ -31,6 +31,6 @@ In [March 1997 Damon & Naomi played at the 12 Bar Club](/1997/03/19/review-damon
 * You can [buy Copenhagen on CD from the 20\|20\|20 store](https://www.20-20-20.com/store/galaxie-500-this-is-our-music) (or your retailer of choice) doubled up with This Is Our Music 
 * You can stream Copenhagen from all the usual suspects
 
-_I thought I'd just go through some of the stuff I've acquired over the years and post about it here... how interesting the posts (and aretefacts) are will undoubtedly vary!_
+_I thought I'd just go through some of the stuff I've acquired over the years and post about it here... how interesting the posts (and artefacts) are will undoubtedly vary!_
 
 
