@@ -4,13 +4,13 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: "Artefacts #00: Galaxie 500 Copenhagen advance CD"
+title: "Artefacts #001: Galaxie 500 Copenhagen advance CD"
 author:
   display_name: Andy
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-date: 2019-06-02
+date: 2019-06-07
 imageurl: 
 categories:
  - artefacts
