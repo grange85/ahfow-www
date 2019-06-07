@@ -4,20 +4,20 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: "Artefacts #00: Lunafied CDR by Luna"
+title: "Artefacts #002: Lunafied CDR by Luna"
 author:
   display_name: Andy
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-date: 2019-06-02
+date: 2019-06-14
 imageurl: 
 categories:
  - artefacts
  - luna
  - dean wareham
 tags:
- - lunafies
+ - lunafied
 flickr: true
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/47996349402/in/dateposted/" title="Luan - Lunafied CDR (2006)"><img src="https://live.staticflickr.com/65535/47996349402_92604f627f_c.jpg" width="800" height="800" alt="Luan - Lunafied CDR (2006)"></a>

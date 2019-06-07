@@ -85,6 +85,16 @@
         "Protocol": "https",
         "ReplaceKeyPrefixWith": "database/dean-and-britta"
       }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "2019/06/07/artefacts-00-galaxie-500-advance-cd"
+      },
+      "Redirect": {
+        "HostName": "www.fullofwishes.co.uk",
+        "Protocol": "https",
+        "ReplaceKeyPrefixWith": "2019/06/07/artefacts-001-galaxie-500-advance-cd"
+      }
     }
   ]
 }
