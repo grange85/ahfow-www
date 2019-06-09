@@ -38,3 +38,5 @@ A different Lunafied did get a CD release as the second disc on the [Beggars Ban
 It was a long time coming but 13 years on a fantastic double LP of Lunafied arrived via Run Out Groove Records. It had all the tracks from both the US (digital) and the UK (Best of Luna) Lunafieds - and it had a gorgeous, glossy 12" sleeve with  Abelardo Morell's artwork.
 
 [Dean's shop has a few copies of the lovely double LP Lunafied for sale](https://deanwareham.com/product/293305) - grab one while you can!
+
+_I thought I'd just go through some of the stuff I've acquired over the years and post about it here... how interesting the posts (and artefacts) are will undoubtedly vary!_
