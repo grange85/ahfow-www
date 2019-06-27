@@ -4,14 +4,14 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: "Artefacts #00: Romantica promo stickers"
+title: "Artefacts #004: Romantica promo stickers"
 author:
   display_name: Andy
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-date: 2019-06-02
-imageurl: 
+date: 2019-06-28
+imageurl: https://live.staticflickr.com/65535/47984559351_6c902bc730_c.jpg
 categories:
  - artefacts
  - luna
