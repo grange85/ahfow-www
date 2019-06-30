@@ -26,5 +26,7 @@ When Luna released Romantica Dean sent me a promo CD and a bunch of these sticke
 
 One did find it's way onto one of my record boxes but I still have three (including Adam's) filed away.
 
+---
+
 _I thought I'd just go through some of the stuff I've acquired over the years and post about it here... how interesting the posts (and artefacts) are will undoubtedly vary!_
 

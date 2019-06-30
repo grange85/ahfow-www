@@ -31,12 +31,14 @@ This was, I'm fairly certain, the first fan letter I'd written to anyone. I had 
 
 The response I got was this lovely, and very real, letter from Naomi where she touches on the PT interview, and the first Terrastock festival.
 
-There's more below the envelope but... I need some secrets. 
+There's more beneath the envelope but... I need some secrets. 
 
 The last line read:
 
 > Congratulations on your new baby
 
 That new baby graduated from university last month.
+
+---
 
 _I thought I'd just go through some of the stuff I've acquired over the years and post about it here... how interesting the posts (and artefacts) are will undoubtedly vary!_

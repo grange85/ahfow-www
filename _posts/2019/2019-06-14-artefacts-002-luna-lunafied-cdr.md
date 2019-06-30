@@ -39,4 +39,6 @@ It was a long time coming but 13 years on a fantastic double LP of Lunafied arri
 
 [Dean's shop has a few copies of the lovely double LP Lunafied for sale](https://deanwareham.com/product/293305) - grab one while you can!
 
+---
+
 _I thought I'd just go through some of the stuff I've acquired over the years and post about it here... how interesting the posts (and artefacts) are will undoubtedly vary!_

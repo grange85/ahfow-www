@@ -30,4 +30,6 @@ You can [_buy_ the album for whatever you feel like paying](https://damonandnaom
 
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/XLHm7jRgTEA" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">While My Guitar Gently Weeps - Damon & Naomi</figcaption></figure>
 
+---
+
 _I thought I'd just go through some of the stuff I've acquired over the years and post about it here... how interesting the posts (and artefacts) are will undoubtedly vary!_
