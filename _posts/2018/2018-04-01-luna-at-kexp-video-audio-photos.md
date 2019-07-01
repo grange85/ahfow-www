@@ -25,7 +25,7 @@ tags:
 flickr: true
 longpost: false
 ---
-<figure class="caption aligncenter"><img src="/pictures/2018-01-23-luna-kexp-01.jpg" alt="Dean at KEXP" /><figcaption class="caption-text">Dean at KEXP</figcaption></figure>
+<figure class="caption aligncenter"><img src="/images/2018-01-23-luna-kexp-01.jpg" alt="Dean at KEXP" /><figcaption class="caption-text">Dean at KEXP</figcaption></figure>
 
 
 <p class="lead">Back in January Luna headed to KEXP in Seattle - the video has finally made it onto YouTube and the audio appeared in the KEXP live perfomances podcast&hellip;</p>
@@ -43,8 +43,8 @@ longpost: false
   <p class="source small text-right"><em>Source: <a href="https://kexp.org/podcasts/live-performances/2018/3/21/luna/">KEXP live performances podcast</a></em></p>
 </div>
 
-<figure class="caption aligncenter"><img src="/pictures/2018-01-23-luna-kexp-02.jpg" alt="Sean at KEXP" /><figcaption class="caption-text">Sean at KEXP</figcaption></figure>
-<figure class="caption aligncenter"><img src="/pictures/2018-01-23-luna-kexp-03.jpg" alt="Britta at KEXP" /><figcaption class="caption-text">Britta at KEXP</figcaption></figure>
-<figure class="caption aligncenter"><img src="/pictures/2018-01-23-luna-kexp-04.jpg" alt="Lee at KEXP" /><figcaption class="caption-text">Lee at KEXP</figcaption></figure>
+<figure class="caption aligncenter"><img src="/images/2018-01-23-luna-kexp-02.jpg" alt="Sean at KEXP" /><figcaption class="caption-text">Sean at KEXP</figcaption></figure>
+<figure class="caption aligncenter"><img src="/images/2018-01-23-luna-kexp-03.jpg" alt="Britta at KEXP" /><figcaption class="caption-text">Britta at KEXP</figcaption></figure>
+<figure class="caption aligncenter"><img src="/images/2018-01-23-luna-kexp-04.jpg" alt="Lee at KEXP" /><figcaption class="caption-text">Lee at KEXP</figcaption></figure>
 
 

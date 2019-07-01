@@ -21,7 +21,7 @@ tags:
 flickr: true
 longpost: false
 ---
-<figure class="caption aligncenter"><img src="/pictures/2018-04-06-galaxie-500-merch.jpg" alt="Galaxie 500 merchandise" /><figcaption class="caption-text">Galaxie 500 merchandise</figcaption></figure>
+<figure class="caption aligncenter"><img src="/images/2018-04-06-galaxie-500-merch.jpg" alt="Galaxie 500 merchandise" /><figcaption class="caption-text">Galaxie 500 merchandise</figcaption></figure>
 
 <p class="lead">Just added to <a href="https://www.20-20-20.com/store/">Damon & Naomi's online store</a> are some gems including a couple of very rare Galaxie 500 singles - but you'd better be quick because there aren't many!</p>
 

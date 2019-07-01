@@ -23,7 +23,7 @@ tags:
 flickr: false
 longpost: false
 ---
-<figure class="caption aligncenter"><img src="/pictures/2018-04-05-luna-granadatheater-instagram.jpg" alt="Luna takeover the @granadatheatre Instagram" /><figcaption class="caption-text">Luna takeover the @granadatheatre Instagram</figcaption></figure>
+<figure class="caption aligncenter"><img src="/images/2018-04-05-luna-granadatheater-instagram.jpg" alt="Luna takeover the @granadatheatre Instagram" /><figcaption class="caption-text">Luna takeover the @granadatheatre Instagram</figcaption></figure>
 
 <p class="lead">On Friday Luna are back on stage again for the <a href="/database/luna/shows/">first of four dates</a> in bits of the US that missed out during January. They'll be playing at The Granada Theater in Dallas and the band arrived a day early and are <a href="https://www.instagram.com/granadatheater/">Instagramming their rehearsals on the @granadatheater account</a>.</p>
 
