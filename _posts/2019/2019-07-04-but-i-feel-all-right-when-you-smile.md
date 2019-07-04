@@ -24,7 +24,7 @@ flickr: true
 
 <em>The dining table is a mess. ANDY, HAZEL and ADAM 
 are sitting down to eat their porridge.
-One cats is milling around, another is sitting on the table. 
+One cat is milling around, another is sitting on the table. 
 The radio is playing faintly in the kitchen.</em>
 
 <center>
@@ -36,17 +36,21 @@ Wait! Is that Galaxie 500 on the radio?
 ANDY
 No. Shhh. It is, it's Galaxie 500. On the radio!
 </center>
-<em>turns up radio and looks out of the window</em>
+<em>Andy looks out of the window</em>
 <center>
 ANDY
 B-b-b-but, it's not snowing, why are Galaxie 500 on the radio? 
 </center>
+<em>Adam walks into the kitchen and turns up radio</em>
 <center>
-ADAM 
-You're supposed to be a fan and you haven't worked out what day it is?
-</center> 
-<em>Andy reddens and takes a mouthful of porridge. 
-Hazel and Adam roll their eyes and get on with breakfast</em>
+ANDY
+Ohhh!
+<em>(reddens with embarrassment)</em>
+</center>
+<em>Hazel and Adam roll their eyes and get on with breakfast</em>
+
+<em>Long, awkward pause</em>
+
 <center>
 HAZEL
 Shouldn't you be going to work?
