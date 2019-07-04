@@ -24,7 +24,7 @@ flickr: true
 
 Sneaking an extra _artefact_ in this week as today is the 10th anniversary of the first UK performance of Dean & Britta's splendid _13 Most Beautiful: Songs for Andy Warhol's Screen Test_ that happened at the Carnegie Hall in Dunfermline, Scotland.
 
-So, today's artefact are our tickets from the fantastic show. You can [read my gushings from ten years ago here](/2009/07/09/13-most-beautiful-at-the-carnegie-hall-in-dunfermline/)
+So, today's artefact are our tickets from the fantastic show. You can [read my gushings from ten years ago here](/2009/07/09/13-most-beautiful-at-the-carnegie-hall-in-dunfermline/).
 
 There's some very low-res video of some of the show on youtube - but the audio's tolerable so nice to listen to, so I've converted them to mp3:
 
@@ -41,4 +41,7 @@ There's some very low-res video of some of the show on youtube - but the audio's
   <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/database/dean-and-britta/shows/2009/2009-07-08-dean-britta-carnegie-hall-dunfermline-uk/">8th July 2009 - Dean & Britta - Carnegie Hall, Dunfermline, UK</a></em></p>
 </div>
 
+---
+
+_I thought I'd just go through some of the stuff I've acquired over the years and post about it here... how interesting the posts (and artefacts) are will undoubtedly vary!_
 
