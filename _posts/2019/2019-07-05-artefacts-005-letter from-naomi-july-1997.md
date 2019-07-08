@@ -41,4 +41,4 @@ That new baby graduated from university last month.
 
 ---
 
-_I thought I'd just go through some of the stuff I've acquired over the years and post about it here... how interesting the posts (and artefacts) are will undoubtedly vary!_
+_I thought I'd just go through [some of the stuff I've acquired over the years](/category/artefacts/) and post about it here... how interesting the posts (and artefacts) are will undoubtedly vary!_

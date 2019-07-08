@@ -33,5 +33,5 @@ You can [download the recording over here in both mp3 and flac formats](https://
 
 ---
 
-_I thought I'd just go through some of the stuff I've acquired over the years and post about it here... how interesting the posts (and artefacts) are will undoubtedly vary!_
+_I thought I'd just go through [some of the stuff I've acquired over the years](/category/artefacts/) and post about it here... how interesting the posts (and artefacts) are will undoubtedly vary!_
 
