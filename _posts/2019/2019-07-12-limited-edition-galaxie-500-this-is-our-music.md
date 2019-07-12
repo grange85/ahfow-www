@@ -11,7 +11,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-07-12
-imageurl: 
+imageurl: https://www.fullofwishes.co.uk/images/this-is-our-music-blue-swirl-vinyl.jpg
 categories:
  - galaxie 500
  - news
