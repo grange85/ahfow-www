@@ -24,11 +24,11 @@ flickr: true
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48244507501/in/dateposted/" title="TEAC C60 cassette"><img src="https://live.staticflickr.com/65535/48244507501_015b7db546_c.jpg" width="799" height="800" alt="TEAC C60 cassette"></a>
 
-Another bonus artefact this week as today is Dean Wareham's birthday so today's artefact is this rather inocuous, cheap C60 cassette.
+Another bonus artefact this week as it's Dean Wareham's birthday, so today's artefact is this rather innocuous, cheap C60 cassette.
 
-After years of resisting I finally got the nerve up to speak to Dean after their show at The Astoria in October 1997. Dean crouched at the edge of the stage and chatted, signed my ticket, and (took my phone number so that he could let me know of some additional tour dates. I don't really remember giving him my number, but he must have because a few days later he called me from Brussels.
+After years of resisting I finally got the nerve up to speak to Dean after their show at The Astoria in October 1997. Dean crouched at the edge of the stage and chatted, signed my ticket. I don't really remember giving him my number, but I must have done because a few days later he called me from Brussels!
 
-Luckily, I wasn't in - which means that instead of awkward conversation and something transient, and long since forgotten, what I have is this TEAC C60 cassette with a message from Dean on it...
+Luckily, I wasn't in - which means that instead of awkward conversation and something transient, and fading into the mists of time (maybe it was a dream!?), what I have is this TEAC C60 cassette with a message from Dean on it...
 
 > Andy, this is Dean Wareham from Luna calling I'm in Brussels... erm, you're not there I'll try you another time...
 
