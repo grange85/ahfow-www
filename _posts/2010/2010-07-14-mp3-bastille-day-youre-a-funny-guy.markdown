@@ -13,12 +13,15 @@ author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 date: '2010-07-14 13:26:16 +0100'
 date_gmt: '2010-07-14 12:26:16 +0100'
+imgurl: https://live.staticflickr.com/7576/15706864139_3f3b43573a_z.jpg
 categories:
 - luna
 - audio
-tags: []
+tags:
+flickr: true
 ---
-<div>As it&#039;s <a href="http://en.wikipedia.org/wiki/Bastille_Day">Bastille Day</a> here&#039;s Luna playing Anesthesia from their Luna Live album. This is the track that has Dean supporting the French Revolution and also has one of my favourite heckles right at the end.
-<p /> <a href="http://www.box.net/shared/29zih5rhk3">MP3: Luna - Anesthesia (from Luna Live)</a> - via <a href="http://box.net">box.net</a>
-- news
-</p></div>
+<div class="col-md-6 pull-right"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/15706864139/" title="I&#x27;ve often bored friends and acquaintances with the story of getting a signed copy of Luna Live #luna #lp #vinyl #ahfow"><img src="https://live.staticflickr.com/7576/15706864139_3f3b43573a_z.jpg" width="640" height="640" alt="I&#x27;ve often bored friends and acquaintances with the story of getting a signed copy of Luna Live #luna #lp #vinyl #ahfow"></a></div>
+
+As it's [Bastille Day](http://en.wikipedia.org/wiki/Bastille_Day) here's Luna playing Anesthesia from their Luna Live album. This is the track that has Dean supporting the French Revolution and also has one of my favourite heckles right at the end.
+
+MP3: [Luna - Anesthesia (from Luna Live)](http://www.box.net/shared/29zih5rhk3)
