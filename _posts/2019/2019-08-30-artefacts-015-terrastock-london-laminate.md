@@ -13,9 +13,11 @@ author:
 date: 2019-08-30
 imageurl: 
 categories:
- - categories
+ - artefacts
+ - damon & naomi
 tags:
- - tags
+ - terrastock
+ - ptolemaic terrascope
 flickr: true
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48278977911/in/dateposted-public/" title="Terrastock III laminated pass"><img src="https://live.staticflickr.com/65535/48278977911_c83d29cd2e_h.jpg" width="928" height="1600" alt="Terrastock III laminated pass"></a>
