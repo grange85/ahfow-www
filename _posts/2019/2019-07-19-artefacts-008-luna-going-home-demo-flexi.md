@@ -4,14 +4,14 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: Aretfacts #008: Luna - Going Home (demo) flexidisc
+title: "Artefacts #008: Luna - Going Home (demo) flexidisc"
 author:
   display_name: Andy
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-07-19
-imageurl: 
+imageurl: https://live.staticflickr.com/65535/48294025792_cd78112194_c.jpg
 categories:
  - lost tracks
  - luna
