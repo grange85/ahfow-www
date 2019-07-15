@@ -15,7 +15,7 @@ author_url: http://www.grange85.co.uk
 date: '2014-01-22 13:30:51 +0000'
 date_gmt: '2014-01-22 13:30:51 +0000'
 categories:
-- news
+- originals
 tags: []
 ---
 <p>Buffy Saint Marie's song Moonshot first appeared on the album of that name in 1972. In 2009 <a href="http://www.magnetmagazine.com/2009/09/17/buffy-sainte-marie-interviewed-by-dean-wareham/">Dean interviewed her for Magnet</a> and asked her about the song:</p>
