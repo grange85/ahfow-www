@@ -95,6 +95,16 @@
         "Protocol": "https",
         "ReplaceKeyPrefixWith": "2019/06/07/artefacts-001-galaxie-500-advance-cd"
       }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "2014/01/22/originals-moonshot-by-buffy-saint-marie-covered-by-galaxie-500-and-dean-britta"
+      },
+      "Redirect": {
+        "HostName": "www.fullofwishes.co.uk",
+        "Protocol": "https",
+        "ReplaceKeyPrefixWith": "2014/01/22/originals-moonshot-by-buffy-sainte-marie-covered-by-galaxie-500-and-dean-britta"
+      }
     }
   ]
 }
