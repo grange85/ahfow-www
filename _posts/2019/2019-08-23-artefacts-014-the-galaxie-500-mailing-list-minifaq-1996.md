@@ -27,7 +27,7 @@ Way back in the day discussion happened in [mailing lists](https://en.wikipedia.
 
 Some FAQs where huge, rambling, overblown, and over-detailed things. Mine wasn't. So I called it a miniFAQ to set expectations.
 
-[You can read the whole miniFAQ over here](/articles/galaxie-500-mailing-list-mini-faq-1996.txt).
+[You can read the whole miniFAQ over here](/articles/1996-06-27-galaxie-500-mailing-list-mini-faq.txt).
 
 This is the earliest copy I still have, dating from June 1996, but it's version 1.2 so it had been running a while before this.
 
@@ -40,7 +40,7 @@ This next bit is probably only of interest to me but... it's my website!!
 - Luna had no web presence at all - this was before triangle23 pinched my content for their official Luna page, and long before fuzzywuzzy.
 - I don't think that URL in the _What is a Galaxie 500?_ section is quite right!
 
-By 2000 the FAQ had become [huge, rambling, overblown, and over-detailed](/articles/galaxie-500-mailing-list-faq-2000.txt)!
+By 2000 the FAQ had become [huge, rambling, overblown, and over-detailed](/articles/2000-01-29-galaxie-500-faq.txt)!
 
 ---
 
