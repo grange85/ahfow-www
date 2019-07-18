@@ -29,7 +29,7 @@ tags:
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/HNqQAz3srDg" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Sally Free and Easy - Cyril Tawney</figcaption></figure>
 <p>Oh but all the greats of English folk probably have it in their repertoire.</p>
 <p>Magic Hour released their cover on the 1994 album No Excess is Absurd and it was the only track by the band to feature Naomi Yang's vocals.<br />
-MP3: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/03_Magic_Hour_Sally_Free_and_Easy.mp3">Damon & Naomi - Sally Free and Easy</a><br />
+MP3: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/03_Magic_Hour_Sally_Free_and_Easy.mp3">Magic Hour - Sally Free and Easy</a><br />
 <audio src="https://media.fullofwishes.co.uk/audio/damon_and_naomi/03_Magic_Hour_Sally_Free_and_Easy.mp3" preload="none" controls /></p>
 <p>If you pop 10 minutes into this video you can see Magic Hour performing the track at The Sausage Machine in London in 1994.</p>
 
