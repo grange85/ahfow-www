@@ -2,4 +2,4 @@
 layout: page
 title: Search results
 ---
-<div class="gcse-searchresults-only"></div>
+<div class="gcse-search"></div>

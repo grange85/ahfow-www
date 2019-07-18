@@ -75,10 +75,11 @@
 
 
 				</ul>
+				{% unless page.title == 'Search results' %}
 				<div class="nav navbar-form navbar-right">
 					<div class="gcse-searchbox-only" data-resultsUrl="/search-results/"></div>
 				</div>
-
+				{% endunless %}
 			</div><!-- /.navbar-collapse -->
 		</nav>
 	</div><!-- /.container -->
