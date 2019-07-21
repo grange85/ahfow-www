@@ -75,12 +75,11 @@
 
 
 				</ul>
-				<form class="navbar-form navbar-right" role="search" action="/search-results/" method="get">
-					<div class="form-group">
-						<input type="text" class="form-control" placeholder="Search" id="q" name="q">
-					</div>
-					<button type="submit" class="btn btn-primary">Submit</button>
-				</form>
+				{% unless page.title == 'Search results' %}
+				<div class="nav navbar-form navbar-right">
+					<div class="gcse-searchbox-only" data-resultsUrl="/search-results/"></div>
+				</div>
+				{% endunless %}
 			</div><!-- /.navbar-collapse -->
 		</nav>
 	</div><!-- /.container -->
