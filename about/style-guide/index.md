@@ -4,7 +4,7 @@ title: AHFoW style guide
 sitemap: false
 ---
 
-This isn't meant to scare folk off but - my editing is pretty light touch but this is a rough outline of how to write for the site. If you fancy writing anything for A Head Full of Wishes I am always open for business.
+This isn't meant to scare folk off but - my editing is pretty light touch but this is a rough outline of how to write for the site. If you fancy writing anything for A Head Full of Wishes I am [always open for business](/about/).
 
 A Head Full of Wishes
 : The site's full name is _A Head Full of Wishes_ (note it has an _A_ and a lower-case _o_ in of) and in abbreviated form _AHFoW_ - either is acceptable but using the long form more than once in an article is probably overkill.
@@ -56,10 +56,11 @@ For specific songs and any anomlies see:
 * [Galaxie 500 titles](#galaxie-500-titles)
 * [Luna titles](#luna-titles)
 * [Damon & Naomi titles](#damon-and-naomi-titles)
+* [Dean & Britta titles](dean-and-britta-titles)
 * [Other titles](#other-titles)
 
 
-#### <a name="galaxie-500-titles">Galaxie 500 titles</a>
+<h4 id="galaxie-500-titles">Galaxie 500 titles</h4>
 
 Fourth of July
 : not 4th of July and not *The* Fourth of July (on the sleeve of Luna Live it's spelt 4th of July - *this is wrong!*)
@@ -68,7 +69,7 @@ Listen, the Snow Is Falling
 : always include the comma
 
 
-#### <a name="luna-titles">Luna titles</a>
+<h4 id="luna-titles">Luna titles</h4>
 
 1995
 : the year is digits
@@ -88,7 +89,7 @@ Mr. Jealousy Suite
 Tracy I Love You
 : no comma and no _e_ in Tracy
 
-#### <a name="damon-and-naomi-titles">Damon & Naomi titles</a>
+<h4 id="damon-and-naomi-titles">Damon & Naomi titles</h4>
 
 (Scene Change)
 : always include the parentheses
@@ -111,7 +112,9 @@ Who Am I
 How Long
 : no question mark
 
-#### <a name="dean-and-britta-titles">Dean & Britta titles</a>
+<h4 id="dean-and-britta-titles">Dean & Britta titles</h4>
 
 You Turned My Head Around
 : note past tense, so not _Turn_ - Dean contacted me about this when I was stressing&hellip; he wrote: "My original 7" single calls the song _You Turned My Head Around_, which is how it is registered with the songwriting society also, so that's what I went with for our CD."
+
+<h4 id="other-titles">Other titles</h4>
