@@ -4,10 +4,15 @@ title: AHFoW style guide
 sitemap: false
 ---
 
+This isn't meant to scare folk off but - my editing is pretty light touch but this is a rough outline of how to write for the site. If you fancy writing anything for A Head Full of Wishes I am always open for business.
+
+A Head Full of Wishes
+: The site's full name is _A Head Full of Wishes_ (note it has an _A_ and a lower-case _o_ in of) and in abbreviated form _AHFoW_ - either is acceptable but using the long form more than once in an article is probably overkill.
+
 Punctuation
 : Ellipsis - no space before&hellip; but a space after.
 : Try not to over-use exclaimation marks (I know that I'm a serial abuser of this rule)
-: Dashes should be en dashes (but generally arent')
+: Dashes should be en dashes (but generally aren't)
 
 Dates
 : For full date _[ordinal_number] [full month name] [full year]_ no commas. So, 17th May 1964 or 1st January 2000 - in filenames use yyyy-mm-dd so 1964-05-17 or 2000-01-01
