@@ -22,7 +22,7 @@ tags: []
 ---
 <p>In honour of <a href="/2013/05/01/a-first-look-at-temperatures-rising-lots-of-groovy-new-material/" title="A first look at Temperature’s Rising: Lots of groovy new material!">the book of the same name that I got on Wednesday</a>, and the absolute (probably relative) scorcher we're having in London this week...</p>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/BvlgOsD6MuI" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Temperature's Rising (live Commonwealth School, Boston  1989)</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/YR55VCA0O0A?start=271" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Temperature's Rising (live Commonwealth School, Boston  1989)</figcaption></figure>
 
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/1992-02-27_Luna_Temperatures-Rising.mp3">Luna - Temperature's Rising (live Underworld, London in 1992)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/1992-02-27_Luna_Temperatures-Rising.mp3"></audio></div>
 
