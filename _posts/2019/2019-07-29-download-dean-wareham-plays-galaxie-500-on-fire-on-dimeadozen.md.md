@@ -21,7 +21,7 @@ tags:
 ---
 An excellent audience audio recording of Dean Wareham's recent show in San Francisco is currently available on bittorrent site Dimeadozen.
 
-The show included the whole of Galaxie 500's masterpiece On Fire (which is 30 years old this year) as well as an encore of a couple of tracks from Dean's recent album of cowboy songs (Dean Wareham vs. Cheval Sombre) and one track from Galaxie 500's This Is Our Music.
+The show included the whole of Galaxie 500's masterpiece On Fire (which is 30 years old this year) as well as an encore of that included a track from Dean's recent album of cowboy songs (Dean Wareham vs. Cheval Sombre) and one track from Galaxie 500's This Is Our Music.
 
 Grab it while you can.
 
