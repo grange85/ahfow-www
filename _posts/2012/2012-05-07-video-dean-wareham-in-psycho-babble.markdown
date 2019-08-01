@@ -26,7 +26,10 @@ After Britta's first performance with Luna, on Cynthia Garrett's network TV show
 <p>After a couple of those martinis, I was tipsy, but not drunk enough for Matthew's liking. He took us over to the Viper Room, where his friend Linda was the manager. It's a silly place. The first time I was there, Wilt Chamberlain was exiting the club just as we were entering, stooping so as not to bump his head in the narrow corridor.</p>
 <p>We arrived back at the Hollywood Roosevelt around midnight and got down to the business of making the film - <em>Psychobabble</em>. There was no plot and no script. Matthew made it up as he went along. The premise was that Sean would writhe half naked on the bathroom floor, while I stared into a mirror giving drunken answers to Matthews personal questions.</p>
 <p>Matthew had one other suggestion.</p>
-<p>"How about if you make out with Britta, or let her walk on your back>" he asked. "And I'll film it."</p>
+<p>"How about if you make out with Britta, or let her walk on your back" he asked. "And I'll film it."</p>
 <p>I didn't think that was such a good idea. Not filming it, anyway.</p></blockquote>
-<p>[flashvideo file=https://media.fullofwishes.co.uk/video/DeanWareham-PsychoBabble.flv width=600 height=330  /]</p>
+
+{% aavid "TV0An8Zhy98" "Dean Wareham - Psycho Babble (dir: Matthew Buzzell)" %}
+
 <p>Matthew went on to make the film of Luna's final tour Tell Me Do You Miss Me and has recently directed the video for <a href="http://www.mtvhive.com/2012/05/03/elk-city-jerks-on-ice/">Elk City's Jerks on Ice that features Sean Eden and can be seen (if you're in the US) on the MTV web site</a>.</p>
+
