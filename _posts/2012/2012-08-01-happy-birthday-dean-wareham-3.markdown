@@ -17,7 +17,9 @@ categories:
 - news
 tags: []
 ---
-<p><a href="http://www.flickr.com/photos/53035674@N04/5858428635/" title="Dean_Wareham_Brooklyn_2011-02.jpg by waydown_watson, on Flickr"><img class="aligncenter" src="https://farm4.staticflickr.com/3172/5858428635_6aec421971.jpg" width="500" height="332" alt="Dean_Wareham_Brooklyn_2011-02.jpg"></a></p>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/5972301432/" title="Dean &amp; Britta @ Truck Festival"><img src="https://live.staticflickr.com/6015/5972301432_96fa74762f_b.jpg" width="1024" height="768" alt="Dean &amp; Britta @ Truck Festival"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
 <p>Happy birthday to Dean Wareham who is still a year older than me - have a great day Dean!</p>
 <p>Here's a few things that have his name on them rather than that of Galaxie 500, Luna or Dean & Britta...
 <ul>
@@ -26,9 +28,10 @@ tags: []
 <li><strong>MP3:</strong> <a href="https://www.box.com/s/0172492cc6a103c89c6e">Tomato Poodle - Dean Wareham</a> from Anesthesia single</li>
 <li><strong>MP3:</strong> <a href="https://www.box.com/s/c3b7df0537ee2e581ef3">She's a Beacon - Shapir O'Rama (feat. Dean Wareham)</a> from El mundo de vapor y Valentia (Old Vienna)</li>
 <li><strong>Video:</strong> <a href="/2012/05/07/video-dean-wareham-in-psycho-babble/">Dean Wareham in Psycho Babble by Matthew Buzzell</a></li>
-<li><strong>Video:</strong> Dean Wareham plays Moon Palace in a minute for MTV<br />
-<iframe width="480" height="360" https://www.youtube.com/embed/MXki8W6mlcI" frameborder="0" allowfullscreen class="aligncenter"></iframe></li>
 </ul>
+
+{% aavid "MXki8W6mlcI" "Dean Wareham plays Moon Palace in a minute for MTV" %}
+
 <p>Previously on AHFoW:</p>
 <ul>
 <li><a href="/2010/08/01/happy-birthday-dean-wareham-2/">Happy Birthday Dean Wareham (2010)</a></li>
