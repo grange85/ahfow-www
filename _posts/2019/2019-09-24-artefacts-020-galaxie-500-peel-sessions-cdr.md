@@ -4,7 +4,7 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: "Artefacts #019: Galaxie 500 Peel Sessions CDR"
+title: "Artefacts #020: Galaxie 500 Peel Sessions CDR"
 author:
   display_name: Andy
   login: admin
