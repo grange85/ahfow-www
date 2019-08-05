@@ -4,13 +4,13 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: "Artefacts #016: Damon & Naomi tenugui"
+title: "Artefacts #017: Damon & Naomi tenugui"
 author:
   display_name: Andy
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-date: 2019-09-06
+date: 2019-09-13
 imageurl: 
 categories:
  - artefacts
