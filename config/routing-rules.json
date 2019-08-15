@@ -115,6 +115,16 @@
         "Protocol": "https",
         "ReplaceKeyPrefixWith": "2019/07/27/download-dean-wareham-plays-galaxie-500-on-fire-on-dimeadozen"
       }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "database/galaxie-500/shows/1989/1989-09-28-galaxie-500-unknown-tulse-hill-london-uk/"
+      },
+      "Redirect": {
+        "HostName": "www.fullofwishes.co.uk",
+        "Protocol": "https",
+        "ReplaceKeyPrefixWith": "database/galaxie-500/shows/1989/1989-09-23-galaxie-500-the-white-hart-tulse-hill-london-uk/"
+      }
     }
   ]
 }
