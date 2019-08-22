@@ -7,9 +7,10 @@ $(document).ready(function() {
         .attr('target','_blank')
         .append(' <i class="fas fa-external-link-alt"></i>');
 
+/*
 	$('article a[href*="fuzzywuzzy"]').each(function(){
 		var thisurl = $(this).prop('href');
 		$(this).prop('href', 'https://web.archive.org/web/2007+/' + thisurl);
 		});
-
+*/
 });
