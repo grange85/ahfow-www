@@ -23,7 +23,7 @@ This mp3 was posted on Luna's official website, FuzzyWuzzy, way back - the site 
 
 Remember when Luna had a website! I know there's [Lunamusic](http://lunamusic.com) but it doesn't have the home-made charm that FuzzyWuzzy had - luckily - the Internet Archive Wayback Machine has us (partially) covered!
 
-[FuzzyWuzzy in the Wayback Machine](https://web.archive.org/web/*/http://www.fuzzywuzzy.com/) - pick from the earlier years for more fun such as the legendary columns [Ask Lee, He Knows](https://web.archive.org/web/20000229162500/http://www.fuzzywuzzy.com/lee.html), [Justin's Ass](https://web.archive.org/web/19990128175802/http://www.fuzzywuzzy.com/ass/ass.html) or [Dean's Deep Thoughts](https://web.archive.org/web/19990203092732/http://www.fuzzywuzzy.com/red/red.html).
+<a href="https://web.archive.org/web/*/http://www.fuzzywuzzy.com/">FuzzyWuzzy in the Wayback Machine</a> - pick from the earlier years for more fun such as the legendary columns <a href="https://web.archive.org/web/20000229162500/http://www.fuzzywuzzy.com/lee.html">Ask Lee, He Knows</a>, <a href="https://web.archive.org/web/19990128175802/http://www.fuzzywuzzy.com/ass/ass.html">Justin's Ass</a> or <a href="https://web.archive.org/web/19990203092732/http://www.fuzzywuzzy.com/red/red.html">Dean's Deep Thoughts</a>.
 
 This is the band playing The Slow Song (with Dean singing the full German lyric) in Toronto in 1999.
 
