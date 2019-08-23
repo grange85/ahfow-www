@@ -10,7 +10,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-date: 2019-08-24
+date: 2019-08-26
 imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/luna-puptent-in-and-out.jpg
 categories:
  - luna
@@ -22,9 +22,9 @@ tags:
 
 This is another mp3 that was posted on Luna's official website, FuzzyWuzzy, I think some time in 2001. 
 
-It's four minutes and thirteen seconds of chat and music recorded during the sessions for Pup Tent. I think when the band popped this mp3 on their site we were unaware of the stressful jourey the band went on in the making of that album. Dean has a whole chapter of Black Postcards dedicated to it called *Don't you like making records?*
+It's four minutes and thirteen seconds of chat and music recorded during the sessions for Pup Tent. I think when the band popped this mp3 on their site we were unaware of the stressful jourey the band went on in the making of that album. Dean has a whole chapter of Black Postcards dedicated to it called _Don't you like making records?_
 
-> After a couple of weeks of this , I decided that I was suffering from polar hysteria, SAD (seasonal affective disorder), Ambien snarkiness, and writer's block. We weren't getting anywhere. We would spend whole days working on something and then decide that we had nothing.  
+> After a couple of weeks of this, I decided that I was suffering from polar hysteria, SAD (seasonal affective disorder), Ambien snarkiness, and writer's block. We weren't getting anywhere. We would spend whole days working on something and then decide that we had nothing.  
 > Dean Wareham - Black Postcards (The Penguin Press, 2008) 
 
 In the light of this new found knowledge somehow this recording sounds a little sadder - you can imagine those seemingly cheerful remarks actually being said through gritted teeth.
