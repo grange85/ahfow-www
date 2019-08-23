@@ -11,13 +11,15 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-08-24
-imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/fuzzywuzzy-2002.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/luna-puptent-in-and-out.jpg
 categories:
  - luna
  - audio
 tags:
  - pup tent
 ---
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/luna-puptent-in-and-out.jpg" alt="Luna - Pup Tent (in and out)" /><figcaption class="caption-text">Luna - Pup Tent (in and out)</figcaption></figure>
+
 This is another mp3 that was posted on Luna's official website, FuzzyWuzzy, I think some time in 2001. 
 
 It's four minutes and thirteen seconds of chat and music recorded during the sessions for Pup Tent. I think when the band popped this mp3 on their site we were unaware of the stressful jourey the band went on in the making of that album. Dean has a whole chapter of Black Postcards dedicated to it called *Don't you like making records?*
