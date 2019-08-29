@@ -11,8 +11,8 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2007-08-28 00:00:00 +0100'
-date_gmt: '2007-08-28 00:00:00 +0100'
+date: '2007-08-28'
+date_gmt: '2007-08-28'
 categories:
 - galaxie 500
 - history
@@ -26,7 +26,7 @@ tags: []
 <p>I suspect the songs played would have included some of the tracks they'd recorded a couple of weeks earlier at that first session. Three songs were recorded at the session and were made into a demo tape that picked up a little airplay on a Harvard radio station and eventually saw the light of day on the "Uncollected" disc of the 1996 Box Set. A very few copies of the demo tape contained four additional tracks that have never been officially released (I'm not sure whether these were recorded at the same NY session).</p>
 <p>As far as I'm aware there is no recording of that first show so here are a couple of the unreleased tracks from the <a href="/2011/09/23/audio-friday-recycling-galaxie-500-the-extended-demo-tape/">extended Galaxie 500 first demo tape</a>.</p>
 <ul>
-<li><a href="/2002/06/30/audio-galaxie-500-open-road/">Galaxie 500 - Open Road</a></li>
+<li><a href="/2002/07/01/audio-galaxie-500-open-road/">Galaxie 500 - Open Road</a></li>
 <li><a href="/2014/09/03/originals-well-right-buddy-holly-crickets-covered-galaxie-500/">Galaxie 500 - Well All Right</a></li>
 <li><a href="/2006/01/01/audio-galaxie-500-on-the-sofa/">Galaxie 500 - On the Sofa</a></li>
 </ul>
