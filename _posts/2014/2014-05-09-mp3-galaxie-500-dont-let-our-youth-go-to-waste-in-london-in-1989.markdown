@@ -12,8 +12,7 @@ author_login: admin
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/1990-09-29_Melody-Maker_Galaxie-500_This-Is-Our-Music-review_image.jpg
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2014-05-09 00:37:14 +0100'
-date_gmt: '2014-05-08 23:37:14 +0100'
+date: '2014-05-09'
 categories:
 - galaxie 500
 - audio

@@ -12,8 +12,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2014-04-01 21:08:47 +0100'
-date_gmt: '2014-04-01 20:08:47 +0100'
+date: '2014-04-01'
 categories:
 - dean wareham
 - lost tracks

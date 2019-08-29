@@ -10,7 +10,7 @@ author:
   login: joakim
   email: joakim@fullofwishes.co.uk
   url: ''
-date: '2016-11-10 21:30:00 +0000'
+date: '2016-11-10'
 imageurl: https://media.fullofwishes.co.uk/02-luna/photos/joakim-boston/joakim-luna-boston-2016-09-29-07.jpg
 categories:
 - luna

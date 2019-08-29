@@ -11,8 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2003-01-01 00:00:00 +0000'
-date_gmt: '2003-01-01 00:00:00 +0000'
+date: '2003-01-01'
 categories:
 - galaxie 500
 tags: []

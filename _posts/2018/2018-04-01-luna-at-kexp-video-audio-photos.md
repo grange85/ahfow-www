@@ -12,7 +12,7 @@ author:
   url: http://www.grange85.co.uk
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2018-04-01 10:00:00 +0100'
+date: '2018-04-01'
 imageurl: https://www.fullofwishes.co.uk/pictures/2018-01-23-luna-kexp-01.jpg
 categories:
  - luna

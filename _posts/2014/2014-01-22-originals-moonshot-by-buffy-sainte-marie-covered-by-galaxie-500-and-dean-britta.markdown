@@ -12,8 +12,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2014-01-22 13:30:51 +0000'
-date_gmt: '2014-01-22 13:30:51 +0000'
+date: '2014-01-22'
 imageurl: https://live.staticflickr.com/1496/24795493641_7c58d8e226_c.jpg
 categories:
 - originals

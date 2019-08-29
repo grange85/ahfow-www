@@ -12,7 +12,7 @@ author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/matthew-barzun-desert-island-discs.jpg
-date: '2016-07-03 23:12:22 +0100'
+date: '2016-07-03'
 categories:
 - news
 - galaxie 500

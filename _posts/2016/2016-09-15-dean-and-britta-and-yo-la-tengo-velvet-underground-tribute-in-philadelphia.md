@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-date: '2016-09-15 23:00:00 +0100'
+date: '2016-09-15'
 imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/13most_nico300.jpg
 description: |
   Dean & Britta are playing 13 Most beautiful as part of What Goes On: The Velvet Underground at the Y 50th Anniversary on 15th December in Phaladelphia.

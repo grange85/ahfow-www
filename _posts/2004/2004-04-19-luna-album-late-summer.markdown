@@ -11,8 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2004-04-19 18:00:10 +0100'
-date_gmt: '2004-04-19 18:00:10 +0100'
+date: '2004-04-19'
 categories:
 - luna
 - news

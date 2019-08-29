@@ -11,8 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2014-09-05 17:30:38 +0100'
-date_gmt: '2014-09-05 16:30:38 +0100'
+date: '2014-09-05'
 categories:
 - dean & britta
 - originals

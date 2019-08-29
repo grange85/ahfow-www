@@ -12,7 +12,6 @@ author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 date: '2000-05-02'
-date_gmt: '2000-05-02'
 categories:
 - news
 tags: []

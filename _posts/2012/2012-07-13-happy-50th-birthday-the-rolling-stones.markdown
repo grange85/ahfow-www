@@ -11,8 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2012-07-13 11:57:29 +0100'
-date_gmt: '2012-07-13 10:57:29 +0100'
+date: '2012-07-13'
 categories:
 - audio
 tags: []

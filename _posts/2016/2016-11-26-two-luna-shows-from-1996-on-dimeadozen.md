@@ -10,7 +10,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-date: '2016-11-26 23:00:00 +0000'
+date: '2016-11-26'
 imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/1996-06-07/1996-06-07-luna-poster.jpg
 categories:
  - luna

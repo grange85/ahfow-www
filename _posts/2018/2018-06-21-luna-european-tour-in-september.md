@@ -12,7 +12,7 @@ author:
   url: http://www.grange85.co.uk
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2018-06-21 23:00:00 +0100'
+date: '2018-06-21'
 imageurl: https://media.fullofwishes.co.uk/02-luna/photos/joakim/DeanLightLondon.jpg
 categories:
  - luna

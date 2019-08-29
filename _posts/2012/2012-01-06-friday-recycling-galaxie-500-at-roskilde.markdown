@@ -11,8 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2012-01-06 12:00:33 +0000'
-date_gmt: '2012-01-06 12:00:33 +0000'
+date: '2012-01-06'
 categories:
 - galaxie 500
 - audio

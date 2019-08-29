@@ -12,7 +12,7 @@ author:
   url: http://www.grange85.co.uk
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2018-04-16 23:00:00 +0100'
+date: '2018-04-16'
 imageurl: https://media.fullofwishes.co.uk/images/misc/default-audio-galaxie-500.jpg
 categories:
  - galaxie 500

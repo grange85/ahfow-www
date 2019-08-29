@@ -11,8 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2013-06-11 12:30:20 +0100'
-date_gmt: '2013-06-11 11:30:20 +0100'
+date: '2013-06-11'
 categories:
 - luna
 - velvet underground tour diary

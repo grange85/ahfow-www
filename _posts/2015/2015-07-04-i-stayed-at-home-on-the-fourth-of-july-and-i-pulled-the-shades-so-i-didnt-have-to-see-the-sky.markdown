@@ -13,8 +13,7 @@ author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/dean-wareham-fourth-of-july-lyric-book.jpg
-date: '2015-07-04 09:30:35 +0100'
-date_gmt: '2015-07-04 08:30:35 +0100'
+date: '2015-07-04'
 categories:
 - news
 - galaxie 500

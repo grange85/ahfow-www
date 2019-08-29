@@ -11,8 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2014-04-30 17:30:33 +0100'
-date_gmt: '2014-04-30 16:30:33 +0100'
+date: '2014-04-30'
 imageurl: https://media.fullofwishes.co.uk/00-misc/pictures/lee-hazlewood-trouble-is-a-lonesome-town.jpg
 categories:
 - dean wareham

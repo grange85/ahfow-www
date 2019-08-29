@@ -11,8 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2008-10-21 10:25:18 +0100'
-date_gmt: '2008-10-21 10:25:18 +0100'
+date: '2008-10-21'
 categories:
 - audio
 - history

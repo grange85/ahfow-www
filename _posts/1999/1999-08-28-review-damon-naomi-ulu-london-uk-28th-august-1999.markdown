@@ -12,7 +12,6 @@ author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 date: '1999-08-28'
-date_gmt: '1999-08-28'
 categories:
 - miscellaneous
 tags: []

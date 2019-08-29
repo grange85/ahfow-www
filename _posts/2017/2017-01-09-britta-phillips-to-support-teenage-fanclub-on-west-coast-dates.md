@@ -10,7 +10,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-date: 2017-01-09 23:00:00 +0000
+date: 2017-01-09
 imageurl: https://c2.staticflickr.com/9/8410/29712253993_b5b6c0f57c_c.jpg
 categories:
  - britta phillips

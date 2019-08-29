@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2016-07-22 23:00:00 +0100'
+date: '2016-07-22'
 imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-shop-sale-summer-2016.jpg
 description: >
   Until 3rd August everything in Dean Wareham's online shop can be had for 20% off.

@@ -12,7 +12,6 @@ author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 date: '2003-06-29'
-date_gmt: '2003-06-28 23:00:00 +0100'
 categories:
 - miscellaneous
 - dean & britta

@@ -11,8 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2011-10-25 11:32:09 +0100'
-date_gmt: '2011-10-25 10:32:09 +0100'
+date: '2011-10-25'
 categories:
 - luna
 - galaxie 500

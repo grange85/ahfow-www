@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-date: '2016-10-04 22:00:00 +0000'
+date: '2016-10-04'
 imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/luna-killed-by-death-grab-02.jpg
 description: |
  Luna have covered the Motorhead track "Killed by Death" for the AV Club's AV Undercover series, and has

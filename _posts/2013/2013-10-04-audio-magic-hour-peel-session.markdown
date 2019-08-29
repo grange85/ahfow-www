@@ -12,7 +12,7 @@ author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/magic-hour-photo.jpg
-date: '2013-10-04 13:05:00 +0100'
+date: '2013-10-04'
 categories:
 - damon & naomi
 - audio

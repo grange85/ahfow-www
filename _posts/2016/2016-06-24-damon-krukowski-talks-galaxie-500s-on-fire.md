@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2016-06-24 23:00:00 +0100'
+date: '2016-06-24'
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_onfire_roughcd146_001.jpg
 categories:
 - news

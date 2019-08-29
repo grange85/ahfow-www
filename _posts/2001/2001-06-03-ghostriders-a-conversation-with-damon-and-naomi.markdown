@@ -12,7 +12,6 @@ author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 date: '2001-06-03'
-date_gmt: '2001-06-03'
 categories:
 - damon & naomi
 tags: []

@@ -12,7 +12,7 @@ author:
   url: http://www.grange85.co.uk
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2018-02-23 23:00:00 +0000'
+date: '2018-02-23'
 imageurl: https://farm5.staticflickr.com/4762/40415729541_0a7947886c_c.jpg
 categories:
  - damon & naomi

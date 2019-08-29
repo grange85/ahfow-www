@@ -12,7 +12,7 @@ author:
   url: http://www.grange85.co.uk
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2018-04-05 23:00:00 +0100'
+date: '2018-04-05'
 imageurl: https://www.fullofwishes.co.uk/pictures/2018-04-05-luna-granadatheater-instagram.jpg
 categories:
  - luna

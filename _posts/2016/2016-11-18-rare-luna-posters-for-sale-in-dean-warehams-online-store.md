@@ -10,7 +10,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-date: '2016-11-18 23:00:00 +0000'
+date: '2016-11-18'
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-fiery-breeze-poster-attic-sale.jpg
 categories:
  - luna

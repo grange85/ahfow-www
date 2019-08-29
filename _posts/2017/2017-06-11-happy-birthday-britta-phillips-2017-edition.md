@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2017-06-11 09:45:16 +0100'
+date: '2017-06-11'
 imageurl: https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-008.jpg
 categories:
 - news

@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-date: '2016-04-05 11:00:00 +0000'
+date: '2016-04-05'
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1991-04-05/19910405-galaxie-500-bowdoin-college-04.jpg
 categories:
 - galaxie 500

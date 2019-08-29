@@ -11,8 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2008-06-08 14:22:11 +0100'
-date_gmt: '2008-06-08 14:22:11 +0100'
+date: '2008-06-08'
 categories:
 - dean & britta
 - pictures

@@ -13,8 +13,7 @@ author_login: admin
 imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/9a2fc3df15305e08a7fb.jpeg
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2013-11-06 19:07:29 +0000'
-date_gmt: '2013-11-06 19:07:29 +0000'
+date: '2013-11-06'
 categories:
 - dean wareham
 - originals

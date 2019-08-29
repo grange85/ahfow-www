@@ -11,8 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2013-07-04 09:30:34 +0100'
-date_gmt: '2013-07-04 08:30:34 +0100'
+date: '2013-07-04'
 categories:
 - galaxie 500
 - video

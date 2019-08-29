@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2016-06-15 21:00:00 +0100'
+date: '2016-06-15'
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/naomi-yang-exhibition-02.jpg
 categories:
 - damon & naomi

@@ -12,7 +12,7 @@ author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 imageurl: https://media.fullofwishes.co.uk/00-misc/pictures/23-flickr-fraumrau-172458800-cc.jpg
-date: '2012-08-17 13:30:10 +0100'
+date: '2012-08-17'
 categories:
 - luna
 - dean & britta

@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-date: '2016-05-29 19:00:00 +0000'
+date: '2016-05-29'
 imageurl:
 description: |
   Video of Luna covering The Cure's "Fire in Cairo" in Brooklyn on Friday 27 May 2016

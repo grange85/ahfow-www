@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-date: '2016-10-04 23:30:00 +0100'
+date: '2016-10-04'
 imageurl: 
 description: |
   NYC Taper have just shared Luna's first night at Rough Trade NY from a couple of days ago, in

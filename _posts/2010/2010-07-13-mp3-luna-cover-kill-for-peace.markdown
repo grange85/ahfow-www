@@ -11,8 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2010-07-13 22:53:01 +0100'
-date_gmt: '2010-07-13 21:53:01 +0100'
+date: '2010-07-13'
 categories:
 - dean wareham
 - audio

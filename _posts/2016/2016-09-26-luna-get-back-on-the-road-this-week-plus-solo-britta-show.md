@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-date: '2016-09-26 21:00:00 +0000'
+date: '2016-09-26'
 imageurl: https://media.fullofwishes.co.uk/02-luna/photos/joakim-houston/img-1047-bw-26.jpg
 description: |
   Luna get back on the road this week with dates in Alexandria, NYC and Boston before heading over the pond for shows in Europe

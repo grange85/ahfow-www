@@ -8,7 +8,7 @@ author:
   login: joakim
   email: joakim@fullofwishes.co.uk
   url: ''
-date: '2016-06-03 17:00:00 +0000'
+date: '2016-06-03'
 imageurl: https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/02-img-0735-outside-mohawk-before-show.jpg
 categories:
 - luna

@@ -9,7 +9,7 @@ login: admin
 imageurl:
 email: andy@fullofwishes.co.uk
 url: http://www.grange85.co.uk
-date: '2015-12-22 19:00:00 +0000'
+date: '2015-12-22'
 categories:
 - admin
 tags:

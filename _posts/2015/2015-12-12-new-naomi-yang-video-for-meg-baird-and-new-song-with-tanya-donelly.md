@@ -9,7 +9,7 @@ login: admin
 imageurl: https://media.fullofwishes.co.uk/00-misc/pictures/meg-baird-dont-weigh-down-the-light.jpg
 email: andy@fullofwishes.co.uk
 url: http://www.grange85.co.uk
-date: '2015-12-12 23:45:00 +0000'
+date: '2015-12-12'
 categories:
 - damon & naomi
 - video

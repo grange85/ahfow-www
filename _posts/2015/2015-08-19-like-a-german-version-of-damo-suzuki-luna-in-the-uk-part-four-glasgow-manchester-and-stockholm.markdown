@@ -11,8 +11,7 @@ author:
   url: ''
 author_login: joakim
 author_email: joakim@fullofwishes.co.uk
-date: '2015-08-19 21:30:38 +0100'
-date_gmt: '2015-08-19 20:30:38 +0100'
+date: '2015-08-19'
 categories:
 - luna
 tags: []

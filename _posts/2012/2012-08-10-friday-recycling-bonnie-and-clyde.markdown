@@ -11,8 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2012-08-10 14:30:31 +0100'
-date_gmt: '2012-08-10 13:30:31 +0100'
+date: '2012-08-10'
 categories:
 - luna
 - dean & britta

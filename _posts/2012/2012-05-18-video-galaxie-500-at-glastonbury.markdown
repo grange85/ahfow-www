@@ -12,8 +12,7 @@ author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-06-22/1990-06-22-galaxie-500-glastonbury-robert-richard-flickr-cc.jpg
-date: '2012-05-18 14:08:30 +0100'
-date_gmt: '2012-05-18 13:08:30 +0100'
+date: '2012-05-18'
 categories:
 - galaxie 500
 - video
