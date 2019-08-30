@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vote in the 2016 A Head Full of Wishes survey
-date: '2016-11-06 18:00:00 +0000'
+date: '2016-11-06'
 author:
   display_name: Andy Aldridge
   email: andy@fullofwishes.co.uk

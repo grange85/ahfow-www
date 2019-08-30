@@ -11,8 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2014-12-04 00:05:09 +0000'
-date_gmt: '2014-12-04 00:05:09 +0000'
+date: '2014-12-04'
 categories:
 - news
 tags: []

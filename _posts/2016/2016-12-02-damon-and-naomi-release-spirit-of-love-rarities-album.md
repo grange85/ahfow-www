@@ -10,7 +10,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-date: '2016-12-02 08:00:00 +0000'
+date: '2016-12-02'
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan-spirit-of-love-album.jpg
 categories:
  - damon & naomi

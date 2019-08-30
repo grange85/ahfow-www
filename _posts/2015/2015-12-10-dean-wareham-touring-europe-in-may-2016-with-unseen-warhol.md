@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-date: '2015-12-10 23:30:00 +0000'
+date: '2015-12-10'
 imageurl:
 categories:
 - dean wareham

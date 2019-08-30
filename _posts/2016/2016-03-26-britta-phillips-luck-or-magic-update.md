@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-date: '2016-03-26 23:30:00 +0000'
+date: '2016-03-26'
 imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/britta-making-a-record.jpg
 categories:
 - video

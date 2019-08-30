@@ -11,7 +11,7 @@ author:
   url: http://www.grange85.co.uk
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2017-12-15 09:00:00 +0000'
+date: '2017-12-15'
 imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-aq-lagniappe.jpg
 categories:
  - dean wareham

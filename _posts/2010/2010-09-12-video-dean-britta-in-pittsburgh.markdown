@@ -11,8 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2010-09-12 18:43:02 +0100'
-date_gmt: '2010-09-12 17:43:02 +0100'
+date: '2010-09-12'
 categories:
 - dean & britta
 - video

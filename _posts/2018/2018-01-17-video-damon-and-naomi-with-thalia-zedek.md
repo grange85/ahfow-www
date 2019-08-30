@@ -11,7 +11,7 @@ author:
   url: http://www.grange85.co.uk
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2018-01-17 23:00:00 +0000'
+date: '2018-01-17'
 imageurl: https://www.fullofwishes.co.uk/images/thalia-zedek-damon-and-naomi-video-grab.jpg
 categories:
  - damon & naomi

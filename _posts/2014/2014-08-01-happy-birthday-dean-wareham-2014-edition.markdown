@@ -12,8 +12,7 @@ author_login: admin
 imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/justin-dean-mtv-rabbit.jpg
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2014-08-01 07:39:37 +0100'
-date_gmt: '2014-08-01 06:39:37 +0100'
+date: '2014-08-01'
 categories:
 - news
 - dean wareham

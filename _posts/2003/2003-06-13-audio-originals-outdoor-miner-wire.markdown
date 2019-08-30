@@ -11,8 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2003-06-13 00:00:00 +0100'
-date_gmt: '2003-06-12 23:00:00 +0100'
+date: '2003-06-13'
 categories:
 - miscellaneous
 - audio

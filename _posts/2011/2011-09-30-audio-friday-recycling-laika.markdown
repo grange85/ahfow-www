@@ -11,8 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2011-09-30 12:11:45 +0100'
-date_gmt: '2011-09-30 11:11:45 +0100'
+date: '2011-09-30'
 categories:
 - damon & naomi
 - audio

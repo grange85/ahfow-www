@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2016-06-11 12:45:16 +0100'
+date: '2016-06-11'
 imageurl: https://media.fullofwishes.co.uk/02-luna/photos/britta-with-luna-in-london-in-2015-aba.jpg
 categories:
 - news

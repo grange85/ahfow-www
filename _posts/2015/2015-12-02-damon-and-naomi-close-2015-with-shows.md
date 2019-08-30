@@ -8,7 +8,7 @@ display_name: Andy
 login: admin
 email: andy@fullofwishes.co.uk
 url: http://www.grange85.co.uk
-date: '2015-12-02 22:20:00 +0000'
+date: '2015-12-02'
 categories:
 - news
 - damon & naomi

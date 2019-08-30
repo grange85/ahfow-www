@@ -11,8 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2010-07-18 22:49:36 +0100'
-date_gmt: '2010-07-18 21:49:36 +0100'
+date: '2010-07-18'
 categories:
 - news
 - dean wareham

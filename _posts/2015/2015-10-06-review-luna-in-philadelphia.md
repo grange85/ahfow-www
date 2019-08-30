@@ -5,7 +5,7 @@ published: true
 title: "Review: Luna in Philadelphia"
 author:
   display_name: Frank Silvestry
-date: '2015-10-06 23:50:00 +0100'
+date: '2015-10-06'
 categories:
  - luna
  - review

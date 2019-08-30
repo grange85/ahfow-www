@@ -12,7 +12,7 @@ author:
   url: http://www.grange85.co.uk
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2018-07-18 19:00:00 +0100'
+date: '2018-07-18'
 imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-vs-cheval-sombre-640.jpg
 categories:
  - dean wareham

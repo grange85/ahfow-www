@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2016-07-04 21:00:00 +0100'
+date: '2016-07-04'
 imageurl: https://media.fullofwishes.co.uk/00-misc/podcast/ahfow-podcast-2-being-social.jpg
 enclosure:
  url: https://media.fullofwishes.co.uk/00-misc/podcast/ahfow-podcast-2-being-social.mp3

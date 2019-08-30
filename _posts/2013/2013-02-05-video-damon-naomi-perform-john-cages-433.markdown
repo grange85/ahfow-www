@@ -11,8 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2013-02-05 10:28:24 +0000'
-date_gmt: '2013-02-05 10:28:24 +0000'
+date: '2013-02-05'
 categories:
 - damon & naomi
 - video

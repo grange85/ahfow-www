@@ -11,8 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2009-09-02 19:12:01 +0100'
-date_gmt: '2009-09-02 19:12:01 +0100'
+date: '2009-09-02'
 imageurl: https://media.fullofwishes.co.uk/ahfow/uploads/2009/08/luna_bewitched_promo_02.jpg
 categories:
 - luna

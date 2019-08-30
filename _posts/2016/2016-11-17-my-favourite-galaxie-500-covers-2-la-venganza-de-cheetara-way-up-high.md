@@ -10,7 +10,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-date: '2016-11-17 21:00:00 +0000'
+date: '2016-11-17'
 imageurl: https://c1.staticflickr.com/3/2469/3537950777_8dcef52ce5_z.jpg
 categories:
  - galaxie 500

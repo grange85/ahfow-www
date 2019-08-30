@@ -12,8 +12,7 @@ author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-fourth-of-july-rtt249.jpg
-date: '2012-07-04 00:00:31 +0100'
-date_gmt: '2012-07-03 23:00:31 +0100'
+date: '2012-07-04'
 categories:
 - news
 tags: []

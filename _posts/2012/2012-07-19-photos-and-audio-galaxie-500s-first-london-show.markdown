@@ -12,7 +12,7 @@ author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-09-26/19890926_dean1_lori.jpg
-date: '2012-07-19 10:50:34 +0100'
+date: '2012-07-19'
 categories:
 - galaxie 500
 - pictures

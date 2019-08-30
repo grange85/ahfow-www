@@ -11,8 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2000-09-01 00:00:00 +0100'
-date_gmt: '2000-09-01 00:00:00 +0100'
+date: '2000-09-01'
 categories:
 - miscellaneous
 tags: []

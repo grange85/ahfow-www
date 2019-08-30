@@ -11,8 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2009-10-10 21:17:02 +0100'
-date_gmt: '2009-10-10 21:17:02 +0100'
+date: '2009-10-10'
 categories:
 - luna
 - audio

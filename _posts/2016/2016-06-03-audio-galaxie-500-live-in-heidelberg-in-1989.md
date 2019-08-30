@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-date: '2016-06-03 23:00:00 +0000'
+date: '2016-06-03'
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-11-29/galaxie-500-heidelberg-1989-11-29.jpg
 categories:
  - news

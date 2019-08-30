@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2016-09-07 23:00:00 +0100'
+date: '2016-09-07'
 imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/2016-02-24-luna-carson-daly-tv.jpg
 categories:
 - news

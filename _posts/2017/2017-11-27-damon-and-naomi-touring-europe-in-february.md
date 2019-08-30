@@ -11,7 +11,7 @@ author:
   url: http://www.grange85.co.uk
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2017-11-27 23:45:00 +0000'
+date: '2017-11-27'
 imageurl:
 categories:
  - damon & naomi

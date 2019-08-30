@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-date: '2015-10-04 23:50:00 +0100'
+date: '2015-10-04'
 categories:
  - luna
  - video

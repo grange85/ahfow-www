@@ -11,8 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2015-03-31 00:18:13 +0100'
-date_gmt: '2015-03-30 23:18:13 +0100'
+date: '2015-03-31'
 categories:
 - luna
 - lost tracks

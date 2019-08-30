@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2015-09-06 00:00:00 +0100'
+date: '2015-09-06'
 categories:
  - galaxie 500
  - damon & naomi

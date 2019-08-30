@@ -5,7 +5,7 @@ published: true
 title: "Stanley Demeski guests with Luna in Brooklyn last night"
 author:
   display_name: Andy Aldridge
-date: '2015-10-10 09:40:00 +0100'
+date: '2015-10-10'
 categories:
  - luna
 tags: []

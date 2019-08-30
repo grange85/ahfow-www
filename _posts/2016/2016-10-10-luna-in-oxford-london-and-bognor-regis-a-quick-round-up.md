@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-date: '2016-10-10 23:30:00 +0100'
+date: '2016-10-10'
 imageurl: https://c2.staticflickr.com/6/5762/30187019826_39dce03b2e_h.jpg
 description: |
   Here's a quick round-up of the three Luna shows I saw last week in the UK

@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-date: '2015-12-11 10:30:00 +0000'
+date: '2015-12-11'
 imageurl: https://media.fullofwishes.co.uk/00-misc/pictures/vu-matrix-tapes.jpg
 categories:
 - dean wareham

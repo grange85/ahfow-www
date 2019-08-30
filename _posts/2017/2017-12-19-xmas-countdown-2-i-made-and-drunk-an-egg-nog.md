@@ -11,7 +11,7 @@ author:
   url: http://www.grange85.co.uk
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2017-12-24 19:00:00 +0000'
+date: '2017-12-24'
 imageurl: https://farm8.staticflickr.com/7252/7465394756_e58b7fdbdb_c.jpg
 categories:
  - luna

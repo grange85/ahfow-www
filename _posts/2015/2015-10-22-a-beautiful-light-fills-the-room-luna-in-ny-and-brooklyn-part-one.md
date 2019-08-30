@@ -10,7 +10,7 @@ author:
   url: ''
 author_login: joakim
 author_email: joakim@fullofwishes.co.uk
-date: '2015-10-22 23:00:00 +0100'
+date: '2015-10-22'
 categories:
 - luna
 tags: []

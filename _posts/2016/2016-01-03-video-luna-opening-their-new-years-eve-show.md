@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-date: '2016-01-03 23:00:00 +0000'
+date: '2016-01-03'
 imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-12-31/2015-12-31-luna-low-res-youtube-grab.jpg
 categories:
 - video

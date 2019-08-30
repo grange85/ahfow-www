@@ -10,7 +10,7 @@ author:
   login: joakim
   email: joakim@fullofwishes.co.uk
   url: ''
-date: '2016-10-29 11:00:00 +0000'
+date: '2016-10-29'
 imageurl: https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-020.jpg
 categories:
 - luna
