@@ -30,5 +30,9 @@ tags: []
 <li><a href="/2006/01/01/audio-galaxie-500-on-the-sofa/">Galaxie 500 - On the Sofa</a></li>
 </ul>
 <blockquote><p>"The first ever Galaxie 500 show was during the summer of 1987 at my apartment on Front St. in Manhattan. We played 4 or 5 songs, I can't remember what they were, but I remember being pleased that I didn't break any strings. I was working in the Elmer Holmes Bobst Memorial Library at N.Y.U. Damon & Naomi were in town for the summer, and Naomi had decided to pick up the bass guitar - I guess that's when the band was born for real."<br/><em>(Dean Wareham - Box set booklet)</em></p></blockquote>
+
+<blockquote>we definitely played &quot;Knockin&#39; on Heaven&#39;s Door&quot; and likely &quot;Walking Song&quot; and &quot;On the Floor&quot; and possibly &quot;Where Have all the Flowers Gone&quot; and &quot;I Can See Clearly Now the Rain is Gone&quot; 
+<footer><a href="https://twitter.com/WarehamDean/status/1167208225759883264?ref_src=twsrc%5Etfw">Dean Wareham (@WarehamDean), 29th August 2019</a></footer></blockquote>
+
 <p>Three albums and just under four years later it <a href="http://www.grange85.co.uk/galaxie/index.php?article_id=47">would all be over</a>.</p>
 <p>I had wanted to do some sort of celebration, a party or a gig would have been nice...but I never got my act together. Maybe I'll be better organised for the 25th anniversary...</p>

@@ -16,4 +16,4 @@ categories:
 - news
 tags: []
 ---
-<p>Details of Luna's next album, Romanticam, are beginning to seep out - the album will be released by NYC based label Jetset in March of next year. The tracklisting for the album can be found at http://www.grange85.co.uk/galaxie/index.php?album_id=152</p>
+<p>Details of Luna's next album, Romantica, are beginning to seep out - the album will be released by NYC based label Jetset in March of next year. The <a href="/database/luna/releases/luna-romantica/">tracklisting for the album can be found here</a>.</p>
