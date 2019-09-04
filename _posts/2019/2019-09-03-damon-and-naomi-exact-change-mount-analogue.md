@@ -4,7 +4,7 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: "Damon & Naomi's Exact Change bursts back into life"
+title: "Damon & Naomi's Exact Change returns to life"
 author:
   display_name: Andy
   login: admin
@@ -26,4 +26,4 @@ The <a href="https://exactchange.com/">Exact Change website</a> has also had a l
 
 You can also <a href="https://exactchange.com/about">download a PDF of the lovely 20th anniversary catalogue</a> from 2009
 
-<figure class="caption aligncenter"><img src="s3://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/exact-change-mount-analogue.jpg" alt="Mount Analogue by René Daumal" /><figcaption class="caption-text">Mount Analogue by René Daumal</figcaption></figure>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/exact-change-mount-analogue.jpg" alt="Mount Analogue by René Daumal" /><figcaption class="caption-text">Mount Analogue by René Daumal</figcaption></figure>
