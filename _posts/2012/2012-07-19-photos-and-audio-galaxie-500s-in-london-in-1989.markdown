@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Photos and audio: Galaxie 500''s first London show'
+title: 'Photos and audio: Galaxie 500 in London in 1989'
 author:
   display_name: Andy
   login: admin
@@ -19,6 +19,9 @@ categories:
 - audio
 tags: []
 ---
+
+__Update:__ _This post suggests that this was Galaxie 500's first London show - [subsequent evidence has come to light](https://www.fullofwishes.co.uk/2019/08/13/galaxie-500s-first-uk-show/) that shows that Galaxie 500 actually played a low-key show in a South London pub a couple of nights before_
+
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-09-26/19890926_dean1_lori.jpg" alt="Dean Wareham by Lori" /><figcaption class="caption-text">Dean Wareham by Lori</figcaption></figure>
 <p>At some point later this year A Head Full of Wishes will pass its eighteenth birthday, over those eighteen years I've been lucky enough to have been sent/emailed hundreds of photos (sadly a lot of them are not currently online.. but I am working on that!). Obviously in the age of the digital camera this was not really a surprise, I have been given lots of Damon & Naomi, Dean & Britta and late-era Luna photos, photos of Galaxie 500, who left us in the days of analog photography, however have been less common, so you can possibly imagine the thrill when Lori got in touch with me earlier in the week...</p>
 <blockquote><p>While going through some old photos we found some pictures that we took at the Galaxie 500 gig at ICA together with ticket stubs etc. Can I email to you?</p></blockquote>
