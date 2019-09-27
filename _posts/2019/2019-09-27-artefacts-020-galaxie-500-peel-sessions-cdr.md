@@ -24,7 +24,7 @@ flickr: true
 
 The glaring ommission in the otherwise wonderful [Galaxie 500 box set](/2019/08/09/artefacts-012-unopened-galaxie-500-box-set/) was the two sessions the band recorded for the John Peel Show - the first of which was [recorded exactly 30 years ago this week](/database/galaxie-500/shows/1989/1989-09-24-galaxie-500-bbc-radio-one-london-uk/).
 
-To repair this error I took advantage of being employed in the BBC library to acquire myself a copy of the session which I designed a sleeve and label for and slipped into my collection as if it were real! I can't remember where I pinched the graphics for it from.
+To repair this error I took advantage of being employed in the BBC library to acquire myself a copy of the sessions which I designed a sleeve and label for and slipped into my collection as if it were real! I can't remember where I pinched the graphics for it from.
 
 Mine is better than [the official release](/database/galaxie-500/releases/galaxie-500-peel-sessions/) because it is chronologically correct!
 
