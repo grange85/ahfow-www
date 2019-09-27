@@ -26,11 +26,9 @@ The glaring ommission in the otherwise wonderful [Galaxie 500 box set](/2019/08/
 
 To repair this error I took advantage of being employed in the BBC library to acquire myself a copy of the session which I designed a sleeve and label for and slipped into my collection as if it were real! I can't remember where I pinched the graphics for it from.
 
-I also leaked it onto Dimeadozen, through a third party so as not to risk being tracked down!
-
-A while later the official release was announced so I got Dimeadozen to remove the torrent and waited for the official release.
-
 Mine is better than [the official release](/database/galaxie-500/releases/galaxie-500-peel-sessions/) because it is chronologically correct!
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=500961155/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/peel-sessions">Peel Sessions by Galaxie 500</a></iframe>
 
 ---
 
