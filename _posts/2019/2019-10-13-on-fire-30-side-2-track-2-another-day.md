@@ -23,7 +23,7 @@ Firstly at a lovely book event in Walthamstow, London in June Damon & Naomi perf
 
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/dYaeS6FhKs4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Damon & Naomi - Another Day (London, June 2019)</figcaption></figure>
 
-And then a couple of days later Dean played On Fire in full for the first time - and you can't do that without playing Another Day. He did a couple more On Fire shows over the summer. Here they are performing Another Day in San Francisco in July with Britta on vocals.
+And then a couple of days later Dean played On Fire in full for the first time - and you can't do that without playing Another Day. He did a couple more On Fire shows over the summer. Here he is performing Another Day in San Francisco in July with Britta on vocals.
 
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/2019-07-25-dean-wareham-san-francisco-another-day.mp3">Dean & Britta - Another Day (Galaxie 500 cover)</a></p>
