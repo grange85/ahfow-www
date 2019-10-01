@@ -14,8 +14,8 @@ date: 2019-10-05
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/screenshot-galaxie-500-snub.jpg
 categories:
  - galaxie 500
-tags:
  - on-fire-30
+tags:
 flickr: true
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/screenshot-galaxie-500-snub.jpg" alt="caption" /><figcaption class="caption-text">Galaxie 500 on Snub TV</figcaption></figure>

@@ -14,8 +14,8 @@ date: 2019-10-01
 imageurl: 
 categories:
  - galaxie 500
-tags:
  - on-fire-30
+tags:
 flickr: true
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/bwjones/15644385349/in/faves-78462059@N00/" title="Dodge Dart."><img src="https://live.staticflickr.com/5616/15644385349_f18d6f7111_c.jpg" width="800" height="600" alt="Dodge Dart."></a>
