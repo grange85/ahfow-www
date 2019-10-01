@@ -18,7 +18,7 @@ categories:
 tags:
 flickr: true
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/bwjones/15644385349/in/faves-78462059@N00/" title="Dodge Dart."><img src="https://live.staticflickr.com/5616/15644385349_f18d6f7111_c.jpg" width="800" height="600" alt="Dodge Dart."></a>
+<figure class="caption aligncenter"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/bwjones/15644385349/in/faves-78462059@N00/" title="Dodge Dart."><img src="https://live.staticflickr.com/5616/15644385349_f18d6f7111_c.jpg" width="800" height="600" alt="Dodge Dart."></a><figcaption class="caption-text">Dodge Dart - photo: Bryan Jones (CC BY-NC-ND 2.0)</figcaption></figure>
 <blockquote>PERFECTION: this has sepulchral bass, guitars which caress and crumble as through an opium-drenched haze, straining out-of-tune vocals which never quite attain, a wired saxophone which bursts in just when you don't need it, silence so full of wailing noise as to make you shiver in awe every time. "Blue Thunder" is the sound of a storm brewing, oppresively, in the eventide.
 <footer><a href="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/1990-01-22-everett-true-reviews-blue-thunder.jpg">Everett True - Melody Maker 22nd January 1990</a></footer>
 </blockquote>
