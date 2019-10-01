@@ -46,3 +46,7 @@ I discovered On Fire just as I was preparing to leave behind four years in Balti
 __Michael Williams__
 
 P.S. I found [Andy](https://instagram.com/grange85)/[A Head Full of Wishes](https://instagram.com/fullofwishes) on Instagram, so be sure to follow me at [@mjwilliams1023](https://instagram.com/mjwilliams1023).  My band Counterspace are working out our own take on Decomposing Trees, only with 7/8 and 3/4 time signatures, as well as flute in the auxiliary instrument position.  If it sounds good enough in performance, we’ll put it to tape and gladly email it to any interested parties.  Just reach out! Follow us at [@needmorecounterspace](https://instagram.com/needmorecounterspace) or [email us](mailto:needmorecounterspace@gmail.com).
+
+---
+
+_As On Fire approaches it's 30th birthday I thought I'd post a series of posts of randomness about each of the tracks on the album - some from me and some from other fans._

@@ -34,3 +34,7 @@ Now I have no evidence to back this up but I reckon that the UKs love for Snowst
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/oZosyvu95mk" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 on Snub TV</figcaption></figure>
 
 <a href="https://www.theguardian.com/music/musicblog/2017/jun/06/snub-tv-cult-80s-music-show-unearthed-underground">There's a nice Guardian blog post about Snub</a>
+
+---
+
+_As On Fire approaches it's 30th birthday I thought I'd post a series of posts of randomness about each of the tracks on the album - some from me and some from other fans._

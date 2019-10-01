@@ -37,3 +37,7 @@ here he is performing it with My Morning Jacket in 2012...
 
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/iXUHdrN9uik" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Dean Wareham - Isn't It a Pity</figcaption></figure>
 
+
+---
+
+_As On Fire approaches it's 30th birthday I thought I'd post a series of posts of randomness about each of the tracks on the album - some from me and some from other fans._
