@@ -11,7 +11,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-10-25
-imageurl: 
+imageurl: https://live.staticflickr.com/65535/48613588168_27fd2ee64c_c.jpg
 categories:
  - artefacts
  - dean & britta
@@ -20,7 +20,7 @@ tags:
  - press release
 flickr: true
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48613588168/in/dateposted/" title="Dean &amp; Britta - L&#x27;Avventura UK press release (2003)"><img src="https://live.staticflickr.com/65535/48613588168_e48f003115_c.jpg" width="800" height="597" alt="Dean &amp; Britta - L&#x27;Avventura UK press release (2003)"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/48613588168/in/dateposted/" title="Dean &amp; Britta - L&#x27;Avventura UK press release (2003)"><img src="https://live.staticflickr.com/65535/48613588168_27fd2ee64c_c.jpg" width="800" height="597" alt="Dean &amp; Britta - L&#x27;Avventura UK press release (2003)"></a>
 
 I'm actually not sure how this came into my possession. I do have a promo copy of L'Avventura but I think I got that from Dean and don't remember getting a press release with it. Plus, it's a UK presser and the scribbled out bits at the top seem to be a bbc.co.uk email address and a possibly a phone number/extension which I think makes it more unlikely that it came from Dean.
 
