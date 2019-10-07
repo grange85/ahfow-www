@@ -14,8 +14,8 @@ date: 2019-10-03
 imageurl: 
 categories:
  - galaxie 500
-tags:
  - on-fire-30
+tags:
 flickr: true
 ---
 I'd guess that Tell Me is probably one of the lesser known tracks from On Fire - I always wonder how hard it must be sequencing an album so the balance and transitions work. I think that is one of the things that makes On Fire so great. It's not just _all killer and no filler_ but the sequencing is flawless. Tell Me isn't _lost_ after Blue Thunder but is a gentle come down.
