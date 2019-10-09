@@ -18,7 +18,7 @@ categories:
 - audio
 tags: []
 ---
-<div class="col-md-6 pull-right">
+<div class="col-md-3 pull-right">
 	<a data-flickr-embed="true" href="https://www.flickr.com/photos/31243053@N03/3381033468/" title="john yoko bed"><img src="https://live.staticflickr.com/3539/3381033468_23588e1022_n.jpg" width="245" height="320" alt="john yoko bed"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
