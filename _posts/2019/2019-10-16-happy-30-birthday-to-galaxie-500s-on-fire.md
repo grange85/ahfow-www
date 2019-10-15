@@ -30,16 +30,17 @@ tags:
 
 > ‘On Fire’, the new LP, is altogether a more considered - “slower, more lush, and more live” (Damon) affair than Today, proving conclusively there's more to GALAXIE 500 than their amps.    
 > ‘On Fire’ is released on Rough Trade Records on 16th October 1989.  
-> [Press release, 1989](https://www.flickr.com/photos/grange85/48900257397/)
+> _[Press release, 1989](https://www.flickr.com/photos/grange85/48900257397/)_
 
 
 Today is the 30th anniversary of the release of Galaxie 500's masterpiece On Fire - there's not much more than I can say that hasn't been said repeatedly on this website over the last 25 years - so, just dig out the LP, or head over to the streaming service of your choice and ride the fiery breeze.
 
+<!--more-->
 
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/19891028_MM_SR_On-Fire.jpg" alt="Galaxie 500 Melody Maker review of On Fire" /><figcaption class="caption-text">Galaxie 500 Melody Maker review of On Fire</figcaption></figure>
 
 > Galaxie 500 haven't "gone" anywhere since "Today" because there's nowhere for them to _go_. They're all washed up, come to rest at the beautiful composure in defeat. If a Pyrrhic victory means triumph won at such a cost you might as well have lost, then Galaxie 500's music is the exact opposite; a statement of defeat that resounds like a glorious triumph. Let it bleed.  
-> Simon Reynolds (Melody Maker, 28th October 1989)
+> _Simon Reynolds (Melody Maker, 28th October 1989)_
 
 
 
