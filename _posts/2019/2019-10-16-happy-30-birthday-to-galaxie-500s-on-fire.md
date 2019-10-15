@@ -35,7 +35,15 @@ tags:
 
 Today is the 30th anniversary of the release of Galaxie 500's masterpiece On Fire - there's not much more than I can say that hasn't been said repeatedly on this website over the last 25 years - so, just dig out the LP, or head over to the streaming service of your choice and ride the fiery breeze.
 
-<iframe style="border: 0; width: 700px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=158016030/size=large/bgcol=ffffff/linkcol=de270f/artwork=small/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/on-fire">On Fire by Galaxie 500</a></iframe>
+
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/19891028_MM_SR_On-Fire.jpg" alt="Galaxie 500 Melody Maker review of On Fire" /><figcaption class="caption-text">Galaxie 500 Melody Maker review of On Fire</figcaption></figure>
+
+> Galaxie 500 haven't "gone" anywhere since "Today" because there's nowhere for them to _go_. They're all washed up, come to rest at the beautiful composure in defeat. If a Pyrrhic victory means triumph won at such a cost you might as well have lost, then Galaxie 500's music is the exact opposite; a statement of defeat that resounds like a glorious triumph. Let it bleed.  
+> Simon Reynolds (Melody Maker, 28th October 1989)
+
+
+
+> Galaxie 500 haven't gone anywhere since <iframe style="border: 0; width: 700px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=158016030/size=large/bgcol=ffffff/linkcol=de270f/artwork=small/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/on-fire">On Fire by Galaxie 500</a></iframe>
 
 
 
