@@ -15,7 +15,7 @@ categories:
 tags:
 flickr: true
 ---
-I managed to be away from a computer on the 30th anniversary of On Fire - which is why my Plastic Bird post is a little	
+I managed to be away from a computer on the 30th anniversary of On Fire - which is why my Plastic Bird post is a little... half-arsed - but still - Plastic Bird!
 
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/01-galaxie_500/audio/galaxie-500-1989-11-15-burgerweehuis-deventer-netherlands-plastic-bird.mp3">Galaxie 500 - Plastic Bird</a></p>
