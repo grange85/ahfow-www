@@ -49,6 +49,6 @@ tags: []
 </ul>
 <p>See also...</p>
 <ul>
-<li><a href="http://www.youtube.com/watch?v=ZqmK8EYrNDs">Suicide - 23 Minutes over Brussels</a></li>
+<li><a href="http://www.youtube.com/watch?v=0rXJCl876Lk">Suicide - 23 Minutes over Brussels</a></li>
 <li><a href="http://www.youtube.com/watch?v=ee_ZAcnv4Ak">My Robot Friend - 23 Minutes in Brussels</a> (<a href="http://soundcloud.com/myrobotfriend/sets/23m-12/">and some remixes of it</a>)</li>
 </ul>
