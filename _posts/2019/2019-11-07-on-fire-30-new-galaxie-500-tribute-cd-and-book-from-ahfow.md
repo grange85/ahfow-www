@@ -44,7 +44,7 @@ The deluxe book and CD package is limited to 200 copies which contain the book, 
     <div class="col-md-6 bottom-align-text">
       <p>You can pre-order today on Bandcamp </p>
       <p>Pre-orders get one track to download now (Vacance's lovely mellotron-driven take on Strange) and the rest as soon as the package is shipped in early December.</p>
-      <p><a class="btn btn-primary btn-lg" href="#" role="button">Pre order On Fire | 30</a></p>
+      <p><a class="btn btn-primary btn-lg" href="https://aheadfullofwishes.bandcamp.com" role="button">Pre order On Fire | 30</a></p>
     </div>
   </div>
 </div>
