@@ -23,7 +23,7 @@ tags:
 
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/ahfow-30/on-fire-30-cd-cover.jpg" alt="On Fire 30 CD sleeve (design: John Conley)" /><figcaption class="caption-text">On Fire | 30 CD sleeve (design: John Conley)</figcaption></figure>
 
-It turns out 1989 was an amazing year for music. It was for me anyway my life was changed in so many ways that year - On Fire was one of those ways. It entered my life on one side of a C90 cassette and hasn't left my life since. In spring of 2019 I had an idea that something needed to be done to celebrate 30 years of that life-changing occurrence.
+It turns out 1989 was an amazing year for music. It was for me anyway my life was changed in so many ways that year. Galaxie 500's On Fire was one of those ways. It entered my life on one side of a C90 cassette and hasn't left my life since. In spring of 2019 I had an idea that something needed to be done to celebrate 30 years of that life-changing occurrence.
 
 <div class="col-md-6 pull-right">
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/ahfow-30/on-fire-30-book-open.jpg" alt="On Fire | 30 - limited edition art book" /><figcaption class="caption-text">On Fire | 30 - limited edition art book</figcaption></figure>
@@ -43,13 +43,15 @@ The deluxe book and CD package is limited to 200 copies which contain the book, 
     </div>
     <div class="col-md-6 bottom-align-text">
       <p>You can pre-order today on Bandcamp </p>
-      <p>Pre-orders get one track to download now (Vacance's lovely mellotron-driven take on Strange) and the rest as soon as the package is released on (or before) the 25th November.</p>
+      <p>Pre-orders get one track to download now (Vacance's lovely mellotron-driven take on Strange) and the rest as soon as the package is shipped on (or before) the 25th November.</p>
       <p><a class="btn btn-primary btn-lg" href="#" role="button">Pre order On Fire | 30</a></p>
     </div>
   </div>
 </div>
 
 Contributors include some old friends I've known for a long time and some friends I've just made - some names you'll know and some you'll want to know, and includes Britta Phillips doing a beautiful cover of Leave The Planet, Robert Scott (The Bats) gorgeous take on Tell Me, and Ron Harrity (Nord Express) who does a marvellous version of When Will You Come Home with synths and a vintage acoustic guitar.
+
+I
 
 But every track is a gem!
 
