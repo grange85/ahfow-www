@@ -18,7 +18,7 @@ categories:
 tags:
  - podcasts
 ---
-The excellent (and astoundingly prolific) podcast Rockin' The Suburbs has just put out a splendid episode where gues Nick Scalera sings the praises of Galaxie 500's On Fire.
+The excellent (and astoundingly prolific) podcast [Rockin' The Suburbs](https://audioboom.com/channel/rockin-the-suburbs) has just put out a splendid episode where gues Nick Scalera sings the praises of Galaxie 500's On Fire.
 
 > Galaxie 500 is, I think a timeless band, they are very rooted in music history, they're very much acolytes of The Velvet Underground, especially the third album. They're big music fans. Television's another reference to their music, and it sounds a bit timeless.
 
