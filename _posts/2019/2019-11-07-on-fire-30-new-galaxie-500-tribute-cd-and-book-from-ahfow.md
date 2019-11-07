@@ -19,6 +19,7 @@ tags:
  - cd
  - on fire 30
  - ahfow
+ - pinned
 ---
 
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/ahfow-30/on-fire-30-cd-cover.jpg" alt="On Fire 30 CD sleeve (design: John Conley)" /><figcaption class="caption-text">On Fire | 30 CD sleeve (design: John Conley)</figcaption></figure>
