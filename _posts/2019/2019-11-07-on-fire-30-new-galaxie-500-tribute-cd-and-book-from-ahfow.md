@@ -10,7 +10,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-date: 2019-11-07 14:00:00
+date: 2019-11-07 13:50:00
 imageurl: 
 categories:
  - galaxie 500
@@ -43,7 +43,7 @@ The deluxe book and CD package is limited to 200 copies which contain the book, 
     </div>
     <div class="col-md-6 bottom-align-text">
       <p>You can pre-order today on Bandcamp </p>
-      <p>Pre-orders get one track to download now (Vacance's lovely mellotron-driven take on Strange) and the rest as soon as the package is shipped on (or before) the 25th November.</p>
+      <p>Pre-orders get one track to download now (Vacance's lovely mellotron-driven take on Strange) and the rest as soon as the package is shipped in early December.</p>
       <p><a class="btn btn-primary btn-lg" href="#" role="button">Pre order On Fire | 30</a></p>
     </div>
   </div>
