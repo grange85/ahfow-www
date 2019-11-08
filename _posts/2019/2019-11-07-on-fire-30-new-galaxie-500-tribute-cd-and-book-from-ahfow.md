@@ -20,6 +20,7 @@ tags:
  - on fire 30
  - ahfow
  - pinned
+longpost: true
 ---
 
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/ahfow-30/on-fire-30-cd-cover.jpg" alt="On Fire 30 CD sleeve (design: John Conley)" /><figcaption class="caption-text">On Fire | 30 CD sleeve (design: John Conley)</figcaption></figure>
@@ -32,7 +33,9 @@ It turns out 1989 was an amazing year for music. It was for me anyway my life wa
 
 This is what came of that idea. An idea that started as a fanzine but with help and encouragement from friends has turned into a beautiful artefact. A 28 page book taking the songs from the album as inspiration for visual and textual art by some fantastic artists, and an amazing 14 track CD containing a cover of the whole of On Fire by some fantastic bands and musicians.
 
-Today you can pre-order On Fire \| 30 a tribute CD containing covers of all the tracks on On Fire (plus the tracks on the Blue Thunder EP).
+Today you can [pre-order On Fire \| 30 a tribute CD](https://aheadfullofwishes.bandcamp.com) containing covers of all the tracks on On Fire (plus the tracks on the Blue Thunder EP).
+
+<!--more-->
 
 The deluxe book and CD package is limited to 200 copies which contain the book, badges and postcards The book is a 7" square so it'll fit nicely in amongst your singles! 30 random copies will also have a numbered, signed, hand-printed lino-cut print.
 
