@@ -19,7 +19,6 @@ tags:
  - cd
  - on fire 30
  - ahfow
- - pinned
 longpost: true
 ---
 
