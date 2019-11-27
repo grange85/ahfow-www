@@ -23,7 +23,7 @@ If you prefer there'll also be [discussion on Facebook](https://www.facebook.com
 <tr><th>Location                 </th><th>Local Time               </th></tr>
 <tr><td>GMT (e.g. United Kingdom)</td><td>28th November 2019, 22:30</td></tr>
 <tr><td>EST (e.g. New York)      </td><td>28th November 2019, 17:30</td></tr>
-<tr><td>Los Angeles (USA)        </td><td>28th November 2019, 14:30</td></tr>
+<tr><td>PST (e.g. Los Angeles)   </td><td>28th November 2019, 14:30</td></tr>
 <tr><td>CET (e.g. Madrid)        </td><td>28th November 2019, 23:30</td></tr>
 <tr><td>NZDT (e.g. Auckland)     </td><td>29th November 2019, 11:30</td></tr>
 </table>
