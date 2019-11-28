@@ -17,6 +17,17 @@ tags:
 
 Join A Head Full of Wishes to listen to the new On Fire \| 30 tribute album - you can join in the conversation if you wish either on Twitter using the hashtag [#onfire30](https://twitter.com/hashtag/onfire30) - you can also follow [@ahfow](https://twitter.com/ahfow) where I'll be tweeting some info about the people involved.
 
+## Stream the album
+_this will be available when the party starts_
+
+<iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=3176996809/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/tracklist=true/tracks=3279616322,1536313367,899565982,2557580431,4008027720,4254849229,4105846376,3678720999,982839533,2762061438,2834159687,1523548407,707418099,426631834,3541905716/esig=bceca392cc0858223db0bd3243dae285/campaign=listening-party/" seamless><a href="http://aheadfullofwishes.bandcamp.com/album/on-fire-30">On Fire | 30 by A Head Full of Wishes</a></iframe>
+
+
+## Join the discussion
+
+<a href="https://twitter.com/intent/tweet?button_hashtag=onfire30&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #onfire30</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 If you prefer there'll also be [discussion on Facebook](https://www.facebook.com/events/777871795976521/?active_tab=discussion).
 
 <table class="table table-striped">
@@ -29,13 +40,3 @@ If you prefer there'll also be [discussion on Facebook](https://www.facebook.com
 </table>
 
 [Find the time where you are](https://www.timeanddate.com/worldclock/fixedtime.html?msg=On+Fire+%7C+30+-+listening+party&iso=20191128T2230&p1=136&ah=2).
-
-## Stream the album
-_this will be available when the party starts_
-
-<iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=3176996809/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/tracklist=true/tracks=3279616322,1536313367,899565982,2557580431,4008027720,4254849229,4105846376,3678720999,982839533,2762061438,2834159687,1523548407,707418099,426631834,3541905716/esig=bceca392cc0858223db0bd3243dae285/campaign=listening-party/" seamless><a href="http://aheadfullofwishes.bandcamp.com/album/on-fire-30">On Fire | 30 by A Head Full of Wishes</a></iframe>
-
-
-## Join the discussion
-
-<a href="https://twitter.com/intent/tweet?button_hashtag=onfire30&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #onfire30</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
