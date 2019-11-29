@@ -5,7 +5,7 @@ $(document).ready(function() {
 	$('article a[href^="http://"],article a[href^="https://"]')
     	.not('a:has(img)').not('article a[href*="fullofwishes"]').not('.resp-sharing-button__link')
         .attr('target','_blank')
-        .append(' <i class="fas fa-external-link-alt"></i>');
+        .append(' <sup><i class="fas fa-external-link-alt initialism"></i></sup>');
 
 /*
 	$('article a[href*="fuzzywuzzy"]').each(function(){
