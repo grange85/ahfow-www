@@ -21,7 +21,7 @@ tags: []
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/Lz0jEllqM-0" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>Dean Wareham covered the track for the soundtrack of the Noah Baumbach film The Squid and The Whale...</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/11_Dean%20Wareham_Hey%20You.mp3">Dean Wareham - Hey You</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/11_Dean%20Wareham_Hey%20You.mp3"></audio></div>
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-hey-you-the-squid-and-the-whale.mp3">Dean Wareham - Hey You</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-hey-you-the-squid-and-the-whale.mp3"></audio></div>
 
 <p>... but didn't try to pass it off as his own like the character in the film<br />
 </p>
