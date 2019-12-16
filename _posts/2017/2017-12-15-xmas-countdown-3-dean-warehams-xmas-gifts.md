@@ -48,9 +48,13 @@ tags:
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2013-11-dean-and-britta-old-toy-trains-xfm.mp3">Dean & Britta - Old Toy Trains (XFM, 2013)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2013-11-dean-and-britta-old-toy-trains-xfm.mp3"></audio></div>
 
 <h3>Dean & Britta and Sonic Boom - Little Altar Boy (Amazon Originals, 2017)</h3>
-<p>This year Dean & Britta have teamed up with Sonic Boom for another solemn xmas tune - Little Altar Boy is available exclusively (for now) through Amazon:</p>
+<p>This year Dean & Britta have teamed up with Sonic Boom for another solemn xmas tune - Little Altar Boy was available exclusively through Amazon:</p>
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=aheadfullofwi-20&marketplace=amazon&region=US&placement=B076ZV93B2&asins=B076ZV93B2&linkId=fb22d4d37678a35032aa1b77f2612107&show_border=true&link_opens_in_new_window=true"></iframe>
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/01-dean-and-britta-with-sonic-boom-little-altar-boy.mp3">Dean and Britta with Sonic Boom</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/01-dean-and-britta-with-sonic-boom-little-altar-boy.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="https://amzn.to/2PMdKOR">Amazon Originals: Little Altar Boy</a></em></p>
+</div>
 
 <h3 class="text-muted">Still no #SHAWC - fingers crossed for 2018! Or, maybe not&hellip;</h3>
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/shawc-no-no-no-no-no.jpg" alt="No no no no no" /><figcaption class="caption-text">No no no no no</figcaption></figure>
