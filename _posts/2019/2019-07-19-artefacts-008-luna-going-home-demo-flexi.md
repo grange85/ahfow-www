@@ -22,7 +22,7 @@ tags:
  - mp3
 flickr: true
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48294025792/in/dateposted-public/" title="Flexidisc - Issue 48 of The Bob Magazine"><img src="https://live.staticflickr.com/65535/48294025792_cd78112194_c.jpg" width="800" height="796" alt="Flexidisc - Issue 48 of The Bob Magazine"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/48294025792/in/dateposted-public/" title="Flexidisc - Issue 48 of The Bob Magazine"><img src="https://live.staticflickr.com/65535/48294025792_9101292d65_c.jpg" width="800" height="796" alt="Flexidisc - Issue 48 of The Bob Magazine"></a>
 
 This demo version of Luna's Going Home was released on a flexidisc given away with issue 48 of The Bob magazine.
 
