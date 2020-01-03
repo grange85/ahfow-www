@@ -34,6 +34,11 @@ You can hear Tuli doing an <a href="http://www.vietnamsongbook.org/setlist_jp.ht
   <p class="source small text-right"><em>Source: <a href="http://www.vietnamsongbook.org/setlist_jp.htm">The Vietnam Songbook - Joe's Pub - 1st March 2003</a></em></p>
 </div>
 
+<div class="well">
+  <p class="audio">Audio: <a href="http://www.vietnamsongbook.org/mp3/05%20-%20Dean%20Wareham-%20No%20Train%20To%20Stockholm%20.mp3">Dean Wareham - Train to Stockholm</a></p>
+  <audio controls="controls" preload="none" src="http://www.vietnamsongbook.org/mp3/05%20-%20Dean%20Wareham-%20No%20Train%20To%20Stockholm%20.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="http://www.vietnamsongbook.org/setlist_jp.htm">The Vietnam Songbook - Joe's Pub - 1st March 2003</a></em></p>
+</div>
 
 And here&#039;s Tuli with The Fugs
 
