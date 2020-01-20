@@ -38,7 +38,7 @@ The opening track of On Fire is one that Galaxie 500 and all post-Galaxie 500 co
 See also:
  - <a href="https://www.fullofwishes.co.uk/2008/05/24/mp3-galaxie-500-soundcheck-blue-thunder/">MP3: Galaxie 500 soundcheck Blue Thunder</a>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/iJl0Kv2hWBQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Blue Thunder (video)</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/lc3kxjy2GNk" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Blue Thunder (video)</figcaption></figure>
 
 ### Luna
 
@@ -81,6 +81,8 @@ See also:
   <audio controls="controls" preload="none" src="http://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-2014-07-26-indietracks-uk/09-dean-wareham-blue-thunder.mp3"></audio>
   <p class="source small text-right"><em>Source: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-2014-07-26-indietracks-uk/">Dean Wareham at Indietracks</a></em></p>
 </div>
+
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/1990022_MM_ET_Blue-Thunder.jpg" alt="caption" /><figcaption class="caption-text">Blue Thunder review (Melody Maker, January 1990)</figcaption></figure>
 
 See also:
  - <a href="https://youtu.be/uyi0M2hGjqA">Dean Wareham - solo acoustic "Blue Thunder" in Boston 2010</a>
