@@ -21,7 +21,8 @@ tags: []
 <p>The show is from Leicester in 1990 on the tour where they were supporting The Sundays. Here's Dean summoning Kramer to the stage for a cover of <a href="/2011/06/20/mp3-victory-garden-enough-or-adolf/" title="Mp3: Victory Garden – Enough or Adolf">Red Krayola's Victory Garden</a>, and then Joy Division's Ceremony.<br />
 <a id="more"></a><a id="more-4093"></a></p>
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/UMghNua4hjU" frameborder="0" allowfullscreen></iframe>
-<iframe width="420" height="315" src="https://www.youtube.com/embed/KFTYVE8MAaE" frameborder="0" allowfullscreen></iframe>
+<figure class="caption aligncenter"><iframe width="420" height="315" src="https://www.youtube.com/embed/UMghNua4hjU" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Victory Garden (Leicester 1990)</figcaption></figure>
 
-<p>If Facebook's not your thing <a href="https://plus.google.com/u/0/communities/106698014917689091573">A Head Full of Wishes also comes in Google Community flavour</a>.</p>
+<figure class="caption aligncenter"><iframe width="420" height="315" src="https://www.youtube.com/embed/KFTYVE8MAaE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Ceremony (Leicester 1990)</figcaption></figure>
+
+<figure class="caption aligncenter"><iframe width="420" height="315" src="https://www.youtube.com/embed/P5o1kFfSw1k" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - full show (Leicester 1990)</figcaption></figure>
