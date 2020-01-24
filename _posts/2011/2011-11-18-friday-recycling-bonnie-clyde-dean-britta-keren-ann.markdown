@@ -16,7 +16,7 @@ categories:
 - news
 tags: []
 ---
-<figure class="caption aligncenter"><a href="http://www.flickr.com/photos/alvarotapia/5227231688/" title="Bonnie&Clyde by alvaro tapia hidalgo, on Flickr"><img class="aligncenter" src="https://farm6.static.flickr.com/5087/5227231688_d285c324d2.jpg" width="500" height="321" alt="Bonnie&Clyde"></a><figcaption class="caption-text">by <a href='http://www.flickr.com/photos/alvarotapia/5227231688/'>alvaro tapia hidalgo</a> and buy <a href='http://society6.com/alvarotapia/Bonnie-Clyde_Print'>from here</a></figcaption></figure>
+<figure class="caption aligncenter"><a href="http://www.flickr.com/photos/alvarotapia/5227231688/" title="Bonnie&Clyde by alvaro tapia hidalgo, on Flickr"><img class="aligncenter" src="https://farm6.static.flickr.com/5087/5227231688_d285c324d2.jpg" width="500" height="321" alt="Bonnie&Clyde"></a><figcaption class="caption-text">by <a href='http://www.flickr.com/photos/alvarotapia/5227231688/'>alvaro tapia hidalgo</a></figcaption></figure>
 
 Early in 2008 Dean & Britta toured the US co-headlining with Keren Ann - on 15 February the three of them popped into KEXP in Philadelphia and recorded a session which culminated in Dean & Britta and Keren Ann all performing a cover of Serge Gainsbourg's Bonnie and Clyde.
 
