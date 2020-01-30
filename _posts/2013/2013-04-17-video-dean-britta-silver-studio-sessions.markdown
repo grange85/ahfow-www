@@ -17,5 +17,8 @@ categories:
 - video
 tags: []
 ---
-<p>Beautiful live video session recorded at The Andy Warhol Museum in November - embedded here but go check it out in HD on <a href="http://www.warhol.org/connect/silverstudiosessions/Dean---Britta/#.UW5deYJ1HRa">the warhol:Silver Studio Sessions web site</a>.<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5IXjuyq_2Tk" frameborder="0" allowfullscreen></iframe>
+Beautiful live video session recorded at The Andy Warhol Museum in November 2012.
+
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/8CQK5LBA4ls" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Dean & Britta - Silver Studio Sessions (2012)</figcaption></figure>
+
+
