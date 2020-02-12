@@ -4,7 +4,7 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: "Luna's playing Penthouse in San Francisco available to download"
+title: "Luna playing Penthouse in San Francisco available to download"
 author:
   display_name: Andy
   login: admin
@@ -34,24 +34,24 @@ Luna's recent Penthouse show at The Independent in San Francisco is currntly bei
 > 
 > Length: 01:36:24
 > 
-> 01 - Intro
-> 02 - Chinatown
-> 03 - Sideshow by the Seashore
-> 04 - Moon Palace
-> 05 - Double Feature
-> 06 - 23 Minutes in Brussels
-> 07 - Lost In Space
-> 08 - Rhythm King
-> 09 - Kalamazoo
-> 10 - Hedgehog
-> 11 - Freakin' and Peakin'
-> 12 - Bonnie and Clyde
-> Encore
-> 13 - California Blue
-> 14 - Tracy I Love You
-> 15 - Broken Chair
-> 16 - Car Wash Hair
-> Encore 2
-> 17 - Fuzzy Wuzzy
-> 18 - Season of the Witch
+> 01 - Intro  
+> 02 - Chinatown  
+> 03 - Sideshow by the Seashore  
+> 04 - Moon Palace  
+> 05 - Double Feature  
+> 06 - 23 Minutes in Brussels  
+> 07 - Lost In Space  
+> 08 - Rhythm King  
+> 09 - Kalamazoo  
+> 10 - Hedgehog  
+> 11 - Freakin' and Peakin'  
+> 12 - Bonnie and Clyde  
+> Encore  
+> 13 - California Blue  
+> 14 - Tracy I Love You  
+> 15 - Broken Chair  
+> 16 - Car Wash Hair  
+> Encore 2  
+> 17 - Fuzzy Wuzzy  
+> 18 - Season of the Witch  
 
