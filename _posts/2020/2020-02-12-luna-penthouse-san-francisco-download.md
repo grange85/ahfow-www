@@ -4,7 +4,7 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: "Luna's playing Penthosue in San Francisco available to download"
+title: "Luna's playing Penthouse in San Francisco available to download"
 author:
   display_name: Andy
   login: admin
@@ -27,13 +27,13 @@ Luna's recent Penthouse show at The Independent in San Francisco is currntly bei
 > Luna (plays "Penthouse")
 > 2020 February 08
 > The Independent, San Francisco, CA
-
+> 
 > Source: Sony PCM-M10 + Audio-Technica AT831b (x2)
-
+> 
 > Transfer: Sony PCM-M10 (48/24) --> Audacity (44.1/16) --> Trader's Little Helper --> FLAC 8
-
+> 
 > Length: 01:36:24
-
+> 
 > 01 - Intro
 > 02 - Chinatown
 > 03 - Sideshow by the Seashore
