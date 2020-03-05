@@ -35,5 +35,3 @@ And then in the RSD lists appearing in various places, [most notably on Reddit](
 
 At just under an hour the show would be too long for one LP, so I suspect the _etching_ is filling up the space on the fourth side.
 
-As soon as I hear more I'll post here.
-
