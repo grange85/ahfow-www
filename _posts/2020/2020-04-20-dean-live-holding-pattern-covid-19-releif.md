@@ -19,7 +19,7 @@ tags:
  - covid-19
  - coronavirus
 ---
-Dean Wareham's has contributed a live version of Holding Pattern to [Love in The Time of Covid](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/donate), an album released to benefit the World Health Organisation's [COVID-19 Solidarity Relief Fund](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/donate).
+Dean Wareham's has contributed a live version of Holding Pattern to [Love in The Time of Covid](https://veniversus.bandcamp.com/album/love-in-the-time-of-covid), an album released to benefit the World Health Organisation's [COVID-19 Solidarity Relief Fund](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/donate).
 
 > VeniVersus is proud to announce "Love In The Time Of Covid", an evocative benefit compilation in which an all-star team of musicians join forces to raise funds for the World Health Organization (WHO). It features only previously unreleased recordings by some of the most relevant acts from the slowcore, dreampop and drone-rock scenes.
 > 
