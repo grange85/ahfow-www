@@ -13,7 +13,7 @@ author:
 date: 2020-04-20
 imageurl: 
 categories:
- - dean-wareham
+ - dean wareham
  - news
 tags:
  - covid-19
