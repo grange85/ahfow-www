@@ -13,10 +13,9 @@ author:
 date: 2020-05-10
 imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2020-05-14/2020-05-14-dean-and-britta-poster.jpg
 categories:
- - luna
+ - dean & britta
  - news
 tags:
- - penthouse
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2020-05-14/2020-05-14-dean-and-britta-poster.jpg" alt="Luna - Penthouse" /><figcaption class="caption-text">Dean & Britta - RAA benefit</figcaption></figure>
 
