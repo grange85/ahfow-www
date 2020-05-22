@@ -26,6 +26,8 @@ The single is [released on PIAPTK](http://piaptk.com/products/669406-dean-and-br
 
 The release is a limited edition, single sided lathe-cut 7" and is available to [order now from Dean's online shop](https://deanwareham.com/product/567894) or [from PIAPTK](http://piaptk.com/products/669406-dean-and-britta-the-carnival-is-over-7).
 
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/f6cEz-WSy_Q" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Dean & Britta - The Carnival is Over</figcaption></figure>
+
 {% ahfowimage "/images/dean-and-britta-the-carnival-is-over-sleeve-disc.jpg" "Dean & Britta, The Carnival is Over (Piaptk, 2020)" %}
 {% ahfowimage "/images/dean-and-britta-the-carnival-is-over-sleeve-disc-2.jpg" "Dean & Britta, The Carnival is Over (Piaptk, 2020)" %}
 
