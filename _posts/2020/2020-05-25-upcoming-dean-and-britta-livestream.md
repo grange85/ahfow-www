@@ -21,7 +21,7 @@ tags:
 
 Dean & Britta have announced another living room concert for this Saturday evening.
 
-The show will be at 9pm PDT (2pm EDT, 2am (Sunday) BST) and will be streamed using a new streaming platform, VEEPS.
+The show will be at 6pm PDT (9pm EDT, 2am (Sunday) BST) and will be streamed using a new streaming platform, VEEPS.
 
 [Tickets are $11.50 including a fee](https://deanandbritta.veeps.com/stream/events/8b4241490d72).
 
