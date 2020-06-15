@@ -22,8 +22,6 @@ tags:
 ---
 {% ahfowimage "/images/2020-06-14-dean-and-britta-warhol-session.jpg" "Dean & Britta - Silver Home Studio Session" %}
 
-Dean & Britta hae recorded a home session for the Andy Warhol Museum's Silver Studio Sessions series.
+Dean & Britta hae recorded a home [session for the Andy Warhol Museum's Silver Studio Sessions series](https://www.youtube.com/watch?v=18dYoqRUZPo).
 
 The session has the duo covering The Velvet Underground's Ride Into The Sun and The Incredible String Band's Air.
-
-{% aavid "18dYoqRUZPo" "Dean & Britta - Silver Home Studio Session" %}
