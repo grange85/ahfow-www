@@ -94,6 +94,9 @@ I'm very proud to have released The On Fire 30 tribute album - and you shold own
 Luna's Sean Eden is a part of improvisational rock band The CFR who released an EP on Bandcamp last year and will be releasing new music on Friday (all proceeds to the NAACP Legal Defense Fund)
  - [Hedbant - The CFR](https://thecfr.bandcamp.com/releases)
 
+ Sean can also be heard on this live EP by Slowness
+ - [Part Time Punks - Slowness](https://slowness.bandcamp.com/album/part-time-punks)
+
 You can find AHFoW related folk on these (and plenty more if you hunt around)
  - [All Things Being Equal - Sonic Boom](https://sonicboomspacemen3.bandcamp.com/album/all-things-being-equal-3)
  - [Fuxa Commits Suicide](https://fuxa1.bandcamp.com/album/fuxa-commits-suicide)
