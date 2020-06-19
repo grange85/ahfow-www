@@ -112,10 +112,10 @@ Tribute albums
  - [Snowstorm: A Tribute To Galaxie 500](https://elefantrecordsclassics.bandcamp.com/album/snowstorm-a-tribute-to-galaxie-500)
  - [No Tan Buenos Pero Diferentes (Un tributo a Galaxie 500) ](https://lofirecords.bandcamp.com/album/no-tan-buenos-pero-diferentes-un-tributo-a-galaxie-500)
 
-### And some bands/artists AHFoW is a fan of
+### And some bands/artists/labels AHFoW is a fan of
 
 - [The Lost Art of Wandering - Raymond Richards](https://raymondrichards.bandcamp.com/album/the-lost-art-of-wandering)
-
+- [Sonic Cathedral](https://shop.soniccathedral.co.uk/music)
 - [The Standby Connection](https://thestandbyconnection.bandcamp.com/)
 - [Watoo Watoo](https://watoowatoo.bandcamp.com/)
 - [Las Ligas Menores](https://lasligasmenores.bandcamp.com/)
