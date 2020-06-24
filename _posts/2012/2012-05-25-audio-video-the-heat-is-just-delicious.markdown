@@ -41,3 +41,14 @@ Next up a couple of videos of sumemry tunes - first Galaxie 500 live at The Kenn
 
 {% aavid "kWVtrqXZlFk" "Dean & Britta - The Sun is Still Sunny"%}
 
+**Update (24th June 2020)**
+
+Guess I'll throw in a couple more while I'm fixing broken links
+
+{% aavid "mrOpkUxhntE" "Britta Phillips - One Fine Summer Morning" %}
+
+<div class="well">
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/luna-sucking-ice-cubes.mp3">Luna - Sucking Ice Cubes</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/luna-sucking-ice-cubes.mp3"></audio>
+  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/2008/09/24/mp3-lost-tracks-1-luna-sucking-ice-cubes/">Lost tracks #1 - Luna - Sucking Ice Cubes</a></em></p>
+</div>
