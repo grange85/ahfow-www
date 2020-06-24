@@ -26,7 +26,7 @@ It takes only the tiniest flurry of snow to have me digging out 'Snowstorm' or '
 
 First up is this mp3 of In The Sun by Pierre &Eacute;toile
 
-<iframe src="https://app.box.com/embed/s/e87a510d3627752031df?sortColumn=date&view=list" width="800" height="200" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1715169692/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=662311913/transparent=true/" seamless><a href="http://damonandnaomi.bandcamp.com/album/pierre-etoile-ep">Pierre Etoile EP by Damon &amp; Naomi</a></iframe>
 
 The track was later re-recorded, when Pierre &Eacute;toile had decided to become Damon & Naomi, with Naomi doing the vocal, and released on Playback Singers. It can be bought on the [Sub Pop Years](http://damonandnaomi.bandcamp.com/album/the-sub-pop-years-1995-2002) compilation.
 
