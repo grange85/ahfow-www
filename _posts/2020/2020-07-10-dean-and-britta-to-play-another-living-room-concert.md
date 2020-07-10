@@ -31,3 +31,5 @@ The show will be at 12 noon PDT (3pm EDT, 8pm BST) and will again be streamed us
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/50098169928/in/dateposted-public/" title="Dean &amp; Britta livestream 27th July 2020"><img src="https://live.staticflickr.com/65535/50098169928_de35cddd29_c.jpg" width="800" height="473" alt="Dean &amp; Britta livestream 27th July 2020"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+---
+<i class="fa fa-comments" aria-hidden="true"></i>  [Talk about this on Reddit r/aheadfullofwishes](https://www.reddit.com/r/aheadfullofwishes/comments/hozd1k/upcoming_dean_britta_to_play_another_living_room/)
