@@ -24,5 +24,5 @@ Dean Wareham gave a 50 second sneak preview of a new Dean & Britta lathe-cut sin
 It's another clear, square, plastic disc - more details when I get them - watch this space.
 
 ---
-<i class="fa fa-comments" aria-hidden="true"></i>  [Talk about this on Reddit r/aheadfullofwishes](https://www.reddit.com/r/aheadfullofwishes/)
+<i class="fa fa-comments" aria-hidden="true"></i>  [Talk about this on Reddit r/aheadfullofwishes](https://www.reddit.com/r/aheadfullofwishes/comments/hp6lws/dean_wareham_teases_new_lathecut_single/)
 
