@@ -20,7 +20,7 @@ tags: []
 <p>It seems all the As in my originals series are Damon & Naomi ones - second is their cover of Brazilian legend <a href="http://en.wikipedia.org/wiki/Caetano_Veloso">Caetano Veloso</a>'s Araçá azul. </p>
 <p>Original: Caetano Veloso - Araçá azul<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/iEId0XOH69Y" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/tnYMgh6Vjjc" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>Damon & Naomi cover - this actually runs into the next track The Earth is Blue... so expect a sudden finish!<br />
 </p>
 {% bandcamp {"track": "4118269475"} %}
