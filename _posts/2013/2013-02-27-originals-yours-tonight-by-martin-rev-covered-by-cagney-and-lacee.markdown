@@ -25,6 +25,10 @@ Cagney and Lacee were Dean Wareham and his then wife Claudia Silver. They releas
 <iframe class="aligncenter" src="https://embed.spotify.com/?uri=spotify:track:6np8bWPvrTyjL6YG3ljQGO" width="300" height="380" frameborder="0" allowtransparency="true"></iframe></p>
 <p>Not sure whether this was a mistake or intentional - I've decided it was a test for fans, one that I failed utterly completely by not discovering it until 15 years after Six Feet of Chain was released!</p>
 
+Update (14th July 2020): Currently on YouTube, so...
+
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/gq1BRWtznVE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Yours Tonight - Martin Rev</figcaption></figure>
+
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/01_Cagney and Lacee_Be Mine.mp3">Cagney and Lacee - Be Mine</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/01_Cagney and Lacee_Be Mine.mp3"></audio></div>
 
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>
