@@ -33,5 +33,5 @@ tags: []
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/tom-rapp-after-the-goldrush.mp3">Tom Rapp - After The Goldrush</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/tom-rapp-after-the-goldrush.mp3"></audio></div>
 
 <p>&hellip; and Neil's original</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/1e3m_T-NMOs" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/d6Zf4D1tHdw" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>
