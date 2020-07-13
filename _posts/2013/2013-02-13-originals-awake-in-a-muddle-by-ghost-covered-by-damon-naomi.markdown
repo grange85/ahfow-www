@@ -13,7 +13,8 @@ author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 date: '2013-02-13'
 categories:
-- news
+- damon & naomi
+- originals
 tags: []
 ---
 <p><a href="http://www.flickr.com/photos/57336354@N00/5614576436/" title="they sleep by bunchadogs & susan, on Flickr"><img class="aligncenter" src="https://farm6.staticflickr.com/5102/5614576436_2078ab67d0_z.jpg" width="640" height="328" alt="they sleep"></a><br />
