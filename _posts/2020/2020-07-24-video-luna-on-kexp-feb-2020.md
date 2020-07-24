@@ -25,3 +25,5 @@ Back in the days before things went all weird Luna were in Seattle to play a Bew
 {% aavid "Or8cvA_1iEI" "Luna on KEXP, Feb 2020" %}
 
 [Luna live on KEXP on YouTube](https://www.youtube.com/watch?v=Or8cvA_1iEI)
+---
+<i class="fa fa-comments" aria-hidden="true"></i>  [Talk about this on Reddit r/aheadfullofwishes](https://www.reddit.com/r/aheadfullofwishes/comments/hxc656/video_lunas_kexp_session_from_february_has/)
