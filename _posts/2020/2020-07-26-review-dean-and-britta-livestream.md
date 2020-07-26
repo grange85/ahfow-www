@@ -47,11 +47,30 @@ The one thing that was really missed was band/audience and inter-audience feedba
 - audience interaction with each other, while better, was also hard. Chat went past too quickly at times - the Veeps platform didn't allow @ comments or private comments or for the audience to break into smaller groups (not sure if this would work at all).
 - the inability to actually hear an audience made things feel a little off, it's almost as if you want a second stream so the audience and the band could see and hear each other - again not sure how/if this would work but I missed that probably more than anything else - I'm not a social person but I do miss being among fans!
 
-Dean suggested that they may release audio of the shows at some point ... so watch this space. He also mentioned the series of lathe cut singles that would be released soon - not too much additional information, except that their cover of Donovan's Sadness would be included. Again... watch this space for more details.
+Dean suggested that they may release audio of the shows at some point ... so watch this space. He also mentioned [the series of lathe cut singles that would be released soon](https://www.instagram.com/p/CC63d3CjBgM/) - not too much additional information, except that their cover of Donovan's Sadness would be included. Again... watch this space for more details.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/50154544111/in/album-72157715243203528/" title="Dean &amp; Britta"><img src="https://live.staticflickr.com/65535/50154544111_5d87318a37_c.jpg" width="800" height="445" alt="Dean &amp; Britta"></a>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/50153999613/in/album-72157715243203528/" title="Roger"><img src="https://live.staticflickr.com/65535/50153999613_f2a43bbd22_c.jpg" width="800" height="447" alt="Roger"></a>
+
+Full setlist ([posted to Dean's Instagram](https://www.instagram.com/p/CDFEuJlDbbJ/)):
+
+- My Rifle, My Pony and Me
+- Leave The Planet
+- Hear The Wind Blow
+- When Will You Come Home
+- _poem: The Canoeing Trip by Russell Eldon_
+- King of Spain
+- Parking Lot
+- Snowstorm
+- You Turned My Head Around
+- Blue Thunder
+- _poem: Extract from The Lichtenberg Figures by Ben Lerner_
+- Sorry
+- Victory Garden
+- Don't Let Our Youth Go to Waste
+- Sadness
+- Ceremony
 
 ---
 <i class="fa fa-comments" aria-hidden="true"></i>  [Talk about this on Reddit r/aheadfullofwishes](https://www.reddit.com/r/aheadfullofwishes/)
