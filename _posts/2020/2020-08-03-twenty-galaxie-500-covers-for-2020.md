@@ -39,4 +39,25 @@ The website is here:
 The series, curated by David Newgarden (formerly of WFMU around the time Galaxie 500 were active), opens with [Kiwi Jr. covering Tugboat](https://www.20-20-20.com/twentysongs2020).
 
 
+In no particular order the following have all been mentioned as contributing to this series - I have seventeen ...
+
+ - Thurston Moore (Sonic Youth)
+ - Mark Lanegan & Dylan Carlson
+ - Real Estate
+ - Surfer Blood 
+ - Alan Licht & Rebecca Odes
+ - Xiu Xiu
+ - Rachel Haden
+ - Jeanines
+ - Glenn Mercer (The Feelies)
+ - Mark Robinson (Unrest) and Evelyn Hurley
+ - Deadbeat Beat
+ - Kiwi Jr
+ - Calvin Johnson (Beat Happening)
+ - Stephin Merrit (The Magnetic Fields)
+ - Barbara Manning
+ - Mercury Rev
+ - The Natvral (Kip Berman of The Pains of Being Pure at Heart)
+
+
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-record-store-day-2020-copenhagen.jpg" "Galaxie 500 Copenhagen - Record Store Day 2020 edition" %}
