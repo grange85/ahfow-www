@@ -36,7 +36,7 @@ The website is here:
 ... and Rolling Stone has some details and hints at what's upcoming:
  - [Thurston Moore, Mark Lanegan, Real Estate to Cover Galaxie 500 for Video Series](https://www.rollingstone.com/music/music-news/thurston-moore-mark-lanegan-real-estate-galaxie-500-tribute-1038266/)
 
-The series, curated by David Newgarden, opens with [Kiwi Jr. covering Tugboat](https://www.20-20-20.com/twentysongs2020).
+The series, curated by David Newgarden (formerly of WFMU around the time Galaxie 500 were active), opens with [Kiwi Jr. covering Tugboat](https://www.20-20-20.com/twentysongs2020).
 
 
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-record-store-day-2020-copenhagen.jpg" "Galaxie 500 Copenhagen - Record Store Day 2020 edition" %}
