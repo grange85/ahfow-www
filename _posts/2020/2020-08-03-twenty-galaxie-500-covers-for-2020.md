@@ -26,7 +26,7 @@ In the far distant past, before all of ... this, this year's Record Store Day ba
 
 ... but, the vinyl release of Copenhagen will still be released, that's happening in the first of the Record Store Day drops on the 28th August - and while the concert can't happen some of the performers have recorded locked-down home videos which are going to be presented online in the run up to release day.
 
-For the twenty weekdays from today (Monday 3rd August) until release day one video will be released online each day featuring a host of talented artists covering Galaxie 500 songs, some very familiar names will be cropping up featuring members of bands such as Beat Happening, Mercury Rev, The Feelies and The Pains of Being Young at Heart
+For the twenty weekdays from today (Monday 3rd August) until release day one video will be released online each day featuring a host of talented artists covering Galaxie 500 songs, some very familiar names will be cropping up featuring members (or former members) of bands such as Beat Happening, Sonic Youth, Mercury Rev, The Feelies and The Pains of Being Young at Heart
 
 
 
@@ -36,5 +36,7 @@ The website is here:
 ... and Rolling Stone has some details and hints at what's upcoming:
  - [Thurston Moore, Mark Lanegan, Real Estate to Cover Galaxie 500 for Video Series](https://www.rollingstone.com/music/music-news/thurston-moore-mark-lanegan-real-estate-galaxie-500-tribute-1038266/)
 
+The series, curated by David Newgarden, opens with [Kiwi Jr. covering Tugboat](https://www.20-20-20.com/twentysongs2020).
 
-{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-record-store-day-2020-copenhagen.jpg" "Galaxie 500 Copenhagen - Record Store Day 2020 editioN" %}
+
+{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-record-store-day-2020-copenhagen.jpg" "Galaxie 500 Copenhagen - Record Store Day 2020 edition" %}
