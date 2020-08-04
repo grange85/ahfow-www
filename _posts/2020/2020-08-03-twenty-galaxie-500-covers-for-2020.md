@@ -41,18 +41,19 @@ The series, curated by David Newgarden (formerly of WFMU around the time Galaxie
 
 In no particular order the following have all been mentioned as contributing to this series - I have ~~seventeen~~ twenty ...
 
+ - _[Kiwi Jr](https://www.youtube.com/watch?v=2UURZe4pnYg)_
+ - _[Rachel Haden](https://www.youtube.com/watch?v=O22D6bdUMCA)_
+
  - Thurston Moore (Sonic Youth)
  - Mark Lanegan & Dylan Carlson
  - Real Estate
  - Surfer Blood 
  - Alan Licht & Rebecca Odes
  - Xiu Xiu
- - Rachel Haden
  - Jeanines
  - Glenn Mercer (The Feelies)
  - Mark Robinson (Unrest) and Evelyn Hurley
  - Deadbeat Beat
- - _[Kiwi Jr](https://www.youtube.com/watch?v=2UURZe4pnYg)_
  - Calvin Johnson (Beat Happening)
  - Stephin Merrit (The Magnetic Fields)
  - Barbara Manning
