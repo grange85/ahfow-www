@@ -43,6 +43,7 @@ In no particular order the following have all been mentioned as contributing to 
 
  - _[Kiwi Jr](https://www.youtube.com/watch?v=2UURZe4pnYg)_
  - _[Rachel Haden](https://www.youtube.com/watch?v=O22D6bdUMCA)_
+ - _[Deadbeat Beat](https://www.youtube.com/watch?v=0-TB6csDttc)_
 
  - Thurston Moore (Sonic Youth)
  - Mark Lanegan & Dylan Carlson
@@ -53,7 +54,6 @@ In no particular order the following have all been mentioned as contributing to 
  - Jeanines
  - Glenn Mercer (The Feelies)
  - Mark Robinson (Unrest) and Evelyn Hurley
- - Deadbeat Beat
  - Calvin Johnson (Beat Happening)
  - Stephin Merrit (The Magnetic Fields)
  - Barbara Manning
