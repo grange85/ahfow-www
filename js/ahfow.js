@@ -3,7 +3,7 @@ $(document).ready(function() {
 
 
 	$('article a[href^="http://"],article a[href^="https://"]')
-    	.not('a:has(img)').not('article a[href*="fullofwishes"]').not('.resp-sharing-button__link')
+    	.not('a:has(img)').not('article a[href*="fullofwishes\.co\.uk"]').not('.resp-sharing-button__link')
         .attr('target','_blank')
         .append(' <sup><i class="fas fa-external-link-alt initialism"></i></sup>');
 
