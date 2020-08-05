@@ -41,9 +41,9 @@ The series, curated by David Newgarden (formerly of WFMU around the time Galaxie
 
 In no particular order the following have all been mentioned as contributing to this series - I have ~~seventeen~~ twenty ...
 
- - _[Kiwi Jr](https://www.youtube.com/watch?v=2UURZe4pnYg)_
- - _[Rachel Haden](https://www.youtube.com/watch?v=O22D6bdUMCA)_
- - _[Deadbeat Beat](https://www.youtube.com/watch?v=0-TB6csDttc)_
+ - _[Kiwi Jr](https://www.reddit.com/r/aheadfullofwishes/comments/i42rgv/day_1_of_the_galaxie_500_covers_project_was_kiwi/)_
+ - _[Rachel Haden](https://www.reddit.com/r/aheadfullofwishes/comments/i3fltp/rachel_hadens_lovely_bassdriven_cover_of_hearing/)_
+ - _[Deadbeat Beat](https://www.reddit.com/r/aheadfullofwishes/comments/i40iib/day_3_of_the_galaxie_500_covers_project_in_the/)_
 
  - Thurston Moore (Sonic Youth)
  - Mark Lanegan & Dylan Carlson
@@ -52,7 +52,7 @@ In no particular order the following have all been mentioned as contributing to 
  - Alan Licht & Rebecca Odes
  - Xiu Xiu
  - Jeanines
- - Glenn Mercer (The Feelies)
+ - Glenn Mercer (The Feelies)	
  - Mark Robinson (Unrest) and Evelyn Hurley
  - Calvin Johnson (Beat Happening)
  - Stephin Merrit (The Magnetic Fields)
