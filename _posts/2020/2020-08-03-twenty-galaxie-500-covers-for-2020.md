@@ -41,10 +41,10 @@ The series, curated by David Newgarden (formerly of WFMU around the time Galaxie
 
 In no particular order the following have all been mentioned as contributing to this series - I have ~~seventeen~~ twenty ...
 
- - _[Kiwi Jr](https://www.reddit.com/r/aheadfullofwishes/comments/i42rgv/day_1_of_the_galaxie_500_covers_project_was_kiwi/)_
- - _[Rachel Haden](https://www.reddit.com/r/aheadfullofwishes/comments/i3fltp/rachel_hadens_lovely_bassdriven_cover_of_hearing/)_
- - _[Deadbeat Beat](https://www.reddit.com/r/aheadfullofwishes/comments/i40iib/day_3_of_the_galaxie_500_covers_project_in_the/)_
- - _[Xiu Xiu](https://www.reddit.com/r/aheadfullofwishes/comments/i4ovbq/for_day_4_of_the_galaxie_500_covers_series_its/)_
+ - _[Kiwi Jr - Tugboat](https://www.reddit.com/r/aheadfullofwishes/comments/i42rgv/day_1_of_the_galaxie_500_covers_project_was_kiwi/)_
+ - _[Rachel Haden - Hearing Voices](https://www.reddit.com/r/aheadfullofwishes/comments/i3fltp/rachel_hadens_lovely_bassdriven_cover_of_hearing/)_
+ - _[Deadbeat Beat - Oblivious](https://www.reddit.com/r/aheadfullofwishes/comments/i40iib/day_3_of_the_galaxie_500_covers_project_in_the/)_
+ - _[Xiu Xiu - Isn't It a Pity](https://www.reddit.com/r/aheadfullofwishes/comments/i4ovbq/for_day_4_of_the_galaxie_500_covers_series_its/)_
 
  - Thurston Moore (Sonic Youth)
  - Mark Lanegan & Dylan Carlson
