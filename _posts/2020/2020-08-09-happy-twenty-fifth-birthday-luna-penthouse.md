@@ -67,3 +67,7 @@ I Hope the band don't mind me popping this up here but this is an early/rough of
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/50205975722/in/dateposted-public/" title="Penthouse deluxe (2017)"><img src="https://live.staticflickr.com/65535/50205975722_67a02567d6_c.jpg" width="800" height="800" alt="Penthouse deluxe (2017)"></a>
 
 ... better late than never - happy birthday you beauty!
+
+--- 
+
+<i class="fa fa-comments" aria-hidden="true"></i>  [Talk about this on Reddit r/aheadfullofwishes](https://www.reddit.com/r/aheadfullofwishes/comments/i6hv8o/happy_25th_birthday_to_lunas_penthouse/)
