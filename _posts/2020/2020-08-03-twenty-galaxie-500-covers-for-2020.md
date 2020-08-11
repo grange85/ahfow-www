@@ -45,14 +45,15 @@ In no particular order the following have all been mentioned as contributing to 
  - _[Rachel Haden - Hearing Voices](https://www.reddit.com/r/aheadfullofwishes/comments/i3fltp/rachel_hadens_lovely_bassdriven_cover_of_hearing/)_
  - _[Deadbeat Beat - Oblivious](https://www.reddit.com/r/aheadfullofwishes/comments/i40iib/day_3_of_the_galaxie_500_covers_project_in_the/)_
  - _[Xiu Xiu - Isn't It a Pity](https://www.reddit.com/r/aheadfullofwishes/comments/i4ovbq/for_day_4_of_the_galaxie_500_covers_series_its/)_
+ - _[Jeanines - Strange](https://www.reddit.com/r/aheadfullofwishes/comments/i58m7l/end_of_week_one_of_galaxie_500_covers_sees/)_
  - _[Glenn Mercer (The Feelies) - Here She Comes Now](https://www.reddit.com/r/aheadfullofwishes/comments/i70a44/week_two_of_the_galaxie_500_covers_series_opens/)_	
+ - _[Haley Fohr / Circuit des Yeux - Pictures](https://www.reddit.com/r/aheadfullofwishes/comments/i7n7sn/nex_in_the_galaxie_500_covers_series_is_haley/)_
 
  - Thurston Moore (Sonic Youth)
  - Mark Lanegan & Dylan Carlson
  - Real Estate
  - Surfer Blood 
  - Alan Licht & Rebecca Odes
- - Jeanines
  - Mark Robinson (Unrest) and Evelyn Hurley
  - Calvin Johnson (Beat Happening)
  - Stephin Merrit (The Magnetic Fields)
