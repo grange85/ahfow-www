@@ -48,11 +48,11 @@ In no particular order the following have all been mentioned as contributing to 
  - _[Jeanines - Strange](https://www.reddit.com/r/aheadfullofwishes/comments/i58m7l/end_of_week_one_of_galaxie_500_covers_sees/)_
  - _[Glenn Mercer (The Feelies) - Here She Comes Now](https://www.reddit.com/r/aheadfullofwishes/comments/i70a44/week_two_of_the_galaxie_500_covers_series_opens/)_	
  - _[Haley Fohr / Circuit des Yeux - Pictures](https://www.reddit.com/r/aheadfullofwishes/comments/i7n7sn/nex_in_the_galaxie_500_covers_series_is_haley/)_
+ - _[Surfer Blood - Fourth of July](https://www.reddit.com/r/aheadfullofwishes/comments/i88dit/surfer_blood_cover_fourth_of_july_in_todays/)_ 
 
  - Thurston Moore (Sonic Youth)
  - Mark Lanegan & Dylan Carlson
  - Real Estate
- - Surfer Blood 
  - Alan Licht & Rebecca Odes
  - Mark Robinson (Unrest) and Evelyn Hurley
  - Calvin Johnson (Beat Happening)
@@ -63,8 +63,6 @@ In no particular order the following have all been mentioned as contributing to 
  - Papercuts
  - Versus
  - Hamilton (British Sea Power)
-
-
 
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-record-store-day-2020-copenhagen.jpg" "Galaxie 500 Copenhagen - Record Store Day 2020 edition" %}
 
