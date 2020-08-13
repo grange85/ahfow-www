@@ -49,8 +49,8 @@ In no particular order the following have all been mentioned as contributing to 
  - _[Glenn Mercer (The Feelies) - Here She Comes Now](https://www.reddit.com/r/aheadfullofwishes/comments/i70a44/week_two_of_the_galaxie_500_covers_series_opens/)_	
  - _[Haley Fohr / Circuit des Yeux - Pictures](https://www.reddit.com/r/aheadfullofwishes/comments/i7n7sn/nex_in_the_galaxie_500_covers_series_is_haley/)_
  - _[Surfer Blood - Fourth of July](https://www.reddit.com/r/aheadfullofwishes/comments/i88dit/surfer_blood_cover_fourth_of_july_in_todays/)_ 
+ - _[Thurston Moore - Another Day](https://www.reddit.com/r/aheadfullofwishes/comments/i8vkna/todays_galaxie_500_cover_is_by_thurston_moore/)_
 
- - Thurston Moore (Sonic Youth)
  - Mark Lanegan & Dylan Carlson
  - Real Estate
  - Alan Licht & Rebecca Odes
