@@ -21,9 +21,9 @@ tags:
 
  {% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-quarantine-box-3.jpg" "Dean & Britta - Quarantine Box (PIAPTK, 2020)" %}
 
-Just p[ut up for pre-order on the PIAPTK website is a box set of lathe-cut singles](http://piaptk.com/products/676146-dean-and-britta-quarantine-tapes-7x7-boxset) all recorded during Dean & Britta's live sessions recorded/streamed during lockdown.
+Available now from Dean Wareham's website is this lovely [box set of lathe-cut singles](https://deanwareham.com/album/1688965/quarantine-tapes) all recorded during Dean & Britta's lockdown in Echo Park either during their live sessions or in their home studio. They are also [available from the PIAPTK website](http://piaptk.com/products/676146-dean-and-britta-quarantine-tapes-7x7-boxset) 
 
-The box-set contains six square, clear plastic, two-sided 7" singles and will come with a bonus _star shaped_ (although ... is that a star?), one-sided single.
+The box-set contains six square, clear plastic, two-sided 7" singles and will come with a bonus _star shaped_ (although ... [is that a star?](https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-quarantine-box-5.jpg)), one-sided single.
 
 Track listing as follows:
 
@@ -51,9 +51,17 @@ Disc 6
  - He Dines Out On Death (Cristina)
  - 23 Minutes in Brussels (Luna)
 
-Bonus
+These [six singles can also be bought separately](https://deanwareham.com/shop) for $12.99 and includes a download of all the tracks.
+
+Bonus "star" shaped single only available with the box
  - Parking Lot (Galaxie 500)
 
-[Pre-order from the PIAPTK website for $74.99 plus postage](http://piaptk.com/products/676146-dean-and-britta-quarantine-tapes-7x7-boxset) - there's a warning about international shipping being rubbish so ... make your choice!
+
+Buy from [Dean Wareham's shop](https://deanwareham.com/shop) or the [PIAPTK website](http://piaptk.com/products/676146-dean-and-britta-quarantine-tapes-7x7-boxset) for $74.99 plus postage - there's a warning about international shipping being rubbish so ... make your choice!
 
 Related link: [And 99 cents my ass - Justin Harwood (for FuzzyWuzzy 1999)](https://web.archive.org/web/19990128165114/http://www.fuzzywuzzy.com/ass/99.html)
+
+You can also buy downloads of all the tracks except Plastic Bird from [Dean & Britta's Bandcamp](https://deanandbritta.bandcamp.com/album/quarantine-tapes)
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=740684993/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://deanandbritta.bandcamp.com/album/quarantine-tapes">Quarantine Tapes by Dean &amp; Britta</a></iframe>
+
+
