@@ -19,7 +19,7 @@ tags:
  - release
 ---
 
- {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie500-1989-09-photo-r-deluze-1024.jpg" "Galaxie 500 (photo R. Deluze)" %}
+ {% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-quarantine-box-3.jpg" "Dean & Britta - Quarantine Box (PIAPTK, 2020)" %}
 
 Just p[ut up for pre-order on the PIAPTK website is a box set of lathe-cut singles](http://piaptk.com/products/676146-dean-and-britta-quarantine-tapes-7x7-boxset) all recorded during Dean & Britta's live sessions recorded/streamed during lockdown.
 
