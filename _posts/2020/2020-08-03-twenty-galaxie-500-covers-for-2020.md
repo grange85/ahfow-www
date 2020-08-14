@@ -50,6 +50,7 @@ In no particular order the following have all been mentioned as contributing to 
  - _[Haley Fohr / Circuit des Yeux - Pictures](https://www.reddit.com/r/aheadfullofwishes/comments/i7n7sn/nex_in_the_galaxie_500_covers_series_is_haley/)_
  - _[Surfer Blood - Fourth of July](https://www.reddit.com/r/aheadfullofwishes/comments/i88dit/surfer_blood_cover_fourth_of_july_in_todays/)_ 
  - _[Thurston Moore - Another Day](https://www.reddit.com/r/aheadfullofwishes/comments/i8vkna/todays_galaxie_500_cover_is_by_thurston_moore/)_
+ - _[The Natvral - Tell Me](https://www.reddit.com/r/aheadfullofwishes/comments/i9gw5f/rounding_up_another_fab_week_of_the_galaxie_500/)_
 
  - Mark Lanegan & Dylan Carlson
  - Real Estate
@@ -59,7 +60,6 @@ In no particular order the following have all been mentioned as contributing to 
  - Stephin Merrit (The Magnetic Fields)
  - Barbara Manning
  - Mercury Rev
- - The Natvral (Kip Berman of The Pains of Being Pure at Heart)
  - Papercuts
  - Versus
  - Hamilton (British Sea Power)
