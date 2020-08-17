@@ -51,6 +51,7 @@ In no particular order the following have all been mentioned as contributing to 
  - _[Surfer Blood - Fourth of July](https://www.reddit.com/r/aheadfullofwishes/comments/i88dit/surfer_blood_cover_fourth_of_july_in_todays/)_ 
  - _[Thurston Moore - Another Day](https://www.reddit.com/r/aheadfullofwishes/comments/i8vkna/todays_galaxie_500_cover_is_by_thurston_moore/)_
  - _[The Natvral - Tell Me](https://www.reddit.com/r/aheadfullofwishes/comments/i9gw5f/rounding_up_another_fab_week_of_the_galaxie_500/)_
+ - _[Winter - Ceremony](https://www.reddit.com/r/aheadfullofwishes/comments/ibbi3y/week_three_of_the_galaxie_500_covers_series_opens/)_
 
  - Mark Lanegan & Dylan Carlson
  - Real Estate
