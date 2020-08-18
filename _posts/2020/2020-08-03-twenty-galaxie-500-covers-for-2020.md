@@ -52,6 +52,8 @@ In no particular order the following have all been mentioned as contributing to 
  - _[Thurston Moore - Another Day](https://www.reddit.com/r/aheadfullofwishes/comments/i8vkna/todays_galaxie_500_cover_is_by_thurston_moore/)_
  - _[The Natvral - Tell Me](https://www.reddit.com/r/aheadfullofwishes/comments/i9gw5f/rounding_up_another_fab_week_of_the_galaxie_500/)_
  - _[Winter - Ceremony](https://www.reddit.com/r/aheadfullofwishes/comments/ibbi3y/week_three_of_the_galaxie_500_covers_series_opens/)_
+ - _[Barbara Manning - Temperature's Rising](https://www.reddit.com/r/aheadfullofwishes/comments/iby9fw/beautiful_version_of_temperatures_rising_with_a/)_
+
 
  - Mark Lanegan & Dylan Carlson
  - Real Estate
@@ -59,7 +61,6 @@ In no particular order the following have all been mentioned as contributing to 
  - Mark Robinson (Unrest) and Evelyn Hurley
  - Calvin Johnson (Beat Happening)
  - Stephin Merrit (The Magnetic Fields)
- - Barbara Manning
  - Mercury Rev
  - Papercuts
  - Versus
