@@ -53,7 +53,7 @@ In no particular order the following have all been mentioned as contributing to 
  - _[The Natvral - Tell Me](https://www.reddit.com/r/aheadfullofwishes/comments/i9gw5f/rounding_up_another_fab_week_of_the_galaxie_500/)_
  - _[Winter - Ceremony](https://www.reddit.com/r/aheadfullofwishes/comments/ibbi3y/week_three_of_the_galaxie_500_covers_series_opens/)_
  - _[Barbara Manning - Temperature's Rising](https://www.reddit.com/r/aheadfullofwishes/comments/iby9fw/beautiful_version_of_temperatures_rising_with_a/)_
-
+ - _[Hamilton (British Sea Power) - Cheese and Onions](https://www.reddit.com/r/aheadfullofwishes/comments/ici8i3/todays_galaxie_500_cover_is_another_cover_of_a/)_
 
  - Mark Lanegan & Dylan Carlson
  - Real Estate
@@ -64,7 +64,7 @@ In no particular order the following have all been mentioned as contributing to 
  - Mercury Rev
  - Papercuts
  - Versus
- - Hamilton (British Sea Power)
+
 
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-record-store-day-2020-copenhagen.jpg" "Galaxie 500 Copenhagen - Record Store Day 2020 edition" %}
 
