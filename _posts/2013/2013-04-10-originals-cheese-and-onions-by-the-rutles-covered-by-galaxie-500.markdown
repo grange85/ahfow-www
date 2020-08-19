@@ -30,3 +30,7 @@ Galaxie 500 covered it for the Shimmy Disc tribute album Rutles Highway Revisite
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/cheese-and-onion-crisps.jpg" width="550" height="358" alt="Cheese and onion crisp packets" class /><figcaption class="caption-text"> C-H-E-E-S-E-A-N-D-O-N-I-O-N-S</figcaption></figure>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/5CAdEg_oOg4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>
+
+--- 
+
+<i class="fa fa-comments" aria-hidden="true"></i>  [Talk about this on Reddit r/aheadfullofwishes](https://www.reddit.com/r/aheadfullofwishes/comments/ickrca/originals_cheese_and_onions_by_the_rutles_covered/)
