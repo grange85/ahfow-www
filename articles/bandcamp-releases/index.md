@@ -72,6 +72,7 @@ Dean & Britta's first two albums are on Bandcamp, and there wonderful cover of T
  - [The Carnival Is Over - Dean & Britta](https://deanandbritta.bandcamp.com/track/the-carnival-is-over)
  - [Back Numbers - Dean & Britta](https://deanandbritta.bandcamp.com/album/back-numbers)
  - [L'Avventura + bonus tracks (Sonic Boom remixes) - Dean & Britta](https://deanandbritta.bandcamp.com/album/lavventura-bonus-tracks-sonic-boom-remixes)
+ - [Quarantine Tapes](https://deanandbritta.bandcamp.com/album/quarantine-tapes)
 
 Britta's lovely solo album is there too
 - [Luck or Magic - Britta Phillips](https://brittaphillips.bandcamp.com/album/luck-or-magic)
