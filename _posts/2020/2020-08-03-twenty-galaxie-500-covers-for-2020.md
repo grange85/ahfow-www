@@ -54,11 +54,11 @@ In no particular order the following have all been mentioned as contributing to 
  - _[Winter - Ceremony](https://www.reddit.com/r/aheadfullofwishes/comments/ibbi3y/week_three_of_the_galaxie_500_covers_series_opens/)_
  - _[Barbara Manning - Temperature's Rising](https://www.reddit.com/r/aheadfullofwishes/comments/iby9fw/beautiful_version_of_temperatures_rising_with_a/)_
  - _[Hamilton (British Sea Power) - Cheese and Onions](https://www.reddit.com/r/aheadfullofwishes/comments/ici8i3/todays_galaxie_500_cover_is_another_cover_of_a/)_
+ - _[Cotton Candy (Mark Robinson and Evelyn Hurley - Parking Lot](https://www.reddit.com/r/aheadfullofwishes/comments/id6402/todays_galaxie_500_cover_is_cotton_candy_mark/)_
 
  - Mark Lanegan & Dylan Carlson
  - Real Estate
  - Alan Licht & Rebecca Odes
- - Mark Robinson (Unrest) and Evelyn Hurley
  - Calvin Johnson (Beat Happening)
  - Stephin Merrit (The Magnetic Fields)
  - Mercury Rev
