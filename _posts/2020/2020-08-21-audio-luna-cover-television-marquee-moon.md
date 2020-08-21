@@ -20,7 +20,9 @@ tags:
 ---
 {% ahfowimage "https://www.fullofwishes.co.uk/images/luna-marquee-moon.jpg" "Luna - Marquee Moon" %}
 
-1996 to 1999 era Luna have just released a cover of Television's Marquee Moon. The track was recorded in Auckland (Justin), Los Angeles (Dean), Austin and San Francisco (Sean and Lee) in June 2020 and mixed by Justin.
+1996 to 1999 era Luna have just released a cover of Television's Marquee Moon. The track was recorded in Auckland (Justin), Los Angeles (Dean), Austin (Lee) and San Francisco (Sean) in June 2020 and mixed by Justin.
+
+> Here is how we did it. Lee Wall laid down a drum track at his home studio in Austin. Sean mapped out and played the bulk of the electric guitars in San Francisco, I sang and added a bit more guitar here in Los Angeles, and Justin recorded the bass in Auckland, New Zealand (where he has lived since leaving the band some 20 years ago); he also mixed the track and made a very cool video which he assembled from iPhone footage we each sent him. 
 
 It is [available to buy for $1.99 (or more) on Bandcamp](https://luna.bandcamp.com/track/marquee-moon).
 
@@ -31,7 +33,6 @@ Update: Now with a video...
 > During the current pandemic, with Luna members spread around the globe, our former bassist Justin Harwood suggested that we record Television’s epic track “Marquee Moon." We recorded the song one instrument at a time in four different locations; Lee Wall recorded his drum track in Austin, Sean Eden tracked the guitars in San Francisco, Justin played the Fender bass in Auckland, New Zealand, and Dean Wareham sang and added guitar in Los Angeles. Britta Phillips sat this one out but does appear in the video. Justin Harwood mixed the song and assembled the video from iPhone footage made by the band members.
 
 {% aavid "aseX4V4QgFY" "Luna - Marquee Moon (2020)" %}	
-
 
 --- 
 
