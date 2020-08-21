@@ -11,14 +11,14 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2020-08-21
-imageurl: https://www.fullofwishes.co.uk/images/luna-marquee-moon.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-marquee-moon.jpg
 categories:
  - luna
  - news
 tags:
  - covers
 ---
-{% ahfowimage "https://www.fullofwishes.co.uk/images/luna-marquee-moon.jpg" "Luna - Marquee Moon" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/02-luna/sleeves/luna-marquee-moon.jpg" "Luna - Marquee Moon" %}
 
 1996 to 1999 era Luna have just released a cover of Television's Marquee Moon. The track was recorded in Auckland (Justin), Los Angeles (Dean), Austin (Lee) and San Francisco (Sean) in June 2020 and mixed by Justin.
 
