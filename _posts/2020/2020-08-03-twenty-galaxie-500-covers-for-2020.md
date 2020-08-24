@@ -56,9 +56,9 @@ In no particular order the following have all been mentioned as contributing to 
  - _[Hamilton (British Sea Power) - Cheese and Onions](https://www.reddit.com/r/aheadfullofwishes/comments/ici8i3/todays_galaxie_500_cover_is_another_cover_of_a/)_
  - _[Cotton Candy (Mark Robinson and Evelyn Hurley - Parking Lot](https://www.reddit.com/r/aheadfullofwishes/comments/id6402/todays_galaxie_500_cover_is_cotton_candy_mark/)_
  - _[Mark Lanegan & Dylan Carlson](https://www.reddit.com/r/aheadfullofwishes/comments/idrezw/bringing_week_three_of_galaxie_500_covers_to_a/)_
+ - _[Rebecca Odes & Alan Licht](https://www.reddit.com/r/aheadfullofwishes/comments/ifkmel/the_last_week_in_the_galaxie_500_covers_series/)_
 
  - Real Estate
- - Alan Licht & Rebecca Odes
  - Calvin Johnson (Beat Happening)
  - Stephin Merrit (The Magnetic Fields)
  - Mercury Rev
@@ -67,7 +67,4 @@ In no particular order the following have all been mentioned as contributing to 
 
 
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-record-store-day-2020-copenhagen.jpg" "Galaxie 500 Copenhagen - Record Store Day 2020 edition" %}
-
---- 
-
-<i class="fa fa-comments" aria-hidden="true"></i>  [Talk about this on Reddit r/aheadfullofwishes](https://www.reddit.com/r/aheadfullofwishes/comments/i2y0ty/twenty_galaxie_500_covers_for_2020/)
+	
