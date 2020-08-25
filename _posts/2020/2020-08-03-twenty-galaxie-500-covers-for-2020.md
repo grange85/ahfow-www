@@ -57,10 +57,11 @@ In no particular order the following have all been mentioned as contributing to 
  - _[Cotton Candy (Mark Robinson and Evelyn Hurley - Parking Lot](https://www.reddit.com/r/aheadfullofwishes/comments/id6402/todays_galaxie_500_cover_is_cotton_candy_mark/)_
  - _[Mark Lanegan & Dylan Carlson](https://www.reddit.com/r/aheadfullofwishes/comments/idrezw/bringing_week_three_of_galaxie_500_covers_to_a/)_
  - _[Rebecca Odes & Alan Licht](https://www.reddit.com/r/aheadfullofwishes/comments/ifkmel/the_last_week_in_the_galaxie_500_covers_series/)_
+ - _[Stephin Merrit - Listen The Snow is Falling](https://www.reddit.com/r/aheadfullofwishes/comments/ig71c7/another_cover_of_a_galaxie_500_cover_today/)_
+
 
  - Real Estate
  - Calvin Johnson (Beat Happening)
- - Stephin Merrit (The Magnetic Fields)
  - Mercury Rev
  - Papercuts
  - Versus
