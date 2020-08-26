@@ -58,12 +58,12 @@ In no particular order the following have all been mentioned as contributing to 
  - _[Mark Lanegan & Dylan Carlson](https://www.reddit.com/r/aheadfullofwishes/comments/idrezw/bringing_week_three_of_galaxie_500_covers_to_a/)_
  - _[Rebecca Odes & Alan Licht](https://www.reddit.com/r/aheadfullofwishes/comments/ifkmel/the_last_week_in_the_galaxie_500_covers_series/)_
  - _[Stephin Merrit - Listen The Snow is Falling](https://www.reddit.com/r/aheadfullofwishes/comments/ig71c7/another_cover_of_a_galaxie_500_cover_today/)_
+ - _[Papercuts - When Will You Come Home](https://www.reddit.com/r/aheadfullofwishes/comments/igtozw/the_lovely_papercuts_cover_when_will_you_come/)_
+ - _[Calvin Johnson - Spook](https://www.reddit.com/r/aheadfullofwishes/comments/igtqdl/calvin_johnson_covers_spook_for_the_second_of/)_
 
 
  - Real Estate
- - Calvin Johnson (Beat Happening)
  - Mercury Rev
- - Papercuts
  - Versus
 
 
