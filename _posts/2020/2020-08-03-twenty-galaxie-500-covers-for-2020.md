@@ -39,8 +39,6 @@ The website is here:
 The series, curated by David Newgarden (formerly of WFMU around the time Galaxie 500 were active), opens with [Kiwi Jr. covering Tugboat](https://www.20-20-20.com/twentysongs2020).
 
 
-In no particular order the following have all been mentioned as contributing to this series - I have ~~seventeen~~ twenty ...
-
  - _[Kiwi Jr - Tugboat](https://www.reddit.com/r/aheadfullofwishes/comments/i42rgv/day_1_of_the_galaxie_500_covers_project_was_kiwi/)_
  - _[Rachel Haden - Hearing Voices](https://www.reddit.com/r/aheadfullofwishes/comments/i3fltp/rachel_hadens_lovely_bassdriven_cover_of_hearing/)_
  - _[Deadbeat Beat - Oblivious](https://www.reddit.com/r/aheadfullofwishes/comments/i40iib/day_3_of_the_galaxie_500_covers_project_in_the/)_
@@ -60,12 +58,9 @@ In no particular order the following have all been mentioned as contributing to 
  - _[Stephin Merrit - Listen The Snow is Falling](https://www.reddit.com/r/aheadfullofwishes/comments/ig71c7/another_cover_of_a_galaxie_500_cover_today/)_
  - _[Papercuts - When Will You Come Home](https://www.reddit.com/r/aheadfullofwishes/comments/igtozw/the_lovely_papercuts_cover_when_will_you_come/)_
  - _[Calvin Johnson - Spook](https://www.reddit.com/r/aheadfullofwishes/comments/igtqdl/calvin_johnson_covers_spook_for_the_second_of/)_
+ - _[Real Estate - Plastic Bird]()https://www.reddit.com/r/aheadfullofwishes/comments/ihh7dr/first_galaxie_500_cover_today_is_real_estate/_
+ - _[Versus - Blue Thunder](https://www.reddit.com/r/aheadfullofwishes/comments/ihh9g8/a_lovely_cover_of_blue_thunder_by_versus_is_the/)_
 
-
- - Real Estate
  - Mercury Rev
- - Versus
-
 
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-record-store-day-2020-copenhagen.jpg" "Galaxie 500 Copenhagen - Record Store Day 2020 edition" %}
-	
