@@ -38,6 +38,7 @@ The website is here:
 
 The series, curated by David Newgarden (formerly of WFMU around the time Galaxie 500 were active), opens with [Kiwi Jr. covering Tugboat](https://www.20-20-20.com/twentysongs2020).
 
+Here's a [YouTube playlist of all 22 covers](https://www.youtube.com/playlist?list=PLREvI5uZYozk6JVjK3mKxhknZ3Oru1-Re) in the series.
 
  - _[Kiwi Jr - Tugboat](https://www.reddit.com/r/aheadfullofwishes/comments/i42rgv/day_1_of_the_galaxie_500_covers_project_was_kiwi/)_
  - _[Rachel Haden - Hearing Voices](https://www.reddit.com/r/aheadfullofwishes/comments/i3fltp/rachel_hadens_lovely_bassdriven_cover_of_hearing/)_
@@ -60,7 +61,10 @@ The series, curated by David Newgarden (formerly of WFMU around the time Galaxie
  - _[Calvin Johnson - Spook](https://www.reddit.com/r/aheadfullofwishes/comments/igtqdl/calvin_johnson_covers_spook_for_the_second_of/)_
  - _[Real Estate - Plastic Bird]()https://www.reddit.com/r/aheadfullofwishes/comments/ihh7dr/first_galaxie_500_cover_today_is_real_estate/_
  - _[Versus - Blue Thunder](https://www.reddit.com/r/aheadfullofwishes/comments/ihh9g8/a_lovely_cover_of_blue_thunder_by_versus_is_the/)_
+ - _[Holy Shit - It's Getting Late](https://www.reddit.com/r/aheadfullofwishes/comments/ii3dz9/heres_holy_shit_covering_its_getting_late_in_the/)_
+ - _[Mercury Rev - Snowstorm](https://www.reddit.com/r/aheadfullofwishes/comments/ii27wy/and_wrapping_up_the_galaxie_500_covers_series_is/)_
 
- - Mercury Rev
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLREvI5uZYozk6JVjK3mKxhknZ3Oru1-Re" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-record-store-day-2020-copenhagen.jpg" "Galaxie 500 Copenhagen - Record Store Day 2020 edition" %}
