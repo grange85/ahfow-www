@@ -54,12 +54,12 @@ Here's a [YouTube playlist of all 22 covers](https://www.youtube.com/playlist?li
  - _[Barbara Manning - Temperature's Rising](https://www.reddit.com/r/aheadfullofwishes/comments/iby9fw/beautiful_version_of_temperatures_rising_with_a/)_
  - _[Hamilton (British Sea Power) - Cheese and Onions](https://www.reddit.com/r/aheadfullofwishes/comments/ici8i3/todays_galaxie_500_cover_is_another_cover_of_a/)_
  - _[Cotton Candy (Mark Robinson and Evelyn Hurley - Parking Lot](https://www.reddit.com/r/aheadfullofwishes/comments/id6402/todays_galaxie_500_cover_is_cotton_candy_mark/)_
- - _[Mark Lanegan & Dylan Carlson](https://www.reddit.com/r/aheadfullofwishes/comments/idrezw/bringing_week_three_of_galaxie_500_covers_to_a/)_
- - _[Rebecca Odes & Alan Licht](https://www.reddit.com/r/aheadfullofwishes/comments/ifkmel/the_last_week_in_the_galaxie_500_covers_series/)_
+ - _[Mark Lanegan & Dylan Carlson - Summertime](https://www.reddit.com/r/aheadfullofwishes/comments/idrezw/bringing_week_three_of_galaxie_500_covers_to_a/)_
+ - _[Rebecca Odes & Alan Licht - Don't Let Our Youth Go To Waste](https://www.reddit.com/r/aheadfullofwishes/comments/ifkmel/the_last_week_in_the_galaxie_500_covers_series/)_
  - _[Stephin Merrit - Listen The Snow is Falling](https://www.reddit.com/r/aheadfullofwishes/comments/ig71c7/another_cover_of_a_galaxie_500_cover_today/)_
  - _[Papercuts - When Will You Come Home](https://www.reddit.com/r/aheadfullofwishes/comments/igtozw/the_lovely_papercuts_cover_when_will_you_come/)_
  - _[Calvin Johnson - Spook](https://www.reddit.com/r/aheadfullofwishes/comments/igtqdl/calvin_johnson_covers_spook_for_the_second_of/)_
- - _[Real Estate - Plastic Bird]()https://www.reddit.com/r/aheadfullofwishes/comments/ihh7dr/first_galaxie_500_cover_today_is_real_estate/_
+ - _[Real Estate - Plastic Bird](https://www.reddit.com/r/aheadfullofwishes/comments/ihh7dr/first_galaxie_500_cover_today_is_real_estate/)_
  - _[Versus - Blue Thunder](https://www.reddit.com/r/aheadfullofwishes/comments/ihh9g8/a_lovely_cover_of_blue_thunder_by_versus_is_the/)_
  - _[Holy Shit - It's Getting Late](https://www.reddit.com/r/aheadfullofwishes/comments/ii3dz9/heres_holy_shit_covering_its_getting_late_in_the/)_
  - _[Mercury Rev - Snowstorm](https://www.reddit.com/r/aheadfullofwishes/comments/ii27wy/and_wrapping_up_the_galaxie_500_covers_series_is/)_
