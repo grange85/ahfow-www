@@ -38,7 +38,7 @@ The website is here:
 
 The series, curated by David Newgarden (formerly of WFMU around the time Galaxie 500 were active), opens with [Kiwi Jr. covering Tugboat](https://www.20-20-20.com/twentysongs2020).
 
-Here's a [YouTube playlist of all 22 covers](https://www.youtube.com/playlist?list=PLREvI5uZYozk6JVjK3mKxhknZ3Oru1-Re) in the series.
+Here's a [YouTube playlist of all 24 covers](https://www.youtube.com/playlist?list=PLREvI5uZYozk6JVjK3mKxhknZ3Oru1-Re) in the series.
 
  - _[Kiwi Jr - Tugboat](https://www.reddit.com/r/aheadfullofwishes/comments/i42rgv/day_1_of_the_galaxie_500_covers_project_was_kiwi/)_
  - _[Rachel Haden - Hearing Voices](https://www.reddit.com/r/aheadfullofwishes/comments/i3fltp/rachel_hadens_lovely_bassdriven_cover_of_hearing/)_
@@ -53,7 +53,7 @@ Here's a [YouTube playlist of all 22 covers](https://www.youtube.com/playlist?li
  - _[Winter - Ceremony](https://www.reddit.com/r/aheadfullofwishes/comments/ibbi3y/week_three_of_the_galaxie_500_covers_series_opens/)_
  - _[Barbara Manning - Temperature's Rising](https://www.reddit.com/r/aheadfullofwishes/comments/iby9fw/beautiful_version_of_temperatures_rising_with_a/)_
  - _[Hamilton (British Sea Power) - Cheese and Onions](https://www.reddit.com/r/aheadfullofwishes/comments/ici8i3/todays_galaxie_500_cover_is_another_cover_of_a/)_
- - _[Cotton Candy (Mark Robinson and Evelyn Hurley - Parking Lot](https://www.reddit.com/r/aheadfullofwishes/comments/id6402/todays_galaxie_500_cover_is_cotton_candy_mark/)_
+ - _[Cotton Candy (Mark Robinson and Evelyn Hurley) - Parking Lot](https://www.reddit.com/r/aheadfullofwishes/comments/id6402/todays_galaxie_500_cover_is_cotton_candy_mark/)_
  - _[Mark Lanegan & Dylan Carlson - Summertime](https://www.reddit.com/r/aheadfullofwishes/comments/idrezw/bringing_week_three_of_galaxie_500_covers_to_a/)_
  - _[Rebecca Odes & Alan Licht - Don't Let Our Youth Go To Waste](https://www.reddit.com/r/aheadfullofwishes/comments/ifkmel/the_last_week_in_the_galaxie_500_covers_series/)_
  - _[Stephin Merrit - Listen The Snow is Falling](https://www.reddit.com/r/aheadfullofwishes/comments/ig71c7/another_cover_of_a_galaxie_500_cover_today/)_
@@ -63,6 +63,7 @@ Here's a [YouTube playlist of all 22 covers](https://www.youtube.com/playlist?li
  - _[Versus - Blue Thunder](https://www.reddit.com/r/aheadfullofwishes/comments/ihh9g8/a_lovely_cover_of_blue_thunder_by_versus_is_the/)_
  - _[Holy Shit - It's Getting Late](https://www.reddit.com/r/aheadfullofwishes/comments/ii3dz9/heres_holy_shit_covering_its_getting_late_in_the/)_
  - _[Mercury Rev - Snowstorm](https://www.reddit.com/r/aheadfullofwishes/comments/ii27wy/and_wrapping_up_the_galaxie_500_covers_series_is/)_
+ - _[Kramer - Decomposing Trees](https://www.reddit.com/r/aheadfullofwishes/comments/iio35o/one_more_kramer_brings_the_galaxie_500_covers/)_
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLREvI5uZYozk6JVjK3mKxhknZ3Oru1-Re" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
