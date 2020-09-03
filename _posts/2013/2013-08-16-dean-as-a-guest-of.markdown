@@ -40,5 +40,5 @@ Later this month Dean Wareham will be releasing a solo single on fab indie <a hr
 <p><figure class="caption aligncenter"><a href="http://www.flickr.com/photos/r-e-c-e-i-v-e-d/3504815221/"><img src="https://farm4.staticflickr.com/3618/3504815221_5590ed297d.jpg" width="500" height="281" class /></a><figcaption class="caption-text"> Dean as a guest of Cheval Sombre (photo by Valdina)</figcaption></figure></p>
 <p>Dean as a guest of Cheval Sombre - I Found It Not So<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/0lXnqpr_0H0" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/w326GYZKiU8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>I've missed out a hatful - please leave a comment if I've missed out your favourite!</p>
