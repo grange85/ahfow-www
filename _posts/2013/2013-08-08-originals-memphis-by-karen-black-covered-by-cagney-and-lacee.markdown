@@ -15,6 +15,7 @@ date: '2013-08-08'
 categories:
 - dean wareham
 - originals
+- cagney & lacee
 tags: []
 ---
 <p>Because of the very sad news of <a href="http://en.wikipedia.org/wiki/Karen_Black">Karen Black</a>'s passing today, here's the splendid Memphis that she wrote and recorded for Robert Altman's wonderful <a href="http://en.wikipedia.org/wiki/Nashville_%28film%29">Nashville</a></p>
