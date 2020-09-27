@@ -29,7 +29,7 @@ They played two sets once again using the Veeps platform and, once again, were e
 On time, and without any noticeable technical issues this time (save for the slight annoyance of the video struggling with autofocus) - Dean and Britta took the _stage_ - and, this time, the stage didn't involve a sofa - the shows were to be played standing up.
 
 The first set opened with The Incredible String Band's Air followed by Night Nurse and Galaxie 500's Pictures. The duo seemed relaxed and were on good chatty form and the periodic dip into the chat-room didn't seem as intrusive as it sometimes did in earlier shows. That chat-room was lively and fun and added to the enjoyment of the show.
-<!-- more -->
+<!--more-->
 The show continued with more dips into the catalogues of Luna (Tiger Lily), Galaxie 500 (It's Getting Late), and Dean & Britta (We're Not Supposed to be Lovers). A highlight came mid-set when Dean mentioned that they'd had a request for Slow Song and demonstrated the similarity between that and Scott Walker's Duchess by playing a beautiful cover of the latter.
 <div class="col-md-6 pull-right">{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2020-09-26/2020-09-26-dean-and-britta-veeps-33.jpg" "Poetry break" %}</div>
 
@@ -54,18 +54,31 @@ So, I have no idea what Dean & Britta's definition of _the season_ is but in the
 Britta seemed up for it ...
 
 > Andy: Sad this'll be the last one of the "season" - you should do a xmas one! Start rehearsing Wonderful Christmastime now and you might have perfected it by December :) - thanks Dean & Britta!
+>  
 > Britta: Hi Andy! Already thinking about xmas songs we can play for a xmas time show  
+>  
 > ahlicake: He's Coming Home!  
+>  
 > EggNog: Egg Nog?   
+>  
 > itunongar: Listen the snow is falling ...  
+>  
 > Britta: @ahlicake HI! Yes! "He's Coming Home for sure!  
+>  
 > Andy: Oh you have to do it now Britta!  
+>  
 > chriscecil: Superfreaky Memories..I always listen to that around Christmastime.  
+>  
 > Britta: Eggnog for sure  
+>  
 > Britta: Yeah, super freaky is a nice dark xmas song  
+>  
 > Phil & DaraL "It's winter in New Jersey..."  
+>  
 > Britta: I def wanna do Little Altar Boy  
-> Andy: Snowstorm -- Old Toy Trains -- Stille Nacht - you've already done so many seasonal gems!  
+>  
+> Andy: Snowstorm -- Old Toy Trains -- Stille Nacht - you've already done so many seasonal gems  
+>  
 > Britta: Hey, that's almost a full set!  
 
 ... so ... fingers crossed! Feel free to keep up the pressure on them on your social-media platform of choice :)
