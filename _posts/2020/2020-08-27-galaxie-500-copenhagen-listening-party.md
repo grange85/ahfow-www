@@ -20,7 +20,7 @@ tags:
  - record store day
  - twitter
 ---
-{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/2020-08-27-dk-copenhagen-twitter.jpg" "Galaxir 500 - Copenhagen Twitter listening party" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/2020-08-27-dk-copenhagen-twitter.jpg" "Galaxie 500 - Copenhagen Twitter listening party" %}
 
 On Thursday evening, ahead of Galaxie 500's Copenhagen arriving on vinyl for the first time on Saturday, (Damon Krukowski [@dada_drummer](https://twitter.com/dada_drummer)) will be on Twitter listening to the album and chatting/commenting on it - and answering questions. 
 
