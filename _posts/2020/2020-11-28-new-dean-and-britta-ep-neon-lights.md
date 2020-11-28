@@ -31,4 +31,5 @@ Dean & Britta are releasing a 12" EP containing four mixes of the recording of N
 
 >  Florian Schneider of Kraftwerk passed away this year. Britta and I recorded "Neon Lights" in his honor for a livestream show, and released it on a lathe-cut 7" single with a re-mix by Holy Shit (aka Matt Fishbeck, who lives around the corner from us in Echo Park). But Matt actually created three very different re-mixes for ecstatic/melancholy moods, and we've now put them together with Britta's mix on 12" vinyl running at 45 rpm (the best-sounding vinyl format). This EP is limited to 700 copies and the cover image again is by painter Brian Calvin.
 
-Head over to Dean's shop to grab a copy	
+Head over to [Dean's shop to grab a copy](https://deanwareham.com/shop)
+	
