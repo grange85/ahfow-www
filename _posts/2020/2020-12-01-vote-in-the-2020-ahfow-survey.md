@@ -11,14 +11,17 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2020-12-01
-imageurl: 
+imageurl: https://www.fullofwishes.co.uk/images/polling-station.jpg
 categories:
  - news
 tags:
  - survey
 flickr: true
 ---
+{% ahfowimage "/images/polling-station.jpg" "Polling station -> This way" %}
 
+It's survey time again!
+	
 <p><a class="btn btn-primary" href="https://forms.gle/LUHpwT2z6yX46ndk6" role="button">Vote in the 2020 survey</a></p>
 
 There'll be a couple of entries drawn from the e-hat that'll get a little bit of something - one from the US and one from somewhere else in the world.
