@@ -11,7 +11,7 @@ sitemap: false
   </a>
 </div>
 <div class="list-group">
-  <a href="https://www.fullofwishes.co.uk/2020/12/01/vote-in-the-2020-ahfow-survey/" class="list-group-item list-group-item-info">
+  <a href="https://aheadfullofwishes.bandcamp.com/merch" class="list-group-item list-group-item-info">
     <h3 class="list-group-item-heading">Galaxie 500 tribute album</h3>
     <p class="list-group-item-text"><strong>This Music Is Ours / On Fire 30</strong> double pack</p>
   </a>
