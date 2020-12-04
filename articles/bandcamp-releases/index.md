@@ -85,8 +85,9 @@ Dean Wareham
 
 #### AHFoW
 
-I'm very proud to have released The On Fire 30 tribute album - and you shold own a copy if you don't already! I'll donate any money from sales on Friday to Black Lives Matter UK
+I'm very proud to have released these Galaxie 500 tribute albums - available individually or as a discounted double pack! 
  - [On Fire 30 - Various Artists](https://aheadfullofwishes.bandcamp.com/album/on-fire-30)
+ - [This Music Is Ours - Various Artists](https://aheadfullofwishes.bandcamp.com/album/this-music-is-ours)
 
 
 #### Sean Eden
@@ -118,6 +119,7 @@ You can find AHFoW related folk on these (and plenty more if you hunt around)
  - [Tribute to Galaxie 500 - Various Artists](https://elefantrecordsclassics.bandcamp.com/album/tribute-to-galaxie-500)
  - [Blue Thunder, A Tribute to Galaxie 500 - Various Artists](https://theblogthatcelebratesitself.bandcamp.com/album/va-blue-thunder-a-tribute-to-galaxie-500)
  - [On Fire 30 - Various Artists](https://aheadfullofwishes.bandcamp.com/album/on-fire-30)
+ - [This Music Is Ours - Various Artists](https://aheadfullofwishes.bandcamp.com/album/this-music-is-ours)
  - [Snowstorm: A Tribute To Galaxie 500](https://elefantrecordsclassics.bandcamp.com/album/snowstorm-a-tribute-to-galaxie-500)
  - [No Tan Buenos Pero Diferentes (Un tributo a Galaxie 500) ](https://lofirecords.bandcamp.com/album/no-tan-buenos-pero-diferentes-un-tributo-a-galaxie-500)
 
