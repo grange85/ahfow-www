@@ -10,8 +10,8 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-date: 2020-11-28
-imageurl: https://www.fullofwishes.co.uk/images/dean-britta-neon-lights-ep-cover.jpg
+date: 2020-12-18
+imageurl: https://www.fullofwishes.co.uk/images/dean-and-britta-happy-xmas-war-is-over.jpg
 categories:
  - dean & britta
  - news
@@ -20,7 +20,7 @@ tags:
  - christmas
 longpost: false
 ---	
-{% ahfowimage "/images/dean-and-britta-holiday-party-veeps.jpg" "Dean & Britta livestream" %}
+{% ahfowimage "/images/dean-and-britta-happy-xmas-war-is-over.jpg" "Dean & Britta Happy Xmas (War Is Over)" %}
 
 Carrying on their long tradition of sneaking out seasonal treats Dean & Britta have just released a new digital single.
 
@@ -34,4 +34,4 @@ The single is available [for $1.99 _or more_ over on Bandcamp](https://deanandbr
 
 Meanwhile Sonic Boom himself has also released a seasonal single on which he "enlists dear friends, Dean & Britta ... for vocal harmonies."
 
- I Wish It Was Like Xmas Everyday (A Little Bit Deeper) is available on Sonic Boom's bandcamp with 80% of proceeds going to  "[Earth Island’s fight for planetary repair and preservation](https://earthisland.org/)". 
+ [I Wish It Was Like Xmas Everyday (A Little Bit Deeper) is available on Sonic Boom's bandcamp](https://sonicboomspacemen3.bandcamp.com/track/i-wish-it-was-like-xmas-everyday-a-little-bit-deeper-feat-dean-britta) with 80% of proceeds going to  "[Earth Island’s fight for planetary repair and preservation](https://earthisland.org/)". 
