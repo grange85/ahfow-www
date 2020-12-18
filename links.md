@@ -5,7 +5,7 @@ sitemap: false
 ---
 
 <div class="list-group">
-  <a href="https://www.fullofwishes.co.uk/2020/12/18/new-dean-and-britta-xmas-single/">
+  <a href="https://www.fullofwishes.co.uk/2020/12/18/new-dean-and-britta-xmas-single/" class="list-group-item list-group-item-info">
     <h3 class="list-group-item-heading">New Dean and Britta Christmas single</h3>
     <p class="list-group-item-text">Buy Dean & Britta's cover of Happy Xmas (War Is Over)</p>
   </a>
