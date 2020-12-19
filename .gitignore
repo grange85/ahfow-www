@@ -7,6 +7,7 @@ _site/
 .sass-cache/
 .jekyll-metadata
 s3cfg-prod
+_cloudfront-distribution-id
 
 ### Linux ###
 *~
