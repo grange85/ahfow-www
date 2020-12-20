@@ -20,12 +20,12 @@ tags: []
 <p>I've done plenty of Indian Summer posts over the years so I'll keep this one brief...</p>
 <p>Originally by Beat Happening on their fab 1988 album Jamboree<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/M7KNRC8SSAw" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Indian Summer - Beat Happening</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/Eaw-zW7RVus" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Indian Summer - Beat Happening</figcaption></figure>
 <p>Covered by <a href="/2013/01/18/audio-lost-tracks-dean-wareham-indian-summer/">Dean Wareham on a Chemical Imbalance single</a> while he was still a part of Galaxie 500</p>
 
 <div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/03_Dean%20Wareham_Indian%20Summer.mp3">Dean Wareham - Indian Summer (Chemical Imbalance)</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/03_Dean%20Wareham_Indian%20Summer.mp3"></audio>
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-indian-summer-chemical-imbalance.mp3">Dean Wareham - Indian Summer (Chemical Imbalance)</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-indian-summer-chemical-imbalance.mp3"></audio>
 </div>
 <p>Covered by Luna on an EP 1992&hellip;</p>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/hwT1YN1TBdI" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Indian Summer</figcaption></figure>
