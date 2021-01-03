@@ -9,7 +9,7 @@ source _cloudfront-distribution-id
 bundle exec jekyll build --config _config.yml,_config_build.yml
 
 # upload to s3
-s3cmd sync --config s3cfg-prod --guess-mime-type --no-mime-magic --delete-removed --exclude '.sass-cache' --exclude 's3cfg*' --exclude 'database/*' _site/ s3://www.fullofwishes.co.uk
+s3cmd sync --guess-mime-type --no-mime-magic --delete-removed --exclude '.sass-cache' --exclude 's3cfg*' --exclude 'database/*' _site/ s3://www.fullofwishes.co.uk
 
 # copy rss to correct location
 aws s3 mv --content-type "text/xml" --metadata-directive REPLACE s3://www.fullofwishes.co.uk/feed.xml s3://www.fullofwishes.co.uk/feed 
