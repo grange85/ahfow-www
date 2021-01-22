@@ -11,7 +11,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-01-22
-imageurl: 
+imageurl: https://www.fullofwishes.co.uk/images/dean-and-britta-lockdown-2020-05.jpg
 categories:
  - video
  - dean & britta
@@ -26,3 +26,5 @@ Anyway when I got to May I found this video that Dean & Britta popped on Faceboo
 I hope they don't mind me popping it on YouTube!
 
 {% aavid "HstSw62q1tc" "Dean & Britta - Bobby Peru / The Sun Is Still Sunny (Echo Park, May 2020)" %}
+
+_I have to say that one of my fave things of the lockdown livestreams has been watching Dean & Britta trying to switch off :)_
