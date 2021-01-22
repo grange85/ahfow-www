@@ -4,7 +4,7 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: Video: Dean & Britta in lockdown last May
+title: "Video: Dean & Britta in lockdown last May"
 author:
   display_name: Andy
   login: admin
