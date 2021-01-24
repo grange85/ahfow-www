@@ -4,6 +4,7 @@
 
 ### Jekyll ###
 _site/
+_deploy/
 .sass-cache/
 .jekyll-metadata
 s3cfg-prod

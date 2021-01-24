@@ -1,3 +1,5 @@
 # Production environment overrides 
 # Build settings
 environment: production
+destination: ./_deploy/
+future: false
