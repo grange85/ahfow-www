@@ -49,7 +49,7 @@ module Jekyll
       end
 
       output = "<div class=\"well\">"
-      output += "<p class=\"audio\">Audio: <a href=\"#{ahfowaudio_url}\">#{ahfowaudio_caption}</a></p>"
+      output += "<p class=\"audio\">Audio: <a href=\"#{ahfowaudio_url}\" download>#{ahfowaudio_caption}</a></p>"
       output += "<audio controls=\"controls\" preload=\"none\" src=\"#{ahfowaudio_url}\"></audio>"
 
       if( !ahfowaudio_sourceurl.nil? && !ahfowaudio_sourceurl.empty? )

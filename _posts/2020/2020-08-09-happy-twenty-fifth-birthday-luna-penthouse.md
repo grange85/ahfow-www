@@ -58,16 +58,15 @@ The album, famously, turns up in [Rolling Stone's 100 best albums of the 90s](ht
 Back in 2017 a [double LP deluxe edition of Penthouse was released for Record Store Day](https://www.fullofwishes.co.uk/2017/03/21/deluxe-double-lp-edition-of-luna-penthouse-record-store-day/) - I think some Spotify regions might have it to listen to - but if not it's worth hunting down - you can [stream/download it from Amazon](https://amzn.to/3im27L8).
 
 I Hope the band don't mind me popping this up here but this is an early/rough of Moon Palace from the Penthouse sessions:
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/luna-moon-palace-outtake.mp3"> Luna - Moon Palace (Penthouse outtake, 1995) </a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/luna-moon-palace-outtake.mp3"></audio>
-  <p class="source small text-right"><em>Source: Penthouse Rough Mixes and Outtakes</em></p>
-</div>
+
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/luna-moon-palace-outtake.mp3",
+  "audiocap": "Luna - Moon Palace (Penthouse outtake, 1995)",
+  "sourceurl": "",
+  "sourcecap": "Penthouse Rough Mixes and Outtakes"
+  } %}
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/50205975722/in/dateposted-public/" title="Penthouse deluxe (2017)"><img src="https://live.staticflickr.com/65535/50205975722_67a02567d6_c.jpg" width="800" height="800" alt="Penthouse deluxe (2017)"></a>
 
 ... better late than never - happy birthday you beauty!
 
---- 
-
-<i class="fa fa-comments" aria-hidden="true"></i>  [Talk about this on Reddit r/aheadfullofwishes](https://www.reddit.com/r/aheadfullofwishes/comments/i6hv8o/happy_25th_birthday_to_lunas_penthouse/)

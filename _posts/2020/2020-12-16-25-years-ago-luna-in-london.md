@@ -35,11 +35,13 @@ I thought I'd first spoken to Paul that night but a diary entry I came across re
 
 I think most times I've seen Luna they've finished the night with Indian Summer - here they are finishin that night in that way:
 
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/1995-12-16-luna-indian-summer.mp3">Luna - Indian Summer (The Garage, London, 16th December 1995)</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/1995-12-16-luna-indian-summer.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/database/luna/shows/1995/1995-12-16-luna-garage-london-uk/">16th December 1995 - Luna - Garage, London, UK</a></em></p>
-</div>
+
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/1995-12-16-luna-indian-summer.mp3",
+  "audiocap": "Luna - Indian Summer (The Garage, London, 16th December 1995)",
+  "sourceurl": "https://www.fullofwishes.co.uk/database/luna/shows/1995/1995-12-16-luna-garage-london-uk/",
+  "sourcecap": "16th December 1995 - Luna - Garage, London, UK"
+  } %}
 
 I've met lots of folk since, and lots of folk have met lots of other folk who aren't me since. At least one couple that I know of started their relationship on the mailing list. I've met people in France, Spain, Germany, The Netherlands, Sweden, Denmark, and the USA.
 

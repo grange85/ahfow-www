@@ -19,7 +19,9 @@ categories:
 tags:
  - london
 ---
-<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-09-26/19890926_dean1_lori.jpg" alt="Dean Wareham of Galaxie 500 at the ICA in London 1989 (photo: Lori)" /><figcaption class="caption-text">Dean Wareham of Galaxie 500 at the ICA in London 1989 (photo: Lori)</figcaption></figure>
+
+{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-09-26/19890926_dean1_lori.jpg" "Dean Wareham of Galaxie 500 at the ICA in London 1989 (photo: Lori)" %}
+
 
 So... today I was supposed to be at The Islington Assembly Hall watching Dean Wareham playing Galaxie 500 songs - he's in LA - I'm at home in West London, and the show has been rescheduled to 2021!
 
@@ -40,16 +42,21 @@ _Tracklist_
  - Dont Let Our Youth Go To Waste - Dean Wareham (2013-12-05: St. Pancras Old Church, London UK)
  - Ceremony - Dean Wareham (2014-05-23: Islington Assembly Hall, London, UK)
 
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/dean-wareham-plays-galaxie-500-in-london.mp3">Dean Wareham plays Galaxie 500 in London (1989 to 2014)</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/dean-wareham-plays-galaxie-500-in-london.mp3"></audio>
-</div>
+
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/00-misc/audio/dean-wareham-plays-galaxie-500-in-london.mp3",
+  "audiocap": "Dean Wareham plays Galaxie 500 in London (1989 to 2014)",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
+
+
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/14253120261/in/album-72157644819665224/" title="Dean Wareham"><img src="https://live.staticflickr.com/3833/14253120261_842be0f092_c.jpg" width="800" height="536" alt="Dean Wareham"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/wTLO4U0VJlM" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Dean Wareham - Fourth of July (London 2014)</figcaption></figure>
+{% aavid "wTLO4U0VJlM" "Dean Wareham - Fourth of July (London 2014)" %}
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/MkIZzRJmdlc" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Flowers (London 2018)</figcaption></figure>
+{% aavid "MkIZzRJmdlc" "Luna - Flowers (London 2018)" %}
 
+{% aavid "ozeRVpP4T0Q" "Galaxie 500 at The Subterania (full show - 1990)" %}
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/ozeRVpP4T0Q" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 at The Subterania (full show - 1990)</figcaption></figure>

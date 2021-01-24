@@ -37,11 +37,14 @@ Now, not many shows stick in my head as clearly as this one - this is what I rem
  - Two Galaxie 500 songs!
  - I left reassured that things looked like they were going to be just fine.
 
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/1992-02-27_Luna_Temperatures-Rising.mp3">Luna - Temperature's Rising - Underworld, London. 1992</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/1992-02-27_Luna_Temperatures-Rising.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="/database/luna/shows/1992/1992-02-27-luna-underworld-london-uk/">27 February 1992 - Luna - Underworld, London, UK</a></em></p>
-</div>
+
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/1992-02-27_Luna_Temperatures-Rising.mp3",
+  "audiocap": "Luna - Temperature's Rising - Underworld, London. 1992",
+  "sourceurl": "/database/luna/shows/1992/1992-02-27-luna-underworld-london-uk/",
+  "sourcecap": "27 February 1992 - Luna - Underworld, London, UK"
+  } %}
+
 
 [Here's my recording of the show](http://www.mediafire.com/file/bd3tpmsa35d6u6p/luna-1992-02-27_-the-underworld-london-uk-andy-16bit.zip/file) - far from perfect but ... mine all the same. Also included is the Winterset track I recorded, the one with Gina Morris guesting.
 
