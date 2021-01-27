@@ -21,7 +21,7 @@ tags:
 
 This video of Damon & Naomi's full set from their show in Barcelona in 2018 has just arrived on Facebook. They were touring Europe with Thalia Zedek and she joins them for a cover of Leonard Cohen's Dance Me to The End of Time and Tom Rapp's Translucent Carriages
 
-{% aavid "uAA6eorZsjE" "Damon & Naomi live in Barcelona, February 2018%}
+{% aavid "uAA6eorZsjE" "Damon & Naomi live in Barcelona, February 2018" %}
 
 They are always a joy to watch.
 
@@ -40,4 +40,4 @@ Setlist:
  - The Robot Speaks
 
 
-{% ahfowimage "https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2018-02-09/2018-02-09-damon-naomi-barcelona.jpg" "Damon & Naomi (Barcelona, 1993)" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2018-02-09/2018-02-09-damon-naomi-barcelona.jpg" "Damon & Naomi (Barcelona, 2018)" %}
