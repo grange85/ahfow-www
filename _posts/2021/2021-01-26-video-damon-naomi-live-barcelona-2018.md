@@ -40,4 +40,4 @@ Setlist:
  - The Robot Speaks
 
 
-{% ahfowimage "https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2018-02-09/2018-02-09-damon-naomi-barcelona.jpg" "Damon & Naomi (Barcelona, 1993)" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2018-02-09/2018-02-09-damon-naomi-barcelona.jpg" "Damon & Naomi (Barcelona, 2018)" %}
