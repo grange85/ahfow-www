@@ -26,10 +26,10 @@ tags:
 
 The screening, as part of PHOTO 2021's launch weekend, will be on 21st February at Bunjil Place, Narre Warren at 4pm - [tickets are $10 and must be booked in advance](https://photo.org.au/events/13-most-beautiful-songs-for-andy-warhol-screen-tests)
 
-{% aavid "Fl9ZRLtE54s" "13 Most Beautiful trailer" %}
-
 > Between 1964 and 1966 Warhol shot approximately 500 rolls of film of which mostly were portraits of acquaintances, friends and celebrities visiting his iconic studio The Factory. Shot with a stationary Bolex 16mm camera the subjects were asked to simply sit in front of the camera for a 3-minute timeframe. The subject and camera remained almost motionless creating a seemingly ‘living portrait’.
 >  
 > In 2010 American musicians Dean Wareham and Britta Phillips were commissioned by the Pittsburgh Cultural Trust to compose music to accompany 13 selected films from the series. 
 
 [Screening: 13 Most Beautiful Songs for Andy Warhol Screen Tests](https://photo.org.au/events/13-most-beautiful-songs-for-andy-warhol-screen-tests)
+
+{% aavid "Fl9ZRLtE54s" "13 Most Beautiful trailer" %}
