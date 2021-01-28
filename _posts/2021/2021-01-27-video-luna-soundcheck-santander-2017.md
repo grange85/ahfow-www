@@ -20,7 +20,7 @@ tags:
  - bob dylan
 ---
 
-I've just come across this video that I don't think I share before. It's Luna playing Bob Dylan's Most of The Time during soundcheck at Escenario in Santander before their show there in 2017.
+I've just come across this video that I don't think I shared before. It's Luna playing Bob Dylan's Most of The Time during soundcheck at Escenario in Santander before their show there in 2017.
 
 {% aavid "LNYFimdfb1I" "Luna soundchecking in Santander, October 2017" %}
 
