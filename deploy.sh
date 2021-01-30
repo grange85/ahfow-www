@@ -15,7 +15,7 @@ cat _includes/html-head.html >_deploy/_admin/full-list.html
 
 # list images
 echo '<h2 id="images">Images</h2><ul>' >>_deploy/_admin/full-list.html
-find find ../media/ -type f \( -iname '*.jpg' -o -iname '*.png' -o -iname '*.gif' \)| sed -e 's/^\.\{1,2\}\/media//g' -e 's/.*/<li><a href="https:\/\/media.fullofwishes.co.uk&">&<\/a><\/li>/' | sort >> _deploy/_admin/full-list.html
+find ../media/ -type f \( -iname '*.jpg' -o -iname '*.png' -o -iname '*.gif' \)| sed -e 's/^\.\{1,2\}\/media//g' -e 's/.*/<li><a href="https:\/\/media.fullofwishes.co.uk&">&<\/a><\/li>/' | sort >> _deploy/_admin/full-list.html
 echo '</ul>' >>_deploy/_admin/full-list.html
 echo "Image list created..."
 
