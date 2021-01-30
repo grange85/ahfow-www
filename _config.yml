@@ -57,7 +57,8 @@ exclude: [
     's3cfg-prog',
     's3cfg-prog.enc',
     'vendor',
-    'config'
+    'config',
+    'deploy.sh'
   ]
 plugins: [
         bootstrap-sass,
