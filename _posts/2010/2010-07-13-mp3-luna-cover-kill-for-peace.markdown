@@ -23,7 +23,7 @@ I heard today that Tuli Kupferberg of The Fugs died earlier this week. On 20 Mar
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/2003-03-21-luna-kill-for-peace.mp3">Luna - Kill For Peace</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/2003-03-21-luna-kill-for-peace.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/database/luna/shows/2003/2003-03-21-luna-knitting-factory-new-york-ny-usa/">21st March 2003 - Luna - Knitting Factory, New York NY, USA</a></em></p>
+  <p class="source small text-right"><em>Source: <a href="/database/luna/shows/2003/2003-03-21-luna-knitting-factory-new-york-ny-usa/">21st March 2003 - Luna - Knitting Factory, New York NY, USA</a></em></p>
 </div>
 
 You can hear Tuli doing an <a href="http://www.vietnamsongbook.org/setlist_jp.htm">unaccompanied performance of Kill for Peace at the Vietnam Songbook show earlier that month</a> (also check out <a href="http://www.vietnamsongbook.org/mp3/05%20-%20Dean%20Wareham-%20No%20Train%20To%20Stockholm%20.mp3">Dean Wareham doing No Train to Stockholm</a> while you&#039;re there).

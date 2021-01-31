@@ -31,14 +31,14 @@ There's some very low-res video of some of the show on youtube - but the audio's
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2009-07-08-13mb-carnegie-hall-not-a-young-man.mp3">Not A Young Man Anymore</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2009-07-08-13mb-carnegie-hall-not-a-young-man.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/database/dean-and-britta/shows/2009/2009-07-08-dean-britta-carnegie-hall-dunfermline-uk/">8th July 2009 - Dean & Britta - Carnegie Hall, Dunfermline, UK</a></em></p>
+  <p class="source small text-right"><em>Source: <a href="/database/dean-and-britta/shows/2009/2009-07-08-dean-britta-carnegie-hall-dunfermline-uk/">8th July 2009 - Dean & Britta - Carnegie Hall, Dunfermline, UK</a></em></p>
 </div>
 
 
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2009-07-08-13mb-carnegie-hall-beverly-hills-silver-factory.mp3">It Don't Rain in Beverly Hills / Silver Factory Theme</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2009-07-08-13mb-carnegie-hall-beverly-hills-silver-factory.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/database/dean-and-britta/shows/2009/2009-07-08-dean-britta-carnegie-hall-dunfermline-uk/">8th July 2009 - Dean & Britta - Carnegie Hall, Dunfermline, UK</a></em></p>
+  <p class="source small text-right"><em>Source: <a href="/database/dean-and-britta/shows/2009/2009-07-08-dean-britta-carnegie-hall-dunfermline-uk/">8th July 2009 - Dean & Britta - Carnegie Hall, Dunfermline, UK</a></em></p>
 </div>
 
 ---

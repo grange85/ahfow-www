@@ -33,7 +33,7 @@ I've digitised the show and popped it up here to download
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon--naomi-with-ghost-2000-10-31-new-york-city.mp3">Damon & Naomi with Ghost - New York City</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon--naomi-with-ghost-2000-10-31-new-york-city.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/2000/2000-10-31-damon-naomi-knitting-factory-los-angeles-ca-usa/">31st October 2000 - Damon & Naomi - Knitting Factory, Los Angeles CA, USA</a></em></p>
+  <p class="source small text-right"><em>Source: <a href="/database/damon-and-naomi/shows/2000/2000-10-31-damon-naomi-knitting-factory-los-angeles-ca-usa/">31st October 2000 - Damon & Naomi - Knitting Factory, Los Angeles CA, USA</a></em></p>
 </div>
 
 _(it just occurred to me that I *always* put up recordings of New York City when I share a Damon & Naomi mp3 - not sorry - it's beautiful - but I'll try and share one of their other beautiful tracks next time! Bet I forget though!)_

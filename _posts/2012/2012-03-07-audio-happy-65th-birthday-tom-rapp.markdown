@@ -31,7 +31,7 @@ Here's Damon & Naomi with Tom performing Bob Dylan's I Shall Be Released at the 
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-tom-rapp-I-shall-be-released.mp3">Damon & Naomi with Tom Rapp - I Shall Be Released</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-tom-rapp-I-shall-be-released.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/1997/1997-04-26-damon-naomi-terrastock-providence-ri-usa/">26th April 1997 - Damon & Naomi - Terrastock, Providence RI, USA</a></em></p>
+  <p class="source small text-right"><em>Source: <a href="/database/damon-and-naomi/shows/1997/1997-04-26-damon-naomi-terrastock-providence-ri-usa/">26th April 1997 - Damon & Naomi - Terrastock, Providence RI, USA</a></em></p>
 </div>
 
 Here's Tom covering Damon & Naomi's Tour of the World also at the first Terrastock in 1997
@@ -39,7 +39,7 @@ Here's Tom covering Damon & Naomi's Tour of the World also at the first Terrasto
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/tom-rapp-tour-of-the-world.mp3">Tom Rapp - Tour of The World (Damon & Naomi)</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/tom-rapp-tour-of-the-world.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/1997/1997-04-26-damon-naomi-terrastock-providence-ri-usa/">26th April 1997 - Damon & Naomi - Terrastock, Providence RI, USA</a></em></p>
+  <p class="source small text-right"><em>Source: <a href="/database/damon-and-naomi/shows/1997/1997-04-26-damon-naomi-terrastock-providence-ri-usa/">26th April 1997 - Damon & Naomi - Terrastock, Providence RI, USA</a></em></p>
 </div>
 
 Here's Damon & Naomi covering Pearls Before Swine's Translucent Carriages for the For The Dead in Space tribute album

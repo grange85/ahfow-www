@@ -20,7 +20,7 @@ I managed to be away from a computer on the 30th anniversary of On Fire - which 
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/01-galaxie_500/audio/galaxie-500-1989-11-15-burgerweehuis-deventer-netherlands-plastic-bird.mp3">Galaxie 500 - Plastic Bird</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/01-galaxie_500/audio/galaxie-500-1989-11-15-burgerweehuis-deventer-netherlands-plastic-bird.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/database/galaxie-500/shows/1989/1989-11-15-galaxie-500-burgerweehuis-deventer-netherlands/">15th November 1989 - Galaxie 500 - Burgerweehuis, Deventer, Netherlands</a></em></p>
+  <p class="source small text-right"><em>Source: <a href="/database/galaxie-500/shows/1989/1989-11-15-galaxie-500-burgerweehuis-deventer-netherlands/">15th November 1989 - Galaxie 500 - Burgerweehuis, Deventer, Netherlands</a></em></p>
 </div>
 
 {% aavid "_pzU0JNYJt8" "Dean Wareham - Plastic Bird (Liquid Room, Tokyo, 2011)" %}

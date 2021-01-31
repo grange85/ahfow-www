@@ -30,13 +30,13 @@ The opening track of On Fire is one that Galaxie 500 and all post-Galaxie 500 co
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/01-galaxie_500/audio/galaxie-500-heidelberg-1989-11-29-blue-thunder.mp3"> Galaxie 500 - Blue Thunder live in Heidelberg, Germany - 1989</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/01-galaxie_500/audio/galaxie-500-heidelberg-1989-11-29-blue-thunder.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/database/galaxie-500/shows/1989/1989-11-29-galaxie-500-schwimmbad-heidelberg-germany/">
+  <p class="source small text-right"><em>Source: <a href="/database/galaxie-500/shows/1989/1989-11-29-galaxie-500-schwimmbad-heidelberg-germany/">
 29th November 1989 - Galaxie 500 - Schwimmbad, Heidelberg, Germany
 </a></em></p>
 </div>
 
 See also:
- - <a href="https://www.fullofwishes.co.uk/2008/05/24/mp3-galaxie-500-soundcheck-blue-thunder/">MP3: Galaxie 500 soundcheck Blue Thunder</a>
+ - <a href="/2008/05/24/mp3-galaxie-500-soundcheck-blue-thunder/">MP3: Galaxie 500 soundcheck Blue Thunder</a>
 
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/lc3kxjy2GNk" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Blue Thunder (video)</figcaption></figure>
 
@@ -45,7 +45,7 @@ See also:
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/1993-06-03-luna-borderline-london-uk/07-luna-blue-thunder.mp3">Luna - Blue Thunder live in London, UK - 1993</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/1993-06-03-luna-borderline-london-uk/07-luna-blue-thunder.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/database/luna/shows/1993/1993-06-03-luna-borderline-london-uk/">3rd June 1993 - Luna - Borderline, London, UK</a></em></p>
+  <p class="source small text-right"><em>Source: <a href="/database/luna/shows/1993/1993-06-03-luna-borderline-london-uk/">3rd June 1993 - Luna - Borderline, London, UK</a></em></p>
 </div>
 
 See also:
@@ -57,7 +57,7 @@ See also:
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/2005-06-23-nhk-505-studio-tokyo-japan-blue-thunder.mp3">Damon & Naomi - Blue Thunder live in Tokyo, Japan - 2005</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/2005-06-23-nhk-505-studio-tokyo-japan-blue-thunder.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/2005/2005-06-23-damon-naomi-nhk-livebeat-tokyo-japan/">23rd June 2005 - Damon & Naomi - NHK Livebeat, Tokyo, Japan</a></em></p>
+  <p class="source small text-right"><em>Source: <a href="/database/damon-and-naomi/shows/2005/2005-06-23-damon-naomi-nhk-livebeat-tokyo-japan/">23rd June 2005 - Damon & Naomi - NHK Livebeat, Tokyo, Japan</a></em></p>
 </div>
 
 See also:
@@ -68,11 +68,11 @@ See also:
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2008-08-21-zipper-factory-new-york-ny-usa-blue-thunder.mp3">Dean & Britta - Blue Thunder lvie in New York, USA - 2008</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2008-08-21-zipper-factory-new-york-ny-usa-blue-thunder.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://www.fullofwishes.co.uk/database/dean-and-britta/shows/2008/2008-08-21-dean-britta-the-zipper-factory-336-w-37th-st-new-york-ny-usa/">21st August 2008 - Dean & Britta - The Zipper Factory, 336 W. 37th St, New York NY, USA</a></em></p>
+  <p class="source small text-right"><em>Source: <a href="/database/dean-and-britta/shows/2008/2008-08-21-dean-britta-the-zipper-factory-336-w-37th-st-new-york-ny-usa/">21st August 2008 - Dean & Britta - The Zipper Factory, 336 W. 37th St, New York NY, USA</a></em></p>
 </div>
 
 See also:
- - <a href="https://www.fullofwishes.co.uk/2019/04/11/dean-and-britta-blue-thunder-fingerprints/">Video: Dean & Britta playing Blue Thunder</a>
+ - <a href="/2019/04/11/dean-and-britta-blue-thunder-fingerprints/">Video: Dean & Britta playing Blue Thunder</a>
 
 ### Dean Wareham
 
