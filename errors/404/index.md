@@ -18,8 +18,8 @@ sitemap: false
 <div class="bs-callout bs-callout-info">
   <h3>Browsing</h3>
   <ul>
-    <li>Maybe <a href="https://www.fullofwishes.co.uk">start at the home page</a></li>
-    <li>Or look through <a href="https://www.fullofwishes.co.uk/database/">the database</a></li>
+    <li>Maybe <a href="/">start at the home page</a></li>
+    <li>Or look through <a href="/database/">the database</a></li>
   </ul>
 </div>
 

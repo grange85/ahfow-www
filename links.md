@@ -4,7 +4,7 @@ title: Links
 sitemap: false
 ---
 <div class="list-group">
-  <a href="https://www.fullofwishes.co.uk/2020/11/28/new-dean-and-britta-ep-neon-lights/" class="list-group-item list-group-item-info">
+  <a href="/2020/11/28/new-dean-and-britta-ep-neon-lights/" class="list-group-item list-group-item-info">
     <h3 class="list-group-item-heading">Neon Lights</h3>
     <p class="list-group-item-text">Buy Dean & Britta's limited edition Neon Lights 12"</p>
   </a>
