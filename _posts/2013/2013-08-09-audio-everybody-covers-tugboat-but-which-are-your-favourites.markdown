@@ -26,30 +26,30 @@ tags: []
 <p>So, we have ...</p>
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/Blue_Haired_Girl_-_Blue_Haired_Girl_-_Tugboat__Galaxie_500_cover_.mp3">Blue Haired Girl</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/Blue_Haired_Girl_-_Blue_Haired_Girl_-_Tugboat__Galaxie_500_cover_.mp3"></audio></div>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/1-01_BMX%20Bandits_Tugboat%20(feat.%20Angel%20Corpus%20Christi).mp3">BMX Bandits (featuring Angel Corpus Christi)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/1-01_BMX%20Bandits_Tugboat%20(feat.%20Angel%20Corpus%20Christi).mp3"></audio></div>
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/1-01_BMX-Bandits_Tugboat--feat.-Angel-Corpus-Christi-.mp3">BMX Bandits (featuring Angel Corpus Christi)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/1-01_BMX-Bandits_Tugboat--feat.-Angel-Corpus-Christi-.mp3"></audio></div>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/13_British%20Sea%20Power_Tugboat.mp3">British Sea Power</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/13_British%20Sea%20Power_Tugboat.mp3"></audio></div>
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/13_British-Sea-Power_Tugboat.mp3">British Sea Power</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/13_British-Sea-Power_Tugboat.mp3"></audio></div>
 
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/08_Citay_Tugboat.mp3">Citay</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/08_Citay_Tugboat.mp3"></audio></div>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/13_The%20Jazz%20Butcher%20Conspiracy_Tugboat%20Captain.mp3">The Jazz Butcher Conspiracy</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/13_The%20Jazz%20Butcher%20Conspiracy_Tugboat%20Captain.mp3"></audio></div>
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/13_The-Jazz-Butcher-Conspiracy_Tugboat-Captain.mp3">The Jazz Butcher Conspiracy</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/13_The-Jazz-Butcher-Conspiracy_Tugboat-Captain.mp3"></audio></div>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/Joanna%20Gruesome_Tugboat_Toad_session.mp3">Joanna Gruesome (Song by Toad session version)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/Joanna%20Gruesome_Tugboat_Toad_session.mp3"></audio></div>
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/Joanna-Gruesome_Tugboat_Toad_session.mp3">Joanna Gruesome (Song by Toad session version)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/Joanna-Gruesome_Tugboat_Toad_session.mp3"></audio></div>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/00_Mercury%20Rev_Tugboat.mp3">Mercury Rev (radio session)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/00_Mercury%20Rev_Tugboat.mp3"></audio></div>
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/00_Mercury-Rev_Tugboat.mp3">Mercury Rev (radio session)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/00_Mercury-Rev_Tugboat.mp3"></audio></div>
 
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/2-04_Portastatic_Tugboat.mp3">Portastatic</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/2-04_Portastatic_Tugboat.mp3"></audio></div>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/Standby%20Connection_Tugboat.mp3">Standby Connection</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/Standby%20Connection_Tugboat.mp3"></audio></div>
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/Standby-Connection_Tugboat.mp3">Standby Connection</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/Standby-Connection_Tugboat.mp3"></audio></div>
 
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/07_Submarine_Tugboat.mp3">Submarine</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/07_Submarine_Tugboat.mp3"></audio></div>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/01_The%20Submarines_Tugboat.mp3">The Submarines (from iTunes EP)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/01_The%20Submarines_Tugboat.mp3"></audio></div>
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/01_The-Submarines_Tugboat.mp3">The Submarines (from iTunes EP)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/01_The-Submarines_Tugboat.mp3"></audio></div>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/Tranmissionary%20Six_Tugboat.mp3">The Transmissionary Six (radio session)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/Tranmissionary%20Six_Tugboat.mp3"></audio></div>
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/Tranmissionary-Six_Tugboat.mp3">The Transmissionary Six (radio session)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/Tranmissionary-Six_Tugboat.mp3"></audio></div>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/02_Venice%20Is%20Sinking_Tugboat.mp3">Venice is Sinking</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/02_Venice%20Is%20Sinking_Tugboat.mp3"></audio></div>
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/02_Venice-Is-Sinking_Tugboat.mp3">Venice is Sinking</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/02_Venice-Is-Sinking_Tugboat.mp3"></audio></div>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/X-LionTamer%20-%20Neon%20Hearts%20E.P.%20-%2003%20Tugboat.mp3">X-Lion Tamer</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/X-LionTamer%20-%20Neon%20Hearts%20E.P.%20-%2003%20Tugboat.mp3"></audio></div>
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/X-LionTamer---Neon-Hearts-E.P.---03-Tugboat.mp3">X-Lion Tamer</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/X-LionTamer---Neon-Hearts-E.P.---03-Tugboat.mp3"></audio></div>
 
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/wEwouUjDTTE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">The original and best</figcaption></figure>

@@ -25,7 +25,7 @@ tags: []
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/Fl4ZURH1-PQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/02_Magic Hour_America.mp3">Magic Hour - America</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/02_Magic Hour_America.mp3"></audio></div>
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/02_Magic-Hour_America.mp3">Magic Hour - America</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/02_Magic-Hour_America.mp3"></audio></div>
 
 
 <p>Bonus: Oh OK then... here's Tom Rapp's cover of After the Goldrush</p>

@@ -28,7 +28,7 @@ Here's the studio version from <a href="http://en.wikipedia.org/wiki/Sunflower_(
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/9hyp9b72jSE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>Dean & Britta's cover of Forever was released on a Starbucks compilation CD in 2005</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/13_Britta%20Phillips%20%26%20Dean%20Wareham_Forever.mp3">Dean & Britta - Forever</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/13_Britta%20Phillips%20%26%20Dean%20Wareham_Forever.mp3"></audio></div>
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/13_Britta-Phillips---Dean-Wareham_Forever.mp3">Dean & Britta - Forever</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/13_Britta-Phillips---Dean-Wareham_Forever.mp3"></audio></div>
 
 <p>Previously:<br />
 <a href="/2009/01/06/mp3-lost-tracks-2-dean-britta-forever/" title="Mp3: Lost tracks #2 – Dean & Britta – Forever">Mp3: Lost tracks #2 – Dean & Britta – Forever</a></p>

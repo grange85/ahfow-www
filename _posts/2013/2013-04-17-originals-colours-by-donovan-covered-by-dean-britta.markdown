@@ -29,6 +29,6 @@ tags: []
 </p>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/LNJyt-54vOE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>And here's Dean & Britta's cover</p>
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/04_Britta%20Phillips%20&%20Dean%20Wareham_Colours.mp3">Dean & Britta - Colours</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/04_Britta%20Phillips%20&%20Dean%20Wareham_Colours.mp3"></audio></div>
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/04_Britta-Phillips---Dean-Wareham_Colours.mp3">Dean & Britta - Colours</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/04_Britta-Phillips---Dean-Wareham_Colours.mp3"></audio></div>
 
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

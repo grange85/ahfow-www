@@ -23,6 +23,6 @@ tags: []
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/yOKAQSGCm8Q" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>Dean & Britta recorded a cover of the song for their debut album L'Avventura</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/Dean%20and%20Britta_Indian%20Summer.mp3">Dean & Britta - Indian Summer</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/Dean%20and%20Britta_Indian%20Summer.mp3"></audio></div>
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/Dean-and-Britta_Indian-Summer.mp3">Dean & Britta - Indian Summer</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/Dean-and-Britta_Indian-Summer.mp3"></audio></div>
 
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

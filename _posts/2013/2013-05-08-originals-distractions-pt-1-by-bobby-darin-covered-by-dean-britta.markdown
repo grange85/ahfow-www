@@ -21,6 +21,6 @@ tags: []
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qqCbJaYXSvQ" frameborder="0" allowfullscreen></iframe>
 <p>Dean & Britta's is the second track in this series to have turned up on the Words You Used to Say single in 2006 (<a href="/2013/04/17/originals-colours-by-donovan-covered-by-dean-britta/">previously their cover of Donovan's Colors</a>)</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/05_Britta%20Phillips_Dean%20Wareham_Distractions_Part%201.mp3">Dean & Britta - Distractions, Pt. 1</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/05_Britta%20Phillips_Dean%20Wareham_Distractions_Part%201.mp3"></audio></div>
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/05_Britta-Phillips_Dean-Wareham_Distractions_Part-1.mp3">Dean & Britta - Distractions, Pt. 1</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/05_Britta-Phillips_Dean-Wareham_Distractions_Part-1.mp3"></audio></div>
 
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

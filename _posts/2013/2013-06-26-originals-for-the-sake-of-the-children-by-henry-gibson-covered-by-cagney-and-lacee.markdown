@@ -27,6 +27,6 @@ And yes, it's that Henry Gibson... the <a href="http://en.wikipedia.org/wiki/Row
 <p>... and leader of the Illinois Nazis (in Blues Brothers)</p>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/ZTT1qUswYL0" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>Cagney & Lacee's cover turned up on Six Feet of Chain<br />
-MP3: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/07_Cagney%20and%20Lacee_For%20the%20Sake%20of%20the%20Children.mp3">Cagney and Lacee - For The Sake of The Children</a></p>
-<audio src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/07_Cagney%20and%20Lacee_For%20the%20Sake%20of%20the%20Children.mp3" preload="none" controls />
+MP3: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/07_Cagney-and-Lacee_For-the-Sake-of-the-Children.mp3">Cagney and Lacee - For The Sake of The Children</a></p>
+<audio src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/07_Cagney-and-Lacee_For-the-Sake-of-the-Children.mp3" preload="none" controls />
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

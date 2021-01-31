@@ -19,7 +19,7 @@ tags: []
 ---
 <p>Another Dylan song that Dylan didn't release - the first official release of <a href="http://en.wikipedia.org/wiki/I%27ll_Keep_It_with_Mine">I'll Keep It With Mine</a> was a rather splendid, and surprisingly jaunty version by Judy Collins, released in 1965:</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/5-09_Judy%20Collins_I'll%20Keep%20It%20With%20Mine.m4a">m4a</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/5-09_Judy%20Collins_I'll%20Keep%20It%20With%20Mine.m4a"></audio></div>
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/5-09_Judy-Collins_I-ll-Keep-It-With-Mine.m4a">m4a</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/5-09_Judy-Collins_I-ll-Keep-It-With-Mine.m4a"></audio></div>
 
 <p>The version we're more familiar with was by Nico recorded for her first solo album Chelsea Girl:<br />
 </p>

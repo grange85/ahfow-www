@@ -22,7 +22,7 @@ tags: []
 <p>I searched through the mailing list archives and all I could find was me asking if anyone knew anything about it (in 1999) -my question was answered with stony silence. Is it a cover? Google would seem to suggest otherwise, but Dean does say something, although maybe off-mic and certainly not very clear that initially sounded like it might be... now I'm not so sure.</p>
 <p>Please feel free to fill in the many gaps!</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/01-galaxie_500/audio/1988-12-16_06_Galaxie%20500_I_Wanna_Live.mp3">Galaxie 500 - I Wanna Live (live in Boston December 1988</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/01-galaxie_500/audio/1988-12-16_06_Galaxie%20500_I_Wanna_Live.mp3"></audio></div>
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/01-galaxie_500/audio/1988-12-16_06_Galaxie-500_I_Wanna_Live.mp3">Galaxie 500 - I Wanna Live (live in Boston December 1988</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/01-galaxie_500/audio/1988-12-16_06_Galaxie-500_I_Wanna_Live.mp3"></audio></div>
 
 <p><strong>Update:</strong> I asked Dean on <a href="https://www.facebook.com/fullofwishes#!/DeanWareham/posts/475603405785201?notif_t=share_comment">his Facebook page</a> about "I Wanna Live" so here's the gaps filled in...</p>
 <blockquote><p> AHFoW: Hi Dean, whatever happened to I Wanna Live? Was it a cover? I keep coming across it and meaning to ask...</p>

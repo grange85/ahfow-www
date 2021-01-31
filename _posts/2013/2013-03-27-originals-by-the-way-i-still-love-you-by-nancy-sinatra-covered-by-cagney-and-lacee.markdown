@@ -25,6 +25,6 @@ By The Way was written by Lee Hazlewood and released on Country, My Way by Nancy
 Another track that doesn't seem to have made it to the free bits of the Internet but you can check it out on Spotify...<br />
 <iframe class="aligncenter" src="https://embed.spotify.com/?uri=spotify:track:1PKgeANqvc1OHbhOogouxc" width="300" height="380" frameborder="0" allowtransparency="true"></iframe></p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/05_Cagney%20and%20Lacee_By%20the%20Way.mp3">By The Way (I Still Love You) - Cagney and Lacee</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/05_Cagney%20and%20Lacee_By%20the%20Way.mp3"></audio></div>
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/05_Cagney-and-Lacee_By-the-Way.mp3">By The Way (I Still Love You) - Cagney and Lacee</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/05_Cagney-and-Lacee_By-the-Way.mp3"></audio></div>
 
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

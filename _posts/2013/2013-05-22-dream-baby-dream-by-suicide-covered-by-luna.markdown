@@ -26,8 +26,8 @@ tags: []
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/iSIBpC4xRV4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dw_angel_vega_ht.jpg" width="526" height="640" class /><figcaption class="caption-text"> Dean with Angel Corpus Christi and Suicide's Alan Vega (photo ht)</figcaption></figure>
 <p>Luna never often played this live, my database has only one known performance (although I don't have too many setlists from the 90s). So here are Luna playing Dream Baby Dream at the Mercury Lounge in NYC in 1996<br />
-MP3: <a href="https://media.fullofwishes.co.uk/02-luna/audio/Luna_1996-07-21_14_Dream Baby Dream.mp3">Luna - Dream Baby Dream (live 1996-07-21 - Mercury Lounge)</a><br />
-<audio src="https://media.fullofwishes.co.uk/02-luna/audio/Luna_1996-07-21_14_Dream Baby Dream.mp3" preload="none" controls /></p>
+MP3: <a href="https://media.fullofwishes.co.uk/02-luna/audio/Luna_1996-07-21_14_Dream-Baby-Dream.mp3">Luna - Dream Baby Dream (live 1996-07-21 - Mercury Lounge)</a><br />
+<audio src="https://media.fullofwishes.co.uk/02-luna/audio/Luna_1996-07-21_14_Dream-Baby-Dream.mp3" preload="none" controls /></p>
 <p>Here's another Luna connection...<br />
 Suicide - 23 Minutes over Brussels</p>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/ZqmK8EYrNDs" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
