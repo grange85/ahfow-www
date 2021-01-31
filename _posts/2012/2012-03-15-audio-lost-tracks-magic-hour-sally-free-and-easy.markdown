@@ -23,6 +23,6 @@ tags: []
 <p>The song was written by English folk-singer <a href="http://en.wikipedia.org/wiki/Cyril_Tawney">Cyril Tawney</a> in the 1950s and has been covered by pretty close to everyone, from Davy Graham, The Pentangle and Bob Dylan to <a href="http://www.youtube.com/watch?v=SpDlxkLV5ZY">Flying Saucer Attack</a> and a very <a href="http://www.youtube.com/watch?v=GpD0GGJ9D5E">wonderful version by Trees</a>.</p>
 <p>Magic Hour's version is up there with the best and it's a shame that it has been mostly lost to Damon & Naomi's past (Magic Hour don't even have a Wikipedia page... I should fix that some time!)</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/03_Magic_Hour_Sally_Free_and_Easy.mp3">Damon & Naomi - Sally Free and Easy</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/03_Magic_Hour_Sally_Free_and_Easy.mp3"></audio></div>
+<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/03-magic-hour-sally-free-and-easy.mp3">Damon & Naomi - Sally Free and Easy</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/03-magic-hour-sally-free-and-easy.mp3"></audio></div>
 
 <p><a href="http://www.guardian.co.uk/news/2005/apr/27/guardianobituaries.artsobituaries">Cyril Tawney died in 2005</a></p>
