@@ -28,7 +28,7 @@ Borderline is Dean's first dip into Madonna's catalogue a full five years before
 This recording is lifted from my 7" copy and doesn't sound as good as it should but it's the best my kit was willing to offer - if anyone has a better rip please let me know!
 
  {% ahfowaudio {
-  "audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/01_Cagney%20and%20Lacee_Borderline.mp3",
+  "audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/01_Cagney-and-Lacee_Borderline.mp3",
   "audiocap": "Cagney & Lacee - Borderline",
   "sourceurl": "/database/dean-and-britta/dean-wareham-releases/cagney-and-lacee-borderline/",
   "sourcecap": "Cagney & Lacee - Borderline / Orange 7\""
