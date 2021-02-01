@@ -53,7 +53,7 @@ imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-08/2015-1
 
 <p>In the end these shows were a perfect compilation of everything that we love about Luna, reminding us how incredible a band they were and are. It's hard to imagine wanting to see another band 3 times in one week, but if I could I would be heading to Portsmouth or Canada or California right now. Let's hope that this is not the last we get to see and hear of this remarkable, irreplaceable, and truly essential band.</p>
 
-<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-stan with luna-janice.jpg" alt="Stan Demeski with Luna at the Music Hall of Williamsburg (Photo: Janice Demeski)" /><figcaption class="caption-text">Stan Demeski with Luna at the Music Hall of Williamsburg (Photo: Janice Demeski)</figcaption></figure>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-stan-with-luna-janice.jpg" alt="Stan Demeski with Luna at the Music Hall of Williamsburg (Photo: Janice Demeski)" /><figcaption class="caption-text">Stan Demeski with Luna at the Music Hall of Williamsburg (Photo: Janice Demeski)</figcaption></figure>
 
 <p class="text-muted">AHFOW: Sorry for using Janice's picture again but it so lovely!</p>
 <p class="text-muted">Thanks again to Frank for this review - if you want to write a review of a show for A Head Full of Wishes please <a href="/about/">get in touch</a>.</p>
