@@ -70,7 +70,7 @@ tags:
 <h2>Dean & Britta</h2>
 <h3>Favourite album</h3>
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/survey-2015/survey-2015-dean-and-britta.png" alt="" /><figcaption class="caption-text"></figcaption></figure>
-<p><a href="/database/dean-and-britta/releases/dean-and-britta-lavventura/">L'Avventura</a> was the most popular Dean & Britta album. Nice to see this year's <a href="/database/dean-and-britta/releases/dean-and-britta-mistress-america/">Mistress America</a> putting in an appearance.</p>
+<p><a href="/database/dean-and-britta/dean-and-britta-releases/dean-and-britta-lavventura/">L'Avventura</a> was the most popular Dean & Britta album. Nice to see this year's <a href="/database/dean-and-britta/dean-and-britta-releases/dean-and-britta-mistress-america/">Mistress America</a> putting in an appearance.</p>
 <h3>Favourite track</h3>
 
 <table class="table table-striped">

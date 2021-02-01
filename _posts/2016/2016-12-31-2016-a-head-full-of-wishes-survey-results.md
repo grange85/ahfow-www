@@ -103,10 +103,10 @@ longpost: true
 
 <table class="table table-striped">
 <tr><th>Favourite Dean & Britta album</th>	<th>Votes</th>	<th>%</th></tr>
-<tr class="success"><td><a href="/database/dean-and-britta/releases/dean-and-britta-lavventura/">L'Avventura</a></td>	<td>34</td>	<td>49.3</td></tr>
-<tr><td><a href="/database/dean-and-britta/releases/dean-and-britta-back-numbers/">Back Numbers</a></td>	<td>5</td>	<td>7.2</td></tr>
-<tr><td><a href="/database/dean-and-britta/releases/dean-and-britta-13-most-beautiful/">13 Most Beautiful: Songs for Andy Warhol's Screen Tests</a></td>	<td>28</td>	<td>40.6</td></tr>
-<tr><td><a href="/database/dean-and-britta/releases/dean-and-britta-mistress-america/">Mistress America</a></td>	<td>2</td>	<td>2.9</td></tr>
+<tr class="success"><td><a href="/database/dean-and-britta/dean-and-britta-releases/dean-and-britta-lavventura/">L'Avventura</a></td>	<td>34</td>	<td>49.3</td></tr>
+<tr><td><a href="/database/dean-and-britta/dean-and-britta-releases/dean-and-britta-back-numbers/">Back Numbers</a></td>	<td>5</td>	<td>7.2</td></tr>
+<tr><td><a href="/database/dean-and-britta/dean-and-britta-releases/dean-and-britta-13-most-beautiful/">13 Most Beautiful: Songs for Andy Warhol's Screen Tests</a></td>	<td>28</td>	<td>40.6</td></tr>
+<tr><td><a href="/database/dean-and-britta/dean-and-britta-releases/dean-and-britta-mistress-america/">Mistress America</a></td>	<td>2</td>	<td>2.9</td></tr>
 </table>
 
 <table class="table table-striped">

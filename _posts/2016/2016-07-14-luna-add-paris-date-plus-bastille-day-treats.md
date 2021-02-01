@@ -50,7 +50,7 @@ longpost: true
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-white-horses-version-francaise.mp3">White Horses (version Fran&ccedil;aise)- Luna</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-white-horses-version-francaise.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="/database/dean-and-britta/releases/dean-and-britta-white-horses/">Dean & Britta - White Horses - Sonic Cathedral (2007)</a></em></p>
+  <p class="source small text-right"><em>Source: <a href="/database/dean-and-britta/dean-and-britta-releases/dean-and-britta-white-horses/">Dean & Britta - White Horses - Sonic Cathedral (2007)</a></em></p>
 </div>
 <p>Next up is Luna playing Anesthesia from Luna Live - which has Dean "support[ing] the French Revolution"</p>
 <div class="well">
