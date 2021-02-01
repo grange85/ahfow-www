@@ -23,7 +23,7 @@ description: >
                 {% if post.categories %}<p class="pull-left">in categories: </p>
                 <ul class="categories list-inline">
                 {% for category in post.categories %}
-                <li><a  class="label label-primary" href="{{ category | slugify | prepend: '/category/' }}">{{ category }}</a></li>
+                <li><a  class="label label-primary" href="{{ category | slugify | prepend: '/category/' | append: '/' }}">{{ category }}</a></li>
                 {% endfor %}
                 </ul>
                 {% endif %}
