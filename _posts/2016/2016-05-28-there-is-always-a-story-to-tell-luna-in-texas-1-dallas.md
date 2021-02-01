@@ -29,8 +29,8 @@ photos:
         title: 'Parking Lot (Photo: Joakim)'
       },
       {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-texas/thumbs/02-img-0374-combined-jo+u.jpg',
-        image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-texas/02-img-0374-combined-jo+u.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-texas/thumbs/02-img-0374-combined-jo-u.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-texas/02-img-0374-combined-jo-u.jpg',
         title: 'Joakim and Ulrika (Photo: Joakim)'
       },
       {
@@ -236,7 +236,7 @@ longpost: true
 
 <!--more-->
 
-<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-texas/02-img-0374-combined-jo+u.jpg" alt="Joakim and Ulrika" /><figcaption class="caption-text">Joakim and Ulrika</figcaption></figure></div>
+<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-texas/02-img-0374-combined-jo-u.jpg" alt="Joakim and Ulrika" /><figcaption class="caption-text">Joakim and Ulrika</figcaption></figure></div>
 
 <p>Then she moved to Stockholm. It took a very long time for her to accept the fact. She wasn't going to live in Texas anymore. But she sure can come back for visit, and that's what we did. San Antonio is a great place to visit, we walk along the canal, it's beautiful, we go up in the Tower of the Americas and visit the Market Square stacked with Mexican restaurants and souvenir shops.</p>
 
