@@ -17,4 +17,4 @@ categories:
 - galaxie 500
 tags: []
 ---
-<p>Rykodisc have released "Uncollected" - the "extras" disc previously only available in the box set. It contains lots of Galaxie 500 rarities including their takes on Cheese and Onions by the Rutles and Rain by The Beatles - well worth it if you never got around to buying the box set.More details - https://www.fullofwishes.co.uk/database/discography/album/194/</p>
+<p>Rykodisc have released "Uncollected" - the "extras" disc previously only available in the box set. It contains lots of Galaxie 500 rarities including their takes on Cheese and Onions by the Rutles and Rain by The Beatles - well worth it if you never got around to buying the box set.More details - </p>

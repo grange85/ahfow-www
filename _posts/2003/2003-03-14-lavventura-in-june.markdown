@@ -17,4 +17,4 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>L'Avventura, the upcoming release from "Britta Phillips & Dean Wareham" should be released by Jetset records sometime in June. Preliminary details can be found at https://www.fullofwishes.co.uk/database/discography/album/185/</p>
+<p>L'Avventura, the upcoming release from "Britta Phillips & Dean Wareham" should be released by Jetset records sometime in June. Preliminary details can be found at </p>
