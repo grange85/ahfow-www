@@ -20,7 +20,7 @@ tags: []
 <p><a href="http://www.flickr.com/photos/powerhouse_museum/3655608937/" title="Grand Final Dance Championship at the Jack Keating Dance Studio by Powerhouse Museum Collection, on Flickr"><img class="aligncenter" src="https://farm3.staticflickr.com/2472/3655608937_d1d7cec19d_z.jpg?zz=1" width="640" height="467" alt="Grand Final Dance Championship at the Jack Keating Dance Studio"></a><br />
 Dance With Me was recorded by <a href="http://en.wikipedia.org/wiki/The_Modern_Lovers">The Modern Lovers</a> in the 1972 sessions with producer <a href="http://en.wikipedia.org/wiki/Kim_Fowley">Kim Fowley</a> but not released until the Original Modern Lovers LP was released in 1981.</p>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/odzLFt6YIuc" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
-<p>Luna's version was recorded during the sessions for Penthouse and first appeared as the flip of the <a href="/database/database/discography/luna/262">Bobby Peru 7"</a> and later on the <a href="/database/database/discography/luna/64">split 7" single with (The Feelies off-shoot) Wake Ooloo</a>.</p>
+<p>Luna's version was recorded during the sessions for Penthouse and first appeared as the flip of the Bobby Peru 7" and later on the split 7" single with (The Feelies off-shoot) Wake Ooloo.</p>
 <p>https://media.fullofwishes.co.uk/02-luna/audio/luna-dance-with-me.mp3<br />
 MP3: <a href="https://media.fullofwishes.co.uk/02-luna/audio/luna-dance-with-me.mp3">Luna - Dance With Me</a></p>
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

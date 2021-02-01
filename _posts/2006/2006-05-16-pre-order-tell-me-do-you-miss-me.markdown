@@ -17,4 +17,4 @@ categories:
 - news
 tags: []
 ---
-<p>You can now pre-order your copy of the Luna documentary <a href="/database/database/discography/luna/204">Tell Me Do You Miss Me</a> from <a href="http://www.amazon.com/exec/obidos/ASIN/B000FNNIB0/aheadfullofwi-20">Amazon.com for $13.99</a>.</p>
+<p>You can now pre-order your copy of the Luna documentary Tell Me Do You Miss Me from <a href="http://www.amazon.com/exec/obidos/ASIN/B000FNNIB0/aheadfullofwi-20">Amazon.com for $13.99</a>.</p>
