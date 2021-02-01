@@ -18,4 +18,4 @@ categories:
 - 13 most beautiful
 tags: []
 ---
-<p>Dean & Britta have scheduled a performance of their show 13 Most Beautiful: Songs for Andy Warhol's Screen Tests in <span class="removed_link" title="http://themaclive.com/all-listings/?eventID=5404">Belfast on the 16 February at The Mac</span>. No word yet if their trip to this side of the pond will include any other shows, but my fingers are crossed!</p>
+<p>Dean & Britta have scheduled a performance of their show 13 Most Beautiful: Songs for Andy Warhol's Screen Tests in Belfast on the 16 February at The Mac. No word yet if their trip to this side of the pond will include any other shows, but my fingers are crossed!</p>

@@ -17,4 +17,4 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>Dean & Britta will be <span class="removed_link" title="http://www.warhol.org/calendar/events_detail.php?eventID=1585&dateYear=2009&dateMonth=6&dateDate=13">performing at the launch of the Warhol Museum's "Warhol Live" exhibition</span> in Pittsburgh. The show will take place on 13 June and tickets cost $10.</p>
+<p>Dean & Britta will be performing at the launch of the Warhol Museum's "Warhol Live" exhibition in Pittsburgh. The show will take place on 13 June and tickets cost $10.</p>

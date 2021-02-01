@@ -17,5 +17,5 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>The official <a href="http://www.deanandbritta.com">Dean & Britta website</a> has just put up a couple of mp3s for download. The tracks are "Family Conference", taken from the soundtrack of the Noah Baumbach film "The Squid and The Whale", and "Song of You" which is Britta's contribution to an <span class="removed_link" title="http://www.esopusmag.com/issue5/index.html">ESPOUS magazine</span> compilation CD.</p>
+<p>The official <a href="http://www.deanandbritta.com">Dean & Britta website</a> has just put up a couple of mp3s for download. The tracks are "Family Conference", taken from the soundtrack of the Noah Baumbach film "The Squid and The Whale", and "Song of You" which is Britta's contribution to an ESPOUS magazine compilation CD.</p>
 <p>Head over to the <a href="http://deanandbritta.com/av.php">Audio/Video section</a> of their site to grab these.</p>

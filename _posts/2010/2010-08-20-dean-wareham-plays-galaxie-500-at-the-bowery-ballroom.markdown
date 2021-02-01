@@ -17,7 +17,7 @@ categories:
 - dean & britta
 tags: []
 ---
-<div>The first show (not counting <a href="/2010/08/20/dean-wareham-plays-galaxie-500-secret-show-at-the-rock-shop/">last night&#039;s "secret" warm up</a>) of the Dean Wareham plays Galaxie 500 tour - I&#039;ll add to this as I find stuff - in the meantime here are a few videos thanks to <span class="removed_link" title="http://www.youtube.com/user/ciaoluna">ciaoluna</span> - enjoy Galaxie 500 songs sung by Dean Wareham accompanied by some of the less tuneful members of the crowd!
+<div>The first show (not counting <a href="/2010/08/20/dean-wareham-plays-galaxie-500-secret-show-at-the-rock-shop/">last night&#039;s "secret" warm up</a>) of the Dean Wareham plays Galaxie 500 tour - I&#039;ll add to this as I find stuff - in the meantime here are a few videos thanks to ciaoluna - enjoy Galaxie 500 songs sung by Dean Wareham accompanied by some of the less tuneful members of the crowd!
 <p />
 <div style="text-align: center">Blue Thunder<br /><figure class="caption "><figcaption class="caption-text"></figcaption></figure>
 <p />Tugboat<br /><figure class="caption "><figcaption class="caption-text"></figcaption></figure>

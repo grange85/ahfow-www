@@ -28,6 +28,6 @@ tags: []
 </tr>
 <p>          <!-- ...end control panel -->          <!-- ...end embedded RealMedia file -->        <!-- begin link to launch external media player... --><br />
 <tr>
-<td align='center'>        <span class="removed_link" title="http://www.grange85.co.uk/galaxie/audio/dan_asongforyou_spin.rm">Launch in external player</span><br/>To download this file right (or control) click<br/>the following link and choose to save the file<br/><span class="removed_link" title="http://www.grange85.co.uk/galaxie/audio/dan_asongforyou_spin.rm">Download Realvideo file (4.6Mb)</span>        <!-- ...end link to launch external media player... -->        </td>
+<td align='center'>        Launch in external player<br/>To download this file right (or control) click<br/>the following link and choose to save the file<br/>Download Realvideo file (4.6Mb)        <!-- ...end link to launch external media player... -->        </td>
 </tr>
 </table>

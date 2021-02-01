@@ -22,12 +22,12 @@ tags: []
 <p>So here are some highlights, <a href="/database/survey/2009/">head over to the results page</a> to see the full details.</p>
 <p><strong><a href="/database/survey/2009/">General</a></strong></p>
 <p>More than 100 responses for the first time since 2006. There's been one voter from the Lebanon in all but one survey since 2002</p>
-<p><strong><span class="removed_link" title="https://www.fullofwishes.co.uk/database/survey/2009/galaxie_500/">Galaxie 500</span></strong></p>
+<p><strong>Galaxie 500</strong></p>
 <p>On Fire topped the favourite album poll with almost half of all votes cast. Fourth of July just beat Tugboat for favourite track.</p>
 <p><strong><a href="/database/survey/2009/luna/">Luna</a></strong></p>
 <p>Until the last week of the survey California (All the Way) was topping the poll but a strong finish saw 23 Minutes in Brussels retain the top spot it's held in every survey since 1998. Penthouse was comfortable album winner as usual.</p>
-<p><strong><span class="removed_link" title="https://www.fullofwishes.co.uk/database/survey/2009/damon_and_naomi/">Damon & Naomi</span></strong></p>
+<p><strong>Damon & Naomi</strong></p>
 <p>More Sad Hits always runs away with the favourite Damon & Naomi album and This Car Climbed Mt. Washington does the same for favourite track.</p>
-<p><strong><span class="removed_link" title="https://www.fullofwishes.co.uk/database/survey/2009/dean_and_britta/">Dean & Britta</span></strong></p>
+<p><strong>Dean & Britta</strong></p>
 <p>I slipped 13 Most Beautiful into the list despite it having only been released as a DVD, no one complained and it picked up a healthy 15% of the vote. L'Avventura was comfortably top. Night Nurse was the favourite track.</p>
 <p>Thanks as usual to everyone who voted, and thanks especially to everyone who took the time to write in the comments field. I might put another post together with some of the interesting points raised.</p>

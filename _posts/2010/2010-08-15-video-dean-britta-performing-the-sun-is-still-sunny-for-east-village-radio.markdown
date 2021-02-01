@@ -17,7 +17,7 @@ categories:
 - video
 tags: []
 ---
-<div>Just came across this sweet video of Dean & Britta playing a <span class="removed_link" title="http://www.eastvillageradio.com/news/items.aspx?id=16388">session for East Village Radio</span>.
+<div>Just came across this sweet video of Dean & Britta playing a session for East Village Radio.
 <p />
 <p><figure class="caption "><figcaption class="caption-text"></figcaption></figure></p>
 - news

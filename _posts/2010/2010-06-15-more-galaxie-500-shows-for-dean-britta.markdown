@@ -18,7 +18,7 @@ categories:
 - galaxie 500
 tags: []
 ---
-<div><span class="removed_link" title="http://www.deanandbritta.com/blog/?p=668">Dean & Britta have announced that they will be playing more shows performing the songs of Galaxie 500</span> - so far the following dates have been confirmed... </p>
+<div>Dean & Britta have announced that they will be playing more shows performing the songs of Galaxie 500 - so far the following dates have been confirmed... </p>
 <ul>
 <li><del datetime="2010-06-16T00:05:20+00:00">19 August - The Trocadero, Philadelphia</del></li>
 <li><del datetime="2010-06-16T00:05:20+00:00">20 August - Bowery Ballroom, NYC</del></li>

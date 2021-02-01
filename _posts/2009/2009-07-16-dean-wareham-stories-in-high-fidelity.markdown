@@ -17,5 +17,5 @@ categories:
 - dean wareham
 tags: []
 ---
-<p><span class="removed_link" title="http://unionhallny.com/calendar.php"></span>
-<p>On August 4th Dean Wareham will be appearing at an event entitled Stories in High Fidelity at <span class="removed_link" title="http://unionhallny.com/calendar.php">The Union Hall</span> in Brooklyn, NY. The event is described as being "an evening of musical readings" and will feature contributions from other authors. Tickets are $10 in advance and are available from <span class="removed_link" title="http://unionhallny.com/calendar.php">The Union Hall website</span>.</p>
+<p>
+<p>On August 4th Dean Wareham will be appearing at an event entitled Stories in High Fidelity at The Union Hall in Brooklyn, NY. The event is described as being "an evening of musical readings" and will feature contributions from other authors. Tickets are $10 in advance and are available from The Union Hall website.</p>

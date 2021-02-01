@@ -16,5 +16,5 @@ categories:
 - news
 tags: []
 ---
-<p>Last call to vote in the <span class="removed_link" title="https://www.fullofwishes.co.uk/database/surveyform/">A Head Full of Wishes 2007 Survey</span></p>
+<p>Last call to vote in the A Head Full of Wishes 2007 Survey</p>
 <p>Results will be announced by the end of the week so if you haven't already please go and pick your fave albums and tracks by Galaxie 500, Luna, Damon & Naomi and Dean & Britta...</p>

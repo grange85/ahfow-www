@@ -28,5 +28,5 @@ tags: []
 <p>You can vote for the new Dean & Britta album because it's in the database - but don't because you haven't heard it yet!</p>
 <p>There are two "Best of Luna" albums to choose from - I'll probably axe compilations for next time around...</p>
 <p>Have fun - and please let me know asap if anything goes wrong!</p>
-<p><span class="removed_link" title="http://www.grange85.co.uk/galaxie/newsurvey.php">The 2006 A Head Full of Wishes Survey</span></p>
+<p>The 2006 A Head Full of Wishes Survey</p>
 <p>-=Andy=-</p>

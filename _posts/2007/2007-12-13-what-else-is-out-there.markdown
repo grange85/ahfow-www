@@ -32,9 +32,9 @@ tags: []
 </ul>
 <p><strong>Orkut:</strong>
 <ul>
-<li><span class="removed_link" title="http://www.orkut.com/Community.aspx?cmm=37446">Galaxie 500</span> (692 members)</li>
-<li><span class="removed_link" title="http://www.orkut.com/Community.aspx?cmm=16729883">Damon & Naomi</span> (11 members)</li>
-<li><span class="removed_link" title="http://www.orkut.com/Community.aspx?cmm=10047">Luna</span> (58 members)</li>
+<li>Galaxie 500 (692 members)</li>
+<li>Damon & Naomi (11 members)</li>
+<li>Luna (58 members)</li>
 </ul>
 <p><strong>Last.fm:</strong>
 <ul>
@@ -43,7 +43,7 @@ tags: []
 </ul>
 <p><strong>YouTube:</strong>
 <ul>
-<li><span class="removed_link" title="http://youtube.com/group/fullofwishes">A Head Full of Wishes</span> (11 members)</li>
+<li>A Head Full of Wishes (11 members)</li>
 </ul>
 <p>There are also a couple of Usenet newsgroups alt.music.luna and alt.music.galaxie-500 but they've been nothing but spam for many years. The <a href="http://groups.google.com/group/alt.music.galaxie-500/topics">alt.music.galaxie-500 group</a> is only of interest because Galaxie 500 Mailing List posts were posted there for a couple of years and so it has an archive of the (fairly) early days of the Mailing List.</p>
 <p>If anyone is aware of any other sites that should be in this list please <a href="mailto:andy@grange85.co.uk">let me know</a>.</p>

@@ -17,5 +17,5 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p>The 6th <span class="removed_link" title="http://terrascope.co.uk/TerrastockPages/terrastock6.html">Terrastock festival</span> has just been announced and it's no surprise to find Damon & Naomi on the bill.</p>
-<p>The festival takes place between the 21st and 23rd of April 2006 in Providence, Rhode Island USA (home of the very first Terrastock). Weekend tickets priced at $110 are <span class="removed_link" title="http://terrascope.co.uk/TerrastockPages/terrastock6.html">on sale now</span></p>
+<p>The 6th Terrastock festival has just been announced and it's no surprise to find Damon & Naomi on the bill.</p>
+<p>The festival takes place between the 21st and 23rd of April 2006 in Providence, Rhode Island USA (home of the very first Terrastock). Weekend tickets priced at $110 are on sale now</p>

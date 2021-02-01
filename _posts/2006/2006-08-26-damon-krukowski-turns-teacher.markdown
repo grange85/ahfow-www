@@ -17,4 +17,4 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p>Damon will be teaching a poetry writing workshop at the <span class="removed_link" title="http://www.extension.harvard.edu/2006-07/courses/crea.jsp#e-57">Harvard Extension School</span> in September.</p>
+<p>Damon will be teaching a poetry writing workshop at the Harvard Extension School in September.</p>

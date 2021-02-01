@@ -19,4 +19,4 @@ tags: []
 ---
 <p>OK - so we've not really lost touch with Britta thanks to the <a href="http://groups.google.com/group/fullofwishes">Mailing List</a> and the Dean & Britta official <a href="http://www.deanandbritta.com">web site</a> and <a href="http://www.deanandbritta.com/forum/">forum</a> but she did mention a bit of extra curricular acrtivity that also involved Lee Wall</p>
 <p>Britta appears in one of a series of adverts for Levi's jeans that are being aired in Europe (including the UK). The rock guitar that accompanies these ads has apparently been provided by the former drummer of Luna</p>
-<p>You can check out the ads on the <span class="removed_link" title="http://eu.levi.com/index.jsp?lang=en&region=uk">Levi's Europe web site</span></p>
+<p>You can check out the ads on the Levi's Europe web site</p>

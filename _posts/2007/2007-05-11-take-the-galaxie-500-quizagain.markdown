@@ -17,4 +17,4 @@ categories:
 - galaxie 500
 tags: []
 ---
-<p>It's been over a year since I last pointed everyone to Mike's Galaxie 500 quiz (est. 1997) - anyone feeling like showing off can <span class="removed_link" title="http://www.grange85.co.uk/galaxie5/mikesquiz.php">head on over and give it a shot</span>. I managed 79/100.</p>
+<p>It's been over a year since I last pointed everyone to Mike's Galaxie 500 quiz (est. 1997) - anyone feeling like showing off can head on over and give it a shot. I managed 79/100.</p>

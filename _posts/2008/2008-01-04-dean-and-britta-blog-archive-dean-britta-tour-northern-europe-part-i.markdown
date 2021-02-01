@@ -22,4 +22,4 @@ tags: []
 <blockquote><p>We set out for Newark airport on Thanksgiving day, 2007, flying SAS to Copenhagen, the first stop on our tour of Northern Europe. We were four – Britta and myself, our drummer Anthony LaMarca, and keyboard player Ben Freeman. There would be no crew traveling with us, so in addition to being the singer I was tour manager and would do the bulk of the driving. Ben was the designated navigator. But I’m getting ahead of myself.</p></blockquote>
 <p>and he managed to squeeze in a plug for the book as well...</p>
 <blockquote><p>It was dark when we arrived in Copenhagen, and we were happy to find a van to take us to our humble hotel, the Hotel Saga, located behind Copenhagen’s main train station. I am familiar with this area, I had wandered around these streets in 1991 after the one and only Galaxie 500 show in this city. But that’s another story, one told more fully in my book.</p></blockquote>
-<p>You can <span class="removed_link" title="http://shop.fullofwishes.co.uk/us/1594201552">pre-order the book from A Shop Full of Wishes</span></p>
+<p>You can pre-order the book from A Shop Full of Wishes</p>

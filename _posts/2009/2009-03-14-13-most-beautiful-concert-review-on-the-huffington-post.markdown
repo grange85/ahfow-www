@@ -27,5 +27,5 @@ tags: []
 <li><a href="http://www.flickr.com/photos/robertloerzel/sets/72157614915339471/">See the photos taken by Robert on Flickr</a></li>
 </ul>
 <p><ins datetime="2009-03-15T19:19:51+00:00">
-<p>There's also an <span class="removed_link" title="http://venuszine.com/articles/music/live_reviews/5400/Dean__Britta_bring_Warhol_to_life_in_Chicago">in depth review at Venus Zine</span> of the same show and links to a <a href="http://www.flickr.com/photos/venuszine/sets/72157615114372408/">few more of Kirstiecat's photos</a> (I posted a link to a <a href="/2009/03/10/photo-dean-america/">lovely Kirstiecat picture earlier in the week</a>)</p>
+<p>There's also an in depth review at Venus Zine of the same show and links to a <a href="http://www.flickr.com/photos/venuszine/sets/72157615114372408/">few more of Kirstiecat's photos</a> (I posted a link to a <a href="/2009/03/10/photo-dean-america/">lovely Kirstiecat picture earlier in the week</a>)</p>
 <p></ins></p>

@@ -17,6 +17,6 @@ categories:
 - video
 tags: []
 ---
-<p>The "<span class="removed_link" title="https://www.fullofwishes.co.uk/database/wiki/Dean_Wareham_plays_Galaxie_500">Dean Wareham plays Galaxie 500</span>" show hits America's west coast this week starting tonight in San Diego. Check the <span class="removed_link" title="https://www.fullofwishes.co.uk/database/wiki/Shows">upcoming shows page</span> for full details.</p>
-<p>Here's a fantastic video of Dean & Britta covering Galaxie 500's Tugboat for <span class="removed_link" title="https://www.fullofwishes.co.uk/database/wiki/Shows/Dean_%26_Britta/2010-10-20">KEXP's CMJ show at the Ace Hotel in NYC</span> a couple of weeks back.</p>
+<p>The "Dean Wareham plays Galaxie 500" show hits America's west coast this week starting tonight in San Diego. Check the upcoming shows page for full details.</p>
+<p>Here's a fantastic video of Dean & Britta covering Galaxie 500's Tugboat for KEXP's CMJ show at the Ace Hotel in NYC a couple of weeks back.</p>
 <p><figure class="caption "><figcaption class="caption-text"></figcaption></figure></p>

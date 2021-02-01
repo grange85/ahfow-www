@@ -17,8 +17,8 @@ categories:
 - galaxie 500
 tags: []
 ---
-<p><span class="removed_link" title="http://teawithtufty.blogspot.com">Tea with Tufty</span> has two complete Galaxie 500 shows for download, both recorded in Glasgow.</p>
+<p>Tea with Tufty has two complete Galaxie 500 shows for download, both recorded in Glasgow.</p>
 <ul>
-<li><span class="removed_link" title="http://teawithtufty.blogspot.com/2007/10/galaxie-500-glasgow-tec-friday-8th.html">Galaxie 500 @ Glasgow Tech 1989</span></li>
-<li><span class="removed_link" title="http://teawithtufty.blogspot.com/2007/10/galaxie-500-college-of-buildingprinting.html">Galaxie 500 @ The College of Printing & Building, Glasgow - 1990.</span></li>
+<li>Galaxie 500 @ Glasgow Tech 1989</li>
+<li>Galaxie 500 @ The College of Printing & Building, Glasgow - 1990.</li>
 </ul>

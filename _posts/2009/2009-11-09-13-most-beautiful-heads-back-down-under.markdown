@@ -18,5 +18,5 @@ categories:
 - 13 most beautiful
 tags: []
 ---
-<p>Dean & Britta will be taking 13 Most Beuatiful... back down under in 2010. Dates I've heard about so far are the <span class="removed_link" title="http://www.perthfestival.com.au/en/Events/music/13-most-beautiful-andy-warhol/">25th and 26 February as part of the Perth International Arts Festival</span> in Western Australia and on the <span class="removed_link" title="http://www.nzfestival.nzpost.co.nz/music/13-most-beautiful">4 March in Wellington as part of the New Zealand International Arts Festival</span></p>
-<p>Before that they have a performance at the <span class="removed_link" title="http://dukeperformances.duke.edu/series/at-the-crossroads/dean-britta">Reynolds Theatre in Durham, North Carolina, USA on 18 February</span></p>
+<p>Dean & Britta will be taking 13 Most Beuatiful... back down under in 2010. Dates I've heard about so far are the 25th and 26 February as part of the Perth International Arts Festival in Western Australia and on the 4 March in Wellington as part of the New Zealand International Arts Festival</p>
+<p>Before that they have a performance at the Reynolds Theatre in Durham, North Carolina, USA on 18 February</p>

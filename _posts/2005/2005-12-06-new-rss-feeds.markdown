@@ -20,6 +20,6 @@ tags: []
 <p>RSS allows you to keep up with Galaxie 500, Luna, Damon & Naomi and Dean & Britta news without having to keep checking the website. The news articles will be pushed to your RSS reader of choice (take a look at <a href="htt://www.bloglines.com">Bloglines</a> for a good web-based reader)</p>
 <p>The following feeds are available...</p>
 <ul>
-<li><span class="removed_link" title="http://www.fullofwishes.info/galaxie/rss.php?t=rss1.0">RSS 1.0</span></li>
-<li><span class="removed_link" title="http://www.fullofwishes.info/galaxie/rss.php?t=rss2.0">RSS 2.0</span></li>
+<li>RSS 1.0</li>
+<li>RSS 2.0</li>
 </ul>

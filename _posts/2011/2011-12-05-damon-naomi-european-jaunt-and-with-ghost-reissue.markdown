@@ -27,5 +27,5 @@ tags: []
 <li>December 17 - Cavriago, IT</li>
 <li>December 18 - Mogliano Veneto, IT</li>
 </ul>
-<p>The <span class="removed_link" title="https://www.fullofwishes.co.uk/database/upcoming/damon_and_naomi/">full details of the upcoming shows</span> can be seen on the (recently resurrected) <a href="/database/">A Head Full of Wishes database</a>.</p>
+<p>The full details of the upcoming shows can be seen on the (recently resurrected) <a href="/database/">A Head Full of Wishes database</a>.</p>
 <p><img alt="" class="alignright" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_withghost.jpg" title="Damon & Naomi with Ghost sleeve" width="200" height="200" />In other Damon & Naomi news, on 31 January 2012 <a href="http://www.dragcity.com/artists/damon-and-naomi-with-ghost">Drag City will be reissuing the long out of print Damon & Naomi album With Ghost</a>. The album will be issued as a CD ($14) and also on vinyl ($18), the vinyl release will include a bonus 7" single which has covers of The Velvet Underground's "Femme Fatale" and Tomokawa Kazuki's song "My Flower". The <a href="http://www.dragcity.com/products/damon-and-naomi-with-ghost">details are on the Drag City website</a> but you don't appear to be able to pre-order yet.</p>

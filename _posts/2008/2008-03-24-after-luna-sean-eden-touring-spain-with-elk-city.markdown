@@ -17,6 +17,6 @@ categories:
 - after luna
 tags: []
 ---
-<p>Sean has just posted one of his sporadic <span class="removed_link" title="http://seaneden.net/2008/03/24/spain/">updates to his blog announcing that he'll be touring Spain</span> with <a href="http://www.elkcity.net/">Elk City</a>...<br />
+<p>Sean has just posted one of his sporadic updates to his blog announcing that he'll be touring Spain with <a href="http://www.elkcity.net/">Elk City</a>...<br />
 <blockquote>Tomorrow I leave for Spain with Elk City. The dates are listed below. I’ll be doing a couple of my songs in the Elk City set each night, too. I’m looking forward to a little travel and adventure in one of my favorite countries.</p></blockquote>
 <p>The post also has a bit about what Sean's listening to and watching...</p>

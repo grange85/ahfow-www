@@ -21,6 +21,6 @@ tags: []
 <div>
 <p><a href="http://www.flickr.com/photos/mattesque/">Mattesque</a> has a some <a href="http://www.flickr.com/photos/mattesque/3243305644/">really nice photos of Dean & Britta's instore perfromance at Zulu Records</a> on Flickr. I love the casual look of the band lounging around Dean.</p>
 <p>There's also some <a href="http://www.flickr.com/photos/sensibleyouth/sets/72157613209023069/">nice pics by sensible youth</a> of Friday nights performance of 13 Most Beautiful at the PuSh festival. <ins datetime="2009-02-02T22:36:24+00:00">(<strong>Correction</strong>: The photos were taken at a show at Club PuSh after the 13 Most Beautiful performance)</ins>  </p>
-<p>13 Most Beautiful's next stop is in <span class="removed_link" title="www.sffs.org">San Francisco tomorrow (Tuesday) night at the Palace of Fine Arts</span>.</p>
+<p>13 Most Beautiful's next stop is in San Francisco tomorrow (Tuesday) night at the Palace of Fine Arts.</p>
 <p><br clear="right"/>
 </div>

@@ -17,5 +17,5 @@ categories:
 - dean wareham
 tags: []
 ---
-<p>There's an interview with Dean Wareham on the <span class="removed_link" title="http://www.cbc.ca/podcasting/pastpodcasts.html?42#ref42">CBC Q podcast</span>. The interview with Dean starts 18'20" in (after a lengthy item on poo).</p>
-<p><span class="removed_link" title="http://podcast.cbc.ca/mp3/qpodcast_20080512_5769.mp3">Direct link to the mp3</span> (22MB)</p>
+<p>There's an interview with Dean Wareham on the CBC Q podcast. The interview with Dean starts 18'20" in (after a lengthy item on poo).</p>
+<p>Direct link to the mp3 (22MB)</p>

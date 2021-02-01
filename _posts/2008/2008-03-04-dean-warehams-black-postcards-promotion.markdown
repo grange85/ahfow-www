@@ -34,6 +34,6 @@ tags: []
 <div style="text-align:center"><img src="https://www.fullofwishes.co.uk/wp/wp-content/uploads/2007/12/410aifzt3sl.jpg" alt='Black Postcards cover' /></div>
 <p>If you can't make it to one of the signings you can buy the book from A Shop Full of Wishes...</p>
 <ul>
-<li><span class="removed_link" title="http://shop.fullofwishes.co.uk/us/1594201552">Pre-order Black postcards from A Shop Full of Wishes (US)</span></li>
-<li><span class="removed_link" title="http://shop.fullofwishes.co.uk/uk/1594201552">Pre-order Black postcards from A Shop Full of Wishes (UK)</span></li>
+<li>Pre-order Black postcards from A Shop Full of Wishes (US)</li>
+<li>Pre-order Black postcards from A Shop Full of Wishes (UK)</li>
 </ul>

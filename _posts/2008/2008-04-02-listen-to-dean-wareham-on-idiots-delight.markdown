@@ -17,4 +17,4 @@ categories:
 - dean wareham
 tags: []
 ---
-<p>Listen to a stream of Dean being interviewed at length <span class="removed_link" title="http://wfuv.streamguys.us/cgi-bin/colinker.cgi?colink=111773007810570">on Vin Scelsa's Idiot's Delight</span> on WFUV.</p>
+<p>Listen to a stream of Dean being interviewed at length on Vin Scelsa's Idiot's Delight on WFUV.</p>

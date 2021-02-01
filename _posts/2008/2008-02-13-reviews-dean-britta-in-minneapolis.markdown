@@ -16,6 +16,6 @@ categories:
 - dean & britta
 tags: []
 ---
-<p><span class="removed_link" title="http://spinmagazine.com/features/ithappenedlastnight/2008/02/080212_dean_and_britta/">SPIN.com has a review</span> and some fantastic pictures from Dean & Britta's show at the Cedar Cultural Center in Minneapolis from a couple of days ago...</p>
+<p>SPIN.com has a review and some fantastic pictures from Dean & Britta's show at the Cedar Cultural Center in Minneapolis from a couple of days ago...</p>
 <blockquote><p>Mythologist Joseph Campbell once said that "love is a friendship set to music." Dean Wareham and Britta Phillips, a.k.a. dreamy indie-pop duo Dean & Britta, exemplified that gracious support and exchange onstage at the Cedar Cultural Center</p></blockquote>
-<p>City pages also has <a href="http://blogs.citypages.com/ctg/2008/02/dean_and_britta.php">a review</a> and <span class="removed_link" title="http://home.citypages.com/slideshow/index.php?gallery=39235&type=1&page=0">some pictures</span> from the show</p>
+<p>City pages also has <a href="http://blogs.citypages.com/ctg/2008/02/dean_and_britta.php">a review</a> and some pictures from the show</p>

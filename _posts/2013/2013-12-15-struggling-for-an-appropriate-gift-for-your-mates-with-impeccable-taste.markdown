@@ -27,9 +27,9 @@ tags: []
 <p>And while we're mentioning it... Temperature's Rising: an oral and visual history by Mike McGonigal is a perfect gift for any fan... I need another copy so I can wear out the one I have!<br />
 <strong><a href="http://www.amazon.com/gp/product/1891241567/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1891241567&linkCode=as2&tag=aheadfullofwi-20">Buy Temperature's Rising: An Oral History of Galaxie 500 from Amazon.com</a></strong><br />
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/temprising_book.jpg" width="400" height="500" class /><figcaption class="caption-text"> Temperature's Rising book</figcaption></figure>
-<p><strong><span class="removed_link" title="http://damonandnaomi.com/shop/">Damon & Naomi's online shop also has all the Galaxie 500 records on CD or vinyl, and lots of Damon & Naomi releases on CD and vinyl - go fill your boots</span></strong></p>
+<p><strong>Damon & Naomi's online shop also has all the Galaxie 500 records on CD or vinyl, and lots of Damon & Naomi releases on CD and vinyl - go fill your boots</strong></p>
 <p>If you're missing have a spanking new, yet stylishly retro Luna T-shirt then you're in luck because Dean's online store has the lovely LUNA/NASA design reissued<br />
-<strong><span class="removed_link" title="http://elevenspot.11spot.com/deanwareham/luna-t-shirt.html">Buy a LUNA T-shirt from Deanwareham.com</span></strong></p>
+<strong>Buy a LUNA T-shirt from Deanwareham.com</strong></p>
 <p>And in other clothing news...</p>
 <p>Damon & Naomi are selling a nice slate grey Eclipse T-shirt and Dean is selling a black one... I have neither so you'll have to make do with a stock photo for this!<br />
 <strong><a href="http://damonandnaomi.com/shop/galaxie-500-t-shirt/">Buy grey Galaxie 500 Eclipse T-shirt from Damon & Naomi</a></strong><br />

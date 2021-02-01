@@ -17,7 +17,7 @@ categories:
 tags: []
 ---
 <p class="imagebox-a"><a title="The Most Curious Customer Feedback Survey I Have Ever Seen, by boltron" alt="The Most Curious Customer Feedback Survey I Have Ever Seen, by boltron" href="http://www.flickr.com/photos/boltron/3132662146/"><img src="https://farm4.static.flickr.com/3119/3132662146_b305c1c058_m.jpg" width="240" height="193"></a><br/>Photo by boltron-</p>
-<p>The 15th A Head Full of Wishes survey has just kicked off. <span class="removed_link" title="https://www.fullofwishes.co.uk/database/surveyform">Head over to cast your vote</span> for favourite albums and tracks by Galaxie 500, Luna, Damon & Naomi and Dean & Britta.</p>
+<p>The 15th A Head Full of Wishes survey has just kicked off. Head over to cast your vote for favourite albums and tracks by Galaxie 500, Luna, Damon & Naomi and Dean & Britta.</p>
 <p>I have no incentives to get people to vote this year so you'll all have to do it for the love of the numbers.</p>
 <p>If you feel the need for inspiration you can check out the previous surveys.</p>
 <p>It would be nice to beat last years 97 responses.</p>

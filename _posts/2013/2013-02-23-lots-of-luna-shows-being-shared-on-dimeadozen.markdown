@@ -122,8 +122,8 @@ I'll leave the list of links I did put in at the bottom of this post but be awar
 <li><a href="http://www.dimeadozen.org/torrents-details.php?id=440325&hit=1">Luna - WXPN World Cafe, Philadelphia PA, USA - 20000114 RESEED</a></li>
 <li><a href="http://www.dimeadozen.org/torrents-details.php?id=440322&hit=1">Luna - WXPN World Cafe, Philadelphia PA, USA - 20020516 RESEED</a></li>
 <li><a href="http://www.dimeadozen.org/torrents-details.php?id=440344">Luna - North Star Bar, Philadelphia PA, USA - 20021123</a></li>
-<li><span class="removed_link" title="http://www.dimeadozen.org/torrents-details.php?id=440448&hit=1">Luna - Club Quatro, Tokyo, Japan - 19940606 RESEED</span></li>
-<li><span class="removed_link" title="http://www.dimeadozen.org/torrents-details.php?id=440450&hit=1">Luna - Highdive, Champaign, IL, USA - May 28, 2002 RESEED</span></li>
+<li>Luna - Club Quatro, Tokyo, Japan - 19940606 RESEED</li>
+<li>Luna - Highdive, Champaign, IL, USA - May 28, 2002 RESEED</li>
 <p></ins></p>
 <p><ins datetime="2013-02-24T22:44:53+00:00">
 <li><a href="http://www.dimeadozen.org/torrents-details.php?id=440526&hit=1">Luna - Bowery Ballroom, New York City - 20050228 (final show) RESEED</a></li>

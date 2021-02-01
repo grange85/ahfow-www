@@ -17,5 +17,5 @@ categories:
 - dean wareham
 tags: []
 ---
-<p>A nice in depth interview by Adrian Pannett on <span class="removed_link" title="http://www.adequacy.net/interview.php?InterviewID=102">Delusions of Adequacy</span> gives the name (Black Postcards) and the scheduled release date (March 2008) for the book that Dean has been mentioning in interviews since Luna split.</p>
+<p>A nice in depth interview by Adrian Pannett on Delusions of Adequacy gives the name (Black Postcards) and the scheduled release date (March 2008) for the book that Dean has been mentioning in interviews since Luna split.</p>
 <blockquote><p>I have almost finished writing Black Postcards, a memoir about my time in Galaxie 500 and Luna. It is due out in March 2008.</p></blockquote>

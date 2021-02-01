@@ -17,4 +17,4 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p><a href="http://www.damonandnaomi.com">Damon & Naomi</a> are selling the rather lovely <a href="http://web.archive.org/web/20140517101809/http://ikerspozio.net/">Iker Spozio</a> designed poster for their show tomorrow night at Joe's Pub in NYC. The poster is available from their <span class="removed_link" title="http://www.damonandnaomi.com/frameset/frame.html?http%3A//www.damonandnaomi.com/merchandise/merch.html">website</span>.</p>
+<p><a href="http://www.damonandnaomi.com">Damon & Naomi</a> are selling the rather lovely <a href="http://web.archive.org/web/20140517101809/http://ikerspozio.net/">Iker Spozio</a> designed poster for their show tomorrow night at Joe's Pub in NYC. The poster is available from their website.</p>

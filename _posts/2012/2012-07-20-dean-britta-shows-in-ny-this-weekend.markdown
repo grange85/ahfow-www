@@ -18,6 +18,6 @@ categories:
 tags: []
 ---
 <p>Dean & Britta are playing two shows in NY this weekend:</p>
-<p>Tonight they play the <span class="removed_link" title="http://lepoissonrouge.com/events/view/3305">"Dean Wareham plays Galaxie 500" show for the last time in NYC</span> at Le Poisson Rouge, New York City.</p>
+<p>Tonight they play the "Dean Wareham plays Galaxie 500" show for the last time in NYC at Le Poisson Rouge, New York City.</p>
 <p>Tomorrow night they co-headline the "Shine a Light festival" in Wantagh, NY - the show is being put on by <a href="http://tommybrullfoundation.org/joomla/">THE TOMMY BRULL FOUNDATION</a> - you can find out more at <a href="https://www.facebook.com/ShineALightMusicFestival">their Facebook page</a> and in this <a href="http://www.newsday.com/entertainment/music/backstage-pass-1.811987/the-story-behind-the-shine-a-light-music-festival-1.3847330">Newsday article</a>.</p>
 <blockquote><p>To make things even more special, guitarist Sean Eden is expected to join Dean & Britta onstage for a rare Luna reunion</p></blockquote>

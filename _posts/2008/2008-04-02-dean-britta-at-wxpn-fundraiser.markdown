@@ -17,7 +17,7 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>Dean & Britta will be "hosting a table" at this years <span class="removed_link" title="http://www.xpn.org/member_support/beggars_banquet.php">WXPN Beggar's Banquet fundraiser</span>. The event takes place on 4 April (this Friday!) and tickets are a mere $250 a pop...</p>
+<p>Dean & Britta will be "hosting a table" at this years WXPN Beggar's Banquet fundraiser. The event takes place on 4 April (this Friday!) and tickets are a mere $250 a pop...</p>
 <blockquote><p>Dean & Britta formerly of Luna<br />
 “Ask me about the time I kissed Justine Bateman." Dean<br />
 “Ask me about the band I was in with Justine Bateman." Britta</p></blockquote>

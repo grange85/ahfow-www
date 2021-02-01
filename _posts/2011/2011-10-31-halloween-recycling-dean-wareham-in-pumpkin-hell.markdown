@@ -89,6 +89,6 @@ photos:
 <iframe width="420" height="315" src="https://www.youtube.com/embed/G09csbVdcsw" frameborder="0" allowfullscreen></iframe>
 <blockquote>Don't kick my pumpkin&hellip; your boy kicked my pumpkins. You can touch 'em and hold 'em, whatever, just no kicking … they bruise</blockquote>
 
-<p>The film was made in 2007 by <span class="removed_link" title="http://www.finneranfilms.com">Max Finneran</span> and is...</p>
+<p>The film was made in 2007 by Max Finneran and is...</p>
 <blockquote><p>a short coming-of-age horror film about sons, fathers and the roles they play and imagine for one another.  Abandoned by his father at a highway-side pumpkin patch, an eleven year-old boy spends a peculiar and life changing night with the misfit proprietor of the patch. </p></blockquote>
 <p><strong>I do not have any right or permission to host this film - if you do and you object to me making it available then <a href="mailto:andy@grange85.co.uk">please get in touch</a> and I'll gladly remove it.</strong></p>

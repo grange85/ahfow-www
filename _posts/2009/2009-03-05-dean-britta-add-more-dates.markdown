@@ -21,4 +21,4 @@ tags: []
 <p><ins datetime="2009-03-05T13:56:25+00:00">
 <p><strong>Update:</strong> I've had confirmation that the shows in June will NOT be "13 Most Beautiful" performances but regular Dean & Britta shows</p>
 <p></ins></p>
-<p>See a <span class="removed_link" title="https://www.fullofwishes.co.uk/database/upcoming/dean_and_britta/">list of all upcoming shows</span>.</p>
+<p>See a list of all upcoming shows.</p>

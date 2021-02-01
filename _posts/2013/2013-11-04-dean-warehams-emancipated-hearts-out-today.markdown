@@ -28,9 +28,9 @@ Here are some of the rather lovely reviews that Emancipated Hearts has been gett
 <blockquote><p>"There’s rarely a moment over the past 25 years where Dean Wareham’s failed to deliver an album that’s at least three-quarters brilliant, and Emancipated Hearts doesn’t change that record. Class is permanent" - The Line Of Best Fit</p></blockquote>
 <p>Dean will be over for a few dates in the UK and Paris next month:</p>
 <ul>
-<li>Wednesday, December 4 - Manchester, Ruby Lounge - <span class="removed_link" title="https://www.ticketline.co.uk/order/tickets/13286663/dean-wareham-manchester-the-ruby-lounge-2013-12-04-19-30-00">Buy tickets</span></li>
+<li>Wednesday, December 4 - Manchester, Ruby Lounge - Buy tickets</li>
 <li>Thursday, December 5 - London, St Pancras Old Church - <a href="http://www.wegottickets.com/event/240926">Buy tickets</a></li>
 <li>Friday, December 6 - London, St Pancras Old Church - Sold out</li>
-<li>Saturday, December 7 - Paris, Point Ephémère - <span class="removed_link" title="http://www.digitick.com/dean-wareham-papercuts-concert-point-ephemere-paris-07-decembre-2013-css5-pointephemere-pg101-ri2085186.html">Buy tickets</span></li>
+<li>Saturday, December 7 - Paris, Point Ephémère - Buy tickets</li>
 </ul>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/LC-4aPVH4cQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>

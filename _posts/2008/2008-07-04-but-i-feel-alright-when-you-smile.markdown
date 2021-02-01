@@ -24,4 +24,4 @@ tags: []
 <p><strong>Luna - Fourth of July</p>
 <p></strong><br />
 <figure class="caption "><figcaption class="caption-text"></figcaption></figure></p>
-<p><span class="removed_link" title="http://forum.fullofwishes.co.uk/">Come and join the new A Head Full of Wishes forum - <em>Oblivious</em></span></p>
+<p>Come and join the new A Head Full of Wishes forum - <em>Oblivious</em></p>

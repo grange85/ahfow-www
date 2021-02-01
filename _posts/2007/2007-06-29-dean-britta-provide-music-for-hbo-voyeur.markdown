@@ -17,5 +17,5 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>Dean & Britta have provided a new piece of music for the HBO multimedia project <span class="removed_link" title="http://www.hbovoyeur.com/">HBO Voyeur</span>. </p>
-<p>The track, called Spiral, was <span class="removed_link" title="http://www.hbo.com/video/podcasts/promocasts/626162_dl.mp3">made available to download</span> through the HBO podcasts.</p>
+<p>Dean & Britta have provided a new piece of music for the HBO multimedia project HBO Voyeur. </p>
+<p>The track, called Spiral, was made available to download through the HBO podcasts.</p>

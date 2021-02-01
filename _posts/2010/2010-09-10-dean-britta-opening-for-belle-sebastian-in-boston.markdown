@@ -17,6 +17,6 @@ categories:
 - dean & britta
 tags: []
 ---
-<div>Dean & Britta are taking the "Dean Wareham plays Galaxie 500" show back <i>home</i> to<i> </i>Boston on 15 October when they open for <span class="removed_link" title="http://www.belleandsebastian.com/tour.php#317">Belle & Sebastian at the Wang Theatre</span>. Be there sharp at 8pm if you want to catch them!
+<div>Dean & Britta are taking the "Dean Wareham plays Galaxie 500" show back <i>home</i> to<i> </i>Boston on 15 October when they open for Belle & Sebastian at the Wang Theatre. Be there sharp at 8pm if you want to catch them!
 - news
 </p></div>

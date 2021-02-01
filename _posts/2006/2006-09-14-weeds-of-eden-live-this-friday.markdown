@@ -19,4 +19,4 @@ tags: []
 ---
 <p>Sean Eden's Weeds of Eden will be playing at Fontana's, 105 Eldridge Street, in New York City this Friday at 11pm</p>
 <blockquote><p>Mr. Sean Eden will be on vocals and guitar, Ray Ketchem on drums, Barbara Endes on bass and backing vocals, and David Voigt on guitar as well.</p></blockquote>
-<p><span class="removed_link" title="http://www.mutronium.com/nu-artskool.php">details: nu-artschool</span>. Check out <a href="http://www.myspace.com/seaneden">Sean's MySpace page</a></p>
+<p>details: nu-artschool. Check out <a href="http://www.myspace.com/seaneden">Sean's MySpace page</a></p>

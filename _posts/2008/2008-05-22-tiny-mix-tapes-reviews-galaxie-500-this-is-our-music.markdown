@@ -17,6 +17,6 @@ categories:
 - other people's blogs
 tags: []
 ---
-<p>I just came across this very nice review of Galaxie 500's third album This is Our Music on <span class="removed_link" title="http://www.tinymixtapes.com/Galaxie-500,6073">Tiny Mix Tapes</span></p>
+<p>I just came across this very nice review of Galaxie 500's third album This is Our Music on Tiny Mix Tapes</p>
 <blockquote><p>These are perfect pop songs — funny songs, sad songs, love songs. Our Music’s two centerpieces, “Summertime” and Yoko Ono’s “Listen, the Snow Is Falling” (they were a great weather band), achieve a majestic, burning magic that transcends any subgenre.</p></blockquote>
 <blockquote><p>In fact, due credit is still rarely given when it comes to their exceptional influence on modern indie pop; My Morning Jacket, The Shins, Slumber Party, and Band of Horses (to name a few) all owe something to Galaxie 500, the best Boston band of all time.</p></blockquote>

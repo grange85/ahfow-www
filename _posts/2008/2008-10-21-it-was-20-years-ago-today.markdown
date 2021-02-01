@@ -31,13 +31,13 @@ tags: []
 <li><a href="http://www.box.net/shared/hmfp9lvd7s">Parking Lot - Galaxie 500</a> <br/><em>(19 December 1987: Galaxie 500 @ Rat, Boston MA, USA)</em></li>
 <li><a href="http://www.box.net/shared/k6tduybg8x">Don't Let Our Youth Go to Waste -  Galaxie 500</a> <br/><em>(15 October 1990: Galaxie 500 @ Kennel Club, San Francisco CA, USA)</em></li>
 <li><a href="http://www.box.net/shared/6c2p7xlhau">Temperature's Rising - Luna</a> <br/><em>(27 February 1992: Luna @ Underworld, London, UK)</em></li>
-<li><a href="http://www.box.net/shared/hqj4yy30a4">Oblivious - Hefner</a> <br/><em>(<span class="removed_link" title="https://www.fullofwishes.co.uk/database/discography/album/145/">Snowstorm: A Tribute to Galaxie 500</span>)</em></li>
+<li><a href="http://www.box.net/shared/hqj4yy30a4">Oblivious - Hefner</a> <br/><em>(Snowstorm: A Tribute to Galaxie 500)</em></li>
 <li>It's Getting Late</li>
 <li>Instrumental - Galaxie 500 <br/><em>(<a href="http://uk.youtube.com/watch?v=naPtNSN5r-o">Acura "Engineering is Our Art" commercial</a>)</em></li>
 <li><a href="http://www.box.net/shared/08tkuo1ud9">Tugboat - Dean & Britta</a> <br/><em>(Friday evening at the Studenterhuset)</em></li>
 </ul>
 <p>If anyone (that'll be Hefner I guess) objects to having there track here please get in touch and I'll remove it.</p>
-<p>I couldn't find an alternative version of It's Getting Late or Instrumental (I could have raided <span class="removed_link" title="https://www.fullofwishes.co.uk/database/discography/album/145/">Snowstorm</span> again but didn't really want to), if anyone has anything (or wants to make anything!) to fill these gaps please get in touch. In the meantime you can enjoy the Acura advert that featured Instrumental.</p>
+<p>I couldn't find an alternative version of It's Getting Late or Instrumental (I could have raided Snowstorm again but didn't really want to), if anyone has anything (or wants to make anything!) to fill these gaps please get in touch. In the meantime you can enjoy the Acura advert that featured Instrumental.</p>
 <p><figure class="caption "><figcaption class="caption-text"></figcaption></figure></p>
 <p>...and go dig out Today - it is, after all, one of the greatest albums ever made...</p>
 <blockquote><p>Melody Maker called the LP "an astonishing debut by anybody's standards," and indeed it is. The incredible, supple beauty that Galaxie spun like straw was so sweetly melancholic that it all but smothered you. Damon's drums drift with the simmering presence of jazz classicism, Naomi's bass is rich with dreamy emotional content, Dean's guitar completes the aural landscapes begun by '69-era Sterling Morrison, and the vocals emerge from the Ouija board of eternity. A highlight of Today is the incredible primal-drone-hunch treatment the band gives to Jonathan Richman's "Don't Let Our Youth Go to Waste."</p>

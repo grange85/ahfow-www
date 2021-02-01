@@ -17,5 +17,5 @@ categories:
 - news
 tags: []
 ---
-<p>Another Luna DVD torrent has just appeared on <span class="removed_link" title="http://www.deimeadozen.org">Dimeadozen</span> - it features a live show from 1992 in Los Angeles</p>
+<p>Another Luna DVD torrent has just appeared on Dimeadozen - it features a live show from 1992 in Los Angeles</p>
 <p><a href="http://www.dimeadozen.org/torrents-details.php?id=85197">Luna 1992 DVD</a> - you will need to be a registered user to use Dimeadozen</p>

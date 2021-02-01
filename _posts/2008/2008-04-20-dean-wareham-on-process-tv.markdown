@@ -18,5 +18,5 @@ categories:
 - video
 tags: []
 ---
-<p>Dean Wareham is featured in the first episode of a new <span class="removed_link" title="http://process.blip.tv/#844585">web TV show called Process</span>, the five minute item features an interview and clips from Dean's recent appearance at the Book Court in Brooklyn.</p>
+<p>Dean Wareham is featured in the first episode of a new web TV show called Process, the five minute item features an interview and clips from Dean's recent appearance at the Book Court in Brooklyn.</p>
 <p><figure class="caption "><figcaption class="caption-text"></figcaption></figure></p>

@@ -23,9 +23,9 @@ tags: []
 <li><a href="http://www.facebook.com/group.php?gid=47035899016">AHFoW - Facebook group</a> (new)</li>
 <li><a href="http://flickr.com/groups/aheadfullofwishes/">AHFoW - Flickr group</a></li>
 <li><a href="http://www.last.fm/group/A+Head+Full+of+Wishes">AHFoW - Last.fm group</a></li>
-<li><span class="removed_link" title="http://fullofwishes.ning.com/">AHFoW - Ning social network</span></li>
-<li><span class="removed_link" title="http://youtube.com/group/fullofwishes">AHFoW - YouTube group</span> (not that anyone EVER uses a YouTube group)</li>
-<li><span class="removed_link" title="http://www.twine.com/twine/a-head-full-of-wishes">AHFoW - Twine </span>(even I'd forgotten about this but now that Twine is out of private beta I suppose it might kick off) </li>
+<li>AHFoW - Ning social network</li>
+<li>AHFoW - YouTube group (not that anyone EVER uses a YouTube group)</li>
+<li>AHFoW - Twine (even I'd forgotten about this but now that Twine is out of private beta I suppose it might kick off) </li>
 <li><a href="http://www.myspace.com/galaxie500official">AHFoW - MySpace</a> (really the official Galaxie 500 MySpace page)</li>
 <li><a href="http://twitter.com/ahfow">follow AHFoW on Twitter</a></li>
 </ul>

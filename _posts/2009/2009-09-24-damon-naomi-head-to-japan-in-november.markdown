@@ -20,12 +20,12 @@ tags: []
 <p>Damon & Naomi, currently touring North America with A Hawk & A Hacksaw, will be heading off to Japan for a week of dates in November.</p>
 <blockquote><p>we're extremely happy to announce that next month, we'll be returning to Japan. This time we will travel further north, and further south, than we have ventured there before.</p></blockquote>
 <ul>
-<li><span class="removed_link" title="https://www.fullofwishes.co.uk/database/gigography/show/1103/">07 November 2009 - Damon & Naomi @ Garo, Misawa, Japan</span></li>
-<li><span class="removed_link" title="https://www.fullofwishes.co.uk/database/gigography/show/1104/">08 November 2009 - Damon & Naomi @ Cafe Mozart Atelier, Sendai, Japan</span></li>
-<li><span class="removed_link" title="https://www.fullofwishes.co.uk/database/gigography/show/1105/">10 November 2009 - Damon & Naomi @ Jive, Hiroshima, Japan</span></li>
+<li>07 November 2009 - Damon & Naomi @ Garo, Misawa, Japan</li>
+<li>08 November 2009 - Damon & Naomi @ Cafe Mozart Atelier, Sendai, Japan</li>
+<li>10 November 2009 - Damon & Naomi @ Jive, Hiroshima, Japan</li>
 <li>11 November 2009 - Damon & Naomi @ Urban Guild, Kyoto, Japan</li>
-<li><span class="removed_link" title="https://www.fullofwishes.co.uk/database/gigography/show/1107/">12 November 2009 - Damon & Naomi @ K.D Japon, Nagoya, Japan</span></li>
-<li><span class="removed_link" title="https://www.fullofwishes.co.uk/database/gigography/show/1108/">14 November 2009 - Damon & Naomi @ Tsukimiru kimiomofu, Tokyo, Japan</span></li>
+<li>12 November 2009 - Damon & Naomi @ K.D Japon, Nagoya, Japan</li>
+<li>14 November 2009 - Damon & Naomi @ Tsukimiru kimiomofu, Tokyo, Japan</li>
 </ul>
 <p><a href="http://www.damonandnaomi.jp/">Damon & Naomi have a Japanese language website</a>.</p>
-<p><span class="removed_link" title="https://www.fullofwishes.co.uk/database/upcoming/damon_and_naomi/">See all upcoming Damon & Naomi shows</span>.</p>
+<p>See all upcoming Damon & Naomi shows.</p>

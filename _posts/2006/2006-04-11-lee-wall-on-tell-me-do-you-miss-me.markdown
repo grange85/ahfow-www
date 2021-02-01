@@ -17,7 +17,7 @@ categories:
 tags: []
 ---
 <div align="center"></div>
-<p>With the premiere of the Luna documentary <span class="removed_link" title="http://www.tribecafilmfestival.org/tixSYS/2006/filmguide/eventnote.php?EventNumber=2175">Tell Me Do You Miss Me</span> only weeks away <em>A Head Full of Wishes</em> took the opportunity of harassing the former members of Luna and director Matthew Buzzell with an email questionnaire. Over the course of the next few weeks, in the run up to the film premiere, I'll post their replies here.</p>
+<p>With the premiere of the Luna documentary Tell Me Do You Miss Me only weeks away <em>A Head Full of Wishes</em> took the opportunity of harassing the former members of Luna and director Matthew Buzzell with an email questionnaire. Over the course of the next few weeks, in the run up to the film premiere, I'll post their replies here.</p>
 <p>New Yorker's should head to the <a href="http://www.tribecafilmfestival.org">Tribeca Film Festival website</a> to buy their tickets to one of the five screenings the film will receive - the rest of us will have to drum our fingers and wait for the <a href="http://www.rhino.com">Rhino</a> DVD release in June.</p>
 <h1>#2: Lee</h1>
 <p><em><strong>A Head Full of Wishes</strong>: Do you think the film shows the band as they really are?</em><br/><strong>Lee</strong>: I think the film is a pretty accurate depiction of not just the band, but life on the road as well.  I'm pleased that the film got made. I know I'll enjoy seeing it 20 years from now.</p>

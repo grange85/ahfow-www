@@ -17,7 +17,7 @@ categories:
 tags: []
 ---
 <p>This was just sent by Damon & Naomi to their mailing list and gives details of the Galaxie 500 reissues and what the differences are between the 20|20|20 (North American) versions and the Domino (rest of the world) version. Sorry for the big cut and paste...</p>
-<blockquote><p>The new CD reissues of Galaxie 500 on 20/20/20 are in stock and <span class="removed_link" title="http://www.damonandnaomi.com/merchandise/merch.html">shipping now from our website</span>. These are 2-CD editions, pairing each of the three original Galaxie 500 albums with a bonus disc of archival material --</p>
+<blockquote><p>The new CD reissues of Galaxie 500 on 20/20/20 are in stock and shipping now from our website. These are 2-CD editions, pairing each of the three original Galaxie 500 albums with a bonus disc of archival material --</p>
 <p>Today, with second bonus disc Uncollected (rarities and outtakes)<br />
 On Fire, with second bonus disc Peel Sessions (recorded for BBC Radio 1's John Peel Show)<br />
 This Is Our Music, with second bonus disc Copenhagen (recorded live by Danish National Radio)<br />

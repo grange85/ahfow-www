@@ -18,5 +18,5 @@ categories:
 - 13 most beautiful
 tags: []
 ---
-<p>Dean & Britta are performing "13 Most Beautiful..." as part of the <span class="removed_link" title="http://www.briconline.org/celebrate/2009/week8.asp#0801">Celebrate Brooklyn festival</span>. The show will take place on 1 August at The Prospect Park Bandshell and support will come from Crystal Stilts. Price is "free with a $3 suggested contribution"</p>
+<p>Dean & Britta are performing "13 Most Beautiful..." as part of the Celebrate Brooklyn festival. The show will take place on 1 August at The Prospect Park Bandshell and support will come from Crystal Stilts. Price is "free with a $3 suggested contribution"</p>
 <p>If you go be sure to wish Dean a Happy Brithday.</p>

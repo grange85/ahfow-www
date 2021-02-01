@@ -17,4 +17,4 @@ categories:
 - news
 tags: []
 ---
-<p>You can see/download the trailer for the Luna documentary "Tell Me Do You Miss Me" at <a href="http://www.deanandbritta.com/av.php">Dean & Britta's website</a> (as a Flash Video) [<b>update</b>] and at  <span class="removed_link" title="http://www.fuzzywuzzy.com/movie/index.html">fuzzywuzzy.com</span> (in Quicktime)</p>
+<p>You can see/download the trailer for the Luna documentary "Tell Me Do You Miss Me" at <a href="http://www.deanandbritta.com/av.php">Dean & Britta's website</a> (as a Flash Video) [<b>update</b>] and at  fuzzywuzzy.com (in Quicktime)</p>

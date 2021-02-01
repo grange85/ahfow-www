@@ -21,7 +21,7 @@ tags: []
 <p>Here's Luna's cover of Waiting on a Friend originally released by The Rolling Stones on what is maybe their last mostly listenable album Tattoo You - well I bought the next one Undercover and it was awful and never bought another so I guess I don't really know for sure, although Dean agrees (see below).)<br />
 <iframe class="aligncenter" width="400" height="100" style="position: relative; display: block; width: 400px; height: 100px;" src="https://bandcamp.com/EmbeddedPlayer/v=2/track=1581795912/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://luna.bandcamp.com/track/waiting-on-a-friend">Waiting on a Friend by Luna</a></iframe><br />
 Here's <a href="http://youtu.be/wMYjTWbU76k">the Stones original</a>.</p>
-<p>Here's <span class="removed_link" title="http://www.splendidezine.com/features/luna2/">Dean being interviewed by Splendi</span>d...</p>
+<p>Here's Dean being interviewed by Splendid...</p>
 <blockquote><p><strong>Splendid</strong>: The Rolling Stones, for instance.<br />
 <strong>Dean Wareham</strong>: Well, they made at least nine good records... but they haven't made a good record since...<br />
 <strong>Splendid</strong>: 1982?<br />
@@ -30,5 +30,5 @@ Here's <a href="http://youtu.be/wMYjTWbU76k">the Stones original</a>.</p>
 <strong>Dean Wareham</strong>: Hopefully we can age gracefully.
 </p></blockquote>
 <p>Here's Damon & Naomi performing a cover of Shine a Light originally released on the excellent Exile on Main Street)</p>
-<p><strong>MP3:</strong> <span class="removed_link" title="https://www.box.com/s/03b5237a90a4b385020f">Damon & Naomi – Shine a Light</span> (Rolling Stones cover recorded for Xfm 11 may 2011) (via Box.net)<br />
+<p><strong>MP3:</strong> Damon & Naomi – Shine a Light (Rolling Stones cover recorded for Xfm 11 may 2011) (via Box.net)<br />
 Have a listen to <a href="http://youtu.be/thZ__Ak8PyA">The Rolling Stones original</a>.</p>

@@ -17,5 +17,5 @@ categories:
 - dean & britta
 tags: []
 ---
-<div class="imagebox-right"><img src="https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2007-03-09/20070309_kontoes_03.jpg" width="300" height="200" alt="Dean & Britta in Boston 2007 - photo by Chris Kontoes"/><br/>Dean & Britta in Boston<br/>Photo by <span class="removed_link" title="http://www.kontoes.com">Chris Kontoes</span></div>
-<p>Chris Kontoes took a set of very lovely pictures at Dean & Britta's recent show in Boston. You can see a couple of them <a href="http://www.grange85.co.uk/galaxie/index.php?type=1&id=878">oin the pictures section</a> and there are more in the portfolio section of <span class="removed_link" title="http://www.kontoes.com">Chris's website</span></p>
+<div class="imagebox-right"><img src="https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2007-03-09/20070309_kontoes_03.jpg" width="300" height="200" alt="Dean & Britta in Boston 2007 - photo by Chris Kontoes"/><br/>Dean & Britta in Boston<br/>Photo by Chris Kontoes</div>
+<p>Chris Kontoes took a set of very lovely pictures at Dean & Britta's recent show in Boston. You can see a couple of them <a href="http://www.grange85.co.uk/galaxie/index.php?type=1&id=878">oin the pictures section</a> and there are more in the portfolio section of Chris's website</p>

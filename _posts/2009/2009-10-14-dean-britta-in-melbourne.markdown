@@ -17,7 +17,7 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>Dean & Britta are currently in Melbourne, Australia to perform 13 Most Beautiful as part of the Melbourne Arts Festival. They're playing <span class="removed_link" title="http://www.melbournefestival.com.au/program/production?id=3583">three performances at the CUB Malthouse, Merlyn Theatre</span> on Thursday, Friday and Saturday (15th-17 October).</p>
+<p>Dean & Britta are currently in Melbourne, Australia to perform 13 Most Beautiful as part of the Melbourne Arts Festival. They're playing three performances at the CUB Malthouse, Merlyn Theatre on Thursday, Friday and Saturday (15th-17 October).</p>
 <p><ins datetime="2009-10-14T21:30:19+00:00">
 <p>On Thursday Dean & Britta will be doing a special <a href="http://www.liveguide.com.au/Events/636839/Dean_Britta_13_Most_Beautiful/Melbourne_International_Arts_Festival_2009_presents_The_Den">Q & A session at The Fairfax Studio, at the Arts Centre</a> between 1pm-2pm – talking about the Warhol show, their soundtrack work, Luna, Galaxie 500 and more. </p>
 <p></ins></p>

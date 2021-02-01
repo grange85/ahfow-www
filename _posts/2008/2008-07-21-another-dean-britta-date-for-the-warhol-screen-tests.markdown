@@ -18,4 +18,4 @@ categories:
 tags: []
 ---
 <p>I've just been pointed at the fact that Dean & Britta will be performing the Warhol Film event in Minneapolis in February (that gives you plenty of time to clear your calendar and sort out babysitters!) which may mean that it will be reaching other parts of the country so keep your eyes peeled for events at your local art-house cinema...</p>
-<p><span class="removed_link" title="http://calendar.walkerart.org/event.wac?id=4553">Dean & Britta perform "13 Most Beautiful: Songs for Andy Warhol Screen Tests"</span></p>
+<p>Dean & Britta perform "13 Most Beautiful: Songs for Andy Warhol Screen Tests"</p>

@@ -17,4 +17,4 @@ categories:
 - news
 tags: []
 ---
-<p>Matthew Buzzell's film of Luna's final tour <a href="http://www.grange85.co.uk/galaxie/index.php?news=yes&id=320">Tell Me Do You Miss Me</a> is still doing the rounds of international film festivals. In the coming weeks you will be able to see it at the <span class="removed_link" title="http://www.ashdodfestival.com/len/apage/4224.php">Ashdod festival in Israel</span> and the <a href="http://www.revelationfilmfest.org">Revelation Film Festival in Perth, Western Australia</a></p>
+<p>Matthew Buzzell's film of Luna's final tour <a href="http://www.grange85.co.uk/galaxie/index.php?news=yes&id=320">Tell Me Do You Miss Me</a> is still doing the rounds of international film festivals. In the coming weeks you will be able to see it at the Ashdod festival in Israel and the <a href="http://www.revelationfilmfest.org">Revelation Film Festival in Perth, Western Australia</a></p>

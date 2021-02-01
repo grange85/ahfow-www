@@ -17,5 +17,5 @@ categories:
 - news
 tags: []
 ---
-<p><span class="removed_link" title="http://www.rhino.com/lunaposter">Rhino</span> are selling a limited edition poster of the "Best of Luna" album artwork. The poster is signed by the band members and the artist and sells for an eye watering (for a skinflint like me anyway!) $170</p>
-<p><span class="removed_link" title="http://www.rhino.com/lunaposter">Limited edition Luna poster</span>.</p>
+<p>Rhino are selling a limited edition poster of the "Best of Luna" album artwork. The poster is signed by the band members and the artist and sells for an eye watering (for a skinflint like me anyway!) $170</p>
+<p>Limited edition Luna poster.</p>

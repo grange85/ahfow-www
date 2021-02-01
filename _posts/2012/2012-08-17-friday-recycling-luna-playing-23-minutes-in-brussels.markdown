@@ -37,7 +37,7 @@ tags: []
 <li><strong>MP3: </strong><a href="https://www.box.com/s/a0c7fd7529dff1085740">Luna - KCRW 1996 radio performance</a></li>
 <li><strong>MP3: </strong><a href="https://www.box.com/shared/pwgtw3wwsc">Luna - Bowery Ballroom 2005 - last ever Luna performance</a></li>
 <li><strong>MP3: </strong><a href="https://www.box.com/s/b1a7e3bc73aac3637ca6">Dean & Britta (feat. Lee Wall) - Troubadour, West Hollywood 2010</a></li>
-<li><strong>MP3: </strong><a href="https://www.box.com/s/ea5f8d269946bf3033b0">Dean & Britta (feat. Sean Eden) - Shine a Light 2012</a> (<span class="removed_link" title="http://www.nyctaper.com/?p=10394">whole show download via NYCTaper</span>)</li>
+<li><strong>MP3: </strong><a href="https://www.box.com/s/ea5f8d269946bf3033b0">Dean & Britta (feat. Sean Eden) - Shine a Light 2012</a> (whole show download via NYCTaper)</li>
 </ul>
 
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/81Sv57rbujA" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Tell Me Do You Miss Me end titles</figcaption></figure>

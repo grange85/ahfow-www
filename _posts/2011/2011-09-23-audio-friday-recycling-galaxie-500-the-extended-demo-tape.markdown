@@ -20,7 +20,7 @@ tags: []
 ---
 <p><img src="https://static.fullofwishes.co.uk/galaxie500box/images/demotape_lg.gif" width="504" height="339" class="aligncenter" /><br />
 I think I've posted most (although possibly not all) of these tracks separately before but here they are all collected together for your enjoyment.</p>
-<p>When the Galaxie 500 Box Set was released in 1996 one of the main treats was the <a href="https://static.fullofwishes.co.uk/galaxie500box/discog1.html">three tracks from Galaxie 500's first demo</a> - what was a little bit of a surprise (to me at least) was to discover a couple of years later that a few of these <span class="removed_link" title="https://www.fullofwishes.co.uk/database/wiki/Demo_Cassette_1">demo tapes were compiled with four extra tracks</span> - these had a very limited circulation but eventually a copy made it into my grubby paws.</p>
+<p>When the Galaxie 500 Box Set was released in 1996 one of the main treats was the <a href="https://static.fullofwishes.co.uk/galaxie500box/discog1.html">three tracks from Galaxie 500's first demo</a> - what was a little bit of a surprise (to me at least) was to discover a couple of years later that a few of these demo tapes were compiled with four extra tracks - these had a very limited circulation but eventually a copy made it into my grubby paws.</p>
 <p>The four extra tracks are as follows </p>
 <ul>
 <li><a href="http://www.box.net/shared/g80i2syptmtx6ilv4e2p">Pride</a> (mp3 via Box.net)</li>

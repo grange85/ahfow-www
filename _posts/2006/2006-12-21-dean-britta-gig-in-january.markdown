@@ -17,5 +17,5 @@ categories:
 - dean & britta
 tags: []
 ---
-<p><a href="http://www.sonic-boom.info">Sonic Boom</a>'s website mentions that he is doing a gig with Dean & Britta at <span class="removed_link" title="http://www.mopitkins.com">Mo Pitkin's</span> in NYC on January 9th. No mention as yet on <a href="http://deanandbritta.com/">Dean & Britta's website</a> or the Mo Pitkin's site.</p>
+<p><a href="http://www.sonic-boom.info">Sonic Boom</a>'s website mentions that he is doing a gig with Dean & Britta at Mo Pitkin's in NYC on January 9th. No mention as yet on <a href="http://deanandbritta.com/">Dean & Britta's website</a> or the Mo Pitkin's site.</p>
 <p><b>Update:</b> I just noticed this date is mentioned on Dean & Britta's MySpace page as well as another date at the same venue on 23 January.</p>

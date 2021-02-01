@@ -17,8 +17,8 @@ categories:
 - admin
 tags: []
 ---
-<p>I've just launched the 14th A Head Full of Wishes survey, so it's time to start figuring out your favourite albums and tracks and then head on over to the <span class="removed_link" title="https://www.fullofwishes.co.uk/database/surveyform/">survey form</span> and make your selections. You can choose one album and five tracks for each artist (Galaxie 500, Luna, Damon & Naomi and Dean & Britta).</p>
+<p>I've just launched the 14th A Head Full of Wishes survey, so it's time to start figuring out your favourite albums and tracks and then head on over to the survey form and make your selections. You can choose one album and five tracks for each artist (Galaxie 500, Luna, Damon & Naomi and Dean & Britta).</p>
 <p>I'll probably let it run for three or four weeks (or when the form-filling dries up) so expect results shortly before xmas.</p>
 <p>If you need some inspiration feel free to peruse <a href="/database/survey/2007/">last year's Survey results</a> and previous surveys back until 1995!</p>
 <p>PLEASE SPREAD THE WORD as last years turnout was the lowest for many years...</p>
-<p><strong><span class="removed_link" title="https://www.fullofwishes.co.uk/database/surveyform/">Take the A Head Full of Wishes survey</span></strong></p>
+<p><strong>Take the A Head Full of Wishes survey</strong></p>

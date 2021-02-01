@@ -17,7 +17,7 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p><span class="removed_link" title="http://www.roughtrade.com/site/instore.lasso">Rough Trade's website</span> has details of Damon & Naomi's in-store appearance on the 13 October including this little tease...</p>
+<p>Rough Trade's website has details of Damon & Naomi's in-store appearance on the 13 October including this little tease...</p>
 <blockquote><p>Rough Trade are proud to announce an intimate in-store with ex Galaxie 500 members Damon & Naomi who are putting together an exclusive recording for this special event ,</p></blockquote>
 <p>As soon as I have any idea what this might be I'll pass it on.</p>
 <p>The performance is at 7pm and FREE but you will need to pick up a wristband one hour prior to the gig.</p>

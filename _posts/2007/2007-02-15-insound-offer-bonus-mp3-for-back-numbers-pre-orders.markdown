@@ -17,4 +17,4 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>If you pre-order your copy of Back Numbers from <span class="removed_link" title="http://www.insound.com/noteworthy/promo.php?p=738">Insound</span> you'll also receive a "download code" for a bonus mp3 of a French version of White Horses. However if the bonus mp3 isn't that important to you, the CD itself is $4 cheaper if you <a href="http://www.amazon.com/exec/obidos/ASIN/B000LXHGBC/aheadfullofwi-20">order it from Amazon.com</a></p>
+<p>If you pre-order your copy of Back Numbers from Insound you'll also receive a "download code" for a bonus mp3 of a French version of White Horses. However if the bonus mp3 isn't that important to you, the CD itself is $4 cheaper if you <a href="http://www.amazon.com/exec/obidos/ASIN/B000LXHGBC/aheadfullofwi-20">order it from Amazon.com</a></p>

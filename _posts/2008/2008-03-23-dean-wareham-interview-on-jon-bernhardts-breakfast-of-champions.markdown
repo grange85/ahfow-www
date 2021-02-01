@@ -17,4 +17,4 @@ categories:
 - dean wareham
 tags: []
 ---
-<p>There's a really cool long audio interview with Dean Wareham on <span class="removed_link" title="http://scripts.mit.edu/~jonb/playlists/playlist.php/20080321">Jon Bernhardt's Breakfast of Champions Program (Friday, March 21, 2008)</span> on WMBR. Jon Bernhardt was one of the <a href="http://scripts.mit.edu/~jonb/playlists/playlist.php/19871225">first people to play Galaxie 500 on the radio</a> on Christmas day 1987 (Walking Song from the demo tape). The Dean Wareham segments starts about 1hr 16m in.</p>
+<p>There's a really cool long audio interview with Dean Wareham on Jon Bernhardt's Breakfast of Champions Program (Friday, March 21, 2008) on WMBR. Jon Bernhardt was one of the <a href="http://scripts.mit.edu/~jonb/playlists/playlist.php/19871225">first people to play Galaxie 500 on the radio</a> on Christmas day 1987 (Walking Song from the demo tape). The Dean Wareham segments starts about 1hr 16m in.</p>

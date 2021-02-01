@@ -21,4 +21,4 @@ tags: []
 <a href="/survey-results-2011/"><br />
 <strong>2011 - A Head Full of Wishes Survey Results</strong></a></p>
 <p>Thanks to everyone who entered - with 162 responses it was the biggest ever turnout - and thanks to everyone who also put such nice things in the comments field. I blushed!<br />
-<span class="removed_link" title="https://www.fullofwishes.co.uk/2011/12/02/vote-in-the-2011-a-head-full-of-wishes-survey/voting-machine/"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2011/12/voting-machine.jpg" alt="" title="voting-machine" width="500" height="289" class="aligncenter size-full wp-image-2265" /></span></p>
+<img src="https://media.fullofwishes.co.uk/ahfow/uploads/2011/12/voting-machine.jpg" alt="" title="voting-machine" width="500" height="289" class="aligncenter size-full wp-image-2265" /></p>

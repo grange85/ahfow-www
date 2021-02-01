@@ -17,5 +17,5 @@ categories:
 tags: []
 ---
 <div align="center"><figure class="caption "><figcaption class="caption-text"></figcaption></figure></div>
-<p>Download the trailer <span class="removed_link" title="http://fuzzywuzzy.com/movie/TellMeDoYouMissMe-Trailer-Small.mov">Quicktime 6MB</span></p>
+<p>Download the trailer Quicktime 6MB</p>
 <p>Pre-order <a href="http://www.amazon.com/exec/obidos/ASIN/B000FNNIB0/aheadfullofwi-20">Tell Me Do You Miss Me from Amazon</a></p>

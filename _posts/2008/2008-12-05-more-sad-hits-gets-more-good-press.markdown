@@ -30,7 +30,7 @@ tags: []
 <li>frail - 4 times</li>
 </ul>
 <ul>
-<li><span class="removed_link" title="http://www.damonandnaomi.com/merchandise/merch.html">Buy More Sad Hist from damonandnaomi.com</span></li>
+<li>Buy More Sad Hist from damonandnaomi.com</li>
 <li><a href="http://www.amazon.co.uk/gp/product/B00193E0K8?ie=UTF8&tag=aheadfullofwi-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=B00193E0K8">Buy More Sad Hits from Amazon.co.uk</a></li>
 <li><a href="http://www.amazon.com/gp/product/B00193E0K8?ie=UTF8&tag=aheadfullofwi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B00193E0K8">Buy More Sad Hits from Amazon.com</a></li>
 </ul>

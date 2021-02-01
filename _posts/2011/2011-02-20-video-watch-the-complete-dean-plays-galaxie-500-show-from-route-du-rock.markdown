@@ -18,5 +18,5 @@ categories:
 - video
 tags: []
 ---
-<p>Here's a fantastic video of the complete set from the "Dean Wareham plays Galaxie 500" show at Route du Rock in St Malo, France on Friday. You can watch it right here or head over to the <span class="removed_link" title="http://liveweb.arte.tv/de/video/Dean_Wareham_live_von_der_Route_du_Rock/">Arte TV site</span> to see it.</p>
+<p>Here's a fantastic video of the complete set from the "Dean Wareham plays Galaxie 500" show at Route du Rock in St Malo, France on Friday. You can watch it right here or head over to the Arte TV site to see it.</p>
 <p><figure class="caption "><figcaption class="caption-text"></figcaption></figure></p>

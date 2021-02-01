@@ -17,5 +17,5 @@ categories:
 - news
 tags: []
 ---
-<p>I know nothing more about this except the snippet leaked by Britta on the <span class="removed_link" title="http://www.deanandbritta.com/forum/index.php?showtopic=55&st=0&#entry329">Dean & Britta website forums</span></p>
+<p>I know nothing more about this except the snippet leaked by Britta on the Dean & Britta website forums</p>
 <blockquote><p>There will be be a covers album released by Beggar's Banquet at some point.This may include some unreleased material, but it is all covers, of course.</p></blockquote>
