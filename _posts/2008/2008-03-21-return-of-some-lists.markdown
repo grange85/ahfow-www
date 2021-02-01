@@ -17,4 +17,4 @@ categories:
 - admin
 tags: []
 ---
-<p>After <a href="/about/#comment-570">a few  requests</a> I've finally got off my arse and started putting back a few of the things that were lost in the last upgrade. The lists of <a href="/database/track/list/">tracks</a>, <a href="/database/track/list/guitar">guitar chords/tab</a> and cover versions are the first to put in a reappearance. There will be more - feel free to comment if there's anything else missing or that you'd like to see...</p>
+<p>After <a href="/about/#comment-570">a few  requests</a> I've finally got off my arse and started putting back a few of the things that were lost in the last upgrade. The lists of tracks, guitar chords/tab and cover versions are the first to put in a reappearance. There will be more - feel free to comment if there's anything else missing or that you'd like to see...</p>

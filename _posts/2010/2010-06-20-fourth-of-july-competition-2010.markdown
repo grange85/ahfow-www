@@ -28,7 +28,7 @@ tags: []
 <li>Photos of small Empire State Buildings...</li>
 <li>... or large nickels</li>
 </ul>
-<p>The <a href="/database/track/25/">lyrics are in the database</a> and the song is <a href="http://hypem.com/#/track/856807/Galaxie+500+-+Fourth+Of+July">in a million places</a> <a href="http://www.dailymotion.com/video/x1bmcs_galaxie-500-4th-of-july_music">on the internet</a> - go hunt it down... and let your imagination run wild.</p>
+<p>The lyrics are in the database and the song is <a href="http://hypem.com/#/track/856807/Galaxie+500+-+Fourth+Of+July">in a million places</a> <a href="http://www.dailymotion.com/video/x1bmcs_galaxie-500-4th-of-july_music">on the internet</a> - go hunt it down... and let your imagination run wild.</p>
 <p>If entries are so copious that I have to categorise them they will fall into two broad categories...</p>
 <ul>
 <li>Visual art (e.g. paintings, drawings, photographs, sculptures, videos)</li>

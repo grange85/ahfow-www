@@ -25,7 +25,7 @@ tags: []
 <li><a href="http://www.box.net/shared/mmrr5yvtvs">Mp3: Forvever by Dean & Britta (via Box.net)</a>.</li>
 <li><del datetime="2012-09-07T13:51:09+00:00"><a href="http://uk.youtube.com/watch?v=Ph1qUp04274">Video: The Beach Boys performing Forever in NYC in 1971</a></del></li>
 <li><ins datetime="2012-09-07T13:54:56+00:00"><a href="http://www.youtube.com/watch?v=9hyp9b72jSE">Video: The Beach Boys performing Forever in Central Park, NYC in 1971</a></ins></li>
-<li><a href="/database/track/295/">About Forever on A Head Full of Wishes</a>.</li>
+<li>About Forever on A Head Full of Wishes.</li>
 </ul>
 <p><a href="/category/lost-tracks/">Previous lost tracks</a>.</p>
 <p>I thought that it was probably time to start exposing some tracks that made obscure appearances and deserved to be heard by more folk. Up until now I’ve been reluctant to share officially released music but have made exceptions with tracks that have been hard to get hold of. If the owner is bothered by my sharing of this track they should get in touch and the track will be removed.</p>
