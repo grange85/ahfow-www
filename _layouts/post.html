@@ -15,7 +15,7 @@ layout: default
 		        {% if page.categories %}<p class="pull-left">in categories: </p>
 		        <ul class="categories list-inline">
 			        {% for category in page.categories %}
-			        <li><a class="label label-primary" href="{{ category | slugify | prepend: '/category/' | append '/' }}">{{ category }}</a></li>
+			        <li><a class="label label-primary" href="{{ category | slugify | prepend: '/category/' | append: '/' }}">{{ category }}</a></li>
 			        {% endfor %}
 		        </ul>
 		        {% endif %}
