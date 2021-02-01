@@ -32,7 +32,7 @@ Here's The Modern Lovers recorded in the Kim Fowley sessions (probably not from 
 <p><iframe width="400" height="100" style="position: relative; display: block; width: 400px; height: 100px;" src="https://bandcamp.com/EmbeddedPlayer/v=2/track=452266046/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://galaxie500.bandcamp.com/track/dont-let-our-youth-go-to-waste-3">Don&#39;t Let Our Youth Go To Waste by Galaxie 500</a></iframe></p>
 <p>The song became such a part of Galaxie 500 that the title was chosen for their 2004 DVD collection of videos<br />
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie500_dvd_cover450.jpg" width="450" height="640" class /><figcaption class="caption-text"> Don 't Let Our Youth Go to Waste DVD</figcaption></figure>
-<p>[amazon text=Don't Let Our Youth Go to Waste (DVD)&asin=B000228SPU]</p>
+<p></p>
 <p>And here's Dean & Britta performing it in Taipei in 2011<br />
 </p>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/JmOGwPu8y9E" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>

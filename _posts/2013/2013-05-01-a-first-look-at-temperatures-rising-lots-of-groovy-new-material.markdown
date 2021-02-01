@@ -25,6 +25,6 @@ I picked up my copy of <a href="http://www.yetipublishing.com/G500.html">Tempera
 <p>The story is beautiful and tragic - I always cry at the end (and at bits in the middle).<br />
 <a href="http://www.flickr.com/photos/grange85/8698854358/" title="On my lap by andyaldridge, on Flickr"><img class="aligncenter" src="https://farm9.staticflickr.com/8407/8698854358_f19440d6d2_z.jpg" width="640" height="480" alt="On my lap"></a><br />
 Honestly, you were never going to get "objective" from me - but surely even the most objective reviewer would find it hard to not be rather pleased at this stunning piece of work!</p>
-<p>[amazon text=Go buy it now - if you haven't already (Amazon link)&asin=1891241567]<br />
+<p><br />
 <a href="http://www.yetipublishing.com/G500.html">Or buy it direct from Yeti</a></p>
 <p><a href="http://www.flickr.com/photos/grange85/8697803491/" title="Groovy by andyaldridge, on Flickr"><img class="aligncenter" src="https://farm9.staticflickr.com/8533/8697803491_8f626be317_z.jpg" width="640" height="198" alt="Groovy"></a></p>

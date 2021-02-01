@@ -30,7 +30,7 @@ I never though that I would end up here...<br />
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/IrNvxv-ppnQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>Simon Mealor's lovely song about the song<br />
 MP3: <a href="https://media.fullofwishes.co.uk/00-misc/audio/clares-club-fourth-of-july-still-playsiin-my-heart.mp3">The Fourth of July Still Plays in My Heart - Simon Mealor</a><br />
-[audio https://media.fullofwishes.co.uk/00-misc/audio/fojspimh.mp3]<br />
+<br />
 Simon is also known as Clare's Club - <a href="https://soundcloud.com/clares-club">check out his Soundcloud for other goodies</a> inlcuding a lovely cover of Snowstorm!<br />
 Dean & Britta playing Fourth of July in Sydney<br />
 </p>
