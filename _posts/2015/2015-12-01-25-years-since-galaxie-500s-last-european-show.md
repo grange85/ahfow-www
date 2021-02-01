@@ -25,4 +25,4 @@ categories:
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3510813574/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/copenhagen-live">Copenhagen (live) by Galaxie 500</a></iframe>
 
-<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-galaxie_500/show_assets/1990-12-01/1990-12-01-galaxie 500-barbue-billet.jpg" alt="Ticket from Galaxie 500's last European show" /><figcaption class="caption-text">Ticket from Galaxie 500's last European show</figcaption></figure>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-12-01/1990-12-01-galaxie-500-barbue-billet.jpg" alt="Ticket from Galaxie 500's last European show" /><figcaption class="caption-text">Ticket from Galaxie 500's last European show</figcaption></figure>
