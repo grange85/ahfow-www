@@ -50,4 +50,4 @@ David Cavanagh of Sounds loved our show. He wrote some pretty silly things:</p>
 <p><strong>I'd like to thank Lori (and her "hubby") for absolutely making my week (month, year etc.) </strong></p>
 <p>As a bonus here's a <a href="http://www.mediafire.com/?bsyr8vd8m8kyahj">recording of Galaxie 500 at that ICA show</a>.</p>
 <p><strong>Update:</strong> I've just dug out <a href="http://oblivious.fullofwishes.co.uk/post/27620458202/on-the-back-of-yesterdays-post-of-photos-from">the other Galaxie 500 photos I was sent and popped them on Oblivious</a> - these were from what turned out to be Galaxie 500s last show.</p>
-<p>If anyone else has anything like this kicking around in a shoebox please, <a href="/about/contact-me/">please get in touch</a>!</p>
+<p>If anyone else has anything like this kicking around in a shoebox please, <a href="/about/">please get in touch</a>!</p>

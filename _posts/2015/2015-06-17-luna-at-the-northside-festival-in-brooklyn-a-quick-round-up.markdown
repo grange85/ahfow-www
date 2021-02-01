@@ -50,4 +50,4 @@ tags: []
 </div>
 </blockquote>
 <p><script async defer src="//platform.instagram.com/en_US/embeds.js"></script></p>
-<p>If anyone spots anything else <a href="/about/contact-me/">please get in touch</a> or leave a comment.</p>
+<p>If anyone spots anything else <a href="/about/">please get in touch</a> or leave a comment.</p>

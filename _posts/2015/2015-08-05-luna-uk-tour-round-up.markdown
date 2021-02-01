@@ -17,7 +17,7 @@ categories:
 tags: []
 ---
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/-christoph-/20280453022/in/album-72157654451655103/" title="Luna live..."><img src="https://farm1.staticflickr.com/410/20280453022_7bc4cec9e8_b.jpg" width="1024" height="683" alt="Luna live..."></a>
-<p>This is a bit thrown together so please either leave comments below or <a href="/about/contact-me/">email me</a> if you have anything to add!</p>
+<p>This is a bit thrown together so please either leave comments below or <a href="/about/">email me</a> if you have anything to add!</p>
 <h3><a href="/database/luna/shows/2015/2015-07-30-luna-sticky-mikes-frog-bar-brighton-uk">30 July 2015 - Brighton</a></h3>
 <p>Pictures: <a href="http://www.londoninstereo.com/luna-gallery/">Rachel Lipsitz's gorgeous photos on London in Stereo</a>.</p>
 <p>Words: <a href="/2015/07/luna-and-flowers-at-sticky-mikes-in-brighton/">My write-up on AHFoW</a></p>

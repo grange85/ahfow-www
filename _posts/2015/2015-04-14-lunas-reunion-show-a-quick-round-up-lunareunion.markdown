@@ -24,7 +24,7 @@ tags: []
 <li><a href="#pics">Pictures</li>
 </ul>
 <p><a href="https://www.flickr.com/photos/bobbyshih/16940925877" title="Luna / Winter (13-Apr-2015) at the Echo by Bobby Shih, on Flickr"><img class="aligncenter" src="https://farm8.staticflickr.com/7711/16940925877_038332a296_z.jpg" width="640" height="480" alt="Luna / Winter (13-Apr-2015) at the Echo"></a></p>
-<p>Here’s a quick round up of what I’ve found so far… but now I’m at work!! Please feel free to <a href="/about/contact-me/" title="Contact me">email me</a>, add comments, or <a href="http://twitter.com/ahfow">tweet me</a> if you find anything more!</p>
+<p>Here’s a quick round up of what I’ve found so far… but now I’m at work!! Please feel free to <a href="/about/" title="Contact me">email me</a>, add comments, or <a href="http://twitter.com/ahfow">tweet me</a> if you find anything more!</p>
 <p><a id="more"></a><a id="more-13697"></a></p>
 <h3 id="setlist">Setlist</h3>
 <ul>

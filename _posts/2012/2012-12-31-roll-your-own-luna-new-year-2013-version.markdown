@@ -27,7 +27,7 @@ tags: []
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/2004-12-31_Luna_Rock-Your-Baby.mp3">Luna - Rock Your Baby (Southpaw 2004)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/2004-12-31_Luna_Rock-Your-Baby.mp3"></audio></div>
 
 
-<p><em>If anyone has any other live performances of the track <a href="/about/contact-me/" title="Contact me">please get in touch</a>.</em></p>
+<p><em>If anyone has any other live performances of the track <a href="/about/" title="Contact me">please get in touch</a>.</em></p>
 <p>You can <a href="http://www.mediafire.com/?0mu1tpy221s0r1c">download the 2000 CBGB's show from AHFoW on Mediafire</a></p>
 <p>Here's George's version from 1974 spinning:</p>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/Mwrvmcof-hE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
