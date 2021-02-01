@@ -22,7 +22,7 @@ tags: []
 <p>The Dreaming Spires played an enjoyable and charming set of rock to the 20 or so folk in the audience. They rather bravely tried to get the tiny audience going in a singalong, with surprisingly (relatively) successful results. They come from Oxfordshire, but I think they might wish they came from 4000 miles west of there.</p>
 <p>By the time Dean and band took to the stage the audience had swelled to 30 or 40. The band battled with sound problems but the love and enthusiasm from the audience pulled a great show from them all the same - in Leamington Spa I'm inclined to think that the audience were the fifth member.</p>
 
-<p><strong>Database</strong>: <a href="/database/dean-wareham/shows/2014/2014-05-22-dean-wareham-the-zephyr-lounge-leamington-spa-uk/" title="2014-05-22: Dean Wareham – The Zephyr Lounge, Leamington Spa, UK">22 May 2014 Dean Wareham at The Zephyr Lounge, Leamington Spa, UK</a> </p>
+<p><strong>Database</strong>: <a href="/database/dean-and-britta/shows/2014/2014-05-22-dean-wareham-the-zephyr-lounge-leamington-spa-uk/" title="2014-05-22: Dean Wareham – The Zephyr Lounge, Leamington Spa, UK">22 May 2014 Dean Wareham at The Zephyr Lounge, Leamington Spa, UK</a> </p>
 
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/2014-05-22-dean-wareham-holding-pattern.mp3">Holding Pattern - Dean Wareham (live in Leamington Spa)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/2014-05-22-dean-wareham-holding-pattern.mp3"></audio></div>
 
