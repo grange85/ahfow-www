@@ -122,8 +122,8 @@ longpost: true
 <table class="table table-striped">
 <tr><th>Favourite Dean Wareham album</th>	<th>Votes</th>	<th>%</th></tr>
 <tr><td>Six Feet of Chain (Cagney and Lacee)</td>	<td>3</td>	<td>4.5</td></tr>
-<tr><td><a href="/database/dean-wareham/releases/dean-wareham-emancipated-hearts/">Emancipated Hearts</a></td>	<td>19</td>	<td>28.8</td></tr>
-<tr class="success"><td><a href="/database/dean-wareham/releases/dean-wareham-dean-wareham/">Dean Wareham</a></td>	<td>44</td>	<td>66.7</td></tr>
+<tr><td><a href="/database/dean-and-britta/dean-wareham-releases/dean-wareham-emancipated-hearts/">Emancipated Hearts</a></td>	<td>19</td>	<td>28.8</td></tr>
+<tr class="success"><td><a href="/database/dean-and-britta/dean-wareham-releases/dean-wareham-dean-wareham/">Dean Wareham</a></td>	<td>44</td>	<td>66.7</td></tr>
 </table>
 
 <table class="table table-striped">

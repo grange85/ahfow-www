@@ -86,7 +86,7 @@ tags:
 <h2>Dean Wareham</h2>
 <h3>Favourite album</h3>
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/survey-2015/survey-2015-dean-wareham.png" alt="" /><figcaption class="caption-text"></figcaption></figure>
-<p>Dean Wareham's <a href="/database/dean-wareham/releases/dean-wareham-dean-wareham/">eponymous album</a> was the best loved of his solo releases.</p>
+<p>Dean Wareham's <a href="/database/dean-and-britta/dean-wareham-releases/dean-wareham-dean-wareham/">eponymous album</a> was the best loved of his solo releases.</p>
 <h3>Favourite track</h3>
 
 <table class="table table-striped">
