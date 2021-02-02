@@ -18,7 +18,7 @@ categories:
 tags:
 ---
 
-At the beginning of 2001 Luna played a series of dates in various venues across NYC and I convinced Hazel that she would like a weekend break in NYC -n January. We arranged to leave the boy with his grandparents and to stay with Bob in NYC for the weekend and we came over. 
+At the beginning of 2001 Luna played a series of dates in various venues across NYC and I convinced Hazel that she would like a weekend break in NYC in February. We arranged to leave the boy with his grandparents and to stay with Bob in NYC for the weekend and we came over. 
 
 For the second show, 20 years ago today, Dean said he'd put me on the guestlist but for some reason I wasn't on the list - or they couldn't _find_ the list. Bob and I were then taken downstairs while they tried to arrange something. We loitered, and chatted with a Brit in the backroom staff and finally we were supplied with comps.
 
