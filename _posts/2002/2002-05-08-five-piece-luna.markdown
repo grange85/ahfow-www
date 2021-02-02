@@ -20,4 +20,7 @@ tags: []
 
 Luna will swell to a five piece for the upcoming tour when they're joined when they will be joined by keyboardist Lara Meyerratken - who has recently worked with Ben Lee (as did Britta before joining Luna).
 
-Sources: http://www.fuzzywuzzy.com http://www.brittaphillips.com
+Sources: 
+ - https://web.archive.org/web/2002+/http://www.fuzzywuzzy.com 
+ - https://web.archive.org/web/2002+/http://www.brittaphillips.com
+

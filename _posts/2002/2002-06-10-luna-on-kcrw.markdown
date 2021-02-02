@@ -17,4 +17,4 @@ categories:
 - news
 tags: []
 ---
-<p>Luna will be appearing on Morning Becomes Eclectic on KCRW on Monday 10th of June at 11:15am. Visit http://www.kcrw.org for details and to listen in.source: http://www.kcrw.org</p>
+Luna will be appearing on Morning Becomes Eclectic on KCRW on Monday 10th of June at 11:15am. Visit http://www.kcrw.org for details and to listen in.source: http://www.kcrw.org

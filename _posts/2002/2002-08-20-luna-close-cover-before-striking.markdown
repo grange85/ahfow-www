@@ -17,4 +17,4 @@ categories:
 - news
 tags: []
 ---
-<p>Luna's new EP will, apparently, be titled "Close Cover Before Striking" and will be released on October 8th. I understand it will contain out-takes from the Romantica sessions plus some earlier material. It will also contain some videos. Fuller details when I have them.Source: various</p>
+Luna's new EP will, apparently, be titled "Close Cover Before Striking" and will be released on October 8th. I understand it will contain out-takes from the Romantica sessions plus some earlier material. It will also contain some videos. Fuller details when I have them.

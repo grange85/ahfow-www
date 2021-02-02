@@ -17,4 +17,6 @@ categories:
 - news
 tags: []
 ---
-<p>Jetset records and Virgin Megastore are giving away a Les Paul guitar signed by Luna - for more information visit Jetset's website...source: http://www.jetsetrecords.com/contest/LunaContest.asp</p>
+Jetset records and Virgin Megastore are giving away a Les Paul guitar signed by Luna - for more information visit Jetset's website...
+
+source: https://web.archive.org/web/2002+/http://www.jetsetrecords.com/contest/LunaContest.asp

@@ -1,7 +1,7 @@
 ---
 layout: post
 status: publish
-published: true
+published: false
 title: Galaxie 500 and related artists FAQ (out of date)
 author:
   display_name: Andy

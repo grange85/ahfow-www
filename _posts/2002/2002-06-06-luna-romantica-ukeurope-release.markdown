@@ -17,4 +17,6 @@ categories:
 - news
 tags: []
 ---
-<p>It seems that Romantica will be getting a UK (and I assume European) release through Beggars Banquet - release date is set for Monday 10 June.source: http://www.beggars.com/artists/luna/index.htm</p>
+It seems that Romantica will be getting a UK (and I assume European) release through Beggars Banquet - release date is set for Monday 10 June.
+
+source: https://web.archive.org/web/2002+/http://www.beggars.com/artists/luna/index.htm

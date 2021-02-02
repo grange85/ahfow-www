@@ -17,4 +17,10 @@ categories:
 - news
 tags: []
 ---
-<p>Some of Dean Wareham's lyrics from Romantica will be featured the latest edition (#15) of the art and literary jornal Open City.source: http://www.fuzzywuzzy.com, http://www.opencity.org</p>
+Some of Dean Wareham's lyrics from Romantica will be featured the latest edition (#15) of the art and literary jornal Open City.
+
+
+
+source: 
+ - https://web.archive.org/web/2002+/http://www.fuzzywuzzy.com
+ - https://web.archive.org/web/2002+/http://www.opencity.org

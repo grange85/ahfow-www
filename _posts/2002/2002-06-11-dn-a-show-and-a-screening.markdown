@@ -16,4 +16,6 @@ categories:
 - news
 tags: []
 ---
-<p>Damon & Naomi have scheduled a date upstairs at THe Middle East in Cambridge, MA for Tuesday 2 July.On Friday 26 June the tour diary from Song to the Siren will be screened at the Oni Gallery in Boston (doors 7pm screening 8pm) - so I guess all you folk without DVD players need to get down there...source: http://www.damonandnaomi.com</p>
+Damon & Naomi have scheduled a date upstairs at THe Middle East in Cambridge, MA for Tuesday 2 July.On Friday 26 June the tour diary from Song to the Siren will be screened at the Oni Gallery in Boston (doors 7pm screening 8pm) - so I guess all you folk without DVD players need to get down there...
+
+source: https://web.archive.org/web/2002+/http://www.damonandnaomi.com

@@ -17,4 +17,7 @@ categories:
 - news
 tags: []
 ---
-<p>LUNA will be performing on "The Late Late Show with Craig Kilborn" on Monday 10 June at 12:30am (that's really the early hours of Tuesday morning!).source: http://www.fuzzywuzzy.com</p>
+LUNA will be performing on "The Late Late Show with Craig Kilborn" on Monday 10 June at 12:30am (that's really the early hours of Tuesday morning!).
+
+
+Source: https://web.archive.org/web/2002+/http://www.fuzzywuzzy.com

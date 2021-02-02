@@ -17,4 +17,4 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>Buried in the October 2002 news section of Tony Visconti's web site (http://www.tonyvisconti.com/news/index.htm) was this short but intriguing snippet."Tony starts a new CD with Luna members Dean & Britta in November 2002"source: http://www.tonyvisconti.com/</p>
+<p>Buried in the October 2002 news section of Tony Visconti's web site (https://web.archive.org/web/2002+/http://www.tonyvisconti.com/news/index.htm) was this short but intriguing snippet."Tony starts a new CD with Luna members Dean & Britta in November 2002"source: http://www.tonyvisconti.com/</p>

@@ -16,4 +16,6 @@ categories:
 - news
 tags: []
 ---
-<p>Hopefully Luna will finally make some sort of European appearance in October - I trust this will include a London date (or two).source: Luna</p>
+Hopefully Luna will finally make some sort of European appearance in October - I trust this will include a London date (or two).
+
+source: Luna
