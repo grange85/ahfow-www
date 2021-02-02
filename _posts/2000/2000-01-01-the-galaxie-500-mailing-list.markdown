@@ -1,7 +1,7 @@
 ---
 layout: post
 status: publish
-published: true
+published: false
 title: The Galaxie 500 Mailing List
 author:
   display_name: Andy

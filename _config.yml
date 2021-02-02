@@ -59,7 +59,8 @@ exclude: [
     'vendor',
     'config',
     'deploy.sh',
-    '_deploy'
+    '_deploy',
+    '_archived-posts'
   ]
 plugins: [
         bootstrap-sass,

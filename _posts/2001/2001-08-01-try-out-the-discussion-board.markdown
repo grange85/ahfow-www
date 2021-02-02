@@ -1,7 +1,7 @@
 ---
 layout: post
 status: publish
-published: true
+published: false
 title: try out the discussion board
 author:
   display_name: Andy
