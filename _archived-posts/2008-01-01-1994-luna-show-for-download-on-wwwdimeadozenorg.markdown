@@ -1,7 +1,7 @@
 ---
 layout: post
 status: publish
-published: true
+published: false
 title: 1994 Luna show for download on www.dimeadozen.org
 author:
   display_name: Andy

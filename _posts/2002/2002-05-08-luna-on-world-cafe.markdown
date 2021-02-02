@@ -17,4 +17,6 @@ categories:
 - news
 tags: []
 ---
-<p>Luna will be on World Cafe with David Dye on 16 May at 2pm EST. Check http://www.worldcafe.org to find out if your local station carries the showSource: http://www.fuzzywuzzy.com</p>
+Luna will be on World Cafe with David Dye on 16 May at 2pm EST. Check http://www.worldcafe.org to find out if your local station carries the show
+
+Source: http://www.fuzzywuzzy.com
