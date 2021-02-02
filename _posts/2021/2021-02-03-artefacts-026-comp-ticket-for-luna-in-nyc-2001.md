@@ -32,4 +32,4 @@ We also visited Dean in his apartment but that's a story I've told far too many 
 
 {% ahfowimage "https://lh3.googleusercontent.com/p1AmAJF3o5mO7gsyjXmIEOjSxFd2nZ03EqDCmdAFESbyJn2c2I0S6drh5QSW7TY2RD6x6B3UAtVSf0MJ3VOQD7Pv7kVgZIjpNF0C-kzDc05FmbjYHK7ZREg9ph64L_dqfP-npbByXOY=w2400" "Transient artefact, Hazel's stamp from the first night" %}
 
-We sat snowbound for a few hours on the tarmac at JFK before finally making it home and retriving the boy.
+We sat snowbound for a few hours on the tarmac at JFK before finally making it home and retreiving the boy.
