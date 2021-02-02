@@ -16,7 +16,7 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>Review by Jens Aage Pedersen - originally posted on the <a href="/mailing-list/">Galaxie 500 Mailing List</a>
+<p>Review by Jens Aage Pedersen - originally posted on the Galaxie 500 Mailing List
 <p>I had the pleasure of attending not one, but two Dean & Britta shows last weekend, Friday evening at the Studenterhuset and a surprise Friday evening at the Studenterhuset (which I didn't hear about until Dean announced it on stage Friday, but luckily was able to attend - and it was free, no less!).</p>
 <p><a id="more"></a><a id="more-583"></a>
 <p>Both shows featured opening acts by The Icicles, a sweet Michigan quintet in matching outfits who played quite catchy powerpop (I guess they call it) in the vein of Camera Obscura (you know, jangly guitar pop...).</p>

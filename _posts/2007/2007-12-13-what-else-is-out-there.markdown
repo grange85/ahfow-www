@@ -19,7 +19,7 @@ tags: []
 <p>This is an attempt to collect together all the groups and communities related to to A Head Full of Wishes, please leave a comment (or <a href="mailto:andy@grange85.co.uk">email me</a>) if I've missed anything out. You can find me as "grange85" in most of these...</p>
 <p><strong>Mailing Lists etc.:</strong>
 <ul>
-<li><a href="/mailing-list/">The Galaxie 500 Mailing List</a> (417 members)</li>
+<li>The Galaxie 500 Mailing List (417 members)</li>
 </ul>
 <p><strong>Facebook:</strong>
 <ul>

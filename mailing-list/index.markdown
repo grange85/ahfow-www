@@ -1,7 +1,7 @@
 ---
 layout: page
 status: publish
-published: true
+published: false
 title: Mailing list
 author:
   display_name: Andy

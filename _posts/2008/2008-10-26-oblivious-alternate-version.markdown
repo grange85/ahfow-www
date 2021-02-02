@@ -19,7 +19,7 @@ tags: []
 ---
 <p><strong>The short version...</strong></p>
 <p>I've decided that the current Oblivious forum isn't working and am trying a different angle. So as of about now Oblivious the forum no longer exists - but Oblivious the "social network" is born - please come and sign up.</p>
-<p>My apologies to you all for the change, particularly to the one new member who only signed up a day or two back! (if you prefer there is also the <a href="/mailing-list/">Galaxie 500 Mailing List</a> - 13 years old and counting)</p>
+<p>My apologies to you all for the change, particularly to the one new member who only signed up a day or two back! (if you prefer there is also the Galaxie 500 Mailing List - 13 years old and counting)</p>
 <p>Read on for a more detailed explanation of my decision...</p>
 <p><strong>The long version...</strong></p>
 <p>Here are some statistics...</p>
