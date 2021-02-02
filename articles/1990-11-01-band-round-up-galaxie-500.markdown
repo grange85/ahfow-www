@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 359
-wordpress_url: https://www.fullofwishes.co.uk/1990/11/01/band-round-up-galaxie-500/
 date: '1990-11-01 00:00:00 +0000'
 date_gmt: '1990-11-01 00:00:00 +0000'
 categories:

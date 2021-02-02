@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 361
-wordpress_url: https://www.fullofwishes.co.uk/1991/01/01/galaxie-500-that-was-their-year/
 date: '1991-01-01 00:00:00 +0000'
 date_gmt: '1991-01-01 00:00:00 +0000'
 categories:

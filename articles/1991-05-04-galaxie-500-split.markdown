@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 360
-wordpress_url: https://www.fullofwishes.co.uk/1991/05/04/galaxie-500-split/
 date: '1991-05-04 00:00:00 +0100'
 date_gmt: '1991-05-04 00:00:00 +0100'
 categories:

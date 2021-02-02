@@ -11,7 +11,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2017-07-12 23:00 +0000
-imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10/_master/luna-spain-2017-10.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10/luna-spain-2017-10.jpg
 categories:
  - luna
  - news
@@ -67,4 +67,4 @@ tags:
       </tr>
 </tbody></table>
 
-<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10/_master/luna-spain-2017-10.jpg" alt="Luna in Spain, October 2017" /><figcaption class="caption-text">Luna in Spain, October 2017</figcaption></figure>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10/luna-spain-2017-10.jpg" alt="Luna in Spain, October 2017" /><figcaption class="caption-text">Luna in Spain, October 2017</figcaption></figure>

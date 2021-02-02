@@ -11,7 +11,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2017-03-17 23:00 +0000
-imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10/_master/luna-spain-2017-10.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10/luna-spain-2017-10.jpg
 categories:
  - luna
  - news
@@ -20,7 +20,7 @@ tags:
  - spain
  - tour
 ---
-<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10/_master/luna-spain-2017-10.jpg" alt="Luna Spanish tour poster - 2017" /><figcaption class="caption-text">Luna Spanish tour poster - 2017</figcaption></figure>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10/luna-spain-2017-10.jpg" alt="Luna Spanish tour poster - 2017" /><figcaption class="caption-text">Luna Spanish tour poster - 2017</figcaption></figure>
 <p class="lead">Luna are heading back to Spain for a series of shows in October. The dates are listed below and tickets for some of the shows are on sale now. No word yet of any other European dates&hellip; but, fingers crossed!</p>
 
 <table class="table table-striped">

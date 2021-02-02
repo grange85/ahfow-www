@@ -11,8 +11,6 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-wordpress_id: 642
-wordpress_url: https://www.fullofwishes.co.uk/about/capitalism/
 date: '2008-03-27 21:52:21 +0000'
 date_gmt: '2008-03-27 21:52:21 +0000'
 categories:
