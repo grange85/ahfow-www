@@ -47,21 +47,29 @@ excerpt_separator: <!--more-->
 port: 4040
 markdown: kramdown
 environment: development
-exclude: [
-    '_notes',
-    'Gemfile',
-    'Gemfile.lock',
-    'Rakefile',
-    '.sass-cache',
-    '.git',
-    's3cfg-prog',
-    's3cfg-prog.enc',
-    'vendor',
-    'config',
-    'deploy.sh',
-    '_deploy',
-    '_archived-posts'
-  ]
+
+# default excludes
+exclude:
+- .sass-cache/
+- .jekyll-cache/
+- gemfiles/
+- Gemfile
+- Gemfile.lock
+- node_modules/
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
+- _notes
+- Rakefile
+- .git
+- s3cfg-prog
+- s3cfg-prog.enc
+- config
+- deploy.sh
+- _deploy/
+- _archived-posts/
+
 plugins: [
         bootstrap-sass,
         jekyll-archives,
