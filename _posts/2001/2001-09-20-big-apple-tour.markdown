@@ -16,6 +16,8 @@ categories:
 - luna
 tags: []
 ---
+Time Out NY, January 2001
+
 <p><em>Snow, spew and other tales from Luna's tour of New York City</em><br />
 By Dean Wareham</p>
 <p>Over the course of eight weeks in January and February 2001, New York band Luna decided to promote its new live album by undertaking an extensive tour of its hometown's clubs, playing in a different one each weekend. Up holding the great rock tradition of the tour diary, Luna's frontman Dean Wareham agreed to share his thoughts about his band's exciting travels-and travails.</p>

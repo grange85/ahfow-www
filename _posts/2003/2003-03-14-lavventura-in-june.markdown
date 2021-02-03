@@ -1,7 +1,7 @@
 ---
 layout: post
 status: publish
-published: true
+published: false
 title: L'Avventura in June
 author:
   display_name: Andy

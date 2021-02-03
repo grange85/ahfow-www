@@ -17,4 +17,8 @@ categories:
 - dean wareham
 tags: []
 ---
-<p>Piggie, the film made a while back by Alison Bagnall and starring Dean Wareham is getting it's "World Premier" in June at the Los Angeles Independent Film Festival. More details can be found at the following web sites...sources:http://www.deanandbritta.comhttp://www.lafilmfest.com</p>
+Piggie, the film made a while back by Alison Bagnall and starring Dean Wareham is getting it's "World Premier" in June at the Los Angeles Independent Film Festival. More details can be found at the following web sites...
+
+sources:
+ - https://web.archive.org/web/200305+/http://www.deanandbritta.com
+ - https://web.archive.org/web/200305+/http://www.lafilmfest.com

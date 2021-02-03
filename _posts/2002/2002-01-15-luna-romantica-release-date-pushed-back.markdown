@@ -17,4 +17,6 @@ categories:
 - news
 tags: []
 ---
-<p>Apparently the release date for Luna's new album, Romantica, has been pushed back from 19 March to 5 April(source: Jetset via Galaxie 500 Mailing List)</p>
+Apparently the release date for Luna's new album, Romantica, has been pushed back from 19 March to 5 April
+
+source: Jetset via Galaxie 500 Mailing List
