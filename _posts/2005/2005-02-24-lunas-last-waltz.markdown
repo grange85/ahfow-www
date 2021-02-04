@@ -17,4 +17,6 @@ categories:
 - news
 tags: []
 ---
-<p>Luna's Last Waltz is an attempt to blog the end of Luna - to help out go here, read and email me to join in...http://lunaslastwaltz.blogspot.com</p>
+Luna's Last Waltz is an attempt to blog the end of Luna - to help out go here, read and email me to join in...
+
+[http://lunaslastwaltz.blogspot.com](https://web.archive.org/web/20050224+/http://lunaslastwaltz.blogspot.com)

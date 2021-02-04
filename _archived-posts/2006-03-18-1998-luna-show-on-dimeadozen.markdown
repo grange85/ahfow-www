@@ -1,7 +1,7 @@
 ---
 layout: post
 status: publish
-published: true
+published: false
 title: 1998 Luna show on Dimeadozen
 author:
   display_name: Andy

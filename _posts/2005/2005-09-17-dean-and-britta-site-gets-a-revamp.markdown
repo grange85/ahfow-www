@@ -17,5 +17,9 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>The official Dean & Britta site has had a long overdue revamp. It now looks lovely and has some recent news as well as pictures, music and videos.</p>
-<p>Visit <a href="http://www.deanandbritta.com/">Dean & Britta</a></p>
+The official Dean & Britta site has had a long overdue revamp. It now looks
+lovely and has some recent news as well as pictures, music and videos.
+
+Visit [Dean & Britta](https://web.archive.org/web/20050917+/http://www.deanandbritta.com/)
+
+

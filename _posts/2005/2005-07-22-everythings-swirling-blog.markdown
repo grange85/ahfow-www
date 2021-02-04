@@ -16,6 +16,14 @@ categories:
 - news
 tags: []
 ---
-<p>OK - not really appropriate but hey this is my website and if I can't plug my own blog on here then where the hell can I do it.</p>
-<p>The blog has existed for years but I've finally decided to give myself a right royal kick up the arse and actually post regularly rather than every couple of months. It'll mostly be about music with a bit of books, film and TV thrown in.</p>
-<p><a href="http://grange85.blogspot.com">take a look</a></p>
+OK - not really appropriate but hey this is my website and if I can't plug my
+own blog on here then where the hell can I do it.
+
+The blog has existed for years but I've finally decided to give myself a right
+royal kick up the arse and actually post regularly rather than every couple of
+months. It'll mostly be about music with a bit of books, film and TV thrown
+in.
+
+[take a look](https://web.archive.org/web/20050722+/http://grange85.blogspot.com)
+
+

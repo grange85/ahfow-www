@@ -17,4 +17,8 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>If you visit the <a href="http://www.squidandthewhalemovie.com/main.html">official website for The Squid and The Whale</a> you will be able to hear an endless loop of Dean's version of Pink Floyd's "Hey You".</p>
+If you visit the [official website for The Squid and The
+Whale](https://web.archive.org/web/20050916+/http://www.squidandthewhalemovie.com/main.html) you will be able to
+hear an endless loop of Dean's version of Pink Floyd's "Hey You".
+
+

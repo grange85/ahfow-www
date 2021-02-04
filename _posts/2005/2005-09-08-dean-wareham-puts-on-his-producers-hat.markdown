@@ -17,6 +17,14 @@ categories:
 - dean wareham
 tags: []
 ---
-<p>Dean is currently in North Carolina producing an album for Jule Brown which is Mark Holland of Jennyanykind's side project.</p>
-<p><del datetime="2008-07-28T16:04:08+00:00">More details at the official and frighteningly ugly Jule Brown</del> and the thankfully much prettier <a href="http://www.sonicbids.com/epk/epk.asp?epk_id=12932">Sonicbids EPK site</a></p>
-<p><ins datetime="2008-07-28T16:04:08+00:00">The Jule Brown official site is <a href="http://www.myspace.com/julebrown">now on MySpace</a> (thanks Mark)</ins></p>
+Dean is currently in North Carolina producing an album for Jule Brown which is
+Mark Holland of Jennyanykind's side project.
+
+<del>More details at the official and frighteningly ugly Jule Brown</del> and
+the thankfully much prettier [Sonicbids EPK
+site](https://web.archive.org/web/20050908+/http://www.sonicbids.com/epk/epk.asp?epk_id=12932)
+
+The Jule Brown official site is [now on
+MySpace](https://web.archive.org/web/20050908+/http://www.myspace.com/julebrown) (thanks Mark)
+
+

@@ -1,7 +1,7 @@
 ---
 layout: post
 status: publish
-published: true
+published: false
 title: Luna bittorrent download
 author:
   display_name: Andy

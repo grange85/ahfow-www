@@ -1,7 +1,7 @@
 ---
 layout: post
 status: publish
-published: true
+published: false
 title: Galaxie 500 show on Dime-a-dozen
 author:
   display_name: Andy

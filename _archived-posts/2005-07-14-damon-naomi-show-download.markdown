@@ -1,11 +1,11 @@
 ---
 layout: post
 status: publish
-published: true
+published: false
 title: Damon & Naomi show download
 author:
   display_name: Andy
-  login: admin
+  login: false
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 author_login: admin

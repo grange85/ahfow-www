@@ -17,5 +17,11 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>Dean & Britta are hoping to back in the studio in January with producer Tony Visconti to start recording the follow up to L'Avventura.</p>
-<p>Source: Britta on the <a href="http://groups.google.com/group/fullofwishes">Galaxie 500 Mailing List</a> - <em>" hopefully we'll be in the studio with Tony Visconti in January working on our next album"</em></p>
+Dean & Britta are hoping to back in the studio in January with producer Tony
+Visconti to start recording the follow up to L'Avventura.
+
+Source: Britta on the [Galaxie 500 Mailing
+List](http://groups.google.com/group/fullofwishes) \- _" hopefully we'll be in
+the studio with Tony Visconti in January working on our next album"_
+
+

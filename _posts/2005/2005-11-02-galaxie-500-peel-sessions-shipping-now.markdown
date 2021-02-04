@@ -17,7 +17,14 @@ categories:
 - galaxie 500
 tags: []
 ---
-<p>The newly released Galaxie 500 Peel Sessions CD is availiable now from 20|20|20.</p>
-<p>The sessions were recorded for BBC Radio 1's legendary John Peel show in 1989 and 1990 </p>
-<p>The CD will be available elsewhere on 14 November but is shipping now if you order then through Damon & Naomi's <a href="http://www.20-20-20.com/">20/20/20</a> label</p>
+The newly released Galaxie 500 Peel Sessions CD is availiable now from
+20|20|20.
+
+The sessions were recorded for BBC Radio 1's legendary John Peel show in 1989
+and 1990
+
+The CD will be available elsewhere on 14 November but is shipping now if you
+order then through Damon & Naomi's [20/20/20](http://www.20-20-20.com/) label
+
+
 

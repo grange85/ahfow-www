@@ -17,5 +17,19 @@ categories:
 - news
 tags: []
 ---
-<p><em>Matthew Buzzell</em>, the director of the video document of Luna's farewell tour gave me the latest on the project in an email last week. All the footage for the movie, provisionally titled "Tell Me Do You Miss Me" has been viewed, logged and digitised and the formal editing process is now underway. Editing the film will be "big Luna fan" <em>Jacob Bricca</em> who edited Matthew's previous film <a href="http://www.imdb.com/title/tt0293294/combined">Jimmy Scott: If You Only Knew</a> (about Jazz singer Jimmy Scott) and also edited <a href="http://www.imdb.com/title/tt0308514/combined">Lost in La Mancha</a>, the documentary about the catalogue of disasters during Terry Gilliam's attempt to make a film of Don Quixote.</p>
-<p>Hopefully the finished film will make an appearance at some festivals when completed before being released on DVD by <a href="http://www.rhino.com/">Rhino</a></p>
+_Matthew Buzzell_, the director of the video document of Luna's farewell tour
+gave me the latest on the project in an email last week. All the footage for
+the movie, provisionally titled "Tell Me Do You Miss Me" has been viewed,
+logged and digitised and the formal editing process is now underway. Editing
+the film will be "big Luna fan" _Jacob Bricca_ who edited Matthew's previous
+film [Jimmy Scott: If You Only
+Knew](http://www.imdb.com/title/tt0293294/combined) (about Jazz singer Jimmy
+Scott) and also edited [Lost in La
+Mancha](http://www.imdb.com/title/tt0308514/combined), the documentary about
+the catalogue of disasters during Terry Gilliam's attempt to make a film of
+Don Quixote.
+
+Hopefully the finished film will make an appearance at some festivals when
+completed before being released on DVD by [Rhino](https://web.archive.org/web/20050526+/http://www.rhino.com/)
+
+
