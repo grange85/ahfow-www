@@ -17,13 +17,19 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p>Tell Me Do You Miss Me will receive five screenings as part of the <a href="http://www.tribecafilmfestival.org">Tribeca Film festival</a>
-<ul>
-<li>Fri, April 28 / 8:30 pm - AMC/Loews Village VII 3 - $12</li>
-<li>Sat, April 29 / 11:00 pm - AMC/Loews Village VII 1 - $12</li>
-<li>Wed, May 3 / 10:30 pm - AMC/Loews 34th Street 10 - $12</li>
-<li>Thu, May 4 / 1:45 pm - AMC/Loews 34th Street 10 - $12</li>
-<li>Fri, May 5 / 9:00 pm - Regal Cinemas Battery Park 11 - $12</li>
-</ul>
-<p>The director Matthew Buzzell also has another film showing as part of the festival - Putting the River in Reverse.</p>
-<p>Visit the <a href="http://www.tribecafilmfestival.org">festival website for more details and information about getting tickets.</p>
+Tell Me Do You Miss Me will receive five screenings as part of the [Tribeca
+Film festival](https://web.archive.org/web/20060325+/http://www.tribecafilmfestival.org)
+
+  * Fri, April 28 / 8:30 pm - AMC/Loews Village VII 3 - $12
+  * Sat, April 29 / 11:00 pm - AMC/Loews Village VII 1 - $12
+  * Wed, May 3 / 10:30 pm - AMC/Loews 34th Street 10 - $12
+  * Thu, May 4 / 1:45 pm - AMC/Loews 34th Street 10 - $12
+  * Fri, May 5 / 9:00 pm - Regal Cinemas Battery Park 11 - $12
+
+The director Matthew Buzzell also has another film showing as part of the
+festival - Putting the River in Reverse.
+
+Visit the festival website for more details and information about getting
+tickets.
+
+

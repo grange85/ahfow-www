@@ -17,5 +17,15 @@ categories:
 - news
 tags: []
 ---
-<p>The excellent <a href="http://www.dvdtimes.co.uk">DVD Times</a> has a very in depth review of <a href="http://www.dvdtimes.co.uk/content.php?contentid=60265">Olivier Assayas's Irma Vep</a> (<a href="http://www.imdb.com/title/tt0116650/maindetails">IMDB</a>). Unfortunatley this release comes without English subtitles but that doesn't mean you can't enjoy hearing Luna's Bonnie and Clyde on the soundtrack.</p>
-<p>The film was directed by Olivier Assayas and stars Maggie Cheung who also collaborated on 2004's <a href="http://www.imdb.com/title/tt0388838/">Clean</a> which had even more Luna related music on the soundtrack (and I've just noticed the soundtrack album is missing from the discography - I'll fix this tonight).</p>
+The excellent [DVD Times](http://www.dvdtimes.co.uk) has a very in depth
+review of [Olivier Assayas's Irma
+Vep](http://www.dvdtimes.co.uk/content.php?contentid=60265)
+([IMDB](http://www.imdb.com/title/tt0116650/maindetails)). Unfortunatley this
+release comes without English subtitles but that doesn't mean you can't enjoy
+hearing Luna's Bonnie and Clyde on the soundtrack.
+
+The film was directed by Olivier Assayas and stars Maggie Cheung who also
+collaborated on 2004's [Clean](http://www.imdb.com/title/tt0388838/) which had
+even more Luna related music on the soundtrack (and I've just noticed the
+soundtrack album is missing from the discography - I'll fix this tonight).
+

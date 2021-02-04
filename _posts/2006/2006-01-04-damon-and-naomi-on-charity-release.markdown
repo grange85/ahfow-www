@@ -17,6 +17,15 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p>Damon & Naomi are amongst a myriad of very cool artists appearing on a new 5 disc chartity release</p>
-<p><a href="http://www.jnanarecords.com/msff.html">Not  Alone</a> will be released in mid January on <a href="http://www.jnanarecords.com/index.html">Jnana records</a> and all proceeds will go to the humanitarian medical aid charity <a href="http://www.msf.org/">Medecins Sans Frontieres</a></p>
-<p>The release is incredibly cheap (US$25 for 4 CDs!) and for a very good cause. You can <a href="http://www.jnanarecords.com/shopf.html">pre-order it now</a> and the package should be posted off mid January</p>
+Damon & Naomi are amongst a myriad of very cool artists appearing on a new 5
+disc chartity release
+
+[Not Alone](https://web.archive.org/web/20060104+/http://www.jnanarecords.com/msff.html) will be released in mid
+January on [Jnana records](http://www.jnanarecords.com/index.html) and all
+proceeds will go to the humanitarian medical aid charity [Medecins Sans
+Frontieres](https://web.archive.org/web/20060104+/http://www.msf.org/)
+
+The release is incredibly cheap (US$25 for 4 CDs!) and for a very good cause.
+You can [pre-order it now](https://web.archive.org/web/20060104+/http://www.jnanarecords.com/shopf.html) and the
+package should be posted off mid January.
+

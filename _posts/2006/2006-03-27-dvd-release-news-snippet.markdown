@@ -17,5 +17,13 @@ categories:
 - news
 tags: []
 ---
-<p>Frank at the ever-excellent <a href="http://www.chromewaves.net">Chromewaves</a> has a <a href="http://www.chromewaves.net/?itemid=2160">post about the forthcoming DVD</a> including the news that one of his pics will be making its way into the DVD booklet - so head on over there to get a sneak preview and look at the stacks of other (great) photos.</p>
-<p>You might as well add Chromewaves to your blog/rss reader of choice while you're there because it's rarely anything but a fantastic read</p>
+Frank at the ever-excellent [Chromewaves](https://web.archive.org/web/20060327+/http://www.chromewaves.net) has a
+[post about the forthcoming DVD](https://web.archive.org/web/20060327+/http://www.chromewaves.net/?itemid=2160)
+including the news that one of his pics will be making its way into the DVD
+booklet - so head on over there to get a sneak preview and look at the stacks
+of other (great) photos.
+
+You might as well add Chromewaves to your blog/rss reader of choice while
+you're there because it's rarely anything but a fantastic read
+
+

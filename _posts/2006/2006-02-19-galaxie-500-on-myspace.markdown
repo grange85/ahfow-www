@@ -17,4 +17,10 @@ categories:
 - galaxie 500
 tags: []
 ---
-<p>Hot on the heels of Damon & Naomi's <a href="http://www.grange85.co.uk/galaxie/index.php?news=yes&id=244">MySpace appearance</a> Galaxie 500 now have an <a href="http://www.myspace.com/galaxie500official">official presence</a> on the social networking behemoth.</p>
+Hot on the heels of Damon & Naomi's [MySpace
+appearance](https://web.archive.org/web/20060219+/http://www.grange85.co.uk/galaxie/index.php?news=yes&id=244)
+Galaxie 500 now have an [official
+presence](https://web.archive.org/web/20060219+/http://www.myspace.com/galaxie500official) on the social networking
+behemoth.
+
+

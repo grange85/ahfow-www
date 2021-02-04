@@ -17,6 +17,15 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>Producer <a href="http://www.tonyvisconti.com">Tony Visconti</a> has posted a little piece on his website (and a couple of pictures) about the first week of work on the new <a href="http://www.deanandbritta.com">Dean & Britta</a> album (you'll need to scroll halfway down the page).</p>
-<blockquote><p>[The] songs are, of course, romantic and heartfelt (and they make my eyes a little dewy -- but it's just a physiological thing, nothing to worry about)</p></blockquote>
-<p>There are also a <a href="http://www.deanandbritta.com/photos.php">few pictures</a> on <a href="http://www.deanandbritta.com">Dean & Britta's</a> website<br />
+Producer [Tony Visconti](https://web.archive.org/web/20060317+/http://www.tonyvisconti.com) has posted a little
+piece on his website (and a couple of pictures) about the first week of work
+on the new [Dean & Britta](https://web.archive.org/web/20060317+/http://www.deanandbritta.com) album (you'll need to
+scroll halfway down the page).
+
+> [The] songs are, of course, romantic and heartfelt (and they make my eyes a
+little dewy -- but it's just a physiological thing, nothing to worry about)
+
+There are also a [few pictures](https://web.archive.org/web/20060317+/http://www.deanandbritta.com/photos.php) on
+[Dean & Britta's](https://web.archive.org/web/20060317+/http://www.deanandbritta.com) website  
+
+

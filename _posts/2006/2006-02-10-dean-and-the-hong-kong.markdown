@@ -17,7 +17,13 @@ categories:
 - dean wareham
 tags: []
 ---
-<p>This little snippet from the web site of the band The Hong Kong</p>
-<blockquote><p>Coming Soon...video for Tongue Tied featuring Dean Wareham of Luna/Galaxie 500!</p></blockquote>
-<p><b>update</b> - Britta gave a little insight  into Dean's involvement in a post on the <a href-"http://www.grange85.co.uk/galaxie/index.php?article_id=125">Galaxie 500 Mailing List</a>...<br />
-<blockquote>"They did some Bonnie and Clyde stuff. Dean was their Clyde. "</p></blockquote>
+This little snippet from the web site of the band The Hong Kong
+
+> Coming Soon...video for Tongue Tied featuring Dean Wareham of Luna/Galaxie
+500!
+
+**update** \- Britta gave a little insight into Dean's involvement in a post on the [Galaxie 500 Mailing List](https://web.archive.org/web/20060210+/http://www.grange85.co.uk/galaxie/index.php?article_id=125)...  
+
+> "They did some Bonnie and Clyde stuff. Dean was their Clyde. "
+
+

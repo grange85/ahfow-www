@@ -16,5 +16,14 @@ categories:
 - galaxie 500
 tags: []
 ---
-<p>Ok, it's been a (very) long time coming but it's time to resurrect the Track of The Month and I guess it should start with a rarity.<br />This is another of the "extra" tracks that were included on a few of the original Galaxie 500 demo cassettes that the band hawked round in 1987. Some of the cassettes had an extra four tracks included - two of which are somewhere on this site if you feel the need to hunt around. This is the third.<br />On the Sofa features Claudia Silver on vocals</p>
-<p><a href="http://www.box.net/shared/ymhzgcva1h">Galaxie 500 - On the Sofa (mp3)</a></p>
+Ok, it's been a (very) long time coming but it's time to resurrect the Track
+of The Month and I guess it should start with a rarity.  
+This is another of the "extra" tracks that were included on a few of the
+original Galaxie 500 demo cassettes that the band hawked round in 1987. Some
+of the cassettes had an extra four tracks included - two of which are
+somewhere on this site if you feel the need to hunt around. This is the third.  
+On the Sofa features Claudia Silver on vocals
+
+[Galaxie 500 - On the Sofa (mp3)](http://www.box.net/shared/ymhzgcva1h)
+
+

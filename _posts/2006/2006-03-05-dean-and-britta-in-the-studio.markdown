@@ -17,4 +17,8 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>Dean & Britta are finally in the studio recording the follow up to L'Avventura. They will be recording for six weeks with legendary producer Tony Visconti.</p>
+Dean & Britta are finally in the studio recording the follow up to
+L'Avventura. They will be recording for six weeks with legendary producer Tony
+Visconti.
+
+

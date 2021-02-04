@@ -16,12 +16,13 @@ categories:
 - news
 tags: []
 ---
-<ul>
-<li>Luna DVD - Tell Me Do You Miss Me? (March)</li>
-<li>Luna "Best of..." (March)</li>
-<li>Dean & Britta album (tail end of the year I'd guess)</li>
-<li>Dean & Britta live shows</li>
-<li>Damon & Naomi live shows</li>
-<li>Sean Eden album (????)</li>
-</ul>
-<p>Have a great 2006!</p>
+  * Luna DVD - Tell Me Do You Miss Me? (March)
+  * Luna "Best of..." (March)
+  * Dean & Britta album (tail end of the year I'd guess)
+  * Dean & Britta live shows
+  * Damon & Naomi live shows
+  * Sean Eden album (????)
+
+Have a great 2006!
+
+

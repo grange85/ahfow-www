@@ -16,19 +16,45 @@ categories:
 - luna
 tags: []
 ---
-<div align="center"></div>
-<p>With the premiere of the Luna documentary Tell Me Do You Miss Me only weeks away <em>A Head Full of Wishes</em> took the opportunity of harassing the former members of Luna and director Matthew Buzzell with an email questionnaire. Over the course of the next few weeks, in the run up to the film premiere, I'll post their replies here.</p>
-<p>New Yorker's should head to the <a href="http://www.tribecafilmfestival.org">Tribeca Film Festival website</a> to buy their tickets to one of the five screenings the film will receive - the rest of us will have to drum our fingers and wait for the <a href="http://www.rhino.com">Rhino</a> DVD release in June.</p>
-<h1>#2: Lee</h1>
-<p><em><strong>A Head Full of Wishes</strong>: Do you think the film shows the band as they really are?</em><br/><strong>Lee</strong>: I think the film is a pretty accurate depiction of not just the band, but life on the road as well.  I'm pleased that the film got made. I know I'll enjoy seeing it 20 years from now.</p>
-<p><em><strong>AHFoW</strong>: How different was the last tour different from previous Luna tours? Did the fact that it was the last one make it easier/harder?</em><br/><strong>Lee</strong>: I thoroughly enjoyed the final tour.  It was bitter sweet at times,knowing that we, as a band would not be returning to  these places. As a result, the final note of any given show would feel quite emotional.</p>
-<p><em><strong>AHFoW</strong>: Did you get used to having the camera around? How long did that take?</em><br/><strong>Lee</strong>: I didn't mind the camera.  It was hard to not be aware of it at  first, but I got used to being filmed.  The cameras were on us for most of the tour.</p>
-<p><em><strong>AHFoW</strong>: What are your favourite rock films and 'rockumentaries'?</em><br/><strong>Lee</strong>: <a href="http://www.amazon.com/exec/obidos/ASIN/6305922756/aheadfullofwi-20">Spinal Tap</a>, of course.  I also enjoyed the <a href="http://www.amazon.com/exec/obidos/ASIN/B0006IIKS0/aheadfullofwi-20">Metallica film</a>, in a  Spinal Tap kind of way.  I just recently saw an excellent short documentary called <a href="http://www.imdb.com/title/tt0493007/">Lot 63, Grave C</a>.  It's about <a href="http://en.wikipedia.org/wiki/Meredith_Hunter">Meredith Hunter</a>, the stabbing victim at the Rolling Stones Altamont concert. Sadly, his mother could not even afford a headstone for his grave.</p>
-<p><em><strong>AHFoW</strong>: Who'll play Lee in the forthcoming Hollywood blockbuster of the Luna story?</em><br/><strong>Lee</strong>: We've actually discussed this at length during our many long drives. Here's the short list:</p>
-<ul>
-<li>Dean Wareham - <a href="http://en.wikipedia.org/wiki/Baryshnikov%2C_Mikhail">Mikhail Baryshnikov</a> or <a href="http://en.wikipedia.org/wiki/Jude_Law">Jude Law</a></li>
-<li>Britta Phillips - <a href="http://en.wikipedia.org/wiki/Michelle_Pfeiffer">Michelle Pfeiffer</a> or <a href="http://en.wikipedia.org/wiki/Elisha_cuthbert">Elisha Cuthbert</a></li>
-<li>Sean Eden - <a href="http://en.wikipedia.org/wiki/Vince_Vaughn">Vince Vaughn</a> or <a href="http://en.wikipedia.org/wiki/John_Goodman">John Goodman</a></li>
-<li>Lee Wall - <a href="http://en.wikipedia.org/wiki/Clint_eastwood">Clint Eastwood</a> or <a href="http://en.wikipedia.org/wiki/Jackie_Chan">Jackie Chan</a></li>
-</ul>
-<p><em><strong>AHFoW</strong>: What next?</em><br/><strong>Lee</strong>: Currently, I live in Los Angeles.  I am the composer for a television show called <a href="http://en.wikipedia.org/wiki/South_of_Nowhere">South of Nowhere</a> <em>(Ed: Lee composes all the instrumental music for the show)</em>.  I also continue to create music for advertising and spend a lot of time at the beach.  Drumming will continue to be a part of my life, but it's all about collaboration. You will hear me playing drums again when the right situation comes along.</p>
+
+With the premiere of the Luna documentary Tell Me Do You Miss Me only weeks
+away _A Head Full of Wishes_ took the opportunity of harassing the former
+members of Luna and director Matthew Buzzell with an email questionnaire. Over
+the course of the next few weeks, in the run up to the film premiere, I'll
+post their replies here.
+
+New Yorker's should head to the [Tribeca Film Festival
+website](http://www.tribecafilmfestival.org) to buy their tickets to one of
+the five screenings the film will receive - the rest of us will have to drum
+our fingers and wait for the [Rhino](http://www.rhino.com) DVD release in
+June.
+
+# #2: Lee
+
+_**A Head Full of Wishes**: Do you think the film shows the band as they
+really are?_  
+**Lee**: I think the film is a pretty accurate depiction of not just the band, but life on the road as well. I'm pleased that the film got made. I know I'll enjoy seeing it 20 years from now.
+
+_**AHFoW**: How different was the last tour different from previous Luna
+tours? Did the fact that it was the last one make it easier/harder?_  
+**Lee**: I thoroughly enjoyed the final tour. It was bitter sweet at times,knowing that we, as a band would not be returning to these places. As a result, the final note of any given show would feel quite emotional.
+
+_**AHFoW**: Did you get used to having the camera around? How long did that
+take?_  
+**Lee**: I didn't mind the camera. It was hard to not be aware of it at first, but I got used to being filmed. The cameras were on us for most of the tour.
+
+_**AHFoW**: What are your favourite rock films and 'rockumentaries'?_  
+**Lee**: [Spinal Tap](http://www.amazon.com/exec/obidos/ASIN/6305922756/aheadfullofwi-20), of course. I also enjoyed the [Metallica film](http://www.amazon.com/exec/obidos/ASIN/B0006IIKS0/aheadfullofwi-20), in a Spinal Tap kind of way. I just recently saw an excellent short documentary called [Lot 63, Grave C](http://www.imdb.com/title/tt0493007/). It's about [Meredith Hunter](http://en.wikipedia.org/wiki/Meredith_Hunter), the stabbing victim at the Rolling Stones Altamont concert. Sadly, his mother could not even afford a headstone for his grave.
+
+_**AHFoW**: Who'll play Lee in the forthcoming Hollywood blockbuster of the
+Luna story?_  
+**Lee**: We've actually discussed this at length during our many long drives. Here's the short list:
+
+  * Dean Wareham - [Mikhail Baryshnikov](http://en.wikipedia.org/wiki/Baryshnikov%2C_Mikhail) or [Jude Law](http://en.wikipedia.org/wiki/Jude_Law)
+  * Britta Phillips - [Michelle Pfeiffer](http://en.wikipedia.org/wiki/Michelle_Pfeiffer) or [Elisha Cuthbert](http://en.wikipedia.org/wiki/Elisha_cuthbert)
+  * Sean Eden - [Vince Vaughn](http://en.wikipedia.org/wiki/Vince_Vaughn) or [John Goodman](http://en.wikipedia.org/wiki/John_Goodman)
+  * Lee Wall - [Clint Eastwood](http://en.wikipedia.org/wiki/Clint_eastwood) or [Jackie Chan](http://en.wikipedia.org/wiki/Jackie_Chan)
+
+_**AHFoW**: What next?_  
+**Lee**: Currently, I live in Los Angeles. I am the composer for a television show called [South of Nowhere](http://en.wikipedia.org/wiki/South_of_Nowhere) _(Ed: Lee composes all the instrumental music for the show)_. I also continue to create music for advertising and spend a lot of time at the beach. Drumming will continue to be a part of my life, but it's all about collaboration. You will hear me playing drums again when the right situation comes along.
+

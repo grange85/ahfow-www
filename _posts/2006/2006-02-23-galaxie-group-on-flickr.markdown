@@ -16,7 +16,17 @@ categories:
 - news
 tags: []
 ---
-<p>After the horrors of MySpace it's nice to be able to write a news item about a "community" website that has got things so right</p>
-<p>There's a <a href="http://www.flickr.com/groups/92643213@N00/">Galaxie group</a> recently set up on the very wonderful <a href="http://www.flickr.com">Flickr</a> - the group is for<br />
-<blockquote>any excuse to name a photo after a Galaxie 500 song, or for that matter Luna and similar/related music</p></blockquote>
-<p>At last somewhere to post pictures of Tugboats, Penthouses and Decomposing Trees...</p>
+After the horrors of MySpace it's nice to be able to write a news item about a
+"community" website that has got things so right
+
+There's a [Galaxie group](http://www.flickr.com/groups/92643213@N00/) recently
+set up on the very wonderful [Flickr](http://www.flickr.com) \- the group is
+for  
+
+> any excuse to name a photo after a Galaxie 500 song, or for that matter Luna
+and similar/related music
+
+At last somewhere to post pictures of Tugboats, Penthouses and Decomposing
+Trees...
+
+

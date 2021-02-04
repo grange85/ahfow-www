@@ -17,5 +17,12 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>The essential DVD website <a href="http://www.dvdtimes.co.uk/">DVD Times</a> is reporting that The Squid and The Whale will be <a href="http://www.dvdtimes.co.uk/content.php?contentid=59984">out on (region 1) DVD</a> on the 26 March. The site also has artwork and a list of the DVD extras.</p>
-<p>Dean Wareham and Britta Phillips supplied music for the Noah Baumbach film (<a href="http://www.imdb.com/title/tt0367089/combined">IMDB</a>).</p>
+The essential DVD website [DVD Times](http://www.dvdtimes.co.uk/) is reporting
+that The Squid and The Whale will be [out on (region 1)
+DVD](http://www.dvdtimes.co.uk/content.php?contentid=59984) on the 26 March.
+The site also has artwork and a list of the DVD extras.
+
+Dean Wareham and Britta Phillips supplied music for the Noah Baumbach film
+([IMDB](http://www.imdb.com/title/tt0367089/combined)).
+
+

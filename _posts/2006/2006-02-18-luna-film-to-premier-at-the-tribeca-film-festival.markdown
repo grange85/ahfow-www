@@ -17,5 +17,15 @@ categories:
 - news
 tags: []
 ---
-<p>The <a href="http://www.fuzzywuzzy.com">Luna</a> documentary "Tell Me Do You Miss Me" will receive its world premiere as part of the 2006 <a href="http://www.tribecafilmfestival.org/">Tribeca Film Festival</a> in New York City. The festival runs from April 25th to May 7th although no firm date for the premiere has been set as yet. The four members of Luna will be in attendance as will the film-maker <a href="http://www.imdb.com/name/nm0125638/">Matthew Buzzell</a>. The film will receive four or five screenings during the festival.</p>
-<p>This however does mean that the release of the DVD will be pushed back until after the festival and wll be released in June - as will the "Best of..." CD.</p>
+The [Luna](https://web.archive.org/web/20060218+/http://www.fuzzywuzzy.com) documentary "Tell Me Do You Miss Me"
+will receive its world premiere as part of the 2006 [Tribeca Film
+Festival](https://web.archive.org/web/20060218+/http://www.tribecafilmfestival.org/) in New York City. The festival
+runs from April 25th to May 7th although no firm date for the premiere has
+been set as yet. The four members of Luna will be in attendance as will the
+film-maker [Matthew Buzzell](http://www.imdb.com/name/nm0125638/). The film
+will receive four or five screenings during the festival.
+
+This however does mean that the release of the DVD will be pushed back until
+after the festival and wll be released in June - as will the "Best of..." CD.
+
+

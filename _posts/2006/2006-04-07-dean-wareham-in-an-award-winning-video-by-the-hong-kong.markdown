@@ -17,7 +17,20 @@ categories:
 - dean wareham
 tags: []
 ---
-<p>Dean Wareham makes an appearance in an award winning music video by The Hong Kong. This is from their <a href="http://blog.myspace.com/index.cfm?fuseaction=blog.view&friendID=16996587&blogID=106109543&MyToken=5255e8d4-a2b3-4d8a-9414-123e54ba6448">MySpace Blog</a></p>
-<blockquote><p>Our new video for "Tongue-Tied" not only premiered this weekend at the Crossroads Film Festival in Jackson Mississippi... but also took home the Best Music Video prize for director Sera Rogacki!</p>
-<p>An homage to the film "Bonnie and Clyde," the video for "Tongue Tied" stars the Hong Kong lead singer Catherine Culpepper as the notorious Bonnie Parker with her band mates (Ted Casterline, Harold Wayne, Aaron Carroll and Shawn King) posing as 1930's gangsters. <strong>The video also features Dean Wareham of Luna/Galaxie 500 as Clyde Barrow</strong>. This single is the first off a forthcoming album produced by Ric Ocasek.</p></blockquote>
-<p>As soon as I've tracked down a link to the actual video I'll post it here (if anyone can help with that please <a href="http://www.grange85.co.uk/galaxie/index.php?article_id=127">get in touch</a>.</p>
+Dean Wareham makes an appearance in an award winning music video by The Hong
+Kong. This is from their MySpace Blog
+
+> Our new video for "Tongue-Tied" not only premiered this weekend at the
+Crossroads Film Festival in Jackson Mississippi... but also took home the Best
+Music Video prize for director Sera Rogacki!
+>
+> An homage to the film "Bonnie and Clyde," the video for "Tongue Tied" stars
+the Hong Kong lead singer Catherine Culpepper as the notorious Bonnie Parker
+with her band mates (Ted Casterline, Harold Wayne, Aaron Carroll and Shawn
+King) posing as 1930's gangsters. **The video also features Dean Wareham of
+Luna/Galaxie 500 as Clyde Barrow**. This single is the first off a forthcoming
+album produced by Ric Ocasek.
+
+As soon as I've tracked down a link to the actual video I'll post it here (if
+anyone can help with that please get in touch.
+

@@ -17,5 +17,12 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p>Damon & Naomi have joined the ugly "social networking" horror that is <a href="http://www.myspace.com">MySpace</a> - you can <a href="http://www.myspace.com/damonandnaomi">visit their MySpace page</a> and ask to be their friends, listen to music and network (socially) with them and other fans.</p>
-<p><a href="http://www.grange85.co.uk/swirling/2006/02/06/i-despise-myspace/">I despise MySpace</a></p>
+Damon & Naomi have joined the ugly "social networking" horror that is
+[MySpace](http://www.myspace.com) \- you can [visit their MySpace
+page](http://www.myspace.com/damonandnaomi) and ask to be their friends,
+listen to music and network (socially) with them and other fans.
+
+[I despise MySpace](http://www.grange85.co.uk/swirling/2006/02/06/i-despise-
+myspace/)
+
+

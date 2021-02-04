@@ -17,5 +17,8 @@ categories:
 - news
 tags: []
 ---
-<p>The Luna documentary "Tell Me Do You Miss Me" will be screened five times as part of the Tribeca film festival in New York City.</p>
-<p><b>UPDATE:</b> - My apologies but apparently the dates I posted where unconfirmed - I'll repost as soon as I have a confirmation of screening dates. You could also keep an eye on the <a href="http://www.tribecafilmfestival.org/">festival website</a> for details.</p>
+The Luna documentary "Tell Me Do You Miss Me" will be screened five times as
+part of the Tribeca film festival in New York City.
+
+**UPDATE:** \- My apologies but apparently the dates I posted where unconfirmed - I'll repost as soon as I have a confirmation of screening dates. You could also keep an eye on the [festival website](https://web.archive.org/web/20060305+/http://www.tribecafilmfestival.org/) for details.
+
