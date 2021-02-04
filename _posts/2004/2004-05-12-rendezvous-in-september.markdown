@@ -17,4 +17,6 @@ categories:
 - news
 tags: []
 ---
-<p>Luna's next album, Rendezvous, is completed and has been slated for a September release on Jetset Records. There are no plans to tour until then.All old news I'll admit, but as it's been officially pilfered from fuzzywuzzy I thought it warranted a rehash. More details, including a tracklisting can be found there (and on the album's discography entry here!).source: http://www.fuzzywuzzy.com</p>
+Luna's next album, Rendezvous, is completed and has been slated for a September release on Jetset Records. There are no plans to tour until then.All old news I'll admit, but as it's been officially pilfered from fuzzywuzzy I thought it warranted a rehash. More details, including a tracklisting can be found there (and on the album's discography entry here!).
+
+source: [http://www.fuzzywuzzy.com](https://web.archive.org/web/20040512+/http://www.fuzzywuzzy.com)

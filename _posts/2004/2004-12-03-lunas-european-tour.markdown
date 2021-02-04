@@ -17,4 +17,6 @@ categories:
 - news
 tags: []
 ---
-<p>It seems Luna's trek to Europe will not be as extensive as we'd hoped. They have five dates scheduled in Spain and one in London. It seems that outside of Spain and London it's hard for the band to make (or not lose too much) money on a European tour.source: britta on the Galaxie 500 Mailing list</p>
+It seems Luna's trek to Europe will not be as extensive as we'd hoped. They have five dates scheduled in Spain and one in London. It seems that outside of Spain and London it's hard for the band to make (or not lose too much) money on a European tour.
+
+source: britta on the Galaxie 500 Mailing list

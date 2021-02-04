@@ -17,4 +17,8 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p>UK music magazine Wire has a double CD, Wire Tapper 12, stuck on the front of the December issue. The CD includes the first available track, Beautiful Close Double, from Damon & Naomi's forthcoming album. The Earth is Blue will be released on Damon & Naomi's own 20/20/20 label in February.sources:http://www.damonandnaomi.comhttp://www.thewire.co.uk</p>
+UK music magazine Wire has a double CD, Wire Tapper 12, stuck on the front of the December issue. The CD includes the first available track, Beautiful Close Double, from Damon & Naomi's forthcoming album. The Earth is Blue will be released on Damon & Naomi's own 20/20/20 label in February.
+
+sources: 
+ - [http://www.damonandnaomi.com](https://web.archive.org/web/20041201+/http://www.damonandnaomi.com)
+ - [http://www.thewire.co.uk](https://web.archive.org/web/20041201+/http://www.thewire.co.uk)

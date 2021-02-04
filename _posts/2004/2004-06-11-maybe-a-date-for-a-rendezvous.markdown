@@ -17,4 +17,6 @@ categories:
 - news
 tags: []
 ---
-<p>OK - this is making news out of very little but on the tourdates page of Dean & Britta's web site is the following..."Luna will start touring after the release of the new album, Rendezvous, on Sept. 28th."source: http://www.deanandbritta.com/dbdocs/Tour%20Dates.html</p>
+OK - this is making news out of very little but on the tourdates page of Dean & Britta's web site is the following..."Luna will start touring after the release of the new album, Rendezvous, on Sept. 28th.
+
+source: [http://www.deanandbritta.com/dbdocs/Tour%20Dates.html](https://web.archive.org/web/20040611+/http://www.deanandbritta.com/dbdocs/Tour%20Dates.html)

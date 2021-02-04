@@ -17,4 +17,6 @@ categories:
 - news
 tags: []
 ---
-<p>I'm not sure this is the final artwork but here is the picture that appears on the promo. A slightly bigger picture and tracklisting can be found at http://www.fullofwishes.info/galaxie/index.php?album_id=195</p>
+I'm not sure this is the final artwork but here is the picture that appears on the promo. A slightly bigger picture and tracklisting can be found at 
+
+[http://www.fullofwishes.info/galaxie/index.php?album_id=195](https://web.archive.org/web/20040818+/http://www.fullofwishes.info/galaxie/index.php?album_id=195)

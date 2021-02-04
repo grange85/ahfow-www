@@ -17,4 +17,9 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p>Damon & Naomi have announced a couple of dates in NYC in November both dates will feature nmperign (who also appear on the duo's forthcoming album). Damon & Naomi will be playing the dates with Michio Kurihara.source: http://www.damonandnaomi.comdates : http://www.fullofwishes.info/galaxie/index.php?news=yes</p>
+Damon & Naomi have announced a couple of dates in NYC in November both dates will feature nmperign (who also appear on the duo's forthcoming album). Damon & Naomi will be playing the dates with Michio Kurihara.
+
+
+source: [http://www.damonandnaomi.com](https://web.archive.org/web/20041011+/http://www.damonandnaomi.com)
+
+dates: [http://www.fullofwishes.info/galaxie/index.php?news=yes](https://web.archive.org/web/20041011+/http://www.fullofwishes.info/galaxie/index.php?news=yes)
