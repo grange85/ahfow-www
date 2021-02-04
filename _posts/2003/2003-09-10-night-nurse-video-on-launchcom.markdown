@@ -16,4 +16,6 @@ categories:
 - news
 tags: []
 ---
-<p>The video for Dean & Britta's Night Nurse is available online for your delectation at launch.comhttp://launch.yahoo.com/artist/default.asp?artistID=1099380</p>
+The video for Dean & Britta's Night Nurse is available online for your delectation at launch.com
+
+[http://launch.yahoo.com/artist/default.asp?artistID=1099380](https://web.archive.org/web/20030910+/http://launch.yahoo.com/artist/default.asp?artistID=1099380)

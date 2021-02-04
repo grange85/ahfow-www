@@ -17,4 +17,7 @@ categories:
 - dean wareham
 tags: []
 ---
-<p>Piggie the film by Alison Bagnall that stars Luna's Dean Wareham and features Luna/Dean & Britta on the soundtrack is getting a couple of screening as part of the Woodstock Film Festival.source and further details:http://woodstockfilmfestival.com/2003_schedule/features_2003.htm</p>
+Piggie the film by Alison Bagnall that stars Luna's Dean Wareham and features Luna/Dean & Britta on the soundtrack is getting a couple of screening as part of the Woodstock Film Festival.
+
+
+source and further details: [http://woodstockfilmfestival.com/2003_schedule/features_2003.htm](https://web.archive.org/web/200308+/http://woodstockfilmfestival.com/2003_schedule/features_2003.htm)

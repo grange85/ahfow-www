@@ -23,4 +23,3 @@ tags: []
 <li>retribution for making a joke about a Jewish holiday</li>
 <li>his own ears</li>
 </ul>
-<div style="text-align:center;"><figure class="caption "><figcaption class="caption-text"></figcaption></figure><br/>Damon & Naomi - Oh Sister</div>

@@ -17,4 +17,6 @@ categories:
 - news
 tags: []
 ---
-<p>One of the snippets of genuine news garnered from the revamped fuzzywuzzy is that the band are writing/preparing material for a new album to be recorded in the autumn. The actual quote is "At the moment Luna are writing songs for their seventh studio album, as yet untitled"source: http://www.fuzzywuzzy.com</p>
+One of the snippets of genuine news garnered from the revamped fuzzywuzzy is that the band are writing/preparing material for a new album to be recorded in the autumn. The actual quote is "At the moment Luna are writing songs for their seventh studio album, as yet untitled"
+
+source: https://web.archive.org/web/200307+/http://www.fuzzywuzzy.com

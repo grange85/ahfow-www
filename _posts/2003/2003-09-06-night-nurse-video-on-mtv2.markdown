@@ -16,4 +16,8 @@ categories:
 - news
 tags: []
 ---
-<p>The video for Dean & Britta's Night Nurse will be aired on the show Subterranean (with guests Kings of Leon)Dates:Sat 14 September at MidnightMon 15 September at 1.00 amWed 17 September at 2.30 amI guess that's Eastern US time - and those dates are correct - so to see the one on Saturday you stay up late on Friday night!sources: http://www.fuzzywuzzy.comhttp://www.mtv.com/onair/mtv2/</p>
+The video for Dean & Britta's Night Nurse will be aired on the show Subterranean (with guests Kings of Leon)Dates:Sat 14 September at MidnightMon 15 September at 1.00 amWed 17 September at 2.30 amI guess that's Eastern US time - and those dates are correct - so to see the one on Saturday you stay up late on Friday night!
+
+sources: 
+ - [http://www.fuzzywuzzy.com](https://web.archive.org/web/200309+/http://www.fuzzywuzzy.com)
+ - [http://www.mtv.com/onair/mtv2/](https://web.archive.org/web/200309+/http://www.mtv.com/onair/mtv2/)

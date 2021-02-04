@@ -17,4 +17,9 @@ categories:
 - news
 tags: []
 ---
-<p>Luna's show last summer from New York's South Street Seaport in August last year has turned up on NYC TV channel 74 - there should be reruns on Friday 5 December at 7pm and Saturday 6 December at 9pmsources:http://www.fuzzywuzzy.comhttp://www.ci.nyc.ny.us/html/nyctv/html/home/home.shtml</p>
+Luna's show last summer from New York's South Street Seaport in August last year has turned up on NYC TV channel 74 - there should be reruns on Friday 5 December at 7pm and Saturday 6 December at 9pm
+
+sources:
+
+ - [http://www.fuzzywuzzy.com](https://web.archive.org/web/20031204+/http://www.fuzzywuzzy.com)
+ - [http://www.ci.nyc.ny.us/html/nyctv/html/home/home.shtml](https://web.archive.org/web/20031204+/http://www.ci.nyc.ny.us/html/nyctv/html/home/home.shtml)

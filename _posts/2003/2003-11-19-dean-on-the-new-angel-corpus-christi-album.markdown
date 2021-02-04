@@ -17,4 +17,9 @@ categories:
 - dean wareham
 tags: []
 ---
-<p>I've just noticed that Angel Corpus Christi has released a new album, Divine Healer, that includes both tracks from the Emma's House 7" single that featured Dean Wareham on the A-side (You) and a cover of Luna's I Want Everything on the flip.sources:http://www.angelcorpuschristi.com/http://www.gullbuy.com/buy/2003/11_18/angelcorpuschristi.cfm</p>
+I've just noticed that Angel Corpus Christi has released a new album, Divine Healer, that includes both tracks from the Emma's House 7" single that featured Dean Wareham on the A-side (You) and a cover of Luna's I Want Everything on the flip.
+
+
+sources:
+ - [http://www.angelcorpuschristi.com/](https://web.archive.org/web/20031119+/http://www.angelcorpuschristi.com/)
+ - [http://www.gullbuy.com/buy/2003/11_18/angelcorpuschristi.cfm](https://web.archive.org/web/20031119+/http://www.gullbuy.com/buy/2003/11_18/angelcorpuschristi.cfm)
