@@ -17,6 +17,18 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>Dean & Britta will be special guests of comedian Dave Hill at the <a href="http://www.ucbtheatre.com/schedule/showdetails.php?showid=899">UCB Theatre in NYC this Wednesday (3 May) 9:30 pm $5</a></p>
-<p><b>Update:</b><br />
-<blockquote>Anyway, as if all of that is not enough, my guests this Wednesday will be Dean Wareham and Britta Phillips from the legendary rock band LUNA.  They are going to come out and play one of their hits and then I will sit them down for a bit of light chit-chat.  Dean & Britta will also share with us a clip from Tell Me Do You Miss Me, the Luna documentary that made its world premiere at the Tribeca Film Festival this past Friday, right here in town. <br/><b>Dave Hill email newsletter</b></p></blockquote>
+Dean & Britta will be special guests of comedian Dave Hill at the [UCB Theatre
+in NYC this Wednesday (3 May) 9:30 pm
+$5](https://web.archive.org/web/20060501+/http://www.ucbtheatre.com/schedule/showdetails.php?showid=899)
+
+**Update:**  
+
+> Anyway, as if all of that is not enough, my guests this Wednesday will be
+Dean Wareham and Britta Phillips from the legendary rock band LUNA. They are
+going to come out and play one of their hits and then I will sit them down for
+a bit of light chit-chat. Dean & Britta will also share with us a clip from
+Tell Me Do You Miss Me, the Luna documentary that made its world premiere at
+the Tribeca Film Festival this past Friday, right here in town.  
+**Dave Hill email newsletter**
+
+

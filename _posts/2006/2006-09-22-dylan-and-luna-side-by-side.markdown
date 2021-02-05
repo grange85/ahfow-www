@@ -17,6 +17,12 @@ categories:
 - news
 tags: []
 ---
-<p>OK it's old news but here's a side-by-side comparison of the sleeve of the new Dylan album and Luna's 1995 single Hedgehog.</p>
-<p><img class="aligncenter" src="https://media.fullofwishes.co.uk/02-luna/pictures/bobandluna.jpg" width="400" height="200" alt="Bob Dylan vs Luna"/>
-<p><strong>Update:</strong> The picture also featured in the insert of the album Penthouse and on an Elektra promo single of Chinatown<br/><img src="https://media.fullofwishes.co.uk/02-luna/sleeves/luna_chinatownpromo.jpg" width="200" height="200" alt="Luna - Chninatown (promo) sleeve"/></p>
+OK it's old news but here's a side-by-side comparison of the sleeve of the new
+Dylan album and Luna's 1995 single Hedgehog.
+
+![Bob Dylan vs Luna](https://media.fullofwishes.co.uk/02-luna/pictures/bobandluna.jpg)
+
+**Update:** The picture also featured in the insert of the album Penthouse and on an Elektra promo single of Chinatown  
+![Luna - Chninatown \(promo\) sleeve](https://media.fullofwishes.co.uk/02-luna/sleeves/luna_chinatownpromo.jpg)
+
+

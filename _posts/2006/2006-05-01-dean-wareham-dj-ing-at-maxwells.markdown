@@ -17,4 +17,7 @@ categories:
 - dean wareham
 tags: []
 ---
-<p>Dean Wareham will be appearing at <a href="http://www.maxwellsnj.com/">Maxwell's</a> "Turntable Tuesday" in Hoboken, NJ on the 16 May - free entrance from 9pm</p>
+Dean Wareham will be appearing at [Maxwell's](https://web.archive.org/web/20060501+/http://www.maxwellsnj.com/)
+"Turntable Tuesday" in Hoboken, NJ on the 16 May - free entrance from 9pm
+
+

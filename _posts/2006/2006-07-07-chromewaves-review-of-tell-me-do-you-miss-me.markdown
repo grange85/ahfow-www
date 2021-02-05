@@ -17,4 +17,8 @@ categories:
 - news
 tags: []
 ---
-<p>Frank from the always very wonderful music blog <a href="http://www.chromewaves.net/?itemid=2268">Chromewaves</a>   has posted a piece on the DVD release of Tell Me Do You Miss Me.</p>
+Frank from the always very wonderful music blog
+[Chromewaves](http://www.chromewaves.net/2006/07/tell-me-do-you-miss-me/) has posted a piece on
+the DVD release of Tell Me Do You Miss Me.
+
+

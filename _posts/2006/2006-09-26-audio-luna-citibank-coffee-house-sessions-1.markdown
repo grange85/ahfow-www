@@ -16,7 +16,17 @@ categories:
 - luna
 tags: []
 ---
-<p>It's been a while since I posted any new audio so here's a little Luna treat...</p>
-<p>This is the first of three tracks Luna recorded around the time of Bewitched for the "Citibank Coffee House Sessions" which were, I guess, a promotional CD-based radio show hosted by Pat DiNizio of the Smithereens. First up is Tiger Lily. I'll post the others over the next couple of weeks.</p>
-<p><a href="http://www.box.net/shared/fm9xo2igu6">Luna - Tiger Lily <em>The Citibank Coffee House Sessions</em></a> (128kb/s mp3 - 4.8MB)</p>
-<p>Thanks to Jeff for passing this along to me</p>
+It's been a while since I posted any new audio so here's a little Luna
+treat...
+
+This is the first of three tracks Luna recorded around the time of Bewitched
+for the "Citibank Coffee House Sessions" which were, I guess, a promotional
+CD-based radio show hosted by Pat DiNizio of the Smithereens. First up is
+Tiger Lily. I'll post the others over the next couple of weeks.
+
+[Luna - Tiger Lily _The Citibank Coffee House
+Sessions_](http://www.box.net/shared/fm9xo2igu6) (128kb/s mp3 - 4.8MB)
+
+Thanks to Jeff for passing this along to me
+
+

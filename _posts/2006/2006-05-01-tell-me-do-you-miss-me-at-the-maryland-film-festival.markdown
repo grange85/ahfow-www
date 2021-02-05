@@ -17,5 +17,10 @@ categories:
 - news
 tags: []
 ---
-<p>The Luna final tour documrntary "Tell Me Do You Miss Me" will be showing at the 2006 Maryland Film Festival. The screening will be on Friday 12 May at 6pm - The Charles Theatre - 1711 North Charles Street Baltimore, Maryland</p>
-<p><ins datetime="2006-05-09T09:20:31+00:00"><b>update:</b> Sean, Lee, and director Matthew Buzzell will be in attendance. More details</ins></p>
+The Luna final tour documrntary "Tell Me Do You Miss Me" will be showing at
+the 2006 Maryland Film Festival. The screening will be on Friday 12 May at 6pm
+- The Charles Theatre - 1711 North Charles Street Baltimore, Maryland
+
+**update:** Sean, Lee, and director Matthew Buzzell will be in attendance. More details
+
+

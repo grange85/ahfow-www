@@ -17,5 +17,13 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>There's a short <a href="http://web.archive.org/web/20080706170127/http://www.pitchforkmedia.com/article/news/39777/Dean_Wareham_Talks_Dean_and_Britta_Album_Galaxie_50">Dean Wareham interview on Pitchfork</a>, mostly about next years new album Back Numbers but it also touches on Luna and speculates about a Galaxie 500 reunion.</p>
-<p>The full tracklisting for the forthcoming album is included and can also be found on this very website.</p>
+There's a short [Dean Wareham interview on Pitchfork](http://web.archive.org/w
+eb/20080706170127/http://www.pitchforkmedia.com/article/news/39777/Dean_Wareha
+m_Talks_Dean_and_Britta_Album_Galaxie_50), mostly about next years new album
+Back Numbers but it also touches on Luna and speculates about a Galaxie 500
+reunion.
+
+The full tracklisting for the forthcoming album is included and can also be
+found on this very website.
+
+

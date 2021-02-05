@@ -17,6 +17,14 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>Britta has just posted on the Dean & Britta MySpace blog plugging the upcoming Words You Used to Say single and she mentioned in passing that the new album will be called Back Numbers and will be released at the end of January 2007.</p>
-<p>As I understand it the "Words You Used to Say" single will only be available through independent record stores - so you'd better hunt down your local indie-emporium if you're wanting a copy...</p>
-<p>Out 17 October</a></p>
+Britta has just posted on the Dean & Britta MySpace blog plugging the upcoming
+Words You Used to Say single and she mentioned in passing that the new album
+will be called Back Numbers and will be released at the end of January 2007.
+
+As I understand it the "Words You Used to Say" single will only be available
+through independent record stores - so you'd better hunt down your local
+indie-emporium if you're wanting a copy...
+
+Out 17 October
+
+

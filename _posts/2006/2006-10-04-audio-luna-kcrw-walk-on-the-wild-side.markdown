@@ -16,5 +16,11 @@ categories:
 - luna
 tags: []
 ---
-<p>Another Luna gem - this one was recorded for KCRW's Morning Becomes Eclectic on 26 October 1995. It's a cover of Lou Reed's Walk on the Wild Side (from his Transformer album). </p>
-<p><a href="http://www.box.net/shared/t4ujn3bon4">Luna - Walk on the Wild Side <em>KCRW</em></a> (192kb/s mp3 - 5.8MB)</p>
+Another Luna gem - this one was recorded for KCRW's Morning Becomes Eclectic
+on 26 October 1995. It's a cover of Lou Reed's Walk on the Wild Side (from his
+Transformer album).
+
+[Luna - Walk on the Wild Side _KCRW_](http://www.box.net/shared/t4ujn3bon4)
+(192kb/s mp3 - 5.8MB)
+
+

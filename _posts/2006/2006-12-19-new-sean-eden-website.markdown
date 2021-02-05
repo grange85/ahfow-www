@@ -17,4 +17,8 @@ categories:
 - after luna
 tags: []
 ---
-<p>I just came across the official <a href="http://seaneden.com">Sean Eden website</a>. I guess it's pretty new (and maybe not even officially launched) but there's a bit of content and a blog with nothing but a test post (but a blog is a good thing!). It's looking good and nice to see things happening...</p>
+I just came across the official [Sean Eden website](https://web.archive.org/web/20061219+/http://seaneden.com). I
+guess it's pretty new (and maybe not even officially launched) but there's a
+bit of content and a blog with nothing but a test post (but a blog is a good
+thing!). It's looking good and nice to see things happening...
+

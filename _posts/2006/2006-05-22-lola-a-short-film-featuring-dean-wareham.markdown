@@ -17,5 +17,14 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>Dean Wareham appears in the short film <a href="http://www.lolafilm.net">Lola</a> - the film is subtitled "a short film about a long night" and was written and directed by Matthew Ross and also stars <a href="http://www.imdb.com/name/nm1785446/">Cordelia Reynolds</a> and <a href="http://www.imdb.com/name/nm0784815/">Daniel Sauli</a>. Britta Phillips makes a voice-only appearance</p>
-<p>You can see a couple of clips on the <a href="http://www.lolafilm.net">website</a> and there's also a <a href="http://www.myspace.com/lolafilm">MySpace page</a></p>
+Dean Wareham appears in the short film [Lola](https://web.archive.org/web/20060522+/http://www.lolafilm.net) \- the
+film is subtitled "a short film about a long night" and was written and
+directed by Matthew Ross and also stars [Cordelia
+Reynolds](http://www.imdb.com/name/nm1785446/) and [Daniel
+Sauli](http://www.imdb.com/name/nm0784815/). Britta Phillips makes a voice-
+only appearance
+
+You can see a couple of clips on the [website](https://web.archive.org/web/20060522+/http://www.lolafilm.net) and
+there's also a [MySpace page](https://web.archive.org/web/20060522+/http://www.myspace.com/lolafilm)
+
+

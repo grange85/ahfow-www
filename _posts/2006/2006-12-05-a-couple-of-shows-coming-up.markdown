@@ -16,5 +16,9 @@ categories:
 - news
 tags: []
 ---
-<p>Dean & Britta have a show at Abrons Art Center in NYC on 16th of December. <ins>You can get tickets from <a href="http://www.ticketweb.com/user/?region=nyc&query=detail&event=703858">Ticketweb for $20</a> plus whatever fees they pop on top of that.</ins></p>
-<p>Damon & Naomi are playing at the AN Club in Athens, Greece on 13th of January.</p>
+Dean & Britta have a show at Abrons Art Center in NYC on 16th of December. You
+can get tickets from Ticketweb for $20 plus
+whatever fees they pop on top of that.
+
+Damon & Naomi are playing at the AN Club in Athens, Greece on 13th of January.
+

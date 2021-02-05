@@ -17,6 +17,16 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>Britta posted to the Galaxie 500 Mailing List with some information about the upcoming shows.</p>
-<blockquote><p>We'll be playing with Sean McCaul on vibes & Matt Johnson on drums for the first Mo Pitkins show on January 9th.  Lara Meyerattken will join us on keys (and various other instruments) along with  Matt Johnson at the 2nd Mo Pitkins on Jan. 23rd & Union Hall on the 25th. Mo Pitkins is a very small sit-down place, so it will be on the quieter side, half electric & half acoustic guitar, probably.</p></blockquote>
-<p>A US tour will start in the first week in March.</p>
+Britta posted to the Galaxie 500 Mailing List with some information about the
+upcoming shows.
+
+> We'll be playing with Sean McCaul on vibes & Matt Johnson on drums for the
+first Mo Pitkins show on January 9th. Lara Meyerattken will join us on keys
+(and various other instruments) along with Matt Johnson at the 2nd Mo Pitkins
+on Jan. 23rd & Union Hall on the 25th. Mo Pitkins is a very small sit-down
+place, so it will be on the quieter side, half electric & half acoustic
+guitar, probably.
+
+A US tour will start in the first week in March.
+
+

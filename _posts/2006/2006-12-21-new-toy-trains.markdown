@@ -17,5 +17,11 @@ categories:
 - dean & britta
 tags: []
 ---
-<p><a href="http://www.sonic-boom.info">Sonic Boom</a> has remixed last years Dean, Britta and Sonic Christmas present <a href="http://www.sonic-boom.info/xmas2006.php">Old Toy Trains</a>. You can get the new remix at his website</p>
-<p><a href="http://www.sonic-boom.info/xmas2006.php">Old Toy Trains (2006 remix) - Dean, Britta and Sonic Boom</a></p>
+[Sonic Boom](https://web.archive.org/web/20061221+/http://www.sonic-boom.info) has remixed last years Dean, Britta
+and Sonic Christmas present [Old Toy Trains](https://web.archive.org/web/20061221+/http://www.sonic-
+boom.info/xmas2006.php). You can get the new remix at his website
+
+[Old Toy Trains (2006 remix) - Dean, Britta and Sonic Boom](https://web.archive.org/web/20061221+/http://www.sonic-
+boom.info/xmas2006.php)
+
+

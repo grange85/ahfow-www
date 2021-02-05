@@ -16,23 +16,30 @@ categories:
 - admin
 tags: []
 ---
-<p>This year's xmas gift to you is a collection of barely seasonal audio and video for your delectation. Admittedly most of it has been available on the site for a while but here they all are together! Enjoy this lot and have a lovely whatever-it-is-you-celebrate...</p>
-<p><strong>Galaxie 500</strong></p>
-<ul>
-<li><a href="http://www.grange85.co.uk/galaxie/index.php?article_id=162">Video: Galaxie 500 - Snowstorm</a></li>
-<li>Audio: Galaxie 500 - Listen, the Snow Is Falling (mp3 / 9.9MB) <span class="boldred">new</span></li>
-</ul>
-<p><strong>Luna</strong></p>
-<ul>
-<li><a href="http://www.grange85.co.uk/galaxie/index.php?article_id=116">Audio: Luna - Egg Nog</a></li>
-<li><a href="http://www.grange85.co.uk/galaxie/index.php?article_id=128">Roll Your Own Luna New Year</a></li>
-</ul>
-<p><strong>Damon & Naomi</strong><br/>I haven't managed to find anything seasonal by Damon & Naomi so here's a song for you...</p>
-<ul>
-<li><a href="http://www.grange85.co.uk/galaxie/index.php?article_id=82">Audio: Damon & Naomi - A Song For You</a></li>
-<li><a href="http://www.grange85.co.uk/galaxie/index.php?article_id=150">Video: Damon & Naomi - A Song For You</a></li>
-</ul>
-<p><strong>Dean & Britta</strong></p>
-<ul>
-<li>Dean, Britta and Sonic Boom - Old Toy Trains (mp3 / 2.9MB)</li>
-</ul>
+This year's xmas gift to you is a collection of barely seasonal audio and
+video for your delectation. Admittedly most of it has been available on the
+site for a while but here they all are together! Enjoy this lot and have a
+lovely whatever-it-is-you-celebrate...
+
+**Galaxie 500**
+
+  * [Video: Galaxie 500 - Snowstorm](http://www.grange85.co.uk/galaxie/index.php?article_id=162)
+  * Audio: Galaxie 500 - Listen, the Snow Is Falling (mp3 / 9.9MB) new
+
+**Luna**
+
+  * [Audio: Luna - Egg Nog](http://www.grange85.co.uk/galaxie/index.php?article_id=116)
+  * [Roll Your Own Luna New Year](http://www.grange85.co.uk/galaxie/index.php?article_id=128)
+
+**Damon & Naomi**  
+I haven't managed to find anything seasonal by Damon & Naomi so here's a song
+for you...
+
+  * [Audio: Damon & Naomi - A Song For You](http://www.grange85.co.uk/galaxie/index.php?article_id=82)
+  * [Video: Damon & Naomi - A Song For You](http://www.grange85.co.uk/galaxie/index.php?article_id=150)
+
+**Dean & Britta**
+
+  * Dean, Britta and Sonic Boom - Old Toy Trains (mp3 / 2.9MB)
+
+
