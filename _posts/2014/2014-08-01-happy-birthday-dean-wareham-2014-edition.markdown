@@ -34,7 +34,7 @@ tags: []
 
 
 
-{% aavid "r2lVXdSsxQ4" "Dean Wareham - Heartless People (WFUV)" %}
+{% ahfowvideo "r2lVXdSsxQ4" "Dean Wareham - Heartless People (WFUV)" %}
 
 
 <figure class="caption aligncenter"><a href="https://www.flickr.com/photos/csgersbeck/4906414595" title="Dean Wareham by Chris Gersbeck, on Flickr"><img src="https://farm5.staticflickr.com/4096/4906414595_1e4b5a01b7_z.jpg" width="640" height="428" alt="Dean Wareham"></a><figcaption class="caption-text">Dean Wareham by Chris Gersbeck, on Flickr</figcaption></figure>

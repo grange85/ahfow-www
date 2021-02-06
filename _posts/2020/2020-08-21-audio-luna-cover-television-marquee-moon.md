@@ -32,7 +32,7 @@ Update: Now with a video...
 
 > During the current pandemic, with Luna members spread around the globe, our former bassist Justin Harwood suggested that we record Television’s epic track “Marquee Moon." We recorded the song one instrument at a time in four different locations; Lee Wall recorded his drum track in Austin, Sean Eden tracked the guitars in San Francisco, Justin played the Fender bass in Auckland, New Zealand, and Dean Wareham sang and added guitar in Los Angeles. Britta Phillips sat this one out but does appear in the video. Justin Harwood mixed the song and assembled the video from iPhone footage made by the band members.
 
-{% aavid "aseX4V4QgFY" "Luna - Marquee Moon (2020)" %}	
+{% ahfowvideo "aseX4V4QgFY" "Luna - Marquee Moon (2020)" %}	
 
 --- 
 

@@ -176,7 +176,7 @@ longpost: true
 
 <div class="col-md-6 pull-right"><blockquote>It's a silly dream I've had, to listen to a concert I attended the night before while on the way to the next concert in a new city.</blockquote></div>
 
-<p>We listened to yesterday's Luna concert in the car on our way to Austin from Dallas. It's a silly dream I've had, to listen to a concert in the car I attended the night before while being on the way to the next concert in a new city. With Mike, that is possible. {% track "23 Minutes in Brussels" %} was playing loud in the car. I looked out the window from the passenger's seat in the front, we were passing a big white van. Behind the steering wheel was Dean.</p>
+<p>We listened to yesterday's Luna concert in the car on our way to Austin from Dallas. It's a silly dream I've had, to listen to a concert in the car I attended the night before while being on the way to the next concert in a new city. With Mike, that is possible. {% ahfowtrack "23 Minutes in Brussels" %} was playing loud in the car. I looked out the window from the passenger's seat in the front, we were passing a big white van. Behind the steering wheel was Dean.</p>
 
 <p>Suddenly our black General Motors started to rumble and behave strangely, like we had a flat tyre. Mike pulled to the side, and the white van was gone in the Texas morning. There was nothing seriously wrong with our car and finally the majestic sand coloured buildings of Austin smiled at us and said hello.</p>
 
@@ -200,7 +200,7 @@ longpost: true
 
 <p>We talked for a long time about music from San Antonio and Austin. And we met another nice woman, she was seeing Luna for the first time since they quit eleven years ago. She was excited to say the least. We all knew how she felt.</p>
 
-<p>Ilene asked what songs we really wanted to hear. "Realistically or not?" I asked. I like hearing songs I haven't heard live before, especially new songs. But far from always, rare or new songs turn out the be the best of the night. {% track "Lovedust" %}, {% track "Broken Chair" %}, {% track "I Want Everything" %}. There are so many gems they aren't playing. We all agreed on that {% track "Malibu Love Nest" %} is fantastic. Conversations like this usually end that way.</p>
+<p>Ilene asked what songs we really wanted to hear. "Realistically or not?" I asked. I like hearing songs I haven't heard live before, especially new songs. But far from always, rare or new songs turn out the be the best of the night. {% ahfowtrack "Lovedust" %}, {% ahfowtrack "Broken Chair" %}, {% ahfowtrack "I Want Everything" %}. There are so many gems they aren't playing. We all agreed on that {% ahfowtrack "Malibu Love Nest" %} is fantastic. Conversations like this usually end that way.</p>
 
 <div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/05-l1030047-britta-kramer-terry-dean.jpg" alt="Kramer and Terry backstage (Photo: Joakim)" /><figcaption class="caption-text">Kramer and Terry backstage (Photo: Joakim)</figcaption></figure></div>
 

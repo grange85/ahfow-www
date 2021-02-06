@@ -32,4 +32,4 @@ The screening, as part of PHOTO 2021's launch weekend, will be on 21st February 
 
 [Screening: 13 Most Beautiful Songs for Andy Warhol Screen Tests](https://photo.org.au/events/13-most-beautiful-songs-for-andy-warhol-screen-tests)
 
-{% aavid "Fl9ZRLtE54s" "13 Most Beautiful trailer" %}
+{% ahfowvideo "Fl9ZRLtE54s" "13 Most Beautiful trailer" %}

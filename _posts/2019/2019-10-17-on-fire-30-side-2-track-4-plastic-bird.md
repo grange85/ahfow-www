@@ -23,7 +23,7 @@ I managed to be away from a computer on the 30th anniversary of On Fire - which 
   <p class="source small text-right"><em>Source: <a href="/database/galaxie-500/shows/1989/1989-11-15-galaxie-500-burgerweehuis-deventer-netherlands/">15th November 1989 - Galaxie 500 - Burgerweehuis, Deventer, Netherlands</a></em></p>
 </div>
 
-{% aavid "_pzU0JNYJt8" "Dean Wareham - Plastic Bird (Liquid Room, Tokyo, 2011)" %}
+{% ahfowvideo "_pzU0JNYJt8" "Dean Wareham - Plastic Bird (Liquid Room, Tokyo, 2011)" %}
 
 
 

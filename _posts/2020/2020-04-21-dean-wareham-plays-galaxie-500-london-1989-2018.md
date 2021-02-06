@@ -54,9 +54,9 @@ _Tracklist_
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/14253120261/in/album-72157644819665224/" title="Dean Wareham"><img src="https://live.staticflickr.com/3833/14253120261_842be0f092_c.jpg" width="800" height="536" alt="Dean Wareham"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-{% aavid "wTLO4U0VJlM" "Dean Wareham - Fourth of July (London 2014)" %}
+{% ahfowvideo "wTLO4U0VJlM" "Dean Wareham - Fourth of July (London 2014)" %}
 
-{% aavid "MkIZzRJmdlc" "Luna - Flowers (London 2018)" %}
+{% ahfowvideo "MkIZzRJmdlc" "Luna - Flowers (London 2018)" %}
 
-{% aavid "ozeRVpP4T0Q" "Galaxie 500 at The Subterania (full show - 1990)" %}
+{% ahfowvideo "ozeRVpP4T0Q" "Galaxie 500 at The Subterania (full show - 1990)" %}
 

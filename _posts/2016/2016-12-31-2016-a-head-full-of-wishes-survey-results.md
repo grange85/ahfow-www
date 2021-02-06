@@ -36,11 +36,11 @@ longpost: true
 <table>
 <table class="table table-striped">
 <tr><th>Favourite Galaxie 500 track</th>	<th>Votes</th>	<th>%</th></tr>
-<tr class="success"><td>{% track "Tugboat" %}</td>	<td>27</td>	<td>12.4</td></tr>
-<tr><td>{% track "Fourth of July" %}</td>	<td>25</td>	<td>11.5</td></tr>
-<tr><td>{% track "Blue Thunder" %}</td>	<td>21</td>	<td>9.7</td></tr>
-<tr><td>{% track "Ceremony" %}</td>	<td>15</td>	<td>6.9</td></tr>
-<tr><td>{% track "Snowstorm" %}</td>	<td>15</td>	<td>6.9</td></tr>
+<tr class="success"><td>{% ahfowtrack "Tugboat" %}</td>	<td>27</td>	<td>12.4</td></tr>
+<tr><td>{% ahfowtrack "Fourth of July" %}</td>	<td>25</td>	<td>11.5</td></tr>
+<tr><td>{% ahfowtrack "Blue Thunder" %}</td>	<td>21</td>	<td>9.7</td></tr>
+<tr><td>{% ahfowtrack "Ceremony" %}</td>	<td>15</td>	<td>6.9</td></tr>
+<tr><td>{% ahfowtrack "Snowstorm" %}</td>	<td>15</td>	<td>6.9</td></tr>
 </table>
 
 <h2>Luna</h2>
@@ -61,11 +61,11 @@ longpost: true
 
 <table class="table table-striped">
 <tr><th>Favourite Luna track</th>	<th>Votes</th>	<th>%</th></tr>
-<tr class="success"><td>{% track "23 Minutes in Brussels" %}</td>	<td>27</td>	<td>9.6</td></tr>
-<tr><td>{% track "Tiger Lily" %}</td>	<td>19</td>	<td>6.7</td></tr>
+<tr class="success"><td>{% ahfowtrack "23 Minutes in Brussels" %}</td>	<td>27</td>	<td>9.6</td></tr>
+<tr><td>{% ahfowtrack "Tiger Lily" %}</td>	<td>19</td>	<td>6.7</td></tr>
 <tr><td>California (All the Way)</td>	<td>18</td>	<td>6.4</td></tr>
-<tr><td>{% track "Friendly Advice" %}</td>	<td>18</td>	<td>6.4</td></tr>
-<tr><td>{% track "Malibu Love Nest" %}</td>	<td>14</td>	<td>5</td></tr>
+<tr><td>{% ahfowtrack "Friendly Advice" %}</td>	<td>18</td>	<td>6.4</td></tr>
+<tr><td>{% ahfowtrack "Malibu Love Nest" %}</td>	<td>14</td>	<td>5</td></tr>
 </table>
 
 <h2>Damon & Naomi</h2>
@@ -87,14 +87,14 @@ longpost: true
 
 <table class="table table-striped">
 <tr><th>Favourite Damon & Naomi track</th>	<th>Votes</th>	<th>%</th></tr>
-<tr class="success"><td>{% track "This Car Climbed Mt. Washington" %}</td>	<td>13</td>	<td>13.7</td></tr>
-<tr><td>{% track "E.T.A." %}</td>	<td>5</td>	<td>5.3</td></tr>
-<tr><td>{% track "Judah and The Maccabees" %}</td>	<td>5</td>	<td>5.3</td></tr>
-<tr><td>{% track "Laika" %}</td>	<td>5</td>	<td>5.3</td></tr>
-<tr><td>{% track "Beautiful Close Double" %}</td>	<td>4</td>	<td>4.2</td></tr>
-<tr><td>{% track "Information Age" %}</td>	<td>4</td>	<td>4.2</td></tr>
-<tr><td>{% track "Song to The Siren" %}</td>	<td>4</td>	<td>4.2</td></tr>
-<tr><td>{% track "The Mirror Phase" %}</td>	<td>4</td>	<td>4.2</td></tr>
+<tr class="success"><td>{% ahfowtrack "This Car Climbed Mt. Washington" %}</td>	<td>13</td>	<td>13.7</td></tr>
+<tr><td>{% ahfowtrack "E.T.A." %}</td>	<td>5</td>	<td>5.3</td></tr>
+<tr><td>{% ahfowtrack "Judah and The Maccabees" %}</td>	<td>5</td>	<td>5.3</td></tr>
+<tr><td>{% ahfowtrack "Laika" %}</td>	<td>5</td>	<td>5.3</td></tr>
+<tr><td>{% ahfowtrack "Beautiful Close Double" %}</td>	<td>4</td>	<td>4.2</td></tr>
+<tr><td>{% ahfowtrack "Information Age" %}</td>	<td>4</td>	<td>4.2</td></tr>
+<tr><td>{% ahfowtrack "Song to The Siren" %}</td>	<td>4</td>	<td>4.2</td></tr>
+<tr><td>{% ahfowtrack "The Mirror Phase" %}</td>	<td>4</td>	<td>4.2</td></tr>
 </table>
 
 <h2>Dean & Britta</h2>
@@ -111,11 +111,11 @@ longpost: true
 
 <table class="table table-striped">
 <tr><th>Favourite Dean & Britta track</th>	<th>Votes</th>	<th>%</th></tr>
-<tr class="success"><td>{% track "Night Nurse" %}</td>	<td>23</td>	<td>14.9</td></tr>
+<tr class="success"><td>{% ahfowtrack "Night Nurse" %}</td>	<td>23</td>	<td>14.9</td></tr>
 <tr><td>I'll Keep It With Mine</td>	<td>15</td>	<td>9.7</td></tr>
-<tr><td>{% track "Knives From Bavaria" %}</td>	<td>15</td>	<td>9.7</td></tr>
-<tr><td>{% track "Not A Young Man Anymore" %}</td>	<td>12</td>	<td>7.8</td></tr>
-<tr><td>{% track "Words You Used To Say" %}</td>	<td>11</td>	<td>7.1</td></tr>
+<tr><td>{% ahfowtrack "Knives From Bavaria" %}</td>	<td>15</td>	<td>9.7</td></tr>
+<tr><td>{% ahfowtrack "Not A Young Man Anymore" %}</td>	<td>12</td>	<td>7.8</td></tr>
+<tr><td>{% ahfowtrack "Words You Used To Say" %}</td>	<td>11</td>	<td>7.1</td></tr>
 </table>
 
 <h2>Dean Wareham</h2>
@@ -128,11 +128,11 @@ longpost: true
 
 <table class="table table-striped">
 <tr><th>Favourite Dean Wareham track</th>	<th>Votes</th>	<th>%</th></tr>
-<tr class="success"><td>{% track "Love Is Colder Than Death" %}</td>	<td>22</td>	<td>15.5</td></tr>
-<tr><td>{% track "Holding Pattern" %}</td>	<td>21</td>	<td>14.8</td></tr>
-<tr><td>{% track "The Dancer Disappears" %}</td>	<td>17</td>	<td>12</td></tr>
-<tr><td>{% track "Emancipated Hearts" %}</td>	<td>12</td>	<td>8.5</td></tr>
-<tr><td>{% track "Heartless People" %}</td>	<td>11</td>	<td>7.7</td></tr>
+<tr class="success"><td>{% ahfowtrack "Love Is Colder Than Death" %}</td>	<td>22</td>	<td>15.5</td></tr>
+<tr><td>{% ahfowtrack "Holding Pattern" %}</td>	<td>21</td>	<td>14.8</td></tr>
+<tr><td>{% ahfowtrack "The Dancer Disappears" %}</td>	<td>17</td>	<td>12</td></tr>
+<tr><td>{% ahfowtrack "Emancipated Hearts" %}</td>	<td>12</td>	<td>8.5</td></tr>
+<tr><td>{% ahfowtrack "Heartless People" %}</td>	<td>11</td>	<td>7.7</td></tr>
 </table>
 
 <h2>Britta Phillips</h2>
@@ -140,11 +140,11 @@ longpost: true
 
 <table class="table table-striped">
 <tr><th>Favourite Britta Phillips track</th>	<th>Votes</th>	<th>%</th></tr>
-<tr class="success"><td>{% track "Drive" %}</td>	<td>18</td>	<td>15.5</td></tr>
-<tr><td>{% track "Daydream" %}</td>	<td>17</td>	<td>14.7</td></tr>
-<tr><td>{% track "One Fine Summer Morning" %}</td>	<td>17</td>	<td>14.7</td></tr>
-<tr><td>{% track "Wrap Your Arms Around Me" %}</td>	<td>12</td>	<td>10.3</td></tr>
-<tr><td>{% track "Luck Or Magic" %}</td>	<td>11</td>	<td>9.5</td></tr>
+<tr class="success"><td>{% ahfowtrack "Drive" %}</td>	<td>18</td>	<td>15.5</td></tr>
+<tr><td>{% ahfowtrack "Daydream" %}</td>	<td>17</td>	<td>14.7</td></tr>
+<tr><td>{% ahfowtrack "One Fine Summer Morning" %}</td>	<td>17</td>	<td>14.7</td></tr>
+<tr><td>{% ahfowtrack "Wrap Your Arms Around Me" %}</td>	<td>12</td>	<td>10.3</td></tr>
+<tr><td>{% ahfowtrack "Luck Or Magic" %}</td>	<td>11</td>	<td>9.5</td></tr>
 </table>
 
 <h2>Until next year...</h2>

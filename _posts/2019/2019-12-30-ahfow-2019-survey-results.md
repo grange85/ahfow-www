@@ -24,7 +24,7 @@ You can see the [summary results](https://datastudio.google.com/reporting/fafd54
 
 ## Galaxie 500
 
-Unsurprisingly I guess in the wake of its 30th anniversary On Fire topped the album poll more emphatically than ever. In the votes for favourite track {% track "Fourth of July" %} just edged out {% track "Tugboat" %} and {% track "Strange" %} consolidated its recent strength in third place. Interesting that neither of the top two tracks are from the album that wins so resoundingly - I guess that shows the strength in depth Galaxie 500's catalogue has!
+Unsurprisingly I guess in the wake of its 30th anniversary On Fire topped the album poll more emphatically than ever. In the votes for favourite track {% ahfowtrack "Fourth of July" %} just edged out {% ahfowtrack "Tugboat" %} and {% ahfowtrack "Strange" %} consolidated its recent strength in third place. Interesting that neither of the top two tracks are from the album that wins so resoundingly - I guess that shows the strength in depth Galaxie 500's catalogue has!
 
 <figure><img src="{{site.baseurl}}/images/survey-2019/survey-2019-galaxie-500.png" class="img-responsive" /><figcaption>Galaxie 500 survey results 2019</figcaption></figure>
 
@@ -35,7 +35,7 @@ Unsurprisingly I guess in the wake of its 30th anniversary On Fire topped the al
 
 ## Luna
 
-Luna's first three albums take the vast majority of the votes again with Penthouse, as ever, winning out. {% track "23 Minutes in Brussels" %} is top track, as it pretty much always has been in recent years!
+Luna's first three albums take the vast majority of the votes again with Penthouse, as ever, winning out. {% ahfowtrack "23 Minutes in Brussels" %} is top track, as it pretty much always has been in recent years!
 
 <figure><img src="{{site.baseurl}}/images/survey-2019/survey-2019-luna.png" class="img-responsive" /><figcaption>Luna survey results 2019</figcaption></figure>
 
@@ -45,7 +45,7 @@ Luna's first three albums take the vast majority of the votes again with Penthou
 
 ## Damon & Naomi
 
-More Sad Hits topped the album poll as always - this year leaving the rest of the pack quite far behind. {% track "This Car Climbed Mt. Washington" %} topped the track poll, as it always does - with {% track "E.T.A." %} pushing up behind.
+More Sad Hits topped the album poll as always - this year leaving the rest of the pack quite far behind. {% ahfowtrack "This Car Climbed Mt. Washington" %} topped the track poll, as it always does - with {% ahfowtrack "E.T.A." %} pushing up behind.
 
 <figure><img src="{{site.baseurl}}/images/survey-2019/survey-2019-damon-naomi.png" class="img-responsive" /><figcaption>Damon & Naomi survey results 2019</figcaption></figure>
 

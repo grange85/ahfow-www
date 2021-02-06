@@ -27,8 +27,8 @@ I hadn't seen these two clips and they're lovely - great to see the projections 
 
 Sadly Cheval Sombre's decision to sit down and play means we don't see too much of him.  
 
-{% aavid "voaRwlLks0k" "Dean Wareham vs Cheval Sombre - My Rifle, My Pony and Me (January 2019)" %}
+{% ahfowvideo "voaRwlLks0k" "Dean Wareham vs Cheval Sombre - My Rifle, My Pony and Me (January 2019)" %}
 
-{% aavid "Hz5QxUAIRfc" "Dean Wareham vs Cheval Sombre - Wayfaring Stranger (January 2019)" %}
+{% ahfowvideo "Hz5QxUAIRfc" "Dean Wareham vs Cheval Sombre - Wayfaring Stranger (January 2019)" %}
 
 * _I was once sitting in the front row at a Cheval Sombre gig and [didn't see much](https://flic.kr/p/dvtyr4)!_

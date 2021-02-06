@@ -34,18 +34,18 @@ The track was later re-recorded, when Pierre &Eacute;toile had decided to become
 
 Next up a couple of videos of sumemry tunes - first Galaxie 500 live at The Kennel Club in 1990...
 
-{% aavid "Zqjnf6sJoTo" "Galaxie 500 - Summertime"%}
+{% ahfowvideo "Zqjnf6sJoTo" "Galaxie 500 - Summertime"%}
 
 
 ... and Dean & Britta performing a Take Away Show...
 
-{% aavid "kWVtrqXZlFk" "Dean & Britta - The Sun is Still Sunny"%}
+{% ahfowvideo "kWVtrqXZlFk" "Dean & Britta - The Sun is Still Sunny"%}
 
 **Update (24th June 2020)**
 
 Guess I'll throw in a couple more while I'm fixing broken links
 
-{% aavid "mrOpkUxhntE" "Britta Phillips - One Fine Summer Morning" %}
+{% ahfowvideo "mrOpkUxhntE" "Britta Phillips - One Fine Summer Morning" %}
 
 <div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/luna-sucking-ice-cubes.mp3">Luna - Sucking Ice Cubes</a></p>

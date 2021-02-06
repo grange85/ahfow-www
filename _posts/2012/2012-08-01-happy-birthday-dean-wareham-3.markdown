@@ -29,7 +29,7 @@ tags: []
 <li><strong>Video:</strong> <a href="/2012/05/07/video-dean-wareham-in-psycho-babble/">Dean Wareham in Psycho Babble by Matthew Buzzell</a></li>
 </ul>
 
-{% aavid "MXki8W6mlcI" "Dean Wareham plays Moon Palace in a minute for MTV" %}
+{% ahfowvideo "MXki8W6mlcI" "Dean Wareham plays Moon Palace in a minute for MTV" %}
 
 <p>Previously on AHFoW:</p>
 <ul>

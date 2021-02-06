@@ -26,30 +26,30 @@ Here's a quick collection of videos from Luna's current US tour.
 
 ### Paradise, Boston - 1st October
 
-{% aavid "RfWWJ07kGII" "Luna - Double Feature (Paradise, Boston)" %}
+{% ahfowvideo "RfWWJ07kGII" "Luna - Double Feature (Paradise, Boston)" %}
 
 ### Odeum, East Greenwich - 2nd October
 
-{% aavid "PwSjnBuDOSI" "Luna - I Want Everything (Odeum, East Greenwich)" %}
+{% ahfowvideo "PwSjnBuDOSI" "Luna - I Want Everything (Odeum, East Greenwich)" %}
 
 ### Space Ballroom, Hamden - 3rd October
 
-{% aavid "OmidlA1Q-yI" "Luna - Season of The Witch (Space Ballroom, Hamden)" %}
+{% ahfowvideo "OmidlA1Q-yI" "Luna - Season of The Witch (Space Ballroom, Hamden)" %}
 
 ### Union Transfer, Philadelphia - 4th October
 
-{% aavid "NUiUc2Bp5bY" "Luna - Most of the Time (Union Transfer, Philadelphia)" %}
+{% ahfowvideo "NUiUc2Bp5bY" "Luna - Most of the Time (Union Transfer, Philadelphia)" %}
 
 ### 9:30 Club, Washington DC - 5th October
 
-{% aavid "MyAZFnLCBsY" "Luna - Bonnie and Clyde (9:30 Club, Washington DC)" %}
+{% ahfowvideo "MyAZFnLCBsY" "Luna - Bonnie and Clyde (9:30 Club, Washington DC)" %}
 
 ### Cat's Cradle, Carrboro - 7th October
 
-{% aavid "BL0xxdZtVlw" "Luna - Tracy I Love You (Cat's Cradle, Carrboro)" %}
+{% ahfowvideo "BL0xxdZtVlw" "Luna - Tracy I Love You (Cat's Cradle, Carrboro)" %}
 
 ### Paste, Atlanta (live stream) - 9th October
 
-{% aavid "quQTcxnfPio" "Luna - Paste live (Atlanta)" %}
+{% ahfowvideo "quQTcxnfPio" "Luna - Paste live (Atlanta)" %}
  
 _to be continued_

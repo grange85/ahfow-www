@@ -59,13 +59,13 @@ Damon sat himself behind a wooden chair, a plastic bucket, and a chrome-effect p
 
 After <em>Inside the Future</em> Richard finished his set a capella with quizzing accompaniment from his son and vocal drone accompaniment from the audience.
 
-Damon & Naomi took to the stage played a short <em>prologue</em> set of oldies, opening with {% track "Judah and the Maccabees" %}, and including {% track "Turn Of The Century" %}, {% track "Lilac Land" %}, {% track "How Do I Say Goodbye" %}, {% track "Helsinki" %} - and sprinkled with Damon filling in the audience with the grizzly details of their London adventure.
+Damon & Naomi took to the stage played a short <em>prologue</em> set of oldies, opening with {% ahfowtrack "Judah and the Maccabees" %}, and including {% ahfowtrack "Turn Of The Century" %}, {% ahfowtrack "Lilac Land" %}, {% ahfowtrack "How Do I Say Goodbye" %}, {% ahfowtrack "Helsinki" %} - and sprinkled with Damon filling in the audience with the grizzly details of their London adventure.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26603301415/in/photostream/" title="berlin-2016-04-22-170"><img src="https://farm2.staticflickr.com/1609/26603301415_fdac576ee0_b.jpg" width="1024" height="768" alt="berlin-2016-04-22-170"></a>
 
-Then they played through Fortune - it was my third screening of Fortune and the film is still beautiful (and baffling) and the songs are gorgeous - the album stands beautifully on its own and {% track "The North Light" %} is right up there with my favourite Damon & Naomi songs.
+Then they played through Fortune - it was my third screening of Fortune and the film is still beautiful (and baffling) and the songs are gorgeous - the album stands beautifully on its own and {% ahfowtrack "The North Light" %} is right up there with my favourite Damon & Naomi songs.
 
-We were then treated to an <em>epilogue</em> of covers - firstly a blissful {% track "Listen, the Snow Is Falling" %} and closing out the set with a divine cover of Sandy Denny's {% track "No More Sad Refrains" %}.
+We were then treated to an <em>epilogue</em> of covers - firstly a blissful {% ahfowtrack "Listen, the Snow Is Falling" %} and closing out the set with a divine cover of Sandy Denny's {% ahfowtrack "No More Sad Refrains" %}.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26597556286" title="3ca0141f-3ba5-4e9b-92fe-5fdd91f996b5"><img src="https://farm2.staticflickr.com/1528/26597556286_caf584ac19_b.jpg" width="1024" height="768" alt="3ca0141f-3ba5-4e9b-92fe-5fdd91f996b5"></a>
 

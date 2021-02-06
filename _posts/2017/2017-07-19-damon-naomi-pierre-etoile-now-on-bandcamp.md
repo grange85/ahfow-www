@@ -21,7 +21,7 @@ tags:
 ---
 <p class="lead">Damon & Naomi's first release after Galaxie 500 split up was the lovely Pierre Etoile which is <a href="https://damonandnaomi.bandcamp.com/album/pierre-etoile-ep">now available from their Bandcamp page</a> for whatever you want to pay.</p>
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile.jpg" alt="Pierre Etoile" /><figcaption class="caption-text">Pierre Etoile</figcaption></figure>
-<p>The beautiful three track EP was recorded before Galaxie 500 split up and includes a brilliant earl version of {% track "This Car Climbed Mt. Washington" %} and {% track "In The Sun" %} with Damon on vocals, a new version appeared on Playback Singers a few years later with Naomi singing. The third track is the brilliant, yet otherwise unreleased, {% track "Nineteen Sixty-Nine" %}</p>
+<p>The beautiful three track EP was recorded before Galaxie 500 split up and includes a brilliant earl version of {% ahfowtrack "This Car Climbed Mt. Washington" %} and {% ahfowtrack "In The Sun" %} with Damon on vocals, a new version appeared on Playback Singers a few years later with Naomi singing. The third track is the brilliant, yet otherwise unreleased, {% ahfowtrack "Nineteen Sixty-Nine" %}</p>
 <p>The EP was released on Rough Trade around the time that Galaxie 500's split was announced so the press was accompanied by those heartbreaking stories.</p>
 
 <blockquote><p>This is where the plot really thickens&hellip;Returning from a European tour last December, tentative plans were made to record an EP to sound out ideas for the next album, and do it in a different studio with a different producer [&hellip;] Dean had other ideas.</p>

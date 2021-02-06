@@ -32,7 +32,7 @@ longpost: true
 <!--more-->
 <p>Managed to be found by both Franck and Michael before Luna started but it was too crowded to track down any of the folk I hadn't previously met but said they were going to be there.</p>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/30071731530/in/album-72157673973784671/" title="Luna ~ Petit Bain, Paris"><img src="https://c3.staticflickr.com/9/8413/30071731530_1a4d3d499c_c.jpg" width="800" height="600" alt="Luna ~ Petit Bain, Paris"></a>
-<p>Another splendid Penthouse set was followed by a couple of sizeable encores including Sean doing {% track "Still at Home" %}, plus {% track "Malibu Love Nest" %}, {% track "Bewitched" %}, {% track "Tiger Lily" %}, {% track "Ceremony" %} and {% track "Indian Summer" %}</p>
+<p>Another splendid Penthouse set was followed by a couple of sizeable encores including Sean doing {% ahfowtrack "Still at Home" %}, plus {% ahfowtrack "Malibu Love Nest" %}, {% ahfowtrack "Bewitched" %}, {% ahfowtrack "Tiger Lily" %}, {% ahfowtrack "Ceremony" %} and {% ahfowtrack "Indian Summer" %}</p>
 
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/-znIzwg9BZ4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Bewitched, Petit Bain</figcaption></figure>
 

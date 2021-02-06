@@ -22,5 +22,5 @@ tags:
 
 <p>The video was made by Britta and originally shared as part of the band's Pledgemusic campaign for A Sentimental Education, but I've taken it upon myself to let it out of Pledgemusic gaol as it's a shame for it not to reach a wider audience... hopefully the band won't mind!</p>
 
-{% aavid "ddjl5kZ1jl4" "Luna - Friendly Advice (rehearsal with Justn Harwood, 2015)" %}
+{% ahfowvideo "ddjl5kZ1jl4" "Luna - Friendly Advice (rehearsal with Justn Harwood, 2015)" %}
 

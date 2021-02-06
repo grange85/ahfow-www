@@ -24,6 +24,6 @@ tags:
 
 <p>The video was made by Judith Berndsen & Grayson Kent, with Britta Phillips.</p>
 
-{% aavid "lVpAxR0pHbI" "Mountains of the Moon by Dean Wareham" %}
+{% ahfowvideo "lVpAxR0pHbI" "Mountains of the Moon by Dean Wareham" %}
 
 {%ahfowimage "/images/dean-wareham-mountains-of-the-moon-video-1.png" "Dean Wareham - Mountains of the Moon starring Judith Berndsen & Grayson Kent" %}

@@ -14,26 +14,26 @@
 #  0. You just DO WHAT THE FUCK YOU WANT TO.
 # 
 # 
-# AHFoW liquid aavid
+# AHFoW liquid ahfowvideo
 #
 # Example:
-#    {% aavid video-url video-caption %}
+#    {% ahfowvideo "video-url" "video-caption" %}
 
 module Jekyll
-  class AaVidTag < Liquid::Tag
+  class AhfowVideoTag < Liquid::Tag
 
     def render(context)
       if tag_contents = determine_arguments(@markup.strip)
-        aavid_url, aavid_caption = tag_contents[0], tag_contents[1]
-        aavid_tag(aavid_url, aavid_caption)
+        ahfowvideo_url, ahfowvideo_caption = tag_contents[0], tag_contents[1]
+        ahfowvideo_tag(ahfowvideo_url, ahfowvideo_caption)
       else
         raise ArgumentError.new <<-eos
-Syntax error in tag 'aavid' while parsing the following markup:
+Syntax error in tag 'ahfowvideo' while parsing the following markup:
 
   #{@markup}
 
 Valid syntax:
-{% aavid video-url video-caption %}
+{% ahfowvideo video-url video-caption %}
 eos
       end
     end
@@ -45,14 +45,14 @@ eos
       [matched[1].to_s.strip, matched[2].to_s.strip] if matched && matched.length >= 3
     end
 
-    def aavid_tag(aavid_url, aavid_caption = nil)
-      if aavid_caption.empty?
-        "<figure class=\"caption aligncenter\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/#{aavid_url}\" frameborder=\"0\" allowfullscreen></iframe></figure>"
+    def ahfowvideo_tag(ahfowvideo_url, ahfowvideo_caption = nil)
+      if ahfowvideo_caption.empty?
+        "<figure class=\"caption aligncenter\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/#{ahfowvideo_url}\" frameborder=\"0\" allowfullscreen></iframe></figure>"
       else
-        "<figure class=\"caption aligncenter\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/#{aavid_url}\" frameborder=\"0\" allowfullscreen></iframe><figcaption class=\"caption-text\">#{aavid_caption}</figcaption></figure>"
+        "<figure class=\"caption aligncenter\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/#{ahfowvideo_url}\" frameborder=\"0\" allowfullscreen></iframe><figcaption class=\"caption-text\">#{ahfowvideo_caption}</figcaption></figure>"
       end
     end
   end
 end
 
-Liquid::Template.register_tag('aavid', Jekyll::AaVidTag)
+Liquid::Template.register_tag('ahfowvideo', Jekyll::AhfowVideoTag)

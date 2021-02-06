@@ -32,7 +32,7 @@ Anyway... on to this year's results.
 
 As always On Fire topped the poll, This Is Our Music rallied to tie with Today for second place, perhaps in the wake of people revisiting it on it's 30th anniversary.
 
-{% track "Fourth of July" %} topped the tracks with {% track "Blue Thunder" %} and {% track "Ceremony" %} following in its wake.
+{% ahfowtrack "Fourth of July" %} topped the tracks with {% ahfowtrack "Blue Thunder" %} and {% ahfowtrack "Ceremony" %} following in its wake.
 
 <figure><img src="{{site.baseurl}}/images/survey-2020/survey-2020-galaxie-500.png" class="img-responsive" /><figcaption>Galaxie 500 survey results 2020</figcaption></figure>
 
@@ -43,7 +43,7 @@ As always On Fire topped the poll, This Is Our Music rallied to tie with Today f
 
 ## Luna
 
-Luna's first three albums take the vast majority of the votes again with Penthouse, as ever, winning out. {% track "23 Minutes in Brussels" %} is top track, as it pretty much always has been in recent years!
+Luna's first three albums take the vast majority of the votes again with Penthouse, as ever, winning out. {% ahfowtrack "23 Minutes in Brussels" %} is top track, as it pretty much always has been in recent years!
 
 <figure><img src="{{site.baseurl}}/images/survey-2020/survey-2020-luna.png" class="img-responsive" /><figcaption>Luna survey results 2020</figcaption></figure>
 
@@ -53,7 +53,7 @@ Luna's first three albums take the vast majority of the votes again with Penthou
 
 ## Damon & Naomi
 
-More Sad Hits topped the album poll as always - this year leaving the rest of the pack quite far behind. {% track "This Car Climbed Mt. Washington" %} topped the track poll, as it always does - with {% track "E.T.A." %} pushing up behind.
+More Sad Hits topped the album poll as always - this year leaving the rest of the pack quite far behind. {% ahfowtrack "This Car Climbed Mt. Washington" %} topped the track poll, as it always does - with {% ahfowtrack "E.T.A." %} pushing up behind.
 
 <figure><img src="{{site.baseurl}}/images/survey-2020/survey-2020-damon-and-naomi.png" class="img-responsive" /><figcaption>Damon & Naomi survey results 2020</figcaption></figure>
 

@@ -17,23 +17,23 @@
 # AHFoW liquid ahfowimage
 #
 # Example:
-#    {% ahfowimage image-url image-caption %}
+#    {% ahfowtrack "Track name" %}
 
 module Jekyll
   class AhfowTrack < Liquid::Tag
 
     def render(context)
       if tag_contents = determine_arguments(@markup.strip)
-        track = tag_contents[1]
-        track_tag(track)
+        ahfowtrack = tag_contents[1]
+        ahfowtrack_tag(ahfowtrack)
       else
         raise ArgumentError.new <<-eos
-Syntax error in tag 'track' while parsing the following markup:
+Syntax error in tag 'ahfowtrack' while parsing the following markup:
 
   #{@markup}
 
 Valid syntax:
-  {% track "Track name" %}
+  {% ahfowtrack "Track name" %}
 eos
       end
     end
@@ -44,7 +44,7 @@ eos
       matched = input.match(/\"(.*?)\"/)
     end
 
-    def track_tag(trackname)
+    def ahfowtrack_tag(trackname)
         slugged = trackname.gsub('&apos;', '\'')
         slugged = slugged.gsub('&amp;', '&')
         slugged = Utils.slugify(slugged)
@@ -53,4 +53,4 @@ eos
   end
 end
 
-Liquid::Template.register_tag('track', Jekyll::AhfowTrack)
+Liquid::Template.register_tag('ahfowtrack', Jekyll::AhfowTrack)

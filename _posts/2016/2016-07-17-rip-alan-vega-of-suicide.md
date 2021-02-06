@@ -31,7 +31,7 @@ description: >
 
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/K6Vrf-CjnLo" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Suicide 197?</figcaption></figure>
 
-<p>Here's LUNA's cover of Suicide's {% track "Dream Baby Dream" %} for <a href="/database/luna/releases/luna-your-invitation-to-suicide/">(enclosed please find) Your Invitation to Suicide</a></p>
+<p>Here's LUNA's cover of Suicide's {% ahfowtrack "Dream Baby Dream" %} for <a href="/database/luna/releases/luna-your-invitation-to-suicide/">(enclosed please find) Your Invitation to Suicide</a></p>
 {% bandcamp {"track": "3080784553"} %}
 
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/Ug55Cs2xxZM" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Fuxa featuring Dean Wareham - Cheree (Rev/Vega)</figcaption></figure>

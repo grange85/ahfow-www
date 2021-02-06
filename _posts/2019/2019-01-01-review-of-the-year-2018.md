@@ -27,11 +27,11 @@ OK quickly throwing this together - plenty happened this year so check the rest 
 ### January
 January saw Luna playing a few dates in the US before going quiet for a few months - here they are playing Tiger Lily in Pioneertown in a desert in California:
 
-{% aavid "bYgBln-6uKE" "Tiger Lily - Pappy and Harriet's, Pioneertown (Jan 2018)" %}
+{% ahfowvideo "bYgBln-6uKE" "Tiger Lily - Pappy and Harriet's, Pioneertown (Jan 2018)" %}
 
 Meanwhile Damon & Naomi started preparing for a European tour with Thalia Zedek by releasing a video of the three of them covering Leonard Cohen:
 
-{% aavid "YM37nOEZh5k" "Damon, Naomi and Thalia Zedek - Dance Me To The End of Love" %}
+{% ahfowvideo "YM37nOEZh5k" "Damon, Naomi and Thalia Zedek - Dance Me To The End of Love" %}
 
 
 I got [interviewed about the website](/2018/01/07/its-psychedelic-baby-interview-with-ahfow/) and being a fan, for online magazine It's Psychedlic Baby:
@@ -41,7 +41,7 @@ I got [interviewed about the website](/2018/01/07/its-psychedelic-baby-interview
 
 Luna also recorded a session for KEXP:
 
-{% aavid "2gx_qoTJXGk" "Luna (KEXP, Jan 2018)" %}
+{% ahfowvideo "2gx_qoTJXGk" "Luna (KEXP, Jan 2018)" %}
 
 
 ### February
@@ -61,7 +61,7 @@ In February the great [Tom Rapp passed away](/2018/02/12/tom-rapp-1947-2018/), m
 
 Damon & Naomi arrived in Europe for a pretty extensive tour with Thalia Zedek and paid tribute to Tom by playing Translucent Carriages at the shows. Here they are in Manchester (without Thalia):
 
-{% aavid "bf2pMNJwP1c" "Damon & Naomi - Translucent Carriages (Manchester, Feb 2018)" %}
+{% ahfowvideo "bf2pMNJwP1c" "Damon & Naomi - Translucent Carriages (Manchester, Feb 2018)" %}
 
 <figure class="caption aligncenter"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/40286576991/" title="Damon about to chat about The New Analog"><img src="https://farm5.staticflickr.com/4607/40286576991_d568f4145c_o.jpg" width="640" height="640" alt="Damon about to chat about The New Analog"></a><figcaption>Damon with Laura Snapes (London, Feb 2019)</figcaption></figure>
 
@@ -69,7 +69,7 @@ Damon & Naomi arrived in Europe for a pretty extensive tour with Thalia Zedek an
 
 In April Luna played some shows filling in some gaps left on their previous couple of US jaunts.
 
-{% aavid "Ch12VtqqKuk" "Tracy I Love You - Luna (Dallas, Feb 2018)" %}
+{% ahfowvideo "Ch12VtqqKuk" "Tracy I Love You - Luna (Dallas, Feb 2018)" %}
 
 
 ### June
@@ -82,12 +82,12 @@ The album was scheduled for a release at an unspecified time at some point in th
 
 After a long, long wait the first nugget from Dean Wareham's cowboy songs LP with Cheval Sombre finally saw the light of day. The first single from the album was Dean's cover of Wayfaring Stranger:
 
-{% aavid "PW2MhCZH_Ts" "Dean Warehan vs. Cheval Sombre - Wayfaring Stranger" %}
+{% ahfowvideo "PW2MhCZH_Ts" "Dean Warehan vs. Cheval Sombre - Wayfaring Stranger" %}
 
 
 Also in August some [Galaxie 500 live video saw the light of day](/2018/08/22/video-galaxie-500-london-1990/) - most of the bands show from 1990 at the Subterania in London - my first Galaxie 500 show and still my fave all time gig!
 
-{% aavid "ozeRVpP4T0Q" "Galaxie 500 (London , 1990)" %}
+{% ahfowvideo "ozeRVpP4T0Q" "Galaxie 500 (London , 1990)" %}
 
 
 
@@ -120,4 +120,4 @@ Damon's fabulous podcast series Ways of Hearing was <a href="https://waysofheari
 
 Another track from the Dean vs. Cheval Sombre album gets the video treatment - The Bend in the River is directed by Matthew Buzzell.
 
-{% aavid "H9BHQJVKqMs" "Dean Wareham vs. Cheval Sombre - The Bend in the River" %}
+{% ahfowvideo "H9BHQJVKqMs" "Dean Wareham vs. Cheval Sombre - The Bend in the River" %}

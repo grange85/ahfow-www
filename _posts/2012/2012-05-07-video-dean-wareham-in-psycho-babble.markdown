@@ -28,7 +28,7 @@ After Britta's first performance with Luna, on Cynthia Garrett's network TV show
 <p>"How about if you make out with Britta, or let her walk on your back" he asked. "And I'll film it."</p>
 <p>I didn't think that was such a good idea. Not filming it, anyway.</p></blockquote>
 
-{% aavid "TV0An8Zhy98" "Dean Wareham - Psycho Babble (dir: Matthew Buzzell)" %}
+{% ahfowvideo "TV0An8Zhy98" "Dean Wareham - Psycho Babble (dir: Matthew Buzzell)" %}
 
 <p>Matthew went on to make the film of Luna's final tour Tell Me Do You Miss Me and has recently directed the video for <a href="http://www.mtvhive.com/2012/05/03/elk-city-jerks-on-ice/">Elk City's Jerks on Ice that features Sean Eden and can be seen (if you're in the US) on the MTV web site</a>.</p>
 

@@ -26,7 +26,7 @@ Nope - Leave The Planet, doesn't appear to have been performed live (except in D
 
 Luckily, what it does have is a band named after it  - well, I'll assume that [Leave The Planet](https://leavetheplanet.bandcamp.com/) are named after the Galaxie 500 song which I think is a fair assumption given that this happened for Record Store Day a few years ago...
 
-{% aavid "kSxUWnvilsE" "Leave The Planet - Strange (Galaxie 500 cover)" %}
+{% ahfowvideo "kSxUWnvilsE" "Leave The Planet - Strange (Galaxie 500 cover)" %}
 
 You can buy it, and lots more [Leave The Planet on their Bandcamp page](https://leavetheplanet.bandcamp.com/).
 
