@@ -9,7 +9,6 @@ _deploy/
 .jekyll-metadata
 .jekyll-cache/
 s3cfg-prod
-_cloudfront-distribution-id
 
 ### Linux ###
 *~

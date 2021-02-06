@@ -59,6 +59,7 @@ exclude:
 - deploy.sh
 - _deploy/
 - _archived-posts/
+- _cloudfront-distribution-id
 
 plugins: [
         bootstrap-sass,
