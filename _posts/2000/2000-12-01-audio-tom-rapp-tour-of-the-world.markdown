@@ -16,5 +16,9 @@ categories:
 - miscellaneous
 tags: []
 ---
-<p>Recorded at the first Terrastock festival in Providence this is Tom Rapp's take on Damon & Naomi's "Tour of the World" - and very lively it is too.</p>
-<p><a href="http://www.box.net/shared/8su1nj8un1">Tom Rapp - Tour of the World (mp3)</a></p>
+Recorded at the first Terrastock festival in Providence this is Tom Rapp's
+take on Damon & Naomi's "Tour of the World" - and very lively it is too.
+
+[Tom Rapp - Tour of the World (mp3)](http://www.box.net/shared/8su1nj8un1)
+
+

@@ -16,5 +16,10 @@ categories:
 - miscellaneous
 tags: []
 ---
-<p>Frankly I know almost nothing about this - it's not a patch on the original but interesting to hear another take on Tugboat. It's from a radio show (and I'm thinking it's an Irish accent that is faded out at the end)</p>
-<p><a href="http://www.box.net/shared/zkl6idxsh6">Mercury Rev - Tugboat (mp3)</a></p>
+Frankly I know almost nothing about this - it's not a patch on the original
+but interesting to hear another take on Tugboat. It's from a radio show (and
+I'm thinking it's an Irish accent that is faded out at the end)
+
+[Mercury Rev - Tugboat (mp3)](http://www.box.net/shared/zkl6idxsh6)
+
+

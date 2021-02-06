@@ -71,4 +71,4 @@ aws cloudfront create-invalidation --distribution-id $CDN_DISTRIBUTION_ID --path
 curl --write-out 'pinged feedburner\n' --silent --output /dev/null "https://www.feedburner.com/fb/a/pingSubmit?bloglink=https%3A%2F%2Fwww.fullofwishes.co.uk/"
 
 
-echo "A Head Full of Wishes successfully deployed."
+echo "A Head Full of Wishes successfully deployed."	

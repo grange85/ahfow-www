@@ -16,5 +16,13 @@ categories:
 - miscellaneous
 tags: []
 ---
-<p>Probably the best Luna show I was at. The good reviews in the UK press that Penthouse had received must have contributed to the large and enthusiastic turnout. Luna seemed comfortable and played a long (in my Luna experience at least) set of over 80 minutes.<br />23 Minutes in Brussels closed the main set and was one of the many high points of an exceptional show.</p>
-<p><a href="http://www.box.net/shared/n7r67y5p7a">Luna - 23 Minutes in Brussels (mp3)</a></p>
+Probably the best Luna show I was at. The good reviews in the UK press that
+Penthouse had received must have contributed to the large and enthusiastic
+turnout. Luna seemed comfortable and played a long (in my Luna experience at
+least) set of over 80 minutes.  
+23 Minutes in Brussels closed the main set and was one of the many high points
+of an exceptional show.
+
+[Luna - 23 Minutes in Brussels (mp3)](http://www.box.net/shared/n7r67y5p7a)
+
+

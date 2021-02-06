@@ -17,4 +17,8 @@ categories:
 - news
 tags: []
 ---
-<p>Luna have finished the recording of new material for their next album (on an, as yet, unknown label). The recording, at Jolly Roger studios in Hoboken was completed last week. They will be off to Freedonia (land of the brave and free) to mix the recordings next week with Mercury Rev's Dave Fridmann .</p>
+Luna have finished the recording of new material for their next album (on an,
+as yet, unknown label). The recording, at Jolly Roger studios in Hoboken was
+completed last week. They will be off to Freedonia (land of the brave and
+free) to mix the recordings next week with Mercury Rev's Dave Fridmann .
+

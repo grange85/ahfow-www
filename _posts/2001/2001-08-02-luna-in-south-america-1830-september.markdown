@@ -17,4 +17,7 @@ categories:
 - news
 tags: []
 ---
-<p>Luna are in the process of planning some dates in South America in September - as soon as I have confirmed venues I'll post them here.</p>
+Luna are in the process of planning some dates in South America in September -
+as soon as I have confirmed venues I'll post them here.
+
+
