@@ -1,0 +1,26 @@
+---
+layout: show
+artistslug: damon-and-naomi
+artist:
+ name: Damon Krukowski
+show-venue: 'Museum of Pop Culture, Seattle, WA, USA'
+show-setlist:
+show-date: 2019-04-13
+date-added: 2019-03-14
+category: 2019
+show-radio:
+show-lastfm:
+show-cancelled:
+performers: [
+  "Damon Krukowski"
+  ]
+facebook-event-url:
+show-poster-url: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/ways-of-hearing-tour.jpg
+show-ticket-url:
+show-venue-website:
+show-additional:
+show-series: Ways of Hearing
+support:
+---
+Moderating a panel at Pop Conference 2019  
+Music, Death and Afterlife 

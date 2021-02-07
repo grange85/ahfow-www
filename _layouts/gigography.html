@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+	{% assign artist = site.data.artists[page.artistslug] %}
+{% if page.description %}{% assign description = page.description %}{% else %}
+	{% capture description %}Collection of all known shows played by {{artist.name}} {% if page.year %} in {{page.year}}{%else%}{% unless artist.slug=='galaxie-500' %} including any forthcoming shows{% endunless %}{% endif %}{% endcapture %}
+{% endif %}
+	{% capture newtitle %}{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %} shows{% endcapture %}
+	{% include head.html %}
+<body>
+	{% include tagmanager.html %}
+	{% include header.html %}
+	{% include social.html %}
+	<div class="container">
+		<div class="row">
+		<div class="wrapper col-md-9">
+			<div class="row">
+				<div class="col-md-12">
+					<nav>
+						<ul class="breadcrumb">
+							<li><a href="/">Home</a></li>
+							<li><a href="/database/">Database</a></li>
+
+							<li><a href="/database/{{artist.slug}}">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %}</a></li>
+							{% if page.year %}
+								<li><a href="/database/{{artist.slug}}/shows">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %} shows</a></li>
+								<li>{{page.year}}</li>
+							{% else %}
+								<li>{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %} shows</li>
+							{% endif %}
+						</ul>
+					</nav>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<nav>
+						<h3 id="upcoming">Archive of {{artist.name}} shows</h3>
+						<ul class="list-inline">
+						{% for year in artist.yearsactive %}
+							<li role="presentation"><a href="/database/{{artist.slug}}/shows/{{year}}/" class="list-group-item
+							{% if year == page.year %}
+								active
+							{% endif %}
+						">{{year | append: ""}}</a></li>
+						{% endfor %}
+						</ul>
+					</nav>
+					<div class="alert alert-warning" role="alert">{% icon fa-exclamation-triangle %} The lists of shows are far from complete! If you know of any that are missing <a href="mailto:andy@fullofwishes.co.uk">please get in touch</a>.</div>
+				</div>
+			</div>
+			{% case artist.slug %}
+				{% when 'galaxie-500' %}
+					{% assign shows = site.galaxie-500-shows | where: "category", page.year %}
+				{% when 'luna' %}
+					{% assign shows = site.luna-shows | where: "category", page.year %}
+				{% when 'damon-and-naomi' %}
+					{% assign shows = site.damon-and-naomi-shows | where: "category", page.year %}
+				{% when 'dean-and-britta' %}
+					{% assign shows = site.dean-and-britta-shows | where: "category", page.year %}
+			{% endcase %}
+			<div class="row">
+				<div class="col-md-12">
+					{% if page.section == 'topindex' %}
+						{% if artist.slug != 'galaxie-500' %}
+							{% include upcoming.html artistslug= artist.slug %}
+						{% endif %}
+				{% else %}
+					{% if shows %}
+						<h3>{{ artist.name }} shows in {{ page.year }}</h3>
+						<div class="alert alert-info" role="alert">{% icon fa-key %} Key : {% icon fa-list %} = Setlist, {% icon fa-portrait %} = Poster, {% icon fa-camera-retro %} = Photos, {% icon fa-download %} = show available for download, {% icon fa-external-link-square-alt %} = links to reviews etc.</div>
+						<table class="table table-striped">
+						{% for show in shows %}
+							{% unless show.show-cancelled %}
+							{% assign day = show.show-date|date: "%-d"  %}
+						  {% if show.date-uncertain.day %}{% assign day = "" %}{% endif %}
+							{% capture ordinaldate %}{% case day %}{% when '' %}{{ day }}{% when '1' or '21' or '31' %}{{ day }}st{% when '2' or '22' %}{{ day }}nd{% when '3' or '23' %}{{ day }}rd{% else %}{{ day }}th{% endcase %} {{show.show-date|date: "%B %Y"}}{% endcapture %}
+
+						<tr>
+							<th class="col-md-3">{{ ordinaldate }}</th>
+							<td class="col-md-7"><a href="{{ show.url | prepend: site.baseurl}}">{{ show.show-venue }}</a><br/>
+          {% if show.show-cancelled %}<span class="label label-danger">Cancelled</span>{% endif %}
+          {% if show.artist.name %}<span class="label label-success">{{ show.artist.name }}</span>
+          {% else %}<span class="label label-success">{{ artist.name }}</span>
+          {% endif %}
+          {% if show.show-series %}<span class="label label-primary">{{ show.show-series }}</span>{% endif %}
+							</td>
+							<td class="col-md-2">{% if show.show-setlist.size > 0 %}
+								<span class="icon" title="setlist">{% icon fa-list %}</span>{% endif %}{% if show.show-poster-url %}
+								<span class="icon" title="poster">{% icon fa-portrait %}</span>{% endif %}{% if show.photos %}
+								<span class="icon" title="pictures">{% icon fa-camera-retro %}</span>{% endif %}{% if show.videos %}
+								<span class="icon" title="videos">{% icon fa-video-camera %}</span>{% endif %}{% if show.show-download %}
+								<span class="icon" title="show available for download">{% icon fa-download %}</span>{% endif %}{% if show.links %}
+								<span class="icon" title="links to reviews and other content">{% icon fa-external-link-square-alt %}</span>{% endif %}
+							</td>
+						</tr>
+						{% endunless %}
+						{% endfor %}
+						</table>
+					{% endif %}
+				{% endif %}
+</div>		
+			</div>
+		</div>
+		<div class="col-md-3">
+			{% include sidebar.html %}
+		</div>
+	</div>
+</div>
+	{% include footer.html %}
+</body>
+</html>

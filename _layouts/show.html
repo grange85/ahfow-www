@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+	{% assign artist = site.data.artists[page.artistslug] %}
+	{% assign day = page.show-date|date: "%-d"  %}
+  {% if page.date-uncertain.day %}{% assign day = "" %}{% endif %}
+	{% capture ordinaldate %}{% case day %}{% when '' %}{{ day }}{% when '1' or '21' or '31' %}{{ day }}st{% when '2' or '22' %}{{ day }}nd{% when '3' or '23' %}{{ day }}rd{% else %}{{ day }}th{% endcase %} {{page.show-date|date: "%B %Y"}}{% endcapture %}
+
+
+	{% capture newtitle %}{{ ordinaldate}} - {{artist.name}} - {{ page.show-venue }}{% endcapture %}
+	{% if page.description %}{% assign description = page.description %}{% else %}
+		{% capture description %}
+			Details of {{artist.name}}'s show at {{page.show-venue}} on {{page.show-date| date: "%-d %B %Y"}}.
+			Including, when available, setlist, poster, photographs, and other details.
+		{% endcapture %}
+	{% endif %}
+	{% include head.html %}
+<body>
+	{% include tagmanager.html %}
+	{% include header.html %}
+	{% include social.html %}
+
+
+	<div class="container">
+		<div class="row">
+			<div class="wrapper col-md-9">
+				<div class="row">
+					<div class="col-md-12">
+						<nav>
+							<ul class="breadcrumb">
+								<li><a href="/">Home</a></li>
+								<li><a href="/database/">Database</a></li>
+
+								<li><a href="/database/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %}</a></li>
+								<li><a href="/database/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/shows/">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %} shows</a></li>
+								<li><a href="/database/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/shows/{{page.show-date|date: '%Y'|append: '/'}}">{{page.show-date|date: '%Y'}}</a></li>
+								<li>{{ ordinaldate }} - {{artist.name}} - {{ page.show-venue }}</li>
+							</ul>
+						</nav>
+						{% if page.show-cancelled %}
+						<div class="alert alert-danger" role="alert">
+					    	<strong>Cancelled</strong>
+						</div>
+						{% endif %}
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-6">
+						<h3>Information</h3>
+							<div class="panel panel-default">
+							<div class="panel-heading">{% if page.artist.name %}{{page.artist.name}}{% else %}{{artist.name}}{% endif %}</div>
+							<div class="panel-body">
+							<p>{% icon fa-calendar %} {{ ordinaldate }}</p>
+							{% if page.address%}
+							{{ page.address | newline_to_br }}
+							
+							<p>{% icon fa-map-marker %} <a href="https://www.google.com/maps/search/?api=1&query={{ page.address | strip_newlines | urlencode }}" target="_blank">Map</a></p>
+							{% else %}
+							 {{page.show-venue}}
+							{% endif %}
+						<ul>
+						{% if page.show-download %}
+							<li>{% icon fa-download %} <a href="{{page.show-download.url}}" target="_blank">Download this show</a> ({{page.show-download.site}})</li>
+						{% endif %}
+						{% if page.facebook-event-url %}
+							<li>{% icon fa-facebook-square brand %} <a href="{{page.facebook-event-url}}" target="_blank">Facebook event</a></li>
+						{% endif %}
+						{% capture nowdate %}{{'now' | date: '%s'}}{% endcapture %}
+						{% capture showdate %}{{page.show-date | date: '%s'}}{% endcapture %}
+						{% assign nowdate = nowdate | plus: 0 %}
+						{% assign showdate = showdate | plus: 0 %}
+						{% if showdate > nowdate %}
+						{% unless page.show-cancelled %}
+							{% if page.show-ticket-url %}
+								<li>{% icon fa-ticket-alt %} <a href="{{page.show-ticket-url}}" target="_blank">Get tickets</a></li>
+							{% endif %}
+						{% endunless %}
+							{% if page.show-venue-website %}
+								<li>{% icon fa-sitemap %} <a href="{{page.show-venue-website}}" target="_blank">Venue details</a></li>
+							{% endif %}
+						{% endif %}
+						</ul>
+							</div>
+						</div>
+
+						{% if page.audio-preview %}
+						<h3>Audio</h3>
+						<div class="well">
+						<p class="audio"><a href="{{page.audio-preview.file}}">{{page.audio-preview.title}} ({{newtitle}})</a></p>
+						<audio controls="controls" preload="none" src="{{page.audio-preview.file}}"></audio>
+						</div>
+						{% endif %}
+
+
+						{% assign content = page.content | strip_newlines %}
+						{% if content != "" %}
+							<h3>Notes</h3>
+							<p>{{ content }}</p>
+						{% endif %}
+						{% if page.performers %}
+							<h3>Performers</h3>
+							<ul>
+							{% for performer in page.performers %}
+								<li>{{ performer }}</li>
+							{% endfor %}
+							</ul>
+						{% endif %}
+						{% if page.show-setlist %}
+
+							<h3>Setlist</h3>
+							<ul>
+							{% for track in page.show-setlist %}
+								{% capture hastrack %}{{track.title}}{% endcapture %}
+								{% if hastrack == '' %}
+									{% if track contains '^' %}
+										<li class="text-muted">{{track | remove_first:'^'}}</li>
+									{% else %}
+										<li>
+											<a href="/database/tracks/{{track|slugify}}/ ">{{track}}</a></li>
+									{% endif %}
+								{% else %}
+									{% if track.title contains '^' %}
+										<li class="text-muted">{{track.title | remove_first:'^'}}</li>
+									{% else %}
+									{% if track.url %}
+						<div class="well">
+						<p class="audio"><a href="{{track.url}}">{{track.title}}</a></p>
+						<audio controls="controls" preload="none" src="{{track.url}}"></audio>
+						<p class="source small text-right"><em>Source: <a href="/database/tracks/{% if track.link %}{{track.link}}{% else %}{{track.title|slugify}}{% endif %}/">{{track.title}}</a>{% if track.notes %}&nbsp;({{track.notes}}){% endif %}</em></p>
+
+						</div>
+
+
+									{% else %}
+										<li>
+
+											<a href="/database/tracks/{% if track.link %}{{track.link}}{% else %}{{track.title|slugify}}{% endif %}/">{{track.title}}</a>{% if track.notes %}&nbsp;({{track.notes}}){% endif %}
+
+										</li>
+									{% endif %}
+
+									{% endif %}
+								{% endif %}
+							{% endfor %}
+							</ul>
+						{% endif %}
+						{% if page.support %}
+							<h3>Support</h3>
+							<ul>
+							{% for act in page.support %}
+									<li>{{act}}</li>
+							{% endfor %}
+							</ul>
+						{% endif %}
+						{% if page.links %}
+							<h3>Links</h3>
+							<ul>
+							{% for link in page.links %}
+									<li>{% icon fa-external-link-square-alt %} <a href="{{link.url}}">{{link.title}}</a> ({{link.source}})</li>
+							{% endfor %}
+							</ul>
+						{% endif %}
+
+
+					</div>
+					<div class="col-md-6">
+						{% if page.featured-image %}
+							<div class="thumbnail">
+								<img class="img-responsive" src="{{page.featured-image.url}}" alt="{{page.show-date|date: "%-d %B %Y"}} at {{ page.show-venue }}" />
+								<div class="caption">
+									<a href="{{page.featured-image.link}}">{{page.featured-image.caption}}</a><br/><small class="text-muted">(Photo: <a href="{{page.featured-image.link}}">{{page.featured-image.credit}}</a>)</small>
+								</div>
+							</div>
+						{% elsif page.show-poster-url %}
+							<div class="thumbnail">
+								<img class="img-responsive" src="{{page.show-poster-url}}" alt="Poster for {{page.show-date|date: "%-d %B %Y"}} at {{ page.show-venue }}" />
+								<div class="caption">
+									Poster for {{page.show-date|date: "%-d %B %Y"}} at {{ page.show-venue }}
+								</div>
+							</div>
+						{% else %}
+							{% case artist.slug %}
+								{% when 'luna' %}
+									{% assign showdate = page.show-date | date: '%s' %}
+									{% assign brittadate = '2000-03-01' | date: '%s' %}
+									{% if showdate > brittadate %}
+										<div class="thumbnail">
+											<img class="img-responsive" src="{{artist.image}}" alt="{{artist.name}}">
+											<div class="caption">
+												{{artist.name}}
+											</div>
+										</div>
+									{% endif %}
+									{% else %}
+										<div class="thumbnail">
+											<img class="img-responsive" src="{{artist.image}}" alt="{{artist.name}}">
+											<div class="caption">
+												{{artist.name}}
+											</div>
+										</div>
+							{% endcase %}
+						{% endif %}
+					</div>
+				</div>
+				{% if page.photos %}
+				<div class="row">
+					<div class="col-md-12">
+						<h3>Photos</h3>
+						{% assign count = 0 %}
+						{% for gallery in page.photos %}
+							{% assign count = count | plus: 1 %}
+							{% case gallery.type %}
+								{% when "flickr-set" %}
+									<h4><a href="https://www.flickr.com/photos/{{gallery.user}}/sets/{{gallery.id}}">Photos by <strong>{{gallery.user}}</strong> on Flickr</a></h4>
+								{% when "ahfow-set" %}
+									<h4>Photos sent to A Head Full of Wishes</h4>
+							{% endcase %}
+							<div class="galleria" id="galleria-{{count}}"></div>
+						{% endfor %}
+					</div>
+				</div>
+				{% endif %}
+				{% if page.videos %}
+				<div class="row">
+					<div class="col-md-12">
+						<h3>Videos</h3>
+						{% for gallery in page.videos %}
+							{% assign count = count | plus: 1 %}
+							{% case gallery.type %}
+							{% when "youtube" %}
+								<h4>Videos on YouTube</h4>
+							{% endcase %}
+							<div class="galleria" id="galleria-{{count}}"></div>
+						{% endfor %}
+					</div>
+				</div>
+				{% endif %}
+
+		</div>
+		<div class="col-md-3">
+			{% include sidebar.html %}
+		</div>
+	</div>
+</div>
+	{% include footer.html %}
+</body>
+</html>
