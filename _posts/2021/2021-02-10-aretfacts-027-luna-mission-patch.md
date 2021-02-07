@@ -22,6 +22,6 @@ tags:
 
 Between February and December 2019 the ever wonderful [Sonic Cathedral released 11 7" singles](https://www.soniccathedral.co.uk/singlesclub/) as by a range of fantastic artists. People who subscribed to the whole set received an extra bit of artwork and a special _something_ with each release.
 
-May's release was Luna's cover of Thunderclap Newman's {% track "Something In The Air" %} backed with the beautiful {% track "The Oort Cloud" %}/{% track "Kuiper Belt" %} and the bonus _something_ was a beautiful 'mission' patch modelled after the patches NASA astronauts had stiched to their suits.
+May's release was Luna's cover of Thunderclap Newman's {% ahfowtrack "Something In The Air" %} backed with the beautiful {% ahfowtrack "The Oort Cloud" %}/{% ahfowtrack "Kuiper Belt" %} and the bonus _something_ was a beautiful 'mission' patch modelled after the patches NASA astronauts had stiched to their suits.
 
 {% ahfowvideo "Bj6sUmG2Exw" "Luna - The Oort Cloud/Kuiper Belt" %}

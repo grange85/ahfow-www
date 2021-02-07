@@ -48,7 +48,7 @@ eos
         slugged = trackname.gsub('&apos;', '\'')
         slugged = slugged.gsub('&amp;', '&')
         slugged = Utils.slugify(slugged)
-        "<a href=\"https://www.fullofwishes.co.uk/database/tracks/#{slugged}/\">#{trackname}</a>"
+        "<a href=\"/database/tracks/#{slugged}/\">#{trackname}</a>"
     end
   end
 end
