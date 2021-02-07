@@ -16,19 +16,9 @@ categories:
 - miscellaneous
 tags: []
 ---
-Terrastock was a 3 day festival to benefit the British underground rock
-magazine Ptolemaic Terrascope. It was held in Providence RI over the weekend
-of the 24th-26th of April. Damon & Naomi opened the second day, and also, as
-part of Magic Hour, were the "surprise" special guests who closed the
-festival.  
-Unfortunately Terrastock was too far away for a poor media-worker like myself
-to travel to so all I have is a tape of this performance, sent to me by Tom
-Rapp (who joined Damon & Naomi on stage for the set closer (Dylan's "I Shall
-Be Released") and who had covered D & N's Tour Of The World during his own
-set). That performance of "I Shall Be Released" was released on the CD All
-Access that came with a commemorative issue of Ptolemaic Terrascope.  
-There have been two subsequent Terrastock festivals, and a fourth is planned
-for Seattle this year.
+Terrastock was a 3 day festival to benefit the British underground rock magazine Ptolemaic Terrascope. It was held in Providence RI over the weekend of the 24th-26th of April. Damon & Naomi opened the second day, and also, as part of Magic Hour, were the "surprise" special guests who closed the festival.
+
+Unfortunately Terrastock was too far away for a poor media-worker like myself to travel to so all I have is a tape of this performance, sent to me by Tom Rapp (who joined Damon & Naomi on stage for the set closer (Dylan's "I Shall Be Released") and who had covered D & N's Tour Of The World during his own set). That performance of "I Shall Be Released" was released on the CD All Access that came with a commemorative issue of Ptolemaic Terrascope. There have been two subsequent Terrastock festivals, and a fourth is planned for Seattle this year.
 
 [Damon & Naomi - Laika (mp3)](http://www.box.net/shared/k7ybnlkkxi)
 

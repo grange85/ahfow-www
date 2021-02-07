@@ -16,5 +16,11 @@ date_gmt: '2013-03-09 23:07:20 +0000'
 categories: []
 tags: []
 ---
-<p>Articles and sleeve notes - all copyrights are with the respective authors and have been reproduced without permission - if anyone has a problem with their work being published here <a href="/about/contact-me/">please shout</a>.</p>
-<p> <?php wp_list_pages(array('child_of'=>3828)); ?> </p>
+Articles and sleeve notes - all copyrights are with the respective authors and have been reproduced without permission - if anyone has a problem with their work being published here [please shout](/about/contact-me/).
+
+{% for article in site.articles %}
+
+ - [{{ article.title }}]({{article.url}})  
+   {{article.author.display_name}} {% if article.source %} - _{{article.source.name}}, {{article.source.publication_date}}_{% endif %}
+
+{% endfor %}

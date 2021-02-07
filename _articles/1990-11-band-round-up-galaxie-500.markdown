@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Band Round Up - Galaxie 500
+author:
+  display_name: Raymond Rogers
+source:
+  name: SPIN College Music Report
+  publication_date: November 1990
+categories:
+- galaxie 500
+tags: []
+---
+The spacey name came long before the spacey music, Boston's Galaxie 500 freely admit. Actually, the name was taken from the '50s-era car. But it fits their floating, cavernous music like a spacesuit. "We had other ideas, like Joy Division on a Sunny Day. We were trying to think of a very post modern name. It was a marketing move, we could be behind the Joy Division card in the bin," says drummer Damon Krukowski. "That's why the Beau Brummels are called the Beau Brummels, 'cause they wanted to be right behind the Beatles," says singer Dean Wareham.
+
+Instead of slipping into post modern obscurity, Galaxie 500 have put out three stunning releases, winning them a critical and collegiate following that's got the majors rapping at their door. "God, they're just like street people, you walk down the street and you've got these guys with contracts, 'Hey man! Hey man! Sign the contract,'" Damon mimicks a mobster.
+
+But for now, Galaxie 500 are taking things "one step at a time." They recorded all three of their records with Shimmy-Disc's Kramer. (He's very hot you know, I read it in _Rolling Stone_," says Dean.) It's uncommon for a band to stick with the same producer for all of their releases, they acknowledge. "Record companies don't like it, they think you should progress," Dean says. "Get a more commercial sound, for instance," says bassist Naomi Yang. "Move from like a 16 track to a 24 track...to a 48 to staying out in Bermuda for 6 months."
+
+Galaxie 500's records have all maintained an atmospheric Velvets-on-a- moonwalk feel. "Velvet Underground," says Naomi, "actually we've never heard 'em before." "'We've never heard their music,' as Lenny Kravitz would say, that's what he said about John Lennon," Dean cracks.
+
+Galaxie 500 aren't so disingenuous. They even cover the Velvets on the flipside of their new single, "Fourth of July." Little has changed with the band in their three year career, and they're not about to start compromising now - they've already turned down bigger offers. "Galaxie 500 can sell records on an indie and do that for a couple of records, and they're pretty sure that they can do it," says Dean of their plans for the future. "Yeah," Damon agrees, "there's a lot of spacey kids out there." 

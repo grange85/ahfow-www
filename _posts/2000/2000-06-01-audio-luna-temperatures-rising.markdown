@@ -16,14 +16,9 @@ categories:
 - luna
 tags: []
 ---
-Luna played their first show in London, shortly after Dean Wareham's solo
-release of Anesthesia, and a couple of months before the release of Lunapark.
-The show was exceptional, sadly my recording of the show was less than
-exceptional. The original core of Dean, Stanley and Justin was supplemented by
-Mercury Rev's Grasshopper on guitar.  
-Temperature's Rising was the set closer, an exceptional performance, and
-thankfully most of my Walkman problems had been resolved by then and I managed
-to get a decent recording.
+Luna played their first show in London, shortly after Dean Wareham's solo release of Anesthesia, and a couple of months before the release of Lunapark. The show was exceptional, sadly my recording of the show was less than exceptional. The original core of Dean, Stanley and Justin was supplemented by Mercury Rev's Grasshopper on guitar.
+
+Temperature's Rising was the set closer, an exceptional performance, and thankfully most of my Walkman problems had been resolved by then and I managed to get a decent recording.
 
 [Luna - Temperature's Rising (mp3)](http://www.box.net/shared/n4d5mf9q0c)
 
