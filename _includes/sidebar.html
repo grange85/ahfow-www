@@ -51,7 +51,7 @@
 		<ul>
 			{% assign allcategories = site.categories | sort %}
 			{% for category in allcategories %}
-				<li><a href="{{ category | first | slugify | prepend: '/category/' }}">{{ category | first }}</a></li>
+				<li><a href="{{ category | first | slugify | prepend: '/category/' }}/">{{ category | first }}</a></li>
 			{% endfor %}
 		</ul>
 	</div>
@@ -334,7 +334,6 @@
       <li><a href="https://feeds.feedburner.com/ahfow-upcoming-luna-shows">Upcoming Luna shows</a></li>
       <li><a href="https://feeds.feedburner.com/ahfow-upcoming-damon-and-naomi-shows">Upcoming Damon & Naomi shows</a></li>
       <li><a href="https://feeds.feedburner.com/ahfow-upcoming-dean-and-britta-shows">Upcoming Dean & Britta shows</a></li>
-      <li><a href="https://feeds.feedburner.com/ahfow-upcoming-dean-wareham-shows">Upcoming Dean Wareham shows</a></li>
       <li><a href="/podcasts.xml">Podcast</a> | <a href="https://itunes.apple.com/gb/podcast/a-head-full-of-wishes-podcasts/id1119771496?mt=2">iTunes</a></li>
     </ul>
   </div>

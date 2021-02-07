@@ -28,7 +28,7 @@ tags:
         <th class="col-md-4">14 February 2018</th>
         <td class="col-md-8"><a href="/database/damon-and-naomi/shows/2018/2018-02-14-damon-and-naomi-cafe-oto-london-uk/">Cafe OTO, London, UK</a></td>
       </tr>
-<tr>
+      <tr>
         <th class="col-md-4">16 February 2018</th>
         <td class="col-md-8"><a href="/database/damon-and-naomi/shows/2018/2018-02-16-damon-and-naomi-henrys-cellar-bar-edinburgh-uk/">Henry's Cellar Bar, Edinburgh, UK</a></td>
       </tr>
@@ -38,7 +38,7 @@ tags:
       </tr>
       <tr>
         <th class="col-md-4">18 February 2018</th>
-        <td class="col-md-8"><a href="/database/damon-and-naomi/shows/2018/2017-02-18-damon-and-naomi-night-and-day-cafe-manchester-uk/">Night and Day Cafe, Manchester, UK</a></td>
+        <td class="col-md-8"><a href="/database/damon-and-naomi/shows/2018/2018-02-18-damon-and-naomi-night-and-day-cafe-manchester-uk/">Night and Day Cafe, Manchester, UK</a></td>
       </tr>      <tr>
         <th class="col-md-4">23 February 2018</th>
         <td class="col-md-8"><a href="/database/damon-and-naomi/shows/2018/2018-02-23-damon-and-naomi-freakout-bologna-italy/">Freakout, Bologna, Italy</a></td>

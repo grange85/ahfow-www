@@ -24,8 +24,8 @@ tags: []
 
 <table class="table table-striped">
         <tbody><tr>
-        <th class="col-md-4">15 April 2016</th>
-        <td class="col-md-8"><a href="/database/damon-and-naomi/shows/2015/2016-04-15-all-tomorrows-parties-pontins-prestatyn-uk/">All Tomorrows Parties 2.0, Pontins, Prestatyn, UK</a></td>
+        <th class="col-md-4">17 April 2016</th>
+        <td class="col-md-8"><a href="/database/damon-and-naomi/shows/2016/2016-04-17-damon-and-naomi-all-tomorrows-parties-pontins-prestatyn-uk/">All Tomorrows Parties 2.0, Pontins, Prestatyn, UK</a></td>
         </tr>
         <tr>
         <th class="col-md-4">18 April 2016</th>

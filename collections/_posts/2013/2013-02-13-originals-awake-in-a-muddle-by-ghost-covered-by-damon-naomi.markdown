@@ -25,4 +25,4 @@ Awake in a Muddle was recorded by Damon & Naomi and first appeared as the b-side
 
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/05_Damon_Naomi_AwakeinAMuddle_tokyo2005.mp3">Damon & Naomi - Awake in a Muddle (2005-06-23 NHK 505 Studio, Tokyo, Japan)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/05_Damon_Naomi_AwakeinAMuddle_tokyo2005.mp3"></audio></div>
 
-<p><a href="/category/audio/originals/">All posts in the "Originals" series</a></p>
+<p><a href="/category/originals/">All posts in the "Originals" series</a></p>

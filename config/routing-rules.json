@@ -138,6 +138,26 @@
     },
     {
       "Condition": {
+        "KeyPrefixEquals": "database/shows/show-downloads.html"
+      },
+      "Redirect": {
+        "HostName": "www.fullofwishes.co.uk",
+        "Protocol": "https",
+        "ReplaceKeyPrefixWith": "database/shows/show-downloads/"
+      }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "database/releases/available-on-bandcamp.html"
+      },
+      "Redirect": {
+        "HostName": "www.fullofwishes.co.uk",
+        "Protocol": "https",
+        "ReplaceKeyPrefixWith": "database/releases/available-on-bandcamp/"
+      }
+    },
+    {
+      "Condition": {
         "KeyPrefixEquals": "wp/wp-content/"
       },
       "Redirect": {
