@@ -17,7 +17,7 @@ categories:
 - dean wareham
 tags: []
 ---
-<div class="imagebox-a"><img src="https://www.fullofwishes.co.uk/wp/wp-content/uploads/2007/12/410aifzt3sl.jpg" alt="" title="Black Postcards cover" width="196" height="300" class="alignnone size-medium wp-image-591" /></div>
+<div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2007/12/410aifzt3sl.jpg" alt="" title="Black Postcards cover" width="196" height="300" class="alignnone size-medium wp-image-591" /></div>
 <p><a href="http://www.nytimes.com/2008/04/06/books/review/Phair-t.html?ex=1207972800&en=4a3556391635b4fd&ei=5070">Sunday's New York Times has a review of Black Postcards</a> written by <a href="http://www.google.com/url?sa=t&ct=res&cd=1&url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLiz_Phair&ei=ksr2R86dJai6QPqXyZUK&usg=AFQjCNGS9NIKhql6xlIPYvFG2hbNZYaAag&sig2=slZD1XqUgS-UwwZQNIJJAw">Liz Phair</a> (who once pretended she was in a  Galaxie 500 video)...</p>
 <blockquote><p>The author is nothing if not a connoisseur. But Wareham’s real gift is his ability to capture the minutiae of daily life in a rock ’n’ roll band and somehow make it universal. It’s as if a curtain were brushed aside and we all got to go backstage and experience the lives of those who ran away to join the circus: we ride in buses, drive in vans, count T-shirts, bicker with our bandmates, play shows, get courted and booted by record labels, make albums, fall head over heels and, throughout, rub elbows with countless influential artists of the day, crisscrossing the globe in tour trajectories so overlapping and incestuous it makes you want to call in a band traffic controller just to keep all the names straight.</p></blockquote>
 <ul>

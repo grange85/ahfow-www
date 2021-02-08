@@ -17,7 +17,7 @@ categories:
 - galaxie 500
 tags: []
 ---
-<p><img src="https://www.fullofwishes.co.uk/wp/wp-content/uploads/2010/02/dominoreissuessleeves.jpg" alt="" title="dominoreissuessleeves" width="180" height="540" class="alignright size-full wp-image-1830" />
+<p><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2010/02/dominoreissuessleeves.jpg" alt="" title="dominoreissuessleeves" width="180" height="540" class="alignright size-full wp-image-1830" />
 <p>The deluxe reissues of Galaxie 500's three albums are released today by Domino Records. Each CD is paired with a bonus CD: Today comes with the "Uncollected" set that was collected for the 1996 box set; On Fire has the band's two Peel sessions; This Is Our Music has the live recording from Galaxie 500's last European show in Copenhagen.</p>
 <p><a href="http://www.guardian.co.uk/music/2010/mar/11/galaxie-500-cd-review">Alexis Petridis in The Guardian</a>...</p>
 <blockquote><p>No one is currently offering Galaxie 500's melange of trebly guitar, serpentine basslines, fragile vocals and oddly jazz-inflected drumming (This Is Our Music borrowed its title from Ornette Coleman). Certainly, no one currently sounds like singer Dean Wareham. Listening to his high voice floating wildly off-key in a way that simply wouldn't be allowed these days for fear of upsetting daytime radio play, you're reminded of a vanished age before Auto-Tune, when alt-rock's aims and ambitions and audience were noticeably different.</p></blockquote>

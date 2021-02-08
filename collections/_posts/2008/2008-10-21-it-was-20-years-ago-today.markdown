@@ -17,7 +17,7 @@ categories:
 - history
 tags: []
 ---
-<div class="imagebox-a"><img src="https://www.fullofwishes.co.uk/wp/wp-content/uploads/2008/10/19881021_galaxie500.jpg" alt="Galaxie 500 - invite to Today launch party" title="Galaxie 500 - invite to Today launch party" class="alignnone size-full wp-image-872" /></div>
+<div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2008/10/19881021_galaxie500.jpg" alt="Galaxie 500 - invite to Today launch party" title="Galaxie 500 - invite to Today launch party" class="alignnone size-full wp-image-872" /></div>
 <p>Oh I've been looking forward to using that clever post title for weeks.</p>
 <p>To be honest I'm not 100% certain of the exact date that Galaxie 500's first album was released. But I do know, thanks to a picture in the Box Set booklet, that the launch party took place at The Rat in Boston on 21 October 1988 and that was 20 years ago today.</p>
 <blockquote><p>At the start of the summer of '88 we went back to Noise New York and recorded the <em>Today</em> album. We arrived at 2pm to find Kramer sleeping. We set up and did the basic tracks in about four hors on day1. Day 2 we did vocals and lead guitars, most everything in one take. I remember being completely lost during "Don't Let Our Youth Go to Waste" - there are strange harmonic overtones at the ned of that song that I was never able to replicate - sometimes it's good to have no idea what you're doing [...]. On the third day Kramer mixed the record, adding things as he went..."You know what would be hilarious here?"</p>

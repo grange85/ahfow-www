@@ -19,4 +19,4 @@ tags: []
 ---
 <p>The new <a href="http://www.damonandnaomi.com/">Damon & Naomi</a> album, False Beats and True Hearts will be released on the duos 20|20|20 label in May. You can listen to a track from the album, Walking Backwards below or download it from <a href="http://www.damonandnaomi.com/">damonandnaomi.com</a>. The album features contributions from Michio Kurihara and Masaki Batoh and all the usual suspects!</p>
 <div class="topspin-widget topspin-widget-bundle-widget">  <figure class="caption "><figcaption class="caption-text"></figcaption></figure></div>
-<p><img src="https://www.fullofwishes.co.uk/wp/wp-content/uploads/2011/02/falsetrue.jpg" alt="" title="falsetrue" width="600" height="598" class="aligncenter size-full wp-image-2140" /></p>
+<p><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2011/02/falsetrue.jpg" alt="" title="falsetrue" width="600" height="598" class="aligncenter size-full wp-image-2140" /></p>

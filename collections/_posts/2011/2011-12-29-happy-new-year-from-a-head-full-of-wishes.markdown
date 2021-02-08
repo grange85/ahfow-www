@@ -17,7 +17,7 @@ categories:
 - audio
 tags: []
 ---
-<p><figure class="aligncenter"><img src="https://www.fullofwishes.co.uk/wp/wp-content/uploads/2011/12/happy-new-year.jpg" alt="" title="happy-new-year" width="550" height="54" class="aligncenter size-full wp-image-2290" /><figcaption class="caption-text">Anyone who cares to can take a guess in the comments at which Luna releases provided each of the letters of Happy New Year above</figcaption></figure></p>
+<p><figure class="aligncenter"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2011/12/happy-new-year.jpg" alt="" title="happy-new-year" width="550" height="54" class="aligncenter size-full wp-image-2290" /><figcaption class="caption-text">Anyone who cares to can take a guess in the comments at which Luna releases provided each of the letters of Happy New Year above</figcaption></figure></p>
 
 <p>Hope 2012 brings to you all that you could want and more... for me that includes a gig or two by each of my favourite duos and some new material by Dean and/or Britta (I'd add Damon & Naomi in there but expecting an album every year might seem a little greedy).</p>
 <p>Luna's new years eve shows in (or around NYC) became a regular as did their performance of George McCrae's Rock Your Baby at those shows, my (incomplete) gigography has a record of them playing in 1996, 1998, 2000, 2001, 2002, 2003, and 2004.</p>

@@ -66,5 +66,5 @@ Blown away - doesn't even begin to describe my feelings. That was 13 years ago, 
 
 The last I heard of Tom was that he'd left Philadelphia for Florida. Wherever you are Tom, I hope you have a great birthday!
 
-<figure class="caption aligncenter"><img src="https://www.fullofwishes.co.uk/wp/wp-content/uploads/2012/03/Photo-on-2012-03-04-at-22.45-500x333.jpg" alt="Anthology of American Folk Music" /><figcaption class="caption-text">Anthology of American Folk Music</figcaption></figure>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2012/03/Photo-on-2012-03-04-at-22.45-500x333.jpg" alt="Anthology of American Folk Music" /><figcaption class="caption-text">Anthology of American Folk Music</figcaption></figure>
 

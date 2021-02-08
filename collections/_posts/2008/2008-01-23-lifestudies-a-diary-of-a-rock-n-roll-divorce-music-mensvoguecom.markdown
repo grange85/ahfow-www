@@ -18,7 +18,7 @@ categories:
 - dean wareham
 tags: []
 ---
-<div class="imagebox-a"><img src="https://www.fullofwishes.co.uk/wp/wp-content/uploads/2008/01/deanbritta.jpg" alt='Dean & Britta near their home in Manhattan’s East Village in 2006. (Photo: Michael Lavine)' /><br />
+<div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2008/01/deanbritta.jpg" alt='Dean & Britta near their home in Manhattan’s East Village in 2006. (Photo: Michael Lavine)' /><br />
 (Photo: Michael Lavine)</div>
 <p>An Excerpt from Dean Wareham's book is on the Men's Vogue website. A diary of a rock 'n' roll divorce covers the period when Britta joined Luna and Dean's subsequent divorce from his wife Claudia. There's a few nice but small photos to accompany it (one of which I've ripped off here!)...</p>
 <blockquote><p>After all the auditions, my bandmates and I stood outside on Avenue A to pick our new bassist. Our drummer, Lee, was sure that we should hire Britta. I was leaning that way. Sean, who played guitar, was on the fence. This was as close to a unanimous decision as we were going to get. It would be the first time a girl was part of our lineup.</p>
