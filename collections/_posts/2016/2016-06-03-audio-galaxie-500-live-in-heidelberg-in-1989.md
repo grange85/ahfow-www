@@ -29,14 +29,14 @@ tags:
 <h4><a href="/database/galaxie-500/shows/1989/1989-11-29-galaxie-500-schwimmbad-heidelberg-germany/">29 November 1989 - Galaxie 500 - Schwimmbad, Heidelberg, Germany</a></h4>
 <p><strong>Setlist</strong></p>
 <ul>
-<li><a href="/database/tracks/flowers/ ">Flowers</a></li>
-<li><a href="/database/tracks/pictures/ ">Pictures</a></li>
-<li><a href="/database/tracks/decomposing-trees/ ">Decomposing Trees</a></li>
-<li><a href="/database/tracks/snowstorm/ ">Snowstorm</a></li>
-<li><a href="/database/tracks/when-will-you-come-home/ ">When Will You Come Home</a></li>
-<li><a href="/database/tracks/temperature-s-rising/ ">Temperature's Rising</a></li>
-<li><a href="/database/tracks/don-t-let-our-youth-go-to-waste/ ">Don't Let Our Youth Go to Waste</a></li>
-<li><a href="/database/tracks/blue-thunder/ ">Blue Thunder</a></li>
-<li><a href="/database/tracks/ceremony/ ">Ceremony</a></li>
+<li><a href="/database/tracks/flowers/">Flowers</a></li>
+<li><a href="/database/tracks/pictures/">Pictures</a></li>
+<li><a href="/database/tracks/decomposing-trees/">Decomposing Trees</a></li>
+<li><a href="/database/tracks/snowstorm/">Snowstorm</a></li>
+<li><a href="/database/tracks/when-will-you-come-home/">When Will You Come Home</a></li>
+<li><a href="/database/tracks/temperature-s-rising/">Temperature's Rising</a></li>
+<li><a href="/database/tracks/don-t-let-our-youth-go-to-waste/">Don't Let Our Youth Go to Waste</a></li>
+<li><a href="/database/tracks/blue-thunder/">Blue Thunder</a></li>
+<li><a href="/database/tracks/ceremony/">Ceremony</a></li>
 </ul>
 

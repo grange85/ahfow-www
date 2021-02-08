@@ -20,7 +20,7 @@ tags: []
 <p>Lots of love around for the Galaxie 500 reissues - here's what I've found so far - please feel free to add more in the comments (or <a href="mailto:andy@grange85.co.uk">email me</a>).</p>
 <p><strong><a href="http://pitchfork.com/reviews/albums/14083-today-on-fire-this-is-our-music/">Mark Richardson on Pitchfork</a> - Today 9.5; On Fire 10.0; This Is Our Music 8.3</strong></p>
 <blockquote><p>It's not that there isn't plenty of good music in this vein being made. It's that one band, 20 years ago, did this sound so well and with so much personality, they set a difficult standard for newcomers to meet.</p></blockquote>
-<p><strong><a href=" http://www.guardian.co.uk/music/2010/mar/11/galaxie-500-cd-review">Alexis Petridis in The Guardian</a>  - Today/On Fire/This Is Our Music *****</strong></p>
+<p><strong><a href="http://www.guardian.co.uk/music/2010/mar/11/galaxie-500-cd-review">Alexis Petridis in The Guardian</a>  - Today/On Fire/This Is Our Music *****</strong></p>
 <blockquote><p>That said, no one really sounded like Galaxie 500 at the time. If they didn't appear as bafflingly other as their contemporaries Pixies [...] they still seemed alien compared to their peers.</p></blockquote>
 <p><strong>Suitcase Orchestra</strong></p>
 <blockquote><p>Their music was as fiery as anything that was coming out of Seattle at the time but its power was expressed gently – a breeze can do anything a hurricane can, it just takes a little while longer.</p></blockquote>

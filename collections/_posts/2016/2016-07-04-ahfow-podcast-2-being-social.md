@@ -33,8 +33,7 @@ description: >
   I thought for this episode I'd talk about how AHFoW has tried to be the place where fans can mingle and how the success has been mixed, I talk about how social media has changed AHFoW and briefly at the end touch on how the fans relationship with bands has changed in recent year. If the podcast reaches episode three I'd like to perhaps expand on that - but we'll see.
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/podcast/ahfow-podcast-2-being-social.jpg" alt="&hellip; my company for the podcast" /><figcaption class="caption-text">&hellip; my company for the podcast</figcaption></figure>
-<p class="lead">So <a href="/2016/06/01/the-first-ahfow-podcast-how-does-luna-make-you-feel/
-">despite my threats to the contrary</a> the AHFoW podcast reaches episode 2 in which I witter on about social media and the web - it kind of gets a bit wayward at the end, so forgive me for that.</p>
+<p class="lead">So <a href="/2016/06/01/the-first-ahfow-podcast-how-does-luna-make-you-feel/">despite my threats to the contrary</a> the AHFoW podcast reaches episode 2 in which I witter on about social media and the web - it kind of gets a bit wayward at the end, so forgive me for that.</p>
 <p>Once again this podcast was recorded by the river at Kew with accompaniment from ducks, trains, boats, and the tide. The whistle at the end is the sound of a District Line train going over Kew Bridge, and the wash lapping my feet is from a tourist boat heading towards Richmond.</p>
 <p>I thought for this episode I'd talk about how AHFoW has tried to be the place where fans can mingle and how the success has been mixed, I talk about how social media has changed AHFoW and briefly at the end touch on how the fans relationship with bands has changed in recent year. If the podcast reaches episode three I'd like to perhaps expand on that - but we'll see.</p>
 

@@ -28,8 +28,7 @@ _(feel free to send me a copy if you have a spare one knocking around so I can p
 
 ... and later as a seven inch single on Bob Stanley's Caff label in 1990
 
-<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_rain_insert002.jpg
-" alt="Insert from Galaxie 500 - Rain (Caff, 1990)" /><figcaption class="caption-text">Insert from Galaxie 500 - Rain (Caff, 1990)</figcaption></figure>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_rain_insert002.jpg" alt="Insert from Galaxie 500 - Rain (Caff, 1990)" /><figcaption class="caption-text">Insert from Galaxie 500 - Rain (Caff, 1990)</figcaption></figure>
 
 The two tracks on both releases were covers of [The Beatles' Rain](https://www.fullofwishes.co.uk/2014/03/19/originals-rain-by-the-beatles-covered-by-galaxie-500/) and [Jonathan Richman's Don't Let Our Youth Go To Waste](https://www.fullofwishes.co.uk/2013/05/15/originals-dont-let-our-youth-go-to-waste-by-jonathan-richman-covered-by-galaxie-500/). When digital releases came around these were released for some reason as a single track, so for the price of one download from your [online retailer of choice](https://galaxie500.bandcamp.com/track/rain-dont-let-our-youth-go-to-waste) you get nearly 9 minutes of live Galaxie 500 perfection.
 

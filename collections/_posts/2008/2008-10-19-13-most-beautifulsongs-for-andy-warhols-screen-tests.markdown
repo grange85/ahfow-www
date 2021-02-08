@@ -26,6 +26,6 @@ tags: []
 <p>The show gets performed twice at the festival on Friday and Saturday at The Byham Theatre, tickets are available at the festival's website.</p>
 <p>Next year the show will visit other venues across the US over the next few months and hopefully will get a DVD release in February.</p>
 <p><ins datetime="2008-10-21T08:47:24+00:00">
-<p>Update: There's an <a href=" http://www.pittsburghlive.com/x/tribunereview/search/s_593792.html ">interview with Dean in the current Pittsburgh Tribune-Review</a>...</p>
+<p>Update: There's an <a href="http://www.pittsburghlive.com/x/tribunereview/search/s_593792.html">interview with Dean in the current Pittsburgh Tribune-Review</a>...</p>
 <blockquote><p>"I got a call from Ben Harrison, the music curator at the Warhol," explains Wareham. "I've worked with them before -- they were always nice to Luna. Ordinarily, they loan 'Screen Tests' to galleries or universities, but not a lot of people have seen them. If you look on YouTube, there's nothing, which is incredible. So many of these are of famous people -- Bob Dylan, Salvador Dali, Edie Sedgwick."</p></blockquote>
 <p></ins></p>

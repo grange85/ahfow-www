@@ -28,7 +28,7 @@ A head full of wishes started at the tail end of 1994 sadly neither I nor the <a
 
 
 ### January 1999
-<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/images/misc/wishes_199901.gif" alt="Screen grab from " /><figcaption class="caption-text"><a href="  http://web.archive.org/web/19990117025633/http://www.aald.demon.co.uk/galaxie/index.html">wayback machine</a></figcaption></figure>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/images/misc/wishes_199901.gif" alt="Screen grab from " /><figcaption class="caption-text"><a href="http://web.archive.org/web/19990117025633/http://www.aald.demon.co.uk/galaxie/index.html">wayback machine</a></figcaption></figure>
 
 
 ### October 1999
