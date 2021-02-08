@@ -1,7 +1,6 @@
 #!/bin/zsh
 set -euo pipefail
 
-
 branch=$(git symbolic-ref --short -q HEAD)
 
 if [[ $branch != 'master' ]]
@@ -10,11 +9,6 @@ then
 	exit 1
 fi
 
-echo "on master"
-
-
-
-exit 1
 echo "Deploying A Head Full of Wishes"
 
 source _cloudfront-distribution-id
