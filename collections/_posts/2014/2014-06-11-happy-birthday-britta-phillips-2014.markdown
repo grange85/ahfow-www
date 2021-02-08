@@ -19,18 +19,24 @@ categories:
 - audio
 tags: []
 ---
-<p><a href="https://www.flickr.com/photos/bozzio/5896032582" title="Britta Phillips by Bozzio Lee, on Flickr"><img class="aligncenter" src="https://farm7.staticflickr.com/6031/5896032582_d1a11c5ac3_z.jpg" width="640" height="427" alt="Britta Phillips"></a><br />
-Happy birthday Britta.</p>
-<p>So far this year Britta has been Dean's bass player, made a cameo in forthcoming movie of <a href="http://www.imdb.com/title/tt3614530/combined">Jem and the Holograms</a>, and is hopefully wrapping up the album that was delayed by the untimely passing of producer Scott Hardkiss</p>
-<p>Here's Britta's lovely cover of Spectrum's How You Satisfy Me from Club AC30's Never Lose That Feeling, vol 2</p>
+![Britta Phillips](https://farm7.staticflickr.com/6031/5896032582_d1a11c5ac3_z.jpg)  
+Happy birthday Britta.
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/britta-phillips-how-you-satisfy-me.mp3">Britta Phillips - How You Satisfy Me (Spectrum cover)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/britta-phillips-how-you-satisfy-me.mp3"></audio></div>
+So far this year Britta has been Dean's bass player, made a cameo in forthcoming movie of [Jem and the Holograms](http://www.imdb.com/title/tt3614530/combined), and is hopefully wrapping up the album that was delayed by the untimely passing of producer Scott Hardkiss
 
-<p>Next up here she is adding vocals to Some Things Last a Long Time from last year's splendid Füxa album The Electric Sounds of Summer.<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcEqp-SwoZo" frameborder="0" allowfullscreen></iframe>
-<p>Here's her and Dean in last year's Frances Ha<br />
-<img src="https://media.fullofwishes.co.uk/00-misc/pictures/frances-ha-screencap.jpg" width="640" height="338" alt="Dean & Britta in Frances Ha" class="aligncenter" /></p>
-<p><a href="/2013/06/happy-birthday-britta-phillips/" title="Happy birthday Britta Phillips">Lots more MP3 downloads in last years birthday post</a></p>
-<p><a href="/2012/06/audio-happy-birthday-britta-phillips/" title="Audio: Happy Birthday Britta Phillips">And here's 2011's birthday greeting</a>.</p>
-<p>Have a lovely day Britta! Treat yourself to an egg...<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J-G-rjXbx2Y" frameborder="0" allowfullscreen></iframe>
+Here's Britta's lovely cover of Spectrum's How You Satisfy Me from Club AC30's Never Lose That Feeling, vol 2
+
+Audio: [Britta Phillips - How You Satisfy Me (Spectrum cover)](https://media.fullofwishes.co.uk/00-misc/audio/britta-phillips-how-you-satisfy-me.mp3)
+
+Next up here she is adding vocals to Some Things Last a Long Time from last year's splendid Füxa album The Electric Sounds of Summer.  
+
+
+Here's her and Dean in last year's Frances Ha  
+![Dean & Britta in Frances Ha](https://media.fullofwishes.co.uk/00-misc/pictures/frances-ha-screencap.jpg)
+
+[Lots more MP3 downloads in last years birthday post](/2013/06/11/happy-birthday-britta-phillips/)
+
+[And here's 2011's birthday greeting](/2012/06/11/audio-happy-birthday-britta-phillips/).
+
+Have a lovely day Britta! Treat yourself to an egg...  
+
