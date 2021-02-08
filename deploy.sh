@@ -1,10 +1,17 @@
 #!/bin/zsh
 set -euo pipefail
 
+branch=$(git symbolic-ref --short -q HEAD)
+
+if [[ $branch != 'master' ]]
+then
+	echo "not on 'master' - so not deployed"
+	exit 1
+fi
+
 echo "Deploying A Head Full of Wishes"
 
 source _cloudfront-distribution-id
-
 # build site
 bundle exec jekyll build --config _config.yml,_config_build.yml
 mkdir -p _deploy/_admin
