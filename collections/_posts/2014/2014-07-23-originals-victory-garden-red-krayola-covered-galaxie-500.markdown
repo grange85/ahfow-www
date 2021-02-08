@@ -19,8 +19,8 @@ tags: []
 ---
 <p><a href="https://www.flickr.com/photos/swilkes/582180438" title="Victory Gardens! by Sarah, on Flickr"><img src="https://farm2.staticflickr.com/1425/582180438_6c5a44c380_z.jpg?zz=1" width="628" height="640" alt="Victory Gardens!"></a><br />
 Just a quickie to-day as I've posted a couple of times about Victory Garden before:<br />
-<a href="/2011/06/mp3-victory-garden-enough-or-adolf/" title="Mp3: Victory Garden – Enough or Adolf">Mp3: Victory Garden – Enough or Adolf</a><br />
-<a href="/2012/09/friday-recycling-victory-garden/" title="Friday recycling: Victory Garden">Friday recycling: Victory Garden</a><br />
+<a href="/2014/07/23/originals-victory-garden-red-krayola-covered-galaxie-500/" title="Mp3: Victory Garden – Enough or Adolf">Mp3: Victory Garden – Enough or Adolf</a><br />
+<a href="/2012/09/21/friday-recycling-victory-garden/" title="Friday recycling: Victory Garden">Friday recycling: Victory Garden</a><br />
 Originally by Red Krayola on their second LP "God Bless the Red Krayola and All Who Sail With It" in 1968<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bur-14Z1gN4" frameborder="0" allowfullscreen></iframe>
 <p>Galaxie 500 released it on the b-side of their Blue Thunder single, and it has more recently been on the CD reissues of On Fire.<br />

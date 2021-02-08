@@ -76,7 +76,7 @@ tags:
       </tr>
       <tr>
         <th class="col-md-4">15 November 2017</th>
-        <td class="col-md-8"><a href="/database/luna/shows/2017/2017-11-15-carnegie-lecture-hall-pittsburgh-pa-usa/">Carnegie Lecture Hall, Pittsburgh, PA, USA</a></td>
+        <td class="col-md-8"><a href="/database/luna/shows/2017/2017-11-15-luna-carnegie-lecture-hall-pittsburgh-pa-usa/">Carnegie Lecture Hall, Pittsburgh, PA, USA</a></td>
       </tr>
       <tr>
         <th class="col-md-4">16 November 2017</th>

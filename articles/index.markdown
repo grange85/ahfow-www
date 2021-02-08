@@ -16,7 +16,7 @@ date_gmt: '2013-03-09 23:07:20 +0000'
 categories: []
 tags: []
 ---
-Articles and sleeve notes - all copyrights are with the respective authors and have been reproduced without permission - if anyone has a problem with their work being published here [please shout](/about/contact-me/).
+Articles and sleeve notes - all copyrights are with the respective authors and have been reproduced without permission - if anyone has a problem with their work being published here [please shout](/about/).
 
 {% for article in site.articles %}
 

@@ -20,5 +20,5 @@ categories:
 tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500_4thofjuly_rtt249_007.jpg" width="1888" height="2364" class /><figcaption class="caption-text"> 5:36</figcaption></figure>
-<p>Happy Galaxie 500 day, I probably won't do better than <a href="/2014/07/friday-recycling-fourth-july-galaxie-500-day/">last year's post</a>, so head there for more pics, vids and mp3s!</p>
+<p>Happy Galaxie 500 day, I probably won't do better than <a href="/2014/07/04/friday-recycling-fourth-july-galaxie-500-day/">last year's post</a>, so head there for more pics, vids and mp3s!</p>
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/dean-wareham-fourth-of-july-lyric-book.jpg" width="1024" height="1694" class /><figcaption class="caption-text"> "I had a private bed-in"</figcaption></figure>

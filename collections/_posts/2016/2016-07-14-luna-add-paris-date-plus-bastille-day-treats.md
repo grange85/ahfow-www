@@ -31,7 +31,7 @@ longpost: true
         <tbody>
 <tr>
         <th class="col-md-4">12 October 2016</th>
-        <td class="col-md-8"><a href="/database/luna/shows/2016/2016-10-12-petit-bain-paris-france/">Petit Bain, Paris, France</a></td>
+        <td class="col-md-8"><a href="/database/luna/shows/2016/2016-10-12-luna-petit-bain-paris-france/">Petit Bain, Paris, France</a></td>
         </tr>
 
 </tbody></table>

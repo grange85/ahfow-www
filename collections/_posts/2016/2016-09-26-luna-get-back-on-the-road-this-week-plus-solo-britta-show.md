@@ -29,7 +29,7 @@ tags:
 <table class="table table-striped">
         <tbody><tr>
         <th class="col-md-4">28 September 2016</th>
-        <td class="col-md-8"><a href="/database/britta-phillips/shows/2016/2016-09-28-britta-phillips-le-poisson-rouge-new-york-ny-usa/">Britta Phillips at (Le) Poisson Rouge, New York, NY, USA</a></td>
+        <td class="col-md-8"><a href="/database/dean-and-britta/shows/2016/2016-09-28-britta-phillips-le-poisson-rouge-new-york-ny-usa/">Britta Phillips at (Le) Poisson Rouge, New York, NY, USA</a></td>
         </tr>
 
         <tr>

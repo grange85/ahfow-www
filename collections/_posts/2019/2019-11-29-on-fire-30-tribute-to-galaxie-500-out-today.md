@@ -71,5 +71,5 @@ The full track list is
 All downloads include a bonus track which is Ron Harrity's cover of Cold Night that was previously only available on a CDR tribute album in 2006 - and is beautiful!
 
 
-Yesterday I had an online listening party which is available to [enjoy at your leisure over here](/articles/on-fire-30-listening-party/) - it includes information about the bands and other bits of nonsense that popped into my head while we _partied_!
+Yesterday I had an online listening party which is available to [enjoy at your leisure over here](/articles/2019-on-fire-30-listening-party/) - it includes information about the bands and other bits of nonsense that popped into my head while we _partied_!
 

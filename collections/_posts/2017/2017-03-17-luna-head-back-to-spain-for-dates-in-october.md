@@ -50,6 +50,6 @@ tags:
         </tr>
         <tr>
         <th class="col-md-4">14 October 2017</th>
-        <td class="col-md-8"><a href="/database/luna/shows/2017/2017-10-14-luna-teatre-municipal-xesc-forteza-mallorca-spain/">Teatre Municipal Xesc Forteza, Mallorca, Spain</a></td>
+        <td class="col-md-8"><a href="/database/luna/shows/2017/2017-10-15-luna-teatre-municipal-xesc-forteza-mallorca-spain/">Teatre Municipal Xesc Forteza, Mallorca, Spain</a></td>
         </tr>
 </tbody></table>

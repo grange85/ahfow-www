@@ -13,7 +13,6 @@ categories:
 - dean & britta
 - galaxie 500
 - audio
-- articles
 tags:
 - venice is sinking
 - british sea power
@@ -131,7 +130,7 @@ tags:
 </div><div class="well">
   <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/18-joanna-gruesome-tugboat.mp3">Tugboat - Joanna Gruesome</a></p>
   <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/18-joanna-gruesome-tugboat.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="http://www.fortunapop.com/release_details.php?cat_no=FPOP146">Sugarcrush (Fortuna Pop)</a></em></p>
+  <p class="source small text-right"><em>Source: Sugarcrush (Fortuna Pop)</em></p>
 </div><figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/lBN4qwAGfcE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Tugboat - Joanna Gruesome (live at The Old Blue Last, 2012)</figcaption></figure>
 
 
@@ -144,9 +143,9 @@ tags:
 <h4 id="tugboat-meursault">Meursault</h4>
 <p>Meursault recorded the track for their crowd-funded, crowd-chosen album made to help fund the band's US tour</p>
 <div class="well">
-  <p class="audio">Audio: <a href="http//media.fullofwishes.co.uk/00-misc/audio/meursault-tugboat-galaxie500cover.mp3">Tugboat - Meursault</a></p>
-  <audio controls="controls" preload="none" src="http//media.fullofwishes.co.uk/00-misc/audio/meursault-tugboat-galaxie500cover.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://soundcloud.com/songbytoad/meursault-tugboat-galaxie-500">Soundcloud</a></em></p>
+  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/meursault-tugboat-galaxie500cover.mp3">Tugboat - Meursault</a></p>
+  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/meursault-tugboat-galaxie500cover.mp3"></audio>
+  <p class="source small text-right"><em>Source: Soundcloud</em></p>
 </div>
 
 <h4 id="tugboat-paraffin">Paraffin Brothers</h4>
