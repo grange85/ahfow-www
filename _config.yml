@@ -15,7 +15,7 @@ image: https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image.jpg
 collections: 
   articles:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:name/
 
 twitter_username: ahfow
 github_username:  grange85
