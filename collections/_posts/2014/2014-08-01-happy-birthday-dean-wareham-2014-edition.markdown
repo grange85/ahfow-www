@@ -43,7 +43,7 @@ tags: []
 
 ### Previously
 
-- [Happy 50th Birthday Dean Wareham](/2013/08/happy-50th-birthday-dean-wareham/)
+- [Happy 50th Birthday Dean Wareham](/2013/08/01/happy-50th-birthday-dean-wareham/)
 - [Happy birthday Dean Wareham (2012)](/2012/08/01/happy-birthday-dean-wareham-3/)
 - [Happy Birthday Dean Wareham (2010)](/2010/08/01/happy-birthday-dean-wareham-2/)
 - [Happy Birthday Dean Wareham (2009)](/2009/08/01/happy-birthday-dean-wareham/)

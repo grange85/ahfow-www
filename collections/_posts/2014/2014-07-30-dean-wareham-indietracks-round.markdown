@@ -24,7 +24,7 @@ Pictures: <a href="https://www.flickr.com/photos/-christoph-/sets/72157645960419
 Words: <a href="http://meinzuhausemeinblog.blogspot.de/2014/07/dean-wareham-indietracks-260714.html">Christoph's review (German)</a></p>
 <p><figure class="caption aligncenter"><a href="https://www.flickr.com/photos/grange85/14781359251" title="Dean Wareham at Indietracks by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://farm4.staticflickr.com/3840/14781359251_685f4d4431_z.jpg" width="640" height="428" alt="Dean Wareham at Indietracks"></a><figcaption class="caption-text">Photo by me</figcaption></figure><br />
 Pictures: <a href="https://www.flickr.com/photos/grange85/sets/72157646043181385/">My pictures on Flickr</a><br />
-Words: <a href="/2014/07/dean-wareham-indietracks/" title="Dean Wareham at Indietracks">My Indietracks write-up</a></p>
+Words: <a href="/2014/07/27/dean-wareham-indietracks/" title="Dean Wareham at Indietracks">My Indietracks write-up</a></p>
 <p>Video of the storming set closer, Fourth of July<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GdVU0NBBtHk" frameborder="0" allowfullscreen></iframe>
 <p><figure class="caption aligncenter"><a href="https://www.flickr.com/photos/acb/14575505590" title="P1380864 by acb, on Flickr"><img src="https://farm4.staticflickr.com/3908/14575505590_035fe4e70e_z.jpg" width="640" height="480" alt="P1380864"></a><figcaption class="caption-text">Photo by acb</figcaption></figure></p>
