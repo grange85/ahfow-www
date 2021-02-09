@@ -23,9 +23,6 @@ sitemap: false
   </ul>
 </div>
 
-<div id="wb404"/>
-<script src="https://archive.org/web/wb404.js"> </script>
-
 <div class="bs-callout bs-callout-info">
   <h3>Asking</h3>
 <p>You can find me all over the place so feel free to ask if there's anything I can help with.</p>
