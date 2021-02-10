@@ -32,6 +32,6 @@ releases:
          notes: performed by Britta Phillips
          author: Dennis Wilson
 ---
-Split 7" single with Britta
+Split 7" single with Britta Phillips
 20 copies in marbled blue vinyl
 330 copies in black vinyl

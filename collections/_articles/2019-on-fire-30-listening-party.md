@@ -14,7 +14,7 @@ categories:
 tags: 
 ---
 
-Join A Head Full of Wishes to listen to the new On Fire \| 30 tribute album - you can join in the conversation if you wish either on Twitter using the hashtag [#onfire30](https://twitter.com/hashtag/onfire30) - you can also follow [@ahfow]([https://twitter.com/ahfow)](https://twitter.com/ahfow)) where I'll be tweeting some info about the people involved.
+Join A Head Full of Wishes to listen to the new On Fire \| 30 tribute album - you can join in the conversation if you wish either on Twitter using the hashtag [#onfire30](https://twitter.com/hashtag/onfire30) - you can also follow [@ahfow](https://twitter.com/ahfow) where I'll be tweeting some info about the people involved.
 
 ## Stream the album
 
