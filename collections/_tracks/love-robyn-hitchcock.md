@@ -3,7 +3,7 @@ layout: track
 categories: track
 title: Love
 name: love-robyn-hitchcock
-permalink: tracks/love-robyn-hitchcock/
+permalink: /database/tracks/love-robyn-hitchcock/
 type: ahfow_track
 track-lyrics: |
     The sun is shining on the ground

@@ -2,7 +2,7 @@
 layout: track
 categories: track
 title: Indian Summer
-permalink: /tracks/indian-summer-doors/
+permalink: /database/tracks/indian-summer-doors/
 name: indian-summer-doors
 type: ahfow_track
 track-id: 267
