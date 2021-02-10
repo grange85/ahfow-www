@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+{% assign newtitle = page.title %}
+{% if page.description %}{% assign description = page.description %}{% endif %}
+{% include head.html %}
+<body>
+	{% include tagmanager.html %}
+	{% include header.html %}
+	{% include social.html %}
+	<div class="container">
+		<div class="row">
+		<div class="wrapper col-md-9">
+			<div class="row">
+				<div class="col-md-12">
+					<nav>
+						<ul class="breadcrumb">
+							<li><a href="/">Home</a></li>
+							<li><a href="/database/">Database</a></li>
+							{% case page.list %}
+								{% when 'covers' %}
+									{% assign tracks = site.tracks | where: "cover", true | sort: 'track-sort' %}
+									{% assign cover = true %}
+									<li><a href="/database/tracks/">Tracks</a></li>
+									<li>Covers</li>
+								{% when 'chords' %}
+									{% assign tracks = site.tracks | where: "track-guitar-flag", true | sort: 'track-sort' %}
+									<li><a href="/database/tracks/">Tracks</a></li>
+									<li>Chords</li>
+								{% when 'videos' %}
+									{% assign tracks = site.tracks | where: "video-flag", true | sort: 'track-sort' %}
+									<li><a href="/database/tracks/">Tracks</a></li>
+									<li>Videos</li>
+								{% else %}
+									{% assign tracks = site.tracks | sort: 'track-sort' %}
+									<li>Tracks</li>
+							{% endcase %}
+						</ul>
+					</nav>
+				</div>
+			</div>
+			{% assign newsection = 'A' %}
+			<div class="row">
+				<div class="col-md-12">
+				{{content}}
+				<h3>{{ newsection }}</h3>
+				<ul>
+				{% for track in tracks %}
+					{% assign currentsection = newsection %}
+					{% assign newsection = track.track-sort | truncate: 1, '' | upcase %}
+					{% if newsection != currentsection %}
+						</ul><h3>{{ newsection }}</h3><ul>
+					{% endif %}
+					<li><a href="{{ track.url | prepend: site.baseurl }}">{{ track.title }}</a> {% if track.track-author %}<em>({{track.track-author}})</em>{% endif %}{% if cover %} - Originally by: {{track.track-original}}{% endif %}</li>
+				{% endfor %}  <!-- page-category -->
+				</ul>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-3">
+			{% include sidebar.html %}
+		</div>
+	</div>
+</div>
+{% include footer.html %}
+</body>
+</html>

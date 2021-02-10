@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+	{% assign artist = site.data.artists[page.artistslug] %}
+	{% capture newtitle %}{% if page.artist %}{{page.artist}}{% else %}{{artist.name}}{% endif %} - {{page.albumname}}{% endcapture %}
+{% if page.description %}{% assign description = page.description %}{% else %}
+	{% capture description %}Details for the release {{page.albumname}} by {{artist.name}} first issued in {{page.initial_release_date}}. Including track listings, production credits and sleeve scans.{% endcapture %}
+{% endif %}
+	{% assign ogimage = page.imageurl %}
+	{% include head.html %}
+<body>
+	{% include tagmanager.html %}
+	{% include header.html %}
+	{% include social.html %}
+	<div class="container">
+		<div class="row">
+			<div class="wrapper col-md-9">
+				<div class="row">
+					<div class="col-md-12">
+						<nav>
+							<ul class="breadcrumb">
+								<li><a href="/">Home</a></li>
+								<li><a href="/database/">Database</a></li>
+
+								<li><a href="/database/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %}</a></li>
+
+
+							{% case artist.slug %}
+							{% when "dean-and-britta" %}
+								<li><a href="/database/dean-and-britta/dean-and-britta-releases/" >Dean & Britta discography</a></li>
+							{% when "dean-wareham" %}
+								<li><a href="/database/dean-and-britta/dean-wareham-releases/" >Dean Wareham discography</a></li>
+							{% when "britta-phillips" %}
+								<li><a href="/database/dean-and-britta/britta-phillips-releases/" >Britta Phillips discography</a></li>
+							{% else %}
+								<li><a href="/database/{{artist.slug}}/releases/" >{{artist.name}} discography</a></li>
+							{% endcase %}
+
+								<li>{% if page.artist %}{{page.artist}}{% else %}{{artist.name}}{% endif %} - {{page.albumname}}</li>
+							</ul>
+						</nav>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12">
+						{% if page.notes %}
+							{{ page.notes | newline_to_br }}
+						{% endif %}
+						{{content}}
+					</div>
+				</div>
+				{% if page.bandcamp-id %}
+				<div class="row">
+					<div class="col-md-12">
+						<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album={{page.bandcamp-id}}/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless></iframe>
+						<p>{% icon fa-music %} <a href="{{page.bandcamp-url}}">Buy/stream {{page.albumname}} on bandcamp</a></p>
+					</div>
+				</div>
+				{% endif %}
+				<div class="row">
+					<div class="col-md-12">
+						{% if page.releases.size > 1 %}
+							<h3>Versions</h3>
+								<ul class="" role="menu" aria-labelledby="release-versions" id="release-versions-contents">
+								{% for releases in page.releases %}
+									<li role="navigation"><a href="#{{ releases.version }}" aria-controls="{{ releases.version }}" role="" data-toggle="">
+									{% if releases.version %}{{ releases.label }} {% endif %}
+									{% if releases.year %} {{ releases.year }} {% endif %}
+									{% if releases.format %} {{ releases.format }} {% endif %}
+									{% if releases.version %} ({{ releases.version }}) {% endif %}</a></li>
+								{% endfor %}
+								</ul>
+						{% endif %}
+						<div class="">
+							{% for releases in page.releases %}
+							<div role="" class="panel panel-default" id="{{ releases.version }}">
+								<div class="panel-heading"><h3>{{ releases.label }} ({{ releases.year }})</h3></div>
+
+								<div class="panel-body">
+								<div class="row">
+									<div class="col-md-6">
+										{% for group in releases.groups %}
+											{% if group.group %}
+												<strong>{{group.group}}</strong>
+											{% endif %}
+											<ul>
+											{% for track in group.tracks %}
+												<li>
+													{% if track.artist %}
+														 {{track.artist}} - 
+													{% endif %}
+												{% if track.title contains '^' %}
+												{{track.title | remove_first:'^'}}{% if track.notes %}&nbsp;({{track.notes}}){% endif %}
+												{% else %}
+												<a href="/database/tracks/{% if track.link %}{{track.link}}{% else %}{{track.title|replace: '&','and'|slugify}}{% endif %}/">{{track.title}}{% if track.notes %}&nbsp;({{track.notes}}){% endif %}</a>
+												{% endif %}
+													{% if track.author %}
+														<em>({{track.author}})</em>
+													{% endif %}
+												</li>
+											{% endfor %}
+											</ul>
+										{% endfor %}
+										<ul>
+											<li>{{ releases.label }} <em>({% if releases.catno %}{{ releases.catno }}, {% endif %}{{releases.year}})</em></li>
+											{% if releases.format %}<li>Format: {{releases.format}}</li>{% endif %}
+										</ul>
+										{% if releases.release_notes %}<div>{{releases.release_notes | newline_to_br}}</div>{% endif %}
+									</div>
+									<div class="col-md-6">
+										<figure>
+										{%  capture imagetest %}X{{releases.imageurl}}{% endcapture %}
+										{% if imagetest == 'X' %}
+											<img src="https://media.fullofwishes.co.uk/00-misc/ahfow-web/sleeve-required-new.jpg" alt="{{releases.albumname}} sleeve image">
+										{% else %}
+											<img src="{{releases.imageurl}}">
+										{% endif %}
+										<figcaption>{{ page.albumname }}</figcaption>
+										</figure>
+									</div>
+								</div>
+								</div>
+							</div>
+						{% endfor %}
+					</div>
+
+				</div>
+			</div>
+		</div>
+		<div class="col-md-3">
+			{% include sidebar.html %}
+		</div>
+	</div>
+</div>
+	{% include footer.html %}
+</body>
+</html>

@@ -12,10 +12,46 @@ podcast-description: >
   A Head full of Wishes is a site for fans of Galaxie 500, Luna, Damon & Naomi, Dean & Britta and Dean Wareham. The podcast is as much about being a fan as it is about the music.
 image: https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image.jpg
 
+
+collections_dir: collections
+
 collections: 
   articles:
     output: true
     permalink: /:collection/:name/
+  tracks:
+    output: true
+    permalink: database/tracks/:title/
+  galaxie-500-releases:
+    output: true
+    permalink: database/galaxie-500/releases/:title/
+  galaxie-500-shows:
+    output: true
+    permalink: database/galaxie-500/shows/:path/
+  luna-releases:
+    output: true
+    permalink: database/luna/releases/:title/
+  luna-shows:
+    output: true
+    permalink: database/luna/shows/:path/
+  damon-and-naomi-releases:
+    output: true
+    permalink: database/damon-and-naomi/releases/:title/
+  damon-and-naomi-shows:
+    output: true
+    permalink: database/damon-and-naomi/shows/:path/
+  dean-and-britta-releases:
+    output: true
+    permalink: database/dean-and-britta/dean-and-britta-releases/:title/
+  dean-and-britta-shows:
+    output: true
+    permalink: database/dean-and-britta/shows/:path/
+  dean-wareham-releases:
+    output: true
+    permalink: database/dean-and-britta/dean-wareham-releases/:title/
+  britta-phillips-releases:
+    output: true
+    permalink: database/dean-and-britta/britta-phillips-releases/:title/
 
 twitter_username: ahfow
 github_username:  grange85
