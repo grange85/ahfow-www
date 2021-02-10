@@ -1,7 +1,7 @@
 ---
 layout: track
 categories: track
-title: My Flower
+title: My Flower (Watashi No Hana)
 name: my-flower-watashi-no-hana
 type: ahfow_track
 track-id: 296

@@ -22,6 +22,6 @@ You Turned My Head Around was written by Lee Hazelwood and first released by sin
 <p>https://www.youtube.com/watch?v=-sBOLuQNMdU</p>
 <p>Dean & Britta's cover was on their 2007 album Back Numbers and was called You Turned My Head Around, it was accompanied by this lovely video, where it's called You Turn My Head Around.</p>
 <p>https://www.youtube.com/watch?v=IaPFJGN28bA</p>
-<p>The inconsistent naming was beginning to bother me... so much so that <a href="/2008/03/you-turned-my-head-around-video/" title="You Turn(ed) My Head Around video">I wrote a blog post</a> moaning about it... Dean then emailed me to clear things up (a little)...</p>
+<p>The inconsistent naming was beginning to bother me... so much so that <a href="/2008/03/06/you-turned-my-head-around-video/" title="You Turn(ed) My Head Around video">I wrote a blog post</a> moaning about it... Dean then emailed me to clear things up (a little)...</p>
 <blockquote><p>My original 7" single calls the song "You Turned My Head Around", which is how it is registered with the songwriting society also, so that's what I went with for our CD.</p>
 <p>But on the Lee Hazlewood CD "The Cowboy and the Lady" (the song was not on the original vinyl release of that album, but was added as a bonus to the CD) it is listed as "You Turn".</p></blockquote>

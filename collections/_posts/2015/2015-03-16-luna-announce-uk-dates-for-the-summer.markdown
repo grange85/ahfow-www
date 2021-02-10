@@ -18,7 +18,7 @@ categories:
 tags: []
 ---
 <p><img src="https://media.fullofwishes.co.uk/02-luna/pictures/luna-promo-2015-a.jpg" width="2048" height="1364" class="aligncenter"><br />
-OK - having got over the excitement of <a href="/2015/03/luna-announce-london-date-for-july/" title="Luna announce London date for July&nbsp;">Luna announcing a show on my doorstep</a>, I feel that the rest of the country deserves to know that Luna have announced a number of dates in the UK during the summer. So far four dates have been announced in London, Leeds, Glasgow and Manchester:</p>
+OK - having got over the excitement of <a href="/2015/03/16/luna-announce-london-date-for-july/" title="Luna announce London date for July&nbsp;">Luna announcing a show on my doorstep</a>, I feel that the rest of the country deserves to know that Luna have announced a number of dates in the UK during the summer. So far four dates have been announced in London, Leeds, Glasgow and Manchester:</p>
 <ul>
 <li>30 July 2015 - Luna at The Old Market, Brighton, UK</li>
 <li>31 July 2015 - Luna at The Garage, London, UK</li>

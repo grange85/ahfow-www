@@ -30,5 +30,5 @@ tags: []
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Y-XSfoqYZY" frameborder="0" allowfullscreen></iframe>
 
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/justin-dean-lee-2014.jpg" width="640" height="640" class /><figcaption class="caption-text"> Justin, Dean and Lee in LA in 2014</figcaption></figure>
-<p>No pics or video of this one but <a href="/2008/08/34-of-luna-on-stage-in-nyc/">Sean joined Dean & Britta for 23 Minutes in NYC in 2008</a>, Sean said:-<br />
+<p>No pics or video of this one but <a href="/2008/08/29/34-of-luna-on-stage-in-nyc/">Sean joined Dean & Britta for 23 Minutes in NYC in 2008</a>, Sean said:-<br />
 <blockquote>It was definitely a slightly emotional and strange moment for me and for Dean & Britta….! We hadn’t decided we were going to play anything until late that afternoon. no rehearsal or soundcheck for it.</p></blockquote>

@@ -18,11 +18,11 @@ tags: []
 ---
 <p><img src="https://media.fullofwishes.co.uk/00-misc/pictures/muybridge-dancing.jpg" width="717" height="307" class="aligncenter" /></p>
 <p>I started the originals series on 31 January 2013 so it took me one year and eight months to get through them all... here's a few stats<br />
-<a href="/list-originals/#galaxie_500">Covered by Galaxie 500</a> : 12<br />
-<a href="/list-originals/#luna">Covered by Luna</a> : 21<br />
-<a href="/list-originals/#damon_and_naomi">Covered by Damon & Naomi</a>[<a href="#footnote-1">1</a>] : 24<br />
-<a href="/list-originals/#dean_and_britta">Covered by Dean & Britta</a> : 17<br />
-<a href="/list-originals/#dean_wareham">Covered by Dean Wareham</a>[<a href="#footnote-2">2</a>] : 15</p>
+ - Covered by Galaxie 500 : 12
+Covered by Luna</a> : 21
+Covered by Damon & Naomi[<a href="#footnote-1">1</a>] : 24
+Covered by Dean & Britta : 17
+Covered by Dean Wareham[<a href="#footnote-2">2</a>] : 15
 <p>Most covered songwriters<br />
 Jonathan Richman : 4<br />
 Lou Reed : 4 (solo and with the VU - plus a bonus coming down this very page)<br />
@@ -39,4 +39,4 @@ Lee Hazelwood : 3</p>
 <h3>Footnotes</h3>
 <p id="footnote-1">1: Including Magic Hour</p>
 <p id="footnote-2">2: Including Cagney and Lacee. Not including the covers on Emancipated Hearts or Dean Wareham as both were released after I started the series.</p>
-<p id="footnote-3">3: Technically John Lennon also gets a credit on <a href="/2013/04/originals-cheese-and-onions-by-the-rutles-covered-by-galaxie-500/" title="Originals: Cheese and Onions by The Rutles (covered by Galaxie 500)">Cheese and Onions</a></p>
+<p id="footnote-3">3: Technically John Lennon also gets a credit on <a href="/2013/04/10/originals-cheese-and-onions-by-the-rutles-covered-by-galaxie-500/" title="Originals: Cheese and Onions by The Rutles (covered by Galaxie 500)">Cheese and Onions</a></p>
