@@ -49,7 +49,7 @@ releases:
        - title: The Robot Speaks
          notes:
          author: Krukowski/Yang
-       - title: Araçá Azul
+       - title: Araca Azul
          notes:
          author: Caetano Veloso
        - title: The Earth is Blue

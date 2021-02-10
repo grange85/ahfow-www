@@ -26,7 +26,7 @@ Join A Head Full of Wishes to listen to the new On Fire \| 30 tribute album - yo
 OK - this is what was tweeted during the listening party - I've left in the timings so you can listen along!
 
 > *22:30*  
-> Welcome to the On Fire | 30 listening party playing an album celebrating the 30th anniversary of Galaxie 500's mastepiece On Fire - you can hear the full album over here: [https://www.fullofwishes.co.uk/articles/on-fire-30-listening-party/](https://www.fullofwishes.co.uk/articles/on-fire-30-listening-party/) [#galaxie500](https://twitter.com/hashtag/galaxie500) [#onfire30](https://twitter.com/hashtag/onfire30) [#listeningparty](https://twitter.com/hashtag/listeningparty)
+> Welcome to the On Fire | 30 listening party playing an album celebrating the 30th anniversary of Galaxie 500's mastepiece On Fire - you can hear the full album over here: [https://www.fullofwishes.co.uk/articles/on-fire-30-listening-party/](https://www.fullofwishes.co.uk/articles/2019-on-fire-30-listening-party/) [#galaxie500](https://twitter.com/hashtag/galaxie500) [#onfire30](https://twitter.com/hashtag/onfire30) [#listeningparty](https://twitter.com/hashtag/listeningparty)
 
 
 > *22:30*  

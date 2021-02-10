@@ -77,7 +77,7 @@ releases:
       - title: One Fine Summer Morning
         notes:
         author: Evie Sands
-      - title: The Million Dollar Doll
+      - title: Million Dollar Doll
         notes:
         author:
       - title: Drive

@@ -34,4 +34,4 @@ tags: []
 <li>Roll in the Sand (Lyrics: Wareham, Music: LUNA)</li>
 <li>Dear Paulina (Lyrics: Wareham, Music: LUNA)</li>
 </ul>
-<p><a href="/database/luna/releases/luna-long-players-92-99.html">The full track list for the box can be found here</a>.</p>
+<p><a href="/database/luna/releases/luna-long-players-92-99/">The full track list for the box can be found here</a>.</p>

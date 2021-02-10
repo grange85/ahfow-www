@@ -5,7 +5,7 @@ show-venue: 'Sala Be Good, Barcelona, Spain'
 show-setlist:
  - How Do I Say Goodbye
  - Judah and The Maccabees
- - The Eye of The Storm
+ - Eye of The Storm
  - A Shining Dream
  - Lilac Land
  - Turn of The Century

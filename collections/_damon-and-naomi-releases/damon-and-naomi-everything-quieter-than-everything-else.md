@@ -52,7 +52,7 @@ releases:
        - title: A Second Life
          notes: Shibuya O Nest, Tokyo, Japan - 2005
          author:
-       - title: Araçá Azul
+       - title: Araca Azul
          notes: Shibuya O Nest, Tokyo, Japan - 2005
          author: Caetano Veloso
        - title: The Earth is Blue

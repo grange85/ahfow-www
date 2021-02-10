@@ -137,4 +137,4 @@ releases:
          notes: video
          author: Krukowski/Wareham/Yang
 ---
-Previously available as part of the [box set](/galaxie-500/releases/galaxie-500-galaxie-500.html)
+Previously available as part of the [box set](/database/galaxie-500/releases/galaxie-500-galaxie-500/)

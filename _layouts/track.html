@@ -41,7 +41,7 @@
 							<h3>Available on</h3>
 							<ul>
 							{% for avail in page.available-on %}
-								<li><a href="/database{{avail.url}}">{{avail.release}}</a></li>
+								<li><a href="{{avail.url}}">{{avail.release}}</a></li>
 							{% endfor %}
 						</ul>
 						{% endif %}

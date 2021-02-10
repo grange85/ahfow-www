@@ -49,7 +49,7 @@ The long, long overdue <a href="http://www.amazon.com/gp/product/1891241567/ref=
 </p>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/qNyjPxW2wT4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p><strong>June 2013</strong><br />
-On the 20th anniversary of <em>Luna</em>'s tour with The Velvet Underground, <em>AHFoW</em> posted <a href="/list-dean-warehams-velvet-underground-tour-diary/">Dean Wareham's tour diary</a> that originally got published in AP.<br />
+On the 20th anniversary of <em>Luna</em>'s tour with The Velvet Underground, <em>AHFoW</em> posted <a href="/category/velvet-underground-tour-diary/">Dean Wareham's tour diary</a> that originally got published in AP.<br />
 <img src="https://media.fullofwishes.co.uk/02-luna/pictures/27739_1364130156664_1633930988_855079_2778093_n.jpg" width="720" height="495" class="aligncenter" /></p>
 <p><strong>July 2013</strong><br />
 <a href="/2013/07/31/extracurricular-videos-by-naomi-yang/" title="Extracurricular: Videos by Naomi Yang"><em>Naomi</em>'s continued her lovely forays into video-making</a> with a video for Future Bible Heroes "Living, Loving, Partygoing"<br />

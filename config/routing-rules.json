@@ -165,6 +165,16 @@
         "Protocol": "https",
         "ReplaceKeyPrefixWith": "ahfow/"
       }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "2010/06/15/audio-a-fleet-of-tugboats/"
+      },
+      "Redirect": {
+        "HostName": "www.fullofwishes.co.uk",
+        "Protocol": "https",
+        "ReplaceKeyPrefixWith": "articles/2010-a-fleet-of-tugboats/"
+      }
     }
   ]
 }
