@@ -6,7 +6,7 @@ artist:
 show-venue: "Johnny Brenda's, Philadelphia, PA, USA"
 setlist-source: 'Galaxie 500 Mailing List'
 show-setlist: [
-  "Silver Factory",
+  "Silver Factory Theme",
   "Night Nurse",
   "Words You Used To Say",
   "Knives From Bavaria",

@@ -21,7 +21,7 @@
 								<li><a href="/">Home</a></li>
 								<li><a href="/database/">Database</a></li>
 
-								<li><a href="/database/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %}</a></li>
+								<li><a href="/database/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %}</a></li>
 
 
 							{% case artist.slug %}

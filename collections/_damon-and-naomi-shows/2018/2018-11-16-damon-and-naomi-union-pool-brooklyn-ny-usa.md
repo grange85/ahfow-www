@@ -3,10 +3,10 @@ layout: show
 artistslug: damon-and-naomi
 show-venue: '​Union Pool, Brooklyn, NY, USA'
 show-setlist:
- - Say Goodbye
+ - How Do I Say Goodbye
  - Judah and The Maccabees
  - New York City
- - A Spinning Dream
+ - A Shining Dream
  - Lilac Land
  - What She Brings
  - The Robot Speaks

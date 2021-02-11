@@ -175,6 +175,16 @@
         "Protocol": "https",
         "ReplaceKeyPrefixWith": "articles/2010-a-fleet-of-tugboats/"
       }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "tracks/i-m-not-a-young-man-anymore/"
+      },
+      "Redirect": {
+        "HostName": "www.fullofwishes.co.uk",
+        "Protocol": "https",
+        "ReplaceKeyPrefixWith": "tracks/not-a-young-man-anymore/"
+      }
     }
   ]
 }

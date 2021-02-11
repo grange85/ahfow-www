@@ -49,6 +49,7 @@ releases:
          notes:
          author: Phillips/Wareham
        - title: Crystal Blue R.I.P.
+         link: crystal-blue-rip
          notes:
          author: Kember/Phillips/Wareham
        - title: The Sun is Still Sunny

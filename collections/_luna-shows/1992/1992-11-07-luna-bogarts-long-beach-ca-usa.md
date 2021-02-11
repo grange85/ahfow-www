@@ -4,7 +4,7 @@ artistslug: luna
 show-venue: "Bogart's, Long Beach CA, USA"
 show-setlist:
  - Slide
- - Say Goodbye
+ - Goodbye
  - Slash Your Tires
  - Smile
  - I Can't Wait

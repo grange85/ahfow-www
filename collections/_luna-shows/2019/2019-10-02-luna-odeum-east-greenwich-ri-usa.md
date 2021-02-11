@@ -15,7 +15,7 @@ show-setlist:
   - Friendly Advice
   - Bewitched
   - This Time Around
-  - Great Jones St.
+  - Great Jones Street
   - Going Home
   - Into the Fold
   - I Know You Tried

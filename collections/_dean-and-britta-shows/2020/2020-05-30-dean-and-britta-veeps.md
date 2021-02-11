@@ -6,7 +6,7 @@ artist:
 show-venue: Dean & Britta's living room, Echo Park, Los Angeles, CA, USA
 show-notes: ''
 show-setlist:
- - I'm So Bored With The USA
+ - I'm So Bored With The U.S.A.
  - The Carnival is Over
  - 23 Minutes in Brussels
  - Mountains of The Moon

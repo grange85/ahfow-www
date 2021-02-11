@@ -23,6 +23,7 @@ releases:
     - group: CDr
       tracks:
        - title: Araçá Azul
+         link: araca-azul
          notes:
          author: Caetano Veloso
        - title: The Earth is Blue
@@ -33,6 +34,7 @@ releases:
        - title: Song to the Siren
          author: Tim Buckley
        - title: My Flower
+         link: my-flower-watashi-no-hana
          author: K Tomokawa
        - title: Love
          author: Aizawa/Hayakawa

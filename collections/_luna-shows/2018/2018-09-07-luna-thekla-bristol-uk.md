@@ -15,7 +15,7 @@ show-setlist:
  - Chinatown
  - Sideshow by the Seashore
  - Fire in Cairo
- - Beggars Bliss
+ - Beggar's Bliss
  - Bewitched
  - I Want Everything
  - Lonesome Cowboy Bill

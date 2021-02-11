@@ -8,7 +8,7 @@ show-setlist:
  - Anesthesia
  - Ride Into the Sun
  - I Can't Wait
- - Tempearature's Rising
+ - Temperature's Rising
  - Hey Sister
  - Slash Your Tires
  - Smile

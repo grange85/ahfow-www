@@ -6,7 +6,7 @@ artist:
 show-venue: Dean & Britta's living room, Echo Park, LA, USA
 show-notes: ''
 show-setlist:
- - Walking Through The Sleepy City
+ - Walkin' Thru The Sleepy City
  - Hearing Voices
  - California Blue
 show-date: 2020-04-28

@@ -66,4 +66,4 @@ Edited and mastered by Alan Douches
 Produced by Damon & Naomi
 with thanks to Masaki Batoh
 
-Also re-released as part of [1001 Nights](/damon-and-naomi/releases/1001-nights.html)
+Also re-released as part of [1001 Nights](/database/damon-and-naomi/releases/damon-and-naomi-1001-nights/)
