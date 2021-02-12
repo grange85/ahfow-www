@@ -10,6 +10,6 @@ track-sort: "LET ME DREAM IF I WANT TO"
 track-original: Mink DeVille
 available-on:
  - release: Luna - A Sentimental Education
-   url: /luna/releases/luna-a-sentimental-education/
+   url: /database/luna/releases/luna-a-sentimental-education/
 cover: true
 ---

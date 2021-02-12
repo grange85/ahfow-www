@@ -11,5 +11,5 @@ track-sort: "SILVER THREAD, A"
 track-original: 
 available-on:
  - release: Damon & Naomi - Within These Walls
-   url: /damon-and-naomi/releases/damon-and-naomi-within-these-walls/
+   url: /database/damon-and-naomi/releases/damon-and-naomi-within-these-walls/
 ---

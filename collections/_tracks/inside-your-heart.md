@@ -10,9 +10,9 @@ track-sort: "INSIDE YOUR HEART"
 track-original: The Monochrome Set
 available-on:
   - release: "Inside Your Heart"
-    url: /luna/releases/luna-inside-your-heart/
+    url: /database/luna/releases/luna-inside-your-heart/
   - release: "Postscripts"
-    url: /luna/releases/luna-postscripts/
+    url: /database/luna/releases/luna-postscripts/
 ahfow-posts:
 cover: true
 ---

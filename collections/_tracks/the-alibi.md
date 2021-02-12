@@ -11,5 +11,5 @@ track-sort: "ALIBI"
 track-original: 
 available-on:
   - release: Luna - Close Cover Before Striking
-    url: /luna/releases/luna-close-cover-before-striking/
+    url: /database/luna/releases/luna-close-cover-before-striking/
 ---

@@ -9,6 +9,6 @@ track-sort: "BEND IN THE RIVER"
 track-original: Marty Robbins
 available-on:
  - release: Dean Wareham vs. Cheval Sombre
-   url: /dean-and-britta/dean-wareham-releases/dean-wareham-vs-cheval-sombre/
+   url: /database/dean-and-britta/dean-wareham-releases/dean-wareham-vs-cheval-sombre/
 cover: true
 ---

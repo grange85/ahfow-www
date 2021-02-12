@@ -10,7 +10,7 @@ track-sort: KUIPER BELT
 track-original: 
 available-on:
   - release: "Something In The Air"
-    url: /luna/releases/luna-something-in-the-air/
+    url: /database/luna/releases/luna-something-in-the-air/
   - release: "Postscripts"
-    url: /luna/releases/luna-postscripts/
+    url: /database/luna/releases/luna-postscripts/
 ---

@@ -11,7 +11,7 @@ track-sort: "CARNIVAL IS OVER"
 track-original: The Seekers
 available-on:
   - release: "Dean & Britta - The Carnival is Over"
-    url: /dean-and-britta/dean-and-britta-releases/dean-and-britta-the-carnival-is-over/
+    url: /database/dean-and-britta/dean-and-britta-releases/dean-and-britta-the-carnival-is-over/
 ahfow-posts:
 cover: true
 ---

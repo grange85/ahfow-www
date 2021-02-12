@@ -10,6 +10,6 @@ track-sort: "FRIENDS"
 track-original: The Velvet Underground
 available-on:
  - release: Luna - A Sentimental Education
-   url: /luna/releases/luna-a-sentimental-education/
+   url: /database/luna/releases/luna-a-sentimental-education/
 cover: true
 ---

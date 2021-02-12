@@ -10,5 +10,5 @@ track-sort: "IDES OF MARCH OF THE TROLLS"
 track-original: 
 available-on:
  - release: Luna - A Place Of Greater Safety
-   url: /luna/releases/luna-a-place-of-greater-safety/
+   url: /database/luna/releases/luna-a-place-of-greater-safety/
 ---

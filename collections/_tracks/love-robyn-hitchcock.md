@@ -57,5 +57,5 @@ track-original: Robyn Hitchcock
 cover: true
 available-on:
  - release: Dean & Britta - Love / Fallin' in Love
-   url: /dean-and-britta/releases/dean-and-britta-love-fallin-in-love/
+   url: /database/dean-and-britta/releases/dean-and-britta-love-fallin-in-love/
 ---

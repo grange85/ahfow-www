@@ -12,5 +12,5 @@ track-original: The Incredible String Band
 cover: true
 available-on:
  - release: Dean Wareham - Emancipated Hearts
-   url: /dean-and-britta/dean-wareham-releases/dean-wareham-emancipated-hearts/
+   url: /database/dean-and-britta/dean-wareham-releases/dean-wareham-emancipated-hearts/
 ---
