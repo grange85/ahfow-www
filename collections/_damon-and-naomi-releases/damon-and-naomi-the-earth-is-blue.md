@@ -49,7 +49,8 @@ releases:
        - title: The Robot Speaks
          notes:
          author: Krukowski/Yang
-       - title: Araca Azul
+       - title: Araçá Azul
+         link: araca-azul
          notes:
          author: Caetano Veloso
        - title: The Earth is Blue
@@ -96,6 +97,7 @@ releases:
          notes:
          author: Krukowski/Yang
        - title: Araçá Azul
+         link: araca-azul
          notes:
          author: Caetano Veloso
        - title: The Earth is Blue
@@ -140,6 +142,7 @@ releases:
          notes:
          author: Krukowski/Yang
        - title: Araçá Azul
+         link: araca-azul
          notes:
          author: Caetano Veloso
        - title: The Earth is Blue
@@ -184,6 +187,7 @@ releases:
          notes:
          author: Krukowski/Yang
        - title: Araçá Azul
+         link: araca-azul
          notes:
          author: Caetano Veloso
        - title: The Earth is Blue
@@ -238,6 +242,7 @@ releases:
          notes:
          author: Krukowski/Yang
        - title: Araçá Azul
+         link: araca-azul
          notes:
          author: Caetano Veloso
        - title: The Earth is Blue
