@@ -17,7 +17,7 @@ categories:
 - audio
 tags: []
 ---
-On the night of the 11 February 1990 Galaxie 500 where supposed to be
+On the night of the 11th February 1990 Galaxie 500 where supposed to be
 supporting indie flavour-of-the-month The Sundays at the Town and Country
 club, sadly Sundays singer Harriet had a sore throat and the show was
 cancelled. This recording was from the hastily arranged show that Galaxie 500
