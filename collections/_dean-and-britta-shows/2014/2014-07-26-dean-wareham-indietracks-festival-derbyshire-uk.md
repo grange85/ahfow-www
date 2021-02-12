@@ -27,7 +27,7 @@ show-setlist:
     url: http://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-2014-07-26-indietracks-uk/10-dean-wareham-babes-in-the-wood.mp3
   - title: Tugboat
     url: http://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-2014-07-26-indietracks-uk/11-dean-wareham-tugboat.mp3
-  - title: Fourth Of July
+  - title: Fourth of July
     url: http://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-2014-07-26-indietracks-uk/12-dean-wareham-fourth-of-july.mp3
 show-date: 2014-07-26
 category: 2014

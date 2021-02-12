@@ -38,7 +38,7 @@ The New World,The Great Wall, Tanka – in amongst these was thrown a couple of
 oldies Turn of The Century, New York City, Eye Of The Storm, The Navigator – a
 couple of covers Tim Buckley's Song To The Siren and a quite beautiful take on
 Gram Parsons' A Song For You. Having been tempted back for a second encore we
-were then treated to This Car Climbed Mt Washington.  
+were then treated to This Car Climbed Mt. Washington.  
 All in all a very pleasant evening and worth dragging myself out of my sick
 bed for. Shame I can't make it to Wolverhampton tomorrow.
 

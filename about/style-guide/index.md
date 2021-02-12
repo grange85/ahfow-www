@@ -80,6 +80,9 @@ Beggar's Bliss
 Four Thousand Days
 : number spelt out (on the sleeve of Luna Live it's spelt 4000 Days - *this is wrong!*)
 
+Great Jones Street
+: never abbreviated to St.
+
 Malibu Love Nest
 : not Lovenest
 
@@ -116,5 +119,8 @@ How Long
 
 You Turned My Head Around
 : note past tense, so not _Turn_ - Dean contacted me about this when I was stressing&hellip; he wrote: "My original 7" single calls the song _You Turned My Head Around_, which is how it is registered with the songwriting society also, so that's what I went with for our CD."
+
+(Walkin' Thru The) Sleepy City
+: note spelling and parantheses,
 
 <h4 id="other-titles">Other titles</h4>
