@@ -33,7 +33,7 @@ The Sundays rescheduled for later in the month but sadly Galaxie 500 where no
 longer available to provide support.
 
  {% ahfowaudio {
-  "audiourl": "https://media.fullofwishes.co.uk/01-galaxie-500/audio/08-galaxie-500-1990-02-11-falcon-when-will-you-come-home.mp3",
+  "audiourl": "https://media.fullofwishes.co.uk/01-galaxie_500/audio/08-galaxie-500-1990-02-11-falcon-when-will-you-come-home.mp3",
   "audiocap": "Galaxie 500 - When Will You Come Home (Camden Falcon, 11th February 1990)",
   "sourceurl": "/database/galaxie-500/shows/1990/1990-02-11-galaxie-500-falcon-london-uk/",
   "sourcecap": "11th February 1990 - Galaxie 500 - Falcon, London, UK"

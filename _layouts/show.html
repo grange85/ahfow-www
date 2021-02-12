@@ -62,7 +62,7 @@
 							<li>{% icon fa-download %} <a href="{{page.show-download.url}}" target="_blank">Download this show</a> ({{page.show-download.site}})</li>
 						{% endif %}
 						{% if page.facebook-event-url %}
-							<li>{% icon fa-facebook-square brand %} <a href="{{page.facebook-event-url}}" target="_blank">Facebook event</a></li>
+							<li><a href="{{page.facebook-event-url}}" target="_blank">Facebook event</a></li>
 						{% endif %}
 						{% capture nowdate %}{{'now' | date: '%s'}}{% endcapture %}
 						{% capture showdate %}{{page.show-date | date: '%s'}}{% endcapture %}
