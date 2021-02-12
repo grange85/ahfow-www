@@ -17,11 +17,12 @@ categories:
  - damon & naomi
 tags:
  - promotional material
+ - naomi yang
 flickr: true
 ---
 Happy birthday Naomi!
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48506259441/in/photostream/" title="Naomi Yang from Angry Women in Rock Volume 1"><img src="https://live.staticflickr.com/65535/48506259441_d6148dfd71_c.jpg" width="800" height="533" alt="Naomi Yang from Angry Women in Rock Volume 1"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48506259441/in/photostream/" title="Naomi Yang in Angry Women in Rock Volume 1"><img src="https://live.staticflickr.com/65535/48506259441_d6148dfd71_c.jpg" width="800" height="533" alt="Naomi Yang from Angry Women in Rock Volume 1"></a>
 
 In 1996 Naomi was interviewed by Andrea Juno for this book Angry Women in Rock Volume One. The book was published in New York and I never managed to track down a copy and admit that I stopped looking when another fan sent me a photocopy of Naomi's interview.
 
@@ -73,6 +74,7 @@ You'll find more birthday tributes to Naomi here with lots of photos, videos and
 - [Happy birthday Naomi Yang (2014)](https://www.fullofwishes.co.uk/2014/09/15/happy-birthday-naomi-yang-2014/)
 - [Happy birthday Naomi Yang (2015)](https://www.fullofwishes.co.uk/2015/09/15/happy-birthday-naomi-yang-2015/)
 - [Happy birthday Naomi Yang (2016)](https://www.fullofwishes.co.uk/2016/09/15/happy-birthday-naomi-yang-2016/)
+
 
 ---
 
