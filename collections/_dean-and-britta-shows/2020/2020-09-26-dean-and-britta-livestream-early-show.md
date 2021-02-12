@@ -15,7 +15,7 @@ show-setlist:
  - He Dines Out on Death
  - Duchess
  - The Slow Song
- - Walking Through The Sleepy City
+ - (Walkin' Thru The) Sleepy City
  - The Bend in The River
  - ^poem - Hearts Together by John Betjeman
  - It's Getting Late
