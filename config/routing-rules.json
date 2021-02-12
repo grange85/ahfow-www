@@ -185,6 +185,16 @@
         "Protocol": "https",
         "ReplaceKeyPrefixWith": "tracks/not-a-young-man-anymore/"
       }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "tracks/silver-factory/"
+      },
+      "Redirect": {
+        "HostName": "www.fullofwishes.co.uk",
+        "Protocol": "https",
+        "ReplaceKeyPrefixWith": "tracks/silver-factory-theme/"
+      }
     }
   ]
 }
