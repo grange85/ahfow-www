@@ -9,7 +9,7 @@ show-setlist:
  - Fire in Cairo
  - Math Wiz
  - Anesthesia
- - Beggars Bliss
+ - Beggar's Bliss
  - Malibu Love Nest
  - Sideshow by the Seashore
  - 23 Minutes in Brussels
