@@ -26,26 +26,26 @@ then
 
 	# list images
 	echo '<h2 id="images">Images</h2><ul>' >>_deploy/_admin/full-list.html
-	find /media/xander4/DATA/ahfow/media/ -type f \( -iname '*.jpg' -o -iname '*.png' -o -iname '*.gif' \)| sed -e 's/^\.\{1,2\}\/media//g' -e 's/.*/<li><a href="https:\/\/media.fullofwishes.co.uk&">&<\/a><\/li>/' | sort >> _deploy/_admin/full-list.html
+	find /media/xander4/DATA/ahfow/media/ -type f \( -iname '*.jpg' -o -iname '*.png' -o -iname '*.gif' \)| sed -e 's/^\/media\/xander4\/DATA\/ahfow\/media//g' -e 's/.*/<li><a href="https:\/\/media.fullofwishes.co.uk&">&<\/a><\/li>/' | sort >> _deploy/_admin/full-list.html
 	echo '</ul>' >>_deploy/_admin/full-list.html
 	echo "Image list created..."
 
 	# list audio
 	echo '<h2 id="audio">Audio</h2><ul>' >>_deploy/_admin/full-list.html
-	find /media/xander4/DATA/ahfow/media/ -type f \( -iname '*.mp3' -o -iname '*.m4a' \) | sed -e 's/^\.\{1,2\}\/media//g' -e 's/.*/<li><a href="https:\/\/media.fullofwishes.co.uk&">&<\/a><\/li>/' | sort >> _deploy/_admin/full-list.html
+	find /media/xander4/DATA/ahfow/media/ -type f \( -iname '*.mp3' -o -iname '*.m4a' \) | sed -e 's/^\/media\/xander4\/DATA\/ahfow\/media//g' -e 's/.*/<li><a href="https:\/\/media.fullofwishes.co.uk&">&<\/a><\/li>/' | sort >> _deploy/_admin/full-list.html
 	echo '</ul>' >>_deploy/_admin/full-list.html
 	echo "Audio list created..."
 
 	# list video
 	echo '<h2 id="videa">Video</h2><ul>' >>_deploy/_admin/full-list.html
-	find /media/xander4/DATA/ahfow/media/ -type f \( -iname '*.mov' -o -iname '*.mp4' -o -iname '*.flv' \) | sed -e 's/^\.\{1,2\}\/media//g' -e 's/.*/<li><a href="https:\/\/media.fullofwishes.co.uk&">&<\/a><\/li>/' | sort >> _deploy/_admin/full-list.html
+	find /media/xander4/DATA/ahfow/media/ -type f \( -iname '*.mov' -o -iname '*.mp4' -o -iname '*.flv' \) | sed -e 's/^\/media\/xander4\/DATA\/ahfow\/media//g' -e 's/.*/<li><a href="https:\/\/media.fullofwishes.co.uk&">&<\/a><\/li>/' | sort >> _deploy/_admin/full-list.html
 	echo '</ul>' >>_deploy/_admin/full-list.html
 	echo "Video list created..."
 
 
 	# list misc
 	echo '<h2 id="misc">Misc</h2><ul>' >>_deploy/_admin/full-list.html
-	find /media/xander4/DATA/ahfow/media/ -type f \( -iname '*.zip' -o -iname '*.pdf' -o -iname '*.doc' \) | sed -e 's/^\.\{1,2\}\/media//g' -e 's/.*/<li><a href="https:\/\/media.fullofwishes.co.uk&">&<\/a><\/li>/' | sort >> _deploy/_admin/full-list.html
+	find /media/xander4/DATA/ahfow/media/ -type f \( -iname '*.zip' -o -iname '*.pdf' -o -iname '*.doc' \) | sed -e 's/^\/media\/xander4\/DATA\/ahfow\/media//g' -e 's/.*/<li><a href="https:\/\/media.fullofwishes.co.uk&">&<\/a><\/li>/' | sort >> _deploy/_admin/full-list.html
 	echo '</ul>' >>_deploy/_admin/full-list.html
 	echo "Misc list created..."
 
