@@ -30,7 +30,7 @@ sitemap: false
 <ul>
   <li><a href="mailto:andy@fullofwishes.co.uk">Email</a></li>
   <li><a href="https://twitter.com/ahfow/">Twitter</a></li>
-  <li><a href="https://www,facebook.com/fullofwishes/">Facebook</a></li>
+  <li><a href="https://www.facebook.com/fullofwishes/">Facebook</a></li>
   <li><a href="https://www.instagram.com/fullofwishes/">Instagram</a></li>
   <li><a href="https://reddit.com/r/aheadfullofwishes/">Reddit</a></li>
 </ul>

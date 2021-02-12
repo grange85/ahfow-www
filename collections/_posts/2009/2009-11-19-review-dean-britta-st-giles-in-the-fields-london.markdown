@@ -29,7 +29,7 @@ tags: []
 <ul>
 <li>Tugboat</li>
 <li>Singer Sing</li>
-<li>Silver Factory</li>
+<li>Silver Factory Theme</li>
 <li>Hearing Voices</li>
 <li>The Sun is Still Sunny</li>
 <li>Tiger Lily</li>

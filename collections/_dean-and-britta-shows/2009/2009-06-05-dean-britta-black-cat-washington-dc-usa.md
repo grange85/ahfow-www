@@ -5,7 +5,7 @@ artist:
   name: Dean & Britta
 show-venue: 'Black Cat, Washington DC, USA'
 show-setlist: [
-  "Silver Factory",
+  "Silver Factory Theme",
   "Night Nurse",
   "Words You Used To Say",
   "Knives From Bavaria",

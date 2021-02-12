@@ -178,22 +178,22 @@
     },
     {
       "Condition": {
-        "KeyPrefixEquals": "tracks/i-m-not-a-young-man-anymore/"
+        "KeyPrefixEquals": "/database/tracks/i-m-not-a-young-man-anymore/"
       },
       "Redirect": {
         "HostName": "www.fullofwishes.co.uk",
         "Protocol": "https",
-        "ReplaceKeyPrefixWith": "tracks/not-a-young-man-anymore/"
+        "ReplaceKeyPrefixWith": "/database/tracks/not-a-young-man-anymore/"
       }
     },
     {
       "Condition": {
-        "KeyPrefixEquals": "tracks/silver-factory/"
+        "KeyPrefixEquals": "/database/tracks/silver-factory/"
       },
       "Redirect": {
         "HostName": "www.fullofwishes.co.uk",
         "Protocol": "https",
-        "ReplaceKeyPrefixWith": "tracks/silver-factory-theme/"
+        "ReplaceKeyPrefixWith": "/database/tracks/silver-factory-theme/"
       }
     }
   ]
