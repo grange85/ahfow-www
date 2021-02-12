@@ -24,7 +24,7 @@ flickr: true
 
 20 years ago this week the legendary Terrastock Festival had its third outing, and its only visit to London. Today's artefact is the three day pass that I sadly only managed to get one day of use out of. I genuinely can't remember why I didn't go for all three days - Adam was just over two so maybe that had something to do with it. I hope there was a good reason.
 
-[Here's my review from the time of Damon & Naomi's set at the show](https://www.fullofwishes.co.uk/1999/08/27/review-damon-naomi-ulu-london-uk-28th-august-1999/) 
+[Here's my review from the time of Damon & Naomi's set at the show](/articles/1999-08-28-review-damon-naomi-ulu-london-uk-28th-august-1999/) 
 
 Tom Rapp played the festival but I annoyingly managed to miss his set - but I did get to chat with him afterwards - [I wrote about that here](https://www.fullofwishes.co.uk/2018/02/12/tom-rapp-1947-2018/).
 

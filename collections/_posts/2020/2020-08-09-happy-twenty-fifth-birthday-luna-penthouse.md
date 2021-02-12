@@ -29,15 +29,15 @@ Obviously an efficiently run fan-site would have been ready for such a milestone
 
 But here goes anyway:
 
-_[Laura Lee Davies in Time Out, August 1995](https://www.fullofwishes.co.uk/2006/06/18/review-luna-penthouse-time-out-0895/)_
+_[Laura Lee Davies in Time Out, August 1995](/articles/1995-08-review-luna-penthouse-time-out-0895/)_
 > In the opening "Chinatown" and the lilting "Moon Palace" the album sprawls its soft, sleek self out like a pet waiting to be adored  
 > \[...\]  
 > Whatever the mood, though, "Penthouse" is Dean Wareham' achieving low-slung, urban cool without having to try too hard, which is the only way it should be done.  
 
-_[Stephen Dalton in NME, 12 August 1995](https://www.fullofwishes.co.uk/2006/06/18/review-luna-penthouse-nme-0895/)_
+_[Stephen Dalton in NME, 12 August 1995](/articles/1995-08-12-review-luna-penthouse-nme-0895/)_
 > It's a safe bet that Dean Wareham's record collection is huge,meticulously catalogued and cross referenced to death. His anal fanboyapproach has often stymied previous Luna outings with AOR staidness,but now, perhaps mindful of this, he's made his most feisty album yet.The Prozac has worn off, his eyelids are propped up, and Luna areready to rock. Sort of.  
 
-_[Mark Luffman in Melody Maker, 12 August 1995](https://www.fullofwishes.co.uk/2006/06/18/review-luna-penthouse-mm-120895/)_
+_[Mark Luffman in Melody Maker, 12 August 1995](/articles/1995-08-12-review-luna-penthouse-mm-120895/)_
 >  "Penthouse" is one of those records with its own internal logic, one of those records that, for one delicious moment, shifts your perspective. After playing it, the next dozen records you play, no matter what they are, will all sound strangely WRONG.
 
 

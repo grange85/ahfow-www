@@ -71,8 +71,8 @@ You'll find more birthday tributes to Naomi here with lots of photos, videos and
 - [Happy birthday Naomi Yang (2012)](https://www.fullofwishes.co.uk/2012/09/15/happy-birthday-naomi-yang/)
 - [Happy birthday Naomi Yang (2013)](https://www.fullofwishes.co.uk/2013/09/15/happy-birthday-naomi-yang-2/)
 - [Happy birthday Naomi Yang (2014)](https://www.fullofwishes.co.uk/2014/09/15/happy-birthday-naomi-yang-2014/)
-- [Happy birthday Naomi Yang (2015)](https://www.fullofwishes.co.uk/2015/09/14/happy-birthday-naomi-yang-2015/)
-- [Happy birthday Naomi Yang (2016)](https://www.fullofwishes.co.uk/2016/09/14/happy-birthday-naomi-yang-2016/)
+- [Happy birthday Naomi Yang (2015)](https://www.fullofwishes.co.uk/2015/09/15/happy-birthday-naomi-yang-2015/)
+- [Happy birthday Naomi Yang (2016)](https://www.fullofwishes.co.uk/2016/09/15/happy-birthday-naomi-yang-2016/)
 
 ---
 

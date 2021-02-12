@@ -87,7 +87,7 @@ OK - this is what was tweeted during the listening party - I've left in the timi
 
 
 > *22:55*  
-> If you've just wandered in we're listening to the On Fire | 30 tribute album - you can join us and stream it here - we've just reached Decomposing Trees - but feel free to scroll; back through my tweets and start at the beginning [https://www.fullofwishes.co.uk/articles/on-fire-30-listening-party/](https://www.fullofwishes.co.uk/articles/on-fire-30-listening-party/)
+> If you've just wandered in we're listening to the On Fire | 30 tribute album - you can join us and stream it here - we've just reached Decomposing Trees - but feel free to scroll; back through my tweets and start at the beginning [https://www.fullofwishes.co.uk/articles/on-fire-30-listening-party/](https://www.fullofwishes.co.uk/articles/2019-on-fire-30-listening-party/)
 
 
 > *22:56*  

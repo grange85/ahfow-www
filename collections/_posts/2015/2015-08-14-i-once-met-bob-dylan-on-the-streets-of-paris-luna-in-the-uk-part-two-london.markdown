@@ -15,7 +15,7 @@ categories:
 - luna
 tags: []
 ---
-<p><em>The second chapter of Joakim's epic account of a journey around the UK following Luna and meeting and making friends - you can <a href="/2015/08/electronic-snicker-snack-luna-in-the-uk-part-one-brighton/">read the first chapter</a> here</em><br />
+<p><em>The second chapter of Joakim's epic account of a journey around the UK following Luna and meeting and making friends - you can <a href="/2015/08/13/electronic-snicker-snack-luna-in-the-uk-part-one-brighton/">read the first chapter</a> here</em><br />
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim/DeanLightLondon.jpg" width="800" height="600" class /><figcaption class="caption-text"> Dean Wareham in London (photo by Joakim)</figcaption></figure>
 <p>We woke up, met Björn and went to a café and ordered bacon Bloody Mary’s. Ulrika got a vegetarian one. It’s true. They were spicy and nice. Had some breakfast as well and then we where off to meet Henrik and Sara at the train station and went together to Victoria Station in London. Said goodbye to Björn who was heading back to Stockholm. Me and Ulrika went to our small hotel opposite to Kings Cross station on Belgrove Street. Small but, we liked it anyway. London hotels are probably some of the worst in the world, at least some of the worst in Europe, considering the prices. But we didn’t really dislike this one, and it was easy to find. That’s worth a lot when you’re staying a very short time in a city.<br />
 <a id="more"></a><a id="more-13892"></a></p>
