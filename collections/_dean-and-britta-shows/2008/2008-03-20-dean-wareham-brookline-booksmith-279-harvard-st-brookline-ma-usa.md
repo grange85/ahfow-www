@@ -18,4 +18,4 @@ show-venue-website:
 show-additional: 
 show-series: Black Postcards book tour
 ---
-<p>Dean will be reading from his book <a href="http://shop.fullofwishes.co.uk/us/1594201552">Black Postcards : A Rock and Roll Romance</a></p><p>7:00pm</p>
+Dean will be reading from his book "Black Postcards : A Rock and Roll Romance"

@@ -17,4 +17,4 @@ categories:
 - pictures
 tags: []
 ---
-<p>Britta has just posted a <a href="http://www.deanandbritta.com/blog/?p=163">few pictures and some commentary</a> from Dean & Britta's recent Men's Vogue event on the deanandbritta.com blog.</p>
+<p>Britta has just posted a <a href="https://web.archive.org/web/20080721+/http://www.deanandbritta.com/blog/?p=163">few pictures and some commentary</a> from Dean & Britta's recent Men's Vogue event on the deanandbritta.com blog.</p>

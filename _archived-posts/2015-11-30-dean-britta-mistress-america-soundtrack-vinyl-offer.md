@@ -1,5 +1,7 @@
 ---
 layout: post
+status: publish
+published: false
 title: Dean & Britta's Mistress America soundtrack available on vinyl
 date: 2015-11-30 23:01:00
 author:

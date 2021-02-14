@@ -35,78 +35,78 @@ longpost: false
 
       <tr>
         <th class="col-md-4">30th August 2018</th>
-        <td class="col-md-8"><a href="http://db.fullofiwhses.co.uk/luna/shows/2018/2018-08-30-luna-claustre-de-sant-domingo-pollenca-mallorca-spain/">Claustre de Sant Domingo, Pollença, Mallorca, Spain</a></td>
+        <td class="col-md-8"><a href="/database/luna/shows/2018/2018-08-30-luna-claustre-de-sant-domingo-pollenca-mallorca-spain/">Claustre de Sant Domingo, Pollença, Mallorca, Spain</a></td>
       </tr>
 
 
       <tr>
         <th class="col-md-4">31st August 2018</th>
-        <td class="col-md-8"><a href="http://db.fullofiwhses.co.uk/luna/shows/2018/2018-08-31-luna-auditoria-parque-fofo-murcia-spain/">Auditoria Parque Fofó, Murcia, Spain</a></td>
+        <td class="col-md-8"><a href="/database/luna/shows/2018/2018-08-31-luna-auditoria-parque-fofo-murcia-spain/">Auditoria Parque Fofó, Murcia, Spain</a></td>
       </tr>
 
 
       <tr>
         <th class="col-md-4">1st September 2018</th>
-        <td class="col-md-8"><a href="http://db.fullofiwhses.co.uk/luna/shows/2018/2018-09-01-luna-veles-e-vents-valencia-spain/">Terraza Malabar Del Veles E Vents, Valencia, Spain</a></td>
+        <td class="col-md-8"><a href="/database/luna/shows/2018/2018-09-01-luna-veles-e-vents-valencia-spain/">Terraza Malabar Del Veles E Vents, Valencia, Spain</a></td>
       </tr>
 
 
       <tr>
         <th class="col-md-4">3rd September 2018</th>
-        <td class="col-md-8"><a href="http://db.fullofiwhses.co.uk/luna/shows/2018/2018-09-03-luna-salao-brazil-coimbra-portugal/">Salao Brazil, Coimbra, Portugal</a></td>
+        <td class="col-md-8"><a href="/database/luna/shows/2018/2018-09-03-luna-salao-brazil-coimbra-portugal/">Salao Brazil, Coimbra, Portugal</a></td>
       </tr>
 
 
       <tr>
         <th class="col-md-4">5th September 2018</th>
-        <td class="col-md-8"><a href="http://db.fullofiwhses.co.uk/luna/shows/2018/2018-09-05-luna-petit-bain-paris-france/">Petit Bain, Paris, France</a></td>
+        <td class="col-md-8"><a href="/database/luna/shows/2018/2018-09-05-luna-petit-bain-paris-france/">Petit Bain, Paris, France</a></td>
       </tr>
 
 
       <tr>
         <th class="col-md-4">6th September 2018</th>
-        <td class="col-md-8"><a href="http://db.fullofiwhses.co.uk/luna/shows/2018/2018-09-06-luna-academy-islington-london-uk/">Academy Islington, London, UK</a></td>
+        <td class="col-md-8"><a href="/database/luna/shows/2018/2018-09-06-luna-academy-islington-london-uk/">Academy Islington, London, UK</a></td>
       </tr>
 
 
       <tr>
         <th class="col-md-4">7th September 2018</th>
-        <td class="col-md-8"><a href="http://db.fullofiwhses.co.uk/luna/shows/2018/2018-09-07-luna-thekla-bristol-uk/">Thekla, Bristol, UK</a></td>
+        <td class="col-md-8"><a href="/database/luna/shows/2018/2018-09-07-luna-thekla-bristol-uk/">Thekla, Bristol, UK</a></td>
       </tr>
 
 
       <tr>
         <th class="col-md-4">9th September 2018</th>
-        <td class="col-md-8"><a href="http://db.fullofiwhses.co.uk/luna/shows/2018/2018-09-09-luna-nachtasyl-hamburg-germany/">Nachtasyl, Hamburg, Germany</a></td>
+        <td class="col-md-8"><a href="/database/luna/shows/2018/2018-09-09-luna-nachtasyl-hamburg-germany/">Nachtasyl, Hamburg, Germany</a></td>
       </tr>
 
 
       <tr>
         <th class="col-md-4">10th September 2018</th>
-        <td class="col-md-8"><a href="http://db.fullofiwhses.co.uk/luna/shows/2018/2018-09-11-luna-atlas-aarhus-denmark/">Atlas, Aarhus, Denmark</a></td>
+        <td class="col-md-8"><a href="/database/luna/shows/2018/2018-09-11-luna-atlas-aarhus-denmark/">Atlas, Aarhus, Denmark</a></td>
       </tr>
 
 
       <tr>
         <th class="col-md-4">11th September 2018</th>
-        <td class="col-md-8"><a href="http://db.fullofiwhses.co.uk/luna/shows/2018/2018-09-11-luna-loppen-copenhagen-denmark/">Loppen, Copenhagen, Denmark</a></td>
+        <td class="col-md-8"><a href="/database/luna/shows/2018/2018-09-11-luna-loppen-copenhagen-denmark/">Loppen, Copenhagen, Denmark</a></td>
       </tr>
 
 
       <tr>
         <th class="col-md-4">12th September 2018</th>
-        <td class="col-md-8"><a href="http://db.fullofiwhses.co.uk/luna/shows/2018/2018-09-12-luna-debaser-stockholm-sweden/">Debaser, Stockholm, Sweden</a></td>
+        <td class="col-md-8"><a href="/database/luna/shows/2018/2018-09-12-luna-debaser-stockholm-sweden/">Debaser, Stockholm, Sweden</a></td>
       </tr>
 
 
       <tr>
         <th class="col-md-4">14th September 2018</th>
-        <td class="col-md-8"><a href="http://db.fullofiwhses.co.uk/luna/shows/2018/2018-09-14-luna-kafe-antzokia-bilbao-spain/">Kafe Antzokia, Bilbao, Spain</a></td>
+        <td class="col-md-8"><a href="/database/luna/shows/2018/2018-09-14-luna-kafe-antzokia-bilbao-spain/">Kafe Antzokia, Bilbao, Spain</a></td>
       </tr>
 
 
       <tr>
         <th class="col-md-4">15th September 2018</th>
-        <td class="col-md-8"><a href="http://db.fullofiwhses.co.uk/luna/shows/2018/2018-09-15-luna-get-mad-madrid-spain/">Get Mad!, Madrid, Spain</a></td>
+        <td class="col-md-8"><a href="/database/luna/shows/2018/2018-09-15-luna-get-mad-madrid-spain/">Get Mad!, Madrid, Spain</a></td>
       </tr>
 </tbody></table>

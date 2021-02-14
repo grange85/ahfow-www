@@ -44,7 +44,7 @@ tags: []
 <div id="rollingstone"><ins datetime="2013-10-19T16:12:39+00:00"><strong><a href="http://www.rollingstone.com/music/albumreviews/emancipated-hearts-20131018">2013-10-18: Rolling Stone 3.5/5</a></strong><br />
 <blockquote>&hellip; his first solo album is characteristically refined and intimate, sung in a hymnlike mumble and steeped in the Velvet Underground, classical string drones, synth-pop and country music.</p></blockquote>
 <p></ins></div>
-<div id="doa"><ins datetime="2013-10-29T22:25:16+00:00"><strong><a href="http://www.adequacy.net/2013/10/dean-wareham-emancipated-hearts/">2013-10-28: Delusions of Adequacy (DOA)</a></strong><br />
+<div id="doa"><ins datetime="2013-10-29T22:25:16+00:00"><strong><a href="https://web.archive.org/web/20131015+/http://www.adequacy.net/2013/10/dean-wareham-emancipated-hearts/">2013-10-28: Delusions of Adequacy (DOA)</a></strong><br />
 <blockquote>Ably assisted by Papercuts’ Jason Quever on production and multi-instrumentalist duties, long-running musical partner Britta Phillips on bass and backing vocals, violinist Gillian Rivers and drummer Anthony LaMarca, Wareham delivers Emancipated Hearts through a dark yet dreamy fog, honouring his past pedigree as well as finding fresh dimensions for his songcraft in the process.</p></blockquote>
 <p></ins></div>
 <div id="indy"><ins datetime="2013-11-01T22:25:16+00:00"><strong> i-Independent review by Andy Gill</strong><br />

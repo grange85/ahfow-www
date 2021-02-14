@@ -18,5 +18,5 @@ categories:
 - other people's blogs
 tags: []
 ---
-<p>Dean has posted a "what we're up to" post to the <a href="http://www.deanandbritta.com/blog/?p=193">Dean & Britta blog</a>...</p>
+<p>Dean has posted a "what we're up to" post to the <a href="https://web.archive.org/web/20081117+/http://www.deanandbritta.com/blog/?p=193">Dean & Britta blog</a>...</p>
 <blockquote><p>We have been super busy in the studio the last couple of weeks, recording and mixing the thirteen tracks for the DVD release early next year. Basic tracks were recorded by the band at Bryce Goggin's Trout Recording studio in Brooklyn, with a couple of additional sessions recorded by Dave Voigt at his place in Park Slope. Mixing handled by Britta, Mr. Voigt and Jason Marcucci.</p></blockquote>

@@ -1,7 +1,7 @@
 ---
 layout: post
 status: publish
-published: true
+published: false
 title: 20% off everything in the Dean Wareham online shop
 author:
   display_name: Andy
