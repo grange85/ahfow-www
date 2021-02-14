@@ -110,9 +110,9 @@
 										<figure>
 										{%  capture imagetest %}X{{releases.imageurl}}{% endcapture %}
 										{% if imagetest == 'X' %}
-											<img src="https://media.fullofwishes.co.uk/00-misc/ahfow-web/sleeve-required-new.jpg" alt="{{releases.albumname}} sleeve image">
+											<img src="https://media.fullofwishes.co.uk/00-misc/ahfow-web/sleeve-required-new.jpg" class="img-fluid" alt="{{releases.albumname}} sleeve image">
 										{% else %}
-											<img src="{{releases.imageurl}}">
+											<img src="{{releases.imageurl}}" class="img-fluid">
 										{% endif %}
 										<figcaption>{{ page.albumname }}</figcaption>
 										</figure>

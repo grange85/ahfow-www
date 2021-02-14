@@ -19,7 +19,7 @@ categories:
 - audio
 tags: []
 ---
-![Britta Phillips](https://farm7.staticflickr.com/6031/5896032582_d1a11c5ac3_z.jpg)  
+![Britta Phillips](https://farm7.staticflickr.com/6031/5896032582_d1a11c5ac3_z.jpg){:.img-fluid}  
 Happy birthday Britta.
 
 So far this year Britta has been Dean's bass player, made a cameo in forthcoming movie of [Jem and the Holograms](http://www.imdb.com/title/tt3614530/combined), and is hopefully wrapping up the album that was delayed by the untimely passing of producer Scott Hardkiss
@@ -32,7 +32,7 @@ Next up here she is adding vocals to Some Things Last a Long Time from last year
 
 
 Here's her and Dean in last year's Frances Ha  
-![Dean & Britta in Frances Ha](https://media.fullofwishes.co.uk/00-misc/pictures/frances-ha-screencap.jpg)
+![Dean & Britta in Frances Ha](https://media.fullofwishes.co.uk/00-misc/pictures/frances-ha-screencap.jpg){:.img-fluid}
 
 [Lots more MP3 downloads in last years birthday post](/2013/06/11/happy-birthday-britta-phillips/)
 

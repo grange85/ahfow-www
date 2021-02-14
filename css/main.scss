@@ -8,12 +8,9 @@
 
 $grid-float-breakpoint: 992px;
 
-@import "bootstrap";
-@import "bootstrap/theme";
+@import "bootstrap/bootstrap";
+@import "custom/base";
 
-
-
-@import "base";
 
 .galleria{
 }
@@ -56,7 +53,7 @@ position: relative;
 }
 .jumbotron h1 a:hover
 {
-    color: $brand-primary;
+    color: $primary;
 }
 
 

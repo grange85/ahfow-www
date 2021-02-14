@@ -12,7 +12,7 @@ categories:
 - galaxie 500
 tags: []
 ---
-![newspaper cutting](https://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500_split.jpg)
+![newspaper cutting](https://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500_split.jpg){:.img-fluid}
 
 GALAXIE 500 have split after guitarist/vocalist Dean Wareham quit unexpectedly. All band commitments, including a June tour of Japan, have been cancelled. The break-up occurred when the band returned from a successful tour of the States with Cocteau Twins.
 

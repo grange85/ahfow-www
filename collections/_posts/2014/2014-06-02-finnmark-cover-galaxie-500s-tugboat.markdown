@@ -22,4 +22,4 @@ The track is available on a pay what you want basis with all proceeds going to t
 
 <http://cathndadrecords.bandcamp.com/album/tugboat>
 
-![Finnmark! Tugboat ](https://media.fullofwishes.co.uk/00-misc/pictures/finnmark-tugboat.jpg)
+![Finnmark! Tugboat ](https://media.fullofwishes.co.uk/00-misc/pictures/finnmark-tugboat.jpg){:.img-fluid}

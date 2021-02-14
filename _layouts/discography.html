@@ -61,9 +61,9 @@
 									<a href="{{ release.url | prepend: site.baseurl }}">
 										{%  capture imagetest %}X{{release.imageurl}}{% endcapture %}
 										{% if imagetest == 'X' %}
-											<img src="https://media.fullofwishes.co.uk/00-misc/ahfow-web/sleeve-required-new.jpg" alt="no sleeve image available">
+											<img src="https://media.fullofwishes.co.uk/00-misc/ahfow-web/sleeve-required-new.jpg" class="img-fluid" alt="no sleeve image available">
 										{% else %}
-											<img src="{{release.imageurl}}" alt="{{release.albumname}} sleeve image">
+											<img src="{{release.imageurl}}" class="img-fluid" alt="{{release.albumname}} sleeve image">
 										{% endif %}
 									</a>
 								</div>

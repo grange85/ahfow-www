@@ -34,11 +34,11 @@ longpost: true
 </blockquote>
 <h2>Damon Krukowski - Ways of Hearing</h2>
 <p>The book of Damon's <a href="https://waysofhearing.bandcamp.com/">fantastic podcast Ways of Hearing</a> is getting closer to publication:</p>
-<figure><img src="{{site.baseurl}}/images/damon-krukowski-ways-of-hearing-book.jpg" class="img-responsive" /><figcaption>Damon Krukowski - Ways of Hearing</figcaption></figure>
+<figure><img src="{{site.baseurl}}/images/damon-krukowski-ways-of-hearing-book.jpg" class="img-fluid" /><figcaption>Damon Krukowski - Ways of Hearing</figcaption></figure>
 <p>The book will be <a href="https://mitpress.mit.edu/books/ways-hearing">published by MIT Press in April</a>.</p>
 <h2>Speedy and The Castanets</h2>
 <p>Over on Twitter <a href="https://twitter.com/venetianblonde/">venetianblonde</a> posted a picture of Speedy and The Castanets (featuring) Dean and Damon playing, seemingly to no one, in the courtyard of Harvard's Phillips Brooks House:</p>
-<figure><a href="https://t.co/zvOf9j4Kqg"><img src="{{site.baseurl}}/images/venetianblonde-speedy-castanets.jpg" class="img-responsive" /><figcaption>Hey, Damon.  You might like to have this. Phillips Brooks House courtyard, freshman year.  Photo credit: yours truly. Green sparkles in full play! (and what&#39;s up with Marc?!) xx Anne Margaret Daniel (@venetianblonde)</figcaption></a></figure>
+<figure><a href="https://t.co/zvOf9j4Kqg"><img src="{{site.baseurl}}/images/venetianblonde-speedy-castanets.jpg" class="img-fluid" /><figcaption>Hey, Damon.  You might like to have this. Phillips Brooks House courtyard, freshman year.  Photo credit: yours truly. Green sparkles in full play! (and what&#39;s up with Marc?!) xx Anne Margaret Daniel (@venetianblonde)</figcaption></a></figure>
 
 
 <h2>An interview with Dean Wareham</h2>
@@ -52,7 +52,7 @@ longpost: true
 
 <h2>A Head Full of Wishes on Instagram</h2>
 <p>I'm not sure how long I'll keep it up but over on the <a href="https://www.instagram.com/fullofwishes/">A Head Full of Wishes Instagram (@fullofwishes)</a> I'm regularly posting LP, CD, single, artwork, plyus various other bits of memorabilia - join me over there!</p>
-<figure><img src="{{site.baseurl}}/images/fullofwishes-instagram-feb-2019.png" class="img-responsive" /><figcaption>@fullofwishes on Instagram</figcaption></figure>
+<figure><img src="{{site.baseurl}}/images/fullofwishes-instagram-feb-2019.png" class="img-fluid" /><figcaption>@fullofwishes on Instagram</figcaption></figure>
 
 <h2>Damon on Twitter</h2>
 <p>And on the subject of social media if you're not already you should be following <a href="https://twitter.com/dada_drummer">Damon on Twitter (@dada_drummer)</a> for always smart, insightful, funny and interesting posts - and plenty of Galaxie 500 and Damon & Naomi talk!</p>

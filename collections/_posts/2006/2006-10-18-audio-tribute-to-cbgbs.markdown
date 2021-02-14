@@ -36,7 +36,7 @@ Post...
 when I was 16. I was nervous - it was myfirst time in a rock club. I was a
 little frightened when I went downstairs to pee.
 
-![CBGBs](https://static.flickr.com/16/92830966_ce5e93df02.jpg)  
+![CBGBs](https://static.flickr.com/16/92830966_ce5e93df02.jpg){:.img-fluid}  
 Uploaded by [Sarah Quinn Armitt](http://flickr.com/photos/sarahquinn/) on 30
 January '06, 12.19am GMT.
 

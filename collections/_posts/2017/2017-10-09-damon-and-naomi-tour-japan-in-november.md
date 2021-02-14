@@ -20,7 +20,7 @@ tags:
  - michio kurihara
  - everything quieter than everything else
 ---
-<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-everything-quieter-than-everything-else.jpg" class="img-responsive" /><figcaption>Damon & Naomi - Everything quieter Than Everything Else</figcaption></figure>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-everything-quieter-than-everything-else.jpg" class="img-fluid" /><figcaption>Damon & Naomi - Everything quieter Than Everything Else</figcaption></figure>
 <p class="lead">Damon & Naomi are heading to Japan for a few dates in November playing with Michio Kurihara and with support from Ghost's Masaki Batoh.</p>
 <p>The shows are supporting the recent Japanese CD release of a live album <a href="/database/damon-and-naomi/releases/damon-and-naomi-everything-quieter-than-everything-else/">Everything Quieter than Everything Else</a>. The album is made up from two shows in Japan in 2005 and 2008.</p>
 <table class="table table-striped">
@@ -48,4 +48,4 @@ tags:
 
 <p>It's also worth checking out <a href="http://www.damonandnaomi.com">Damon & Naomi's website</a> which has had another polish.</p>
 
-<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2017-11/2017-11-damon-and-naomi-japan.jpg" class="img-responsive" /><figcaption>Damon & Naomi - Japan, November 2017</figcaption></figure>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2017-11/2017-11-damon-and-naomi-japan.jpg" class="img-fluid" /><figcaption>Damon & Naomi - Japan, November 2017</figcaption></figure>
