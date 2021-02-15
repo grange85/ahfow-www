@@ -4,21 +4,23 @@
 	{% include head.html %}
 <body>
 	{% include tagmanager.html %}
-	{% include header.html %}
 	<div class="container">
-		<div class="row">
-			<div class="wrapper col-md-9">
+		{% include header.html %}
 
+		<div class="row">
+
+			<div class="col-md-9">
 				<article class="post-content">
 					{{ content }}
 				</article>
-				
 			</div>
+
 			<div class="col-md-3">
 				{% include sidebar.html %}
 			</div>
+
 		</div>
+		{% include footer.html %}
 	</div>
-	{% include footer.html %}
 </body>
 </html>

@@ -2,11 +2,10 @@
 layout: default
 ---
 <div class="row">
-	<div class="col-md-12">
-		<div class="panel panel-default">
-			<div class="panel-heading"><h2>{{ page.title }}</h2></div>
-			<div class="panel-body">
-				{% include social.html %}
+	<div class="col">
+		<div class="card">
+			<div class="card-header bg-secondary"><h2>{{ page.title }}</h2></div>
+			<div class="card-body">
 		        <p class="byline">
 		        	{% if page.collection == "articles" %}Written by 
 		        	{{page.author.display_name}} {% if page.source %}<em> - {{page.source.name}}, {{page.source.publication_date}}</em>{% endif %}
@@ -18,10 +17,10 @@ layout: default
 		        	 on {{ page.date | date: "%-d %B %Y" }}
 		        	 {% endif %}
 		        	</p>
-		        {% if page.categories %}<p class="pull-left">in categories: </p>
+		        {% if page.categories %}<p class="float-left pr-3">in categories: </p>
 		        <ul class="categories list-inline">
 			        {% for category in page.categories %}
-			        <li><a class="label label-primary" href="{{ category | slugify | prepend: '/category/' | append: '/' }}">{{ category }}</a></li>
+			        <li class="list-inline-item"><a class="badge badge-pill badge-primary" href="{{ category | slugify | prepend: '/category/' | append: '/' }}">{{ category }}</a></li>
 			        {% endfor %}
 		        </ul>
 		        {% endif %}
@@ -30,11 +29,11 @@ layout: default
 				</article>
 
 				{% if page.related %}
-				<div class="panel panel-default">
-				  <div class="panel-heading">
-				    <h3 class="panel-title">Related links</h3>
+				<div class="card">
+				  <div class="card-header">
+				    <h3 class="card-title">Related links</h3>
 				  </div>
-				  <div class="panel-body">
+				  <div class="card-body">
 				  <ul>
 				  {% for page in page.related %}
 				    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
@@ -49,17 +48,6 @@ layout: default
 				<div class="row">
 					<div class="col-md-12">
 						<h3>Photos</h3>
-						{% assign count = 0 %}
-						{% for gallery in page.photos %}
-							{% assign count = count | plus: 1 %}
-							{% case gallery.type %}
-								{% when "flickr-set" %}
-									<h4><a href="https://www.flickr.com/photos/{{gallery.user}}/sets/{{gallery.id}}">Photos by <strong>{{gallery.user}}</strong> on Flickr</a></h4>
-								{% when "ahfow-set" %}
-									<h4>Photos by {{gallery.photographer}}</h4>
-							{% endcase %}
-							<div class="galleria" id="galleria-{{count}}"></div>
-						{% endfor %}
 					</div>
 				</div>
 				{% endif %}
