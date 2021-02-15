@@ -1,8 +1,8 @@
 <footer class="footer">
-	<div class="card border-primary">
+	<div class="border-top border-secondary mt-3 pt-3">
 		<div class="row">
-			<div class="col-md-5">
-				<ul class="list-unstyled">
+			<div class="col-md-4">
+				<ul class="pl-2">
 					<li>{{ site.title }}</li>
 					<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
 					{% if site.twitter_username %}
@@ -11,12 +11,11 @@
 						</li>
 					{% endif %}
 					<li><a href="/privacy-policy/">Privacy policy</a></li>
+					<li><a href="/about/">About</a></li>
 				</ul>
 			</div>
-			<div class="col-md-4">
+			<div class="col-md-8">
 				<p class="text">{{ site.description }}</p>
-			</div>
-			<div class="col-md-3">
 			</div>
 		</div>
 	</div>
@@ -26,7 +25,7 @@
   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
   crossorigin="anonymous"></script>
 
-<script src="{{ "/js/jquery.fitvids.js" | prepend: site.baseurl }}"></script>
+<script src="{{ '/js/jquery.fitvids.js' | prepend: site.baseurl }}"></script>
 <script>
   $(document).ready(function(){
     // Target your .container, .wrapper, .post, etc.

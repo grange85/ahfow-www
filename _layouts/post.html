@@ -2,11 +2,12 @@
 layout: default
 ---
 <div class="row">
+
 	<div class="col">
 		<div class="card">
-			<div class="card-header bg-secondary"><h2>{{ page.title }}</h2></div>
-			<div class="card-body">
-		        <p class="byline">
+			<div class="card-header"><h2>{{ page.title }}</h2></div>
+				<div class="card-body">
+		    	    <p class="byline">
 		        	{% if page.collection == "articles" %}Written by 
 		        	{{page.author.display_name}} {% if page.source %}<em> - {{page.source.name}}, {{page.source.publication_date}}</em>{% endif %}
 		        	{% else %}
@@ -17,28 +18,29 @@ layout: default
 		        	 on {{ page.date | date: "%-d %B %Y" }}
 		        	 {% endif %}
 		        	</p>
-		        {% if page.categories %}<p class="float-left pr-3">in categories: </p>
-		        <ul class="categories list-inline">
-			        {% for category in page.categories %}
-			        <li class="list-inline-item"><a class="badge badge-pill badge-primary" href="{{ category | slugify | prepend: '/category/' | append: '/' }}">{{ category }}</a></li>
-			        {% endfor %}
-		        </ul>
-		        {% endif %}
-				<article class="post-content">
-					{{ content }}
-				</article>
-
-				{% if page.related %}
-				<div class="card">
-				  <div class="card-header">
-				    <h3 class="card-title">Related links</h3>
-				  </div>
-				  <div class="card-body">
-				  <ul>
-				  {% for page in page.related %}
-				    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-				  {% endfor %}
-				    </ul>
+		        	{% if page.categories %}
+		        	<p class="float-left pr-3">in categories: </p>
+		        		<ul class="categories list-inline">
+			        	{% for category in page.categories %}
+			        		<li class="list-inline-item"><a class="badge badge-pill badge-primary" href="{{ category | slugify | prepend: '/category/' | append: '/' }}">{{ category }}</a></li>
+				        {% endfor %}
+				        </ul>
+		    	    {% endif %}
+				
+					<article class="post-content">
+						{{ content }}
+					</article>
+					{% if page.related %}
+					<div class="card">
+						  <div class="card-header">
+						    <p class="card-title">Related links</p>
+						  </div>
+						  <div class="card-body">
+							  <ul>
+							  {% for page in page.related %}
+							    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+							  {% endfor %}
+						    </ul>
 				  </div>
 				</div>
 				{% endif %}

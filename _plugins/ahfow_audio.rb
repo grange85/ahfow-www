@@ -52,7 +52,7 @@ module Jekyll
       output += "<p class=\"audio\"><i class=\"bi bi-file-music\"> </i><a href=\"#{ahfowaudio_url}\" download=\"download-from-ahfow\">#{ahfowaudio_caption}</a></p>"
       output += "<audio class=\"w-100\" controls=\"controls\" preload=\"none\" src=\"#{ahfowaudio_url}\"></audio></div>"
       if( !ahfowaudio_sourceurl.nil? && !ahfowaudio_sourceurl.empty? )
-        output += "<p class=\"card-footer text-right\"><small class=\"text-muted\">Source: <a href=\"#{ahfowaudio_sourceurl}\">#{ahfowaudio_sourcecap}</a></small></p>"
+        output += "<p class=\"card-footer text-right pt-2 pb-1 \"><small class=\"text-muted\">Source: <a href=\"#{ahfowaudio_sourceurl}\">#{ahfowaudio_sourcecap}</a></small></p>"
       end
 
       output += "</div>"

@@ -6,7 +6,8 @@
 					<img src="https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image-1280x200.jpg" alt="{{site.title}} - {{site.subtitle}}" class="img-fluid" />
 				</h1>
 			</div>
-			<nav class="navbar navbar-expand-lg navbar-light bg-light py-2 mt-0">
+			<nav class="navbar navbar-expand-lg navbar-dark bg-primary text-white py-2 mt-0">
+
 				<button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#ahfow-navbar-collapse">
 					<span class="sr-only">Toggle navigation</span>
 					<span class="navbar-toggler-icon"></span>
@@ -14,10 +15,7 @@
 				<div class="collapse navbar-collapse" id="ahfow-navbar-collapse">
 					<ul class="navbar-nav mr-auto">
 						<li class="nav-item dropdown">
-					        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-								News, reviews and articles
-								<span class="caret"></span>
-							</a>
+					        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">News, reviews and articles</a>
 					        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
 								<a class="dropdown-item" role="menuitem" tabindex="-1" href="/">Latest news</a>
 						          <div class="dropdown-divider"></div>
@@ -33,10 +31,7 @@
 
 
 						<li class="nav-item dropdown">
-					        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-								Releases, shows and tracks
-								<span class="caret"></span>
-							</a>
+					        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Releases, shows and tracks</a>
 					        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
 								<a class="dropdown-item" role="menuitem" tabindex="-1" href="/database/">Releases, shows and tracks home</a>
 						          <div class="dropdown-divider"></div>
@@ -51,10 +46,7 @@
 
 
 						<li class="nav-item dropdown">
-					        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-								Social
-								<span class="caret"></span>
-							</a>
+					        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Social</a>
 					        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
 								<a class="dropdown-item" role="menuitem" tabindex="-1" href="https://www.facebook.com/fullofwishes/">Facebook</a>
 								<a class="dropdown-item" role="menuitem" tabindex="-1" href="https://twitter.com/ahfow/">@ahfow on Twitter</a>
@@ -63,17 +55,12 @@
 								<a class="dropdown-item" role="menuitem" tabindex="-1" href="https://twitter.com/grange85/">@grange85 on Twitter</a>
 								<a class="dropdown-item" role="menuitem" tabindex="-1" href="https://www.instagram.com/grange85/">@grange85 on Instagram</a>
 						</li>
-
-				      <li class="nav-item">
-				        <a class="nav-link" href="/about/">About</a>
-				      </li>
-
 					</ul>
 					{% unless page.title == 'Search results' %}
 					<div class="nav navbar-form navbar-right">
 						  <form class="form-inline" action="/search-results/" method="get">
 						    <input class="form-control mr-sm-2" id="q" name="q" type="search" placeholder="Search" aria-label="Search">
-						    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+						    <button class="btn btn-outline-secondary my-2 my-sm-0" type="submit"><i class="bi bi-search"></i></button>
 						  </form>
 					</div>
 					{% endunless %}
