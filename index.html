@@ -9,68 +9,10 @@ description: >
   A Head Full of Wishes is a site for Galaxie 500, Luna, Damon & Naomi, Dean & Britta 
   and Dean Wareham. With news, articles and lists of releases and past and future shows. 
 ---
-    {% if paginator.page == 1 %}
-    {% for post in site.tags.pinned %}
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h2>{% icon fa-bookmark-o %}&nbsp;<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-            </div>
-            <div class="panel-body">
-
-    <div class="row">
-        <div class="col-md-12">
-                <p class="byline">Posted by {{post.author.display_name}} on {{ post.date | date: "%-d %B %Y" }}</p>
-                {% if post.categories %}<p class="pull-left">in categories: </p>
-                <ul class="categories list-inline">
-                {% for category in post.categories %}
-                <li><a  class="label label-primary" href="{{ category | slugify | prepend: '/category/' | append: '/' }}">{{ category }}</a></li>
-                {% endfor %}
-                </ul>
-                {% endif %}
-                <article>
-                  {% if post.longpost %}
-                  {{post.excerpt}} <p class="pull-right"><a class="btn btn-default" href="{{ post.url | prepend: site.baseurl }}">Read on&hellip;</a></p>{% else %}
-                  {{post.content}}
-                  {% endif %}
-                </article>
-            </div>
-        </div>
-        </div>
-    </div>
-
-    {% endfor %}
-    {% endif %}
-
     {% for post in paginator.posts %}
-    {% unless post.tags contains 'pinned' %}
     {% unless post.draft %}
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-            </div>
-            <div class="panel-body">
+        {% include entry.html %}
 
-    <div class="row">
-        <div class="col-md-12">
-                <p class="byline">Posted by {{post.author.display_name}} on {{ post.date | date: "%-d %B %Y" }}</p>
-                {% if post.categories %}<p class="pull-left">in categories: </p>
-                <ul class="categories list-inline">
-                {% for category in post.categories %}
-                <li><a  class="label label-primary" href="{{ category | slugify | prepend: '/category/' }}">{{ category }}</a></li>
-                {% endfor %}
-                </ul>
-                {% endif %}
-                <article>
-                  {% if post.longpost %}
-                  {{post.excerpt}} <p class="pull-right"><a class="btn btn-default" href="{{ post.url | prepend: site.baseurl }}">Read on&hellip;</a></p>{% else %}
-                  {{post.content}}
-                  {% endif %}
-                </article>
-            </div>
-        </div>
-        </div>
-    </div>
-    {% endunless %}
     {% endunless %}
     {% endfor %}
 
