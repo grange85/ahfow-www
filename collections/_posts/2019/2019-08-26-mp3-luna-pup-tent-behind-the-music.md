@@ -31,8 +31,9 @@ In the light of this new found knowledge somehow this recording sounds a little 
 
 > Sean's not ready. He's switched, he's swithced to one guitar and now he's switching back to the same one he had before he switched.
 
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/luna-pup-tent-behind-the-music.mp3">Luna - Pup Tent: Behind the music</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/luna-pup-tent-behind-the-music.mp3"></audio>
-  <p class="source small text-right"><em>Source: Fuzzywuzzy (2001)</em></p>
-</div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/luna-pup-tent-behind-the-music.mp3",
+  "audiocap": "Luna - Pup Tent: Behind the music",
+  "sourceurl": "",
+  "sourcecap": "Source: Fuzzywuzzy (2001)"
+  } %}

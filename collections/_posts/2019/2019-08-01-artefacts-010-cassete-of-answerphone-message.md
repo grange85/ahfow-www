@@ -32,11 +32,12 @@ Luckily, I wasn't in - which means that instead of awkward conversation and some
 
 > Andy, this is Dean Wareham from Luna calling I'm in Brussels... erm, you're not there I'll try you another time...
 
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/dean-wareham-28-seconds-from-brussels.mp3"> Andy, this is Dean Wareham from Luna...</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/dean-wareham-28-seconds-from-brussels.mp3"></audio>
-  <p class="source small text-right"><em>Source: Dean Wareham - Answerphone message, October 1997</em></p>
-</div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/00-misc/audio/dean-wareham-28-seconds-from-brussels.mp3",
+  "audiocap": "Andy, this is Dean Wareham from Luna...",
+  "sourceurl": "",
+  "sourcecap": "Source: Dean Wareham - Answerphone message, October 1997"
+  } %}
 
 My mind was of course blown which is why I still have a TEAC C60 cassette in the AHFoW archives!
 

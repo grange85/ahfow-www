@@ -20,10 +20,9 @@ tags: []
 
 Early in 2008 Dean & Britta toured the US co-headlining with Keren Ann - on 15 February the three of them popped into KEXP in Philadelphia and recorded a session which culminated in Dean & Britta and Keren Ann all performing a cover of Serge Gainsbourg's Bonnie and Clyde.
 
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-amd-britta-keren-ann-2008-02-15-bonnie-and-clyde.mp3">Dean Wareham, Britta Phillips and Keren Ann - Bonnie & Clyde</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-amd-britta-keren-ann-2008-02-15-bonnie-and-clyde.mp3"></audio>
-  <p class="source small text-right"><em>Source: KEXP - 15th February 2008</em></p>
-</div>
-
-
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-amd-britta-keren-ann-2008-02-15-bonnie-and-clyde.mp3",
+  "audiocap": "Dean Wareham, Britta Phillips and Keren Ann - Bonnie & Clyde",
+  "sourceurl": "",
+  "sourcecap": "Source: KEXP - 15th February 2008"
+  } %}

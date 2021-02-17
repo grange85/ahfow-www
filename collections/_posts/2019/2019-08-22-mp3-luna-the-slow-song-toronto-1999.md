@@ -27,11 +27,13 @@ Remember when Luna had a website! I know there's [Lunamusic](http://lunamusic.co
 
 This is the band playing The Slow Song (with Dean singing the full German lyric) in Toronto in 1999.
 
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/luna-the-slow-song-toronto-2000.mp3">Luna - The Slow Song (Recorded live in Toronto, Canada during Justin Harwood's final tour with Luna.)</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/luna-the-slow-song-toronto-2000.mp3"></audio>
-  <p class="source small text-right"><em>Source: FuzzyWuzzy</em></p>
-</div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/luna-the-slow-song-toronto-2000.mp3",
+  "audiocap": "Luna - The Slow Song (Recorded live in Toronto, Canada during Justin Harwood's final tour with Luna.)",
+  "sourceurl": "",
+  "sourcecap": "Source: FuzzyWuzzy"
+  } %}
+
 
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/fuzzywuzzy-2002.jpg" alt="FuzzyWuzzy 2002" /><figcaption class="caption-text">FuzzyWuzzy 2002</figcaption></figure>
 
