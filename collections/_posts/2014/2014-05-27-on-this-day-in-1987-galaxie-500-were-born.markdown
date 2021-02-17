@@ -27,7 +27,12 @@ You can spend your time placing ads in the Village Voice and sifting through mes
 We had our first rehearsal on May 27, 1987<br />
 <em>Dean Wareham - Black Postcards: A Rock & Roll Romance (p33) </em></p></blockquote>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/01-galaxie_500/audio/galaxie-500-pride-extended-demo.mp3">Pride - Galaxie 500</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/01-galaxie_500/audio/galaxie-500-pride-extended-demo.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/01-galaxie_500/audio/galaxie-500-pride-extended-demo.mp3",
+  "audiocap": "Pride - Galaxie 500",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500-06-640.jpg" width="640" height="443" class="aligncenter" /></p>
 <p>* OK, there's a receipt for Naomi's bass guitar in Temperature's Rising that's dated 2 May 1987 which suggests I may have to revise Galaxie 500's birthday... <a href="/2007/08/28/on-the-20th-anniversary-of-galaxie-500/" title="On the 20th anniversary of Galaxie 500">AGAIN</a>!</p>

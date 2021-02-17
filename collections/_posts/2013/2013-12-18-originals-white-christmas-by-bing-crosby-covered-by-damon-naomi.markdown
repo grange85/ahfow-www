@@ -23,7 +23,12 @@ tags: []
 <p>It was then recorded by pretty much everybody, Damon & Naomi's version was also recorded for a film, <a href="http://en.wikipedia.org/wiki/Lovely,_Still">Lovely, Still (2008)</a> - <a href="http://youtu.be/Jy8hPGvuTZM?t=1h1m4s">this link may jump you to the bit in the film where Damon & Naomi sing while Martin Landau and Ellen Burstyn dance</a>.</p>
 <p>The track was first released as CDR sold at a UK instore in 2008 and subsequently given away on their website. The song features Naomi on piano, Damon on nylon-string guitar, Michio Kurihara on electric guitar, Bhob Rainey on soprano sax, and Greg Kelley on trumpet.</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/01-damon-and-naomi-white-christmas.mp3">Damon & Naomi - White Christmas</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/01-damon-and-naomi-white-christmas.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/01-damon-and-naomi-white-christmas.mp3",
+  "audiocap": "Damon & Naomi - White Christmas",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p>I thought as a seasonal addendum I'd hunt down a few classic versions, but beyond Darlene Love's perfect version on the Spector Christmas album, almost no one has managed to make a go of it - some songs, I guess are just awful - even a song that's sold 100 million copies!</p>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/7BVYDdl2M0A" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Darlene Love - White Christmas</figcaption></figure>

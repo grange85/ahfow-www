@@ -24,6 +24,11 @@ tags: []
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/2014-07-luna-social-gathering-2.jpg" width="960" height="720" alt="Dean, Sean, Britta and Lee (July 2014)" class /><figcaption class="caption-text"> Dean, Sean, Britta and Lee (July 2014)</figcaption></figure>
 <p>Here's what happened last time they shared a stage... almost 10 years ago</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/luna-20050228-23-minutes-in-brussels-nyc.mp3">Luna - 23 Minutes in Brussels - Bowery Ballroom, NYC 2005</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/luna-20050228-23-minutes-in-brussels-nyc.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/luna-20050228-23-minutes-in-brussels-nyc.mp3",
+  "audiocap": "Luna - 23 Minutes in Brussels - Bowery Ballroom, NYC 2005",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 Thanks to the photographers whose splendid work I've pinched without permission</p>

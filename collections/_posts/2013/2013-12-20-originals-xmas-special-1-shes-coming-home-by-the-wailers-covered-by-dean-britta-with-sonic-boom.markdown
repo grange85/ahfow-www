@@ -22,7 +22,12 @@ tags: []
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/-Z5JnzVSEf8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">She's Coming Home by The Wailers</figcaption></figure>
 <p>Dean & Britta's version was gender adjusted, recorded (again) with Sonic Boom and released on a single by Chimney Rocks! Records (the b-side of which has <a href="/2013/12/16/originals-xmas-special-1-old-toy-trains-by-roger-miller-covered-by-dean-britta-with-sonic-boom/">already put in an appearance on this list</a>).</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/01-dean-and-britta-hes-coming-home.mp3">Dean & Britta with Sonic Boom - He's Coming Home</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/01-dean-and-britta-hes-coming-home.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/07-dean_and_britta/audio/01-dean-and-britta-hes-coming-home.mp3",
+  "audiocap": "Dean & Britta with Sonic Boom - He's Coming Home",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/sonics_wailers_galaxies_merry_christmas.jpg" alt="Merry Christmas - The Wailers, The Sonics, The Galaxies" /><figcaption class="caption-text">Merry Christmas - The Wailers, The Sonics, The Galaxies</figcaption></figure>

@@ -52,7 +52,12 @@ description: >
             </div>
             <div class="panel-body">
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/ahfow-podcast-1-how-does-luna-make-you-feel.mp3">A Head Full of Wishes podcast #1 - How does LUNA make you feel?</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/ahfow-podcast-1-how-does-luna-make-you-feel.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/ahfow-podcast-1-how-does-luna-make-you-feel.mp3",
+  "audiocap": "A Head Full of Wishes podcast #1 - How does LUNA make you feel?",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
             </div>
           </div>

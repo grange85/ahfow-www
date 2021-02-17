@@ -37,7 +37,12 @@ Originals: I’ll Keep It With Mine by Judy Collins (covered by Dean & Britta)</
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/qCwDMjp3G5Y" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p><strong><a href="/2013/09/18/originals-im-not-sayin-by-gordon-lightfoot-covered-by-cagney-and-lacee/" title="Originals: I’m Not Sayin’ by Gordon Lightfoot (covered by Cagney and Lacee)">Originals: I’m Not Sayin’ by Gordon Lightfoot (covered by Cagney and Lacee)</a></strong></p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/cagney-and-lacee-im-not-sayin.mp3">I'm Not Sayin' by Cagney and Lacee</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/cagney-and-lacee-im-not-sayin.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/cagney-and-lacee-im-not-sayin.mp3",
+  "audiocap": "I'm Not Sayin' by Cagney and Lacee",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p><em>I'm Not Sayin' by Nico</em></p>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/yiykD2_VRBg" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>

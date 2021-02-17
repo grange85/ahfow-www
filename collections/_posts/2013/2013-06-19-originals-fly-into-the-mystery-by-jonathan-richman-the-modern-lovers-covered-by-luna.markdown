@@ -31,7 +31,12 @@ Live versions are available dating from as early as 1971 - such as this one from
 <iframe class="aligncenter" src="https://embed.spotify.com/?uri=spotify:track:0yUJz57e6JQbVlXzn7PvxQ" width="300" height="380" frameborder="0" allowtransparency="true"></iframe></p>
 <p>Luna's version first turned up on the Benicassim 98 compilation listed as "Fly Into The Sun" and then on the Italian compilation Homesleephome2 and later on the digital only Lunafied.</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/02_Luna_Fly-Into-the-Mystery.mp3">Luna - Fly Into the Mystery</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/02_Luna_Fly-Into-the-Mystery.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/02_Luna_Fly-Into-the-Mystery.mp3",
+  "audiocap": "Luna - Fly Into the Mystery",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p>This is Jojo's fourth and last appearance in the Originals series, previously<br />
 <a href="/2013/02/20/originals-back-in-your-life-by-jonathan-richman-covered-by-galaxie-500/" title="Originals: Back in Your Life by Jonathan Richman (covered by Galaxie 500)">Originals: Back in Your Life by Jonathan Richman (covered by Galaxie 500)</a><br />

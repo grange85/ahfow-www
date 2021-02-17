@@ -31,7 +31,12 @@ Here's the video for Opal's Happy Nightmare Baby, being introduced by Dave Robac
 </p>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/8xdmrlfKQJo" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/02_deanandbritta_hearthewindblow_downmoonlightmile.mp3">Dean & Britta - Hear The Wind Blow (Down Moonlight Mile)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/02_deanandbritta_hearthewindblow_downmoonlightmile.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/07-dean_and_britta/audio/02_deanandbritta_hearthewindblow_downmoonlightmile.mp3",
+  "audiocap": "Dean & Britta - Hear The Wind Blow (Down Moonlight Mile)",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p>As an aside <a href="http://www.spin.com/articles/mazzy-star-california-stream-seasons-of-your-day/">Mazzy Star are about to release their first album since 1996</a> - here's the first track we've got to hear...<br />
 </p>

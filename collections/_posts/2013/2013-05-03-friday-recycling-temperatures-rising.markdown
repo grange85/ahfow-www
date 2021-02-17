@@ -23,9 +23,19 @@ tags: []
 
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/YR55VCA0O0A?start=271" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Temperature's Rising (live Commonwealth School, Boston  1989)</figcaption></figure>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/1992-02-27_Luna_Temperatures-Rising.mp3">Luna - Temperature's Rising (live Underworld, London in 1992)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/1992-02-27_Luna_Temperatures-Rising.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/1992-02-27_Luna_Temperatures-Rising.mp3",
+  "audiocap": "Luna - Temperature's Rising (live Underworld, London in 1992)",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/01-galaxie_500/audio/1990-02-11_Galaxie-500_Temperatures-Rising.mp3">Galaxie 500 - Temperature's Rising (live Falcon, London in 1990)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/01-galaxie_500/audio/1990-02-11_Galaxie-500_Temperatures-Rising.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/01-galaxie_500/audio/1990-02-11_Galaxie-500_Temperatures-Rising.mp3",
+  "audiocap": "Galaxie 500 - Temperature's Rising (live Falcon, London in 1990)",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p><iframe width="400" height="100" style="position: relative; display: block; width: 400px; height: 100px;" src="https://bandcamp.com/EmbeddedPlayer/v=2/track=1482508396/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://galaxie500.bandcamp.com/track/temperatures-rising">Temperature&#39;s Rising by Galaxie 500</a></iframe></p>
 

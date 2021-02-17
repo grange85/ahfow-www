@@ -22,7 +22,12 @@ And Donovan turns up for his third appearance in "Originals" - Teen Angel was th
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-PpdOVdPzUc" frameborder="0" allowfullscreen></iframe>
 <p>Dean & Britta's cover was released on their second album, Back Numbers,  in 2007</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-teen-angel.mp3">Dean & Britta - Teen Angel</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-teen-angel.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-teen-angel.mp3",
+  "audiocap": "Dean & Britta - Teen Angel",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p>And that's pretty much all I know.</p>
 <p><a href="/category/originals/" title="List: Originals">See all the posts in the "Originals" series</a></p>

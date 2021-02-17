@@ -21,8 +21,18 @@ tags: []
 Awake in a Muddle was recorded by Damon & Naomi and first appeared as the b-side of their 7" single The Navigator, released on Earworm in 1997. It then appeared on their third album, Playback Singers the following year. This kicked off a long-term relationship between Damon & Naomi and Ghost.</p>
 <p>The song had originated on Japanese band Ghost's second album, Second Time Around in 1992.</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/05_Ghost_Awake_in_a_Muddle.mp3">Awake in a Muddle - Ghost (from Second Time Around (1992)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/05_Ghost_Awake_in_a_Muddle.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/00-misc/audio/05_Ghost_Awake_in_a_Muddle.mp3",
+  "audiocap": "Awake in a Muddle - Ghost (from Second Time Around (1992)",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/05_Damon_Naomi_AwakeinAMuddle_tokyo2005.mp3">Damon & Naomi - Awake in a Muddle (2005-06-23 NHK 505 Studio, Tokyo, Japan)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/05_Damon_Naomi_AwakeinAMuddle_tokyo2005.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/05_Damon_Naomi_AwakeinAMuddle_tokyo2005.mp3",
+  "audiocap": "Damon & Naomi - Awake in a Muddle (2005-06-23 NHK 505 Studio, Tokyo, Japan)",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p><a href="/category/originals/">All posts in the "Originals" series</a></p>

@@ -20,11 +20,21 @@ tags: []
 <p>For no reason other than it just popped into my head...</p>
 <p><a href="http://www.flickr.com/photos/rstanek/6314288860/" title="Speed bumps ahead! by R Stanek, on Flickr"><img class="aligncenter" src="https://farm7.staticflickr.com/6238/6314288860_9e250a34d0_z.jpg" width="640" height="427" alt="Speed bumps ahead!"></a></p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/Luna_2004-12-17_WXPN_World_Cafe_Philadelphia_PA_USA_01_Speedbumps.mp3">Luna - Speedbumps - WXPN World Cafe 17 December 2004</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/Luna_2004-12-17_WXPN_World_Cafe_Philadelphia_PA_USA_01_Speedbumps.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/Luna_2004-12-17_WXPN_World_Cafe_Philadelphia_PA_USA_01_Speedbumps.mp3",
+  "audiocap": "Luna - Speedbumps - WXPN World Cafe 17 December 2004",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p>The last time I ever saw it played...</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/Luna_2005-01-17_ULU_London_Speedbumps.mp3">Luna - Speedbumps - ULU, London 17 January 2005</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/Luna_2005-01-17_ULU_London_Speedbumps.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/Luna_2005-01-17_ULU_London_Speedbumps.mp3",
+  "audiocap": "Luna - Speedbumps - ULU, London 17 January 2005",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p>Bandcamp: Luna - Sppedbumps (Lee Wall remix)<br />
 </p>

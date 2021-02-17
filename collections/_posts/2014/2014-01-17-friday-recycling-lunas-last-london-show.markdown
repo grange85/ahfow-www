@@ -19,7 +19,12 @@ tags: []
 ---
 <p>Nine years ago this very night Luna played their last show in London</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/Luna_2005-01-17_ULU_London_Speedbumps.mp3">Luna - Speedbumps live at ULU, London</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/Luna_2005-01-17_ULU_London_Speedbumps.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/Luna_2005-01-17_ULU_London_Speedbumps.mp3",
+  "audiocap": "Luna - Speedbumps live at ULU, London",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p>Review: <a href="/2005/01/18/review-my-last-ever-luna-show/">My review of Luna's last show</a>.<br />
 <ins datetime="2014-01-18T00:31:30+00:00"><a href="http://www.independent.co.uk/arts-entertainment/music/reviews/luna-ulu-london-15910.html">Review in the Independent by Kevin Harley</a></p>

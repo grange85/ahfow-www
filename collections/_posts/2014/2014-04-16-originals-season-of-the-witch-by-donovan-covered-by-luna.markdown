@@ -34,7 +34,12 @@ Luna's version was recorded during the Penthouse sessions and was first heard on
 
 Here's a live version played at The Cat's Cradle in Carrboro, NC in January 1996
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/luna-season-of-the-witch-19960120-carrboro.mp3">Luna - Season of the Witch (live)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/luna-season-of-the-witch-19960120-carrboro.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/luna-season-of-the-witch-19960120-carrboro.mp3",
+  "audiocap": "Luna - Season of the Witch (live)",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 And never one to miss an opportunity to indulge my past here's Sam Gopal's cover from their 1969 album Escalator... Sam Gopal was the tabla player, but he's not the reason I've posted this version, feel free to guess why.
 

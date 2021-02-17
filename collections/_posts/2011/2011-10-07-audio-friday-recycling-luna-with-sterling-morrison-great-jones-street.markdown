@@ -30,7 +30,12 @@ tags: []
 <blockquote><p>Where did I get “Fuzzy Wuzzy”? I read that phrase in a Don Delillo book. Somebody says, “Can you show me your fuzzy wuzzy” to a woman. Not Fuzzy Wuzzy was a worm.
 </p></blockquote>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/1994_Luna_Great-Jones-Street.mp3">Luna with Sterling Morrison - Great Jones Street</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/1994_Luna_Great-Jones-Street.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/1994_Luna_Great-Jones-Street.mp3",
+  "audiocap": "Luna with Sterling Morrison - Great Jones Street",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p><strong>Buy</strong>: <a href="http://www.amazon.com/gp/product/0140179178/ref=as_li_ss_tl?ie=UTF8&tag=aheadfullofwi-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0140179178">Great Jones Street by Don DeLillo on Amazon</a></p>
 <p>Bonus:<br />

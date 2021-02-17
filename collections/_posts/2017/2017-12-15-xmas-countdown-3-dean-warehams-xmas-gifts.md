@@ -36,7 +36,12 @@ tags:
   } %}
 <h3>Dean & Britta and Sonic Boom - He's Coming Home / Old Toy Trains</h3>
 <p class="text text-info"> (Demo, 2004 / Chimney Rocks!, 2007)</p>
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/00_dean-britta-sonic-boom-old-toy-trains-2004.mp3">Dean & Britta and Sonic Boom - Old Toy Trains (2004 demo)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/00_dean-britta-sonic-boom-old-toy-trains-2004.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/07-dean_and_britta/audio/00_dean-britta-sonic-boom-old-toy-trains-2004.mp3",
+  "audiocap": "Dean & Britta and Sonic Boom - Old Toy Trains (2004 demo)",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-sonic-boom-old-toy-trains.mp3",
@@ -49,7 +54,12 @@ tags:
   "sourceurl": "/database/dean-and-britta/dean-and-britta-releases/dean-and-britta-hes-coming-home/",
   "sourcecap": "Chimney Rocks! Records 2007"
   } %}
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2013-11-dean-and-britta-old-toy-trains-xfm.mp3">Dean & Britta - Old Toy Trains (XFM, 2013)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2013-11-dean-and-britta-old-toy-trains-xfm.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2013-11-dean-and-britta-old-toy-trains-xfm.mp3",
+  "audiocap": "Dean & Britta - Old Toy Trains (XFM, 2013)",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <h3>Dean & Britta and Sonic Boom - Little Altar Boy (Amazon Originals, 2017)</h3>
 <p>This year Dean & Britta have teamed up with Sonic Boom for another solemn xmas tune - Little Altar Boy was available exclusively through Amazon:</p>

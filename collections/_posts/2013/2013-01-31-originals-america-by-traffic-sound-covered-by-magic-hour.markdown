@@ -25,12 +25,22 @@ tags: []
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/Fl4ZURH1-PQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/02_Magic-Hour_America.mp3">Magic Hour - America</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/02_Magic-Hour_America.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/02_Magic-Hour_America.mp3",
+  "audiocap": "Magic Hour - America",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 
 <p>Bonus: Oh OK then... here's Tom Rapp's cover of After the Goldrush</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/tom-rapp-after-the-goldrush.mp3">Tom Rapp - After The Goldrush</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/tom-rapp-after-the-goldrush.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/tom-rapp-after-the-goldrush.mp3",
+  "audiocap": "Tom Rapp - After The Goldrush",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p>&hellip; and Neil's original</p>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/d6Zf4D1tHdw" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>

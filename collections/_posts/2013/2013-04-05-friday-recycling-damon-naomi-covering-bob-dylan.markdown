@@ -20,7 +20,12 @@ tags: []
 <p><a href="http://www.flickr.com/photos/fakeplasticgirl/4888247382/" title="Damon & Naomi @ OFF Festival by bildungsr0man, on Flickr"><img class="aligncenter" src="https://farm5.staticflickr.com/4117/4888247382_882fa69afe_z.jpg" width="640" height="427" alt="Damon & Naomi @ OFF Festival"></a></p>
 <p>Damon & Naomi are now in Japan on their way for their first ever tour down under - <a href="http://damonandnaomi.com/tours/">full details of their upcoming shows can be found on their website</a>. In honour of that here's a collection of Damon & Naomi dipping into Bob Dylan's catalogue</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-tom-rapp-I-shall-be-released.mp3">Damon & Naomi with Tom Rapp - I Shall Be Released</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-tom-rapp-I-shall-be-released.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-tom-rapp-I-shall-be-released.mp3",
+  "audiocap": "Damon & Naomi with Tom Rapp - I Shall Be Released",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p>Damon & Naomi with Batoh and Kurihara - It's All Over Now Baby Blue</p>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/NOifMqYXta4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>

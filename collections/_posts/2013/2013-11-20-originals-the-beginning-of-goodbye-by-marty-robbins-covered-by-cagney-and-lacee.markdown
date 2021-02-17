@@ -25,6 +25,11 @@ When I first put my database together a cursory bit of research didn't reveal an
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/JFKUG68iu8k" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Marty Robbins - The Beginning of Goodbye</figcaption></figure>
 <p>Cagney and Lacee's version, "The Last Goodbye" was released on their only album - Six Feet of Chain (which has already had <a href="/2013/02/27/originals-yours-tonight-by-martin-rev-covered-by-cagney-and-lacee/" title="Originals: Yours Tonight by Martin Rev (covered by Cagney and Lacee)">one incorrectly named song in this series</a>).</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/04_Cagney-and-Lacee_The-Last-Goodbye.mp3">The Last Goodbye by Cagney and Lacee</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/04_Cagney-and-Lacee_The-Last-Goodbye.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/04_Cagney-and-Lacee_The-Last-Goodbye.mp3",
+  "audiocap": "The Last Goodbye by Cagney and Lacee",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

@@ -30,11 +30,26 @@ longpost: true
 
 <p>Here are a few Britta rarities to download (I've shared them all before&hellip; so not that rare I guess)</p>
 <!--more-->
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/tmdymm/08-britta-phillips-london-theme.mp3">Britta's 'London Theme' from Tell Me Do You Miss Me</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/tmdymm/08-britta-phillips-london-theme.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/tmdymm/08-britta-phillips-london-theme.mp3",
+  "audiocap": "Britta's 'London Theme' from Tell Me Do You Miss Me",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/britta-phillips-00-daydream-demo.mp3">Britta's original demo of 'Daydream'</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/britta-phillips-00-daydream-demo.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/07-dean_and_britta/audio/britta-phillips-00-daydream-demo.mp3",
+  "audiocap": "Britta's original demo of 'Daydream'",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/00-dean-and-britta-lets-ride.mp3">Dean & Britta perform 'Let's Ride' for Yo Gabba Gabba</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/00-dean-and-britta-lets-ride.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/07-dean_and_britta/audio/00-dean-and-britta-lets-ride.mp3",
+  "audiocap": "Dean & Britta perform 'Let's Ride' for Yo Gabba Gabba",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p>Check out <a href="/2014/06/11/happy-birthday-britta-phillips-2014/">A Head Full of Wishes birthday card to Britta from 2014</a> for more goodies</p>
 

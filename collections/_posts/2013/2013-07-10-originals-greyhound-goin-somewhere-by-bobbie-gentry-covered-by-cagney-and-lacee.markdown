@@ -25,10 +25,20 @@ tags: []
 
 <p>Bobbie Gentry - Greyhound Goin' Somewhere from <a href="http://en.wikipedia.org/wiki/Touch_%27Em_with_Love">Touch 'em With Love</a></p>
 <iframe src="https://embed.spotify.com/?uri=spotify:track:2RaDSMOtkWe6beo3jRmBrW" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/19_Bobbie-Gentry_Greyhound-Goin--Somewhere.mp3">Bobbie Gentry - Greyhound Goin' Somewhere - BBC TV 1969</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/19_Bobbie-Gentry_Greyhound-Goin--Somewhere.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/00-misc/audio/19_Bobbie-Gentry_Greyhound-Goin--Somewhere.mp3",
+  "audiocap": "Bobbie Gentry - Greyhound Goin' Somewhere - BBC TV 1969",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p>Cagney and Lacee covered it on Six Feet of Chain<br />
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/06_Cagney-and-Lacee_Greyhound-Goin--Somewhere.mp3">Cagney and Lacee - Six Feet of Chain</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/06_Cagney-and-Lacee_Greyhound-Goin--Somewhere.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/06_Cagney-and-Lacee_Greyhound-Goin--Somewhere.mp3",
+  "audiocap": "Cagney and Lacee - Six Feet of Chain",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p>Sadly there's no video of Bobbie Gentry singing this and as I'll not get another chance to post about her on AHFoW here's her singing the title track of Touch 'Em With Love on The Morecambe and Wise Show in 1969</p>
 

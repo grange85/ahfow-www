@@ -21,7 +21,12 @@ tags: []
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xg6KLK07Tlk" frameborder="0" allowfullscreen></iframe>
 <p>Damon & Naomi's cover was released on their second album The Wondrous World of Damon & Naomi in 1995:</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/07-damon--naomi-who-am-i.mp3">Who Am I - Damon & Naomi</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/07-damon--naomi-who-am-i.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/07-damon--naomi-who-am-i.mp3",
+  "audiocap": "Who Am I - Damon & Naomi",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p>On the Galaxie 500 Mailing List many years ago, while discussing the song, Bob brought up an interesting point...<br />
 Bob:</p>

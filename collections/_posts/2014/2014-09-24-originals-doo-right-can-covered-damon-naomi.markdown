@@ -25,5 +25,10 @@ Yoo Doo Right was 20 minutes long when released on CAN's Monster Movie LP in 196
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tlMFm9touZ8" frameborder="0" allowfullscreen></iframe>
 <p>Damon & Naomi's live cover was recorded at TT The Bears in Cambridge, MA in April 1998 with Masaki Batoh and Michio Kurihara - this clocks in at a mere 6 minutes but is still pretty damned fantastic. It was released as a seven inch single of Grimsey Records with the cover of <a href="/2013/10/30/originals-its-all-over-now-baby-blue-by-bob-dylan-covered-by-damon-naomi/" title="Originals: It’s All Over Now, Baby Blue by Bob Dylan (covered by Damon & Naomi)">Dylan's It's All Over Now, Baby Blue</a> on the flip.</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/02-damon-and-naomi-yoo-doo-right.mp3">Damon & Naomi & Batoh & Kurihara - Yoo Doo Right</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/02-damon-and-naomi-yoo-doo-right.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/02-damon-and-naomi-yoo-doo-right.mp3",
+  "audiocap": "Damon & Naomi & Batoh & Kurihara - Yoo Doo Right",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 

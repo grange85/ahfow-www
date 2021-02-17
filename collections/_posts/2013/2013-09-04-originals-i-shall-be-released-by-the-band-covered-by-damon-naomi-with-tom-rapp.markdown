@@ -28,7 +28,12 @@ It's possibly most famously performed by (almost) everyone in The Last Waltz<br 
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/js1hjL8evmM" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>Damon & Naomi played it at the first Terrastock with Tom Rapp and that version was released on the All Access CD released with the commemorative edition of Ptolemaic Terrascope.</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-tom-rapp-I-shall-be-released.mp3">Damon & Naomi with Tom Rapp - I Shall Be Released</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-tom-rapp-I-shall-be-released.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-tom-rapp-I-shall-be-released.mp3",
+  "audiocap": "Damon & Naomi with Tom Rapp - I Shall Be Released",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p>Even Tom Rapp had released a version before His Bob-ness, on 1969's Pearls Before Swine LP - <a href="http://en.wikipedia.org/wiki/These_Things_Too">These Things Too</a><br />
 </p>

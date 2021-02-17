@@ -22,7 +22,12 @@ tags: []
 Since I Lay My Burden Down was written by Michael Holland and released on his 2005 album Tomorrow's American Treasures.</p>
 <p>Dean & Britta's cover appeared on their Words You Used to Say EP in 2006</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-since-i-lay-my-burden-down.mp3">Dean & Britta - Since I Lay My Burden Down</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-since-i-lay-my-burden-down.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-since-i-lay-my-burden-down.mp3",
+  "audiocap": "Dean & Britta - Since I Lay My Burden Down",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p>Michael Holland also wrote Heartless People, the only non-original song on Dean Wareham's new LP<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qbRipWZ8Qtk" frameborder="0" allowfullscreen></iframe>

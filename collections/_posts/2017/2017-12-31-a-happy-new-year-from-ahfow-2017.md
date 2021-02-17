@@ -26,10 +26,30 @@ tags:
 
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/VPyly7fifEc" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Rock Your Baby (San Diego, December 2015)</figcaption></figure>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/2000-12-31_Luna_Rock-Your-Baby.mp3">Luna - Rock Your Baby (CBGB's 2000)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/2000-12-31_Luna_Rock-Your-Baby.mp3"></audio></div>
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/2001-12-31_Luna_Rock-Your-Baby.mp3">Luna - Rock Your Baby (The Knitting Factory 2001)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/2001-12-31_Luna_Rock-Your-Baby.mp3"></audio></div>
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/2002-12-31_Luna_Rock-Your-Baby.mp3">Luna - Rock Your Baby (Maxwell's 2002)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/2002-12-31_Luna_Rock-Your-Baby.mp3"></audio></div>
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/2004-12-31_Luna_Rock-Your-Baby.mp3">Luna - Rock Your Baby (Southpaw 2004)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/2004-12-31_Luna_Rock-Your-Baby.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/2000-12-31_Luna_Rock-Your-Baby.mp3",
+  "audiocap": "Luna - Rock Your Baby (CBGB's 2000)",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/2001-12-31_Luna_Rock-Your-Baby.mp3",
+  "audiocap": "Luna - Rock Your Baby (The Knitting Factory 2001)",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/2002-12-31_Luna_Rock-Your-Baby.mp3",
+  "audiocap": "Luna - Rock Your Baby (Maxwell's 2002)",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/2004-12-31_Luna_Rock-Your-Baby.mp3",
+  "audiocap": "Luna - Rock Your Baby (Southpaw 2004)",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p>2017 was also the year that a studio version of the track appeared - coming out on a splendid 7" on Feral Child records - hunt around and you might find a copy&hellip;</p>
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/sleeves/luna-california-blue-rock-yr-baby-front.jpg" alt="Luna - California Blue / Rock Your Baby (Feral Child, 2017)" /><figcaption class="caption-text">Luna - California Blue / Rock Your Baby (Feral Child, 2017)</figcaption></figure>

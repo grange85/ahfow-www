@@ -28,6 +28,11 @@ Oh, it's been too long since Lee Hazlewood turned up in this series (in the Bs) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oa3EqjnvqQk" frameborder="0" allowfullscreen></iframe>
 <p>To be honest the lyrics to me don't match the story, it seems to me its more about a woman keeping her wayward man in line, so Cagney and Lacee's version, sung by Lacee (Dean's ex-wife Claudia Silver) makes a little more sense to me. Six Feet of Chain was the title track of Cagney and Lacee's only LP< released in 1997 on No.6 Records.</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/cagney-and-lacee-six-feet-of-chain.mp3">Cagney & Lacee - Six Feet of Chain</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/cagney-and-lacee-six-feet-of-chain.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/cagney-and-lacee-six-feet-of-chain.mp3",
+  "audiocap": "Cagney & Lacee - Six Feet of Chain",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p><a href="/category/originals/" title="List: Originals">See all posts in the <strong>Originals</strong> series</a></p>

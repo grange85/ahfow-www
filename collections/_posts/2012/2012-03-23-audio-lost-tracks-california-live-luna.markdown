@@ -23,6 +23,11 @@ tags: []
 <blockquote><p>Recorded live and mixed by Brent Sigmeth at Pachyderm Studio, Cannon Falls, MN</p></blockquote>
 <p>I'm not even sure if that means that it was recorded live AND mixed or recorded live THEN mixed... There is a (small sounding) audience applauding at the end.</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/luna-california-live.mp3">California (live) - Luna</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/luna-california-live.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/luna-california-live.mp3",
+  "audiocap": "California (live) - Luna",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p>Previously on AHFoW you can hear <a href="/2011/12/02/friday-recycling-luna-reluctantly-play-california-all-the-way/">Luna reluctantly playing California (All the Way)</a> on The World Cafe in 1997</p>

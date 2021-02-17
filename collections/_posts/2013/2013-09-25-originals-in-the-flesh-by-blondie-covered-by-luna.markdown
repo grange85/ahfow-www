@@ -23,6 +23,11 @@ tags: []
 <p><a href="http://en.wikipedia.org/wiki/In_the_Flesh_%28Blondie_song%29">Blondie's In The Flesh</a> was their second single released in October 1976. It reached number 2 in the Australian charts making it Blondie's first hit record.</p>
 <p>Luna's version was released as a 7" single on Trade2 Records, and later on the CD single of Bobby Peru.</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/Luna_In-the-Flesh.mp3">Luna - In The Flesh</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/Luna_In-the-Flesh.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/Luna_In-the-Flesh.mp3",
+  "audiocap": "Luna - In The Flesh",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

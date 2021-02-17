@@ -21,10 +21,30 @@ tags: []
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/D-0Ey7_pcuE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/2000-12-31_Luna_Rock-Your-Baby.mp3">Luna - Rock Your Baby (CBGB's 2000)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/2000-12-31_Luna_Rock-Your-Baby.mp3"></audio></div>
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/2001-12-31_Luna_Rock-Your-Baby.mp3">Luna - Rock Your Baby (The Knitting Factory 2001)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/2001-12-31_Luna_Rock-Your-Baby.mp3"></audio></div>
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/2002-12-31_Luna_Rock-Your-Baby.mp3">Luna - Rock Your Baby (Maxwell's 2002)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/2002-12-31_Luna_Rock-Your-Baby.mp3"></audio></div>
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/2004-12-31_Luna_Rock-Your-Baby.mp3">Luna - Rock Your Baby (Southpaw 2004)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/2004-12-31_Luna_Rock-Your-Baby.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/2000-12-31_Luna_Rock-Your-Baby.mp3",
+  "audiocap": "Luna - Rock Your Baby (CBGB's 2000)",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/2001-12-31_Luna_Rock-Your-Baby.mp3",
+  "audiocap": "Luna - Rock Your Baby (The Knitting Factory 2001)",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/2002-12-31_Luna_Rock-Your-Baby.mp3",
+  "audiocap": "Luna - Rock Your Baby (Maxwell's 2002)",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/2004-12-31_Luna_Rock-Your-Baby.mp3",
+  "audiocap": "Luna - Rock Your Baby (Southpaw 2004)",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 
 <p><em>If anyone has any other live performances of the track <a href="/about/" title="Contact me">please get in touch</a>.</em></p>
@@ -33,5 +53,10 @@ tags: []
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/Mwrvmcof-hE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>... and of course...<br />
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/luna-happynewyear.mp3">Luna - Happy New Year</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/luna-happynewyear.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/luna-happynewyear.mp3",
+  "audiocap": "Luna - Happy New Year",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 

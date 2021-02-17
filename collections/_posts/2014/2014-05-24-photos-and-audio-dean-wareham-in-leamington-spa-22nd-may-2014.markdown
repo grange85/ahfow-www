@@ -24,7 +24,12 @@ tags: []
 
 <p><strong>Database</strong>: <a href="/database/dean-and-britta/shows/2014/2014-05-22-dean-wareham-the-zephyr-lounge-leamington-spa-uk/" title="2014-05-22: Dean Wareham – The Zephyr Lounge, Leamington Spa, UK">22 May 2014 Dean Wareham at The Zephyr Lounge, Leamington Spa, UK</a> </p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/2014-05-22-dean-wareham-holding-pattern.mp3">Holding Pattern - Dean Wareham (live in Leamington Spa)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/2014-05-22-dean-wareham-holding-pattern.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/2014-05-22-dean-wareham-holding-pattern.mp3",
+  "audiocap": "Holding Pattern - Dean Wareham (live in Leamington Spa)",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p><strong>Download</strong>: The whole show from Mediafire (mp3) - <a href="http://www.mediafire.com/file/gr93bl2okbxbmdd/2014-05-22-dean-wareham-leamington-spa-uk.zip/file">Dean Wareham - Zephyr Lounge, Leamington Spa, 22 May 2014</a></p>
 

@@ -30,6 +30,11 @@ In March 1997 Damon & Naomi played their first London show at the tiny 12 Bar Cl
 <p>The 7" single that came with the magazine featured Damon & Naomi doing a cover of C.O.B.‘s Spirit of Love, a sweet folk ditty sung over that lovely monotone sruti box drone. And because of that and because of the fond memories of that first Damon & Naomi show, Spirit of Love is one of my favourite Damon & Naomi tracks.
 </p></blockquote>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/05-damon-naomi-spirit-of-love.mp3">Damon & Naomi - Spirit of Love</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/05-damon-naomi-spirit-of-love.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/05-damon-naomi-spirit-of-love.mp3",
+  "audiocap": "Damon & Naomi - Spirit of Love",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/ptolemaic-terrascope-no23.jpg" width="804" height="1157" class /><figcaption class="caption-text"> Ptolemaic Terrascope #23</figcaption></figure>

@@ -21,9 +21,19 @@ tags: []
 <em>(Désolé pour mon pauvre français... I'll spare you any more... and please feel free to correct what there is!)</em><br />
 <figure class="caption aligncenter"><a href="http://www.flickr.com/photos/smu_cul_digitalcollections/8044701619/" title="Fleche d'Or, Golden Arrow, Paris by SMU Central University Libraries, on Flickr"><img class="aligncenter" src="https://farm9.staticflickr.com/8460/8044701619_f95b06a329_z.jpg" width="640" height="423" alt="Fleche d'Or, Golden Arrow, Paris"></a><figcaption class="caption-text"></figcaption></figure></p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-white-horses-version-francaise.mp3">Dean & Britta - White Horses (en français)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-white-horses-version-francaise.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-white-horses-version-francaise.mp3",
+  "audiocap": "Dean & Britta - White Horses (en français)",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/03-luna-la-poupee-qui-fait-non.mp3">Luna - La poupée qui fait non</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/03-luna-la-poupee-qui-fait-non.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/03-luna-la-poupee-qui-fait-non.mp3",
+  "audiocap": "Luna - La poupée qui fait non",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 
 <p>Previously: <a href="/2011/11/18/friday-recycling-bonnie-clyde-dean-britta-keren-ann/">Friday recycling: Bonnie and Clyde – Dean & Britta & Keren Ann</a><br />

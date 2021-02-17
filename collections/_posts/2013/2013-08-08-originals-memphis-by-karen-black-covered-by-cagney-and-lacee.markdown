@@ -22,7 +22,12 @@ tags: []
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/1ITqqSvpucg" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>Cagney and Lacee covered it on Six Feet of Chain</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/cagney-and-lacee-memphis.mp3">Cagney and Lacee - Memphis</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/cagney-and-lacee-memphis.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/cagney-and-lacee-memphis.mp3",
+  "audiocap": "Cagney and Lacee - Memphis",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p>Here's another song from Nashville</p>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/7foGZgv-53g" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>

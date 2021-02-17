@@ -31,7 +31,12 @@ flickr: true
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/SZsiYOL0EzE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>... and a remix by Sonic Boom was released on the Sonic Souvenirs EP </p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-moonshot-myths-of-heaven.mp3">Dean & Britta - Moonshot (Myths of Heaven remix by Sonic Boom)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-moonshot-myths-of-heaven.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-moonshot-myths-of-heaven.mp3",
+  "audiocap": "Dean & Britta - Moonshot (Myths of Heaven remix by Sonic Boom)",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p>Buffy commented on one of Dean's cover versions in the Magnet interview, although it's not clear which one...</p>
 <blockquote><p>I saw your version of "Moonshot" on YouTube. Thank you!! It's just gorgeous, and I was so touched when I came upon it — by accident — several months ago. Some of my favorite songs are real obscure like "Moonshot." Hardly anyone knows them. I like your taste. Anyway, many thanks for doing this. I went to your website — cool.</p></blockquote>

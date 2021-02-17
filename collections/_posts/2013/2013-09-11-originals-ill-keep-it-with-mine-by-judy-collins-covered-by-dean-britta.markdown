@@ -37,7 +37,12 @@ tags: []
 
 <p>Dean & Britta recorded it for Nico's screen test in 13 Most Beautiful and it has been released on the accompanying album and a couple of 7" singles - all CD and vinyl releases feature one of two remixes by the <a href="http://www.nbcbayarea.com/blogs/the-city/Scott-Hardkiss-Remember-His-Music-201340731.html">late Scott Hardkiss</a> - but <a href="/2010/10/02/13-most-beautiful-the-missing-mixes/">Britta allowed this site to share the unremixed version</a>.</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/08-dean-and-britta-ill-keep-it-with-mine.mp3">Dean & Britta - I'll Keep It With Mine (DVD mix)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/08-dean-and-britta-ill-keep-it-with-mine.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/07-dean_and_britta/audio/08-dean-and-britta-ill-keep-it-with-mine.mp3",
+  "audiocap": "Dean & Britta - I'll Keep It With Mine (DVD mix)",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/RTsAB3PAE5Q" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Dean & Britta - I'll Keep It With Mine (Scott Hardkiss acoustic remix)</figcaption></figure>
 

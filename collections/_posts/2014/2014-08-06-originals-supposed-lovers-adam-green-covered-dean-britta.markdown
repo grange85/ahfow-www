@@ -26,7 +26,12 @@ MP3: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and
 <audio src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-were-not-supposed-to-be-lovers.mp3" preload="none" controls /></p>
 <p>Here's a live version recorded at a secret gig in Copenhagen in 2007:</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2007-11-24-dean-and-britta-were-not-supposed-to-be-lovers.mp3">Dean & Britta - We're Not Supposed to be Lovers (live in Copenhagen)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2007-11-24-dean-and-britta-were-not-supposed-to-be-lovers.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2007-11-24-dean-and-britta-were-not-supposed-to-be-lovers.mp3",
+  "audiocap": "Dean & Britta - We're Not Supposed to be Lovers (live in Copenhagen)",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p>And here's a sweet blurry video of that show<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AQ-sDkZHqLg" frameborder="0" allowfullscreen></iframe>

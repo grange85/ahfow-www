@@ -21,7 +21,12 @@ tags: []
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/depthandtime/4529435423" title="2 Boys and Store Front Christmas Display"><img src="https://farm5.staticflickr.com/4018/4529435423_a07baab948_b.jpg" width="1024" height="863" alt="2 Boys and Store Front Christmas Display"></a>
 <p class="lead">UPDATE (2015-12-22): Here's the mp3 of Dean & Britta performing Old Toy Trains on XFM</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2013-11-dean-and-britta-old-toy-trains-xfm.mp3">Dean & Britta - Old Toy Trains (live on XFM, November 2013)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2013-11-dean-and-britta-old-toy-trains-xfm.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2013-11-dean-and-britta-old-toy-trains-xfm.mp3",
+  "audiocap": "Dean & Britta - Old Toy Trains (live on XFM, November 2013)",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p>While Dean was in London last a couple of weeks back he recorded a couple of tracks for a session for John Kennedy's Xposure show on Xfm - you can hear some of the interview and a cover of Old Toy Trains with Dean on guitar and Britta on iPad in the latest issue of the Xposure podcast.</p>
 <p>Link: <a href="https://itunes.apple.com/gb/podcast/john-kennedys-xposure-podcast/id444082953">John Kennedy's Xposure podcast (via iTunes)</a><br />

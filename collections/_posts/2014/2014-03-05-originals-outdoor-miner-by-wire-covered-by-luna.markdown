@@ -22,10 +22,20 @@ Outdoor Miner was released by Wire on their tremendous 1978 album Chairs Missing
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0vw4JkDf0wo" frameborder="0" allowfullscreen></iframe>
 <p>Luna's cover first put in an appearance on a 7" single released by Spanish indie label Radiation in 1996, it came wrapped in the memorable cat-nailed-to-a-board sleeve - a photo the label/designer thought so wonderful they put it on the 7" gatefold sleeve no less than three times!</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/02-11-luna-outdoor-miner.mp3">Luna - Outdoor Miner</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/02-11-luna-outdoor-miner.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/02-11-luna-outdoor-miner.mp3",
+  "audiocap": "Luna - Outdoor Miner",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/1994-11-18-tramps-nyc-luna-outdoor-miner.mp3">Luna - Outdoor Miner (live at Tramps, NYC on 18 November 1994)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/1994-11-18-tramps-nyc-luna-outdoor-miner.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/1994-11-18-tramps-nyc-luna-outdoor-miner.mp3",
+  "audiocap": "Luna - Outdoor Miner (live at Tramps, NYC on 18 November 1994)",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p>Here's that sleeve, cat lovers avert your eyes!<br />
 <img src="https://media.fullofwishes.co.uk/images/misc/luna-outdoorminer-500.jpg" width="513" height="500" class="aligncenter" /></p>

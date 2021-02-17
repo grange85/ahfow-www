@@ -31,10 +31,20 @@ Lee Hazelwood : 3</p>
 <p><a href="/category/originals/" title="List: Originals">See all posts in the Originals series over here</a>.</p>
 <p>I generally stuck to tracks that had received an official release, although a few stray ineligible ones slipped through. Here are a couple that didn't but could have:</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/luna-19951026-walk-on-the-wild-side.mp3">Luna - Walk on The Wild Side</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/luna-19951026-walk-on-the-wild-side.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/luna-19951026-walk-on-the-wild-side.mp3",
+  "audiocap": "Luna - Walk on The Wild Side",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-20110511-shine-a-light.mp3">Damon & Naomi - Shine a Light</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-20110511-shine-a-light.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-20110511-shine-a-light.mp3",
+  "audiocap": "Damon & Naomi - Shine a Light",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <h3>Footnotes</h3>
 <p id="footnote-1">1: Including Magic Hour</p>

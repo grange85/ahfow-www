@@ -43,7 +43,12 @@ description: >
             </div>
             <div class="panel-body">
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/podcast/ahfow-podcast-2-being-social.mp3">A Head Full of Wishes podcast #2 - Being social</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/podcast/ahfow-podcast-2-being-social.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/00-misc/podcast/ahfow-podcast-2-being-social.mp3",
+  "audiocap": "A Head Full of Wishes podcast #2 - Being social",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
             </div>
           </div>

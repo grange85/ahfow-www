@@ -27,8 +27,18 @@ tags: []
 <p>Have a great day Jojo. <a href="https://www.youtube.com/watch?v=nu3TvC9CH18">I love your chimes... they reel and they rock</a>.</p>
 <p><iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3510813574/size=small/bgcol=ffffff/linkcol=0687f5/track=452266046/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/copenhagen-live">Copenhagen (live) by Galaxie 500</a></iframe></p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/01-galaxie_500/audio/galaxie-500-back-in-your-life.mp3">Galaxie 500 - Back in Your Life (Jonathan Richman cover live at The Middle East, Cambridge, MA - 19 March 1988)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/01-galaxie_500/audio/galaxie-500-back-in-your-life.mp3"></audio></div>
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/01-galaxie_500/audio/1989-12-13-galaxie-500-dont-let-our-youth-go-to-waste.mp3">Galaxie 500 - Don't Let Our Youth Go to Waste (Jonathan Richman cover - live at Subteranea, London - 13 December 1989)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/01-galaxie_500/audio/1989-12-13-galaxie-500-dont-let-our-youth-go-to-waste.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/01-galaxie_500/audio/galaxie-500-back-in-your-life.mp3",
+  "audiocap": "Galaxie 500 - Back in Your Life (Jonathan Richman cover live at The Middle East, Cambridge, MA - 19 March 1988)",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/01-galaxie_500/audio/1989-12-13-galaxie-500-dont-let-our-youth-go-to-waste.mp3",
+  "audiocap": "Galaxie 500 - Don't Let Our Youth Go to Waste (Jonathan Richman cover - live at Subteranea, London - 13 December 1989)",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/jasonpersse/7415234934" title="Dean & Britta"><img src="https://c7.staticflickr.com/9/8009/7415234934_d3f692ec0e_o.jpg" width="1024" height="694" alt="Dean & Britta"></a>
 

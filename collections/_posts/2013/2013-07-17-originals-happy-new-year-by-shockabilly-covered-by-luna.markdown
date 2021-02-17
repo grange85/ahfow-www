@@ -22,7 +22,12 @@ tags: []
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/JBJD2A5zuq8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>Luna's cover was recorded during the Penthouse session and was released as a bonus track on the Beggars Banquet CD single Hedgehog / 23 Minutes in Brussels. It later turned up on the digital-only covers album Lunafied.</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/luna-happynewyear.mp3">Luna - Happy New Year</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/luna-happynewyear.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/luna-happynewyear.mp3",
+  "audiocap": "Luna - Happy New Year",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/youtube" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">caption</figcaption></figure>

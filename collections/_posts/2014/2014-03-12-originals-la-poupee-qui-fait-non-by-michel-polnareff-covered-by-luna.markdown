@@ -22,7 +22,12 @@ Originally by Michel Polnareff and released in 1966<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EfuiJuKGp1k" frameborder="0" allowfullscreen></iframe>
 <p>Covered by Luna for the 1996 Emperor Norton LP Pop Romantique </p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/03-luna-la-poupee-qui-fait-non.mp3">La poupée qui fait non by Luna</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/03-luna-la-poupee-qui-fait-non.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/03-luna-la-poupee-qui-fait-non.mp3",
+  "audiocap": "La poupée qui fait non by Luna",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p>It's another one of those songs that gets covered by everyone - here's a rather splendid English language cover by the wonderful St Etienne<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eRaEX34fN_U" frameborder="0" allowfullscreen></iframe>

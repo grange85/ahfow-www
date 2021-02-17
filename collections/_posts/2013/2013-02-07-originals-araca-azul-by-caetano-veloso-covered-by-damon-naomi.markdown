@@ -26,6 +26,11 @@ tags: []
 {% bandcamp {"track": "4118269475"} %}
 <p>Here's Damon & Naomi performing it in Tokyo in 2004 along with The Earth is Blue</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/01_Damon_and_Naomi_Araca_Azul_The_Earth_is_Blue.mp3">Damon & Naomi - Araçá azul / The Earth is Blue - live in Tokyo, 2004</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/01_Damon_and_Naomi_Araca_Azul_The_Earth_is_Blue.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/01_Damon_and_Naomi_Araca_Azul_The_Earth_is_Blue.mp3",
+  "audiocap": "Damon & Naomi - Araçá azul / The Earth is Blue - live in Tokyo, 2004",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

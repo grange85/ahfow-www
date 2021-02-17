@@ -25,7 +25,12 @@ It was more famous for folk of a certain age for a cover in 1976 by The Walker B
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gZME5Q11wig" frameborder="0" allowfullscreen></iframe>
 <p>Luna's cover appeared in 1995 as one of the tracks on the Hedgehog/23 Minutes in Brussels single, and later on the No6 Records EP (and more recently on the Lunafied download only compilation).</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/03-luna-no-regrets.mp3">Luna - No Regrets</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/03-luna-no-regrets.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/03-luna-no-regrets.mp3",
+  "audiocap": "Luna - No Regrets",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p>And as a bonus here's Lee Hazlewood's version from The Cowboy and The Lady from 1969<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TBECRP4p8FI" frameborder="0" allowfullscreen></iframe>

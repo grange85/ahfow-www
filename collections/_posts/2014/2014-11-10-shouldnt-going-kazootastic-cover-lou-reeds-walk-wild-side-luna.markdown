@@ -23,5 +23,10 @@ Just sorting through the chaos that is my hard drive and came across this lovely
 <blockquote><p>We shouldn't do this but we're going to</p></blockquote>
 <p>Enjoy it... I did.</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/17-luna-walk-on-the-wild-side.mp3">Luna - Walk on the Wild Side</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/17-luna-walk-on-the-wild-side.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/17-luna-walk-on-the-wild-side.mp3",
+  "audiocap": "Luna - Walk on the Wild Side",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 

@@ -30,6 +30,11 @@ Update (14th July 2020): Currently on YouTube, so...
 
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/gq1BRWtznVE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Yours Tonight - Martin Rev</figcaption></figure>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/01_Cagney-and-Lacee_Be-Mine.mp3">Cagney and Lacee - Be Mine</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/01_Cagney-and-Lacee_Be-Mine.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/01_Cagney-and-Lacee_Be-Mine.mp3",
+  "audiocap": "Cagney and Lacee - Be Mine",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

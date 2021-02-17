@@ -35,6 +35,11 @@ tags: []
 
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/av2ApbIdNSI" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Ceremony - live at Club Lingerie, 1990</figcaption></figure>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/01-galaxie_500/audio/1989-02_Galaxie-500_Slash-demos_Ceremony_-demo-.mp3">Galaxie 500 - Ceremony (demo)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/01-galaxie_500/audio/1989-02_Galaxie-500_Slash-demos_Ceremony_-demo-.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/01-galaxie_500/audio/1989-02_Galaxie-500_Slash-demos_Ceremony_-demo-.mp3",
+  "audiocap": "Galaxie 500 - Ceremony (demo)",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

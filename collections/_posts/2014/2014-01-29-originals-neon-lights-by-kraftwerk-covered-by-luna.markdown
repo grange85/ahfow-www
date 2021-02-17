@@ -26,6 +26,11 @@ tags: []
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/KqmGZ_6LaUw" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>Luna's version first turned up on the flip of their Superfreaky Memories single in 1999</p>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/02-luna-neon-lights.mp3">Luna - Neon Lights</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/02-luna-neon-lights.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/02-luna-neon-lights.mp3",
+  "audiocap": "Luna - Neon Lights",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

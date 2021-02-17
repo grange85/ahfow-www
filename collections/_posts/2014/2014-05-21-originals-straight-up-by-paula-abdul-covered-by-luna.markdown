@@ -23,6 +23,11 @@ Straight Up was written by musician, songwriter and producer Eliott Wolff for Pa
 Luna's version was released posthumously on the Guilty Pleasures compilation. The song was recorded around the time of Romantica but the album was shelved and didn't see the light of day until 2007. When I first heard of its existence I asked Dean about it...</p>
 <blockquote><p>"Straight Up" was suggested by the A&R guy. I told him it wasn't a guilty pleasure of mine - I simply don't like the song. But it turned out okay.</p></blockquote>
 
-<div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/luna-straight-up.mp3">Luna - Straight Up (Paula Abdul cover)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/luna-straight-up.mp3"></audio></div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/luna-straight-up.mp3",
+  "audiocap": "Luna - Straight Up (Paula Abdul cover)",
+  "sourceurl": "",
+  "sourcecap": ""
+  } %}
 
 <p><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></p>
