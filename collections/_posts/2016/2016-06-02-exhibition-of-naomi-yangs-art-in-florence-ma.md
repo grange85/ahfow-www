@@ -22,7 +22,7 @@ tags:
 - naomi yang
 - florence
 ---
-<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/naomi-yang-exhibition-02.jpg" alt="Naomi Yang" /><figcaption class="caption-text">Naomi Yang</figcaption></figure></div>
+<div class="col-md-6 float-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/naomi-yang-exhibition-02.jpg" alt="Naomi Yang" /><figcaption class="caption-text">Naomi Yang</figcaption></figure></div>
 <p class="lead">Next week an <a href="https://www.facebook.com/events/510066522532663/">exhibition of Naomi's paintings</a> and collages will open at Rozz Tox Art/Feeding Tube Records in Florence, MA</p>
 <p>The opening reception of the show, 'Victorian Girls', will take place on Wednesday 8 June 2016 at 5pm - <a href="https://www.facebook.com/events/510066522532663/">details can be found on the event's Facebook page</a>.</p>
 

@@ -20,7 +20,7 @@ tags:
  - purple mountains
  - silver jews
 ---
-<div class="col-md-6 pull-right">
+<div class="col-md-6 float-right">
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-approaching-perfection.jpg" alt="Approcahing Perfection a tribute to DC Berman" /><figcaption class="caption-text">Approcahing Perfection a tribute to DC Berman</figcaption></figure></div>
 Dean Wareham has contributed a cover of The Purple Mountains Snow is Falling in Manhattan for a new tribute to David Berman released on the blog Section 26 today.
 

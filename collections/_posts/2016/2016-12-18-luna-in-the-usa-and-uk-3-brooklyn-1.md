@@ -123,13 +123,13 @@ longpost: true
 
 <p>I stepped into a bakery, there were a lot of asian people working in there. Everything was in white. I took a photo before they chased me out of there. I am so lost. In Chinatown. So lost. I was so lost, in Chinatown.</p>
 
-<div class="col-md-6 pull-right"><blockquote>I like watching Britta play the Malibu bass lines, Dean is shaking his head in rhythm, Britta is jumping up and down, on her tippy toes.</blockquote></div>
+<div class="col-md-6 float-right"><blockquote>I like watching Britta play the Malibu bass lines, Dean is shaking his head in rhythm, Britta is jumping up and down, on her tippy toes.</blockquote></div>
 
 <p>I'm in a hotel room in northern Sweden. By myself. Watching Luna from Brooklyn earlier this year. We are here to visit my grandmother, she doesn't know who I am any more. My mother died five years ago, it was a windy night, she died on her way to her work. It was just next to a blackberry bush I used to pass on my way to school, on my way back I stopped to pick a few berries, and I even made a blackberry jam once. My father lit a candle a whole year on that spot. She was born in spring.</p>
 <!--more-->
 <p>We are visiting my grandmother, she is not well, remembers almost nothing, is talking nonsense. She is not well, she has alzheimer's. While I'm used to nonsense from lyrics, it's something different to hear it for real. But it's not nonsense to her, but it is for my brother and my father, it is not nonsense to me. She is speaking from her heart. With her brain playing tricks. Her heart is right, her brain is playing tricks. I don't mind. I see her in front of me, one more time. It might be the last time I see her.</p>
 
-<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-frank-005.jpg" alt="Britta is bending her knees (Photo: Frank)" /><figcaption class="caption-text">Britta is bending her knees (Photo: Frank)</figcaption></figure></div>
+<div class="col-md-6 float-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-frank-005.jpg" alt="Britta is bending her knees (Photo: Frank)" /><figcaption class="caption-text">Britta is bending her knees (Photo: Frank)</figcaption></figure></div>
 
 <p>I am watching my films I recorded from the Brooklyn shows. I filmed both shows, all of it, with four cameras set up in the venue. I had no experience what so ever with this kind of thing and I had to improvise, and I got all the equipment a few days before the trip. I even got the main camera shipped to the hotel in Washington. And I'm watching it. It brings me back.</p>
 
@@ -151,7 +151,7 @@ longpost: true
 
 <p>The crab is finished, I want to hear Luna loud, I need it, I really need it.</p>
 
-<div class="col-md-6 pull-right"><blockquote>On the balcony a woman said she loved my man bun. Of course I thought she was joking.</blockquote></div>
+<div class="col-md-6 float-right"><blockquote>On the balcony a woman said she loved my man bun. Of course I thought she was joking.</blockquote></div>
 
 <p>Sean is doing his song, I get some beautiful shots at the end when he's playing his long solo. He turns around, and walks the few steps towards the others, facing them, playing, those sounds, I take a deep breath, for the first time of the day, my shoulders sink down, I can take deep breath, the worries goes away, I don't see them anymore. He is looking at the others, I am looking at him. And I listen.</p>
 
@@ -159,7 +159,7 @@ longpost: true
 
 <p>We met Frank and Marjorie in the line before the show started. I was filming and I was nervous, we got back from our meal, Mike and Ulrika talked instead of me. Dean & Britta came out and said hello, they had finished their soundcheck, and were going to have dinner with Dean's younger brother.</p>
 
-<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-006.jpg" alt="Dean and his brother (Photo: Joakim)" /><figcaption class="caption-text">Dean and his brother (Photo: Joakim)</figcaption></figure></div>
+<div class="col-md-6 float-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-006.jpg" alt="Dean and his brother (Photo: Joakim)" /><figcaption class="caption-text">Dean and his brother (Photo: Joakim)</figcaption></figure></div>
 
 <p>My grandmother didn't remember us. But she remembers my mother. &ldquo;My little girl&rdquo;, she said, staring into the empty space in front of her. Her eyes looking just grey, shiny and grey. Someone from the staff had painted her fingernails. Her hair was grey, short and curly like always. She is still much smarter than the rest of us. Commenting the things we say, answering, but she's answering other questions, more relevant questions. Questions than mean something to her. Her little girl. My mother.</p>
 
@@ -169,7 +169,7 @@ longpost: true
 
 <p>Suddenly Sean's guitar just stops working during his solo on Tracy I Love You. &ldquo;We're powerless&rdquo;, someone says. These things only make Luna shows even better. Or at least they make things more relaxed. Sometimes they loosen things up. And the shows gets better.</p>
 
-<div class="col-md-6 pull-right"><blockquote>Something to move your feet to, your toes, your brain cells are left out, the knees are in, the hips, the chest, the shoulders too, the head, but not the brain.</blockquote></div>
+<div class="col-md-6 float-right"><blockquote>Something to move your feet to, your toes, your brain cells are left out, the knees are in, the hips, the chest, the shoulders too, the head, but not the brain.</blockquote></div>
 
 <p>It's just pure happiness, still happiness, to watch this band. They're good to hear, but even better to watch. The power is on again. And they play the end part of Tracy I Love You. It's brilliant. Totally brilliant. &ldquo;That was professional&rdquo;, Frank says. &ldquo;It's like a dual wedding&rdquo;, Sean says. &ldquo;I don't remember how to play Ihop&rdquo;, Dean says. People always wants to hear things they don't play. Fascinating. And they tease us. Starts to play the intro. But no. No no no. I think Dean hates it. They start to talk about Dunkin' Donuts instead. It's Luna. There's talk. This time, I prefer Deans next words. &ldquo;All of a sudden.&rdquo;</p>
 
@@ -183,7 +183,7 @@ longpost: true
 
 <p>Like seeing Luna play. They are playing. Dean with his plastic slide, or metallic, don't know, it just doesn't matter, I like watching Sean moving his head, playing chords, playing whatever he wants, and I hear Britta playing, Lee too of course, it's probably Freaking and Peaking, I don't know, it's just so good, sometimes I don't care what songs they play, I say stare, I just listen, just listening.</p>
 
-<div class="col-md-6 pull-right"><blockquote>I like Stockholm, very very much. I always cry when I get back here, with the bus from the airport to where we live. It's not my home town, but it's where I feel at home.</blockquote></div>
+<div class="col-md-6 float-right"><blockquote>I like Stockholm, very very much. I always cry when I get back here, with the bus from the airport to where we live. It's not my home town, but it's where I feel at home.</blockquote></div>
 
 <p>&ldquo;They need, time off, for good behaviour.&rdquo; Dean is doing what he's doing best again. I'm so glad he never got a job as a banker or anything. Dean as a banker. He would be good at it. Keeping things in order. I mean, he gets the band from here to there.</p>
 

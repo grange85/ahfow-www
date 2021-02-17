@@ -19,7 +19,7 @@ categories:
 tags:
 flickr: true
 ---
-<div class="col-md-6 pull-right"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/15706864139/" title="I&#x27;ve often bored friends and acquaintances with the story of getting a signed copy of Luna Live #luna #lp #vinyl #ahfow"><img src="https://live.staticflickr.com/7576/15706864139_3f3b43573a_z.jpg" width="640" height="640" alt="I&#x27;ve often bored friends and acquaintances with the story of getting a signed copy of Luna Live #luna #lp #vinyl #ahfow"></a></div>
+<div class="col-md-6 float-right"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/15706864139/" title="I&#x27;ve often bored friends and acquaintances with the story of getting a signed copy of Luna Live #luna #lp #vinyl #ahfow"><img src="https://live.staticflickr.com/7576/15706864139_3f3b43573a_z.jpg" width="640" height="640" alt="I&#x27;ve often bored friends and acquaintances with the story of getting a signed copy of Luna Live #luna #lp #vinyl #ahfow"></a></div>
 
 As it's [Bastille Day](http://en.wikipedia.org/wiki/Bastille_Day) here's Luna playing Anesthesia from their Luna Live album. This is the track that has Dean supporting the French Revolution and also has one of my favourite heckles right at the end.
 

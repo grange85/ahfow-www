@@ -226,7 +226,7 @@ longpost: true
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-texas/01-intro-img-9890.jpg" alt="Joakim and Ulrika with Luna in Texas" /><figcaption class="caption-text">Joakim and Ulrika with Luna in Texas</figcaption></figure>
 <p class="lead">I order a grilled grapefruit early Monday morning at Hotel Havana in San Antonio. There are raspberries and blackberries on top. The bitter juice is perfectly balanced by the caramelisation.</p>
 
-<div class="col-md-6 pull-right"><blockquote>Dean Wareham asks on Facebook later that day, "What are you doing in Texas?" when Ulrika posts a picture of herself standing in front of the Alamo. "To see the Alamo", she replies.</blockquote></div>
+<div class="col-md-6 float-right"><blockquote>Dean Wareham asks on Facebook later that day, "What are you doing in Texas?" when Ulrika posts a picture of herself standing in front of the Alamo. "To see the Alamo", she replies.</blockquote></div>
 
 <p>The steel construction is painted turquoise, the chairs as well. The big windows are facing the canal floating by a little bit below, with its famous river walk next to it. A big aloe vera cactus is planted right outside. Some of its stems are getting brown. A river boat comes by and stops right outside, the Mexican guy in the boat starts watering the plants. With a fork and a knife, I eat my grilled grapefruit, I have a sip of my coffee, and say to Ulrika in front of me, "it's good to be in Texas".</p>
 
@@ -236,7 +236,7 @@ longpost: true
 
 <!--more-->
 
-<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-texas/02-img-0374-combined-jo-u.jpg" alt="Joakim and Ulrika" /><figcaption class="caption-text">Joakim and Ulrika</figcaption></figure></div>
+<div class="col-md-6 float-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-texas/02-img-0374-combined-jo-u.jpg" alt="Joakim and Ulrika" /><figcaption class="caption-text">Joakim and Ulrika</figcaption></figure></div>
 
 <p>Then she moved to Stockholm. It took a very long time for her to accept the fact. She wasn't going to live in Texas anymore. But she sure can come back for visit, and that's what we did. San Antonio is a great place to visit, we walk along the canal, it's beautiful, we go up in the Tower of the Americas and visit the Market Square stacked with Mexican restaurants and souvenir shops.</p>
 
@@ -263,7 +263,7 @@ longpost: true
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-texas/07-l1020763-combo-britta-and-her-band.jpg" alt="Britta and her band" /><figcaption class="caption-text">Britta and her band</figcaption></figure>
 <p>Talking about enchanting, Britta Phillips just released a solo record. It's a fantastic record. It was a long wait but it turned out to be a really beautiful album, one of those that's impossible to grow tired of, and it suits all occasions. Britta's voice is mesmerising, almost hypnotic, and staggeringly beautiful. The half electronic songs are never too much, the sound is big but not overly pompous, in fact it's quite intimate and very touching.</p>
 
-<div class="col-md-6 pull-right"><blockquote> Britta chatter-sings Swedish on Agneta's song Wrap Your Arms Around Me, it is very enchanting, but I don't get a word of it.</blockquote></div>
+<div class="col-md-6 float-right"><blockquote> Britta chatter-sings Swedish on Agneta's song Wrap Your Arms Around Me, it is very enchanting, but I don't get a word of it.</blockquote></div>
 
 <p>The songs are a mix of covers and originals. The covers are well chosen covering artists like Swedish Agneta F&auml;ltskog from Abba. And Fleetwood Mac's Landslide, a scaled down version, Britta's vocals makes me melt. Dean's guitar throughout the song has that touch of indescribable magic that cannot be described, or learned to love, you either have it or you don't, and that counts on both sides of the guitar. By the way, Britta chatter-sings Swedish on Agneta's song Wrap Your Arms Around Me, it is very enchanting, but I don't get a word of it.</p>
 
@@ -287,7 +287,7 @@ longpost: true
 
 <p>Sean is talking about when Luna played at the Deep Ellum Live. We visited Deep Ellum prior to the show, I wanted to see Deep Ellum, because of its musical history. From the late 18th century, to the 1950's, it was the centre of entertainment in Dallas because of the train line. Jazz and blues musicians like Leadbelly, Robert Johnson and Bessie Smith played regularly at the clubs. However, the availability of cars led to the removal of the Houston and Texas railroad tracks.</p>
 
-<div class="col-md-6 pull-right"><blockquote>"Sean said there is beer back here", I tell Dean when I meet him for the first time on this trip. I say something like that. I wish I was pretending he was Becky. "Yes", he says. No one say "yes" like Dean does&hellip;</blockquote></div>
+<div class="col-md-6 float-right"><blockquote>"Sean said there is beer back here", I tell Dean when I meet him for the first time on this trip. I say something like that. I wish I was pretending he was Becky. "Yes", he says. No one say "yes" like Dean does&hellip;</blockquote></div>
 
 <p>Deep Ellum declined, until the 1990s, when the area started to bloom again, there were 57 nightclubs and bars, with concert venues like the Deep Ellum Live. Luna opened up for The Screaming Trees according to Sean, and he is right, they did play at Deep Ellum Live, in 1998. There is always a story to tell. And it always leads to Lee starting {% ahfowtrack "23 Minutes in Brussels" %}. It never disappoints.</p>
 

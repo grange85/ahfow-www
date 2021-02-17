@@ -1,5 +1,25 @@
 $(document).ready(function() {
-	$("article img").addClass("img-responsive");
+
+
+	/* fix old posts for bootstrap 4 */
+	var elem_img = $("article img");
+	if(!elem_img.hasClass('img-fluid')){
+	  elem_img.addClass('img-fluid');
+	 }
+
+	var elem_iframe = $("article iframe");
+	if(!elem_iframe.parent('figure').length){
+	  elem_iframe.wrap('<figure class="figure embed-responsive embed-responsive-16by9"></figure>');
+		if(!elem_iframe.hasClass('embed-responsive-item')){
+		  elem_iframe.addClass('embed-responsive-item');
+		 }
+	 } else {
+	   if (!elem_iframe.parent().hasClass('figure')){
+	   	elem_iframe.parent().addClass('figure embed-responsive embed-responsive-16by9');
+	   	elem_iframe.addClass('embed-responsive-item');
+	   }
+	 }
+
 
 
 	$('article a[href^="http://"],article a[href^="https://"]')

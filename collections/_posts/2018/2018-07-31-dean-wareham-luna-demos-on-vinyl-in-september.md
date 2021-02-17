@@ -19,7 +19,7 @@ tags:
  - vinyl
  - lux records
 ---
-<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-luna-demos-lux.jpg" alt="Dean Wareham - Luna Demos" /><figcaption class="caption-text">Dean Wareham - Luna Demos</figcaption></figure></div>
+<div class="col-md-6 float-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-luna-demos-lux.jpg" alt="Dean Wareham - Luna Demos" /><figcaption class="caption-text">Dean Wareham - Luna Demos</figcaption></figure></div>
 <p class="lead">After the split of Galaxie 500 in 1991 Dean Wareham recorded a number of demos at Wharton Tiers' Fun City Studios in New York City and for the first time these tracks have been collected together for a limited edition vinyl only release.</p>
 
 <p>The tracks were accompanied by drummer Jimmy Chambers (Mercury Rev) and, on {% ahfowtrack "I Can't Wait" %} by Hamish Kilgour of the Clean. Later versions of the songs appear on Luna's Lunapark album.</p>

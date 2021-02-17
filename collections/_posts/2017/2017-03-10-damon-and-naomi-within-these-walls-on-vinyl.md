@@ -19,7 +19,7 @@ tags:
  - within these walls
  - vinyl
 ---
-<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_withinthesewalls.jpg" alt="Within These Walls" /><figcaption class="caption-text">Within These Walls</figcaption></figure></div>
+<div class="col-md-6 float-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_withinthesewalls.jpg" alt="Within These Walls" /><figcaption class="caption-text">Within These Walls</figcaption></figure></div>
 <p class="lead">Damon & Naomi's beautiful 2007 album <a href="https://www.20-20-20.com/store/damon-naomi-wi">Within These Walls is getting a belated vinyl release</a> this month.</p>
 
 <blockquote>

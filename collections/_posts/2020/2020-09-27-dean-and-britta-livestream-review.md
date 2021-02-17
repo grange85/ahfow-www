@@ -24,14 +24,14 @@ longpost: true
 On Saturday Dean and Britta played what they described as ther last live stream shows of "the season" (not entirely sure what this means but ... more on that later).
 
 They played two sets once again using the Veeps platform and, once again, were enhanced with the addition of Roger Brogan on drums, SFX and technical support. Both sets opened with a video of various clips of Dean & Britta (some I'd not seen before) playing while Roger DJ-ed for half an hour before show time.
-<div class="col-md-6 pull-right">{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2020-09-26/2020-09-26-dean-and-britta-veeps-09.jpg" "Roger Brogan on the RogerCam" %}</div>
+<div class="col-md-6 float-right">{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2020-09-26/2020-09-26-dean-and-britta-veeps-09.jpg" "Roger Brogan on the RogerCam" %}</div>
 
 On time, and without any noticeable technical issues this time (save for the slight annoyance of the video struggling with autofocus) - Dean and Britta took the _stage_ - and, this time, the stage didn't involve a sofa - the shows were to be played standing up.
 
 The first set opened with The Incredible String Band's Air followed by Night Nurse and Galaxie 500's Pictures. The duo seemed relaxed and were on good chatty form and the periodic dip into the chat-room didn't seem as intrusive as it sometimes did in earlier shows. That chat-room was lively and fun and added to the enjoyment of the show.
 <!--more-->
 The show continued with more dips into the catalogues of Luna (Tiger Lily), Galaxie 500 (It's Getting Late), and Dean & Britta (We're Not Supposed to be Lovers). A highlight came mid-set when Dean mentioned that they'd had a request for Slow Song and demonstrated the similarity between that and Scott Walker's Duchess by playing a beautiful cover of the latter.
-<div class="col-md-6 pull-right">{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2020-09-26/2020-09-26-dean-and-britta-veeps-33.jpg" "Poetry break" %}</div>
+<div class="col-md-6 float-right">{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2020-09-26/2020-09-26-dean-and-britta-veeps-33.jpg" "Poetry break" %}</div>
 
 As has become a key part of these shows Dean read a couple of poems - a baseball one by Rodger Kamenetz and John Betjeman's _Hearts Together_ which contains the origin of the phrase Emancipated Hearts.
 
@@ -45,7 +45,7 @@ As it was now evening in the US Dean & Britta shared a drink and were, possibly 
 The set continued in similar vein to the first show - with a few changes. Duchess was still there and tracks that hadn't been heard in the first show included The Silver Jews Random Rules and Luna's Bobby Peru.
 
 Homeward Bound was reprised and the show finished with Galaxie 500's Tugboat (as requested by Roger).
-<div class="col-md-6 pull-right">{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2020-09-26/2020-09-26-dean-and-britta-veeps-07.jpg" "Dean soloing" %}</div>
+<div class="col-md-6 float-right">{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2020-09-26/2020-09-26-dean-and-britta-veeps-07.jpg" "Dean soloing" %}</div>
 
 Both shows were wonderful - the sound was, again, excellent; the band were having fun and the lack of the occasional technical hitches that had affected previous shows made the whole thing a fine way to spend a few hours and made staying up until 3:30 in the morning seem a perfectly acceptable thing to do.
 

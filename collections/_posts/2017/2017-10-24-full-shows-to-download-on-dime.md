@@ -25,7 +25,7 @@ tags:
 ---
 <p class="lead">A bunch of AHFoW related shows have turned up for Download on bittorrent site Dimeadozen. You need to be registered to download from the site</p>
 
-<div class="col-md-4 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2017-10-12/2017-10-12-damon-and-naomi-poster.jpg" alt="Damon & Naomi poster" /><figcaption class="caption-text">Damon & Naomi poster</figcaption></figure></div>
+<div class="col-md-4 float-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2017-10-12/2017-10-12-damon-and-naomi-poster.jpg" alt="Damon & Naomi poster" /><figcaption class="caption-text">Damon & Naomi poster</figcaption></figure></div>
 <h3>12 October 2017 - Damon & Naomi - The Root Cellar, Greenfield, MA, USA</h3>
 <p>Damon & Naomi's recent show - the torrent also includes the sets of support acts MV and EE and Dredd Foole</p>
 <p><a href="http://www.dimeadozen.org/torrents-details.php?id=603762">Download the Damon & Naomi show from Dimeadozen</a></p>
@@ -40,7 +40,7 @@ tags:
 
 <p>&hellip; and in case you missed it there's still this lovely recording of Luna's first London show from 1992 sitting on the tracker waiting for you to download!</p>
 
-<div class="col-md-4 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/docs/Luna_PrintAd_1992.jpg" alt="Luna clipping" /><figcaption class="caption-text">Luna clipping</figcaption></figure></div>
+<div class="col-md-4 float-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/docs/Luna_PrintAd_1992.jpg" alt="Luna clipping" /><figcaption class="caption-text">Luna clipping</figcaption></figure></div>
 
 <h3>27 February 1992 - Luna - Underworld, London, UK</h3>
 <p>A rare Dean & Britta show in Mill Valley back in June</p>

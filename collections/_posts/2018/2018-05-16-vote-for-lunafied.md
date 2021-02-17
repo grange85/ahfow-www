@@ -24,7 +24,7 @@ tags:
 flickr: true
 longpost: false
 ---
-<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/sleeves/luna_lunafied-pre-vinyl.jpg" alt="Luna - Lunafied (proposed sleeve)" /><figcaption class="caption-text">Luna - Lunafied (proposed sleeve)</figcaption></figure></div>
+<div class="col-md-6 float-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/sleeves/luna_lunafied-pre-vinyl.jpg" alt="Luna - Lunafied (proposed sleeve)" /><figcaption class="caption-text">Luna - Lunafied (proposed sleeve)</figcaption></figure></div>
 
 <p class="lead">Run Out Groove Records has a monthly poll which allows us to choose an album that they will then press in a limited run. For May's vote they are throwing Luna's Lunafied into the ring. <a href="http://runoutgroovevinyl.com/lunafied.html">Head over to Run Out Groove to vote</a> to get a double LP release of some of the finest covers ever recorded!</p>
 

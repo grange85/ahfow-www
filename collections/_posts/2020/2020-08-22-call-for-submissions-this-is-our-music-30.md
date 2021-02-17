@@ -19,7 +19,7 @@ tags:
  - this is our music 30
 flickr: true
 ---
-<div class="col-md-6 pull-right"><a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/48364062427/in/photolist-2gFLsMi-davAPe-cf7oNw" title="Lovely new vinyl This Is Our Music had arrived. Details link in profile #galaxie500 #thisisourmusic #vinyl #lp"><img src="https://live.staticflickr.com/65535/48364062427_032127f42a_z.jpg" width="640" height="640" alt="Lovely new vinyl This Is Our Music had arrived. Details link in profile #galaxie500 #thisisourmusic #vinyl #lp"></a></div>
+<div class="col-md-6 float-right"><a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/48364062427/in/photolist-2gFLsMi-davAPe-cf7oNw" title="Lovely new vinyl This Is Our Music had arrived. Details link in profile #galaxie500 #thisisourmusic #vinyl #lp"><img class="img-fluid" src="https://live.staticflickr.com/65535/48364062427_032127f42a_z.jpg" width="640" height="640" alt="Lovely new vinyl This Is Our Music had arrived. Details link in profile #galaxie500 #thisisourmusic #vinyl #lp"></a></div>
 OK, I've left this a bit late so timescales are a bit short but I think, if I can get enough interest I'd like to do something for the 30th anniversary of This Is Our Music which will be in October. 
 
 I'd like a cover version of each track on the album and, if possible a piece of visual art (preferably square or as close to square as possible).

@@ -28,7 +28,7 @@ longpost: false
 
 <p class="lead">The Run Out Groove Records poll last month found Luna's Lunafied coming out as the (no doubt comfortable) winners (well done everyone). The shop is <a href="http://runoutgroovevinyl.com/lunafied-2lp.html">now taking pre-orders</a> for the double vinyl release.</p>
 
-<div class="col-md-4 pull-right"><figure><img src="{{site.baseurl}}/images/rog-vinyl-colour-poll.jpg" class="img-fluid" /><figcaption><a href="https://www.facebook.com/RunOutGrooveLPs/posts/2180251098877025">Vote A or B</a></figcaption></figure></div>
+<div class="col-md-4 float-right"><figure><img src="{{site.baseurl}}/images/rog-vinyl-colour-poll.jpg" class="img-fluid" /><figcaption><a href="https://www.facebook.com/RunOutGrooveLPs/posts/2180251098877025">Vote A or B</a></figcaption></figure></div>
 
 <p>Over on the label's Facebook page they're having <a href="https://www.facebook.com/RunOutGrooveLPs/posts/2180251098877025">a secondary poll on vinyl colour</a> - so feel free to head over there and pick a colour (I wouldn't want to sway the vote but seriously, don't choose C :) it looks like a spliiage)</p>
 

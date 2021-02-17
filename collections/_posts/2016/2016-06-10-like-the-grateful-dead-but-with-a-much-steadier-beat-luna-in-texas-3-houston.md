@@ -187,11 +187,11 @@ longpost: true
 
 <p>The vegetation was green, probably because of the heavy rains a few weeks before. A shooting range, big ranches, commercial signs everywhere, still pretty and nice. I was surprised. This wasn't how I had imagined Texas to be. It almost felt like I was in a tropical land, but with shooting ranges. When it wasn't green, I kept seeing purple shades in the landscape outside the passenger's seat window. It was purple, I have never seen purple shades, but I did. Then I removed my sunglasses.</p>
 
-<div class="col-md-6 pull-right"><blockquote>Blue Thunder really struck me like it never has before. Songs about cars should be heard in a car at least once.</blockquote></div>
+<div class="col-md-6 float-right"><blockquote>Blue Thunder really struck me like it never has before. Songs about cars should be heard in a car at least once.</blockquote></div>
 
 <p>While the purple shades were rolling by outside the windows, we listened to all sorts of music. With a certain theme. First, we got to hear Dean Wareham play Galaxie 500 songs from Barcelona a few years back. The guitar mixed so high it almost sounded like an electric solo record by Neil Young. It was beautiful. Blue Thunder really struck me like it never has before. Songs about cars should be heard in a car at least once. I almost cried, to lyrics like "look how fast it goes, my, my blue thunder". I love this art form. We listened to a Dean & Britta concert recording and Britta's voice on You Turned My Head Around got me goose bumps sharp enough to cause a flat tyre.</p>
 <!--more-->
-<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-houston/01-img-0804-ihop-01.jpg" alt="Is there a doctor in the house? (Photo: Joakim)" /><figcaption class="caption-text">Is there a doctor in the house? (Photo: Joakim)</figcaption></figure></div>
+<div class="col-md-6 float-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-houston/01-img-0804-ihop-01.jpg" alt="Is there a doctor in the house? (Photo: Joakim)" /><figcaption class="caption-text">Is there a doctor in the house? (Photo: Joakim)</figcaption></figure></div>
 
 <p>We stopped for a break at a lavender farm in Chappell Hill. Turned out to be no lavender bloom at all, just two goats partying on hay bales, but we got some lavender bathing salt. We got into the small town of Chappell Hill, it's just one street. Someone selling tiger lily soap. I had a sniff. Met a guy that was handing out free samples of honey, the best honey I've ever had. The honey man asked about our identical Luna t-shirts, that Mike had made himself and sent to us as a gift. Mike explained shoegaze music to him, "they stare at their feet while playing". "Luna is not shoegaze", I intervened. They have too much fun.</p>
 
@@ -202,12 +202,12 @@ longpost: true
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-houston/02-img-0860-numbers-photo-ulrika-nice-02.jpg" alt="#<sup>'s</sup>&nbsp;2 L&nbsp;U&nbsp;N&nbsp;A (Photo: Ulrika)" /><figcaption class="caption-text">#<sup>'s</sup>&nbsp;2 L&nbsp;U&nbsp;N&nbsp;A (Photo: Ulrika)</figcaption></figure>
 
 <p>We headed to the Mexican place next door to wait, Ulrika went to stand in the line. She saw a young homeless man sitting in front of the entree, drinking beer from a brown paper bag. She went right by him. Turned out he was first in line. Then they became friends.</p>
-<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-houston/03-l1030275-wild-moccasins-nice-08.jpg" alt="Wild Moccasins (Photo: Joakim)" /><figcaption class="caption-text">Wild Moccasins (Photo: Joakim)</figcaption></figure></div>
+<div class="col-md-6 float-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-houston/03-l1030275-wild-moccasins-nice-08.jpg" alt="Wild Moccasins (Photo: Joakim)" /><figcaption class="caption-text">Wild Moccasins (Photo: Joakim)</figcaption></figure></div>
 <p>The venue opened the doors half an hour late. Like always, we talked to all the nice people, including the "homeless" man, his name is David. Joe and Ilene were there too, telling us stories about when they used to go to Numbers. Local band Wild Moccasins was the first opening act, with a charismatic singer who fluttered around on stage, in a loose red dress with dots, two large knots in her hair. It sounded fabulous. Disco balls and varied flashing colours.</p>
 
 <p>The stage has a step up on the floor just next to the stage, the worst idea ever. A guy walks up to us, he's standing right behind us, between us, like a maniac. We turn around. It is Dean. He's staring right at us from below, with a little smile. We started laughing in surprise. "Let's see if it will be just as good as yesterday", I said, because <a href="/2016/06/03/its-not-dream-pop-its-a-pop-dream-luna-in-texas-2-austin/">it was indeed a fantastic show in Austin the other day</a>. Very fun, energetic, and the sound was perfect. Three young women walk up to Dean, almost in ecstasy, taking pictures, highly astonished to see him in the crowd, in the very front. More people gather around, it's fun to look at, I get a picture of the young women, that turns out to be a mother and her two daughters. Fooled me.</p>
 
-<div class="col-md-6 pull-right"><blockquote>A guy walks up to us, he's standing right behind us, between us, like a maniac. We turn around. It is Dean. He's staring right at us from below, with a little smile.</blockquote></div>
+<div class="col-md-6 float-right"><blockquote>A guy walks up to us, he's standing right behind us, between us, like a maniac. We turn around. It is Dean. He's staring right at us from below, with a little smile.</blockquote></div>
 
 <p>The disco balls hanging from the ceiling spread their light over Britta and her band. Playing one more perfect gig, same set list as before and crowd applauds and shouts. {% ahfowtrack "Daydream" %} is her James Bond theme song, it could be anyway, that she wrote about when she joined Luna 16 years ago. It's slow but powerful. And it's {% ahfowtrack "I'll Keep It With Mine" %} again, I don't mind hearing that one at all, it's lovely. The lyrics are brilliant. "I can't help it, if you might think I'm odd. If I say I'm not loving you for what you are, but for what you're not." Dylan spent time together with Nico in Paris 1964 and they travelled around, he wrote many fantastic songs on that trip. To Ramona, Mama You Been On My Mind, and this one among others. He gave the song to Nico for her to record on her album Chelsea Girl. But Britta's version is completely different, inspired by the band Rainy Day.</p>
 
@@ -221,7 +221,7 @@ longpost: true
 
 <p>He is constantly smiling before they start playing, walking to the front of the stage, to the sides, back again, always with a big smile on his face. His hair is strongly back lit by the spotlights moving all around. Sean is standing close to his amplifier, getting ready. Britta wears sandals. Lee tries to avoid scandals. Suddenly a tall man with messy hair walks up on stage, says "Luna, this is Houston. Houston, this is Luna" looking as cool as only Terry Tolkin can. I'm beginning to see the light.</p>
 
-<div class="col-md-6 pull-right"><blockquote>It's not exactly perfect, but it shouldn't be perfect all the time. I write down a note on my phone, it says "it sounds awful, awfully good"</blockquote></div>
+<div class="col-md-6 float-right"><blockquote>It's not exactly perfect, but it shouldn't be perfect all the time. I write down a note on my phone, it says "it sounds awful, awfully good"</blockquote></div>
 
 <p>I look at Ulrika a few seconds into the first song. We both hear it right away where we are standing it the front. The sound is different, again. Mike was right. This is shoegaze. It is not the same {% ahfowtrack "Slide" %} that we heard in Dallas. It feels like it's slower, a big blurry fog is approaching us. We are highly pleased. {% ahfowtrack "Speedbumps" %} is the same, but a lot faster of course. It's not exactly perfect, but it shouldn't be perfect all the time. I write down a note on my phone, it says "it sounds awful, awfully good".</p>
 
@@ -233,7 +233,7 @@ longpost: true
 
 <p>"Did you get married, when?", Dean asks a girl in the audience when they start playing {% ahfowtrack "This Time Around" %} but stop because of feedback. "18 years ago", she replies. They restart and it's perfect. It's a short direct sweet pop song, I can't remember if they released it as a single. They play almost the same songs they played in Dallas a few days earlier, just in a slightly different order.</p>
 
-<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-houston/06-l1030398-whole-luna-18.jpg" alt="Luna (Photo: Joakim)" /><figcaption class="caption-text">Luna (Photo: Joakim)</figcaption></figure></div>
+<div class="col-md-6 float-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-houston/06-l1030398-whole-luna-18.jpg" alt="Luna (Photo: Joakim)" /><figcaption class="caption-text">Luna (Photo: Joakim)</figcaption></figure></div>
 
 <p>It's a big venue and it's not sold out, but the audience is having fun, you can easily tell. The light is astonishingly beautiful. The strong lights from the spotlights are moving around a lot on stage, changing in blue, red and yellow. The disco balls gives a warm cozy feeling to the night.</p>
 
@@ -241,7 +241,7 @@ longpost: true
 
 <p>They play {% ahfowtrack "Bewitched" %} and {% ahfowtrack "Lost in Space" %}, two slow songs that both grow in intensity as they go on. "Thank you so much for coming to see us", Dean says before finishing the main set with the upbeat {% ahfowtrack "Friendly Advice" %}, another one of those definitive songs, they mix in a little psychedelia, sounding a bit like The Grateful Dead, but with a much steadier beat, it's Lee Wall on drums. They come back and starts jamming on a song that I can't identify, "we haven't practised it so we can't play it", Dean says and they go with {% ahfowtrack "Tiger Lily" %} instead, playing it safe, probably a smart choice.</p>
 
-<div class="col-md-6 pull-right"><blockquote>It sounds rich, big, compact, energetic, tight, smooth, pretty much perfect in every way</blockquote></div>
+<div class="col-md-6 float-right"><blockquote>It sounds rich, big, compact, energetic, tight, smooth, pretty much perfect in every way</blockquote></div>
 
 <p>Suddenly one of the speakers placed on the stage pointing towards us is starting crackle heavily. I want to pull the plug but of course I don't. For the first time I go to the back of the audience, and the sound is much better. Kelly and Ashley comes up to me saying they also heard it, and we are watching the show together standing at the back. It sounds rich, big, compact, energetic, tight, smooth, pretty much perfect in every way. A guy in front of us is waving his arms back and forth to {% ahfowtrack "23 Minutes in Brussels" %}. We find it funny and cute at the same time. For a second I wish it would be me. It's the last song of the show, it's as great as ever.</p>
 
@@ -257,7 +257,7 @@ longpost: true
 
 <p>Sean's white Fender Jazzmaster is placed on the small couch, standing up on one of the couch seats, it's beautiful. I place myself next to it. And I know I shouldn't do it, but my hands picks up the guitar and I hear myself strumming a D chord, it's still in tune, and even not plugged in it has such a nice and clean tone. Sean is fortunately not in the room. I promise to never do it again.</p>
 
-<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-houston/08-mike-britta-dean---lean-your-head-nice-22.jpg" alt="Britta, Mike and Dean (Photo: Joakim)" /><figcaption class="caption-text">Britta, Mike and Dean (Photo: Joakim)</figcaption></figure></div>
+<div class="col-md-6 float-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-houston/08-mike-britta-dean---lean-your-head-nice-22.jpg" alt="Britta, Mike and Dean (Photo: Joakim)" /><figcaption class="caption-text">Britta, Mike and Dean (Photo: Joakim)</figcaption></figure></div>
 
 <p>I take a picture of Mike with Britta and Dean. Britta is leaning her head on Mike's shoulder, it's a sweet picture. I think it looks a little sleepy so I strike them all lightly in their stomachs to enliven the situation. Ulrika just shakes her head probably preferring I wouldn't have done that. I wonder why they keep inviting us, but I really like talking about chocolate with Britta.</p>
 
@@ -265,7 +265,7 @@ longpost: true
 
 <p>Kelly's taxi takes off without her, we are talking too long. She has been lovely to us, always with her welcoming smile. We've been to many of the same concerts before but strangely never met until now, I'm glad we finally did. We say goodbye, saying we will meet again soon. Me, Ulrika and Mike go back to the hotel, it's late, and there's more than an hour wait for the pizza delivery to the room, but we don't mind at all. We are just about to start listening to the concert again.</p>
 
-<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-houston/ulrika-kelly-joakim-saying-goodbye-31.jpg" alt="Ulrika, Kelly and Joakim (Photo: Joakim)" /><figcaption class="caption-text">Ulrika, Kelly and Joakim (Photo: Joakim)</figcaption></figure></div>
+<div class="col-md-6 float-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-houston/ulrika-kelly-joakim-saying-goodbye-31.jpg" alt="Ulrika, Kelly and Joakim (Photo: Joakim)" /><figcaption class="caption-text">Ulrika, Kelly and Joakim (Photo: Joakim)</figcaption></figure></div>
 
 <p>I didn't feel like getting to sleep that night. Four in the morning I started to write a letter to Britta, as an excuse I asked if she wanted pictures I took from her concert and signing at Waterloo Records in Austin the other day. I also told her that I got goosebumps that almost had us a flat tyre when listening to a live version in the car of You Turned My Head Around. And I wrote a bunch of other stuff. She replied the next day, didn't seem too offended luckily. "Thanks for coming to Texas and thank Ulrika too", she wrote. They were going home to rehearse for the new Andy Warhol shows.</p>
 

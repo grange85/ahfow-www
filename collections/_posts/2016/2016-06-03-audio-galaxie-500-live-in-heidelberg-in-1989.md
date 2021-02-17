@@ -20,7 +20,7 @@ tags:
 ---
 <p class="lead">A live <a href="http://www.dimeadozen.org/torrents-details.php?id=563117">Galaxie 500 show from Germany in 1989 is currently being shared on bittorrent site Dimeadozen</a>.</p>
 
-<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-11-29/galaxie-500-heidelberg-1989-11-29.jpg" alt="Timberlake Tapes - Galaxie 500 in Heidelberg 1989" /><figcaption class="caption-text">Timberlake Tapes - Galaxie 500 in Heidelberg 1989</figcaption></figure></div>
+<div class="col-md-6 float-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-11-29/galaxie-500-heidelberg-1989-11-29.jpg" alt="Timberlake Tapes - Galaxie 500 in Heidelberg 1989" /><figcaption class="caption-text">Timberlake Tapes - Galaxie 500 in Heidelberg 1989</figcaption></figure></div>
 
 <p>Earlier in the week I was emailed by Frank from Ludwigsburg who had recorded Galaxie 500 at the Schwimmbad in Heidelberg on his Sony Walkman in November of 1989. He shared his excellent recording with me.</p>
 

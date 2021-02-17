@@ -23,7 +23,7 @@ tags:
 
 <p class="lead">Luna have just announced details of two new releases, an album of covers and an EP of instrumentals. Both are available to <a href="http://www.pledgemusic.com/projects/luna2">pre-order on Pledgemusic</a> where you can select from a number of bundles including vinyl, CD plus T-shirts and turntable mats and more! The records will be released in September.</p>
 <p>The album, A Sentimental Education, includes 10 covers including tracks by The Cure, The Velvet Underground (from Squeeze!), Yes and Fleetwood Mac amongst others (full tracklist below). The EP, A Place of Greater Safety, is a collection of instrumentals, a couple of which might be familiar to Luna fans.</p>
-<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/sleeves/luna-a-sentimental-education-lo-res.jpg" alt="Luna - A Sentimental Education" /><figcaption class="caption-text">Luna - A Sentimental Education</figcaption></figure></div>
+<div class="col-md-6 float-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/sleeves/luna-a-sentimental-education-lo-res.jpg" alt="Luna - A Sentimental Education" /><figcaption class="caption-text">Luna - A Sentimental Education</figcaption></figure></div>
 <h3><a href="/database/luna/releases/luna-a-sentimental-education/">A Sentimental Education</a></h3>
 <ul><li>Fire in Cairo <em>(The Cure)</em></li>
 <li>Gin <em>(Willie Loco Alexander)</em></li>

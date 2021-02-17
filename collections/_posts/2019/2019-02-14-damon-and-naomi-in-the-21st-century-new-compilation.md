@@ -19,7 +19,7 @@ tags:
 flickr: false
 longpost: false
 ---
-<div class="col-md-6 pull-right"><figure><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-in-the-21st-century.jpg" class="img-fluid" /><figcaption>Damon & Naomi in the 21st Century</figcaption></figure></div>
+<div class="col-md-6 float-right"><figure><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-in-the-21st-century.jpg" class="img-fluid" /><figcaption>Damon & Naomi in the 21st Century</figcaption></figure></div>
 <p class="lead">Damon & Naomi have just released a new compilation of tracks from their 20|20|20 albums. <a href="https://damonandnaomi.bandcamp.com/album/in-the-21st-century">Damon & Naomi in the 21st Century</a> is a companion piece to the bands Sub Pop Years released ten years ago.</p>
 
 <p>The album is available for <em>pay what you like</em> at the band's bandcamp page and comes with a pdf of liner notes written by Jenn and Liz Pelly.</p>

@@ -11,29 +11,46 @@ description: >
 ---
     {% for post in paginator.posts %}
     {% unless post.draft %}
-        {% include entry.html %}
 
+
+<div class="card">
+    <div class="card-header">
+        <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+    </div>
+    <div class="card-body">
+                    {% if post.categories %}
+                    <p class="float-left pr-3">in categories: </p>
+                        <ul class="categories list-inline">
+                        {% for category in post.categories %}
+                            <li class="list-inline-item pr-1" ><a class="badge badge-pill badge-primary" href="{{ category | slugify | prepend: '/category/' | append: '/' }}">{{ category }}</a></li>
+                        {% endfor %}
+                        </ul>
+                    {% endif %}
+    <article>
+
+    {% if paginator.page == 1 and post.next.url == Nil %}
+        {{post.content}}
+    {% else %}
+        <div class="clearfix">{{post.excerpt}}</div><a class="btn btn-outline-secondary btn-sm float-right" href="{{ post.url | prepend: site.baseurl }}">Read on&hellip;</a></p>
+    {% endif %}
+    </article>
+    </div>
+</div>
     {% endunless %}
     {% endfor %}
 
 <!-- Pagination links -->
 <div class="col-md-12">
-<ul class="pager" role="navigation" aria-labelledby="pagination-label">
 
-    {% if paginator.previous_page %}
-    <li class="previous">
-        {% if paginator.previous_page == 1 %}
-        <a class="pagination-item" href="/" rel="prev">previous<span class="sr-only"> page</span></a>
-        {% else %}
-        <a class="pagination-item" href="{{ paginator.previous_page_path }}" rel="prev">previous<span class="sr-only"> page</span></a>
-        {% endif %}
+{% if paginator.page_trail %}
+  <ul class="pagination justify-content-center">
+  {% for trail in paginator.page_trail %}
+    <li class="page-item {% if page.url == trail.path %}disabled{% endif %}">
+        <a class="page-link" href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}">{{ trail.num }}</a>
     </li>
-    {% endif %}
+  {% endfor %}
+  </ul>
+{% endif %}
 
-    {% if paginator.next_page %}
-    <li class="next">
-        <a class="pagination-item" href="{{ paginator.next_page_path }}" rel="next">next<span class="sr-only"> page</span></a>
-    </li>
-    {% endif %}
-</ul>
+
 </div>

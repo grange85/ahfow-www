@@ -174,7 +174,7 @@ longpost: true
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/02-img-0735-outside-mohawk-before-show.jpg" alt="Luna and Britta at The Mohawk (Photo: Joakim)" /><figcaption class="caption-text">Luna and Britta at The Mohawk (Photo: Joakim)</figcaption></figure>
 <p class="lead">After an hour and half drive from Dallas to Austin Mike said, "I wonder if we’ll see the white van on the road".</p>
 
-<div class="col-md-6 pull-right"><blockquote>It's a silly dream I've had, to listen to a concert I attended the night before while on the way to the next concert in a new city.</blockquote></div>
+<div class="col-md-6 float-right"><blockquote>It's a silly dream I've had, to listen to a concert I attended the night before while on the way to the next concert in a new city.</blockquote></div>
 
 <p>We listened to yesterday's Luna concert in the car on our way to Austin from Dallas. It's a silly dream I've had, to listen to a concert in the car I attended the night before while being on the way to the next concert in a new city. With Mike, that is possible. {% ahfowtrack "23 Minutes in Brussels" %} was playing loud in the car. I looked out the window from the passenger's seat in the front, we were passing a big white van. Behind the steering wheel was Dean.</p>
 
@@ -182,7 +182,7 @@ longpost: true
 
 <!--more-->
 
-<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/01-img-0796-austin-sand-color.jpg" alt="The majestic sand coloured buildings of Austin (Photo: Joakim)" /><figcaption class="caption-text">The majestic sand coloured buildings of Austin (Photo: Joakim)</figcaption></figure></div>
+<div class="col-md-6 float-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/01-img-0796-austin-sand-color.jpg" alt="The majestic sand coloured buildings of Austin (Photo: Joakim)" /><figcaption class="caption-text">The majestic sand coloured buildings of Austin (Photo: Joakim)</figcaption></figure></div>
 
 <p>We checked in at our hotel and went next door to an outdoor place called Easy Tiger. It was warm, the sky clear blue, a gentle breeze. I had beef sirloin with chimichurri. I love the combination of tender, grilled meat and a refreshing sauce made of garlic, oil, vinegar and lots of chopped fresh herbs. No other sides needed. A bunch of girls laughing at the table next to us, some guys playing outdoor table tennis in the corner. Austin seemed like a very good place to be in.</p>
 
@@ -196,13 +196,13 @@ longpost: true
 
 <p>The doors opened and we placed ourselves in the front as always, while Mike started to set up his equipment at the back. We met a lovely couple from San Antonio, Joe and Ilene. They saw two or three shows the year before, Joe was wearing a tuxedo at the New Year's gig, Dean asked him if he "[was] going to a party afterwards". "I am at the party", Joe replied. At least that's the story I remember.</p>
 
-<div class="col-md-6 pull-right"><blockquote>Joe was wearing a tuxedo at the New Year's gig, Dean asked him if he "[was] going to a party afterwards". "I am at the party", Joe replied</blockquote></div>
+<div class="col-md-6 float-right"><blockquote>Joe was wearing a tuxedo at the New Year's gig, Dean asked him if he "[was] going to a party afterwards". "I am at the party", Joe replied</blockquote></div>
 
 <p>We talked for a long time about music from San Antonio and Austin. And we met another nice woman, she was seeing Luna for the first time since they quit eleven years ago. She was excited to say the least. We all knew how she felt.</p>
 
 <p>Ilene asked what songs we really wanted to hear. "Realistically or not?" I asked. I like hearing songs I haven't heard live before, especially new songs. But far from always, rare or new songs turn out the be the best of the night. {% ahfowtrack "Lovedust" %}, {% ahfowtrack "Broken Chair" %}, {% ahfowtrack "I Want Everything" %}. There are so many gems they aren't playing. We all agreed on that {% ahfowtrack "Malibu Love Nest" %} is fantastic. Conversations like this usually end that way.</p>
 
-<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/05-l1030047-britta-kramer-terry-dean.jpg" alt="Kramer and Terry backstage (Photo: Joakim)" /><figcaption class="caption-text">Kramer and Terry backstage (Photo: Joakim)</figcaption></figure></div>
+<div class="col-md-6 float-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/05-l1030047-britta-kramer-terry-dean.jpg" alt="Kramer and Terry backstage (Photo: Joakim)" /><figcaption class="caption-text">Kramer and Terry backstage (Photo: Joakim)</figcaption></figure></div>
 
 <p>A strange tall figure with messy hair is walking around backstage, wearing khaki shorts a short blue jacket with gold painted lapels. "It is probably Terry Tolkin" Ulrika says. He got Dean a record deal with Elektra, and Dean started Luna. And there was another oddity in his company. I didn't know then, but later we found out it was Kramer, the producer that created the Galaxie 500 sound together with the trio. Kramer also produced both Damon & Naomi's and Low's fantastic debut albums.</p>
 
@@ -216,7 +216,7 @@ longpost: true
 
 <p>Again, it's a beautiful set of songs, starting with One Fine Summer Morning, an absolutely adorable song, they are all facing Lee during the long intro. Lee is playing the drums with his bare hands at first, then picks up his sticks and the rhythm get stronger. Dean is playing some small licks on the guitar, seated on his chair. Marte looking cool and playing melody lines on her red Nord Electro keyboards.</p>
 
-<div class="col-md-6 pull-right"><blockquote>&hellip; she wrote it when she used to live in Chinatown with a weird roommate that she found on Craigslist. I guess it wasn't Dean.</blockquote></div>
+<div class="col-md-6 float-right"><blockquote>&hellip; she wrote it when she used to live in Chinatown with a weird roommate that she found on Craigslist. I guess it wasn't Dean.</blockquote></div>
 
 <p>Britta is introducing the next song called Daydream by saying she wrote it when she used to live in Chinatown with a weird roommate that she found on Craigslist. I guess it wasn't Dean. It sounds really good. And I still haven't heard Britta sing a false note, she really is a magnificent singer with a unique and hitting voice. The ending with Drive is still one of the best moments of the whole night.</p>
 
@@ -251,7 +251,7 @@ longpost: true
 
 <p>The sirens of a police car is heard on the streets outside, or maybe it’s the fire brigade. I can't tell the difference, but it makes the night even more real. Because it's hard to believe I'm really in Texas, watching Luna play. I just can't believe it. Maybe I am here. Maybe I really am.</p>
 
-<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/06-l1030074.jpg" alt="Luna (Photo: Joakim)" /><figcaption class="caption-text">Luna (Photo: Joakim)</figcaption></figure></div>
+<div class="col-md-6 float-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/06-l1030074.jpg" alt="Luna (Photo: Joakim)" /><figcaption class="caption-text">Luna (Photo: Joakim)</figcaption></figure></div>
 
 <p>"Pedalitus, when something is wrong with your pedals but you don't know what it is." It's Dean again, when Sean is leaning over and complaining about his pedals. Dean starts singing Moon Palace from the album Penthouse. He is good at that, switching fast from a humorous comment to a song with a completely different emotional expression.</p>
 
@@ -261,7 +261,7 @@ longpost: true
 
 <p>Britta's sweet, strong voice is a fantastic contrast to Dean's. And Dean's guitar is a fantastic contrast to Sean's. You can't take away anything, but you can dig deeper into what you already have. Maybe they think they need a keyboard player for those songs, but they don't, the audience wants to hear Luna play songs like they're doing now, not a song exactly like it can be heard on the album, there's no point in that. Dean says that the songs from Romantica are too personal to sing, that there was so much going on in his life during the recording of that album. That's an excuse harder to ignore. But the audience don't know anything about that, the audience still wants to hear a good song, songs that means a lot to them.</p>
 
-<div class="col-md-6 pull-right"><blockquote>&hellip; it's a bit of mystery that they aren't playing songs from Romantica. Now is the time they really need to do it</blockquote></div>
+<div class="col-md-6 float-right"><blockquote>&hellip; it's a bit of mystery that they aren't playing songs from Romantica. Now is the time they really need to do it</blockquote></div>
 
 <p>Having said that, I don't think an artist should do what the fans wants, because the fans can never lead the artist forward, only backwards. The greatest artists follow themselves. That's how we got an infinitely large number of great pieces of art no one even knew they could have. I don't know why I never remember to ask these kind of questions to Dean or to the band when we meet. I think I need to write it down.</p>
 
@@ -283,7 +283,7 @@ longpost: true
 
 <p>We step out, watching the dark sky. Some people leave, some stay. It is me, Ulrika, Mike, Ashley, Kelly, Carly, Sean and a few others. Ashley tells me after a while that I remind her of Dean's face expressions. No wonder, I've been staring and listening to him for hours and hours. After this tour I've seen Luna play in Spain, England, New York and Texas 16 times in a little more than one year. It's a bit embarrassing I guess. I pretend that I don't know what's she's talking about.</p>
 
-<div class="col-md-6 pull-right"><blockquote>I read that the USA is the only country in the western world that has no labour laws about statutory vacations. I can go to 25 or more Luna shows and kind of get paid for it</blockquote></div>
+<div class="col-md-6 float-right"><blockquote>I read that the USA is the only country in the western world that has no labour laws about statutory vacations. I can go to 25 or more Luna shows and kind of get paid for it</blockquote></div>
 
 <p>"We are definitely not rich", I reply when Ashley says that they've been discussing if we were rich since we are travelling around so much. It's just our vacation, spread out a little more during the year. I read that the USA is the only country in the western world that has no labour laws about statutory vacations. I can go to 25 or more Luna shows and kind of get paid for it. That's how I prefer to see it. It makes it more fun.</p>
 
@@ -299,7 +299,7 @@ longpost: true
 
 <p>We hurried to the record store, in the burning heat. Britta played a very nice set together with her band. Sean was just in the audience this time, he was having a day off, just like we did, sort of. I snapped some photos of all the people that stood in line and that got their records signed by Britta. She signed our record too, and told me she liked my writing.</p>
 
-<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/09-l1030206-britta-waterloo-signing-mikes-records.jpg" alt="Mike gets his CD signed (Photo: Joakim)" /><figcaption class="caption-text">Mike gets his CD signed (Photo: Joakim)</figcaption></figure></div>
+<div class="col-md-6 float-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-austin/09-l1030206-britta-waterloo-signing-mikes-records.jpg" alt="Mike gets his CD signed (Photo: Joakim)" /><figcaption class="caption-text">Mike gets his CD signed (Photo: Joakim)</figcaption></figure></div>
 
 <p>We met a nice yoga girl in the record store, she talked for half an hour with Mike about Maryland, then she drove us back to the hotel. The other day she saw Luna just like us. She told us about a bar with a nice backyard, I like backyards, but first we had some Mexican food on 6th Street, with a view of the noisy mess going on below. But we enjoyed it, and had guacamole, made directly at the table.</p>
 

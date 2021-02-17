@@ -19,13 +19,14 @@ tags:
  - neon lights
 longpost: false
 ---	
-<div class="col-md-6 pull-left">
-{% ahfowimage "/images/dean-britta-neon-lights-ep-cover.jpg" "Neon Lights - sleeve" %}
+<div class="row">
+	<div class="col">
+		{% ahfowimage "/images/dean-britta-neon-lights-ep-cover.jpg" "Neon Lights - sleeve" %}
+	</div>
+	<div class="col">
+		{% ahfowimage "/images/neon-lights-back.jpg" "Neon Lights - sleeve reverse" %}
+	</div>
 </div>
-<div class="col-md-6 pull-left">
-{% ahfowimage "/images/neon-lights-back.jpg" "Neon Lights - sleeve revers" %}
-</div>
-
 
 Dean & Britta are releasing a 12" EP containing four mixes of the recording of Neon Lights they made during one of their livestream shows earlier in the year.
 

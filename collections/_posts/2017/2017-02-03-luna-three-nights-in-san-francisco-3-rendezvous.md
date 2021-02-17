@@ -101,7 +101,7 @@ photos:
 
 <p>{% ahfowtrack "Cindy Tastes of Barbecue" %} and {% ahfowtrack "Speedbumps" %} are also songs they play regularly. &ldquo;Rendezvous&rdquo;, Dean says after, &ldquo;a French word&rdquo;. The audience is just smiling, who wouldn't, who couldn't, at a night like this. Nights like these. &ldquo;Rendezvous&rdquo;, Sean says after a couple of seconds in quiet, he's on Dean's left side just like always, he says it with his most articulated, well spoken French accent. It's a meeting, that's what it means, hand in hand, on the edge of the sand. {% ahfowtrack "The Owl and The Pussycat" %}. &ldquo;Allison Andrews came up too see me&rdquo;, maybe their most beautiful song. </p>
 
-<div class="col-md-6 pull-right"><blockquote>&ldquo;Rendezvous&rdquo;, Sean says after a couple of seconds in quiet, he's on Dean's right side just like always, he says it with his most articulated, well spoken French accent.</blockquote></div>
+<div class="col-md-6 float-right"><blockquote>&ldquo;Rendezvous&rdquo;, Sean says after a couple of seconds in quiet, he's on Dean's right side just like always, he says it with his most articulated, well spoken French accent.</blockquote></div>
 
 <p>I remember in Glasgow when me and Ulrika asked them to play it and they did it in Manchester they day after, but it didn't sound very good, and they've never tried it since, but now they had to, and Dean is focused, his lips touching the microphone, singing perfectly. It's not the song you might play every night, because it's slow, but it's beautiful. Sean is playing the solo and gets loud cheers. Britta on backing vocals, it's a quiet performance, delicate, sweet, just lovely, so lovely.</p>
 
@@ -118,7 +118,7 @@ photos:
 
 <p>They are handing out the pins again, made by Jenell, one for each day. &ldquo;Valium sunset, hazy sky, {% ahfowtrack "Motel Bambi" %}.&rdquo; Again one of those songs that define this album, in the quiet. &ldquo;We don't belong, any more&rdquo;. Easily another highlight of the night, Britta playing synth bass, and Dean singing with his sweetest voice, very quiet, his guitar playing too, the first time they play it. &ldquo;There's a lot of history being made lately&rdquo;, Sean says. </p>
 
-<div class="col-md-6 pull-right"><blockquote>&ldquo;We hugged each other before we came on stage&rdquo;, he continues, &ldquo;what else do you want us to do?&rdquo; &ldquo;Make a new record!&rdquo;, someone is yelling.</blockquote></div>
+<div class="col-md-6 float-right"><blockquote>&ldquo;We hugged each other before we came on stage&rdquo;, he continues, &ldquo;what else do you want us to do?&rdquo; &ldquo;Make a new record!&rdquo;, someone is yelling.</blockquote></div>
 
 <p>It's quiet, the audience is quiet, unusually so, but the album is quiet, especially the second half, I don't mind, might not be the perfect live show, but it works just so nice this day, so nice. And then there's Sean again, what would life be without a bit of Sean Eden? Not much. It's funny, &ldquo;she's gonna break my back, with a bit of amusement, oh man, we're holding hands&rdquo;. This is one of the songs that makes Luna feel like a band, not just Dean with his backup band, this is a band playing, writing songs, playing together, listening, that's what they are doing, Sean is used to sing this song, he knows it well by now and it's always a joy to hear.</p>
 

@@ -24,7 +24,7 @@ longpost: true
 
 <p>Of course, a group once dubbed &ldquo;the best band you've never heard of&rdquo; by a national music magazine [Rolling Stone magazine, 199?] isn't likely to be inducted to such a commercial monolith any time soon, but as that appellation indicates, the quality Luna has shown over the years is certainly at Hall of Fame level. Hailing from three good-to-great independent outfits (Galaxie 500, The Chills and The Feelies), the original trio found a captivating style from day one which was only enhanced by the addition of a second guitarist after the debut.</p>
 
-<div class="col-md-6 pull-right"><blockquote>In the 90s, Luna was already in my contemporary pantheon at a par with my favorite grunge, lo-fi, and Americana artists; today, Luna sounds more timeless and perfect than any of them.</blockquote></div>
+<div class="col-md-6 float-right"><blockquote>In the 90s, Luna was already in my contemporary pantheon at a par with my favorite grunge, lo-fi, and Americana artists; today, Luna sounds more timeless and perfect than any of them.</blockquote></div>
 
 <p>Focus on critical perception rather than critical mass, and you'll notice the band's resum&eacute; is comparable to many of the already enshrined: The first three albums were all exceedingly well-reviewed, and the following records all have their partisans. The third release, Penthouse, is considered an indie-pop masterpiece, and they boast terrific singles, some groundbreaking covers (especially {% ahfowtrack "Bonnie and Clyde" %}), and a sound of their own which managed to carve a small niche in the well-trod ground of rock.</p>
 
@@ -33,7 +33,7 @@ longpost: true
 
 <p>That said, Luna doesn't even get the respect it deserves from people who know and love more obscure music. Part of that is that their music comes off as direct and yet is surprisingly deceptive, benefitting greatly from additional plays as you notice layered subtleties in the lyrics and music. Their music has grown on me, and I say that as one who fell in love with Penthouse from the first time I heard the opening bars of {% ahfowtrack "Chinatown" %}. In the 90s, Luna was already in my contemporary pantheon at a par with my favorite grunge, lo-fi, and Americana artists; today, Luna sounds more timeless and perfect than any of them.</p>
 
-<div class="col-md-6 pull-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1997_b.jpg" alt="Luna - promo 1997" /><figcaption class="caption-text">Luna - promo 1997</figcaption></figure></div>
+<div class="col-md-6 float-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1997_b.jpg" alt="Luna - promo 1997" /><figcaption class="caption-text">Luna - promo 1997</figcaption></figure></div>
 
 <p>Although we've converted some of our more perceptive friends over the years, the typical response is generally polite but underwhelmed. &ldquo;They sound good, but a little soft,&rdquo; said a friend in the car last week when Lost in Space was playing (his comments reminded me of guitarist Sean Eden's recollection of the recording of Bewitched at the peak of the grunge era). &ldquo;Do they really rock in concert?&rdquo;</p>
 

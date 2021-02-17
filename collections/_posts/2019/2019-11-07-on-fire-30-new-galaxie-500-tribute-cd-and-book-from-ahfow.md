@@ -26,7 +26,7 @@ longpost: true
 
 It turns out 1989 was an amazing year for music. It was for me anyway my life was changed in so many ways that year. Galaxie 500's On Fire was one of those ways. It entered my life on one side of a C90 cassette and hasn't left my life since. In spring of 2019 I had an idea that something needed to be done to celebrate 30 years of that life-changing occurrence.
 
-<div class="col-md-6 pull-right">
+<div class="col-md-6 float-right">
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/ahfow-30/on-fire-30-book-open.jpg" alt="On Fire | 30 - limited edition art book" /><figcaption class="caption-text">On Fire | 30 - limited edition art book</figcaption></figure>
 </div>
 

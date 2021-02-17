@@ -20,7 +20,7 @@ tags:
 flickr: false
 longpost: false
 ---
-<div class="col-md-6 pull-right">
+<div class="col-md-6 float-right">
 {% ahfowimage "/images/cd-obverse-tiom-30-web.jpg" "This Music Is Ours - sleeve" %}
 </div>
 Because of the strangeness of 2020 I very nearly let This Is Our Music’s 30th anniversary pass by unheralded. But in the last week in August I decided that would just be like giving in to the shitshow of a year it’s been. So I put out a call, with less than two months to turn this around. The response was phenomenal.
@@ -36,7 +36,7 @@ There is also a beautiful 16 page book with a piece of art representing each son
 
 Galaxie 500 called their third album This Is Our Music. Which I suppose it was.
 
-<div class="col-md-6 pull-right"> 
+<div class="col-md-6 float-right"> 
 {% ahfowimage "/images/cd-reverse-tiom-30-web.jpg" "This Music Is Ours - reveerse" %}
 </div>
 

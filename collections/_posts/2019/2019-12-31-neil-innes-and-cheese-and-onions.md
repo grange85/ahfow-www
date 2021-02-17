@@ -22,7 +22,7 @@ tags:
 flickr: false
 longpost: false
 ---
-<div class="col-md-6 pull-right"><figure><img src="https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_rutles.jpg" class="img-fluid" /><figcaption>Rutles Highway Revisited</figcaption></figure></div>
+<div class="col-md-6 float-right"><figure><img src="https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_rutles.jpg" class="img-fluid" /><figcaption>Rutles Highway Revisited</figcaption></figure></div>
 
 
 Earlier this week the lovely and brilliant Neil Innes passed away. Now, I understand that his relevance to A Head Full of Wishes may be rather slight but [nevertheless](https://www.youtube.com/watch?v=xtZW7SQABt4) I felt that even that warranted celebrating.
