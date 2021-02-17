@@ -37,4 +37,4 @@ You can also read <a href="/2015/08/03/luna-in-london-and-leeds/">my half-arsed 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/20166778816/in/album-72157656637112975/" title="Luna"><img src="https://farm1.staticflickr.com/474/20166778816_d957392595_b.jpg" width="1024" height="768" alt="Luna"></a>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/224056786&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"></iframe>
 
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+

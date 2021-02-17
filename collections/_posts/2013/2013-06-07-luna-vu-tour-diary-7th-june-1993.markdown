@@ -21,6 +21,6 @@ tags: []
 Amsterdam, coffee shops, Chokomel. It's good to be in Amsterdam</p></blockquote>
 <p class="text-muted">I had to look it up:</p>
 
-<figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/yoyental/913008434/" title="Untitled"><img src="https://c3.staticflickr.com/2/1278/913008434_9b2dc78dba_o.jpg" width="800" height="536" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></figure>
+<figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/yoyental/913008434/" title="Untitled"><img src="https://c3.staticflickr.com/2/1278/913008434_9b2dc78dba_o.jpg" width="800" height="536" alt="Untitled"></a></figure>
 
 <p class="text-muted">In April 1993 Luna were invited to open for The Velvet Underground on their reunion tour around Europe. Dean Wareham kept a diary of the tour which was published in the November 1993 issue of Alternative Press, I've just lifted that article and chopped it up into days and will post it here over the coming days - all without permission - if anyone objects give me a shout.</p>

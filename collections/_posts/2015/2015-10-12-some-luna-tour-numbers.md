@@ -16,7 +16,7 @@ tags:
 ---
 <p class="lead">Oh look! LUNA have a night off... what the hell will I do with my time!?</p>
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/johnmcnicholas/21714982050/in/pool-aheadfullofwishes/" title="Luna"><img src="https://farm1.staticflickr.com/600/21714982050_df210a208c_b.jpg" width="1024" height="683" alt="Luna"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/johnmcnicholas/21714982050/in/pool-aheadfullofwishes/" title="Luna"><img src="https://farm1.staticflickr.com/600/21714982050_df210a208c_b.jpg" width="1024" height="683" alt="Luna"></a>
 
 <p>Luckily Michael emailed me this morning with some stats for what Luna had played over the three dates in NYC - "interesting", I thought, "but if you've done the hard work..." - so I decided to extend it to the whole of the US tour so far. People with a life should probably leave now... oh! they already have... so it's just me and you then... here we go...</p>
 

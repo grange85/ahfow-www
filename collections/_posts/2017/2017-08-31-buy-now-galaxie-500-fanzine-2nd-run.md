@@ -20,7 +20,7 @@ tags:
  - everything's swirling
  - fanzine
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/36138562123/in/dateposted/" title="Everything&#x27;s Swirling - a Galaxie 500 fanzine"><img src="https://farm5.staticflickr.com/4424/36138562123_7ddb781af5_b.jpg" width="750" height="600" alt="Everything&#x27;s Swirling - a Galaxie 500 fanzine"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/36138562123/in/dateposted/" title="Everything&#x27;s Swirling - a Galaxie 500 fanzine"><img src="https://farm5.staticflickr.com/4424/36138562123_7ddb781af5_b.jpg" width="750" height="600" alt="Everything&#x27;s Swirling - a Galaxie 500 fanzine"></a>
 
 <p class="lead">The second run of the fanzine is now available to order. This is limited to 50 copies (so there'll have been 150 copies altogether (OK&hellip; <a href="https://www.instagram.com/p/BX_IZ0Ggxmr/?taken-by=grange85">15<strong>1</strong> to be accurate/honest</a>!)) - when these are gone there'll be no more so grab them while you can!</p>
 

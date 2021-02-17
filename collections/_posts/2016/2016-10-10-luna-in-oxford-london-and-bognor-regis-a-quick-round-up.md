@@ -73,4 +73,4 @@ Islington - lots of folk showed up over the course of the evening, and some who 
 </ul>
 
 
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+

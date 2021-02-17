@@ -40,9 +40,9 @@ longpost: true
 
 <p>Gig finished and the staff were too keen to kick us out of the venue so still no chance top catch up with folk, so after a rather 'adventurous' route to a Metro station on the other side of the river we made our way back to our rooms.</p>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/30072870400/in/dateposted/" title="Ulrika heading off after the show"><img src="https://c1.staticflickr.com/6/5649/30072870400_0f1f4ddd46_c.jpg" width="800" height="600" alt="Ulrika heading off after the show"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/30072870400/in/dateposted/" title="Ulrika heading off after the show"><img src="https://c1.staticflickr.com/6/5649/30072870400_0f1f4ddd46_c.jpg" width="800" height="600" alt="Ulrika heading off after the show"></a>
 
 <p><a href="https://flic.kr/s/aHskJLHASt">Stack of pictures popped on Flickr</a>.</p>
 
 
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+

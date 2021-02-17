@@ -25,7 +25,7 @@ tags: []
 
 <p>Also in February the members of <a href="/2015/02/09/another-luna-social-gathering/">Luna got together in Los Angeles for a social event</a> - it was also announced that the first reunion show would happen at The Echo in Los Angeles on the 13 April - tickets sold out almost instantly. It seems folk were ready for the reunion...</p>
 
-<figure class="caption aligncenter"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/youdiejoe/15853656523/in/album-72157650694997712/" title="Aquarian Birthday Soiree"><img src="https://farm8.staticflickr.com/7293/15853656523_8d1d68b80d_b.jpg" width="1024" height="683" alt="Aquarian Birthday Soiree"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><figcaption class="caption-text">Lee, Dean, Britta and Sean in LA (Photo: Randy Perry)</figcaption></figure>
+<figure class="caption aligncenter"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/youdiejoe/15853656523/in/album-72157650694997712/" title="Aquarian Birthday Soiree"><img src="https://farm8.staticflickr.com/7293/15853656523_8d1d68b80d_b.jpg" width="1024" height="683" alt="Aquarian Birthday Soiree"></a><figcaption class="caption-text">Lee, Dean, Britta and Sean in LA (Photo: Randy Perry)</figcaption></figure>
 
 <p>In <strong>March</strong> Dean dropped a hint that Luna's first five albums will be getting released in a vinyl box set... we're still waiting.</p>
 
@@ -34,7 +34,7 @@ tags: []
 <p><a href="https://vimeo.com/126922416">There's a lovely video on Vimeo of The North Light</a>.</p>
 
 <p>On the 13 April, <a href="/2015/04/14/lunas-reunion-show-a-quick-round-up-lunareunion/">Luna played their first show in over 10 years</a> in Los Angeles&hellip;</p>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/bobbyshih/16940925877" title="Luna / Winter (13-Apr-2015) at the Echo"><img src="https://farm8.staticflickr.com/7711/16940925877_038332a296_b.jpg" width="1024" height="768" alt="Luna / Winter (13-Apr-2015) at the Echo"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/bobbyshih/16940925877" title="Luna / Winter (13-Apr-2015) at the Echo"><img src="https://farm8.staticflickr.com/7711/16940925877_038332a296_b.jpg" width="1024" height="768" alt="Luna / Winter (13-Apr-2015) at the Echo"></a>
 <p>&hellip; and then headed off to Spain and Portugal.</p>
 <ul><li><a href="/2015/04/25/quick-round-up-of-the-first-half-of-lunas-reunion-tour-of-spain/">Spain/Portugal round-up part one</a></li><li><a href="/2015/05/05/quick-round-up-of-the-second-half-of-lunas-reunion-tour-of-spain-and-portugal/">Spain/Portugal round-up part two</a></li></ul>
 <p>In <strong>June</strong> official word on the Luna vinyl box set arrived from Captured Tracks</p>

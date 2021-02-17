@@ -31,8 +31,9 @@ The streaming music service Pandora currently has a playlist where Dean chats ab
 > Snowstorm, one of our slowest songs&hellip; well, it's really all about the&hellip; well it's a great bassline, and the wah pedal, I was playing a wah-wah pedal because there happened to be one sitting at Kramer's studio. I think it belonged to Sonic Youth who used to rehearse there. So the wah, and the bassline and the cymbal splashes&hellip; and lyrically it's a song not so much about a snowstorm but how excited the local news people and the weather people get when a storm's approcahing&hellip; they sort of go into a frenzy.
 
 
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/01-galaxie_500/audio/dean-wareham-on-fire-commentary-pandora-words-only.mp3">Dean Wareham's On Fire commentary (words only)</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/01-galaxie_500/audio/dean-wareham-on-fire-commentary-pandora-words-only.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://www.pandora.com/playlist/PL:844424984826398:1044336675?ag=-16328658384687154">Pandora</a></em></p>
-</div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/01-galaxie_500/audio/dean-wareham-on-fire-commentary-pandora-words-only.mp3",
+  "audiocap": "Dean Wareham's On Fire commentary (words only)",
+  "sourceurl": "https://www.pandora.com/playlist/PL:844424984826398:1044336675?ag=-16328658384687154",
+  "sourcecap": "Pandora"
+  } %}

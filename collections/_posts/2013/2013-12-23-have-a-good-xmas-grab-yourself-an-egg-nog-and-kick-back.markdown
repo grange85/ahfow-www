@@ -27,7 +27,7 @@ tags: []
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/7465394756/in/photolist-dDX875-cMkars-cnG6LG" title="Luna  - Time/Egg Nog"><img src="https://farm8.staticflickr.com/7252/7465394756_e58b7fdbdb_b.jpg" width="1024" height="768" alt="Luna  - Time/Egg Nog"></a>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/dinnerseries/6554390595/" title="Cinnamon"><img src="https://farm8.staticflickr.com/7142/6554390595_76a9609b4d_b.jpg" width="1000" height="667" alt="Cinnamon"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/dinnerseries/6554390595/" title="Cinnamon"><img src="https://farm8.staticflickr.com/7142/6554390595_76a9609b4d_b.jpg" width="1000" height="667" alt="Cinnamon"></a>
 
 <p><a href="/2013/12/16/originals-xmas-special-1-old-toy-trains-by-roger-miller-covered-by-dean-britta-with-sonic-boom/" title="Originals: Old Toy Trains by Roger Miller (covered by Dean & Britta with Sonic Boom) : Xmas special #1">Originals: Old Toy Trains by Roger Miller (covered by Dean & Britta with Sonic Boom) : Xmas special #1</a><br />
 <a href="/2013/12/18/originals-white-christmas-by-bing-crosby-covered-by-damon-naomi/" title="Originals: White Christmas by Bing Crosby covered by Damon & Naomi: Xmas special #2">Originals: White Christmas by Bing Crosby covered by Damon & Naomi: Xmas special #2</a><br />

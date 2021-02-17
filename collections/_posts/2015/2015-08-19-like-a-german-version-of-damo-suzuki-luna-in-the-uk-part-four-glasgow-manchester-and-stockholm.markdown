@@ -42,4 +42,4 @@ tags: []
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim/FoxHedge.jpg" width="800" height="531" class /><figcaption class="caption-text"> Are you a fox or a hedgehog? (photo by Joakim)</figcaption></figure>
 <p><em>[Editor's note] - Thanks so much to Joakim for the wonderful posts about Luna's trek around the UK. I was lucky enough to have met Joakim and Ulrika, and most of the rest of the folk mentioned in this series of posts and it was a pleasure to spend time with all of them - and a hatful that weren't lucky enough to have made an appearance. <strong>I genuinely believe that not only are we lucky to love a great band but Luna are lucky to have such great fans</strong> - we should be proud.</p>
 <p>If anyone wants to write up any of the forthcoming Luna dates please <a href="/about/">do get in touch</a> - you don't have to write a four post novel, just a few words and a couple of pictures would be fine too! It's nice having other people's words and thoughts on AHFoW.</em> </p>
-<p><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+<p></p>

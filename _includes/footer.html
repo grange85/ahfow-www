@@ -39,7 +39,3 @@
 {% if page.title == 'Search results' %}
 	<script>$('#q').val(window.location.search.split('=')[1].replace(/\+/g,' '));</script>
 {% endif %}
-
-{% if page.flickr == 'true' %}
-	<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-{% endif %}

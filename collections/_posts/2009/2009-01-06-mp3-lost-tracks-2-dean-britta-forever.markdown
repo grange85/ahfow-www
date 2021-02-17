@@ -18,7 +18,7 @@ categories:
 - lost tracks
 tags: []
 ---
-<a data-flickr-embed="true" data-header="false" data-footer="false" data-context="false"  href="https://www.flickr.com/photos/davidkha/2790141365/" title="Ironic Temporary Tattoo"><img class="alignright" src="https://farm4.staticflickr.com/3118/2790141365_11eaa0ebbd.jpg" width="252" height="279" alt="Ironic Temporary Tattoo"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="false" data-footer="false" data-context="false"  href="https://www.flickr.com/photos/davidkha/2790141365/" title="Ironic Temporary Tattoo"><img class="alignright" src="https://farm4.staticflickr.com/3118/2790141365_11eaa0ebbd.jpg" width="252" height="279" alt="Ironic Temporary Tattoo"></a>
 <p>This lovely cover of the beautiful Beach Boys track <a href="http://en.wikipedia.org/wiki/Forever_(Beach_Boys_song)">Forever</a> was released in 2005 on a compilation CD sold through branches of Starbucks.</p>
 <p>The song was originally written and sung by Dennis Wilson and originally appeared on the Beach Boys 1970 album Sunflower.</p>
 <ul>

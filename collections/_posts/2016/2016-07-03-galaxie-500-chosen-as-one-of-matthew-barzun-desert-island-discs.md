@@ -29,11 +29,12 @@ tags:
 	<footer><a href="http://www.bbc.co.uk/programmes/b07hwv06">Matthew Barzun - Desert Island Discs</a></footer>
 </blockquote>
 
-<div class="well">
-  <p class="audio">Audio: <a href="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0400875.mp3">Matthew Barzun - Desert Island Discs</a></p>
-  <audio controls="controls" preload="none" src="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0400875.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="http://www.bbc.co.uk/programmes/b07hwv06">BBC Desert Island Discs</a></em></p>
-</div>
+ {% ahfowaudio {
+  "audiourl": "http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0400875.mp3",
+  "audiocap": "Matthew Barzun - Desert Island Discs",
+  "sourceurl": "http://www.bbc.co.uk/programmes/b07hwv06",
+  "sourcecap": "BBC Desert Island Discs"
+  } %}
 <p>On his Twitter this morning Matthew posted a picture showing the tricky decision making involved in selecting his eight discs - it was nice to see someone taking this as seriously as it deserves!</p>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Can’t be accused of under-thinking my choices for <a href="https://twitter.com/BBCRadio4">@BBCRadio4</a> <a href="https://twitter.com/hashtag/DesertIslandDiscs?src=hash">#DesertIslandDiscs</a>... <a href="https://t.co/Nm6o1P7WvF">pic.twitter.com/Nm6o1P7WvF</a></p>&mdash; Matthew Barzun (@MatthewBarzun) <a href="https://twitter.com/MatthewBarzun/status/749563355447193602">July 3, 2016</a></blockquote>

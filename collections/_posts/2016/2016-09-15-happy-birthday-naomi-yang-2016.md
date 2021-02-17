@@ -18,17 +18,18 @@ categories:
  - news
 tags: []
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/vixpen/8644722946/in/album-72157633228910787/" title="damon & naomi 10 april 2013"><img src="https://c3.staticflickr.com/9/8531/8644722946_b917335971_b.jpg" width="1024" height="768" alt="damon & naomi 10 april 2013"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/vixpen/8644722946/in/album-72157633228910787/" title="damon & naomi 10 april 2013"><img src="https://c3.staticflickr.com/9/8531/8644722946_b917335971_b.jpg" width="1024" height="768" alt="damon & naomi 10 april 2013"></a>
 
 Happy birthday Naomi Yang Galaxie 500's bassist (and occasional singer) and Damon & Naomi's Naomi.
 
 
 Here's Damon & Naomi's gorgeous cover of Pearls Before Swine's Translucent Carriages
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-translucent-carriages.mp3">Damon & Naomi - Translucent Carriages</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-translucent-carriages.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="/2014/07/16/originals-translucent-carriages-pearls-swine-covered-damon-naomi/">Originals: Translucent Carriages</a></em></p>
-</div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-and-naomi-translucent-carriages.mp3",
+  "audiocap": "Damon & Naomi - Translucent Carriages",
+  "sourceurl": "/2014/07/16/originals-translucent-carriages-pearls-swine-covered-damon-naomi/",
+  "sourcecap": "Originals: Translucent Carriages"
+  } %}
 Damon & Naomi are currently touring in China which means I'm rattling this post off while it's still Naomi's birthday where she is!
 
 It's well worth following <a href="https://www.instagram.com/naomivision/">Naomi's Instagram</a> and <a href="https://twitter.com/dada_drummer">Damon's Twitter</a> for details of their Chinese sojourn.

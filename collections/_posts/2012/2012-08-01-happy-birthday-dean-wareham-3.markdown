@@ -16,7 +16,7 @@ categories:
 - news
 tags: []
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/5972301432/" title="Dean &amp; Britta @ Truck Festival"><img src="https://live.staticflickr.com/6015/5972301432_96fa74762f_b.jpg" width="1024" height="768" alt="Dean &amp; Britta @ Truck Festival"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/5972301432/" title="Dean &amp; Britta @ Truck Festival"><img src="https://live.staticflickr.com/6015/5972301432_96fa74762f_b.jpg" width="1024" height="768" alt="Dean &amp; Britta @ Truck Festival"></a>
 
 
 <p>Happy birthday to Dean Wareham who is still a year older than me - have a great day Dean!</p>

@@ -43,4 +43,4 @@ tags: []
 
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/2016-04-19-damon-and-naomi-hospital.jpg" alt="Damon in hospital" /><figcaption class="caption-text">Damon in hospital</figcaption></figure>
 
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+

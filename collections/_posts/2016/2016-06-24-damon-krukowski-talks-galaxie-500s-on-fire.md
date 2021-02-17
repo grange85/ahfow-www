@@ -21,7 +21,7 @@ tags:
 - bandcamp
 ---
 
-<figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/14966010204/" title="Galaxie 500 - On Fire"><img src="https://c5.staticflickr.com/4/3943/14966010204_c004905dfe_b.jpg" width="1024" height="562" alt="Galaxie 500 - On Fire"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></figure>
+<figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/14966010204/" title="Galaxie 500 - On Fire"><img src="https://c5.staticflickr.com/4/3943/14966010204_c004905dfe_b.jpg" width="1024" height="562" alt="Galaxie 500 - On Fire"></a></figure>
 
 <p class="lead">Damon has written up <a href="https://daily.bandcamp.com/2016/06/24/galaxie-500-interview/">some thoughts on Galaxie 500's masterpiece, On Fire</a>, for today's bandcamp daily&hellip;</p>
 

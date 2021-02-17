@@ -21,15 +21,16 @@ categories:
 tags: []
 ---
 
-<figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/fraumrau/173458800/" title="23"><img src="https://c1.staticflickr.com/1/61/173458800_b397da86d7_o.jpg" width="1280" height="960" alt="23"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></figure>
+<figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/fraumrau/173458800/" title="23"><img src="https://c1.staticflickr.com/1/61/173458800_b397da86d7_o.jpg" width="1280" height="960" alt="23"></a></figure>
 
 <p class="lead">Here's a bunch of versions of 23 Minutes in Brussels I've shared on AHFoW over the years (and a couple I haven't shared before)</p>
 
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/luna-20050228-23-minutes-in-brussels-nyc.mp3">Luna playing 23 Minutes in Brussels at their farewell show in 2005</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/luna-20050228-23-minutes-in-brussels-nyc.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="/database/luna/shows/2005/2005-02-28-luna-bowery-ballroom-new-york-ny-usa/">28 February 2005 - Luna - Bowery Ballroom, New York NY, USA</a></em></p>
-</div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/luna-20050228-23-minutes-in-brussels-nyc.mp3",
+  "audiocap": "Luna playing 23 Minutes in Brussels at their farewell show in 2005",
+  "sourceurl": "/database/luna/shows/2005/2005-02-28-luna-bowery-ballroom-new-york-ny-usa/",
+  "sourcecap": "28 February 2005 - Luna - Bowery Ballroom, New York NY, USA"
+  } %}
 <ul>
 <li><strong>MP3: </strong><a href="https://www.box.com/shared/o9bg9fykoc">Luna - Tramps, NYC 1994 - very early version with completely different lyrics</a></li>
 <li><strong>MP3: </strong><a href="https://www.box.com/shared/obvpf2o7dn">Luna - Mark Radcliffe session 1995 - radio performance</a></li>

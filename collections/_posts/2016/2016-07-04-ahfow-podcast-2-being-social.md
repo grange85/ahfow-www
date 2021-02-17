@@ -52,10 +52,11 @@ description: >
 <h2>Bonus material</h2>
 <p>In the podcast I mention a Luna show at The Garage in December 1995 - you can <a href="http://www.mediafire.com/download/g5f0gihpann2e6u/luna-1995-12-16_-the-garage-london-uk.zip">download the whole of that show here</a>.</p>
 <p>I mention the band Dart, who Lauren played in. The internet is a bit shy on Dart info - <a href="http://becausemidwaystillarentcomingback.blogspot.co.uk/2009/07/dart.html">there's this blog post</a> (weird coming across your old comments on seven year old blog posts), and I've popped the splendid Sleepless here for your delectation (beware of the ridiculously long pause!):</p>
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/00-misc/audio/02-dart-sleepless.mp3">Sleepless - Dart</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/00-misc/audio/02-dart-sleepless.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://www.discogs.com/Dart-Doggie/release/1645845">Doggie CD single</a></em></p>
-</div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/00-misc/audio/02-dart-sleepless.mp3",
+  "audiocap": "Sleepless - Dart",
+  "sourceurl": "https://www.discogs.com/Dart-Doggie/release/1645845",
+  "sourcecap": "Doggie CD single"
+  } %}
 <h2>Solicitation</h2>
 <p>If anyone would care to contribute (or contribute to) a podcast <a href="/about/">please get in touch</a> - I'd be happy to hear from other fans about your experiences of being a fan - either rabbiting incoherently (like my efforts) or, if you prefer we could do an online chat we could maybe try a messneger of some sort (FB, Google, Skype or whatever your chat platform of choice is) - I'm not good at that but happy to give it a try!</p>

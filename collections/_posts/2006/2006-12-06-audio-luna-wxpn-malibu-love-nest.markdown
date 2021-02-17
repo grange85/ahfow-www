@@ -18,8 +18,9 @@ tags: []
 ---
 <p>I guess on their last flit around the world Luna popped into radio studios all along the way. This performance of Malibu Love Nest (which was their show opener during most of the final tour) is from Philadelphia and was recorded as they passed through the city on their farewell tour in December 2004 and was broadcast in February 2005.</p>
 
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/Luna-2004-12-17_WXPN-FM_Philadelphia-01-Malibu_Love_Nest.mp3">Luna - Malibu Love Nest, Philadelphia, 17th December 2004</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/Luna-2004-12-17_WXPN-FM_Philadelphia-01-Malibu_Love_Nest.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="/database/luna/shows/2004/2004-12-17-luna-wxpn-philadelphia-pa-usa/">17th December 2004 - Luna - WXPN, Philadelphia PA, USA</a></em></p>
-</div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/Luna-2004-12-17_WXPN-FM_Philadelphia-01-Malibu_Love_Nest.mp3",
+  "audiocap": "Luna - Malibu Love Nest, Philadelphia, 17th December 2004",
+  "sourceurl": "/database/luna/shows/2004/2004-12-17-luna-wxpn-philadelphia-pa-usa/",
+  "sourcecap": "17th December 2004 - Luna - WXPN, Philadelphia PA, USA"
+  } %}

@@ -47,7 +47,7 @@ longpost: true
 <h3>1: Penthouse</h3><blockquote>But I feel like Luna, when we made our first album, we weren't there yet and our third album is our best.</blockquote>
 
 <p>&hellip; and as it's my website&hellip;</p>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26941678646/in/dateposted/" title="So @deanwareham ranked Luna&#x27;s albums and so did I (before I saw Dean&#x27;s list). To be honest the first and last are right and the rest are a great big tie for second"><img src="https://farm8.staticflickr.com/7502/26941678646_efa8f30b8b_b.jpg" width="1024" height="1024" alt="So @deanwareham ranked Luna&#x27;s albums and so did I (before I saw Dean&#x27;s list). To be honest the first and last are right and the rest are a great big tie for second"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26941678646/in/dateposted/" title="So @deanwareham ranked Luna&#x27;s albums and so did I (before I saw Dean&#x27;s list). To be honest the first and last are right and the rest are a great big tie for second"><img src="https://farm8.staticflickr.com/7502/26941678646_efa8f30b8b_b.jpg" width="1024" height="1024" alt="So @deanwareham ranked Luna&#x27;s albums and so did I (before I saw Dean&#x27;s list). To be honest the first and last are right and the rest are a great big tie for second"></a>
 
 
 <p>Feel free to add your own list to the comments or say why you agree or disagree with Dean's order.</p>

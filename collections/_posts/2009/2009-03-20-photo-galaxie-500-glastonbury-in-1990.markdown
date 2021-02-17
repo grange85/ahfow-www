@@ -18,7 +18,7 @@ categories:
 - pictures
 tags: []
 ---
-<figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/74825135@N00/3354266928/" title="img150"><img src="https://c1.staticflickr.com/4/3638/3354266928_f84714f9e7_b.jpg" width="1024" height="707" alt="img150"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><figcaption>Galaxie 500 at Glastonbury, 22 June 1990</figcaption></figure>
+<figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/74825135@N00/3354266928/" title="img150"><img src="https://c1.staticflickr.com/4/3638/3354266928_f84714f9e7_b.jpg" width="1024" height="707" alt="img150"></a><figcaption>Galaxie 500 at Glastonbury, 22 June 1990</figcaption></figure>
 
 <p>Ok - you'll need to squint or <a href="http://www.flickr.com/photos/74825135@N00/3354266928/sizes/o/">view the big version</a> but I've just come across this photo of Galaxie 500, with Kramer, on the Pyramid stage at the Glastonbury Festival in 1990.</p>
 <p>

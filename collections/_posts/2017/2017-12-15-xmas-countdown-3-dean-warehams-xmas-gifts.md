@@ -23,38 +23,43 @@ tags:
 <p class="text text-info"> (for Aquarium Drunkard, 2014)</p>
 <iframe src="https://player.vimeo.com/video/114731996?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p>Recorded December 2014 at Red Rockets Glare. Produced by Raymond Richards. With Britta Phillips, Raymond Richards and Roger Brogan.</p>
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-christmas-cant-be-far-away.mp3">Dean Wareham - Christmas Can't Be Far Away</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-christmas-cant-be-far-away.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://aquariumdrunkard.com/2014/12/17/the-lagniappe-sessions-dean-wareham-does-the-holidays/">Aquarium Drunkard: The Lagniappe Sessions, Xmas 2014</a></em></p>
-</div><div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-stille-nacht.mp3">Dean Wareham - Stille Nacht</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-stille-nacht.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://aquariumdrunkard.com/2014/12/17/the-lagniappe-sessions-dean-wareham-does-the-holidays/">Aquarium Drunkard: The Lagniappe Sessions, Xmas 2014</a></em></p>
-</div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-christmas-cant-be-far-away.mp3",
+  "audiocap": "Dean Wareham - Christmas Can't Be Far Away",
+  "sourceurl": "https://aquariumdrunkard.com/2014/12/17/the-lagniappe-sessions-dean-wareham-does-the-holidays/",
+  "sourcecap": "Aquarium Drunkard: The Lagniappe Sessions, Xmas 2014"
+  } %} {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-stille-nacht.mp3",
+  "audiocap": "Dean Wareham - Stille Nacht",
+  "sourceurl": "https://aquariumdrunkard.com/2014/12/17/the-lagniappe-sessions-dean-wareham-does-the-holidays/",
+  "sourcecap": "Aquarium Drunkard: The Lagniappe Sessions, Xmas 2014"
+  } %}
 <h3>Dean & Britta and Sonic Boom - He's Coming Home / Old Toy Trains</h3>
 <p class="text text-info"> (Demo, 2004 / Chimney Rocks!, 2007)</p>
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/00_dean-britta-sonic-boom-old-toy-trains-2004.mp3">Dean & Britta and Sonic Boom - Old Toy Trains (2004 demo)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/00_dean-britta-sonic-boom-old-toy-trains-2004.mp3"></audio></div>
 
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-sonic-boom-old-toy-trains.mp3">Dean & Britta and Sonic Boom - Old Toy Trains (2007 remix)</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-sonic-boom-old-toy-trains.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="/database/dean-and-britta/dean-and-britta-releases/dean-and-britta-hes-coming-home/">Chimney Rocks! Records 2007</a></em></p>
-</div><div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/01-dean-and-britta-hes-coming-home.mp3">Dean & Britta and Sonic Boom - He's Coming Home</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/01-dean-and-britta-hes-coming-home.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="/database/dean-and-britta/dean-and-britta-releases/dean-and-britta-hes-coming-home/">Chimney Rocks! Records 2007</a></em></p>
-</div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-sonic-boom-old-toy-trains.mp3",
+  "audiocap": "Dean & Britta and Sonic Boom - Old Toy Trains (2007 remix)",
+  "sourceurl": "/database/dean-and-britta/dean-and-britta-releases/dean-and-britta-hes-coming-home/",
+  "sourcecap": "Chimney Rocks! Records 2007"
+  } %} {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/07-dean_and_britta/audio/01-dean-and-britta-hes-coming-home.mp3",
+  "audiocap": "Dean & Britta and Sonic Boom - He's Coming Home",
+  "sourceurl": "/database/dean-and-britta/dean-and-britta-releases/dean-and-britta-hes-coming-home/",
+  "sourcecap": "Chimney Rocks! Records 2007"
+  } %}
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2013-11-dean-and-britta-old-toy-trains-xfm.mp3">Dean & Britta - Old Toy Trains (XFM, 2013)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2013-11-dean-and-britta-old-toy-trains-xfm.mp3"></audio></div>
 
 <h3>Dean & Britta and Sonic Boom - Little Altar Boy (Amazon Originals, 2017)</h3>
 <p>This year Dean & Britta have teamed up with Sonic Boom for another solemn xmas tune - Little Altar Boy was available exclusively through Amazon:</p>
 
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/01-dean-and-britta-with-sonic-boom-little-altar-boy.mp3">Dean and Britta with Sonic Boom</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/01-dean-and-britta-with-sonic-boom-little-altar-boy.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://amzn.to/2PMdKOR">Amazon Originals: Little Altar Boy</a></em></p>
-</div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/07-dean_and_britta/audio/01-dean-and-britta-with-sonic-boom-little-altar-boy.mp3",
+  "audiocap": "Dean and Britta with Sonic Boom",
+  "sourceurl": "https://amzn.to/2PMdKOR",
+  "sourcecap": "Amazon Originals: Little Altar Boy"
+  } %}
 
 <h3 class="text-muted">Still no #SHAWC - fingers crossed for 2018! Or, maybe not&hellip;</h3>
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/shawc-no-no-no-no-no.jpg" alt="No no no no no" /><figcaption class="caption-text">No no no no no</figcaption></figure>

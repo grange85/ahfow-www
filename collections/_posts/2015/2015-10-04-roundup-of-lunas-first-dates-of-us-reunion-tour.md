@@ -16,7 +16,7 @@ tags: []
 ---
 <p class="lead">On Friday and Saturday Luna played the first dates of the US leg of their reunion tour. The first shows were in Atlanta and Friday night's show started with them playing their classic 1995 album Penthouse from start to finish (including the hidden bonus track). Here's a quick round-up on what you can see and read about the first dates.</p>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/johnmcnicholas/21716189729/in/faves-78462059@N00/" title="Luna"><img src="https://farm6.staticflickr.com/5768/21716189729_4108bc14e1_b.jpg" width="1024" height="683" alt="Luna"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/johnmcnicholas/21716189729/in/faves-78462059@N00/" title="Luna"><img src="https://farm6.staticflickr.com/5768/21716189729_4108bc14e1_b.jpg" width="1024" height="683" alt="Luna"></a>
 
 <h2>2 October 2015 - Luna - Terminal West, Atlanta, GA, USA</h2>
 <p><a href="/database/luna/shows/2015/2015-10-02-luna-terminal-west-atlanta-ga-usa/">Setlist, photos, videos and links on AHFoW</a></p>

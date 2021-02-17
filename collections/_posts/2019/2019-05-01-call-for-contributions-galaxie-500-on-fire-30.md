@@ -42,4 +42,4 @@ I'm going to push this idea for a month and make a decision about whether to run
 
 If there's enough interest then at the beginning of June I will set up a forum where we can discuss, debate, share ideas and inspire each other!
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/15401012047/in/photolist-Rb46d4-2dib5rW-2bMbbwH-2bBJXcg-MEniNo-Q4c6BD-CmbUHa-qbZ9qj-qrghG1-pwMyUg-psWdjt-oNuHqG-dQ8t3z-dQ84ZX-5H4mv9" title="On Fire - Galaxie 500 cassette"><img src="https://live.staticflickr.com/5607/15401012047_4cd50b31e5_c.jpg" width="799" height="800" alt="On Fire - Galaxie 500 cassette"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/15401012047/in/photolist-Rb46d4-2dib5rW-2bMbbwH-2bBJXcg-MEniNo-Q4c6BD-CmbUHa-qbZ9qj-qrghG1-pwMyUg-psWdjt-oNuHqG-dQ8t3z-dQ84ZX-5H4mv9" title="On Fire - Galaxie 500 cassette"><img src="https://live.staticflickr.com/5607/15401012047_4cd50b31e5_c.jpg" width="799" height="800" alt="On Fire - Galaxie 500 cassette"></a>

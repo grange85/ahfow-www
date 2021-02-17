@@ -20,11 +20,12 @@ flickr: true
 ---
 I'd guess that Tell Me is probably one of the lesser known tracks from On Fire - I always wonder how hard it must be sequencing an album so the balance and transitions work. I think that is one of the things that makes On Fire so great. It's not just _all killer and no filler_ but the sequencing is flawless. Tell Me isn't _lost_ after Blue Thunder but is a gentle come down.
 
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/01-galaxie_500/audio/galaxie-500-1989-11-26-trust-nurnberg-tell-me.mp3">Galaxie 500 - Tell Me live in Germany, 1989</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/01-galaxie_500/audio/galaxie-500-1989-11-26-trust-nurnberg-tell-me.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="/database/galaxie-500/shows/1989/1989-11-26-galaxie-500-trust-nurenburg-germany/">26th November 1989 - Galaxie 500 - Trust, Nurenburg, Germany</a></em></p>
-</div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/01-galaxie_500/audio/galaxie-500-1989-11-26-trust-nurnberg-tell-me.mp3",
+  "audiocap": "Galaxie 500 - Tell Me live in Germany, 1989",
+  "sourceurl": "/database/galaxie-500/shows/1989/1989-11-26-galaxie-500-trust-nurenburg-germany/",
+  "sourcecap": "26th November 1989 - Galaxie 500 - Trust, Nurenburg, Germany"
+  } %}
 
 There's a lovely live version recorded for MTV in the UK back then - with Damon playing second guitar (and not drums obv) - it was released on the Don't Let Our Youth Go To Waste DVD.
 

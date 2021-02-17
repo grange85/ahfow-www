@@ -27,13 +27,12 @@ The opening track of On Fire is one that Galaxie 500 and all post-Galaxie 500 co
 
 
 ## Galaxie 500... obviously
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/01-galaxie_500/audio/galaxie-500-heidelberg-1989-11-29-blue-thunder.mp3"> Galaxie 500 - Blue Thunder live in Heidelberg, Germany - 1989</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/01-galaxie_500/audio/galaxie-500-heidelberg-1989-11-29-blue-thunder.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="/database/galaxie-500/shows/1989/1989-11-29-galaxie-500-schwimmbad-heidelberg-germany/">
-29th November 1989 - Galaxie 500 - Schwimmbad, Heidelberg, Germany
-</a></em></p>
-</div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/01-galaxie_500/audio/galaxie-500-heidelberg-1989-11-29-blue-thunder.mp3",
+  "audiocap": " Galaxie 500 - Blue Thunder live in Heidelberg, Germany - 1989",
+  "sourceurl": "/database/galaxie-500/shows/1989/1989-11-29-galaxie-500-schwimmbad-heidelberg-germany/",
+  "sourcecap": "29th November 1989 - Galaxie 500 - Schwimmbad, Heidelberg, Germany"
+  } %}
 
 See also:
  - <a href="/2008/05/24/mp3-galaxie-500-soundcheck-blue-thunder/">MP3: Galaxie 500 soundcheck Blue Thunder</a>
@@ -42,11 +41,12 @@ See also:
 
 ### Luna
 
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/1993-06-03-luna-borderline-london-uk/07-luna-blue-thunder.mp3">Luna - Blue Thunder live in London, UK - 1993</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/1993-06-03-luna-borderline-london-uk/07-luna-blue-thunder.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="/database/luna/shows/1993/1993-06-03-luna-borderline-london-uk/">3rd June 1993 - Luna - Borderline, London, UK</a></em></p>
-</div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/1993-06-03-luna-borderline-london-uk/07-luna-blue-thunder.mp3",
+  "audiocap": "Luna - Blue Thunder live in London, UK - 1993",
+  "sourceurl": "/database/luna/shows/1993/1993-06-03-luna-borderline-london-uk/",
+  "sourcecap": "3rd June 1993 - Luna - Borderline, London, UK"
+  } %}
 
 See also:
  - <a href="https://youtu.be/axyegzAgvQc">Video: Luna play Blue Thunder in Copenhagen in 2018</a>
@@ -54,33 +54,36 @@ See also:
 
 ### Damon & Naomi
 
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/2005-06-23-nhk-505-studio-tokyo-japan-blue-thunder.mp3">Damon & Naomi - Blue Thunder live in Tokyo, Japan - 2005</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/2005-06-23-nhk-505-studio-tokyo-japan-blue-thunder.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="/database/damon-and-naomi/shows/2005/2005-06-23-damon-naomi-nhk-livebeat-tokyo-japan/">23rd June 2005 - Damon & Naomi - NHK Livebeat, Tokyo, Japan</a></em></p>
-</div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/2005-06-23-nhk-505-studio-tokyo-japan-blue-thunder.mp3",
+  "audiocap": "Damon & Naomi - Blue Thunder live in Tokyo, Japan - 2005",
+  "sourceurl": "/database/damon-and-naomi/shows/2005/2005-06-23-damon-naomi-nhk-livebeat-tokyo-japan/",
+  "sourcecap": "23rd June 2005 - Damon & Naomi - NHK Livebeat, Tokyo, Japan"
+  } %}
 
 See also:
 - <a href="https://youtu.be/N4daKca_wO4">Video: Damon & Naomi playing Blue Thunder in London in 2011</a>
 
 ### Dean & Britta
 
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2008-08-21-zipper-factory-new-york-ny-usa-blue-thunder.mp3">Dean & Britta - Blue Thunder lvie in New York, USA - 2008</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2008-08-21-zipper-factory-new-york-ny-usa-blue-thunder.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="/database/dean-and-britta/shows/2008/2008-08-21-dean-britta-the-zipper-factory-336-w-37th-st-new-york-ny-usa/">21st August 2008 - Dean & Britta - The Zipper Factory, 336 W. 37th St, New York NY, USA</a></em></p>
-</div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2008-08-21-zipper-factory-new-york-ny-usa-blue-thunder.mp3",
+  "audiocap": "Dean & Britta - Blue Thunder lvie in New York, USA - 2008",
+  "sourceurl": "/database/dean-and-britta/shows/2008/2008-08-21-dean-britta-the-zipper-factory-336-w-37th-st-new-york-ny-usa/",
+  "sourcecap": "21st August 2008 - Dean & Britta - The Zipper Factory, 336 W. 37th St, New York NY, USA"
+  } %}
 
 See also:
  - <a href="/2019/04/11/dean-and-britta-blue-thunder-fingerprints/">Video: Dean & Britta playing Blue Thunder</a>
 
 ### Dean Wareham
 
-<div class="well">
-  <p class="audio">Audio: <a href="http://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-2014-07-26-indietracks-uk/09-dean-wareham-blue-thunder.mp3">Dean Wareham, - Blue Thunder live at Indietracks, UK - 2014</a></p>
-  <audio controls="controls" preload="none" src="http://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-2014-07-26-indietracks-uk/09-dean-wareham-blue-thunder.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-2014-07-26-indietracks-uk/">Dean Wareham at Indietracks</a></em></p>
-</div>
+ {% ahfowaudio {
+  "audiourl": "http://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-2014-07-26-indietracks-uk/09-dean-wareham-blue-thunder.mp3",
+  "audiocap": "Dean Wareham, - Blue Thunder live at Indietracks, UK - 2014",
+  "sourceurl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-2014-07-26-indietracks-uk/",
+  "sourcecap": "Dean Wareham at Indietracks"
+  } %}
 
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/1990022_MM_ET_Blue-Thunder.jpg" alt="caption" /><figcaption class="caption-text">Blue Thunder review (Melody Maker, January 1990)</figcaption></figure>
 

@@ -30,11 +30,12 @@ Sean: Because, I dunno, it'll be more fun to do a more ... rocking ... song
 <footer><a href="http://www.avclub.com/video/luna-covers-motorheads-killed-death-243640">AV Club: Luna covers Motörhead’s "Killed By Death"</a></footer>
 </blockquote>
 
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/01-luna-killed-by-death.mp3">Luna - Killed By Death (Motorhead cover)</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/01-luna-killed-by-death.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="http://www.avclub.com/video/luna-covers-motorheads-killed-death-243640">A.V. Undercover: Luna covers Motörhead's 'Killed By Death'</a></em></p>
-</div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/01-luna-killed-by-death.mp3",
+  "audiocap": "Luna - Killed By Death (Motorhead cover)",
+  "sourceurl": "http://www.avclub.com/video/luna-covers-motorheads-killed-death-243640",
+  "sourcecap": "A.V. Undercover: Luna covers Motörhead's 'Killed By Death'"
+  } %}
 <p>Now anyone who's read AHFoW for any length of time, or encountered me on Twitter or various other social media over the years, will be only too aware of my past obsession with Mot&ouml;rhead which makes the lead paragraph of this post one of the more amazing things I've ever published.</p>
 
 <p>When Jen posted this to Facebook, I nearly wept with excitement - OK, it's not <a href="https://www.youtube.com/watch?v=3VNUyjRRjxM">Mot&ouml;rhead's finest hour</a> - that came a five earlier - and wasn't the classic line-up - but it's Luna, covering Mot&ouml;rhead!</p>
@@ -44,4 +45,4 @@ Sean: Because, I dunno, it'll be more fun to do a more ... rocking ... song
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/csvruv_DGNo" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Motorhead playing Killed by Death on The Tube in 1984</figcaption></figure>
 
 <p>OK, I'm off to have a little lie down!</p>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/30118723665/in/dateposted/" title="Motorhead"><img src="https://c2.staticflickr.com/6/5319/30118723665_fe43e3178a_o.jpg" width="750" height="600" alt="Motorhead"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/30118723665/in/dateposted/" title="Motorhead"><img src="https://c2.staticflickr.com/6/5319/30118723665_fe43e3178a_o.jpg" width="750" height="600" alt="Motorhead"></a>

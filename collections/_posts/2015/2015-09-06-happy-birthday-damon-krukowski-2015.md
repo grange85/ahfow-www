@@ -35,4 +35,4 @@ You can also catch up on his work beyond Damon & Naomi on his <a href="http://ww
 
 Have a great day Damon!
 
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+

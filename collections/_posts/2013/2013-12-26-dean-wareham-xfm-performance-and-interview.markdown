@@ -18,7 +18,7 @@ categories:
 - audio
 tags: []
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/depthandtime/4529435423" title="2 Boys and Store Front Christmas Display"><img src="https://farm5.staticflickr.com/4018/4529435423_a07baab948_b.jpg" width="1024" height="863" alt="2 Boys and Store Front Christmas Display"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/depthandtime/4529435423" title="2 Boys and Store Front Christmas Display"><img src="https://farm5.staticflickr.com/4018/4529435423_a07baab948_b.jpg" width="1024" height="863" alt="2 Boys and Store Front Christmas Display"></a>
 <p class="lead">UPDATE (2015-12-22): Here's the mp3 of Dean & Britta performing Old Toy Trains on XFM</p>
 
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2013-11-dean-and-britta-old-toy-trains-xfm.mp3">Dean & Britta - Old Toy Trains (live on XFM, November 2013)</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2013-11-dean-and-britta-old-toy-trains-xfm.mp3"></audio></div>

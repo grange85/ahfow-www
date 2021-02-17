@@ -25,13 +25,12 @@ Firstly at a lovely book event in Walthamstow, London in June Damon & Naomi perf
 
 And then a couple of days later Dean played On Fire in full for the first time - and you can't do that without playing Another Day. He did a couple more On Fire shows over the summer. Here he is performing Another Day in San Francisco in July with Britta on vocals.
 
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/2019-07-25-dean-wareham-san-francisco-another-day.mp3">Dean & Britta - Another Day (Galaxie 500 cover)</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/2019-07-25-dean-wareham-san-francisco-another-day.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="/database/dean-and-britta/shows/2019/2019-07-25-dean-wareham-the-chapel-san-francisco-ca-usa/">
-25th July 2019 - Dean Wareham - The Chapel, San Francisco, CA, USA
-</a></em></p>
-</div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/2019-07-25-dean-wareham-san-francisco-another-day.mp3",
+  "audiocap": "Dean & Britta - Another Day (Galaxie 500 cover)",
+  "sourceurl": "/database/dean-and-britta/shows/2019/2019-07-25-dean-wareham-the-chapel-san-francisco-ca-usa/",
+  "sourcecap": "25th July 2019 - Dean Wareham - The Chapel, San Francisco, CA, USA"
+  } %}
 
 ---
 

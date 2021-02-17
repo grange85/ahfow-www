@@ -45,4 +45,4 @@ longpost: true
 
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+

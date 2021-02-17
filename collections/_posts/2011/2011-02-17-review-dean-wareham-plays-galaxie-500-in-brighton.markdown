@@ -21,7 +21,7 @@ A UK tour without including London... that's not only ridiculous but put me in a
 
 We arrived in Brighton early and headed off to the Komedia to see if we could catch Dean & Britta soundchecking. We arrived and slipped in. I introduced my dad to the band (and being my dad he instantly became more comfortable with them than I ever could). I still can't quite get over the weirdness that I am able to do that... go to a soundcheck... with my dad - ok the last bit might seem a bit sad but... go to a soundcheck!
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/5454352150/" title="Soundcheck: Dean &amp; Britta"><img src="https://live.staticflickr.com/5059/5454352150_f66a886cac_c.jpg" width="800" height="600" alt="Soundcheck: Dean &amp; Britta"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/5454352150/" title="Soundcheck: Dean &amp; Britta"><img src="https://live.staticflickr.com/5059/5454352150_f66a886cac_c.jpg" width="800" height="600" alt="Soundcheck: Dean &amp; Britta"></a>
 
 Soundcheck over, dad scrounged a beer, told Britta her hat looked silly and told Dean about seeing Bill Haley and the Comets... I stood by, quiet and uncomfortable!
 
@@ -30,7 +30,7 @@ After a bite to eat it was show time... first up <a href="http://www.echolakeban
 
 Next were Ringo Deathstarr, I'd been warned to expect volume from a number of sources (notably in <a href="http://follyfollyfolly.blogspot.com/2011/02/dean-wareham-plays-galaxie-500-ruby.html">Folly of Youth's review of the Manchester show</a>). They were loud, lots of loud, but somehow their loud managed better with the venue than that of Echo Lake... but after just 3 or 4 songs (and less then 30 mins) they were done. I could have done with more (although not at the expense of the headliners!).
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/5453741035/" title="Dean"><img src="https://live.staticflickr.com/5134/5453741035_4e345b1e64_c.jpg" width="800" height="600" alt="Dean"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/5453741035/" title="Dean"><img src="https://live.staticflickr.com/5134/5453741035_4e345b1e64_c.jpg" width="800" height="600" alt="Dean"></a>
 
 Dean, Britta and Jason took to the stage, the sound wasn't great, I think it would have been better from further back but I decided to see the band and so stood at the front. A great set, very little between song banter from Dean, and a smallish but very enthusiastic crowd (my dad guesstimated about 300). No surprises in the set list. High point in a set of highs was Don't Let Our Youth Go to Waste. Finished with a blissful Ceremony and another show was over.
 
@@ -40,4 +40,4 @@ Chatted briefly with Dean & Britta after the show - Dean asked whether I preferr
 
 Thankfully the careless neglect of London on this tour will be rectified by a show at XOYO on Easter Sunday - can't wait.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/albums/72157625950504515" title="Dean Wareham plays Galaxie 500 @ The Komedia, Brighton"><img src="https://live.staticflickr.com/5093/5453742791_8b8363082a_b.jpg" width="768" height="1024" alt="Dean Wareham plays Galaxie 500 @ The Komedia, Brighton"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/albums/72157625950504515" title="Dean Wareham plays Galaxie 500 @ The Komedia, Brighton"><img src="https://live.staticflickr.com/5093/5453742791_8b8363082a_b.jpg" width="768" height="1024" alt="Dean Wareham plays Galaxie 500 @ The Komedia, Brighton"></a>

@@ -18,7 +18,7 @@ categories:
 tags:
  - xmas countdown 2017
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/7465394756/in/photolist-cMkars-cnG6LG-dDX875" title="Luna  - Time/Egg Nog"><img src="https://farm8.staticflickr.com/7252/7465394756_e58b7fdbdb_c.jpg" width="800" height="600" alt="Luna  - Time/Egg Nog"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/7465394756/in/photolist-cMkars-cnG6LG-dDX875" title="Luna  - Time/Egg Nog"><img src="https://farm8.staticflickr.com/7252/7465394756_e58b7fdbdb_c.jpg" width="800" height="600" alt="Luna  - Time/Egg Nog"></a>
 
 <p class="lead"> I've never had an egg nog. To me Egg Nog is primarily a Luna tune, and secondarily some strange unknown seasonal beverage. This year I decided to make an egg nog! You can catch most of my egg-nogging as an Instagram story for the next 24 hours! Or just stay here, look at a couple of photos and listen to the aforementioned Luna gem.</p>
 
@@ -29,11 +29,12 @@ tags:
 <p>It's dead easy to make and is a beautiful, thick, creamy concoction and one ladleful has me feeling quite light-headed. Hazel's done her best to get through some but there's still a jug of it in the fridge!</p>
 
 
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/02-luna-egg-nog.mp3">Luna - Egg Nog</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/02-luna-egg-nog.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="/database/luna/releases/luna-time-egg-nog/">Luna - Egg Nog / Time (Elektra promo 1992)</a></em></p>
-</div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/02-luna-egg-nog.mp3",
+  "audiocap": "Luna - Egg Nog",
+  "sourceurl": "/database/luna/releases/luna-time-egg-nog/",
+  "sourcecap": "Luna - Egg Nog / Time "
+  } %}
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/lecT5XxPGIo" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Egg Nog</figcaption></figure>
 
 

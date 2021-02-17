@@ -48,6 +48,6 @@ longpost: true
 <p style="margin-top:8px;">&hellip; and here's another one of Bill Ellison's great pics - this one of Dean playing with Britta:</p>
 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/billellisonphotographer/26744101682/in/photolist-GKhvFq-FY5uXY-GKhvpy-FY5uSC-GKhvgs-GMBaKc-GKhv2Q-GMBasi-EEBFLn-Dek8VF-EaKEbF-DrwWX8-CxosCz-DqVKgP-Db7kNp-CucnJ8-BTsLhD-BNjasz-BgGjas-Beh5j6-BcbvN3-B9gFZr-AxB8Mz-AviwDT-AcnQav-BafZ36-AxB8v2-B9gFP6-AcnPEn-AxB8qn-B6Ydzd-B6Ydd1-AvivWv-AvigA7-AvigDd-BafYfV-BafYik-AGYRjd-AjU8oW-An5D6t-AihafE-A13cHE-zACBwY-zqoAPy-yuCFHK-z22b2j-zdE7Jm-yhEUhw-yhEUnm-yXbM26" title="britta-0054"><img src="https://farm8.staticflickr.com/7704/26744101682_8ce1550a82_b.jpg" width="1024" height="684" alt="britta-0054"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/billellisonphotographer/26744101682/in/photolist-GKhvFq-FY5uXY-GKhvpy-FY5uSC-GKhvgs-GMBaKc-GKhv2Q-GMBasi-EEBFLn-Dek8VF-EaKEbF-DrwWX8-CxosCz-DqVKgP-Db7kNp-CucnJ8-BTsLhD-BNjasz-BgGjas-Beh5j6-BcbvN3-B9gFZr-AxB8Mz-AviwDT-AcnQav-BafZ36-AxB8v2-B9gFP6-AcnPEn-AxB8qn-B6Ydzd-B6Ydd1-AvivWv-AvigA7-AvigDd-BafYfV-BafYik-AGYRjd-AjU8oW-An5D6t-AihafE-A13cHE-zACBwY-zqoAPy-yuCFHK-z22b2j-zdE7Jm-yhEUhw-yhEUnm-yXbM26" title="britta-0054"><img src="https://farm8.staticflickr.com/7704/26744101682_8ce1550a82_b.jpg" width="1024" height="684" alt="britta-0054"></a>
 
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>

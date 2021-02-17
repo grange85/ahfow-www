@@ -41,7 +41,7 @@ A couple of other folk arrived and Damon's talk turned into the six of us chatti
 I cycled home - in beautiful evening sunshine.
 
 ## Day two
-<div class="col-md-6 float-right"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48026756647" title="Damon Krukowski"><img src="https://live.staticflickr.com/65535/48026756647_3156673f79.jpg" width="500" height="499" alt="Damon Krukowski"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
+<div class="col-md-6 float-right"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48026756647" title="Damon Krukowski"><img src="https://live.staticflickr.com/65535/48026756647_3156673f79.jpg" width="500" height="499" alt="Damon Krukowski"></a></div>
 Wednesday the weather was better so I took the opportunity to bunk off work and head out east early. The reservoirs between Tottenham and Walthamstow have recently been smartened up and branded the Walthamstow Wetlands and I thought it was time to pay them a visit. I was hoping to convince some other fans to join me but sadly no luck so i had a lovely walk on my own before getting on a bus and heading off to the pre-show meeting venue.
 
 The pre-show meet was also just me.

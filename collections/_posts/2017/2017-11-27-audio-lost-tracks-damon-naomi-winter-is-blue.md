@@ -23,12 +23,13 @@ tags:
 
 <p>Written in the mid-60s and first seeing the light in the film (and on the soundtrack LP) <a href="https://en.wikipedia.org/wiki/Tonite_Lets_All_Make_Love_in_London">Tonite Lets All Make Love in London</a>, before pretty much vanishing for the rest of the 20th century &hellip; as did Vashti.</p>
 
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-naomi-2005-06-23-tokyo-japan-winter-is-blue.mp3">Damon & Naomi - Winter is Blue (Tokyo, 2005)</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-naomi-2005-06-23-tokyo-japan-winter-is-blue.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="/database/damon-and-naomi/shows/2005/2005-06-23-damon-naomi-nhk-livebeat-tokyo-japan/">23 June 2005 - Damon & Naomi - NHK Livebeat, Tokyo, Japan</a></em></p>
-</div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/damon-naomi-2005-06-23-tokyo-japan-winter-is-blue.mp3",
+  "audiocap": "Damon & Naomi - Winter is Blue (Tokyo, 2005)",
+  "sourceurl": "/database/damon-and-naomi/shows/2005/2005-06-23-damon-naomi-nhk-livebeat-tokyo-japan/",
+  "sourcecap": "23 June 2005 - Damon & Naomi - NHK Livebeat, Tokyo, Japan"
+  } %}
 Here's Vashti's original
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/0Q1ll_hTmsU" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Vashti Bunyan - Winter is Blue</figcaption></figure>
 
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+

@@ -57,7 +57,7 @@ description: >
             </div>
           </div>
 
-<figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/16976526044/in/album-72157647037102162/" title="Sitting by the river with a cloud of midges and sketching Strand on the Green"><img src="https://c5.staticflickr.com/9/8807/16976526044_ef821d312e_b.jpg" width="1024" height="768" alt="Sitting by the river with a cloud of midges and sketching Strand on the Green"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><figcaption>(Almost) my view while recording the podcast</figcaption>
+<figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/16976526044/in/album-72157647037102162/" title="Sitting by the river with a cloud of midges and sketching Strand on the Green"><img src="https://c5.staticflickr.com/9/8807/16976526044_ef821d312e_b.jpg" width="1024" height="768" alt="Sitting by the river with a cloud of midges and sketching Strand on the Green"></a><figcaption>(Almost) my view while recording the podcast</figcaption>
 </figure>
 
 

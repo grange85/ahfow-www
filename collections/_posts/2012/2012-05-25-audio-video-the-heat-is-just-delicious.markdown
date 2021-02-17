@@ -20,7 +20,7 @@ categories:
 - audio
 tags: []
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/7255134114/" title="Tree, BC, sky"><img src="https://live.staticflickr.com/7215/7255134114_021e815e1e_c.jpg" width="800" height="600" alt="Tree, BC, sky"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/7255134114/" title="Tree, BC, sky"><img src="https://live.staticflickr.com/7215/7255134114_021e815e1e_c.jpg" width="800" height="600" alt="Tree, BC, sky"></a>
 
 It takes only the tiniest flurry of snow to have me digging out 'Snowstorm' or 'Listen, the Snow Is Falling' so it seems only fair that after three of four lovely days in London that I should dig out some appropriately sunny songs, so...
 
@@ -47,8 +47,9 @@ Guess I'll throw in a couple more while I'm fixing broken links
 
 {% ahfowvideo "mrOpkUxhntE" "Britta Phillips - One Fine Summer Morning" %}
 
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/luna-sucking-ice-cubes.mp3">Luna - Sucking Ice Cubes</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/luna-sucking-ice-cubes.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="/2008/09/24/mp3-lost-tracks-1-luna-sucking-ice-cubes/">Lost tracks #1 - Luna - Sucking Ice Cubes</a></em></p>
-</div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/luna-sucking-ice-cubes.mp3",
+  "audiocap": "Luna - Sucking Ice Cubes",
+  "sourceurl": "/2008/09/24/mp3-lost-tracks-1-luna-sucking-ice-cubes/",
+  "sourcecap": "Lost tracks #1 - Luna - Sucking Ice Cubes"
+  } %}

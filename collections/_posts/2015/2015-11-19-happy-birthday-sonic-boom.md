@@ -36,4 +36,4 @@ and finally&hellip;
 
 <p>Have a great birthday Pete from AHFoW</p>
 
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+

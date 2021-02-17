@@ -28,5 +28,5 @@ tags: []
 
 <p>Have a great day Sean ... and see you in October!</p>
 
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

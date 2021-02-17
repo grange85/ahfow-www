@@ -2,25 +2,25 @@ $(document).ready(function() {
 
 
 	/* fix old posts for bootstrap 4 */
-	var elem_img = $("article img");
-	if(!elem_img.hasClass('img-fluid')){
-	  elem_img.addClass('img-fluid');
-	 }
+	$("article img").each(function(index){
+		if(!$(this).hasClass('img-fluid')){
+		  $(this).addClass('img-fluid');
+		}
+	});
 
-	var elem_iframe = $("article iframe");
-	if(!elem_iframe.parent('figure').length){
-	  elem_iframe.wrap('<figure class="figure embed-responsive embed-responsive-16by9"></figure>');
-		if(!elem_iframe.hasClass('embed-responsive-item')){
-		  elem_iframe.addClass('embed-responsive-item');
+	$("article iframe").each(function(index){
+	if(!$(this).parent('figure').length){
+	  $(this).wrap('<figure class="figure embed-responsive embed-responsive-16by9"></figure>');
+		if(!$(this).hasClass('embed-responsive-item')){
+		  $(this).addClass('embed-responsive-item');
 		 }
 	 } else {
-	   if (!elem_iframe.parent().hasClass('figure')){
-	   	elem_iframe.parent().addClass('figure embed-responsive embed-responsive-16by9');
-	   	elem_iframe.addClass('embed-responsive-item');
+	   if (!$(this).parent().hasClass('figure')){
+	   	$(this).parent().addClass('figure embed-responsive embed-responsive-16by9');
+	   	$(this).addClass('embed-responsive-item');
 	   }
 	 }
-
-
+	});
 
 	$('article a[href^="http://"],article a[href^="https://"]')
     	.not('a:has(img)').not('article a[href*="fullofwishes\.co\.uk"]').not('.resp-sharing-button__link')

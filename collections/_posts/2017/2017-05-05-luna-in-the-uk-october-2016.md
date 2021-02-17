@@ -403,4 +403,4 @@ related:
 
 <p>A little later I get a text message from Ulrika. She is drinking wine with Luna in Paris.</p>
 
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+

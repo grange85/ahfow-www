@@ -19,7 +19,7 @@ categories:
 tags:
  - xmas countdown 2017
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/swedish_heritage_board/8252524688/" title="Karlavägen street in snow, Stockholm, Uppland, Sweden"><img src="https://farm9.staticflickr.com/8350/8252524688_96a02cb203_c.jpg" width="800" height="543" alt="Karlavägen street in snow, Stockholm, Uppland, Sweden"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/swedish_heritage_board/8252524688/" title="Karlavägen street in snow, Stockholm, Uppland, Sweden"><img src="https://farm9.staticflickr.com/8350/8252524688_96a02cb203_c.jpg" width="800" height="543" alt="Karlavägen street in snow, Stockholm, Uppland, Sweden"></a>
 <p class="lead">When I was growing up I shared a room with my brother. Every Christmas morning he'd wake up before me and, after he'd re-organised our stockings to ensure that he got all the good stuff, he'd stand by the window, wake me up, and convince me that it had been snowing. Being the foolish, gullible little brother, and being in a half-conscious state, I’d believe him - even when I knew it wasn’t true I’d convince myself to believe him.</p>
 
 <p>The dream of going to bed on a clear Christmas Eve and waking on Christmas morning to find the world covered in a fresh blanket of snow is one I’ve had every year for as long as I can remember. Sadly, being London, while I’ve been dreaming of a white Christmas I’ve been invariably delivered a wet one. Maybe this time&hellip;</p>
@@ -39,10 +39,11 @@ tags:
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3510813574/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3152425973/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/copenhagen-live">Copenhagen (live) by Galaxie 500</a></iframe>
 
 <p>And here's Sean Eden's Snow Drive from Tell Me Do You Miss Me&hellip;</p>
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/tmdymm/11-sean-eden-snow-drive.mp3">Snow Drive - Sean Eden</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/tmdymm/11-sean-eden-snow-drive.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="https://www.facebook.com/Tell-Me-Do-You-Miss-Me-a-film-about-LUNA-by-Matthew-Buzzell-122077917842911/">Tell Me Do You Miss Me</a></em></p>
-</div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/tmdymm/11-sean-eden-snow-drive.mp3",
+  "audiocap": "Snow Drive - Sean Eden",
+  "sourceurl": "https://www.facebook.com/Tell-Me-Do-You-Miss-Me-a-film-about-LUNA-by-Matthew-Buzzell-122077917842911/",
+  "sourcecap": "Tell Me Do You Miss Me"
+  } %}
 
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/EL7skeHiw7c" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Snowstorm (SNUB TV)</figcaption></figure>

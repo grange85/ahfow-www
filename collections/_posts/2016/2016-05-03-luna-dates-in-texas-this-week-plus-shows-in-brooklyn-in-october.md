@@ -120,7 +120,7 @@ tags: [lunareunion]
 
 
 <p>See <a href="/database/luna/shows/">all upcoming Luna dates</a> here.</p>
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 
 
 

@@ -19,7 +19,7 @@ tags:
  - la venganza de cheetara
  - cover versions
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/peterscherub/23916016321/" title="All the fun of the fair 2"><img src="https://c2.staticflickr.com/6/5692/23916016321_baafb949bd_b.jpg" width="1024" height="683" alt="All the fun of the fair 2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/peterscherub/23916016321/" title="All the fun of the fair 2"><img src="https://c2.staticflickr.com/6/5692/23916016321_baafb949bd_b.jpg" width="1024" height="683" alt="All the fun of the fair 2"></a>
 
 <p>To be honest I only came across La venganza de Cheetara a couple of weeks ago. I know very little about them - here's all of that: They're from Argentina, they're a trio, that's it.</p>
 

@@ -71,4 +71,4 @@ We were then treated to an <em>epilogue</em> of covers - firstly a blissful {% a
 
 We said our goodbyes and slipped quietly into the Berlin night.
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/wzE-qoNw_7E" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Damon & Naomi - No More Sad Refrains (Sandy Denny cover)</figcaption></figure>
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+

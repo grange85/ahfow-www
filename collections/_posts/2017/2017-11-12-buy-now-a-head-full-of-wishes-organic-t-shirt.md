@@ -60,4 +60,3 @@ longpost: true
 <figure class="caption aligncenter">
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/36264426794/in/dateposted/" title="The last #everythingsswirling fanzines were posted out this morning, all come with one of these "earring" badges (a few come with both). #galaxie500 #badges"><img src="https://farm5.staticflickr.com/4354/36264426794_138d2cf001_c.jpg" width="800" height="800" alt="The last #everythingsswirling fanzines were posted out this morning, all come with one of these "earring" badges (a few come with both). #galaxie500 #badges"></a><figcaption>Badges</figcaption></figure>
 
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

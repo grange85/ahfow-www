@@ -30,11 +30,12 @@ To be honest I'm not too sure how this came into my possession, the stickers sug
 
 Anyway... I have a copy!
 
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/01-luna-going-home-demo.mp3">Luna - Going Home (demo)</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/01-luna-going-home-demo.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="/database/luna/releases/luna-the-bob-48/">Various artists - The Bob Magazine No. 48</a></em></p>
-</div>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/01-luna-going-home-demo.mp3",
+  "audiocap": "Luna - Going Home (demo)",
+  "sourceurl": "/database/luna/releases/luna-the-bob-48/",
+  "sourcecap": "Various artists - The Bob Magazine No. 48"
+  } %}
 
 ---
 

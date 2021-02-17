@@ -14,7 +14,7 @@ categories:
  - audio
 tags: []
 ---
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/johnmcnicholas/21903168035/in/photolist-z5SXCf-zokHZD-zkc7Vu-yqBAPc-znvsLc-z5SDQw-z5U5g1-yqtvJQ-z5StUj-zom47g-yqsXYW-zmqNnu-z8bJgB-8DzH3-qJhSpY" title="Luna"><img src="https://farm6.staticflickr.com/5711/21903168035_b8309f1a78_b.jpg" width="1024" height="683" alt="Luna"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/johnmcnicholas/21903168035/in/photolist-z5SXCf-zokHZD-zkc7Vu-yqBAPc-znvsLc-z5SDQw-z5U5g1-yqtvJQ-z5StUj-zom47g-yqsXYW-zmqNnu-z8bJgB-8DzH3-qJhSpY" title="Luna"><img src="https://farm6.staticflickr.com/5711/21903168035_b8309f1a78_b.jpg" width="1024" height="683" alt="Luna"></a>
 <p class="lead">NYCTaper has just shared Kubacheck's recording of the first night of Luna's US tour which saw them playing Penthouse in its entirety (and then some more gems).</p>
 
 <p><a href="http://www.nyctaper.com/2015/10/luna-october-2-2015-terminal-west-atlanta/">Luna: October 2, 2015 Terminal West Atlanta – Flac/MP3/Streaming</a></p>

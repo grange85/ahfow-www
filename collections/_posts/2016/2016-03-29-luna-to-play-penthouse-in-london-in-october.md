@@ -23,4 +23,4 @@ tags: []
 
 <figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/20198699071/in/photolist-wtLQiy-wKEHPu-wKEHrW-wJ51sj-wtLHES-wKEGX9-vPnmBQ-wtU8XM-vPvTVp-wtLHwf-wJ528C-wtLHko-wJ51K3-wJ51N9-wLozAe-wLTBwg-wtLGQA-wtU8Ci-wtU8FK-wLozqK/" title="Luna"><img src="https://farm1.staticflickr.com/437/20198699071_618ce94b2c_b.jpg" width="1024" height="768" alt="Luna"></a><figcaption>Britta Phillips with Luna in London in 2015</figcaption></figure>
 
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+

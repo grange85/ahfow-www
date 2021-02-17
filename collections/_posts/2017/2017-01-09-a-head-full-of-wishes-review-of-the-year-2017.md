@@ -45,11 +45,12 @@ longpost: true
 <p><a href="https://daily.bandcamp.com/2016/06/24/galaxie-500-interview/">Damon pondered Galaxie 500's On Fire</a> in a lovely interview with bandcamp daily.</p>
 <blockquote>We were happy—very happy, as I remember—with that sound. That’s why we titled the album the way we did. It was self-deprecating, in part, because we knew we sounded wimpy compared to the rock ideal of the time. But to ourselves, we really were on fire, because what we heard back was a record we would like.</blockquote>
 <p>I sat by the river and <a href="/2016/06/01/the-first-ahfow-podcast-how-does-luna-make-you-feel/">wittered to myself about A Head Full of Wishes and released it as the first AHFoW podcast</a> - ten minutes of me gushing! The second podcast a few weeks later was quite boring so there's not been a third one&hellip; yet!</p>
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/ahfow-podcast-1-how-does-luna-make-you-feel.mp3">The First AHFoW podcast</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/ahfow-podcast-1-how-does-luna-make-you-feel.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="/2016/06/01/the-first-ahfow-podcast-how-does-luna-make-you-feel/">How does LUNA make you feel?</a></em></p>
-</div><h2>July</h2>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/ahfow-podcast-1-how-does-luna-make-you-feel.mp3",
+  "audiocap": "The First AHFoW podcast",
+  "sourceurl": "/2016/06/01/the-first-ahfow-podcast-how-does-luna-make-you-feel/",
+  "sourcecap": "How does LUNA make you feel?"
+  } %}<h2>July</h2>
 <p>US Ambassador to the United Kingdom <a href="/2016/07/03/galaxie-500-chosen-as-one-of-matthew-barzun-desert-island-discs/">Matthew Barzun picked Galaxie 500's Ceremony as one of his Desert Island Discs</a> on the long-running BBC radio program.</p>
 <p>We lost both Alan Vega of Suicide and Warhol collaborator Billy Name.</p>
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/BRJWjIVLaOk" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna cover Suicide's Dream Baby Dream</figcaption></figure>
@@ -64,11 +65,12 @@ longpost: true
 <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/9FVg_jppB5A" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">MV and EE - Feel Alright (dir: Naomi Yang)</figcaption></figure>
 <h2>October</h2>
 <p>Video of Luna covering Mot&ouml;rhead appeared on A.V. Club Undercover - and rocked my world! For some reason this hasn't found its way to YouTube - <a href="http://www.avclub.com/video/luna-covers-motorheads-killed-death-243640">you might be able to see it on the A.V. Club</a> (I can't!) - luckily enough I have an mp3 grabbed from when I could access it!</p>
-<div class="well">
-  <p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/02-luna/audio/01-luna-killed-by-death.mp3">Luna - Killed by Death (Mot&ouml;rhead cover)</a></p>
-  <audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/02-luna/audio/01-luna-killed-by-death.mp3"></audio>
-  <p class="source small text-right"><em>Source: <a href="/2016/10/04/luna-cover-motorheads-killed-by-death/">Luna covers Mot&ouml;rhead’s “Killed By Death”</a></em></p>
-</div><p>Luna also crossed the pond for dates in the UK, Belgium and France.</p>
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/01-luna-killed-by-death.mp3",
+  "audiocap": "Luna - Killed by Death (Mot&ouml;rhead cover)",
+  "sourceurl": "/2016/10/04/luna-cover-motorheads-killed-by-death/",
+  "sourcecap": "Luna covers Mot&ouml;rhead’s “Killed By Death”"
+  } %}<p>Luna also crossed the pond for dates in the UK, Belgium and France.</p>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/29592462313/in/album-72157671522191684/" title="Luna on stage at Butlins, Bognor Regis"><img src="https://c2.staticflickr.com/6/5803/29592462313_05a4a4152d_c.jpg" width="800" height="600" alt="Luna on stage at Butlins, Bognor Regis"></a>
 
 <h2>November</h2>
@@ -86,4 +88,4 @@ longpost: true
 <p>It's been a blast - thank you all so much!</p>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/30179539435/" title="Loitering in the fans room backstage at the o2 Academy"><img src="https://c4.staticflickr.com/6/5676/30179539435_f0e7564aaa_c.jpg" width="800" height="800" alt="Loitering in the fans room backstage at the o2 Academy"></a>
 
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
