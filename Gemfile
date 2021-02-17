@@ -3,8 +3,7 @@ gem "jekyll", "~> 4.2.0"
 #gem 'kramdown', '>=2.3.0'
 #gem 'kramdown-parser-gfm', '>=1.0.1'
 gem 'webrick', '~> 1.3', '>= 1.3.1'
-gem 'bootstrap', '~> 4.0'
-
+gem 'bootstrap', '~> 4.6'
 
 group :jekyll_plugins do
   gem 'jekyll-feed', '~> 0.12.1'

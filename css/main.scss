@@ -8,6 +8,7 @@
 
 $grid-float-breakpoint: 992px;
 
-@import "bootstrap/bootstrap";
+@import "custom/variables";
+@import "../vendor/bundle/ruby/3.0.0/gems/bootstrap-4.6.0/assets/stylesheets/bootstrap";
 @import "custom/base";
 

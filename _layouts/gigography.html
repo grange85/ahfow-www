@@ -32,22 +32,25 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-12">
+
+
+				<div class="col">
 					<nav>
 						<h3 id="upcoming">Archive of {{artist.name}} shows</h3>
-						<ul class="list-inline">
+						<ul class="list-group list-group-horizontal">
 						{% for year in artist.yearsactive %}
-							<li role="presentation"><a href="/database/{{artist.slug}}/shows/{{year}}/" class="list-group-item
-							{% if year == page.year %}
-								active
-							{% endif %}
-						">{{year | append: ""}}</a></li>
+							<li class="list-group-item {% if year == page.year %}disabled{% endif %}"><a href="/database/{{artist.slug}}/shows/{{year}}/">{{year}}</a></li>
 						{% endfor %}
 						</ul>
 					</nav>
-					<div class="alert alert-warning" role="alert">{% icon fa-exclamation-triangle %} The lists of shows are far from complete! If you know of any that are missing <a href="mailto:andy@fullofwishes.co.uk">please get in touch</a>.</div>
+					<div class="alert alert-warning" role="alert">{% icon bi-alert-triangle %} The lists of shows are far from complete! If you know of any that are missing <a href="mailto:andy@fullofwishes.co.uk">please get in touch</a>.</div>
 				</div>
+
+
 			</div>
+
+
+
 			{% case artist.slug %}
 				{% when 'galaxie-500' %}
 					{% assign shows = site.galaxie-500-shows | where: "category", page.year %}

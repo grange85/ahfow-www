@@ -1,44 +1,28 @@
-<!DOCTYPE html>
-<html>
+---
+layout: default
+---
 	{% if page.artistslug %}{% assign artist = site.data.artists[page.artistslug] %}{% endif %}
 	{% if page.description %}{% assign description = page.description %}{% endif %}
 	{% assign newtitle = page.title %}
-	{% include head.html %}
-<body>
-	{% include tagmanager.html %}
-	{% include header.html %}
-	{% include social.html %}
-	<div class="container">
-		<div class="row">
-			<div class="wrapper col-md-9">
-				{% if page.position != 'home' %}
-				<div class="row">
-					<div class="col-md-12">
-						<nav>
-							<ul class="breadcrumb">
-								<li><a href="/">Home</a></li>
-								<li><a href="/database/">Database</a></li>
 
-								<li>{{page.title}}</li>
-							</ul>
-						</nav>
-					</div>
-				</div>
-				{% endif %}
+
+<!-- include breadcrumb magic here -->
+
+
 				{% if page.categories == "primary" %}
 				<div class="row">
-					<div class="col-md-12">
+					<div class="col">
 						<img class="centre-block img-responsive" src="{{artist.image}}" alt="{{artist.name}} picture" />
-							<ul class="list-unstyled">
+							<div class="list-group">
 							{% if artist.slug == "dean-and-britta" %}
-								<li><a class="btn btn-primary" href="/database/dean-and-britta/dean-and-britta-releases/" >Dean & Britta discography</a></li>
-								<li><a class="btn btn-primary" href="/database/dean-and-britta/dean-wareham-releases/" >Dean Wareham discography</a></li>
-								<li><a class="btn btn-primary" href="/database/dean-and-britta/britta-phillips-releases/" >Britta Phillips discography</a></li>
+								<a class="list-group-item list-group-item-action" href="/database/dean-and-britta/dean-and-britta-releases/" >Dean & Britta discography</a>
+								<a class="list-group-item list-group-item-action" href="/database/dean-and-britta/dean-wareham-releases/" >Dean Wareham discography</a>
+								<a class="list-group-item list-group-item-action" href="/database/dean-and-britta/britta-phillips-releases/" >Britta Phillips discography</a>
 							{% else %}
-								<li><a class="btn btn-primary" href="/database/{{artist.slug}}/releases/" >{{artist.name}} discography</a></li>
+								<a class="list-group-item list-group-item-action" href="/database/{{artist.slug}}/releases/" >{{artist.name}} discography</a>
 							{% endif %}
-								<li><a class="btn btn-primary" href="/database/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/shows/" >{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %} shows</a></li>
-							</ul>
+								<a class="list-group-item list-group-item-action" href="/database/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/shows/" >{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %} shows</a>
+							</div>
 					</div>
 				</div>
 				{% endif %}
@@ -47,17 +31,3 @@
 				{{ content }}
 		
 
-				<div class="row">
-					<div class="col-md-12">
-						<div id="galleria-1"></div>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-3">
-				{% include sidebar.html %}
-			</div>
-		</div>
-	</div>
-	{% include footer.html %}
-</body>
-</html>

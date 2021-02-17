@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/sverrirs/jekyll-paginate-v2.git
-  revision: 86ce3f5712de4cb854538e8c883f8a0fc2b5806f
+  revision: 8f60f157236338b875980a459535565890fdb768
   specs:
     jekyll-paginate-v2 (3.0.0)
       jekyll (>= 3.0, < 5.0)
@@ -149,7 +149,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  bootstrap (~> 4.0)
+  bootstrap (~> 4.6)
   jekyll (~> 4.2.0)
   jekyll-archives (~> 2.2, >= 2.2.1)
   jekyll-feed (~> 0.12.1)
