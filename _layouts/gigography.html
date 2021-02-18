@@ -25,7 +25,7 @@ layout: default
 				<div class="col">
 					<nav>
 						<h3 id="upcoming">Archive of {{artist.name}} shows</h3>
-						<div class="">
+						<div class="btn-group-sm">
 						{% for year in artist.yearsactive %}
 							<a class="btn btn-outline-primary {% if year == page.year %}disabled{% endif %}" href="/database/{{artist.slug}}/shows/{{year}}/">{{year}}</a>
 						{% endfor %}
