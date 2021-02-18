@@ -1,52 +1,38 @@
-<!DOCTYPE html>
-<html>
+---
+layout: default
+---
 	{% assign artist = site.data.artists[page.artistslug] %}
-{% if page.description %}{% assign description = page.description %}{% else %}
-	{% capture description %}Collection of all known shows played by {{artist.name}} {% if page.year %} in {{page.year}}{%else%}{% unless artist.slug=='galaxie-500' %} including any forthcoming shows{% endunless %}{% endif %}{% endcapture %}
-{% endif %}
-	{% capture newtitle %}{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %} shows{% endcapture %}
-	{% include head.html %}
-<body>
-	{% include tagmanager.html %}
-	{% include header.html %}
-	{% include social.html %}
-	<div class="container">
-		<div class="row">
-		<div class="wrapper col-md-9">
 			<div class="row">
 				<div class="col-md-12">
-					<nav>
-						<ul class="breadcrumb">
-							<li><a href="/">Home</a></li>
-							<li><a href="/database/">Database</a></li>
-
-							<li><a href="/database/{{artist.slug}}">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %}</a></li>
+					<nav aria-label="breadcrumb">
+						<ol class="breadcrumb">
+							<li class="breadcrumb-item"><a href="/">Home</a></li>
+							<li class="breadcrumb-item"><a href="/database/">Database</a></li>
+							<li class="breadcrumb-item"><a href="/database/{{artist.slug}}">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %}</a></li>
 							{% if page.year %}
-								<li><a href="/database/{{artist.slug}}/shows">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %} shows</a></li>
-								<li>{{page.year}}</li>
+							<li class="breadcrumb-item"><a href="/database/{{artist.slug}}/shows">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %} shows</a></li>
+							<li class="breadcrumb-item active">{{page.year}}</li>
 							{% else %}
-								<li>{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %} shows</li>
+							<li class="breadcrumb-item active">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %} shows</li>
 							{% endif %}
 						</ul>
 					</nav>
 				</div>
 			</div>
+
+
 			<div class="row">
-
-
 				<div class="col">
 					<nav>
 						<h3 id="upcoming">Archive of {{artist.name}} shows</h3>
-						<ul class="list-group list-group-horizontal">
+						<div class="">
 						{% for year in artist.yearsactive %}
-							<li class="list-group-item {% if year == page.year %}disabled{% endif %}"><a href="/database/{{artist.slug}}/shows/{{year}}/">{{year}}</a></li>
+							<a class="btn btn-outline-primary {% if year == page.year %}disabled{% endif %}" href="/database/{{artist.slug}}/shows/{{year}}/">{{year}}</a>
 						{% endfor %}
-						</ul>
+						</div>
 					</nav>
-					<div class="alert alert-warning" role="alert">{% icon bi-alert-triangle %} The lists of shows are far from complete! If you know of any that are missing <a href="mailto:andy@fullofwishes.co.uk">please get in touch</a>.</div>
+					<div class="alert alert-warning" role="alert"><i class="bi-alert-triangle"></i> The lists of shows are far from complete! If you know of any that are missing <a href="mailto:andy@fullofwishes.co.uk">please get in touch</a>.</div>
 				</div>
-
-
 			</div>
 
 
@@ -62,14 +48,15 @@
 					{% assign shows = site.dean-and-britta-shows | where: "category", page.year %}
 			{% endcase %}
 			<div class="row">
-				<div class="col-md-12">
+				<div class="col">
 					{% if page.section == 'topindex' %}
 						{% if artist.slug != 'galaxie-500' %}
-							{% include upcoming.html artistslug= artist.slug %}
+							{% include upcoming.html artistslug = artist.slug %}
 						{% endif %}
 				{% else %}
 					{% if shows %}
 						<h3>{{ artist.name }} shows in {{ page.year }}</h3>
+
 						<div class="alert alert-info" role="alert">{% icon fa-key %} Key : {% icon fa-list %} = Setlist, {% icon fa-portrait %} = Poster, {% icon fa-camera-retro %} = Photos, {% icon fa-download %} = show available for download, {% icon fa-external-link-square-alt %} = links to reviews etc.</div>
 						<table class="table table-striped">
 						{% for show in shows %}
@@ -88,12 +75,12 @@
           {% if show.show-series %}<span class="label label-primary">{{ show.show-series }}</span>{% endif %}
 							</td>
 							<td class="col-md-2">{% if show.show-setlist.size > 0 %}
-								<span class="icon" title="setlist">{% icon fa-list %}</span>{% endif %}{% if show.show-poster-url %}
-								<span class="icon" title="poster">{% icon fa-portrait %}</span>{% endif %}{% if show.photos %}
-								<span class="icon" title="pictures">{% icon fa-camera-retro %}</span>{% endif %}{% if show.videos %}
-								<span class="icon" title="videos">{% icon fa-video-camera %}</span>{% endif %}{% if show.show-download %}
-								<span class="icon" title="show available for download">{% icon fa-download %}</span>{% endif %}{% if show.links %}
-								<span class="icon" title="links to reviews and other content">{% icon fa-external-link-square-alt %}</span>{% endif %}
+								<span class="icon" title="setlist"><i class="bi bi-card-list"></i></span>{% endif %}{% if show.show-poster-url %}
+								<span class="icon" title="poster"><i class="bi bi-card-image"></i></span>{% endif %}{% if show.photos %}
+								<span class="icon" title="pictures"><i class="bi bi-camera"></i></span>{% endif %}{% if show.videos %}
+								<span class="icon" title="videos"><i class="bi bi-camera-reels"></i></span>{% endif %}{% if show.show-download %}
+								<span class="icon" title="show available for download"><i class="bi bi-download"></i></span>{% endif %}{% if show.links %}
+								<span class="icon" title="links to reviews and other content"><i class="bi bi-link"></i></span>{% endif %}
 							</td>
 						</tr>
 						{% endunless %}
@@ -101,14 +88,5 @@
 						</table>
 					{% endif %}
 				{% endif %}
-</div>		
+				</div>		
 			</div>
-		</div>
-		<div class="col-md-3">
-			{% include sidebar.html %}
-		</div>
-	</div>
-</div>
-	{% include footer.html %}
-</body>
-</html>

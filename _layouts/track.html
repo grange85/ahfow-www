@@ -76,16 +76,6 @@
 
 
 				{% if page.videos %}
-				{% assign count = 0 %}
-				<div class="row">
-					<div class="col-md-12">
-						<h3>Video</h3>
-						{% for gallery in page.videos %}
-							{% assign count = count | plus: 1 %}
-							<div class="galleria" id="galleria-{{count}}"></div>
-						{% endfor %}
-					</div>
-				</div>
 				{% endif %}
 
 
