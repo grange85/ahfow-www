@@ -1,88 +1,73 @@
-<!DOCTYPE html>
-<html>
+---
+layout: default
+---
 	{% assign artist = site.data.artists[page.artistslug] %}
 	{% if page.description %}{% assign description = page.description %}{% else %}
 	{% capture description %}Comprehensive list of {{artist.name}} releases with sleeve scans.{% endcapture %}
 	{% endif %}
 	{% capture newtitle %}{{page.title}} {% if page.year %} {{page.year}}{% endif %}{% endcapture %}
 	{% include head.html %}
-<body>
-	{% include tagmanager.html %}
-	{% include header.html %}
-	{% include social.html %}
-	<div class="container">
-		<div class="row">
-		<div class="wrapper col-md-9">
-			<div class="row">
-				<div class="col-md-12">
-					<nav>
-						<ul class="breadcrumb">
-							<li><a href="/">Home</a></li>
-							<li><a href="/database/">Database</a></li>
+	{% case artist.slug %}
+		{% when 'galaxie-500' %}
+			{% assign releases = site.galaxie-500-releases | group_by: "section" %}
+		{% when 'luna' %}
+			{% assign releases = site.luna-releases | group_by: "section" %}
+		{% when 'damon-and-naomi' %}
+			{% assign releases = site.damon-and-naomi-releases | group_by: "section" %}
+		{% when 'dean-and-britta' %}
+			{% assign releases = site.dean-and-britta-releases | group_by: "section" %}
+		{% when 'dean-wareham' %}
+			{% assign releases = site.dean-wareham-releases | group_by: "section" %}
+		{% when 'britta-phillips' %}
+			{% assign releases = site.britta-phillips-releases | group_by: "section" %}
+	{% endcase %}
+	{% assign releases = releases %}
 
-							<li><a href="/database/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %}</a></li>
-							<li>{{artist.name}} discography</li>
-						</ul>
+
+
+
+
+			<div class="row">
+				<div class="col">
+					<nav aria-label="breadcrumb">
+						<ol class="breadcrumb">
+							<li class="breadcrumb-item"><a href="/">Home</a></li>
+							<li class="breadcrumb-item"><a href="/database/">Database</a></li>
+
+							<li class="breadcrumb-item"><a href="/database/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %}</a></li>
+							<li class="breadcrumb-item active">{{artist.name}} discography</li>
+						</ol>
 					</nav>
 				</div>
 			</div>
-			<div class="row">
-				<div class="col-md-12">
-					{% case artist.slug %}
-						{% when 'galaxie-500' %}
-							{% assign releases = site.galaxie-500-releases | group_by: "section" %}
-						{% when 'luna' %}
-							{% assign releases = site.luna-releases | group_by: "section" %}
-						{% when 'damon-and-naomi' %}
-							{% assign releases = site.damon-and-naomi-releases | group_by: "section" %}
-						{% when 'dean-and-britta' %}
-							{% assign releases = site.dean-and-britta-releases | group_by: "section" %}
-						{% when 'dean-wareham' %}
-							{% assign releases = site.dean-wareham-releases | group_by: "section" %}
-						{% when 'britta-phillips' %}
-							{% assign releases = site.britta-phillips-releases | group_by: "section" %}
-					{% endcase %}
 
-				{% assign releases = releases %}
+
+
 				{% for section in releases %}
-					{% assign status = '' %}
-					{% assign section_name = section.name | split: "-" | last | capitalize%}
-					<h2>{{section_name}}</h2>
+					{% assign section_name = section.name | split: "-" | last | capitalize %}
+			<div class="row">
+				<div class="col">
+					<h2 class="bg-info p3">{{section_name}}</h2>
 					{% assign release_section = section.items | sort: 'initial_release_date' %}
-					<div class="row">
 					{% for release in release_section %}
-						{% capture status %}{% cycle section_name: 'odd', 'even' %}{% endcapture %}
-						<div class="col-md-6">
-							<div class="panel panel-default">
-								<div class="panel-heading">
-									<h4><a href="{{ release.url | prepend: site.baseurl }}">{{ release.albumname }}</a></h4>
-								</div>
-								<div class="panel-body text-center">
-									<a href="{{ release.url | prepend: site.baseurl }}">
-										{%  capture imagetest %}X{{release.imageurl}}{% endcapture %}
-										{% if imagetest == 'X' %}
-											<img src="https://media.fullofwishes.co.uk/00-misc/ahfow-web/sleeve-required-new.jpg" class="img-fluid" alt="no sleeve image available">
-										{% else %}
-											<img src="{{release.imageurl}}" class="img-fluid" alt="{{release.albumname}} sleeve image">
-										{% endif %}
-									</a>
-								</div>
+					{% capture status %}{% cycle section_name: 'odd', 'even' %}{% endcapture %}
+						<div class="card w-100 mb-3">
+							{% if release.imageurl == "" %}
+							<img class="card-img-top img-fluid" src="https://media.fullofwishes.co.uk/00-misc/ahfow-web/sleeve-required-new.jpg" alt="no sleeve image available">
+							{% else %}
+							<img class="card-img-top img-fluid" src="{{release.imageurl}}" alt="{{release.albumname}} sleeve image">
+							{% endif %}
+							<div class="card-header">
+								<h4><a href="{{ release.url | prepend: site.baseurl }}">{{ release.albumname }}</a></h4>
+							</div>
+							<div class="card-body">
+
+							</div>
+						  	<div class="card-footer text-muted text-right">
+	    						<a href="#top"><small>Back to top</small> <i class="bi bi-arrow-up-square"></i></a>
 							</div>
 						</div>
-						{% if status == 'even' %}
-							</div><div class="row">
-						{% endif %}
-					{% endfor %}  <!-- page-category -->
+					{% endfor %}  <!-- release -->
 				</div>
-			{% endfor %}
 			</div>
-		</div>
-		</div>
-		<div class="col-md-3">
-			{% include sidebar.html %}
-		</div>
-	</div>
-</div>
-	{% include footer.html %}
-</body>
-</html>
+			{% endfor %} <!-- section -->

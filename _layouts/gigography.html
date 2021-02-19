@@ -3,7 +3,7 @@ layout: default
 ---
 	{% assign artist = site.data.artists[page.artistslug] %}
 			<div class="row">
-				<div class="col-md-12">
+				<div class="col">
 					<nav aria-label="breadcrumb">
 						<ol class="breadcrumb">
 							<li class="breadcrumb-item"><a href="/">Home</a></li>
@@ -27,7 +27,7 @@ layout: default
 						<h3 id="upcoming">Archive of {{artist.name}} shows</h3>
 						<div class="btn-group-sm">
 						{% for year in artist.yearsactive %}
-							<a class="btn btn-outline-primary {% if year == page.year %}disabled{% endif %}" href="/database/{{artist.slug}}/shows/{{year}}/">{{year}}</a>
+							<a class="btn btn-outline-primary btn-lg {% if year == page.year %}disabled{% endif %}" href="/database/{{artist.slug}}/shows/{{year}}/">{{year}}</a>
 						{% endfor %}
 						</div>
 					</nav>
