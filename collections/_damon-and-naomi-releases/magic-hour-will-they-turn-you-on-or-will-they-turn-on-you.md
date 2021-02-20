@@ -2,7 +2,7 @@
 layout: release
 
 resource: discography
-section: 05-Magic Hour album
+section: 05-Magic Hour
 artistslug: damon-and-naomi
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magichour_willthey.jpg
 initial_release_date: 1995

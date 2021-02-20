@@ -2,7 +2,7 @@
 layout: release
 
 resource: discography
-section: 06-Magic Hour single
+section: 05-Magic Hour
 artistslug: damon-and-naomi
 imageurl: //media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magic-hour-after-tomorrow.jpg
 initial_release_date: 1994

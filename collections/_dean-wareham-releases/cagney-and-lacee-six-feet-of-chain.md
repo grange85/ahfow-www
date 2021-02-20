@@ -1,7 +1,9 @@
 ---
 layout: release
 resource: discography
-section: 04-Cagney & Lacee album
+section: 
+    name: 04-Cagney & Lacee
+    header: Cagney & Lacee
 artistslug: dean-wareham
 initial_release_date: 1997
 albumname: Six Feet of Chain

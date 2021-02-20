@@ -9,22 +9,19 @@ layout: default
 	{% include head.html %}
 	{% case artist.slug %}
 		{% when 'galaxie-500' %}
-			{% assign releases = site.galaxie-500-releases | group_by: "section" %}
+			{% assign releases = site.galaxie-500-releases | group_by: 'section' | sort: 'name' %}
 		{% when 'luna' %}
-			{% assign releases = site.luna-releases | group_by: "section" %}
+			{% assign releases = site.luna-releases | group_by: "section" | sort: 'name' %}
 		{% when 'damon-and-naomi' %}
-			{% assign releases = site.damon-and-naomi-releases | group_by: "section" %}
+			{% assign releases = site.damon-and-naomi-releases | group_by: "section" | sort: 'name' %}
 		{% when 'dean-and-britta' %}
-			{% assign releases = site.dean-and-britta-releases | group_by: "section" %}
+			{% assign releases = site.dean-and-britta-releases | group_by: "section" | sort: 'name' %}
 		{% when 'dean-wareham' %}
-			{% assign releases = site.dean-wareham-releases | group_by: "section" %}
+			{% assign releases = site.dean-wareham-releases | group_by: "section" | sort: 'name' %}
 		{% when 'britta-phillips' %}
-			{% assign releases = site.britta-phillips-releases | group_by: "section" %}
+			{% assign releases = site.britta-phillips-releases | group_by: "section" | sort: 'name' %}
 	{% endcase %}
 	{% assign releases = releases %}
-
-
-
 
 
 			<div class="row">
@@ -43,31 +40,53 @@ layout: default
 
 
 
+				<div class="row">
+					<div class="col">
+						<div class="dropdown">
+							<button class="btn btn-outline-secondary w-100 dropdown-toggle dropdown-toggle-split" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    							Contents
+							</button>
+							<div class="dropdown-menu w-100 text-center" aria-labelledby="dropdownMenuButton">	
 				{% for section in releases %}
-					{% assign section_name = section.name | split: "-" | last | capitalize %}
-			<div class="row">
-				<div class="col">
-					<h2 class="bg-info p3">{{section_name}}</h2>
+					<a href="#{{section.name}}" class="dropdown-item">{{section.name | split: "-" | last | capitalize | append: 's' }}</a>
+				{% endfor %}
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+
+
+				{% for section in releases %}
+					{% if section.header %}
+					{% assign section_name = section.header %}
+					{% else %}
+					{% assign section_name = section.name | split: '-' | last | capitalize | append: 's' %}
+					{% endif %}
+
+			<div class="row"><h2 class="w-100 bg-light p-3 rounded" id="{{section.name}}">{{section_name}}</h2></div>
+			<div class="row row-cols-xl-3 row-cols-lg-2 mb-3">
 					{% assign release_section = section.items | sort: 'initial_release_date' %}
 					{% for release in release_section %}
 					{% capture status %}{% cycle section_name: 'odd', 'even' %}{% endcapture %}
-						<div class="card w-100 mb-3">
+						<div class="col">
+						<div class="card mb-3 pb-1 h-100">
 							{% if release.imageurl == "" %}
 							<img class="card-img-top img-fluid" src="https://media.fullofwishes.co.uk/00-misc/ahfow-web/sleeve-required-new.jpg" alt="no sleeve image available">
 							{% else %}
 							<img class="card-img-top img-fluid" src="{{release.imageurl}}" alt="{{release.albumname}} sleeve image">
 							{% endif %}
-							<div class="card-header">
-								<h4><a href="{{ release.url | prepend: site.baseurl }}">{{ release.albumname }}</a></h4>
-							</div>
 							<div class="card-body">
-
-							</div>
-						  	<div class="card-footer text-muted text-right">
-	    						<a href="#top"><small>Back to top</small> <i class="bi bi-arrow-up-square"></i></a>
+								<h4><a href="{{ release.url | prepend: site.baseurl }}" class="stretched-link">{{ release.albumname }}</a></h4>
 							</div>
 						</div>
+					</div>
 					{% endfor %}  <!-- release -->
 				</div>
-			</div>
 			{% endfor %} <!-- section -->
+				<div class="row">
+					<div class="col">
+						<p class="text-muted text-right"><a href="#top"><small>Back to top</small> <i class="bi bi-arrow-up-square"></i></a></p>
+					</div>
+				</div>

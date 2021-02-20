@@ -1,7 +1,9 @@
 ---
 layout: release
 resource: discography
-section: 05-Cagney & Lacee singles
+section: 
+    name: 04-Cagney & Lacee
+    header: Cagney & Lacee
 artistslug: dean-wareham
 initial_release_date: 1995
 albumname: Time / By The Way (I Still Love You)
