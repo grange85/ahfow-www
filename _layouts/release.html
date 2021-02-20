@@ -15,7 +15,12 @@ layout: default
 	<div class="col-md-12">
 		<div class="card">
 			<div class="card-header">
-				Notes
+				<h2>{{page_title}}</h2>
+				<figure class="figure">
+					<img src="{{page.imageurl}}" class="img-fluid rounded mx-auto d-block" alt="{{releases.albumname}} sleeve image">
+				</figure>
+
+
 			</div>
 			<div class="card-body">
 				{% if page.notes %}
@@ -64,13 +69,6 @@ layout: default
 <div class="row">
 	<div class="col-md-12">
 		<div role="" class="card" id="{{ releases.version }}">
-
-			{%  capture imagetest %}X{{releases.imageurl}}{% endcapture %}
-			{% if imagetest != 'X' %}
-				<img src="{{releases.imageurl}}" class="img-fluid card-img-top" alt="{{releases.albumname}} sleeve image">
-			{% endif %}
-
-
 			<div class="card-header"><h3>{{ releases.label }} ({{ releases.year }})</h3></div>
 			<div class="card-body">
 				{% for group in releases.groups %}

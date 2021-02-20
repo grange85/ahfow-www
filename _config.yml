@@ -20,7 +20,7 @@ collections_dir: collections
 
 collections: 
   articles:
-    output: false
+    output: true
     permalink: /:collection/:name/
   tracks:
     output: true
