@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Coach House, San Juan Capistrano CA, USA'
 show-setlist: [

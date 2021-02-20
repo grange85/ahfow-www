@@ -1,5 +1,6 @@
 ---
 layout: release
+position: database-4
 resource: discography
 section: 02-single
 artistslug: britta-phillips

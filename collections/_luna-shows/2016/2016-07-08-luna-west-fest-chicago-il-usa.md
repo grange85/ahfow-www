@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'West Fest, Damen Avenue, Chicago, IL, USA'
 show-notes: ''

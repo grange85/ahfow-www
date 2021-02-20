@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: "Bogart's, Long Beach CA, USA"
 show-setlist:

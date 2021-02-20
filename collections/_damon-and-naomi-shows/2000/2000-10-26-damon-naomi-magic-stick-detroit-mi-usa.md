@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Magic Stick, Detroit MI, USA'
 show-setlist: 

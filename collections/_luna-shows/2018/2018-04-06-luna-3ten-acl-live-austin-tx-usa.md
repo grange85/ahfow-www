@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: '3Ten ACL Live, Austin, TX, USA'
 show-notes: ''

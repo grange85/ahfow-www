@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Empty Bottle, Chicago IL, USA'
 show-setlist: 

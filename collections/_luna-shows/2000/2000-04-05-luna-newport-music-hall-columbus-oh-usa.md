@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Newport Music Hall, Columbus OH, USA'
 show-setlist: 

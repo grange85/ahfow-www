@@ -3,6 +3,7 @@ layout: page-database
 title : Luna
 artistslug: luna
 categories: primary
+position: database-2
 description: All about the band Luna, including a full discography and a collection of shows with photos and other memorabilia
 photos:
   - type: ahfow-set

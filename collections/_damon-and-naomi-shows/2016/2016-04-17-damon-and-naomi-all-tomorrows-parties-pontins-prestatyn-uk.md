@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'All Tomorrows Parties 2.0, Pontins, Prestatyn, UK'
 show-setlist:

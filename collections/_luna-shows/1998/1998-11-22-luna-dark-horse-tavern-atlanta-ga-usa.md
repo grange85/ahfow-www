@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Dark Horse Tavern, Atlanta GA, USA'
 show-setlist: [

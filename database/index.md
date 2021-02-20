@@ -1,7 +1,7 @@
 ---
 layout: page-database
 title : Releases, shows and tracks
-position: home
+position: database-1
 ---
 <div class="row">
 {% for artistslugs in site.data.artists %}

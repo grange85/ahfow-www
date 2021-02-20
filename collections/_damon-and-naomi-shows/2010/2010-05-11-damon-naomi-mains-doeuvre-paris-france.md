@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: "Mains DOeuvre, Paris, France"
 show-setlist: 

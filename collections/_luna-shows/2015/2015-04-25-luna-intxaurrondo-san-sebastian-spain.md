@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Intxaurrondo, San Sebastián, Spain'
 show-setlist: [

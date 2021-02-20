@@ -3,6 +3,7 @@ layout: page-database
 title : Galaxie 500
 artistslug: galaxie-500
 categories: primary
+position: database-2
 description: All about the band Galaxie 500, including a full discography and a collection of shows with photos and other memorabilia
 photos:
   - type: ahfow-set

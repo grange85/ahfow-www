@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
 show-venue: '248 Front St, New York, NY, USA'
 show-setlist:

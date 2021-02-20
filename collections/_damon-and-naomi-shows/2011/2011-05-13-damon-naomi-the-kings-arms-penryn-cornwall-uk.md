@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: "The Kings Arms, Penryn, Cornwall, UK"
 show-setlist: 

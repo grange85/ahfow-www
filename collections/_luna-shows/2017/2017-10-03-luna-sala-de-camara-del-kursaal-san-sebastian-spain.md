@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Sala de Camara del Kursaal, San Sebastian, Spain'
 show-notes: ''

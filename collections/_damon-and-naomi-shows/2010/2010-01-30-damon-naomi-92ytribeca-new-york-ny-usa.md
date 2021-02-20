@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: '92YTribeca, New York, NY, USA'
 show-setlist: 

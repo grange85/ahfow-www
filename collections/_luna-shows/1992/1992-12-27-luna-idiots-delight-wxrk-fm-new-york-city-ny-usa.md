@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: "Idiots Delight, WXRK-FM, New York City NY, USA"
 show-setlist: [

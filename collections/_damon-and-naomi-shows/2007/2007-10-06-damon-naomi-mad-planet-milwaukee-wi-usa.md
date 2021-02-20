@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Mad Planet, Milwaukee WI, USA'
 show-setlist: 

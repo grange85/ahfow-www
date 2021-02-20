@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Sound Fix Records, Brooklyn, NY, USA'
 show-setlist: 

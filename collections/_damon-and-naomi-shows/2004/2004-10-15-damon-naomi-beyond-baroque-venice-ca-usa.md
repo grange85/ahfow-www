@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Beyond Baroque, Venice CA, USA'
 show-setlist: 

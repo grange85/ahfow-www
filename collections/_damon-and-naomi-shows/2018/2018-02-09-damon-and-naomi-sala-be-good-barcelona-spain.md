@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Sala Be Good, Barcelona, Spain'
 show-setlist:

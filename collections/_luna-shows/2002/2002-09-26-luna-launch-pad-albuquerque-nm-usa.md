@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Launch Pad, Albuquerque NM, USA'
 show-setlist: 

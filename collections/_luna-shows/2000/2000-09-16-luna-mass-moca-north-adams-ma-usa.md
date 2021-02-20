@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'MASS MOCA, North Adams MA, USA'
 show-setlist: 

@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
 show-venue: "Maxwell's, Hoboken, NJ, USA"
 show-setlist:

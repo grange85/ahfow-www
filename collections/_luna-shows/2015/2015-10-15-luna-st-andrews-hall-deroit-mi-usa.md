@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: "St Andrew's Hall, Deroit, MI, USA"
 show-setlist:

@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Amherst College, Amherst MA, USA'
 show-setlist: 

@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'The Magic Stick, Detroit, MI USA'
 show-notes: ''

@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
 show-venue: 'Schwimmbad, Heidelberg, Germany'
 show-date: 1989-11-29

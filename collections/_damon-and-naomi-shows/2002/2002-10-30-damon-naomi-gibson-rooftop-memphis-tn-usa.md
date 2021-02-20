@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Gibson Rooftop, Memphis TN, USA'
 show-setlist: 

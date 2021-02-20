@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Vassar College, Poughkeepsie, NY, USA'
 show-setlist:

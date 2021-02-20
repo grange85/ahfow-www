@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Granada Theater, Dallas, TX, USA'
 show-notes: ''

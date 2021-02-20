@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Bottom of the Hill, San Francosco, CA, USA'
 show-setlist: 

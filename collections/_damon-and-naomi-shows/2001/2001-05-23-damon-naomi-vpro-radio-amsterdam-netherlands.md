@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'VPRO radio, Amsterdam, Netherlands'
 show-setlist: 

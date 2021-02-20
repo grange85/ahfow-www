@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Gijon Sound Festival, Teatro Albéniz, Gijon, Spain'
 show-setlist: [

@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Kennel Club, San Francisco CA, USA'
 show-setlist: [

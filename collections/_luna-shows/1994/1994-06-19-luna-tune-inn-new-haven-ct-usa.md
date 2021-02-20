@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: ' Tune Inn, New Haven, CT, USA'
 show-setlist: 

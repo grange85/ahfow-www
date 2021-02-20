@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'The Toff in Town, Melbourne, Victoria, Australia'
 show-setlist: 

@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'White Noise Records, Hong Kong, China'
 show-setlist: [

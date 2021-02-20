@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Foellinger Auditorium, Champaign IL, USA'
 show-setlist: 

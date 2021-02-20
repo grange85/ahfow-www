@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Civic Auditorium, Portland OR, USA'
 show-setlist: 

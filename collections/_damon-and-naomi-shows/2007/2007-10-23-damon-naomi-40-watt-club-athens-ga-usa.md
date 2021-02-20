@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: '40 Watt Club, Athens GA, USA'
 show-setlist: 

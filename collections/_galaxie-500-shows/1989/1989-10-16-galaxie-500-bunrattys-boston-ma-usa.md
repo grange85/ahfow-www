@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
 show-venue: "Bunratty's, Boston, MA, USA"
 show-setlist:

@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Cube Cinema, Bristol, UK'
 show-setlist: 

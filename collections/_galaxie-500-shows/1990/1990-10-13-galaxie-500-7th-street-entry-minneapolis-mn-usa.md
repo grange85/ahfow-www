@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
 show-venue: '7th Street Entry, Minneapolis, MN, USA'
 show-setlist:

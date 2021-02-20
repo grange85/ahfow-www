@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Terminal West, Atlanta, GA, USA'
 show-notes: ''

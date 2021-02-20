@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Gold Diggers, Los Angeles, CA, USA'
 show-notes: ''

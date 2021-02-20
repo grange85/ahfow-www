@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Metro Gallery, Baltimore, MD, USA'
 show-setlist: 

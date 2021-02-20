@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Teatro Arniches, Alicante, Spain'
 show-setlist:

@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Harvard Book Store, Cambridge MA, USA'
 show-setlist: 

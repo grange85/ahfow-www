@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Rockaway Beach Festival, Butlins, Bognor Regis, UK'
 show-notes: ''

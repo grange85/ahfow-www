@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'The Black Cat, Washington DC, USA'
 show-notes: ''

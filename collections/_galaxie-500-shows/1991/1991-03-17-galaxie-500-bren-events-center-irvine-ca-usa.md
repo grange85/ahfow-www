@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
 show-venue: 'Bren Events Center, Irvine CA, USA'
 show-setlist: 

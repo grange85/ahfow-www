@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'The Bridge at Santa Fe Brewing, Santa Fe, NM, USA'
 show-notes: ''

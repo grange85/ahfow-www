@@ -1,9 +1,8 @@
 ---
 layout: release
+position: database-4
 resource: discography
-section: 
-    name: 04-Cagney & Lacee
-    header: Cagney & Lacee
+section: 04-Cagney & Lacee release
 artistslug: dean-wareham
 initial_release_date: 1998
 albumname: Borderline / Orange

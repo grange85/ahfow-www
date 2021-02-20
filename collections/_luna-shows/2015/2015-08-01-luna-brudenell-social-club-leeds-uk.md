@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Brudenell Social Club, Leeds, UK'
 show-setlist: [

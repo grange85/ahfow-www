@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Markthalle, Hamburg, Germany'
 show-notes: 'supporting Edwyn Collins'

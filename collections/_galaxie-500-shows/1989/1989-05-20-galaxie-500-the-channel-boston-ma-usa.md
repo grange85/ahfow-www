@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
 show-venue: "The Channel, Boston, MA, USA"
 show-setlist:

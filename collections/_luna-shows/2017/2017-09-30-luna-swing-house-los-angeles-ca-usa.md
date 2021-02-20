@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Swing House, Los Angeles, CA, USA'
 show-notes: ''

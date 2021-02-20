@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Beachland Ballroom, Cleveland OH, USA'
 show-setlist: [

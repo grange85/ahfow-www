@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: '(tba), Prague, Czech Republic'
 show-setlist: 

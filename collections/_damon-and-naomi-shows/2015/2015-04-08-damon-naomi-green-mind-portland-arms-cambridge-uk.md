@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Green Mind @ The Portland Arms, Cambridge, UK'
 show-setlist:

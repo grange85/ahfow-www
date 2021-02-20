@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'The Art Center, Carrboro, NC, USA'
 show-setlist: 

@@ -1,7 +1,8 @@
 ---
 layout: release
+position: database-4
 resource: discography
-section: 05-Magic Hour
+section: 05-Magic Hour release
 artistslug: damon-and-naomi
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magic-hour-magic-moments.jpg
 initial_release_date: 2016

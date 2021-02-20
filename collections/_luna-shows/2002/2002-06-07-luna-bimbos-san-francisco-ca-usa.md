@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: "Bimbos, San Francisco CA, USA"
 show-setlist: [

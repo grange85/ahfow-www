@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Philips Church, Salford, Manchester, UK'
 show-setlist: 

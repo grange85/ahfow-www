@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Rincon de Goya, Zaragoza, Spain'
 show-setlist: 

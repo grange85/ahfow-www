@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
 show-venue: 'Paradise Rock Club, Boston, MA, USA'
 show-setlist:

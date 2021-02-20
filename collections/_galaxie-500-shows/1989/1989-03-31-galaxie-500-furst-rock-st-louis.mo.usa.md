@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
 show-venue: 'Furst Rock, St Louis, MO, USA'
 show-setlist:

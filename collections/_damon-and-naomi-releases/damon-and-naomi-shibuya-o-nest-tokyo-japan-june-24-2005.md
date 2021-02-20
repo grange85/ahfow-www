@@ -1,5 +1,6 @@
 ---
 layout: release
+position: database-4
 resource: discography
 section: 04-dvd
 artistslug: damon-and-naomi

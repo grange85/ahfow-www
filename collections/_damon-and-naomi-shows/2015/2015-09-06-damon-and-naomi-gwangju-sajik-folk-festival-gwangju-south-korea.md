@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Gwangju Sajik Folk Music Festival, Gwangju, South Korea'
 show-setlist: [

@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: "Smiths Old Bar, Atlanta GA, USA"
 show-setlist: 

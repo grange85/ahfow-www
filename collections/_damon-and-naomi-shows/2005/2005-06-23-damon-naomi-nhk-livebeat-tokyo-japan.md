@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'NHK Livebeat, Tokyo, Japan'
 show-setlist: 

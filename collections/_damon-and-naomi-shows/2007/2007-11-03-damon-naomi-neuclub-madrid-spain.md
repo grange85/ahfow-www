@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Neu!Club, Madrid, Spain'
 show-setlist: 

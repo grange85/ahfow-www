@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
 show-venue: 'The Point, Atlanta, GA, USA'
 show-setlist:

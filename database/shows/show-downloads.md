@@ -3,6 +3,7 @@ layout: basic
 title: List of shows available to download
 list: downloads
 categories: primary
+position: database-2
 description: >
   A list of Galaxie 500, Luna, Damon & Naomi, Dean & Britta and Dean Wareham shows that are available to download.
 ---

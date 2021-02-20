@@ -1,6 +1,7 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
 section: 04-promo
 artistslug: galaxie-500

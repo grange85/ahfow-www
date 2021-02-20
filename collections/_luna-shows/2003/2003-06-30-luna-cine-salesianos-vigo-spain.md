@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Cine Salesianos, Vigo, Spain'
 show-setlist: [

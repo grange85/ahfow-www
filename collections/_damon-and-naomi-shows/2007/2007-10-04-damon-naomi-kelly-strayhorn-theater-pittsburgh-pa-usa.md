@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Kelly-Strayhorn Theater, Pittsburgh PA, USA'
 show-setlist: 

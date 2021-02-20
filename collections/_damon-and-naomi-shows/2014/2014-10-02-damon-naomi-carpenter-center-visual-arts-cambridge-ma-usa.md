@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Carpenter Center for the Visual Arts, Harvard University, Cambridge, MA, USA'
 show-setlist:

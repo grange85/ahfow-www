@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Neumos Crystal Ball Reading Room, Seattle WA, USA'
 show-setlist: [

@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Spanish Moon, Baton Rouge LA, USA'
 show-setlist: 

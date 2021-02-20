@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'High Dive, Denver, CO, USA'
 show-setlist: 

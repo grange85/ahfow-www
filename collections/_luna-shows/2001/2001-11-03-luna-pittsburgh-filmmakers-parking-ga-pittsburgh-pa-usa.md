@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Pittsburgh Filmmakers Parking Ga, Pittsburgh PA, USA'
 show-setlist: 

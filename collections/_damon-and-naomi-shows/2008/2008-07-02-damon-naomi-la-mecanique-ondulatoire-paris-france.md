@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'La Mecanique Ondulatoire, Paris, France'
 show-setlist: 

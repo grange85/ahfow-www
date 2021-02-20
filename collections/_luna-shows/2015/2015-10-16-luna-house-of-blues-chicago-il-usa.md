@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'House of Blues, Chicago, IL, USA'
 show-setlist:

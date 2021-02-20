@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Independent, San Francisco, CA, USA'
 show-setlist: 

@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Live Theatre, Newcastle, UK'
 show-setlist: 

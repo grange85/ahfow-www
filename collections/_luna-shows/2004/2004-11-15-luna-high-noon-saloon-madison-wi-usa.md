@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'High Noon Saloon, Madison WI, USA'
 show-setlist: [

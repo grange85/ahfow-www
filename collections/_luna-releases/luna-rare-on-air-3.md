@@ -1,5 +1,6 @@
 ---
 layout: release
+position: database-4
 resource: discography
 artist: Various artists
 section: 03-compilation

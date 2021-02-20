@@ -2,23 +2,14 @@
 layout: default
 ---
 	{% assign artist = site.data.artists[page.artistslug] %}
-			<div class="row">
-				<div class="col">
-					<nav aria-label="breadcrumb">
-						<ol class="breadcrumb">
-							<li class="breadcrumb-item"><a href="/">Home</a></li>
-							<li class="breadcrumb-item"><a href="/database/">Database</a></li>
-							<li class="breadcrumb-item"><a href="/database/{{artist.slug}}">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %}</a></li>
-							{% if page.year %}
-							<li class="breadcrumb-item"><a href="/database/{{artist.slug}}/shows">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %} shows</a></li>
-							<li class="breadcrumb-item active">{{page.year}}</li>
-							{% else %}
-							<li class="breadcrumb-item active">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %} shows</li>
-							{% endif %}
-						</ul>
-					</nav>
-				</div>
-			</div>
+
+	{% if page.year %}
+		{% assign page_title = page.year %}
+	{% else %}
+		{% assign page_title = page.title %}
+	{% endif %}
+
+		{% include breadcrumbs.html %}
 
 
 			<div class="row">

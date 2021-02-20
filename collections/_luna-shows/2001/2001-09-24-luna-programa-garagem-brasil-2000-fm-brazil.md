@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Programa Garagem - Brasil 2000 FM, Brazil'
 show-setlist: [

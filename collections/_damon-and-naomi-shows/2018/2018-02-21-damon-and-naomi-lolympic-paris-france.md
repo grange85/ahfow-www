@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: "L'Olympic Cafe, Paris, France"
 show-setlist:

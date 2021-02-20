@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: '​Christ Church United, UCC, Lowell, MA, USA'
 show-setlist:

@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Unitarian Society Meetinghouse, Amherst MA, USA'
 show-setlist: 

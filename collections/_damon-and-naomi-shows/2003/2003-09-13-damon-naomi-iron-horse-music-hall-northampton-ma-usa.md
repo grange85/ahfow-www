@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Iron Horse Music Hall, Northampton MA, USA'
 show-setlist: 

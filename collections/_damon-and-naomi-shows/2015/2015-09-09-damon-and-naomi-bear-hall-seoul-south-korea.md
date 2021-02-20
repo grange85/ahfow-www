@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Bear Hall, Gangnam, Seoul, South Korea'
 show-setlist: [

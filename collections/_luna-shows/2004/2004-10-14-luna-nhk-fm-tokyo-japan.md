@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'NHK FM, Tokyo, Japan'
 show-setlist: 

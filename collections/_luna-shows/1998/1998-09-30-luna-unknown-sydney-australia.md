@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: '(unknown), Sydney, Australia'
 show-setlist: 

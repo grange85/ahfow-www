@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'La Mela di Newton, Padova, Italy'
 show-setlist: 

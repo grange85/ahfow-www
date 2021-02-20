@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Satellite Ballroom, Charlottesville VA, USA'
 show-setlist: 

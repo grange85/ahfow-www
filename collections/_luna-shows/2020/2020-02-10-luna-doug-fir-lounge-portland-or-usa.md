@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Doug Fir Lounge, Portland, OR, USA'
 address: |

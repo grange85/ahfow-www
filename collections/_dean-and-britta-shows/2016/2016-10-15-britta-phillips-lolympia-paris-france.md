@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: britta-phillips
 artist:
   name: Britta Phillips

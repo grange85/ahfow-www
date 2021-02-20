@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
 show-venue: 'Cactus Club, San Jose CA, USA'
 show-setlist: [

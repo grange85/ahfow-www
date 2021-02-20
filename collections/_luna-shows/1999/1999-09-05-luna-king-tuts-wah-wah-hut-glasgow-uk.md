@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'King Tuts Wah Wah Hut, Glasgow, UK'
 show-setlist: [

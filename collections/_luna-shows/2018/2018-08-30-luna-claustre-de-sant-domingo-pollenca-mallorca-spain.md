@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Claustre de Sant Domingo, Pollença, Mallorca, Spain'
 show-notes: ''

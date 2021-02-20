@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Galeria Ze Dos Bois, Lisbon, Portugal'
 show-setlist: 

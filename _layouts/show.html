@@ -5,31 +5,11 @@ layout: default
 	{% assign day = page.show-date|date: "%-d"  %}
   	{% if page.date-uncertain.day %}{% assign day = "" %}{% endif %}
 	{% capture ordinaldate %}{% case day %}{% when '' %}{{ day }}{% when '1' or '21' or '31' %}{{ day }}st{% when '2' or '22' %}{{ day }}nd{% when '3' or '23' %}{{ day }}rd{% else %}{{ day }}th{% endcase %} {{page.show-date|date: "%B %Y"}}{% endcapture %}
-	{% capture newtitle %}{{ ordinaldate}} - {{artist.name}} - {{ page.show-venue }}{% endcapture %}
+	{% capture page_title %}{{ ordinaldate}} - {{artist.name}} - {{ page.show-venue }}{% endcapture %}
 	{% assign content = page.content | strip_newlines %}
 
 
-
-				<div class="row">
-					<div class="col">
-						<nav>
-							<ul class="breadcrumb">
-								<li class="breadcrumb-item"><a href="/">Home</a></li>
-								<li class="breadcrumb-item"><a href="/database/">Database</a></li>
-
-								<li class="breadcrumb-item"><a href="/database/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %}</a></li>
-								<li class="breadcrumb-item"><a href="/database/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/shows/">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %} shows</a></li>
-								<li class="breadcrumb-item"><a href="/database/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/shows/{{page.show-date|date: '%Y'|append: '/'}}">{{page.show-date|date: '%Y'}}</a></li>
-								<li class="breadcrumb-item active">{{ ordinaldate }} - {{artist.name}} - {{ page.show-venue }}</li>
-							</ul>
-						</nav>
-						{% if page.show-cancelled %}
-						<div class="alert alert-danger" role="alert">
-					    	<strong>Cancelled</strong>
-						</div>
-						{% endif %}
-					</div>
-				</div>
+	{% include breadcrumbs.html %}
 
 
 				<div class="row">

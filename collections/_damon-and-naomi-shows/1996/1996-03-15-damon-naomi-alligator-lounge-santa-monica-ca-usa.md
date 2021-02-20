@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Alligator Lounge, Santa Monica CA, USA'
 show-setlist: [

@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: "Sticky Mike's Frog Bar, Brighton, UK"
 show-setlist: [

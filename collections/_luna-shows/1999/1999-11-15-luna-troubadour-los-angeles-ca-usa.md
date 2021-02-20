@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Troubadour, Los Angeles CA, USA'
 show-setlist: [

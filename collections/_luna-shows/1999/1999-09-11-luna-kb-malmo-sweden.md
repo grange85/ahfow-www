@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'KB, Malmo, Sweden'
 show-setlist: 

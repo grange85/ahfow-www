@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: '400 Bar, Minneapolis MN, USA'
 show-setlist: 

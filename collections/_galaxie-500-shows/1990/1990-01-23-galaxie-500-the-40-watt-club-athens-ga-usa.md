@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
 show-venue: 'The 40 Watt Club, Athens, GA, USA'
 show-setlist: [

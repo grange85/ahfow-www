@@ -20,7 +20,7 @@ collections_dir: collections
 
 collections: 
   articles:
-    output: true
+    output: false
     permalink: /:collection/:name/
   tracks:
     output: true
@@ -55,6 +55,11 @@ collections:
   britta-phillips-releases:
     output: true
     permalink: database/dean-and-britta/britta-phillips-releases/:title/
+  posts-live:
+    output: false
+  posts-dev:
+    output: false
+    
 
 twitter_username: ahfow
 github_username:  grange85

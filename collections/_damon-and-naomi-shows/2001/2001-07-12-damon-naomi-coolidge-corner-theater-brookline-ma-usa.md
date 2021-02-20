@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Coolidge Corner Theater, Brookline MA, USA'
 show-setlist: 

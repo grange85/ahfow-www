@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Las Armas, Zaragoza, Spain'
 show-notes: ''

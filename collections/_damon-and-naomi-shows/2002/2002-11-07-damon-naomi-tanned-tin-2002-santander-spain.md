@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Tanned Tin 2002, Santander, Spain'
 show-setlist: 

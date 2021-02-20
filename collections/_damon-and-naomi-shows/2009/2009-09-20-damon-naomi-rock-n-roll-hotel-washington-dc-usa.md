@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: "Rock N Roll Hotel, Washington DC, USA"
 show-setlist: 

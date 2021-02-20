@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: "Johnny Ds, Somerville MA, USA"
 show-setlist: 

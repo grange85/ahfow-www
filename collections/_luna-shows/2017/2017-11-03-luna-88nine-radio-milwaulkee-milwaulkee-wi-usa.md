@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: '88Nine Radio Milwaukee, Milwaukee, WI, USA'
 show-notes: ''

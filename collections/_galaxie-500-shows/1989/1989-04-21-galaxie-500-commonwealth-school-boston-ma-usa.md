@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
 show-venue: 'Commonwealth School, Boston MA, USA'
 show-setlist: 

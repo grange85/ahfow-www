@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Trocadero, Philadelphia, PA, USA'
 show-setlist:

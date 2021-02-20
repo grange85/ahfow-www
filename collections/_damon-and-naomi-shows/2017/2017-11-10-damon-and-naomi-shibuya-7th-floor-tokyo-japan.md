@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Shibuya - 7th Floor, Tokyo, Japan'
 show-setlist:

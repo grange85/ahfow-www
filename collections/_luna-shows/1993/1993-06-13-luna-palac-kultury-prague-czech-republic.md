@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Palac Kultury, Prague, Czech Republic'
 show-setlist: 

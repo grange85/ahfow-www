@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Brisbane Powerhouse, Brisbane, Australia'
 show-setlist: 

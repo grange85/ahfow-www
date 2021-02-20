@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'La grande invasione, Santa Marta, Ivrea, Italy'
 artist:

@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Classic Center Theatre, Athens GA, USA'
 show-setlist: 

@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Metro, Chicago IL, USA'
 show-setlist: [

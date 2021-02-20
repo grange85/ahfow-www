@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Beta Bar, Tallahassee FL, USA'
 show-setlist: 

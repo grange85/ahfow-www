@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Museum of Fine Arts, Boston MA, USA'
 show-setlist: 

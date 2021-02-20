@@ -1,6 +1,7 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
 section: 03-Compilation
 artistslug: dean-wareham

@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: '9:30 Club, Washington DC, USA'
 show-setlist: [

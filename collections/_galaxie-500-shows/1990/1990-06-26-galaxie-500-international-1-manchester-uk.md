@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
 show-venue: 'International 1, Manchester, UK'
 setlist-source: 'recording'

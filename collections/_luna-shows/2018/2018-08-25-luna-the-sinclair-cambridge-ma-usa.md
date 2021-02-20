@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'The Sinclair, Cambridge, MA, USA'
 show-notes: ''

@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Moon, Wellington, New Zealand'
 show-setlist:

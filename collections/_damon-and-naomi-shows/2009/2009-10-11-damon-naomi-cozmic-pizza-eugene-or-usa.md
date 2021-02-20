@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Cozmic Pizza, Eugene, OR, USA'
 show-setlist: 

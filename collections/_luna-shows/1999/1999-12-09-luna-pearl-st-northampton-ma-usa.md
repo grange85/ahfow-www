@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Pearl St, Northampton MA, USA'
 show-setlist: 

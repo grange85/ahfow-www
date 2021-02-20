@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: "The Cat's Cradle, Carrboro, NC, USA"
 show-notes: ''

@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Warehouse Theater, Washington DC, USA'
 show-setlist: 

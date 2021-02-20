@@ -3,10 +3,9 @@ layout: default
 ---
 	{% if page.artistslug %}{% assign artist = site.data.artists[page.artistslug] %}{% endif %}
 	{% if page.description %}{% assign description = page.description %}{% endif %}
-	{% assign newtitle = page.title %}
+	{% assign page_title = page.title %}
 
-
-<!-- include breadcrumb magic here -->
+	{% include breadcrumbs.html %}
 
 
 				{% if page.categories == "primary" %}

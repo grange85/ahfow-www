@@ -5,7 +5,7 @@ layout: default
 	{% if page.description %}{% assign description = page.description %}{% else %}
 	{% capture description %}Comprehensive list of {{artist.name}} releases with sleeve scans.{% endcapture %}
 	{% endif %}
-	{% capture newtitle %}{{page.title}} {% if page.year %} {{page.year}}{% endif %}{% endcapture %}
+	{% capture page_title %}{{page.title}} {% if page.year %} {{page.year}}{% endif %}{% endcapture %}
 	{% include head.html %}
 	{% case artist.slug %}
 		{% when 'galaxie-500' %}
@@ -22,6 +22,10 @@ layout: default
 			{% assign releases = site.britta-phillips-releases | group_by: "section" | sort: 'name' %}
 	{% endcase %}
 	{% assign releases = releases %}
+
+
+
+	{% include breadcrumbs.html %}
 
 
 			<div class="row">
@@ -59,20 +63,17 @@ layout: default
 
 
 				{% for section in releases %}
-					{% if section.header %}
-					{% assign section_name = section.header %}
-					{% else %}
 					{% assign section_name = section.name | split: '-' | last | capitalize | append: 's' %}
-					{% endif %}
+ 
 
 			<div class="row"><h2 class="w-100 bg-light p-3 rounded" id="{{section.name}}">{{section_name}}</h2></div>
-			<div class="row row-cols-xl-3 row-cols-lg-2 mb-3">
+			<div class="row">
 					{% assign release_section = section.items | sort: 'initial_release_date' %}
 					{% for release in release_section %}
-					{% capture status %}{% cycle section_name: 'odd', 'even' %}{% endcapture %}
-						<div class="col">
+					{% assign image_url_test = release.imageurl | append: 'x' %}
+						<div class="col-xl-4 col-md-6 col-sm-12">
 						<div class="card mb-3 pb-1 h-100">
-							{% if release.imageurl == "" %}
+							{% if image_url_test == 'x' %}
 							<img class="card-img-top img-fluid" src="https://media.fullofwishes.co.uk/00-misc/ahfow-web/sleeve-required-new.jpg" alt="no sleeve image available">
 							{% else %}
 							<img class="card-img-top img-fluid" src="{{release.imageurl}}" alt="{{release.albumname}} sleeve image">

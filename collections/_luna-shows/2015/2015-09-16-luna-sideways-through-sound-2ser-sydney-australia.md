@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Sideways Through Sound, 2SER, Sydney, Australia'
 show-notes: ''

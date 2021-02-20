@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: "John Henrys, Eugene OR, USA"
 show-setlist: [

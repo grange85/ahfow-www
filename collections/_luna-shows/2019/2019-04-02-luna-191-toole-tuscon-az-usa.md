@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: '191 Toole, Tuscon, AZ, USA'
 show-notes: ''

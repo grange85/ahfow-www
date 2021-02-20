@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Fox Theatre, Denver CO, USA'
 show-setlist: 

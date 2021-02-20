@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Era sÃ³ o que faltava, Curtiba, Brazil'
 show-setlist: 

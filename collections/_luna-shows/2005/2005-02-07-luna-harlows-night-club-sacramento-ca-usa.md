@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: "Harlows Night Club, Sacramento CA, USA"
 show-setlist: [

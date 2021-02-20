@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Castle Clinton, Battery Park, New York, NY, USA'
 show-setlist: [

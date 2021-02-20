@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Feeding Tube Records, Florence, MA, USA'
 show-setlist:

@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: "Le Bourg, Lausanne, Switzerland"
 show-setlist:

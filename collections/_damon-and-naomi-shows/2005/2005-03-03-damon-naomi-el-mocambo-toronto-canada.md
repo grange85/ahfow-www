@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'El Mocambo, Toronto, Canada'
 show-setlist: 

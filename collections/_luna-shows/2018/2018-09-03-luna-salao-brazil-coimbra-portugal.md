@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Lux Interior Festival, Salao Brazil, Coimbra, Portugal'
 show-notes: ''

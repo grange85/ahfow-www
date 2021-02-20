@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'The Intersection, Grand Rapids, MI, USA'
 show-setlist: 

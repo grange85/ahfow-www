@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Miller Plaza, Chattanooga TN, USA'
 show-setlist: [

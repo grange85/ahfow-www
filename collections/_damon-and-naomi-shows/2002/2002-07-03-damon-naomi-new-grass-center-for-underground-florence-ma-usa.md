@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'New Grass Center for Underground, Florence MA, USA'
 show-setlist: 

@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: '12 Galaxies, San Francisco CA, USA'
 show-setlist: 

@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Willimantic Records, Hartford, CT, USA'
 show-setlist: 

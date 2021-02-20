@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'Trans-Pecos Festival of Music + Love, Marfa, TX, USA'
 show-notes: ''

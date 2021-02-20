@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Tenglong Cave Midi Festival, Hubei, China'
 show-setlist:

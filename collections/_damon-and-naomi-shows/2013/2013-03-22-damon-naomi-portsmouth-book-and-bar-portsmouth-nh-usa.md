@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 show-venue: 'Portsmouth Book and Bar, Portsmouth, NH, USA'
 show-setlist: 

@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
 show-venue: 'Nightingale Bar, New York NY, USA'
 show-setlist:

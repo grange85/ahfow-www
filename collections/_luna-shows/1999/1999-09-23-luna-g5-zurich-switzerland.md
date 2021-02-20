@@ -1,5 +1,6 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: 'G5, Zurich, Switzerland'
 show-setlist: 
