@@ -1,37 +1,38 @@
 ---
 layout: default
 ---
-
 {% include breadcrumbs.html %}
-{% assign newsection = 'A' %}
+	{% assign tracks = site.tracks | group_by: "track-alpha" | sort: 'name' %}
+
 <div class="row">
 	<div class="col-md-12">
-		{{content}}
-		<div class="card">
-			<div class="card-header">
-				<h3>{{ newsection }}</h3>
-			</div>
-			<div class="cardbody">
-				<ul>
-				{% for track in tracks %}
-					{% assign currentsection = newsection %}
-					{% assign newsection = track.track-sort | truncate: 1, '' | upcase %}
-					{% if newsection != currentsection %}
-				</ul>
-		<h3>{{ newsection }}</h3>
-		<ul>
-			{% endif %}
-			<li><a href="{{ track.url | prepend: site.baseurl }}">{{ track.title }}</a> {% if track.track-author %}<em>({{track.track-author}})</em>{% endif %}{% if cover %} - Originally by: {{track.track-original}}{% endif %}</li>
-		{% endfor %}  <!-- page-category -->
-				</ul>
-				</div>
-			</div>
-		</div>
-		<div class="col-md-3">
-			{% include sidebar.html %}
-		</div>
+
+<div class="" >
+  	<div class="">
+  		<ul class="list-inline">
+		{% for section in tracks %}	
+			<li class="list-inline-item">
+				<a class="nav-link" href="#{{section.name}}">{{section.name}}</a>
+			</li>
+		{% endfor %}
+		</ul>
 	</div>
 </div>
-{% include footer.html %}
-</body>
-</html>
+
+{% for section in tracks %}
+
+		<div class="card" id="{{section.name}}">
+			<div class="card-header">
+				<h3>{{ section.name }}</h3>
+			</div>
+			<div class="card-body">
+
+				<ul>
+				{% for track in section.items %}
+					<li><a href="{{ track.url | prepend: site.baseurl }}">{{ track.title }}</a> {% if track.track-author %}<em>({{track.track-author}})</em>{% endif %}{% if cover %} - Originally by: {{track.track-original}}{% endif %}</li>
+				{% endfor %}
+				</ul>
+			</div>
+		</div>
+	
+{% endfor %}
