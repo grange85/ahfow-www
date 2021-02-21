@@ -2,7 +2,26 @@
 layout: default
 ---
 {% include breadcrumbs.html %}
-	{% assign tracks = site.tracks | group_by: "track-alpha" | sort: 'name' %}
+
+
+							{% case page.list %}
+								{% when 'covers' %}
+									{% assign tracks = site.tracks | where  %}
+									{% assign tracks = %}
+									{% assign page_title = "Covers" %}
+								{% when 'chords' %}
+									{% assign tracks = site.tracks | group-by: "track.alpha" | sort: 'name' %}
+									{% assign page_title = "Guitar chords" %}
+								{% when 'videos' %}
+									{% assign tracks = site.tracks | where: "video-flag", true | group-by: "track.alpha" | sort: 'name' %}
+									{% assign page_title = "Videos" %}
+								{% else %}
+									{% assign tracks = site.tracks | group_by: "track-alpha" | sort: 'name' %}
+									{% assign page_title = "Covers" %}
+							{% endcase %}
+
+
+
 
 <div class="row">
 	<div class="col-md-12">
@@ -20,7 +39,6 @@ layout: default
 </div>
 
 {% for section in tracks %}
-
 		<div class="card" id="{{section.name}}">
 			<div class="card-header">
 				<h3>{{ section.name }}</h3>
