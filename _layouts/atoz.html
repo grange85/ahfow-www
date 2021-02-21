@@ -6,8 +6,8 @@ layout: default
 
 							{% case page.list %}
 								{% when 'covers' %}
-									{% assign tracks = site.tracks | where  %}
-									{% assign tracks = %}
+									{% assign tracks = site.tracks | where: "cover", true %}
+									{% assign tracks = tracks | group_by: "track.alpha"  | sort: 'track-sort' %}
 									{% assign page_title = "Covers" %}
 								{% when 'chords' %}
 									{% assign tracks = site.tracks | group-by: "track.alpha" | sort: 'name' %}
