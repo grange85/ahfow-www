@@ -8,5 +8,6 @@ track-id: 338
 track-lyrics: 
 track-author: traditional
 track-sort: "SENDOU KOUTA"
+track-alpha: S
 track-original: 
 ---

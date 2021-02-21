@@ -8,6 +8,7 @@ track-id: 301
 track-lyrics: 
 track-author: Michio Kurihara/You Ishihara
 track-sort: "WIND'S TWELVE QUARTERS"
+track-alpha: W
 track-original: Michio Kurihara
 cover: true
 ---

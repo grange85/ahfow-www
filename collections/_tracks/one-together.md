@@ -7,6 +7,7 @@ type: ahfow_track
 track-lyrics: 
 track-author: Jeremy Spencer
 track-sort: "ONE TOGETHER"
+track-alpha: O
 track-original: Fleetwood Mac
 available-on:
  - release: Luna - A Sentimental Education

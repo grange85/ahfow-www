@@ -10,5 +10,6 @@ track-guitar: "Guitar 1:\ne---------------------------------\nB-----------------
 track-guitar-flag: true
 track-author: 
 track-sort: "HEDGEHOG"
+track-alpha: H
 track-original: 
 ---

@@ -8,6 +8,7 @@ track-id: 307
 track-lyrics: 
 track-author: Whitfield/Strong
 track-sort: "JUST MY IMAGINATION"
+track-alpha: J
 track-original: The Temptations
 cover: true
 ---

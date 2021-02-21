@@ -10,6 +10,7 @@ track-guitar: "D G\n\n(provided by britta)"
 track-guitar-flag: true
 track-author: Angel Corpus Christi
 track-sort: "THREW IT AWAY"
+track-alpha: T
 track-original: Angel Corpus Christi
 cover: true
 ---

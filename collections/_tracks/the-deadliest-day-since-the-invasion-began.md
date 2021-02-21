@@ -8,5 +8,6 @@ track-id: 374
 track-lyrics: 
 track-author: Dean Wareham
 track-sort: "DEADLIEST DAY SINCE"
+track-alpha: D
 track-original: 
 ---

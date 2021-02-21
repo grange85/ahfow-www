@@ -53,6 +53,7 @@ track-lyrics: |
     I'm in love with you
 track-author: Robyn Hitchcock
 track-sort: "LOVE"
+track-alpha: L
 track-original: Robyn Hitchcock
 cover: true
 available-on:

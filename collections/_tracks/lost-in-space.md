@@ -42,5 +42,6 @@ track-guitar: "intro: G D/C\nG--0-2-4-2-4-2-0\nG D/C\nchange: G C\n(provided by 
 track-guitar-flag: true
 track-author: 
 track-sort: "LOST IN SPACE"
+track-alpha: L
 track-original: 
 ---

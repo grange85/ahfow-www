@@ -8,6 +8,7 @@ track-id: 146
 track-lyrics: 
 track-author: J. McDonald
 track-sort: "WHO AM I"
+track-alpha: W
 track-original: Country Joe and The Fish
 cover: true
 ---

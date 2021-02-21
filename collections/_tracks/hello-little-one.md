@@ -10,5 +10,6 @@ track-guitar: "key of A (mixolydian mode)\n[A] Hello, little one\nAnd [D] what c
 track-guitar-flag: true
 track-author: 
 track-sort: "HELLO LITTLE ONE"
+track-alpha: H
 track-original: 
 ---

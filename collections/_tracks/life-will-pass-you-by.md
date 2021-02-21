@@ -8,6 +8,7 @@ track-id: 145
 track-lyrics: 
 track-author: C. Darrow
 track-sort: "LIFE WILL PASS YOU BY"
+track-alpha: L
 track-original: Kaleidoscope
 cover: true
 ---

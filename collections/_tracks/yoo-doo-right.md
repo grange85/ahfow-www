@@ -8,6 +8,7 @@ track-id: 171
 track-lyrics: 
 track-author: Can
 track-sort: "YOO DOO RIGHT"
+track-alpha: Y
 track-original: Can
 cover: true
 ---

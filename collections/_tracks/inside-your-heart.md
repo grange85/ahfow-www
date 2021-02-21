@@ -7,6 +7,7 @@ type: ahfow_track
 track-lyrics: 
 track-author: The Monochrome Set
 track-sort: "INSIDE YOUR HEART"
+track-alpha: I
 track-original: The Monochrome Set
 available-on:
   - release: "Inside Your Heart"

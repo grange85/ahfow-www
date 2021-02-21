@@ -7,6 +7,7 @@ type: ahfow_track
 track-lyrics: 
 track-author: 
 track-sort: "CAPTAIN PENTAGON"
+track-alpha: C
 track-original: 
 available-on:
  - release: Luna - A Place Of Greater Safety

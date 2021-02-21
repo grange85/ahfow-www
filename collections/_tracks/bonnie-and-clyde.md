@@ -118,6 +118,7 @@ track-guitar: "Intro, Verse\nG, A#, F, C\nChorus\nA#, C, DB\n\n(provided by Drew
 track-guitar-flag: true
 track-author: Serge Gainsbourg
 track-sort: "BONNIE AND CLYDE"
+track-alpha: B
 track-original: Gainsbourg, Serge and Bardot, Brigitte
 cover: true
 available-on:

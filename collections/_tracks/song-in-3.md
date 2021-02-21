@@ -10,5 +10,6 @@ track-guitar: "-------------------------------------------\n------3---------3---
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "SONG IN 3"
+track-alpha: S
 track-original: 
 ---

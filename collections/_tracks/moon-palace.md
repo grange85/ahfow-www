@@ -10,5 +10,6 @@ track-guitar: "intro: D G A\nverse:  D G D A G A G A\nchorus: D G/A A G/D\n(prov
 track-guitar-flag: true
 track-author: 
 track-sort: "MOON PALACE"
+track-alpha: M
 track-original: 
 ---

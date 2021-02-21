@@ -10,6 +10,7 @@ track-guitar: "E  B  C#m  A\n\n(provided by Jon)"
 track-guitar-flag: true
 track-author: 
 track-sort: "LOVEDUST"
+track-alpha: L
 track-original: 
 video-flag: true
 videos:

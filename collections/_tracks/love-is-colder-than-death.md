@@ -8,6 +8,7 @@ track-id: 371
 track-lyrics: 
 track-author: Dean Wareham
 track-sort: "LOVE IS COLDER THAN DEATH"
+track-alpha: L
 track-original: 
 video-flag: true
 videos:

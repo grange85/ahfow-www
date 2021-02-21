@@ -8,6 +8,7 @@ track-id: 191
 track-lyrics: 
 track-author: traditional / Tom Springfield
 track-sort: "CARNIVAL IS OVER"
+track-alpha: C
 track-original: The Seekers
 available-on:
   - release: "Dean & Britta - The Carnival is Over"

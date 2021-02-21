@@ -10,6 +10,7 @@ track-guitar: "D A G D\n(provided by brad)"
 track-guitar-flag: true
 track-author: 
 track-sort: "SLIDE"
+track-alpha: S
 track-original: 
 video-flag: true
 videos:

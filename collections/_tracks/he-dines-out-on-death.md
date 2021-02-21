@@ -7,6 +7,7 @@ type: ahfow_track
 track-lyrics: 
 track-author: Brierley / Cristina
 track-sort: "HE DINES OUT"
+track-alpha: H
 track-original: Cristina
 available-on:
   - release: "Dean & Britta - Quarantine Tapes"

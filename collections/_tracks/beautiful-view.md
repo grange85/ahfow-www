@@ -10,5 +10,6 @@ track-guitar: "Intro x 4\nE-10/----3--------------\nA-----------2---3--------\nD
 track-guitar-flag: true
 track-author: 
 track-sort: "BEAUTIFUL VIEW"
+track-alpha: B
 track-original: 
 ---

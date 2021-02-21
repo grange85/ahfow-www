@@ -7,6 +7,7 @@ type: ahfow_track
 track-lyrics: 
 track-author: Jagger/Richards
 track-sort: "WALKIN' THRU THE SLEEPY CITY"
+track-alpha: W
 track-original: The Rolling Stones
 available-on:
  - release: Luna - A Sentimental Education

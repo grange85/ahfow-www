@@ -10,5 +10,6 @@ track-guitar: "key of B (mixolydian mode)\n[A] slide up to [B] (repeat throughou
 track-guitar-flag: true
 track-author: 
 track-sort: "SEVEN STEPS TO SATAN"
+track-alpha: S
 track-original: 
 ---

@@ -8,5 +8,6 @@ track-id:
 track-lyrics: 
 track-author: Krukowski/Yang
 track-sort: "HURT HOUSE"
+track-alpha: H
 track-original: 
 ---

@@ -6,6 +6,7 @@ name: wayfaring-stranger
 type: ahfow_track
 track-author: traditional
 track-sort: "WAYFARING STRANGER"
+track-alpha: W
 track-original:
 available-on:
  - release: Dean Wareham vs. Cheval Sombre

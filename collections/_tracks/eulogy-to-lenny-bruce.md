@@ -8,6 +8,7 @@ track-id: 168
 track-lyrics: 
 track-author: Tim Hardin
 track-sort: "EULOGY TO LENNY BRUCE"
+track-alpha: E
 track-original: Nico
 cover: true
 ---

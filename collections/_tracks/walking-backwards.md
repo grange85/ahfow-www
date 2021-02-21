@@ -8,6 +8,7 @@ track-id: 357
 track-lyrics: 
 track-author: Krukowski/Yang
 track-sort: "WALKING BACKWARDS"
+track-alpha: W
 track-original: 
 video-flag: true
 videos:

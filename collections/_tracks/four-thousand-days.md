@@ -10,5 +10,6 @@ track-guitar: "key of D (mixolydian mode)\nWell [D] raise my rent...turn the clo
 track-guitar-flag: true
 track-author: 
 track-sort: "FOUR THOUSAND DAYS"
+track-alpha: F
 track-original: 
 ---

@@ -8,6 +8,7 @@ track-id: 233
 track-lyrics: 
 track-author: Mercury Rev
 track-sort: "CAR WASH HAIR"
+track-alpha: C
 track-original: Mercury Rev
 cover: true
 ---

@@ -8,6 +8,7 @@ track-id: 250
 track-lyrics: 
 track-author: Jagger/Richards
 track-sort: "WAITING ON A FRIEND"
+track-alpha: W
 track-original: Rolling Stones
 cover: true
 ---

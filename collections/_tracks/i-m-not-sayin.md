@@ -8,6 +8,7 @@ track-id: 183
 track-lyrics: 
 track-author: Lightfoot
 track-sort: "I'M NOT SAYIN'"
+track-alpha: I
 track-original: Gordon Lightfoot
 cover: true
 ---

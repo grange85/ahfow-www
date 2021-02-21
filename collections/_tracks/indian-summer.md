@@ -10,6 +10,7 @@ track-guitar: #NAME?
 track-guitar-flag: true
 track-author: Beat Happening
 track-sort: "INDIAN SUMMER"
+track-alpha: I
 track-original: Beat Happening
 cover: true
 ---

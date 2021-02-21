@@ -10,5 +10,6 @@ track-guitar: "C Fmaj7\n(provided by brad)"
 track-guitar-flag: true
 track-author: 
 track-sort: "FRIENDLY ADVICE"
+track-alpha: F
 track-original: 
 ---

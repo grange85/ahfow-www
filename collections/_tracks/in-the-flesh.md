@@ -36,6 +36,7 @@ track-lyrics: |
     Ooh
 track-author: Harry/Stein
 track-sort: "IN THE FLESH"
+track-alpha: I
 track-original: Blondie
 cover: true
 ---

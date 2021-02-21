@@ -7,6 +7,7 @@ type: ahfow_track
 track-lyrics: 
 track-author: Strummer / Jones
 track-sort: "I'M SO BORED"
+track-alpha: I
 track-original: The Clash
 available-on:
   - release: "Dean & Britta - Quarantine Tapes"

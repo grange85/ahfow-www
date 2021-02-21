@@ -10,5 +10,6 @@ track-guitar: "G C Bmin A\n(provided by brad)"
 track-guitar-flag: true
 track-author: 
 track-sort: "TIME"
+track-alpha: T
 track-original: 
 ---

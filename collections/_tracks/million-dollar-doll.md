@@ -8,5 +8,6 @@ track-id:
 track-lyrics: 
 track-author: Britta Phillips
 track-sort: "MILLION DOLLAR DOLL"
+track-alpha: M
 track-original: Britta Phillips
 ---

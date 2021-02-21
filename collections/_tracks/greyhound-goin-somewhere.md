@@ -8,6 +8,7 @@ track-id: 180
 track-lyrics: 
 track-author: Murphy/Dorsey
 track-sort: "GREYHOUND GOIN' SOMEWHERE"
+track-alpha: G
 track-original: Bobbie Gentry
 cover: true
 ---

@@ -10,5 +10,6 @@ track-guitar: "verse: G Amin Bmin C\nchange: D C D G\n(provided by brad)"
 track-guitar-flag: true
 track-author: 
 track-sort: "BEWITCHED"
+track-alpha: B
 track-original: 
 ---

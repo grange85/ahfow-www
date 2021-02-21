@@ -10,5 +10,6 @@ track-guitar: "Intro and Verse\nD,C,G\nChange\nEm, G, D\n\n(provided by Drew)"
 track-guitar-flag: true
 track-author: 
 track-sort: "SIDESHOW BY THE SEASHORE"
+track-alpha: S
 track-original: 
 ---

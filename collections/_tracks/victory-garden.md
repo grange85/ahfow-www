@@ -10,6 +10,7 @@ track-guitar: "verse: C F C C\nchange: Dmin F G\n(provided by brad)"
 track-guitar-flag: true
 track-author: Red Crayola
 track-sort: "VICTORY GARDEN"
+track-alpha: V
 track-original: Red Crayola
 cover: true
 ---

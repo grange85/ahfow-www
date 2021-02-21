@@ -8,6 +8,7 @@ track-id: 177
 track-lyrics: 
 track-author: Riperton/Rudolph
 track-sort: "LOVIN' YOU"
+track-alpha: L
 track-original: Riperton, Minnie
 cover: true
 ---

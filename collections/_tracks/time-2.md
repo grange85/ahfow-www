@@ -8,6 +8,7 @@ track-id: 174
 track-lyrics: 
 track-author: Michael Merchant
 track-sort: "TIME"
+track-alpha: T
 track-original: Jimmie Rodgers
 cover: true
 available-on:

@@ -10,6 +10,7 @@ track-guitar: "------------------------------------------------------\n-3--1--0-
 track-guitar-flag: true
 track-author: Tom Rush
 track-sort: "NO REGRETS"
+track-alpha: N
 track-original: Rush, Tom
 cover: true
 ---

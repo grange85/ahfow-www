@@ -8,5 +8,6 @@ track-id: 142
 track-lyrics: 
 track-author: 
 track-sort: "TOUR OF THE WORLD"
+track-alpha: T
 track-original: 
 ---

@@ -8,6 +8,7 @@ track-id: 163
 track-lyrics: 
 track-author: Big Star
 track-sort: "BLUE MOON"
+track-alpha: B
 track-original: Big Star
 cover: true
 ---

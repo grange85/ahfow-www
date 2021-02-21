@@ -10,5 +10,6 @@ track-guitar: "Intro, Verse\nC, F end with A#, G#\nChorus\nC, G#\n\n(provided by
 track-guitar-flag: true
 track-author: 
 track-sort: "WEIRD AND WOOZY"
+track-alpha: W
 track-original: 
 ---

@@ -10,6 +10,7 @@ track-guitar: "A D\n\n(provided by brad)"
 track-guitar-flag: true
 track-author: Donovan Leitch
 track-sort: "SEASON OF THE WITCH"
+track-alpha: S
 track-original: Donovan
 cover: true
 video-flag: true

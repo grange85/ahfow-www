@@ -7,6 +7,7 @@ type: ahfow_track
 track-lyrics: 
 track-author: Paul Simon
 track-sort: "HOMEWARD BOUND"
+track-alpha: H
 track-original: Scott Walker
 cover: true
 ---

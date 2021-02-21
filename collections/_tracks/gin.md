@@ -7,6 +7,7 @@ type: ahfow_track
 track-lyrics: 
 track-author: Willie Loco Alexander
 track-sort: "GIN"
+track-alpha: G
 track-original: Willie Loco Alexander
 available-on:
  - release: Luna - A Sentimental Education

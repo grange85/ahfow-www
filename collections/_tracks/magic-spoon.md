@@ -8,6 +8,7 @@ track-id: 232
 track-lyrics: 
 track-author: 
 track-sort: "MAGIC SPOON"
+track-alpha: M
 track-original: 
 ---
 Early name for 1995

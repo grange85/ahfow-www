@@ -29,6 +29,7 @@ track-lyrics: |
   We have got to get it together now
 track-author: Speedy Keen
 track-sort: "SOMETHING IN THE AIR"
+track-alpha: S
 track-original: Thunderclap Newman
 cover: true
 available-on:

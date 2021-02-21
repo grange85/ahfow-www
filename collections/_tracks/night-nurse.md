@@ -10,6 +10,7 @@ track-guitar: "G Dm C G \n\n(provided by britta)"
 track-guitar-flag: true
 track-author: 
 track-sort: "NIGHT NURSE"
+track-alpha: N
 track-original: 
 video-flag: true
 videos:

@@ -10,5 +10,6 @@ track-guitar: "intro: A\nverse: D A\nchange: D E\nchorus: A D A G D A\n(provided
 track-guitar-flag: true
 track-author: 
 track-sort: "TIGER LILY"
+track-alpha: T
 track-original: 
 ---

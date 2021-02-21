@@ -10,5 +10,6 @@ track-guitar: "verses: A C#min D\nchange: G D C\n\n(provided by brad)"
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "SPOOK"
+track-alpha: S
 track-original: 
 ---

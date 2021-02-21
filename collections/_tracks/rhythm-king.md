@@ -10,5 +10,6 @@ track-guitar: "Intro, Verse\nE, C#, B\nChorus\nF#, A, C#, B\nF#, A, B\n\n(provid
 track-guitar-flag: true
 track-author: 
 track-sort: "RHYTHM KING"
+track-alpha: R
 track-original: 
 ---

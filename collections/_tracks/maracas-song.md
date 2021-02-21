@@ -10,5 +10,6 @@ track-guitar: "verses: D6 Dmin6 A\nchorus: G D A\n(provided by brad)"
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "MARACAS SONG"
+track-alpha: M
 track-original: 
 ---

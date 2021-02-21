@@ -10,5 +10,6 @@ track-guitar: "there's really not much rhythm in this song but it sounds nice to
 track-guitar-flag: true
 track-author: 
 track-sort: "SLEEPING PILL"
+track-alpha: S
 track-original: 
 ---

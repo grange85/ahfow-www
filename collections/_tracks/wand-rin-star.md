@@ -6,6 +6,7 @@ name: wandrin-star
 type: ahfow_track
 track-author: Alan J. Lerner / Frederick Loewe
 track-sort: "WANDRIN STAR"
+track-alpha: W
 track-original: Lee Marvin
 available-on:
  - release: Dean Wareham vs. Cheval Sombre

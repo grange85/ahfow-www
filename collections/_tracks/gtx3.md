@@ -7,6 +7,7 @@ type: ahfow_track
 track-lyrics: 
 track-author: 
 track-sort: "GTX3"
+track-alpha: G
 track-original: 
 available-on:
  - release: Luna - A Place Of Greater Safety

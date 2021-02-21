@@ -10,6 +10,7 @@ track-guitar: "C D G C\n(provided by brad)"
 track-guitar-flag: true
 track-author: 
 track-sort: "SLASH YOUR TIRES"
+track-alpha: S
 track-original: 
 video-flag: true
 videos:

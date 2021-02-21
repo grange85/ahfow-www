@@ -8,6 +8,7 @@ track-id: 194
 track-lyrics: 
 track-author: Tom Rapp
 track-sort: "I SAW THE WORLD/ANOTHER TIME"
+track-alpha: I
 track-original: Pearls Before Swine
 cover: true
 ---

@@ -46,6 +46,7 @@ A B E
 track-guitar-flag: true
 track-author: Buffy Saint-Marie
 track-sort: "MOONSHOT"
+track-alpha: M
 track-original: Buffy Saint-Marie
 cover: true
 ---

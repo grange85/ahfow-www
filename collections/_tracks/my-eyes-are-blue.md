@@ -8,5 +8,6 @@ track-id: 381
 track-lyrics: 
 track-author: Dean Wareham
 track-sort: "MY EYES ARE BLUE"
+track-alpha: M
 track-original: 
 ---

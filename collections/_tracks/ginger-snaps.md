@@ -10,5 +10,6 @@ track-guitar: "Intro: \nF7\n\nVerse: \nC F7\n\nChorus: \nDm Am Em F\nDm Am G G \
 track-guitar-flag: true
 track-author: 
 track-sort: "GINGER SNAPS"
+track-alpha: G
 track-original: 
 ---

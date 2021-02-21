@@ -10,5 +10,6 @@ track-guitar: "verse: D A G\nchange: A D A E\nA D G\nD A\n(provided by brad)"
 track-guitar-flag: true
 track-author: 
 track-sort: "ROLL IN THE SAND"
+track-alpha: R
 track-original: 
 ---

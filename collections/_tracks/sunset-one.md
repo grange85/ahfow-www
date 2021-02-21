@@ -7,5 +7,6 @@ type: ahfow_track
 track-lyrics: 
 track-author: 
 track-sort: "SUNSET ONE"
+track-alpha: S
 track-original: 
 ---

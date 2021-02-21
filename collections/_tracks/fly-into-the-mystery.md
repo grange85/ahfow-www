@@ -8,6 +8,7 @@ track-id: 189
 track-lyrics: 
 track-author: Jonathan Richman
 track-sort: "FLY INTO THE MYSTERY"
+track-alpha: F
 track-original: Jonathan Richman
 cover: true
 ---

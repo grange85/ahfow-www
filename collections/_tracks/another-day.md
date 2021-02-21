@@ -10,5 +10,6 @@ track-guitar: "verses: E D E\nchange: E D A\n\n(provided by brad)"
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "ANOTHER DAY"
+track-alpha: A
 track-original: 
 ---

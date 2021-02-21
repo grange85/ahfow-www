@@ -10,5 +10,6 @@ track-guitar: "my favorite song to play\nC Fmaj7 C\nC Fmaj7 G\nC Fmaj7 C Amin\nC
 track-guitar-flag: true
 track-author: 
 track-sort: "I WANT EVERYTHING"
+track-alpha: I
 track-original: 
 ---

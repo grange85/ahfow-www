@@ -8,5 +8,6 @@ track-id: 306
 track-lyrics: 
 track-author: 
 track-sort: "HARD LIFE"
+track-alpha: H
 track-original: 
 ---

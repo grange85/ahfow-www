@@ -8,6 +8,7 @@ track-id: 286
 track-lyrics: 
 track-author: 
 track-sort: "SECOND LIFE"
+track-alpha: S
 track-original: 
 available-on:
  - release: Damon & Naomi - The Earth is Blue

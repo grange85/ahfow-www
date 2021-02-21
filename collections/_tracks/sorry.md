@@ -10,5 +10,6 @@ track-guitar: "verses: D/F# G Emin7 A\nchange: Emin7 A Emin7 A Emin7 E D\n\n(pro
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "SORRY"
+track-alpha: S
 track-original: 
 ---

@@ -10,5 +10,6 @@ track-guitar: "Intro, Verse\nA#, D#\nChange (shadows)\nG, F,G, F,C\n\n(provided 
 track-guitar-flag: true
 track-author: 
 track-sort: "ORANGE PEEL"
+track-alpha: O
 track-original: 
 ---

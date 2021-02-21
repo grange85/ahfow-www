@@ -10,5 +10,6 @@ track-guitar: "Intro, Verse\nAm, C, Dm\n\nChorus\nAm, F, G, C, C/B\n\nWah Wah pa
 track-guitar-flag: true
 track-author: 
 track-sort: "BEGGAR'S BLISS"
+track-alpha: B
 track-original: 
 ---

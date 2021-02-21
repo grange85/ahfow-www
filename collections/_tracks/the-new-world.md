@@ -8,5 +8,6 @@ track-id: 161
 track-lyrics: 
 track-author: Krukowski/Yang/Masaki Batoh
 track-sort: "NEW WORLD"
+track-alpha: N
 track-original: 
 ---

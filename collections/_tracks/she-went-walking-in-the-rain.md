@@ -8,6 +8,7 @@ track-id: 372
 track-lyrics: 
 track-author: Kember/Popra
 track-sort: "SHE WENT WALKING"
+track-alpha: S
 track-original: Cheval Sombre
 cover: true
 ---

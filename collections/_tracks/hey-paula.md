@@ -22,6 +22,7 @@ track-lyrics: |
     My love, my love
 track-author: Ray Hildebrand
 track-sort: "HEY PAULA"
+track-alpha: H
 track-original: Paul and Paula
 cover: true
 available-on:

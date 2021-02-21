@@ -10,5 +10,6 @@ track-guitar: "key of A\nmain riff: arpeggiate these chords -- x(0)(0)979, x(0)(
 track-guitar-flag: true
 track-author: 
 track-sort: "MATH WIZ"
+track-alpha: M
 track-original: 
 ---

@@ -8,6 +8,7 @@ track-id: 336
 track-lyrics: 
 track-author: 
 track-sort: "HE'S COMING HOME"
+track-alpha: H
 track-original: The Wailers
 cover: true
 ---

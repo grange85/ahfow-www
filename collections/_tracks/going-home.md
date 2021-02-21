@@ -10,5 +10,6 @@ track-guitar: "verse: C F C\nchange: F G F\n(provided by brad)"
 track-guitar-flag: true
 track-author: 
 track-sort: "GOING HOME"
+track-alpha: G
 track-original: 
 ---

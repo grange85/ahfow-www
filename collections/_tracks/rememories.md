@@ -10,5 +10,6 @@ track-guitar: "Intro, Verse,\nA, F, E, then end with D on the last EYE, and Marb
 track-guitar-flag: true
 track-author: 
 track-sort: "REMEMORIES"
+track-alpha: R
 track-original: 
 ---

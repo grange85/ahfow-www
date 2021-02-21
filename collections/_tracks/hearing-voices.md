@@ -10,5 +10,6 @@ track-guitar: "capo 2nd fret\nverses: F C F C F C G\nchange: D F D F D F C\n\n(p
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "HEARING VOICES"
+track-alpha: H
 track-original: 
 ---

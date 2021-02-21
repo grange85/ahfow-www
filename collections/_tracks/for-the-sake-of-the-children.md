@@ -8,6 +8,7 @@ track-id: 181
 track-lyrics: 
 track-author: Baskin/Relcheg
 track-sort: "FOR THE SAKE OF THE CHILDREN"
+track-alpha: F
 track-original: Henry Gibson
 cover: true
 ---

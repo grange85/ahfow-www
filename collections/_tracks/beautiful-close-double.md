@@ -8,5 +8,6 @@ track-id: 285
 track-lyrics: 
 track-author: 
 track-sort: "BEAUTIFUL CLOSE DOUBLE"
+track-alpha: B
 track-original: 
 ---

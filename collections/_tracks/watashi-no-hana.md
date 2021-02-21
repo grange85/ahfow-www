@@ -8,5 +8,6 @@ track-id: 269
 track-lyrics: 
 track-author: Tomokawa Kazuki
 track-sort: "WATASHI NO HANA"
+track-alpha: W
 track-original: 
 ---

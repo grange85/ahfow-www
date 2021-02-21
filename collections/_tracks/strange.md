@@ -10,5 +10,6 @@ track-guitar: "intro: D (lift finger off bottom string)\nthen G D Amin \n\n(prov
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "STRANGE"
+track-alpha: S
 track-original: 
 ---

@@ -10,6 +10,7 @@ track-guitar: "Intro\nBass, and drums in the key of D\nVerse\nb- - - - 10- - - -
 track-guitar-flag: true
 track-author: 
 track-sort: "TWENTY THREE MINUTES IN BRUSSELS"
+track-alpha: T
 track-original: 
 available-on:
  - release: Luna - Penthouse

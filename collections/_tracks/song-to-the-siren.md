@@ -8,6 +8,7 @@ track-id: 226
 track-lyrics: 
 track-author: Tim Buckley
 track-sort: "SONG TO THE SIREN"
+track-alpha: S
 track-original: Tim Buckley
 cover: true
 ---

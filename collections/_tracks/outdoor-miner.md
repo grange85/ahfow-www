@@ -10,6 +10,7 @@ track-guitar: "intro: E\nverse: A C#min B\nchorus: E A G B\n\n(provided by brad)
 track-guitar-flag: true
 track-author: Lewis/Newman
 track-sort: "OUTDOOR MINER"
+track-alpha: O
 track-original: Wire
 cover: true
 ---

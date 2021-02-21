@@ -27,5 +27,6 @@ track-lyrics: |
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "OBLIVIOUS"
+track-alpha: O
 track-original: 
 ---

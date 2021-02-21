@@ -8,5 +8,6 @@ track-id: 129
 track-lyrics: 
 track-author: 
 track-sort: "LITTLE RED RECORD CO."
+track-alpha: L
 track-original: 
 ---

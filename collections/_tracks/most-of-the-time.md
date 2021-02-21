@@ -7,6 +7,7 @@ type: ahfow_track
 track-lyrics: 
 track-author: Bob Dylan
 track-sort: "MOST OF THE TIME"
+track-alpha: M
 track-original: Bob Dylan
 available-on:
  - release: Luna - A Sentimental Education

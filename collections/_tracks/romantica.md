@@ -10,5 +10,6 @@ track-guitar: "Intro, Verse\nG, C, D\nChorus\nF, C, D\n\n(provided by Drew)"
 track-guitar-flag: true
 track-author: 
 track-sort: "ROMANTICA"
+track-alpha: R
 track-original: 
 ---

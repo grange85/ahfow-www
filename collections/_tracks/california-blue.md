@@ -62,6 +62,7 @@ track-lyrics: |
   California blue
 track-author: Orbison / Lynne / Petty
 track-sort: "CALIFORNIA BLUE"
+track-alpha: C
 track-original: Roy Orbison
 cover: true
 available-on:

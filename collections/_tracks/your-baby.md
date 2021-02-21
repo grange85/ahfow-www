@@ -10,5 +10,6 @@ track-guitar: "Intro: G Dm G Dm\nVerse: G Dm C G Dm C F-Bb\nB sec: G Dm G Dm G D
 track-guitar-flag: true
 track-author: 
 track-sort: "YOUR BABY"
+track-alpha: Y
 track-original: 
 ---

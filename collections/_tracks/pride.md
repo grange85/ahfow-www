@@ -8,5 +8,6 @@ track-id: 245
 track-lyrics: 
 track-author: 
 track-sort: "PRIDE"
+track-alpha: P
 track-original: 
 ---

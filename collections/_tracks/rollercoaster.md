@@ -10,5 +10,6 @@ track-guitar: "A F G\n(provided by brad)"
 track-guitar-flag: true
 track-author: 
 track-sort: "ROLLERCOASTER"
+track-alpha: R
 track-original: 
 ---

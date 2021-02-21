@@ -7,6 +7,7 @@ type: ahfow_track
 track-lyrics: 
 track-author: 
 track-sort: "IDES OF MARCH OF THE TROLLS"
+track-alpha: I
 track-original: 
 available-on:
  - release: Luna - A Place Of Greater Safety

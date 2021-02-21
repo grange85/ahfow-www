@@ -10,5 +10,6 @@ track-guitar: "Verse: Dm E D B / Bm E D\nChorus: C G C G D D E E B\nBridge: F# E
 track-guitar-flag: true
 track-author: 
 track-sort: "OUT WALKING"
+track-alpha: O
 track-original: 
 ---

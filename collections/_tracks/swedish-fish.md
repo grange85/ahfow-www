@@ -10,5 +10,6 @@ track-guitar: "Intro\nE, A, B\nChorus\nF#, A, B\n\n(provided by Drew)"
 track-guitar-flag: true
 track-author: 
 track-sort: "SWEDISH FISH"
+track-alpha: S
 track-original: 
 ---

@@ -6,6 +6,7 @@ name: if-i-could-only-fly
 type: ahfow_track
 track-author: D. M. Fuller
 track-sort: "IF I COULD ONLY FLY"
+track-alpha: I
 track-original:
 available-on:
  - release: Dean Wareham vs. Cheval Sombre

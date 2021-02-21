@@ -7,6 +7,7 @@ type: ahfow_track
 track-lyrics: 
 track-author: Doug Yule
 track-sort: "FRIENDS"
+track-alpha: F
 track-original: The Velvet Underground
 available-on:
  - release: Luna - A Sentimental Education

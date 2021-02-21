@@ -6,7 +6,8 @@ name: kuiper-belt
 type: ahfow_track
 track-lyrics: 
 track-author: Luna
-track-sort: KUIPER BELT
+track-sort: "KUIPER BELT"
+track-alpha: K
 track-original: 
 available-on:
   - release: "Something In The Air"

@@ -10,6 +10,7 @@ track-guitar: "G F C\n\n(provided by brad)"
 track-guitar-flag: true
 track-author: David Byrne
 track-sort: "THANK YOU FOR SENDING ME AN ANGEL"
+track-alpha: T
 track-original: Talking Heads
 cover: true
 ---

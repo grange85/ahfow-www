@@ -6,6 +6,7 @@ name: grand-canyon
 type: ahfow_track
 track-author: Stephin Merritt
 track-sort: "Grand Canyon"
+track-alpha: G
 track-original: The Magnetic Fields
 available-on:
  - release: Dean Wareham vs. Cheval Sombre

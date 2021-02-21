@@ -8,6 +8,7 @@ track-id: 203
 track-lyrics: 
 track-author: 
 track-sort: "AFTER TOMORROW"
+track-alpha: A
 track-original: 
 available-on:
  - release: Magic Hour - After Tomorrow

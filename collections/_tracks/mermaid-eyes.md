@@ -10,5 +10,6 @@ track-guitar: "Intro\nA, Fm,\nChorus\nD, Bm, A?\nChange\nBm, E,  Bm,  E, D, Gm, 
 track-guitar-flag: true
 track-author: 
 track-sort: "MERMAID EYES"
+track-alpha: M
 track-original: 
 ---

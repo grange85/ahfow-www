@@ -53,6 +53,7 @@ track-lyrics: |
   Lonesome Cowboy Bill
 track-author: Lou Reed
 track-sort: "LONESOME COWBOY BILL"
+track-alpha: L
 track-original: The Velvet Underground
 available-on:
  - release: Luna / Cheval Sombre - Lonesome Cowboy Bill

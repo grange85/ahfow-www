@@ -22,6 +22,7 @@ track-guitar: |
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "LEAVE THE PLANET"
+track-alpha: L
 track-original:
 bandcamp:
   - album-id: 158016030

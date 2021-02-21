@@ -10,5 +10,6 @@ track-guitar: "verse: D D(bottom string open)\nchange: Amin G D\n\n(provided by 
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "KING OF SPAIN PART TWO"
+track-alpha: K
 track-original: 
 ---

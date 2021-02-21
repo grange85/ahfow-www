@@ -7,5 +7,6 @@ type: ahfow_track
 track-lyrics: 
 track-author: Leonard Cohen
 track-sort: "DANCE ME TO THE END OF LOVE"
+track-alpha: D
 track-original: Leonard Cohen
 ---

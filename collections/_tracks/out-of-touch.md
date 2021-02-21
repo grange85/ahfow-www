@@ -6,5 +6,6 @@ name: out-of-touch
 track-lyrics: 
 track-author: Wayne Rogers
 track-sort: "OUT OF TOUCH"
+track-alpha: O
 track-original: 
 ---

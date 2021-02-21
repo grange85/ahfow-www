@@ -8,5 +8,6 @@ track-id: 291
 track-lyrics: 
 track-author: 
 track-sort: "UENO STATION"
+track-alpha: U
 track-original: 
 ---

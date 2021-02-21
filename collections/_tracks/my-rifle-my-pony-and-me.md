@@ -6,6 +6,7 @@ name: my-rifle-my-pony-and-me
 type: ahfow_track
 track-author: Webster / Levene / Tiomkin
 track-sort: "MY RIFLE, MY PONY AND ME"
+track-alpha: M
 track-original:
 available-on:
  - release: Dean Wareham vs. Cheval Sombre

@@ -10,5 +10,6 @@ track-guitar: "Verse\nC#, Eb, E, End of Verse F#, E\n\nChorus\nC#, B, A, end of 
 track-guitar-flag: true
 track-author:
 track-sort: "PUP TENT"
+track-alpha: P
 track-original:
 ---

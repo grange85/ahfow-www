@@ -10,5 +10,6 @@ track-guitar: "C G x 2\nF G Am G\nbreaks: walk up bass A>B>C>D under single note
 track-guitar-flag: true
 track-author: 
 track-sort: "ASTRONAUT"
+track-alpha: A
 track-original: 
 ---

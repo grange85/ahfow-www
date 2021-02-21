@@ -10,6 +10,7 @@ track-guitar: "F# B\n\n(provided by britta)"
 track-guitar-flag: true
 track-author: Roback/Smith
 track-sort: "HEAR THE WIND BLOW"
+track-alpha: H
 track-original: Opal
 cover: true
 ---

@@ -8,6 +8,7 @@ track-id: 310
 track-lyrics: 
 track-author: Adam Green
 track-sort: "WE'RE NOT SUPPOSED TO BE LOVERS"
+track-alpha: W
 track-original: Adam Green
 cover: true
 ---

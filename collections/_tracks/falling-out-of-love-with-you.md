@@ -8,6 +8,7 @@ track-id: 198
 track-lyrics: 
 track-author: Stephin Merritt
 track-sort: "FALLING OUT OF LOVE WITH YOU"
+track-alpha: F
 track-original: The Sixths
 cover: true
 ---

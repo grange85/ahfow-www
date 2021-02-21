@@ -8,6 +8,7 @@ track-id: 244
 track-lyrics:
 track-author: George McRae
 track-sort: "ROCK YOUR BABY"
+track-alpha: R
 track-original: George McRae
 cover: true
 available-on:

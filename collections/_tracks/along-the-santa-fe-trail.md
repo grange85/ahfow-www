@@ -6,6 +6,7 @@ name: along-the-santa-fe-trail
 type: ahfow_track
 track-author: Dubin / Coolidge / Grosz
 track-sort: "Grand Canyon"
+track-alpha: G
 track-original:
 available-on:
  - release: Dean Wareham vs. Cheval Sombre

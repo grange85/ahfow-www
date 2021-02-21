@@ -8,6 +8,7 @@ track-id: 296
 track-lyrics: 
 track-author: K. Tomokawa
 track-sort: "MY FLOWER"
+track-alpha: M
 track-original: 
 cover: true
 ---

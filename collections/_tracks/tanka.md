@@ -8,5 +8,6 @@ track-id: 167
 track-lyrics: 
 track-author: 
 track-sort: "TANKA"
+track-alpha: T
 track-original: 
 ---

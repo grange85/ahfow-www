@@ -10,6 +10,7 @@ track-guitar: "intro: A D A\nverses: A D A D E A E A\nend with A then D\n\n(prov
 track-guitar-flag: true
 track-author: Moxham
 track-sort: "FINAL DAY"
+track-alpha: F
 track-original: Young Marble Giants, The
 cover: true
 ---

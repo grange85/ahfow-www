@@ -8,6 +8,7 @@ track-id: 223
 track-lyrics: 
 track-author: Lou Reed
 track-sort: "WALK ON THE WILD SIDE"
+track-alpha: W
 track-original: Lou Reed
 cover: true
 ---

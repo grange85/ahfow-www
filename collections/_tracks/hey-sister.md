@@ -10,5 +10,6 @@ track-guitar: "verse: E A\nchange: D then A\n(provided by brad)\nalternative ver
 track-guitar-flag: true
 track-author: 
 track-sort: "HEY SISTER"
+track-alpha: H
 track-original: 
 ---

@@ -10,5 +10,6 @@ track-guitar: "capo at first fret\ntab shown in key of A relative to capo (mixol
 track-guitar-flag: true
 track-author: 
 track-sort: "US OUT OF MY PANTS"
+track-alpha: U
 track-original: 
 ---

@@ -8,6 +8,7 @@ track-id: 175
 track-lyrics: 
 track-author: Lee Hazlewood
 track-sort: "BY THE WAY (I STILL LOVE YOU)"
+track-alpha: B
 track-original: Sinatra, Nancy
 cover: true
 ---

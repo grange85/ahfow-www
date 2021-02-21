@@ -39,6 +39,7 @@ track-guitar: |
 track-guitar-flag: true
 track-author: D.C.Berman
 track-sort: "RANDOM RULES"
+track-alpha: R
 track-original: Silver Jews
 cover: true
 ---

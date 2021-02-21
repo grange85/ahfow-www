@@ -10,6 +10,7 @@ track-guitar: "D A B\nB A G\nA D\n\n(provided by brad)"
 track-guitar-flag: true
 track-author: Reed/Cale
 track-sort: "RIDE INTO THE SUN"
+track-alpha: R
 track-original: Velvet Underground, The
 cover: true
 ---

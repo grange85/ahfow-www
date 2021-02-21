@@ -8,5 +8,6 @@ track-id: 293
 track-lyrics: 
 track-author: Caetano Veloso
 track-sort: "ARACA AZUL"
+track-alpha: A
 track-original: 
 ---

@@ -8,6 +8,7 @@ track-id: 364
 track-lyrics: 
 track-author: Krukowski/Yang
 track-sort: "AND YOU ARE THERE"
+track-alpha: A
 track-original: 
 video-flag: true
 videos:

@@ -10,5 +10,6 @@ track-guitar: "key of G (mixolydian mode)\n[G] Will you stand trial\n[F] For cri
 track-guitar-flag: true
 track-author: 
 track-sort: "WORDS WITHOUT WRINKLES"
+track-alpha: W
 track-original: 
 ---

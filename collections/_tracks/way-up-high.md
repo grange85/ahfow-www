@@ -10,5 +10,6 @@ track-guitar: "verses: G Amin\nchange: D Amin\n\n(provided by brad)"
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "WAY UP HIGH"
+track-alpha: W
 track-original: 
 ---

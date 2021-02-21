@@ -8,5 +8,6 @@ track-id: 308
 track-lyrics: 
 track-author: Lys Guillorn
 track-sort: "LITTLE WREN"
+track-alpha: L
 track-original: 
 ---

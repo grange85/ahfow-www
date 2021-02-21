@@ -8,5 +8,6 @@ track-id: 345
 track-lyrics: 
 track-author: 
 track-sort: "SILVER FACTORY"
+track-alpha: S
 track-original: 
 ---

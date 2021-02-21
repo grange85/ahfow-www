@@ -8,6 +8,7 @@ track-id: 380
 track-lyrics: 
 track-author: Michael Holland
 track-sort: "HEARTLESS PEOPLE"
+track-alpha: H
 track-original: 
 cover: true
 ---

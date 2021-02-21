@@ -10,5 +10,6 @@ track-guitar: "there's a lot going on, but the basic chords are\nverse: D Asus D
 track-guitar-flag: true
 track-author: 
 track-sort: "I KNOW YOU TRIED"
+track-alpha: I
 track-original: 
 ---

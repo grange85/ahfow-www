@@ -8,6 +8,7 @@ track-id: 192
 track-lyrics: 
 track-author: Clive Palmer
 track-sort: "SPIRIT OF LOVE"
+track-alpha: S
 track-original: Clive Palmer
 cover: true
 ---

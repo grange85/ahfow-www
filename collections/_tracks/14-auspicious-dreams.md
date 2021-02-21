@@ -8,6 +8,7 @@ track-id: 191
 track-lyrics: 
 track-author: Yang / Hopper
 track-sort: "FOURTEEN AUSPICIOUS DREAMS"
+track-alpha: F
 track-original: 
 available-on:
   - release: "Ptolemaic Terrascope Benefit EP: Terrastock April 25-27 1997"

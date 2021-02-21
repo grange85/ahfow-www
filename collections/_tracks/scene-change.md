@@ -8,6 +8,7 @@ track-id: 136
 track-lyrics: 
 track-author: 
 track-sort: "SCENE CHANGE"
+track-alpha: S
 track-original: 
 available-on:
   - release: "Damon & Naomi - More Sad Hits"

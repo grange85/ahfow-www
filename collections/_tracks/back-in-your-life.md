@@ -8,6 +8,7 @@ track-id: 274
 track-lyrics: 
 track-author: Jonathan Richman
 track-sort: "Back in Your Life"
+track-alpha: B
 track-original: Jonathan Richman
 cover: true
 ---

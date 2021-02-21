@@ -42,6 +42,7 @@ track-lyrics: |
     But don’t think twice, it’s all right
 track-author: Bob Dylan
 track-sort: "DON'T THINK TWICE IT'S ALRIGHT"
+track-alpha: D
 track-original: Bob Dylan
 cover: true
 available-on:

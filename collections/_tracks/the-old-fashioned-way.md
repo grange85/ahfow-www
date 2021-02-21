@@ -10,5 +10,6 @@ track-guitar: "main riff throughout verses: arpeggiate these chords --\nEmin, D,
 track-guitar-flag: true
 track-author: 
 track-sort: "OLD FASHIONED WAY"
+track-alpha: O
 track-original: 
 ---

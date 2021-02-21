@@ -10,5 +10,6 @@ track-guitar: "------2---------2-------2-------------------------\n----------3--
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "OTHER SIDE"
+track-alpha: O
 track-original: 
 ---
