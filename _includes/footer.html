@@ -37,7 +37,7 @@
 	integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF" 
 	crossorigin="anonymous"></script>
 
-<script src="{{ "/js/ahfow.js" | prepend: site.baseurl }}"></script>
+<script src="{{ '/js/ahfow.js?' | prepend: site.baseurl | append: site.ahfow-version }}"></script>
 {% if page.title == 'Search results' %}
 	<script>$('#q').val(window.location.search.split('=')[1].replace(/\+/g,' '));</script>
 {% endif %}
