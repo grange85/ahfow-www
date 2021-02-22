@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: After the Goldrush
 name: after-the-goldrush

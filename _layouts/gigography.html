@@ -3,29 +3,20 @@ layout: default
 ---
 	{% assign artist = site.data.artists[page.artistslug] %}
 
-	{% if page.year %}
-		{% assign page_title = page.year %}
-	{% else %}
-		{% assign page_title = page.title %}
-	{% endif %}
+	{% capture page_title %}{{artist.name | append: ' shows'}}{% if page.year > 1 %} - {{page.year}}{% endif %}{% endcapture %}
 
 		{% include breadcrumbs.html %}
 
 
 			<div class="row">
 				<div class="col">
-					<nav>
-						<h3 id="upcoming">Archive of {{artist.name}} shows</h3>
-						<div class="">
-							<div class="row">
+						<nav class="navbar navbar-expand-lg navbar-light bg-light">
+		    				<ul class="list-inline">
 						{% for year in artist.yearsactive %}
-								<div class="col">
-								<a class=" {% if year == page.year %}disabled{% endif %}" href="/database/{{artist.slug}}/shows/{{year}}/">{{year}}</a>
-								</div>
+								<li class="list-inline-item"><a class="nav-link {% if year == page.year %}disabled{% endif %}" href="/database/{{artist.slug}}/shows/{{year}}/">{{year}}</a></li>
 						{% endfor %}
-							</div>
-						</div>
-					</nav>
+							</ul>
+						</nav>
 					<div class="alert alert-warning" role="alert"><i class="bi-alert-triangle"></i> The lists of shows are far from complete! If you know of any that are missing <a href="mailto:andy@fullofwishes.co.uk">please get in touch</a>.</div>
 				</div>
 			</div>
@@ -50,8 +41,6 @@ layout: default
 						{% endif %}
 				{% else %}
 					{% if shows %}
-						<h3>{{ artist.name }} shows in {{ page.year }}</h3>
-
 						<div class="alert alert-info" role="alert"><i class="bi bi-key"></i> Key : <i class="bi bi-card-list"></i> = Setlist, <i class="bi bi-card-image"></i> = Poster, <i class="bi bi-camera"></i> = Photos, <i class="bi bi-download"></i> = show available for download, <i class="bi bi-link"></i> = links to reviews etc.</div>
 						<table class="table table-striped">
 						{% for show in shows %}

@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: The Earth is Blue
 name: the-earth-is-blue

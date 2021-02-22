@@ -1,42 +1,57 @@
 ---
 layout: default
 ---
+
+
+{% case page.list %}
+	{% when 'covers' %}
+		{% assign tracks = site.tracks | where: "cover", true | sort: 'track-alpha' %}
+		{% assign tracks = tracks | group_by: "track-alpha"  | sort: 'track-sort' %}
+		{% assign page_title = "Covers" %}
+	{% when 'chords' %}
+		{% assign tracks = site.tracks | where: "track-guitar-flag", true | sort: 'track-alpha' %}
+		{% assign tracks = tracks | group_by: "track-alpha"  | sort: 'track-sort' %}
+		{% assign page_title = "Guitar chords" %}
+	{% when 'videos' %}
+		{% assign tracks = site.tracks | where: "video-flag", true | sort: 'track-alpha' %}
+		{% assign tracks = tracks | group_by: "track-alpha"  | sort: 'track-sort' %}
+		{% assign page_title = "Videos" %}
+	{% else %}
+		{% assign tracks = site.tracks | group_by: "track-alpha" | sort: 'name' %}
+		{% assign page_title = "A-Z of tracks" %}
+{% endcase %}
+
 {% include breadcrumbs.html %}
 
 
-							{% case page.list %}
-								{% when 'covers' %}
-									{% assign tracks = site.tracks | where: "cover", true %}
-									{% assign tracks = tracks | group_by: "track.alpha"  | sort: 'track-sort' %}
-									{% assign page_title = "Covers" %}
-								{% when 'chords' %}
-									{% assign tracks = site.tracks | group-by: "track.alpha" | sort: 'name' %}
-									{% assign page_title = "Guitar chords" %}
-								{% when 'videos' %}
-									{% assign tracks = site.tracks | where: "video-flag", true | group-by: "track.alpha" | sort: 'name' %}
-									{% assign page_title = "Videos" %}
-								{% else %}
-									{% assign tracks = site.tracks | group_by: "track-alpha" | sort: 'name' %}
-									{% assign page_title = "Covers" %}
-							{% endcase %}
-
-
+<div class="row">
+	<div class="col">
+		<nav class="navbar navbar-expand-lg navbar-light bg-light">
+		    <ul class="navbar-nav mr-auto">
+		      <li class="nav-item {% if page.list == 'full' %}active{%endif%}"><a class="nav-link" href="/database/tracks/">Full list</a></li>
+		      <li class="nav-item {% if page.list == 'covers' %}active{%endif%}"><a class="nav-link" href="/database/tracks/covers/">Covers</a></li>
+		      <li class="nav-item {% if page.list == 'chords' %}active{%endif%}"><a class="nav-link" href="/database/tracks/chords/">Guitar chords</a></li>
+		      <li class="nav-item {% if page.list == 'videos' %}active{%endif%}"><a class="nav-link" href="/database/tracks/videos/">Videos</a></li>
+		    </ul>
+		</nav>
+	</div>
+</div>
 
 
 <div class="row">
 	<div class="col-md-12">
 
-<div class="" >
-  	<div class="">
-  		<ul class="list-inline">
-		{% for section in tracks %}	
-			<li class="list-inline-item">
-				<a class="nav-link" href="#{{section.name}}">{{section.name}}</a>
-			</li>
-		{% endfor %}
-		</ul>
+	<div class="" >
+	  	<div class="">
+	  		<ul class="list-inline">
+			{% for section in tracks %}	
+				<li class="list-inline-item">
+					<a class="nav-link" href="#{{section.name}}">{{section.name}}</a>
+				</li>
+			{% endfor %}
+			</ul>
+		</div>
 	</div>
-</div>
 
 {% for section in tracks %}
 		<div class="card" id="{{section.name}}">

@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Straight Up
 name: straight-up

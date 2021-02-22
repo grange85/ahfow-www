@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Permanent Green Light
 name: permanent-green-light

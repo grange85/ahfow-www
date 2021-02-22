@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: 23 Minutes in Brussels
 name: 23-minutes-in-brussels

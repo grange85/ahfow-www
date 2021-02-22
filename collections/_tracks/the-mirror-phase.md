@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: The Mirror Phase
 name: the-mirror-phase

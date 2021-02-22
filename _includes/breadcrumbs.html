@@ -7,7 +7,7 @@
 {% endif %}
 
 <div class="row">
-	<div class="col-md-12">
+	<div class="col">
 		<nav aria-label="breadcrumb">
 			<ul class="breadcrumb">
 				<li class="breadcrumb-item"><a href="/">Home</a></li>
@@ -15,12 +15,16 @@
 				<li class="breadcrumb-item"><a href="/database/">Releases, shows and tracks</a></li>
 				{% endif %}
 
-				{% if level > 2 %}
+				{% if level > 2 and area == 'database'%}
 				<li class="breadcrumb-item"><a href="/database/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %}</a></li>
 				{% endif %}
 
 				{% if level > 3 and page.layout == 'gigography' %}
 				<li class="breadcrumb-item"><a href="/database/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/shows/">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %} shows</a></li>
+				{% endif %}
+
+				{% if level == 3 and page.layout == 'atoz' or page.layout == 'track' %}
+					<li class="breadcrumb-item"><a href="/database/tracks/">A to Z of tracks</a></li>
 				{% endif %}
 
 				{% if level == 4 and page.layout == 'release' %}
@@ -46,5 +50,11 @@
 				<li class="breadcrumb-item" aria-content="page">{{page_title}}</li>
 			</ul>
 		</nav>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col">
+		<h2 class="px-3 bg-light">{{page_title}}</h2>
 	</div>
 </div>

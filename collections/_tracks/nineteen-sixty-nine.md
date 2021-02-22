@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Nineteen Sixty-Nine
 name: nineteen-sixty-nine

@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Indian Summer
 permalink: /database/tracks/indian-summer-doors/

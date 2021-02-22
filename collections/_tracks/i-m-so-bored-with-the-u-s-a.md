@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: I'm So Bored With The U. S. A.
 name: i-m-so-bored-with-the-u-s-a

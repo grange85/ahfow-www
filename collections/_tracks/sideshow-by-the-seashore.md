@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Sideshow By The Seashore
 name: sideshow-by-the-seashore

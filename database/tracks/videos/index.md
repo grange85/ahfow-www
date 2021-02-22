@@ -3,6 +3,7 @@ layout: atoz
 title : A-Z of tracks with promo videos
 list: videos
 categories: primary
+position: atoz-3
 description: >
   An A to Z list of tracks that have promo videos.
 ---

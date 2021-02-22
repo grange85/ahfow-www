@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Distractions, Pt. 1
 name: distractions-part-1

@@ -1,107 +1,96 @@
-<!DOCTYPE html>
-<html>
-{% assign newtitle = page.title %}
+---
+layout: default
+---
+{% assign page_title = page.title %}
 {% if page.description %}{% assign description = page.description %}{% else %}
 	{% capture description %}Details of the track '{{page.title}}', including, when available, lyrics and guitar chords{% endcapture %}
 {% endif %}
-{% include head.html %}
-<body>
-	{% include tagmanager.html %}
-	{% include header.html %}
-	{% include social.html %}
-	<div class="container">
-		<div class="row">
-			<div class="wrapper col-md-9">
-				<div class="row">
-					<div class="col-md-12">
-						<nav>
-							<ul class="breadcrumb">
-								<li><a href="/">Home</a></li>
-								<li><a href="/database/">Database</a></li>
 
-								<li><a href="/database/tracks/">Tracks</a></li>
-								<li>{{page.title}}</li>
-							</ul>
-						</nav>
-					</div>
-				</div>
-
-
-				<div class="row">
-					<div class="col-md-12">
-						<h3>Information</h3>
-						<ul>
-						<li>Title: {{page.title}}</li>
-						<li>Written by: {{page.track-author}}</li>
-						{% if page.track-original %}
-							<li>Original by: {{page.track-original}}</li>
-						{% endif %}
-						{% if page.available-on %}
-						</ul>
-							<h3>Available on</h3>
-							<ul>
-							{% for avail in page.available-on %}
-								<li><a href="{{avail.url}}">{{avail.release}}</a></li>
-							{% endfor %}
-						</ul>
-						{% endif %}
-
-						{% if page.ahfow-posts %}
-						</ul>
-							<h3>Posts</h3>
-							<ul>
-							{% for ahfow in page.ahfow-posts %}
-								<li><a href="{{ahfow.post-url}}">{{ahfow.post-title}}</a></li>
-							{% endfor %}
-						</ul>
-						{% endif %}
-
-
-					</div>
-				</div>
-
-				{% if page.bandcamp %}
-				<div class="row">
-					<div class="col-md-12">
-						<h3>Bandcamp</h3>
-						{% for bc in page.bandcamp %}
-
-								<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album={{bc.album-id}}/size=small/bgcol=ffffff/linkcol=0687f5/track={{bc.track-id}}/transparent=true/" seamless><a href="{{bc.album-url}}">{{bc.album-title}}</a></iframe>
-
-						{% endfor %}
-					</div>
-				</div>
-				{% endif %}
-
-
-
-				{% if page.videos %}
-				{% endif %}
-
-
-				<div class="row">
-					<div class="col-md-12">
-						{{content}}
-						{% if page.track-lyrics %}
-							<h3>Lyrics</h3>
-							{{page.track-lyrics | newline_to_br}}
-						{% endif %}     
-						{% if page.track-guitar %}
-							<h3>Guitar</h3>
-							<pre>{{page.track-guitar}}</pre>
-						{% endif %}     
-					</div>
-				{% if page.layout == 'release' or page.layout == 'track' or page.layout == 'show' %}
-
-				{% endif %}
-				</div>
+{% include breadcrumbs.html %}
+<div class="row">
+	<div class="col-md-12">
+		<div class="card">
+			<div class="card-header">
+				<h3>Information</h3>
 			</div>
-			<div class="col-md-3">
-				{% include sidebar.html %}
+			<div class="card-body">
+				<ul>
+					<li>Title: {{page.title}}</li>
+					<li>Written by: {{page.track-author}}</li>
+					{% if page.track-original %}
+					<li>Original by: {{page.track-original}}</li>
+					{% endif %}
+				</ul>
 			</div>
 		</div>
-	</div>
-	{% include footer.html %}
-</body>
-</html>
+		{% if page.available-on %}
+		<div class="card">
+			<div class="card-header">
+				<h3>Available on</h3>
+			</div>
+			<div class="card-body">
+				<ul>
+					{% for avail in page.available-on %}
+					<li><a href="{{avail.url}}">{{avail.release}}</a></li>
+					{% endfor %}
+				</ul>
+			</div>
+		</div>
+		{% endif %}
+		{% if page.ahfow-posts %}
+		<div class="card">
+			<div class="card-header">
+				<h3>Posts</h3>
+			</div>
+			<div class="card-body">
+				<ul>
+					{% for ahfow in page.ahfow-posts %}
+					<li><a href="{{ahfow.post-url}}">{{ahfow.post-title}}</a></li>
+					{% endfor %}
+				</ul>
+			</div>
+		</div>
+		{% endif %}
+		{% if page.bandcamp %}
+		<div class="card">
+			<div class="card-header">
+				<h3>Bandcamp</h3>
+			</div>
+			<div class="card-body">
+			</div>
+		</div>
+		{% endif %}
 
+		{% if page.videos %}
+		<div class="card">
+			<div class="card-header">
+				<h3>Bandcamp</h3>
+			</div>
+			<div class="card-body">
+			</div>
+		</div>
+		{% endif %}
+
+		{% if page.track-lyrics %}
+		<div class="card">
+			<div class="card-header">
+				<h3>Lyrics</h3>
+			</div>
+			<div class="card-body">
+				{{page.track-lyrics | newline_to_br}}
+			</div>
+		</div>
+		{% endif %}
+
+		{% if page.track-guitar %}
+		<div class="card">
+			<div class="card-header">
+				<h3>Guitar</h3>
+			</div>
+			<div class="card-body">
+				<pre>{{page.track-guitar}}</pre>
+			</div>
+		</div>
+		{% endif %}
+	</div>
+</div>

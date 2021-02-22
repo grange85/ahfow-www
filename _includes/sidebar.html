@@ -21,12 +21,13 @@
                     <p class="card-title"><i class="bi bi-files"></i>&nbsp;Categories</p>
                 </div>
                 <div class="card-body">
-                    <ul class="pl-2">
-                    {% assign allcategories = site.categories | sort %}
-                    {% for category in allcategories %}
-                    <li><a href="{{ category | first | slugify | prepend: '/category/' }}/">{{ category | first }}</a></li>
-                    {% endfor %}
-                    </ul>
+                     <select class="custom-select" id="categories-dropdown" name="category-dropdown" onchange="document.location.href=this.options[this.selectedIndex].value;">
+                        <option value="text-truncate">Category</option>
+                        {% assign allcategories = site.categories | sort %}
+                        {% for category in allcategories %}
+                            <option value="{{ category | first | slugify | prepend: '/category/' }}/">{{ category | first }}</option>
+                        {% endfor %}
+                    </select>
                 </div>
             </div>
 

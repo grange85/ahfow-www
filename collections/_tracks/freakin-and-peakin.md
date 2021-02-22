@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Freakin' and Peakin'
 name: freakin-and-peakin

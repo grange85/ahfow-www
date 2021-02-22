@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: He Dines Out on Death
 name: he-dines-out-on-death

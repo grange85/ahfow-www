@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Tracy in New York
 name: tracy-in-new-york

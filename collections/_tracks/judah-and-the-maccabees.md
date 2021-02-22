@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Judah and the Maccabees
 name: judah-and-the-maccabees

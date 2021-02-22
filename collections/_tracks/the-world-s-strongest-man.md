@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: The World's Strongest Man
 name: the-world-s-strongest-man

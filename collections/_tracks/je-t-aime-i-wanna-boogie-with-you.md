@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Je T'aime (I Wanna Boogie With You)
 name: je-t-aime-i-wanna-boogie-with-you

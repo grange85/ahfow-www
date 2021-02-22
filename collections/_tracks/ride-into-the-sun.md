@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Ride Into the Sun
 name: ride-into-the-sun

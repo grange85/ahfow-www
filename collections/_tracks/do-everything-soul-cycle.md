@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Do Everything (Soul Cycle)
 name: do-everything-soul-cycle

@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Eulogy to Lenny Bruce
 name: eulogy-to-lenny-bruce

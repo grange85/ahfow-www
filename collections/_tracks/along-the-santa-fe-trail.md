@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Along The Santa Fe Trail
 name: along-the-santa-fe-trail

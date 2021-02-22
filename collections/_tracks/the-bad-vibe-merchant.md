@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: The Bad Vibe Merchant
 name: the-bad-vibe-merchant

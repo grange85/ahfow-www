@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Cindy Tastes of Barbecue
 name: cindy-tastes-of-barbecue

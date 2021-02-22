@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Seven Steps to Satan
 name: seven-steps-to-satan

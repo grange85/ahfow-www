@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: My Rifle, My Pony and Me
 name: my-rifle-my-pony-and-me

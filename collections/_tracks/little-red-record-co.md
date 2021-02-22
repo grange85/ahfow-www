@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Little Red Record Co.
 name: little-red-record-co

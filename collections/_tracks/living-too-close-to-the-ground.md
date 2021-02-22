@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Living Too Close to the Ground
 name: living-too-close-to-the-ground

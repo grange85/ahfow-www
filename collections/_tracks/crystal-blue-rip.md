@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Crystal Blue R.I.P.
 name: crystal-blue-rip

@@ -15,10 +15,11 @@ layout: default
 				<div class="row">
 					<div class="col">
 						<div class="dropdown">
-							<button class="btn btn-outline dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+
+							<button class="btn btn-outline-secondary w-100 dropdown-toggle dropdown-toggle-split" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
     							Index
 							</button>
-							<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">	
+							<div class="dropdown-menu w-100 text-center" aria-labelledby="dropdownMenuButton">	
 								<a class="dropdown-item" href="#information">Information</a>
 									{% if content != "" %}<a class="dropdown-item" href="#notes">Notes</a>{% endif %}
 									{% if page.performers %}<a class="dropdown-item" href="#performers">Performers</a>{% endif %}

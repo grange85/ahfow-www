@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: I Had A Thought
 name: i-had-a-thought

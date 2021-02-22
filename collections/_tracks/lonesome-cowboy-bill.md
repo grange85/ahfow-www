@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Lonesome Cowboy Bill
 name: lonesome-cowboy-bill
