@@ -53,9 +53,8 @@ And finally Dean & Britta struggling through it in Sweden
 
 _update 25th February 2021_
 
-It seems since I posted this the two versions from All Things Must Pass have arrived on YouTube so...
+It seems since I posted this the two versions from All Things Must Pass have arrived on YouTube ... 
+but not for embedding, so...
 
-{% ahfowvideo "lIbVWNy7HBk" "George Harrison - Isn't It a Pity (version 1)" %}
-
-{% ahfowvideo "bHV2CY5LOSQ" "George Harrison - Isn't It a Pity (version 2)" %}
-
+ - [George Harrison - Isn't It a Pity (version 1)](https://www.youtube.com/watch?v=lIbVWNy7HBk)
+ - [George Harrison - Isn't It a Pity (version 2)](https://www.youtube.com/watch?v=bHV2CY5LOSQ)
