@@ -17,20 +17,45 @@ categories:
 - originals
 tags: []
 ---
-<p>Isn't It a Pity first saw the light of day on George Harrison's triple album All Things Must Pass in 1970, but it had been kicking around for a while before that. It had been apparently been vetoed by John Lennon during The Beatles' Get Back Sessions, and George may have put it forward as a Beatles track as early as 1966 for Revolver. If you're interested there's <a href="http://en.wikipedia.org/wiki/Isn%27t_It_a_Pity">a lot more to the Isn't It a Pity story over at Wikipedia</a>!</p>
-<p>George recorded two versions for All Things Must Pass, which don't appear to be on YouTube... so here's a demo recorded during The Beatles' Get Back sessions<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MvH7TKLgT4g" frameborder="0" allowfullscreen></iframe>
-<p>And here's George (although not sure of the source of this version)<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dglAZzKa7xE" frameborder="0" allowfullscreen></iframe>
-<p>Galaxie 500 covered the song on their second album On Fire:<br />
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=158016030/size=medium/bgcol=ffffff/linkcol=0687f5/t=10/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/on-fire">On Fire by Galaxie 500</a></iframe></p>
-<p>The band didn't play it live because, according to this 1990 interview in Sounds, because it was "too hard":<br />
-<img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/19900929_sounds_snippet.jpg" width="500" height="203" class="aligncenter" /></p>
-<p>I guess things get easier over time as Dean's been playing it a few times of late:</p>
-<p>With Britta and Jonathan and Grasshopper of Mercury Rev:<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VOQx1IkN2II" frameborder="0" allowfullscreen></iframe>
-<p>With My Morning Jacket</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/qi8RVYOYZO8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
-<p>And finally Dean & Britta struggling through it in Sweden</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/5j2LWCsE24A" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
-<p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>
+Isn't It a Pity first saw the light of day on George Harrison's triple album All Things Must Pass in 1970, but it had been kicking around for a while before that. It had been apparently been vetoed by John Lennon during The Beatles' Get Back Sessions, and George may have put it forward as a Beatles track as early as 1966 for Revolver. If you're interested there's [a lot more to the Isn't It a Pity story over at Wikipedia](http://en.wikipedia.org/wiki/Isn%27t_It_a_Pity)
+
+George recorded two versions for All Things Must Pass, which don't appear to be on YouTube... so here's a demo recorded during The Beatles' Get Back sessions
+
+{% ahfowvideo "MvH7TKLgT4g" "Isn't It a Pity (demo, Get Back sessions)" %}
+
+And here's George (although not sure of the source of this version)
+
+{% ahfowvideo "YHR2SuS9u-4" "Isn't It a Pity (demo)" %}
+
+Galaxie 500 covered the song on their second album On Fire
+
+
+<iframe class="bandcamp" style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=158016030/size=medium/bgcol=ffffff/linkcol=0687f5/t=10/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/on-fire">On Fire by Galaxie 500</a></iframe>
+
+
+The band didn't play it live because, according to this 1990 interview in Sounds, because it was "too hard":
+
+{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/19900929_sounds_snippet.jpg" "Galaxie 500 clipping (Sounds, 1990)" %}
+
+I guess things get easier over time as Dean's been playing it a few times of late:
+
+With Britta and Jonathan and Grasshopper of Mercury Rev
+
+{% ahfowvideo "VOQx1IkN2II" "Dean Wareham - Isn't It a Pity (Mystery Spot)" %}
+
+With My Morning Jacket
+
+{% ahfowvideo "VOQx1IkN2II" "My Morning Jacket - Isn't It a Pity (feat. Dean Wareham)" %}
+
+And finally Dean & Britta struggling through it in Sweden
+
+{% ahfowvideo "5j2LWCsE24A" "Dean & Britta - Isn't It a Pity" %}
+
+_update 25th February 2021_
+
+It seems since I posted this the two versions from All Things Must Pass have arrived on YouTube so...
+
+{% ahfowvideo "lIbVWNy7HBk" "George Harrison - Isn't It a Pity (version 1)" %}
+
+{% ahfowvideo "bHV2CY5LOSQ" "George Harrison - Isn't It a Pity (version 2)" %}
+
