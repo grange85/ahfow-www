@@ -6,7 +6,8 @@
 .jumbotron {
 	background-image: url(https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image-1280x720-no-text.jpg);
 	background-size: cover;
-	background-position: right center;	
+	background-position: right center;
+	background-color: $primary;
 }
 h1 {
 }
@@ -14,4 +15,3 @@ h1 {
 /**
  * Images
  */
-

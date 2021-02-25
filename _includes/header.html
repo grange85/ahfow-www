@@ -65,8 +65,11 @@
 					{% unless page.title == 'Search results' %}
 					<div class="nav navbar-form navbar-right">
 						  <form class="form-inline" action="/search-results/" method="get">
-						    <input class="form-control mr-sm-2" id="q" name="q" type="search" placeholder="Search" aria-label="Search">
-						    <button class="btn btn-outline-secondary my-2 my-sm-0" type="submit"><i class="bi bi-search"></i></button>
+						  	<div role="search">
+							  	<label class="search-label sr-only" for="q">Search AHFoW:</label>
+							    <input class="form-control mr-sm-2" id="q" name="q" type="search" placeholder="Search AHFoW" aria-label="Search">
+							    <button class="btn btn-outline-secondary my-2 my-sm-0" type="submit" value="submit search" aria-label="Search"><i class="bi bi-search"></i></button>
+							</div>
 						  </form>
 					</div>
 					{% endunless %}
