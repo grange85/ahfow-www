@@ -9,13 +9,13 @@ $(document).ready(function() {
 	});
 
 	$("article iframe").each(function(index){
-	if(!$(this).parent('figure').length){
+	if(!$(this).parent('figure').length && !$(this).hasClass('bandcamp')){
 	  $(this).wrap('<figure class="figure embed-responsive embed-responsive-16by9"></figure>');
 		if(!$(this).hasClass('embed-responsive-item')){
 		  $(this).addClass('embed-responsive-item');
 		 }
 	 } else {
-	   if (!$(this).parent().hasClass('figure')){
+	   if (!$(this).parent().hasClass('figure') && !$(this).hasClass('bandcamp')){
 	   	$(this).parent().addClass('figure embed-responsive embed-responsive-16by9');
 	   	$(this).addClass('embed-responsive-item');
 	   }
