@@ -13,11 +13,11 @@ author:
 date: 2021-02-24
 imageurl: 
 categories:
- - luna
+ - dean & britta
  - video
 tags:
  - soundcheck
- - bob dylan
+ - joy division
 ---
 
 Another video I've just come across while doing some site housekeeping is this clip from Dean & Britta's show for the <abbr title="Rental Affordability Act">RAA<abbr> back in May of last year.
@@ -26,7 +26,7 @@ This was the duo's first full set livestream from their living room.
 
 They played for about and hour and wrapped the show up with this lovely version of Joy Division's Ceremony.
 
-{% ahfowvideo "TP0llpbmKEM" "Dean & Britta - Ceremony, May 2020" %}
+{% ahfowvideo "cczEdFUIWSo" "Dean & Britta - Ceremony, May 2020" %}
 
 ... and here's me in the middle of the UK night watching it...
 
