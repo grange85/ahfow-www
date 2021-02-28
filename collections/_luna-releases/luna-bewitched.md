@@ -202,7 +202,7 @@ releases:
 Stanley Demeski - drums, percussion
 Sean Eden - guitar
 Justin Harwood - bass
-Dean Warehan - guitar, vocals
+Dean Wareham - guitar, vocals
 
 Sterling Morrison plays electric guitar on "Friendly Advice and "Great ones Street".
 Grasshopper plays clarinet on "Sleeping Pill". Frank London plays trumpet on "California" and "Bewitched".
@@ -221,4 +221,4 @@ Thank you Terry Tolkin
 Art Direction by Laurie Henzel.
 Photos by Michael Levine.
 
-Music by LUNA. Words by Dean Warehan
+Music by LUNA. Words by Dean Wareham

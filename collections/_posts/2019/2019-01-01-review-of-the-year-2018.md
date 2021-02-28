@@ -82,7 +82,7 @@ The album was scheduled for a release at an unspecified time at some point in th
 
 After a long, long wait the first nugget from Dean Wareham's cowboy songs LP with Cheval Sombre finally saw the light of day. The first single from the album was Dean's cover of Wayfaring Stranger:
 
-{% ahfowvideo "PW2MhCZH_Ts" "Dean Warehan vs. Cheval Sombre - Wayfaring Stranger" %}
+{% ahfowvideo "PW2MhCZH_Ts" "Dean Wareham vs. Cheval Sombre - Wayfaring Stranger" %}
 
 
 Also in August some [Galaxie 500 live video saw the light of day](/2018/08/22/video-galaxie-500-london-1990/) - most of the bands show from 1990 at the Subterania in London - my first Galaxie 500 show and still my fave all time gig!
