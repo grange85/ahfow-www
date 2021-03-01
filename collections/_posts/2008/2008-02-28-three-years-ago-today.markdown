@@ -18,7 +18,7 @@ categories:
 tags: []
 ---
 
-{% ahfowimage "https://farm3.static.flickr.com/2381/2215504848_e37b6d44c7_z.jpg" "Luna, final show, after party (Photo" %}
+{% ahfowimage "https://farm3.static.flickr.com/2381/2215504848_e37b6d44c7_z.jpg" "Luna, final show, after party (Photo: Franck" %}
 
 Now I know that three years isn't one of those _meaningful_ anniversaries but it popped into my head that today was the third anniversary of Luna's last show - so here's the the final two songs of the last show - you can hear the emotion through the cracked voices and fluffed notes..
 

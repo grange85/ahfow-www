@@ -47,9 +47,9 @@ eos
 
     def ahfowimage_tag(ahfowimage_url, ahfowimage_caption = nil)
       if ahfowimage_caption.empty?
-        "<figure class=\"figure w-100 justify-content-center\"><img src=\"#{ahfowimage_url}\" class=\"figure-image img-fluid rounded mx-auto d-block\" /></figure>"
+        "<div class=\"text-center\"><figure class=\"figure\"><img src=\"#{ahfowimage_url}\" class=\"figure-image img-fluid rounded mx-auto d-block\" /></figure></div>"
       else
-        "<figure class=\"figure w-100 justify-content-center\"><img src=\"#{ahfowimage_url}\" class=\"figure-image img-fluid rounded mx-auto d-block\" alt=\"#{ahfowimage_caption}\" /><figcaption class=\"figure-caption text-right\">#{ahfowimage_caption}</figcaption></figure>"
+        "<div class=\"text-center\"><figure class=\"figure\"><img src=\"#{ahfowimage_url}\" class=\"figure-image img-fluid rounded mx-auto\" alt=\"#{ahfowimage_caption}\" /><figcaption class=\"figure-caption text-right\">#{ahfowimage_caption}</figcaption></figure></div>"
       end
     end
   end
