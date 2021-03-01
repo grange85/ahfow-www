@@ -43,4 +43,12 @@ photos:
         title: 'Photo by Dan Pearson'
       }
       ]"
+
+links:  
+ - url: /2016/04/05/25-years-ago-the-end-of-galaxie-500/
+   source: A Head Full of Wishes
+   title: "25 years ago - the end of Galaxie 500"
+ - url: /2014/05/01/gallery-galaxie-500s-last-show/
+   source: A Head Full of Wishes
+   title: "Gallery: Galaxie 500's last show"
 ---
