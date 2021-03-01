@@ -24,13 +24,13 @@ $(document).ready(function() {
 
 	$('article a[href^="http://"],article a[href^="https://"]')
     	.not('a:has(img)').not('article a[href*="fullofwishes\.co\.uk"]').not('.resp-sharing-button__link')
-        .attr('target','_blank')
-        .append(' <sup><i class="fas fa-external-link-alt initialism"></i></sup>');
+        .attr({'target': '_blank', 'title': 'external link - opens in a new tab or window'})
+        .append(' <sup><i class="bi bi-link-45deg"></i></sup>');
 
 /*
 	$('article a[href*="fuzzywuzzy"]').each(function(){
-		var thisurl = $(this).prop('href');
-		$(this).prop('href', 'https://web.archive.org/web/2007+/' + thisurl);
+		var thisurl = $(thi{[s).prop(: href');
+, 'title': 'external link']}		$(this).prop('href', 'https://web.archive.org/web/2007+/' + thisurl);
 		});
 */
 });

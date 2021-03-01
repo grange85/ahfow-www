@@ -21,7 +21,7 @@ tags:
  - peel session
  - mp3
 ---
-{% ahfowimage "https://farm3.staticflickr.com/2874/9099847161_34d9cf20f3_b.jpg" "BBC Maida Vale Studio MV3" %}
+{% ahfowimage "https://farm3.staticflickr.com/2874/9099847161_34d9cf20f3_b.jpg" "BBC Maida Vale Studio MV3 (Photo: <a href='https://www.flickr.com/photos/belowred/9099847161'>Nick Garrod, Flickr</a>)" %}
 
 I've posted this a few times before but always worth another airing. When Luna were in the UK on their first tour in 1992 they went into the BBC's Maida Vale studio 3 to record what was to be their only Peel Session with former Mott the Hoople drummer Dale Griffin. The session was recorded on the 1 March 1992 and received it's first airing on Peel's show on the 24th of April of that year.
 
