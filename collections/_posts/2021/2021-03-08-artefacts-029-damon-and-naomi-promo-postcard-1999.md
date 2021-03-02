@@ -14,7 +14,7 @@ date: 2021-03-08
 imageurl: https://lh3.googleusercontent.com/d_1J9DkcedRWh1C7HQ8fbavbUBunAF7AKo36CCt1myW-xsxaiFNjjl_Pk5JhT02ZQDLhK9zGFQdYAlcMesW4yOQ110lCDj2xayrMiKQJFkNRNmzkOXqmrf9lijxdYrZJALf-EK1Uw9I=w2400
 categories:
  - artefacts
- - damon & Naomi
+ - damon & naomi
 tags:
  - promo
 ---
