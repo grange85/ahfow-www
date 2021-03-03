@@ -91,7 +91,7 @@ pagination:
   extension: html
   indexpage: 'index'
 
-# excerpt_separator: <!--more-->
+excerpt_separator: <!--more-->
 
 # Build settings
 port: 4040

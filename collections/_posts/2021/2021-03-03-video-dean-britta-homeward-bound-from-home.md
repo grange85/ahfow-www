@@ -25,10 +25,12 @@ I hope Dean & Britta don't mind me raiding their live streams for some gems - bu
 
 {% ahfowvideo "LafGLcsc0Ok" "Dean & Britta - Homeward Bound (September 2020)" %}
 
+<!--more-->
+
 ... and from earlier in their set another cover - and one of my faves - Adam Green's We're Not Supposed To Be Lovers
 
 {% ahfowvideo "AtX1aDZQlUI" "Dean & Britta - We're Not Supposed To Be Lovers (September 2020)" %}
 
 Nice also that we got to see Roger during this set.
 
-{% ahfowimage "https://lh3.googleusercontent.com/RpEYEDgCMNSGjQwpiUUjq_pWmtIhgU6zy6vevgq1QQiqpSyaM7S5M6bm0xRjXhiU1UQ9aEryxkONINn4_cciRBZI2OGV8Rzc44Gvf7IObIVBaB1NYVyW3g4xAaVWDeD66sTMJR_fU-0=w800" "Dean & Britta at home - 26th September 2020"}
+{% ahfowimage "https://lh3.googleusercontent.com/RpEYEDgCMNSGjQwpiUUjq_pWmtIhgU6zy6vevgq1QQiqpSyaM7S5M6bm0xRjXhiU1UQ9aEryxkONINn4_cciRBZI2OGV8Rzc44Gvf7IObIVBaB1NYVyW3g4xAaVWDeD66sTMJR_fU-0=w800" "Dean & Britta at home - 26th September 2020" %}

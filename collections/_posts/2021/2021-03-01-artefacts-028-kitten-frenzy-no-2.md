@@ -24,6 +24,8 @@ tags:
 
 The fantastic fanzine **Kitten Frenzy** was the work of fab Glasgow band Urusei Yatsura's Graham Kemp. Issue no. 2 was released in Winter 1993 and had a lovely _obituary_ of Galaxie 500 
 
+<!--more-->
+
 > Farewell then old friend. Though you will be sorely missed, yet there is still time to place vinyl under the needle and drink a cup of Ovaltine to the comforting, comfortless sound of Galaxie 500. I love you.  
 > _-- Kitten Frenzy no.2_
 {: .blockquote}

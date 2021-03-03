@@ -22,6 +22,8 @@ tags:
 
 On Valentine's Day in 1994 while promoting Bewitched, Dean Wareham and Sterling Morrison popped into the Modern Rock Live studio in NYC to be interviewed and perform a live version of Great Jones Street. I've shared the live performance before but this includes the interview with Dean & Sterling, and a phone-in segment.
 
+<!--more-->
+
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/1994-02-14-dean-wareham-sterling-modern-rock-live.mp3",
   "audiocap": "Dean Wareham and Sterling Morrison - interview, phone-in and live Great Jones Street (February 1994)",

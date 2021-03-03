@@ -23,13 +23,16 @@ tags:
 
 This promo postcard was sent to me by Andrea Troolin with a copy of the single that Damon & Naomi had released on her label Grimsey Records. This is actually Andrea's second appearance in the [artefacts series](/category/artefacts/) as she was the person who helped make the Galaxie 500 box set a reality and sent me the promo of Copenhagen that featured in [Artefacts #001](/2019/06/07/artefacts-001-galaxie-500-advance-cd/).
 
+<!--more-->
+
 When I interviewed Damon for the Terrascopaedia feature a couple of years back he said this:
 
 > But then Jeff hired a young assistant named Andrea Troolin, and Andrea found the project in that pile and made it hers. How to rally the company behind finally doing something with it, however? Your website! Andrea pointed to the Galaxie 500 mailing list, and the activity on it, as evidence that there was interest out there in the band and its out-of-print catalogue. Next thing you know... box set!  
 > _-- Damon Krukowsi - Terrascopaedia 13_
 {: .blockquote}
 
--- ... _warm glow_ ... -- {: .text-muted}
+-- ... _warm glow_ ... -- 
+{: .text-muted}
 
 Anyway... as well as all that Andrea was releasing records on her indie label Grimsey including the wonderful Damon & Naomi 7" of live versions of Dylan's _It's All Over Now, Baby Blue_ and Can's _Yoo Doo Right_ - and with my copy arrived this sweet but over-tightly-cropped postcard.
 

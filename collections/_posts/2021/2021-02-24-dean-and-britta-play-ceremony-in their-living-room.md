@@ -23,6 +23,9 @@ Another video I've just come across while doing some site housekeeping is this c
 
 This was the duo's first full set livestream from their living room.
 
+<!--more-->
+
+
 They played for about and hour and wrapped the show up with this lovely version of Joy Division's Ceremony.
 
 {% ahfowvideo "cczEdFUIWSo" "Dean & Britta - Ceremony, May 2020" %}

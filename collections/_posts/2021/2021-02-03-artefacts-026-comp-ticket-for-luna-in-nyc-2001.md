@@ -22,6 +22,9 @@ At the beginning of 2001 Luna played a series of dates in various venues across 
 
 For the second show, 20 years ago today, Dean said he'd put me on the guestlist but for some reason I wasn't on the list - or they couldn't _find_ the list. Bob and I were then taken downstairs while they tried to arrange something. We loitered, and chatted with a Brit in the backroom staff and finally we were supplied with comps.
 
+<!--more-->
+
+
 {% ahfowimage "https://media.fullofwishes.co.uk/02-luna/show_assets/2001-02-03/2001-02-03_luna_ticket.jpg" "Ticket for Luna in NYC, 2001" %}
 
 NYC was freezing but Hazel and I managed lots of walking and plenty of touristy things and I got to see Luna twice.

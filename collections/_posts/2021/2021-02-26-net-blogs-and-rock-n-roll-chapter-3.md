@@ -20,6 +20,8 @@ tags:
 
 A while ago AHFoW was sort of featured in a book, Net, Blogs and Rock 'n' Roll by David Jennings - the world has moved on a lot since 2007 but David's book is still an insightful and interesting read and a snapshot of the world trying to come to terms with music in the digital age - something that it is still struggling with 14 years on!
 
+<!--more-->
+
 I've [told this story before](/2007/09/02/net-blogs-and-rock-n-roll/) but this time I'm telling it with a PDF - not of the whole book - just the chapter that involves me - you can probably [find the book for peanuts if you want a copy](https://www.abebooks.com/servlet/SearchResults?an=jennings%20david&tn=net%20blogs%20rock%20roll&cm_sp=click-_-plp-_-tbc) (or look around here).
 
 Anyway -- here's what I wrote last time...
