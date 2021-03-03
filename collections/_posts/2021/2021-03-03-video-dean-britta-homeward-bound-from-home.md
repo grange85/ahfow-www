@@ -20,7 +20,7 @@ tags:
  - adam green
 ---
 
-I hope Dean & Britta don't mind me raiding their live streams for some gems - but it made me sad that this only existed online for such a short time and that some fans never got to see them doing this lovely cover of Simon & Garfunkel's Homeward bound to wrap up their early evening show back in Spetember.
+I hope Dean & Britta don't mind me raiding their live streams for some gems - but it made me sad that this only existed online for such a short time and that some fans never got to see them doing this lovely cover of Simon & Garfunkel's Homeward Bound to wrap up their early evening show back in Spetember.
 {: .lead}
 
 {% ahfowvideo "LafGLcsc0Ok" "Dean & Britta - Homeward Bound (September 2020)" %}
