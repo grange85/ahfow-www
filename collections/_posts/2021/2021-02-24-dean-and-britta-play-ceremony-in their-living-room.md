@@ -16,7 +16,6 @@ categories:
  - dean & britta
  - video
 tags:
- - soundcheck
  - joy division
 ---
 
