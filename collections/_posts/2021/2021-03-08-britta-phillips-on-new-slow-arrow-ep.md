@@ -21,7 +21,7 @@ tags:
 ---
 {% ahfowimage "https://f4.bcbits.com/img/a0749667228_10.jpg" "Echoes - Slow Arrow" %}
 
-Britta has contributed bass and vocals to the track _Spacewoman_ on the [new EP from Slow Republic](https://slowarrow.bandcamp.com/album/echoes).
+Britta has contributed bass and vocals to the track _Spacewoman_ on the [new EP from Slow Arrow](https://slowarrow.bandcamp.com/album/echoes).
 {: .lead}
 
 The whole of _Echoes_ is a spacey/dreamy synth-driven gem and worth throwing some of your pennies at.
