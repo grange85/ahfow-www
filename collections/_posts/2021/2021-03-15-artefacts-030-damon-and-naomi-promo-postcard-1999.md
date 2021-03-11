@@ -30,7 +30,7 @@ When I interviewed Damon for the Terrascopaedia feature a couple of years back h
 
 > But then Jeff hired a young assistant named Andrea Troolin, and Andrea found the project in that pile and made it hers. How to rally the company behind finally doing something with it, however? Your website! Andrea pointed to the Galaxie 500 mailing list, and the activity on it, as evidence that there was interest out there in the band and its out-of-print catalogue. Next thing you know... box set!  
 > _-- Damon Krukowsi - Terrascopaedia 13_
-{: .blockquote}
+{: .blockquote .text-secondary .px-4}
 
 -- ... _warm glow_ ... -- 
 {: .text-muted}
