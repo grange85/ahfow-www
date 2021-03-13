@@ -26,6 +26,8 @@ Dean & Britta have just [started a Patreon account](https://www.patreon.com/dean
 
 There are currently two tiers of membership:
 
+<!--more-->
+
 - **Level 1 - for $5 (or £4 or €4.50 )**  
 Each month we will deliver three unreleased tracks. These might be studio recordings, new ideas we're working on, live radio sessions, acoustic demos, unreleased film music from the Dean & Britta archive or quality live recordings. In addition, each month Dean will read a chapter from his memoir, Black Postcards, aloud and deliver the audio in mp3 format. You will also get first notification of new merchandise: vinyl, t-shirts, hats, posters and other collectibles.
 

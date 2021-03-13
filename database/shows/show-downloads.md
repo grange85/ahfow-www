@@ -1,5 +1,5 @@
 ---
-layout: basic
+layout: page
 title: List of shows available to download
 list: downloads
 categories: primary
@@ -26,8 +26,9 @@ description: >
 	{% endcase %}
 	
 {% if shows %}
+<div class="table-responsive">
+<h2>{{artist.name}}</h2>
 <table class="table table-striped">
-<caption>{{artist.name}}</caption>
 {% for show in shows %}
     {% if show.show-download %}
         <tr>
@@ -37,5 +38,6 @@ description: >
     {% endif %}
 {% endfor %}
 </table>
+</div>
 {% endif %}
 {% endfor %}

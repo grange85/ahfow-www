@@ -1,6 +1,15 @@
 #!/bin/zsh
 set -euo pipefail
 
+while getopts n flag
+do
+    case "${flag}" in
+        n) dryrun=true;;
+    esac
+done
+
+
+
 branch=$(git symbolic-ref --short -q HEAD)
 
 if [[ $branch != 'master' ]]
@@ -14,6 +23,15 @@ echo "Deploying A Head Full of Wishes"
 source _cloudfront-distribution-id
 # build site
 bundle exec jekyll build --config _config.yml,_config_build.yml
+
+validxml=$(xmllint --noout _deploy/feed.xml > /dev/null 2>&1;)
+
+if [[ $validxml > 0 ]]
+then
+	echo "feed not valid - site not deployed"
+	exit 1
+fi
+
 mkdir -p _deploy/_admin
 
 if [ -d "/media/xander4/DATA/ahfow/media" ] 
@@ -56,6 +74,15 @@ else
 	aws s3 cp s3://www.fullofwishes.co.uk/_admin/full-list.html _deploy/_admin/full-list.html
 
 fi
+
+
+
+if [[ -v dryrun ]]
+then
+	echo "dryrun - site not deployed"
+	exit 1
+fi
+
 
 # upload to s3
 echo "sync content..."
