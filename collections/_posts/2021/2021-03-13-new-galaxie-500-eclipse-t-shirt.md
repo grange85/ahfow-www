@@ -31,3 +31,4 @@ Now... I wear my band T-shirts mostly in black, and occasionally in white - but 
 {% ahfowimage "https://lh3.googleusercontent.com/Gds4GudCqT44R15KiCjEyXbyM90axuaGRmDXMqL3lcKp-ZFUHGJaHAUtzvafQHn9j3Cegs_mRUHW7mJFVzyGu04GPq-XHOStnu3pL3gocI5tRa-zZhBvPVH4rwgEpcv1nW4eDP03Mx4=w800" "Washing line" %}
 
 But... if you prefer to stick with rock tradition [they're also available black](https://www.20-20-20.com/store/copy-of-galaxie-500-t-shirt-black-63hbr)!
+

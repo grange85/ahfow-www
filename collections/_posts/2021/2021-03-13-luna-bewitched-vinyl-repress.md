@@ -25,3 +25,4 @@ The album was originally released only on CD but in 2012 Gotta Groove Records re
 [Grab your copy over here for $25](https://www.gottagroovestore.com/product/luna-bewitched-ggr-exclusive/)
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/survey-pictures/luna_bewitched.jpg" "Luna - Bewitched LP" %}
+
