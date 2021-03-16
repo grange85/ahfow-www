@@ -2,7 +2,7 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Bren Events Center, Irvine CA, USA'
+show-venue: 'Crawford Hall, Irvine CA, USA'
 show-setlist: 
 show-date: 1991-03-18
 category: 1991
@@ -22,3 +22,5 @@ show-additional:
 ---
 
 Supporting The Cocteau Twins
+
+Originally booked in the Bren Events Center.
