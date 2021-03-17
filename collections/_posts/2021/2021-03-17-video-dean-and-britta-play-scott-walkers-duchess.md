@@ -36,4 +36,4 @@ Also - if you have a yen for Dean & Britta rarities don't forget to head over an
 {% ahfowimage "https://lh3.googleusercontent.com/nDSEFV_i0u7b8itLUs-TpcsI5c7AJyEDl5tWw8FhpavM70_7zHA4FhMYbxNaasIgza5hH9XE1PVPvmc71e36iFty8Rvmf6OFPjvwV6QEMn_uMM9hWjeK4ZyXsnVwqAYjoR6P_6RZKPQ=w800" "Dean & Britta at home - 26th September 2020" %}
 
 [1] I can't remember the exact words Dean used and Hazel's hogging the office on a Zoom call so you'll have to make do with my pseudo-quote!
-{: #footnote-1}
+{: #footnote-1 .text-muted .small}
