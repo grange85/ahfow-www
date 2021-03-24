@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Green Mind @ The Portland Arms, Cambridge, UK'
+show-venue: "Green Mind @ The Portland Arms, Cambridge, UK"
+title: "8th April 2015 -  Damon & Naomi - Green Mind @ The Portland Arms, Cambridge, UK"
 show-setlist:
  - The Seeker
  - Amnesia

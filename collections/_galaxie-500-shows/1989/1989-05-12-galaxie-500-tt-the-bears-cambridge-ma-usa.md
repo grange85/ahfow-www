@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: galaxie-500
 show-venue: "TT The Bear's, Cambridge, MA, USA"
+title: "12th May 1989 -  Galaxie 500 - TT The Bear's, Cambridge, MA, USA"
 show-setlist:
 show-date: 1989-05-12
 source: Dean Wareham

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Garage, Glasgow, UK'
+show-venue: "Garage, Glasgow, UK"
+title: "18th October 1997 -  Luna - Garage, Glasgow, UK"
 show-setlist: 
 show-date: 1997-10-18
 category: 1997

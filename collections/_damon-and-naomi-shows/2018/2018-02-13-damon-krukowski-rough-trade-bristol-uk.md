@@ -5,6 +5,7 @@ artistslug: damon-and-naomi
 artist:
  name: Damon Krukowski
 show-venue: "Rough Trade, Bristol, UK"
+title: "13th February 2018 -  Damon & Naomi - Rough Trade, Bristol, UK"
 show-setlist:
 show-date: 2018-02-13
 date-added: 2018-01-05

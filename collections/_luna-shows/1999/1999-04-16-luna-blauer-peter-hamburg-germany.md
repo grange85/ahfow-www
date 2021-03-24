@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Blauer Peter, Hamburg, Germany'
+show-venue: "Blauer Peter, Hamburg, Germany"
+title: "16th April 1999 -  Luna - Blauer Peter, Hamburg, Germany"
 show-setlist: 
 show-date: 1999-04-16
 category: 1999

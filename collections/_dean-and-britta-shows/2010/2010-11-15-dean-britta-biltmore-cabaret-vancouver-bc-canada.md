@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Biltmore Cabaret, Vancouver, BC, Canada'
+show-venue: "Biltmore Cabaret, Vancouver, BC, Canada"
+title: "15th November 2010 - Dean & Britta - Biltmore Cabaret, Vancouver, BC, Canada"
 show-setlist: 
 show-date: 2010-11-15
 category: 2010

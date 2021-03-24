@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Freakout, Bologna, Italy'
+show-venue: "Freakout, Bologna, Italy"
+title: "23rd February 2018 -  Damon & Naomi - Freakout, Bologna, Italy"
 show-setlist:
 show-date: 2018-02-23
 date-added: 2017-11-23

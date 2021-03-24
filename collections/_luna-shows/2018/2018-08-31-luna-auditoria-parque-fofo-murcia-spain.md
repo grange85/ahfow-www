@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Auditoria Parque Fofó, Murcia, Spain'
+show-venue: "Auditoria Parque Fofó, Murcia, Spain"
+title: "31st August 2018 -  Luna - Auditoria Parque Fofó, Murcia, Spain"
 show-notes: ''
 show-setlist:
  - 23 Minutes in Brussels

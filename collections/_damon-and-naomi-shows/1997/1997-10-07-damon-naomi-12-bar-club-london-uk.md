@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: '12 Bar Club, London, UK'
+show-venue: "12 Bar Club, London, UK"
+title: "7th October 1997 -  Damon & Naomi - 12 Bar Club, London, UK"
 show-setlist: 
 show-date: 1997-10-07
 category: 1997

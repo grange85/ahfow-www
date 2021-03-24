@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'House of Blues, Chicago, IL, USA'
+show-venue: "House of Blues, Chicago, IL, USA"
+title: "16th October 2015 -  Luna - House of Blues, Chicago, IL, USA"
 show-setlist:
  - Slide
  - Pup Tent

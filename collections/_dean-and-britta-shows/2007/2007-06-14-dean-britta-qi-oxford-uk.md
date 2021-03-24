@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'QI, Oxford, UK'
+show-venue: "QI, Oxford, UK"
+title: "14th June 2007 - Dean & Britta - QI, Oxford, UK"
 show-setlist: 
 show-date: 2007-06-14
 category: 2007

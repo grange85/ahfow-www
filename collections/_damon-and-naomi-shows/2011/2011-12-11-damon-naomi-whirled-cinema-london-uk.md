@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Whirled Cinema, London, UK'
+show-venue: "Whirled Cinema, London, UK"
+title: "11th December 2011 -  Damon & Naomi - Whirled Cinema, London, UK"
 show-setlist: 
 show-date: 2011-12-11
 category: 2011

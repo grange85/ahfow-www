@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'The Bridge at Santa Fe Brewing, Santa Fe, NM, USA'
+show-venue: "The Bridge at Santa Fe Brewing, Santa Fe, NM, USA"
+title: "9th April 2018 -  Luna - The Bridge at Santa Fe Brewing, Santa Fe, NM, USA"
 show-notes: ''
 show-setlist:
 show-date: 2018-04-09

@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: Dean & Britta's living room, Echo Park, LA, USA
+show-venue: "Dean & Britta's living room, Echo Park, LA, USA"
+title: "27th April 2020 - Dean Wareham - Dean & Britta's living room, Echo Park, LA, USA"
 show-notes: ''
 show-setlist:
  - My Rifle, My Pony and Me

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'University of Iowa Wheel Room, Iowa City IA, USA'
+show-venue: "University of Iowa Wheel Room, Iowa City IA, USA"
+title: "30th September 2004 -  Damon & Naomi - University of Iowa Wheel Room, Iowa City IA, USA"
 show-setlist: 
 show-date: 2004-09-30
 category: 2004

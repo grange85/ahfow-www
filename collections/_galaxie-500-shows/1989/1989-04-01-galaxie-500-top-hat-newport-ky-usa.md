@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Top Hat, Newport, KY, USA'
+show-venue: "Top Hat, Newport, KY, USA"
+title: "1st April 1989 -  Galaxie 500 - Top Hat, Newport, KY, USA"
 show-setlist:
 show-date: 1989-04-01
 source: Dean Wareham

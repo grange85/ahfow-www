@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Paradise, Boston MA, USA'
+show-venue: "Paradise, Boston MA, USA"
+title: "5th December 2008 - Dean & Britta - Paradise, Boston MA, USA"
 show-setlist: 
 show-date: 2008-12-05
 category: 2008

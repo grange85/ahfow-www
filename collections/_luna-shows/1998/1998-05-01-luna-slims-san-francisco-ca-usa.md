@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Slims, San Francisco CA, USA'
+show-venue: "Slims, San Francisco CA, USA"
+title: "1st May 1998 -  Luna - Slims, San Francisco CA, USA"
 show-setlist: [
   "Fuzzy Wuzzy",
   "Sideshow By The Seashore",

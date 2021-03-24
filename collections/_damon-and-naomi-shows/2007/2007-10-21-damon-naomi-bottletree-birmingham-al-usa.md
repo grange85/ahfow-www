@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Bottletree, Birmingham AL, USA'
+show-venue: "Bottletree, Birmingham AL, USA"
+title: "21st October 2007 -  Damon & Naomi - Bottletree, Birmingham AL, USA"
 show-setlist: 
 show-date: 2007-10-21
 category: 2007

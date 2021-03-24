@@ -4,7 +4,8 @@ position: database-5
 artistslug: britta-phillips
 artist:
   name: Britta Phillips
-show-venue: 'Academy Islington, London, UK'
+show-venue: "Academy Islington, London, UK"
+title: "7th October 2016 - Britta Phillips - Academy Islington, London, UK"
 show-notes: ''
 show-setlist: 
  - One Fine Summer Morning

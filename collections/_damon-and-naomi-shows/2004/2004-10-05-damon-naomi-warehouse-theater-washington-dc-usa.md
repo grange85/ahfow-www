@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Warehouse Theater, Washington DC, USA'
+show-venue: "Warehouse Theater, Washington DC, USA"
+title: "5th October 2004 -  Damon & Naomi - Warehouse Theater, Washington DC, USA"
 show-setlist: 
 show-date: 2004-10-05
 category: 2004

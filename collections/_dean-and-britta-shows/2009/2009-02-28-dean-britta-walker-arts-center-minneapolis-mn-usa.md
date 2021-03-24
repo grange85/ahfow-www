@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Walker Arts Center, Minneapolis MN, USA '
+show-venue: "Walker Arts Center, Minneapolis MN, USA "
+title: "28th February 2009 - Dean & Britta - Walker Arts Center, Minneapolis MN, USA "
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Rosebud, Pittsburgh PA, USA'
+show-venue: "Rosebud, Pittsburgh PA, USA"
+title: "17th September 2002 -  Luna - Rosebud, Pittsburgh PA, USA"
 show-setlist: 
 show-date: 2002-09-17
 category: 2002

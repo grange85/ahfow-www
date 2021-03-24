@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Academy Islington, London, UK'
+show-venue: "Academy Islington, London, UK"
+title: "6th September 2018 -  Luna - Academy Islington, London, UK"
 show-notes: ''
 show-setlist:
  - GTX3

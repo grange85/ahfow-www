@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: '(unknown), Barcelona, Spain'
+show-venue: "(unknown), Barcelona, Spain"
+title: "2nd June 2001 -  Damon & Naomi - (unknown), Barcelona, Spain"
 show-setlist: 
 show-date: 2001-06-02
 category: 2001

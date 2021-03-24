@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'One Eyed Jacks, New Orleans, LA, USA'
+show-venue: "One Eyed Jacks, New Orleans, LA, USA"
+title: "9th March 2019 -  Luna - One Eyed Jacks, New Orleans, LA, USA"
 show-notes: ''
 show-setlist: 
 show-date: 2019-03-09

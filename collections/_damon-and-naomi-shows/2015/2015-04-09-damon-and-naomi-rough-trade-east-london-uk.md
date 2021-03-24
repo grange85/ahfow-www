@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Rough Trade East, London, UK'
+show-venue: "Rough Trade East, London, UK"
+title: "9th April 2015 -  Damon & Naomi - Rough Trade East, London, UK"
 show-setlist: [
   "Song to the Siren",
   "Listen, the Snow Is Falling",

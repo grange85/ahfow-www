@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Ann Arbor Summer Festival, Ann Arbor, MI, USA'
+show-venue: "Ann Arbor Summer Festival, Ann Arbor, MI, USA"
+title: "2nd July 2009 - Dean & Britta - Ann Arbor Summer Festival, Ann Arbor, MI, USA"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

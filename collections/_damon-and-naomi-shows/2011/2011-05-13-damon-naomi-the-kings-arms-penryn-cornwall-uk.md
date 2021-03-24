@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: damon-and-naomi
 show-venue: "The Kings Arms, Penryn, Cornwall, UK"
+title: "13th May 2011 -  Damon & Naomi - The Kings Arms, Penryn, Cornwall, UK"
 show-setlist: 
 show-date: 2011-05-13
 category: 2011

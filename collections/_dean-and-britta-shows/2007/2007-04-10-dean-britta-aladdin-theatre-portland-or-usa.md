@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Aladdin Theatre, Portland OR, USA'
+show-venue: "Aladdin Theatre, Portland OR, USA"
+title: "10th April 2007 - Dean & Britta - Aladdin Theatre, Portland OR, USA"
 show-setlist: [
   "Singer Sing",
   "Our Love Will Still Be There",

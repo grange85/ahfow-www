@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Tramps, New York NY, USA'
+show-venue: "Tramps, New York NY, USA"
+title: "23rd September 1995 -  Luna - Tramps, New York NY, USA"
 show-setlist: 
 show-date: 1995-09-23
 category: 1995

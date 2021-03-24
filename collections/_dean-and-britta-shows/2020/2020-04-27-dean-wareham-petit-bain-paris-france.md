@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Petit Bain, Paris, France'
+show-venue: "Petit Bain, Paris, France"
+title: "27th April 2020 - Dean Wareham - Petit Bain, Paris, France"
 address: |
   7 Port de la Gare, 
   75 013, 

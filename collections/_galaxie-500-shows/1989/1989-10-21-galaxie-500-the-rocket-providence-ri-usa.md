@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: galaxie-500
 show-venue: "The Rocket, Providence, RI, USA"
+title: "21st October 1989 -  Galaxie 500 - The Rocket, Providence, RI, USA"
 show-setlist:
 show-date: 1989-10-21
 source: Dean Wareham

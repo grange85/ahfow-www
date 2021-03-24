@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'WXPN, Philadelphia PA, USA'
+show-venue: "WXPN, Philadelphia PA, USA"
+title: "17th December 2004 -  Luna - WXPN, Philadelphia PA, USA"
 show-setlist: [
   "Malibu Love Nest",
   "Speedbumps",

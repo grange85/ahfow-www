@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'New Grass Center for Underground, Florence MA, USA'
+show-venue: "New Grass Center for Underground, Florence MA, USA"
+title: "3rd July 2002 -  Damon & Naomi - New Grass Center for Underground, Florence MA, USA"
 show-setlist: 
 show-date: 2002-07-03
 category: 2002

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Divan du Monde, Paris, France'
+show-venue: "Divan du Monde, Paris, France"
+title: "8th November 1997 -  Luna - Divan du Monde, Paris, France"
 show-setlist: 
 show-date: 1997-11-08
 category: 1997

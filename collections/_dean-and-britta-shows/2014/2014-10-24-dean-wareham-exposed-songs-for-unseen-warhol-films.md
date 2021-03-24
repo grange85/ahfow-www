@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Royce Hall, Center for the Art of Performance at UCLA, Los Angeles, CA, USA'
+show-venue: "Royce Hall, Center for the Art of Performance at UCLA, Los Angeles, CA, USA"
+title: "24th October 2014 - Dean Wareham - Royce Hall, Center for the Art of Performance at UCLA, Los Angeles, CA, USA"
 show-setlist: 
 show-date: 2014-10-24
 category: 2014

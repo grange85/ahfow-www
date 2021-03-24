@@ -5,6 +5,7 @@ artistslug: damon-and-naomi
 artist:
  name: Damon Krukowski
 show-venue: "City Lights Books, San Francisco, CA, USA"
+title: "26th April 2017 -  Damon & Naomi - City Lights Books, San Francisco, CA, USA"
 show-setlist:
 show-date: 2017-04-26
 date-added: 2017-03-15

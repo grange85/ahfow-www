@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Festival des Sept Collines. St Etienne, France'
+show-venue: "Festival des Sept Collines. St Etienne, France"
+title: "9th July 2009 - Dean & Britta - Festival des Sept Collines. St Etienne, France"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

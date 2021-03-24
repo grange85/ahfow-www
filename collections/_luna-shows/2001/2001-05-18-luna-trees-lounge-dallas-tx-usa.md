@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Trees Lounge, Dallas TX, USA'
+show-venue: "Trees Lounge, Dallas TX, USA"
+title: "18th May 2001 -  Luna - Trees Lounge, Dallas TX, USA"
 show-setlist: [
   "Lovedust",
   "Dear Diary",

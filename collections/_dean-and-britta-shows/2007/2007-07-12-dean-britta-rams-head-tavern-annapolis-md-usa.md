@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Rams Head Tavern, Annapolis MD, USA'
+show-venue: "Rams Head Tavern, Annapolis MD, USA"
+title: "12th July 2007 - Dean & Britta - Rams Head Tavern, Annapolis MD, USA"
 show-setlist: [
   "Singer Sing",
   "Our Love Will Still Be There",

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'The Bell House, Brooklyn, New York, NY, USA'
+show-venue: "The Bell House, Brooklyn, New York, NY, USA"
+title: "27th May 2016 -  Luna - The Bell House, Brooklyn, New York, NY, USA"
 show-notes: ''
 show-setlist: 
  - Chinatown

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Veloso, Seoul, South Korea'
+show-venue: "Veloso, Seoul, South Korea"
+title: "7th September 2015 -  Damon & Naomi - Veloso, Seoul, South Korea"
 show-setlist:
  - The Seeker
  - Amnesia

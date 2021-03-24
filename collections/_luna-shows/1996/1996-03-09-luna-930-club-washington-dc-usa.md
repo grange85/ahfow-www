@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: '9:30 Club, Washington DC, USA'
+show-venue: "9:30 Club, Washington DC, USA"
+title: "9th March 1996 -  Luna - 9:30 Club, Washington DC, USA"
 show-setlist: [
   "Sideshow By The Seashore",
   "Chinatown",

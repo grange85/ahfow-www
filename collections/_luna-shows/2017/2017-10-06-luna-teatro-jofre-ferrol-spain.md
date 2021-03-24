@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Teatro Jofre, Ferrol, Spain'
+show-venue: "Teatro Jofre, Ferrol, Spain"
+title: "6th October 2017 -  Luna - Teatro Jofre, Ferrol, Spain"
 show-notes: ''
 show-setlist:
  - California (All The Way)

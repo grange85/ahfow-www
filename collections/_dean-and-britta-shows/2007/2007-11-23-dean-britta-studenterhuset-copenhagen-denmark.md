@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Studenterhuset, Copenhagen, Denmark'
+show-venue: "Studenterhuset, Copenhagen, Denmark"
+title: "23rd November 2007 - Dean & Britta - Studenterhuset, Copenhagen, Denmark"
 show-setlist: [
   "Night Nurse",
   "Our Love Will Still Be There",

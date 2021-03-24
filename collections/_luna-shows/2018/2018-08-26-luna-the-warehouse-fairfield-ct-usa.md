@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'The Warehouse, Fairfield, CT, USA'
+show-venue: "The Warehouse, Fairfield, CT, USA"
+title: "26th August 2018 -  Luna - The Warehouse, Fairfield, CT, USA"
 show-notes: ''
 show-setlist:
  - Sideshow By The Seashore

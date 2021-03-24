@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Granada Theater, Dallas, TX, USA'
+show-venue: "Granada Theater, Dallas, TX, USA"
+title: "4th May 2016 -  Luna - Granada Theater, Dallas, TX, USA"
 show-notes: ''
 show-setlist:
  - Slide

@@ -47,9 +47,9 @@ eos
 
     def ahfowvideo_tag(ahfowvideo_url, ahfowvideo_caption = nil)
       if ahfowvideo_caption.empty?
-        "<figure class=\"figure embed-responsive embed-responsive-16by9\"><iframe class=\"embed-responsive-item\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/#{ahfowvideo_url}\" frameborder=\"0\" allowfullscreen></iframe></figure>"
+        "<figure class=\"figure embed-responsive embed-responsive-16by9\"><iframe class=\"embed-responsive-item\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/#{ahfowvideo_url}\" frameborder=\"0\" allowfullscreen></iframe></figure>"
       else
-        "<figure class=\"figure embed-responsive embed-responsive-16by9\"><iframe class=\"embed-responsive-item\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/#{ahfowvideo_url}\" frameborder=\"0\" allowfullscreen></iframe><figcaption class=\"figure-caption text-right\">#{ahfowvideo_caption}</figcaption></figure>"
+        "<figure class=\"figure embed-responsive embed-responsive-16by9\"><iframe class=\"embed-responsive-item\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/#{ahfowvideo_url}\" frameborder=\"0\" allowfullscreen></iframe><figcaption class=\"figure-caption text-right\">#{ahfowvideo_caption}</figcaption></figure>"
       end
     end
   end

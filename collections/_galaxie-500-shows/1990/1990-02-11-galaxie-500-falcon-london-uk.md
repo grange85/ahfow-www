@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Falcon, London, UK'
+show-venue: "Falcon, London, UK"
+title: "11th February 1990 -  Galaxie 500 - Falcon, London, UK"
 show-setlist: [
   "Decomposing Trees",
   "Snowstorm",

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Teatre de Lloseta, Lloseta, Mallorca, Spain, Mallorca, Spain'
+show-venue: "Teatre de Lloseta, Lloseta, Mallorca, Spain, Mallorca, Spain"
+title: "19th April 2015 -  Luna - Teatre de Lloseta, Lloseta, Mallorca, Spain, Mallorca, Spain"
 show-setlist: [
   "Chinatown",
   "Sideshow by the Seashore",

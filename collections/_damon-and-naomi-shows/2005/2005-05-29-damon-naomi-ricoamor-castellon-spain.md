@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Ricoamor, Castellon, Spain'
+show-venue: "Ricoamor, Castellon, Spain"
+title: "29th May 2005 -  Damon & Naomi - Ricoamor, Castellon, Spain"
 show-setlist: 
 show-date: 2005-05-29
 category: 2005

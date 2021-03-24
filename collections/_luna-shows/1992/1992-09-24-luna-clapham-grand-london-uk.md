@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Clapham Grand, London, UK'
+show-venue: "Clapham Grand, London, UK"
+title: "24th September 1992 -  Luna - Clapham Grand, London, UK"
 show-setlist: [
   "Slash Your Tires",
   "I Can't Wait",

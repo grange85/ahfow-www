@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'SOS Festival, Murcia, Spain'
+show-venue: "SOS Festival, Murcia, Spain"
+title: "1st May 2015 -  Luna - SOS Festival, Murcia, Spain"
 show-setlist: 
  - Malibu Love Nest
  - Friendly Advice

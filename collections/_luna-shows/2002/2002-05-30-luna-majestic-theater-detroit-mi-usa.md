@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Majestic Theater, Detroit MI, USA'
+show-venue: "Majestic Theater, Detroit MI, USA"
+title: "30th May 2002 -  Luna - Majestic Theater, Detroit MI, USA"
 show-setlist: [
   "1995",
   "Lovedust",

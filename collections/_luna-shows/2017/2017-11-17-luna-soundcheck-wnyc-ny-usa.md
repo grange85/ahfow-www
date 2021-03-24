@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Soundcheck, WNYC, NY, USA'
+show-venue: "Soundcheck, WNYC, NY, USA"
+title: "17th November 2017 -  Luna - Soundcheck, WNYC, NY, USA"
 show-notes: ''
 show-setlist: 
  - GTX3

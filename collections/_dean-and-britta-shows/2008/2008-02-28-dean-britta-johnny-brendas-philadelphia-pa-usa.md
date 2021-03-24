@@ -5,6 +5,7 @@ artistslug: dean-and-britta
 artist:
   name: Dean & Britta
 show-venue: "Johnny Brenda's, Philadelphia PA, USA"
+title: "28th February 2008 - Dean & Britta - Johnny Brenda's, Philadelphia PA, USA"
 setlist-source: 'Galaxie 500 Mailing List'
 show-setlist: [
   "Singer Sing",

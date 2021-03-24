@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'The Point, Atlanta, GA, USA'
+show-venue: "The Point, Atlanta, GA, USA"
+title: "11th October 1990 -  Galaxie 500 - The Point, Atlanta, GA, USA"
 show-setlist:
 show-date: 1990-10-11
 category: 1990

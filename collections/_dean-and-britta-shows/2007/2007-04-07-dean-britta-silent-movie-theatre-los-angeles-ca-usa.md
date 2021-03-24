@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Silent Movie Theatre, Los Angeles CA, USA'
+show-venue: "Silent Movie Theatre, Los Angeles CA, USA"
+title: "7th April 2007 - Dean & Britta - Silent Movie Theatre, Los Angeles CA, USA"
 show-setlist: 
 show-date: 2007-04-07
 category: 2007

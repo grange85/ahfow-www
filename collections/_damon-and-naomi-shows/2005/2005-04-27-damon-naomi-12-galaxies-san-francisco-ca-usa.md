@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: '12 Galaxies, San Francisco CA, USA'
+show-venue: "12 Galaxies, San Francisco CA, USA"
+title: "27th April 2005 -  Damon & Naomi - 12 Galaxies, San Francisco CA, USA"
 show-setlist: 
 show-date: 2005-04-27
 category: 2005

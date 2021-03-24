@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'The Showbox, Seattle, WA, USA'
+show-venue: "The Showbox, Seattle, WA, USA"
+title: "5th November 2015 -  Luna - The Showbox, Seattle, WA, USA"
 show-notes: ''
 show-setlist:
  - Slide

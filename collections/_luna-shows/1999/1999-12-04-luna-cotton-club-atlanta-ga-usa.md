@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Cotton Club, Atlanta GA, USA'
+show-venue: "Cotton Club, Atlanta GA, USA"
+title: "4th December 1999 -  Luna - Cotton Club, Atlanta GA, USA"
 show-setlist: [
   "Fuzzy Wuzzy",
   "Superfreaky Memories",

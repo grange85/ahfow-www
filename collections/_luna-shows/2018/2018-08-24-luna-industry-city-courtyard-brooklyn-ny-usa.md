@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Industry City Courtyard, Brooklyn, NY, USA'
+show-venue: "Industry City Courtyard, Brooklyn, NY, USA"
+title: "24th August 2018 -  Luna - Industry City Courtyard, Brooklyn, NY, USA"
 show-notes: ''
 show-setlist:
  - 23 Minutes in Brussels

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Moon Club, Paris, France'
+show-venue: "Moon Club, Paris, France"
+title: "21st November 1989 -  Galaxie 500 - Moon Club, Paris, France"
 show-setlist: 
 show-date: 1989-11-21
 category: 1989

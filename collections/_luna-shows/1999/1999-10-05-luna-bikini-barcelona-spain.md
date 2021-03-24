@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Bikini, Barcelona, Spain'
+show-venue: "Bikini, Barcelona, Spain"
+title: "5th October 1999 -  Luna - Bikini, Barcelona, Spain"
 show-setlist: 
 show-date: 1999-10-05
 category: 1999

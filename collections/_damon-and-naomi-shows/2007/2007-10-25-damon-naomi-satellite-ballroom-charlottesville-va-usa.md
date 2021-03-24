@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Satellite Ballroom, Charlottesville VA, USA'
+show-venue: "Satellite Ballroom, Charlottesville VA, USA"
+title: "25th October 2007 -  Damon & Naomi - Satellite Ballroom, Charlottesville VA, USA"
 show-setlist: 
 show-date: 2007-10-25
 category: 2007

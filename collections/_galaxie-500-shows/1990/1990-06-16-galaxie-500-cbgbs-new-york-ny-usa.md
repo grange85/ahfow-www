@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: galaxie-500
 show-venue: "CBGB's, New York, NY, USA"
+title: "16th June 1990 -  Galaxie 500 - CBGB's, New York, NY, USA"
 show-setlist: 
 show-date: 1990-06-16
 category: 1990

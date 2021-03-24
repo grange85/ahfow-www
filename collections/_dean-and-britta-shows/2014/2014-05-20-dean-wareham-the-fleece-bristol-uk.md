@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'The Exchange, Bristol, UK'
+show-venue: "The Exchange, Bristol, UK"
+title: "20th May 2014 - Dean Wareham - The Exchange, Bristol, UK"
 show-setlist: 
 show-date: 2014-05-20
 category: 2014

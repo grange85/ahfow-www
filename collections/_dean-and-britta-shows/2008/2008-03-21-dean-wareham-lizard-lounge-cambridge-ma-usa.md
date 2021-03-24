@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Lizard Lounge, Cambridge MA, USA'
+show-venue: "Lizard Lounge, Cambridge MA, USA"
+title: "21st March 2008 - Dean Wareham - Lizard Lounge, Cambridge MA, USA"
 setlist-source: 'Galaxie 500 Mailing List'
 show-setlist: [
   "Blue Thunder",

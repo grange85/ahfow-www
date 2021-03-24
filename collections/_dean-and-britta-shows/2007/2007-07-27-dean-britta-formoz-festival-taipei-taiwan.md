@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Formoz Festival, Taipei, Taiwan'
+show-venue: "Formoz Festival, Taipei, Taiwan"
+title: "27th July 2007 - Dean & Britta - Formoz Festival, Taipei, Taiwan"
 show-setlist: 
 show-date: 2007-07-27
 category: 2007

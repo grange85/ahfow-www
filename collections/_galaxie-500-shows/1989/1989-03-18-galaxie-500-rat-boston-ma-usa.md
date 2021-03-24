@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Rat, Boston MA, USA'
+show-venue: "Rat, Boston MA, USA"
+title: "18th March 1989 -  Galaxie 500 - Rat, Boston MA, USA"
 show-setlist:
 show-date: 1989-03-18
 source: Dean Wareham

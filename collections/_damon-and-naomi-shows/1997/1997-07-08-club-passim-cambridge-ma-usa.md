@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Club Passim, Cambridge, MA, USA'
+show-venue: "Club Passim, Cambridge, MA, USA"
+title: "8th July 1997 -  Damon & Naomi - Club Passim, Cambridge, MA, USA"
 show-setlist: 
 show-date: 1997-07-08
 category: 1997

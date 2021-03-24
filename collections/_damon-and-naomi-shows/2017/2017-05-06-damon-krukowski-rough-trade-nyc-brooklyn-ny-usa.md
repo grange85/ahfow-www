@@ -5,6 +5,7 @@ artistslug: damon-and-naomi
 artist:
  name: Damon Krukowski
 show-venue: "Rough Trade NYC, Brooklyn, NY, USA"
+title: "6th May 2017 -  Damon & Naomi - Rough Trade NYC, Brooklyn, NY, USA"
 show-setlist:
 show-date: 2017-05-06
 date-added: 2017-03-15

@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Wexner Center, Columbus OH, USA'
+show-venue: "Wexner Center, Columbus OH, USA"
+title: "20th November 2008 - Dean & Britta - Wexner Center, Columbus OH, USA"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

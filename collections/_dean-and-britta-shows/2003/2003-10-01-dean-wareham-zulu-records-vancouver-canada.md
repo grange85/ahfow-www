@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'ZULU Records, Vancouver, Canada'
+show-venue: "ZULU Records, Vancouver, Canada"
+title: "1st October 2003 - Dean Wareham - ZULU Records, Vancouver, Canada"
 show-setlist: 
 show-date: 2003-10-01
 category: 2003

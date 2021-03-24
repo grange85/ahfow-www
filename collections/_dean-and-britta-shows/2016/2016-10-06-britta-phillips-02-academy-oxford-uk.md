@@ -4,7 +4,8 @@ position: database-5
 artistslug: britta-phillips
 artist:
   name: Britta Phillips
-show-venue: 'O2 Academy, Oxford, UK'
+show-venue: "O2 Academy, Oxford, UK"
+title: "6th October 2016 - Britta Phillips - O2 Academy, Oxford, UK"
 show-notes: ''
 show-setlist:
  - One Fine Summer Morning

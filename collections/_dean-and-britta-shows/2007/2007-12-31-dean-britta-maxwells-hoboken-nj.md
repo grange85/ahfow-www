@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Maxwells, Hoboken NJ'
+show-venue: "Maxwells, Hoboken NJ"
+title: "31st December 2007 - Dean & Britta - Maxwells, Hoboken NJ"
 show-setlist: [
   "Rock Your Baby",
   "He's Coming Home",

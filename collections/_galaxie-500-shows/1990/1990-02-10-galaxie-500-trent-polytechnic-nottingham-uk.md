@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Trent Polytechnic, Nottingham, UK'
+show-venue: "Trent Polytechnic, Nottingham, UK"
+title: "10th February 1990 -  Galaxie 500 - Trent Polytechnic, Nottingham, UK"
 show-setlist: 
 show-date: 1990-02-10
 category: 1990

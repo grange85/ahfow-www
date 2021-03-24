@@ -4,7 +4,8 @@ position: database-5
 artistslug: damon-and-naomi
 artist:
  name: Damon Krukowski
-show-venue: 'Museum of Pop Culture, Seattle, WA, USA'
+show-venue: "Museum of Pop Culture, Seattle, WA, USA"
+title: "13th April 2019 -  Damon & Naomi - Museum of Pop Culture, Seattle, WA, USA"
 show-setlist:
 show-date: 2019-04-13
 date-added: 2019-03-14

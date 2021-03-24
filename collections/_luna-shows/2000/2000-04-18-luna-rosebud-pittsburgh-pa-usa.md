@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Rosebud, Pittsburgh PA, USA'
+show-venue: "Rosebud, Pittsburgh PA, USA"
+title: "18th April 2000 -  Luna - Rosebud, Pittsburgh PA, USA"
 show-setlist: 
 show-date: 2000-04-18
 category: 2000

@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Paula Cooper Gallery, New York NY, USA'
+show-venue: "Paula Cooper Gallery, New York NY, USA"
+title: "8th December 2005 - Dean & Britta - Paula Cooper Gallery, New York NY, USA"
 show-setlist: [
   "Swedish Fish",
   "Hearing Voices",

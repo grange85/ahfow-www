@@ -4,7 +4,8 @@ position: database-5
 artistslug: damon-and-naomi
 artist:
  name: Damon Krukowski
-show-venue: 'First Parish, Cambridge, MA, USA'
+show-venue: "First Parish, Cambridge, MA, USA"
+title: "4th April 2019 -  Damon & Naomi - First Parish, Cambridge, MA, USA"
 show-setlist:
 show-date: 2019-04-04
 date-added: 2019-03-14

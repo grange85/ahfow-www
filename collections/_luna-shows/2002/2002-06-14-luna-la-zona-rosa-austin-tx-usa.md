@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'La Zona Rosa, Austin TX, USA'
+show-venue: "La Zona Rosa, Austin TX, USA"
+title: "14th June 2002 -  Luna - La Zona Rosa, Austin TX, USA"
 show-setlist: [
   "Chinatown",
   "Black Champagne",

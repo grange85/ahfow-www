@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Alphaville, Brooklyn, NY, USA'
+show-venue: "Alphaville, Brooklyn, NY, USA"
+title: "8th December 2018 - Dean Wareham - Alphaville, Brooklyn, NY, USA"
 show-notes: ''
 show-setlist:
 show-date: 2018-12-08

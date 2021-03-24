@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Lees Palace, Toronto, Canada"
+title: "25th May 2002 -  Luna - Lees Palace, Toronto, Canada"
 show-setlist: [
   "Weird And Woozy",
   "Sideshow By The Seashore",

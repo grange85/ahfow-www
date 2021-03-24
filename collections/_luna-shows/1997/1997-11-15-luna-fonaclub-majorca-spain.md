@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Fonaclub, Majorca, Spain'
+show-venue: "Fonaclub, Majorca, Spain"
+title: "15th November 1997 -  Luna - Fonaclub, Majorca, Spain"
 show-setlist: 
 show-date: 1997-11-15
 category: 1997

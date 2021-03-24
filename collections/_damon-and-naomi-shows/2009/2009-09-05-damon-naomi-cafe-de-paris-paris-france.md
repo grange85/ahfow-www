@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Cafe de Paris, Paris, France'
+show-venue: "Cafe de Paris, Paris, France"
+title: "5th September 2009 -  Damon & Naomi - Cafe de Paris, Paris, France"
 show-setlist: 
 show-date: 2009-09-05
 category: 2009

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: '9:30 Club, Washington DC, USA'
+show-venue: "9:30 Club, Washington DC, USA"
+title: "17th May 2002 -  Luna - 9:30 Club, Washington DC, USA"
 show-setlist: [
   "Weird And Woozy",
   "Black Champagne",

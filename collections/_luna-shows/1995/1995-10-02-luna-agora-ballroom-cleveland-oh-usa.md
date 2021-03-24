@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Agora Ballroom, Cleveland OH, USA'
+show-venue: "Agora Ballroom, Cleveland OH, USA"
+title: "2nd October 1995 -  Luna - Agora Ballroom, Cleveland OH, USA"
 show-setlist: 
 show-date: 1995-10-02
 category: 1995

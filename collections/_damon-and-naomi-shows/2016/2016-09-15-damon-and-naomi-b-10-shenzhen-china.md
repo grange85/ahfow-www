@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'B-10, Shenzhen, China'
+show-venue: "B-10, Shenzhen, China"
+title: "15th September 2016 -  Damon & Naomi - B-10, Shenzhen, China"
 show-setlist:
 show-date: 2016-09-15
 date-added: 2016-08-18

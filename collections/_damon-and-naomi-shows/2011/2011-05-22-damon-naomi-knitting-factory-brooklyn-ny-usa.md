@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Knitting Factory, Brooklyn, NY, USA'
+show-venue: "Knitting Factory, Brooklyn, NY, USA"
+title: "22nd May 2011 -  Damon & Naomi - Knitting Factory, Brooklyn, NY, USA"
 show-setlist: 
 show-date: 2011-05-22
 category: 2011

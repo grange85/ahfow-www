@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Knaack, Berlin, Germany'
+show-venue: "Knaack, Berlin, Germany"
+title: "3rd November 1997 -  Luna - Knaack, Berlin, Germany"
 show-setlist: 
 show-date: 1997-11-03
 category: 1997

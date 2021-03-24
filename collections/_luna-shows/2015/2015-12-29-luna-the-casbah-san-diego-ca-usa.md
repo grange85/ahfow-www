@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: The Casbah, San Diego, CA, USA
+show-venue: "The Casbah, San Diego, CA, USA"
+title: "29th December 2015 -  Luna - The Casbah, San Diego, CA, USA"
 show-setlist:
  - Egg Nog
  - California (All The Way)

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Salotto di MONK, Rome, Italy'
+show-venue: "Salotto di MONK, Rome, Italy"
+title: "29th May 2019 -  Damon & Naomi - Salotto di MONK, Rome, Italy"
 artist:
  name: Damon Krukowski
 address: |

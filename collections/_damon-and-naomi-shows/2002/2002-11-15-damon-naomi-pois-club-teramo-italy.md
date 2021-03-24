@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Pois Club, Teramo, Italy'
+show-venue: "Pois Club, Teramo, Italy"
+title: "15th November 2002 -  Damon & Naomi - Pois Club, Teramo, Italy"
 show-setlist: 
 show-date: 2002-11-15
 category: 2002

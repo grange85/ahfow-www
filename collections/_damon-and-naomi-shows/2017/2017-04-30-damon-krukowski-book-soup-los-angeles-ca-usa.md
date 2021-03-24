@@ -5,6 +5,7 @@ artistslug: damon-and-naomi
 artist:
  name: Damon Krukowski
 show-venue: "Book Soup, Los Angeles, CA, USA"
+title: "30th April 2017 -  Damon & Naomi - Book Soup, Los Angeles, CA, USA"
 show-setlist:
 show-date: 2017-04-30
 date-added: 2017-03-15

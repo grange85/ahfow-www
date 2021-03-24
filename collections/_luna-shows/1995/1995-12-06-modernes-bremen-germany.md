@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Modernes, Bremen, Germany'
+show-venue: "Modernes, Bremen, Germany"
+title: "6th December 1995 -  Luna - Modernes, Bremen, Germany"
 show-notes: 'supporting Edwyn Collins'
 show-setlist: 
 show-date: 1995-12-06

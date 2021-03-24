@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: '9:30 Club, Washington DC, USA'
+show-venue: "9:30 Club, Washington DC, USA"
+title: "5th October 2019 -  Luna - 9:30 Club, Washington DC, USA"
 address: |
   9:30 Club, 
   815 V St NW, 

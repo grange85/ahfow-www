@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Burbank, CA, USA'
+show-venue: "Burbank, CA, USA"
+title: "22nd September 2017 - Dean & Britta - Burbank, CA, USA"
 show-notes: ''
 show-setlist: 
  - Strange

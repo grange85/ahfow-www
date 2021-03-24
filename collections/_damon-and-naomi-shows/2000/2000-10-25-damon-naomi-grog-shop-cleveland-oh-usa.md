@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Grog Shop, Cleveland OH, USA'
+show-venue: "Grog Shop, Cleveland OH, USA"
+title: "25th October 2000 -  Damon & Naomi - Grog Shop, Cleveland OH, USA"
 show-setlist: 
 show-date: 2000-10-25
 category: 2000

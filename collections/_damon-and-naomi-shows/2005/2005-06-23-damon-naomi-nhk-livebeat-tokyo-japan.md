@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'NHK Livebeat, Tokyo, Japan'
+show-venue: "NHK Livebeat, Tokyo, Japan"
+title: "23rd June 2005 -  Damon & Naomi - NHK Livebeat, Tokyo, Japan"
 show-setlist: 
 show-date: 2005-06-23
 category: 2005

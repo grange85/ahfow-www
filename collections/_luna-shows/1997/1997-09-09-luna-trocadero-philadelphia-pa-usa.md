@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Trocadero, Philadelphia PA, USA'
+show-venue: "Trocadero, Philadelphia PA, USA"
+title: "9th September 1997 -  Luna - Trocadero, Philadelphia PA, USA"
 show-setlist: 
 show-date: 1997-09-09
 category: 1997

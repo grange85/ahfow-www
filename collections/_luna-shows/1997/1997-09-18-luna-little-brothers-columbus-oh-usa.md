@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Little Brothers, Columbus OH, USA'
+show-venue: "Little Brothers, Columbus OH, USA"
+title: "18th September 1997 -  Luna - Little Brothers, Columbus OH, USA"
 show-setlist: [
   "Pup Tent",
   "Anesthesia",

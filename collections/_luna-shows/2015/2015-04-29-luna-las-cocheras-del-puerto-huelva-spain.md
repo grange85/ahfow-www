@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Las Cocheras del Puerto, Huelva, Spain'
+show-venue: "Las Cocheras del Puerto, Huelva, Spain"
+title: "29th April 2015 -  Luna - Las Cocheras del Puerto, Huelva, Spain"
 show-setlist: 
 show-date: 2015-04-29
 category: 2015

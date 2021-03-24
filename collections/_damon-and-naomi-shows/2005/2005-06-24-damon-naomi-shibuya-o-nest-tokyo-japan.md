@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Shibuya O-Nest, Tokyo, Japan'
+show-venue: "Shibuya O-Nest, Tokyo, Japan"
+title: "24th June 2005 -  Damon & Naomi - Shibuya O-Nest, Tokyo, Japan"
 show-setlist: [
   "New York City",
   "House of Glass",

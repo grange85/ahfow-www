@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Middle East, Cambridge MA, USA'
+show-venue: "Middle East, Cambridge MA, USA"
+title: "29th October 2007 -  Damon & Naomi - Middle East, Cambridge MA, USA"
 show-setlist: 
 show-date: 2007-10-29
 category: 2007

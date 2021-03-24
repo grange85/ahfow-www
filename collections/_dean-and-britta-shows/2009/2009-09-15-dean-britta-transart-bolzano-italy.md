@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Transart, Bolzano, Italy'
+show-venue: "Transart, Bolzano, Italy"
+title: "15th September 2009 - Dean & Britta - Transart, Bolzano, Italy"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

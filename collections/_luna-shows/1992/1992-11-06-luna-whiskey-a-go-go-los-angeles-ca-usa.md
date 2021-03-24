@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Whiskey-A-Go-Go, Los Angeles CA, USA'
+show-venue: "Whiskey-A-Go-Go, Los Angeles CA, USA"
+title: "6th November 1992 -  Luna - Whiskey-A-Go-Go, Los Angeles CA, USA"
 show-setlist: [
   "Slide",
   "Crazy People",

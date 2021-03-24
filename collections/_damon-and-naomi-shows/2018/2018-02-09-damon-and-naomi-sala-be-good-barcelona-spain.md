@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Sala Be Good, Barcelona, Spain'
+show-venue: "Sala Be Good, Barcelona, Spain"
+title: "9th February 2018 -  Damon & Naomi - Sala Be Good, Barcelona, Spain"
 show-setlist:
  - How Do I Say Goodbye
  - Judah and The Maccabees

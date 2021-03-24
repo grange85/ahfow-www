@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Paradise, Boston MA, USA'
+show-venue: "Paradise, Boston MA, USA"
+title: "21st September 1995 -  Luna - Paradise, Boston MA, USA"
 show-setlist: 
 show-date: 1995-09-21
 category: 1995

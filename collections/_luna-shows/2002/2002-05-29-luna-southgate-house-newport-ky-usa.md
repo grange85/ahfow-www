@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Southgate House, Newport KY, USA'
+show-venue: "Southgate House, Newport KY, USA"
+title: "29th May 2002 -  Luna - Southgate House, Newport KY, USA"
 show-setlist: [
   "Lovedust",
   "Weird And Woozy",

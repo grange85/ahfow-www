@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Opera House, Toronto, Canada'
+show-venue: "Opera House, Toronto, Canada"
+title: "16th September 1997 -  Luna - Opera House, Toronto, Canada"
 show-setlist: 
 show-date: 1997-09-16
 category: 1997

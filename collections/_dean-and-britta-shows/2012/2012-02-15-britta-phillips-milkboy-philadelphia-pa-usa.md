@@ -4,7 +4,8 @@ position: database-5
 artistslug: britta-phillips
 artist:
   name: Britta Phillips
-show-venue: 'Milkboy, Philadelphia, PA, USA'
+show-venue: "Milkboy, Philadelphia, PA, USA"
+title: "15th February 2012 - Britta Phillips - Milkboy, Philadelphia, PA, USA"
 show-setlist: 
  - ^Bang Bang
  - Only Women Bleed

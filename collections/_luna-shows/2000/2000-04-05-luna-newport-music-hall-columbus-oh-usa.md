@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Newport Music Hall, Columbus OH, USA'
+show-venue: "Newport Music Hall, Columbus OH, USA"
+title: "5th April 2000 -  Luna - Newport Music Hall, Columbus OH, USA"
 show-setlist: 
 show-date: 2000-04-05
 category: 2000

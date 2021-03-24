@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: damon-and-naomi
 show-venue: "Schubas, Chicago IL, USA"
+title: "22nd April 2005 -  Damon & Naomi - Schubas, Chicago IL, USA"
 show-setlist: 
 show-date: 2005-04-22
 category: 2005

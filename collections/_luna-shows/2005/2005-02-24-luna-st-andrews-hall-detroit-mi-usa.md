@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "St. Andrews Hall, Detroit MI, USA"
+title: "24th February 2005 -  Luna - St. Andrews Hall, Detroit MI, USA"
 show-setlist: [
   "California (All The Way)",
   "Malibu Love Nest",

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: '(unknown), Austin TX, USA'
+show-venue: "(unknown), Austin TX, USA"
+title: "2nd February 1996 -  Luna - (unknown), Austin TX, USA"
 show-setlist: 
 show-date: 1996-02-02
 category: 1996

@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Mod Club, Toronto, Canada'
+show-venue: "Mod Club, Toronto, Canada"
+title: "12th March 2007 - Dean & Britta - Mod Club, Toronto, Canada"
 show-setlist: [
   "Singer Sing",
   "Night Nurse",

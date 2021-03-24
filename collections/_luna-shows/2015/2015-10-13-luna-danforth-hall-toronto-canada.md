@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Danforth Hall, Toronto, Canada'
+show-venue: "Danforth Hall, Toronto, Canada"
+title: "13th October 2015 -  Luna - Danforth Hall, Toronto, Canada"
 show-setlist:
  - Slide
  - California (All The Way)

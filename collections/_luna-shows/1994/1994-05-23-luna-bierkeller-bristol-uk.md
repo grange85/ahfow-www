@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Bierkeller, Bristol, UK'
+show-venue: "Bierkeller, Bristol, UK"
+title: "23rd May 1994 -  Luna - Bierkeller, Bristol, UK"
 setlist-source: 'setlist scan'
 show-setlist: [
   "Time",

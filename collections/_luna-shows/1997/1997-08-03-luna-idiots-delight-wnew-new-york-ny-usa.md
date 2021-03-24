@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Idiots Delight WNEW, New York NY, USA"
+title: "3rd August 1997 -  Luna - Idiots Delight WNEW, New York NY, USA"
 show-setlist: [
   "Beggar's Bliss",
   "Anesthesia",

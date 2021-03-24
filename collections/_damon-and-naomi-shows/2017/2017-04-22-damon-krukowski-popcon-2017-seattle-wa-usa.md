@@ -4,7 +4,8 @@ position: database-5
 artistslug: damon-and-naomi
 artist:
  name: Damon Krukowski
-show-venue: 'PopCon 2017, The Museum of Popular Culture, Seattle, WA, USA'
+show-venue: "PopCon 2017, The Museum of Popular Culture, Seattle, WA, USA"
+title: "22nd April 2017 -  Damon & Naomi - PopCon 2017, The Museum of Popular Culture, Seattle, WA, USA"
 show-setlist:
 show-date: 2017-04-22
 date-added: 2017-03-15

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Ciseros, Park City, UT, USA'
+show-venue: "Ciseros, Park City, UT, USA"
+title: "25th January 2000 -  Luna - Ciseros, Park City, UT, USA"
 show-setlist: 
 show-date: 2000-01-25
 category: 2000

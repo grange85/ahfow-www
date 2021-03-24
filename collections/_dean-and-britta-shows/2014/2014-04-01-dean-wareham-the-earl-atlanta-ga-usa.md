@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'The Earl, Atlanta, GA, USA'
+show-venue: "The Earl, Atlanta, GA, USA"
+title: "1st April 2014 - Dean Wareham - The Earl, Atlanta, GA, USA"
 show-setlist: 
 show-date: 2014-04-01
 category: 2014

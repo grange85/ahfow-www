@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'First Night, Boston, MA, USA'
+show-venue: "First Night, Boston, MA, USA"
+title: "31st December 2013 - Dean Wareham - First Night, Boston, MA, USA"
 show-setlist: 
 show-date: 2013-12-31
 category: 2013

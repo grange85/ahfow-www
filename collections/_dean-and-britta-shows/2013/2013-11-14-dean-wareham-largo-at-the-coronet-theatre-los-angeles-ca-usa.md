@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Largo at the Coronet Theatre, Los Angeles, CA, USA '
+show-venue: "Largo at the Coronet Theatre, Los Angeles, CA, USA "
+title: "14th November 2013 - Dean Wareham - Largo at the Coronet Theatre, Los Angeles, CA, USA "
 show-setlist: 
 show-date: 2013-11-14
 category: 2013

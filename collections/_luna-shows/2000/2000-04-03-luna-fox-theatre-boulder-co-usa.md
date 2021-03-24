@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Fox Theatre, Boulder CO, USA'
+show-venue: "Fox Theatre, Boulder CO, USA"
+title: "3rd April 2000 -  Luna - Fox Theatre, Boulder CO, USA"
 show-setlist: [
   "Bewitched",
   "Pup Tent",

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: '88Nine Radio Milwaukee, Milwaukee, WI, USA'
+show-venue: "88Nine Radio Milwaukee, Milwaukee, WI, USA"
+title: "3rd November 2017 -  Luna - 88Nine Radio Milwaukee, Milwaukee, WI, USA"
 show-notes: ''
 show-setlist: 
  - Fire in Cairo

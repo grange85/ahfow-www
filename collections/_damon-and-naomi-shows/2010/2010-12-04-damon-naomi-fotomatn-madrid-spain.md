@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Fotomatón, Madrid, Spain '
+show-venue: "Fotomatón, Madrid, Spain "
+title: "4th December 2010 -  Damon & Naomi - Fotomatón, Madrid, Spain "
 show-setlist: 
 show-date: 2010-12-04
 category: 2010

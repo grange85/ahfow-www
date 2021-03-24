@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Moes, Seattle WA, USA"
+title: "19th July 1994 -  Luna - Moes, Seattle WA, USA"
 show-setlist: [
   "California (All The Way)",
   "Anesthesia",

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Teragram Ballroom, Los Angeles, CA, USA'
+show-venue: "Teragram Ballroom, Los Angeles, CA, USA"
+title: "5th February 2020 -  Luna - Teragram Ballroom, Los Angeles, CA, USA"
 address: |
   Teragram Ballroom,
   1234 W 7th St,

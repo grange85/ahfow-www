@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Corner Hotel, Melbourne, Australia'
+show-venue: "Corner Hotel, Melbourne, Australia"
+title: "11th October 2011 - Dean & Britta - Corner Hotel, Melbourne, Australia"
 show-setlist: 
 show-date: 2011-10-11
 category: 2011

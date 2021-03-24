@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'The Liquid Room, Edinburgh, UK'
+show-venue: "The Liquid Room, Edinburgh, UK"
+title: "23rd January 2021 - Dean Wareham - The Liquid Room, Edinburgh, UK"
 address: |
   The Liquid Room, 
   9c Victoria Street, 

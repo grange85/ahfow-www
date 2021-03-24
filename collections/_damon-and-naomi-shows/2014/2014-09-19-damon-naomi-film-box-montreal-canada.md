@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Film BOX (Quartiers POP), Montreal, Canada'
+show-venue: "Film BOX (Quartiers POP), Montreal, Canada"
+title: "19th September 2014 -  Damon & Naomi - Film BOX (Quartiers POP), Montreal, Canada"
 show-setlist:
  - The Seeker
  - Amnesia

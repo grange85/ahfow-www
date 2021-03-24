@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Lees Palace, Toronto, Canada"
+title: "30th September 1995 -  Luna - Lees Palace, Toronto, Canada"
 show-setlist: 
 show-date: 1995-09-30
 category: 1995

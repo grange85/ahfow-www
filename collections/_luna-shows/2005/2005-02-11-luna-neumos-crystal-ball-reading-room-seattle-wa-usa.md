@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Neumos Crystal Ball Reading Room, Seattle WA, USA'
+show-venue: "Neumos Crystal Ball Reading Room, Seattle WA, USA"
+title: "11th February 2005 -  Luna - Neumos Crystal Ball Reading Room, Seattle WA, USA"
 show-setlist: [
   "California (All The Way)",
   "Speedbumps",

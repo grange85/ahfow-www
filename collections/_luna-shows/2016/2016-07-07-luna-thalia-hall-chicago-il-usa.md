@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Thalia Hall, Chicago, IL, USA'
+show-venue: "Thalia Hall, Chicago, IL, USA"
+title: "7th July 2016 -  Luna - Thalia Hall, Chicago, IL, USA"
 show-notes: ''
 show-setlist:
  - California (All The Way)

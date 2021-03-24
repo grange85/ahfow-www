@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Palace Theatre, Gainesville FL, USA'
+show-venue: "Palace Theatre, Gainesville FL, USA"
+title: "3rd November 2002 -  Damon & Naomi - Palace Theatre, Gainesville FL, USA"
 show-setlist: 
 show-date: 2002-11-03
 category: 2002

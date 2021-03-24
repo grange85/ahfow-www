@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'OFF Festival, Katowice, Poland'
+show-venue: "OFF Festival, Katowice, Poland"
+title: "8th August 2010 -  Damon & Naomi - OFF Festival, Katowice, Poland"
 show-setlist: 
 show-date: 2010-08-08
 category: 2010

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'The Cedar, Minneapolis, MN, USA'
+show-venue: "The Cedar, Minneapolis, MN, USA"
+title: "1st November 2017 -  Luna - The Cedar, Minneapolis, MN, USA"
 show-notes: ''
 show-setlist: 
 show-date: 2017-11-01

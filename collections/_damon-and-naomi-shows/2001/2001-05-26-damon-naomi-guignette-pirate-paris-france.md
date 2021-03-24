@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Guignette Pirate, Paris, France'
+show-venue: "Guignette Pirate, Paris, France"
+title: "26th May 2001 -  Damon & Naomi - Guignette Pirate, Paris, France"
 show-setlist: 
 show-date: 2001-05-26
 category: 2001

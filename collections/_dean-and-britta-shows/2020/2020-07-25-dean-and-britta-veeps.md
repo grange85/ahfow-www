@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: Dean & Britta's living room, Echo Park, Los Angeles, CA, USA
+show-venue: "Dean & Britta's living room, Echo Park, Los Angeles, CA, USA"
+title: "25th July 2020 - Dean & Britta - Dean & Britta's living room, Echo Park, Los Angeles, CA, USA"
 show-notes: ''
 show-setlist:
  - ^My Rifle, My Pony, and Me (false start)

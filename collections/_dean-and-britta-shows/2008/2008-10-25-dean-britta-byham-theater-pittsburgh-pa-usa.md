@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Byham Theater, Pittsburgh PA, USA'
+show-venue: "Byham Theater, Pittsburgh PA, USA"
+title: "25th October 2008 - Dean & Britta - Byham Theater, Pittsburgh PA, USA"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

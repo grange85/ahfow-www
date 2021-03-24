@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Great Scott, Boston, MA, USA'
+show-venue: "Great Scott, Boston, MA, USA"
+title: "23rd May 2011 -  Damon & Naomi - Great Scott, Boston, MA, USA"
 show-setlist: 
 show-date: 2011-05-23
 category: 2011

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Sideshows by the Seashore, Coney Island NY, USA'
+show-venue: "Sideshows by the Seashore, Coney Island NY, USA"
+title: "7th July 1989 -  Galaxie 500 - Sideshows by the Seashore, Coney Island NY, USA"
 show-setlist: 
 show-date: 1989-07-07
 category: 1989

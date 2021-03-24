@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'The Garage, London, UK'
+show-venue: "The Garage, London, UK"
+title: "31st July 2015 -  Luna - The Garage, London, UK"
 show-setlist: [
   "Slide",
   "Chinatown",

@@ -4,7 +4,8 @@ position: database-5
 artistslug: damon-and-naomi
 artist:
  name: Damon Krukowski
-show-venue: 'MITP Bookstore, Cambridge, MA, USA'
+show-venue: "MITP Bookstore, Cambridge, MA, USA"
+title: "9th May 2019 -  Damon & Naomi - MITP Bookstore, Cambridge, MA, USA"
 show-setlist:
 show-date: 2019-05-09
 date-added: 2019-03-14

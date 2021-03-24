@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Bear Hall, Gangnam, Seoul, South Korea'
+show-venue: "Bear Hall, Gangnam, Seoul, South Korea"
+title: "9th September 2015 -  Damon & Naomi - Bear Hall, Gangnam, Seoul, South Korea"
 show-setlist: [
   ]
 show-date: 2015-09-09

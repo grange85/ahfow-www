@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Southpaw, Brooklyn, NY, USA'
+show-venue: "Southpaw, Brooklyn, NY, USA"
+title: "31st December 2009 - Dean & Britta - Southpaw, Brooklyn, NY, USA"
 show-setlist: 
 show-date: 2009-12-31
 category: 2009

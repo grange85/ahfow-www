@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Potterhouse, Nottingham, UK'
+show-venue: "Potterhouse, Nottingham, UK"
+title: "15th December 1995 -  Luna - Potterhouse, Nottingham, UK"
 show-setlist: 
 show-date: 1995-12-15
 category: 1995

@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Maxwell's, Hoboken, NJ, USA"
+title: "15th January 1997 -  Luna - Maxwell's, Hoboken, NJ, USA"
 show-setlist: 
 show-date: 1997-01-15
 category: 1997

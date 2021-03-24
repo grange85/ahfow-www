@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Troubadour, Los Angeles CA, USA'
+show-venue: "Troubadour, Los Angeles CA, USA"
+title: "18th June 2003 - Dean & Britta - Troubadour, Los Angeles CA, USA"
 show-setlist: 
 show-date: 2003-06-18
 category: 2003

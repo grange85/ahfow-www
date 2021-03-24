@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Thekla, Bristol, UK'
+show-venue: "Thekla, Bristol, UK"
+title: "7th September 2018 -  Luna - Thekla, Bristol, UK"
 show-notes: ''
 show-setlist:
  - ^set 1 - Galaxie 500

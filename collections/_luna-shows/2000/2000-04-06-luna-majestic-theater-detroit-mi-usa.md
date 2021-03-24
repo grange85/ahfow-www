@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Majestic Theater, Detroit MI, USA'
+show-venue: "Majestic Theater, Detroit MI, USA"
+title: "6th April 2000 -  Luna - Majestic Theater, Detroit MI, USA"
 show-setlist: 
 show-date: 2000-04-06
 category: 2000

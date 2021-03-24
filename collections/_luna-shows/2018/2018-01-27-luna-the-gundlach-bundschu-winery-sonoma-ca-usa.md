@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Gundlach Bundschu Winery, Sonoma, CA, USA'
+show-venue: "Gundlach Bundschu Winery, Sonoma, CA, USA"
+title: "27th January 2018 -  Luna - Gundlach Bundschu Winery, Sonoma, CA, USA"
 show-notes: ''
 show-setlist: 
  - Slide

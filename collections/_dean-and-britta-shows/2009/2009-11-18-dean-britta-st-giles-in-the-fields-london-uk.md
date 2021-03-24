@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'St Giles-in-the-Fields, London, UK'
+show-venue: "St Giles-in-the-Fields, London, UK"
+title: "18th November 2009 - Dean & Britta - St Giles-in-the-Fields, London, UK"
 show-setlist: 
 show-date: 2009-11-18
 category: 2009

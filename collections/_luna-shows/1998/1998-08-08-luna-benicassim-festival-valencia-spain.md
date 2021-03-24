@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Benicassim Festival, Valencia, Spain'
+show-venue: "Benicassim Festival, Valencia, Spain"
+title: "8th August 1998 -  Luna - Benicassim Festival, Valencia, Spain"
 show-setlist: [
   "California (All The Way)",
   "Bobby Peru",

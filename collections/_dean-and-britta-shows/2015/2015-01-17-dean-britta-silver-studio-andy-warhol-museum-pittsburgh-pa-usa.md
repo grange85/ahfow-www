@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'OZ, Nashville, TN, USA'
+show-venue: "OZ, Nashville, TN, USA"
+title: "17th January 2015 - Dean & Britta - OZ, Nashville, TN, USA"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

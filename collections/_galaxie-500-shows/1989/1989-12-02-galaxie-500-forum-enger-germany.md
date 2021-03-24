@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Forum, Enger, Germany'
+show-venue: "Forum, Enger, Germany"
+title: "2nd December 1989 -  Galaxie 500 - Forum, Enger, Germany"
 show-setlist: [
   "Flowers",
   "Pictures",

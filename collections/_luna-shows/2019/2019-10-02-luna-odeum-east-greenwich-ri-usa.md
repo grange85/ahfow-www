@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Greenwich Odeum, East Greenwich, RI, USA'
+show-venue: "Greenwich Odeum, East Greenwich, RI, USA"
+title: "2nd October 2019 -  Luna - Greenwich Odeum, East Greenwich, RI, USA"
 address: |
   Greenwich Odeum, 
   59 Main St, 

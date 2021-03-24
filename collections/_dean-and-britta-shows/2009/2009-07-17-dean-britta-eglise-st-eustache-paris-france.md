@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Eglise St Eustache, Paris, France'
+show-venue: "Eglise St Eustache, Paris, France"
+title: "17th July 2009 - Dean & Britta - Eglise St Eustache, Paris, France"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

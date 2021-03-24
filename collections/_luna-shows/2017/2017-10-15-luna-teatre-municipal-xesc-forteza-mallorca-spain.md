@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Teatre Municipal Xesc Forteza, Mallorca, Spain'
+show-venue: "Teatre Municipal Xesc Forteza, Mallorca, Spain"
+title: "15th October 2017 -  Luna - Teatre Municipal Xesc Forteza, Mallorca, Spain"
 show-notes: ''
 show-setlist:
  - GTX3

@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Double Door, Chicago IL, USA'
+show-venue: "Double Door, Chicago IL, USA"
+title: "21st June 2003 - Dean & Britta - Double Door, Chicago IL, USA"
 show-setlist: 
  - title: Night Nurse 
  - title: Random Rules 

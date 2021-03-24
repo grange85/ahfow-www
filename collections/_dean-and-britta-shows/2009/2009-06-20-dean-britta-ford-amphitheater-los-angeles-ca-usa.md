@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Ford Amphitheater, Los Angeles, CA, USA'
+show-venue: "Ford Amphitheater, Los Angeles, CA, USA"
+title: "20th June 2009 - Dean & Britta - Ford Amphitheater, Los Angeles, CA, USA"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

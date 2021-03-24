@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Tractor Tavern, Seattle WA, USA'
+show-venue: "Tractor Tavern, Seattle WA, USA"
+title: "30th April 2005 -  Damon & Naomi - Tractor Tavern, Seattle WA, USA"
 show-setlist: 
 show-date: 2005-04-30
 category: 2005

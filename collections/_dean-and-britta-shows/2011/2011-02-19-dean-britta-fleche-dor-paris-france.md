@@ -5,6 +5,7 @@ artistslug: dean-and-britta
 artist:
   name: Dean & Britta
 show-venue: "Fleche D'Or, Paris, France"
+title: "19th February 2011 - Dean & Britta - Fleche D'Or, Paris, France"
 show-setlist: 
 show-date: 2011-02-19
 category: 2011

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Amherst College, Amherst MA, USA'
+show-venue: "Amherst College, Amherst MA, USA"
+title: "17th April 1998 -  Luna - Amherst College, Amherst MA, USA"
 show-setlist: 
 show-date: 1998-04-17
 category: 1998

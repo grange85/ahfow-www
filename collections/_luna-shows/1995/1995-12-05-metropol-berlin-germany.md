@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Metropol, Berlin, Germany'
+show-venue: "Metropol, Berlin, Germany"
+title: "5th December 1995 -  Luna - Metropol, Berlin, Germany"
 show-notes: 'supporting Edwyn Collins'
 show-setlist: 
 show-date: 1995-12-05

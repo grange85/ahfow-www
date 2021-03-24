@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Club Congress, Tuscon AZ, USA'
+show-venue: "Club Congress, Tuscon AZ, USA"
+title: "20th February 2008 - Dean & Britta - Club Congress, Tuscon AZ, USA"
 show-setlist: 
 show-date: 2008-02-20
 category: 2008

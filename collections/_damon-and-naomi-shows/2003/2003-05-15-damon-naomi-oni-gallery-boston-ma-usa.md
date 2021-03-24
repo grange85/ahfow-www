@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Oni Gallery, Boston MA, USA'
+show-venue: "Oni Gallery, Boston MA, USA"
+title: "15th May 2003 -  Damon & Naomi - Oni Gallery, Boston MA, USA"
 show-setlist: 
 show-date: 2003-05-15
 category: 2003

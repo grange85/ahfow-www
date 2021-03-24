@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'WHFS, Washington DC, USA'
+show-venue: "WHFS, Washington DC, USA"
+title: "17th May 2002 -  Luna - WHFS, Washington DC, USA"
 show-setlist: [
   "Swedish Fish",
   "The Slow Song"

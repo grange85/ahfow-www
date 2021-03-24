@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'King Tuts Wah Wah Hut, Glasgow, UK'
+show-venue: "King Tuts Wah Wah Hut, Glasgow, UK"
+title: "20th May 2001 -  Damon & Naomi - King Tuts Wah Wah Hut, Glasgow, UK"
 show-setlist: 
 show-date: 2001-05-20
 category: 2001

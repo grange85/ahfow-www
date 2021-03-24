@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Roadhouse, Manchester, UK'
+show-venue: "Roadhouse, Manchester, UK"
+title: "6th September 1999 -  Luna - Roadhouse, Manchester, UK"
 show-setlist: 
 show-date: 1999-09-06
 category: 1999

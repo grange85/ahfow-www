@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'LA2, London, UK'
+show-venue: "LA2, London, UK"
+title: "15th October 1997 -  Luna - LA2, London, UK"
 show-setlist: 
 show-date: 1997-10-15
 category: 1997

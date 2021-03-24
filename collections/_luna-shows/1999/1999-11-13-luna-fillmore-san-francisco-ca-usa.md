@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Fillmore, San Francisco CA, USA'
+show-venue: "Fillmore, San Francisco CA, USA"
+title: "13th November 1999 -  Luna - Fillmore, San Francisco CA, USA"
 show-setlist: 
 show-date: 1999-11-13
 category: 1999

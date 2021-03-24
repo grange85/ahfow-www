@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Gorilla, Manchester, UK'
+show-venue: "Gorilla, Manchester, UK"
+title: "3rd August 2015 -  Luna - Gorilla, Manchester, UK"
 show-setlist: [
   "California (All The Way)",
   "Sideshow by the Seashore",

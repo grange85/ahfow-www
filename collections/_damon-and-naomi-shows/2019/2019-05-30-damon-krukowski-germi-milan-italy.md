@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Germi, Milan, Italy'
+show-venue: "Germi, Milan, Italy"
+title: "30th May 2019 -  Damon & Naomi - Germi, Milan, Italy"
 artist:
  name: Damon Krukowski
 address: |

@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Skirball Center, NYU, New York, NY'
+show-venue: "Skirball Center, NYU, New York, NY"
+title: "22nd October 2010 - Dean & Britta - Skirball Center, NYU, New York, NY"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

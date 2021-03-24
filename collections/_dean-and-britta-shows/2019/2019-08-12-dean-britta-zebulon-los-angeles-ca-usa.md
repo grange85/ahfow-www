@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Zebulon, Los Angeles, CA, USA'
+show-venue: "Zebulon, Los Angeles, CA, USA"
+title: "12th August 2019 - Dean & Britta - Zebulon, Los Angeles, CA, USA"
 show-notes: ''
 show-setlist:
 show-date: 2019-08-12

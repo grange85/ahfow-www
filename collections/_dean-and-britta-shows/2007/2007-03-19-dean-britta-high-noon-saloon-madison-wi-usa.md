@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'High Noon Saloon, Madison WI, USA'
+show-venue: "High Noon Saloon, Madison WI, USA"
+title: "19th March 2007 - Dean & Britta - High Noon Saloon, Madison WI, USA"
 show-setlist: [
   "Singer Sing",
   "Night Nurse",

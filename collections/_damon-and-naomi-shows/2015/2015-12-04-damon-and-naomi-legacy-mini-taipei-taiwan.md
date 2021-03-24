@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Legacy Mini, Taipei, Taiwan'
+show-venue: "Legacy Mini, Taipei, Taiwan"
+title: "4th December 2015 -  Damon & Naomi - Legacy Mini, Taipei, Taiwan"
 show-setlist: [
   ]
 show-date: 2015-12-04

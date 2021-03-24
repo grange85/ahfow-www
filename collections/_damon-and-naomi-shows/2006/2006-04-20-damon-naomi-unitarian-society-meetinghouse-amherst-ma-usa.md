@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Unitarian Society Meetinghouse, Amherst MA, USA'
+show-venue: "Unitarian Society Meetinghouse, Amherst MA, USA"
+title: "20th April 2006 -  Damon & Naomi - Unitarian Society Meetinghouse, Amherst MA, USA"
 show-setlist: 
 show-date: 2006-04-20
 category: 2006

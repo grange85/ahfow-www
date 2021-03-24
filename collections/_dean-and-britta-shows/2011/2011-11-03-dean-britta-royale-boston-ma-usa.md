@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Royale, Boston, MA, USA'
+show-venue: "Royale, Boston, MA, USA"
+title: "3rd November 2011 - Dean & Britta - Royale, Boston, MA, USA"
 show-setlist: 
 show-date: 2011-11-03
 category: 2011

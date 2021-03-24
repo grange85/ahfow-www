@@ -4,7 +4,8 @@ position: database-5
 artistslug: britta-phillips
 artist:
   name: Britta Phillips
-show-venue: The Great American Music Hall, San Francisco, CA, USA
+show-venue: "The Great American Music Hall, San Francisco, CA, USA"
+title: "21st March 2017 - Britta Phillips - The Great American Music Hall, San Francisco, CA, USA"
 show-notes: 
 show-setlist: 
 show-date: 2017-03-21

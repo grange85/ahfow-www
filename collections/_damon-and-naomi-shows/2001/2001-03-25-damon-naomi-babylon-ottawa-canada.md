@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Babylon, Ottawa, Canada'
+show-venue: "Babylon, Ottawa, Canada"
+title: "25th March 2001 -  Damon & Naomi - Babylon, Ottawa, Canada"
 show-setlist: 
 show-date: 2001-03-25
 category: 2001

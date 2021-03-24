@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Douglas Fir Lounge, Portland OR, USA'
+show-venue: "Douglas Fir Lounge, Portland OR, USA"
+title: "29th April 2005 -  Damon & Naomi - Douglas Fir Lounge, Portland OR, USA"
 show-setlist: 
 show-date: 2005-04-29
 category: 2005

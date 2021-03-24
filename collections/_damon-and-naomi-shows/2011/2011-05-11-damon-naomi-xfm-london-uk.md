@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Xfm, London, UK'
+show-venue: "Xfm, London, UK"
+title: "11th May 2011 -  Damon & Naomi - Xfm, London, UK"
 show-setlist: 
 show-date: 2011-05-11
 category: 2011

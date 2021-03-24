@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'The Haunt, Ithaca, NY, USA'
+show-venue: "The Haunt, Ithaca, NY, USA"
+title: "16th October 2019 -  Luna - The Haunt, Ithaca, NY, USA"
 address: |
   The Haunt, 
   702 Willow Ave, 

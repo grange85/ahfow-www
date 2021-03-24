@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Objekt 5, Halle, Germany'
+show-venue: "Objekt 5, Halle, Germany"
+title: "28th November 2007 - Dean & Britta - Objekt 5, Halle, Germany"
 show-setlist: 
 show-date: 2007-11-28
 category: 2007

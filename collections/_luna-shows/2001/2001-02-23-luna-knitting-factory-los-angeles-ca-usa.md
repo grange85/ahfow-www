@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Knitting Factory, Los Angeles CA, USA'
+show-venue: "Knitting Factory, Los Angeles CA, USA"
+title: "23rd February 2001 -  Luna - Knitting Factory, Los Angeles CA, USA"
 show-setlist: [
   "Egg Nog",
   "Dear Diary",

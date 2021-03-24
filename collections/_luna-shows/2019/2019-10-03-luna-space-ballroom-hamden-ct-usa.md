@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Space Ballroom, Hamden, CT, USA'
+show-venue: "Space Ballroom, Hamden, CT, USA"
+title: "3rd October 2019 -  Luna - Space Ballroom, Hamden, CT, USA"
 address: |
   Space Ballroom, 
   295 Treadwell Street, 

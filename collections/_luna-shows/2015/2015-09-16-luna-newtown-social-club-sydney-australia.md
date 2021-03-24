@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Newtown Social Club, Sydney, Australia'
+show-venue: "Newtown Social Club, Sydney, Australia"
+title: "16th September 2015 -  Luna - Newtown Social Club, Sydney, Australia"
 show-notes: ''
 show-setlist:
 show-date: 2015-09-16

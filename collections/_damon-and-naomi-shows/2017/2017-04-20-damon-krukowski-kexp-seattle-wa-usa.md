@@ -4,7 +4,8 @@ position: database-5
 artistslug: damon-and-naomi
 artist:
  name: Damon Krukowski
-show-venue: 'KEXP, Seattle, WA, USA'
+show-venue: "KEXP, Seattle, WA, USA"
+title: "20th April 2017 -  Damon & Naomi - KEXP, Seattle, WA, USA"
 show-setlist:
 show-date: 2017-04-20
 date-added: 2017-03-15

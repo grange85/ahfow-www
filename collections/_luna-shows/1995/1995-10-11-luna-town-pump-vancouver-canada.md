@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Town Pump, Vancouver, Canada'
+show-venue: "Town Pump, Vancouver, Canada"
+title: "11th October 1995 -  Luna - Town Pump, Vancouver, Canada"
 show-setlist: 
 show-date: 1995-10-11
 category: 1995

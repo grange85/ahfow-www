@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Namba Bears, Osaka, Japan'
+show-venue: "Namba Bears, Osaka, Japan"
+title: "6th November 2017 -  Damon & Naomi - Namba Bears, Osaka, Japan"
 show-setlist:
 show-date: 2017-11-06
 date-added: 2017-10-09

@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Indianapolis Museum of Art, Indianapolis, IN, USA'
+show-venue: "Indianapolis Museum of Art, Indianapolis, IN, USA"
+title: "2nd December 2010 - Dean & Britta - Indianapolis Museum of Art, Indianapolis, IN, USA"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

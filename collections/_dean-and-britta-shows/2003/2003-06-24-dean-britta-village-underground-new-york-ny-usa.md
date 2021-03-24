@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Village Underground, New York NY, USA'
+show-venue: "Village Underground, New York NY, USA"
+title: "24th June 2003 - Dean & Britta - Village Underground, New York NY, USA"
 show-stream: true
 show-setlist: 
  - title: Night Nurse

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Gold Diggers, Los Angeles, CA, USA'
+show-venue: "Gold Diggers, Los Angeles, CA, USA"
+title: "11th July 2017 -  Luna - Gold Diggers, Los Angeles, CA, USA"
 show-notes: ''
 show-setlist: 
 show-date: 2017-07-11

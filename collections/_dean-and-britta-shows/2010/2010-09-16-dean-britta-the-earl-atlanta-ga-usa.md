@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'The Earl, Atlanta, GA, USA'
+show-venue: "The Earl, Atlanta, GA, USA"
+title: "16th September 2010 - Dean & Britta - The Earl, Atlanta, GA, USA"
 show-setlist: 
 show-date: 2010-09-16
 category: 2010

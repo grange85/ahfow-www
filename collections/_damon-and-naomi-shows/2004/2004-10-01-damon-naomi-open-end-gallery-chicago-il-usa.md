@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Open End Gallery, Chicago IL, USA'
+show-venue: "Open End Gallery, Chicago IL, USA"
+title: "1st October 2004 -  Damon & Naomi - Open End Gallery, Chicago IL, USA"
 show-setlist: 
 show-date: 2004-10-01
 category: 2004

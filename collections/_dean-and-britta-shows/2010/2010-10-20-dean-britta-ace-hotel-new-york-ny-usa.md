@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Ace Hotel, New York, NY, USA'
+show-venue: "Ace Hotel, New York, NY, USA"
+title: "20th October 2010 - Dean & Britta - Ace Hotel, New York, NY, USA"
 show-setlist: [
   "I'll Keep It With Mine",
   "Eyes in My Smoke",

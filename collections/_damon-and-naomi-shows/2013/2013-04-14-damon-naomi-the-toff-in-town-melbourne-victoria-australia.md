@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'The Toff in Town, Melbourne, Victoria, Australia'
+show-venue: "The Toff in Town, Melbourne, Victoria, Australia"
+title: "14th April 2013 -  Damon & Naomi - The Toff in Town, Melbourne, Victoria, Australia"
 show-setlist: 
 show-date: 2013-04-14
 category: 2013

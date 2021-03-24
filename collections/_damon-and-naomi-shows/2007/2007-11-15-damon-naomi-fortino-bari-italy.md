@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Fortino, Bari, Italy'
+show-venue: "Fortino, Bari, Italy"
+title: "15th November 2007 -  Damon & Naomi - Fortino, Bari, Italy"
 show-setlist: 
 show-date: 2007-11-15
 category: 2007

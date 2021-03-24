@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'CBGBs, New York NY, USA'
+show-venue: "CBGBs, New York NY, USA"
+title: "19th October 1990 -  Galaxie 500 - CBGBs, New York NY, USA"
 show-setlist: [
   "Fourth of July",
   "Summertime",

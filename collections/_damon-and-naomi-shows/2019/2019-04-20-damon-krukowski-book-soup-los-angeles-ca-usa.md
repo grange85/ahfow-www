@@ -4,7 +4,8 @@ position: database-5
 artistslug: damon-and-naomi
 artist:
  name: Damon Krukowski
-show-venue: 'Book Soup, Los Angeles, CA, USA'
+show-venue: "Book Soup, Los Angeles, CA, USA"
+title: "20th April 2019 -  Damon & Naomi - Book Soup, Los Angeles, CA, USA"
 show-setlist:
 show-date: 2019-04-20
 date-added: 2019-03-14

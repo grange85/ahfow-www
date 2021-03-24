@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Birdys, Indianapolis IN, USA"
+title: "4th February 2003 -  Luna - Birdys, Indianapolis IN, USA"
 show-setlist: 
 show-date: 2003-02-04
 category: 2003

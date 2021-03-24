@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: galaxie-500
 show-venue: "CBGBs, New York, NY, USA"
+title: "13th May 1989 -  Galaxie 500 - CBGBs, New York, NY, USA"
 show-setlist: 
 show-date: 1989-05-13
 category: 1989

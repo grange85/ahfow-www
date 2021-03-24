@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'TT the Bears, Cambridge MA, USA'
+show-venue: "TT the Bears, Cambridge MA, USA"
+title: "10th September 2003 -  Damon & Naomi - TT the Bears, Cambridge MA, USA"
 show-setlist: 
 show-date: 2003-09-10
 category: 2003

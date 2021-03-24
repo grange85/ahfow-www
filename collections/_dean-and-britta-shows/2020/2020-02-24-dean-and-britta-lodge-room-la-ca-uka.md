@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Lodge Room, Los Angeles, CA, USA'
+show-venue: "Lodge Room, Los Angeles, CA, USA"
+title: "24th February 2020 - Dean & Britta - Lodge Room, Los Angeles, CA, USA"
 show-notes: ''
 show-setlist:
  - Victory Garden

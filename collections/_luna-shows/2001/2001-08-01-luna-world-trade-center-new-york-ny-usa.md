@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'World Trade Center, New York NY, USA'
+show-venue: "World Trade Center, New York NY, USA"
+title: "1st August 2001 -  Luna - World Trade Center, New York NY, USA"
 show-setlist: [
   "Egg Nog",
   "Dear Diary",

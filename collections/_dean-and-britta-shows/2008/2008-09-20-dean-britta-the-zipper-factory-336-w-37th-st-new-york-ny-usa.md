@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'The Zipper Factory, 336 W. 37th St, New York NY, USA'
+show-venue: "The Zipper Factory, 336 W. 37th St, New York NY, USA"
+title: "20th September 2008 - Dean & Britta - The Zipper Factory, 336 W. 37th St, New York NY, USA"
 show-setlist: 
 show-date: 2008-09-20
 category: 2008

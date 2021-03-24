@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'La Zona Rosa, Austin TX, USA'
+show-venue: "La Zona Rosa, Austin TX, USA"
+title: "26th February 2000 -  Luna - La Zona Rosa, Austin TX, USA"
 show-setlist: 
 show-date: 2000-02-26
 category: 2000

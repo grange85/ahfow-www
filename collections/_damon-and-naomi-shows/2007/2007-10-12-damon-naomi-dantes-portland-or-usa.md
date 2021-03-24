@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: damon-and-naomi
 show-venue: "Dantes, Portland OR, USA"
+title: "12th October 2007 -  Damon & Naomi - Dantes, Portland OR, USA"
 show-setlist: 
 show-date: 2007-10-12
 category: 2007

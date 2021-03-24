@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Maxwells, Hoboken NJ, USA'
+show-venue: "Maxwells, Hoboken NJ, USA"
+title: "1st July 1994 -  Luna - Maxwells, Hoboken NJ, USA"
 show-setlist: 
 show-date: 1994-07-01
 date-uncertain:

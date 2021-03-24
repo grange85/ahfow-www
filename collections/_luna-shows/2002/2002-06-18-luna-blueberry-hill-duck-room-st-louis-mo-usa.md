@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Blueberry Hill Duck Room, St Louis MO, USA'
+show-venue: "Blueberry Hill Duck Room, St Louis MO, USA"
+title: "18th June 2002 -  Luna - Blueberry Hill Duck Room, St Louis MO, USA"
 show-setlist: [
   "Lovedust",
   "1995",

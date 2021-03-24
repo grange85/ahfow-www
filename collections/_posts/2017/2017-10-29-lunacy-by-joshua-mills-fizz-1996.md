@@ -4,8 +4,7 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: >
-  Luna(cy) by Joshua Mills (Fizz, May 1996)
+title: "Luna(cy) by Joshua Mills (Fizz, May 1996)"
 author:
   display_name: Joshua Mills
   login: admin

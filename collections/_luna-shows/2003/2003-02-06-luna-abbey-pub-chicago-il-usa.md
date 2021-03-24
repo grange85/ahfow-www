@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Abbey Pub, Chicago IL, USA'
+show-venue: "Abbey Pub, Chicago IL, USA"
+title: "6th February 2003 -  Luna - Abbey Pub, Chicago IL, USA"
 show-setlist: [
   "Slide",
   "Weird And Woozy",

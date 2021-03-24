@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: '3S Artspace, Portsmouth, NH, USA'
+show-venue: "3S Artspace, Portsmouth, NH, USA"
+title: "11th October 2015 -  Luna - 3S Artspace, Portsmouth, NH, USA"
 show-setlist:
  - Egg Nog
  - Chinatown

@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue:  'The Chapel, San Francisco, CA, USA'
+show-venue: " 'The Chapel, San Francisco, CA, USA"
+title: "15th July 2017 - Dean Wareham - 'The Chapel, San Francisco, CA, USA"
 show-notes: ''
 show-setlist: 
  - Flowers

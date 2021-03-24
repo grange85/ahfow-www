@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Hultsfed Festival, Hultsfed, Sweden'
+show-venue: "Hultsfed Festival, Hultsfed, Sweden"
+title: "12th June 1998 -  Luna - Hultsfed Festival, Hultsfed, Sweden"
 show-setlist: [
   "Pup Tent",
   "Sideshow By The Seashore",

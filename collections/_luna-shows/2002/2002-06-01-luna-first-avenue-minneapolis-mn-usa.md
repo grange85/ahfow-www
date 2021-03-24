@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'First avenue, Minneapolis MN, USA'
+show-venue: "First avenue, Minneapolis MN, USA"
+title: "1st June 2002 -  Luna - First avenue, Minneapolis MN, USA"
 show-setlist: [
   "Chinatown",
   "Weird And Woozy",

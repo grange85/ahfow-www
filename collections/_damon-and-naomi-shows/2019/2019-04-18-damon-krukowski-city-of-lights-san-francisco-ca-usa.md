@@ -4,7 +4,8 @@ position: database-5
 artistslug: damon-and-naomi
 artist:
  name: Damon Krukowski
-show-venue: 'City of Lights, San Francisco, CA, USA'
+show-venue: "City of Lights, San Francisco, CA, USA"
+title: "18th April 2019 -  Damon & Naomi - City of Lights, San Francisco, CA, USA"
 show-setlist:
 show-date: 2019-04-18
 date-added: 2019-03-14

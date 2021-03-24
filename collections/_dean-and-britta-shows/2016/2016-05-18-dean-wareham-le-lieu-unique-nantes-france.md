@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Le Lieu Unique, Nantes, France'
+show-venue: "Le Lieu Unique, Nantes, France"
+title: "18th May 2016 - Dean Wareham - Le Lieu Unique, Nantes, France"
 show-setlist: 
  - "^John Washing (1963) - Tom Verlaine"
  - "^Jill (1963) - Tom Verlaine"

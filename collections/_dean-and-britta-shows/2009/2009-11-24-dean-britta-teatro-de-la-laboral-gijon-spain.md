@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Teatro de la Laboral, Gijon, Spain'
+show-venue: "Teatro de la Laboral, Gijon, Spain"
+title: "24th November 2009 - Dean & Britta - Teatro de la Laboral, Gijon, Spain"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

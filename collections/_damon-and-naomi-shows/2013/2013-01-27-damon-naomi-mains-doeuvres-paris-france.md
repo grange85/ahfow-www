@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Mains D’Oeuvres, Paris, France'
+show-venue: "Mains D’Oeuvres, Paris, France"
+title: "27th January 2013 -  Damon & Naomi - Mains D’Oeuvres, Paris, France"
 show-setlist: 
 show-date: 2013-01-27
 category: 2013

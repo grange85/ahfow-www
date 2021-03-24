@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Cafe OTO, London, UK'
+show-venue: "Cafe OTO, London, UK"
+title: "26th January 2013 -  Damon & Naomi - Cafe OTO, London, UK"
 show-setlist: 
 show-date: 2013-01-26
 category: 2013

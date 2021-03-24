@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'The Tractor Tavern, Seattle, WA, USA'
+show-venue: "The Tractor Tavern, Seattle, WA, USA"
+title: "11th February 2020 -  Luna - The Tractor Tavern, Seattle, WA, USA"
 address: |
   5213 Ballard Ave N.W.,
   Seattle, 

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Basement, Brighton, UK'
+show-venue: "Basement, Brighton, UK"
+title: "6th November 1989 -  Galaxie 500 - Basement, Brighton, UK"
 show-stream: true
 show-setlist: 
 - title: Temperature's Rising

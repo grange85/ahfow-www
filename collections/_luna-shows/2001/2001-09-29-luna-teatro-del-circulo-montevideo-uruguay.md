@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Teatro del Circulo, Montevideo, Uruguay'
+show-venue: "Teatro del Circulo, Montevideo, Uruguay"
+title: "29th September 2001 -  Luna - Teatro del Circulo, Montevideo, Uruguay"
 show-setlist: [
   "Hello Little One",
   "Weird And Woozy",

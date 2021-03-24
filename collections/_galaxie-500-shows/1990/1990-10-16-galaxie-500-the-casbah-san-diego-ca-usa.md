@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'The Casbah, San Diego, CA, USA'
+show-venue: "The Casbah, San Diego, CA, USA"
+title: "16th October 1990 -  Galaxie 500 - The Casbah, San Diego, CA, USA"
 show-setlist:
 show-date: 1990-10-16
 category: 1990

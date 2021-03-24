@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Spazio, Milan, Italy'
+show-venue: "Spazio, Milan, Italy"
+title: "24th February 2018 -  Damon & Naomi - Spazio, Milan, Italy"
 show-setlist:
 show-date: 2018-02-24
 date-added: 2017-11-23

@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'La Comete, Chalons-en-Champagne, France'
+show-venue: "La Comete, Chalons-en-Champagne, France"
+title: "20th November 2009 - Dean & Britta - La Comete, Chalons-en-Champagne, France"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

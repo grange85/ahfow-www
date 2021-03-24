@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Leadmill, Sheffield, UK'
+show-venue: "Leadmill, Sheffield, UK"
+title: "4th September 1999 -  Luna - Leadmill, Sheffield, UK"
 show-setlist: [
   "California (All The Way)",
   "Dear Diary",

@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Pure Pop Records, Melbourne, Australia'
+show-venue: "Pure Pop Records, Melbourne, Australia"
+title: "17th October 2009 - Dean & Britta - Pure Pop Records, Melbourne, Australia"
 show-setlist: [
   "Tiger Lily",
   "Temperature's Rising",

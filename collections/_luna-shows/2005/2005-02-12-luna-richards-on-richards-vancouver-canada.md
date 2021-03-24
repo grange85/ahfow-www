@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Richards on Richards, Vancouver, Canada'
+show-venue: "Richards on Richards, Vancouver, Canada"
+title: "12th February 2005 -  Luna - Richards on Richards, Vancouver, Canada"
 show-setlist: [
   "Sideshow By The Seashore",
   "Cindy Tastes of Barbecue",

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'WOW, Eugene OR, USA'
+show-venue: "WOW, Eugene OR, USA"
+title: "9th February 2005 -  Luna - WOW, Eugene OR, USA"
 show-setlist: [
   "California (All The Way)",
   "Speedbumps",

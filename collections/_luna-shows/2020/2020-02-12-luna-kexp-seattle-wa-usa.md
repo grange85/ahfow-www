@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'KEXP, Seattle, WA, USA'
+show-venue: "KEXP, Seattle, WA, USA"
+title: "12th February 2020 -  Luna - KEXP, Seattle, WA, USA"
 address: |
   472 1st Ave N, 
   Seattle, 

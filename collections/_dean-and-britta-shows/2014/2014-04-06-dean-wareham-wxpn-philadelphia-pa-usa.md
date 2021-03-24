@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'WXPN, Philadelphia, PA, USA'
+show-venue: "WXPN, Philadelphia, PA, USA"
+title: "6th April 2014 - Dean Wareham - WXPN, Philadelphia, PA, USA"
 show-setlist: [
   "Holding Pattern",
   "Heartless People",

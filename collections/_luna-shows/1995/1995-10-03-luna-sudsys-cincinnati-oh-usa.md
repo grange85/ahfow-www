@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Sudsys, Cincinnati OH, USA"
+title: "3rd October 1995 -  Luna - Sudsys, Cincinnati OH, USA"
 show-setlist: 
 show-date: 1995-10-03
 category: 1995

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Aladdin Theatre, Portland OR, USA'
+show-venue: "Aladdin Theatre, Portland OR, USA"
+title: "5th June 2002 -  Luna - Aladdin Theatre, Portland OR, USA"
 show-setlist: [
   "Bewitched",
   "Lovedust",

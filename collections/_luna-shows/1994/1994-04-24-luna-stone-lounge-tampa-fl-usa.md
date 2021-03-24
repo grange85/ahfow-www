@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Stone Lounge, Tampa, FL, USA'
+show-venue: "Stone Lounge, Tampa, FL, USA"
+title: "24th April 1994 -  Luna - Stone Lounge, Tampa, FL, USA"
 show-setlist:
 show-date: 1994-04-24
 category: 1994

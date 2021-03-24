@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Bowery Ballroom, New York NY, USA'
+show-venue: "Bowery Ballroom, New York NY, USA"
+title: "11th September 2003 -  Damon & Naomi - Bowery Ballroom, New York NY, USA"
 show-setlist: 
 show-date: 2003-09-11
 category: 2003

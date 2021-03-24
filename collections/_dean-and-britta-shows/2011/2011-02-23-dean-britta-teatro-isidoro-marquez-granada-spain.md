@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Teatro Isidoro Marquez, Granada, Spain'
+show-venue: "Teatro Isidoro Marquez, Granada, Spain"
+title: "23rd February 2011 - Dean & Britta - Teatro Isidoro Marquez, Granada, Spain"
 show-setlist: 
 show-date: 2011-02-23
 category: 2011

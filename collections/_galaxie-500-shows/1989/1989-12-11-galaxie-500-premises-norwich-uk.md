@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Premises, Norwich, UK'
+show-venue: "Premises, Norwich, UK"
+title: "11th December 1989 -  Galaxie 500 - Premises, Norwich, UK"
 show-setlist: 
 show-date: 1989-12-11
 category: 1989

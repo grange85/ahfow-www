@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Night Stage, Cambridge MA, USA'
+show-venue: "Night Stage, Cambridge MA, USA"
+title: "17th January 1990 -  Galaxie 500 - Night Stage, Cambridge MA, USA"
 show-setlist: [
   "Flowers",
   "Snowstorm",

@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Neu!Club, Madrid, Spain'
+show-venue: "Neu!Club, Madrid, Spain"
+title: "9th June 2007 - Dean & Britta - Neu!Club, Madrid, Spain"
 show-setlist: 
 show-date: 2007-06-09
 category: 2007

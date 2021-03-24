@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'The Magic Stick, Detroit, MI USA'
+show-venue: "The Magic Stick, Detroit, MI USA"
+title: "7th November 2017 -  Luna - The Magic Stick, Detroit, MI USA"
 show-notes: ''
 show-setlist: 
 - GTX3

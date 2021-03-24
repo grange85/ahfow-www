@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Tanned Tin Festival, Barcelona, Spain'
+show-venue: "Tanned Tin Festival, Barcelona, Spain"
+title: "13th November 2009 - Dean & Britta - Tanned Tin Festival, Barcelona, Spain"
 show-setlist: 
 show-date: 2009-11-13
 category: 2009

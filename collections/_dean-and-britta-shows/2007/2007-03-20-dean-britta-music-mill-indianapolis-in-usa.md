@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Music Mill, Indianapolis IN, USA'
+show-venue: "Music Mill, Indianapolis IN, USA"
+title: "20th March 2007 - Dean & Britta - Music Mill, Indianapolis IN, USA"
 show-setlist: [
   "Singer Sing",
   "Night Nurse",

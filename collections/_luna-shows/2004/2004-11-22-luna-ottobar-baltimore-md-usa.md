@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Ottobar, Baltimore MD, USA'
+show-venue: "Ottobar, Baltimore MD, USA"
+title: "22nd November 2004 -  Luna - Ottobar, Baltimore MD, USA"
 show-setlist: [
   "Weird And Woozy",
   "Malibu Love Nest",

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: '​MIT List Visual Arts Center, Cambridge, MA, USA'
+show-venue: "​MIT List Visual Arts Center, Cambridge, MA, USA"
+title: "1st December 2018 -  Damon & Naomi - ​MIT List Visual Arts Center, Cambridge, MA, USA"
 show-setlist:
 show-date: 2018-12-01
 date-added: 2018-12-01

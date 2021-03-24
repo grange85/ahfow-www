@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Troubadour, Los Angeles CA, USA'
+show-venue: "Troubadour, Los Angeles CA, USA"
+title: "14th November 1999 -  Luna - Troubadour, Los Angeles CA, USA"
 show-setlist: 
 show-date: 1999-11-14
 category: 1999

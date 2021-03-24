@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Great American, San Francisco CA, USA'
+show-venue: "Great American, San Francisco CA, USA"
+title: "19th June 2003 - Dean & Britta - Great American, San Francisco CA, USA"
 show-setlist: 
  - title: Night Nurse
  - title: Random Rules

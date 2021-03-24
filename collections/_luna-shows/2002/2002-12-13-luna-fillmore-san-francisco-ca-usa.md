@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Fillmore, San Francisco CA, USA'
+show-venue: "Fillmore, San Francisco CA, USA"
+title: "13th December 2002 -  Luna - Fillmore, San Francisco CA, USA"
 show-setlist: [
   "1995",
   "Slide",

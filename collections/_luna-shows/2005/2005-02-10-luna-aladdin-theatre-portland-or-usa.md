@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Aladdin Theatre, Portland OR, USA'
+show-venue: "Aladdin Theatre, Portland OR, USA"
+title: "10th February 2005 -  Luna - Aladdin Theatre, Portland OR, USA"
 show-setlist: [
   "Chinatown",
   "Malibu Love Nest",

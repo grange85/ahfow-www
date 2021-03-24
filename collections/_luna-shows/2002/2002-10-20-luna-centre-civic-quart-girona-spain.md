@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Centre Civic Quart, Girona, Spain'
+show-venue: "Centre Civic Quart, Girona, Spain"
+title: "20th October 2002 -  Luna - Centre Civic Quart, Girona, Spain"
 show-setlist: [
   "Weird And Woozy",
   "Sideshow By The Seashore",

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'CBGBs, New York NY, USA'
+show-venue: "CBGBs, New York NY, USA"
+title: "13th December 1988 -  Galaxie 500 - CBGBs, New York NY, USA"
 show-setlist: 
 show-date: 1988-12-13
 category: 1988

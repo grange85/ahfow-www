@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Charlotte, Leicester, UK'
+show-venue: "Charlotte, Leicester, UK"
+title: "16th June 2007 - Dean & Britta - Charlotte, Leicester, UK"
 show-setlist: 
 show-date: 2007-06-16
 category: 2007

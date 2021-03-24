@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Merlyn Theatre, Melbourne, Australia'
+show-venue: "Merlyn Theatre, Melbourne, Australia"
+title: "16th October 2009 - Dean & Britta - Merlyn Theatre, Melbourne, Australia"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

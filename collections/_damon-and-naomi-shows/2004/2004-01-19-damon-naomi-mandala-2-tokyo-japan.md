@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Mandala-2, Tokyo, Japan'
+show-venue: "Mandala-2, Tokyo, Japan"
+title: "19th January 2004 -  Damon & Naomi - Mandala-2, Tokyo, Japan"
 show-setlist: [
   "Araçá Azul",
   "The Earth is Blue",

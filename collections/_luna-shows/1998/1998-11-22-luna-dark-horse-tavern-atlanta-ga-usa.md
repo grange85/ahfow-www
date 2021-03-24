@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Dark Horse Tavern, Atlanta GA, USA'
+show-venue: "Dark Horse Tavern, Atlanta GA, USA"
+title: "22nd November 1998 -  Luna - Dark Horse Tavern, Atlanta GA, USA"
 show-setlist: [
   "Egg Nog",
   "This Time Around",

@@ -4,7 +4,8 @@ position: database-5
 artistslug: britta-phillips
 artist:
   name: Britta Phillips
-show-venue: 'Huichica, Gundlach Bundschu Winery, Sonoma, CA, USA'
+show-venue: "Huichica, Gundlach Bundschu Winery, Sonoma, CA, USA"
+title: "8th June 2019 - Britta Phillips - Huichica, Gundlach Bundschu Winery, Sonoma, CA, USA"
 show-notes: ''
 show-setlist:
 show-date: 2019-06-08

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Atlas, Aarhus, Denmark'
+show-venue: "Atlas, Aarhus, Denmark"
+title: "10th September 2018 -  Luna - Atlas, Aarhus, Denmark"
 show-notes: ''
 show-setlist:
  - GTX3

@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Forum de la Passerelle, Bretagne, France'
+show-venue: "Forum de la Passerelle, Bretagne, France"
+title: "22nd May 2010 - Dean & Britta - Forum de la Passerelle, Bretagne, France"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Big Ears Festival, Knoxville, TN, USA'
+show-venue: "Big Ears Festival, Knoxville, TN, USA"
+title: "28th March 2014 - Dean & Britta - Big Ears Festival, Knoxville, TN, USA"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

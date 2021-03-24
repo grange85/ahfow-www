@@ -4,7 +4,8 @@ position: database-5
 artistslug: britta-phillips
 artist:
   name: Britta Phillips
-show-venue: L''Olympia, Paris, France
+show-venue: "L''Olympia, Paris, France"
+title: "15th October 2016 - Britta Phillips - L''Olympia, Paris, France"
 show-notes: 
 show-setlist: 
 show-date: 2016-10-15

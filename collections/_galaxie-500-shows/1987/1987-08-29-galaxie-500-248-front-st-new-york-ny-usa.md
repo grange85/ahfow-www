@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: '248 Front St, New York, NY, USA'
+show-venue: "248 Front St, New York, NY, USA"
+title: "29th August 1987 -  Galaxie 500 - 248 Front St, New York, NY, USA"
 show-setlist:
 show-date: 1987-08-29
 category: 1987

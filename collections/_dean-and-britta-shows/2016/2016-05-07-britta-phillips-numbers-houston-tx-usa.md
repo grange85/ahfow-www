@@ -4,7 +4,8 @@ position: database-5
 artistslug: britta-phillips
 artist:
   name: Britta Phillips
-show-venue: 'Numbers, Houston, TX, USA'
+show-venue: "Numbers, Houston, TX, USA"
+title: "7th May 2016 - Britta Phillips - Numbers, Houston, TX, USA"
 show-notes: ''
 show-setlist: 
 show-date: 2016-05-07

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Underground, Koln, Germany'
+show-venue: "Underground, Koln, Germany"
+title: "28th October 1997 -  Luna - Underground, Koln, Germany"
 show-setlist: 
 show-date: 1997-10-28
 category: 1997

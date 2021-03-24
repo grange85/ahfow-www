@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'The Black Cat, Washington DC, USA'
+show-venue: "The Black Cat, Washington DC, USA"
+title: "14th November 2017 -  Luna - The Black Cat, Washington DC, USA"
 show-notes: ''
 show-setlist: 
  - GTX3

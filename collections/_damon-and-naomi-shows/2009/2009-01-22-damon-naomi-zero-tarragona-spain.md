@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Zero, Tarragona, Spain'
+show-venue: "Zero, Tarragona, Spain"
+title: "22nd January 2009 -  Damon & Naomi - Zero, Tarragona, Spain"
 show-setlist: 
 show-date: 2009-01-22
 category: 2009

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'The Echo, Los Angeles, CA, USA'
+show-venue: "The Echo, Los Angeles, CA, USA"
+title: "13th April 2015 -  Luna - The Echo, Los Angeles, CA, USA"
 show-setlist: [
   "Slide",
   "Chinatown",

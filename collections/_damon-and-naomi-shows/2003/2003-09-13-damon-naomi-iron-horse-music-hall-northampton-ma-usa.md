@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Iron Horse Music Hall, Northampton MA, USA'
+show-venue: "Iron Horse Music Hall, Northampton MA, USA"
+title: "13th September 2003 -  Damon & Naomi - Iron Horse Music Hall, Northampton MA, USA"
 show-setlist: 
 show-date: 2003-09-13
 category: 2003

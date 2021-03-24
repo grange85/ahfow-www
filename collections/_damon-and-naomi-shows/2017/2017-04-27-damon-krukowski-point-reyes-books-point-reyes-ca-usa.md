@@ -5,6 +5,7 @@ artistslug: damon-and-naomi
 artist:
  name: Damon Krukowski
 show-venue: "Point Reyes Books, Point Reyes, CA, USA"
+title: "27th April 2017 -  Damon & Naomi - Point Reyes Books, Point Reyes, CA, USA"
 show-setlist:
 show-date: 2017-04-27
 date-added: 2017-03-15

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Crocodile Cafe, Seattle WA, USA'
+show-venue: "Crocodile Cafe, Seattle WA, USA"
+title: "26th September 1997 -  Luna - Crocodile Cafe, Seattle WA, USA"
 show-setlist: [
   "Fuzzy Wuzzy",
   "Sideshow By The Seashore",

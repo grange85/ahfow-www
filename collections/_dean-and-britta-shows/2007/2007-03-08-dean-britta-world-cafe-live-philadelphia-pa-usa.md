@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'World Cafe Live, Philadelphia PA, USA'
+show-venue: "World Cafe Live, Philadelphia PA, USA"
+title: "8th March 2007 - Dean & Britta - World Cafe Live, Philadelphia PA, USA"
 show-setlist: [
   "Singer Sing",
   "Ginger Snaps",

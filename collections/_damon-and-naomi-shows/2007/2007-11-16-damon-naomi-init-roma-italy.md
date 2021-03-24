@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Init, Roma, Italy'
+show-venue: "Init, Roma, Italy"
+title: "16th November 2007 -  Damon & Naomi - Init, Roma, Italy"
 show-setlist: 
 show-date: 2007-11-16
 category: 2007

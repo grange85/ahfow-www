@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Museum of Fine Arts, Boston MA, USA'
+show-venue: "Museum of Fine Arts, Boston MA, USA"
+title: "12th March 2006 -  Damon & Naomi - Museum of Fine Arts, Boston MA, USA"
 show-setlist: 
 show-date: 2006-03-12
 category: 2006

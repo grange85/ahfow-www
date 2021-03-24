@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Benicassim Festival, Valencia, Spain'
+show-venue: "Benicassim Festival, Valencia, Spain"
+title: "10th August 1997 -  Luna - Benicassim Festival, Valencia, Spain"
 show-setlist: 
 show-date: 1997-08-10
 category: 1997

@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Bearsville Theater, Woodstock, NY, USA'
+show-venue: "Bearsville Theater, Woodstock, NY, USA"
+title: "4th December 2008 - Dean & Britta - Bearsville Theater, Woodstock, NY, USA"
 show-setlist: 
 show-date: 2008-12-04
 category: 2008

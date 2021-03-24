@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'U Street, Washington DC, USA'
+show-venue: "U Street, Washington DC, USA"
+title: "4th April 2014 - Dean Wareham - U Street, Washington DC, USA"
 show-setlist: 
 show-date: 2014-04-04
 category: 2014

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Echoplex, Los Angeles CA, USA'
+show-venue: "Echoplex, Los Angeles CA, USA"
+title: "15th October 2007 -  Damon & Naomi - Echoplex, Los Angeles CA, USA"
 show-setlist: 
 show-date: 2007-10-15
 category: 2007

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'WHFS, Washington DC, USA'
+show-venue: "WHFS, Washington DC, USA"
+title: "10th December 1999 -  Luna - WHFS, Washington DC, USA"
 show-setlist: [
   "Dear Diary",
   "Bobby Peru",

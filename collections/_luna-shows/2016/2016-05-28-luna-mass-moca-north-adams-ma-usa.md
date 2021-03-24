@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'MASS MoCA, North Adams, MA, USA'
+show-venue: "MASS MoCA, North Adams, MA, USA"
+title: "28th May 2016 -  Luna - MASS MoCA, North Adams, MA, USA"
 show-notes: ''
 show-setlist:
 show-date: 2016-05-28

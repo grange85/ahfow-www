@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Pearl St, Northampton MA, USA'
+show-venue: "Pearl St, Northampton MA, USA"
+title: "9th December 1999 -  Luna - Pearl St, Northampton MA, USA"
 show-setlist: 
 show-date: 1999-12-09
 category: 1999

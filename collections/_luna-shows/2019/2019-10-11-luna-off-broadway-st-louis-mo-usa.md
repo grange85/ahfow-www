@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Off Broadway, St. Louis, MO, USA"
+title: "11th October 2019 -  Luna - Off Broadway, St. Louis, MO, USA"
 address: |
   Off Broadway, 
   3509 Lemp Ave, 

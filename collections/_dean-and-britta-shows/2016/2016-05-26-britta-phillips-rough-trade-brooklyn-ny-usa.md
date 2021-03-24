@@ -4,7 +4,8 @@ position: database-5
 artistslug: britta-phillips
 artist:
   name: Britta Phillips
-show-venue: 'Rough Trade, Brooklyn, NY, USA'
+show-venue: "Rough Trade, Brooklyn, NY, USA"
+title: "26th May 2016 - Britta Phillips - Rough Trade, Brooklyn, NY, USA"
 show-notes: ''
 show-setlist: 
 show-date: 2016-05-26

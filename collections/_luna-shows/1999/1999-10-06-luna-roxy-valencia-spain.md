@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Roxy, Valencia, Spain'
+show-venue: "Roxy, Valencia, Spain"
+title: "6th October 1999 -  Luna - Roxy, Valencia, Spain"
 show-setlist: 
 show-date: 1999-10-06
 category: 1999

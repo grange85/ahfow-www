@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'The Fillmore, San Francisco, CA, USA'
+show-venue: "The Fillmore, San Francisco, CA, USA"
+title: "29th May 2018 - Dean & Britta - The Fillmore, San Francisco, CA, USA"
 show-notes: ''
 show-setlist:
 show-date: 2018-05-29

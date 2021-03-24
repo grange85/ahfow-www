@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Spaceland, Los Angeles CA, USA'
+show-venue: "Spaceland, Los Angeles CA, USA"
+title: "26th April 2005 -  Damon & Naomi - Spaceland, Los Angeles CA, USA"
 show-setlist: 
 show-date: 2005-04-26
 category: 2005

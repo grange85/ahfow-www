@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Willimantic Records, Hartford, CT, USA'
+show-venue: "Willimantic Records, Hartford, CT, USA"
+title: "23rd March 2013 -  Damon & Naomi - Willimantic Records, Hartford, CT, USA"
 show-setlist: 
 show-date: 2013-03-23
 category: 2013

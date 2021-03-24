@@ -4,7 +4,8 @@ position: database-5
 artistslug: britta-phillips
 artist:
   name: Britta Phillips
-show-venue: '(Le) Poisson Rouge, New York, NY, USA'
+show-venue: "(Le) Poisson Rouge, New York, NY, USA"
+title: "28th September 2016 - Britta Phillips - (Le) Poisson Rouge, New York, NY, USA"
 show-notes: ''
 show-setlist:
 show-date: 2016-09-28

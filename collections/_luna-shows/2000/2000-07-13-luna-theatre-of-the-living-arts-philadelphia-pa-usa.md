@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Theatre of the Living Arts, Philadelphia PA, USA'
+show-venue: "Theatre of the Living Arts, Philadelphia PA, USA"
+title: "13th July 2000 -  Luna - Theatre of the Living Arts, Philadelphia PA, USA"
 show-setlist: [
   "Rhythm King",
   "Dear Diary",

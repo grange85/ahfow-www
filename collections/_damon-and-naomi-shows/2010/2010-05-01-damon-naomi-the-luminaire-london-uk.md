@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'The Luminaire, London, UK'
+show-venue: "The Luminaire, London, UK"
+title: "1st May 2010 -  Damon & Naomi - The Luminaire, London, UK"
 show-setlist: 
 show-date: 2010-05-01
 category: 2010

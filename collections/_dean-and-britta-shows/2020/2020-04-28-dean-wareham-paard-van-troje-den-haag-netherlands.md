@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Paard Van Troje, The Hague, The Netherlands'
+show-venue: "Paard Van Troje, The Hague, The Netherlands"
+title: "28th April 2020 - Dean Wareham - Paard Van Troje, The Hague, The Netherlands"
 address: |
   Prinsegracht 12,  
   2512 GA Den Haag,  

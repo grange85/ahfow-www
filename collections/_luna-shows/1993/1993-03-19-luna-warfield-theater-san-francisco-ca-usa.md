@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Warfield Theater, San Francisco CA, USA'
+show-venue: "Warfield Theater, San Francisco CA, USA"
+title: "19th March 1993 -  Luna - Warfield Theater, San Francisco CA, USA"
 show-setlist: 
 show-date: 1993-03-19
 category: 1993

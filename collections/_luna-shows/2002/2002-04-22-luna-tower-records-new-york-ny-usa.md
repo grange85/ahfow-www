@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Tower Records, New York NY, USA'
+show-venue: "Tower Records, New York NY, USA"
+title: "22nd April 2002 -  Luna - Tower Records, New York NY, USA"
 show-setlist: 
 show-date: 2002-04-22
 category: 2002

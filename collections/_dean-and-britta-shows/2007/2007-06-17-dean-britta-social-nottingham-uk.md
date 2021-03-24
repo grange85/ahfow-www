@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Social, Nottingham, UK'
+show-venue: "Social, Nottingham, UK"
+title: "17th June 2007 - Dean & Britta - Social, Nottingham, UK"
 show-setlist: 
  - title: Words You Used To Say
  - title: Our Love Will Still Be There

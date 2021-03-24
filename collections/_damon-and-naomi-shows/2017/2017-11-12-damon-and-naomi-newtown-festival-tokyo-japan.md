@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Newtown Festival, Tokyo, Japan'
+show-venue: "Newtown Festival, Tokyo, Japan"
+title: "12th November 2017 -  Damon & Naomi - Newtown Festival, Tokyo, Japan"
 show-setlist:
 show-date: 2017-11-12
 date-added: 2017-10-11

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: '(unknown), Brussels, Belgium'
+show-venue: "(unknown), Brussels, Belgium"
+title: "20th November 1989 -  Galaxie 500 - (unknown), Brussels, Belgium"
 show-setlist: 
 show-date: 1989-11-20
 category: 1989

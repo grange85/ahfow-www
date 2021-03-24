@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'The Cube Cinema, Bristol, UK'
+show-venue: "The Cube Cinema, Bristol, UK"
+title: "14th May 2011 -  Damon & Naomi - The Cube Cinema, Bristol, UK"
 show-setlist: 
 show-date: 2011-05-14
 category: 2011

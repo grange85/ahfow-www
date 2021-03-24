@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Apolo 2, Barcelona, Spain'
+show-venue: "Apolo 2, Barcelona, Spain"
+title: "9th May 2014 - Dean Wareham - Apolo 2, Barcelona, Spain"
 show-setlist: 
 show-date: 2014-05-09
 category: 2014

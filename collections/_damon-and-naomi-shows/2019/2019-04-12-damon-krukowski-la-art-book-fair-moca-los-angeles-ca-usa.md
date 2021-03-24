@@ -4,7 +4,8 @@ position: database-5
 artistslug: damon-and-naomi
 artist:
  name: Damon Krukowski
-show-venue: 'LA Art Book Fair, MOCA, Los Angeles, CA, USA'
+show-venue: "LA Art Book Fair, MOCA, Los Angeles, CA, USA"
+title: "12th April 2019 -  Damon & Naomi - LA Art Book Fair, MOCA, Los Angeles, CA, USA"
 show-setlist:
 show-date: 2019-04-12
 date-added: 2019-03-14

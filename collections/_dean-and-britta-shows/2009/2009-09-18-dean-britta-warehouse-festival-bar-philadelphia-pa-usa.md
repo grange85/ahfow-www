@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Warehouse Festival Bar, Philadelphia, PA, USA'
+show-venue: "Warehouse Festival Bar, Philadelphia, PA, USA"
+title: "18th September 2009 - Dean & Britta - Warehouse Festival Bar, Philadelphia, PA, USA"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

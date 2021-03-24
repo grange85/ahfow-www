@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'REDCAT, Los Angeles, CA, USA'
+show-venue: "REDCAT, Los Angeles, CA, USA"
+title: "5th March 2016 -  Luna - REDCAT, Los Angeles, CA, USA"
 show-notes: ''
 show-setlist: 
 show-date: 2016-03-05

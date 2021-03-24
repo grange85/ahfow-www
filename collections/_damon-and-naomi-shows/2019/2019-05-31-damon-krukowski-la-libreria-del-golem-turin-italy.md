@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'La libreria del Golem, Turin, Italy'
+show-venue: "La libreria del Golem, Turin, Italy"
+title: "31st May 2019 -  Damon & Naomi - La libreria del Golem, Turin, Italy"
 artist:
  name: Damon Krukowski
 address: |

@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "St Andrew's Hall, Deroit, MI, USA"
+title: "15th October 2015 -  Luna - St Andrew's Hall, Deroit, MI, USA"
 show-setlist:
 - Chinatown
 - California (All The Way)

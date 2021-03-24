@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'WFPK, Louisville, KY, USA'
+show-venue: "WFPK, Louisville, KY, USA"
+title: "10th November 2017 -  Luna - WFPK, Louisville, KY, USA"
 show-notes: ''
 show-setlist: 
  - Fire in Cairo

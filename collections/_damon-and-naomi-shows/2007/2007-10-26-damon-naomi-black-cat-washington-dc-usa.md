@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Black Cat, Washington DC, USA'
+show-venue: "Black Cat, Washington DC, USA"
+title: "26th October 2007 -  Damon & Naomi - Black Cat, Washington DC, USA"
 show-setlist: [
   "Lilac Land",
   "Eye Of The Storm",

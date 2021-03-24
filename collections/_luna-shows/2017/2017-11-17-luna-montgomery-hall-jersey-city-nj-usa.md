@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Montgomery Hall, Jersey City, NJ, USA'
+show-venue: "Montgomery Hall, Jersey City, NJ, USA"
+title: "17th November 2017 -  Luna - Montgomery Hall, Jersey City, NJ, USA"
 show-notes: ''
 show-setlist: 
  - Car Wash Hair

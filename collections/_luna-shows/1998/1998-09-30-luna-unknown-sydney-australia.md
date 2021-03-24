@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: '(unknown), Sydney, Australia'
+show-venue: "(unknown), Sydney, Australia"
+title: "30th September 1998 -  Luna - (unknown), Sydney, Australia"
 show-setlist: 
 show-date: 1998-09-30
 category: 1998

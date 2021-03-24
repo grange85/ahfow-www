@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Gebaude 9, Cologne, Germany'
+show-venue: "Gebaude 9, Cologne, Germany"
+title: "8th October 2002 -  Luna - Gebaude 9, Cologne, Germany"
 show-setlist: [
   "Lovedust",
   "1995",

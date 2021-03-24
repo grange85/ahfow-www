@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Northsix, Brooklyn NY, USA'
+show-venue: "Northsix, Brooklyn NY, USA"
+title: "24th August 2002 -  Luna - Northsix, Brooklyn NY, USA"
 show-setlist: [
   "Chinatown",
   "Weird And Woozy",

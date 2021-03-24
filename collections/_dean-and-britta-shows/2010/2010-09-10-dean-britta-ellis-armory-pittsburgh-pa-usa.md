@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Ellis Armory, Pittsburgh, PA, USA'
+show-venue: "Ellis Armory, Pittsburgh, PA, USA"
+title: "10th September 2010 - Dean & Britta - Ellis Armory, Pittsburgh, PA, USA"
 show-setlist: 
 show-date: 2010-09-10
 category: 2010

@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Life is Beautiful Festival, Las Vegas, NV, US'
+show-venue: "Life is Beautiful Festival, Las Vegas, NV, US"
+title: "26th October 2013 - Dean & Britta - Life is Beautiful Festival, Las Vegas, NV, US"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

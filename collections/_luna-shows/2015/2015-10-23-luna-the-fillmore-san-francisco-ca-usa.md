@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'The Fillmore, San Francisco, CA, USA'
+show-venue: "The Fillmore, San Francisco, CA, USA"
+title: "23rd October 2015 -  Luna - The Fillmore, San Francisco, CA, USA"
 show-setlist:
  - Slide
  - Chinatown

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Union Square Tower Records, New York NY, USA'
+show-venue: "Union Square Tower Records, New York NY, USA"
+title: "27th October 1999 -  Luna - Union Square Tower Records, New York NY, USA"
 show-setlist: [
   "Dear Diary",
   "Hello Little One",

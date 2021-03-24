@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Bard College, Annandale-on-Hudson NY, USA'
+show-venue: "Bard College, Annandale-on-Hudson NY, USA"
+title: "27th October 2007 -  Damon & Naomi - Bard College, Annandale-on-Hudson NY, USA"
 show-setlist: 
 show-date: 2007-10-27
 category: 2007

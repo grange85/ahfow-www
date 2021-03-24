@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Subterania, London, UK'
+show-venue: "Subterania, London, UK"
+title: "27th June 1990 -  Galaxie 500 - Subterania, London, UK"
 show-setlist: 
 show-date: 1990-06-27
 category: 1990

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Somerville Theatre, Somerville MA, USA'
+show-venue: "Somerville Theatre, Somerville MA, USA"
+title: "7th December 1999 -  Luna - Somerville Theatre, Somerville MA, USA"
 show-setlist: [
   "Pup Tent",
   "Dear Diary",

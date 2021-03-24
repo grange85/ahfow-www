@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Blind Pig, Ann Arbor MI, USA'
+show-venue: "Blind Pig, Ann Arbor MI, USA"
+title: "8th February 2003 -  Luna - Blind Pig, Ann Arbor MI, USA"
 show-setlist: [
   "Lovedust",
   "Weird And Woozy",

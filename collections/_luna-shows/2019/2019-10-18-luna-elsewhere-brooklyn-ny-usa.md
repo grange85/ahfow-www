@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Elsewhere, Brooklyn, NY, USA'
+show-venue: "Elsewhere, Brooklyn, NY, USA"
+title: "18th October 2019 -  Luna - Elsewhere, Brooklyn, NY, USA"
 address: |
   Elsewhere, 
   599 Johnson Ave #1, 

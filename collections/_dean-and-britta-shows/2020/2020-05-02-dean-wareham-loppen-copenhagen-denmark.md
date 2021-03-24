@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Loppen, Copenhagen, Denmark'
+show-venue: "Loppen, Copenhagen, Denmark"
+title: "2nd May 2020 - Dean Wareham - Loppen, Copenhagen, Denmark"
 address: |
   Sydområdet 4B, 1, 
   1440 København, 

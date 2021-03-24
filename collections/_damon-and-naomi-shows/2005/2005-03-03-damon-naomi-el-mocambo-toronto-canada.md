@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'El Mocambo, Toronto, Canada'
+show-venue: "El Mocambo, Toronto, Canada"
+title: "3rd March 2005 -  Damon & Naomi - El Mocambo, Toronto, Canada"
 show-setlist: 
 show-date: 2005-03-03
 category: 2005

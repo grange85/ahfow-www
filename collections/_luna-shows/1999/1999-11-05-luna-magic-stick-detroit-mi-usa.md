@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Magic Stick, Detroit MI, USA'
+show-venue: "Magic Stick, Detroit MI, USA"
+title: "5th November 1999 -  Luna - Magic Stick, Detroit MI, USA"
 show-setlist: 
 show-date: 1999-11-05
 category: 1999

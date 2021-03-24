@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Idiots Delight WNEW, New York NY, USA"
+title: "31st October 1999 -  Luna - Idiots Delight WNEW, New York NY, USA"
 show-setlist: [
   "Four Thousand Days",
   "Dear Diary",

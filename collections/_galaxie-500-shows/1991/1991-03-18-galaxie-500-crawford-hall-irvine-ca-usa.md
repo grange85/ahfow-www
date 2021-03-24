@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Crawford Hall, Irvine CA, USA'
+show-venue: "Crawford Hall, Irvine CA, USA"
+title: "18th March 1991 -  Galaxie 500 - Crawford Hall, Irvine CA, USA"
 show-setlist: 
 show-date: 1991-03-18
 category: 1991

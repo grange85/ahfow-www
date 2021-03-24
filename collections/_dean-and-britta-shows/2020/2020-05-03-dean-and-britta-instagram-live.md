@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: Dean & Britta's living room, Echo Park, Los Angeles, CA, USA
+show-venue: "Dean & Britta's living room, Echo Park, Los Angeles, CA, USA"
+title: "3rd May 2020 - Dean & Britta - Dean & Britta's living room, Echo Park, Los Angeles, CA, USA"
 show-notes: ''
 show-setlist:
  - Bobby Peru

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Philipshalle, Dusseldorf, Germany'
+show-venue: "Philipshalle, Dusseldorf, Germany"
+title: "24th November 1990 -  Galaxie 500 - Philipshalle, Dusseldorf, Germany"
 show-setlist: [
   "Decomposing Trees",
   "Fourth of July",

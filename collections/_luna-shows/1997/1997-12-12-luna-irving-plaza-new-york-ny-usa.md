@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Irving Plaza, New York NY, USA'
+show-venue: "Irving Plaza, New York NY, USA"
+title: "12th December 1997 -  Luna - Irving Plaza, New York NY, USA"
 show-setlist: [
   "Pup Tent",
   "Sideshow By The Seashore",

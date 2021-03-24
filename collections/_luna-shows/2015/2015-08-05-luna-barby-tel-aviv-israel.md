@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Barby, Tel Aviv, Israel'
+show-venue: "Barby, Tel Aviv, Israel"
+title: "5th August 2015 -  Luna - Barby, Tel Aviv, Israel"
 show-setlist: 
  - Slide
  - Chinatown

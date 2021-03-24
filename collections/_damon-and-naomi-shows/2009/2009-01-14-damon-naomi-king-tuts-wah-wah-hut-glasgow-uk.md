@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: damon-and-naomi
 show-venue: "King Tuts Wah Wah Hut, Glasgow, UK"
+title: "14th January 2009 -  Damon & Naomi - King Tuts Wah Wah Hut, Glasgow, UK"
 show-setlist: 
 show-date: 2009-01-14
 category: 2009

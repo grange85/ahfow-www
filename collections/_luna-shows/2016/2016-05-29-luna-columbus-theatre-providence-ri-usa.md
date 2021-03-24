@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Columbus Theatre, Providence, RI, USA'
+show-venue: "Columbus Theatre, Providence, RI, USA"
+title: "29th May 2016 -  Luna - Columbus Theatre, Providence, RI, USA"
 show-notes: ''
 show-setlist:
  - Chinatown

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Shibuya - 7th Floor, Tokyo, Japan'
+show-venue: "Shibuya - 7th Floor, Tokyo, Japan"
+title: "10th November 2017 -  Damon & Naomi - Shibuya - 7th Floor, Tokyo, Japan"
 show-setlist:
 show-date: 2017-11-10
 date-added: 2017-10-09

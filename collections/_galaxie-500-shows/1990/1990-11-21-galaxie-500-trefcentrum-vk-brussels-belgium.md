@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Trefcentrum VK, Brussels, Belgium'
+show-venue: "Trefcentrum VK, Brussels, Belgium"
+title: "21st November 1990 -  Galaxie 500 - Trefcentrum VK, Brussels, Belgium"
 show-setlist: [
   "Blue Thunder",
   "Fourth of July",

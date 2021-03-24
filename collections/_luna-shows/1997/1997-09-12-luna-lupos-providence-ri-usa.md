@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Lupos, Providence RI, USA"
+title: "12th September 1997 -  Luna - Lupos, Providence RI, USA"
 show-setlist: 
 show-date: 1997-09-12
 category: 1997

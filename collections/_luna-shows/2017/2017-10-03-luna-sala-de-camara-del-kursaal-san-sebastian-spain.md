@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Sala de Camara del Kursaal, San Sebastian, Spain'
+show-venue: "Sala de Camara del Kursaal, San Sebastian, Spain"
+title: "3rd October 2017 -  Luna - Sala de Camara del Kursaal, San Sebastian, Spain"
 show-notes: ''
 show-setlist:
  - Fire in Cairo

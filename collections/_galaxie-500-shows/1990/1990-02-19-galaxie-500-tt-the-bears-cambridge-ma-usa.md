@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'TT the Bears, Cambridge MA, USA'
+show-venue: "TT the Bears, Cambridge MA, USA"
+title: "19th February 1990 -  Galaxie 500 - TT the Bears, Cambridge MA, USA"
 show-setlist: [
   "Here She Comes Now",
   "Blue Thunder",

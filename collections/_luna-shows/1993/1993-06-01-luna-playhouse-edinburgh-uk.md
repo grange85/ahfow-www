@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Playhouse, Edinburgh, UK'
+show-venue: "Playhouse, Edinburgh, UK"
+title: "1st June 1993 -  Luna - Playhouse, Edinburgh, UK"
 show-setlist: 
 show-date: 1993-06-01
 category: 1993

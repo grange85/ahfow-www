@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Aladdin Theater, Portland OR, USA'
+show-venue: "Aladdin Theater, Portland OR, USA"
+title: "16th February 2008 - Dean & Britta - Aladdin Theater, Portland OR, USA"
 show-setlist: [
   "Teenage Lightning",
   "Night Nurse",

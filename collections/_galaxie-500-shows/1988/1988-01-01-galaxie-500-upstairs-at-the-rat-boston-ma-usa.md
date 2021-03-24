@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: galaxie-500
 show-venue: "Upstairs at The Rat, Boston, MA, USA"
+title: "1st January 1988 -  Galaxie 500 - Upstairs at The Rat, Boston, MA, USA"
 show-setlist:
 show-date: 1988-01-01
 date-uncertain:

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Fillmore, San Francisco CA, USA'
+show-venue: "Fillmore, San Francisco CA, USA"
+title: "24th February 2001 -  Luna - Fillmore, San Francisco CA, USA"
 show-setlist: [
   "Egg Nog",
   "Four Thousand Days",

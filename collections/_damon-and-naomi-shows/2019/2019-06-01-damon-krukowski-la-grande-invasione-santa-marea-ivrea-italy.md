@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'La grande invasione, Santa Marta, Ivrea, Italy'
+show-venue: "La grande invasione, Santa Marta, Ivrea, Italy"
+title: "1st June 2019 -  Damon & Naomi - La grande invasione, Santa Marta, Ivrea, Italy"
 artist:
  name: Damon Krukowski
 show-setlist:

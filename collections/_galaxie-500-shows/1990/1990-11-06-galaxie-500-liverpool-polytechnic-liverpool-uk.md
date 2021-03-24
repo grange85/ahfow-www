@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Liverpool Polytechnic, Liverpool, UK'
+show-venue: "Liverpool Polytechnic, Liverpool, UK"
+title: "6th November 1990 -  Galaxie 500 - Liverpool Polytechnic, Liverpool, UK"
 show-setlist: 
 show-date: 1990-11-06
 category: 1990

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Terminal West, Atlanta, GA, USA'
+show-venue: "Terminal West, Atlanta, GA, USA"
+title: "11th November 2017 -  Luna - Terminal West, Atlanta, GA, USA"
 show-notes: ''
 show-setlist: 
  - GTX3

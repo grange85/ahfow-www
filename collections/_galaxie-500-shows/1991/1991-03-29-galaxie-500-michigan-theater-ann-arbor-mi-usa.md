@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Michigan Theater, Ann Arbor MI, USA'
+show-venue: "Michigan Theater, Ann Arbor MI, USA"
+title: "29th March 1991 -  Galaxie 500 - Michigan Theater, Ann Arbor MI, USA"
 show-setlist: 
 show-date: 1991-03-29
 category: 1991

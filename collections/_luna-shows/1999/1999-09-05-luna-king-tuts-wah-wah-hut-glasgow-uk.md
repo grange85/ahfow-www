@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'King Tuts Wah Wah Hut, Glasgow, UK'
+show-venue: "King Tuts Wah Wah Hut, Glasgow, UK"
+title: "5th September 1999 -  Luna - King Tuts Wah Wah Hut, Glasgow, UK"
 show-setlist: [
   "Egg Nog",
   "Dear Diary",

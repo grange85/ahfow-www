@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Rockaway Beach Festival, Butlins, Bognor Regis, UK'
+show-venue: "Rockaway Beach Festival, Butlins, Bognor Regis, UK"
+title: "8th October 2016 -  Luna - Rockaway Beach Festival, Butlins, Bognor Regis, UK"
 show-notes: ''
 show-setlist: 
  - Chinatown

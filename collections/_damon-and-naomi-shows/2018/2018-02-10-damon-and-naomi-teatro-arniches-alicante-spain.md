@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Teatro Arniches, Alicante, Spain'
+show-venue: "Teatro Arniches, Alicante, Spain"
+title: "10th February 2018 -  Damon & Naomi - Teatro Arniches, Alicante, Spain"
 show-setlist:
 show-date: 2018-02-10
 date-added: 2017-12-14

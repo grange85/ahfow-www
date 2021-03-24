@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'The Ruby Lounge, Manchester, UK'
+show-venue: "The Ruby Lounge, Manchester, UK"
+title: "14th February 2011 - Dean & Britta - The Ruby Lounge, Manchester, UK"
 show-setlist: 
 show-date: 2011-02-14
 category: 2011

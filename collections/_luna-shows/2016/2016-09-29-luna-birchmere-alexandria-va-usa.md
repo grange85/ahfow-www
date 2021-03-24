@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Birchmere Music Hall, Alexandria, VA, USA'
+show-venue: "Birchmere Music Hall, Alexandria, VA, USA"
+title: "29th September 2016 -  Luna - Birchmere Music Hall, Alexandria, VA, USA"
 show-notes: ''
 show-setlist: 
  - Chinatown

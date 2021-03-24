@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Lemon Tree, Aberdeen, UK'
+show-venue: "Lemon Tree, Aberdeen, UK"
+title: "22nd November 2007 -  Damon & Naomi - Lemon Tree, Aberdeen, UK"
 show-setlist: [
   "Lilac Land",
   "Eye Of The Storm",

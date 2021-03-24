@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Aqualung, Madrid, Spain'
+show-venue: "Aqualung, Madrid, Spain"
+title: "21st June 2001 -  Luna - Aqualung, Madrid, Spain"
 show-setlist: 
 show-date: 2001-06-21
 category: 2001

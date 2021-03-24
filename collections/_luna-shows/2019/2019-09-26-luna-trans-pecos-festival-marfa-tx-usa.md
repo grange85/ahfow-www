@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Trans-Pecos Festival of Music + Love, Marfa, TX, USA'
+show-venue: "Trans-Pecos Festival of Music + Love, Marfa, TX, USA"
+title: "26th September 2019 -  Luna - Trans-Pecos Festival of Music + Love, Marfa, TX, USA"
 show-notes: ''
 show-setlist: 
 show-date: 2019-09-26

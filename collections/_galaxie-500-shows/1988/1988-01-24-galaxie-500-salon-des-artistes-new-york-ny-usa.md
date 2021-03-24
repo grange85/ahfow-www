@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: galaxie-500
 show-venue: "Salon des Artistes, New York, NY, USA"
+title: "24th January 1988 -  Galaxie 500 - Salon des Artistes, New York, NY, USA"
 show-setlist:
 show-date: 1988-01-24
 source: Dean Wareham

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Bluebird Theater, Denver CO, USA'
+show-venue: "Bluebird Theater, Denver CO, USA"
+title: "25th September 2002 -  Luna - Bluebird Theater, Denver CO, USA"
 show-setlist: 
 show-date: 2002-09-25
 category: 2002

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Bottom of the Hill, San Francosco, CA, USA'
+show-venue: "Bottom of the Hill, San Francosco, CA, USA"
+title: "3rd June 2011 -  Damon & Naomi - Bottom of the Hill, San Francosco, CA, USA"
 show-setlist: 
 show-date: 2011-06-03
 category: 2011

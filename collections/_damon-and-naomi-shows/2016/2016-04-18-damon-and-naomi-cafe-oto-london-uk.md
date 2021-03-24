@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Cafe Oto, London, UK'
+show-venue: "Cafe Oto, London, UK"
+title: "18th April 2016 -  Damon & Naomi - Cafe Oto, London, UK"
 show-setlist: [
   ]
 show-date: 2016-04-18

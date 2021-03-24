@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Philadelphia College of Textile, Philadelphia PA, USA'
+show-venue: "Philadelphia College of Textile, Philadelphia PA, USA"
+title: "18th April 1996 -  Luna - Philadelphia College of Textile, Philadelphia PA, USA"
 show-setlist: [
   "Season of the Witch",
   "Slide",

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Terrastock, Providence RI, USA'
+show-venue: "Terrastock, Providence RI, USA"
+title: "23rd April 2006 -  Damon & Naomi - Terrastock, Providence RI, USA"
 show-setlist: 
 show-date: 2006-04-23
 category: 2006

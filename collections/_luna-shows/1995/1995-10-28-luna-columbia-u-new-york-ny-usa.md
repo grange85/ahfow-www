@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Columbia U, New York NY, USA'
+show-venue: "Columbia U, New York NY, USA"
+title: "28th October 1995 -  Luna - Columbia U, New York NY, USA"
 show-setlist: 
 show-date: 1995-10-28
 category: 1995

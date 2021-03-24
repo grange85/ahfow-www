@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'The Sapphire Supper Club, Orlando, FL, USA'
+show-venue: "The Sapphire Supper Club, Orlando, FL, USA"
+title: "24th January 1996 -  Luna - The Sapphire Supper Club, Orlando, FL, USA"
 show-setlist: 
 show-date: 1996-01-24
 category: 1996

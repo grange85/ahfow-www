@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Summerstage Central Park, New York NY, USA'
+show-venue: "Summerstage Central Park, New York NY, USA"
+title: "20th July 1996 -  Luna - Summerstage Central Park, New York NY, USA"
 show-setlist: 
 show-date: 1996-07-20
 category: 1996

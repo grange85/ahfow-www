@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'KEXP, Seattle, WA, USA'
+show-venue: "KEXP, Seattle, WA, USA"
+title: "28th June 2014 - Dean Wareham - KEXP, Seattle, WA, USA"
 show-setlist: [
   "The Dancer Disappears",
   "Holding Pattern",

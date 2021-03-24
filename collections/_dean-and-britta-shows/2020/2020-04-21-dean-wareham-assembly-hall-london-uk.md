@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Islington Assembly Hall, London, UK'
+show-venue: "Islington Assembly Hall, London, UK"
+title: "21st April 2020 - Dean Wareham - Islington Assembly Hall, London, UK"
 address: |
   Islington Assembly Hall, 
   Upper Street, 

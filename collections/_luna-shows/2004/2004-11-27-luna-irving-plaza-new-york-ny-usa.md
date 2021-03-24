@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Irving Plaza, New York NY, USA'
+show-venue: "Irving Plaza, New York NY, USA"
+title: "27th November 2004 -  Luna - Irving Plaza, New York NY, USA"
 show-setlist: [
   "Malibu Love Nest",
   "Going Home",

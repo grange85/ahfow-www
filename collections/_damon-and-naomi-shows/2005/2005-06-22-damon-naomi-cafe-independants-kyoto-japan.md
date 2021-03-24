@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Cafe Independants, Kyoto, Japan'
+show-venue: "Cafe Independants, Kyoto, Japan"
+title: "22nd June 2005 -  Damon & Naomi - Cafe Independants, Kyoto, Japan"
 show-setlist: 
 show-date: 2005-06-22
 category: 2005

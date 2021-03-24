@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Avalon Ballroom, Houston TX, USA'
+show-venue: "Avalon Ballroom, Houston TX, USA"
+title: "14th March 1991 -  Galaxie 500 - Avalon Ballroom, Houston TX, USA"
 show-setlist: 
 show-date: 1991-03-14
 category: 1991

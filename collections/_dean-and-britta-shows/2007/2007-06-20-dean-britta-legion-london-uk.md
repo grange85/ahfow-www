@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Legion, London, UK'
+show-venue: "Legion, London, UK"
+title: "20th June 2007 - Dean & Britta - Legion, London, UK"
 show-setlist: [
   "Singer Sing",
   "Indian Summer",

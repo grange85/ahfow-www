@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Black Cat.  Washington DC, USA'
+show-venue: "Black Cat.  Washington DC, USA"
+title: "25th July 1998 -  Damon & Naomi - Black Cat.  Washington DC, USA"
 show-setlist: 
 show-date: 1998-07-25
 category: 1998

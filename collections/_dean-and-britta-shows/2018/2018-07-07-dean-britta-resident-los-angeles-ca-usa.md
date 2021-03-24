@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Resident, Los Angeles, CA, USA'
+show-venue: "Resident, Los Angeles, CA, USA"
+title: "7th July 2018 - Dean & Britta - Resident, Los Angeles, CA, USA"
 show-notes: ''
 show-setlist:
 show-date: 2018-07-07

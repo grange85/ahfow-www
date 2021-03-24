@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Bowery Ballroom, New York, NY, USA'
+show-venue: "Bowery Ballroom, New York, NY, USA"
+title: "7th October 2015 -  Luna - Bowery Ballroom, New York, NY, USA"
 show-setlist:
  - Chinatown
  - Going Home

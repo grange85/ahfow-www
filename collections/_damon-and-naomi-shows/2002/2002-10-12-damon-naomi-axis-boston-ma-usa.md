@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Axis, Boston MA, USA'
+show-venue: "Axis, Boston MA, USA"
+title: "12th October 2002 -  Damon & Naomi - Axis, Boston MA, USA"
 show-setlist: 
 show-date: 2002-10-12
 category: 2002

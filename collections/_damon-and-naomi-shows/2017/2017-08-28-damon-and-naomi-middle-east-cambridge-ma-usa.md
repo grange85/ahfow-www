@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'The Middle East, Cambridge, MA, USA'
+show-venue: "The Middle East, Cambridge, MA, USA"
+title: "28th August 2017 -  Damon & Naomi - The Middle East, Cambridge, MA, USA"
 show-setlist:
 show-date: 2017-08-28
 date-added: 2017-08-12

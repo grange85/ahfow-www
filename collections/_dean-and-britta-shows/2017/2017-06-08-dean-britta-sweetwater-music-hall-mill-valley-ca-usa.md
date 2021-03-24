@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Sweetwater Music Hall, Mill Valley, CA, USA'
+show-venue: "Sweetwater Music Hall, Mill Valley, CA, USA"
+title: "8th June 2017 - Dean & Britta - Sweetwater Music Hall, Mill Valley, CA, USA"
 show-notes: ''
 show-setlist: 
 show-date: 2017-06-08

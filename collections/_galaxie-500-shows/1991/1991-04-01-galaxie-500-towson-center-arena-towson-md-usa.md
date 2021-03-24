@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Towson Center Arena, Towson MD, USA'
+show-venue: "Towson Center Arena, Towson MD, USA"
+title: "1st April 1991 -  Galaxie 500 - Towson Center Arena, Towson MD, USA"
 show-setlist: 
 show-date: 1991-04-01
 category: 1991

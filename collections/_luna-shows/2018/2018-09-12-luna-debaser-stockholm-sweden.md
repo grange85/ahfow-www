@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Debaser, Stockholm, Sweden'
+show-venue: "Debaser, Stockholm, Sweden"
+title: "12th September 2018 -  Luna - Debaser, Stockholm, Sweden"
 show-notes: ''
 show-setlist:
  - GTX3

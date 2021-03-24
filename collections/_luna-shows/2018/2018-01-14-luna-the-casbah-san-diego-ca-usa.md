@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'The Casbah, San Diego, CA, USA'
+show-venue: "The Casbah, San Diego, CA, USA"
+title: "14th January 2018 -  Luna - The Casbah, San Diego, CA, USA"
 show-notes: ''
 show-setlist: 
  - GTX3

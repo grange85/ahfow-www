@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: galaxie-500
 show-venue: "Maxwell's, Hoboken, NJ, USA"
+title: "8th April 1989 -  Galaxie 500 - Maxwell's, Hoboken, NJ, USA"
 show-setlist:
 show-date: 1989-04-08
 source: Dean Wareham

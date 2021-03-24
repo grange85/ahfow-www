@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'First avenue, Minneapolis MN, USA'
+show-venue: "First avenue, Minneapolis MN, USA"
+title: "8th November 1999 -  Luna - First avenue, Minneapolis MN, USA"
 show-setlist: [
   "Pup Tent",
   "Sideshow By The Seashore",

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Sonotone, Palma, Spain'
+show-venue: "Sonotone, Palma, Spain"
+title: "30th June 2001 -  Luna - Sonotone, Palma, Spain"
 show-setlist: [
   "Chinatown",
   "Weird And Woozy",

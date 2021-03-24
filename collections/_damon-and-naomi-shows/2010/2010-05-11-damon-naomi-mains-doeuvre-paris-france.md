@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: damon-and-naomi
 show-venue: "Mains DOeuvre, Paris, France"
+title: "11th May 2010 -  Damon & Naomi - Mains DOeuvre, Paris, France"
 show-setlist: 
 show-date: 2010-05-11
 category: 2010

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Boardwalk, Manchester, UK'
+show-venue: "Boardwalk, Manchester, UK"
+title: "9th November 1989 -  Galaxie 500 - Boardwalk, Manchester, UK"
 show-setlist: 
 show-date: 1989-11-09
 category: 1989

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'HMV, Kichijoji, Tokyo, Japan'
+show-venue: "HMV, Kichijoji, Tokyo, Japan"
+title: "12th November 2017 -  Damon & Naomi - HMV, Kichijoji, Tokyo, Japan"
 show-setlist:
 show-date: 2017-11-12
 date-added: 2017-10-11

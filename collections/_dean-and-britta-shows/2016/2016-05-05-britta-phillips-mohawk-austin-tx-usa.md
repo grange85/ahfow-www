@@ -4,7 +4,8 @@ position: database-5
 artistslug: britta-phillips
 artist:
   name: Britta Phillips
-show-venue: 'Mohawk, Austin, TX, USA'
+show-venue: "Mohawk, Austin, TX, USA"
+title: "5th May 2016 - Britta Phillips - Mohawk, Austin, TX, USA"
 show-notes: ''
 show-setlist:
 show-date: 2016-05-05

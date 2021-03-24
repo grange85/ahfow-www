@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Miller Plaza, Chattanooga TN, USA'
+show-venue: "Miller Plaza, Chattanooga TN, USA"
+title: "21st June 2002 -  Luna - Miller Plaza, Chattanooga TN, USA"
 show-setlist: [
   "Season of the Witch",
   "Weird And Woozy",

@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Ciceros, St Louis MO, USA"
+title: "6th February 1996 -  Luna - Ciceros, St Louis MO, USA"
 show-setlist: 
 show-date: 1996-02-06
 category: 1996

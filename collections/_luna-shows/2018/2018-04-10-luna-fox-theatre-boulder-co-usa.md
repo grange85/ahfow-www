@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Fox Theatre, Boulder, CO, USA'
+show-venue: "Fox Theatre, Boulder, CO, USA"
+title: "10th April 2018 -  Luna - Fox Theatre, Boulder, CO, USA"
 show-notes: ''
 show-setlist: 
 show-date: 2018-04-10

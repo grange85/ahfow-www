@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Liberty Lunch, Austin TX, USA'
+show-venue: "Liberty Lunch, Austin TX, USA"
+title: "4th April 1998 -  Luna - Liberty Lunch, Austin TX, USA"
 show-setlist: [
   "California (All The Way)",
   "Sideshow By The Seashore",

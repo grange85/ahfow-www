@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Idiots Delight, WXRK-FM, New York City NY, USA"
+title: "27th December 1992 -  Luna - Idiots Delight, WXRK-FM, New York City NY, USA"
 show-setlist: [
   "Anesthesia",
   "Time",

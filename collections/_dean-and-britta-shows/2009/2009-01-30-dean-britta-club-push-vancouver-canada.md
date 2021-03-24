@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Club PuSh, Vancouver, Canada'
+show-venue: "Club PuSh, Vancouver, Canada"
+title: "30th January 2009 - Dean & Britta - Club PuSh, Vancouver, Canada"
 show-setlist: 
 show-date: 2009-01-30
 category: 2009

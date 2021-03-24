@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Studion, Stockholm, Sweden'
+show-venue: "Studion, Stockholm, Sweden"
+title: "25th October 1997 -  Luna - Studion, Stockholm, Sweden"
 show-setlist: 
 show-date: 1997-10-25
 category: 1997

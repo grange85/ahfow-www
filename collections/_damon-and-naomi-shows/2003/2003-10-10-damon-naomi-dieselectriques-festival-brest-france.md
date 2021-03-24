@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Dieselectriques festival, Brest, France'
+show-venue: "Dieselectriques festival, Brest, France"
+title: "10th October 2003 -  Damon & Naomi - Dieselectriques festival, Brest, France"
 show-setlist: 
 show-date: 2003-10-10
 category: 2003

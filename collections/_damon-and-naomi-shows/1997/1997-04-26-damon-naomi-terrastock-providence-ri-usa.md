@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Terrastock, Providence RI, USA'
+show-venue: "Terrastock, Providence RI, USA"
+title: "26th April 1997 -  Damon & Naomi - Terrastock, Providence RI, USA"
 show-setlist: [
   "Spirit of Love",
   "Laika",

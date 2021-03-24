@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'NT Areal, Basel, Switzerland'
+show-venue: "NT Areal, Basel, Switzerland"
+title: "17th October 2002 -  Luna - NT Areal, Basel, Switzerland"
 show-setlist: 
 show-date: 2002-10-17
 category: 2002

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'TBC, Ourense, Spain'
+show-venue: "TBC, Ourense, Spain"
+title: "7th February 2018 -  Damon & Naomi - TBC, Ourense, Spain"
 show-setlist:
 show-date: 2018-02-07
 date-added: 2017-12-14

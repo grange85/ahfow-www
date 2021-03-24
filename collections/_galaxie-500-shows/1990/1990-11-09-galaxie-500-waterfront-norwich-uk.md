@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Waterfront, Norwich, UK'
+show-venue: "Waterfront, Norwich, UK"
+title: "9th November 1990 -  Galaxie 500 - Waterfront, Norwich, UK"
 show-setlist: 
 show-date: 1990-11-09
 category: 1990

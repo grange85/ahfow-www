@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'KB, Malmo, Sweden'
+show-venue: "KB, Malmo, Sweden"
+title: "11th September 1999 -  Luna - KB, Malmo, Sweden"
 show-setlist: 
 show-date: 1999-09-11
 category: 1999

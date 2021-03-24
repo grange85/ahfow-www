@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Irving Plaza, New York NY, USA'
+show-venue: "Irving Plaza, New York NY, USA"
+title: "29th November 1999 -  Luna - Irving Plaza, New York NY, USA"
 show-setlist: [
   "Fuzzy Wuzzy",
   "Dear Diary",

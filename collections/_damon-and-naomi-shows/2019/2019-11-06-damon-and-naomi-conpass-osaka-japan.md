@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Conpass, Osaka, Japan'
+show-venue: "Conpass, Osaka, Japan"
+title: "6th November 2019 -  Damon & Naomi - Conpass, Osaka, Japan"
 address: |
   Osaka 542-0083
   Japan

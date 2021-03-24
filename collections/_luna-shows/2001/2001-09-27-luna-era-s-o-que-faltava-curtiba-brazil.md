@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Era sÃ³ o que faltava, Curtiba, Brazil'
+show-venue: "Era sÃ³ o que faltava, Curtiba, Brazil"
+title: "27th September 2001 -  Luna - Era sÃ³ o que faltava, Curtiba, Brazil"
 show-setlist: 
 show-date: 2001-09-27
 category: 2001

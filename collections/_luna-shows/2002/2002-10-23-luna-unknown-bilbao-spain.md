@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: '(unknown), Bilbao, Spain'
+show-venue: "(unknown), Bilbao, Spain"
+title: "23rd October 2002 -  Luna - (unknown), Bilbao, Spain"
 show-setlist: 
 show-date: 2002-10-23
 category: 2002

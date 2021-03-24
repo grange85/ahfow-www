@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Hiro Ballroom, New York NY, USA'
+show-venue: "Hiro Ballroom, New York NY, USA"
+title: "30th March 2007 - Dean & Britta - Hiro Ballroom, New York NY, USA"
 show-setlist: [
   "Singer Sing",
   "Knives From Bavaria",

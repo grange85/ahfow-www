@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Cats Cradle, Carrboro NC, USA"
+title: "20th April 1994 -  Luna - Cats Cradle, Carrboro NC, USA"
 show-setlist: [
   "California (All The Way)",
   "Slide",

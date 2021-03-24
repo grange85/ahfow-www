@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: damon-and-naomi
 show-venue: "Johnny Ds, Somerville MA, USA"
+title: "11th February 2004 -  Damon & Naomi - Johnny Ds, Somerville MA, USA"
 show-setlist: 
 show-date: 2004-02-11
 category: 2004

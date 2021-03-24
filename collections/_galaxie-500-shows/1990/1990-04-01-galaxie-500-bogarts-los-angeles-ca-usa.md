@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: galaxie-500
 show-venue: "Bogart's, Los Angeles, CA, USA"
+title: "1st April 1990 -  Galaxie 500 - Bogart's, Los Angeles, CA, USA"
 show-setlist: 
 show-date: 1990-04-01
 category: 1990

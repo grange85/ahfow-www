@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'International 1, Manchester, UK'
+show-venue: "International 1, Manchester, UK"
+title: "26th June 1990 -  Galaxie 500 - International 1, Manchester, UK"
 setlist-source: 'recording'
 show-setlist: [
   "Fourth of July",

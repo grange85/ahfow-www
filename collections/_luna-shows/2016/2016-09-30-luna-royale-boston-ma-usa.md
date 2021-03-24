@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Royale, Boston, MA'
+show-venue: "Royale, Boston, MA"
+title: "30th September 2016 -  Luna - Royale, Boston, MA"
 show-notes: ''
 show-setlist: 
 show-date: 2016-09-30

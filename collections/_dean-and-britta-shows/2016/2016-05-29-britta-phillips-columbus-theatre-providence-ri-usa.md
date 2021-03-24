@@ -4,7 +4,8 @@ position: database-5
 artistslug: britta-phillips
 artist:
   name: Britta Phillips
-show-venue: 'Columbus Theatre, Providence, RI, USA'
+show-venue: "Columbus Theatre, Providence, RI, USA"
+title: "29th May 2016 - Britta Phillips - Columbus Theatre, Providence, RI, USA"
 show-notes: ''
 show-setlist: 
  - One Fine Summer Morning

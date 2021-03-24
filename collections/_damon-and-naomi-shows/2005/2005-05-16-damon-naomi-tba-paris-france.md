@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'tba, Paris, France'
+show-venue: "tba, Paris, France"
+title: "16th May 2005 -  Damon & Naomi - tba, Paris, France"
 show-setlist: 
 show-date: 2005-05-16
 category: 2005

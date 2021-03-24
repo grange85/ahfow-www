@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Lounge Ax, Chicago, IL, USA'
+show-venue: "Lounge Ax, Chicago, IL, USA"
+title: "12th October 1990 -  Galaxie 500 - Lounge Ax, Chicago, IL, USA"
 show-setlist:
 show-date: 1990-10-12
 category: 1990

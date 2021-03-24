@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Sons of Hermann Hall, Dallas TX, USA'
+show-venue: "Sons of Hermann Hall, Dallas TX, USA"
+title: "29th January 2005 -  Luna - Sons of Hermann Hall, Dallas TX, USA"
 show-setlist: [
   "Malibu Love Nest",
   "This Time Around",

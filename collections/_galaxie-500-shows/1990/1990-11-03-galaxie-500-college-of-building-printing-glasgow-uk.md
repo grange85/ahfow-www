@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'College of Building and Printing, Glasgow, UK'
+show-venue: "College of Building and Printing, Glasgow, UK"
+title: "3rd November 1990 -  Galaxie 500 - College of Building and Printing, Glasgow, UK"
 show-setlist: [
   "Fourth of July",
   "Summertime",

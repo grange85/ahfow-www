@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Y:Union, Guangzhou, China'
+show-venue: "Y:Union, Guangzhou, China"
+title: "14th September 2016 -  Damon & Naomi - Y:Union, Guangzhou, China"
 show-setlist:
 show-date: 2016-09-14
 date-added: 2016-08-18

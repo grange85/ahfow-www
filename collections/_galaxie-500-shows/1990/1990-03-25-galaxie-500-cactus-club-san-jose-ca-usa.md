@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Cactus Club, San Jose CA, USA'
+show-venue: "Cactus Club, San Jose CA, USA"
+title: "25th March 1990 -  Galaxie 500 - Cactus Club, San Jose CA, USA"
 show-setlist: [
   "Decomposing Trees",
   "Snowstorm",

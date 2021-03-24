@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Maxwells, Hoboken NJ, USA'
+show-venue: "Maxwells, Hoboken NJ, USA"
+title: "30th October 2004 -  Luna - Maxwells, Hoboken NJ, USA"
 show-setlist: [
   "Season of the Witch",
   "Malibu Love Nest",

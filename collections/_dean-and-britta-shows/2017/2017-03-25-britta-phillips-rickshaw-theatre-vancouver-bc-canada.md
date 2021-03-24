@@ -4,7 +4,8 @@ position: database-5
 artistslug: britta-phillips
 artist:
   name: Britta Phillips
-show-venue: Rickshaw Theatre, Vancouver, BC, Canada
+show-venue: "Rickshaw Theatre, Vancouver, BC, Canada"
+title: "25th March 2017 - Britta Phillips - Rickshaw Theatre, Vancouver, BC, Canada"
 show-notes: 
 show-setlist: 
 show-date: 2017-03-25

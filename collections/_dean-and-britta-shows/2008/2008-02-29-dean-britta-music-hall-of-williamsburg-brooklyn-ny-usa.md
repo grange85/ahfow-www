@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Music Hall Of Williamsburg, Brooklyn NY, USA'
+show-venue: "Music Hall Of Williamsburg, Brooklyn NY, USA"
+title: "29th February 2008 - Dean & Britta - Music Hall Of Williamsburg, Brooklyn NY, USA"
 show-setlist: 
 show-date: 2008-02-29
 category: 2008

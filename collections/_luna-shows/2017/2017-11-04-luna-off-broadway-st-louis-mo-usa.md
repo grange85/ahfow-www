@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Off Broadway, St. Louis, MO, USA'
+show-venue: "Off Broadway, St. Louis, MO, USA"
+title: "4th November 2017 -  Luna - Off Broadway, St. Louis, MO, USA"
 show-notes: ''
 show-setlist: 
  - Slide

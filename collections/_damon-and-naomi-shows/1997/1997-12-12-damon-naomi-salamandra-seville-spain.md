@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Salamandra, Seville, Spain'
+show-venue: "Salamandra, Seville, Spain"
+title: "12th December 1997 -  Damon & Naomi - Salamandra, Seville, Spain"
 show-setlist: 
 show-date: 1997-12-12
 category: 1997

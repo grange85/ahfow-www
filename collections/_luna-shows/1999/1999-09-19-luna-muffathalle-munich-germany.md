@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Muffathalle, Munich, Germany'
+show-venue: "Muffathalle, Munich, Germany"
+title: "19th September 1999 -  Luna - Muffathalle, Munich, Germany"
 show-setlist: 
 show-date: 1999-09-19
 category: 1999

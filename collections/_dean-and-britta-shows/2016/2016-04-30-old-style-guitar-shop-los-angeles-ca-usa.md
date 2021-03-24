@@ -4,7 +4,8 @@ position: database-5
 artistslug: britta-phillips
 artist:
   name: Britta Phillips
-show-venue: 'Old Style Guitar Shop, Los Angeles, CA, USA'
+show-venue: "Old Style Guitar Shop, Los Angeles, CA, USA"
+title: "30th April 2016 - Britta Phillips - Old Style Guitar Shop, Los Angeles, CA, USA"
 show-notes: ''
 show-setlist: 
 show-date: 2016-04-30

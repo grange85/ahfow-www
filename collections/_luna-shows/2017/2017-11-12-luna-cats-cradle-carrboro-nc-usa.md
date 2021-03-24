@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "The Cat's Cradle, Carrboro, NC, USA"
+title: "12th November 2017 -  Luna - The Cat's Cradle, Carrboro, NC, USA"
 show-notes: ''
 show-setlist: 
 - Chinatown

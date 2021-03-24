@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Exit / In, Nashville, TN, USA'
+show-venue: "Exit / In, Nashville, TN, USA"
+title: "5th November 2017 -  Luna - Exit / In, Nashville, TN, USA"
 show-notes: ''
 show-setlist: 
 show-date: 2017-11-05

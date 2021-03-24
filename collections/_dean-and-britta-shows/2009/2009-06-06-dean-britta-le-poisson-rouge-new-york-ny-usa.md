@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Le Poisson Rouge, New York, NY, USA'
+show-venue: "Le Poisson Rouge, New York, NY, USA"
+title: "6th June 2009 - Dean & Britta - Le Poisson Rouge, New York, NY, USA"
 show-setlist: 
 show-date: 2009-06-06
 category: 2009

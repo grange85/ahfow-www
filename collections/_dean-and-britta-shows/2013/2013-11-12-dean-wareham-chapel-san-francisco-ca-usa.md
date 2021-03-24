@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Chapel, San Francisco, CA, USA'
+show-venue: "Chapel, San Francisco, CA, USA"
+title: "12th November 2013 - Dean Wareham - Chapel, San Francisco, CA, USA"
 show-setlist: [
   "Love Is Colder Than Death",
   "The Longest Bridges in The World",

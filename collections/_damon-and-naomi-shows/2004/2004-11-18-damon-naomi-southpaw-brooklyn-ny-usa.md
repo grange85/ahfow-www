@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Southpaw, Brooklyn NY, USA'
+show-venue: "Southpaw, Brooklyn NY, USA"
+title: "18th November 2004 -  Damon & Naomi - Southpaw, Brooklyn NY, USA"
 show-setlist: 
 show-date: 2004-11-18
 category: 2004

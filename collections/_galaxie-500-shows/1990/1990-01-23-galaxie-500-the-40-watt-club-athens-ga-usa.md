@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'The 40 Watt Club, Athens, GA, USA'
+show-venue: "The 40 Watt Club, Athens, GA, USA"
+title: "23rd January 1990 -  Galaxie 500 - The 40 Watt Club, Athens, GA, USA"
 show-setlist: [
   "Decomposing Trees",
   "Snowstorm",

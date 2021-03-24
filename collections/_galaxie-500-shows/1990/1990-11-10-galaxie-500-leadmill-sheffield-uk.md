@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Leadmill, Sheffield, UK'
+show-venue: "Leadmill, Sheffield, UK"
+title: "10th November 1990 -  Galaxie 500 - Leadmill, Sheffield, UK"
 show-setlist: 
 show-date: 1990-11-10
 category: 1990

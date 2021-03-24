@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Palac Kultury, Prague, Czech Republic'
+show-venue: "Palac Kultury, Prague, Czech Republic"
+title: "13th June 1993 -  Luna - Palac Kultury, Prague, Czech Republic"
 show-setlist: 
   - title: Slide
     url: https://media.fullofwishes.co.uk/02-luna/show_assets/1993-06-13/01-luna-slide.mp3

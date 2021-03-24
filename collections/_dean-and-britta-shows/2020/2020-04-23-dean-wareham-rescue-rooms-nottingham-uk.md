@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Rescue Rooms, Nottingham, UK'
+show-venue: "Rescue Rooms, Nottingham, UK"
+title: "23rd April 2020 - Dean Wareham - Rescue Rooms, Nottingham, UK"
 address: |
   Rescue Rooms, 
   Masonic Place, 

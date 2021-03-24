@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Moon Romantic, Tokyo, Japan'
+show-venue: "Moon Romantic, Tokyo, Japan"
+title: "11th September 2015 -  Damon & Naomi - Moon Romantic, Tokyo, Japan"
 show-setlist: [
   ]
 show-date: 2015-09-11

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Blind Pig, Ann Arbor MI, USA'
+show-venue: "Blind Pig, Ann Arbor MI, USA"
+title: "10th November 2004 -  Luna - Blind Pig, Ann Arbor MI, USA"
 show-setlist: [
   "Cindy Tastes of Barbecue",
   "Chinatown",

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Markthalle, Hamburg, Germany'
+show-venue: "Markthalle, Hamburg, Germany"
+title: "3rd December 1995 -  Luna - Markthalle, Hamburg, Germany"
 show-notes: 'supporting Edwyn Collins'
 show-setlist: 
 show-date: 1995-12-03

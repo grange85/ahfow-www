@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Dowes, Pittsburgh PA, USA'
+show-venue: "Dowes, Pittsburgh PA, USA"
+title: "13th March 2007 - Dean & Britta - Dowes, Pittsburgh PA, USA"
 show-setlist: [
   "Singer Sing",
   "Night Nurse",

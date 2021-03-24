@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Cactus Cafe, Austin TX, USA'
+show-venue: "Cactus Cafe, Austin TX, USA"
+title: "23rd February 2008 - Dean & Britta - Cactus Cafe, Austin TX, USA"
 show-setlist: 
 show-date: 2008-02-23
 category: 2008

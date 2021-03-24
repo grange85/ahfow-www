@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: '9:30 Club, Washington DC, USA'
+show-venue: "9:30 Club, Washington DC, USA"
+title: "7th September 2001 -  Luna - 9:30 Club, Washington DC, USA"
 show-setlist: 
 show-date: 2001-09-07
 category: 2001

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Fox Theatre, Boulder CO, USA'
+show-venue: "Fox Theatre, Boulder CO, USA"
+title: "31st January 2005 -  Luna - Fox Theatre, Boulder CO, USA"
 show-setlist: [
   "Malibu Love Nest",
   "Anesthesia",

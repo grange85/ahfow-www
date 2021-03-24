@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Alvins, Detroit MI, USA'
+show-venue: "Alvins, Detroit MI, USA"
+title: "5th October 1995 -  Luna - Alvins, Detroit MI, USA"
 show-setlist: 
 show-date: 1995-10-05
 category: 1995

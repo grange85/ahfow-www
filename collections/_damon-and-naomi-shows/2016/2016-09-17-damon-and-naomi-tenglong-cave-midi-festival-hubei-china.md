@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Tenglong Cave Midi Festival, Hubei, China'
+show-venue: "Tenglong Cave Midi Festival, Hubei, China"
+title: "17th September 2016 -  Damon & Naomi - Tenglong Cave Midi Festival, Hubei, China"
 show-setlist:
 show-date: 2016-09-17
 date-added: 2016-08-18

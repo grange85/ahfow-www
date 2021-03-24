@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Carpenter Center for the Visual Arts, Harvard University, Cambridge, MA, USA'
+show-venue: "Carpenter Center for the Visual Arts, Harvard University, Cambridge, MA, USA"
+title: "2nd October 2014 -  Damon & Naomi - Carpenter Center for the Visual Arts, Harvard University, Cambridge, MA, USA"
 show-setlist:
  - The Seeker
  - Amnesia

@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Harvard and Stone, Los Angeles, CA, USA '
+show-venue: "Harvard and Stone, Los Angeles, CA, USA "
+title: "19th March 2014 - Dean Wareham - Harvard and Stone, Los Angeles, CA, USA "
 show-setlist: 
 show-date: 2014-03-19
 category: 2014

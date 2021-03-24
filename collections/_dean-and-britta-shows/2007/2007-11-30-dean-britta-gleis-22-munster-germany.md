@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Gleis 22, Munster, Germany'
+show-venue: "Gleis 22, Munster, Germany"
+title: "30th November 2007 - Dean & Britta - Gleis 22, Munster, Germany"
 show-setlist: [
   "Singer Sing",
   "Our Love Will Still Be There",

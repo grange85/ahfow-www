@@ -4,7 +4,8 @@ position: database-5
 artistslug: damon-and-naomi
 artist:
  name: Damon Krukowski
-show-venue: 'Black Forest, Brooklyn, NY, USA'
+show-venue: "Black Forest, Brooklyn, NY, USA"
+title: "20th March 2019 -  Damon & Naomi - Black Forest, Brooklyn, NY, USA"
 show-setlist:
 show-date: 2019-03-20
 date-added: 2019-03-14

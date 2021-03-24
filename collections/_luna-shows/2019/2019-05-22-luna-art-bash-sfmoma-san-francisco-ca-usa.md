@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Art Bash, SFMOMA, San Francisco, CA, USA'
+show-venue: "Art Bash, SFMOMA, San Francisco, CA, USA"
+title: "22nd May 2019 -  Luna - Art Bash, SFMOMA, San Francisco, CA, USA"
 address: |
   Art Bash, 
   SFMOMA, 

@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Metro Club, London, UK'
+show-venue: "Metro Club, London, UK"
+title: "19th June 2007 - Dean & Britta - Metro Club, London, UK"
 show-setlist: [
   "Singer Sing",
   "Hear The Wind Blow",

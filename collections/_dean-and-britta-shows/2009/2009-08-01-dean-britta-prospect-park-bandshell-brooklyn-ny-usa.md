@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Prospect Park Bandshell, Brooklyn, NY, USA'
+show-venue: "Prospect Park Bandshell, Brooklyn, NY, USA"
+title: "1st August 2009 - Dean & Britta - Prospect Park Bandshell, Brooklyn, NY, USA"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

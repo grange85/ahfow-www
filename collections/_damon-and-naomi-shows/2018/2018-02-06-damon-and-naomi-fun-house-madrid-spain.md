@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Fun House, Madrid, Spain'
+show-venue: "Fun House, Madrid, Spain"
+title: "6th February 2018 -  Damon & Naomi - Fun House, Madrid, Spain"
 show-setlist:
 show-date: 2018-02-06
 date-added: 2017-12-14

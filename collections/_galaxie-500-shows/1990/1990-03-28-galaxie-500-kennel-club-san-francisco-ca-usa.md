@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: galaxie-500
 show-venue: "Kennel Club, San Francisco CA, USA"
+title: "28th March 1990 -  Galaxie 500 - Kennel Club, San Francisco CA, USA"
 show-setlist: 
 show-date: 1990-03-28
 category: 1990

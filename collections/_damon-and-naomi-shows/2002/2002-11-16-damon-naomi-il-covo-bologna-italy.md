@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Il Covo, Bologna, Italy'
+show-venue: "Il Covo, Bologna, Italy"
+title: "16th November 2002 -  Damon & Naomi - Il Covo, Bologna, Italy"
 show-setlist: 
 show-date: 2002-11-16
 category: 2002

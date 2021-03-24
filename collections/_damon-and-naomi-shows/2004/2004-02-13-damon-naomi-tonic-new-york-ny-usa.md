@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Tonic, New York NY, USA'
+show-venue: "Tonic, New York NY, USA"
+title: "13th February 2004 -  Damon & Naomi - Tonic, New York NY, USA"
 show-setlist: 
 show-date: 2004-02-13
 category: 2004

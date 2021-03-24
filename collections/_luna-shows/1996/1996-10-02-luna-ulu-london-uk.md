@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'ULU, London, UK'
+show-venue: "ULU, London, UK"
+title: "2nd October 1996 -  Luna - ULU, London, UK"
 show-setlist: 
 show-date: 1996-10-02
 category: 1996

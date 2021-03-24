@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Trust, Nurenburg, Germany'
+show-venue: "Trust, Nurenburg, Germany"
+title: "26th November 1989 -  Galaxie 500 - Trust, Nurenburg, Germany"
 show-setlist: [
   "Flowers",
   "Tell Me",

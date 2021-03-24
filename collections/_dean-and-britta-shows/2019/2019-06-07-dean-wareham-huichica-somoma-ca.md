@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Huichica, Gundlach Bundschu Winery, Sonoma, CA, USA'
+show-venue: "Huichica, Gundlach Bundschu Winery, Sonoma, CA, USA"
+title: "7th June 2019 - Dean Wareham - Huichica, Gundlach Bundschu Winery, Sonoma, CA, USA"
 show-notes: ''
 show-setlist:
 show-date: 2019-06-07

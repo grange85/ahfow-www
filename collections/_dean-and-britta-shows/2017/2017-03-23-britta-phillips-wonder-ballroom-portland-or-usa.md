@@ -4,7 +4,8 @@ position: database-5
 artistslug: britta-phillips
 artist:
   name: Britta Phillips
-show-venue: Wonder Ballroom, Portland, OR, USA
+show-venue: "Wonder Ballroom, Portland, OR, USA"
+title: "23rd March 2017 - Britta Phillips - Wonder Ballroom, Portland, OR, USA"
 show-notes: 
 show-setlist: 
 show-date: 2017-03-23

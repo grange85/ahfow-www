@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'The Crescent, York, UK'
+show-venue: "The Crescent, York, UK"
+title: "3rd June 2019 -  Damon & Naomi - The Crescent, York, UK"
 show-setlist:
 show-date: 2019-06-03
 date-added: 2019-05-08

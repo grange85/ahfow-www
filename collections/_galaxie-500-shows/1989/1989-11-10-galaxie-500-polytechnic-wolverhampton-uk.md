@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Polytechnic, Wolverhampton, UK'
+show-venue: "Polytechnic, Wolverhampton, UK"
+title: "10th November 1989 -  Galaxie 500 - Polytechnic, Wolverhampton, UK"
 show-setlist: 
 show-date: 1989-11-10
 category: 1989

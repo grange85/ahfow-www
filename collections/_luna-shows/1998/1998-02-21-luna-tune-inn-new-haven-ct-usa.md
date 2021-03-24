@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Tune Inn, New Haven CT, USA'
+show-venue: "Tune Inn, New Haven CT, USA"
+title: "21st February 1998 -  Luna - Tune Inn, New Haven CT, USA"
 show-setlist: 
 show-date: 1998-02-21
 category: 1998

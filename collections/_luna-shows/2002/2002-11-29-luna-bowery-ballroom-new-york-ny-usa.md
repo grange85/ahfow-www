@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Bowery Ballroom, New York NY, USA'
+show-venue: "Bowery Ballroom, New York NY, USA"
+title: "29th November 2002 -  Luna - Bowery Ballroom, New York NY, USA"
 show-setlist: [
   "Slide",
   "Math Wiz",

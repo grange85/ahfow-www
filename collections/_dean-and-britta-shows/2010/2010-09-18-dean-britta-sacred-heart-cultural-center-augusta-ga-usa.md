@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Sacred Heart Cultural Center, Augusta GA, USA'
+show-venue: "Sacred Heart Cultural Center, Augusta GA, USA"
+title: "18th September 2010 - Dean & Britta - Sacred Heart Cultural Center, Augusta GA, USA"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

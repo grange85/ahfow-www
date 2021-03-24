@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Winkles, Bedford, UK'
+show-venue: "Winkles, Bedford, UK"
+title: "12th December 1989 -  Galaxie 500 - Winkles, Bedford, UK"
 show-setlist: 
 show-date: 1989-12-12
 category: 1989

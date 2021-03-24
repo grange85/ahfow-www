@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Jack Rabbits, Jacksonville FL, USA"
+title: "29th January 2003 -  Luna - Jack Rabbits, Jacksonville FL, USA"
 show-setlist: 
 show-date: 2003-01-29
 category: 2003

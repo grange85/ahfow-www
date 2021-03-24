@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'The Lilypad, Cambridge, MA, USA'
+show-venue: "The Lilypad, Cambridge, MA, USA"
+title: "2nd March 2018 -  Damon & Naomi - The Lilypad, Cambridge, MA, USA"
 show-setlist:
 show-date: 2018-03-02
 date-added: 2018-01-26

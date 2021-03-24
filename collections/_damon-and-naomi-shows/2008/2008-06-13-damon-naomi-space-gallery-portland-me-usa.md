@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Space Gallery, Portland ME, USA'
+show-venue: "Space Gallery, Portland ME, USA"
+title: "13th June 2008 -  Damon & Naomi - Space Gallery, Portland ME, USA"
 show-setlist: 
 show-date: 2008-06-13
 category: 2008

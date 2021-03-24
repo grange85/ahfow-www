@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Teatre Xesc Forteza, Palma de Mallorca, Spain'
+show-venue: "Teatre Xesc Forteza, Palma de Mallorca, Spain"
+title: "1st November 2007 -  Damon & Naomi - Teatre Xesc Forteza, Palma de Mallorca, Spain"
 show-setlist: 
 show-date: 2007-11-01
 category: 2007

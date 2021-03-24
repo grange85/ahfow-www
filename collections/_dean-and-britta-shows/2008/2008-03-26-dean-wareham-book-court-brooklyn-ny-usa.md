@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Book Court, Brooklyn NY, USA'
+show-venue: "Book Court, Brooklyn NY, USA"
+title: "26th March 2008 - Dean Wareham - Book Court, Brooklyn NY, USA"
 show-setlist: 
 show-date: 2008-03-26
 category: 2008

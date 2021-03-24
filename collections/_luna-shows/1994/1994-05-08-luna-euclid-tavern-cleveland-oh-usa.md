@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Euclid Tavern, Cleveland OH, USA'
+show-venue: "Euclid Tavern, Cleveland OH, USA"
+title: "8th May 1994 -  Luna - Euclid Tavern, Cleveland OH, USA"
 show-setlist: 
 show-date: 1994-05-08
 category: 1994

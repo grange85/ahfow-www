@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Livid Festival, Brisbane, Australia'
+show-venue: "Livid Festival, Brisbane, Australia"
+title: "3rd October 1998 -  Luna - Livid Festival, Brisbane, Australia"
 show-setlist: 
 show-date: 1998-10-03
 category: 1998

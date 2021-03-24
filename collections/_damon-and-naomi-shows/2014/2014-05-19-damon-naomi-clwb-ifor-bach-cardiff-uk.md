@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Clwb Ifor Bach, Cardiff, UK'
+show-venue: "Clwb Ifor Bach, Cardiff, UK"
+title: "19th May 2014 -  Damon & Naomi - Clwb Ifor Bach, Cardiff, UK"
 show-setlist:
  - The Seeker
  - Amnesia

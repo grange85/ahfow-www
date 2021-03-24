@@ -4,7 +4,8 @@ position: database-5
 artistslug: britta-phillips
 artist:
   name: Britta Phillips
-show-venue: 'Granada Theater, Dallas, TX, USA'
+show-venue: "Granada Theater, Dallas, TX, USA"
+title: "4th May 2016 - Britta Phillips - Granada Theater, Dallas, TX, USA"
 show-notes: ''
 show-setlist:
 show-date: 2016-05-04

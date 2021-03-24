@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: damon-and-naomi
 show-venue: "Schubas, Chicago IL, USA"
+title: "27th October 2000 -  Damon & Naomi - Schubas, Chicago IL, USA"
 show-setlist: 
 show-date: 2000-10-27
 category: 2000

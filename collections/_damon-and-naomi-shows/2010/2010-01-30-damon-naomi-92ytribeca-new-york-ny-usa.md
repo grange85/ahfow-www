@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: '92YTribeca, New York, NY, USA'
+show-venue: "92YTribeca, New York, NY, USA"
+title: "30th January 2010 -  Damon & Naomi - 92YTribeca, New York, NY, USA"
 show-setlist: 
 show-date: 2010-01-30
 category: 2010

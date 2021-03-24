@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Tin Angel. Philadelphia, PA, USA'
+show-venue: "Tin Angel. Philadelphia, PA, USA"
+title: "2nd July 1998 -  Damon & Naomi - Tin Angel. Philadelphia, PA, USA"
 show-setlist: 
 show-date: 1998-07-02
 category: 1998

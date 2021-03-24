@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Manchester Academy 3, Manchester, UK'
+show-venue: "Manchester Academy 3, Manchester, UK"
+title: "25th January 2021 - Dean Wareham - Manchester Academy 3, Manchester, UK"
 address: |
   Manchester Academy 3, 
   Oxford Road, 

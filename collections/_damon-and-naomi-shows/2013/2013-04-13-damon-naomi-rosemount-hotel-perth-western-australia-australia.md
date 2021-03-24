@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Rosemount Hotel, Perth, Western Australia, Australia'
+show-venue: "Rosemount Hotel, Perth, Western Australia, Australia"
+title: "13th April 2013 -  Damon & Naomi - Rosemount Hotel, Perth, Western Australia, Australia"
 show-setlist: 
 show-date: 2013-04-13
 category: 2013

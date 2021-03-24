@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Mattatoio, Carpi, Modena, Italy'
+show-venue: "Mattatoio, Carpi, Modena, Italy"
+title: "22nd March 2009 -  Damon & Naomi - Mattatoio, Carpi, Modena, Italy"
 show-setlist: 
 show-date: 2009-03-22
 category: 2009

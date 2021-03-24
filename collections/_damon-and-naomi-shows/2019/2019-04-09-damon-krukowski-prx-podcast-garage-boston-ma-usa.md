@@ -4,7 +4,8 @@ position: database-5
 artistslug: damon-and-naomi
 artist:
  name: Damon Krukowski
-show-venue: 'PRX Podcast Garage, Boston, MA USA'
+show-venue: "PRX Podcast Garage, Boston, MA USA"
+title: "9th April 2019 -  Damon & Naomi - PRX Podcast Garage, Boston, MA USA"
 show-setlist:
 show-date: 2019-04-09
 date-added: 2019-03-14

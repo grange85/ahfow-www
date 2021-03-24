@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Sound Fix Records, Brooklyn, NY, USA'
+show-venue: "Sound Fix Records, Brooklyn, NY, USA"
+title: "16th April 2011 -  Damon & Naomi - Sound Fix Records, Brooklyn, NY, USA"
 show-setlist: 
 show-date: 2011-04-16
 category: 2011

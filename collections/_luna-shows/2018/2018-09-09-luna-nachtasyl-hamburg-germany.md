@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Nachtasyl, Hamburg, Germany'
+show-venue: "Nachtasyl, Hamburg, Germany"
+title: "9th September 2018 -  Luna - Nachtasyl, Hamburg, Germany"
 show-notes: ''
 show-setlist:
  - Chinatown

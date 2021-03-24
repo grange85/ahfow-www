@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Concorde 2, Brighton, UK'
+show-venue: "Concorde 2, Brighton, UK"
+title: "22nd April 2020 - Dean Wareham - Concorde 2, Brighton, UK"
 address: |
   Concorde 2, 
   Madeira Dr, 

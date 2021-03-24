@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Cats Cradle, Carrboro NC, USA"
+title: "5th September 1997 -  Luna - Cats Cradle, Carrboro NC, USA"
 show-setlist: [
   "Fuzzy Wuzzy",
   "Sideshow By The Seashore",

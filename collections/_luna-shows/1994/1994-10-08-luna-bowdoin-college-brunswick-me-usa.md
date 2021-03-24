@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Bowdoin College, Brunswick, ME, USA'
+show-venue: "Bowdoin College, Brunswick, ME, USA"
+title: "8th October 1994 -  Luna - Bowdoin College, Brunswick, ME, USA"
 show-setlist: 
 show-date: 1994-10-08
 category: 1994

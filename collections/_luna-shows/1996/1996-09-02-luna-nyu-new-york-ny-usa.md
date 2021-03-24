@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'NYU, New York, NY, USA'
+show-venue: "NYU, New York, NY, USA"
+title: "2nd September 1996 -  Luna - NYU, New York, NY, USA"
 show-setlist: 
 show-date: 1996-09-02
 category: 1996

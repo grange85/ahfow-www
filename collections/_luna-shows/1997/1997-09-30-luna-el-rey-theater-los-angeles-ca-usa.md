@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'El Rey Theater, Los Angeles CA, USA'
+show-venue: "El Rey Theater, Los Angeles CA, USA"
+title: "30th September 1997 -  Luna - El Rey Theater, Los Angeles CA, USA"
 show-setlist: 
 show-date: 1997-09-30
 category: 1997

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Black Cat, Washington DC, USA'
+show-venue: "Black Cat, Washington DC, USA"
+title: "25th March 2000 -  Luna - Black Cat, Washington DC, USA"
 show-setlist: [
   "Bewitched",
   "Four Thousand Days",

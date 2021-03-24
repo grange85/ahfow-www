@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Bowery Ballroom, New York NY, USA'
+show-venue: "Bowery Ballroom, New York NY, USA"
+title: "28th February 2005 -  Luna - Bowery Ballroom, New York NY, USA"
 show-setlist: [
   "Chinatown",
   "Sideshow By The Seashore",

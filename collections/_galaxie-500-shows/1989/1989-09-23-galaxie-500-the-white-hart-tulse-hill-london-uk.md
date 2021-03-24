@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: galaxie-500
 show-venue: "The White Hart, Tulse Hill, London, UK"
+title: "23rd September 1989 -  Galaxie 500 - The White Hart, Tulse Hill, London, UK"
 show-setlist:
 show-date: 1989-09-23
 source: Dean Wareham / Bob Stanley

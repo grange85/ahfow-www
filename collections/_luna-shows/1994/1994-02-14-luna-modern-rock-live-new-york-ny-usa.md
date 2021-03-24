@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Modern Rock Live, New York NY, USA'
+show-venue: "Modern Rock Live, New York NY, USA"
+title: "14th February 1994 -  Luna - Modern Rock Live, New York NY, USA"
 show-setlist: 
 show-date: 1994-02-14
 category: 1994

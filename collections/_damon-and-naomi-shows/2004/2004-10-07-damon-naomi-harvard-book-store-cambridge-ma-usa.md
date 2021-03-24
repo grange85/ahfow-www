@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Harvard Book Store, Cambridge MA, USA'
+show-venue: "Harvard Book Store, Cambridge MA, USA"
+title: "7th October 2004 -  Damon & Naomi - Harvard Book Store, Cambridge MA, USA"
 show-setlist: 
 show-date: 2004-10-07
 category: 2004

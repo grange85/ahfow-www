@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Slow Bar, Nashville TN, USA'
+show-venue: "Slow Bar, Nashville TN, USA"
+title: "28th October 2002 -  Damon & Naomi - Slow Bar, Nashville TN, USA"
 show-setlist: 
 show-date: 2002-10-28
 category: 2002

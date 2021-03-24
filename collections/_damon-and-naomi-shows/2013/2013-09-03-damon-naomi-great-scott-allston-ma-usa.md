@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Great Scott, Allston, MA, USA'
+show-venue: "Great Scott, Allston, MA, USA"
+title: "3rd September 2013 -  Damon & Naomi - Great Scott, Allston, MA, USA"
 show-setlist: 
 show-date: 2013-09-03
 category: 2013

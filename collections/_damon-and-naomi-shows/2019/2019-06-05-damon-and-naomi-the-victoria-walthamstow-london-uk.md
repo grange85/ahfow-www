@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'The Victoria, London, UK'
+show-venue: "The Victoria, London, UK"
+title: "5th June 2019 -  Damon & Naomi - The Victoria, London, UK"
 address: |
   The Victoria, 
   186 Hoe Street, 

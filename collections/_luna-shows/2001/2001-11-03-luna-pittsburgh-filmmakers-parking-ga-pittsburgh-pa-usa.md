@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Pittsburgh Filmmakers Parking Ga, Pittsburgh PA, USA'
+show-venue: "Pittsburgh Filmmakers Parking Ga, Pittsburgh PA, USA"
+title: "3rd November 2001 -  Luna - Pittsburgh Filmmakers Parking Ga, Pittsburgh PA, USA"
 show-setlist: 
 show-date: 2001-11-03
 category: 2001

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Glastonbury Festival, Glastonbury, UK'
+show-venue: "Glastonbury Festival, Glastonbury, UK"
+title: "22nd June 1990 -  Galaxie 500 - Glastonbury Festival, Glastonbury, UK"
 show-setlist: 
 show-date: 1990-06-22
 category: 1990

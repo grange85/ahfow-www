@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Lincoln Hall, Chicago IL, USA'
+show-venue: "Lincoln Hall, Chicago IL, USA"
+title: "3rd December 2010 - Dean & Britta - Lincoln Hall, Chicago IL, USA"
 show-setlist: 
 show-date: 2010-12-03
 category: 2010

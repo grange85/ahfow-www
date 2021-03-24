@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'KEXP, Seattle, WA, USA'
+show-venue: "KEXP, Seattle, WA, USA"
+title: "23rd January 2018 -  Luna - KEXP, Seattle, WA, USA"
 show-notes: ''
 show-setlist: 
  - GTX3

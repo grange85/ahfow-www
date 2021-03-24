@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'The Andy Warhol Museum, Pittsburgh, PA, USA'
+show-venue: "The Andy Warhol Museum, Pittsburgh, PA, USA"
+title: "14th October 2015 -  Luna - The Andy Warhol Museum, Pittsburgh, PA, USA"
 show-setlist:
  - Egg Nog
  - Chinatown

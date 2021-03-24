@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Campbell Hall, UCSB, Santa Barbara, CA, USA'
+show-venue: "Campbell Hall, UCSB, Santa Barbara, CA, USA"
+title: "10th October 2009 - Dean & Britta - Campbell Hall, UCSB, Santa Barbara, CA, USA"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

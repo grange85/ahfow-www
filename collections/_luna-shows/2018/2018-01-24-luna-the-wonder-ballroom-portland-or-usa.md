@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'The Wonder Ballroom, Portland, OR, USA'
+show-venue: "The Wonder Ballroom, Portland, OR, USA"
+title: "24th January 2018 -  Luna - The Wonder Ballroom, Portland, OR, USA"
 show-notes: ''
 show-setlist: 
  - GTX3

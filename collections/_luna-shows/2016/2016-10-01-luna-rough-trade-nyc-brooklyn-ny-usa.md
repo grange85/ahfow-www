@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Rough Trade NYC, Brooklyn, NY, USA'
+show-venue: "Rough Trade NYC, Brooklyn, NY, USA"
+title: "1st October 2016 -  Luna - Rough Trade NYC, Brooklyn, NY, USA"
 show-notes: ''
 show-setlist: 
  - 23 Minutes In Brussels

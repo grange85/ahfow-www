@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'The Fillmore, San Francisco CA, USA'
+show-venue: "The Fillmore, San Francisco CA, USA"
+title: "13th November 2010 - Dean & Britta - The Fillmore, San Francisco CA, USA"
 show-setlist: 
 show-date: 2010-11-13
 category: 2010

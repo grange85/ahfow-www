@@ -5,6 +5,7 @@ artistslug: damon-and-naomi
 artist:
  name: Damon Krukowski
 show-venue: "Quimby's, Chicago, IL, USA"
+title: "2nd May 2017 -  Damon & Naomi - Quimby's, Chicago, IL, USA"
 show-setlist:
 show-date: 2017-05-02
 date-added: 2017-03-15

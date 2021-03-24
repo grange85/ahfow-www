@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Pappy and Harriet's, Pioneertown, CA, USA"
+title: "13th January 2018 -  Luna - Pappy and Harriet's, Pioneertown, CA, USA"
 show-notes: ''
 show-setlist: 
 show-date: 2018-01-13

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'The Bowery Ballroom, New York, NY, USA'
+show-venue: "The Bowery Ballroom, New York, NY, USA"
+title: "20th October 2019 -  Luna - The Bowery Ballroom, New York, NY, USA"
 address: |
   The Bowery Ballroom, 
   6 Delancey St, 

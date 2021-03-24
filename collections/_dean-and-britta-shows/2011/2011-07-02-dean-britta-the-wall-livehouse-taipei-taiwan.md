@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'The Wall Livehouse, Taipei, Taiwan'
+show-venue: "The Wall Livehouse, Taipei, Taiwan"
+title: "2nd July 2011 - Dean & Britta - The Wall Livehouse, Taipei, Taiwan"
 show-setlist: [
   "Flowers",
   "Pictures",

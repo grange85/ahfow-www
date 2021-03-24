@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Starfish Room, Vancouver, Canada'
+show-venue: "Starfish Room, Vancouver, Canada"
+title: "25th September 1997 -  Luna - Starfish Room, Vancouver, Canada"
 show-setlist: 
 show-date: 1997-09-25
 category: 1997

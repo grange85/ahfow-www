@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'WFUV, New York, NY, USA'
+show-venue: "WFUV, New York, NY, USA"
+title: "20th November 2017 -  Luna - WFUV, New York, NY, USA"
 show-notes: ''
 show-setlist: 
  - ^interview

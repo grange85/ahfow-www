@@ -5,6 +5,7 @@ artistslug: damon-and-naomi
 artist:
  name: Damon Krukowski
 show-venue: "Powell's City of Books, Portland, OR, USA"
+title: "15th April 2019 -  Damon & Naomi - Powell's City of Books, Portland, OR, USA"
 show-setlist:
 show-date: 2019-04-15
 date-added: 2019-03-14

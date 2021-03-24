@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Sala Quatre, Valencia, Spain'
+show-venue: "Sala Quatre, Valencia, Spain"
+title: "29th May 2001 -  Damon & Naomi - Sala Quatre, Valencia, Spain"
 show-setlist: 
 show-date: 2001-05-29
 category: 2001

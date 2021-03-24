@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'The Crocodile, Seattle, WA, USA'
+show-venue: "The Crocodile, Seattle, WA, USA"
+title: "28th June 2014 - Dean Wareham - The Crocodile, Seattle, WA, USA"
 show-setlist: 
 show-date: 2014-06-28
 category: 2014

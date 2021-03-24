@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Auditorio Municipal, Vila do Conde, Portugal'
+show-venue: "Auditorio Municipal, Vila do Conde, Portugal"
+title: "11th July 2009 - Dean & Britta - Auditorio Municipal, Vila do Conde, Portugal"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

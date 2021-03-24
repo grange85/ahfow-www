@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Khyber Pass, Philadelphia PA, USA'
+show-venue: "Khyber Pass, Philadelphia PA, USA"
+title: "19th October 1992 -  Luna - Khyber Pass, Philadelphia PA, USA"
 show-setlist: 
 show-date: 1992-10-19
 category: 1992

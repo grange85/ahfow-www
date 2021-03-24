@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Festival de Marseille, Marseille, France'
+show-venue: "Festival de Marseille, Marseille, France"
+title: "6th July 2009 - Dean & Britta - Festival de Marseille, Marseille, France"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

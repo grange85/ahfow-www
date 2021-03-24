@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Studion, Stockholm, Sweden'
+show-venue: "Studion, Stockholm, Sweden"
+title: "13th September 1999 -  Luna - Studion, Stockholm, Sweden"
 show-setlist: 
 show-date: 1999-09-13
 category: 1999

@@ -4,7 +4,8 @@ position: database-5
 artistslug: damon-and-naomi
 artist:
  name: Damon Krukowski
-show-venue: 'Carpenter Center for the Visual Arts, Harvard University, Cambridge, MA, USA'
+show-venue: "Carpenter Center for the Visual Arts, Harvard University, Cambridge, MA, USA"
+title: "18th April 2017 -  Damon & Naomi - Carpenter Center for the Visual Arts, Harvard University, Cambridge, MA, USA"
 show-setlist:
 show-date: 2017-04-18
 date-added: 2017-03-15

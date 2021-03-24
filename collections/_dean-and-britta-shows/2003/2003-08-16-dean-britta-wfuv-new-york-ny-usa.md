@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'WFUV, New York NY, USA'
+show-venue: "WFUV, New York NY, USA"
+title: "16th August 2003 - Dean & Britta - WFUV, New York NY, USA"
 show-setlist: 
 show-date: 2003-08-16
 category: 2003

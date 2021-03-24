@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Mass MoCA, North Adams, MA, USA'
+show-venue: "Mass MoCA, North Adams, MA, USA"
+title: "28th March 2009 - Dean & Britta - Mass MoCA, North Adams, MA, USA"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

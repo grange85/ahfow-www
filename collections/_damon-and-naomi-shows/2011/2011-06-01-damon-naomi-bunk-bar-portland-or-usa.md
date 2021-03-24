@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Bunk Bar, Portland, OR, USA'
+show-venue: "Bunk Bar, Portland, OR, USA"
+title: "1st June 2011 -  Damon & Naomi - Bunk Bar, Portland, OR, USA"
 show-setlist: 
 show-date: 2011-06-01
 category: 2011

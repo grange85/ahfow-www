@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: '9:30 Club, Washington DC, USA'
+show-venue: "9:30 Club, Washington DC, USA"
+title: "10th December 1999 -  Luna - 9:30 Club, Washington DC, USA"
 show-setlist: 
 show-date: 1999-12-10
 category: 1999

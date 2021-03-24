@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'La Luna, Portland OR, USA'
+show-venue: "La Luna, Portland OR, USA"
+title: "27th September 1997 -  Luna - La Luna, Portland OR, USA"
 show-setlist: 
 show-date: 1997-09-27
 category: 1997

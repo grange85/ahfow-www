@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'The Fillmore, San Francisco, CA, USA'
+show-venue: "The Fillmore, San Francisco, CA, USA"
+title: "26th January 2018 -  Luna - The Fillmore, San Francisco, CA, USA"
 show-notes: ''
 show-setlist: 
  - GTX3

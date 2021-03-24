@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Brown University, Providence RI, USA'
+show-venue: "Brown University, Providence RI, USA"
+title: "10th April 2003 -  Luna - Brown University, Providence RI, USA"
 show-setlist: [
   "Sideshow By The Seashore",
   "Weird And Woozy",

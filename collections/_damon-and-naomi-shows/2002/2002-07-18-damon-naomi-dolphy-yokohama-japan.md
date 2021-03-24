@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Dolphy, Yokohama, Japan'
+show-venue: "Dolphy, Yokohama, Japan"
+title: "18th July 2002 -  Damon & Naomi - Dolphy, Yokohama, Japan"
 show-setlist: [
   "Turn Of The Century",
   "Eye Of The Storm",

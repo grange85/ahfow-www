@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Sideways Through Sound, 2SER, Sydney, Australia'
+show-venue: "Sideways Through Sound, 2SER, Sydney, Australia"
+title: "16th September 2015 -  Luna - Sideways Through Sound, 2SER, Sydney, Australia"
 show-notes: ''
 show-setlist:
  - Bewitched

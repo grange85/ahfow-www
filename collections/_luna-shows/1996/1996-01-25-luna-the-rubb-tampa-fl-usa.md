@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'The Rubb, Tampa FL, USA'
+show-venue: "The Rubb, Tampa FL, USA"
+title: "25th January 1996 -  Luna - The Rubb, Tampa FL, USA"
 show-setlist: 
 show-date: 1996-01-25
 category: 1996

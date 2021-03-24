@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: galaxie-500
 show-venue: "Bunratty's, Boston, MA, USA"
+title: "1st March 1988 -  Galaxie 500 - Bunratty's, Boston, MA, USA"
 show-setlist:
 show-date: 1988-03-01
 date-uncertain:

@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: galaxie-500
 show-venue: "Chets Last Call, Boston, MA, USA"
+title: "13th November 1987 -  Galaxie 500 - Chets Last Call, Boston, MA, USA"
 show-setlist:
 show-date: 1987-11-13
 source: Dean Wareham

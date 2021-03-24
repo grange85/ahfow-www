@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Moroccan Lounge, Los Angeles, CA, USA'
+show-venue: "Moroccan Lounge, Los Angeles, CA, USA"
+title: "11th January 2018 -  Luna - Moroccan Lounge, Los Angeles, CA, USA"
 show-notes: ''
 show-setlist: 
  - Fire in Cairo

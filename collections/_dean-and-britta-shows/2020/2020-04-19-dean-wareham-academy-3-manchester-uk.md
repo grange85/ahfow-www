@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Manchester Academy 3, Manchester, UK'
+show-venue: "Manchester Academy 3, Manchester, UK"
+title: "19th April 2020 - Dean Wareham - Manchester Academy 3, Manchester, UK"
 address: |
   Manchester Academy 3, 
   Oxford Road, 

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Paradiso, Amsterdam, Netherlands'
+show-venue: "Paradiso, Amsterdam, Netherlands"
+title: "15th May 2005 -  Damon & Naomi - Paradiso, Amsterdam, Netherlands"
 show-setlist: 
 show-date: 2005-05-15
 category: 2005

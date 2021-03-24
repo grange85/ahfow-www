@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Respectable Street Cafe, West Palm Beach FL, USA'
+show-venue: "Respectable Street Cafe, West Palm Beach FL, USA"
+title: "28th January 2003 -  Luna - Respectable Street Cafe, West Palm Beach FL, USA"
 show-setlist: 
 show-date: 2003-01-28
 category: 2003

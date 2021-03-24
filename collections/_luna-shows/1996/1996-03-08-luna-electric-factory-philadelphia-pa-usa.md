@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Electric Factory, Philadelphia PA, USA'
+show-venue: "Electric Factory, Philadelphia PA, USA"
+title: "8th March 1996 -  Luna - Electric Factory, Philadelphia PA, USA"
 show-setlist: [
   "Moon Palace",
   "Chinatown",

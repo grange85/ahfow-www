@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Cleveland Museum of Art, Spencer OH, USA'
+show-venue: "Cleveland Museum of Art, Spencer OH, USA"
+title: "23rd March 2011 - Dean & Britta - Cleveland Museum of Art, Spencer OH, USA"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

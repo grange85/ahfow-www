@@ -3,10 +3,9 @@ layout: show
 position: database-5
 artistslug: dean-wareham
 artist:
-  name: Dean Wareham
-artist:
  name: Dean Wareham vs. Cheval Sombre
-show-venue: 'Zebulon, Los Angeles, CA, USA'
+show-venue: "Zebulon, Los Angeles, CA, USA"
+title: "25th January 2019 - Dean Wareham vs. Cheval Sombre - Zebulon, Los Angeles, CA, USA"
 show-notes: ''
 show-setlist:
  - ^Dean Wareham vs. Cheval Sombre

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Chop Suey, Seattle WA, USA'
+show-venue: "Chop Suey, Seattle WA, USA"
+title: "11th October 2007 -  Damon & Naomi - Chop Suey, Seattle WA, USA"
 show-setlist: 
 show-date: 2007-10-11
 category: 2007

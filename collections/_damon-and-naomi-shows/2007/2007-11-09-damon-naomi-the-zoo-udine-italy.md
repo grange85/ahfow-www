@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'The Zoo, Udine, Italy'
+show-venue: "The Zoo, Udine, Italy"
+title: "9th November 2007 -  Damon & Naomi - The Zoo, Udine, Italy"
 show-setlist: 
 show-date: 2007-11-09
 category: 2007

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Trocadero, Philadelphia PA, USA'
+show-venue: "Trocadero, Philadelphia PA, USA"
+title: "11th December 1999 -  Luna - Trocadero, Philadelphia PA, USA"
 show-setlist: [
   "Season of the Witch",
   "This Time Around",

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Other Music, New York NY, USA'
+show-venue: "Other Music, New York NY, USA"
+title: "6th October 2004 -  Damon & Naomi - Other Music, New York NY, USA"
 show-setlist: 
 show-date: 2004-10-06
 category: 2004

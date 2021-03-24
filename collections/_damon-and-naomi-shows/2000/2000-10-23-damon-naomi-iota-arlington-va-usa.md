@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'IOTA, Arlington VA, USA'
+show-venue: "IOTA, Arlington VA, USA"
+title: "23rd October 2000 -  Damon & Naomi - IOTA, Arlington VA, USA"
 show-setlist: 
 show-date: 2000-10-23
 category: 2000

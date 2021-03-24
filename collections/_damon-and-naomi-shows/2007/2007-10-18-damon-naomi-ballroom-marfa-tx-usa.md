@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Ballroom, Marfa TX, USA'
+show-venue: "Ballroom, Marfa TX, USA"
+title: "18th October 2007 -  Damon & Naomi - Ballroom, Marfa TX, USA"
 show-setlist: 
 show-date: 2007-10-18
 category: 2007

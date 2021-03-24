@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'CafÃ¨ Teatre Llantiol, Barcelona, Spain'
+show-venue: "CafÃ¨ Teatre Llantiol, Barcelona, Spain"
+title: "2nd November 2007 -  Damon & Naomi - CafÃ¨ Teatre Llantiol, Barcelona, Spain"
 show-setlist: 
 show-date: 2007-11-02
 category: 2007

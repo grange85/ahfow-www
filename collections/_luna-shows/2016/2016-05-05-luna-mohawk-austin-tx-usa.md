@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Mohawk, Austin, TX, USA'
+show-venue: "Mohawk, Austin, TX, USA"
+title: "5th May 2016 -  Luna - Mohawk, Austin, TX, USA"
 show-notes: ''
 show-setlist:
  - Egg Nog

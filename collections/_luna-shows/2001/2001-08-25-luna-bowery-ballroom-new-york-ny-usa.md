@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Bowery Ballroom, New York NY, USA'
+show-venue: "Bowery Ballroom, New York NY, USA"
+title: "25th August 2001 -  Luna - Bowery Ballroom, New York NY, USA"
 show-setlist: [
   "Weird And Woozy",
   "Bobby Peru",

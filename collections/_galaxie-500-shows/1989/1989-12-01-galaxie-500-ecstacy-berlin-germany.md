@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Ecstacy, Berlin, Germany'
+show-venue: "Ecstacy, Berlin, Germany"
+title: "1st December 1989 -  Galaxie 500 - Ecstacy, Berlin, Germany"
 show-setlist: 
 show-date: 1989-12-01
 category: 1989

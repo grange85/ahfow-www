@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'White Eagle Hall, Jersey City, NJ, USA'
+show-venue: "White Eagle Hall, Jersey City, NJ, USA"
+title: "26th June 2020 -  Luna - White Eagle Hall, Jersey City, NJ, USA"
 address: |
   White Eagle Hall, 
   337 Newark Ave, 

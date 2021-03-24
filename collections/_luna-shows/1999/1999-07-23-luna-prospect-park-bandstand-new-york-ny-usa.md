@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Prospect Park Bandstand, New York NY, USA'
+show-venue: "Prospect Park Bandstand, New York NY, USA"
+title: "23rd July 1999 -  Luna - Prospect Park Bandstand, New York NY, USA"
 show-setlist: [
   "Season of the Witch",
   "Superfreaky Memories",

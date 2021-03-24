@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Take 2, Sheffield, UK'
+show-venue: "Take 2, Sheffield, UK"
+title: "13th November 1989 -  Galaxie 500 - Take 2, Sheffield, UK"
 show-setlist: 
 show-date: 1989-11-13
 category: 1989

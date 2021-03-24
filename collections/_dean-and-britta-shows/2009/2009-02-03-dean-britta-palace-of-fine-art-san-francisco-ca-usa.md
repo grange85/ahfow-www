@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Palace of Fine Art, San Francisco, CA, USA'
+show-venue: "Palace of Fine Art, San Francisco, CA, USA"
+title: "3rd February 2009 - Dean & Britta - Palace of Fine Art, San Francisco, CA, USA"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

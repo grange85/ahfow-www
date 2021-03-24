@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'The Boom Boom Room, New York, NY, USA'
+show-venue: "The Boom Boom Room, New York, NY, USA"
+title: "28th June 2011 - Dean & Britta - The Boom Boom Room, New York, NY, USA"
 show-setlist: 
 show-date: 2011-06-28
 category: 2011

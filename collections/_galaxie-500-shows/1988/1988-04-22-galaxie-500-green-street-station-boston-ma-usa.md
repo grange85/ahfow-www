@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Green Street Station, Boston MA, USA'
+show-venue: "Green Street Station, Boston MA, USA"
+title: "22nd April 1988 -  Galaxie 500 - Green Street Station, Boston MA, USA"
 show-setlist:
 show-date: 1988-04-22
 source: Dean Wareham

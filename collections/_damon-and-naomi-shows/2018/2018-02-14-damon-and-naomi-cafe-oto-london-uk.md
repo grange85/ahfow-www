@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Cafe OTO, London, UK'
+show-venue: "Cafe OTO, London, UK"
+title: "14th February 2018 -  Damon & Naomi - Cafe OTO, London, UK"
 show-setlist:
 show-date: 2018-02-14
 date-added: 2017-11-27
@@ -29,12 +30,12 @@ videos:
     data: "[
       { 
         video: 'https://www.youtube.com/watch?v=_IDDlDVkiNM',
-        title: 'Damon & Naomi - Lilac Land - Cafe OTO, London, 14th February 2018',
+        title: 'Damon & Naomi -  Damon & Naomi - Lilac Land - Cafe OTO, London, 14th February 2018',
         description: 'by A Head Full of Wishes'
       },
       { 
         video: 'https://www.youtube.com/watch?v=vz5mJuS7uyE',
-        title: 'Damon & Naomi - Eye of the Storm - Cafe OTO, London, 14th February 2018',
+        title: 'Damon & Naomi -  Damon & Naomi - Eye of the Storm - Cafe OTO, London, 14th February 2018',
         description: 'by A Head Full of Wishes'
       }
     ]"

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'ICA, London, UK'
+show-venue: "ICA, London, UK"
+title: "26th September 1989 -  Galaxie 500 - ICA, London, UK"
 show-setlist: [
   "Flowers",
   "Blue Thunder",

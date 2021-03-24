@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: galaxie-500
 show-venue: "The Living Room, Providence, RI, USA"
+title: "2nd June 1989 -  Galaxie 500 - The Living Room, Providence, RI, USA"
 show-setlist:
 show-date: 1989-06-02
 source: 

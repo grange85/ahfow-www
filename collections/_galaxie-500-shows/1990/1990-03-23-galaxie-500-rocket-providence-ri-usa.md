@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Rocket, Providence RI, USA'
+show-venue: "Rocket, Providence RI, USA"
+title: "23rd March 1990 -  Galaxie 500 - Rocket, Providence RI, USA"
 show-setlist: [
   "Blue Thunder",
   "Decomposing Trees",

@@ -5,6 +5,7 @@ artistslug: dean-and-britta
 artist:
   name: Dean & Britta
 show-venue: "Eddie's Attic, Decatur GA, USA"
+title: "25th February 2008 - Dean & Britta - Eddie's Attic, Decatur GA, USA"
 show-setlist: 
 show-date: 2008-02-25
 category: 2008

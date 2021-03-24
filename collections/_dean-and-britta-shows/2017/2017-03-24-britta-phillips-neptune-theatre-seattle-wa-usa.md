@@ -4,7 +4,8 @@ position: database-5
 artistslug: britta-phillips
 artist:
   name: Britta Phillips
-show-venue: Neptune Theatre, Seattle, WA, USA
+show-venue: "Neptune Theatre, Seattle, WA, USA"
+title: "24th March 2017 - Britta Phillips - Neptune Theatre, Seattle, WA, USA"
 show-notes: 
 show-setlist: 
 show-date: 2017-03-24

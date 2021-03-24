@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Empty Bottle, Chicago IL, USA'
+show-venue: "Empty Bottle, Chicago IL, USA"
+title: "19th September 2002 -  Luna - Empty Bottle, Chicago IL, USA"
 show-setlist: 
 show-date: 2002-09-19
 category: 2002

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Dingwalls, London, UK'
+show-venue: "Dingwalls, London, UK"
+title: "25th October 1998 -  Damon & Naomi - Dingwalls, London, UK"
 show-setlist: 
 show-date: 1998-10-25
 category: 1998

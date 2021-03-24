@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'ICA, Boston, MA, USA'
+show-venue: "ICA, Boston, MA, USA"
+title: "11th July 2014 - Dean Wareham - ICA, Boston, MA, USA"
 show-setlist:
 show-date: 2014-07-11
 category: 2014

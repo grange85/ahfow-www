@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'KEXP, Seattle WA, USA'
+show-venue: "KEXP, Seattle WA, USA"
+title: "15th February 2008 - Dean & Britta - KEXP, Seattle WA, USA"
 show-setlist: [
   "Knives From Bavaria",
   "Words You Used To Say",

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Warfield Theater, San Francisco CA, USA'
+show-venue: "Warfield Theater, San Francisco CA, USA"
+title: "21st March 1991 -  Galaxie 500 - Warfield Theater, San Francisco CA, USA"
 show-setlist: [
   "Decomposing Trees",
   "When Will You Come Home",

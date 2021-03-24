@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Knitting Factory, New York NY, USA'
+show-venue: "Knitting Factory, New York NY, USA"
+title: "15th July 2000 -  Luna - Knitting Factory, New York NY, USA"
 show-setlist: 
 show-date: 2000-07-15
 category: 2000

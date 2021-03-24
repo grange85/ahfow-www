@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Richards on Richards, Vancouver, Canada"
+title: "3rd September 2002 -  Luna - Richards on Richards, Vancouver, Canada"
 show-setlist: 
 show-date: 2002-09-03
 category: 2002

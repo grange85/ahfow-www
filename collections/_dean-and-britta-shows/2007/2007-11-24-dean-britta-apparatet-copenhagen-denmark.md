@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Apparatet, Copenhagen, Denmark'
+show-venue: "Apparatet, Copenhagen, Denmark"
+title: "24th November 2007 - Dean & Britta - Apparatet, Copenhagen, Denmark"
 show-setlist: [
   "Night Nurse",
   "Since I Lay My Burden Down",

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'West Germany, Berlin, Germany'
+show-venue: "West Germany, Berlin, Germany"
+title: "6th November 2007 -  Damon & Naomi - West Germany, Berlin, Germany"
 show-setlist: 
 show-date: 2007-11-06
 category: 2007

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Teatro Lara, Madrid, Spain'
+show-venue: "Teatro Lara, Madrid, Spain"
+title: "21st April 2015 -  Luna - Teatro Lara, Madrid, Spain"
 show-setlist: [
   "Slide",
   "Malibu Love Nest",

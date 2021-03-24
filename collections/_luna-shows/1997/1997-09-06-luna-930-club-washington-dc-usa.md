@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: '9:30 Club, Washington DC, USA'
+show-venue: "9:30 Club, Washington DC, USA"
+title: "6th September 1997 -  Luna - 9:30 Club, Washington DC, USA"
 show-setlist: 
 show-date: 1997-09-06
 category: 1997

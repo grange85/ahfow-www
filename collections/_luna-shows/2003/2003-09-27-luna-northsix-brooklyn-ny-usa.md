@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Northsix, Brooklyn NY, USA'
+show-venue: "Northsix, Brooklyn NY, USA"
+title: "27th September 2003 -  Luna - Northsix, Brooklyn NY, USA"
 show-setlist: 
 show-date: 2003-09-27
 category: 2003

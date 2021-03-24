@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Park West, Chicago, IL, USA'
+show-venue: "Park West, Chicago, IL, USA"
+title: "2nd November 2017 -  Luna - Park West, Chicago, IL, USA"
 show-notes: ''
 show-setlist: 
  - GTX3

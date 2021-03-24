@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Logo, Hamburg, Germany'
+show-venue: "Logo, Hamburg, Germany"
+title: "27th October 1997 -  Luna - Logo, Hamburg, Germany"
 show-setlist: 
 show-date: 1997-10-27
 category: 1997

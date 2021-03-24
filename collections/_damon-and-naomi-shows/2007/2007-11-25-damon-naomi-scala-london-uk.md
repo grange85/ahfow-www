@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Scala, London, UK'
+show-venue: "Scala, London, UK"
+title: "25th November 2007 -  Damon & Naomi - Scala, London, UK"
 show-setlist: 
 show-date: 2007-11-25
 category: 2007

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Paradise, Boston MA, USA'
+show-venue: "Paradise, Boston MA, USA"
+title: "16th March 1990 -  Galaxie 500 - Paradise, Boston MA, USA"
 show-setlist: [
   "Decomposing Trees",
   "Here She Comes Now",

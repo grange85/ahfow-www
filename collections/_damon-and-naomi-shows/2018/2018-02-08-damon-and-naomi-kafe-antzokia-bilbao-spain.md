@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Kafe Antzokia, Bilbao, Spain'
+show-venue: "Kafe Antzokia, Bilbao, Spain"
+title: "8th February 2018 -  Damon & Naomi - Kafe Antzokia, Bilbao, Spain"
 show-setlist:
 show-date: 2018-02-08
 date-added: 2017-12-14

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Claustre de Sant Domingo, Pollença, Mallorca, Spain'
+show-venue: "Claustre de Sant Domingo, Pollença, Mallorca, Spain"
+title: "30th August 2018 -  Luna - Claustre de Sant Domingo, Pollença, Mallorca, Spain"
 show-notes: ''
 show-setlist:
  - Slide

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'The Teragram Ballroom, Los Angeles, CA, USA'
+show-venue: "The Teragram Ballroom, Los Angeles, CA, USA"
+title: "18th February 2017 -  Luna - The Teragram Ballroom, Los Angeles, CA, USA"
 show-notes: ''
 show-setlist: 
 show-date: 2017-02-18

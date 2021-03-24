@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: '191 Toole, Tuscon, AZ, USA'
+show-venue: "191 Toole, Tuscon, AZ, USA"
+title: "2nd April 2019 -  Luna - 191 Toole, Tuscon, AZ, USA"
 show-notes: ''
 show-setlist: 
 show-date: 2019-04-02

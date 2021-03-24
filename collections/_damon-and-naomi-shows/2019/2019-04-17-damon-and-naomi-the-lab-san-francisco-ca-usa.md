@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'The Lab, San Francisco, CA, USA'
+show-venue: "The Lab, San Francisco, CA, USA"
+title: "17th April 2019 -  Damon & Naomi - The Lab, San Francisco, CA, USA"
 show-setlist:
 show-date: 2019-04-17
 date-added: 2019-03-14

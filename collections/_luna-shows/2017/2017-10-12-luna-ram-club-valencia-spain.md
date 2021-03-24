@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Ram Club, Valencia, Spain'
+show-venue: "Ram Club, Valencia, Spain"
+title: "12th October 2017 -  Luna - Ram Club, Valencia, Spain"
 show-notes: ''
 show-setlist:
  - GTX3

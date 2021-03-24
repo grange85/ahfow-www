@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Academy 3, Manchester, UK'
+show-venue: "Academy 3, Manchester, UK"
+title: "5th October 2016 -  Luna - Academy 3, Manchester, UK"
 show-notes: ''
 show-setlist:
  - ^Penthouse

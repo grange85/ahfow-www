@@ -4,8 +4,7 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: >
-  More new Luna vinyl coming soon - two 7" singles on Feral Child Records
+title: 'More new Luna vinyl coming soon - two 7" singles on Feral Child Records'
 author:
   display_name: Andy
   login: admin

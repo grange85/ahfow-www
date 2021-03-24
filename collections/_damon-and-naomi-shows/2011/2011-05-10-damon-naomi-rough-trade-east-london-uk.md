@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Rough Trade East, London, UK'
+show-venue: "Rough Trade East, London, UK"
+title: "10th May 2011 -  Damon & Naomi - Rough Trade East, London, UK"
 show-setlist: 
 show-date: 2011-05-10
 category: 2011

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Highdive, Champaign IL, USA'
+show-venue: "Highdive, Champaign IL, USA"
+title: "28th May 2002 -  Luna - Highdive, Champaign IL, USA"
 show-setlist: [
   "Weird And Woozy",
   "Lovedust",

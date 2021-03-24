@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Kilowatt, San Francisco, CA, USA'
+show-venue: "Kilowatt, San Francisco, CA, USA"
+title: "5th July 1997 -  Damon & Naomi - Kilowatt, San Francisco, CA, USA"
 show-setlist: 
 show-date: 1997-07-05
 category: 1997

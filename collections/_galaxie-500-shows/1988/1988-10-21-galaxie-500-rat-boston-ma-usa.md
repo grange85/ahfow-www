@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Rat, Boston MA, USA'
+show-venue: "Rat, Boston MA, USA"
+title: "21st October 1988 -  Galaxie 500 - Rat, Boston MA, USA"
 show-setlist: 
 show-date: 1988-10-21
 category: 1988

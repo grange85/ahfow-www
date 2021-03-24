@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Boot and Saddle, Philadelphia, PA, USA'
+show-venue: "Boot and Saddle, Philadelphia, PA, USA"
+title: "6th April 2014 - Dean Wareham - Boot and Saddle, Philadelphia, PA, USA"
 show-setlist: 
 show-date: 2014-04-06
 category: 2014

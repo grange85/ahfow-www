@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Vassar College, Poughkeepsie, NY, USA'
+show-venue: "Vassar College, Poughkeepsie, NY, USA"
+title: "1st March 1997 -  Luna - Vassar College, Poughkeepsie, NY, USA"
 show-setlist:
  - Pup Tent
  - Sideshow by the Seashore

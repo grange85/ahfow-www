@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Las Armas, Zaragoza, Spain'
+show-venue: "Las Armas, Zaragoza, Spain"
+title: "10th October 2017 -  Luna - Las Armas, Zaragoza, Spain"
 show-notes: ''
 show-setlist: 
  - Slide

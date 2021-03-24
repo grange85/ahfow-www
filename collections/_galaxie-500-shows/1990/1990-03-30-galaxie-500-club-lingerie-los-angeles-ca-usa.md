@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Club Lingerie, Los Angeles CA, USA'
+show-venue: "Club Lingerie, Los Angeles CA, USA"
+title: "30th March 1990 -  Galaxie 500 - Club Lingerie, Los Angeles CA, USA"
 show-setlist: 
 show-date: 1990-03-30
 category: 1990

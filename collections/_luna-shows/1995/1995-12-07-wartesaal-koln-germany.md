@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Wartesaal, Koln, Germany'
+show-venue: "Wartesaal, Koln, Germany"
+title: "7th December 1995 -  Luna - Wartesaal, Koln, Germany"
 show-notes: 'supporting Edwyn Collins'
 show-setlist: 
 show-date: 1995-12-07

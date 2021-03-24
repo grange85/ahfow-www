@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'XOYO, London, UK'
+show-venue: "XOYO, London, UK"
+title: "24th April 2011 - Dean & Britta - XOYO, London, UK"
 show-setlist: 
 show-date: 2011-04-24
 category: 2011

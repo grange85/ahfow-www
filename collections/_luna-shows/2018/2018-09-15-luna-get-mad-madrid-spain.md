@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Get Mad!, Madrid, Spain'
+show-venue: "Get Mad!, Madrid, Spain"
+title: "15th September 2018 -  Luna - Get Mad!, Madrid, Spain"
 show-notes: ''
 show-setlist:
  - Malibu Love Nest

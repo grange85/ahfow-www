@@ -1,0 +1,33 @@
+---
+---
+	{% assign artist = site.data.artists[page.artistslug] %}
+	{% assign day = page.show-date|date: "%-d"  %}
+  	{% if page.date-uncertain.day %}{% assign day = "" %}{% endif %}
+	{% capture ordinaldate %}{% case day %}{% when '' %}{{ day }}{% when '1' or '21' or '31' %}{{ day }}st{% when '2' or '22' %}{{ day }}nd{% when '3' or '23' %}{{ day }}rd{% else %}{{ day }}th{% endcase %} {{page.show-date|date: "%B %Y"}}{% endcapture %}
+	{% capture page_title %}{{ ordinaldate}} - {{artist.name}} - {{ page.show-venue }}{% endcapture %}
+	{% assign title = page_title %}
+
+<!DOCTYPE html>
+<html lang="en">
+	{% include head.html %}
+<body>
+	<div class="container">
+		{% include header.html %}
+
+		<div class="row no-gutters">
+
+		    <div class="col-md-8 col-xl-9">
+				<article class="post-content mr-md-2">
+					{{ content }}
+				</article>
+			</div>
+
+		    <div class="col-md-4 col-xl-3">
+				{% include sidebar.html %}
+			</div>
+
+		</div>
+		{% include footer.html %}
+	</div>
+</body>
+</html>

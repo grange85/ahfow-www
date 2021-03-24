@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Showbox, Seattle WA, USA'
+show-venue: "Showbox, Seattle WA, USA"
+title: "4th June 2002 -  Luna - Showbox, Seattle WA, USA"
 show-setlist: [
   "Weird And Woozy",
   "Black Postcards",

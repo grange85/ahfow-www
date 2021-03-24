@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'The Sinclair, Cambridge, MA, USA'
+show-venue: "The Sinclair, Cambridge, MA, USA"
+title: "30th June 2013 -  Damon & Naomi - The Sinclair, Cambridge, MA, USA"
 show-setlist: 
 show-date: 2013-06-30
 category: 2013

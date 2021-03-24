@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: '(unknown), Unterschwarzbach, Germany'
+show-venue: "(unknown), Unterschwarzbach, Germany"
+title: "25th November 1989 -  Galaxie 500 - (unknown), Unterschwarzbach, Germany"
 show-setlist: 
 show-date: 1989-11-25
 category: 1989

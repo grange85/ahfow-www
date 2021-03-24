@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'KB, Malmo, Sweden'
+show-venue: "KB, Malmo, Sweden"
+title: "24th October 1997 -  Luna - KB, Malmo, Sweden"
 show-setlist: 
 show-date: 1997-10-24
 category: 1997

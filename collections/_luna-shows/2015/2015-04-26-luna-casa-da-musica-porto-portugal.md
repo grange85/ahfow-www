@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Casa Da Musica, Porto, Portugal'
+show-venue: "Casa Da Musica, Porto, Portugal"
+title: "26th April 2015 -  Luna - Casa Da Musica, Porto, Portugal"
 show-setlist: [
     "Chinatown",
     "Sideshow by the Seashore",

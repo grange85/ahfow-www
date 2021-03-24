@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Granada Theater, Dallas, TX, USA'
+show-venue: "Granada Theater, Dallas, TX, USA"
+title: "7th April 2018 -  Luna - Granada Theater, Dallas, TX, USA"
 show-notes: ''
 show-setlist: 
 show-date: 2018-04-07

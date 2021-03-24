@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Lupos, Providence RI, USA"
+title: "12th January 1996 -  Luna - Lupos, Providence RI, USA"
 show-setlist: 
 show-date: 1996-01-12
 category: 1996

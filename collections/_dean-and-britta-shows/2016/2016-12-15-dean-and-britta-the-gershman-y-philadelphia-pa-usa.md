@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'The Gershman Y, Philadeplhia, PA, USA'
+show-venue: "The Gershman Y, Philadeplhia, PA, USA"
+title: "15th December 2016 - Dean & Britta - The Gershman Y, Philadeplhia, PA, USA"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

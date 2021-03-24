@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: galaxie-500
 show-venue: "Green St Station, Jamaica Plain, MA, USA"
+title: "22nd September 1988 -  Galaxie 500 - Green St Station, Jamaica Plain, MA, USA"
 address: |
   131 Green Street, 
   Jamaica Plain, 

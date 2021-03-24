@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Sala Joy Eslava, Madrid, Spain'
+show-venue: "Sala Joy Eslava, Madrid, Spain"
+title: "9th October 2017 -  Luna - Sala Joy Eslava, Madrid, Spain"
 show-notes: ''
 show-setlist:
  - Fuzzy Wuzzy

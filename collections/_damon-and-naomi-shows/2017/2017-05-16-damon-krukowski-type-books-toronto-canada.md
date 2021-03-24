@@ -5,6 +5,7 @@ artistslug: damon-and-naomi
 artist:
  name: Damon Krukowski
 show-venue: "Type Books, Toronto, Canada"
+title: "16th May 2017 -  Damon & Naomi - Type Books, Toronto, Canada"
 show-setlist:
 show-date: 2017-05-16
 date-added: 2017-03-30

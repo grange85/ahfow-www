@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Music Hall Of Williamsburg, Brooklyn, NY, USA'
+show-venue: "Music Hall Of Williamsburg, Brooklyn, NY, USA"
+title: "9th October 2015 -  Luna - Music Hall Of Williamsburg, Brooklyn, NY, USA"
 show-setlist:
  - California (All The Way)
  - Pup Tent

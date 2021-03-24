@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Cité de la musique, Philharmonie 2, Paris, France'
+show-venue: "Cité de la musique, Philharmonie 2, Paris, France"
+title: "21st May 2016 - Dean Wareham - Cité de la musique, Philharmonie 2, Paris, France"
 show-setlist: 
  - "^John Washing (1963) - Tom Verlaine"
  - "^Jill (1963) - Tom Verlaine"

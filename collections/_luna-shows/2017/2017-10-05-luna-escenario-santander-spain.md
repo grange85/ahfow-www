@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Escenario, Santander, Spain'
+show-venue: "Escenario, Santander, Spain"
+title: "5th October 2017 -  Luna - Escenario, Santander, Spain"
 show-notes: ''
 show-setlist:
  - Bewitched

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Knitting Factory, New York NY, USA'
+show-venue: "Knitting Factory, New York NY, USA"
+title: "10th April 1998 -  Damon & Naomi - Knitting Factory, New York NY, USA"
 show-setlist: 
 show-date: 1998-04-10
 category: 1998

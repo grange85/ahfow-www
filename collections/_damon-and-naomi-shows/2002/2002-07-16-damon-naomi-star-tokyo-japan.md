@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Star, Tokyo, Japan'
+show-venue: "Star, Tokyo, Japan"
+title: "16th July 2002 -  Damon & Naomi - Star, Tokyo, Japan"
 show-setlist: [
   "Judah and the Maccabees",
   "Eye Of The Storm",

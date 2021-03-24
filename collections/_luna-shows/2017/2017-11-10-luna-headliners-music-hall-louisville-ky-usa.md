@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Headliners Music Hall, Louisville, KY, USA'
+show-venue: "Headliners Music Hall, Louisville, KY, USA"
+title: "10th November 2017 -  Luna - Headliners Music Hall, Louisville, KY, USA"
 show-notes: ''
 show-setlist: 
 - Chinatown

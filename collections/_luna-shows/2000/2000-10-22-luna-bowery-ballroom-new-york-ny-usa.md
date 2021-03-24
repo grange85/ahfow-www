@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Bowery Ballroom, New York NY, USA'
+show-venue: "Bowery Ballroom, New York NY, USA"
+title: "22nd October 2000 -  Luna - Bowery Ballroom, New York NY, USA"
 show-setlist: 
 show-date: 2000-10-22
 category: 2000

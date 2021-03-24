@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'State Theater, Cleveland OH, USA'
+show-venue: "State Theater, Cleveland OH, USA"
+title: "27th March 1996 -  Luna - State Theater, Cleveland OH, USA"
 show-setlist: [
   "California (All The Way)",
   "Chinatown",

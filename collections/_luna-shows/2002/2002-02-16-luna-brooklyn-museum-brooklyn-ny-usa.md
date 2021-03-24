@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Brooklyn Museum, Brooklyn NY, USA'
+show-venue: "Brooklyn Museum, Brooklyn NY, USA"
+title: "16th February 2002 -  Luna - Brooklyn Museum, Brooklyn NY, USA"
 show-setlist: [
   "Egg Nog",
   "Lovedust",

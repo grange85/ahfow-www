@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Echo Lounge, Atlanta GA, USA'
+show-venue: "Echo Lounge, Atlanta GA, USA"
+title: "20th November 2004 -  Luna - Echo Lounge, Atlanta GA, USA"
 show-setlist: [
   "1995",
   "Malibu Love Nest",

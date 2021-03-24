@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Black Cat, Washington DC, USA'
+show-venue: "Black Cat, Washington DC, USA"
+title: "15th August 2003 -  Luna - Black Cat, Washington DC, USA"
 show-setlist: [
   "Chinatown",
   "Malibu Love Nest",

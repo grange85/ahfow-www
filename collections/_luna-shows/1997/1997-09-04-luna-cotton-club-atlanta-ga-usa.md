@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Cotton Club, Atlanta GA, USA'
+show-venue: "Cotton Club, Atlanta GA, USA"
+title: "4th September 1997 -  Luna - Cotton Club, Atlanta GA, USA"
 show-setlist: 
 show-date: 1997-09-04
 category: 1997

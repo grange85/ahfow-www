@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'BBC Radio One, London, UK'
+show-venue: "BBC Radio One, London, UK"
+title: "24th September 1989 -  Galaxie 500 - BBC Radio One, London, UK"
 show-setlist: [
   "Flowers",
   "Blue Thunder",

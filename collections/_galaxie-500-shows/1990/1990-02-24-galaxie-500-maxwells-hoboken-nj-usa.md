@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Maxwells, Hoboken NJ, USA'
+show-venue: "Maxwells, Hoboken NJ, USA"
+title: "24th February 1990 -  Galaxie 500 - Maxwells, Hoboken NJ, USA"
 show-setlist: [
   "Decomposing Trees",
   "Snowstorm",

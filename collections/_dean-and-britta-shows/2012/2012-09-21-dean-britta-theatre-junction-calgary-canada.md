@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Theatre Junction, Calgary, Canada'
+show-venue: "Theatre Junction, Calgary, Canada"
+title: "21st September 2012 - Dean & Britta - Theatre Junction, Calgary, Canada"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

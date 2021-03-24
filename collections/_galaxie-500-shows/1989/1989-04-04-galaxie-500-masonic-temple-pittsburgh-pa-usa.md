@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Masonic Temple, Pittsburgh, PA, USA'
+show-venue: "Masonic Temple, Pittsburgh, PA, USA"
+title: "4th April 1989 -  Galaxie 500 - Masonic Temple, Pittsburgh, PA, USA"
 show-setlist:
 show-date: 1989-04-04
 source: Dean Wareham

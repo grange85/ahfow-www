@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Occupy Wall Street, Duarte Square, New York, NY, USA'
+show-venue: "Occupy Wall Street, Duarte Square, New York, NY, USA"
+title: "17th December 2011 - Dean & Britta - Occupy Wall Street, Duarte Square, New York, NY, USA"
 show-setlist: [
   "Tugboat",
   "Strange",

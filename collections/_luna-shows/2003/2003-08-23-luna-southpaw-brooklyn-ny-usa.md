@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Southpaw, Brooklyn NY, USA'
+show-venue: "Southpaw, Brooklyn NY, USA"
+title: "23rd August 2003 -  Luna - Southpaw, Brooklyn NY, USA"
 show-setlist: [
   "Malibu Love Nest",
   "Slide",

@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Route Du Rock, St Malo, France'
+show-venue: "Route Du Rock, St Malo, France"
+title: "18th February 2011 - Dean & Britta - Route Du Rock, St Malo, France"
 show-setlist: 
 show-date: 2011-02-18
 category: 2011

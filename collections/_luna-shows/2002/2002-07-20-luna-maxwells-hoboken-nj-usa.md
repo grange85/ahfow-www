@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Maxwells, Hoboken NJ, USA'
+show-venue: "Maxwells, Hoboken NJ, USA"
+title: "20th July 2002 -  Luna - Maxwells, Hoboken NJ, USA"
 show-setlist: [
   "1995",
   "Weird And Woozy",

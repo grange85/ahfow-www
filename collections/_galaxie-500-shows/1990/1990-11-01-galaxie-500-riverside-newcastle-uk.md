@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Riverside, Newcastle, UK'
+show-venue: "Riverside, Newcastle, UK"
+title: "1st November 1990 -  Galaxie 500 - Riverside, Newcastle, UK"
 show-setlist: 
 show-date: 1990-11-01
 category: 1990

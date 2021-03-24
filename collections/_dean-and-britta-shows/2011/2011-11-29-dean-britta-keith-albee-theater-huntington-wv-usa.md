@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Keith Albee Theater, Huntington, WV, USA'
+show-venue: "Keith Albee Theater, Huntington, WV, USA"
+title: "29th November 2011 - Dean & Britta - Keith Albee Theater, Huntington, WV, USA"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

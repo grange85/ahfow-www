@@ -4,7 +4,8 @@ position: database-5
 artistslug: damon-and-naomi
 artist:
  name: Damon Krukowski
-show-venue: 'MW19, Sheraton, Boston, MA, USA'
+show-venue: "MW19, Sheraton, Boston, MA, USA"
+title: "5th April 2019 -  Damon & Naomi - MW19, Sheraton, Boston, MA, USA"
 show-setlist:
 show-date: 2019-04-05
 date-added: 2019-03-14

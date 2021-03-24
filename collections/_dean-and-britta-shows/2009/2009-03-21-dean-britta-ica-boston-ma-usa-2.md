@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'ICA, Boston, MA, USA'
+show-venue: "ICA, Boston, MA, USA"
+title: "21st March 2009 - Dean & Britta - ICA, Boston, MA, USA"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

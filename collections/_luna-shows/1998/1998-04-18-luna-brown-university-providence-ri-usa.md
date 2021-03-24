@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Brown University, Providence RI, USA'
+show-venue: "Brown University, Providence RI, USA"
+title: "18th April 1998 -  Luna - Brown University, Providence RI, USA"
 show-setlist: 
 show-date: 1998-04-18
 category: 1998

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Amherst College, Amherst MA, USA'
+show-venue: "Amherst College, Amherst MA, USA"
+title: "24th March 2000 -  Luna - Amherst College, Amherst MA, USA"
 show-setlist: 
 show-date: 2000-03-24
 category: 2000

@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'National Gallery of Art, Washington DC, USA'
+show-venue: "National Gallery of Art, Washington DC, USA"
+title: "12th November 2011 - Dean & Britta - National Gallery of Art, Washington DC, USA"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Insomni, Girona, Spain'
+show-venue: "Insomni, Girona, Spain"
+title: "2nd May 2015 -  Luna - Insomni, Girona, Spain"
 show-setlist: [
   "Slide",
   "Malibu Love Nest",

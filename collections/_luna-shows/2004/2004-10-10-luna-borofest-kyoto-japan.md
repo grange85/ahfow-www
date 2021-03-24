@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Borofest, Kyoto, Japan'
+show-venue: "Borofest, Kyoto, Japan"
+title: "10th October 2004 -  Luna - Borofest, Kyoto, Japan"
 show-setlist: [
   "Malibu Love Nest",
   "Sideshow By The Seashore",

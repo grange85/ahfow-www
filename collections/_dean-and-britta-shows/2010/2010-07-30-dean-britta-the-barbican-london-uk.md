@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'The Barbican, London, UK'
+show-venue: "The Barbican, London, UK"
+title: "30th July 2010 - Dean & Britta - The Barbican, London, UK"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

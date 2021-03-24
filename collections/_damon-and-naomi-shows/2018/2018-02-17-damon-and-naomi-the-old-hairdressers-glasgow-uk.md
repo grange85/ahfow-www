@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: damon-and-naomi
 show-venue: "The Old Hairdressers, Glasgow, UK"
+title: "17th February 2018 -  Damon & Naomi - The Old Hairdressers, Glasgow, UK"
 show-setlist:
 show-date: 2018-02-17
 date-added: 2017-12-12

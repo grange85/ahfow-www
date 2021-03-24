@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Sapphire Supper Club.  Orlando, FL, USA'
+show-venue: "Sapphire Supper Club.  Orlando, FL, USA"
+title: "29th July 1998 -  Damon & Naomi - Sapphire Supper Club.  Orlando, FL, USA"
 show-setlist: 
 show-date: 1998-07-29
 category: 1998

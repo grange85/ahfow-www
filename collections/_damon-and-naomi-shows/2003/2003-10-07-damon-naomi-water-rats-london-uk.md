@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Water Rats, London, UK'
+show-venue: "Water Rats, London, UK"
+title: "7th October 2003 -  Damon & Naomi - Water Rats, London, UK"
 show-setlist: 
 show-date: 2003-10-07
 category: 2003

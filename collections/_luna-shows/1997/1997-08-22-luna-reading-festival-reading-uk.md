@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Reading Festival, Reading, UK'
+show-venue: "Reading Festival, Reading, UK"
+title: "22nd August 1997 -  Luna - Reading Festival, Reading, UK"
 show-setlist: 
 show-date: 1997-08-22
 category: 1997

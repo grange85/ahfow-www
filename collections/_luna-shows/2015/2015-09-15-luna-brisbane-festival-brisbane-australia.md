@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Brisbane Festival, Brisbane, Australia'
+show-venue: "Brisbane Festival, Brisbane, Australia"
+title: "15th September 2015 -  Luna - Brisbane Festival, Brisbane, Australia"
 show-notes: ''
 show-setlist:
  - Slide

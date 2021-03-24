@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Big Ears Festival, Knoxville, TN, USA'
+show-venue: "Big Ears Festival, Knoxville, TN, USA"
+title: "28th March 2014 - Dean Wareham - Big Ears Festival, Knoxville, TN, USA"
 show-setlist: 
 show-date: 2014-03-28
 category: 2014

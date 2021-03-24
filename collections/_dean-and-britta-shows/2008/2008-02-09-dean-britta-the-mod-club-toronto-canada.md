@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'The Mod Club, Toronto, Canada'
+show-venue: "The Mod Club, Toronto, Canada"
+title: "9th February 2008 - Dean & Britta - The Mod Club, Toronto, Canada"
 setlist-source: 'http://flickr.com/photos/quadb/2254428124/'
 show-setlist: [
   "Snowstorm",

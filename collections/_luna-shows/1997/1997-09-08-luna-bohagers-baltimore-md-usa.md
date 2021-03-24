@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Bohagers, Baltimore MD, USA"
+title: "8th September 1997 -  Luna - Bohagers, Baltimore MD, USA"
 show-setlist: [
   "Sideshow By The Seashore",
   "Beautiful View",

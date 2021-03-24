@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: ' Tsuruga International Culture Festival, Tsuruga Fukui, Japan'
+show-venue: " Tsuruga International Culture Festival, Tsuruga Fukui, Japan"
+title: "10th November 2019 -  Damon & Naomi -  Tsuruga International Culture Festival, Tsuruga Fukui, Japan"
 show-setlist:
 show-date: 2019-11-10
 date-added: 2019-08-29

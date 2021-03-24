@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'The Middle East, Cambridge, MA, USA'
+show-venue: "The Middle East, Cambridge, MA, USA"
+title: "19th March 1988 -  Galaxie 500 - The Middle East, Cambridge, MA, USA"
 show-setlist: [
   "Oblivious",
   "I Can't Believe It's Me",

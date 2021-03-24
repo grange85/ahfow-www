@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: '(unknown), Tokyo, Japan'
+show-venue: "(unknown), Tokyo, Japan"
+title: "28th April 1998 -  Luna - (unknown), Tokyo, Japan"
 show-setlist: 
 show-date: 1998-04-28
 category: 1998

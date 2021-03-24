@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Cats Cradle, Carrboro NC, USA"
+title: "2nd February 2003 -  Luna - Cats Cradle, Carrboro NC, USA"
 show-setlist: [
   "1995",
   "California (All The Way)",

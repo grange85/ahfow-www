@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Knitting Factory, New York NY, USA'
+show-venue: "Knitting Factory, New York NY, USA"
+title: "31st December 2001 -  Luna - Knitting Factory, New York NY, USA"
 show-setlist: [
   "1995",
   "Chinatown",

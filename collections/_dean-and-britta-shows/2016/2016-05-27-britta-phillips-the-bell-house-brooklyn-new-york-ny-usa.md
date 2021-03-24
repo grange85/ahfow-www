@@ -4,7 +4,8 @@ position: database-5
 artistslug: britta-phillips
 artist:
   name: Britta Phillips
-show-venue: 'The Bell House, Brooklyn, New York, NY, USA'
+show-venue: "The Bell House, Brooklyn, New York, NY, USA"
+title: "27th May 2016 - Britta Phillips - The Bell House, Brooklyn, New York, NY, USA"
 show-notes: ''
 show-setlist: 
  - One Fine Summer Morning

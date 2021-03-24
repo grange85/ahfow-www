@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Fillmore, San Francisco CA, USA'
+show-venue: "Fillmore, San Francisco CA, USA"
+title: "2nd April 2000 -  Luna - Fillmore, San Francisco CA, USA"
 show-setlist: 
 show-date: 2000-04-02
 category: 2000

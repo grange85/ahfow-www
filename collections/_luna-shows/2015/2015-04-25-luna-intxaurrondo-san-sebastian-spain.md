@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Intxaurrondo, San Sebastián, Spain'
+show-venue: "Intxaurrondo, San Sebastián, Spain"
+title: "25th April 2015 -  Luna - Intxaurrondo, San Sebastián, Spain"
 show-setlist: [
   "Slide",
   "Malibu Love Nest",

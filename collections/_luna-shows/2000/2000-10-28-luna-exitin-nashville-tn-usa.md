@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Exit/In, Nashville TN, USA'
+show-venue: "Exit/In, Nashville TN, USA"
+title: "28th October 2000 -  Luna - Exit/In, Nashville TN, USA"
 show-setlist: [
   "Lovedust",
   "Bewitched",

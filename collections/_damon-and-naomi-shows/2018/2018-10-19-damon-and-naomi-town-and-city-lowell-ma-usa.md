@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'The Town and The City Festival, Lowell, MA, USA'
+show-venue: "The Town and The City Festival, Lowell, MA, USA"
+title: "19th October 2018 -  Damon & Naomi - The Town and The City Festival, Lowell, MA, USA"
 show-setlist:
 show-date: 2018-10-19
 date-added: 2018-08-22

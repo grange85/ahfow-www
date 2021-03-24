@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Fingerprints Music, Long Beach, CA, USA'
+show-venue: "Fingerprints Music, Long Beach, CA, USA"
+title: "25th October 2018 - Dean Wareham - Fingerprints Music, Long Beach, CA, USA"
 show-notes: ''
 show-setlist:
 show-date: 2018-10-25

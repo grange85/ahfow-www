@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Grüner Salon, Berlin, Germany'
+show-venue: "Grüner Salon, Berlin, Germany"
+title: "22nd April 2016 -  Damon & Naomi - Grüner Salon, Berlin, Germany"
 show-setlist:
  - The Seeker
  - Amnesia

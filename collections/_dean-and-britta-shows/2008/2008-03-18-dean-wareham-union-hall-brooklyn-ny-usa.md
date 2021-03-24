@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Union Hall, Brooklyn NY, USA'
+show-venue: "Union Hall, Brooklyn NY, USA"
+title: "18th March 2008 - Dean Wareham - Union Hall, Brooklyn NY, USA"
 setlist-source: 'https://www.fullofwishes.co.uk/2008/03/18/dean-wareham-on-wnyc-this-afternoon-and-in-brooklyn-this-evening/#comment-572'
 show-setlist: [
   "Tugboat",

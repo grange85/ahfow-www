@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'The Grind, Clark University, Worcester, MA, USA'
+show-venue: "The Grind, Clark University, Worcester, MA, USA"
+title: "20th March 2009 - Dean & Britta - The Grind, Clark University, Worcester, MA, USA"
 setlist-source: 'recording and scanned setlist'
 show-setlist: [
   "The Enabler",

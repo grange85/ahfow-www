@@ -3,10 +3,9 @@ layout: show
 position: database-5
 artistslug: dean-wareham
 artist:
-  name: Dean Wareham
-artist:
  name: Dean Wareham vs. Cheval Sombre
-show-venue: 'The Chapel, San Francisco, CA, USA'
+show-venue: "The Chapel, San Francisco, CA, USA"
+title: "26th January 2019 - Dean Wareham vs. Cheval Sombre - The Chapel, San Francisco, CA, USA"
 show-notes: ''
 show-setlist:
  - ^Dean Wareham vs. Cheval Sombre

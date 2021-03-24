@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Roxy, Los Angeles CA, USA'
+show-venue: "Roxy, Los Angeles CA, USA"
+title: "19th October 1995 -  Luna - Roxy, Los Angeles CA, USA"
 show-setlist: 
 show-date: 1995-10-19
 category: 1995

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Fletchers, Baltimore MD, USA'
+show-venue: "Fletchers, Baltimore MD, USA"
+title: "24th January 2003 -  Luna - Fletchers, Baltimore MD, USA"
 show-setlist: [
   "Weird And Woozy",
   "Math Wiz",

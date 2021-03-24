@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'La Cambra Valencia, Spain'
+show-venue: "La Cambra Valencia, Spain"
+title: "22nd April 2015 -  Luna - La Cambra Valencia, Spain"
 show-setlist: [
   "Slide",
   "Sideshow by the Seashore",

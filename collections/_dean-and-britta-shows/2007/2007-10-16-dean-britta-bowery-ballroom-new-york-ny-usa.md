@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Bowery Ballroom, New York NY, USA'
+show-venue: "Bowery Ballroom, New York NY, USA"
+title: "16th October 2007 - Dean & Britta - Bowery Ballroom, New York NY, USA"
 show-setlist: [
   "Singer Sing",
   "Words You Used To Say",

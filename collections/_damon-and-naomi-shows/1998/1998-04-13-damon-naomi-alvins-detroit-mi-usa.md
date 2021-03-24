@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Alvins, Detroit MI, USA'
+show-venue: "Alvins, Detroit MI, USA"
+title: "13th April 1998 -  Damon & Naomi - Alvins, Detroit MI, USA"
 show-setlist: 
 show-date: 1998-04-13
 category: 1998

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Maxwells, Hoboken NJ, USA'
+show-venue: "Maxwells, Hoboken NJ, USA"
+title: "28th December 1996 -  Luna - Maxwells, Hoboken NJ, USA"
 show-setlist: [
   "Fuzzy Wuzzy",
   "California (All The Way)",

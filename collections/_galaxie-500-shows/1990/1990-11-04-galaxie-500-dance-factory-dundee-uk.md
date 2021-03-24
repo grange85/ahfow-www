@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Dance Factory, Dundee, UK'
+show-venue: "Dance Factory, Dundee, UK"
+title: "4th November 1990 -  Galaxie 500 - Dance Factory, Dundee, UK"
 show-setlist: 
 show-date: 1990-11-04
 category: 1990

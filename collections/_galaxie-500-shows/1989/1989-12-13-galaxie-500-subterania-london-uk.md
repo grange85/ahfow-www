@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Subterania, London, UK'
+show-venue: "Subterania, London, UK"
+title: "13th December 1989 -  Galaxie 500 - Subterania, London, UK"
 show-setlist: 
  - Decomposing Trees
  - Snowstorm
@@ -37,7 +38,7 @@ videos:
    data: "[
    {
     video: 'https://www.youtube.com/watch?v=oZosyvu95mk',
-    title: 'Galaxie 500 - Snowstorm',
+    title: 'Galaxie 500 -  Galaxie 500 - Snowstorm',
     description: 'SNUB TV'
    }]"
 show-download:

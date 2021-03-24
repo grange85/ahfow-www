@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Irving Plaza, New York NY, USA'
+show-venue: "Irving Plaza, New York NY, USA"
+title: "7th June 1996 -  Luna - Irving Plaza, New York NY, USA"
 show-setlist: [
   "Slide",
   "Tracy I Love You",

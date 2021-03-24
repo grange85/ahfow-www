@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Maxwells, Hoboken NJ, USA'
+show-venue: "Maxwells, Hoboken NJ, USA"
+title: "27th July 1999 -  Luna - Maxwells, Hoboken NJ, USA"
 show-setlist: [
   "Lost In Space",
   "Dear Diary",

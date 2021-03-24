@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'YMCA Theatre, Cambridge, MA, USA'
+show-venue: "YMCA Theatre, Cambridge, MA, USA"
+title: "18th September 2009 -  Damon & Naomi - YMCA Theatre, Cambridge, MA, USA"
 show-setlist: 
 show-date: 2009-09-18
 category: 2009

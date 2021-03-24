@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Cats Cradle, Carrboro NC, USA"
+title: "20th January 1996 -  Luna - Cats Cradle, Carrboro NC, USA"
 show-setlist: [
   "Double Feature",
   "This Time Around",

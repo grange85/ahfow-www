@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Knitting Factory, Los Angeles CA, USA'
+show-venue: "Knitting Factory, Los Angeles CA, USA"
+title: "14th December 2002 -  Luna - Knitting Factory, Los Angeles CA, USA"
 show-setlist: 
 show-date: 2002-12-14
 category: 2002

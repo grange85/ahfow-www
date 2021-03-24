@@ -5,6 +5,7 @@ artistslug: damon-and-naomi
 artist:
  name: Damon Krukowski
 show-venue: "Drawn and Quarterly, Montreal, Canada"
+title: "15th May 2017 -  Damon & Naomi - Drawn and Quarterly, Montreal, Canada"
 show-setlist:
 show-date: 2017-05-15
 date-added: 2017-03-30

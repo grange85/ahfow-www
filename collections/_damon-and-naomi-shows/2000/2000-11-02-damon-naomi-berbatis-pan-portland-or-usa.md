@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: damon-and-naomi
 show-venue: "Berbatis Pan, Portland OR, USA"
+title: "2nd November 2000 -  Damon & Naomi - Berbatis Pan, Portland OR, USA"
 show-setlist: 
 show-date: 2000-11-02
 category: 2000

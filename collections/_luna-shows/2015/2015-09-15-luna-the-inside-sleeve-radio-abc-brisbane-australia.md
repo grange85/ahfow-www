@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'The Inside Sleeve, ABC, Brisbane, Australia'
+show-venue: "The Inside Sleeve, ABC, Brisbane, Australia"
+title: "15th September 2015 -  Luna - The Inside Sleeve, ABC, Brisbane, Australia"
 show-notes: ''
 show-setlist: 
  - Tracy I Love You

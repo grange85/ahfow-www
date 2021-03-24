@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Bimbos, San Francisco CA, USA"
+title: "8th June 2002 -  Luna - Bimbos, San Francisco CA, USA"
 show-setlist: [
   "Weird And Woozy",
   "1995",

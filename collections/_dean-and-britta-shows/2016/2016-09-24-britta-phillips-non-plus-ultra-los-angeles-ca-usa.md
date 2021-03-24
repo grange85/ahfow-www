@@ -4,7 +4,8 @@ position: database-5
 artistslug: britta-phillips
 artist:
   name: Britta Phillips
-show-venue: 'Non Plus Ultra, Los Angeles, CA, USA'
+show-venue: "Non Plus Ultra, Los Angeles, CA, USA"
+title: "24th September 2016 - Britta Phillips - Non Plus Ultra, Los Angeles, CA, USA"
 show-notes: ''
 show-setlist:
 show-date: 2016-09-24

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Black Cat, Washington DC, USA'
+show-venue: "Black Cat, Washington DC, USA"
+title: "14th September 1995 -  Luna - Black Cat, Washington DC, USA"
 show-setlist: 
 show-date: 1995-09-14
 category: 1995

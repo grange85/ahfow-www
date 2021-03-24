@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Teatro La Laboral, Gijon, Spain'
+show-venue: "Teatro La Laboral, Gijon, Spain"
+title: "14th October 2017 -  Luna - Teatro La Laboral, Gijon, Spain"
 show-notes: ''
 show-setlist: 
 show-date: 2017-10-14

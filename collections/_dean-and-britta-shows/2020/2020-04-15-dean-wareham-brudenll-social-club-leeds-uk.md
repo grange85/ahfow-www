@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Brudenell Social Club, Leeds, UK'
+show-venue: "Brudenell Social Club, Leeds, UK"
+title: "15th April 2020 - Dean Wareham - Brudenell Social Club, Leeds, UK"
 address: |
   Brudenell Social Club, 
   33 Queen’s Rd, 

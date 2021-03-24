@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Main Hall, Quebec, Canada'
+show-venue: "Main Hall, Quebec, Canada"
+title: "10th March 2007 - Dean & Britta - Main Hall, Quebec, Canada"
 show-setlist: 
 show-date: 2007-03-10
 category: 2007

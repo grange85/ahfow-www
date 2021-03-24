@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Caberet Metro, Chicago IL, USA'
+show-venue: "Caberet Metro, Chicago IL, USA"
+title: "31st May 2002 -  Luna - Caberet Metro, Chicago IL, USA"
 show-setlist: [
   "Weird And Woozy",
   "Black Champagne",

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Wembley Arena, London, UK'
+show-venue: "Wembley Arena, London, UK"
+title: "6th June 1993 -  Luna - Wembley Arena, London, UK"
 show-setlist: 
 show-date: 1993-06-06
 category: 1993

@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Teatro Versace, Milan, Italy'
+show-venue: "Teatro Versace, Milan, Italy"
+title: "14th September 2009 - Dean & Britta - Teatro Versace, Milan, Italy"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

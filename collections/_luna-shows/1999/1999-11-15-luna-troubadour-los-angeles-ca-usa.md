@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Troubadour, Los Angeles CA, USA'
+show-venue: "Troubadour, Los Angeles CA, USA"
+title: "15th November 1999 -  Luna - Troubadour, Los Angeles CA, USA"
 show-setlist: [
   "Friendly Advice",
   "Sideshow By The Seashore",

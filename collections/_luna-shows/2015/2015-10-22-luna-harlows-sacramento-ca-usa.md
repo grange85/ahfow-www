@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Harlow's, Sacramento, CA, USA"
+title: "22nd October 2015 -  Luna - Harlow's, Sacramento, CA, USA"
 show-setlist:
  - "^Penthouse"
  - Chinatown

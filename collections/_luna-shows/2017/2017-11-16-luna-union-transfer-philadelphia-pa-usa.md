@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Union Transfer, Philadelphia, PA, USA'
+show-venue: "Union Transfer, Philadelphia, PA, USA"
+title: "16th November 2017 -  Luna - Union Transfer, Philadelphia, PA, USA"
 show-notes: ''
 show-setlist: 
  - GTX3

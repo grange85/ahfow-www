@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: damon-and-naomi
 show-venue: "L'Olympic Cafe, Paris, France"
+title: "21st February 2018 -  Damon & Naomi - L'Olympic Cafe, Paris, France"
 show-setlist:
 show-date: 2018-02-21
 date-added: 2017-12-15

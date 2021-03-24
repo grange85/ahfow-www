@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'The Chapel, San Francisco, CA, USA'
+show-venue: "The Chapel, San Francisco, CA, USA"
+title: "19th January 2017 -  Luna - The Chapel, San Francisco, CA, USA"
 show-notes: ''
 show-setlist:
  - California (All The Way)

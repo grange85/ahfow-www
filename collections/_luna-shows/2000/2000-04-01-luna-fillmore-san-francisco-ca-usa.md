@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Fillmore, San Francisco CA, USA'
+show-venue: "Fillmore, San Francisco CA, USA"
+title: "1st April 2000 -  Luna - Fillmore, San Francisco CA, USA"
 show-setlist: [
   "Bewitched",
   "Dear Diary",

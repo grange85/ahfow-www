@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Clamores, Madrid, Spain'
+show-venue: "Clamores, Madrid, Spain"
+title: "19th April 2016 -  Damon & Naomi - Clamores, Madrid, Spain"
 show-setlist:
  - The Seeker
  - Amnesia

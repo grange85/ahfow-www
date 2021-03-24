@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Cats Cradle Back Room, Carrboro, NC, USA'
+show-venue: "Cats Cradle Back Room, Carrboro, NC, USA"
+title: "3rd April 2014 - Dean Wareham - Cats Cradle Back Room, Carrboro, NC, USA"
 show-setlist: 
 show-date: 2014-04-03
 category: 2014

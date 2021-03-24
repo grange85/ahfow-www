@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Lift, Brighton, UK'
+show-venue: "Lift, Brighton, UK"
+title: "26th August 1999 -  Damon & Naomi - Lift, Brighton, UK"
 show-setlist: 
 show-date: 1999-08-26
 category: 1999

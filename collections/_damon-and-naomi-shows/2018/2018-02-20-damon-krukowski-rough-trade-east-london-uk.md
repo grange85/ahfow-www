@@ -5,6 +5,7 @@ artistslug: damon-and-naomi
 artist:
  name: Damon Krukowski
 show-venue: "Rough Trade East, London, UK"
+title: "20th February 2018 -  Damon & Naomi - Rough Trade East, London, UK"
 show-setlist:
 show-date: 2018-02-20
 date-added: 2018-01-05

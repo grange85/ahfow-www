@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: '​The Root Cellar, Greenfield, MA, USA'
+show-venue: "​The Root Cellar, Greenfield, MA, USA"
+title: "17th November 2018 -  Damon & Naomi - ​The Root Cellar, Greenfield, MA, USA"
 show-setlist:
 show-date: 2018-11-17
 date-added: 2018-10-01

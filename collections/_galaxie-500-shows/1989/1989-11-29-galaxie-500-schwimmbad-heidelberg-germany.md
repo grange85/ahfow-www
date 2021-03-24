@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Schwimmbad, Heidelberg, Germany'
+show-venue: "Schwimmbad, Heidelberg, Germany"
+title: "29th November 1989 -  Galaxie 500 - Schwimmbad, Heidelberg, Germany"
 show-date: 1989-11-29
 category: 1989
 show-radio: 

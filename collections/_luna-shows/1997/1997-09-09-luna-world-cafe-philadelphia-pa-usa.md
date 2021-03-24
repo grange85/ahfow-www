@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'World Cafe, Philadelphia PA, USA'
+show-venue: "World Cafe, Philadelphia PA, USA"
+title: "9th September 1997 -  Luna - World Cafe, Philadelphia PA, USA"
 setlist-source: 'recording'
 show-setlist: [
   "Pup Tent",

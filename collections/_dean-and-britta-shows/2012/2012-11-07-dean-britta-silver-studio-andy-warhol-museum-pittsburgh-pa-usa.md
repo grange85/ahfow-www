@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'The Silver Studio, The Andy Warhol Museum, Pittsburgh PA, USA'
+show-venue: "The Silver Studio, The Andy Warhol Museum, Pittsburgh PA, USA"
+title: "7th November 2012 - Dean & Britta - The Silver Studio, The Andy Warhol Museum, Pittsburgh PA, USA"
 show-setlist: [
   "I'll Keep It With Mine",
   "The Sun is Still Sunny",

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Fletchers, Baltimore MD, USA'
+show-venue: "Fletchers, Baltimore MD, USA"
+title: "2nd December 1999 -  Luna - Fletchers, Baltimore MD, USA"
 show-setlist: [
   "Pup Tent",
   "Sideshow By The Seashore",

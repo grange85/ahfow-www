@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Warhol Museum, Pittsburgh PA, USA'
+show-venue: "Warhol Museum, Pittsburgh PA, USA"
+title: "4th August 2000 -  Luna - Warhol Museum, Pittsburgh PA, USA"
 show-setlist: [
   "Chinatown",
   "Dear Diary",

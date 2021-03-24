@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Bikini, Barcelona, Spain'
+show-venue: "Bikini, Barcelona, Spain"
+title: "11th October 2017 -  Luna - Bikini, Barcelona, Spain"
 show-notes: ''
 show-setlist:
  - GTX3

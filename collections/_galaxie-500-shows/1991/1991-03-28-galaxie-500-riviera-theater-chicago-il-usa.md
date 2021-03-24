@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Riviera Theater, Chicago IL, USA'
+show-venue: "Riviera Theater, Chicago IL, USA"
+title: "28th March 1991 -  Galaxie 500 - Riviera Theater, Chicago IL, USA"
 show-setlist: 
 show-date: 1991-03-28
 category: 1991

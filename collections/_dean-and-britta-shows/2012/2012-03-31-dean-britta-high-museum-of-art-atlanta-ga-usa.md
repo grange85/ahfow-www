@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'High Museum of Art, Atlanta, GA, USA'
+show-venue: "High Museum of Art, Atlanta, GA, USA"
+title: "31st March 2012 - Dean & Britta - High Museum of Art, Atlanta, GA, USA"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

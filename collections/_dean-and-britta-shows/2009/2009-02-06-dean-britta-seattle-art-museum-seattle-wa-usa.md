@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Seattle Art Museum, Seattle, WA, USA'
+show-venue: "Seattle Art Museum, Seattle, WA, USA"
+title: "6th February 2009 - Dean & Britta - Seattle Art Museum, Seattle, WA, USA"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

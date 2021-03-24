@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Supper Club, New York NY, USA'
+show-venue: "Supper Club, New York NY, USA"
+title: "11th September 1997 -  Luna - Supper Club, New York NY, USA"
 show-setlist: [
   "Bewitched",
   "Sideshow By The Seashore",

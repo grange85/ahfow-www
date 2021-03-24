@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Turner Hall Ballroom, Milwaukee, WI, USA'
+show-venue: "Turner Hall Ballroom, Milwaukee, WI, USA"
+title: "3rd November 2017 -  Luna - Turner Hall Ballroom, Milwaukee, WI, USA"
 show-notes: ''
 show-setlist: 
 show-date: 2017-11-03

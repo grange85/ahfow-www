@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'The Rock Shop, Brooklyn, NY, USA'
+show-venue: "The Rock Shop, Brooklyn, NY, USA"
+title: "18th August 2010 - Dean & Britta - The Rock Shop, Brooklyn, NY, USA"
 show-setlist: 
 show-date: 2010-08-18
 category: 2010

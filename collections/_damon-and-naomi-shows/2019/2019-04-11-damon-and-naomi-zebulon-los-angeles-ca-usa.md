@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Zebulon, Los Angeles, CA, USA'
+show-venue: "Zebulon, Los Angeles, CA, USA"
+title: "11th April 2019 -  Damon & Naomi - Zebulon, Los Angeles, CA, USA"
 show-setlist:
 show-date: 2019-04-11
 date-added: 2019-03-14

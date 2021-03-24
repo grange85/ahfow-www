@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'North Star Bar, Philadelphia PA, USA'
+show-venue: "North Star Bar, Philadelphia PA, USA"
+title: "23rd November 2002 -  Luna - North Star Bar, Philadelphia PA, USA"
 show-setlist: [
   "Lovedust",
   "Black Champagne",

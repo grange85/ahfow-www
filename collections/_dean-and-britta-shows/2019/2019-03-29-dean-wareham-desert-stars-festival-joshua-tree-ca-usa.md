@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Desert Stars Festival, Joshua Tree, CA, USA'
+show-venue: "Desert Stars Festival, Joshua Tree, CA, USA"
+title: "29th March 2019 - Dean Wareham - Desert Stars Festival, Joshua Tree, CA, USA"
 show-notes: ''
 show-setlist:
 show-date: 2019-03-29

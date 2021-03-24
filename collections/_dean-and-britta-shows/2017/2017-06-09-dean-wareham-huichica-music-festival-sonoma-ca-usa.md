@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Huichica Music Festival, Sonoma, CA, USA'
+show-venue: "Huichica Music Festival, Sonoma, CA, USA"
+title: "10th June 2017 - Dean Wareham - Huichica Music Festival, Sonoma, CA, USA"
 show-notes: ''
 show-setlist:
 show-date: 2017-06-10

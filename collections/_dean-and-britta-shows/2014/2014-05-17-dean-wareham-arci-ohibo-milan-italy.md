@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Venue'
+show-venue: "Venue"
+title: "17th May 2014 - Dean Wareham - Venue"
 show-setlist:
 show-date: 2014-05-17
 category: 2014

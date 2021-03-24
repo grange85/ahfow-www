@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'First Unitarian Church, Philadephia PA, USA'
+show-venue: "First Unitarian Church, Philadephia PA, USA"
+title: "2nd October 2007 -  Damon & Naomi - First Unitarian Church, Philadephia PA, USA"
 show-setlist: 
 show-date: 2007-10-02
 category: 2007

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Institute of Contemporary Art, Boston MA, USA'
+show-venue: "Institute of Contemporary Art, Boston MA, USA"
+title: "16th April 2005 -  Damon & Naomi - Institute of Contemporary Art, Boston MA, USA"
 show-setlist: 
 show-date: 2005-04-16
 category: 2005

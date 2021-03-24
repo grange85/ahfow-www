@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Museum of Contemporary Art Theater, Chicago IL, USA'
+show-venue: "Museum of Contemporary Art Theater, Chicago IL, USA"
+title: "7th March 2009 - Dean & Britta - Museum of Contemporary Art Theater, Chicago IL, USA"
 show-setlist: 
 show-date: 2009-03-07
 category: 2009

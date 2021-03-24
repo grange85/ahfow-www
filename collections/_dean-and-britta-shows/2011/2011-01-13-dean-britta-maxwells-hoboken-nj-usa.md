@@ -5,6 +5,7 @@ artistslug: dean-and-britta
 artist:
   name: Dean & Britta
 show-venue: "Maxwell's, Hoboken, NJ, USA"
+title: "13th January 2011 - Dean & Britta - Maxwell's, Hoboken, NJ, USA"
 show-setlist: 
 show-date: 2011-01-13
 category: 2011

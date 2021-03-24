@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "St. Andrews Hall, Detroit MI, USA"
+title: "4th March 1993 -  Luna - St. Andrews Hall, Detroit MI, USA"
 show-setlist: [
   "Slide",
   "Anesthesia",

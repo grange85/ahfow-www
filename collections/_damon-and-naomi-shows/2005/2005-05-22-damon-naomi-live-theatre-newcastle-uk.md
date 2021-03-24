@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Live Theatre, Newcastle, UK'
+show-venue: "Live Theatre, Newcastle, UK"
+title: "22nd May 2005 -  Damon & Naomi - Live Theatre, Newcastle, UK"
 show-setlist: 
 show-date: 2005-05-22
 category: 2005

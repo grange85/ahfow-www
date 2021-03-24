@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'The Sinclair, Cambridge, MA, USA'
+show-venue: "The Sinclair, Cambridge, MA, USA"
+title: "25th August 2018 -  Luna - The Sinclair, Cambridge, MA, USA"
 show-notes: ''
 show-setlist:
  - GTX3

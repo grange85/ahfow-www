@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Brudenell Social Club, Leeds, UK'
+show-venue: "Brudenell Social Club, Leeds, UK"
+title: "1st August 2015 -  Luna - Brudenell Social Club, Leeds, UK"
 show-setlist: [
   "Chinatown",
   "Malibu Love Nest",

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Skylight Books, Los Angeles CA, USA'
+show-venue: "Skylight Books, Los Angeles CA, USA"
+title: "16th October 2004 -  Damon & Naomi - Skylight Books, Los Angeles CA, USA"
 show-setlist: 
 show-date: 2004-10-16
 category: 2004

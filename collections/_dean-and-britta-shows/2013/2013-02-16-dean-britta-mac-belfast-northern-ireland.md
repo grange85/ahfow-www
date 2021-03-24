@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'MAC, Belfast, Northern Ireland'
+show-venue: "MAC, Belfast, Northern Ireland"
+title: "16th February 2013 - Dean & Britta - MAC, Belfast, Northern Ireland"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

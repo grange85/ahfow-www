@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Talking Heads, Southampton, UK'
+show-venue: "Talking Heads, Southampton, UK"
+title: "20th May 2014 -  Damon & Naomi - Talking Heads, Southampton, UK"
 show-setlist:
  - The Seeker
  - Amnesia

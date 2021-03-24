@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Feeding Tube Records, Florence, MA, USA'
+show-venue: "Feeding Tube Records, Florence, MA, USA"
+title: "26th January 2018 -  Damon & Naomi - Feeding Tube Records, Florence, MA, USA"
 show-setlist:
 show-date: 2018-01-26
 date-added: 2018-01-04

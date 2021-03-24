@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Lees Palace, Toronto, Canada"
+title: "4th November 1999 -  Luna - Lees Palace, Toronto, Canada"
 show-setlist: 
 show-date: 1999-11-04
 category: 1999

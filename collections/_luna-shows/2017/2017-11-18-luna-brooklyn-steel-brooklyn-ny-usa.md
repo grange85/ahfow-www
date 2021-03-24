@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Brooklyn Steel, Brooklyn, NY, USA'
+show-venue: "Brooklyn Steel, Brooklyn, NY, USA"
+title: "18th November 2017 -  Luna - Brooklyn Steel, Brooklyn, NY, USA"
 show-notes: ''
 show-setlist: 
  - GTX3

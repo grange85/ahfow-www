@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Moes, Seattle WA, USA"
+title: "12th October 1995 -  Luna - Moes, Seattle WA, USA"
 show-setlist: [
   "Friendly Advice",
   "Sideshow By The Seashore",

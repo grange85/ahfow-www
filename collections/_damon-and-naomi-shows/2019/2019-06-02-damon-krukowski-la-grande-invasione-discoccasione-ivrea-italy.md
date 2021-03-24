@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'La grande invasione, Discoccasione, Ivrea, Italy'
+show-venue: "La grande invasione, Discoccasione, Ivrea, Italy"
+title: "2nd June 2019 -  Damon & Naomi - La grande invasione, Discoccasione, Ivrea, Italy"
 artist:
  name: Damon Krukowski
 show-setlist:

@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'MFA, Boston MA, USA'
+show-venue: "MFA, Boston MA, USA"
+title: "7th February 2008 - Dean & Britta - MFA, Boston MA, USA"
 setlist-source: 'Galaxie 500 Mailing List'
 show-setlist: [
   "Snowstorm",

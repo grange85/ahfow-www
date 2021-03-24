@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: Centre Pompidou-Metz, Metz, France
+show-venue: "Centre Pompidou-Metz, Metz, France"
+title: "7th July 2015 - Dean & Britta - Centre Pompidou-Metz, Metz, France"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

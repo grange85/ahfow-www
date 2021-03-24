@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Satellite, Los Angeles, CA, USA'
+show-venue: "Satellite, Los Angeles, CA, USA"
+title: "4th June 2011 -  Damon & Naomi - Satellite, Los Angeles, CA, USA"
 show-setlist: 
 show-date: 2011-06-04
 category: 2011

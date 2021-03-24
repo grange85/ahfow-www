@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Kafe Antzokia, Bilbao, Spain'
+show-venue: "Kafe Antzokia, Bilbao, Spain"
+title: "13th October 2017 -  Luna - Kafe Antzokia, Bilbao, Spain"
 show-notes: ''
 show-setlist:
  - GTX3

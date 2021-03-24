@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'The Trocadero, Philadelphia PA, USA'
+show-venue: "The Trocadero, Philadelphia PA, USA"
+title: "20th August 2010 - Dean & Britta - The Trocadero, Philadelphia PA, USA"
 show-setlist: 
 show-date: 2010-08-20
 category: 2010

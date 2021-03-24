@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Apolo, Barcelona, Spain'
+show-venue: "Apolo, Barcelona, Spain"
+title: "10th January 2005 -  Luna - Apolo, Barcelona, Spain"
 show-setlist: [
   "Malibu Love Nest",
   "California (All The Way)",

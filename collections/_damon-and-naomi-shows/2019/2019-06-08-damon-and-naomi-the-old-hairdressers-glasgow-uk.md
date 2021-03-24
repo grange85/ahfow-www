@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'The Old Hairdressers, Glasgow, UK'
+show-venue: "The Old Hairdressers, Glasgow, UK"
+title: "8th June 2019 -  Damon & Naomi - The Old Hairdressers, Glasgow, UK"
 address: |
   The Old Hairdresser’s, 
   Renfield Lane, 

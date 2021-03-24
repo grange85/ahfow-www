@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Lapa Multshow, Belo Horizonte, Brazil'
+show-venue: "Lapa Multshow, Belo Horizonte, Brazil"
+title: "21st September 2001 -  Luna - Lapa Multshow, Belo Horizonte, Brazil"
 show-setlist: 
 show-date: 2001-09-21
 category: 2001

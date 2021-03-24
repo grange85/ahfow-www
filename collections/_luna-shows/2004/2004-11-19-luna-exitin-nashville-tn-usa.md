@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Exit/In, Nashville TN, USA'
+show-venue: "Exit/In, Nashville TN, USA"
+title: "19th November 2004 -  Luna - Exit/In, Nashville TN, USA"
 show-setlist: [
   "Malibu Love Nest",
   "Sideshow By The Seashore",

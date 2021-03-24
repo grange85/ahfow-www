@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Komedia, Brighton, UK'
+show-venue: "Komedia, Brighton, UK"
+title: "16th February 2011 - Dean & Britta - Komedia, Brighton, UK"
 show-setlist: 
 show-date: 2011-02-16
 category: 2011

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'University of Wisconsin Terrace, Madison WI, USA'
+show-venue: "University of Wisconsin Terrace, Madison WI, USA"
+title: "29th September 2004 -  Damon & Naomi - University of Wisconsin Terrace, Madison WI, USA"
 show-setlist: 
 show-date: 2004-09-29
 category: 2004

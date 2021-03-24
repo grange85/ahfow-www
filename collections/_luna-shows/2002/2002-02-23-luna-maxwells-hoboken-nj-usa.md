@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Maxwells, Hoboken NJ, USA'
+show-venue: "Maxwells, Hoboken NJ, USA"
+title: "23rd February 2002 -  Luna - Maxwells, Hoboken NJ, USA"
 show-setlist: [
   "Dear Diary",
   "Lovedust",

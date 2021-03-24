@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Starfish Room, Vancouver, Canada'
+show-venue: "Starfish Room, Vancouver, Canada"
+title: "30th March 2000 -  Luna - Starfish Room, Vancouver, Canada"
 show-setlist: [
   "Bewitched",
   "Sideshow By The Seashore",

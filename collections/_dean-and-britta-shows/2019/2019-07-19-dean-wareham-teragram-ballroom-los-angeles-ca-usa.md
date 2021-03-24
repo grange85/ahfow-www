@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Teragram Ballroom, Los Angeles, CA, USA'
+show-venue: "Teragram Ballroom, Los Angeles, CA, USA"
+title: "19th July 2019 - Dean Wareham - Teragram Ballroom, Los Angeles, CA, USA"
 address: |
   1234 W 7th St, 
   Los Angeles, 

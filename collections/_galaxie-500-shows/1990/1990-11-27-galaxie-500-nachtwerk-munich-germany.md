@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Nachtwerk, Munich, Germany'
+show-venue: "Nachtwerk, Munich, Germany"
+title: "27th November 1990 -  Galaxie 500 - Nachtwerk, Munich, Germany"
 show-setlist: 
 show-date: 1990-11-27
 category: 1990

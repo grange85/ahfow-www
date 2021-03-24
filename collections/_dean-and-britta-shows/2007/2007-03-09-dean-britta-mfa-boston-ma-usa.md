@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'MFA, Boston MA, USA'
+show-venue: "MFA, Boston MA, USA"
+title: "9th March 2007 - Dean & Britta - MFA, Boston MA, USA"
 show-setlist: [
   "Singer Sing",
   "Night Nurse",

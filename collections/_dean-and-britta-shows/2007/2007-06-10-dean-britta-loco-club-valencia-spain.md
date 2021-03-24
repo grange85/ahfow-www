@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Loco Club, Valencia, Spain'
+show-venue: "Loco Club, Valencia, Spain"
+title: "10th June 2007 - Dean & Britta - Loco Club, Valencia, Spain"
 show-setlist: [
   "Words You Used To Say",
   "Hear The Wind Blow",

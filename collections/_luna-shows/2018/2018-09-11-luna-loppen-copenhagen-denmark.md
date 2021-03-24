@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Loppen, Copenhagen, Denmark'
+show-venue: "Loppen, Copenhagen, Denmark"
+title: "11th September 2018 -  Luna - Loppen, Copenhagen, Denmark"
 show-notes: ''
 show-setlist:
  - GTX3

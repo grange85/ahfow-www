@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'KFZ, Marburg, Germany'
+show-venue: "KFZ, Marburg, Germany"
+title: "18th September 1999 -  Luna - KFZ, Marburg, Germany"
 show-setlist: 
 show-date: 1999-09-18
 category: 1999

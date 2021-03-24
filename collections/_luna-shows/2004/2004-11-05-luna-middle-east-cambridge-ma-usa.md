@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Middle East, Cambridge MA, USA'
+show-venue: "Middle East, Cambridge MA, USA"
+title: "5th November 2004 -  Luna - Middle East, Cambridge MA, USA"
 show-setlist: [
   "Malibu Love Nest",
   "Slide",

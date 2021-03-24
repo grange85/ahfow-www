@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: galaxie-500
 show-venue: "The Channel, Boston, MA, USA"
+title: "20th May 1989 -  Galaxie 500 - The Channel, Boston, MA, USA"
 show-setlist:
 show-date: 1989-05-20
 source: Dean Wareham

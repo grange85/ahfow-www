@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: '3Ten ACL Live, Austin, TX, USA'
+show-venue: "3Ten ACL Live, Austin, TX, USA"
+title: "6th April 2018 -  Luna - 3Ten ACL Live, Austin, TX, USA"
 show-notes: ''
 show-setlist: 
 show-date: 2018-04-06

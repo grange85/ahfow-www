@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Gwangju Sajik Folk Music Festival, Gwangju, South Korea'
+show-venue: "Gwangju Sajik Folk Music Festival, Gwangju, South Korea"
+title: "6th September 2015 -  Damon & Naomi - Gwangju Sajik Folk Music Festival, Gwangju, South Korea"
 show-setlist: [
   ]
 show-date: 2015-09-06
@@ -22,7 +23,7 @@ videos:
     data: "[
       { 
         video: 'https://www.youtube.com/watch?v=r5Oyz5KAwTU',
-        title: '데이먼X나오미 - How Do I Say Goodbye ♪',
+        title: '데이먼X나오미 -  Damon & Naomi - How Do I Say Goodbye ♪',
         description: 'by 광주MBC'
       }
       ]"

@@ -4,7 +4,8 @@ position: database-5
 artistslug: britta-phillips
 artist:
   name: Britta Phillips
-show-venue: 'Waterloo Records, Austin, TX, USA'
+show-venue: "Waterloo Records, Austin, TX, USA"
+title: "6th May 2016 - Britta Phillips - Waterloo Records, Austin, TX, USA"
 show-notes: ''
 show-setlist: 
 show-date: 2016-05-06

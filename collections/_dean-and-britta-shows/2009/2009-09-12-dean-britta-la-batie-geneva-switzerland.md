@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'La Batie, Geneva, Switzerland'
+show-venue: "La Batie, Geneva, Switzerland"
+title: "12th September 2009 - Dean & Britta - La Batie, Geneva, Switzerland"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

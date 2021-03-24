@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Leicester University, Leicester, UK'
+show-venue: "Leicester University, Leicester, UK"
+title: "7th November 1990 -  Galaxie 500 - Leicester University, Leicester, UK"
 show-setlist: 
 show-date: 1990-11-07
 category: 1990

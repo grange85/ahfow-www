@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Carnegie Music Hall of Oakland, Pittsburgh, PA'
+show-venue: "Carnegie Music Hall of Oakland, Pittsburgh, PA"
+title: "17th October 2014 - Dean Wareham - Carnegie Music Hall of Oakland, Pittsburgh, PA"
 show-setlist: 
 show-date: 2014-10-17
 category: 2014

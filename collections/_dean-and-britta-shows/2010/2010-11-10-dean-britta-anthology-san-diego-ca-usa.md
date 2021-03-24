@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Anthology, San Diego, CA, USA'
+show-venue: "Anthology, San Diego, CA, USA"
+title: "10th November 2010 - Dean & Britta - Anthology, San Diego, CA, USA"
 show-setlist: 
 show-date: 2010-11-10
 category: 2010

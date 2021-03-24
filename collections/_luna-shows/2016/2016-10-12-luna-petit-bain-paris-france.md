@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Petit Bain, Paris, France'
+show-venue: "Petit Bain, Paris, France"
+title: "12th October 2016 -  Luna - Petit Bain, Paris, France"
 show-notes: ''
 show-setlist: 
 show-date: 2016-10-12

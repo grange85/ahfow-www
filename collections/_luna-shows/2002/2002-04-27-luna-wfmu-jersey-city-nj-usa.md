@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'WFMU, Jersey City NJ, USA'
+show-venue: "WFMU, Jersey City NJ, USA"
+title: "27th April 2002 -  Luna - WFMU, Jersey City NJ, USA"
 show-setlist: [
   "Weird And Woozy",
   "1995",

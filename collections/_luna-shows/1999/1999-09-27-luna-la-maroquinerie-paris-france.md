@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'La Maroquinerie, Paris, France'
+show-venue: "La Maroquinerie, Paris, France"
+title: "27th September 1999 -  Luna - La Maroquinerie, Paris, France"
 show-setlist: 
 show-date: 1999-09-27
 category: 1999

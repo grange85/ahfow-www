@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'WFUV, New York NY, USA'
+show-venue: "WFUV, New York NY, USA"
+title: "27th April 2002 -  Luna - WFUV, New York NY, USA"
 show-setlist: [
   "1995",
   "Lovedust",

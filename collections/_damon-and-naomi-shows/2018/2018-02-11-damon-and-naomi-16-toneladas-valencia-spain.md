@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: '16 Toneladas, Valencia, Spain'
+show-venue: "16 Toneladas, Valencia, Spain"
+title: "11th February 2018 -  Damon & Naomi - 16 Toneladas, Valencia, Spain"
 show-setlist:
 show-date: 2018-02-11
 date-added: 2017-12-14

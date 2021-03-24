@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'La Dynamo de Banlieues Bleues, Paris, France'
+show-venue: "La Dynamo de Banlieues Bleues, Paris, France"
+title: "18th July 2009 - Dean & Britta - La Dynamo de Banlieues Bleues, Paris, France"
 show-setlist: 
 show-date: 2009-07-18
 category: 2009

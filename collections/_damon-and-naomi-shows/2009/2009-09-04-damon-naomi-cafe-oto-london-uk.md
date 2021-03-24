@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Cafe Oto, London UK'
+show-venue: "Cafe Oto, London UK"
+title: "4th September 2009 -  Damon & Naomi - Cafe Oto, London UK"
 show-setlist: 
 show-date: 2009-09-04
 category: 2009

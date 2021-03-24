@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Programa Garagem - Brasil 2000 FM, Brazil'
+show-venue: "Programa Garagem - Brasil 2000 FM, Brazil"
+title: "24th September 2001 -  Luna - Programa Garagem - Brasil 2000 FM, Brazil"
 show-setlist: [
   "Black Champagne",
   "Egg Nog",

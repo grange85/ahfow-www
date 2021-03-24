@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Die Halle Weissensee, Berlin, Germany'
+show-venue: "Die Halle Weissensee, Berlin, Germany"
+title: "20th June 1993 -  Luna - Die Halle Weissensee, Berlin, Germany"
 show-setlist: 
 show-date: 1993-06-20
 category: 1993

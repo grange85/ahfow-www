@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Fox Theatre, Denver CO, USA'
+show-venue: "Fox Theatre, Denver CO, USA"
+title: "9th October 1995 -  Luna - Fox Theatre, Denver CO, USA"
 show-setlist: 
 show-date: 1995-10-09
 category: 1995

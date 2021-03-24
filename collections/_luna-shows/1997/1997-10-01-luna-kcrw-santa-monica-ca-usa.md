@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'KCRW, Santa Monica CA, USA'
+show-venue: "KCRW, Santa Monica CA, USA"
+title: "1st October 1997 -  Luna - KCRW, Santa Monica CA, USA"
 show-setlist: [
   "Beggar's Bliss",
   "Moon Palace",

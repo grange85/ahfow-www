@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Corner Hotel, Melbourne, Australia'
+show-venue: "Corner Hotel, Melbourne, Australia"
+title: "1st October 1998 -  Luna - Corner Hotel, Melbourne, Australia"
 show-setlist: 
 show-date: 1998-10-01
 category: 1998

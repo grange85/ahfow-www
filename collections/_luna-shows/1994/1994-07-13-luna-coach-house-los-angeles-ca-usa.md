@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Coach House, Los Angeles CA, USA'
+show-venue: "Coach House, Los Angeles CA, USA"
+title: "13th July 1994 -  Luna - Coach House, Los Angeles CA, USA"
 show-setlist: 
  - Sleeping Pill
  - This Time Around

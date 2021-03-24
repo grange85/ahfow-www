@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Bowery Ballroom, New York, NY, USA'
+show-venue: "Bowery Ballroom, New York, NY, USA"
+title: "5th April 2014 - Dean Wareham - Bowery Ballroom, New York, NY, USA"
 show-setlist: 
   - Emancipated Hearts
   - Heartless People

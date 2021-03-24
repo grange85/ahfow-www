@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Phoenix, Toronto, Canada'
+show-venue: "Phoenix, Toronto, Canada"
+title: "16th June 2001 -  Luna - Phoenix, Toronto, Canada"
 show-setlist: 
 show-date: 2001-06-16
 category: 2001

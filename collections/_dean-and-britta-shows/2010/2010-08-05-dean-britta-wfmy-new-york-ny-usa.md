@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'WFMY, New York, NY, USA'
+show-venue: "WFMY, New York, NY, USA"
+title: "5th August 2010 - Dean & Britta - WFMY, New York, NY, USA"
 show-setlist: 
 show-date: 2010-08-05
 category: 2010

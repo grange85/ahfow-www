@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Walter Brown Arena, Boston MA, USA'
+show-venue: "Walter Brown Arena, Boston MA, USA"
+title: "3rd April 1991 -  Galaxie 500 - Walter Brown Arena, Boston MA, USA"
 show-setlist: 
 show-date: 1991-04-03
 category: 1991

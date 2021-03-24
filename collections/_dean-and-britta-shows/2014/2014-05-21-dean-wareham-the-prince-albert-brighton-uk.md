@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'The Prince Albert, Brighton, UK'
+show-venue: "The Prince Albert, Brighton, UK"
+title: "21st May 2014 - Dean Wareham - The Prince Albert, Brighton, UK"
 show-setlist: [
   "Flowers",
   "Emancipated Hearts",

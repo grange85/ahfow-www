@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'The Teragram Ballroom, Los Angeles, CA, USA'
+show-venue: "The Teragram Ballroom, Los Angeles, CA, USA"
+title: "24th October 2015 -  Luna - The Teragram Ballroom, Los Angeles, CA, USA"
 show-setlist:
  - Fuzzy Wuzzy
  - Chinatown

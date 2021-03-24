@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Bottom of the Hill, San Francisco CA, USA'
+show-venue: "Bottom of the Hill, San Francisco CA, USA"
+title: "18th March 1996 -  Damon & Naomi - Bottom of the Hill, San Francisco CA, USA"
 show-setlist: 
 show-date: 1996-03-18
 category: 1996

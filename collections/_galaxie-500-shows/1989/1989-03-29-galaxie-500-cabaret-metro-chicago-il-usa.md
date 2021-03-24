@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Cabaret Metro, Chicago, IL, USA'
+show-venue: "Cabaret Metro, Chicago, IL, USA"
+title: "29th March 1989 -  Galaxie 500 - Cabaret Metro, Chicago, IL, USA"
 show-setlist:
 show-date: 1989-03-29
 source: Dean Wareham

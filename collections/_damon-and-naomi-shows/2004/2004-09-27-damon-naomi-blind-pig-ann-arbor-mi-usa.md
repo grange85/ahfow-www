@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Blind Pig, Ann Arbor MI, USA'
+show-venue: "Blind Pig, Ann Arbor MI, USA"
+title: "27th September 2004 -  Damon & Naomi - Blind Pig, Ann Arbor MI, USA"
 show-setlist: 
 show-date: 2004-09-27
 category: 2004

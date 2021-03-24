@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Corcoman, Valencia, Spain'
+show-venue: "Corcoman, Valencia, Spain"
+title: "14th January 2005 -  Luna - Corcoman, Valencia, Spain"
 show-setlist: 
 show-date: 2005-01-14
 category: 2005

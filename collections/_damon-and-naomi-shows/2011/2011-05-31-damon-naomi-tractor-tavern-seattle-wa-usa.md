@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Tractor Tavern, Seattle, WA, USA'
+show-venue: "Tractor Tavern, Seattle, WA, USA"
+title: "31st May 2011 -  Damon & Naomi - Tractor Tavern, Seattle, WA, USA"
 show-setlist: 
 show-date: 2011-05-31
 category: 2011

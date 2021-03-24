@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Wrocklage, Lexington, KY, USA'
+show-venue: "Wrocklage, Lexington, KY, USA"
+title: "3rd April 1989 -  Galaxie 500 - Wrocklage, Lexington, KY, USA"
 show-setlist:
 show-date: 1989-04-03
 category: 1989

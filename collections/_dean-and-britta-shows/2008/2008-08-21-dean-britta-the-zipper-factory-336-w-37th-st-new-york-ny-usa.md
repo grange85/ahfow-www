@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'The Zipper Factory, 336 W. 37th St, New York NY, USA'
+show-venue: "The Zipper Factory, 336 W. 37th St, New York NY, USA"
+title: "21st August 2008 - Dean & Britta - The Zipper Factory, 336 W. 37th St, New York NY, USA"
 setlist-source: 'Galaxie 500 Mailing List'
 show-setlist: [
   "Temperature's Rising",

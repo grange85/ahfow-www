@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Yu Gong Yi Shan, Beijing, China'
+show-venue: "Yu Gong Yi Shan, Beijing, China"
+title: "19th September 2016 -  Damon & Naomi - Yu Gong Yi Shan, Beijing, China"
 show-setlist:
 show-date: 2016-09-19
 date-added: 2016-08-18

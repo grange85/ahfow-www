@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Lokalhelden, Augsburg, Germany'
+show-venue: "Lokalhelden, Augsburg, Germany"
+title: "2nd August 2014 - Dean Wareham - Lokalhelden, Augsburg, Germany"
 show-setlist:
 show-date: 2014-08-02
 category: 2014

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'All Tomorrows Parties 2.0, Pontins, Prestatyn, UK'
+show-venue: "All Tomorrows Parties 2.0, Pontins, Prestatyn, UK"
+title: "17th April 2016 -  Damon & Naomi - All Tomorrows Parties 2.0, Pontins, Prestatyn, UK"
 show-setlist:
  - The Seeker
  - Amnesia

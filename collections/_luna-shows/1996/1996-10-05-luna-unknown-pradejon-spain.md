@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: '(unknown), Pradejon, Spain'
+show-venue: "(unknown), Pradejon, Spain"
+title: "5th October 1996 -  Luna - (unknown), Pradejon, Spain"
 show-setlist:
 show-date: 1996-10-05
 category: 1996

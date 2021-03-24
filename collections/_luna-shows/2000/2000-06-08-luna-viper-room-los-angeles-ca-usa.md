@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Viper Room, Los Angeles CA, USA'
+show-venue: "Viper Room, Los Angeles CA, USA"
+title: "8th June 2000 -  Luna - Viper Room, Los Angeles CA, USA"
 show-setlist: 
 show-date: 2000-06-08
 category: 2000

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Middle East, Cambridge MA, USA'
+show-venue: "Middle East, Cambridge MA, USA"
+title: "20th February 1998 -  Luna - Middle East, Cambridge MA, USA"
 show-setlist: [
   "Pup Tent",
   "Sideshow By The Seashore",

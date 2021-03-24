@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Carnegie Lecture Hall, Pittsburgh, PA, USA'
+show-venue: "Carnegie Lecture Hall, Pittsburgh, PA, USA"
+title: "15th November 2017 -  Luna - Carnegie Lecture Hall, Pittsburgh, PA, USA"
 show-notes: ''
 show-setlist: 
  - GTX3

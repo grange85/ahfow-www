@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'The Cluny, Newscastle, UK'
+show-venue: "The Cluny, Newscastle, UK"
+title: "24th January 2021 - Dean Wareham - The Cluny, Newscastle, UK"
 address: |
   The Cluny, 
   36 Lime Street, 

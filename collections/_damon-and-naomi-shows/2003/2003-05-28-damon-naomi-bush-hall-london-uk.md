@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Bush Hall, London, UK'
+show-venue: "Bush Hall, London, UK"
+title: "28th May 2003 -  Damon & Naomi - Bush Hall, London, UK"
 show-setlist: 
 show-date: 2003-05-28
 category: 2003

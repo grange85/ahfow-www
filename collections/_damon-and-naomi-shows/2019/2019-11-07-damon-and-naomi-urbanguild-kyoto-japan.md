@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'UrBANGUILD, Kyoto, Japan'
+show-venue: "UrBANGUILD, Kyoto, Japan"
+title: "7th November 2019 -  Damon & Naomi - UrBANGUILD, Kyoto, Japan"
 address: |
   Kyoto 604-8017 
   Japan

@@ -3,10 +3,9 @@ layout: show
 position: database-5
 artistslug: dean-wareham
 artist:
-  name: Dean Wareham
-artist:
  name: Dean Wareham vs. Cheval Sombre
-show-venue: 'Le Poisson Rouge, New York, NY, USA'
+show-venue: "Le Poisson Rouge, New York, NY, USA"
+title: "7th December 2018 - Dean Wareham vs. Cheval Sombre - Le Poisson Rouge, New York, NY, USA"
 show-notes: ''
 show-setlist:
 show-date: 2018-12-07

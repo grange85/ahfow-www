@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: damon-and-naomi
 show-venue: "Night and Day Cafe, Manchester, UK"
+title: "18th February 2018 -  Damon & Naomi - Night and Day Cafe, Manchester, UK"
 show-setlist:
  - How Do I Say Goodbye
  - Judah and the Maccabees
@@ -40,12 +41,12 @@ videos:
     data: "[
       {
         video: 'https://www.youtube.com/watch?v=bf2pMNJwP1c',
-        title: 'Damon & Naomi - Translucent Carriages - The Night and Day Cafe, Manchester, 18th February 2018',
+        title: 'Damon & Naomi -  Damon & Naomi - Translucent Carriages - The Night and Day Cafe, Manchester, 18th February 2018',
         description: 'by A Head Full of Wishes'
       },
       {
         video: 'https://www.youtube.com/watch?v=CeXyrEsv1xg',
-        title: 'Damon & Naomi - Second Life - The Night and Day Cafe, Manchester, 18th February 2018',
+        title: 'Damon & Naomi -  Damon & Naomi - Second Life - The Night and Day Cafe, Manchester, 18th February 2018',
         description: 'by A Head Full of Wishes'
       }
     ]"

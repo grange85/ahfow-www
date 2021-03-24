@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Middle East, Cambridge MA, USA'
+show-venue: "Middle East, Cambridge MA, USA"
+title: "22nd November 2004 -  Damon & Naomi - Middle East, Cambridge MA, USA"
 show-setlist: 
 show-date: 2004-11-22
 category: 2004

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Amoeba Records, San Francisco CA, USA'
+show-venue: "Amoeba Records, San Francisco CA, USA"
+title: "2nd April 2000 -  Luna - Amoeba Records, San Francisco CA, USA"
 show-setlist: [
   "Dear Diary",
   "Sideshow By The Seashore",

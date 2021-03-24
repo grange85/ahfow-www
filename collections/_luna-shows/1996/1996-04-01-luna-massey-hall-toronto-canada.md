@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Massey Hall, Toronto, Canada'
+show-venue: "Massey Hall, Toronto, Canada"
+title: "1st April 1996 -  Luna - Massey Hall, Toronto, Canada"
 show-setlist: [
   "Slide",
   "California (All The Way)",

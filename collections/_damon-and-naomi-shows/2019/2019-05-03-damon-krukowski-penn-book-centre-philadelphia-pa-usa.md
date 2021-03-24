@@ -4,7 +4,8 @@ position: database-5
 artistslug: damon-and-naomi
 artist:
  name: Damon Krukowski
-show-venue: 'Penn Book Centre, Philadelphia, PA, USA'
+show-venue: "Penn Book Centre, Philadelphia, PA, USA"
+title: "3rd May 2019 -  Damon & Naomi - Penn Book Centre, Philadelphia, PA, USA"
 show-setlist:
 show-date: 2019-05-03
 date-added: 2019-03-14

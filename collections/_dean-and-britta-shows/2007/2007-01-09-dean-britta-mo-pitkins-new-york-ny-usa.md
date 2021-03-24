@@ -5,6 +5,7 @@ artistslug: dean-and-britta
 artist:
   name: Dean & Britta
 show-venue: "Mo Pitkin's, New York NY, USA"
+title: "9th January 2007 - Dean & Britta - Mo Pitkin's, New York NY, USA"
 show-setlist: [
   "The Sun Is Still Sunny",
   "Me and My Babies",

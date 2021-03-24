@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Les Basses, Barcelona, Spain'
+show-venue: "Les Basses, Barcelona, Spain"
+title: "24th February 2007 -  Damon & Naomi - Les Basses, Barcelona, Spain"
 show-setlist: 
 show-date: 2007-02-24
 category: 2007

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Rough Trade East, London, UK'
+show-venue: "Rough Trade East, London, UK"
+title: "12th October 2008 -  Damon & Naomi - Rough Trade East, London, UK"
 show-setlist: [
   "Ueno Station",
   "Song To The Siren",

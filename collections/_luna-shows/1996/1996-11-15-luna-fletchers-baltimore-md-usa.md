@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Fletchers, Baltimore MD, USA'
+show-venue: "Fletchers, Baltimore MD, USA"
+title: "15th November 1996 -  Luna - Fletchers, Baltimore MD, USA"
 show-setlist: [
   "IHOP",
   "This Time Around",

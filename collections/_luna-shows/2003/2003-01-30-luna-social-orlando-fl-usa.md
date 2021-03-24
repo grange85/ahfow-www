@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Social, Orlando FL, USA'
+show-venue: "Social, Orlando FL, USA"
+title: "30th January 2003 -  Luna - Social, Orlando FL, USA"
 show-setlist: 
 show-date: 2003-01-30
 category: 2003

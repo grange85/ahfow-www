@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Aladdin Theater, Portland, OR, USA'
+show-venue: "Aladdin Theater, Portland, OR, USA"
+title: "6th November 2015 -  Luna - Aladdin Theater, Portland, OR, USA"
 show-notes: ''
 show-setlist:
  - Chinatown

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Moon, Wellington, New Zealand'
+show-venue: "Moon, Wellington, New Zealand"
+title: "22nd September 2015 -  Luna - Moon, Wellington, New Zealand"
 show-setlist:
  - California (All The Way)
  - Sideshow by the Seashore

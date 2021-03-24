@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Spanish Moon, Baton Rouge LA, USA'
+show-venue: "Spanish Moon, Baton Rouge LA, USA"
+title: "20th October 2007 -  Damon & Naomi - Spanish Moon, Baton Rouge LA, USA"
 show-setlist: 
 show-date: 2007-10-20
 category: 2007

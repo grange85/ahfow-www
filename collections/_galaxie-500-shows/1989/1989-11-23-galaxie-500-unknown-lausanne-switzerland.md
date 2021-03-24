@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: '(unknown), Lausanne, Switzerland'
+show-venue: "(unknown), Lausanne, Switzerland"
+title: "23rd November 1989 -  Galaxie 500 - (unknown), Lausanne, Switzerland"
 show-setlist: 
 show-date: 1989-11-23
 category: 1989

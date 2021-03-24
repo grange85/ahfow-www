@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: '(unknown), Jamaica Plain MA, USA'
+show-venue: "(unknown), Jamaica Plain MA, USA"
+title: "1st October 1999 -  Damon & Naomi - (unknown), Jamaica Plain MA, USA"
 show-setlist: 
 show-date: 1999-10-01
 category: 1999

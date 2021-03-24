@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Pearl St, Northampton MA, USA'
+show-venue: "Pearl St, Northampton MA, USA"
+title: "24th May 2002 -  Luna - Pearl St, Northampton MA, USA"
 show-setlist: 
 show-date: 2002-05-24
 category: 2002

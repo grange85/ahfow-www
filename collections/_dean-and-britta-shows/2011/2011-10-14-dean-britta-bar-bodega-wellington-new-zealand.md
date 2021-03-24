@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Bar Bodega, Wellington, New Zealand'
+show-venue: "Bar Bodega, Wellington, New Zealand"
+title: "14th October 2011 - Dean & Britta - Bar Bodega, Wellington, New Zealand"
 show-setlist: 
 show-date: 2011-10-14
 category: 2011

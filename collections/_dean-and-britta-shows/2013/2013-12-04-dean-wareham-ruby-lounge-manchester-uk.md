@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Ruby Lounge, Manchester, UK'
+show-venue: "Ruby Lounge, Manchester, UK"
+title: "4th December 2013 - Dean Wareham - Ruby Lounge, Manchester, UK"
 show-setlist: 
 show-date: 2013-12-04
 category: 2013

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'NYU, New York NY, USA'
+show-venue: "NYU, New York NY, USA"
+title: "8th September 1995 -  Luna - NYU, New York NY, USA"
 show-setlist: [
   "Friendly Advice",
   "Chinatown",

@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: '9:30 Club, Washington DC, USA'
+show-venue: "9:30 Club, Washington DC, USA"
+title: "25th May 1996 -  Luna - 9:30 Club, Washington DC, USA"
 show-setlist: [
   "Season of the Witch",
   "Tracy I Love You",

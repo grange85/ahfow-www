@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Bikini, Barcelona, Spain'
+show-venue: "Bikini, Barcelona, Spain"
+title: "23rd April 2015 -  Luna - Bikini, Barcelona, Spain"
 show-setlist: [
   "Slide",
   "Chinatown",

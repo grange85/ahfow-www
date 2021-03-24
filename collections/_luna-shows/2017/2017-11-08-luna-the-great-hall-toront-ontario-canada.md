@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'The Great Hall, Toronto, Ontario, Canada'
+show-venue: "The Great Hall, Toronto, Ontario, Canada"
+title: "8th November 2017 -  Luna - The Great Hall, Toronto, Ontario, Canada"
 show-notes: ''
 show-setlist: 
  - GTX3

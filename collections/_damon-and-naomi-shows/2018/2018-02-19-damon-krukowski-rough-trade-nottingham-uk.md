@@ -5,6 +5,7 @@ artistslug: damon-and-naomi
 artist:
  name: Damon Krukowski
 show-venue: "Rough Trade, Nottingham, UK"
+title: "19th February 2018 -  Damon & Naomi - Rough Trade, Nottingham, UK"
 show-setlist:
 show-date: 2018-02-19
 date-added: 2018-01-05

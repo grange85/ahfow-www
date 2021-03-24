@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Rat, Boston MA, USA'
+show-venue: "Rat, Boston MA, USA"
+title: "29th April 1989 -  Galaxie 500 - Rat, Boston MA, USA"
 show-setlist: [
   "Flowers",
   "When Will You Come Home",

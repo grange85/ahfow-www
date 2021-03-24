@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'Melkweg, Amsterdam, Netherlands'
+show-venue: "Melkweg, Amsterdam, Netherlands"
+title: "18th November 1989 -  Galaxie 500 - Melkweg, Amsterdam, Netherlands"
 show-setlist: 
 show-date: 1989-11-18
 category: 1989

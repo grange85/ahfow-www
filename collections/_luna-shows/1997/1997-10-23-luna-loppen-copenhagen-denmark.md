@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Loppen, Copenhagen, Denmark '
+show-venue: "Loppen, Copenhagen, Denmark "
+title: "23rd October 1997 -  Luna - Loppen, Copenhagen, Denmark "
 show-setlist: [
   "Fuzzy Wuzzy",
   "Beggar's Bliss",

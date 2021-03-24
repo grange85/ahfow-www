@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Maxwells, Hoboken NJ, USA'
+show-venue: "Maxwells, Hoboken NJ, USA"
+title: "27th May 2000 -  Luna - Maxwells, Hoboken NJ, USA"
 show-setlist: [
   "Sideshow By The Seashore",
   "Hello Little One",

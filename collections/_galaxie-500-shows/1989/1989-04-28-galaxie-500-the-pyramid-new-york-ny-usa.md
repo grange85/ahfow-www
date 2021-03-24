@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: galaxie-500
-show-venue: 'The Pyramid, New York, NY, USA'
+show-venue: "The Pyramid, New York, NY, USA"
+title: "28th April 1989 -  Galaxie 500 - The Pyramid, New York, NY, USA"
 show-setlist:
 show-date: 1989-04-28
 source: Dean Wareham

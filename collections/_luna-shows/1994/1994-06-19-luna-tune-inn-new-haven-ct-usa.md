@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: ' Tune Inn, New Haven, CT, USA'
+show-venue: " Tune Inn, New Haven, CT, USA"
+title: "19th June 1994 -  Luna -  Tune Inn, New Haven, CT, USA"
 show-setlist: 
 show-date: 1994-06-19
 category: 1994

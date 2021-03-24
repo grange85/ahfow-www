@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Knitting Factory, Los Angeles CA, USA'
+show-venue: "Knitting Factory, Los Angeles CA, USA"
+title: "31st October 2000 -  Damon & Naomi - Knitting Factory, Los Angeles CA, USA"
 show-setlist: 
  - Judah and The Maccabees
  - The Mirror Phase

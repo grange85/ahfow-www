@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Mercy Lounge, Nashville TN, USA'
+show-venue: "Mercy Lounge, Nashville TN, USA"
+title: "22nd March 2007 - Dean & Britta - Mercy Lounge, Nashville TN, USA"
 show-setlist: [
   "Singer Sing",
   "Night Nurse",

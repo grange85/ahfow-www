@@ -4,7 +4,8 @@ position: database-5
 artistslug: britta-phillips
 artist:
   name: Britta Phillips
-show-venue: 'Birchmere Music Hall, Alexandria, VA, USA'
+show-venue: "Birchmere Music Hall, Alexandria, VA, USA"
+title: "29th September 2016 - Britta Phillips - Birchmere Music Hall, Alexandria, VA, USA"
 show-notes: ''
 show-setlist: 
  - One Fine Summer Morning

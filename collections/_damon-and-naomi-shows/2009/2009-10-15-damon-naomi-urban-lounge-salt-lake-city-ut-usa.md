@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Urban Lounge, Salt Lake City, UT, USA'
+show-venue: "Urban Lounge, Salt Lake City, UT, USA"
+title: "15th October 2009 -  Damon & Naomi - Urban Lounge, Salt Lake City, UT, USA"
 show-setlist: 
 show-date: 2009-10-15
 category: 2009

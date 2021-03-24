@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Fillmore, San Francisco CA, USA'
+show-venue: "Fillmore, San Francisco CA, USA"
+title: "29th September 1997 -  Luna - Fillmore, San Francisco CA, USA"
 show-setlist: [
   "Pup Tent",
   "This Time Around",

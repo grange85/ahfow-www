@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Sticky Mike's Frog Bar, Brighton, UK"
+title: "30th July 2015 -  Luna - Sticky Mike's Frog Bar, Brighton, UK"
 show-setlist: [
   "Slide",
   "Chinatown",

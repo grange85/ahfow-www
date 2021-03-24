@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: '​The Bell House, Brooklyn, NY, USA'
+show-venue: "​The Bell House, Brooklyn, NY, USA"
+title: "19th March 2019 -  Damon & Naomi - ​The Bell House, Brooklyn, NY, USA"
 show-setlist:
 show-date: 2019-03-19
 date-added: 2019-03-08

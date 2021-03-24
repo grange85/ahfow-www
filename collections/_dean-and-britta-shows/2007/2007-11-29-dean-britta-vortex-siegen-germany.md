@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Vortex, Siegen, Germany'
+show-venue: "Vortex, Siegen, Germany"
+title: "29th November 2007 - Dean & Britta - Vortex, Siegen, Germany"
 show-setlist: [
   "Singer Sing",
   "Our Love Will Still Be There",

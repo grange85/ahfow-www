@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Metro, Chicago IL, USA'
+show-venue: "Metro, Chicago IL, USA"
+title: "23rd February 2004 -  Luna - Metro, Chicago IL, USA"
 show-setlist: 
 show-date: 2004-02-23
 category: 2004

@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'The Loft, UCSD, La Jolla, Sand Diego, CA, USA'
+show-venue: "The Loft, UCSD, La Jolla, Sand Diego, CA, USA"
+title: "9th October 2009 - Dean & Britta - The Loft, UCSD, La Jolla, Sand Diego, CA, USA"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

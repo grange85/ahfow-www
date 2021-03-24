@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: damon-and-naomi
 show-venue: "Henry's Cellar Bar, Edinburgh, UK"
+title: "16th February 2018 -  Damon & Naomi - Henry's Cellar Bar, Edinburgh, UK"
 show-setlist:
 show-date: 2018-02-16
 date-added: 2017-12-12

@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Black Cat, Washington DC, USA'
+show-venue: "Black Cat, Washington DC, USA"
+title: "29th March 2007 - Dean & Britta - Black Cat, Washington DC, USA"
 show-setlist: [
   "Singer Sing",
   "Our Love Will Still Be There",

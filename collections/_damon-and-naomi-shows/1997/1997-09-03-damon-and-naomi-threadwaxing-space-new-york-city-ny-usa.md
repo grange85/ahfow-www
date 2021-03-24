@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Threadwaxing Space, New York, NY, USA'
+show-venue: "Threadwaxing Space, New York, NY, USA"
+title: "3rd September 1997 -  Damon & Naomi - Threadwaxing Space, New York, NY, USA"
 show-setlist: 
  - The Navigator
  - New York City

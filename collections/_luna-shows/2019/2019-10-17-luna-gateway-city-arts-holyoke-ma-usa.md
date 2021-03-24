@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Gateway City Arts, Holyoke, MA, USA'
+show-venue: "Gateway City Arts, Holyoke, MA, USA"
+title: "17th October 2019 -  Luna - Gateway City Arts, Holyoke, MA, USA"
 address: |
   Gateway City Arts, 
   92 Race St, 

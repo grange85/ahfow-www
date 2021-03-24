@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: damon-and-naomi
 show-venue: "Cats Cradle, Carrboro NC, USA"
+title: "26th July 1998 -  Damon & Naomi - Cats Cradle, Carrboro NC, USA"
 show-setlist: 
 show-date: 1998-07-26
 category: 1998

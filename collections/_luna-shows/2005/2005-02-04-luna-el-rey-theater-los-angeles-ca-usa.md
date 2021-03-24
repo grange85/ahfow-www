@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'El Rey Theater, Los Angeles CA, USA'
+show-venue: "El Rey Theater, Los Angeles CA, USA"
+title: "4th February 2005 -  Luna - El Rey Theater, Los Angeles CA, USA"
 show-setlist: [
   "Chinatown",
   "Malibu Love Nest",

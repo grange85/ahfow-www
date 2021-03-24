@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Lees Palace, Toronto, Canada"
+title: "7th November 2004 -  Luna - Lees Palace, Toronto, Canada"
 show-setlist: [
   "Malibu Love Nest",
   "California (All The Way)",

@@ -4,7 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'St. Pancras Old Church, London, UK'
+show-venue: "St. Pancras Old Church, London, UK"
+title: "6th December 2013 - Dean Wareham - St. Pancras Old Church, London, UK"
 show-setlist: [
   "Love Is Colder Than Death",
   "The Longest Bridges in The World",

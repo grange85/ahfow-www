@@ -2,7 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: 'Lincoln Hall, Chicago, IL, USA'
+show-venue: "Lincoln Hall, Chicago, IL, USA"
+title: "13th October 2019 -  Luna - Lincoln Hall, Chicago, IL, USA"
 address: |
   Lincoln Hall, 
   2424 N Lincoln Ave, 

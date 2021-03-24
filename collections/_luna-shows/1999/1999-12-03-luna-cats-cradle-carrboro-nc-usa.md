@@ -3,6 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Cats Cradle, Carrboro NC, USA"
+title: "3rd December 1999 -  Luna - Cats Cradle, Carrboro NC, USA"
 show-setlist: 
 show-date: 1999-12-03
 category: 1999
