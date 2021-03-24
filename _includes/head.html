@@ -43,41 +43,6 @@
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 
-<script>
-  (function() {
-    var cx = '017452044498352075094:-vuzx4-btdw';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-        '//cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
+<script async defer data-domain="fullofwishes.co.uk" src="https://plausible.io/js/plausible.js"></script>
 
-
-
-<script>
-  dataLayer = [{
-{% for category in page.categories %}
-{% case category %}
-{% when 'galaxie 500' %}
-    'page-artist': 'galaxie-500',
-{% when 'luna' %}
-    'page-artist': 'luna',
-{% when 'damon & naomi' %}
-    'page-artist': 'damon-and-naomi',
-{% when 'dean & britta' %}
-    'page-artist': 'dean-and-britta',
-{% when 'dean wareham' %}
-    'page-artist': 'dean-wareham',
-{% else %}
-    'page-category': '{{category | slugify}}',
-{% endcase %}
-{% endfor %}
-  'site' : 'www',
-  'environment': '{{site.environment}}'
-  }];
-</script>
 </head>
