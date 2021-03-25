@@ -3,7 +3,7 @@ layout: post
 status: publish 
 draft: false
 sitemap: true
-title: "Audio: Full show download of Galaxie 500 show from CBGB's in 1988"
+title: "Audio: Full show - Thirts years ago today Galaxie 500 in Denver"
 author:
   display_name: Andy
   login: admin
@@ -23,7 +23,7 @@ Thirty years ago Galaxie 500 were in the final stages of their last ever tour tr
 
 On this day in 1991 the band played at the Paramount Theater in Denver and here's an audio recording of the full show.
 
-{% ahfowvideo "SdHBMtvKBfg" "Galaxie 500 at The Paramount Theater, Denver in March 1991" %}
+{% ahfowvideo "SdHBMtvKBfg" "Galaxie 500 at The Paramount Theater, Denver in March 1991 (audio only)" %}
 
 <!--more-->
 
