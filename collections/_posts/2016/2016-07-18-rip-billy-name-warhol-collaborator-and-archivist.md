@@ -25,7 +25,7 @@ description: >
 ---
 <p class="lead">Billy Name, Warhol collaborator and archivist of The Factory has passed away</p>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/L1T58QqbQ6g" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Dean & Britta - Silver Factory Theme (Billy Name) at The Warhol in 2012</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/L1T58QqbQ6g" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Dean & Britta - Silver Factory Theme (Billy Name) at The Warhol in 2012</figcaption></figure>
 
 <blockquote>It is with tremendous sadness that we would like to announce that our dear friend and iconic artist Billy Name has begun his next great adventure. We mourn the loss of this important cultural figure and are thankful to have had the opportunity to work with him. We express our deepest condolences to his family and loved ones.
 <footer>Milk gallery statement</footer></blockquote>

@@ -64,7 +64,7 @@ tags: []
 
 <p>I pressed rec on the camera and only wish I had recorded much more. Every step should be recorded. I know the art, or whatever you want to call it, is best being enjoyed live of course, right in the middle of it, but if it's recorded the art it will continue.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r9mze1a1auY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/r9mze1a1auY" frameborder="0" allowfullscreen></iframe>
 
 <p>The audience are singing along to {% ahfowtrack "Friendly Advice" %}, ba ba ba, pa pa pa, you know how it goes, doesn't sound good in text I admit. It should be recorded. Friendly Advice turns out amazingly well also. With perfect dimming in sound in places, and Britta's little side trip on the bass and Sean's heavy rhythm and Stan's loud fast sound. I asked Audrey how Dean & Britta are doing with their french, I think she said they do well.</p>
 
@@ -84,4 +84,4 @@ tags: []
 
 <p class="text-muted">AHFoW: You can <a href="/2015/10/22/a-beautiful-light-fills-the-room-luna-in-ny-and-brooklyn-part-one/">read part one</a> and <a href="/2015/10/22/a-beautiful-light-fills-the-room-luna-in-ny-and-brooklyn-part-one/">part two</a> of Joakim's NY odyssey</a>. If you want to write up your Luna experience for AHFoW please <a href="/about/">get in touch</a>.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GYEp9lOly08" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GYEp9lOly08" frameborder="0" allowfullscreen></iframe>

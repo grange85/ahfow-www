@@ -24,11 +24,11 @@ Youtube user [3.Cameras.and.a.Microphone](https://www.youtube.com/channel/UC8tAn
 
 First up from the [Casbah in San Diego on 12 July 1994](https://www.fullofwishes.co.uk/database/luna/shows/1994/1994-07-12-casbah-san-diego-ca-usa/)
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/ZgR4pBTCdUk" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/ZgR4pBTCdUk" frameborder="0" allowfullscreen></iframe>
 
 ... and the next night at the [Coach House, San Juan Capistrano](https://www.fullofwishes.co.uk/database/luna/shows/1994/1994-07-13-luna-coach-house-los-angeles-ca-usa/)
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/QNq24KG9RUQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/QNq24KG9RUQ" frameborder="0" allowfullscreen></iframe>
 
 <p class="lead" id="2015-09-16-more">OK - another one has just turned up, this one from Luna's first US tour in 1992, and this is a treat (of sorts)&hellip;</p>
 <blockquote>
@@ -40,4 +40,4 @@ First up from the [Casbah in San Diego on 12 July 1994](https://www.fullofwishes
 <footer><a href="http://amzn.to/1YjwWBy">Wareham, Dean. Black Postcards: A Rock and Roll Romance. The Penguin Press, 2008</a>.</footer>
 </blockquote>
 You can see this all play out, and Justin, not Stanley, pulling Dean away at the end.
-<iframe width="420" height="315" src="https://www.youtube.com/embed/P02tq2NpB3s" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/P02tq2NpB3s" frameborder="0" allowfullscreen></iframe>

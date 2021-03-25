@@ -37,7 +37,7 @@ The opening track of On Fire is one that Galaxie 500 and all post-Galaxie 500 co
 See also:
  - <a href="/2008/05/24/mp3-galaxie-500-soundcheck-blue-thunder/">MP3: Galaxie 500 soundcheck Blue Thunder</a>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/lc3kxjy2GNk" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Blue Thunder (video)</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lc3kxjy2GNk" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Blue Thunder (video)</figcaption></figure>
 
 ### Luna
 

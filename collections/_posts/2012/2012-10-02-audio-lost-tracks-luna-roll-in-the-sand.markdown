@@ -26,4 +26,4 @@ The flip side remained nowhere but on the flip of the 7" (or on the CD single) u
 <p>As a bonus here's a great live version of Outdoor Miner<br />
 MP3: <a href="https://www.box.com/s/obclp851qzzol3vbjrrg">Luna - Outdoor Miner (live in NYC 1994)</a></p>
 <p>Can't find video of Luna playing it live on YouTube so here's the utterly fab The Feelies (with a little bit of Luna)<br />
-<iframe class="aligncenter" width="560" height="315" https://www.youtube.com/embed/oYzGvf1bZkw" frameborder="0" allowfullscreen></iframe></p>
+<iframe class="aligncenter" width="560" height="315" https://www.youtube-nocookie.com/embed/oYzGvf1bZkw" frameborder="0" allowfullscreen></iframe></p>

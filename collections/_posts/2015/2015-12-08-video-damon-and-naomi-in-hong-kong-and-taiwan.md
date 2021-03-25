@@ -27,10 +27,10 @@ tags: []
 <p>Some videos from Damon & Naomi's show at the Simple Life festival in Taichung</p>
 
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/4OlJi3udelQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">How Do I Say Goodbye</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4OlJi3udelQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">How Do I Say Goodbye</figcaption></figure>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/x8hwAkh1mOI" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Time Won't Own Me</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/x8hwAkh1mOI" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Time Won't Own Me</figcaption></figure>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/BV-OgODLNL4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Turn of the Century</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BV-OgODLNL4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Turn of the Century</figcaption></figure>
 
 <p>Damon & Naomi have one more show this year, a <a href="/database/damon-and-naomi/shows/2015/2015-12-16-damon-and-naomi-casa-del-popolo-montreal-canada/">performance of Fortune in Montreal</a>.</p>

@@ -24,11 +24,11 @@ categories:
 <figcaption class="caption-text">Sonic Boom with Dean & Britta in 2007</figcaption></figure>
 
 <figure class="caption aligncenter">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/0lXnqpr_0H0" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/0lXnqpr_0H0" frameborder="0" allowfullscreen></iframe>
 <figcaption class="caption-text">Sonic Boom playing with Cheval Sombre (and Dean & Britta in 2009)</figcaption></figure>
 
 <figure class="caption aligncenter">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/pImTZjjY-IE" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/pImTZjjY-IE" frameborder="0" allowfullscreen></iframe>
 <figcaption class="caption-text">Sonic Boom's remix of Dean & Britta's Ginger Snaps</figcaption></figure>
 
 and finally&hellip;

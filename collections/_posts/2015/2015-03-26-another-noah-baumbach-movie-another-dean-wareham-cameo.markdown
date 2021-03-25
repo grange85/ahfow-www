@@ -18,7 +18,7 @@ categories:
 tags: []
 ---
 <p>Noah Baumbach's latest movie While We're Young opens in US cinemas this weekend, and like most Noah Baumbach movies before it, you should be keeping an eye out for Dean Wareham - apparently playing a shaman. You can watch the trailer here:<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NRUcm9Qw9io" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NRUcm9Qw9io" frameborder="0" allowfullscreen></iframe>
 <p>I don't have any pics of Dean's appearance yet so you'll have to make do with a screencap from another Baumbach movie:<br />
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/francesha-dean-greta-gerwig.jpg" width="1280" height="720" class /><figcaption class="caption-text">  Greta Gerwig and Dean Wareham in Frances Ha</figcaption></figure>
 <p>... and a song from an even earlier Baumbach movie:<br />

@@ -18,4 +18,4 @@ categories:
 tags: []
 ---
 <p>Dean Wareham - Holding Pattern | Water Tape (HD): </p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mCf80JbdTfM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mCf80JbdTfM" frameborder="0" allowfullscreen></iframe>

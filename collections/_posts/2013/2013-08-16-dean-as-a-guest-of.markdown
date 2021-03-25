@@ -24,17 +24,17 @@ Later this month Dean Wareham will be releasing a solo single on fab indie <a hr
 <p>While I'm pondering just how I cure my minor headache here are a few of those appearances...</p>
 <p>Dean as a guest of... Angel Corpus Christi - Je T'aime / I Wanna Boogie With You<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/WNvzfy8zT44" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WNvzfy8zT44" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p><!--more Plenty more after the break...--></p>
 <p>Dean as a guest of... The Sixths - Falling Out of Love With You<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/Ephn8t-fU48" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ephn8t-fU48" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>Dean as a guest of... The Pastels - Rough Riders<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/Qyu7e63psqE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Qyu7e63psqE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>Dean as a guest of... Füxa - Cheree<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/Ug55Cs2xxZM" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ug55Cs2xxZM" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/14_Shapir-O-Rama_She-s-A-Beacon.mp3",
@@ -46,5 +46,5 @@ Later this month Dean Wareham will be releasing a solo single on fab indie <a hr
 <p><figure class="caption aligncenter"><a href="http://www.flickr.com/photos/r-e-c-e-i-v-e-d/3504815221/"><img src="https://farm4.staticflickr.com/3618/3504815221_5590ed297d.jpg" width="500" height="281" class /></a><figcaption class="caption-text"> Dean as a guest of Cheval Sombre (photo by Valdina)</figcaption></figure></p>
 <p>Dean as a guest of Cheval Sombre - I Found It Not So<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/w326GYZKiU8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w326GYZKiU8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>I've missed out a hatful - please leave a comment if I've missed out your favourite!</p>

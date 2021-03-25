@@ -20,7 +20,7 @@ tags: []
 ---
 <p><a href="https://www.flickr.com/photos/george_eastman_house/2986882833" title="E. River by George Eastman House, on Flickr"><img class="aligncenter" src="https://farm4.staticflickr.com/3025/2986882833_954954d7bd_z.jpg?zz=1" width="640" height="431" alt="E. River"></a><br />
 Adam Green's original of We're Not Supposed to be Lovers was released on his second solo album "friends of Mine" in 2003.<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hRyFr4rigZ0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hRyFr4rigZ0" frameborder="0" allowfullscreen></iframe>
 <p>Dean & Britta's cover appeared on their Words You Used to Say EP in 2008<br />
 MP3: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-were-not-supposed-to-be-lovers.mp3">Dean & Britta - We're Not Supposed to be Lovers</a><br />
 <audio src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-were-not-supposed-to-be-lovers.mp3" preload="none" controls /></p>
@@ -34,4 +34,4 @@ MP3: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and
   } %}
 
 <p>And here's a sweet blurry video of that show<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQ-sDkZHqLg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AQ-sDkZHqLg" frameborder="0" allowfullscreen></iframe>

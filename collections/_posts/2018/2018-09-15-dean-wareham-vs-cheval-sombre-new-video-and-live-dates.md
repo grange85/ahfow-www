@@ -19,7 +19,7 @@ tags:
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-vs-cheval-sombre-luz-gallardo.jpg" alt="Dean Wareham vs. Cheval Sombre (photo: Luz Gallardo)" class="img-fluid"><figcaption class="caption-text">Dean Wareham vs. Cheval Sombre (photo: <a href="http://luzgallardo.com/portraits#/id/i12702237/full">Luz Gallardo</a>)</figcaption></figure>
 <p class="lead">A second track from the forthcoming Dean Wareham vs. Cheval Sombre album has just been released. Cheval Sombre takes lead vocals on this cover of Blaze Foley's If I Could Only Fly and has a gorgeous video by <a href="http://www.danhuiting.com/music-videos/">Dan Huiting</a> to accompany it.</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/mFYXNs8sZL8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">If I Could Only Fly - Dean Wareham vs. Cheval Sombre</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mFYXNs8sZL8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">If I Could Only Fly - Dean Wareham vs. Cheval Sombre</figcaption></figure>
 <p>The duo have also announced two full band shows, one in New York City in December and one in San Francisco in January&hellip; not sure if there'll be more but keep your fingers crossed!</p>
 <table class="table table-striped">
       <tbody><tr>

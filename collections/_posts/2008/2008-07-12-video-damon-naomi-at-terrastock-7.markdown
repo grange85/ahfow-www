@@ -18,4 +18,4 @@ categories:
 tags: []
 ---
 <p>I just came across a couple of nice videos of Damon & Naomi performing Lilac Land and Cruel Queen at Terrastock 7 a few weeks back...</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/J8rh41osSrw&hl" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure><figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/8-wFmyWHcOI&hl" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/J8rh41osSrw&hl" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure><figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8-wFmyWHcOI&hl" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>

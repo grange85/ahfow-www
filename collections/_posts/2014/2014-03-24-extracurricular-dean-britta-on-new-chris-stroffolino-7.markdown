@@ -22,4 +22,4 @@ tags:
 <p>Dean & Britta guest on <a href="http://pianovan.com/">Piano Van</a> man <a href="http://munster-records.com/en/label/munster/product/i-m-not-going-astray#">Chris Stroffolino's 7" single being released on Munster Records</a>:</p>
 <blockquote><p>Stroffolino recorded these tracks with Sundance award-winning director Jeff Feuerzeig ("The Devil and Daniel Johnston") handling the production. Here he is accompanied by Dean Wareham and Britta Phillips on the Alice Cooper version 'I Never Cry'.</p></blockquote>
 <p>Here's Dean & Britta performing Luna's Lost in Space with Chris - this track isn't on the single!<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_0tchjwbHgw" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_0tchjwbHgw" frameborder="0" allowfullscreen></iframe>

@@ -23,7 +23,7 @@ Rain was one of the Lennon <em>Lennon/McCartney </em>compositions and was releas
 <p>The Beatles - Rain<br />
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cK5G8fPmWeA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cK5G8fPmWeA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p>Galaxie 500's cover was a live version recorded at CBGB's in 1989 and appeared on a 7" released by Caff records.</p>
 <p><iframe frameborder="1" scrolling="auto" style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2614932935/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/t=14/transparent=true/" seamless="seamless"><a shape="rect" href="http://galaxie500.bandcamp.com/album/uncollected">Uncollected by Galaxie 500</a></iframe></p>

@@ -35,8 +35,8 @@ Jean-Claude Oliver (or Olivier) was the composer and Roger Valade wrote the lyri
 <p>Damon & Naomi's version was the closing track on their fantastic debut album More Sad Hits.<br />
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4050036211/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1612917842/transparent=true/" seamless><a href="http://damonandnaomi.bandcamp.com/album/more-sad-hits">More Sad Hits by Damon & Naomi</a></iframe></p>
 <p>So, This Changing World was the b-side of the song that came seventh in the 1968 Eurovision song contest ... that's pretty obscure...<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aJ7y5Z6pplM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aJ7y5Z6pplM" frameborder="0" allowfullscreen></iframe>
 <p>... although not as obscure as the b-side of <a href="http://en.wikipedia.org/wiki/My_Lovely_Horse">the song that came fifth in a song for Norway in 1976</a>.<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jzYzVMcgWhg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jzYzVMcgWhg" frameborder="0" allowfullscreen></iframe>
 <p>Hmmm I think I may have gone a little too in-depth there!</p>
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

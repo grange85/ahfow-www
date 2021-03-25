@@ -24,7 +24,7 @@ Argh! Didn't think this was going to be a tricky one... looks like UMG are busy 
 
 Update (14th July 2020): Currently on YouTube, so...
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/n57XdJ4NKI8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Jonathan Richman - Back In Your Life</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/n57XdJ4NKI8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Jonathan Richman - Back In Your Life</figcaption></figure>
 
 <p>This <a href="http://brandybonin.tumblr.com/post/36745708093/jonathan-richman-and-the-modern-lovers-back-in">"Swell Tunes" Tumblr</a> also has the song.</p>
 <p>Back in Your Life was a cover that Galaxie 500 certainly played at least once in their early days - we know this because it turned up on the rather excellent "Don't Let Our Youth Go to Waste" as part of the set they played at The Middle East in Cambridge, MA on March 19th 1988.</p>
@@ -38,5 +38,5 @@ Update (14th July 2020): Currently on YouTube, so...
 
 <p>Here's the video, watch the whole set or jump to 7'45" in to get to the cover of Back in Your Life<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/jMbXAvDueHA?t=7m46s" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jMbXAvDueHA?t=7m46s" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

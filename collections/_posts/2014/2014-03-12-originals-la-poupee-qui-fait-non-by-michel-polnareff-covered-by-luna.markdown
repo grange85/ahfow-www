@@ -19,7 +19,7 @@ tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/la-poupee-qui-fait-non-sheet-music-cover.jpg" width="741" height="949" class /><figcaption class="caption-text"> Sheet music - <a href="http://accordeonduriche.canalblog.com/archives/2012/08/06/24671434.html">download here</a></figcaption></figure>
 Originally by Michel Polnareff and released in 1966<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EfuiJuKGp1k" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EfuiJuKGp1k" frameborder="0" allowfullscreen></iframe>
 <p>Covered by Luna for the 1996 Emperor Norton LP Pop Romantique </p>
 
  {% ahfowaudio {
@@ -30,7 +30,7 @@ Originally by Michel Polnareff and released in 1966<br />
   } %}
 
 <p>It's another one of those songs that gets covered by everyone - here's a rather splendid English language cover by the wonderful St Etienne<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eRaEX34fN_U" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eRaEX34fN_U" frameborder="0" allowfullscreen></iframe>
 <p>And here's the sweetest video you find on YouTube when you search for <em>La poupée qui fait non Luna</em><br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Gai0zu2gyc0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Gai0zu2gyc0" frameborder="0" allowfullscreen></iframe>
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

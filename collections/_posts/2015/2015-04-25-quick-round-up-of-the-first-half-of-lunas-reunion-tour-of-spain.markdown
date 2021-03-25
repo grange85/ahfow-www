@@ -22,13 +22,13 @@ tags: []
 <p>Well, I'm all packed and ready to head off to Portugal in the morning so before I go I'll throw together a quick and dirty round-up of the first part of Luna's reunion tour.</p>
 <h3>17 April 2015: Luna – Gijon Sound Festival, Gijon</h3>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/x_XK0nyRLr0" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna playing Pup Tent</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/x_XK0nyRLr0" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna playing Pup Tent</figcaption></figure>
 <p>Setlist</p>
 <h3>18 April 2015: Luna – Escenario Santander, Santander</h3>
 <p><a href="https://www.flickr.com/photos/city_kitty/17167048956" title="Night 2. #lunareunion by city kitty, on Flickr"><img src="https://farm8.staticflickr.com/7604/17167048956_a5b1304ea6_z.jpg" width="640" height="640" alt="Night 2. #lunareunion"></a><br />
 Setlist</p>
 <h3>19 April 2015: Luna – Teatre de Lloseta, Lloseta, Mallorca</h3>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/sxDeNNgSFlE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sxDeNNgSFlE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>Setlist</p>
 <h3>20 April 2015: Luna – Teatro Lara, Madrid</h3>
 <p><a href="https://www.flickr.com/photos/-christoph-/16612647523" title="Luna live... by Christoph!, on Flickr"><img src="https://farm8.staticflickr.com/7705/16612647523_57d1c59ca2_z.jpg" width="640" height="427" alt="Luna live..."></a><br />
@@ -45,8 +45,8 @@ Setlist</p>
 <p><script async defer src="//platform.instagram.com/en_US/embeds.js"></script><br />
 Setlist</p>
 <h3>22 April 2015: Luna – La Cambra, Valencia</h3>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/h-Unt4tIsgk" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/h-Unt4tIsgk" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>Setlist</p>
 <h3>23 April 2015: Luna – Bikini, Barcelona</h3>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/8qRVaT4uVCE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8qRVaT4uVCE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>Setlist</p>

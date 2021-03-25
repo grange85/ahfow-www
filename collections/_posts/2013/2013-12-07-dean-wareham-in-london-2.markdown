@@ -25,7 +25,7 @@ Lows: That I never took some snaps backstage</p>
 <p>Oh, the whole of last night's show is already on YouTube, here's a couple, but look at <a href="http://www.youtube.com/user/Andunemir?feature=watch">Andunemir</a>'s profile for the rest.</p>
 <p>Wehn Will You Come Home<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/I0_l2Nrw_Kw" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/I0_l2Nrw_Kw" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>Emancipated Hearts<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/g7VYbNy0zeo" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/g7VYbNy0zeo" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>

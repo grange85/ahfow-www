@@ -20,7 +20,7 @@ tags: []
 ---
 <p><a href="https://www.flickr.com/photos/24205602@N02/7040372853" title="Pearls Before Swine – One Nation Underground (1967 ESP Disk) 1980 Adelphi Records reissue w/Balaklava by Greg(ory), on Flickr"><img class="aligncenter" src="https://farm8.staticflickr.com/7088/7040372853_ca59c39aa4_z.jpg" width="640" height="428" alt="Pearls Before Swine – One Nation Underground (1967 ESP Disk) 1980 Adelphi Records reissue w/Balaklava"></a></p>
 <p>Translucent Carriages was recorded for Pearls Before Swine's second album Balaklava in 1968.<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EWfN9R3zyx8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EWfN9R3zyx8" frameborder="0" allowfullscreen></iframe>
 <p>Damon & Naomi's cover version was first released on the Magic Eye Singles Pearls Before Swine tribute album "For The Dead in Space" in 1997 and subseuqntly turned up on the following years Playback Simgers.</p>
 
  {% ahfowaudio {

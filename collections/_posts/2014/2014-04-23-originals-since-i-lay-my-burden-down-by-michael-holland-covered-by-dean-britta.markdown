@@ -30,5 +30,5 @@ Since I Lay My Burden Down was written by Michael Holland and released on his 20
   } %}
 
 <p>Michael Holland also wrote Heartless People, the only non-original song on Dean Wareham's new LP<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbRipWZ8Qtk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qbRipWZ8Qtk" frameborder="0" allowfullscreen></iframe>
 <p><strong><a href="/category/originals/" title="List: Originals">See all 'Originals'</a></strong></p>

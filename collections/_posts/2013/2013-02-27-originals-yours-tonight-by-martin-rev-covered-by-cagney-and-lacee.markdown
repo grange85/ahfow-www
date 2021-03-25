@@ -28,7 +28,7 @@ Cagney and Lacee were Dean Wareham and his then wife Claudia Silver. They releas
 
 Update (14th July 2020): Currently on YouTube, so...
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/gq1BRWtznVE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Yours Tonight - Martin Rev</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gq1BRWtznVE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Yours Tonight - Martin Rev</figcaption></figure>
 
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/01_Cagney-and-Lacee_Be-Mine.mp3",

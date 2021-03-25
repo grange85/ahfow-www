@@ -23,7 +23,7 @@ tags: []
 <footer><a href="http://www.salon.com/2012/06/15/dean_wareham_my_jonathan_richman_romance/">Dean Wareham: My Jonathan Richman romance (Salon)</a></footer>
 </blockquote>
 <p>Happy birthday to the wonderful Jonathan Richman whose shadow looms large over A Head Full of Wishes, more of that down the page - but first here's a lovely clip of the great man himself - Joanthan Richman and The Modern Lovers - I'm Just Beginning to Live<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w5OnYVFr_DA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w5OnYVFr_DA" frameborder="0" allowfullscreen></iframe>
 <p>Have a great day Jojo. <a href="https://www.youtube.com/watch?v=nu3TvC9CH18">I love your chimes... they reel and they rock</a>.</p>
 <p><iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3510813574/size=small/bgcol=ffffff/linkcol=0687f5/track=452266046/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/copenhagen-live">Copenhagen (live) by Galaxie 500</a></iframe></p>
 

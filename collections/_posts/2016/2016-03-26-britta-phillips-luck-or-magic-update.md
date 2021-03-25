@@ -35,7 +35,7 @@ tags: []
 
 <p>The cover of Drive is the 2nd single from the album and is <a href="https://itunes.apple.com/us/album/drive/id1072803111?i=1072803122">available on iTunes</a> if you prefer to work that way. It also has a video directed by <a href="http://www.theculturecrush.com/">Debra Scherer of The Culture Crush</a></p>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/G7vyQKZP4y4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Drive - Britta Phillips (Dir: Debra Scherer)</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/G7vyQKZP4y4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Drive - Britta Phillips (Dir: Debra Scherer)</figcaption></figure>
 
 <p class="lead">Britta has also been added as support to Luna's shows in <a href="/database/luna/shows/2016/2016-05-04-luna-granada-theater-dallas-tx-usa/">Dallas</a>, <a href="/database/luna/shows/2016/2016-05-05-luna-mohawk-austin-tx-usa/">Austin</a> and <a href="/database/luna/shows/2016/2016-05-07-luna-numbers-houston-tx-usa/">Houston</a> in May!</p>
 

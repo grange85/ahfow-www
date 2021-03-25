@@ -26,7 +26,7 @@ On a whim, and thanks to Hertz doing a £12 a day rental promotion, I headed dow
 <p>The band finished with a storming Fourth of July... and I headed back up to London in the pouring rain.</p>
 <p><strong>Database</strong>: 21 May 2014 - Dean Wareham at The Prince Albert, Brighton, UK</p>
 <p><strong>Video</strong>: Dean Wareham - Tugboat<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lSgdEVBsg9s" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lSgdEVBsg9s" frameborder="0" allowfullscreen></iframe>
 <p><strong>Photos</strong>:<br />
 <a href="https://www.flickr.com/photos/grange85/14054590407" title="Dean Wareham at The Prince Albert in Brighton by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://farm3.staticflickr.com/2917/14054590407_ef619e1d26_z.jpg" width="640" height="428" alt="Dean Wareham at The Prince Albert in Brighton"></a><br />
 <a href="https://www.flickr.com/photos/grange85/14237875831" title="Dean Wareham at The Prince Albert in Brighton by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://farm3.staticflickr.com/2932/14237875831_ac31d0c7da_z.jpg" width="640" height="428" alt="Dean Wareham at The Prince Albert in Brighton"></a><br />

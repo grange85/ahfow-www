@@ -75,7 +75,8 @@ else
 
 fi
 
-
+echo "create minified json for search"
+python -c 'import json, sys;json.dump(json.load(sys.stdin), sys.stdout)'  < _deploy/search.json > _deploy/search-min.json
 
 if [[ -v dryrun ]]
 then

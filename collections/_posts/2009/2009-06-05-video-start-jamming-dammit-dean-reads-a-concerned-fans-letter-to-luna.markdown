@@ -19,4 +19,4 @@ categories:
 tags: []
 ---
 <p>This is just hilarious!<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gqowWFaOaME" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gqowWFaOaME" frameborder="0" allowfullscreen></iframe>

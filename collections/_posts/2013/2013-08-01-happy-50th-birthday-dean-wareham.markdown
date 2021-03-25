@@ -21,7 +21,7 @@ tags: []
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/dean_wareham_tiom.jpg" width="612" height="612" class /><figcaption class="caption-text"> Photo: Norman Gholson Von Holtzendorff 1990</figcaption></figure>
 <p>Don't Let Our Youth Go to Waste<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/1X-EHldG7BA" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1X-EHldG7BA" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>Have a great day Dean!</p>
 <p>Previously:<br />
 <a href="/2012/08/01/happy-birthday-dean-wareham-3/" title="Happy birthday Dean Wareham (2012)">Happy birthday Dean Wareham (2012)</a><br />

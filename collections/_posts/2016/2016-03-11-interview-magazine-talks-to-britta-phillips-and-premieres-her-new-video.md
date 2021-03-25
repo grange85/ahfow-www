@@ -19,7 +19,7 @@ tags: []
 <p class="lead">Interview Magazine has a <a href="http://www.interviewmagazine.com/music/britta-phillips#_">lengthy interview with Britta</a> about her upcoming solo album Luck or Magic.</p>
 
 <p>The article also includes the premiere of the video for Britta's cover of Drive. The video was directed by Debra Scherer of The Culture Crush who has previously made videos for a number of other Dean Wareham and Britta Phillips songs - <a href="http://www.theculturecrush.com/video/">check them out</a>.</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/G7vyQKZP4y4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Britta Phillips - Drive</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/G7vyQKZP4y4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Britta Phillips - Drive</figcaption></figure>
 
 <blockquote>
  First of all, I never would have picked "Drive" and "Landslide" to cover. Those were Scott Hardkiss's choices. He picked all these really huge hits, which I try to steer clear of, but I was intrigued by the fact that he really wanted me to do these, so I gave it a go. I was surprised that it came out that way. That's part of the reason why we used the title <i>Luck or Magic</i>.

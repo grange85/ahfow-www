@@ -34,4 +34,4 @@ tags: []
 	<li><a href="https://itunes.apple.com/us/album/luck-or-magic/id1072803111">Pre-order on iTunes</a></li>
 </ul>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/mrOpkUxhntE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Britta Phillips - One Fine Summer Morning</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mrOpkUxhntE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Britta Phillips - One Fine Summer Morning</figcaption></figure>

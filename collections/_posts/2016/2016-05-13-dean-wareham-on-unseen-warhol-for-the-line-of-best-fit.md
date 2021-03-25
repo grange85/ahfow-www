@@ -42,4 +42,4 @@ description: "Luna's Dean Wareham talks about the Unseen Warhol show ahead of da
         </tr>
 </tbody></table>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/Ggr8IJrAQ2o" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Trailer for Unseen Warhol</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ggr8IJrAQ2o" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Trailer for Unseen Warhol</figcaption></figure>

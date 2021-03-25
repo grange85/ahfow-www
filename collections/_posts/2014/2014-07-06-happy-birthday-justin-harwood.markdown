@@ -23,7 +23,7 @@ tags: []
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-in-store-amsterdam-1989.jpg" width="1566" height="1061" class /><figcaption class="caption-text"> Justin watches Galaxie 500 in Amsterdam in Novermber 1989</figcaption></figure>
 <p>Justin's fab web series The High Road is just filming it's second series so in preparation you should (re-)watch the first series<br />
 <img src="https://media.fullofwishes.co.uk/00-misc/pictures/highroad-screengrab.jpg" width="641" height="354" class="aligncenter" /></p>
-<p><iframe width="640" height="360" src="//www.youtube.com/embed/videoseries?list=PLRgAVz39zTz-ZsD_rzpgcNP8DaL57gZVB" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe width="640" height="360" src="//www.youtube-nocookie.com/embed/videoseries?list=PLRgAVz39zTz-ZsD_rzpgcNP8DaL57gZVB" frameborder="0" allowfullscreen></iframe></p>
 <p>Luna - This Time Around<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PLAW7Zm-2s4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PLAW7Zm-2s4" frameborder="0" allowfullscreen></iframe>
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/1996-10-05/19961005_pradejon_03.jpg" width="319" height="480" class="aligncenter" />1996 - Pradejon, Spain<br/><figcaption class="caption-text">Photo: Rosa Faus</figcaption></figure>

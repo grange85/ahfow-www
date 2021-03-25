@@ -21,12 +21,12 @@ tags: []
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/jonathan-richman.jpg" width="627" height="352" class /><figcaption class="caption-text"> Jonathan Richman</figcaption></figure>
 I think Fly Into the Mystery might have been another song recorded in the 1973 sessions with Kim Fowley (although as mentioned in the entry on <a href="/2013/05/15/originals-dont-let-our-youth-go-to-waste-by-jonathan-richman-covered-by-galaxie-500">Don't Let Our Youth Go to Waste</a> this is not clear-cut) - this recording is available on the Songs of Remembrance bootleg :<br />
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/Fak-OFvYgD4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Fak-OFvYgD4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 
 <a id="more"></a><a id="more-4264"></a><br />
 Live versions are available dating from as early as 1971 - such as this one from a recently unearthed bootleg:<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/Cd0ZK9Gvy6g" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Cd0ZK9Gvy6g" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>It turned up officially on the 1977 release Rock and Roll With The Modern Lovers<br />
 <iframe class="aligncenter" src="https://embed.spotify.com/?uri=spotify:track:0yUJz57e6JQbVlXzn7PvxQ" width="300" height="380" frameborder="0" allowtransparency="true"></iframe></p>
 <p>Luna's version first turned up on the Benicassim 98 compilation listed as "Fly Into The Sun" and then on the Italian compilation Homesleephome2 and later on the digital only Lunafied.</p>

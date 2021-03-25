@@ -25,8 +25,8 @@ You can either grab the show in [lossless FLACs from Dimeadozen](http://www.dime
 
 The site has also uploaded a bunch of great videos from the show to YouTube. Here's I Can't Wait...
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/Dya3Iaymp6M" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - I Can't Wait </figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Dya3Iaymp6M" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - I Can't Wait </figcaption></figure>
 
 ... and here's Bonnie and Clyde with Justin on bass.
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/poVo5-q1wpI" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Bonnie and Clyde</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/poVo5-q1wpI" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Bonnie and Clyde</figcaption></figure>

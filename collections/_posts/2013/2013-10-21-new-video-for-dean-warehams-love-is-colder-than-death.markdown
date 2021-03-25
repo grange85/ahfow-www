@@ -18,4 +18,4 @@ categories:
 tags: []
 ---
 <p>The Quietus had the <a href="http://thequietus.com/articles/13654-dean-wareham-love-is-colder-than-death-video">video online for Dean Wareham's latest single</a> Love Is Colder Than Death</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/LC-4aPVH4cQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LC-4aPVH4cQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>

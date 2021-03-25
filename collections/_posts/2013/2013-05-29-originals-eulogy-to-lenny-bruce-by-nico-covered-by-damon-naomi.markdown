@@ -19,7 +19,7 @@ tags: []
 ---
 <p>Eulogy to Lenny Bruce was written for Nico by Tim Hardin and appeared on Chelsea Girl<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/DdQYAZ_k_Q8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DdQYAZ_k_Q8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>Damon & Naomi's cover was on Damon & Naomi with Ghost<br />
 </p>
 {% bandcamp {"track": "1767240532"} %}

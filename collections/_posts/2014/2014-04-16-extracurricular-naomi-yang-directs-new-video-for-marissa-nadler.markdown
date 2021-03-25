@@ -18,4 +18,4 @@ tags: []
 ---
 <p>Naomi continues her alternative career as a music video director with this lovely clip for Drive by Marissa Nadler</p>
 <p>Marissa Nadler - Drive (Official Video):<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H3uH8ipVEmA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/H3uH8ipVEmA" frameborder="0" allowfullscreen></iframe>

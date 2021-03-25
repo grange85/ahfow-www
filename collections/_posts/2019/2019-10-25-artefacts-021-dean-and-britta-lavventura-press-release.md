@@ -30,7 +30,7 @@ Maybe I was sent it by another fan - if so thanks.
 
 Back in 2003, when this video was released, my internet connection was not really up to scratch so I was never entirely sure if the jerkiness of it was the video struggling to get to me down my narrow pipes. Turns out it was intentional.
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/8CQK5LBA4ls" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Dean & Britta - Night Nurse (2003, dir Stefano Giovannini)</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8CQK5LBA4ls" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Dean & Britta - Night Nurse (2003, dir Stefano Giovannini)</figcaption></figure>
 
 ---
 

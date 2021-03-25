@@ -21,7 +21,7 @@ tags: []
 I managed to miss posting an 'Original' this week - luckily next up is Spirit of Love which I've <a href="/2009/05/20/mp3-lost-tracks-5-damon-naomi-spirit-of-love/" title="Mp3: Lost tracks #5 – Damon & Naomi – Spirit of Love">already posted before</a>, <a href="/2011/11/04/audio-friday-recycling-damon-naomi-spirit-of-love/" title="Audio: Friday recycling: Damon & Naomi – Spirit of Love">twice</a>! So I can re-purpose those earlier posts...</p>
 <p>Clive Palmer was in the Incredible String Band for their first album in 1966, he then went on a trip to India and Afghanistan and when he came back decided to not rejoin the band, moved to Cornwall and carried on making music. In the early 70s he formed C.O.B. (Clive's Original Band) which recorded two albums, the first of which, in 1971, was called Spirit of Love...<br />
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/marNtAKQObA" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Spirit of Love - C.O.B.</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/marNtAKQObA" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Spirit of Love - C.O.B.</figcaption></figure>
 
 <p>Damon & Naomi covered the song on the single that was released with Ptolemaic Terrascope #23 (the issue that featured the interview where they talked about the sad break-up of Galaxie 500). Here's a bit of what I said previously about one of my favourite covers...</p>
 <blockquote><p>

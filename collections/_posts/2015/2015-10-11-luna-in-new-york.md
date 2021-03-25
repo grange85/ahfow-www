@@ -21,7 +21,7 @@ imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-08/2015-1
 
 <p>Luna took the stage around 10pm seeming to be the band that time forgot. Looking (and performing) as if they had not aged at all during their 10 year hiatus, they fittingly begun with {% ahfowtrack "Slide" %} to the cheers of the savvy and appreciative NYC crowd. The took us through beloved tour staples of most of their catalogue such as {% ahfowtrack "Chinatown" %}, {% ahfowtrack "Tracy I Love You" %}, {% ahfowtrack "Speedbumps" %} and {% ahfowtrack "Bewitched" %}, adding a stunningly gorgeous version of {% ahfowtrack "Kalamazoo" %}.  Only albums "Romantica" and "The Days of Our Nights" were not represented in the setlist.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sAUEnx1dj0k" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sAUEnx1dj0k" frameborder="0" allowfullscreen></iframe>
 
 <p>Luna spent the better part of the 90's and 2000's making near perfect records in pro studios with real budgets, but to many their live shows have always been revered as the apex of the Luna experience. And now, the band is truly better than ever. Whatever their time apart has afforded they are re-energized with even more powerful musical instincts and prowess. The interplay between Dean's vocals, Sean and Dean's guitars (oft compared to Television), between Britta's dancing and swaying bass and vocals, and Lee's tighter than tight drumming was all front and center, as was the way it all comes together and builds to crescendo after crescendo.</p>
 
@@ -47,7 +47,7 @@ imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-08/2015-1
 
 <p>The only technical glitches of the night involved serial fuzz pedal misbehavior, affecting both Dean & Britta's rigs, and prompting them to move into a wonderful naturally overdriven version of {% ahfowtrack "Time to Quit" %} as well as an only slightly less bass fuzzy, show ending version of {% ahfowtrack "Fuzzy Wuzzy" %}.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GYEp9lOly08" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GYEp9lOly08" frameborder="0" allowfullscreen></iframe>
 
 <p>(And while we're on the subject of guitar geekery, Dean primarily played an 80's white Japanese Burny Les Paul Custom copy, picking up a Cadillac green Fano Firebird inspired guitar for several capo/open tuned songs, Sean played a white '65 Jazzmaster reissue as well as a '63-64 worn sunburst Jazzmaster for his gorgeous tremolo explorations, and Britta sailed through the night on her tried and tested fiesta red P-bass with gold anodized guard. Sorry I couldn't help myself).</p>
 

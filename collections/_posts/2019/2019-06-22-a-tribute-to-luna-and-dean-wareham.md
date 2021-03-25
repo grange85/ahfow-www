@@ -35,7 +35,7 @@ I arrived early with a box of CDs and singles as A Head Full of Wishes was actin
 
 First up was a presentation of Matthew Buzzell's excellent Tell Me Do You Miss Me. This was only the second time the film had been shown in the UK and the first time [for nearly ten years](/2009/12/22/review-uk-premiere-of-tell-me-do-you-miss-me/). It was a treat to watch again, it had been a while since I'd sat down with the film and was surprised at how bleak, and emotional the film was - I genuinely had tears in my eyes at the end - which in the light of the band's reunion caught me a bit off-guard.
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/mvXVcXdibFo" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Daniel Land - Lost in Space (extract) (Luna cover)</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mvXVcXdibFo" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Daniel Land - Lost in Space (extract) (Luna cover)</figcaption></figure>
 
 
 Next up was a short but devastatingly beautiful set of Luna numbers by Daniel Land. He took Luna's songs and made them fragile and heartbreaking. The set opened with Lost in Space and followed it with Moon Palace and California (All The Way). A truly beautiful treat and I consider myself very lucky to have been in the room for it.
@@ -44,7 +44,7 @@ Next up was a short but devastatingly beautiful set of Luna numbers by Daniel La
 
 After a short break next up was a collaboration between the excellent Buffalo Postcard (whose single was the first release of the Sonic Cathedral singles club) and Ben Phillipson of the excellent Trimdon Grange Explosion (and previously the also excellent Eighteenth Day of May). This was a complete change from Daniel's set, the band took three Luna songs and three Galaxie 500 songs (sort of) and rock and rolled them perfectly, ornamenting with back-of-the-neck-bristling guitar breaks and clear love of the bands. They opened with a Luna set of Sideshow By The Seashore, Slide and Anesthesia and followed this with a set of Galaxie 500's Tell Me, Parking Lot and a "cover of a cover" of Ceremony.
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/5ZZYddaDo2o" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Buffalo Postcard with Ben Phillipson - Slide (Luna cover)</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5ZZYddaDo2o" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Buffalo Postcard with Ben Phillipson - Slide (Luna cover)</figcaption></figure>
 
 And then I was back playing some tunes while the small but apprecuiative crowd slowly finished up and filed out.
 

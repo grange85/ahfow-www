@@ -19,7 +19,7 @@ tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/white-horses.jpg" width="640" height="437" class /><figcaption class="caption-text"> Radio Times scan lifted from <a href="http://thewhitehorsestvseries1968.wordpress.com">this White Horses site</a></figcaption></figure>
 White Horses was written by Michael Carr and Ben Nisbett for the UK import of <a href="http://en.wikipedia.org/wiki/The_White_Horses">Yugoslavian/German TV show</a> Ferien in Lipizza, it was credited to "Jacky", who is actually <a href="http://en.wikipedia.org/wiki/Jackie_Lee">Jackie Lee</a>. The theme song was so successful that it was apparently dubbed back onto non-English versions of the show.<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/trxKvZcwLXU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/trxKvZcwLXU" frameborder="0" allowfullscreen></iframe>
 <p>Dean & Britta covered the song on their second album, Back Numbers, in 2007.</p>
 <p>Later that year Sonic Cathedral Records released a seven inch single with a Sonic Boom remix of the track and a "version Française"<br />
 MP3: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-white-horses-version-francaise.mp3">Dean & Britta - White Horses (version Française)</a><br />

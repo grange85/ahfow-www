@@ -18,4 +18,4 @@ categories:
 tags: []
 ---
 <p>Dean & Britta acting on the video for Going Out by Hospitality</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/pdzJs1KBUPQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pdzJs1KBUPQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>

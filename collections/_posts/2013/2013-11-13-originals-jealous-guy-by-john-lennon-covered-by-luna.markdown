@@ -19,9 +19,9 @@ tags: []
 ---
 <p>So John Lennon makes his second appearance in this series - he'll be back when we reach the <em>R</em>s for 70% of a track. </p>
 <p>Jealous Guy started out as Child of Nature, written after The Beatles attended a lecture by Maharishi Mahesh Yogi, and demoed at Harrison's home in Esher in 1968.<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cGAw_k3maXs" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cGAw_k3maXs" frameborder="0" allowfullscreen></iframe>
 <p>The track never made it onto a Beatles album and was rewritten as Jealous Guy for Lennon's Imagine.<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DzhyKn1ThpU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DzhyKn1ThpU" frameborder="0" allowfullscreen></iframe>
 <p>Luna recorded the track for Noah Baumbach's 1997 film Mr Jealousy</p>
 
  {% ahfowaudio {

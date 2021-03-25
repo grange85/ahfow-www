@@ -19,7 +19,7 @@ categories:
 tags: []
 ---
 <p>Because of the very sad news of <a href="http://en.wikipedia.org/wiki/Karen_Black">Karen Black</a>'s passing today, here's the splendid Memphis that she wrote and recorded for Robert Altman's wonderful <a href="http://en.wikipedia.org/wiki/Nashville_%28film%29">Nashville</a></p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/1ITqqSvpucg" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1ITqqSvpucg" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>Cagney and Lacee covered it on Six Feet of Chain</p>
 
  {% ahfowaudio {
@@ -30,6 +30,6 @@ tags: []
   } %}
 
 <p>Here's another song from Nashville</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/7foGZgv-53g" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7foGZgv-53g" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>RIP</p>
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

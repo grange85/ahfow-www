@@ -20,21 +20,21 @@ tags: []
 Had she still been with us today Nico would have been celebrating her 75th birthday, as sadly she passed away after a fall from her bicycle in Ibiza in 1988, we'll have to celebrate without her. So, instead of our regular installment in the <a href="/category/originals/">Originals</a> series, I'm going to revisit some earlier posts as a birthday tribute to the beautiful, and puzzling, Nico.</p>
 <p>But first...<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/FjjDmX9Tkss" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FjjDmX9Tkss" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p><strong><a href="/2013/05/29/originals-eulogy-to-lenny-bruce-by-nico-covered-by-damon-naomi/" title="Originals: Eulogy to Lenny Bruce by Nico (covered by Damon & Naomi)">Originals: Eulogy to Lenny Bruce by Nico (covered by Damon & Naomi)</a></strong><br />
 <em>Eulogy to Lenny Bruce by Damon & Naomi</em><br />
 <iframe class="aligncenter" style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2109597946/size=medium/bgcol=ffffff/linkcol=0687f5/t=1/transparent=true/" seamless><a href="http://damonandnaomi.bandcamp.com/album/the-sub-pop-years-1995-2002">The Sub Pop Years (1995-2002) by Damon & Naomi</a></iframe><br />
 <em>Eulogy to Lenny Bruce by Nico</em><br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/DdQYAZ_k_Q8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DdQYAZ_k_Q8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p><strong><a href="/2013/09/11/originals-ill-keep-it-with-mine-by-judy-collins-covered-by-dean-britta/" title="Originals: I’ll Keep It With Mine by Judy Collins (covered by Dean & Britta)"><br />
 Originals: I’ll Keep It With Mine by Judy Collins (covered by Dean & Britta)</a></strong><br />
 <em>I'll Keep It With Mine by Dean & Britta</em><br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/gJsrh-2xok0" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gJsrh-2xok0" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p><em>I'll Keep It With Mine by Nico</em><br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/qCwDMjp3G5Y" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qCwDMjp3G5Y" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p><strong><a href="/2013/09/18/originals-im-not-sayin-by-gordon-lightfoot-covered-by-cagney-and-lacee/" title="Originals: I’m Not Sayin’ by Gordon Lightfoot (covered by Cagney and Lacee)">Originals: I’m Not Sayin’ by Gordon Lightfoot (covered by Cagney and Lacee)</a></strong></p>
 
  {% ahfowaudio {
@@ -45,4 +45,4 @@ Originals: I’ll Keep It With Mine by Judy Collins (covered by Dean & Britta)</
   } %}
 
 <p><em>I'm Not Sayin' by Nico</em></p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/yiykD2_VRBg" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yiykD2_VRBg" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>

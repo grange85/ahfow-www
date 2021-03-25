@@ -24,9 +24,9 @@ MP3: <a href="/2006/10/04/audio-luna-kcrw-walk-on-the-wild-side/" title="Audio: 
 Originals: <a href="/2013/07/31/originals-here-she-comes-now-by-the-velvet-underground-covered-by-galaxie-500/" title="Originals: Here She Comes Now by The Velvet Underground (covered by Galaxie 500)">Here She Comes Now by The Velvet Underground (covered by Galaxie 500)</a><br />
 <a href="/category/velvet-underground-tour-diary/">Dean Wareham’s Velvet Underground tour diary</a></p>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/crjeF8G13x8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/n8hixY2vHpU" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/crjeF8G13x8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/n8hixY2vHpU" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/IG_LBHLxi8E" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IG_LBHLxi8E" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <blockquote><p>Dear Lou, if I hadn't found you, what I listen to would be hugely different, which means my life would be hugely different. My life was [changed] by <em>your</em> "Rock and Roll". I thank you for that.<br />
 <em>Andy</em></p></blockquote>

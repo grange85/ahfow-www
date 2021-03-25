@@ -23,4 +23,4 @@ tags: []
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/2002-12-31_luna_maxwells_poster.jpg" width="615" height="483" class /><figcaption class="caption-text"> Luna @ Maxwell's poster 2002</figcaption></figure>
 <p>Dean & Britta - Knives from Bavaria @ Maxwell's<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/wSd9YWtcG_g" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wSd9YWtcG_g" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>

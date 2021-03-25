@@ -29,7 +29,7 @@ ScottishTeeVee has previously shared the full version Galaxie 500 MTV Europe app
 
 Head over to the YouTube channel, subscribe and wallow in this and the literally hundreds of great videos there!
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/vnZjs7Zq-rY" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Galaxie 500 - Live Manchester 1990 (Full Show)</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vnZjs7Zq-rY" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Galaxie 500 - Live Manchester 1990 (Full Show)</figcaption></figure>
 
 {% ahfowimage "/images/1990-06-26-galaxie-500-manchester-cap-03.jpg" "Naomi Yang, Galaxie 500 (Manchester, 1990)" %}
 

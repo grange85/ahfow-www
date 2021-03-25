@@ -19,6 +19,6 @@ tags: []
 ---
 Beautiful live video session recorded at The Andy Warhol Museum in November 2012.
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/3lQSmJs5n4g" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Dean & Britta - Silver Studio Sessions (2012)</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3lQSmJs5n4g" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Dean & Britta - Silver Studio Sessions (2012)</figcaption></figure>
 
 

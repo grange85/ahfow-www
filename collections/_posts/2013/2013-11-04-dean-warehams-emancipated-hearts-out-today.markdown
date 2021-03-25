@@ -33,4 +33,4 @@ Here are some of the rather lovely reviews that Emancipated Hearts has been gett
 <li>Friday, December 6 - London, St Pancras Old Church - Sold out</li>
 <li>Saturday, December 7 - Paris, Point Ephémère - Buy tickets</li>
 </ul>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/LC-4aPVH4cQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LC-4aPVH4cQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>

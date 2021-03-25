@@ -27,7 +27,7 @@ longpost: true
 <h2>February</h2>
 <!--more-->
 <p>Britta launched her Pledgemusic pre-orders of Luck or Magic and <a href="/2016/02/24/video-britta-phillips-one-fine-summer-morning/">dropped a lovely video for One Fine Summer Morning</a>.</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/mrOpkUxhntE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Britta Phillips - One Fine Summer Morning (Dir: Mike Spano)</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mrOpkUxhntE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Britta Phillips - One Fine Summer Morning (Dir: Mike Spano)</figcaption></figure>
 <h2>March</h2>
 <p>A familiar image appeared in an exhibition of visual art by musicians in Jamaica Plain - Naomi's cvontribution included art that was used for Damon & Naomi's second album (Wondrous World).</p>
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/2016-03-naomi-yang-aviary-gallery.jpg" alt="Naomi Yang (1995)" /><figcaption class="caption-text">Naomi Yang (1995)</figcaption></figure>
@@ -40,7 +40,7 @@ longpost: true
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26019862693/in/dateposted/" title="Damon & Naomi in Berlin"><img src="https://c6.staticflickr.com/2/1602/26019862693_9d1a00b7fe_c.jpg" width="800" height="600" alt="Damon & Naomi in Berlin"></a>
 <h2>May</h2>
 <p>In May Luna were back on the road - you can watch a 360&deg; video of them playing Friendly Advice</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/Ue-ba-QHa2Q" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna play Friendly Advice - 360&deg;</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ue-ba-QHa2Q" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna play Friendly Advice - 360&deg;</figcaption></figure>
 <h2>June</h2>
 <p><a href="https://daily.bandcamp.com/2016/06/24/galaxie-500-interview/">Damon pondered Galaxie 500's On Fire</a> in a lovely interview with bandcamp daily.</p>
 <blockquote>We were happy—very happy, as I remember—with that sound. That’s why we titled the album the way we did. It was self-deprecating, in part, because we knew we sounded wimpy compared to the rock ideal of the time. But to ourselves, we really were on fire, because what we heard back was a record we would like.</blockquote>
@@ -53,7 +53,7 @@ longpost: true
   } %}<h2>July</h2>
 <p>US Ambassador to the United Kingdom <a href="/2016/07/03/galaxie-500-chosen-as-one-of-matthew-barzun-desert-island-discs/">Matthew Barzun picked Galaxie 500's Ceremony as one of his Desert Island Discs</a> on the long-running BBC radio program.</p>
 <p>We lost both Alan Vega of Suicide and Warhol collaborator Billy Name.</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/BRJWjIVLaOk" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna cover Suicide's Dream Baby Dream</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BRJWjIVLaOk" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna cover Suicide's Dream Baby Dream</figcaption></figure>
 <h2>August</h2>
 <p>Damon presented <a href="/2016/08/08/damon-krukowski-the-new-analog-talk-in-boston/">a talk "presenting ideas" from his forthcoming book The New Analog</a> at The Podcast Garage in Boston. Sadly despite the venue name the presentation it seems never reached a podcast - maybe appropriately given its subject matter?</p>
 <p><a href="http://thenewpress.com/books/new-analog">The book</a> will be released in April (on Record Store Day!) and is available to <a href="http://amzn.to/2j6Po0S">pre-order from Amazon</a>.
@@ -62,7 +62,7 @@ longpost: true
 <p>Luna were back on the road in the US and Joakim was of course there for most of the shows - read about his <a href="/2016/10/29/luna-in-the-usa-and-uk-1-alexandria/">adventures in Alexandria</a>.</p>
 <blockquote>Sean is playing a solo, his fingers are moving like a corn in a heated pan, not a cold pan. Heated pan. What a pan.</blockquote>
 <p>Naomi was still keeping busy in her other career as a video director with a video for MV and EE's Feel Alright.</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/9FVg_jppB5A" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">MV and EE - Feel Alright (dir: Naomi Yang)</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9FVg_jppB5A" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">MV and EE - Feel Alright (dir: Naomi Yang)</figcaption></figure>
 <h2>October</h2>
 <p>Video of Luna covering Mot&ouml;rhead appeared on A.V. Club Undercover - and rocked my world! For some reason this hasn't found its way to YouTube - <a href="http://www.avclub.com/video/luna-covers-motorheads-killed-death-243640">you might be able to see it on the A.V. Club</a> (I can't!) - luckily enough I have an mp3 grabbed from when I could access it!</p>
  {% ahfowaudio {

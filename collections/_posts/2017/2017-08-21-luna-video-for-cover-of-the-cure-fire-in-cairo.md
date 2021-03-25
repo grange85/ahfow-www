@@ -23,7 +23,7 @@ tags:
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/fire-in-cairo-grabs/luna-fire-in-cairo-video-grabs-04.jpg" alt="Luna - Fire in Cairo" /><figcaption class="caption-text">Luna - Fire in Cairo</figcaption></figure>
 <p class="lead">The new video for Luna's cover of The Cure's Fire in Cairo has just dropped!</p>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/RK2YatQ9S1A" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Fire in Cairo</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RK2YatQ9S1A" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Fire in Cairo</figcaption></figure>
 
 <p>The video features Rose McGowan and was (mostly) shot during the special show Luna performed at Gold Diggers in Hollywood last month.</p>
 

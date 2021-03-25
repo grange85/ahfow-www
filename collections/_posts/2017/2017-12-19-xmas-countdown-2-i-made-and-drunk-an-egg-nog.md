@@ -35,7 +35,7 @@ tags:
   "sourceurl": "/database/luna/releases/luna-time-egg-nog/",
   "sourcecap": "Luna - Egg Nog / Time "
   } %}
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/lecT5XxPGIo" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Egg Nog</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lecT5XxPGIo" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Egg Nog</figcaption></figure>
 
 
 

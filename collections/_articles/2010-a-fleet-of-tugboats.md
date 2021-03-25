@@ -54,7 +54,7 @@ tags:
 	<li><a href="#tugboat-xlion">X-Lion Tamer</a></li>
 </ul>
 <h3 id="tugboat-galaxie">The original and best</h3>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/wEwouUjDTTE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Tugboat (official video)</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wEwouUjDTTE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Tugboat (official video)</figcaption></figure>
 
 <h3>The fleet</h3>
 
@@ -91,7 +91,7 @@ tags:
   "audiocap": "Tugboat - British Sea Power",
   "sourceurl": "https://en.wikipedia.org/wiki/Stop_Me_If_You_Think_You%27ve_Heard_This_One_Before...",
   "sourcecap": "Stop Me If You Think You've Heard This One Before&hellip;"
-  } %}<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/PM9fqFOMWt8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Tugboat - British Sea Power (live in Newcastle, 2008)</figcaption></figure>
+  } %}<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PM9fqFOMWt8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Tugboat - British Sea Power (live in Newcastle, 2008)</figcaption></figure>
 
 <h4 id="tugboat-citay">Citay</h4>
  {% ahfowaudio {
@@ -109,7 +109,7 @@ tags:
   "sourceurl": "https://www.discogs.com/Various-Yeti-Five/release/1277561",
   "sourcecap": "Yeti Five"
   } %}
-  <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/r19X_o1KMIA" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Tugboat - Dean & Britta (live on KEXP, 2010</figcaption></figure>
+  <figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/r19X_o1KMIA" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Tugboat - Dean & Britta (live on KEXP, 2010</figcaption></figure>
 
 <p>There's also a live recording on Dean Wareham Live at St Pancras Old Church, London recorded in 2013</p>
  {% ahfowaudio {
@@ -153,7 +153,7 @@ tags:
   "sourcecap": "Source: Sugarcrush (Fortuna Pop)"
   } %}
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/lBN4qwAGfcE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Tugboat - Joanna Gruesome (live at The Old Blue Last, 2012)</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lBN4qwAGfcE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Tugboat - Joanna Gruesome (live at The Old Blue Last, 2012)</figcaption></figure>
 
 
 <h4 id="tugboat-mercury">Mercury Rev</h4>
@@ -175,7 +175,7 @@ tags:
   } %}
 
 <h4 id="tugboat-paraffin">Paraffin Brothers</h4>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/LWWe6wbdsv4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Tugboat - Paraffin Brothers</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LWWe6wbdsv4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Tugboat - Paraffin Brothers</figcaption></figure>
 
 
 <h4 id="tugboat-portastatic">Portastatic</h4>

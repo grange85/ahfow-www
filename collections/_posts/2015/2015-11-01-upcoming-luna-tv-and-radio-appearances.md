@@ -25,7 +25,7 @@ tags: []
 
 <p>This could well be Luna's first TV appearance since playing on the John McEnroe show way back when... here's a clip of them playing Speedbumps and then being joined by Superbrat on a cover of Sweet Jane.</p>
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/hwVSlg_4WNI" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/hwVSlg_4WNI" frameborder="0" allowfullscreen></iframe>
 
 <p class="lead">... then on Thursday 5 November the band will be playing a live radio performance for KEXP in Seattle&hellip; and I imagine that will be streaming live video too.</p>
 

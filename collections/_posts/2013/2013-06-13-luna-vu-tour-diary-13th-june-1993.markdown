@@ -22,7 +22,7 @@ There's a live Elvis concert on TV this morning, from about 1972 I guess. James 
 </p>
 <p>Prague is one of the most beautiful cities I have ever seen. Tonight's show is at a theater in the former Cultural Palace of the Communist Party. Sold out again (as it has been every night). A historic show, but a bit quiet. The VU get the usual standing ovations and are off to Vaclav Havel's place for a party. Sean and Justin go to the Hotel Casino and lose all their per diems.<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/Q43vl8Fpjv4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">The Velvet Underground - I'm Sticking With You - in Prague</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Q43vl8Fpjv4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">The Velvet Underground - I'm Sticking With You - in Prague</figcaption></figure>
 
 <p>We're on vacation for the next six days. Stanley heads off to Amsterdam with the tour manager, the rest of us head for Paris via the night-train.<br />
 

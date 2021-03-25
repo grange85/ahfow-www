@@ -34,7 +34,7 @@ Next were Ringo Deathstarr, I'd been warned to expect volume from a number of so
 
 Dean, Britta and Jason took to the stage, the sound wasn't great, I think it would have been better from further back but I decided to see the band and so stood at the front. A great set, very little between song banter from Dean, and a smallish but very enthusiastic crowd (my dad guesstimated about 300). No surprises in the set list. High point in a set of highs was Don't Let Our Youth Go to Waste. Finished with a blissful Ceremony and another show was over.
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/pkb0-uupszA" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Dean Wareham plays Galaxie 500 - Ceremony (Brigton, 2011)</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pkb0-uupszA" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Dean Wareham plays Galaxie 500 - Ceremony (Brigton, 2011)</figcaption></figure>
 
 Chatted briefly with Dean & Britta after the show - Dean asked whether I preferred the show as a three piece or a four piece. My under-pressure answer was "erm... four piece" but that was helped by the sound being much better in London... because of course "three piece" is the right answer!
 

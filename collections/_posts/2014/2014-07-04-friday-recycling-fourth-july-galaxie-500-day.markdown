@@ -48,10 +48,10 @@ Today is the latter of those so here's some Galaxie 500 to help you celebrate th
   } %}
 
 <p>Here's the official video&hellip;</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/_53uWFIxJAw" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Fourth of July (official video)</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_53uWFIxJAw" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Fourth of July (official video)</figcaption></figure>
 
 <p>... and of course, here's what the kids made of the video ("the lyrics was... discombobulated")</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/IrNvxv-ppnQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">GALAXIE 500- 4th of july- kids korner | NYNOISE.TV</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IrNvxv-ppnQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">GALAXIE 500- 4th of july- kids korner | NYNOISE.TV</figcaption></figure>
 
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/00-misc/audio/clares-club-fourth-of-july-still-playsiin-my-heart.mp3",

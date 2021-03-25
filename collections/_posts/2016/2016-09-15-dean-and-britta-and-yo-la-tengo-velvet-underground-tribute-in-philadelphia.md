@@ -28,4 +28,4 @@ tags:
 
 <p><a href="https://gershmany.secure.force.com/ticket/#sections_a0Fi000000UcBo6EAF">Tickets are on sale</a> now priced from $40 for general admission up to $125 with an after show part with the bands.</p>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/Fl9ZRLtE54s" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">13 Most Beautiful trailer</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Fl9ZRLtE54s" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">13 Most Beautiful trailer</figcaption></figure>

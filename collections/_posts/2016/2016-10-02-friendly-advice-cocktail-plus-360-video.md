@@ -42,4 +42,4 @@ The Luna box set has just had it's second pressing - this time in black vinyl - 
 
 ---
 I just came across this 360&deg; video of Luna playing Friendly Advice in Dallas a few months back (not sure how well it will embed so you may need to <a href="https://www.youtube.com/watch?v=Ue-ba-QHa2Q">head over to YouTube</a> so you can move around the venue!)
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/Ue-ba-QHa2Q" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Friendly Advice 360&deg; in Dallas</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ue-ba-QHa2Q" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Friendly Advice 360&deg; in Dallas</figcaption></figure>

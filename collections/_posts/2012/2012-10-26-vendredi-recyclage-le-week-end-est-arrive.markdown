@@ -40,6 +40,6 @@ tags: []
 Previously: <a href="/2012/08/10/friday-recycling-bonnie-and-clyde/">Friday recycling: Bonnie and Clyde (#2)</a></p>
 <p>... and sung in English, but played in France - here's Luna playing Bobby Peru in Paris in 1999<br />
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/GxZp8qhDhHQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna playing Bobby Peru in Paris in 1999</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GxZp8qhDhHQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna playing Bobby Peru in Paris in 1999</figcaption></figure>
 
 <figure class="caption aligncenter"><a href="http://www.flickr.com/photos/franckd/2087020675/" title="Dean & Britta by Hidden Picts, on Flickr"><img src="https://farm3.staticflickr.com/2236/2087020675_7a9127b3ea_z.jpg?zz=1" width="640" height="430" alt="Dean & Britta"></a><figcaption class="caption-text">Dean Wareham at La Fleche d'Or, Paris - 2007</figcaption></figure>

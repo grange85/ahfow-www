@@ -23,10 +23,10 @@ Damon & Naomi are now the support act, I don't entirely have a problem with this
 <a id="more"></a><a id="more-3666"></a><br />
 Last night's show did dip back as far as Judah and The Maccabees for the set closer so I don't really have anything to moan about.<br />
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/g3Mdshh-AZk" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/g3Mdshh-AZk" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 
 Cafe Oto was sold out, and the crowd was beautifully quiet and the show was of course, like every Damon & Naomi concert, a joy.</p>
 <p>Headline act Richard Youngs was joined on drums and backing vocals by Damon for a varied set of noise, songs, jams, improvisations and a stand-up routine.<br />
 <a href="http://www.flickr.com/photos/grange85/8417737417/" title="Damon Krukowski & Richard Youngs by andyaldridge, on Flickr"><img class="aligncenter" src="https://farm9.staticflickr.com/8464/8417737417_fa157998dd_z.jpg" width="640" height="480" alt="Damon Krukowski & Richard Youngs"></a></p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/Y1wrqeIGUcE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Y1wrqeIGUcE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p><a href="http://www.flickr.com/photos/grange85/sets/72157632616429439/with/8417737417/">A few more pictures on Flickr</a></p>

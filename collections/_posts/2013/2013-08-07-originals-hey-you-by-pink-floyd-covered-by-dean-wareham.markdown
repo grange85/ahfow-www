@@ -18,7 +18,7 @@ categories:
 tags: []
 ---
 <p><a href="http://en.wikipedia.org/wiki/Hey_You_%28Pink_Floyd_song%29">Hey You</a> appears on Pink Floyd's 1979 album <a href="http://en.wikipedia.org/wiki/The_Wall">The Wall</a> </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/Lz0jEllqM-0" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Lz0jEllqM-0" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>Dean Wareham covered the track for the soundtrack of the Noah Baumbach film The Squid and The Whale...</p>
 
  {% ahfowaudio {
@@ -30,7 +30,7 @@ tags: []
 
 <p>... but didn't try to pass it off as his own like the character in the film<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/nRsc6yh76o8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nRsc6yh76o8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>Dean has a long history iwth Noah Baumbach and it's worth keeping an eye and an ear open for Dean in most of his films, inlcuding the most recent <a href="/2013/06/20/new-dean-britta-track-on-the-frances-ha-soundtrack/" title="New Dean & Britta track on the Frances Ha soundtrack">Frances Ha</a>. Here's Dean's song over the closing credits of Highball.</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/ArZyOXNRcn4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ArZyOXNRcn4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

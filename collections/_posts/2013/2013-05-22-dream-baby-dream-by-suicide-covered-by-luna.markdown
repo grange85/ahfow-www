@@ -18,19 +18,19 @@ categories:
 tags: []
 ---
 <p>Suicide - Dream Baby Dream<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1FFIFsK1duw<br />" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1FFIFsK1duw<br />" frameborder="0" allowfullscreen></iframe>
 <a id="more"></a><a id="more-4172"></a></p>
 <p>Suicide - Dream Baby Dream (live)</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/M3mgNpHgMQQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M3mgNpHgMQQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>Luna - Dream Baby Dream</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/iSIBpC4xRV4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iSIBpC4xRV4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dw_angel_vega_ht.jpg" width="526" height="640" class /><figcaption class="caption-text"> Dean with Angel Corpus Christi and Suicide's Alan Vega (photo ht)</figcaption></figure>
 <p>Luna never often played this live, my database has only one known performance (although I don't have too many setlists from the 90s). So here are Luna playing Dream Baby Dream at the Mercury Lounge in NYC in 1996<br />
 MP3: <a href="https://media.fullofwishes.co.uk/02-luna/audio/Luna_1996-07-21_14_Dream-Baby-Dream.mp3">Luna - Dream Baby Dream (live 1996-07-21 - Mercury Lounge)</a><br />
 <audio src="https://media.fullofwishes.co.uk/02-luna/audio/Luna_1996-07-21_14_Dream-Baby-Dream.mp3" preload="none" controls /></p>
 <p>Here's another Luna connection...<br />
 Suicide - 23 Minutes over Brussels</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/ZqmK8EYrNDs" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZqmK8EYrNDs" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/alan_vega_lemmy_ht.jpg" width="427" height="287" class /><figcaption class="caption-text"> And just because I don't often get a chance to post a pic of Lemmy to this blog - here he is with Alan Vega (another photo by ht used without permission!)</figcaption></figure>
 <p><ins datetime="2013-05-22T12:28:56+00:00"><a href="http://www.grange85.co.uk/swirling/2012/07/26/one-shot-dream-baby-dream/" title="One shot: Dream Baby Dream">Everything's Swirling: One shot: Dream Baby Dream</a></ins></p>
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

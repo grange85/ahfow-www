@@ -70,5 +70,5 @@ We were then treated to an <em>epilogue</em> of covers - firstly a blissful {% a
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26597556286" title="3ca0141f-3ba5-4e9b-92fe-5fdd91f996b5"><img src="https://farm2.staticflickr.com/1528/26597556286_caf584ac19_b.jpg" width="1024" height="768" alt="3ca0141f-3ba5-4e9b-92fe-5fdd91f996b5"></a>
 
 We said our goodbyes and slipped quietly into the Berlin night.
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/wzE-qoNw_7E" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Damon & Naomi - No More Sad Refrains (Sandy Denny cover)</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wzE-qoNw_7E" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Damon & Naomi - No More Sad Refrains (Sandy Denny cover)</figcaption></figure>
 

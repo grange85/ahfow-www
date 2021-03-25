@@ -19,7 +19,7 @@ tags: []
 <p>(Tx: 22 January 1990)</p>
 <p>OK, this is a bit of an experiment but this months "track of the month" is a bit of video of Galaxie 500 being interviewed on (sadly missed) British TV show Snub TV. The short interview is followed by a live performance of Snowstorm filmed at The Subteranea in London on 13th December 1989.</p>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/oZosyvu95mk" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 on Snub TV</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oZosyvu95mk" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 on Snub TV</figcaption></figure>
 
 <p><b>NAOMI:</b> We kind of, I think, just play one thing for a long time when we're first working on a song, and then we sort of... it sort of gets boiled down, and then we try to add, you know, variation into it...</p>
 <p><b>DEAN:</b> Not much variation, sometimes it's verse-verse-chorus, sometimes it's verse-chorus-verse-chorus.</p>

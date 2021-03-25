@@ -20,7 +20,7 @@ tags: []
 <p>I've done plenty of Indian Summer posts over the years so I'll keep this one brief...</p>
 <p>Originally by Beat Happening on their fab 1988 album Jamboree<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/Eaw-zW7RVus" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Indian Summer - Beat Happening</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Eaw-zW7RVus" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Indian Summer - Beat Happening</figcaption></figure>
 <p>Covered by <a href="/2013/01/18/audio-lost-tracks-dean-wareham-indian-summer/">Dean Wareham on a Chemical Imbalance single</a> while he was still a part of Galaxie 500</p>
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-indian-summer-chemical-imbalance.mp3",
@@ -31,15 +31,15 @@ tags: []
 
 
 <p>Covered by Luna on an EP 1992&hellip;</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/hwT1YN1TBdI" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Indian Summer</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hwT1YN1TBdI" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Indian Summer</figcaption></figure>
 
 <p>&hellip; and played at most of their shows over the course of their lifetime - they played it the first time I saw them in 1992 and it was the last song I ever saw them play in 2005</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/DFJQzhqzmrc" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Indian Summer - Luna, 1992</figcaption></figure>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/2ZnPWwQ40Fs" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Indian Summer - Luna, 1999</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DFJQzhqzmrc" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Indian Summer - Luna, 1992</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2ZnPWwQ40Fs" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Indian Summer - Luna, 1999</figcaption></figure>
 
 
 <p>UPDATE 2016-06-13: &hellip; and still finishing shows with it on the reunion&hellip;</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/saOHblH0l8c" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Indian Summer, 2015</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/saOHblH0l8c" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Indian Summer, 2015</figcaption></figure>
 
 <p>I collected a few of the many <a href="http://www.grange85.co.uk/swirling/2011/09/06/an-indian-summer-well-we-can-only-hope/">covers of Indian Summer on Eeverything's Swirling</a> a couple of years back.</p>
 

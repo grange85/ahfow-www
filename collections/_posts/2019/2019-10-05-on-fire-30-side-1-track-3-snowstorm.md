@@ -31,7 +31,7 @@ On 26th January 1990 Galaxie 500 appeared on Snub TV - there was a short intervi
 
 Now I have no evidence to back this up but I reckon that the UKs love for Snowstorm was born in the early evening of 26th January 1990 on BBC 2.
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/oZosyvu95mk" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 on Snub TV</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oZosyvu95mk" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 on Snub TV</figcaption></figure>
 
 <a href="https://www.theguardian.com/music/musicblog/2017/jun/06/snub-tv-cult-80s-music-show-unearthed-underground">There's a nice Guardian blog post about Snub</a>
 

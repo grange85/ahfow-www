@@ -34,7 +34,7 @@ Setlist</p>
 <p>In Cadiz, Luna were reunited with their missing gear<br />
 http://instagram.com/p/2Dg5QXAwSx</p>
 <h3>29 April 2015: Luna – Las Chocheras del Puerto, Huelva</h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3LSvrQIgESk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3LSvrQIgESk" frameborder="0" allowfullscreen></iframe>
 <h3>30 April 2015: Luna – Planta Baja, Granada</h3>
 <p>http://instagram.com/p/2IEIutD_cR/<br />
 Setlist</p>

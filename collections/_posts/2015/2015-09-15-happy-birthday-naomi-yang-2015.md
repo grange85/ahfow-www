@@ -23,18 +23,18 @@ tags: []
 Happy birthday to Naomi Yang designer, photographer, <a href="/2012/05/23/naomi-yang-and-her-gibson-eb-2/">bassist</a>, singer, keyboardist, and more recently film-maker.
 
 Here's a beautiful video of Damon & Naomi performing The Great Wall in a Japanese garden with Kurihara a few years back:
-<iframe width="420" height="315" src="https://www.youtube.com/embed/WuoZwYtgUbQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/WuoZwYtgUbQ" frameborder="0" allowfullscreen></iframe>
 
 As well as her silent film Fortune Naomi has also made a bunch of lovely promo videos for other folk - here are a few of them:
 
 Mary Lattimore and Jeff Zeigler - The White Balloon
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8hkN_GZxaPA" frameborder="0" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8hkN_GZxaPA" frameborder="0" allowfullscreen></iframe> 
 
 Future Bible Heroes - Living, Loving, Partygoing
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9iWbsS63NNo" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9iWbsS63NNo" frameborder="0" allowfullscreen></iframe>
 
 Houndmouth - Sedona
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y8wifV5RYr8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Y8wifV5RYr8" frameborder="0" allowfullscreen></iframe>
 
 
 Also check out this <a href="/2015/05/09/video-damon-naomi-playing-the-north-light-in-london/">lovely (but unembeddable) video of Damon & Naomi playing The North Light</a> in London earlier in the year

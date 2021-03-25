@@ -22,7 +22,7 @@ tags: []
 <p>And you'll see I've left out the first one from the list which was Tom Rapp's cover of Neil Young's After The Goldrush which Naomi sang backing on and, I believe, Damon produced. But you all know that original, so...</p>
 <p><a href="http://en.wikipedia.org/wiki/Traffic_Sound">Traffic Sound</a> were a Peruvian Psychedelic Rock band active in the late 60s and early 70s and America was on their third album, Tibet's Suzettes. In parallel with their career as a duo Damon & Naomi were for a short while in the band <a href="http://en.wikipedia.org/wiki/Magic_Hour_%28band%29">Magic Hour</a> with Wayne Rogers and Kate Bigger formerly of <a href="http://en.wikipedia.org/wiki/Crystalized_Movements">Crystallized Movements</a> and then of <a href="http://en.wikipedia.org/wiki/Major_Stars">Major Stars</a>. America was released as the b-side to their second single I Had a Thought:</p>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/Fl4ZURH1-PQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Fl4ZURH1-PQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 
 
  {% ahfowaudio {
@@ -43,5 +43,5 @@ tags: []
   } %}
 
 <p>&hellip; and Neil's original</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/d6Zf4D1tHdw" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/d6Zf4D1tHdw" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

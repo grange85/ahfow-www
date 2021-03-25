@@ -23,6 +23,6 @@ tags: []
 <p><strong>MP3: </strong><a href="https://www.box.com/s/djco89o7xqckx2jwq0h5">Galaxie 500 - Victory Garden (London 1990)</a><br />
 <strong>MP3: </strong><a href="http://www.box.net/shared/z1br1p1x6sg19s7m8z35">Dean & Britta - Victory Garden ( 2011)</a><br />
 Here's a video of that Dean & Britta performance (with Dean recounting his talk with Mayo Thompson about the lyrics)<br />
-<iframe width="480" height="360" class="aligncenter" https://www.youtube.com/embed/yDBggOqPVg8" frameborder="0" allowfullscreen></iframe></p>
+<iframe width="480" height="360" class="aligncenter" https://www.youtube-nocookie.com/embed/yDBggOqPVg8" frameborder="0" allowfullscreen></iframe></p>
 <p>And here's The Red Krayola's original<br />
-<iframe width="480" height="360" class="aligncenter" https://www.youtube.com/embed/wiN0SaOa9Xw" frameborder="0" allowfullscreen></iframe></p>
+<iframe width="480" height="360" class="aligncenter" https://www.youtube-nocookie.com/embed/wiN0SaOa9Xw" frameborder="0" allowfullscreen></iframe></p>

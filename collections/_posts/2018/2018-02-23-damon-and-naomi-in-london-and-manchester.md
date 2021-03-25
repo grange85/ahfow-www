@@ -42,6 +42,6 @@ On Saturday we trained to Manchester for Damon & Naomi's show on Sunday evening 
 
 Damon & Naomi seemed to appreciate the venue and the relaxed atmosphere, everything seemed so good-humoured and with that came a fun and funny and thoroughly enjoyable show, very different from the more tense and edgy London show. They again finished with Translucent Carriages and the more relaxed atmosphere in Manchester gave the song a differnet energy that suited the room.
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/bf2pMNJwP1c" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Damon & Naomi - Translucent Carriages, London</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bf2pMNJwP1c" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Damon & Naomi - Translucent Carriages, London</figcaption></figure>
 
 <a href="/database/damon-and-naomi/shows/2018/2018-02-18-damon-and-naomi-night-and-day-cafe-manchester-uk/">Manchester show details, more photos and videos</a>

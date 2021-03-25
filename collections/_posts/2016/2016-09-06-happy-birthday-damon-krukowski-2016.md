@@ -37,7 +37,7 @@ tags: []
 
 <p>Here's a lovely clip of Damon & Naomi playing The Turn of the Century in Taiwan last year:</p>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/BV-OgODLNL4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Damon & Naomi - The Turn of the Century</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BV-OgODLNL4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Damon & Naomi - The Turn of the Century</figcaption></figure>
 
 <p>Happy birthday Damon - have a great year and a little less clich&eacute; rock and roll!</p>
 

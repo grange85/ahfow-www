@@ -122,4 +122,4 @@ tags: []
   "sourcecap": ""
   } %}
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/wEwouUjDTTE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">The original and best</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wEwouUjDTTE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">The original and best</figcaption></figure>

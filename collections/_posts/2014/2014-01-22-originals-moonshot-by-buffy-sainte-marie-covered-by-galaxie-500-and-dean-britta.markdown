@@ -23,12 +23,12 @@ flickr: true
 <p>Buffy Sainte-Marie's song Moonshot first appeared on the album of that name in 1972. In 2009 <a href="http://www.magnetmagazine.com/2009/09/17/buffy-sainte-marie-interviewed-by-dean-wareham/">Dean interviewed her for Magnet</a> and asked her about the song:</p>
 <blockquote><p><strong>Dean Wareham</strong>: <em>I hear [Moonshot] as a protest song about the hubris of space travel, and my favorite line is "I know a boy from a tribe so primitive, he can call me up without no telephone." And, of course, the string arrangement is fantastic. Why was "Moonshot" not released a single? I assume the record company made that decision.</em><br />
 <strong>Buffy Sainte-Marie</strong>: That's the correct answer. Vanguard seldom took any suggestions seriously from me. Record companies are mostly about the business, not the music. I've always loved that song, too, so thanks for liking it too :) Much of the credit for the beauty of "Moonshot" and other songs on that album, and (1973's) Quiet Places, (1974's) Buffy and (1975's) Changing Woman, goes to Norbert Putnam, producer, bass player and owner of Quadraphonic Studios. He shared not only his talent but engaged his friends (many from the Area Code 615 band out of Muscle Shoals, Ala.) in the albums, so there are great, great players adding their own talents. Norbert's friend Glen Spreen did the strings for "Moonshot."</p></blockquote>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/o9vAa2mNoqQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/o9vAa2mNoqQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>Galaxie 500 covered the song for their second Peel Session in 1990:<br />
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=500961155/size=medium/bgcol=ffffff/linkcol=0687f5/t=4/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/peel-sessions">Peel Sessions by Galaxie 500</a></iframe></p>
 <p>Dean revisited the track for Dean & Britta's L'Avventura album in 2003<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/SZsiYOL0EzE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SZsiYOL0EzE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
 <p>... and a remix by Sonic Boom was released on the Sonic Souvenirs EP </p>
 
  {% ahfowaudio {

@@ -31,10 +31,10 @@ tags: []
 <p>Pictures: <a href="https://www.flickr.com/photos/-christoph-/sets/72157654348264253">Christoph's splendid pictures on Flickr</a></p>
 
 Video: Luna - Lost in Space at The Garage, London - 31 July 2015
-<iframe width="560" height="315" src="https://www.youtube.com/embed/79NnpWEmhvU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/79NnpWEmhvU" frameborder="0" allowfullscreen></iframe>
 
 Video: Luna - Malibu Love Nest at The Garage, London - 31 July 2015
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9TLdIpXExF0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9TLdIpXExF0" frameborder="0" allowfullscreen></iframe>
 
 <h3><a href="/database/luna/shows/2015/2015-08-01-luna-brudenell-social-club-leeds-uk">1 August 2015 - Leeds</a></h3>
 <p>Words: <a href="/2015/08/03/luna-in-london-and-leeds/">My write up on AHFoW</a>  </p>

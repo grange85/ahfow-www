@@ -19,7 +19,7 @@ tags: []
 ---
 <p><a href="https://www.flickr.com/photos/statelibraryofnsw/4620310237" title="Miss Gertrude Powys as The Angel in the pantomime Sleeping Beauty at the Theatre Royal, 1886 / photographer J. T. Gorus, Sydney by State Library of New South Wales, on Flickr"><img class="aligncenter" src="https://farm4.staticflickr.com/3336/4620310237_25dcd918d6_z.jpg" width="403" height="640" alt="Miss Gertrude Powys as The Angel in the pantomime Sleeping Beauty at the Theatre Royal, 1886 / photographer J. T. Gorus, Sydney"></a><br />
 And Donovan turns up for his third appearance in "Originals" - Teen Angel was the b-side of his classic 45 Hurdy Gurdy Man in 1968.<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-PpdOVdPzUc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-PpdOVdPzUc" frameborder="0" allowfullscreen></iframe>
 <p>Dean & Britta's cover was released on their second album, Back Numbers,  in 2007</p>
 
  {% ahfowaudio {

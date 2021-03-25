@@ -22,6 +22,6 @@ Last night in Los Angeles <a href="/database/dean-and-britta/shows/2019/2019-08-
 
 Here's a video of them playing Blue Thunder and Hearing voices:
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/9szCmIUrAew" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Dean, Britta and Kramer - Blue Thunder / Hearing Voices</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9szCmIUrAew" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Dean, Britta and Kramer - Blue Thunder / Hearing Voices</figcaption></figure>
 
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2019-08-12/2019-08-12-dean-britta-butterfly-cabinet-poster.jpg" alt="Poster for The Butterfly Cabinet" /><figcaption class="caption-text">Poster for The Butterfly Cabinet</figcaption></figure>

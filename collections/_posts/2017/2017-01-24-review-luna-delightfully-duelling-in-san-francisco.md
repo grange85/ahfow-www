@@ -28,7 +28,7 @@ tags:
 
 <p>The Chapel is one of the finest venues you'll ever find when it comes to live intimate shows, holding a mere 500, which includes the floor and balcony, and boasting a super sound system that leaves nothing to be desired.</p>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/LtH2addmMdo" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Kelly Kyle trumpet solo on Bewitched</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LtH2addmMdo" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Kelly Kyle trumpet solo on Bewitched</figcaption></figure>
 
 
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-bill-van-der-ende-012.jpg" alt="Luna (photo: Bill Van Der Ende" /><figcaption class="caption-text">Luna (photo: Bill Van Der Ende</figcaption></figure>

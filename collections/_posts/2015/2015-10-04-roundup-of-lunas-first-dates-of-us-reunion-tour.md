@@ -38,7 +38,7 @@ tags: []
 
 <p>Dan has posted some fantastic videos taken from in front of Sean - every one a treat - here's one but <a href="https://www.youtube.com/channel/UCqpbka2fm6q60_E4I6OANMQ">check Dan's YouTube profile for the rest</a>!</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qzFxBFco03s" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qzFxBFco03s" frameborder="0" allowfullscreen></iframe>
 
 <h2>A solicitation</h2>
 If anyone fancies writing up their LUNA US tour experiences for this website please get in touch - I can offer you nothing but thanks in return - but it's always nice to have other voices on this blog! <a href="/about/">Please get in touch if you're interested</a>!

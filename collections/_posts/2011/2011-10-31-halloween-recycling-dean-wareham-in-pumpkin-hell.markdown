@@ -86,7 +86,7 @@ photos:
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/pumpkin-hell/pumpkin-hell-deanwareham_castpic-02.jpg" alt="Dean Wareham in Pumpkin Hell" /><figcaption class="caption-text">Dean Wareham in Pumpkin Hell</figcaption></figure>
 <p>I guess I'll just keep pulling this out every year until someone tells me to stop...</p>
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/G09csbVdcsw" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/G09csbVdcsw" frameborder="0" allowfullscreen></iframe>
 <blockquote>Don't kick my pumpkin&hellip; your boy kicked my pumpkins. You can touch 'em and hold 'em, whatever, just no kicking … they bruise</blockquote>
 
 <p>The film was made in 2007 by Max Finneran and is...</p>

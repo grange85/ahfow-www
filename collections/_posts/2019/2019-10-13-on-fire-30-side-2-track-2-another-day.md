@@ -21,7 +21,7 @@ But, this all changed this year.
 
 Firstly at a lovely book event in Walthamstow, London in June Damon & Naomi performed a beautiful version of the song:
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/dYaeS6FhKs4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Damon & Naomi - Another Day (London, June 2019)</figcaption></figure>
+<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dYaeS6FhKs4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Damon & Naomi - Another Day (London, June 2019)</figcaption></figure>
 
 And then a couple of days later Dean played On Fire in full for the first time - and you can't do that without playing Another Day. He did a couple more On Fire shows over the summer. Here he is performing Another Day in San Francisco in July with Britta on vocals.
 
