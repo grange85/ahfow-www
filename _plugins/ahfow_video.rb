@@ -46,11 +46,14 @@ eos
     end
 
     def ahfowvideo_tag(ahfowvideo_url, ahfowvideo_caption = nil)
-      if ahfowvideo_caption.empty?
-        "<figure class=\"figure embed-responsive embed-responsive-16by9\"><iframe class=\"embed-responsive-item\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/#{ahfowvideo_url}\" frameborder=\"0\" allowfullscreen></iframe></figure>"
-      else
-        "<figure class=\"figure embed-responsive embed-responsive-16by9\"><iframe class=\"embed-responsive-item\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/#{ahfowvideo_url}\" frameborder=\"0\" allowfullscreen></iframe><figcaption class=\"figure-caption text-right\">#{ahfowvideo_caption}</figcaption></figure>"
-      end
+
+      "<figure class=\"figure embed-responsive\"> <a href=\"https://www.youtube.com/watch?v=#{ahfowvideo_url}\">    <div class=\"ytimg\">     <i class=\"bi bi-play-btn-fill text-danger\"></i>     <img src=\"https://img.youtube.com/vi/#{ahfowvideo_url}/sddefault.jpg\" width=\"640\" height=\"480\" class=\"img-fluid rounded mx-auto d-block\" alt=\"#{ahfowvideo_caption} (link to youtube)\">   </div>  </a>  <figcaption class=\"figure-caption text-right\">#{ahfowvideo_caption} (link to youtube)</figcaption></figure>"
+
+#      if ahfowvideo_caption.empty?
+#        "<figure class=\"figure embed-responsive embed-responsive-16by9\"><iframe class=\"embed-responsive-item\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/#{ahfowvideo_url}\" frameborder=\"0\" allowfullscreen></iframe></figure>"
+#      else
+#        "<figure class=\"figure embed-responsive embed-responsive-16by9\"><iframe class=\"embed-responsive-item\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/#{ahfowvideo_url}\" frameborder=\"0\" allowfullscreen></iframe><figcaption class=\"figure-caption text-right\">#{ahfowvideo_caption}</figcaption></figure>"
+#      end
     end
   end
 end

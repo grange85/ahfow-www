@@ -1,11 +1,6 @@
 ---
 ---
-	{% assign artist = site.data.artists[page.artistslug] %}
-	{% assign day = page.show-date|date: "%-d"  %}
-  	{% if page.date-uncertain.day %}{% assign day = "" %}{% endif %}
-	{% capture ordinaldate %}{% case day %}{% when '' %}{{ day }}{% when '1' or '21' or '31' %}{{ day }}st{% when '2' or '22' %}{{ day }}nd{% when '3' or '23' %}{{ day }}rd{% else %}{{ day }}th{% endcase %} {{page.show-date|date: "%B %Y"}}{% endcapture %}
-	{% capture page_title %}{{ ordinaldate}} - {{artist.name}} - {{ page.show-venue }}{% endcapture %}
-	{% assign title = page_title %}
+{% capture buildtimestamp %}{{ "now" | date: "%Y%m%d%H%M" }}{% endcapture %}
 
 <!DOCTYPE html>
 <html lang="en">
