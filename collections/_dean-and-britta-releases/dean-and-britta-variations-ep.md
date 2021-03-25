@@ -5,7 +5,8 @@ resource: discography
 section: 02-single
 artistslug: dean-and-britta
 initial_release_date: 2008
-albumname: Variations
+albumname: "Variations"
+title: "Dean & Britta - Variations"
 imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_variations.jpg
 releases:
   - release:

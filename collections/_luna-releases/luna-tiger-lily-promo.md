@@ -6,7 +6,8 @@ section: 04-promo
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-tiger-lily-promo-sleeve-front.jpg
 initial_release_date: 1994
-albumname: Tiger Lily
+albumname: "Tiger Lily"
+title: "Luna - Tiger Lily"
 releases:
   - release:
     version: elektra-promo-cd

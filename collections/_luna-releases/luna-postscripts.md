@@ -6,7 +6,8 @@ section: 02-single
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-postmarks.jpg
 initial_release_date: 2019
-albumname: Postscripts
+albumname: "Postscripts"
+title: "Luna - Postscripts"
 bandcamp-url: http://luna.bandcamp.com/album/postscripts
 bandcamp-id: 3103918137
 releases:

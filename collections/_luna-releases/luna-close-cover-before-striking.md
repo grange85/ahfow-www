@@ -7,7 +7,8 @@ section: 02-single
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_closecoverbeforestriking.jpg
 initial_release_date: 2002
-albumname: Close Cover Before Striking
+albumname: "Close Cover Before Striking"
+title: "Luna - Close Cover Before Striking"
 bandcamp-url: https://luna.bandcamp.com/album/close-cover-before-striking
 bandcamp-id: 3884059705
 releases:

@@ -6,7 +6,8 @@ section: 01-album
 artistslug: damon-and-naomi
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-everything-quieter-than-everything-else.jpg
 initial_release_date: 2017
-albumname: Everything Quieter than Everything Else
+albumname: "Everything Quieter than Everything Else"
+title: "Damon & Naomi - Everything Quieter than Everything Else"
 bandcamp-url: https://damonandnaomi.bandcamp.com/album/everything-quieter-than-everything-else-live-in-japan
 bandcamp-id: 1605647443
 releases:

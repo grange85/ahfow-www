@@ -7,7 +7,8 @@ section: 02-single
 artistslug: galaxie-500
 categories : [discography, galaxie-500, single]
 initial_release_date: 1990
-albumname: Rain / Don't Let Our Youth Go to Waste
+albumname: "Rain / Don't Let Our Youth Go to Waste"
+title: "Galaxie 500 - Rain / Don't Let Our Youth Go to Waste"
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_rain_a_001.jpg
 wikipedia:
 releases:

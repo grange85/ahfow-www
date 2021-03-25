@@ -6,7 +6,8 @@ section: 01-album
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-a-sentimental-education-lo-res.jpg
 initial_release_date: 2017
-albumname: A Sentimental Education
+albumname: "A Sentimental Education"
+title: "Luna - A Sentimental Education"
 releases:
   - release:
     version: double-feature-lp

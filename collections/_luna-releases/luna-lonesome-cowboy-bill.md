@@ -6,7 +6,8 @@ section: 02-single
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-cheval-sombre-feral-child-8-front.jpg
 initial_release_date: 2017
-albumname: Lonesome Cowboy Bill
+albumname: "Lonesome Cowboy Bill"
+title: "Luna - Lonesome Cowboy Bill"
 releases:
   - release:
     version: feral-child-7

@@ -6,7 +6,8 @@ section: 02-single
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-dance-with-me.jpg
 initial_release_date: 1998
-albumname: Dance With Me
+albumname: "Dance With Me"
+title: "Luna - Dance With Me"
 releases:
   - release:
     version: rocker-supernova-7

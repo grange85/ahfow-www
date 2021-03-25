@@ -7,7 +7,8 @@ section: 01-album
 artistslug: galaxie-500
 categories : [discography, galaxie-500, albums]
 initial_release_date: 1989
-albumname: On Fire
+albumname: "On Fire"
+title: "Galaxie 500 - On Fire"
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_onfire.jpg
 bandcamp-url: https://galaxie500.bandcamp.com/album/on-fire
 bandcamp-id: 158016030

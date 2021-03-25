@@ -6,7 +6,8 @@ resource: discography
 section: 01-album
 artistslug: galaxie-500
 initial_release_date: 1998
-albumname: The Portable Galaxie 500
+albumname: "The Portable Galaxie 500"
+title: "Galaxie 500 - The Portable Galaxie 500"
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_portable.jpg
 notes:
 releases:

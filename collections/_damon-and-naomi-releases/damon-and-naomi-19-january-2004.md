@@ -6,7 +6,8 @@ resource: discography
 section: 01-album
 artistslug: damon-and-naomi
 initial_release_date: 2005
-albumname: Monday January 19th, 2004
+albumname: "Monday January 19th, 2004"
+title: "Damon & Naomi - Monday January 19th, 2004"
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-19-january-2004.jpg
 releases:
   - release:

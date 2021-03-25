@@ -6,7 +6,8 @@ section: 02-single
 artistslug: damon-and-naomi
 imageurl: https://media.fullofwishes.co.uk/ahfow/uploads/2011/12/dan_itsallovernow.jpg
 initial_release_date: 1999
-albumname: It's All Over Now, Baby Blue / Yoo Doo Right
+albumname: "It's All Over Now, Baby Blue / Yoo Doo Right"
+title: "Damon & Naomi - It's All Over Now, Baby Blue / Yoo Doo Right"
 artist: Damon & Naomi and Batoh and Kurihara
 releases:
   - release:

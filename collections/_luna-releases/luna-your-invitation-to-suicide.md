@@ -8,6 +8,7 @@ artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-your-invitation-to-suicide.jpg
 initial_release_date: 1994
 albumname: "Your Invitation To Suicide: A Tribute To The Songs Of Martin Rev, Alan Vega"
+title: "Luna - Your Invitation To Suicide: A Tribute To The Songs Of Martin Rev, Alan Vega"
 bandcamp-url: https://munsterrecords.bandcamp.com/album/your-invitation-to-suicide
 bandcamp-id: 4169606022
 releases:

@@ -7,7 +7,8 @@ section: 05-Magic Hour release
 artistslug: damon-and-naomi
 imageurl: //media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magic-hour-after-tomorrow.jpg
 initial_release_date: 1994
-albumname:  After Tomorrow
+albumname: " After Tomorrow"
+title: "Magic Hour -  After Tomorrow"
 artist: Magic Hour
 releases:
   - release: 

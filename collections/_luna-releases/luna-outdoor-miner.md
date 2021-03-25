@@ -7,7 +7,8 @@ section: 02-single
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/images/misc/luna-outdoorminer-500.jpg
 initial_release_date: 1996
-albumname: Outdoor Miner
+albumname: "Outdoor Miner"
+title: "Luna - Outdoor Miner"
 releases:
   - release:
     version: radiation-7

@@ -7,7 +7,8 @@ section: 02-single
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_ihop.jpg
 initial_release_date: 1997
-albumname: IHOP
+albumname: "IHOP"
+title: "Luna - IHOP"
 releases:
   - release:
     version: beggars-banquet-cds

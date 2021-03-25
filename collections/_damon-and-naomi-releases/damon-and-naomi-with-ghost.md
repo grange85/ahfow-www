@@ -7,7 +7,8 @@ section: 01-album
 artistslug: damon-and-naomi
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_withghost.jpg
 initial_release_date: 2000
-albumname: Damon & Naomi with Ghost
+albumname: "Damon & Naomi with Ghost"
+title: "Damon & Naomi - Damon & Naomi with Ghost"
 bandcamp-url: https://damonandnaomi.bandcamp.com/album/damon-naomi-with-ghost
 bandcamp-id: 373077681
 releases:

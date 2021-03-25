@@ -6,7 +6,8 @@ resource: discography
 section: 01-album
 artistslug: dean-wareham
 initial_release_date: 2013
-albumname: Emancipated Hearts
+albumname: "Emancipated Hearts"
+title: "Dean Wareham - Emancipated Hearts"
 imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/deanwareham_emancipatedhearts_cover.jpg
 releases:
   - release:

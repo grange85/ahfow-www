@@ -5,7 +5,8 @@ resource: discography
 section: 01-album
 artistslug: britta-phillips
 initial_release_date: 2016
-albumname: Luck or Magic
+albumname: "Luck or Magic"
+title: "Britta Phillips - Luck or Magic"
 artist: Britta Phillips
 imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/britta-phillips-luck-or-magic.jpg
 releases:

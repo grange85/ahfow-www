@@ -7,7 +7,8 @@ section: 02-single
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_no6ep.jpg
 initial_release_date: 1995
-albumname: EP (No.6)
+albumname: "EP (No.6)"
+title: "Luna - EP (No.6)"
 releases:
   - release:
     version: number-six-ep

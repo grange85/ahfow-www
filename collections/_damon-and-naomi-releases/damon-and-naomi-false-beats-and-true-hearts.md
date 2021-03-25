@@ -7,7 +7,8 @@ section: 01-album
 artistslug: damon-and-naomi
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_falsebeats.jpg
 initial_release_date: 2011
-albumname: False Beats and True Hearts
+albumname: "False Beats and True Hearts"
+title: "Damon & Naomi - False Beats and True Hearts"
 bandcamp-url: https://damonandnaomi.bandcamp.com/album/false-beats-and-true-hearts
 bandcamp-id: 1528006243
 releases:

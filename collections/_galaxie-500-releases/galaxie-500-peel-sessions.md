@@ -7,7 +7,8 @@ section: 01-album
 artistslug: galaxie-500
 categories : [discography, galaxie-500, albums]
 initial_release_date: 2005
-albumname: Peel Sessions
+albumname: "Peel Sessions"
+title: "Galaxie 500 - Peel Sessions"
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_peelsessions.jpg
 bandcamp-url: https://galaxie500.bandcamp.com/album/peel-sessions
 bandcamp-id: 500961155

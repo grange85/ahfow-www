@@ -5,7 +5,8 @@ resource: discography
 section: 02-single
 artistslug: dean-wareham
 initial_release_date: 2014
-albumname: Love
+albumname: "Love"
+title: "Dean Wareham - Love"
 imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-love-formosa-punk.jpg
 releases:
   - release:

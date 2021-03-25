@@ -5,7 +5,8 @@ resource: discography
 section: 02-single
 artistslug: dean-and-britta
 initial_release_date: 2020
-albumname: The Carnival is Over
+albumname: "The Carnival is Over"
+title: "Dean & Britta - The Carnival is Over"
 imageurl: https://www.fullofwishes.co.uk/images/dean-and-britta-the-carnival-is-over-sleeve.jpg
 releases:
   - release: 

@@ -6,7 +6,8 @@ resource: discography
 section: 01-album
 artistslug: galaxie-500
 initial_release_date: 2004
-albumname: Uncollected Galaxie 500
+albumname: "Uncollected Galaxie 500"
+title: "Galaxie 500 - Uncollected Galaxie 500"
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_uncollected.jpg
 bandcamp-url: https://galaxie500.bandcamp.com/album/uncollected
 bandcamp-id: 2614932935

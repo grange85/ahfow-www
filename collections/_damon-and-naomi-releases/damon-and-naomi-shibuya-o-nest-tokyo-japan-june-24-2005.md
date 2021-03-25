@@ -5,7 +5,8 @@ resource: discography
 section: 04-dvd
 artistslug: damon-and-naomi
 initial_release_date: 2006
-albumname: Shibuya O Nest, Tokyo, Japan - June 24, 2005
+albumname: "Shibuya O Nest, Tokyo, Japan - June 24, 2005"
+title: "Damon & Naomi - Shibuya O Nest, Tokyo, Japan - June 24, 2005"
 imageurl:  https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-shibuya-o-nest-2008.jpg
 releases:
   - release:

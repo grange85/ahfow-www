@@ -6,7 +6,8 @@ section: 01-album
 artistslug: damon-and-naomi
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan-spirit-of-love-album.jpg
 initial_release_date: 2016
-albumname: Spirit of Love (B-sides, bonuses and soundtracks)
+albumname: "Spirit of Love (B-sides, bonuses and soundtracks)"
+title: "Damon & Naomi - Spirit of Love (B-sides, bonuses and soundtracks)"
 bandcamp-url: https://damonandnaomi.bandcamp.com/album/spirit-of-love-b-sides-bonuses-and-soundtracks
 bandcamp-id: 2221016275
 releases:

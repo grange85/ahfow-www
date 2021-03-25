@@ -6,7 +6,8 @@ section: 04-promo
 artistslug: luna
 imageurl: 
 initial_release_date: 1994
-albumname: This Time Around
+albumname: "This Time Around"
+title: "Luna - This Time Around"
 releases:
   - release:
     version: elektra-promo-cd

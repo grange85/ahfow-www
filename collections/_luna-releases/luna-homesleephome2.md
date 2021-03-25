@@ -8,6 +8,7 @@ artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-homesleephome2.jpg
 initial_release_date: 2001
 albumname: "Homesleephome2 Cover Songs"
+title: "Luna - Homesleephome2 Cover Songs"
 releases:
   - release:
     version: homesleep-cd

@@ -7,7 +7,8 @@ section: 02-single
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_bobbyperu.jpg
 initial_release_date: 1997
-albumname: Bobby Peru
+albumname: "Bobby Peru"
+title: "Luna - Bobby Peru"
 releases:
   - release:
     version: beggars-banquet-7

@@ -6,7 +6,8 @@ section: 02-single
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-a-place-of-greater-safety-lo-res.jpg
 initial_release_date: 2017
-albumname: A Place of Greater Safety
+albumname: "A Place of Greater Safety"
+title: "Luna - A Place of Greater Safety"
 releases:
   - release:
     graph: true

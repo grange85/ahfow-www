@@ -6,7 +6,8 @@ resource: discography
 section: 03-Compilation
 artistslug: dean-wareham
 initial_release_date: 1990
-albumname: What Else Do You Do (A Compilation of Quiet Music)
+albumname: "What Else Do You Do (A Compilation of Quiet Music)"
+title: "Dean Wareham - What Else Do You Do (A Compilation of Quiet Music)"
 artist: Various artists
 imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean_quietmusic.jpg
 releases:

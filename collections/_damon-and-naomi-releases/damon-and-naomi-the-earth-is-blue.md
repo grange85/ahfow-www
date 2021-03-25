@@ -6,7 +6,8 @@ resource: discography
 section: 01-album
 artistslug: damon-and-naomi
 initial_release_date: 2005
-albumname: The Earh is Blue
+albumname: "The Earh is Blue"
+title: "Damon & Naomi - The Earh is Blue"
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_theearthisblue.jpg
 bandcamp-url: https://damonandnaomi.bandcamp.com/album/the-earth-is-blue
 bandcamp-id: 4211041915

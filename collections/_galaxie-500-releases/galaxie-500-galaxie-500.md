@@ -5,7 +5,8 @@ resource: discography
 section: 01-album
 artistslug: galaxie-500
 initial_release_date: 1996
-albumname: Galaxie 500
+albumname: "Galaxie 500"
+title: "Galaxie 500 - Galaxie 500"
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_boxset_box_front.jpg
 releases:
   - release:

@@ -5,7 +5,8 @@ resource: discography
 section: 03-compilation
 artistslug: britta-phillips
 initial_release_date: 2006
-albumname: Never Lose That Feeling Volume Two
+albumname: "Never Lose That Feeling Volume Two"
+title: "Britta Phillips - Never Lose That Feeling Volume Two"
 imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/britta-phillips-never-lose-that-feeling-2.jpg
 releases:
   - release:

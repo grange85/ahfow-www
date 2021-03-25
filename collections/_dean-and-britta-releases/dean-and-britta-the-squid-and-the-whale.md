@@ -6,7 +6,8 @@ resource: discography
 section: 03-compilation
 artistslug: dean-and-britta
 initial_release_date: 2005
-albumname:  "The Squid and the Whale: Soundtrack to the Motion Picture"
+albumname: "The Squid and the Whale: Soundtrack to the Motion Picture"
+title: "Dean & Britta -  The Squid and the Whale: Soundtrack to the Motion Picture"
 imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_squid.jpg
 artist: Various artists
 releases:

@@ -7,7 +7,8 @@ section: 02-single
 artistslug: damon-and-naomi
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-white-christmas.jpg
 initial_release_date: 2008
-albumname: White Christmas
+albumname: "White Christmas"
+title: "Damon & Naomi - White Christmas"
 releases:
   - release:
     version: cdr

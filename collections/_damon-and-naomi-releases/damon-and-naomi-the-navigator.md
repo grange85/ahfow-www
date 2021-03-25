@@ -7,7 +7,8 @@ section: 02-single
 artistslug: damon-and-naomi
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_navigator.jpg
 initial_release_date: 1997
-albumname: The Navigator / Awake in a Muddle
+albumname: "The Navigator / Awake in a Muddle"
+title: "Damon & Naomi - The Navigator / Awake in a Muddle"
 releases:
   - release:
     version: earworm-single

@@ -6,7 +6,8 @@ resource: discography
 section: 01-album
 artistslug: damon-and-naomi
 initial_release_date: 1992
-albumname: More Sad Hits
+albumname: "More Sad Hits"
+title: "Damon & Naomi - More Sad Hits"
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_moresadhits.jpg
 bandcamp-url: https://damonandnaomi.bandcamp.com/album/more-sad-hits
 bandcamp-id: 4050036211

@@ -7,7 +7,8 @@ section: 02-single
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-in-the-flesh.jpg
 initial_release_date: 1997
-albumname: In the Flesh
+albumname: "In the Flesh"
+title: "Luna - In the Flesh"
 releases:
   - release:
     version: trade-2-7

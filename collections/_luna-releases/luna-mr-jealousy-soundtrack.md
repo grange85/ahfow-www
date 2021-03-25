@@ -8,6 +8,7 @@ artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-mr-jealousy-soundtrack.jpg
 initial_release_date: 1998
 albumname: "Mr Jealousy: Music From The Motion Picture"
+title: "Luna - Mr Jealousy: Music From The Motion Picture"
 releases:
   - release:
     version: bmg-cd

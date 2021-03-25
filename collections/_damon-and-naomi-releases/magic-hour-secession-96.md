@@ -7,7 +7,8 @@ section: 05-Magic Hour release
 artistslug: damon-and-naomi
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magichour_secession.jpg
 initial_release_date: 1996
-albumname:  Secession 96
+albumname: " Secession 96"
+title: "Magic Hour -  Secession 96"
 artist: Magic Hour
 bandcamp-url: https://magic-hour.bandcamp.com/album/secession-96
 bandcamp-id: 4265088759

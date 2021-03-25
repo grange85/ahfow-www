@@ -6,7 +6,8 @@ section: 01-album
 artistslug: galaxie-500
 categories : [discography, galaxie-500, albums]
 initial_release_date: 1997
-albumname: Copenhagen
+albumname: "Copenhagen"
+title: "Galaxie 500 - Copenhagen"
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_copenhagen.jpg
 bandcamp-url: https://galaxie500.bandcamp.com/album/copenhagen-live
 bandcamp-id: 3510813574

@@ -6,7 +6,8 @@ resource: discography
 section: 04-compilation
 artistslug: galaxie-500
 initial_release_date: 1990
-albumname: Gigantic 2
+albumname: "Gigantic 2"
+title: "Galaxie 500 - Gigantic 2"
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_gigantic.jpg
 releases:
   - release:

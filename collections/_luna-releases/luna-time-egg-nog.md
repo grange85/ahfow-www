@@ -6,7 +6,8 @@ section: 04-promo
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-time-egg-nog-800.jpg
 initial_release_date: 1992
-albumname: Time / Egg Nog
+albumname: "Time / Egg Nog"
+title: "Luna - Time / Egg Nog"
 releases:
   - release:
     version: elektra-promo-single

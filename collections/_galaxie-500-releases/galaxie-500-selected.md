@@ -6,7 +6,8 @@ resource: discography
 section: 04-promo
 artistslug: galaxie-500
 initial_release_date: 1996
-albumname: Selected
+albumname: "Selected"
+title: "Galaxie 500 - Selected"
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_selected.jpg
 releases:
   - release:

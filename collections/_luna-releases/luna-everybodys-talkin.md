@@ -7,7 +7,8 @@ section: 02-single
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-everybodys-talkin.jpg
 initial_release_date: 1998
-albumname: Everybody's Talkin'
+albumname: "Everybody's Talkin'"
+title: "Luna - Everybody's Talkin'"
 releases:
   - release:
     version: sub-pop-7

@@ -6,7 +6,8 @@ section: 05-Magic Hour release
 artistslug: damon-and-naomi
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magichour_headsdown.jpg
 initial_release_date: 1993
-albumname:  Heads Down
+albumname: " Heads Down"
+title: "Magic Hour -  Heads Down"
 artist: Magic Hour
 releases:
   - release:

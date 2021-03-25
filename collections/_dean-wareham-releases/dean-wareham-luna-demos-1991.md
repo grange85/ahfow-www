@@ -5,7 +5,8 @@ resource: discography
 section: 01-album
 artistslug: dean-wareham
 initial_release_date: 2015
-albumname: Luna Demos
+albumname: "Luna Demos"
+title: "Dean Wareham - Luna Demos"
 imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-luna-demos-lux.jpg
 bandcamp-url: https://luna.bandcamp.com/album/luna-demos-1991
 bandcamp-id: 1687436887

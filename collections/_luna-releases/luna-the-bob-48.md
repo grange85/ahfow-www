@@ -8,6 +8,7 @@ artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-the-bob-48.jpg
 initial_release_date: 1994
 albumname: "The Bob Magazine No. 48"
+title: "Luna - The Bob Magazine No. 48"
 releases:
   - release:
     version: the-bob-flexi

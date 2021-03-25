@@ -7,7 +7,8 @@ section: 05-Magic Hour release
 artistslug: damon-and-naomi
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magichour_noexcess.jpg
 initial_release_date: 1994
-albumname: No Excess is Absurd
+albumname: "No Excess is Absurd"
+title: "Magic Hour - No Excess is Absurd"
 bandcamp-url: https://magic-hour.bandcamp.com/album/no-excess-is-absurd
 bandcamp-id: 3380459093
 artist: Magic Hour

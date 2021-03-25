@@ -7,7 +7,8 @@ section: 01-album
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_live.jpg
 initial_release_date: 2000
-albumname: Live
+albumname: "Live"
+title: "Luna - Live"
 releases:
   - release:
     version: arena-rock-cd

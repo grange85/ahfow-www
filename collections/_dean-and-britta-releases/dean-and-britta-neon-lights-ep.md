@@ -5,7 +5,8 @@ resource: discography
 section: 02-single
 artistslug: dean-and-britta
 initial_release_date: 2020
-albumname: Neon Lights EP
+albumname: "Neon Lights EP"
+title: "Dean & Britta - Neon Lights EP"
 bandcamp-url: https://deanandbritta.bandcamp.com/album/quarantine-tapes
 bandcamp-id: 
 imageurl: https://www.fullofwishes.co.uk/images/dean-britta-neon-lights-ep-cover.jpg

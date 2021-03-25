@@ -6,7 +6,8 @@ section: 01-album
 artistslug: damon-and-naomi
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-in-the-21st-century.jpg
 initial_release_date: 2009
-albumname: Damon & Naomi in The 21st Century
+albumname: "Damon & Naomi in The 21st Century"
+title: "Damon & Naomi - Damon & Naomi in The 21st Century"
 bandcamp-url: https://damonandnaomi.bandcamp.com/album/in-the-21st-century
 bandcamp-id: 3465949100
 releases:

@@ -7,7 +7,8 @@ section: 01-album
 artistslug: damon-and-naomi
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_songtothesiren.jpg
 initial_release_date: 2000
-albumname: Song to the Siren
+albumname: "Song to the Siren"
+title: "Damon & Naomi - Song to the Siren"
 releases:
   - release:
     version: sub-pop-cd-dvd

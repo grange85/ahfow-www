@@ -5,7 +5,8 @@ resource: discography
 section: 04-Cagney & Lacee release
 artistslug: dean-wareham
 initial_release_date: 1997
-albumname: Six Feet of Chain
+albumname: "Six Feet of Chain"
+title: "Cagney & Lacee - Six Feet of Chain"
 imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/cagney-and-lacee-six-feet-of-chain.jpg
 artist: Cagney & Lacee
 releases:

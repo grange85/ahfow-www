@@ -5,7 +5,8 @@ resource: discography
 section: 04-dvd
 artistslug: damon-and-naomi
 initial_release_date: 2008
-albumname: Shibuya O Nest, Tokyo, Japan - 2008
+albumname: "Shibuya O Nest, Tokyo, Japan - 2008"
+title: "Damon & Naomi - Shibuya O Nest, Tokyo, Japan - 2008"
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-shibuya-o-nest-2005.jpg
 releases:
   - release:

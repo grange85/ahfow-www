@@ -7,7 +7,8 @@ section: 02-single
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-indian-summer.jpg
 initial_release_date: 1993
-albumname: Indian Summer
+albumname: "Indian Summer"
+title: "Luna - Indian Summer"
 releases:
   - release:
     version: rough-trade-12

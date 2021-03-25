@@ -6,7 +6,8 @@ resource: discography
 section: 02-single
 artistslug: dean-wareham
 initial_release_date: 1991
-albumname: Anesthesia
+albumname: "Anesthesia"
+title: "Dean Wareham - Anesthesia"
 imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean_anesthesia_minttea.jpg
 releases:
   - release:

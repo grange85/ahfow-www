@@ -6,7 +6,8 @@ section: 04-promo
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-slash-your-tires-promo.jpg
 initial_release_date: 1992
-albumname: Slash Your Tires
+albumname: "Slash Your Tires"
+title: "Luna - Slash Your Tires"
 releases:
   - release:
     version: elektra-promo-cd

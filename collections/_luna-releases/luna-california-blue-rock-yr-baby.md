@@ -6,7 +6,8 @@ section: 02-single
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-california-blue-rock-yr-baby-front.jpg
 initial_release_date: 2017
-albumname: California Blue / Rock Yr Baby
+albumname: "California Blue / Rock Yr Baby"
+title: "Luna - California Blue / Rock Yr Baby"
 releases:
   - release:
     version: feral-child-7

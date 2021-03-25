@@ -6,7 +6,8 @@ resource: discography
 section: 01-album
 artistslug: dean-wareham
 initial_release_date: 2014
-albumname: Live at St Pancras Old Church London
+albumname: "Live at St Pancras Old Church London"
+title: "Dean Wareham - Live at St Pancras Old Church London"
 imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-live-at-st-pancras-sonic-cathedral.jpg
 bandcamp-url: https://soniccathedral.bandcamp.com/album/live-at-st-pancras-old-church-london-december-2013-2
 bandcamp-id: 1608301513

@@ -8,6 +8,7 @@ artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-rare-on-air-3.jpg
 initial_release_date: 1997
 albumname: "Rare On Air 3: Live Selections From KCRW's Morning Becomes Eclectic"
+title: "Luna - Rare On Air 3: Live Selections From KCRW's Morning Becomes Eclectic"
 releases:
   - release:
     version: mammoth-cd

@@ -5,7 +5,8 @@ resource: discography
 section: 02-single
 artistslug: britta-phillips
 initial_release_date: 2016
-albumname: Bang Bang (My Baby Shot Me Down)
+albumname: "Bang Bang (My Baby Shot Me Down)"
+title: "Britta Phillips - Bang Bang (My Baby Shot Me Down)"
 imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/britta-phillips-bang-bang-my-baby-shot-me-down.jpg
 releases:
   - release:

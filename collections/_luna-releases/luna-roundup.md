@@ -6,7 +6,8 @@ section: 04-promo
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-roundup.jpg
 initial_release_date: 2002
-albumname: Roundup
+albumname: "Roundup"
+title: "Luna - Roundup"
 releases:
   - release:
     version: promo-cd

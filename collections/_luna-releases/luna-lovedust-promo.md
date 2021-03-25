@@ -6,7 +6,8 @@ section: 04-promo
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-lovedust-promo.jpg
 initial_release_date: 2002
-albumname: Lovedust
+albumname: "Lovedust"
+title: "Luna - Lovedust"
 releases:
   - release:
     version: elektra-promo-cd

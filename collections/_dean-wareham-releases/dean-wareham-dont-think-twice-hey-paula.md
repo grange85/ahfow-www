@@ -5,7 +5,8 @@ resource: discography
 section: 02-single
 artistslug: dean-wareham
 initial_release_date: 2016
-albumname: Hey Paula
+albumname: "Hey Paula"
+title: "Dean Wareham - Hey Paula"
 imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-hey-paula.jpg
 releases:
   - release:

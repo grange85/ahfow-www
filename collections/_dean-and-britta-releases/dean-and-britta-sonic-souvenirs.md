@@ -6,7 +6,8 @@ resource: discography
 section: 02-single
 artistslug: dean-and-britta
 initial_release_date: 2003
-albumname: Sonic Souvenirs
+albumname: "Sonic Souvenirs"
+title: "Dean & Britta - Sonic Souvenirs"
 imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_sonic_souvenirs.jpg
 releases:
   - release:

@@ -5,7 +5,8 @@ resource: discography
 section: 01-album
 artistslug: dean-wareham
 initial_release_date: 2018
-albumname: Dean Wareham vs. Cheval Sombre
+albumname: "Dean Wareham vs. Cheval Sombre"
+title: "Dean Wareham - Dean Wareham vs. Cheval Sombre"
 imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-vs-cheval-sombre-640.jpg
 releases:
   - release:

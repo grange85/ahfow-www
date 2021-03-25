@@ -8,7 +8,8 @@ imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-tell-me-do-you-m
 initial_release_date: 2002
 bandcamp-url: https://luna.bandcamp.com/album/tell-me-do-you-miss-me
 bandcamp-id: 3465747815
-albumname: Tell Me Do You Miss Me
+albumname: "Tell Me Do You Miss Me"
+title: "Luna - Tell Me Do You Miss Me"
 releases:
   - release:
     version: lp

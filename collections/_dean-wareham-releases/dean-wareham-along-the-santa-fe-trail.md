@@ -5,7 +5,8 @@ resource: discography
 section: 02-single
 artistslug: dean-wareham
 initial_release_date: 2018
-albumname: Along the Santa Fe Trail
+albumname: "Along the Santa Fe Trail"
+title: "Dean Wareham - Along the Santa Fe Trail"
 imageurl:
 releases:
   - release:

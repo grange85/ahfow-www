@@ -6,7 +6,8 @@ section: 05-Magic Hour release
 artistslug: damon-and-naomi
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magic-hour-magic-moments.jpg
 initial_release_date: 2016
-albumname:  Magic Moments
+albumname: " Magic Moments"
+title: "Magic Hour -  Magic Moments"
 artist: Magic Hour
 bandcamp-url: https://magic-hour.bandcamp.com/album/magic-moments
 bandcamp-id: 3096253867

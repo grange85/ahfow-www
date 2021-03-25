@@ -5,7 +5,8 @@ resource: discography
 section: 02-single
 artistslug: dean-and-britta
 initial_release_date: 2020
-albumname: Quarantine Tapes
+albumname: "Quarantine Tapes"
+title: "Dean & Britta - Quarantine Tapes"
 bandcamp-url: https://deanandbritta.bandcamp.com/album/quarantine-tapes
 bandcamp-id: 740684993
 imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-quarantine-box-3-crop.jpg

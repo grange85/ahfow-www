@@ -7,7 +7,8 @@ section: 02-single
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_superfreaky.jpg
 initial_release_date: 1999
-albumname: Superfreaky Memories
+albumname: "Superfreaky Memories"
+title: "Luna - Superfreaky Memories"
 releases:
   - release:
     version: beggars-banquet-cds
