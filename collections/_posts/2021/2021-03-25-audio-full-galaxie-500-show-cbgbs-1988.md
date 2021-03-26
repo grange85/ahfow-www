@@ -19,7 +19,7 @@ tags:
  - cbgbs
 ---
 
-The always excellent blog [Doom & Gloom From The Tomb](https://doomandgloomfromthetomb.tumblr.com) have just [shared a recording of Galaxie 500](https://doomandgloomfromthetomb.tumblr.com/post/631328815608659968) playing at the See/Hear benefit at CBGB's in December 1988.
+The always excellent blog [Doom & Gloom From The Tomb](https://doomandgloomfromthetomb.tumblr.com) have [shared a recording of Galaxie 500](https://doomandgloomfromthetomb.tumblr.com/post/631328815608659968) playing at the See/Hear benefit at CBGB's in December 1988.
 
 > Primal Galaxie 500! Thanks to Dan for passing along this new-to-me tape of Damon, Naomi and Dean back in the day. Sonic Youth released their Daydream Nation-era set from this evening on the Bowery as part of their live archive series, so this fills out the picture nicely. Like the SY recording, it’s a soundboard, but a wobbly/watery one … a tape flaw or was this how Kramer wanted the band to sound? I wouldn’t put it past him.
 {: .blockquote .text-secondary .px-4}

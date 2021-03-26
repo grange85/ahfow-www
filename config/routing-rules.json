@@ -195,6 +195,16 @@
         "Protocol": "https",
         "ReplaceKeyPrefixWith": "/database/tracks/silver-factory-theme/"
       }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "/search-results/"
+      },
+      "Redirect": {
+        "HostName": "www.fullofwishes.co.uk",
+        "Protocol": "https",
+        "ReplaceKeyPrefixWith": "/search/"
+      }
     }
   ]
 }
