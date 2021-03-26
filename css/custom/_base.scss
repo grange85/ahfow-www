@@ -25,5 +25,42 @@ h1 {
   left: 50%;
   position: absolute;
   transform: translate(-50%, -50%);
-  font-size: 4rem;
+  font-size: 3rem;
 }
+
+.ytimg i span {
+  font-size: 1.4rem;
+}
+
+
+
+.opacity-0 {
+  opacity:0!important;
+}
+.opacity-1 {
+  opacity:0.2!important;
+}
+.opacity-2 {
+  opacity:0.4!important;
+}
+.opacity-3 {
+  opacity:0.6!important;
+}
+.opacity-4 {
+  opacity:.8!important;
+}
+.opacity-5 {
+  opacity:1!important;
+}
+
+/* Maybe even support hover opacity shifts */
+.opacity-3h4 {
+  background: rgba(255, 255, 255, .3)!important;
+  transition: opacity .25s ease-in-out!important;
+  -moz-transition: opacity .25s ease-in-out!important;
+  -webkit-transition: opacity .25s ease-in-out!important;
+}
+.opacity-3h4:hover {
+  background: rgba(255, 255, 255, .8)!important;
+}
+
