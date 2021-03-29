@@ -8,12 +8,8 @@ sitemap: false
 
 <div class="bs-callout bs-callout-info">
   <h3>Searching</h3>
-          <form class="" role="search" action="/search-results/" method="get">
-          <div class="form-group">
-            <input type="text" class="form-control" placeholder="Search" id="q" name="q">
-          </div>
-          <button type="submit" class="btn btn-primary">Submit</button>
-        </form>
+<p><a href="/search/">Search A Head Full of Wishes</a>.</p>
+
 </div>
 
 <div class="bs-callout bs-callout-info">
