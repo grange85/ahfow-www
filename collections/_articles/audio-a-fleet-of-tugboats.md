@@ -200,8 +200,8 @@ tags:
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/00-misc/audio/Standby-Connection_Tugboat.mp3",
   "audiocap": "Tugboat - The Standby Connection",
-  "sourceurl": "https://www.discogs.com/Submarine-Jodie-Foster/release/702029",
-  "sourcecap": "Jodie Foster / Tugboat "
+  "sourceurl": "https://thestandbyconnection.bandcamp.com/",
+  "sourcecap": "The Standby Connection on Bandcamp"
   } %}
 
 <h4 id="tugboat-submarine">Submarine</h4>

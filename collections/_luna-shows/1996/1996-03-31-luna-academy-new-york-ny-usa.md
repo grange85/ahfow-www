@@ -2,8 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: "Academy, New York NY, USA"
-title: "31st March 1996 -  Luna - Academy, New York NY, USA"
+show-venue: "Beacon Theater, New York NY, USA"
+title: "31st March 1996 -  Luna - Beacon Theater, New York NY, USA"
 show-setlist: 
 show-date: 1996-03-31
 category: 1996
