@@ -30,7 +30,11 @@ h1 {
 .ytimg i span {
 }
 
-
+.sddefault {
+  width: 640px; 
+  height: 360px; 
+  background-position-y: -60px;
+}
 
 .opacity-0 {
   opacity:0!important;

@@ -49,9 +49,8 @@ eos
       <<~HEREDOC
         <figure class="figure embed-responsive">
           <a href="https://www.youtube.com/watch?v=#{ahfowvideo_url}">
-            <div class="ytimg">
+            <div class="ytimg mx-auto sddefault" style="background-image: url('https://img.youtube.com/vi/#{ahfowvideo_url}/sddefault.jpg')">
               <i class=" h2 opacity-3h4 d-block px-2 bi bi-play-btn-fill text-danger text-center">&nbsp;<span class="h6">Play on YouTube</span></i>
-              <img src="https://img.youtube.com/vi/#{ahfowvideo_url}/sddefault.jpg" width="640" height="480" class="img-fluid rounded mx-auto d-block" alt="#{ahfowvideo_caption} (link to youtube)">
             </div>
           </a>
           <figcaption class="figure-caption text-right">
