@@ -18,7 +18,9 @@ categories:
 tags: []
 ---
 <p>The Troggs were led by the other rock and roll Presley, Reg, and were most famous for their version of Wild Thing. Our Love Will Still Be There was from their 1966 album From Nowhere<br />
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lBneFeNmaN0" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "lBneFeNmaN0" "" %}
+
 <p>Dean & Britta's cover of the track was on their second album Back Numbers in 2007, and a remix by Britta was released on the Variations, download only EP, here's that remix...</p>
 
  {% ahfowaudio {
@@ -29,7 +31,11 @@ tags: []
   } %}
 
 <p>... and here's them performing it live in 2007<br />
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kcX-tEJtfMU" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "kcX-tEJtfMU" "" %}
+
 <p>Here's Reg and the boys playing their less famous but much better UK #1<br />
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6__s2-iytA0" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "6__s2-iytA0" "" %}
+
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

@@ -33,4 +33,6 @@ tags: []
 <a href="/2011/09/30/audio-friday-recycling-laika/">Audio: Friday recycling: Laika</a><br />
 <a href="http://www.mediafire.com/download.php?lindniw2xng">Full show download: Damon & Naomi in London 2001</a></p>
 <p><a href="http://www.flickr.com/photos/macskapocs/4876525211/" title="IMG_9401DamonAndNaomi_opt by macskapocs, on Flickr"><img class="aligncenter" src="https://farm5.staticflickr.com/4076/4876525211_70d051440c.jpg" width="500" height="334" alt="IMG_9401DamonAndNaomi_opt"></a><br />
-<iframe width="480" class="aligncenter" height="360" https://www.youtube-nocookie.com/embed/n8hixY2vHpU" frameborder="0" allowfullscreen></iframe></p>
+
+{% ahfowvideo "n8hixY2vHpU" "" %}
+

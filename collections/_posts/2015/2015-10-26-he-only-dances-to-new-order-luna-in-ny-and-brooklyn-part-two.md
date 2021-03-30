@@ -68,7 +68,9 @@ tags: []
 
 <p>It's another dance and hand clapping song, {% ahfowtrack "23 Minutes in Brussels" %} and a great show becomes even greater. Sean excels with his sweet tones and Dean messes it up, in a very very good way. {% ahfowtrack "Season of the Witch" %} is the encore, and they play {% ahfowtrack "Indian Summer" %} better than ever, after the songs Dean steps forward and say something directly into the camera that is still on the stage floor and records. It looks like he says with a smile on his face, "don't put this on YouTube". I promise I won't.</p>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/saOHblH0l8c" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "saOHblH0l8c" "" %}
+
 
 <p>The show is over and we head down to the bar and meet Greg and Alan that we met in Spain in April. They want to buy us a beer. And there are two nice Spanish girls that we start talking to. I can't seem to remember her name I'm afraid, which bugs me, but one of them is a big Luna fan and tells me that she read my text about the UK tour, it makes me happy. Her friend heard Luna for the second time, the first was the day before. I ask her about the show, and she says it was much better than yesterday, the songs are easier to like and the energy is more intense.</p>
 
@@ -82,5 +84,7 @@ tags: []
 
 <p class="text-muted">AHFoW: You can <a href="/2015/10/22/a-beautiful-light-fills-the-room-luna-in-ny-and-brooklyn-part-one/">read part one of Joakim's NY odyssey</a>. Stick around for part three. If you want to write up your Luna experience for AHFoW please <a href="/about/">get in touch</a>.</p>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/khmtt4DNfdg" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "khmtt4DNfdg" "" %}
+
 

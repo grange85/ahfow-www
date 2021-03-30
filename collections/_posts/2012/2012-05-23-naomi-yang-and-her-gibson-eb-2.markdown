@@ -25,7 +25,11 @@ tags: []
 <p>Naomi interviewed in Andrea Juno's mid 90s <a href="http://www.amazon.com/gp/product/0965104206/ref=as_li_ss_tl?ie=UTF8&tag=aheadfullofwi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0965104206">Angry Women in Rock</a></p>
 <p>There were (at least) two basses - a sunburst one and the cherry red one - here you can see both in action:</p>
 <p>Galaxie 500 - When Will You Come Home (1989)<br />
-<iframe class="aligncenter" width="480" height="360" https://www.youtube-nocookie.com/embed/igfXqhRxIcM" frameborder="0" allowfullscreen></iframe></p>
+
+{% ahfowvideo "igfXqhRxIcM" "" %}
+
 <p>Damon & Naomi - Cruel Queen (2008)<br />
-<iframe class="aligncenter" width="480" height="360" https://www.youtube-nocookie.com/embed/wyeUwOGPIuo" frameborder="0" allowfullscreen></iframe></p>
+
+{% ahfowvideo "wyeUwOGPIuo" "" %}
+
 <p><a href="http://www.flickr.com/photos/shangai_produzione/3331817856/" title="ceremony by banned, on Flickr"><img class="aligncenter" src="https://farm4.staticflickr.com/3617/3331817856_8f2e0a31fa.jpg" width="500" height="458" alt="ceremony"></a></p>

@@ -21,8 +21,14 @@ tags:
 - video
 ---
 <p>Dean Wareham - "Heartless People" (Live at WFUV):<br />
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/r2lVXdSsxQ4" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "r2lVXdSsxQ4" "" %}
+
 <p>Dean Wareham - "Holding Pattern" (Live at WFUV):<br />
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-owYtTKCnzU" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "-owYtTKCnzU" "" %}
+
 <p>Dean Wareham - "Lost in Space" (Live at WFUV):<br />
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jTLvTxJ7pS4" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "jTLvTxJ7pS4" "" %}
+

@@ -36,5 +36,7 @@ Anyone who read the boring bit of my last post (survey) would have noticed that 
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/misc/a-head-full-of-wishes-dvd.jpg" width="1024" height="597" class /><figcaption class="caption-text"> Galaxie 500 - Don't Let Our Youth Go to Waste DVD</figcaption></figure>
 <h3>5: And it still gets to be brilliant</h3>
 <p> ... the day after I turned 50 back in May, this happened<br />
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6CKSPKAul38" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "6CKSPKAul38" "" %}
+
 <p><em>I'll post another five in the next day or two - if anyone cares to post any memories of the web site or the mailing list over the last 20 years please feel free to use the comments. Or if you have lots to say you'd be welcome to take over the blog for a post or two!</em></p>

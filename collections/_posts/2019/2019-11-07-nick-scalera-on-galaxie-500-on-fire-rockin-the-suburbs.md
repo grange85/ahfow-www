@@ -22,4 +22,4 @@ The excellent (and astoundingly prolific) podcast [Rockin' The Suburbs](https://
 
 > Galaxie 500 is, I think a timeless band, they are very rooted in music history, they're very much acolytes of The Velvet Underground, especially the third album. They're big music fans. Television's another reference to their music, and it sounds a bit timeless.
 
-<iframe width="100%" height="300" src="https://embeds.audioboom.com/posts/7413413/embed/v4" style="background-color:transparent; display:block; padding: 0; max-width:800px;" frameborder="0" allowtransparency="allowtransparency" scrolling="no" title="Audioboom player" allow="autoplay"></iframe>
+

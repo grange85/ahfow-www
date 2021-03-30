@@ -22,9 +22,13 @@ tags: []
 Photo: <a href="http://www.chromewaves.net/concertPhotos.php?concert=luna2">Frank Yang</a>[/caption]</p>
 <p>A couple of TV appearances with Luna<br />
 Luna - Friendly Advice MTV 120 Minutes<br />
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/26c-CCQ6-rs" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "26c-CCQ6-rs" "" %}
+
 <p>Luna - Dear Diary & Hello Little One<br />
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Yj5xwGgMo8g" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "Yj5xwGgMo8g" "" %}
+
 <p>... and a couple of MP3s</p>
 
  {% ahfowaudio {
@@ -40,7 +44,9 @@ Luna - Friendly Advice MTV 120 Minutes<br />
   "sourcecap": "Tell Me Do You Miss Me"
   } %}
 <p>... and losing at chess and throwing some shapes in the video for Cherries in The Snow by Elk City<br />
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TZ6B3TAVQE0" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "TZ6B3TAVQE0" "" %}
+
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2005-02-26/20050227_0048090A.jpg" width="333" height="500" class /><figcaption class="caption-text"> Sean Eden of Luna</figcaption></figure>
 Photo: Pablo Chang[/caption]</p>
 <p><em>We're still waiting for that album Sean!</em></p>

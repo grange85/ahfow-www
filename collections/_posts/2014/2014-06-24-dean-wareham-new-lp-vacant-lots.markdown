@@ -24,4 +24,6 @@ Sonic Cathedral are releasing the new LP by The Vacant Lots next week. The album
 <p><a target="_blank" href="http://www.amazon.co.uk/gp/search/?ie=UTF8&camp=1634&creative=19450&index=blended&keywords=the%20vacant%20lots%20departure&linkCode=ur2&oe=utf-8&tag=aheadfullofwi-21">Buy Departure by The Vacant Lots from Amazon UK</a><br />
 <a target="_blank" href="http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=vacant%20lots%20departure&linkCode=ur2&tag=aheadfullofwi-20&url=search-alias%3Daps&linkId=6V4FEWSIZDXRUOBY">Buy Departure by The Vacant Lots from Amazon US</a></p>
 <p>The Vacant Lots are touring the UK from Saturday with The Brian Jonestown Massacre. They also play a <a href="http://www.wegottickets.com/event/270220">launch event for the album on Monday at The Social in London</a>.<br />
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OV00gx45z5s<img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/vavant-lots-departure.jpg" width="706" height="960" alt="The Vacant Lots - Departure poster" class="aligncenter" />" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "OV00gx45z5s<img src=" "" %}
+

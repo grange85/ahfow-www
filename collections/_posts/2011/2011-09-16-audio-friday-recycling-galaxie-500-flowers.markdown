@@ -31,5 +31,7 @@ tags: []
 <iframe  class="aligncenter" width="400" height="100" style="position: relative; display: block; width: 400px; height: 100px;" src="https://bandcamp.com/EmbeddedPlayer/v=2/track=3230519709/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="https://galaxie500.bandcamp.com/track/flowers">Flowers by Galaxie 500</a></iframe><br />
 <iframe class="aligncenter" width="400" height="100" style="position: relative; display: block; width: 400px; height: 100px;" src="https://bandcamp.com/EmbeddedPlayer/v=2/track=2582515897/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="https://galaxie500.bandcamp.com/track/flowers-2">Flowers by Galaxie 500</a></iframe></p>
 <p>... and finally a video of Dean & Britta (not Galaxie 500 as the video claims) playing it last year...<br />
-<iframe class="aligncenter" width="560" height="315" src="https://www.youtube-nocookie.com/embed/pLdwZS7T7eQ" frameborder="0" allowfullscreen></iframe></p>
+
+{% ahfowvideo "pLdwZS7T7eQ" "" %}
+
 <p>Have a nice weekend!</p>

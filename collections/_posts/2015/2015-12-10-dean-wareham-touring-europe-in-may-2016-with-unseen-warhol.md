@@ -34,6 +34,8 @@ tags: []
         </tr>
 </tbody></table>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ggr8IJrAQ2o" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "Ggr8IJrAQ2o" "" %}
+
 
 <p>There's a <a href="https://vimeo.com/135338173">longer trailer here</a> but embedding's been disabled... <span class="text-muted">they obviously don't want people trying to sell tickets for them &lt;sigh&gt;</p>

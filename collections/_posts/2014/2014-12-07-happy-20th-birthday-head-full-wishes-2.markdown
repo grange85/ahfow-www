@@ -19,7 +19,9 @@ tags: []
 <p>Forgive my indulgence as I post another little nostalgia trip to celebrate 20 years of A Head Full of Wishes</p>
 <h3>6: Tell Me Do You Miss Me - the UK premiere</h3>
 <p> In 2009 John of <a href="http://www.dreammachinerecords.com/">Dream Machine</a> records got in touch and told me that he would be putting on the <a href="/2009/12/22/review-uk-premiere-of-tell-me-do-you-miss-me/">UK première of Matthew Buzzell's splendid Luna documentary Tell Me Do You Miss Me</a> in a pub back room in Brixton. After an initial postponement it finally happened on a cold December evening. I'd tried to drum up interest but I didn't have too much pull (just David!) and it was a sparsely attended. After the film John and the Dream Machine All Stars put on an lovely and enjoyable set of Luna favourites. Here they are romping through 23 Minutes in Brussels<br />
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vJ-Eh2edXmQ" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "vJ-Eh2edXmQ" "" %}
+
 <h3>7: Jesus made me do it</h3>
 <p> After the web site had been running happily for a few months I had been contacted by a few fellow fans, and it was suggested by one of them, Jesus, that I should maybe set up a mailing list. So in early July 1995 the first post of The Galaxie 500 Mailing List was sent out, it started "OK, so far it's just the four of us...". By the time of the first survey in December of that year there were 124 of us. Now most of the <a href="https://www.facebook.com/fullofwishes">social-interaction happens on Facebook</a> (where the page has over 1200 "likes") and <a href="http://twitter.com/ahfow">Twitter</a>.</p>
 <p>The mailing list is still ticking over and sporadically bursts into life over here.</p>

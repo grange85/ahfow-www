@@ -24,11 +24,17 @@ tags: []
 <strong>Photos</strong>: <a href="https://www.flickr.com/photos/allsongs/sets/72157643457947914">Dean Wareham - 2014-04-04: Washinton DC - Photos by Bob Boilen</a></p>
 <p>Dan has posted a bunch of very splendid videos on YouTube of Dean Wareham's show in Carrboro, NC on Thursday night... I'll post a couple of videos here but head over to YouTube to see the rest:</p>
 <p><strong>Video</strong>: <a href="http://youtu.be/C2HVgl9bDK8">Dean Wareham - Holding Pattern (2014-04-03: Carrboro, NC)</a><br />
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/C2HVgl9bDK8" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "C2HVgl9bDK8" "" %}
+
 <p><strong>Video</strong>: <a href="http://youtu.be/-K3R9Laf5xQ">Dean Wareham - Temperature's Rising (2014-04-03: Carrboro, NC)</a><br />
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-K3R9Laf5xQ" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "-K3R9Laf5xQ" "" %}
+
 <p><strong>Video</strong>: <a href="http://youtu.be/QP1uv1YcX2c">Dean Wareham - Tiger Lily (2014-04-03: Carrboro, NC)</a><br />
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QP1uv1YcX2c" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "QP1uv1YcX2c" "" %}
+
 <p>You can also see...</p>
 <p><strong>Video</strong>: <a href="http://youtu.be/2mIcRkKycbk">Dean Wareham - Indian Summer (2014-04-03: Carrboro, NC)</a><br />
 <strong>Video</strong>: <a href="http://youtu.be/qVh-7OrHLbg">Dean Wareham - Strange (2014-04-03: Carrboro, NC)</a><br />

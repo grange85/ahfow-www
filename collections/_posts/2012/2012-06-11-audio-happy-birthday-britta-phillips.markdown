@@ -27,4 +27,6 @@ MP3: <a href="https://www.box.com/shared/p8dmvbhldc">I'll Keep It With Mine (ori
 <p>When Flickr introduced their "Gallery" feature I threw together <a href="http://www.flickr.com/photos/grange85/galleries/72157622398131100/with/2965096050/lightbox/">a gallery of my favourite Britta pictures</a> - you can view that over here.</p>
 <p><strong>Happy birthday Britta, have a lovely day!</strong></p>
 <p>I'll Keep It With Mine (Scott Hardkiss acoustic remix)<br />
-<iframe class="aligncenter" width="480" height="360" https://www.youtube-nocookie.com/embed/RTsAB3PAE5Q" frameborder="0" allowfullscreen></iframe></p>
+
+{% ahfowvideo "RTsAB3PAE5Q" "" %}
+

@@ -22,5 +22,4 @@ Back in 2006 the third release on Damon & Naomi's <a href="http://www.20-20-20.c
 <p>You can find out all about the album (actually albums) and listen to it (them) over on the new 20-20-20 website.<br />
 <a href="http://www.20-20-20.com/ish02">International Sad Hits, Volume Two: The Iberian Peninsula</a></p>
 
-{% ahfowvideo "videoseries?list=PLiGFqGnSS5tGTKtEYecnR5LPXivQDNyD9" "" %}
 

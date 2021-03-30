@@ -26,7 +26,9 @@ Galaxie 500 covered it for the Shimmy Disc tribute album Rutles Highway Revisite
 </p>
 {% bandcamp {"track": "1160116344"} %}
 <p>I'm not sure Galaxie 500 ever played it live, but on his "Dean Wareham plays Galaxie 500" dates it would occasionally get an airing...<br />
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wM5MWqOtHss" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "wM5MWqOtHss" "" %}
+
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/cheese-and-onion-crisps.jpg" width="550" height="358" alt="Cheese and onion crisp packets" class /><figcaption class="caption-text"> C-H-E-E-S-E-A-N-D-O-N-I-O-N-S</figcaption></figure>
 {% ahfowvideo "5CAdEg_oOg4" "" %}
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

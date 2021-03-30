@@ -21,13 +21,19 @@ tags: []
 <p><a href="https://www.flickr.com/photos/recessactivitiesinc/8492832065" title="Rutherford Chang: We Buy White Albums by Recess, on Flickr"><img class="aligncenter" src="https://farm9.staticflickr.com/8089/8492832065_8806e23ea4_z.jpg" width="640" height="427" alt="Rutherford Chang: We Buy White Albums"></a><br />
 George Harrison's While My Guitar Gently Weeps was originally released by The Beatles on The Beatles (aka The White Album) in 1968<br />
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bI8P6ZSHSvE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% ahfowvideo "bI8P6ZSHSvE" "" %}
+
 
 <p>There's an early demo version on Anthology 3<br />
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1iwF-6kKuVg" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "1iwF-6kKuVg" "" %}
+
 <p><a href="http://www.rollingstone.com/music/lists/100-greatest-beatles-songs-20110919/while-my-guitar-gently-weeps-19691231">Rolling Stone reckoned it was the 10th greatest Beatles song</a> Ian MacDonald in the brilliant <a href="http://www.amazon.com/gp/product/1556527330/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1556527330&linkCode=as2&tag=aheadfullofwi-20&linkId=NN7RIHTRYD52A54J">Revolution in the Head</a>, wasn't particularly taken with the track (but then he wasn't often impressed with George's songs):</p>
 <blockquote><p>... as a whole the track exudes a browbeating self importance that quickly becomes tiresome [...]. While My Guitar Gently Weeps enshrines, in its plodding sequence, rocks typical overstatement and slow rate of harmonic change. The energetic topicality of pop is here supplanted by a dull grandiosity predictive of the simplified stadium music of the Seventies and Eighties.</p></blockquote>
 <p>Damon & Naomi's version was released on their fifth album The Earth is Blue in 2005 and includes the slightly different lyrics from the Anthology version .<br />
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4211041915/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1569679454/transparent=true/" seamless><a href="http://damonandnaomi.bandcamp.com/album/the-earth-is-blue">The Earth is Blue by Damon & Naomi</a></iframe></p>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XLHm7jRgTEA" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "XLHm7jRgTEA" "" %}
+
 	

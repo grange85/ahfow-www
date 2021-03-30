@@ -23,10 +23,18 @@ tags:
 ---
 <p>A few tracks by other people that Dean has lent his voice and/or guitar to...</p>
 <p><a href="http://www.angelcorpuschristi.com/">Angel Corpus Christi</a> and Dean Wareham - Je t'aime/I Wanna Boogie With You<br />
-<iframe class="aligncenter" width="420" height="315" https://www.youtube-nocookie.com/embed/WNvzfy8zT44" frameborder="0" allowfullscreen></iframe></p>
+
+{% ahfowvideo "WNvzfy8zT44" "" %}
+
 <p>The Sixths - Falling Out of Love With You<br />
-<iframe class="aligncenter" width="420" height="315" https://www.youtube-nocookie.com/embed/Ephn8t-fU48" frameborder="0" allowfullscreen></iframe></p>
+
+{% ahfowvideo "Ephn8t-fU48" "" %}
+
 <p>Mercury Rev - Car Wash Hair<br />
-<iframe class="aligncenter" width="420" height="315" https://www.youtube-nocookie.com/embed/MVxAQLtpMBA" frameborder="0" allowfullscreen></iframe></p>
+
+{% ahfowvideo "MVxAQLtpMBA" "" %}
+
 <p>Fuxa - Cheree<br />
-<iframe class="aligncenter" width="420" height="315" https://www.youtube-nocookie.com/embed/Ug55Cs2xxZM" frameborder="0" allowfullscreen></iframe></p>
+
+{% ahfowvideo "Ug55Cs2xxZM" "" %}
+

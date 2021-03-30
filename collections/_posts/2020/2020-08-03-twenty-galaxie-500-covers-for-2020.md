@@ -65,7 +65,6 @@ Here's a [YouTube playlist of all 24 covers](https://www.youtube.com/playlist?li
  - _[Mercury Rev - Snowstorm](https://www.reddit.com/r/aheadfullofwishes/comments/ii27wy/and_wrapping_up_the_galaxie_500_covers_series_is/)_
  - _[Kramer - Decomposing Trees](https://www.reddit.com/r/aheadfullofwishes/comments/iio35o/one_more_kramer_brings_the_galaxie_500_covers/)_
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLREvI5uZYozk6JVjK3mKxhknZ3Oru1-Re" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-record-store-day-2020-copenhagen.jpg" "Galaxie 500 Copenhagen - Record Store Day 2020 edition" %}

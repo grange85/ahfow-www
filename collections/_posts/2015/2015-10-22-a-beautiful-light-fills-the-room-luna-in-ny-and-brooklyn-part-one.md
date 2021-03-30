@@ -70,4 +70,6 @@ tags: []
 
 <p class="text-muted">AHFoW: Stay tuned for parts two and three of Joakim's fantastic NY odyssey. If you want to write up your Luna experience for AHFoW please <a href="/about/?_ga=1.51643689.146996332.1441833486">get in touch</a>.</p>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0NY_zLCLD8s" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "0NY_zLCLD8s" "" %}
+

@@ -16,7 +16,9 @@ categories:
 - news
 tags: []
 ---
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MVxAQLtpMBA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% ahfowvideo "MVxAQLtpMBA" "" %}
+
 
 On Twitter yesterday Mercury Rev's Grasshopper replied to a query about the making of Car Wash Hair..
 

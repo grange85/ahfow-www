@@ -27,5 +27,7 @@ Happy Birthday to former Luna guitarist Sean Eden</p>
   "sourcecap": "17 January 2005 - Luna - BBC 6 Music, London, UK"
   } %}
 <p>And surely we'll never get tired of how awesome Sean looked with long hair? Here's Luna performing California (All the Way) in 1994<br />
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZU3QFvaMQPs" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "ZU3QFvaMQPs" "" %}
+
 <p>Have a great day Sean.</p>

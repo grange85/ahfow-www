@@ -18,7 +18,9 @@ categories:
 
 <p>Luna took to the stage just after 10pm, opting for a surprise opener with {% ahfowtrack "Fuzzy Wuzzy" %}. I only recall seeing this once (maybe twice) at the previous 6 shows I've attended, but the guitar interplay between Sean and Dean makes this, for me, a great opener for those who have been yearning for a return from a band Rolling Stone magazine once called &lsquo;the best band you've never heard&rsquo;. Thankfully we don't have that misfortune. {% ahfowtrack "Chinatown" %} followed, and by the third track of the night ({% ahfowtrack "Speedbumps" %}) there wasn't a person in the venue that wasn't transfixed.</p>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PKW90mZ7Bkk" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "PKW90mZ7Bkk" "" %}
+
 
 <p>A powerful rendition of live favourite {% ahfowtrack "Indian Summer" %} actually got me a little teary this first evening in LA. I think my friends were concerned about my mental state, but I pulled through ready to enjoy the second encore of {% ahfowtrack "California (All the Way)" %}. Following the show I said a quick hello to Sean and thanked him for the evening, and we then moved on to a highly unusual bar off the side of a highway which featured a rather large American guy who wasn't so fond of the British. He had been to Reading once, though.</p>
 

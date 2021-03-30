@@ -19,13 +19,21 @@ tags: []
 ---
 <p>Some videos have just been posted to YouTube by <a href="https://www.youtube.com/channel/UChppBef_tltSEuFqnEu8Qzw">shorttrashmovies</a> of Dean Wareham's splendid show in London on Friday:</p>
 <p>Dean Wareham - Flowers (live at Islington Assembly Hall, London, 23 May 2014)<br />
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5Y3Wgp-e1QE<br />" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "5Y3Wgp-e1QE<br />" "" %}
+
 <!--more &hellip;more videos from the London show--></p>
 <p>Dean Wareham - When Will You Come Home (live at Islington Assembly Hall, London, 23 May 2014)<br />
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eHh8T2R_vdg" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "eHh8T2R_vdg" "" %}
+
 <p>Dean Wareham - Fourth of July (live at Islington Assembly Hall, London, 23 May 2014)<br />
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wTLO4U0VJlM" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "wTLO4U0VJlM" "" %}
+
 <p><ins datetime="2014-05-26T14:15:34+00:00">And another video by kiwichrisha has just turned up...<br />
 Dean Wareham - Emancipated Hearts (live at Islington Assembly Hall, London, 23 May 2014)<br />
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/V5r1Dups2G8</ins>" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "V5r1Dups2G8</ins>" "" %}
+
 <p>There's also <a href="http://www.theupcoming.co.uk/2014/05/24/dean-wareham-at-islington-assembly-hall-live-review/">some pictures and a luke-warm review on TheUpcoming</a> - I posted the videos first just to prove the nonsense of using the words "monochromatic and dull" in relation to Friday's show!</p>

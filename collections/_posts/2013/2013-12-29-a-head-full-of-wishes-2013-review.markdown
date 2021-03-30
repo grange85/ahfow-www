@@ -76,5 +76,7 @@ Former Luna bassist <a href="/2013/09/11/extracurricular-high-road-the-web-serie
 <a href="/2013/11/19/new-release-on-damon-naomis-20-20-20-label-2/" title="New release on Damon & Naomi’s 20-20-20 label"><em>Damon & Naomi</em> announced the next record on their 20-20-20 label</a> will be a vinyl release of Sonhando Devagar by Brazillian musician Alexandre Kassin.</p>
 <p><strong>December 2013</strong><br />
 Dean Wareham plays two tremendous shows in a church in London.<br />
-<iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/yttvsKGvGhw?list=PLgkLMlL-VFXsiKHn-ZsGdFpHHC26YkfbK" frameborder="0" allowfullscreen></iframe></p>
+
+{% ahfowvideo "yttvsKGvGhw?list=PLgkLMlL-VFXsiKHn-ZsGdFpHHC26YkfbK" "" %}
+
 <p>A Head Full of Wishes posts the <a href="/category/originals/">FIFTIETH post in the Originals series</a>.</p>

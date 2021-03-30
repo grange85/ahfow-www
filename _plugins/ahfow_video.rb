@@ -50,7 +50,7 @@ eos
         <figure class="figure embed-responsive">
           <a href="https://www.youtube.com/watch?v=#{ahfowvideo_url}">
             <div class="ytimg mx-auto sddefault" style="background-image: url('https://img.youtube.com/vi/#{ahfowvideo_url}/sddefault.jpg')">
-              <i class=" h2 opacity-3h4 d-block px-2 bi bi-play-btn-fill text-danger text-center">&nbsp;<span class="h6">Play on YouTube</span></i>
+              <i class=" h2 opacity-3h4 d-block p-3 bi bi-play-btn-fill text-danger text-center">&nbsp;<span class="h6">Play on YouTube</span></i>
             </div>
           </a>
           <figcaption class="figure-caption text-right">

@@ -15,7 +15,9 @@ imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-1
 <p class="lead">Last night at <a href="/database/luna/shows/2015/2015-10-09-luna-music-hall-of-williamsburg-brooklyn-ny-usa/">The Music Hall of Williamsburg in Brooklyn</a>, Luna were joined on stage by former drummer Stan Demeski for the first time since 1996.</p>
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-stan-with-luna-frank.jpg" alt="Stan playing with Luna last night (photo: Frank Silvestry)" /><figcaption class="caption-text">Stan playing with Luna last night (photo: Frank Silvestry)</figcaption></figure>
 <p>Here he is playing 23 Minutes in Brussels (video by Joakim)</p>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/r9mze1a1auY" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "r9mze1a1auY" "" %}
+
 <p>Stanley sat in on drums for three songs, 23 Minutes in Brussels, Chinatown and Friendly Advice.</p>
 <p>Dean posted on Facebook:</p>
 <blockquote>

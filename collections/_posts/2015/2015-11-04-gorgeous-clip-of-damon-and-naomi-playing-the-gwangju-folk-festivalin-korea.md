@@ -18,6 +18,8 @@ categories:
 tags: []
 ---
 <p class="lead">Just happened across this lovely video of Damon & Naomi playing How Do I Say Goodbye on a huge stage in front of a big and appreciative audience at the Gwangju Sajik Folk Music Festival back in September.</p>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/r5Oyz5KAwTU" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "r5Oyz5KAwTU" "" %}
+
 
 <p>You can also <a href="http://www.gwangjunewsgic.com/online/live-from-sajik-world-folk-festival/">read an interview with Damon & Naomi</a> from before the festival.</p>

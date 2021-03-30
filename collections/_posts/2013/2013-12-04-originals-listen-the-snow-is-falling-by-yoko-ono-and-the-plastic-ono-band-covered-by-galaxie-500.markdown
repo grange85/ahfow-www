@@ -21,7 +21,9 @@ tags: []
 <p>OK, this is slap-dash research so don't take it as gospel... Listen, the Snow Is Falling was first released as the b-side of John & Yoko's Happy Xmas (War Is Over) in the US in December 1971, it got it's first UK release on the flip of Yoko's Mind Train in January 1971, and then as the b-side of Happy Xmas (War Is Over) in December 1972.<br />
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/yoko-ono-listen-the-snow-is-falling-apple.jpg" width="596" height="599" class /><figcaption class="caption-text"> Listen, the Snow Is Falling</figcaption></figure>
 My cursory scouring of YouTube suggests there is only one recording, although the version released on the CD reissue of The Wedding Album contained an intro not released on the singles.</p>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0BXgMdLSPHM" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "0BXgMdLSPHM" "" %}
+
 <p>Galaxie 500 recorded it for their final album This Is Our Music </p>
 <p><iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2405309532/size=small/bgcol=ffffff/linkcol=0687f5/track=3594938743/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/this-is-our-music">This Is Our Music by Galaxie 500</a></iframe></p>
 <p>There's an awesome live version on Copenhagen</p>

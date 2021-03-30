@@ -20,6 +20,12 @@ categories:
 tags: []
 ---
 <p><a href="https://www.flickr.com/photos/kayaker1204/5429041601" title="Be Mine by Kristy Johnson, on Flickr"><img class="aligncenter" src="https://farm6.staticflickr.com/5173/5429041601_4b40a84e41_z.jpg" width="640" height="427" alt="Be Mine"></a></p>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iWNjvC0kiZc" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4X2vfOs0Xu8" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iSIBpC4xRV4" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "iWNjvC0kiZc" "" %}
+
+
+{% ahfowvideo "4X2vfOs0Xu8" "" %}
+
+
+{% ahfowvideo "iSIBpC4xRV4" "" %}
+

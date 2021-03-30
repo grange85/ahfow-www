@@ -26,11 +26,15 @@ tags:
 
 Donovan wrote Season of the Witch for his 1966 LP Sunshine Superman, it helped weed out the Dylan copyist stuff that Pennebaker had planted in Don't Look Back.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Nm3yKy1hL1M" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "Nm3yKy1hL1M" "" %}
+
 
 Luna's version was recorded during the Penthouse sessions and was first heard on the soundtrack of 1996 film I Shot Andy Warhol. Beggars Banquet also released it as a single.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wwzjjpcOTVE" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "wwzjjpcOTVE" "" %}
+
 
 Here's a live version played at The Cat's Cradle in Carrboro, NC in January 1996
 
@@ -43,7 +47,9 @@ Here's a live version played at The Cat's Cradle in Carrboro, NC in January 1996
 
 And never one to miss an opportunity to indulge my past here's Sam Gopal's cover from their 1969 album Escalator... Sam Gopal was the tabla player, but he's not the reason I've posted this version, feel free to guess why.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0KGgOFFQxnY" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "0KGgOFFQxnY" "" %}
+
 
 <strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong>
 

@@ -37,7 +37,9 @@ You can possibly still get copies of the book on <a href="http://www.amazon.com/
 <h3>19: Decomposing...</h3>
 <p> At some point someone on the mailing list suggested we do a tribute album and so I took it upon myself to organise that - but, as previously mentioned, I couldn't really organise a piss-up in a brewery, so almost two years later - a half-arsed CDR with a laser-printed paper sleeve finally made its way into the big-wide-world. It deserved better... much better.<br />
 <a href="https://static.fullofwishes.co.uk/galaxie_list_tribute/">You can listen to (and download) the whole album over here</a>. Here's one of the gems... Watoo Watoo's lovely bossa cover of Luna's Chinatown<br />
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UnS3Ts5wZOo" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "UnS3Ts5wZOo" "" %}
+
 <h3>20: Baby my head's full of wishes</h3>
 <p> So... A Head Full of Wishes moves into its third decade with a <a href="/2014/11/23/new-damon-naomi-album-fortune-february/">new Damon & Naomi LP</a> in February, a Luna reunion in April, and hopefully, more opportunities to meet fans at gigs and festivals, in pubs and coffee shops, online and offline. It's been a treat - and while meeting the band members over the years has been a thrill meeting other fans has been brilliant - sometimes awkward - but always brilliant.<br />
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3830882259/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3574432626/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/today">Today by Galaxie 500</a></iframe></p>

@@ -17,7 +17,9 @@ tags: []
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/meg-baird-dont-weigh-down-the-light.jpg" alt="Meg Baird" /><figcaption class="caption-text">Meg Baird</figcaption></figure>
 <p class="lead">Naomi Yang has directed and photographed the official video for the track "Don't Weight Down the Light" by Meg Baird.</p>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3KL88DC9WwI" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "3KL88DC9WwI" "" %}
+
 <p>The song is the title track of the former Espers singer's <a href="http://www.dragcity.com/products/don-t-weigh-down-the-light">third solo album released last summer on Drag City</a>.</p>
 <p>Naomi <a href="/2011/11/07/extracurricular-naomi-yang-video-maker/">previously made the video for The Finder from Meg's second album</a>.</p>
 

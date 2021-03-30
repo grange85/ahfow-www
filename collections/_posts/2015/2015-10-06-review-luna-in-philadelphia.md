@@ -33,6 +33,8 @@ imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-05/2015-1
 
 <p>They closed with their increasingly meaningful cover of Beat Happening's "Indian Summer" - an indie rock cover staple but their version remains definitive, and reminded us about the impermanence of youth, love, music, and yes our favorite bands.  And yes, we were all smiling just like we used to in the end. </p>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GDdEnXzPoAE" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "GDdEnXzPoAE" "" %}
+
 
 <p class="text-muted">(AHFOW: Thanks to Frank for this review - if you want to write a review of a show for A Head Full of Wishes please <a href="/about/">get in touch</a>.)</p>

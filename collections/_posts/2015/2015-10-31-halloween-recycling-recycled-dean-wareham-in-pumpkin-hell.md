@@ -21,7 +21,9 @@ tags: []
 
 <p class="lead">Don't kick my pumpkin&hellip; your boy kicked my pumpkins. You can touch 'em and hold 'em, whatever, just no kicking&hellip; they bruise</p>
 
-<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/G09csbVdcsw" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "G09csbVdcsw" "" %}
+
 
 <p>The film was made in 2007 by Max Finneran and is...</p>
 <blockquote><p>a short coming-of-age horror film about sons, fathers and the roles they play and imagine for one another.  Abandoned by his father at a highway-side pumpkin patch, an eleven year-old boy spends a peculiar and life changing night with the misfit proprietor of the patch. </p></blockquote>
@@ -29,7 +31,11 @@ tags: []
 <p class="text-muted">I do not have any right or permission to host this film - if you do and you object to me making it available then <a href="mailto:andy@grange85.co.uk">please get in touch</a> and I'll gladly remove it.</p>
 
 <p class="lead">so&hellip; strange&hellip;</p>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lxu1bDCJNEM" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "lxu1bDCJNEM" "" %}
+
 
 <p class="lead">&hellip; buy me gifts on Hallowe'en&hellip;</p>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7ikSby1REZ4?start=215" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "7ikSby1REZ4?start=215" "" %}
+

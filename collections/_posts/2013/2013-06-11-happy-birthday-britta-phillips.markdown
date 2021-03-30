@@ -45,4 +45,6 @@ tags: []
   } %}
 
 <p>Previously: <a href="/2012/06/11/audio-happy-birthday-britta-phillips/" title="Audio: Happy Birthday Britta Phillips">Last years birthday post</a></p>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Zr0PXKSZRws" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "Zr0PXKSZRws" "" %}
+

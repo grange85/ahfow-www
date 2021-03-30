@@ -25,4 +25,4 @@ tags: []
 Mailing list: <a href="http://groups.google.com/group/fullofwishes">A List Full of Wishes</a></p>
 <p>And newly arrived...</p>
 <p><strong>Instagram: </strong><a href="http://instagram.com/grange85">@grange85 on Instagram</a><br />
-<iframe class="aligncenter" src="//instagram.com/p/m2Fej4vDOx/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe><br/><em>Help spread the word</em></p>
+

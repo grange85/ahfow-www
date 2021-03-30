@@ -19,7 +19,9 @@ tags: []
 ---
 <p><a href="https://www.flickr.com/photos/ben_salter/4484207684" title="Tree tops by Ben Salter, on Flickr"><img class="aligncenter" src="https://farm5.staticflickr.com/4021/4484207684_4420a6d41b_z.jpg" width="640" height="427" alt="Tree tops"></a><br />
 Straight Up was written by musician, songwriter and producer Eliott Wolff for Paula Abdul in 1988. That version spent three weeks at the top of the Billboard Hot 100 in 1989, and was certified platinum.<br />
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TXJ6qm9Ia-Q<br />" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "TXJ6qm9Ia-Q<br />" "" %}
+
 Luna's version was released posthumously on the Guilty Pleasures compilation. The song was recorded around the time of Romantica but the album was shelved and didn't see the light of day until 2007. When I first heard of its existence I asked Dean about it...</p>
 <blockquote><p>"Straight Up" was suggested by the A&R guy. I told him it wasn't a guilty pleasure of mine - I simply don't like the song. But it turned out okay.</p></blockquote>
 

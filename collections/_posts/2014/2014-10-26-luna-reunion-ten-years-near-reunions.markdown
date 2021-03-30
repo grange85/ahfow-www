@@ -27,7 +27,9 @@ tags: []
 
 <p>Dean & Britta with Lee in Los Angeles in 2010</p>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7Y-XSfoqYZY" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "7Y-XSfoqYZY" "" %}
+
 
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/justin-dean-lee-2014.jpg" width="640" height="640" class /><figcaption class="caption-text"> Justin, Dean and Lee in LA in 2014</figcaption></figure>
 <p>No pics or video of this one but <a href="/2008/08/29/34-of-luna-on-stage-in-nyc/">Sean joined Dean & Britta for 23 Minutes in NYC in 2008</a>, Sean said:-<br />

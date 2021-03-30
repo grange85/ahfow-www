@@ -18,7 +18,9 @@ categories:
 tags: []
 ---
 <p>Suicide - Dream Baby Dream<br />
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1FFIFsK1duw<br />" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "1FFIFsK1duw<br />" "" %}
+
 <a id="more"></a><a id="more-4172"></a></p>
 <p>Suicide - Dream Baby Dream (live)</p>
 {% ahfowvideo "M3mgNpHgMQQ" "" %}

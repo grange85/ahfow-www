@@ -24,4 +24,6 @@ The very lovely Indietracks folk have <a href="http://www.indietracks.co.uk/the-
 <p>Dean Wareham will be playing the festival on the Saturday evening.</p>
 <p>Head over to the <a href="http://www.indietracks.co.uk/">Indietracks website for the full list of bands and to get tickets</a>... because you wouldn't want to miss such a lovely festival now would you?</p>
 <p>And here's The Chills playing one of the greatest ever pop tunes in 1988... with a familiar face on bass!<br />
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1ceMMz_XtLc" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "1ceMMz_XtLc" "" %}
+

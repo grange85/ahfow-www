@@ -22,8 +22,12 @@ tags: []
 <p>OK, quick bonus entry... just in case you thought I might not have covered this song in enough detail already!</p>
 <p>In last week's <a href="/2014/06/25/originals-changing-world-claudine-longet/" title="Originals: This Changing World by Claudine Longet (covered by Damon & Naomi)">Originals post I pointed out that the original of This Changing World</a> was actually the b-side of the 1968 Monaco entry in the Eurovision Song Contest, and was therefore too obscure for the internet to provide a version to listen to...</p>
 <p>Well, not any more. Where Spotify and YouTube failed, eBay came up trumps, so here is the original of This Changing World, a song that even Damon & Naomi didn't realise they had covered!</p>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/v4DBinBrqTY" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5fSUOu1oQl0" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "v4DBinBrqTY" "" %}
+
+
+{% ahfowvideo "5fSUOu1oQl0" "" %}
+
 <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/grange85">@grange85</a> hey claudine ripped that arrangement off as much as we did hers!</p>
 <p>&mdash; Damon K (@dada_drummer) <a href="https://twitter.com/dada_drummer/statuses/483672366904774656">June 30, 2014</a></p></blockquote>
 <p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>

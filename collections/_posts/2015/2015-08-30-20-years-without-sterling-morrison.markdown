@@ -17,7 +17,9 @@ categories:
 - news
 tags: []
 ---
-<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/-CQ7-nRSOt8" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "-CQ7-nRSOt8" "" %}
+
 
 <p class="lead">It's been twenty years since we lost Velvet Underground guitarist and tugboat captain Sterling Morrison.</p>
 <p>Time to dig out some VU, or Luna's Bewitched, and raise a glass...</p>
@@ -31,4 +33,6 @@ tags: []
 <blockquote><p>We had already recorded a demo of “Friendly Advice” with producer Victor Van Vugt, which we played every night on that tour, and Sterling Morrison told us that was his favorite track. We asked if he’d like to play guitar on our next album, and we were all surprised when he said yes. So far as we knew, Sterling hadn’t played on anyone’s record since about 1971. He was a lovely and unassuming guy, and when he passed away just two years later, I put on my headphones and listened to his transcendent guitar solo in "Friendly Advice," and I cried.</p>
 <footer>Dean Wareham - Best of Luna sleeve notes</footer></blockquote>
 
-<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/CawQaPXu-QA" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "CawQaPXu-QA" "" %}
+

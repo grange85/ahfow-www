@@ -22,7 +22,9 @@ tags: []
 <p class="lead">Today is Damon's birthday - he'll be spending it in <a href="/database/damon-and-naomi/shows/2015/2015-09-07-damon-and-naomi-veloso-seoul-south-korea/">Seoul, South Korea ahead of Damon & Naomi's show there tomorrow evening</a>.</p>
 
 Here's a lovely video of Damon & Naomi playing Turn of the Century in front of an enormous screen in Seattle a few months back.
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/X81sRkstAYA" frameborder="0" allowfullscreen></iframe>
+
+{% ahfowvideo "X81sRkstAYA" "" %}
+
 
 
 Damon is currently working on a book about music and technology and it's worth following him on <a href="http://twitter.com/dada_drummer">Twitter (@dada_drummer)</a> and <a href="http://internationalsadhits.tumblr.com/">Tumblr</a> for his ruminations and insights into the subject.
