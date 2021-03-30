@@ -28,12 +28,12 @@ tags: []
   } %}
 
 <p>Damon & Naomi with Batoh and Kurihara - It's All Over Now Baby Blue</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NOifMqYXta4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+{% ahfowvideo "NOifMqYXta4" "" %}
 
 <p>Damon & Naomi - <a href="http://en.blogotheque.net/2007/05/21/damon-and-naomi-en/">Take Away Show</a> - I Wonder If / Oh Sister</p>
 <iframe src="https://player.vimeo.com/video/11186091" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <p>And here's a clip of Damon & Naomi playing Oh Sister in London in 2003</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/e1UTWNo1pa4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+{% ahfowvideo "e1UTWNo1pa4" "" %}
 <p>And here's a poster from when Bob Dylan made his first trip to Australia in 1966<br />
 <a href="http://www.flickr.com/photos/30628061@N03/3000999404/" title="Bob Dylan, Australia Poster 1966 by misstexas1961, on Flickr"><img class="aligncenter" src="https://farm4.staticflickr.com/3192/3000999404_0671fb05d6_z.jpg?zz=1" width="465" height="640" alt="Bob Dylan, Australia Poster 1966"></a></p>

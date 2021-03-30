@@ -31,10 +31,10 @@ Today is Luna's former drummer Stanley Demeski's birthday, so today's artefact i
 **Dean Wareham in Black Postcards**
 
 Here's Stan with Luna playing California (All The Way) on MTV
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IA43fPmrF5M" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - California (All The Way) (MTV, 1994)</figcaption></figure>
+{% ahfowvideo "IA43fPmrF5M" "Luna - California (All The Way) (MTV, 1994)" %}
 
 And here's Stan with The Feelies playing Egyptian Reggae in a hotel room
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AW2OEVu35qQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">The Feelies - Egyptian Reggae</figcaption></figure>
+{% ahfowvideo "AW2OEVu35qQ" "The Feelies - Egyptian Reggae" %}
 
 Have a great day Stan!
 

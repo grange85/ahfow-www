@@ -30,5 +30,5 @@ description: >
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/luna_bewitched_promo_02.jpg" alt="Luna (Bewitched)" /><figcaption class="caption-text">Luna (Bewitched)</figcaption></figure>
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1994_c.jpg" alt="Luna (1994)" /><figcaption class="caption-text">Luna (1994)</figcaption></figure>
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-stan-with-luna-janice.jpg" alt="Luna (2015)" /><figcaption class="caption-text">Luna (2015)</figcaption></figure>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IA43fPmrF5M" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna play California (All the Way) on MTV in 1994</figcaption></figure>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/r9mze1a1auY" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna play 23 Minutes in Brussels in Brooklyn in 2015</figcaption></figure>
+{% ahfowvideo "IA43fPmrF5M" "Luna play California (All the Way) on MTV in 1994" %}
+{% ahfowvideo "r9mze1a1auY" "Luna play 23 Minutes in Brussels in Brooklyn in 2015" %}

@@ -19,7 +19,7 @@ tags: []
 ---
 <p>Hold on was on John Lennon's debut solo album John Lennon/Plastic Ono Band released in 1970<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zLOTD7wrbtQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+{% ahfowvideo "zLOTD7wrbtQ" "" %}
 <blockquote><p><a href="http://en.wikipedia.org/wiki/Hold_On_%28John_Lennon_song%29#cite_note-complete-4">I'm saying 'hold on John' because I don't want to die</a>...I don't want to be hurt and please don't hit me...Hold on now, we might have a cup of tea, we might get a moment's happiness any minute now. So that's what it's about, just moment by moment. That's how we're living now, but really living like that and cherishing each day, and dreading it too. It might be your last.</p></blockquote>
 <p>Luna never released a version of the track but covered it quite frequently in 1994</p>
 <p>Here's a radio performance for KCRW</p>

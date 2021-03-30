@@ -18,6 +18,6 @@ tags: []
 <p class="lead">I've just come across this clip of the first 7 minutes of Luna's New Year's Eve show last week at the Starline Social Club in San Francisco</p>
 <p>They open with {% ahfowtrack "Egg Nog" %}, and follow it with {% ahfowtrack "California (All the Way)" %}
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Bu7fwDhXogI" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - New Year's Eve 2015</figcaption></figure>
+{% ahfowvideo "Bu7fwDhXogI" "Luna - New Year's Eve 2015" %}
 <p>If any one has any more clips, photos... or even a full setlist, <a href="/about/">please get in touch</a>.</p>
 

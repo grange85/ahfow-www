@@ -21,11 +21,11 @@ tags: []
 Forever is a <a href="http://en.wikipedia.org/wiki/Dennis_Wilson">Dennis Wilson</a> <a href="http://en.wikipedia.org/wiki/The_Beach_Boys">Beach Boys</a> track and was released on their 1970 album Sunflower<br />
 Here's the studio version from <a href="http://en.wikipedia.org/wiki/Sunflower_(The_Beach_Boys_album)">Sunflower</a><br />
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8Tokxcbu_Uo" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+{% ahfowvideo "8Tokxcbu_Uo" "" %}
 <a id="more"></a><a id="more-4279"></a><br />
 ... and here's a rather lovely live version from 1971<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9hyp9b72jSE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+{% ahfowvideo "9hyp9b72jSE" "" %}
 <p>Dean & Britta's cover of Forever was released on a Starbucks compilation CD in 2005</p>
 
  {% ahfowaudio {

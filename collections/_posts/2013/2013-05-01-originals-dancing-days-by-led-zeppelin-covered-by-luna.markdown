@@ -21,7 +21,7 @@ tags: []
 The existence of Luna's cover of <a href="http://en.wikipedia.org/wiki/Dancing_Days">Led Zep's Dancing Days</a> was first mentioned way back in a post on the band's official web site (fuzzywuzzy.com - but I think the post got lost in one of the reboots that site got) - it didn't however see the light until the band released Close Cover Before Striking in digital form in 2011.</p>
 <p>Zeppelin's original appeared on their 1973 album <a href="http://en.wikipedia.org/wiki/Houses_of_the_Holy">Houses of the Holy</a><br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YGST7qYvlMw" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+{% ahfowvideo "YGST7qYvlMw" "" %}
 <p>Luna - Dancing Days<br />
 <iframe width="400" height="100" style="position: relative; display: block; width: 400px; height: 100px;" src="https://bandcamp.com/EmbeddedPlayer/v=2/track=3284964201/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://luna.bandcamp.com/track/dancing-days-bonus-track">Dancing Days (bonus track) by Luna</a></iframe></p>
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

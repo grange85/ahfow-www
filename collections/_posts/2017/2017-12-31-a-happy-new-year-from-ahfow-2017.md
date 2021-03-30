@@ -21,10 +21,10 @@ tags:
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/sleeves/luna-california-blue-rock-yr-baby-label-aa.jpg" alt="Luna - Rock Your Baby label (Feral Child, 2017)" /><figcaption class="caption-text">Luna - Rock Your Baby label (Feral Child, 2017)</figcaption></figure>
 <p class="lead">Luna aren't playing a sahow this New Year's Eve so there'll be no chance to hear their rendition of their traditional New Year's cover of Rock Your Baby - Luckily, as ever, AHFoW can come to the rescue:</p>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/D-0Ey7_pcuE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Rock Your Baby (Tell Me Do You Miss Me)</figcaption></figure>
+{% ahfowvideo "D-0Ey7_pcuE" "Luna - Rock Your Baby (Tell Me Do You Miss Me)" %}
 
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VPyly7fifEc" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Rock Your Baby (San Diego, December 2015)</figcaption></figure>
+{% ahfowvideo "VPyly7fifEc" "Luna - Rock Your Baby (San Diego, December 2015)" %}
 
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/2000-12-31_Luna_Rock-Your-Baby.mp3",

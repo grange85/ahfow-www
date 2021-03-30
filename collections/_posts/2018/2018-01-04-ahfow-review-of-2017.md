@@ -28,17 +28,17 @@ In January Luna played three consecutive nights in San Francisco playing a compl
 
 <p>The first night was for Bewitched and featured a guest appearance from Kelly Kyle on trumpet for the title track</p>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_JJ05dEYqGs" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna (feat. Kelly Kyle) - Bewitched, San Francisco, Jan 2017</figcaption></figure>
+{% ahfowvideo "_JJ05dEYqGs" "Luna (feat. Kelly Kyle) - Bewitched, San Francisco, Jan 2017" %}
 
 <p><a href="/2017/03/19/luna-three-nights-in-san-francisco-1-bewitched/">Suddenly someone picks you up, you can fly. Luna - three nights in San Francisco (1: Bewitched)</a></p>
 
 <!--more-->
 <p>Night two was a Penthouse show, but here's Anesthesia from the encore:</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oovVD3sdB2Y" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Anesthesia, San Francisco, Jan 2017</figcaption></figure>
+{% ahfowvideo "oovVD3sdB2Y" "Luna - Anesthesia, San Francisco, Jan 2017" %}
 <p><a href="/2017/02/19/luna-three-nights-in-san-francisco-2-penthouse/">Sometimes you need that kick. Luna - three nights in San Francisco (2: Penthouse)</a></p>
 
 <p>&hellip; and Rendezvous for night three:</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/otweTtca1Bo" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Buffalo Boots, San Francisco, Jan 2017</figcaption></figure>
+{% ahfowvideo "otweTtca1Bo" "Luna - Buffalo Boots, San Francisco, Jan 2017" %}
 <p><a href="/2017/02/03/luna-three-nights-in-san-francisco-3-rendezvous/">It swivels and swirls in your head. Luna - three nights in San Francisco (3: Rendezvous)</a></p>
 
 <h3>February</h3>
@@ -48,7 +48,7 @@ In January Luna played three consecutive nights in San Francisco playing a compl
 
 <h3>March</h3>
 <p>Britta headed out on tour supporting Teenage Fanclub here she is (with Dean) playing Drive at the Neptune Theater in Seattle:</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wbRH3ikQ8rc" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Britta Phillips - Drive, Seattle, Mar 2017</figcaption></figure>
+{% ahfowvideo "wbRH3ikQ8rc" "Britta Phillips - Drive, Seattle, Mar 2017" %}
 
 <p>Damon & Naomi's beautiful <a href="https://www.20-20-20.com/store/damon-naomi-wi">Within These Walls gets a belated release on vinyl</a> (and can be had for a bargain $12 on their website!)</p>
 <blockquote>We looked at our recent vinyl sales, and put it out on CD only. (Cue sad trombone, the one horn we neglected to include.)</blockquote>
@@ -70,7 +70,7 @@ In January Luna played three consecutive nights in San Francisco playing a compl
 
 <h3>July</h3>
 <p>Luna perform a private show at Goldiggers in LA to shoot a video for their cover of the Cure's Fire in Cairo - the video will feature Rose McGowan:</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RK2YatQ9S1A" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Fire in Cairo / Portrait of Rose</figcaption></figure>
+{% ahfowvideo "RK2YatQ9S1A" "Luna - Fire in Cairo / Portrait of Rose" %}
 
 <p><a href="https://damonandnaomi.bandcamp.com/">Damon & Naomi continued their pay what you want releases</a> by putting their first record, <a href="https://damonandnaomi.bandcamp.com/album/everything-quieter-than-everything-else-live-in-japan">Pierre Etoile</a>, on bandcamp</p>
 
@@ -96,12 +96,12 @@ In January Luna played three consecutive nights in San Francisco playing a compl
 
 <p>Also, Matthew Buzzell's lovely video for Luna's cover of Friends gets released:</p>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B99f4f8lf4c" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Friends</figcaption></figure>
+{% ahfowvideo "B99f4f8lf4c" "Luna - Friends" %}
 
 <h3>November</h3>
 <p>In November Damon & Naomi headed out on a tour of Japan in support of their new compilation album Everything Quieter Than Everything Else which was released on CD over there (and digitially <a href="https://damonandnaomi.bandcamp.com/album/everything-quieter-than-everything-else-live-in-japan">as pay what you want on bandcamp</a>!)</p>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BloMP8WGdro" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">(Damon &) Naomi and Kurihara - Turn of the Century, Osaka, November 2017</figcaption></figure>
+{% ahfowvideo "BloMP8WGdro" "(Damon &) Naomi and Kurihara - Turn of the Century, Osaka, November 2017" %}
 
 
 <h3>December</h3>

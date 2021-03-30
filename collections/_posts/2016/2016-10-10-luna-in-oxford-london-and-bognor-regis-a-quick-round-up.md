@@ -52,7 +52,7 @@ Islington - lots of folk showed up over the course of the evening, and some who 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/30151781676/in/album-72157673619357352/" title="Britta"><img src="https://c5.staticflickr.com/6/5111/30151781676_722a8dce0c_c.jpg" width="800" height="600" alt="Britta"></a>
 <p>Britta had a scheduled and longer set and seemed a lot more comfortable with that.</p>
 <p>Another night of Penthouse for Luna. The sound was considerably better and the larger and enthusiastic crowd made for a brilliant evening ~ two encores and closing again with {% ahfowtrack "Indian Summer" %} made for a perfect evening. Made more perfect by getting backstage to eat the band's cheese and chocolate and then off to an after-show gathering at the Betsey Trotwood - I left early again ~ if 2am is early (not for me but it appeared to be for everyone else!).</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sRoEJrEEzX0" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - 23 Minutes in Brussels in London</figcaption></figure>
+{% ahfowvideo "sRoEJrEEzX0" "Luna - 23 Minutes in Brussels in London" %}
 <ul>
 <li><a href="/database/luna/shows/2016/2016-10-07-luna-acacdemy-islington-london-uk/">Show details and setlist</a></li>
 <li><a href="https://flic.kr/s/aHskJep4YC">Photos: 2016-10-07: Luna in London on Flickr</a></li>

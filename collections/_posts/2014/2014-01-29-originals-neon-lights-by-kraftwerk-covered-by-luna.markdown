@@ -20,10 +20,10 @@ tags: []
 <p><a href="http://www.flickr.com/photos/galt-museum/4188238621/" title="Marquis Coffee Shop by Galt Museum & Archives on The Commons, on Flickr"><img class="aligncenter" src="https://farm3.staticflickr.com/2489/4188238621_74bd9d09ae_z.jpg?zz=1" width="640" height="445" alt="Marquis Coffee Shop"></a></p>
 <p>Neonlicht was from Kraftwerk's seventh album Die Mensch·Maschine in 1978<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iPDCiHLsFMU" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+{% ahfowvideo "iPDCiHLsFMU" "" %}
 <p>... and was given English lyrics for the international version of the album The Man Machine<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KqmGZ_6LaUw" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+{% ahfowvideo "KqmGZ_6LaUw" "" %}
 <p>Luna's version first turned up on the flip of their Superfreaky Memories single in 1999</p>
 
  {% ahfowaudio {

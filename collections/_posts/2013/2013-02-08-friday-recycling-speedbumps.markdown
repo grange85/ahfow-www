@@ -40,4 +40,4 @@ tags: []
 </p>
 {% bandcamp {"track": "3217222932"} %}
 <p>"Let's hear if for Luna" performing Speedbumps on the John McEnroe show (with Matt Johnson standing in for Lee who was on another coast) + Luna with McEnroe playing Sweet Jane</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hwVSlg_4WNI" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Speedbumps on the McEnroe show</figcaption></figure>
+{% ahfowvideo "hwVSlg_4WNI" "Luna - Speedbumps on the McEnroe show" %}

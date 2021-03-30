@@ -30,4 +30,6 @@ tags: []
 <p>MP3: <a href="http://www.box.com/s/ngfcictqmgsdzg5x15gd">Galaxie 500 - Snowstorm (live in The Netherlands 1989)</a> (via Box.net)</p>
 <p>MP3: <a href="http://www.box.com/s/axmfnsd9utgznknsshud">Luna - Egg Nog (live in NYC 2005)</a> (via Box.net)</p>
 <p>Video: Dean & Britta - Listen, the Snow Is Falling (live in Manchester 2011)</p>
-<p><iframe frameborder="0" scrolling="auto" class="aligncenter" width="480" height="360" https://www.youtube-nocookie.com/embed/pueucNzJxzo" allowfullscreen="allowfullscreen"></iframe></p>
+
+{% ahfowvideo "pueucNzJxzo" "" %}
+

@@ -20,7 +20,7 @@ tags: []
 ---
 <p>Before this solo gem, Minnie Riperton had been in the fantastic Rotary Connection, and before that had been a receptionist at Chess Records. Lovin' You was released in 1975 and became the 400th #1 hit on the Billboard Hot 100. And possibly more important than that there is no song that is more brilliant to sing out loud when no one can hear you (or is that just me?)</p>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kE0pwJ5PMDg" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+{% ahfowvideo "kE0pwJ5PMDg" "" %}
 
 <p><a href="/2009/04/19/mp3-lost-tracks-4-cagney-lacee-orange/" title="Mp3: Lost tracks #4 – Cagney & Lacee – Orange">Cagney and Lacee, who were Dean Wareham and his then wife Claudia Silver</a>, covered the track on their Six Feet of Chain album released in 1997</p>
 
@@ -33,6 +33,6 @@ tags: []
 
 <p>As a bonus here's The Rotary Connection miming rather poorly to their cover of The Rolling Stones Lady Jane in 1969<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nGZCMX1MTic" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+{% ahfowvideo "nGZCMX1MTic" "" %}
 <p><figure class="caption aligncenter"><a href="http://minnieriperton.wordpress.com/2009/11/30/215/"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/minnie-ripperton.png" width="600" alt="Earthy soul and a heavenly voice" class /></a><figcaption class="caption-text"> Earthy soul and a heavenly voice</figcaption></figure></p>
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

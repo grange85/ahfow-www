@@ -22,7 +22,7 @@ tags: []
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/everly-brothers-1970.jpg" width="560" height="744" class /><figcaption class="caption-text"> The Everly Brothers in 1970</figcaption></figure>
 <p>I Wonder If I Care as Much was, like <a href="/2014/01/04/originals-living-too-close-to-the-ground-by-the-everly-brothers-covered-by-dean-wareham/" title="Originals: Living Too Close to The Ground by The Everly Brothers (covered by Dean Wareham)">Living Too Close to the Ground</a>, also appeared on the boys 1968 album Roots, although had originally been recorded in 1957 as the b-side of Bye Bye Love.<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w70F7N_Wd5g" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+{% ahfowvideo "w70F7N_Wd5g" "" %}
 <p>Damon & Naomi covered it in 2007 for a La blogothèque video session and it is certainly a cover of the 1968 version.<br />
 
 

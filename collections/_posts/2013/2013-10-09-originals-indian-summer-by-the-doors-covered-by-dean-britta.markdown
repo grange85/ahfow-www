@@ -20,7 +20,7 @@ tags: []
 <p>Indian Summer was released on The Doors fifth album Morrison Hotel but was actually recorded in the sessions for their debut album in 1966, and, according to an interview with Robby Krieger was actually the first song they ever recorded</p>
 <blockquote><p>For the first Doors LP? Well, the first song we ever recorded was "Indian Summer"... the song that came out on the fifth album "Morrison Hotel". But that was actually the first song we ever recorded. It's the same [recording]. You know, we pepped it up a little bit.</p></blockquote>
 <p><a href="http://home.arcor.de/doorsquarterlyonline/robby.htm">Robby Krieger</a></p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yOKAQSGCm8Q" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+{% ahfowvideo "yOKAQSGCm8Q" "" %}
 <p>Dean & Britta recorded a cover of the song for their debut album L'Avventura</p>
 
  {% ahfowaudio {

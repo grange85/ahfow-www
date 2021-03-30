@@ -28,7 +28,7 @@ Sometimes The Earth is Blue is my favourite Damon & Naomi record (although most 
 
 You can [_buy_ the album for whatever you feel like paying](https://damonandnaomi.bandcamp.com/album/the-earth-is-blue) (even if that's nothing!) on Damon & Naomi's bandcamp.
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XLHm7jRgTEA" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">While My Guitar Gently Weeps - Damon & Naomi</figcaption></figure>
+{% ahfowvideo "XLHm7jRgTEA" "While My Guitar Gently Weeps - Damon & Naomi" %}
 
 ---
 

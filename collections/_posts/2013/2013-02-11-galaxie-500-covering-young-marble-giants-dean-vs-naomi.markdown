@@ -26,5 +26,5 @@ tags: []
 {% bandcamp {"track": "2114229519"} %}
 <p>Which do you prefer... I, of course, love them both equally!</p>
 <p>And, pre-empting its appearance in my <a href="/category/originals/">Originals</a> posts in a couple of months time... if you've never heard the fantastic original...</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rB8ymBZwgOE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+{% ahfowvideo "rB8ymBZwgOE" "" %}
 <p><a href="http://www.flickr.com/photos/oranjh/8458492278/" title="FinalDay_1 by Oranj, on Flickr"><img class="aligncenter" src="https://farm9.staticflickr.com/8380/8458492278_87959a0b08_z.jpg" width="640" height="427" alt="FinalDay_1"></a></p>

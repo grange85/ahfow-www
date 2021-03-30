@@ -20,10 +20,10 @@ tags: []
 ---
 <p>I'm Not Sayin' was written by Gordon Lightfoot and released as a single in 1965<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5Af5d1FeJn4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+{% ahfowvideo "5Af5d1FeJn4" "" %}
 <p>Later that year it was covered by Nico (before her association with The Velvet Underground)<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2WCnC_4QXH8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+{% ahfowvideo "2WCnC_4QXH8" "" %}
 <p>Dean Wareham's late 90s side project Cagney and Lacee released I'm Not Sayin' on Six Feet of Chain</p>
 
  {% ahfowaudio {

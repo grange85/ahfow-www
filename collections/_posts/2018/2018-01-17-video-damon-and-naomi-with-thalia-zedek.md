@@ -21,7 +21,7 @@ tags:
  - leonard cohen
 ---
 <p class="lead">Ahead of next month's co-headline European tour Damon & Naomi got together with Thalia Zedek to make a video.</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YM37nOEZh5k" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Thalia Zedek, Damon & Naomi - Dance Me To The End of Love</figcaption></figure>
+{% ahfowvideo "YM37nOEZh5k" "Thalia Zedek, Damon & Naomi - Dance Me To The End of Love" %}
 
 <blockquote>On the coldest day in New England in 100 years, Damon & Naomi and Thalia Zedek cover a favorite Leonard Cohen song, "Dance Me To The End of Love."</blockquote>
 

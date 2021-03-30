@@ -53,7 +53,7 @@ The bar was by now pretty crowded and Damon arrived on stage for a lengthy inter
 After a short break Damon & Naomi arrived on the tiny stage to play a short set. I moved into one of the seats that has been left empty right at the front of the stage. They opened with _How Do I Say Goodbye_ and followed it with _Judah and the Macabbees_.
 
 From my prime position I could see the setlist taped to the floor between them and track three just said **3. ANOTHER** - surely this was what Naomi had been hinting at the day before. They played a beautiful version of Galaxie 500's Another Day - perfect.
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dYaeS6FhKs4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Damon & Naomi - Another Day</figcaption></figure>
+{% ahfowvideo "dYaeS6FhKs4" "Damon & Naomi - Another Day" %}
 
 They played _A Shining Dream_ from Fortune and _The Robot Speaks_ from The Earth is Blue, before wrapping up with their beautiful cover of the late Scott Walker's _The World's Strongest Man_
 

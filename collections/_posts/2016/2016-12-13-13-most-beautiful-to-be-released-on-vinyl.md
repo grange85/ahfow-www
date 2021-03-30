@@ -26,4 +26,4 @@ tags:
 <p>Keep an eye on the <a href="http://www.ww-records.com/">Wouldn't Waste web site</a> where you will be able to pre-order the release early in the new year.</p>
 <p>13 Most Beautiful was written to accompany a selection of Andy Warhol's Screen Tests which was first performed in October 2008 and will be getting another <a href="http://www.gershmany.org/what-goes-on-velvet-underground-at-the-y-50th/">outing on Thursday night in Philadelphia</a> to celebrate the 50th anniversary of The Velvet Underground's debut in the city.</p>
 <p>Dean gave an <a href="http://www.phawker.com/2016/12/13/from-the-vaults-qa-with-dean-wareham/">interview to Phawker about the project from an IKEA car park</a> back in 2009 - and the site has reposted.</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8ZL-JB2cjJE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">13 Most Beautiful trailer</figcaption></figure>
+{% ahfowvideo "8ZL-JB2cjJE" "13 Most Beautiful trailer" %}

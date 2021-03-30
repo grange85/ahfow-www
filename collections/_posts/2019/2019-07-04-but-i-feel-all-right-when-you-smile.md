@@ -61,6 +61,6 @@ Every flipping year!
 
 Happy Galaxie 500 day - or whatever else you might choose to celebrate on this day.
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/J8QDLOpexnw" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Fourth of July</figcaption></figure>
+{% ahfowvideo "J8QDLOpexnw" "Galaxie 500 - Fourth of July" %}
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48191500291/in/dateposted/" title="Galaxie 500 - Fourth of July 12&quot; single"><img src="https://live.staticflickr.com/65535/48191500291_551a333af1_c.jpg" width="800" height="794" alt="Galaxie 500 - Fourth of July 12&quot; single"></a>

@@ -45,5 +45,5 @@ You can hear Tuli doing an <a href="http://www.vietnamsongbook.org/setlist_jp.ht
 
 And here&#039;s Tuli with The Fugs
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JvA1bKLQtbM" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">The Fugs - Kill For Peace</figcaption></figure> 
+{% ahfowvideo "JvA1bKLQtbM" "The Fugs - Kill For Peace" %} 
 

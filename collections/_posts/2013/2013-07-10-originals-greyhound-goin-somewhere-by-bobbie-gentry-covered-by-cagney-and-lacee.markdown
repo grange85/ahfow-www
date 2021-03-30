@@ -42,10 +42,10 @@ tags: []
 
 <p>Sadly there's no video of Bobbie Gentry singing this and as I'll not get another chance to post about her on AHFoW here's her singing the title track of Touch 'Em With Love on The Morecambe and Wise Show in 1969</p>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EhXCZ_4K63k" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Bobbie Gentry - Touch 'em With Love</figcaption></figure>
+{% ahfowvideo "EhXCZ_4K63k" "Bobbie Gentry - Touch 'em With Love" %}
 
 <p>And here's her version of Bacharach and David's <a href="http://en.wikipedia.org/wiki/Touch_%27Em_with_Love">I'll Never Fall in Love Again</a> which has the <strong>very best rhyming couplet in all music</strong>!</p>
 <blockquote>You get enough germs to catch pneumonia<br />After you do he'll never phone ya</blockquote>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8r3E9AkRV-8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+{% ahfowvideo "8r3E9AkRV-8" "" %}
 <p><a href="http://croydonmunicipal.blogspot.co.uk/2012/03/mystery-of-bobbie-gentry.html">Bob Stanley of Saint Etienne (and Caff Records!) wrote a lovely article about Bobbie Gentry a while back</a></p>
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

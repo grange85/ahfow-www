@@ -23,4 +23,4 @@ Joanna Gruesome will be on the indoor stage right before Dean which gives the ex
 <p>Watoo Watoo are playing in the church on Sunday afternoon.</p>
 <p>The whole festival will be amazing, but Saturday looks absolutely exhausting!</p>
 <p>Here's Dean the last time he played a UK festival, Truck in 2011.</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wL5V0WSvGWk" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+{% ahfowvideo "wL5V0WSvGWk" "" %}

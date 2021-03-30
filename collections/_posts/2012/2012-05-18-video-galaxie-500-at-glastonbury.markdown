@@ -23,9 +23,9 @@ tags: []
 <footer>Dean Wareham - Black Postcards</footer></blockquote>
 <p><strong>Database</strong>: <a href="/database/galaxie-500/shows/1990/1990-06-22-galaxie-500-glastonbury-festival-glastonbury-uk/" title="1990-06-22: Galaxie 500 – Glastonbury Festival, Glastonbury, UK">1990-06-22: Galaxie 500 – Glastonbury Festival, Glastonbury, UK</a></p>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nLNCN0R_Tio" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Decomposing Trees (Glastonbury Festival, 22 June 1990)</figcaption></figure>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1gmedTdfUzI" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Melt Away (Glastonbury Festival, 22 June 1990)</figcaption></figure>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-VHKzbUgsIs" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Snowstorm (Glastonbury Festival, 22 June 1990)</figcaption></figure>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hJGyCUrm9g4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Ceremony (Glastonbury Festival, 22 June 1990)</figcaption></figure>
+{% ahfowvideo "nLNCN0R_Tio" "Galaxie 500 - Decomposing Trees (Glastonbury Festival, 22 June 1990)" %}
+{% ahfowvideo "1gmedTdfUzI" "Galaxie 500 - Melt Away (Glastonbury Festival, 22 June 1990)" %}
+{% ahfowvideo "-VHKzbUgsIs" "Galaxie 500 - Snowstorm (Glastonbury Festival, 22 June 1990)" %}
+{% ahfowvideo "hJGyCUrm9g4" "Galaxie 500 - Ceremony (Glastonbury Festival, 22 June 1990)" %}
 
 <p><a href="http://www.dimeadozen.org/torrents-details.php?id=388377">You can still grab the whole video from Dimeadozen</a> (registration required)</p>

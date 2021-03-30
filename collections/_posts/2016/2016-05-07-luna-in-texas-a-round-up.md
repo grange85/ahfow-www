@@ -30,13 +30,13 @@ longpost: true
 
 <h3><a href="/database/luna/shows/2016/2016-05-05-luna-mohawk-austin-tx-usa/">Luna in Austin</a></h3>
 <p>On to Austin and here's a nice video of the opening of Britta's support set:</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TUEc25LcWc8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Britta Phillips at The Mohawk in Austin</figcaption></figure>
+{% ahfowvideo "TUEc25LcWc8" "Britta Phillips at The Mohawk in Austin" %}
 
 <p>&hellip; and here's Luna playing Speedbumps:</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/umvnM96MRME" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Speedbumps at The Mohawk in Austin</figcaption></figure>
+{% ahfowvideo "umvnM96MRME" "Luna - Speedbumps at The Mohawk in Austin" %}
 
 <p>&hellip; and Sean singing Still at Home:</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/e8N8JbrUBto" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - Still at Home at The Mohawk in Austin</figcaption></figure>
+{% ahfowvideo "e8N8JbrUBto" "Luna - Still at Home at The Mohawk in Austin" %}
 
 <p>YouTube user Xavier Yanez has a <a href="https://www.youtube.com/playlist?list=PLT96SOoIchq7emnqTp7q6I38SlDEPfyHe">few more nice clips from the show in Austin</a>.</p>
 

@@ -31,4 +31,4 @@ MP3: <a href="https://www.box.com/s/980bae8a32aba079249c">Magic Hour - Sally Fre
 MP3: <a href="https://www.box.com/shared/rxrcjkyddb">Magnetophone - Laika (demo)</a><br />
 MP3: <a href="https://www.box.com/shared/k7ybnlkkxi">Damon & Naomi - Laika (live, 1997)</a><br />
 MP3: <a href="https://www.box.com/s/2tsqsey0o8h94pdd1izu">New York City - New York City (live, London 2001)</a></p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wyeUwOGPIuo" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Damon & Naomi - Cruel Queen</figcaption></figure>
+{% ahfowvideo "wyeUwOGPIuo" "Damon & Naomi - Cruel Queen" %}

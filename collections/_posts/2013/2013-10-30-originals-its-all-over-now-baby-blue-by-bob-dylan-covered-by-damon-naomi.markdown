@@ -24,5 +24,5 @@ tags: []
 <p>And then everyone covered it - <a href="http://www.grange85.co.uk/swirling/2012/01/13/one-shot-its-all-over-now-baby-blue/">I blogged about a few of my favourites a couple of years back</a>.</p>
 <p>Then in 1999 Damon & Naomi released a fantastic live version on a 7" single recorded with Batoh and Kurihara of Ghost<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NOifMqYXta4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+{% ahfowvideo "NOifMqYXta4" "" %}
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

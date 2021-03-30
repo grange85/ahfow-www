@@ -21,4 +21,6 @@ tags: []
 <p>He <a href="http://www.facebook.com/DeanWareham">posted on Facebook</a> that he'll be</p>
 <blockquote><p>Reading and playing a few songs</p></blockquote>
 <p><img alt="" src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/postales-negras-fnac-450.jpg" title="Postales Negras promo poster" class="aligncenter" width="450" height="649" /></p>
-<p><iframe class="aligncenter" width="560" height="315" https://www.youtube-nocookie.com/embed/zcL9T2Fh8Os" frameborder="0" allowfullscreen></iframe></p>
+
+{% ahfowvideo "zcL9T2Fh8Os" "" %}
+

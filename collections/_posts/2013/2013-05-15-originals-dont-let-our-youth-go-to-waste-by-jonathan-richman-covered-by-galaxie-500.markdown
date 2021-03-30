@@ -22,7 +22,7 @@ tags: []
 <a id="more"></a><a id="more-4135"></a><br />
 Here's The Modern Lovers recorded in the Kim Fowley sessions (probably not from 1972) - Jonathan was not happy with this version</p>
 <blockquote><p>I wrote it when I was 19 like everything else on this record ... but would close our shows with it sometimes and I'd cry in the middle of it.  I'd start into it as the last chord of "Roadrunner" was still ringing.  But this heavy-handed artsy-sounding rendition only makes me cry from embarrassment, not from feeling.  I don't know why I did it this contrived. </p></blockquote>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/US0uQfm7g9I" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+{% ahfowvideo "US0uQfm7g9I" "" %}
 <p>There are also a couple of live versions that I suspect Jojo is more happy with, here (for Spotify users) is the heartbreaking rendition that closes the live at Longbranch set.<br />
 <iframe class="aligncenter" src="https://embed.spotify.com/?uri=spotify:track:1wZVdvJuR5pLSyPyCXl6dq" width="300" height="380" frameborder="0" allowtransparency="true"></iframe></p>
 <p>And here's a selection of Galaxie 500's versions:<br />
@@ -35,5 +35,5 @@ Here's The Modern Lovers recorded in the Kim Fowley sessions (probably not from 
 <p></p>
 <p>And here's Dean & Britta performing it in Taipei in 2011<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JmOGwPu8y9E" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+{% ahfowvideo "JmOGwPu8y9E" "" %}
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

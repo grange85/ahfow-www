@@ -28,8 +28,8 @@ tags:
 <p>Fotos is, of course, a cover of Galaxie 500's Pictures - and a lovely Spanish language take on it.</p>
 <p>Head over to <a href="https://lasligasmenores.bandcamp.com/album/ni-una-canci-n">Bandcamp and buy a copy - it's lovely</a>!</p>
 <p>Here they are performing it live a couple of days ago in Santiago, Chile.</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DkGIPJasVJU" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Las Ligas Menores - Fotos (live)</figcaption></figure>
+{% ahfowvideo "DkGIPJasVJU" "Las Ligas Menores - Fotos (live)" %}
 <p>&hellip; and here are the two versions of Strange:</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pUerOQDt2Hg" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Las Ligas Menores - Strange</figcaption></figure>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sPDzW1EEWDs" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Las Ligas Menores - Strange (acoustic)</figcaption></figure>
+{% ahfowvideo "pUerOQDt2Hg" "Las Ligas Menores - Strange" %}
+{% ahfowvideo "sPDzW1EEWDs" "Las Ligas Menores - Strange (acoustic)" %}
 <p>So &hellip; just six songs into this series and already two bands from Argentina!</p>

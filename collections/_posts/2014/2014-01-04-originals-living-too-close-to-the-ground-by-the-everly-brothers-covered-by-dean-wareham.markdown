@@ -24,6 +24,6 @@ tags: []
 <p>But, when I visited the list of covers, there it was... so...</p>
 <p>Living Too Close to The Ground was written by The Everly Brothers bassist Terry Slater for their 1968 album Roots.<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4LcirdCj0WQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+{% ahfowvideo "4LcirdCj0WQ" "" %}
 <p>And, as mentioned, Dean recorded it in 2012 and released it as a bonus track on his 2013 small LP "Emancipated Hearts"</p>
 <p><iframe class="aligncenter" src="https://embed.spotify.com/?uri=spotify:track:7kJKjLCxFEfl18h3KrGoY0" width="300" height="380" frameborder="0" allowtransparency="true"></iframe></p>

@@ -24,8 +24,8 @@ tags: []
 <p>michaelfgioia on YouTube has a couple of videos:</p>
 <p>Ride Into the Sun:<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yxFUtxs4Oy0" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+{% ahfowvideo "yxFUtxs4Oy0" "" %}
 <p>Lost in Space:<br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mHsxi0xdANo" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+{% ahfowvideo "mHsxi0xdANo" "" %}
 <p><a href="http://www.flickr.com/photos/97019847@N00/11128964534" title="IMG_7191 by Clay, on Flickr"><img src="https://farm6.staticflickr.com/5543/11128964534_1ee3b029dd_z.jpg" width="640" height="480" alt="IMG_7191"></a></p>

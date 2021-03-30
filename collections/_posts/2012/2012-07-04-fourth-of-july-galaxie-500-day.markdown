@@ -17,7 +17,7 @@ categories:
 - news
 tags: []
 ---
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hwi3qoZhMjw" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Dean Wareham plays Fourth of July in Australia in 2011</figcaption></figure>
+{% ahfowvideo "hwi3qoZhMjw" "Dean Wareham plays Fourth of July in Australia in 2011" %}
 
 <p>Every so often I get an idea to have a Fourth of July game because for me the Fourth of July is <em>Galaxie 500 Day</em> although these games tend to have few players (although the ones that that do play produce gems) - I guess partly because of the half-baked idea for a game and partly because apparently <em>Galaxie 500 Day</em> conflicts with some other national holiday (not over here it doesn't - I'll be at work!)...</p>
 <p>Anyway... if anyone wants to play along the rules are to produce something that is somehow connected with Galaxie 500's Fourth of July for example...</p>
@@ -34,4 +34,6 @@ tags: []
 </p>
 <p>Ro proved that a nickel is in fact bigger than the Empire State Building<br />
 <img class="aligncenter" src="https://media.fullofwishes.co.uk/ahfow/uploads/2009/07/photo.jpg" alt="also not bigger in height" title="Also No bigger than a nickel" width="400" height="300" class="size-full wp-image-1393" /></p>
-<p><iframe class="aligncenter" width="480" height="360" https://www.youtube-nocookie.com/embed/L67x9VGfF-g" frameborder="0" allowfullscreen></iframe></p>
+
+{% ahfowvideo "L67x9VGfF-g" "" %}
+

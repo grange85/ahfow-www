@@ -30,6 +30,6 @@ tags:
   "sourcecap": "23 June 2005 - Damon & Naomi - NHK Livebeat, Tokyo, Japan"
   } %}
 Here's Vashti's original
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0Q1ll_hTmsU" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Vashti Bunyan - Winter is Blue</figcaption></figure>
+{% ahfowvideo "0Q1ll_hTmsU" "Vashti Bunyan - Winter is Blue" %}
 
 

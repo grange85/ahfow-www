@@ -24,5 +24,5 @@ description: |
 
 <p class="lead">Naomi has directed a video for Vermont based duo MV and EE. The track, Feel Alright, is from their <a href="http://www.stereogum.com/1899534/mv-ee-feel-alright-video-dir-naomi-yang/mp3s/">new album Root/Void coming out next month</a>.</p>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9FVg_jppB5A" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">MV and EE - Feel Alright (Dir: Naomi Yang)</figcaption></figure>
+{% ahfowvideo "9FVg_jppB5A" "MV and EE - Feel Alright (Dir: Naomi Yang)" %}
 

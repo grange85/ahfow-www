@@ -31,7 +31,7 @@ In case you were unaware Neil wrote all the perfect Beatles pastiches recorded b
 
 Neil Innes was a musical genius (and by all the many accounts a nice guy too) and will be sorely missed.
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ePaHG6g7uFw" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">The Rutles - Cheese and Onions</figcaption></figure>
+{% ahfowvideo "ePaHG6g7uFw" "The Rutles - Cheese and Onions" %}
 
 Back in 1974/5 my dad upgraded to a swanky new "Music Centre" - a large record/tape/radio amalgam that was briefly popular back then. To celebrate our entry into high-fidelity he brought a few new LPs - one was [The History of The Bonzos](https://en.wikipedia.org/wiki/The_History_of_the_Bonzos), a recently released compilation. From that moment on and through [Rutland Weekend Television](https://en.wikipedia.org/wiki/Rutland_Weekend_Television), [The Rutles](https://en.wikipedia.org/wiki/The_Rutles), and [The Innes Book of Records](https://en.wikipedia.org/wiki/The_Innes_Book_of_Records) my love of Neil just grew.
 
@@ -41,14 +41,14 @@ When Galaxie 500's cover of Cheese and Onions appeared it was like a divine coll
 
 I'm not sure that Galaxie 500 ever played the track live but Dean has taken a couple of pops at it, usually in response to shouts from the audience - here in Australia in 2011:
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5CAdEg_oOg4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Dean Wareham - Cheese and Onions</figcaption></figure> 
+{% ahfowvideo "5CAdEg_oOg4" "Dean Wareham - Cheese and Onions" %} 
 
 and here in Japan:
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wM5MWqOtHss" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Dean Wareham - Cheese and Onions</figcaption></figure>
+{% ahfowvideo "wM5MWqOtHss" "Dean Wareham - Cheese and Onions" %}
 
 I only saw Neil play once, with Yo La Tengo back in 2000 - I always meant to see him more but for various reasons it never happened - and now I can't and for that I'm rather sad. RIP Neil, you'll be missed.	
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ka6i5jfpw2w" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">The Rutles - Cheese and Onions (London 2013)</figcaption></figure>
+{% ahfowvideo "ka6i5jfpw2w" "The Rutles - Cheese and Onions (London 2013)" %}
 
 [Originals: Cheese and Onions by The Rutles (covered by Galaxie 500)](https://www.fullofwishes.co.uk/2013/04/10/originals-cheese-and-onions-by-the-rutles-covered-by-galaxie-500/)

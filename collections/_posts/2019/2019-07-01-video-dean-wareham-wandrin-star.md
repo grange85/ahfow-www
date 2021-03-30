@@ -22,8 +22,8 @@ tags:
 
 Dean Wareham has just released this video for his cover of the Lee Marvin classic Wand'rin' Star from the excellent <a href="https://deanwareham.com/">Dean Wareham vs Cheval Sombre album</a>.
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/35DtiGYVE3E" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Dean Wareham - Wand'rin' Star</figcaption></figure>
+{% ahfowvideo "35DtiGYVE3E" "Dean Wareham - Wand'rin' Star" %}
 
 If you haven't heard the Lee Marvin original you really should, it's a masterpiece!
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/El9eCRisbDo" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Lee Marvin - Wand'rin' Star</figcaption></figure>
+{% ahfowvideo "El9eCRisbDo" "Lee Marvin - Wand'rin' Star" %}

@@ -21,7 +21,9 @@ tags: []
 ---
 <p>According to a few places on the internet today is Damon's birthday <ins datetime="2012-09-06T13:42:21+00:00">(<a href="https://twitter.com/dada_drummer/status/243704991649521665">confirmed</a>!)</ins>... <del datetime="2012-09-06T13:43:11+00:00">so if it is -</del> have a great day Damon!<br />
 <a href="http://www.flickr.com/photos/grange85/5711251457/" title="Richard Youngs with Damon Krukowski by andyaldridge, on Flickr"><img class="aligncenter" src="https://farm4.staticflickr.com/3188/5711251457_11f2422aa4.jpg" width="500" height="375" alt="Richard Youngs with Damon Krukowski"></a></p>
-<p><iframe class="aligncenter" width="480" height="360" https://www.youtube-nocookie.com/embed/UGWj0Y4NXp4" frameborder="0" allowfullscreen></iframe></p>
+
+{% ahfowvideo "UGWj0Y4NXp4" "" %}
+
 <p>And here's a few mp3s of his work over the years:<br />
 <a href="/2011/12/09/audio-lost-tracks-damon-naomi-cover-cans-yoo-doo-right/">Audio: Lost tracks: Damon & Naomi cover Can’s Yoo Doo Right</a><br />
 <a href="/2009/05/20/mp3-lost-tracks-5-damon-naomi-spirit-of-love/">Mp3: Lost tracks #5 – Damon & Naomi – Spirit of Love</a><br />

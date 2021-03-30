@@ -24,7 +24,7 @@ tags:
 
 <p>Their cover of Oblivious is a sort of reminder of my carelessness - it's a beautiful cover, and with Darren's voice berating me for just how ridiculously misguided I was to ignore them. And, as if it hasn't sucked me in enough it has a gorgeous Formbyesque uke strum <sup>[<a href="#1">1</a>]</sup> in the close out.</p>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ESzVVHnEvE8" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Hefner - Oblivious</figcaption></figure>
+{% ahfowvideo "ESzVVHnEvE8" "Hefner - Oblivious" %}
 
 <p>Hefner split up shortly after I discovered that they weren't the band I thought they were but Darren has never stopped making reocrds, and is tirelessly imaginitive in his inspiration - from <a href="https://darrenhayman.bandcamp.com/album/lido">outdoor swimming pools</a>, to <a href="https://darrenhayman.bandcamp.com/track/little-squirrel-little-arrow">dogs in space</a>, from <a href="https://glassreservoir.bandcamp.com/album/wembley-eiffel-tower">London's failed Eiffel Tower</a> to his current project of music inspired by <a href="https://darrenhayman.bandcamp.com/album/thankful-villages-volume-1">Thankful Villages</a>. All worth a listen and a few quid! As is so much of the <a href="https://darrenhayman.bandcamp.com/">stuff he has on Bandcamp</a>.</p>
 

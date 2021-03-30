@@ -39,7 +39,7 @@ longpost: true
 <p>In honour of that, and as today is Bastille Day, we'llc elebrate with some french flavoured AHFoW tracks:</p>
 <!--more-->
 <p>First up Luna playing Bonnie and Clyde in Porto last year&hellip;</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XxE170KbLbM" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna playing Bonnie and Clyde in Porto in 2015</figcaption></figure>
+{% ahfowvideo "XxE170KbLbM" "Luna playing Bonnie and Clyde in Porto in 2015" %}
 <p>Next, their cover of Polnareff's La poupée qui fait non:</p>
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/03-luna-la-poupee-qui-fait-non.mp3",

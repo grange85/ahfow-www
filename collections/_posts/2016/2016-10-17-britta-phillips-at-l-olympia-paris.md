@@ -31,7 +31,7 @@ longpost: true
 <!--more-->
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/29764173474/in/photostream/" title="Britta"><img src="https://c3.staticflickr.com/9/8560/29764173474_49433864b9_b.jpg" width="768" height="1024" alt="Britta"></a>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dB2nDj-hZbM" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Britta Phillips - I'll Keep It With Mine</figcaption></figure>
+{% ahfowvideo "dB2nDj-hZbM" "Britta Phillips - I'll Keep It With Mine" %}
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/30394609615/in/photostream/" title="Sadly Britta never made it onto L&#x27;Olympia marquee"><img src="https://c8.staticflickr.com/9/8417/30394609615_9dd0ea446d_b.jpg" width="768" height="1024" alt="Sadly Britta never made it onto L&#x27;Olympia marquee"></a>
 

@@ -25,8 +25,8 @@ tags:
 
 <p class="lead">Nice video of a session Britta Phillips played at The Geary Studio in Houston last month</p>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ddNS5zSGvDU" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Britta Phillips - Drive</figcaption></figure>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SYNZzYc_-pQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Britta Phillips - Daydream</figcaption></figure>
+{% ahfowvideo "ddNS5zSGvDU" "Britta Phillips - Drive" %}
+{% ahfowvideo "SYNZzYc_-pQ" "Britta Phillips - Daydream" %}
 
 Head over to the <a href="http://www.houstonpublicmedia.org/articles/arts-culture/2016/06/20/157560/video-britta-phillips-performs-in-the-geary-studio/">Houston Public Media site to see some lovely pictures of the session</a>.
 

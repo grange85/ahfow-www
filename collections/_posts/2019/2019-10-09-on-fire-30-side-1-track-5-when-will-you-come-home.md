@@ -28,7 +28,7 @@ Also I did a drawing!
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48825574552/in/datetaken/" title="Watching Kojak on my own"><img src="https://live.staticflickr.com/65535/48825574552_5c6872e9f9_c.jpg" width="800" height="800" alt="Watching Kojak on my own"></a>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EloWhfc3ANY" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">When Will You Come Home - Galaxie 500 (dir: Sergio Huidor)</figcaption></figure>
+{% ahfowvideo "EloWhfc3ANY" "When Will You Come Home - Galaxie 500 (dir: Sergio Huidor)" %}
 
 > Wasn't there an animal related controversy about "When Will You Come Home"?  
 >  

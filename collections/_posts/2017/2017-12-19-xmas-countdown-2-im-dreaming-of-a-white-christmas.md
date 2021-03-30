@@ -46,4 +46,4 @@ tags:
   "sourcecap": "Tell Me Do You Miss Me"
   } %}
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EL7skeHiw7c" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Snowstorm (SNUB TV)</figcaption></figure>
+{% ahfowvideo "EL7skeHiw7c" "Galaxie 500 - Snowstorm (SNUB TV)" %}

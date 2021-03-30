@@ -36,4 +36,6 @@ tags: []
 <p>The set closed with me checking my watch and worrying about whether I'd get to Green Park in time for the last Piccadilly Line back to civilisation. Fortunately David dropped me to Brixton tube station and I made it home... still a little damp but, as always, thoroughly satisfied.</p>
 <p>The venue was dark, particularly the side that Naomi stood, and I was unfamiliar with Hazel's camera that I'd borrowed for the occasion so there are only a few pictures and none are that good.  <a href="http://www.flickr.com/photos/grange85/sets/72157628380225657/with/6496039017/">You can see the rest on Flickr</a>.</p>
 <p>Damon & Naomi then headed off to Italy, here's a video of them playing Nettles and Ivy in Torino a couple of days after their London show.</p>
-<p><iframe class="aligncenter" width="480" height="360" https://www.youtube-nocookie.com/embed/wb8A6uRZ6yc" frameborder="0" allowfullscreen></iframe></p>
+
+{% ahfowvideo "wb8A6uRZ6yc" "" %}
+

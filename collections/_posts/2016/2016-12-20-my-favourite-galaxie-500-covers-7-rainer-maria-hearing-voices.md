@@ -24,7 +24,7 @@ longpost: true
 <p class="lead">Way back at the turn of the century while the internet was just a toddler video was a rare treat Spin.com had a series of videos shot very lo-fi and barely produced. Rainer Maria decided to have a shot at Galaxie 500's Hearing Voices for them.</p>
 
 <p>That anyone should choose a Galaxie 500 cover was a treat and being able to see them doing it was a joy. Even if it was a tiny Flash video stream it was still a joy.</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6GpS-rBACZw" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Rainer Maria - Hearing Voices</figcaption></figure>
+{% ahfowvideo "6GpS-rBACZw" "Rainer Maria - Hearing Voices" %}
 <!--more-->
 <p>I nabbed a bit of software that enabled me to download the Flash stream and it lived on my computer for a few years, and then on a post on my blog for a while before it vanished - seemingly lost forever.</p>
 

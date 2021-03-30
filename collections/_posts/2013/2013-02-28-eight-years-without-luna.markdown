@@ -47,4 +47,4 @@ tags: []
 <blockquote><p>Britta and I trudged upstairs and out into the snowstorm and hailed a cab at the corner of Bowery and Delancey. It felt good to be heading north.</p></blockquote>
 <p><em>Dean Wareham - Black Postcards</em><br />
 </p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/81Sv57rbujA" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+{% ahfowvideo "81Sv57rbujA" "" %}

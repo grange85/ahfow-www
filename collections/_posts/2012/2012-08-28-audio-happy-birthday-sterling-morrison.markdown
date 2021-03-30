@@ -27,5 +27,7 @@ tags: []
 <strong>MP3:</strong> <a href="https://media.fullofwishes.co.uk/02-luna/audio/1994_Luna_Great-Jones-Street.mp3">Luna (feat. Sterling Morrision) - Great Jones St.</a></p>
 <audio src="https://media.fullofwishes.co.uk/02-luna/audio/1994_Luna_Great-Jones-Street.mp3" preload="none" controls />
 <p>Today I'll be playing that and maybe also this. </p>
-<p><iframe class="aligncenter" width="480" height="360" https://www.youtube-nocookie.com/embed/Z6o2mc-xKa8" frameborder="0" allowfullscreen></iframe></p>
+
+{% ahfowvideo "Z6o2mc-xKa8" "" %}
+
 <p>Happy birthday Sterling.</p>

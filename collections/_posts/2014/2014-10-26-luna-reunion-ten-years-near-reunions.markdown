@@ -21,7 +21,7 @@ tags: []
 <em>Dean Wareham - <a href="http://www.thevinyldistrict.com/dc/2014/03/dean-wareham-tvd-interview/">The Vinyl District, March 2014</a></em></p></blockquote>
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/sean-justin-stan-2014.jpg" width="960" height="720" class /><figcaption class="caption-text"> Sean, Justin and Stan in NYC in 2014</figcaption></figure>
 <p>Dean & Britta with Sean in Chicago IL in 2010</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jUUafnCQbzQ" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+{% ahfowvideo "jUUafnCQbzQ" "" %}
 
 <figure class="caption aligncenter"><a href="https://www.flickr.com/photos/subcow/7658288576" title="Dean & Britta with Sean Eden (Luna) at Shine A Light festival 7-21-12 by Kurt Christensen, on Flickr"><img class="aligncenter" src="https://farm9.staticflickr.com/8007/7658288576_f2680e0fc0_z.jpg" width="640" height="424" alt="Dean & Britta with Sean Eden (Luna) at Shine A Light festival 7-21-12"></a><figcaption class="caption-text">Dean & Britta with Sean in Wantagh NY in 2012 - <a href="http://www.nyctaper.com/2012/07/dean-britta-with-luna-reunion-july-21-2012-mulcahys-wantagh-ny-flac-and-mp3-downloads-streaming-songs/">full show in NYCTaper</a></figcaption></figure>
 

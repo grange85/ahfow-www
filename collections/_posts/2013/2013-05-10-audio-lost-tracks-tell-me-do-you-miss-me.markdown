@@ -59,4 +59,4 @@ tags: []
   } %}
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/tmdymm_snowdrive_01.jpg" alt="Snow Drive" /><figcaption class="caption-text">Snow Drive</figcaption></figure>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/81Sv57rbujA" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna - 23 Minutes in Brussels from Tell Me Do You Miss Me</figcaption></figure>
+{% ahfowvideo "81Sv57rbujA" "Luna - 23 Minutes in Brussels from Tell Me Do You Miss Me" %}

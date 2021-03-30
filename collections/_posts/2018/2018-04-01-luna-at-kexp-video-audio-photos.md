@@ -30,7 +30,7 @@ longpost: false
 
 <p class="lead">Back in January Luna headed to KEXP in Seattle - the video has finally made it onto YouTube and the audio appeared in the KEXP live perfomances podcast&hellip;</p>
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2gx_qoTJXGk" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Luna ta KEXP, January 2018</figcaption></figure>
+{% ahfowvideo "2gx_qoTJXGk" "Luna ta KEXP, January 2018" %}
 
 
 <p>There's a stack of <a href="https://www.flickr.com/photos/kexp/albums/72157691835381944">lovely photographs by Alley Rutzel</a> over on Flickr.</p>

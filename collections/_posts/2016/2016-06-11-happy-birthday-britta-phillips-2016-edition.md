@@ -26,7 +26,7 @@ longpost: true
 <p class="lead">Happy birthday to the lovely Britta Phillips who'll be celebrating on the back of the wonderful solo album she released a couple of months back - <a href="http://amzn.to/22Zm2Ci">go buy it</a> (<a href="https://open.spotify.com/album/43brGW2fA599FbPHk5Zxdj">or stream it</a>) if you haven't already!</p>
 
 <p>On that aforementioned "wonderful solo album" she covers The Cars track {% ahfowtrack "Drive" %}... and surprisingly she makes me fall in love with a song I have never loved - here's a sweet video of her playing it live in Texas last month:</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CVFUMbISiC4" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Britta Phillips - Drive at The Granada Theater</figcaption></figure>
+{% ahfowvideo "CVFUMbISiC4" "Britta Phillips - Drive at The Granada Theater" %}
 
 <p>Here are a few Britta rarities to download (I've shared them all before&hellip; so not that rare I guess)</p>
 <!--more-->

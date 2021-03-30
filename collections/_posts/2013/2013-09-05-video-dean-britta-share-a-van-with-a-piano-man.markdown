@@ -17,7 +17,7 @@ categories:
 - video
 tags: []
 ---
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_0tchjwbHgw" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+{% ahfowvideo "_0tchjwbHgw" "" %}
 
 <p>Dean & Britta have recorded a session with <a href="http://en.wikipedia.org/wiki/Chris_Stroffolino">Chris Stroffolino</a> in his <a href="http://pianovan.com/">Piano Van</a> - <del>a video of them playing Luna's Lost in Space is on YouTube now</del> and @Piano_Van tweeted about another track</p>
 <blockquote class="twitter-tweet"><p>recording an <a href="https://twitter.com/search?q=%23AliceCooper&src=hash">#AliceCooper</a> song with <a href="https://twitter.com/search?q=%23DeanWareham&src=hash">#DeanWareham</a> and <a href="https://twitter.com/search?q=%23BrittaPhillips&src=hash">#BrittaPhillips</a> of <a href="https://twitter.com/search?q=%23Luna&src=hash">#Luna</a>, etc.</p>

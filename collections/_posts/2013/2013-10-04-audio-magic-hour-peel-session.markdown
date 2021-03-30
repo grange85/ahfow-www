@@ -44,4 +44,4 @@ tags: []
   } %}
 
 <p>Also while in London in 1994... here's a complete Magic Hour set from a show at The Sausage Machine supporting 18th Dye. The show includes a performance of Naomi's only lead vocal contribution to Magic Hour, on a cover of Cyril Tawney's Sally Free and Easy, which I <a href="/2012/03/15/audio-lost-tracks-magic-hour-sally-free-and-easy/" title="Audio: Lost tracks: Magic Hour – Sally Free and Easy">covered in a Lost Tracks post a while back</a>.</p>
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6JveFMa97YU" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text"></figcaption></figure>
+{% ahfowvideo "6JveFMa97YU" "" %}
