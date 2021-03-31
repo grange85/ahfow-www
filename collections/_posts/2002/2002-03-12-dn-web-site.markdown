@@ -16,4 +16,4 @@ categories:
 - news
 tags: []
 ---
-<p>Ho hum, another D&N album and yet another D&N website.Still "under construction" the site can be seen at https://web.archive.org/web/200203+/http://www.damonandnaomi.com. It includes a short clip from the coming DVD release and the ability to sign up for a mailing list.</p>
+Ho hum, another D&N album and yet another D&N website.Still "under construction" the site can be seen at [https://web.archive.org/web/200203+/http://www.damonandnaomi.com](https://web.archive.org/web/200203+/http://www.damonandnaomi.com). It includes a short clip from the coming DVD release and the ability to sign up for a mailing list.

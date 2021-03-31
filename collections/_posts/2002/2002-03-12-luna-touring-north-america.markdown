@@ -17,4 +17,4 @@ categories:
 - news
 tags: []
 ---
-<p>Luna will be embarking on a tour around North America durting May and June and are hoping to reach Europe perhaps sometime in the Autumn. Keep an eye here (or in your local press!) for dates when they are confirmed</p>
+Luna will be embarking on a tour around North America durting May and June and are hoping to reach Europe perhaps sometime in the Autumn. Keep an eye here (or in your local press!) for dates when they are confirmed.

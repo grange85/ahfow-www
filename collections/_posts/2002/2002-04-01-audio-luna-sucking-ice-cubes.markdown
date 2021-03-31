@@ -16,5 +16,6 @@ categories:
 - luna
 tags: []
 ---
-<p>Track of the Month returns with a Luna rarity. Sucking Ice Cubes comes from the Japanese release of Luna's second album, Bewitched.</p>
-<p><a href="http://www.box.net/shared/fts1ed4c6p">Luna - Sucking Ice Cubes (mp3)</a></p>
+Track of the Month returns with a Luna rarity. Sucking Ice Cubes comes from the Japanese release of Luna's second album, Bewitched.
+
+[Luna - Sucking Ice Cubes](http://www.box.net/shared/fts1ed4c6p) (mp3)

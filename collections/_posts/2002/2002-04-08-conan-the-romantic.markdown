@@ -16,4 +16,4 @@ categories:
 - news
 tags: []
 ---
-<p>Sorry I was on holiday so I missed plugging Luna's appearance on "Late Night with Conan O'Brien" last week. I heard they played Lovedust...I guess you should look out for re-runs</p>
+Sorry I was on holiday so I missed plugging Luna's appearance on "Late Night with Conan O'Brien" last week. I heard they played Lovedust...I guess you should look out for re-runs.
