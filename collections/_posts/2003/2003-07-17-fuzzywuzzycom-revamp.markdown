@@ -19,4 +19,4 @@ tags: []
 Luna's fuzzywuzzy.com website has had a revamp - not a great deal of new content yet. It does have an online store where you can buy t-shirts. There's also a mailing list on the horizon.
 
 
-source: https://web.archive.org/web/200307+/http://www.fuzzywuzzy.com
+Source: [http://www.fuzzywuzzy.com](https://web.archive.org/web/200307+/http://www.fuzzywuzzy.com)

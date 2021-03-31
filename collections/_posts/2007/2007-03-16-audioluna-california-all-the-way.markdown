@@ -17,4 +17,6 @@ categories:
 tags: []
 ---
 <p>This is Luna reluctantly performing California (All the Way) on Philadelphia's World Cafe in 1997.</p>
-<p><a href="http://www.box.net/shared/i09tfftguf">Luna - California (All the Way) (mp3)</a></p>
+
+
+[Luna - California (All the Way) (mp3)](http://www.box.net/shared/i09tfftguf)

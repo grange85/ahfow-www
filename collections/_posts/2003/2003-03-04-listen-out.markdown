@@ -16,4 +16,4 @@ categories:
 - news
 tags: []
 ---
-<p>Luna have apparently had another of their tunes picked up for a TV ad. Drunken Whistler (from Close Cover Before Striking) is being used in the states on an American Express ad.</p>
+Luna have apparently had another of their tunes picked up for a TV ad. Drunken Whistler (from Close Cover Before Striking) is being used in the states on an American Express ad.

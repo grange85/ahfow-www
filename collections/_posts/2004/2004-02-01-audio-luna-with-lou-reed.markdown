@@ -17,4 +17,6 @@ categories:
 tags: []
 ---
 <p>Ride Into the Sun - Luna with Lou Reed<br />In 1996 Luna supported Lou Reed on the North American leg of his "Set The Twilight Reeling" world tour - this months track is from a performance at the Orpheum Theatre in Boston on (I believe) the 30 March and features Lou Reed joining Luna for a rather wonderful rendition of the Velvet Underground track "Ride Into the Sun". The track was played as part of Lou's set (so I guess technically this is Luna joining Lou). Lou and Dean share the vocals.</p>
-<p><a href="http://www.box.net/shared/hbxfgr21c0">Luna with Lou Reed - Ride into the Sun (mp3)</a></p>
+
+
+[Luna with Lou Reed - Ride into the Sun (mp3)](http://www.box.net/shared/hbxfgr21c0)

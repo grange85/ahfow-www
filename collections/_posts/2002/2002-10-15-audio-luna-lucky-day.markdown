@@ -16,5 +16,8 @@ categories:
 - luna
 tags: []
 ---
-<p>This is one of the tracks that Luna recorded for the, rather poor, film Thursday. "Lucky Day" (a guessed title) runs over the closing credits and this mp3 was ripped from the DVD release of the film.<br />The only released songs from the film appeared on the Dear Paulina 7" single released in 1999.</p>
-<p><a href="http://www.box.net/shared/v5n1iyb9z5">Luna - Lucky Day</a></p>
+This is one of the tracks that Luna recorded for the, rather poor, film Thursday. "Lucky Day" (a guessed title) runs over the closing credits and this mp3 was ripped from the DVD release of the film.
+
+The only released songs from the film appeared on the Dear Paulina 7" single released in 1999.
+
+[Luna - Lucky Day](http://www.box.net/shared/v5n1iyb9z5)

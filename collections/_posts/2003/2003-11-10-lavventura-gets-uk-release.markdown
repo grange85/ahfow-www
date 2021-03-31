@@ -17,4 +17,4 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>The Britta Phillips and Dean Wareham album L'Avventura should be available in record shops in the UK in the next week or so. Released on Jetset through Realtime</p>
+The Britta Phillips and Dean Wareham album L'Avventura should be available in record shops in the UK in the next week or so. Released on Jetset through Realtime.

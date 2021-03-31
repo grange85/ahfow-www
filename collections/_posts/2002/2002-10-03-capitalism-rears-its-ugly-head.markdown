@@ -16,4 +16,4 @@ categories:
 - news
 tags: []
 ---
-<p>In order to try and make a few quid to pay for the upkeep of this site I have signed up for the "Amazon.com Associates Program" which means if you click on an Amazon link from this site and then buy something I get a few meagre pennies. The links are mostly on the discography pages (and only on the albums for now). Go on give me some money when you buy the new Luna album!</p>
+In order to try and make a few quid to pay for the upkeep of this site I have signed up for the "Amazon.com Associates Program" which means if you click on an Amazon link from this site and then buy something I get a few meagre pennies. The links are mostly on the discography pages (and only on the albums for now). Go on give me some money when you buy the new Luna album!

@@ -16,5 +16,12 @@ categories:
 - luna
 tags: []
 ---
-<p>Actually I can't help but think that when this was performed it was called something else completely. While the tune is recognizable as 23 Minutes. It starts differently and has entirely different lyrics.<br />I guess this must be one of Luna's early shots at this from a show at Tramps, NYC in November of 1994, a full eight or nine months before Penthouse was released.<br />It still has that groove...<br />[thanks to Kiek for tracking this down]</p>
-<p><a href="http://www.box.net/shared/o9bg9fykoc">Luna - 23 Minutes in Brussels (mp3)</a></p>
+Actually I can't help but think that when this was performed it was called something else completely. While the tune is recognizable as 23 Minutes. It starts differently and has entirely different lyrics.
+
+I guess this must be one of Luna's early shots at this from a show at Tramps, NYC in November of 1994, a full eight or nine months before Penthouse was released.
+
+It still has that groove...
+
+Thanks to Kiek for tracking this down]
+
+[Luna - 23 Minutes in Brussels](http://www.box.net/shared/o9bg9fykoc) (mp3)

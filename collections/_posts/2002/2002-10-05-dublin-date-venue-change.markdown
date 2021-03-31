@@ -16,4 +16,4 @@ categories:
 - news
 tags: []
 ---
-<p>Luna's show in Dublin on 30 October will now be at the SPIRIT and NOT at Whelan's.</p>
+Luna's show in Dublin on 30 October will now be at the SPIRIT and NOT at Whelan's.

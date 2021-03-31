@@ -17,4 +17,4 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p>Damon & Naomi are recording new tracks for an album. Some of the material will be debuted in the three upcoming shows the duo have scheduled which include a support slot for the excellent Clientele in NYC.</p>
+Damon & Naomi are recording new tracks for an album. Some of the material will be debuted in the three upcoming shows the duo have scheduled which include a support slot for the excellent Clientele in NYC.

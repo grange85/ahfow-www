@@ -19,4 +19,4 @@ tags: []
 ---
 Luna are setting off for a bunch more dates around the US in January and February of 2003.
 
-source: https://web.archive.org/web/200212+/http://www.fuzzywuzzy.com
+source: [http://www.fuzzywuzzy.com](https://web.archive.org/web/200212+/http://www.fuzzywuzzy.com)

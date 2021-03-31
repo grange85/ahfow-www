@@ -17,4 +17,4 @@ categories:
 - luna
 tags: []
 ---
-<p>One half of synth-pop maestros Luna team up with Bowie production legend Tony Visconti for a selection of sugar-coated Valentines. Gilded melodies and duets dealing in dreamy domesticity and far-flung romance are the order of the day. Classy covers of Madonna and The Doors suggest this project could become a long-term liaison.</p>
+One half of synth-pop maestros Luna team up with Bowie production legend Tony Visconti for a selection of sugar-coated Valentines. Gilded melodies and duets dealing in dreamy domesticity and far-flung romance are the order of the day. Classy covers of Madonna and The Doors suggest this project could become a long-term liaison.

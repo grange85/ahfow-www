@@ -17,4 +17,6 @@ categories:
 - news
 tags: []
 ---
-<p>Britta on the galaxie 500 mailing list reported that "We were cancelled along with lots of the other 'smaller bands' on the bill".source: Britta</p>
+Britta on the Galaxie 500 mailing list reported that "We were cancelled along with lots of the other 'smaller bands' on the bill".
+
+source: Britta

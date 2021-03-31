@@ -16,5 +16,8 @@ categories:
 - luna
 tags: []
 ---
-<p>Apologies for the unannounced summer break that the Track of the month  feature took.<br />Hidden away as an extra track on a British promo single of Lovedust was Luna's take on  Alice Cooper's Only Women Bleed.  The original appeared on Mr Cooper's ropey (or seminal depending on your position) concept album "Welcome to my Nightmare".</p>
-<p><a href="http://www.box.net/shared/er9u7atlb7">Luna - Only Women Bleed (mp3)</a></p>
+Apologies for the unannounced summer break that the Track of the month  feature took.
+
+Hidden away as an extra track on a British promo single of Lovedust was Luna's take on  Alice Cooper's Only Women Bleed.  The original appeared on Mr Cooper's ropey (or seminal depending on your position) concept album "Welcome to my Nightmare".
+
+[Luna - Only Women Bleed](http://www.box.net/shared/er9u7atlb7) (mp3)
