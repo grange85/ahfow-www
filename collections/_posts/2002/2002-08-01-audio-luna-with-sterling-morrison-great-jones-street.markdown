@@ -16,5 +16,8 @@ categories:
 - luna
 tags: []
 ---
-<p>Thanks to Kiek for digging out this gem from a promo CD for radio station FMQB. <br />It features an "exclusive live recording" (for "Modern Rock Live") of Luna and the late Sterling Morrison (of The Velvet Underground) performing Great Jones Street. Sterling had provided electric guitar for this track and Friendly Advice on Bewitched.</p>
-<p><a href="http://www.box.net/shared/szzxph3cii">Luna with Sterling Morrison - Great Jones Street (mp3)</a></p>
+Thanks to Kiek for digging out this gem from a promo CD for radio station FMQB. 
+
+It features an "exclusive live recording" (for "Modern Rock Live") of Luna and the late Sterling Morrison (of The Velvet Underground) performing Great Jones Street. Sterling had provided electric guitar for this track and Friendly Advice on Bewitched.
+
+[Luna with Sterling Morrison - Great Jones Street (mp3)](http://www.box.net/shared/szzxph3cii)

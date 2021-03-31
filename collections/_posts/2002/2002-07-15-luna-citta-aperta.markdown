@@ -22,5 +22,5 @@ Some of Dean Wareham's lyrics from Romantica will be featured the latest edition
 
 
 source: 
- - https://web.archive.org/web/200207+/http://www.fuzzywuzzy.com
- - https://web.archive.org/web/200207+/http://www.opencity.org
+ - [http://www.fuzzywuzzy.com](https://web.archive.org/web/200207+/http://www.fuzzywuzzy.com)
+ - [http://www.opencity.org](https://web.archive.org/web/200207+/http://www.opencity.org)

@@ -18,4 +18,4 @@ categories:
 tags: []
 ---
 
-Luna are guesting on WFMU on Thursday May 9th between Noon and 3pm (EDT - I guess). You can get more details and will also be able to hear it on [https://web.archive.org/web/200205+/http://www.wfmu.org](https://web.archive.org/web/200205+/http://www.wfmu.org).
+Luna are guesting on WFMU on Thursday May 9th between Noon and 3pm (EDT - I guess). You can get more details and will also be able to hear it on [http://www.wfmu.org](https://web.archive.org/web/200205+/http://www.wfmu.org).

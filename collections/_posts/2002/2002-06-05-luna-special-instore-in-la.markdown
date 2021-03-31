@@ -19,4 +19,4 @@ tags: []
 ---
 Dean and Sean will be doing what fuzzywuzzy choose to describe as a "very special acoustic set" at the Virgin Megastore on Sunset Blvd., Los Angeles, CA on Sunday 9 June at 2pm. Get along there (and take a tape recorder!)
 
-source: https://web.archive.org/web/200206+/http://www.fuzzywuzzy.com
+source: [http://www.fuzzywuzzy.com](https://web.archive.org/web/200206+/http://www.fuzzywuzzy.com)
