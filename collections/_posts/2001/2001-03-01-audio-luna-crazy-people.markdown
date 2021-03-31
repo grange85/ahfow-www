@@ -24,7 +24,10 @@ Grasshopper for their London show 2 days before (see Track of the Month - June
 The rest of the session contained I Can't Wait, That's What You Always Say and
 Slide
 
-[Luna - Crazy People (Peel Session)
-(mp3)](http://www.box.net/shared/1q83691idl)
+
+external link - [Luna - Crazy People (Peel Session) (mp3)](http://www.box.net/shared/1q83691idl)
+
+
+external link (wayback) - [Damon & Naomi website](https://web.archive.org/web/200203+/http://www.damonandnaomi.com)
 
 
