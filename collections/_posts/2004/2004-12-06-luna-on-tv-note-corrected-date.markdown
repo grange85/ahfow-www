@@ -17,4 +17,7 @@ categories:
 - news
 tags: []
 ---
-<p>Luna will perform on the John McEnroe show this Thursday, December 9th, on CNBC at 10pm (EST)</p>
+
+Luna will perform on the John McEnroe show this Thursday, December 9th, on CNBC at 10pm (EST)
+
+

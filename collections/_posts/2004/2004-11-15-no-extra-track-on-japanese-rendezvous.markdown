@@ -17,4 +17,7 @@ categories:
 - news
 tags: []
 ---
-<p>Despite being led to believe otherwise it turns out that the Japanese release of Rendezvous contains no extra tracks and the only difference is the inclusion of a lyric sheet.</p>
+
+Despite being led to believe otherwise it turns out that the Japanese release of Rendezvous contains no extra tracks and the only difference is the inclusion of a lyric sheet.
+
+

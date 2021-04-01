@@ -16,7 +16,10 @@ categories:
 - galaxie 500
 tags: []
 ---
-<p>This is the excellent version of Flowers that was released on the Melody Maker compilation CD "Gigantic 2" - recorded in Amsterdam.</p>
+
+This is the excellent version of Flowers that was released on the Melody Maker compilation CD "Gigantic 2" - recorded in Amsterdam.
+
+
 
 
 [Galaxie 500 - Flowers (live) (mp3)](http://www.box.net/shared/tph7q22htb)

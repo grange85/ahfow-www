@@ -17,4 +17,7 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p>Damon & Naomi's sixth album will be released on their own 20/20/20 record label on St Valentines Day next year (14 February 2005). A track from the album, "Beautiful Close Double" will be on the cover CD on Decembers issue of UK music mag The Wire.source: Damon & Naomi mailing list</p>
+
+Damon & Naomi's sixth album will be released on their own 20/20/20 record label on St Valentines Day next year (14 February 2005). A track from the album, "Beautiful Close Double" will be on the cover CD on Decembers issue of UK music mag The Wire.source: Damon & Naomi mailing list
+
+

@@ -16,4 +16,7 @@ categories:
 - news
 tags: []
 ---
-<p>An interview with Dean Wareham appeared on Pitchfork today where Dean gives some explainations as to why the band have decided to call it a day and also hinted at what the future may hold. He mentions that the final days of Luna will be documnted in a movie by filmaker Matthew Buzzell. The full interview is available here - [http://www.pitchforkmedia.com/news/04-10/15.shtml#story2](https://web.archive.org/web/20041015+/http://www.pitchforkmedia.com/news/04-10/15.shtml#story2)</p>
+
+An interview with Dean Wareham appeared on Pitchfork today where Dean gives some explainations as to why the band have decided to call it a day and also hinted at what the future may hold. He mentions that the final days of Luna will be documnted in a movie by filmaker Matthew Buzzell. The full interview is available here - [http://www.pitchforkmedia.com/news/04-10/15.shtml#story2](https://web.archive.org/web/20041015+/http://www.pitchforkmedia.com/news/04-10/15.shtml#story2)
+
+

@@ -17,4 +17,7 @@ categories:
 - galaxie 500
 tags: []
 ---
-<p>Following on from last years "treasure hunt" for video of Galaxie 500 the three former members are in the process of finishing compiling a double-DVD release which is scheduled for release on 25 May.  It will be released through independent DVD label Plexifilm.</p>
+
+Following on from last years "treasure hunt" for video of Galaxie 500 the three former members are in the process of finishing compiling a double-DVD release which is scheduled for release on 25 May.  It will be released through independent DVD label Plexifilm.
+
+

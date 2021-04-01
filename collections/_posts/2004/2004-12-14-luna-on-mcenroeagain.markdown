@@ -17,4 +17,7 @@ categories:
 - news
 tags: []
 ---
-<p>Lifted from http://www.fuzzywuzzy.com - PLEASE NOTE: The McEnroe Show will air Luna's performance of "Malibu Love Nest" tomorrow night, Tuesday December 14th, at 10p.m. on CNBC.</p>
+
+Lifted from http://www.fuzzywuzzy.com - PLEASE NOTE: The McEnroe Show will air Luna's performance of "Malibu Love Nest" tomorrow night, Tuesday December 14th, at 10p.m. on CNBC.
+
+

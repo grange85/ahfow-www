@@ -17,4 +17,7 @@ categories:
 - news
 tags: []
 ---
-<p>In a tongue in cheek piece on Luna's official website Dean has given ten reasons for their decision to call it a day. Visit <a href="http://web.archive.org/web/20041017012915/http://www.fuzzywuzzy.com/docs/news.html">Fuzzywuzzy</a> for the details</p>
+
+In a tongue in cheek piece on Luna's official website Dean has given ten reasons for their decision to call it a day. Visit [Fuzzywuzzy](http://web.archive.org/web/20041017012915/http://www.fuzzywuzzy.com/docs/news.html) for the details
+
+

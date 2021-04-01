@@ -17,4 +17,7 @@ categories:
 - news
 tags: []
 ---
-<p>The release date for the new Luna album, Rendezvous has been set for 26 October  in the US - no information as yet about a European release but there will be one. No doubt long-awaited tour dates will accompany the albums release.</p>
+
+The release date for the new Luna album, Rendezvous has been set for 26 October  in the US - no information as yet about a European release but there will be one. No doubt long-awaited tour dates will accompany the albums release.
+
+
