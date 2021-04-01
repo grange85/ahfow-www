@@ -17,6 +17,14 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>There's a short news item on <a href="http://www.deanandbritta.com">Dean & Britta's website</a> announcing that the next album is "finished". They have recorded 15 songs and will cut these down to 11 for an album release.</p>
-<p><a href="http://www.sonic-boom.info/">Sonic Boom</a> recorded on a number of songs and can be seen squatting on the floor of Dean & Britta's "home studio" in a <a href="http://www.deanandbritta.com/av.php">couple of short videos</a> also on Dean & Britta's website<br />
-<blockquote>... On that note - I'm in town to record some stuff on the new Dean Wareham & Britta Phillips l.p. that they are making with Tony Visconti in New York. The initial recordings promise another stunningly beautiful record and the vibe is very blissfully mellow in a kinda valium sorta way. The sessions include a song co-written by me with D & B over the last two years. We'll also no doubt be working on the lp we've been collaborating on as a joint project since '05.<br/><a href="http://www.sonic-boom.info/news.php">Sonic Boom</a></p></blockquote>
+
+There's a short news item on [Dean & Britta's website](https://web.archive.org/web/20060425+/http://www.deanandbritta.com) announcing that the next album is "finished". They have recorded 15 songs and will cut these down to 11 for an album release.
+
+
+Sonic Boom recorded on a number of songs and can be seen squatting on the floor of Dean & Britta's "home studio" in a [couple of short videos](https://web.archive.org/web/20060425+/http://www.deanandbritta.com/av.php) also on Dean & Britta's website
+
+
+> ... On that note - I'm in town to record some stuff on the new Dean Wareham & Britta Phillips l.p. that they are making with Tony Visconti in New York. The initial recordings promise another stunningly beautiful record and the vibe is very blissfully mellow in a kinda valium sorta way. The sessions include a song co-written by me with D & B over the last two years. We'll also no doubt be working on the lp we've been collaborating on as a joint project since '05.  
+[Sonic Boom](http://www.sonic-boom.info/news.php)
+{: .blockquote .text-secondary .px-4}
+

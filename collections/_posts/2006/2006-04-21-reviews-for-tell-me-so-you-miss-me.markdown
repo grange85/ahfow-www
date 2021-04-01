@@ -17,6 +17,9 @@ categories:
 - news
 tags: []
 ---
-<p>The first couple of reviews for Matthew Buzzell's documentary of Luna's final tour have turned up...</p>
+
+The first couple of reviews for Matthew Buzzell's documentary of Luna's final tour have turned up...
+
+
 <blockquote><p>"like Luna's music, the film's melancholic vibe has a gossamer beauty that's undeniable."<br/>Time Out</p></blockquote>
 <blockquote><p>But the film has a mournful, sleep-deprived mood that matches the melodic Velvety drone of the group's songs<br/><a href="http://www.villagevoice.com/film/0616,hoberman,72900,20.html">Village Voice</a></p></blockquote>

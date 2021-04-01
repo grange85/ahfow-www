@@ -16,6 +16,15 @@ categories:
 - luna
 tags: []
 ---
-<p>Music View was (maybe is??) as far as I can tell a syndicated college radio alternative music show. This interview with Dean Wareham was from around the time of the release of Luna's second album "Bewitched". I was sent this on a CD absolutely ages ago and have been meaning to get it on line ever since but just never got around to it.</p>
-<p>The 11' 55" includes a number of short interview sections and the album versions of "This Time Around" and "Going Home" as well as a "Hi this is Dean from Luna..." intro.</p>
-<p><a href="http://www.box.net/shared/k4txt8dqcm">Luna Music View #187</a> (mp3 - 8.2MB - 96Kbps)</p>
+
+Music View was (maybe is??) as far as I can tell a syndicated college radio alternative music show. This interview with Dean Wareham was from around the time of the release of Luna's second album "Bewitched". I was sent this on a CD absolutely ages ago and have been meaning to get it on line ever since but just never got around to it.
+
+
+
+The 11' 55" includes a number of short interview sections and the album versions of "This Time Around" and "Going Home" as well as a "Hi this is Dean from Luna..." intro.
+
+
+
+<a href="http://www.box.net/shared/k4txt8dqcm">Luna Music View #187</a> (mp3 - 8.2MB - 96Kbps)
+
+
