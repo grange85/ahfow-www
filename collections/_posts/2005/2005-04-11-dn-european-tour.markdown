@@ -17,5 +17,11 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p>Damon & Naomi will tour the UK and Europe, with Michio Kurihara at all UK dates, Kurihara and Bhob Rainey at all dates in Spain and Portugal. And in London and Newcastle, expect the D&N big band -- a quintet, with Kurihara, Bhob Rainey, and Greg Kelley. </p>
-<p>June dates in Japan and Korea to be announced soon.</p>
+
+Damon & Naomi will tour the UK and Europe, with Michio Kurihara at all UK dates, Kurihara and Bhob Rainey at all dates in Spain and Portugal. And in London and Newcastle, expect the D&N big band -- a quintet, with Kurihara, Bhob Rainey, and Greg Kelley. 
+
+
+
+June dates in Japan and Korea to be announced soon.
+
+

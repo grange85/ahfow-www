@@ -16,4 +16,7 @@ categories:
 - news
 tags: []
 ---
-<p>I've been sent a good few photos that are sitting in my inbox waiting to be sorted out - it will happen over the next few days (I hope) - in the meantime there are stacks of (links to) photos on Luna's Last Waltz - go there for now...[http://lunaslastwaltz.blogspot.com](https://web.archive.org/web/20050301+/http://lunaslastwaltz.blogspot.com)</p>
+
+I've been sent a good few photos that are sitting in my inbox waiting to be sorted out - it will happen over the next few days (I hope) - in the meantime there are stacks of (links to) photos on Luna's Last Waltz - go there for now...[http://lunaslastwaltz.blogspot.com](https://web.archive.org/web/20050301+/http://lunaslastwaltz.blogspot.com)
+
+

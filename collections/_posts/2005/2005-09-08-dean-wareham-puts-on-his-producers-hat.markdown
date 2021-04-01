@@ -20,7 +20,7 @@ tags: []
 Dean is currently in North Carolina producing an album for Jule Brown which is
 Mark Holland of Jennyanykind's side project.
 
-<del>More details at the official and frighteningly ugly Jule Brown</del> and
+More details at the official and frighteningly ugly Jule Brown and
 the thankfully much prettier [Sonicbids EPK
 site](https://web.archive.org/web/20050908+/http://www.sonicbids.com/epk/epk.asp?epk_id=12932)
 
