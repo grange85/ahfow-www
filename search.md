@@ -15,3 +15,4 @@ title: Search results
 
 <ul id="searchResults" class="list-group list-group-flush"></ul>
 
+If you've not found what you think you should have you can [use Google to search A Head Full of Wishes](https://cse.google.com/cse?cx=017452044498352075094:-vuzx4-btdw).
