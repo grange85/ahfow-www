@@ -73,11 +73,19 @@ Dean & Britta's first two albums are on Bandcamp, and there wonderful cover of T
  - [L'Avventura + bonus tracks (Sonic Boom remixes) - Dean & Britta](https://deanandbritta.bandcamp.com/album/lavventura-bonus-tracks-sonic-boom-remixes)
  - [Quarantine Tapes](https://deanandbritta.bandcamp.com/album/quarantine-tapes)
 
-Britta's lovely solo album is there too
-- [Luck or Magic - Britta Phillips](https://brittaphillips.bandcamp.com/album/luck-or-magic)
+Britta has some lovely solo stuuff up there too
+ - [Luck or Magic - Britta Phillips](https://brittaphillips.bandcamp.com/album/luck-or-magic)
+ - [ The Good Lyre - Songs Of John Wesley Harding ](https://johnwesleyharding.bandcamp.com/album/the-good-lyre-songs-of-john-wesley-harding) has Britta's lovely cover of Sleepy People
 
 Dean Wareham
-- [Live at St Pancras Old Church London December 2013 - Dean Wareham](https://shop.soniccathedral.co.uk/album/live-at-st-pancras-old-church-london-december-2013-2)
+ - [Live at St Pancras Old Church London December 2013 - Dean Wareham](https://shop.soniccathedral.co.uk/album/live-at-st-pancras-old-church-london-december-2013-2)
+
+Dean and/or Britta also have worked with Cheval Sombre on these releases
+
+ - [Days Go By](https://chevalsombre.bandcamp.com/album/days-go-by)
+ - [Time Waits for No One](https://chevalsombre.bandcamp.com/album/time-waits-for-no-one)
+ - [Mad Love](https://chevalsombre.bandcamp.com/album/mad-love-2)
+
 
 
 ### And some other stuff
