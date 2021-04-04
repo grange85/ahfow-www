@@ -30,5 +30,5 @@ The track, called Spiral, was made available to download through the HBO podcast
   "sourcecap": "HBO Voyeur on Wikipedia"
   } %}
 
-{% ahfowimage "s3://media.fullofwishes.co.uk/07-dean_and_britta/pictures/dean-and-britta-hbo-voyeur.jpg" "HBO Voyeur" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/dean-and-britta-hbo-voyeur.jpg" "HBO Voyeur" %}
 

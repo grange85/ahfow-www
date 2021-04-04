@@ -17,7 +17,7 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>Dates announced in Spain, France and UK with more a few more to follow...
+Dates announced in Spain, France and UK with more a few more to follow...
 
 [Dean & Britta European tour dates](http://www.grange85.co.uk/galaxie/index.php?a=7)
 
