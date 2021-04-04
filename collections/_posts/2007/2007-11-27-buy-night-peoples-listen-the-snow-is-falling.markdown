@@ -17,4 +17,7 @@ categories:
 - after luna
 tags: []
 ---
-<p>The Night People version of Galaxie 500's version of Yoko Ono's "Listen, the Snow Is Falling" is available (with the rest of the <a href="http://www.12bandsofchristmas.com/index.html">12 Bands of Christmas</a> charity album) to buy from Snocap. Night People is filmmaker Matthew Buzzell's project and feature's contributions from former Luna members Sean Eden and Lee Wall. </p>
+
+The Night People version of Galaxie 500's version of Yoko Ono's "Listen, the Snow Is Falling" is available (with the rest of the [12 Bands of Christmas](http://www.12bandsofchristmas.com/index.html) charity album) to buy from Snocap. Night People is filmmaker Matthew Buzzell's project and feature's contributions from former Luna members Sean Eden and Lee Wall. 
+
+

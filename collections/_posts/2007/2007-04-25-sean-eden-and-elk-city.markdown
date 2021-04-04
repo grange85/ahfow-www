@@ -17,5 +17,9 @@ categories:
 - after luna
 tags: []
 ---
-<p>Former Luna guitarist <a href="http://www.seaneden.com">Sean Eden</a>'s solo project (probably not called) The Weeds of Eden are most likely on temporary hiatus while he fills his time being a member of <a href="http://www.elkcity.net/">Elk City</a> who have just released a new album New Believers which has been well received. You can listen to a few tracks over at <a href="http://www.myspace.com/elkcity">their MySpace page</a> and check out the video for <a href="http://www.youtube.com/watch?v=TZ6B3TAVQE0">Cherries in The Snow on YouTube</a>.</p>
-<p>They have a few dates in France and a couple in NYC over the next few weeks.</p>
+
+Former Luna guitarist [Sean Eden](http://www.seaneden.com)'s solo project (probably not called) The Weeds of Eden are most likely on temporary hiatus while he fills his time being a member of [Elk City](http://www.elkcity.net/) who have just released a new album New Believers which has been well received. You can listen to a few tracks over at [their MySpace page](http://www.myspace.com/elkcity) and check out the video for [Cherries in The Snow on YouTube](http://www.youtube.com/watch?v=TZ6B3TAVQE0).
+
+They have a few dates in France and a couple in NYC over the next few weeks.
+
+

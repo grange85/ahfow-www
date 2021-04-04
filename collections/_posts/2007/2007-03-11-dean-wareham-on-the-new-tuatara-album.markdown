@@ -17,5 +17,9 @@ categories:
 - dean wareham
 tags: []
 ---
-<p>Back in 1996, while still a member of Luna, Justin Harwood teamed up with Pete Buck (REM) and Barrett Martin (Screaming Trees) to form the instrumental supergroup Tuatara. The band have their fourth album, East of the Sun released in June, although as far as I can tell Justin is no longer a member. However the band have branched into having vocals on their album and have guest appearances by a bunch of familiar names including Dean Wareham.</p>
-<p>You can listen to the whole album on the <a href="http://www.fasthorserecordings.com">Fast Horse Recordings</a> website - Dean appears on the tracks "Trouble Rides In" and "Your Ghost Town", other guest vocalists Mark Eitzel, John Wesley Harding and Victoria Williams.</p>
+
+Back in 1996, while still a member of Luna, Justin Harwood teamed up with Pete Buck (REM) and Barrett Martin (Screaming Trees) to form the instrumental supergroup Tuatara. The band have their fourth album, East of the Sun released in June, although as far as I can tell Justin is no longer a member. However the band have branched into having vocals on their album and have guest appearances by a bunch of familiar names including Dean Wareham.
+
+You can listen to the whole album on the [Fast Horse Recordings](http://www.fasthorserecordings.com) website - Dean appears on the tracks "Trouble Rides In" and "Your Ghost Town", other guest vocalists Mark Eitzel, John Wesley Harding and Victoria Williams.
+
+

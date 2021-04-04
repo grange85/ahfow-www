@@ -16,6 +16,12 @@ categories:
 - news
 tags: []
 ---
-<p>I just came across <a href="http://web.archive.org/web/20081123200339/http://www.derives.net/reviews/review.php?id=1621">this review on derives.net</a> of the "Decomposing" fan tribute album - nice to see it's getting out there...</p>
+
+I just came across [this review on derives.net](http://web.archive.org/web/20081123200339/http://www.derives.net/reviews/review.php?id=1621) of the "Decomposing" fan tribute album - nice to see it's getting out there...
+
+
 <blockquote><p>Once this has been said, “Decomposing” features a lot of successful exercises in style. A few contributors have tried to add beats, keyboards or organ but most of them are completely faithful to the originals. So this is a compilation of irreducible fans of Dean Wareham towards irreducible fans of his songwriting. But there are a few gems.</p></blockquote>
-<p>The <a href="https://static.fullofwishes.co.uk/galaxie_list_tribute/">complete album is still available for download</a>.</p>
+
+The [complete album is still available for download](https://static.fullofwishes.co.uk/galaxie_list_tribute/).
+
+

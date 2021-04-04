@@ -17,4 +17,7 @@ categories:
 - after luna
 tags: []
 ---
-<p>Former Luna guitarist <a href="http://seaneden.com">Sean Eden</a> has his passport out and is off to Mexico for a few dates with <a href="http://www.elkcity.net/">Elk City</a> - more details can be found on his website. After which he's off to London as part of <a href="http://www.davederby.com/">Dave Derby and the Norfolk Downs</a> which also features the fantastic <a href="http://www.chrisbrokaw.com/">Chris Brokaw</a>. Anyone at the London gig feel free to hunt me down and say hello.</p>
+
+Former Luna guitarist [Sean Eden](http://seaneden.com) has his passport out and is off to Mexico for a few dates with [Elk City](http://www.elkcity.net/) - more details can be found on his website. After which he's off to London as part of [Dave Derby and the Norfolk Downs](http://www.davederby.com/) which also features the fantastic [Chris Brokaw](http://www.chrisbrokaw.com/). Anyone at the London gig feel free to hunt me down and say hello.
+
+

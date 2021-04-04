@@ -17,5 +17,9 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>Dean & Britta have taken over the traditional Luna New Year's Eve show - they'll be playing <a href="http://www.maxwellsnj.com/">Maxwells</a> in Hoboken NJ</p>
-<p>31 December 2007 - Dean & Britta - Maxwell's Hoboken NY - $20</p>
+
+Dean & Britta have taken over the traditional Luna New Year's Eve show - they'll be playing [Maxwells](http://www.maxwellsnj.com/) in Hoboken NJ
+
+31 December 2007 - Dean & Britta - Maxwell's Hoboken NY - $20
+
+

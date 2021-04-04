@@ -17,5 +17,8 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p>Popmatters has an excellent in depth review of Damon & Naomi's Within These Walls...</p>
-<blockquote><p>For an album that musically emulates a moment of stillness preceding potential utter devastation, it manages a surprising amount of diversity. The strings, horns, and Kurihara’s guitar are part of this, as their appearances are carefully arranged to maximize the musical and emotional effect. But Within These Walls also includes enough musical passages that feel absolutely hopeful. The brighter passages lean against the bleakest ones, creating a balance that makes the album stronger.<br/><em><a href="http://www.popmatters.com/pm/music/reviews/50532/damon-and-naomi-within-these-walls/">Damon & Naomi: Within These Walls - PopMatters Music Review</a></em></p></blockquote>
+
+Popmatters has an excellent in depth review of Damon & Naomi's Within These Walls...
+
+
+<blockquote><p>For an album that musically emulates a moment of stillness preceding potential utter devastation, it manages a surprising amount of diversity. The strings, horns, and Kurihara’s guitar are part of this, as their appearances are carefully arranged to maximize the musical and emotional effect. But Within These Walls also includes enough musical passages that feel absolutely hopeful. The brighter passages lean against the bleakest ones, creating a balance that makes the album stronger.<br/><em>[Damon & Naomi: Within These Walls - PopMatters Music Review](http://www.popmatters.com/pm/music/reviews/50532/damon-and-naomi-within-these-walls/)</em></p></blockquote>

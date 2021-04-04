@@ -18,7 +18,13 @@ categories:
 tags: []
 ---
 <div class="imagebox-right"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_withinthesewalls.jpg" width="150" height="150" alt="sleeve scan"/></div>
-<p>Damon & Naomi have announced details of their new album on their website.</p>
-<p>The album called Within These Walls will be released on 20|20|20 records on 25 September. It will feature contributions from Kurihara, the Espers strings and Greg Kelley and Bhob Rainey.</p>
-<p>You can preview a track and pre-order the album for just $10 from Damon & Naomi's web site</p>
-<p>The duo will be setting out on a US tour with Boris in October and will be touring Europe in November.</p>
+
+Damon & Naomi have announced details of their new album on their website.
+
+The album called Within These Walls will be released on 20|20|20 records on 25 September. It will feature contributions from Kurihara, the Espers strings and Greg Kelley and Bhob Rainey.
+
+You can preview a track and pre-order the album for just $10 from Damon & Naomi's web site
+
+The duo will be setting out on a US tour with Boris in October and will be touring Europe in November.
+
+

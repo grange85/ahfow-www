@@ -16,5 +16,9 @@ categories:
 - video
 tags: []
 ---
-<p>I just came across this very sweet version of Tugboat by Spanish Boy/Girl pop band <a href="http://www.myspace.com/espantosi">Espanto</a> - I know nothing more than the precious little English that their label's page has to offer...</p>
-<p><figure class="caption "><figcaption class="caption-text"></figcaption></figure></p>
+
+I just came across this very sweet version of Tugboat by Spanish Boy/Girl pop band [Espanto](http://www.myspace.com/espantosi) - I know nothing more than the precious little English that their label's page has to offer...
+
+<figure class="caption "><figcaption class="caption-text"></figcaption></figure>
+
+

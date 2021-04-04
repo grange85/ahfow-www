@@ -17,5 +17,8 @@ categories:
 - dean wareham
 tags: []
 ---
-<p>The EP Fuxa commits suicide is available now from Mind Expansion records - you can order it from <a href="http://www.myspace.com/mindexpansionrecords">their MySpace page</a>. Randall of Fuxa wrote the following in response to an earlier news item...</p>
+
+The EP Fuxa commits suicide is available now from Mind Expansion records - you can order it from [their MySpace page](http://www.myspace.com/mindexpansionrecords). Randall of Fuxa wrote the following in response to an earlier news item...
+
+
 <blockquote><p>ep will feature 2 mixes of cheree with dean wareham providing vocals. one produced by richard formby.you can hear the radio edit of cheree on fuxa's myspace page. ep also features the suicide cover of girl recorded with sonic boom (spacemen 3/spectrum/e.a.r.) and an original trk titled 4th abductions recorded with suicide's own martin rev.</p></blockquote>

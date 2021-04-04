@@ -17,4 +17,7 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>Pitchfork has an <a href="http://downloads.pitchforkmedia.com/Dean%20and%20Britta%20-%20Singer%20Sing.mp3">mp3 of Singer Sings</a> from Dean & Britta's upcoming album Back Numbers. They also list the dates of the forthcoming North American tour</p>
+
+Pitchfork has an [mp3 of Singer Sings](http://downloads.pitchforkmedia.com/Dean%20and%20Britta%20-%20Singer%20Sing.mp3) from Dean & Britta's upcoming album Back Numbers. They also list the dates of the forthcoming North American tour
+
+

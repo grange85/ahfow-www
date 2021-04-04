@@ -17,7 +17,12 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>Dean & Britta have a date scheduled in London on the 19 June, I'm guessing there may be more European dates fitted around it and if/when I hear any more I'll let you all know.</p>
-<p>The London date is at The Metro in Oxford Street, London</p>
-<p>.
-<p>Say "Hi" if you spot me there!</p>
+
+Dean & Britta have a date scheduled in London on the 19 June, I'm guessing there may be more European dates fitted around it and if/when I hear any more I'll let you all know.
+
+The London date is at The Metro in Oxford Street, London
+
+
+Say "Hi" if you spot me there!
+
+

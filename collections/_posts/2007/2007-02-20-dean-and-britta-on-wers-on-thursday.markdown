@@ -17,5 +17,8 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>Dean & Britta will be on Boston radio station <a href="http://www.wers.org/events/?id=182">WERS</a> on Thursday (22nd) at 12PM</p>
-<blockquote><p>Check out Dean & Britta on Thursday at 12 PM on WERS. Featuring Dean Wareham of the band Luna, they'll be playing songs off their new album, Back Numbers, which we've been playing here at the station.</p></blockquote>
+
+Dean & Britta will be on Boston radio station [WERS](http://www.wers.org/events/?id=182) on Thursday (22nd) at 12PM
+
+
+> Check out Dean & Britta on Thursday at 12 PM on WERS. Featuring Dean Wareham of the band Luna, they'll be playing songs off their new album, Back Numbers, which we've been playing here at the station.

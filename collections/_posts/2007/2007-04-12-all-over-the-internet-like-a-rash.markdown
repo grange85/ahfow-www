@@ -16,5 +16,9 @@ categories:
 - news
 tags: []
 ---
-<p>In my ongoing effort to spray A Head Full of Wishes all over the Internet and to open up eyes to all that's great about Galaxie 500 (and all that happened since), I have now created the A Head Full of Wishes group on YouTube - I've no idea if anyone ever uses the groups on YouTube - I've been a member for ages and never have - but...it's there now - post your videos and talk about them - if it takes your fancy.</p>
-<p>The <a href="http://www.flickr.com/groups/aheadfullofwishes/">Flickr group</a> is coming along nicely and has some lovely <a href="http://www.flickr.com/groups/aheadfullofwishes/pool/">pictures in the pool</a>, and the <a href="http://www.last.fm/group/A+Head+Full+of+Wishes">Last.fm group</a> is slowly growing. So if you're a member of any of these sites please come and join up.</p>
+
+In my ongoing effort to spray A Head Full of Wishes all over the Internet and to open up eyes to all that's great about Galaxie 500 (and all that happened since), I have now created the A Head Full of Wishes group on YouTube - I've no idea if anyone ever uses the groups on YouTube - I've been a member for ages and never have - but...it's there now - post your videos and talk about them - if it takes your fancy.
+
+The [Flickr group](http://www.flickr.com/groups/aheadfullofwishes/) is coming along nicely and has some lovely [pictures in the pool](http://www.flickr.com/groups/aheadfullofwishes/pool/), and the [Last.fm group](http://www.last.fm/group/A+Head+Full+of+Wishes) is slowly growing. So if you're a member of any of these sites please come and join up.
+
+

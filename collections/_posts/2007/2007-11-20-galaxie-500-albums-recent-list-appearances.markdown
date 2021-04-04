@@ -17,5 +17,9 @@ categories:
 - galaxie 500
 tags: []
 ---
-<p>Galaxie 500 albums have recently popped up in a couple of meaningless lists.</p>
-<p>The Guardian Unlimited has a list of 1000 Albums to Hear Before You Die that features an <a href="http://music.guardian.co.uk/1000albums/story/0,,2212310,00.html">appearance from On Fire</a> and the December issue of Blender Magazine has the "100 Greatest Indie-Rock albums Ever" that has <a href="http://www.stereogum.com/archives/shit-list/blenders-100-greatest-indie-rock-albums-ever.html">Today slotting in at No.75</a> </p>
+
+Galaxie 500 albums have recently popped up in a couple of meaningless lists.
+
+The Guardian Unlimited has a list of 1000 Albums to Hear Before You Die that features an [appearance from On Fire](http://music.guardian.co.uk/1000albums/story/0,,2212310,00.html) and the December issue of Blender Magazine has the "100 Greatest Indie-Rock albums Ever" that has [Today slotting in at No.75](http://www.stereogum.com/archives/shit-list/blenders-100-greatest-indie-rock-albums-ever.html) 
+
+

@@ -23,4 +23,7 @@ tags: []
 <blockquote><p>"I have always been a fan of Dean Wareham and have worked with him and Luna many times. I love reading the thoughts of frontmen. I think it's a great read for the fan of adventure."<br />
 <em>- Lou Reed</em>
 </p></blockquote>
-<p>The book will be out in March and you can pre-order it now from A Shop Full of Wishes</p>
+
+The book will be out in March and you can pre-order it now from A Shop Full of Wishes
+
+

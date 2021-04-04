@@ -17,4 +17,7 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>Dean & Britta will be on <a href="http://www.kcrw.com/music/programs/mb">KCRW's Morning Becomes Eclectic</a> on Friday 6 April</p>
+
+Dean & Britta will be on [KCRW's Morning Becomes Eclectic](http://www.kcrw.com/music/programs/mb) on Friday 6 April
+
+

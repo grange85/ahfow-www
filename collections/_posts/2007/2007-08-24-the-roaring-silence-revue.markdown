@@ -17,6 +17,11 @@ categories:
 - damon & naomi
 tags: []
 ---
-<p>Damon & Naomi are setting out on a tour of the US with the Japanese band <a href="http://homepage1.nifty.com/boris/top.html">Boris</a> in October. Guitarist Michio Kurihara will be playing with both bands and <a href="http://www.myspace.com/helenaespvall">Helena Espvall</a> the <a href="http://www.espers.org/">Espers</a> cellist and Bhob Rainey will accompany Damon & Naomi.</p>
-<p>The tour has been dubbed the Roaring Silence Revue and you can see the <a href="http://www.grange85.co.uk/galaxie/index.php?a=3">full list of dates here</a>.</p>
-<p>Damon & Naomi's new album Within These Walls will be released on September 25th - you can hear a preview track, Cruel Queen on their website.</p>
+
+Damon & Naomi are setting out on a tour of the US with the Japanese band [Boris](http://homepage1.nifty.com/boris/top.html) in October. Guitarist Michio Kurihara will be playing with both bands and [Helena Espvall](http://www.myspace.com/helenaespvall) the [Espers](http://www.espers.org/) cellist and Bhob Rainey will accompany Damon & Naomi.
+
+The tour has been dubbed the Roaring Silence Revue and you can see the [full list of dates here](http://www.grange85.co.uk/galaxie/index.php?a=3).
+
+Damon & Naomi's new album Within These Walls will be released on September 25th - you can hear a preview track, Cruel Queen on their website.
+
+

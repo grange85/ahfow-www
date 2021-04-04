@@ -16,5 +16,5 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>Fantastic video for <a href="http://www.grange85.co.uk/galaxie/index.php?track_id=309">Words You Used To Say</a> from Dean & Britta's Back Numbers album. Directed by <a href="http://www.swedenmusic.com/">Richard Agerbeek</a></p>
-<div align="center"><figure class="caption "><figcaption class="caption-text"></figcaption></figure></div>
+
+Fantastic video for [Words You Used To Say](http://www.grange85.co.uk/galaxie/index.php?track_id=309) from Dean & Britta's Back Numbers album. Directed by [Richard Agerbeek](http://www.swedenmusic.com/)

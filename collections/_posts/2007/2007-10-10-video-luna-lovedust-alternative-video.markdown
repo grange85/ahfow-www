@@ -16,8 +16,16 @@ categories:
 - luna
 tags: []
 ---
-<p>This is a different video for Lovedust from Luna's Romantica.</p>
-<p>Directed and edited by Martina Broner it features rare studio footage shot during the Romantica sessions as well as backstage, soundcheck and live footage of the band.</p>
+
+This is a different video for Lovedust from Luna's Romantica.
+
+Directed and edited by Martina Broner it features rare studio footage shot during the Romantica sessions as well as backstage, soundcheck and live footage of the band.
+
+
 <p><figure class="caption "><figcaption class="caption-text"></figcaption></figure>
-<p><a href="http://www.grange85.co.uk/galaxie/index.php?article_id=163">You can see the art gallery Lovedust video here</a>.</p>
-<p>Thanks to Lee Wall for passing this on to me.</p>
+
+[You can see the art gallery Lovedust video here](http://www.grange85.co.uk/galaxie/index.php?article_id=163).
+
+Thanks to Lee Wall for passing this on to me.
+
+

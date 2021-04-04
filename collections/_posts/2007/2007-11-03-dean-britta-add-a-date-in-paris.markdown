@@ -17,5 +17,9 @@ categories:
 - dean & britta
 tags: []
 ---
-<p><a href="http://blog.myspace.com/index.cfm?fuseaction=blog.view&friendID=23842982&blogID=325066939">Dean & Britta have added a Paris show to their European tour</a> they will be playing a free show at <a href="http://www.flechedor.fr/">Fleche D'Or</a> at 102 Rue de Bagnolet, Paris, 75020  on December 3rd</p>
-<p>There are also links to a lot of photos from their recent CMJ gig on their <a href="http://blog.myspace.com/index.cfm?fuseaction=blog.view&friendID=23842982&blogID=325066939">MySpace blog</a></p>
+
+[Dean & Britta have added a Paris show to their European tour](http://blog.myspace.com/index.cfm?fuseaction=blog.view&friendID=23842982&blogID=325066939) they will be playing a free show at [Fleche D'Or](http://www.flechedor.fr/) at 102 Rue de Bagnolet, Paris, 75020  on December 3rd
+
+There are also links to a lot of photos from their recent CMJ gig on their [MySpace blog](http://blog.myspace.com/index.cfm?fuseaction=blog.view&friendID=23842982&blogID=325066939)
+
+

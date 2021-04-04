@@ -17,24 +17,52 @@ categories:
 - history
 tags: []
 ---
-<p><em>OK maybe this'll turn into a series or maybe that "#1" in the title will be redundant but here goes...</em></p>
-<p><strong>#1 Matt Quigley</strong></p>
-<p><a href="http://www.myspace.com/Quigley">Matt Quigley</a> was Luna's (very) short-lived bassist filling the gap between <a href="http://www.grange85.co.uk/galaxie/index.php?news=yes&id=58">Justin's "leave of absence"</a> and <a href="http://www.grange85.co.uk/galaxie/index.php?news=yes&id=60">Britta's appointment</a>.</p>
-<p>Previously of glam duo <a href="http://www.myspace.com/vaganza">Vaganza</a> purveyors of "elaborately arranged, ornate, bloated songs" Matt got the job in Luna because "I play bass...and Dean knows me"</p>
-<p>Despite his short tenure he is very fondly remembered by Luna fans for taking an active (and very enjoyable) part in the Galaxie 500 mailing list. He announced his arrival on the list on 12 February 2000...</p>
+
+<em>OK maybe this'll turn into a series or maybe that "#1" in the title will be redundant but here goes...</em>
+
+<strong>#1 Matt Quigley</strong>
+
+[Matt Quigley](http://www.myspace.com/Quigley) was Luna's (very) short-lived bassist filling the gap between [Justin's "leave of absence"](http://www.grange85.co.uk/galaxie/index.php?news=yes&id=58) and [Britta's appointment](http://www.grange85.co.uk/galaxie/index.php?news=yes&id=60).
+
+Previously of glam duo [Vaganza](http://www.myspace.com/vaganza) purveyors of "elaborately arranged, ornate, bloated songs" Matt got the job in Luna because "I play bass...and Dean knows me"
+
+Despite his short tenure he is very fondly remembered by Luna fans for taking an active (and very enjoyable) part in the Galaxie 500 mailing list. He announced his arrival on the list on 12 February 2000...
+
+
 <blockquote><p>This Quigley guy has got to go. I say we all get together (Texas, maybe)and kick his sorry butt.</p>
-<p>I was at the Utah show. This guy's a clown, I'm telling you. He prancesand minces about like it's *his* band. He hogs the mike between songs(he's quite a bit larger than Dean). Made a lot of really dumb, racistjokes. And got into, at least, three fist-fights with various fans. Idon't know who the hell he thinks he is. But I think he's a jerk.</p>
-<p>He's a genuine menace to all things Luna. And he must be stopped.</p>
+
+I was at the Utah show. This guy's a clown, I'm telling you. He prancesand minces about like it's *his* band. He hogs the mike between songs(he's quite a bit larger than Dean). Made a lot of really dumb, racistjokes. And got into, at least, three fist-fights with various fans. Idon't know who the hell he thinks he is. But I think he's a jerk.
+
+He's a genuine menace to all things Luna. And he must be stopped.
+
+
 </blockquote>
-<p>He then spent a couple of weeks chiming in with similar smart-arse comments before announcing to the list his dismissal on the 2 March shortly after returning from playing two shows in Texas...</p>
+
+He then spent a couple of weeks chiming in with similar smart-arse comments before announcing to the list his dismissal on the 2 March shortly after returning from playing two shows in Texas...
+
+
 <blockquote><p>it would seem that Dean, Sean and Lee got hip to my plans of 'building alesser Luna'. My plan to deconstruct and reinvent Luna as something faruglier has been stopped dead in it's tracks.</p>
-<p>Dean just gave me the call. "It's not working out" was said. As it willbe, when things aren't working out. You've heard it here first... I wasfired.</p>
-<p>I got the gig simply because we were friends. Truthfully, I'm far fromthe most sympathetic player when it comes to the Justin/ Luna style.</p>
-<p>But this is all more than you need to know.</p>
-<p>No need to seek out my past or future musical endeavors. I guarantee youthey would be of no interest to you, the loyal Luna fans. Unless you digbig, bloated, excessive, prog/ glam/ pop stuff. My suspicion is, most ofyou don't.</p>
-<p>Farewell kids. You can now have your band back.</p>
+
+Dean just gave me the call. "It's not working out" was said. As it willbe, when things aren't working out. You've heard it here first... I wasfired.
+
+I got the gig simply because we were friends. Truthfully, I'm far fromthe most sympathetic player when it comes to the Justin/ Luna style.
+
+But this is all more than you need to know.
+
+No need to seek out my past or future musical endeavors. I guarantee youthey would be of no interest to you, the loyal Luna fans. Unless you digbig, bloated, excessive, prog/ glam/ pop stuff. My suspicion is, most ofyou don't.
+
+Farewell kids. You can now have your band back.
+
+
 </blockquote>
-<p>You can download for free the Vaganza album and a bunch of demos from <a href="http://www.missinglabel.com/vaganza/">Missing Label</a> and you can go and <a href="http://mquigley.livejournal.com/4741.html">"Indulge Quigley's desire to have his past acknowledged"</a></p>
-<p>And here's a clip of Luna performing Tiger Lily with Matt Quigley on bass at the Gypsy Tea Room in Dallas on the 25 February 2000.</p>
+
+You can download for free the Vaganza album and a bunch of demos from [Missing Label](http://www.missinglabel.com/vaganza/) and you can go and ["Indulge Quigley's desire to have his past acknowledged"](http://mquigley.livejournal.com/4741.html)
+
+And here's a clip of Luna performing Tiger Lily with Matt Quigley on bass at the Gypsy Tea Room in Dallas on the 25 February 2000.
+
+
 <p><figure class="caption "><figcaption class="caption-text"></figcaption></figure>
-<p>Thanks Matt for being a very small but hugely enjoyable part of Luna's history</p>
+
+Thanks Matt for being a very small but hugely enjoyable part of Luna's history
+
+

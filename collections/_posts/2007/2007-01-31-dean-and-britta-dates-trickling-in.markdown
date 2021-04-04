@@ -17,5 +17,9 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>The first dates of Dean & Britta's March tour of North America are trickling in - you can see <a href="http://www.grange85.co.uk/galaxie/index.php?showall=true">a list of all the dates so far</a> and I'll keep this updated as soon as I hear of more.</p>
-<p>Feel free to get in touch if you've heard of any shows not included.</a></p>
+
+The first dates of Dean & Britta's March tour of North America are trickling in - you can see [a list of all the dates so far](http://www.grange85.co.uk/galaxie/index.php?showall=true) and I'll keep this updated as soon as I hear of more.
+
+Feel free to get in touch if you've heard of any shows not included.</a>
+
+

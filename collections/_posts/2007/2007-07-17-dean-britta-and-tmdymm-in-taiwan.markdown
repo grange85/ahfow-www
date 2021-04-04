@@ -16,5 +16,9 @@ categories:
 - news
 tags: []
 ---
-<p>Dean & Britta will be playing the Formoz Festival in Taipei on the 27 July and the following day they will be attending a screening of Tell Me Do You Miss Me along with filmmaker Matthew Buzzell.</p>
-<p>According to the TMDYMM MySpace page Matthew will also be filling on on keyboards for the live show.</p>
+
+Dean & Britta will be playing the Formoz Festival in Taipei on the 27 July and the following day they will be attending a screening of Tell Me Do You Miss Me along with filmmaker Matthew Buzzell.
+
+According to the TMDYMM MySpace page Matthew will also be filling on on keyboards for the live show.
+
+

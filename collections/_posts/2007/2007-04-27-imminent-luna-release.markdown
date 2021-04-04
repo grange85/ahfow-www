@@ -17,4 +17,7 @@ categories:
 - news
 tags: []
 ---
-<p>A previously unreleased LUNA track is to be released on a compilation album called Guilt By Association on <a href="http://www.engineroomrecordings.com/gba/">Engine Room Records</a>. Thetrack is a cover of the Paula Abdul song <a href="http://en.wikipedia.org/wiki/Straight_Up_%28song%29">Straight Up</a>. Due forrelease on August 7th.</p>
+
+A previously unreleased LUNA track is to be released on a compilation album called Guilt By Association on [Engine Room Records](http://www.engineroomrecordings.com/gba/). Thetrack is a cover of the Paula Abdul song [Straight Up](http://en.wikipedia.org/wiki/Straight_Up_%28song%29). Due forrelease on August 7th.
+
+

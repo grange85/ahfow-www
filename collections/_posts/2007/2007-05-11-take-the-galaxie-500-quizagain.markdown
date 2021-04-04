@@ -17,4 +17,7 @@ categories:
 - galaxie 500
 tags: []
 ---
-<p>It's been over a year since I last pointed everyone to Mike's Galaxie 500 quiz (est. 1997) - anyone feeling like showing off can head on over and give it a shot. I managed 79/100.</p>
+
+It's been over a year since I last pointed everyone to [Mike's Galaxie 500 quiz](https://static.fullofwishes.co.uk/michaelsquiz/) (est. 1997) - anyone feeling like showing off can head on over and give it a shot. I managed 79/100.
+
+

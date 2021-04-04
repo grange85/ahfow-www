@@ -21,4 +21,6 @@ tags: []
 
 {% ahfowvideo "f6uLIAWNc2Q" "" %}
 
-<p>Also check out the videos of <a href="http://youtube.com/watch?v=XQm8Nj8jzOM">Ginger Snaps</a>, <a href="http://youtube.com/watch?v=YF9ogloMwJs">Night Nurse</a> and <a href="http://youtube.com/watch?v=xz5MBWdx5XM">Strange</a>.</p>
+Also check out the videos of [Ginger Snaps](http://youtube.com/watch?v=XQm8Nj8jzOM), [Night Nurse](http://youtube.com/watch?v=YF9ogloMwJs) and [Strange](http://youtube.com/watch?v=xz5MBWdx5XM).
+
+

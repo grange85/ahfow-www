@@ -17,4 +17,7 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>Dean & Britta's second album Back Numbers will be released by Zoe Records on the 27 February and can now be pre-ordered from A Shop Full of Wishes US (Amazon.com) and A Shop Full of Wishes UK (Amazon.co.uk).</p>
+
+Dean & Britta's second album Back Numbers will be released by Zoe Records on the 27 February and can now be pre-ordered from A Shop Full of Wishes US (Amazon.com) and A Shop Full of Wishes UK (Amazon.co.uk).
+
+

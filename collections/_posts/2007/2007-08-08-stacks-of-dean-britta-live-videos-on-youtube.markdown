@@ -17,6 +17,11 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>Britta has collected a playlist of Dean & Britta videos including stacks from their recent show in Taipei</p>
-<p><a href="http://www.youtube.com/view_play_list?p=6727E4D4B88CA532">Dean & Britta 2007 - YouTube videos</a></p>
-<p><figure class="caption "><figcaption class="caption-text"></figcaption></figure></p>
+
+Britta has collected a playlist of Dean & Britta videos including stacks from their recent show in Taipei
+
+[Dean & Britta 2007 - YouTube videos](http://www.youtube.com/view_play_list?p=6727E4D4B88CA532)
+
+<figure class="caption "><figcaption class="caption-text"></figcaption></figure>
+
+

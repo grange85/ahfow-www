@@ -17,4 +17,7 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>The <a href="http://www.deanandbritta.com">official Dean & Britta website</a> has just been relaunched as a new Flash driven website promoting their new album Back Numbers which was released yesterday.</p>
+
+The [official Dean & Britta website](http://www.deanandbritta.com) has just been relaunched as a new Flash driven website promoting their new album Back Numbers which was released yesterday.
+
+

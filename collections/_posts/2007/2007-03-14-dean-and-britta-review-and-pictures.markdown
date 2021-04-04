@@ -17,4 +17,7 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>There's a <a href="http://www.chromewaves.net/index.php?itemid=2564">fantastic review</a> and a <a href="http://www.chromewaves.net/concertPhotos.php?concertID=441&y=2007">stack of great pictures</a> from Dean & Britta's recent show in Toronto on the always fantastic blog <a href="http://www.chromewaves.net">Chromewaves</a>.</p>
+
+There's a [fantastic review](http://www.chromewaves.net/index.php?itemid=2564) and a [stack of great pictures](http://www.chromewaves.net/concertPhotos.php?concertID=441&y=2007) from Dean & Britta's recent show in Toronto on the always fantastic blog [Chromewaves](http://www.chromewaves.net).
+
+

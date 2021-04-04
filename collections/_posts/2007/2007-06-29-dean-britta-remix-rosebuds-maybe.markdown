@@ -17,6 +17,12 @@ categories:
 - dean & britta
 tags: []
 ---
-<p>A live review of The Rosebuds on <a href="http://www.sonicitchmusic.com/?p=670">Sonic Itch</a> throws this little snippet onto the end of the post...</p>
+
+A live review of The Rosebuds on [Sonic Itch](http://www.sonicitchmusic.com/?p=670) throws this little snippet onto the end of the post...
+
+
 <blockquote><p>Keep your eyes and ears open for a remix recording of Night of The Furies being done by Portastatic, former Cure keyboardist Roger O’Donnel, former Luna members Dean Wareham and Britta Phillips, as well as other notables.</p></blockquote>
-<p>More details when I have any</p>
+
+More details when I have any
+
+
