@@ -21,7 +21,6 @@ tags:
 Back in March 2009 Dean & Britta played a low-key (and sparesely attended) show for Worcester College Consortium students at The Grind at Clark University, shortly after Matt sent me a recording of the show (and a pictures of the setlist) - he said...
 
 > The sound is not perfect, as I was front and center and just had the recorder sitting in a bag, but it is certainly listenable.
-{: .blockquote .text-secondary .px-4}
 
 I'd have to say that actually the sound is much better than "listenable" (especially considering it was "sitting in a bag"); the setlist was a lovely mix of Dean & Britta (and 13 Most Beautiful), Luna and Galaxie 500; and the atmosphere seemed beautifully relaxed. 
 

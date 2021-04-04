@@ -55,7 +55,6 @@ h1 {
   opacity:1!important;
 }
 
-/* Maybe even support hover opacity shifts */
 .opacity-3h4 {
   background: rgba(0, 0, 0, .5)!important;
   transition: opacity .25s ease-in-out!important;
@@ -68,8 +67,7 @@ h1 {
 
 
 blockquote{
-  width:80%;
-  margin:50px auto;
+  margin:1.2rem 1.2rem 1.2rem 1.5rem;
   padding:1.2rem;
   border-left:8px solid $primary;
   position: relative;

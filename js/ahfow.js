@@ -23,7 +23,11 @@ $(document).ready(function() {
 	});
 
 	$('article a[href^="http://"],article a[href^="https://"]')
-    	.not('a:has(img)').not('article a[href*="fullofwishes\.co\.uk"]').not('article a[href*="web\.archive\.org"]').not('.resp-sharing-button__link')
+    	.not('a:has(img)')
+    	.not('article a[href*="fullofwishes\.co\.uk"]')
+    	.not('article a[href*="web\.archive\.org"]')
+    	.not('article a[data-linktype="background-image-link"]')
+    	.not('.resp-sharing-button__link')
         .attr({'target': '_blank', 'title': 'external link - opens in a new tab or window'})
         .append(' <sup><i class="bi bi-arrow-up-right-circle-fill"></i></sup>');
 

@@ -30,7 +30,7 @@ Here's the description as lifted from YouTube...
 
 > What a day this was. I got to the venue SUPER early and peeked through the front window and was surprised to see Dean setting up merch. I squeeze through the locked gate and get into the venue lobby- Dean was super nice. I was thrilled when they gave permission to shoot this video.  
 > [...] Anyway, the video turned out great. Filmed with a Canon HFG30 with Rode video pro stereo mic, a Canon HFG10 at the back of the venue, and a gopro hero4 on the side of the stage. Thanks to Sam Habash for the edit(his first edit ever!) and to Alex Kim for watching the back angle.
-{: .blockquote .text-secondary .px-4}
+
 
 {% ahfowvideo "Cl0khiQQpZc" "Dean Wareham plays Galaxie 500 Today - The Chapel, SF (July 2017)" %}
 

@@ -25,6 +25,5 @@ Sonic Boom recorded on a number of songs and can be seen squatting on the floor 
 
 
 > ... On that note - I'm in town to record some stuff on the new Dean Wareham & Britta Phillips l.p. that they are making with Tony Visconti in New York. The initial recordings promise another stunningly beautiful record and the vibe is very blissfully mellow in a kinda valium sorta way. The sessions include a song co-written by me with D & B over the last two years. We'll also no doubt be working on the lp we've been collaborating on as a joint project since '05.  
-[Sonic Boom](http://www.sonic-boom.info/news.php)
-{: .blockquote .text-secondary .px-4}
+_[Sonic Boom](http://www.sonic-boom.info/news.php)_
 

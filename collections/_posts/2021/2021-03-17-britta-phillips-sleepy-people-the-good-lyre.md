@@ -26,7 +26,6 @@ During the shitshow of last year Wesley Stace (the artist formerly known as John
 Now those and other recordings, including Britta's recording of Sleepy People are being released as The Good Lyre and will be available to buy on Bandcamp (in time for next Bandcamp Friday - 2nd April).
 
 > The project started purely as a way to lift spirits at the beginning of the lockdown; a way for musicians to cheer people up. Now we’re bringing it full circle: all the proceeds from this album will benefit Sweet Relief, and specifically musicians affected by the Covid pandemic. It’s a beautiful way to mark the end of the project’s journey. I immediately think of John Prine, Adam Schlesinger, Dave Greenfield, Matthew Seligman, Hal Willner and other friends and/or musical influences lost to complications from the virus.
-{: .blockquote .text-secondary .px-4}
 
 [Details here](https://www.wesleystace.com/news/the-good-lyre-songs-of-john-wesley-harding) - there doesn't seem to be a bandcamp link yet but I'll post one as soon as I find one.
 
