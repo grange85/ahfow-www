@@ -66,3 +66,24 @@ h1 {
   background: rgba(255, 255, 255, .8)!important;
 }
 
+
+blockquote{
+  width:80%;
+  margin:50px auto;
+  padding:1.2rem;
+  border-left:8px solid $primary;
+  position: relative;
+  background:$light;
+}
+
+
+blockquote::after{
+  content: '';
+}
+
+blockquote em{
+  display:block;
+  color:#333333;
+  font-style:italic;
+  margin-top:1em;
+}
