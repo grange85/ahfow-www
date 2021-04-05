@@ -35,6 +35,8 @@ Wednesday, flew back to Vigo where we were met by the lovely Sophia and Augusto 
 
 Today we resume Luna rehearsals to prepare for the next record...
 
-That's all for now,<br/>Britta
+That's all for now
+
+Britta
 
 
