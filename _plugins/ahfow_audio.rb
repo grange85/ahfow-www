@@ -48,7 +48,7 @@ module Jekyll
         rescue
       end
 
-      output = "<div class=\"card\"><div class=\"card-body\">"
+      output = "<div class=\"card mb-2\"><div class=\"card-body\">"
       output += "<p class=\"audio\"><i class=\"bi bi-file-music\"> </i><a href=\"#{ahfowaudio_url}\" download=\"download-from-ahfow\">#{ahfowaudio_caption}</a></p>"
       output += "<audio class=\"w-100\" controls=\"controls\" preload=\"none\" src=\"#{ahfowaudio_url}\"></audio></div>"
       if( !ahfowaudio_sourceurl.nil? && !ahfowaudio_sourceurl.empty? )
