@@ -24,7 +24,7 @@ Back in 1996, while still a member of Luna, Justin Harwood teamed up with Pete B
 
 They've been an off/on thing ever since, releasing a number of albums of cinematic instrumental music. 
 
-Their fourth album East of The Sun however was a bit of a departure in that it included contributions from guest vocalists such as Mark Eitzel, Victoria Williams and John Wesley Harding. It was also a departure in that it didn't include Justin since he'd moved back to New Zealand by the time it was recorded - he is however still involved with the project, having played (from NZ) on their 2016 album Shamanic Nights.
+Their fourth album East of The Sun (from 2007) however was a bit of a departure in that it included contributions from guest vocalists such as Mark Eitzel, Victoria Williams and John Wesley Harding. It was also a departure in that it didn't include Justin since he'd moved back to New Zealand by the time it was recorded - he is however still involved with the project, having played (from NZ) on their 2016 album Shamanic Nights.
  
 Dean Wareham lent his voice to two tracks on the album.
 
