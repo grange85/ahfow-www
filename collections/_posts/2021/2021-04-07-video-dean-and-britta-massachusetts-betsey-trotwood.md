@@ -25,4 +25,7 @@ Another lovely Dean & Britta sofa perfromance - this, their cover of The Bee Gee
 
 <!--more-->
 
-A different performance of this turned up on the Quarantine Tapes release last year which, if you didn't manage to get one of the the lovely lathe-cut box sets you can [buy digitally from Bandcamp for $7](https://deanandbritta.bandcamp.com/album/quarantine-tapes) (or more)!.
+The whole evening was packed with good stuff (including contributions from Robyn Hitchcock, Darren Hayman and The Clientele) and you can [view the whole thing over here](https://youtu.be/4sHxUi7Day0).
+
+
+A different performance of Massachusetts turned up on the Quarantine Tapes release last year which, if you didn't manage to get one of the the lovely lathe-cut box sets, you can [buy digitally from Bandcamp for $7](https://deanandbritta.bandcamp.com/album/quarantine-tapes) (or more)!.
