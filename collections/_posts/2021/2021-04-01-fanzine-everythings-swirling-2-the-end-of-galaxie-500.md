@@ -27,7 +27,7 @@ I opened the Melody Maker in the first week of May 1991 to the news that Galaxie
 
 I think I was just sad that a band that I loved could do this to me. My past had seen me drifting away from my music loves - this was the first time one had been torn away from me. This was them breaking up with me, not me breaking up with them. Perhaps selfishly all I felt was my hurt. How could they do this to ME!
 
-This is the second edition of Everything’s Swirling - [the first](http://localhost:4040/2017/08/17/everythings-swirling-a-galaxie-500-fanzine/) celebrated the 30th anniversary of the band’s birth - it seemed only right to commemorate the 30th anniversary of its demise. To bookend the fans-eye view of Galaxie 500.
+This is the second edition of Everything’s Swirling - [the first](/2017/08/17/everythings-swirling-a-galaxie-500-fanzine/) celebrated the 30th anniversary of the band’s birth - it seemed only right to commemorate the 30th anniversary of its demise. To bookend the fans-eye view of Galaxie 500.
 
 <!--more-->
 
