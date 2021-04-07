@@ -19,7 +19,7 @@ tags: []
 
 Over the last couple of years A Head Full of Wishes has become messy and cluttered and difficult to navigate so the time has come for a streamlining and I'd appreciate any comments or opinions about what should be there and what shouldn't. If anyone finds anything on the site particularly useful or pointless please let me know by either leaving a comment on this post or by [email](mailto:andy@grange85.co.uk).
 
-<strong>PHASE ONE</strong><br/><em>The first phase will be to get a lot of the content into a content management system (I'm considering [WordPress](http://www.wordpress.org) or [Joomla](http://www.joomla.org) at the moment - most likely WordPress because I know my way around it a lot better).</em>
+**PHASE ONE**<br/>_The first phase will be to get a lot of the content into a content management system (I'm considering [WordPress](http://www.wordpress.org) or [Joomla](http://www.joomla.org) at the moment - most likely WordPress because I know my way around it a lot better)._
 
 The following content WILL be moved into the CMS/blog
 
@@ -36,7 +36,7 @@ The following content MIGHT be moved into the CMS/blog
 <li>Comments (129 items)</li>
 </ul>
 
-<strong>PHASE TWO</strong><br/><em>The second phase will involve the database content - this will probably be streamlined and massaged into something a bit more useful/usable and easier to update and maintain.</em>
+**PHASE TWO**<br/>_The second phase will involve the database content - this will probably be streamlined and massaged into something a bit more useful/usable and easier to update and maintain._
 
 
 <ul>
@@ -46,7 +46,7 @@ The following content MIGHT be moved into the CMS/blog
 <li>Shows/setlists (887 shows)</li>
 </ul>
 
-<strong>PHASE THREE</strong><br/><em>Media</em>
+**PHASE THREE**<br/>_Media_
 
 
 <ul>
@@ -55,7 +55,7 @@ The following content MIGHT be moved into the CMS/blog
 <li>Pictures - For future picture contributions I'll try and encourage the use of third party sites (e.g. [Flickr](http://www.flickr.com/search/?w=all&q=ahfow&m=tags)) and then use API to pull them into the site (I already do this in a rather ropey fashion). For all the existing pictures I'll possibly keep the existing home-made system or look at third party tools like [Gallery](http://gallery.menalto.com/) or [PHPgraphy](http://phpgraphy.sourceforge.net/).</li>
 </ul>
 
-<strong>AND THEN</strong><br/><em>Community</em>
+**AND THEN**<br/>_Community_
 
 
 <ul>

@@ -17,8 +17,6 @@ categories:
 - damon & naomi
 tags: []
 ---
-<div class="imagebox-right"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_withinthesewalls.jpg" width="150" height="150" alt="sleeve scan"/></div>
-
 Damon & Naomi have announced details of their new album on their website.
 
 The album called Within These Walls will be released on 20|20|20 records on 25 September. It will feature contributions from Kurihara, the Espers strings and Greg Kelley and Bhob Rainey.

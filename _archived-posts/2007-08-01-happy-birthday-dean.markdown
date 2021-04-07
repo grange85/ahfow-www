@@ -19,7 +19,7 @@ tags: []
 ---
 <div class="imagebox-right">[<img src="https://farm1.static.flickr.com/187/430517196_771367c484_m.jpg" alt="" style="border: solid 2px #000000;" />](http://www.flickr.com/photos/birzer/430517196/)<br/><span style="font-size: 0.9em; margin-top: 0px;">[Luna NYC 050228](http://www.flickr.com/photos/birzer/430517196/)<br/>(originally uploaded by [beeez](http://www.flickr.com/people/birzer/))</span></div>
 
-Dean Wareham reaches the grand old age of <em>one year older than me</em> today.
+Dean Wareham reaches the grand old age of _one year older than me_ today.
 
 Happy Birthday
 

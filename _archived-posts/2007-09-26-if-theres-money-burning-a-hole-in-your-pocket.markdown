@@ -27,7 +27,7 @@ The new [Damon & Naomi](http://www.damonandnaomi.com) album is out now - [Within
 <li>[Buy Within These Walls from Amazon UK](http://www.amazon.co.uk/gp/product/B000UNYPJY?ie=UTF8&tag=aheadfullofwi-21&linkCode=as2&camp=1634&creative=6738&creativeASIN=B000UNYPJY)</li>
 <li>MP3: Cruel Queen</ul>
 
-[Net, Blogs and Rock 'n' Roll](http://www.netblogsrocknroll.com) is available now - David Jennings' excellent book explores how people find and share music <em>([what has this got to do with Galaxie 500?](http://www.grange85.co.uk/galaxie/index.php?news=yes&id=377)</em>)...
+[Net, Blogs and Rock 'n' Roll](http://www.netblogsrocknroll.com) is available now - David Jennings' excellent book explores how people find and share music _([what has this got to do with Galaxie 500?](http://www.grange85.co.uk/galaxie/index.php?news=yes&id=377)_)...
 
 
 <ul>

@@ -19,7 +19,7 @@ tags: []
 
 A few years ago the [Galaxie 500 Mailing List](http://www.grange85.co.uk/galaxie/index.php?article_id=125) started a project to record a tribute album. I very poorly co-ordinated the whole effort which slipped and slipped, partly because I wanted to be a part of it and was hoping that some talent would be bestowed upon be by some higher being - sadly it never happened but luckily there were a lot of other talented folk who contributed to the album.
 
- It finally got a limited CDR release a year or so back. Now, however <strong>Decomposing - a tribute to Galaxie 500 and Luna</strong> is available for download...for nothing
+ It finally got a limited CDR release a year or so back. Now, however **Decomposing - a tribute to Galaxie 500 and Luna** is available for download...for nothing
 
 I want to thank all those talented people who contributed and apologise for the time the whole project took.
 

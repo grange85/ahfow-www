@@ -26,7 +26,7 @@ The CD is launched on 20 November in various retailers around Augusta and will h
 Night People are hoping to have an EP together for release in the spring. Here's what Matthew had to say about the project...
 
 
-<blockquote><p>The project is called Night People.  I am handling the bulk of the song writing and vocal duties as well as grounding the tunes on electric tenor guitar and baritone ukulele.  Sean is, of course, contributing atmospheric leads and Lee the percussive elements.  Lee's ultimate contribution to this project is his skilled and detailed production of the tunes.  We are hoping to have an EP ready by springtime.</p></blockquote>
+> The project is called Night People.  I am handling the bulk of the song writing and vocal duties as well as grounding the tunes on electric tenor guitar and baritone ukulele.  Sean is, of course, contributing atmospheric leads and Lee the percussive elements.  Lee's ultimate contribution to this project is his skilled and detailed production of the tunes.  We are hoping to have an EP ready by springtime.
 <ul>
 <li>[www: 12 Bands of Christmas](http://www.12bandsofchristmas.com)</li>
 <li>[myspace: 12 Bands of Christmas](http://www.myspace.com/12bands)</li>

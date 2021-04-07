@@ -18,7 +18,7 @@ categories:
 tags: []
 ---
 
-<ins datetime="2008-01-05T20:16:27+00:00"><strong>Update: </strong>A new keyboard player had been found so if you were umming and ahhing you've missed your chance...</ins>
+<ins datetime="2008-01-05T20:16:27+00:00">**Update:** A new keyboard player had been found so if you were umming and ahhing you've missed your chance...</ins>
 
 Britta has posted an ad on their [MySpace blog](http://blog.myspace.com/index.cfm?fuseaction=blog.view&friendID=23842982&blogID=339189239) for a new keyboard player...as follows	
 

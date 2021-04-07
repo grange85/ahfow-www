@@ -21,8 +21,7 @@ tags: []
 The great Lee Hazlewood passed away last week after a long battle with cancer. Dean Wareham has just posted a tribute to him on the Dean & Britta MySpace blog along with excerpts from an interview he did with Lee in 1999.
 
 
-<blockquote><p>It has been a week of big losses - Bergman, Antonioni, and now Hazlewood. Inspirations all, but it is Hazlewood whose death hits me the hardest. We put "Soul's Island" by Lee on the stereo last night and drank a glass of wine in his honor.</p></blockquote>
+> It has been a week of big losses - Bergman, Antonioni, and now Hazlewood. Inspirations all, but it is Hazlewood whose death hits me the hardest. We put "Soul's Island" by Lee on the stereo last night and drank a glass of wine in his honor.
 
-[Dean Wareham on Lee Hazlewood](http://blog.myspace.com/index.cfm?fuseaction=blog.view&friendID=23842982&blogID=296906001)
 
 

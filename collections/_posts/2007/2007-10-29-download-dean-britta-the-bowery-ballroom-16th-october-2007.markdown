@@ -21,4 +21,4 @@ tags: []
 [The Sound Of Indie](http://www.thesoundofindie.com/?p=465) has Dean & Britta's recent CMJ performance at The Bowery Ballroom for download.
 
 
-<blockquote><p>One of the highlights of this particular show was the ending Joy Division cover, Ceremony. What is even more impressive is that Ceremony was initially covered some 20 years ago by Dean’s first seminal band, Galaxie 500.</p></blockquote>
+> One of the highlights of this particular show was the ending Joy Division cover, Ceremony. What is even more impressive is that Ceremony was initially covered some 20 years ago by Dean’s first seminal band, Galaxie 500.

@@ -18,12 +18,10 @@ categories:
 tags: []
 ---
 
-[Moon in the Gutter](http://mooninthegutter.blogspot.com) has an excellent in-depth review of <strong>Tell Me Do You Miss Me</strong> Matthew Buzzell's film documenting Luna's last tour.
+[Moon in the Gutter](http://mooninthegutter.blogspot.com) has an excellent in-depth review of **Tell Me Do You Miss Me** Matthew Buzzell's film documenting Luna's last tour.
 
 
-<blockquote><p>The film is also very funny and heartfelt. The four of them aren’t afraid to show emotion, and Buzzell isn’t afraid to show the humorous monotony of a rock band on the road. The film at times plays like a group of friends remembering and telling stories to each other. I really get the feeling from watching this film, that regardless of certain personality clashes, these four people really care about each other. There is a moment towards the end when we see Wareham embrace Eden, and it is incredibly moving and it resonates long after the closing credits.<br />
-<em>[Moon In The Gutter: Overlooked Classic Of The Week: Tell Me Do You Miss Me 2006](http://mooninthegutter.blogspot.com/2007/11/overlooked-classic-of-week-tell-me-do.html)</em></p></blockquote>
-<ul>
-<li>Buy Tell Me Do You Miss Me from A Shop Full of Wishes (US)</li>
-<li>Buy Tell Me Do You Miss Me from A Shop Full of Wishes (UK)</li>
-</ul>
+> The film is also very funny and heartfelt. The four of them aren’t afraid to show emotion, and Buzzell isn’t afraid to show the humorous monotony of a rock band on the road. The film at times plays like a group of friends remembering and telling stories to each other. I really get the feeling from watching this film, that regardless of certain personality clashes, these four people really care about each other. There is a moment towards the end when we see Wareham embrace Eden, and it is incredibly moving and it resonates long after the closing credits.
+_[Moon In The Gutter: Overlooked Classic Of The Week: Tell Me Do You Miss Me 2006](http://mooninthegutter.blogspot.com/2007/11/overlooked-classic-of-week-tell-me-do.html)_
+
+

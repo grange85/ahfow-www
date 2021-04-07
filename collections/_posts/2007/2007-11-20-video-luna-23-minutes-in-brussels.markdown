@@ -25,8 +25,3 @@ This is actually a vanity post pretending to be real! This is the credits from t
 
 Obviously this is from the excellent Tell Me Do You Miss Me which would make a nice xmas gift if you're stuck for pressies for loved ones...
 
-
-<ul>
-<li>Buy Tell Me Do You Miss Me from A Shop Full of Wishes (US)</li>
-<li>Buy Tell Me Do You Miss Me from A Shop Full of Wishes (UK)</li>
-</ul>
