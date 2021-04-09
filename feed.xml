@@ -29,10 +29,12 @@ layout: null
 
         {% unless post.content contains "<img" %}
         {% if post.imageurl contains ".jpg"  %}
-            <img src="{{post.imageurl}}" />
+            {% capture imagetag %}
+            <img src="{{ post.imageurl }}">
+            {% endcapture %}
+            {{ imagetag | xml_escape }}
         {% endif %}
         {% endunless %}
-        Originally posted: <a href="{{ site.domain }}{{ post.url | prepend: site.baseurl }}">{{ post.title | xml_escape }}</a> on A Head Full of Wishes
         </description>
         <author>{{post.author.display_name}}</author>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
