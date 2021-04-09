@@ -22,8 +22,6 @@ tags:
 {% ahfowvideo "v8w6VUicZ7w" "Dean & Britta - Massachusetts (We Love The Betsey, June 2020)" %}
 Another lovely Dean & Britta sofa perfromance - this, their cover of The Bee Gees Massachusetts was recorded for the (first) We Love The Betsey stream in support of London's fabulous Betsey Trotwood pub/venue.
 
-<!--more-->
-
 The whole evening was packed with good stuff (including contributions from Robyn Hitchcock, Darren Hayman and The Clientele) and you can [view the whole thing over here](https://youtu.be/4sHxUi7Day0).
 
 
