@@ -22,11 +22,20 @@ layout: null
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     {% assign revisits = site.posts | where: "revisit", "true" | sort: "revisit_date" %}
     <generator>Jekyll v{{ jekyll.version }}</generator>
+    {% assign today_timestamp = 'now' | date: '%s' %}
     {% for post in revisits %}
-     {% unless post.draft %}
+      {% assign post_timestamp = post.revisit_date | date: "%s" %}
+      {% unless today_timestamp < post_timestamp or post.draft %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | replace : 'href="/', 'href="https://www.fullofwishes.co.uk/' | xml_escape }}
+        <description>
+
+            {% capture original %}
+            <p><em>This was originally posted on A Head Full of Wishes on {{post.date | date: "%e %B %Y"}}</em></p>
+            {% endcapture %}
+            {{ original | xml_escape }}
+
+            {{ post.content | replace : 'href="/', 'href="https://www.fullofwishes.co.uk/' | xml_escape }}
 
         {% unless post.content contains "<img" %}
         {% if post.imageurl contains ".jpg"  %}

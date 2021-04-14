@@ -47,15 +47,13 @@ eos
 
     def ahfowvideo_tag(ahfowvideo_url, ahfowvideo_caption = nil)
       <<~HEREDOC
-        <figure class="figure embed-responsive">
-          <a href="https://www.youtube.com/watch?v=#{ahfowvideo_url}" data-linktype="background-image-link">
-            <div class="ytimg mx-auto sddefault" style="background-image: url('https://img.youtube.com/vi/#{ahfowvideo_url}/sddefault.jpg')">
-              <i class=" h2 opacity-3h4 d-block p-3 bi bi-play-btn-fill text-danger text-center">&nbsp;<span class="h6">Play on YouTube</span></i>
-            </div>
-          </a>
-          <figcaption class="figure-caption text-right">
-            #{ahfowvideo_caption} (link to youtube)
+        <figure class="figure embed-responsive mx-auto text-center">
+          <a href="https://www.youtube.com/watch?v=#{ahfowvideo_url}" >
+              <img src="https://img.youtube.com/vi/#{ahfowvideo_url}/sddefault.jpg" class="img-fluid sddefault opacity-3h4" />
+          <figcaption class="figure-caption">
+            #{ahfowvideo_caption}<br>YouTube <i class="bi bi-arrow-up-right-circle-fill"></i>
           </figcaption>
+          </a>
         </figure>
       HEREDOC
 #      "<figure class=\"figure embed-responsive\">\<a href=\"https://www.youtube.com/watch?v=#{ahfowvideo_url}\">    <div class=\"ytimg\">     <i class=\"bi bi-play-btn-fill display-3 text-danger text-center\"></i><img src=\"https://img.youtube.com/vi/#{ahfowvideo_url}/sddefault.jpg\" width=\"640\" height=\"480\" class=\"img-fluid rounded mx-auto d-block\" alt=\"#{ahfowvideo_caption} (link to youtube)\">   </div>  </a>  <figcaption class=\"figure-caption text-right\">#{ahfowvideo_caption} (link to youtube)</figcaption></figure>"
