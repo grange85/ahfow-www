@@ -24,8 +24,8 @@ module Jekyll
 
     def render(context)
       if tag_contents = determine_arguments(@markup.strip)
-        ahfowvideo_url, ahfowvideo_caption = tag_contents[0], tag_contents[1]
-        ahfowvideo_tag(ahfowvideo_url, ahfowvideo_caption)
+        ahfowvideo_url, ahfowvideo_caption, ahfowvideo_thumbnail = tag_contents[0], tag_contents[1], tag_contents[2]
+        ahfowvideo_tag(ahfowvideo_url, ahfowvideo_caption, ahfowvideo_thumbnail)
       else
         raise ArgumentError.new <<-eos
 Syntax error in tag 'ahfowvideo' while parsing the following markup:
@@ -41,17 +41,20 @@ eos
     private
 
     def determine_arguments(input)
-      matched = input.match(/["](.*?)["] ?["](.*?)["]/)
-      [matched[1].to_s.strip, matched[2].to_s.strip] if matched && matched.length >= 3
+      matched = input.match(/"(.*?)" ?"(.*?)"( ?"(.*?)")?/)
+      [matched[1].to_s.strip, matched[2].to_s.strip, matched[4].to_s.strip] if matched && matched.length >= 3
     end
 
-    def ahfowvideo_tag(ahfowvideo_url, ahfowvideo_caption = nil)
+    def ahfowvideo_tag(ahfowvideo_url, ahfowvideo_caption = nil, ahfowvideo_thumbnail = nil)
+      if ahfowvideo_thumbnail.empty?
+        ahfowvideo_thumbnail = "https://img.youtube.com/vi/#{ahfowvideo_url}/sddefault.jpg"
+      end
       <<~HEREDOC
         <figure class="figure embed-responsive mx-auto text-center">
           <a href="https://www.youtube.com/watch?v=#{ahfowvideo_url}" >
-              <img src="https://img.youtube.com/vi/#{ahfowvideo_url}/sddefault.jpg" class="img-fluid sddefault opacity-3h4" />
+              <img src="#{ahfowvideo_thumbnail}" class="img-fluid sddefault opacity-3h4" />
           <figcaption class="figure-caption">
-            #{ahfowvideo_caption}<br>YouTube <i class="bi bi-arrow-up-right-circle-fill"></i>
+            #{ahfowvideo_caption} <i class="fab fa-youtube"></i>
           </figcaption>
           </a>
         </figure>

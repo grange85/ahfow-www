@@ -29,12 +29,12 @@ $(document).ready(function() {
     	.not('article a[data-linktype="background-image-link"]')
     	.not('.resp-sharing-button__link')
         .attr({'target': '_blank', 'title': 'external link - opens in a new tab or window'})
-        .append(' <sup><i class="bi bi-arrow-up-right-circle-fill"></i></sup>');
+        .append(' <i class="fas fa-external-link-alt"></i>');
 
 
 
 	$('article a[href^="http://web\.archive\.org"],article a[href^="https://web\.archive\.org"]')
     	.not('a:has(img)')
         .attr({'target': '_blank', 'title': 'internet archive wayback machine link - opens in a new tab or window'})
-        .append(' <sup><i class="bi bi-arrow-left-circle-fill"></i></sup>');
+        .append(' <i class="fas fa-arrow-alt-circle-left"></i>');
 });

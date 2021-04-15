@@ -12,13 +12,19 @@ author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 date: '2013-02-08'
+imageurl: https://farm7.staticflickr.com/6238/6314288860_9e250a34d0_z.jpg
 categories:
 - luna
 - audio
-tags: []
+tags: 
+- speedbumps
+recycled: true
+recycled_date: 2021-04-22 10:30
 ---
-<p>For no reason other than it just popped into my head...</p>
-<p><a href="http://www.flickr.com/photos/rstanek/6314288860/" title="Speed bumps ahead! by R Stanek, on Flickr"><img class="aligncenter" src="https://farm7.staticflickr.com/6238/6314288860_9e250a34d0_z.jpg" width="640" height="427" alt="Speed bumps ahead!"></a></p>
+For no reason other than it just popped into my head...
+
+
+{% ahfowimage "https://farm7.staticflickr.com/6238/6314288860_9e250a34d0_z.jpg" "Speed bumps ahead! - (cc) rstanek on Flickr" "http://www.flickr.com/photos/rstanek/6314288860/" %}
 
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/Luna_2004-12-17_WXPN_World_Cafe_Philadelphia_PA_USA_01_Speedbumps.mp3",
@@ -27,7 +33,7 @@ tags: []
   "sourcecap": ""
   } %}
 
-<p>The last time I ever saw it played...</p>
+The last time I ever heard it played...
 
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/Luna_2005-01-17_ULU_London_Speedbumps.mp3",
@@ -36,8 +42,10 @@ tags: []
   "sourcecap": ""
   } %}
 
-<p>Bandcamp: Luna - Sppedbumps (Lee Wall remix)<br />
-</p>
-{% bandcamp {"track": "3217222932"} %}
-<p>"Let's hear if for Luna" performing Speedbumps on the John McEnroe show (with Matt Johnson standing in for Lee who was on another coast) + Luna with McEnroe playing Sweet Jane</p>
-{% ahfowvideo "hwVSlg_4WNI" "Luna - Speedbumps on the McEnroe show" %}
+
+[Bandcamp: Luna - Speedbumps (Lee Wall remix)](https://luna.bandcamp.com/track/speedbumps-lee-wall-re-mix)
+
+
+"Let's hear if for Luna" performing Speedbumps on the John McEnroe show (with Matt Johnson standing in for Lee who was on another coast) + Luna with McEnroe playing Sweet Jane
+
+{% ahfowvideo "hwVSlg_4WNI" "Luna - Speedbumps on the McEnroe show" "https://media.fullofwishes.co.uk/02-luna/pictures/video-thumbs/luna-speedbumps-mcenroe.jpg" %}

@@ -46,7 +46,7 @@ _Dan Pearson (personal letter, 2003)_
 > It was a truly awesome show, the acoustics were awful, but it was the coolest place to have a show.
 _Dan Pearson (The Bowdoin Orient, 2014)_
 
-{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1991-04-05/19910405-galaxie-500-bowdoin-college-04.jpg" "Naomi Yang at Bowdoin College in 1991 (photo: Dan Pearson)" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1991-04-05/19910405-galaxie-500-bowdoin-college-04.jpg" "Naomi Yang at Bowdoin College in 1991 (c) Dan Pearson)" %}
 
 > The Cocteau Twins' tour ended in Boston, with a show at the Boston University hockey arena. We had one additional show booked for the following night, at Bowdoin College in Maine. April 5, 1991. We were scheduled to go on at nine that night, but the opening band played for an hour and a half while we waited in the green room that the students had set up for us. Being a college band, they didn't know that the opener is supposed to play a short set and then get off the stage. We sat in that green room getting more and more irritated. And that was our final show-an annoying evening at Bowdoin College
 _Dean Wareham (Black Postcards, 2008)_

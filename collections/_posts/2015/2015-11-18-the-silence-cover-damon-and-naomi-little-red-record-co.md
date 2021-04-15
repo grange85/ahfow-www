@@ -10,13 +10,16 @@ imageurl: https://media.fullofwishes.co.uk/00-misc/pictures/the-silence-hark-the
 categories:
  - damon & naomi
  - news
+recycled: true
+recycled_date: 2021-04-16 10:30
 ---
-<p class="lead">The Silence, a band that rose from the ashes of legendary Japanese psych band Ghost, have just released a video for their cover of Damon & Naomi's {% ahfowtrack "Little Red Record Co" %}.</p>
+The Silence, a band that rose from the ashes of legendary Japanese psych band Ghost, have just released a video for their cover of Damon & Naomi's {% ahfowtrack "Little Red Record Co" %}.
 
-{% ahfowvideo "uzGXGRTZg-A" "" %}
+{% ahfowvideo "uzGXGRTZg-A" "The Silence - Little Red Record Co." "https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/video-thumbs/the-silence-hark-the-silence.jpg" %}
 
-<p>The track is from their forthcoming LP <a href="http://www.dragcity.com/products/hark-the-silence">Hark The Silence</a> which will be released on Drag City.</p>
-<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/the-silence-hark-the-silence.jpg" alt="The Silence" /><figcaption class="caption-text">The Silence</figcaption></figure>
+The track is from their forthcoming LP [Hark The Silence](https://thesilence.bandcamp.com/album/hark-the-silence) which will be released on Drag City.
 
-<p><a href="https://damonandnaomi.bandcamp.com/track/little-red-record-co">Damon & Naomi's original</a> was released on their debut album <a href="/database/damon-and-naomi/releases/damon-and-naomi-more-sad-hits/">More Sad Hits</a> in 1992.</p>
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4050036211/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2140360885/transparent=true/" seamless><a href="http://damonandnaomi.bandcamp.com/album/more-sad-hits">More Sad Hits by Damon & Naomi</a></iframe>
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/pictures/the-silence-hark-the-silence.jpg" "The Silence" %}
+
+
+[Damon & Naomi's original](https://damonandnaomi.bandcamp.com/track/little-red-record-co) was released on their debut album [More Sad Hits](/database/damon-and-naomi/releases/damon-and-naomi-more-sad-hits/) in 1992.
