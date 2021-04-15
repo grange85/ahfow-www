@@ -13,14 +13,14 @@ layout: null
         <url>https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-2015-site-image1400x1400.jpg</url>
         <width>1400</width>
         <height>1400</height>
-        <title>A Head Full of Wishes</title>
+        <title>A Head Full of Wishes recycled</title>
         <link>https://www.fullofwishes.co.uk</link>
     </image>
     <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/revisit-feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <atom:link href="{{ "/recycled-feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    {% assign revisits = site.posts | where: "revisit", "true" | sort: "revisit_date" %}
+    {% assign revisits = site.posts | where: "recycled", "true" | sort: "recycled_date" %}
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% for post in revisits %}
      {% unless post.draft %}
