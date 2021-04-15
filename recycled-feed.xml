@@ -7,7 +7,7 @@ layout: null
     xmlns:media="http://search.yahoo.com/mrss/"
     >
   <channel>
-    <title>{{ site.title | xml_escape }} revisited</title>
+    <title>{{ site.title | xml_escape }} recycled</title>
     <description>{{ site.description | xml_escape }} This is a feed of old posts that I think are worth sharing again.</description>
     <image>
         <url>https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-2015-site-image1400x1400.jpg</url>
@@ -20,11 +20,11 @@ layout: null
     <atom:link href="{{ "/recycled-feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    {% assign revisits = site.posts | where: "recycled", "true" | sort: "recycled_date" %}
+    {% assign recycled = site.posts | where: "recycled", "true" | sort: "recycled_date" %}
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% assign today_timestamp = 'now' | date: '%s' %}
-    {% for post in revisits %}
-      {% assign post_timestamp = post.revisit_date | date: "%s" %}
+    {% for post in recycled %}
+      {% assign post_timestamp = post.recycled_date | date: "%s" %}
       {% unless today_timestamp < post_timestamp or post.draft %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
@@ -47,7 +47,7 @@ layout: null
         {% endunless %}
         </description>
         <author>{{post.author.display_name}}</author>
-        <pubDate>{{ post.revisit_date | date_to_rfc822 }}</pubDate>
+        <pubDate>{{ post.recycled_date | date_to_rfc822 }}</pubDate>
         <link>{{ site.domain }}{{ post.url | prepend: site.baseurl }}</link>
         {% if post.enclosure.url contains ".mp3" %}
             <enclosure url="{{post.enclosure.url}}" length="{{post.enclosure.length}}" type="audio/mpeg" />
