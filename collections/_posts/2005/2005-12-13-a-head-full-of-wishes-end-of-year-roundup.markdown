@@ -15,8 +15,6 @@ date: '2005-12-13'
 categories:
 - news
 tags: []
-revisit: true
-revisit_date: 2021-04-14 19:30
 ---
 **Luna and after Luna**  
 Well that was a year - Luna finally called it a day with a series of dates at

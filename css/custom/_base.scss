@@ -16,24 +16,15 @@ h1 {
  * Images
  */
 
-.ytimg {
-  position: relative;
-}
-
-.ytimg i {
-  top: 50%;
-  left: 50%;
-  position: absolute;
-  transform: translate(-50%, -50%);
-}
-
-.ytimg i span {
-}
-
 .sddefault {
+  object-fit: cover;
   width: 640px; 
   height: 360px; 
   background-position-y: -60px;
+}
+
+.sddefault:hover {
+  opacity:0.7!important;
 }
 
 .opacity-0 {
@@ -85,3 +76,4 @@ blockquote em{
   font-style:italic;
   margin-top:1em;
 }
+

@@ -15,8 +15,6 @@ date: '2005-12-01'
 categories:
 - luna
 tags: []
-revisit: true
-revisit_date: 2021-01-01 19:30
 ---
 A New Years Eve show became a Luna tradition and part of that tradition was a
 performance of George McCrae's disco anthem "Rock Your Baby". The song was

@@ -15,8 +15,6 @@ date: '2005-05-28'
 categories:
 - damon & naomi
 tags: []
-revisit: true
-revisit_date: 2021-04-14 17:30
 ---
 
 Arrived at the venue at 8:30 and met Damon outside - he told us they weren't to be on stage until 10:30 - a bit late for us folk with kids! We wandered around Crouch End for half an hour and then squuezed into the low ceilinged and awkwardly laid out venue. Support was from King Creosote and other members of "The Fence Collective" (http://www.fencerecords.com/index.htm). and was pretty good. A large chunk fo the crowd were there to see them (as I think they were originally headlining until Damon & Naomi were put on the bill).
