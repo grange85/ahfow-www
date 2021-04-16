@@ -10,8 +10,6 @@ imageurl: https://media.fullofwishes.co.uk/00-misc/pictures/the-silence-hark-the
 categories:
  - damon & naomi
  - news
-recycled: true
-recycled_date: 2021-04-16 10:30
 ---
 The Silence, a band that rose from the ashes of legendary Japanese psych band Ghost, have just released a video for their cover of Damon & Naomi's {% ahfowtrack "Little Red Record Co" %}.
 
