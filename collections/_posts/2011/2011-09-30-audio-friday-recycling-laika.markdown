@@ -41,7 +41,7 @@ Here's a recording of Damon & Naomi performing the song at the first Terrastock 
 } %}
 
 
-[Laika](http://en.wikipedia.org/wiki/Laika), of course was one of the Soviet Union's space dogs and was the first living animal to orbit the earth. If you've not already read it I'd highly recommend [the comic Laika](http://en.wikipedia.org/wiki/Laika_(comics)), [Nick Abazdis's lovely re-telling of Laika's story](https://www.nickabadzis.com/laika-graphic-novel) (fictionalised but beautifully and believably told and sprinkled liberally with grains of truth).
+[Laika](http://en.wikipedia.org/wiki/Laika), of course was one of the Soviet Union's space dogs and was the first living animal to orbit the earth. If you've not already read it I'd highly recommend [the comic Laika](http://en.wikipedia.org/wiki/Laika_(comics)), [Nick Abazdis's lovely re-telling of Laika's story](https://www.nickabadzis.com/laika-graphic-novel) (fictionalised but beautifully and believably told, and sprinkled liberally with grains of truth).
 
 If you have already read it I really suggest you go and read the [alternative (and happier) endings](http://www.bigplanetcomics.com/the-alternative-endings-to-laika-show-by-nick-abadzis)!
 
