@@ -20,14 +20,18 @@ layout: null
     <atom:link href="{{ "/recycled-feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    {% assign recycled = site.posts | where: "recycled", "true" | sort: "recycled_date" %}
+    {% assign recycle = site.posts
+        | where: "recycled.recycle", "true"
+        | sort: recycled.date
+        | reverse
+    %}
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% assign today_timestamp = 'now' | date: '%s' %}
-    {% for post in recycled %}
-      {% assign post_timestamp = post.recycled_date | date: "%s" %}
+    {% for post in recycle %}
+      {% assign post_timestamp = post.recycled.date | date: "%s" %}
       {% unless today_timestamp < post_timestamp or post.draft %}
       <item>
-        <title>{{ post.title | xml_escape }}</title>
+        <title>{{ post.recycled.title | xml_escape }}</title>
         <description>
 
             {% capture original %}
@@ -47,7 +51,7 @@ layout: null
         {% endunless %}
         </description>
         <author>{{post.author.display_name}}</author>
-        <pubDate>{{ post.recycled_date | date_to_rfc822 }}</pubDate>
+        <pubDate>{{ post.recycled.date | date_to_rfc822 }}</pubDate>
         <link>{{ site.domain }}{{ post.url | prepend: site.baseurl }}</link>
         {% if post.enclosure.url contains ".mp3" %}
             <enclosure url="{{post.enclosure.url}}" length="{{post.enclosure.length}}" type="audio/mpeg" />

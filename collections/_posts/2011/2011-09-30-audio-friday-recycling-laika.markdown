@@ -17,8 +17,10 @@ categories:
 - damon & naomi
 - audio
 tags: []
-recycled: true
-recycled_date: 2021-04-16 11:20
+recycled:
+  recycle: true
+  date: 2021-04-16 11:20
+  title: Friday recycling - Laika by Damon & Naomi
 ---
 {% ahfowimage "https://media.fullofwishes.co.uk/ahfow/uploads/2011/09/laika.jpg" "Laika" %}
 
