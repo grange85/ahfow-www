@@ -19,7 +19,7 @@ categories:
 tags: []
 recycled:
   recycle: true
-  date: 2021-04-16 11:20
+  date: 2021-04-16
   title: Friday recycling - Laika by Damon & Naomi
 ---
 {% ahfowimage "https://media.fullofwishes.co.uk/ahfow/uploads/2011/09/laika.jpg" "Laika" %}

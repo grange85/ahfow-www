@@ -21,15 +21,15 @@ layout: null
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     {% assign recycle = site.posts
-        | where: "recycled.recycle", "true"
-        | sort: recycled.date
+        | where: 'recycled.recycle', 'true'
+        | sort: 'recycled.date'
         | reverse
     %}
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% assign today_timestamp = 'now' | date: '%s' %}
     {% for post in recycle %}
       {% assign post_timestamp = post.recycled.date | date: "%s" %}
-      {% unless today_timestamp < post_timestamp or post.draft %}
+      {% if today_timestamp >= post_timestamp or site.environment == "development" %}
       <item>
         <title>{{ post.recycled.title | xml_escape }}</title>
         <description>
@@ -68,7 +68,7 @@ layout: null
         <category>{{ cat | xml_escape }}</category>
         {% endfor %}
       </item>
-      {% endunless %}
+      {% endif %}
     {% endfor %}
   </channel>
 </rss>

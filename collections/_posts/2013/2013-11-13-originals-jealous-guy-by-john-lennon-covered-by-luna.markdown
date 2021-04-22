@@ -11,28 +11,33 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
+imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-mr-jealousy-soundtrack.jpg
 date: '2013-11-13'
 categories:
 - luna
 - originals
 tags: []
+recycled:
+  recycle: true
+  date: 2021-04-30
+  title: "Friday Recycling: Originals: Jealous Guy by John Lennon (covered by Luna)"
 ---
-<p>So John Lennon makes his second appearance in this series - he'll be back when we reach the <em>R</em>s for 70% of a track. </p>
-<p>Jealous Guy started out as Child of Nature, written after The Beatles attended a lecture by Maharishi Mahesh Yogi, and demoed at Harrison's home in Esher in 1968.<br />
+So John Lennon makes his second appearance in this series - he'll be back when we reach the _R_ s for 70% of a track. 
 
-{% ahfowvideo "cGAw_k3maXs" "" %}
+Jealous Guy started out as Child of Nature, written after The Beatles attended a lecture by Maharishi Mahesh Yogi, and demoed at Harrison's home in Esher in 1968.
 
-<p>The track never made it onto a Beatles album and was rewritten as Jealous Guy for Lennon's Imagine.<br />
+{% ahfowvideo "cGAw_k3maXs" "The Beatles - Child of Nature (Esher demos)" %}
 
-{% ahfowvideo "DzhyKn1ThpU" "" %}
+The track never made it onto a Beatles album and was rewritten as Jealous Guy for Lennon's Imagine.
 
-<p>Luna recorded the track for Noah Baumbach's 1997 film Mr Jealousy</p>
+{% ahfowvideo "wADRRYNHhOA" "John Lennon - Jealous Guy" %}
+
+Luna recorded the track for Noah Baumbach's 1997 film Mr Jealousy
 
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/01_Luna_Jealous-Guy.mp3",
   "audiocap": "Jealous Guy by Luna",
-  "sourceurl": "",
-  "sourcecap": ""
+  "sourceurl": "/database/luna/releases/luna-mr-jealousy-soundtrack/",
+  "sourcecap": "Mr Jealousy: Music From The Motion Picture"
   } %}
 
-<p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>
