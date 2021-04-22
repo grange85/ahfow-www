@@ -20,6 +20,9 @@ tags:
  - yoko ono
  - sandy denny
 ---
+> We used to sing this in another band
+> _Damon Krukowski, Berlin 2016_
+
 Five years ago today, shortly after Damon fell down some stairs in London and was forced to abandon their show at Cafe OTO in London, Damon & Naomi played a lovely show in Berlin.
 
 After first accompanying Fortune they then played a few extra songs, inlcuding finishing the evening with a sublime cover of Galaxie 500's cover of Yoko Ono's Listen The Snow is Falling
