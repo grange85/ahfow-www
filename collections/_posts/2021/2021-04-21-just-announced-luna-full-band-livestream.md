@@ -29,11 +29,12 @@ Just announced a real live Luna show in a real live club - livestreamed into you
 The show will be performed live in Gold Diggers in Los Angeles on 15th May at 6pm PDT (that'll be 9pm in NYC, 2am in the UK and 3am in bits of Europe) and streamed live via the Veeps platform.
 
 Tickets are $15 or $25 a ticket with audio download of the show (plus $3.75 fees) and are [available to buy now](https://luna.veeps.com/stream/events/39805cda-3dc3-4281-8343-54004240c9fc)
+<!--more-->
 
 The show will open with a video and the live show will start at 6:20pm. 
 
 I'll see you all there.
 
-Luna's previously performed at Gold Diggers for their Fire in Cairo video back in 2017 - you can read [Josh's review of that show over here](/2017/07/17/a-rolling-and-rollicking-dream-luna-gold-diggers/).
+Luna previously performed at Gold Diggers for their Fire in Cairo video shoot back in 2017 - you can read [Josh's review of that show over here](/2017/07/17/a-rolling-and-rollicking-dream-luna-gold-diggers/).
 
 {% ahfowvideo "RK2YatQ9S1A" "Luna - Fire in Cairo" %}
