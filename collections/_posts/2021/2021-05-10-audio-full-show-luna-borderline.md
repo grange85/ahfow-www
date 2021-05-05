@@ -33,7 +33,7 @@ David also has a pic and the setlist scan which I've nabbed for this post.
 
 I was then discussing the show with Joe a couple of years back and he mentioned that he had recorded the show so, for your delectation here's the full show:
 
-{ahfowvideo "21Xgf5jrA8E" "Luna - The Borderline, London - 10th May 1995" %}
+{% ahfowvideo "21Xgf5jrA8E" "Luna - The Borderline, London - 10th May 1995" %}
 
 Thanks David for the pics and Joe for the recording - and for confirming that it wasn't a dream.
 
