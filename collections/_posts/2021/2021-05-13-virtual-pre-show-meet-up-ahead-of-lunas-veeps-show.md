@@ -23,7 +23,7 @@ OK ... so here's a half-baked idea (I have so many)...
 
 Here are some facts
 
-* In the early hours of Sunday morning UK time Luna are playing a show - live streamed from a club in SF - I intend staying up for it.
+* In the early hours of Sunday morning UK time Luna are playing a show - live streamed from a club in LA - I intend staying up for it.
 * If this was a regular Luna gig (in a place I was in) I'd have tried to organise a pre-gig get-together - these have, over the years, had varying levels of success - some with a splendid turnout - one where it was literally just me!!
 * The show starts at 2am my time (3am for some other folk in Europe, and a more sensible time for most of the rest of you - including over croissants and coffee in Australia!!)
 
