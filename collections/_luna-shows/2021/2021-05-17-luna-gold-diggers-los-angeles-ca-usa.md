@@ -7,6 +7,20 @@ title: "26th June 2020 -  Luna - Gold Diggers, Los Angeles, CA, USA"
 address:
 show-notes: ''
 show-setlist: 
+  - Slide
+  - Beautiful View
+  - California (All the Way)
+  - Chinatown
+  - Tiger Lily
+  - Malibu Love Nest
+  - Sideshow by the Seashore
+  - Fire in Cairo
+  - Still at Home
+  - Corridors of Power
+  - Lost in Space
+  - 23 Minutes in Brussels
+  - Season of the Witch
+  - Sweet Child o' Mine 
 show-date: 2021-05-15
 date-added: 2021-04-21
 category: 2021
