@@ -23,6 +23,8 @@ The show opened with a couple of pre-recorded videos. The first was their [fanta
 
 Pre-recorded segment over and we cut to the band live on-stage (and spilling off the stage) in Gold Diggers. Lee was the one confident that they were live and counted in - the band started Slide - well, all except Sean who seemed to be expecting something else - but he was soon inline and the band were off and running and sounding as tight as we know they are.
 
+<!--more-->
+
 {% ahfowimage "https://media.fullofwishes.co.uk/02-luna/show_assets/2021-05-15/2021-05-15-luna-gold-diggers-screengrab07.jpg" "Britta and Lee" %}
 
 Song over, no applause (except typed applause in the _chat room_) and a bit of banter and then into Beautiful View from Pup Tent, with its first live outing for many many years and was an absolute joy to hear.
