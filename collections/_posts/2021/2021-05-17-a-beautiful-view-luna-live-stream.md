@@ -49,6 +49,8 @@ The band hinted at real live shows, in front of real live people, coming up late
 
 Although ... with an in-room audience too - because a band needs an audience as much as an audience needs a band.
 
+Applause.
+
 
 
 
