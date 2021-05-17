@@ -45,7 +45,7 @@ Then it was over. Some applause.
 
 A fantastic evening, the sound mix was great and the sound and picture quality was as good as we've come to expect from Veeps - the camerawork was mostly fine although occasionally wayward. The chat was lively but difficult to follow - so ... I mostly didn't.
 
-The band hinted at real live shows, in front of real live people, coming up later in the year - more on that when dates are confirmed - but it'd be nice to ave more of these live-streamed shows now that we know they can be done, be done well, and work.
+The band hinted at real live shows, in front of real live people, coming up later in the year - more on that when dates are confirmed - but it'd be nice to have more of these live streamed shows now that we know they can be done and be done well.
 
 Although ... with an in-room audience too - because a band needs an audience as much as an audience needs a band.
 
