@@ -17,7 +17,7 @@ date-added: 2021-05-18
 category: 2021
 show-radio: 
 show-lastfm: 
-show-cancelled: true
+show-cancelled: 
 performers: [
   "Dean Wareham - guitar/vocals",
   "Sean Eden - guitar",

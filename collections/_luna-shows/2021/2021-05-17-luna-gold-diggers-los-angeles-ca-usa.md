@@ -40,5 +40,9 @@ show-venue-website:
 show-additional: 
 support:
 show-series: 
+links:
+  - url: /2021/05/17/a-beautiful-view-luna-live-stream/
+    title: "A beautiful view - the Luna live stream"
+    source: "A Head Full of Wishes"
 ---
 While this is a full band show in a real venue it is for a livestream.

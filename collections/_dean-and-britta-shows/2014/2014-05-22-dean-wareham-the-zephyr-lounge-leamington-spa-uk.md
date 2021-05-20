@@ -46,6 +46,7 @@ photos:
     type: flickr-set
     id: 72157644788889922
 links:
-  - url: https://www.fullofwishes.co.uk/2014/05/24/photos-and-audio-dean-wareham-in-leamington-spa-22nd-may-2014/
+  - url: /2014/05/24/photos-and-audio-dean-wareham-in-leamington-spa-22nd-may-2014/
+    title: "Photos and audio: Dean Wareham in Leamington Spa, 22 May 2014"
     source: "A Head Full of Wishes"
 ---
