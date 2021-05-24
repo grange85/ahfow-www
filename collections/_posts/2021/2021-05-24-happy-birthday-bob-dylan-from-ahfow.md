@@ -10,7 +10,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-date: 2021-05-24 10:30
+date: 2021-05-24 10:00
 imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/luna-chinatown-dylan-modern-times.jpg
 categories:
  - dean & britta
@@ -56,4 +56,4 @@ Around the time she was recording her solo album Britta recorded Bob's Don't Thi
 ... and just because it came up in a search here's Joakim's fantastic Bob Dylan story as recounted in [his review of Luna's London shows from 2015](/2015/08/14/i-once-met-bob-dylan-on-the-streets-of-paris-luna-in-the-uk-part-two-london/) ...
 
 > I once met Bob Dylan on the streets of Paris before one of his shows, it was close to the Bastille, where Avenue Daumesnil meets Rue de Lyon. I said hello to him and thanks and good luck tonight Mr Dylan, he was carrying a white box with both hands, I’d like to think it was a cake for his band mates. He stared back, lifted the white box up and made clear the he couldn’t shake my hand, because he was carrying a cake. Didn’t say a word, but that look. I still today can’t let go of that moment, a good moment, but scary. It’s almost the same with Dean. I wonder if Dean’s ever given his bandmates a cake.
-_[Joakim Bengtsson - I once met Bob Dylan... (AHFoW, August 2015)]((/2015/08/14/i-once-met-bob-dylan-on-the-streets-of-paris-luna-in-the-uk-part-two-london/)_
+_[Joakim Bengtsson - I once met Bob Dylan... (AHFoW, August 2015)](/2015/08/14/i-once-met-bob-dylan-on-the-streets-of-paris-luna-in-the-uk-part-two-london/)_
