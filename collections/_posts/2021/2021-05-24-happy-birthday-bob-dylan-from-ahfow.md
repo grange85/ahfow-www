@@ -22,13 +22,15 @@ categories:
 tags:
  - bob dylan
 ---
-So - his Bobness reaches 80 - here's a few times he's touched A Head Full of Wishes over the years...
+So - his Bobness reaches 80 - here's a few times he's touched A Head Full of Wishes over the years.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/02-luna/pictures/luna-chinatown-dylan-modern-times.jpg" "Luna -- Bob -- Ted Croner" %}
 
 In 2006 Bob released Modern Times in an eerily familiar sleeve - it used the same Ted Croner photo that Luna had used on the insert of Penthouse and on the sleeve of the Chinatown / 23 Minutes in Brussels single released 11 years previously.
 
 Dean & Britta recorded Bob's I'll Keep It With Mine for the 13 Most Beautiful project - here's Nico's screen test with the Scott Hardkiss remix of the track as released on the DVD...
+
+<!--more -->
 
 {% ahfowvideo "RTsAB3PAE5Q" "Dean & Britta - I'll Keep It With Mine (Scott Hardkiss remix)" %}
 
