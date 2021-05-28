@@ -21,7 +21,7 @@ luna:
   name : Luna
   slug : luna
   image: https://media.fullofwishes.co.uk/02-luna/pictures/luna-2017-promo-luz-gallardo.jpg
-  upcoming-shows-feed: http://feeds.feedburner.com/ahfow-upcoming-luna-shows
+  upcoming-shows-feed: https://www.fullofwishes.co.uk/database/luna/shows/upcoming.xml
   yearsactive : [1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2015,2016,2017,2018,2019,2020,2021]
   members :
     - firstname: Dean
@@ -53,7 +53,7 @@ damon-and-naomi:
   name : Damon & Naomi
   slug : damon-and-naomi
   image: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-and-naomi-home-img.jpg
-  upcoming-shows-feed: http://feeds.feedburner.com/ahfow-upcoming-damon-and-naomi-shows
+  upcoming-shows-feed: https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/upcoming.xml
   yearsactive : [1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021]
   members :
     - firstname: Damon
@@ -70,7 +70,7 @@ dean-and-britta:
   sectionname: Dean Wareham / Britta Phillips
   slug: dean-and-britta
   image: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/dean-and-britta-home-img.jpg
-  upcoming-shows-feed: http://feeds.feedburner.com/ahfow-upcoming-dean-and-britta-shows
+  upcoming-shows-feed: http://www.fullofwishes.co.uk/database/dean-and-britta/shows/upcoming.xml
   yearsactive: [2003,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021]
   members :
     - firstname: Dean
