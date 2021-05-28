@@ -2,4 +2,4 @@
 # Build settings
 environment: production
 destination: ./_deploy/
-future: false
+future: true
