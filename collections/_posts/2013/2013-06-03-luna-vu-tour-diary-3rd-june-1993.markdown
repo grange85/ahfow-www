@@ -17,8 +17,8 @@ categories:
 - velvet underground tour diary
 tags: []
 ---
-<blockquote><strong>3 June:</strong><br />
-We have our own show at the Borderline in London. I am tired and have had a bit much Guinness. The show is sloppy and the guitars are out of tune but I don't think anyone noticed. After the show we go back to the Columbia Hotel and sit in the bar.</blockquote>
+## 3 June:
+We have our own show at the Borderline in London. I am tired and have had a bit much Guinness. The show is sloppy and the guitars are out of tune but I don't think anyone noticed. After the show we go back to the Columbia Hotel and sit in the bar.
 
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/03_Luna_Ride-Into-the-Sun.mp3",
@@ -27,7 +27,10 @@ We have our own show at the Borderline in London. I am tired and have had a bit 
   "sourcecap": ""
   } %}
 
-<p><strong>MP3: </strong><a href="http://www.mediafire.com/download.php?wxnynkzuown">Download the whole of Luna's show at the Borderline</a><br />
-<strong>AHFoW: </strong><a href="/2009/09/02/mp3-luna-live-in-london-in-1993/">My previous post about the Borderline show</a></p>
+ - [Download the whole of Luna's show at the Borderline](http://www.mediafire.com/download.php?wxnynkzuown)
+ - AHFoW: [My previous post about the Borderline show](/2009/09/02/mp3-luna-live-in-london-in-1993/)
 
-<p class="text-muted">In April 1993 Luna were invited to open for The Velvet Underground on their reunion tour around Europe. Dean Wareham kept a diary of the tour which was published in the November 1993 issue of Alternative Press, I've just lifted that article and chopped it up into days and will post it here over the coming days - all without permission - if anyone objects give me a shout.</p>
+{% ahfowvideo "8zsSbpeb4q0" "Luna at The Borderline" %}
+
+_In April 1993 Luna were invited to open for The Velvet Underground on their reunion tour around Europe. Dean Wareham kept a diary of the tour which was published in the November 1993 issue of Alternative Press, I've just lifted that article and chopped it up into days and will post it here over the coming days - all without permission - if anyone objects give me a shout._
+{: .text-muted}
