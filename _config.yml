@@ -62,6 +62,7 @@ collections:
     output: false
     
 
+unpublished: true
 twitter_username: ahfow
 github_username:  grange85
 permalink: /:year/:month/:day/:title/
