@@ -17,7 +17,9 @@ categories:
 - velvet underground tour diary
 tags: []
 ---
-<p><strong>June 9:</strong><br />
-Rotterdam, the Ahoy, capacity 10,600. A lot of people at this show, mostly Dutch people I think. Our show goes over very well. It's too hot to sleep in the damn hotel rooms.</p>
+## June 9:
+Rotterdam, the Ahoy, capacity 10,600. A lot of people at this show, mostly Dutch people I think. Our show goes over very well. It's too hot to sleep in the damn hotel rooms.
 
-<p class="text-muted">In April 1993 Luna were invited to open for The Velvet Underground on their reunion tour around Europe. Dean Wareham kept a diary of the tour which was published in the November 1993 issue of Alternative Press, I've just lifted that article and chopped it up into days and will post it here over the coming days - all without permission - if anyone objects give me a shout.</p>
+_In April 1993 Luna were invited to open for The Velvet Underground on their reunion tour around Europe. Dean Wareham kept a diary of the tour which was published in the November 1993 issue of Alternative Press, I've just lifted that article and chopped it up into days and will post it here over the coming days - all without permission - if anyone objects give me a shout._
+{: .text-muted}
+
