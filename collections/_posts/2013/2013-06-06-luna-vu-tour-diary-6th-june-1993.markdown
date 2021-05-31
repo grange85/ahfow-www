@@ -18,7 +18,7 @@ categories:
 tags:
  - velvet underground
 ---
-## 6 June:
+## 6th June:
 
 Wembley Arena, capacity 12,000. "Hello, Wembley!" I hate stadiums and arenas, but I have a good time onstage. John Cale's violas fall over onto Sean's foot-pedals during our set, or did he kick them? I never find out for sure. Tonight the Velvets pull out "Pale Blue Eyes" for the first time. Sterling is playing lead and Cale the viola.
 

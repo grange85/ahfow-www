@@ -18,7 +18,7 @@ categories:
 tags:
  - velvet underground
 ---
-## 5 June:
+## 5th June:
 Tonight's show is at the Forum in London, capacity of about 1800. Lots of celebrities, like Chrissie Hynde and Peter Gabriel. Wow. I was hoping for Mick Ronson. The Velvets do a killer version of "Hey Mr. Rain" which must be about twelve minutes long. They're also doing a new song in the encores, "Coyote." After the show, we go back to the Columbia Hotel and sit in the bar.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/02-luna/pictures/vu1993/1993_06_05_london_ticket.jpg" "Velvet Underground ticket - London" %}

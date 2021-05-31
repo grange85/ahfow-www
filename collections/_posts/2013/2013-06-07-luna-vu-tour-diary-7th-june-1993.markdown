@@ -17,7 +17,7 @@ categories:
 - velvet underground tour diary
 tags: []
 ---
-## 7 June:
+## 7th June:
 
 Amsterdam, coffee shops, Chokomel. It's good to be in Amsterdam.
 
