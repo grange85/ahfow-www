@@ -4,7 +4,7 @@ status: publish
 published: false 
 draft: false
 sitemap: true
-title: "Everything's Swirling #1 - fanzine to download"
+title: "Artefacts 034: Everything's Swirling #1 - fanzine to download"
 author:
   display_name: Andy
   login: admin
@@ -15,6 +15,7 @@ imageurl:
 categories:
  - editorial
  - galaxie 500
+ - artefacts
 tags:
  - everythings swirling
  - fanzine
