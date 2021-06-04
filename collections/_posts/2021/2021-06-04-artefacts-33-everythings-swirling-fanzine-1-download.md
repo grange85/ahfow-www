@@ -1,7 +1,7 @@
 ---
 layout: post
 status: publish
-published: false 
+published: true 
 draft: false
 sitemap: true
 title: "Artefacts 034: Everything's Swirling #1 - fanzine to download"
