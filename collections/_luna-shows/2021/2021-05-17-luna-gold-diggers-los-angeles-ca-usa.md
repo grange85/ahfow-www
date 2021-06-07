@@ -3,7 +3,7 @@ layout: show
 position: database-5
 artistslug: luna
 show-venue: "Gold Diggers, Los Angeles, CA, USA"
-title: "26th June 2020 -  Luna - Gold Diggers, Los Angeles, CA, USA"
+title: "26th June 2021 -  Luna - Gold Diggers, Los Angeles, CA, USA"
 address:
 show-notes: ''
 show-setlist: 

@@ -33,10 +33,10 @@ Here's how I described the fanzine back in 2017
 
 So here is a PDF - I've tagged a few extras onto the end to make up for the fact that you won't be getting a badge or a high quality photo!
 
-[Everything's Swirling - A Galaxie 500 fanzine](https://live.staticflickr.com/4424/36138562123_7ddb781af5_c.jpg)
+[Everything's Swirling - A Galaxie 500 fanzine](https://media.fullofwishes.co.uk/00-misc/docs/everythings-swirling-fanzine-01-web.pdf) (PDF, 6.3MB)
 
 And... because I can barely believe it happened...
 
-{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/docs/that-bass-naomivision-insta-2017.jpg" "Naomi's tweet (c) Naomivision" "https://www.instagram.com/p/BYHdCkthkmc/" %} (PDF, 6.3MB)
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/docs/that-bass-naomivision-insta-2017.jpg" "Naomi's tweet (c) Naomivision" "https://www.instagram.com/p/BYHdCkthkmc/" %}
 
 
