@@ -1,7 +1,7 @@
 ---
 layout: post
 status: publish
-published: false 
+published: true
 draft: false
 sitemap: true
 title: Damon & Naomi virtual premiere of songs from their forthcoming album 'A Sky Record'
