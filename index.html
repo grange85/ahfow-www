@@ -18,7 +18,15 @@ description: >
         <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
     </div>
     <div class="card-body">
-                    {% if post.categories %}
+ 		    	    <p class="byline">
+		        	Posted by
+		        	{% if post.author.display_name != 'Andy' %}<a href="/authors/">{{post.author.display_name}}</a>
+		        	{% else %}{{post.author.display_name}}
+		        	{% endif %}
+		        	 on {{ post.date | date: "%-d %B %Y" }}
+		        	 {% endif %}
+		        	</p>
+	                   {% if post.categories %}
                     <p class="float-left pr-3">in categories: </p>
                         <ul class="categories list-inline">
                         {% for category in post.categories %}
