@@ -1,7 +1,7 @@
 ---
 layout: post
 status: publish
-published: false 
+published: true
 draft: false
 sitemap: true
 title: Happy Birthday Britta Phillips (2021 edition)
@@ -11,7 +11,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-06-11
-imageurl: 
+imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/london-britta_5-dsc03420-22.jpg
 categories:
  - news
  - dean & britta
