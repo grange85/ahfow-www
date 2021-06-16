@@ -1,7 +1,7 @@
 ---
 layout: post
 status: publish
-published: false 
+published: true
 draft: false
 sitemap: true
 title: "Video: Dean & Britta play two of their 13 Most Beautiful"
