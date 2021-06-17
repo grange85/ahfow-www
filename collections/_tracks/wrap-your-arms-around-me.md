@@ -8,7 +8,7 @@ type: ahfow_track
 track-id: 
 track-lyrics: 
 track-author: Chapman/Knight
-track-sort: "LUCK OR MAGIC"
-track-alpha: L
+track-sort: "WRAP YOUR ARMS"
+track-alpha: W
 track-original: Agnetha Fältskog
 ---
