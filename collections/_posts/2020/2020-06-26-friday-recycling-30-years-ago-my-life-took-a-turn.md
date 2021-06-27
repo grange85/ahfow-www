@@ -24,7 +24,7 @@ _This is recycled from my [Everything's Swriling last year](https://www.grange85
 
 So... at, I'd guess about 22:30 on 27th June 1990 this happened (38 minutes and 22 seconds in):
 
-{% ahfowvideo "ozeRVpP4T0Q?start=2302" "Galaxie 500 - Subterania - 1990-06-27" %}
+{% ahfowvideo "ozeRVpP4T0Q?start=2302" "Galaxie 500 - Subterania - 1990-06-27" "https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-06-27/1990-06-27_galaxie_500-naomi-vidcap.jpg" %}
 
 ... this pretty much changed the course of my life ... as follows:
 
