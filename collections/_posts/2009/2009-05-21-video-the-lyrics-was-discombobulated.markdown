@@ -20,7 +20,7 @@ tags: []
 ---
 <p>This is the video <a href="https://web.archive.org/web/20090521+/http://www.deanandbritta.com/blog/?p=325">Dean mentioned in his blog</a>. It shows Galaxie 500's Fourth of July video and then invites some kids to pass comment on it - very cool.</p>
 
-{% ahfowvideo "IrNvxv-ppnQ" "GALAXIE 500- 4th of july- kids korner | NYNOISE.TV" %}
+{% ahfowvideo "IrNvxv-ppnQ" "GALAXIE 500- 4th of july- kids korner | NYNOISE.TV" "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/fourth-of-july-kids-korner.jpg" %}
 
 <blockquote>"I think the Galaxie 500 video was...suckish"</blockquote>
 <blockquote>"When the eyes were zooming in like that it was c-r-e-e-e-e-p-y"</blockquote>
