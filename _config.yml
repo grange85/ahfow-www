@@ -95,6 +95,8 @@ pagination:
 excerpt_separator: <!--more-->
 
 # Build settings
+livereload: false
+host: 0.0.0.0
 port: 4040
 markdown: kramdown
 environment: development
