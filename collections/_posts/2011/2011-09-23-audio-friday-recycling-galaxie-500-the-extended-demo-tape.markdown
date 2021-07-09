@@ -14,7 +14,7 @@ author_url: http://www.grange85.co.uk
 date: '2011-09-23'
 imageurl: https://static.fullofwishes.co.uk/galaxie500box/images/demotape_lg.gif
 recycled:
-  recycle:true
+  recycle: true
   date: 2021-07-09
   title: "Friday recycling: Galaxie 500 - the extended demo tape" 
 categories:
