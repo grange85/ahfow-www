@@ -2,17 +2,17 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: "Birchmere, Alexandria, VA, USA"
-title: "18th November 2021 -  Luna - Birchmere, Alexandria, VA, USA"
+show-venue: "Rams Head, Annapolis, MD, USA"
+title: "19th November 2021 -  Luna - Rams Head, Annapolis, MD, USA"
 address: |
-  3701 Mount Vernon Avenue, 
-  Alexandria, 
-  VA 22305, 
+  33 West Street, 
+  Annapolis, 
+  MD 21401, 
   USA
 show-notes: ''
 show-setlist: 
-show-date: 2021-11-18
-date-added: 2021-06-08
+show-date: 2021-11-19
+date-added: 2021-07-09
 category: 2021
 show-radio: 
 show-lastfm: 
@@ -25,8 +25,8 @@ performers: [
   ]
 facebook-event-url: 
 show-poster-url: 
-show-ticket-url: https://www.ticketmaster.com/event/15005AC3ABAA27EA?brand=birchmere&camefrom=cfc_birchmere_website
-show-venue-website: https://www.birchmere.com/events/luna/
+show-ticket-url: https://www.axs.com/events/405192/luna-tickets?skin=ramsheadonstage 
+show-venue-website: https://www.ramsheadonstage.com/events/detail/405192 
 show-additional: 
 support:
 show-series:
