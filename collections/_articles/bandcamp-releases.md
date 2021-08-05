@@ -42,7 +42,8 @@ Not all of Luna's catalogue but a few gems can be had
 - [Tell Me Do You Miss Me (live) - Luna](https://luna.bandcamp.com/album/tell-me-do-you-miss-me)
 
 **Most** of Damon & Naomi's catalogue is on Bandcamp - including some that aren't available elswhere.  
-_these are all **pay what you want** but obviously the more you pay the better for everyone!_
+_most of these are **pay what you want** but obviously the more you pay the better for everyone!_
+- [A Sky Record - Damon & Naomi](https://damonandnaomi.bandcamp.com/album/a-sky-record)
 - [In the 21st Century - Damon & Naomi](https://damonandnaomi.bandcamp.com/album/in-the-21st-century)
 - [Spirit of Love (B-sides, bonuses, and soundtracks) - Damon & Naomi](https://damonandnaomi.bandcamp.com/album/spirit-of-love-b-sides-bonuses-and-soundtracks)
 - [Fortune - Damon & Naomi](https://damonandnaomi.bandcamp.com/album/fortune)
