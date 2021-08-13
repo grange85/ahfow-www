@@ -36,6 +36,9 @@ layout: null
 
             {% capture original %}
             <p><em>This was originally posted on A Head Full of Wishes on {{post.date | date: "%e %B %Y"}}</em></p>
+	    {% if post.recycled.description %}
+	    {{post.recycled.description | markdownify}}
+	    {% endif %}
             {% endcapture %}
             {{ original | xml_escape }}
 
