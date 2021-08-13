@@ -14,7 +14,7 @@ author_url: http://www.grange85.co.uk
 date: '2011-07-01'
 recycled:
   recycle: true
-  date: 2021-07-09
+  date: 2021-08-13
   title: 'Friday recycling: Maggie Cheung - Strawberry Stain'
   description: "_This month on Dean & Britta's Patreon a version of the track Strawberry Stain was shared featuring Dean on vocals. Here is the version that was released on the Clean soundtrack with lead actor Maggie Cheung singing. If you can afford to you should [sign up to Dean & Britta's Patreon](https://patreon.com/deanandbritta) for similar treats._"
 categories:
