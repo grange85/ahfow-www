@@ -29,8 +29,8 @@ The first of two appearances for Madonna in this series is her early single Bord
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/01_Cagney-and-Lacee_Borderline.mp3",
   "audiocap": "Mp3: Cagney & Lacee - Borderline",
-  "sourceurl": "",
-  "sourcecap": ""
+  "sourceurl": "/database/dean-and-britta/dean-wareham-releases/cagney-and-lacee-borderline/",
+  "sourcecap": "Cagney & Lacee - Borderline / Orange"
   } %}
 
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>
