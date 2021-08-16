@@ -1,6 +1,5 @@
 ---
 layout: release
-
 position: database-4
 resource: discography
 section: 01-album
@@ -54,8 +53,8 @@ releases:
        - title: Red Hollywood
          notes:
          author: Dean Wareham
-	   - title: Why Are We in Vietnam
-	     notes: 
-		 author: Dean Wareham
+       - title: Why Are We in Vietnam
+         notes: 
+         author: Dean Wareham
 ---
 Produced by Jason Quever
