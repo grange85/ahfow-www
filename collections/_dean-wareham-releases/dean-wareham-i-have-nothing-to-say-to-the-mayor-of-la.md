@@ -53,7 +53,7 @@ releases:
        - title: Red Hollywood
          notes:
          author: Dean Wareham
-       - title: Why Are We in Vietnam
+       - title: Why Are We in Vietnam?
          notes: 
          author: Dean Wareham
 ---
