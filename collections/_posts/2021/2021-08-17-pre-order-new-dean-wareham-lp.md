@@ -21,7 +21,7 @@ tags:
 {% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-i-have-nothing-to-say.jpg" "Dean Wareham - I Have Nothing to Say to The Mayor of L.A." %}
 Dean Wareham will be releasing his second solo album on 15th October  and has just released the first track from the album, The Past Is Our Plaything, with a new video directed by [Alexandra Cabral](http://alexandracabral.com/).
 
-The album, [I Have Nothing to Say to The Mayor of L.A.](/database/dean-and-britta/dean-wareham-releases/dean-wareham-i-have-nothing-to-say-to-the-mayor-of-la/), will be released worldwide on Dean & Britta's Double Feature Records.
+The album, [I Have Nothing to Say to The Mayor of L.A.](/database/dean-and-britta/dean-wareham-releases/dean-wareham-i-have-nothing-to-say-to-the-mayor-of-la/), will be released on Dean & Britta's Double Feature Records.
 
 A coloured vinyl copy is available exclusively through Dean Wareham's shop and can be [pre-ordered now](https://deanwareham.com/shop).
 
