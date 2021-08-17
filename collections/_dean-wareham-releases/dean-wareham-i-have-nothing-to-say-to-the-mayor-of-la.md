@@ -7,7 +7,7 @@ artistslug: dean-wareham
 initial_release_date: 2021
 albumname: "I Have Nothing to Say to The Mayor of L.A."
 title: "Dean Wareham - I Have Nothing to Say to The Mayor of L.A."
-imageurl: 
+imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-i-have-nothing-to-say.jpg
 releases:
   - release:
     version: double-feature-lp
