@@ -44,9 +44,9 @@ releases:
        - title: Just as Much as It's Worth
          notes:
          author: Dean Wareham
-       - title: Under Skies
+       - title: Under Skys
          notes:
-         author: Dean Wareham
+         author: John Pollano
        - title: Duchess
          notes:
          author: Scott Walker
