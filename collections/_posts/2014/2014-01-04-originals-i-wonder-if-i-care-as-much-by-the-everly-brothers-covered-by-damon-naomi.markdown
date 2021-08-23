@@ -28,6 +28,6 @@ I Wonder If I Care as Much, like Living Too Close to the Ground, also appeared o
 
 Damon & Naomi covered it in 2007 for a La blogothèque video session and it is certainly a cover of the 1968 version.
 
-[Take Away Show #49 - Damon & Naomi](https://vimeo.com/1118609) 
+[Take Away Show #49 - Damon & Naomi](https://vimeo.com/11186091) 
 
 RIP Phil Everly
