@@ -11,13 +11,14 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
+imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1987-08-29/1987-08-29-galaxie-500-front-st.jpg
 date: '2007-08-28'
 categories:
 - galaxie 500
 - history
 tags: []
 ---
-{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1987-08-29/19870829_galaxie500.jpg" "Flyer for Galaxie 500's first show" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1987-08-29/1987-08-29-galaxie-500-front-st.jpg" "Poster artwork for Galaxie 500's first show (Naomi Yang, Summer 1987)" %}
 
 I think I'll declare **29 August 2007** a holiday - take the day off and tell your boss it's OK because it's Galaxie 500's birthday...
 
@@ -31,10 +32,10 @@ I suspect the songs played would have included some of the tracks they'd recorde
 
 As far as I'm aware there is no recording of that first show so here are a couple of the unreleased tracks from the [extended Galaxie 500 first demo tape](/2011/09/23/audio-friday-recycling-galaxie-500-the-extended-demo-tape/).
 
+ - [Galaxie 500 - Open Road](/2002/07/01/audio-galaxie-500-open-road/)
+ - [Galaxie 500 - Well All Right](/2014/09/03/originals-well-right-buddy-holly-crickets-covered-galaxie-500/)
+ - [Galaxie 500 - On the Sofa](/2006/01/01/audio-galaxie-500-on-the-sofa/)
 
- - [Galaxie 500 - Open Road](/2002/07/01/audio-galaxie-500-open-road/)</li>
- - [Galaxie 500 - Well All Right](/2014/09/03/originals-well-right-buddy-holly-crickets-covered-galaxie-500/)</li>
- - [Galaxie 500 - On the Sofa](/2006/01/01/audio-galaxie-500-on-the-sofa/)</li>
 > The first ever Galaxie 500 show was during the summer of 1987 at my apartment on Front St. in Manhattan. We played 4 or 5 songs, I can't remember what they were, but I remember being pleased that I didn't break any strings. I was working in the Elmer Holmes Bobst Memorial Library at N.Y.U. Damon & Naomi were in town for the summer, and Naomi had decided to pick up the bass guitar - I guess that's when the band was born for real.
 _(Dean Wareham - Box set booklet)_
 
