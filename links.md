@@ -4,16 +4,23 @@ title: Links
 sitemap: false
 ---
 <div class="list-group">
-  <a href="/2020/11/28/new-dean-and-britta-ep-neon-lights/" class="list-group-item list-group-item-info">
-    <h3 class="list-group-item-heading">Neon Lights</h3>
-    <p class="list-group-item-text">Buy Dean & Britta's limited edition Neon Lights 12"</p>
+  <a href="https://deanwareham.com/shop" class="list-group-item list-group-item-info">
+    <h3 class="list-group-item-heading">New Dean Wareham album</h3>
+    <p class="list-group-item-text">Pre-order the LP or CD of <i>I Have Nothing to Say to The Mayor of L.A.</i> from Dean's website</p>
   </a>
 </div>
 
 <div class="list-group">
-  <a href="https://aheadfullofwishes.bandcamp.com/merch" class="list-group-item list-group-item-info">
-    <h3 class="list-group-item-heading">Galaxie 500 tribute album</h3>
-    <p class="list-group-item-text"><strong>This Music Is Ours / On Fire 30</strong> double pack</p>
+  <a href="https://deanwareham.com/shop" class="list-group-item list-group-item-info">
+    <h3 class="list-group-item-heading">Dean & Britta Quarantine Tapes</h3>
+    <p class="list-group-item-text">Pre-order the new LP or CD release of Quarantine Tapes</p>
+  </a>
+</div>
+
+<div class="list-group">
+  <a href="https://damonandnaomi.bandcamp.com/album/a-sky-record/" class="list-group-item list-group-item-info">
+    <h3 class="list-group-item-heading">Damon & Naomi's  album</h3>
+    <p class="list-group-item-text">Buy the lovely book/download edition of A Sky Record from Bandcamp</p>
   </a>
 </div>
 
