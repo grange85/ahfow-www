@@ -1,4 +1,4 @@
-# Site settings
+#  Site settings
 title: 'A Head Full of Wishes'
 subtitle: 'Galaxie 500, Luna, Damon & Naomi, Dean & Britta &hellip;'
 email: andy@fullofwishes.co.uk
@@ -15,7 +15,6 @@ ahfow-version: '2.0'
 
 sass:
   sass_dir: css
-
 
 collections_dir: collections
 
