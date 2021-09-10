@@ -56,9 +56,9 @@ Looking through the mailing list archives of that day here are a few of the post
 > I am here in NYC and this is beyond any comprehension. The last time I was @ WTC was the Luna show...it is gone now.
 {: class="text-monospace"}
 
-> Date: Tue, 11 Sep 2001 13:07:51 EDT
-> From: Chris
-> Subject: Re: current events
+> Date: Tue, 11 Sep 2001 13:07:51 EDT  
+> From: Chris  
+> Subject: Re: current events  
 > 
 > This is truly unbielievable news. As I sat in a Jersey City New Jersey Juror Selection room gazing out the window toward the WTC at a beautiful sunny day I could not believe my eyes. An airplane heading directly toward the towers. Then a cloud of smoke, shock through my whole body. An announcement over the intercom that a plane has just crashed into the WTC. All in the juror selection room had already seem what had been announces. Minutes later 15 or so we see another plane heading toward the building. We were in complete disbelief. As Andy stated the world will not be the same again. Air travel will not be the same. Life as we know it has expired. God I hope that Listmember is safe. Thousands of lives are lost. God help us if there is one.
 > 
