@@ -41,7 +41,7 @@ releases:
          author: Dean Wareham
     - group: B
       tracks:
-       - title: Just as Much as It's Worth
+       - title: Just as Much as It Was Worth
          notes:
          author: Dean Wareham
        - title: Under Skys

@@ -20,12 +20,12 @@ tags:
  - judith berndsen
  - britta phillips
 ---
-{% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/as-much-as-it-was-worth-it-screengrab-4.jpg" "Dean Warheam - As Much as It Was Worth It" %}
-Dean Wareham has just shared another track from his forthcoming album [I Have Nothing To Say To The Mayor of L.A.]() accompanied by a lovely new video directed by Judith Berndsen and edited by Britta Phillips.
+{% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/as-much-as-it-was-worth-it-screengrab-4.jpg" "Dean Warheam - Just as Much as It Was Worth" %}
+Dean Wareham has just shared another track from his forthcoming album [I Have Nothing To Say To The Mayor of L.A.](/database/dean-and-britta/dean-wareham-releases/dean-wareham-i-have-nothing-to-say-to-the-mayor-of-la/) accompanied by a lovely new video directed by Judith Berndsen and edited by Britta Phillips.
 
-{% ahfowvideo "https://www.youtube.com/watch?v=6QmZbVV_1v0" "As Much as It Was Worth It (video)" "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/as-much-as-it-was-worth-it-screengrab-2.jpg" %}
+{% ahfowvideo "https://www.youtube.com/watch?v=6QmZbVV_1v0" "Just as Much as It Was Worth (video)" "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/as-much-as-it-was-worth-it-screengrab-2.jpg" %}
 
-As Much As It Was Worth It is the third track from the album following on from [The Past is Our Plaything](https://www.fullofwishes.co.uk/2021/08/17/pre-order-new-dean-wareham-lp/) and [Cashing In](https://www.fullofwishes.co.uk/2021/09/18/dean-wareham-cashing-in-single-video/).
+Just as Much As It Was Worth is the third track from the album following on from [The Past is Our Plaything](https://www.fullofwishes.co.uk/2021/08/17/pre-order-new-dean-wareham-lp/) and [Cashing In](https://www.fullofwishes.co.uk/2021/09/18/dean-wareham-cashing-in-single-video/).
 
 You can [pre-order](https://deanwareham.com/pre-order) the album from Dean's website or from record stores - in the UK it is available to order from [Norman Records](https://www.normanrecords.com/records/189439-dean-wareham-i-have-nothing-to-say). 
 
