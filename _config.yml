@@ -112,6 +112,8 @@ exclude:
 - _deploy/
 - _archived-posts/
 - _cloudfront-distribution-id
+- "*.swp"
+- "*.swo"
 
 plugins: [
       ]
