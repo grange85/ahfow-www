@@ -4,17 +4,12 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: "The Classic Grand, Glasgow, UK"
-title: "27th January 2022 - Dean Wareham - The Classic Grand, Glasgow, UK"
+show-venue: "[tba], Valencia, Spain"
+title: "20th February 2022 - Dean Wareham - [tba], Valencia, Spain"
 address: 
-  The Classic Grand, 
-  237 Argyle Street, 
-  Glasgow, 
-  G2 8DL, 
-  UK
 show-notes: 
 show-setlist:
-show-date: 2022-01-27
+show-date: 2022-02-20
 date-added: 2021-10-09
 category: 2022
 show-radio:
@@ -26,7 +21,7 @@ performers: [
   ]
 facebook-event-url:
 show-poster-url: 
-show-ticket-url:
+show-ticket-url: https://houstonpartymusic.com/tour-dates/295/
 show-venue-website:
 show-additional:
 support:

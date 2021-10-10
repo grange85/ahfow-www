@@ -21,7 +21,7 @@ performers: [
   ]
 facebook-event-url:
 show-poster-url: 
-show-ticket-url:
+show-ticket-url: https://www.rockefeller.no/jd130222.html
 show-venue-website:
 show-additional:
 support:

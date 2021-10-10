@@ -21,7 +21,7 @@ performers: [
   ]
 facebook-event-url:
 show-poster-url: 
-show-ticket-url:
+show-ticket-url: https://islingtonassemblyhall.co.uk/events/dean-wareham-plays-galaxie-500-21st-apr-islington-assembly-hall-london-tickets/
 show-venue-website:
 show-additional:
 support:

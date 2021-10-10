@@ -21,7 +21,7 @@ performers: [
   ]
 facebook-event-url:
 show-poster-url: 
-show-ticket-url:
+show-ticket-url: http://www.brudenellsocialclub.co.uk/whats-on/dean-wareham-2/
 show-venue-website:
 show-additional:
 support:

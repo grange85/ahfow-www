@@ -21,7 +21,7 @@ performers: [
   ]
 facebook-event-url:
 show-poster-url: 
-show-ticket-url:
+show-ticket-url: https://houstonpartymusic.com/tour-dates/296/
 show-venue-website:
 show-additional:
 support:

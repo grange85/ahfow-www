@@ -21,7 +21,7 @@ performers: [
   ]
 facebook-event-url:
 show-poster-url: 
-show-ticket-url:
+show-ticket-url: https://www.concorde2.co.uk/events/dean-wareham-plays-galaxie-500-1
 show-venue-website:
 show-additional:
 support:

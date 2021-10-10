@@ -21,7 +21,7 @@ performers: [
   ]
 facebook-event-url:
 show-poster-url: 
-show-ticket-url:
+show-ticket-url: https://thecluny.com/listing/dean-wareham-plays-galaxie-500/
 show-venue-website:
 show-additional:
 support:

@@ -4,12 +4,12 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: "Petit Bain, Paris, France"
-title: "7th February 2022 - Dean Wareham - Petit Bain, Paris, France"
+show-venue: "Oran Mor, Glasgow, UK"
+title: "27th January 2022 - Dean Wareham - Oran Mor, Glasgow, UK"
 address: 
 show-notes: 
 show-setlist:
-show-date: 2022-02-07
+show-date: 2022-01-27
 date-added: 2021-10-09
 category: 2022
 show-radio:
@@ -21,7 +21,7 @@ performers: [
   ]
 facebook-event-url:
 show-poster-url: 
-show-ticket-url: https://petitbain.org/events/dean-wareham-pmays-galaxie-500-on-fire-more/
+show-ticket-url: https://oran-mor.co.uk/whats-on/event/dean-wareham/
 show-venue-website:
 show-additional:
 support:

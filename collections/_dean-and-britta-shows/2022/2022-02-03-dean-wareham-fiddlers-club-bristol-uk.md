@@ -21,7 +21,7 @@ performers: [
   ]
 facebook-event-url:
 show-poster-url: 
-show-ticket-url:
+show-ticket-url: http://www.fiddlers.co.uk/whatson.html
 show-venue-website:
 show-additional:
 support:

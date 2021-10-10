@@ -4,12 +4,12 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: "Nazca, Madrid, Spain"
-title: "23rd February 2022 - Dean Wareham - Nazca, Madrid, Spain"
+show-venue: "[tba], Valencia, Spain"
+title: "20th February 2022 - Dean Wareham - [tba], Valencia, Spain"
 address: 
 show-notes: 
 show-setlist:
-show-date: 2022-02-23
+show-date: 2022-02-20
 date-added: 2021-10-09
 category: 2022
 show-radio:
@@ -21,7 +21,7 @@ performers: [
   ]
 facebook-event-url:
 show-poster-url: 
-show-ticket-url:
+show-ticket-url: https://houstonpartymusic.com/tour-dates/295/
 show-venue-website:
 show-additional:
 support:
