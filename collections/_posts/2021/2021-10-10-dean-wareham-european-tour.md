@@ -24,7 +24,7 @@ Dean Wareham's covid-cancelled _... plays Galaixe 500_ tour of early 2020 is loo
 <table class="table table-striped">
      <tr>
         <th class="col-md-4">27th January 2022</th>
-        <td class="col-md-8"><a href="/database/dean-and-britta/shows/2022/2022-01-27-dean-wareham-classic-grand-glasgow-uk/">The Classic Grand, Glasgow, UK</a><br/>
+        <td class="col-md-8"><a href="/database/dean-and-britta/shows/2022/2022-01-27-dean-wareham-oran-mor-glasgow-uk/">Oran Mor, Glasgow, UK</a><br/>
           
           <span class="badge badge-success">Dean Wareham</span>
           
@@ -186,6 +186,16 @@ Dean Wareham's covid-cancelled _... plays Galaixe 500_ tour of early 2020 is loo
         </td>
       </tr>
               
+
+      <tr>
+        <th class="col-md-4">20th February 2022</th>
+        <td class="col-md-8"><a href="/database/dean-and-britta/shows/2022/2022-02-20-dean-wareham-valencia-spain/">[tba], Valencia, Spain</a><br/>
+          
+          <span class="badge badge-success">Dean Wareham</span>
+          
+          <span class="badge badge-primary">Dean Wareham plays Galaxie 500</span>
+        </td>
+      </tr>
 
       <tr>
         <th class="col-md-4">22nd February 2022</th>
