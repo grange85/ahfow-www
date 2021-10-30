@@ -35,7 +35,7 @@ Here are a few bits and pieces that have appeared since Damon & Naomi's gorgeous
 - Damon & Naomi have a lengthy discussion of A Sky Record, and Sky Records on the [Free Association podcast](https://www.podchaser.com/podcasts/free-association-with-brian-ca-115324/episodes/damon-and-naomi-99211804)
 - They also have a nice chat on the [Aquarium Drunkard podcast](https://aquariumdrunkard.com/2021/10/06/damon-naomi-transmissions/)
 
-**For watching**
+**For watching**  
 You can still watch the lovely film they made at The Peabody Essex Museum premiering the album
 
 {% ahfowvideo "WOOhYuaGoXI" "PEM Presents: Damon & Naomi" "https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2021-06-23/2021-06-02-damon-and-naomi-pem-04.jpg" %}
