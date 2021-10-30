@@ -4,7 +4,7 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: "Video: New video for Midnight from Damon & Naomi's A Sky Record"" 
+title: "Video: New video for Midnight from Damon & Naomi's A Sky Record"
 author: 
   display_name: Andy
   login: admin
