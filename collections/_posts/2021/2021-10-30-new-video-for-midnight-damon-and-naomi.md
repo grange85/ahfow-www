@@ -24,7 +24,7 @@ tags:
 
 A new video for Midnight from Damon & Naomi's recent album A Sky Record has just been shared. The beautiful watercoloured/animated/illustrated video was made my Elisa Ambrogio (of Magik Markers).
 
-{% ahfowvideo "https://www.youtube.com/watch?v=LrTXiRPkdVU" "Damon & Naomi - Midnight (Elisa Ambrogio, 2021)" "https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-and-naomi-midnight-01.jpg" %}
+{% ahfowvideo "LrTXiRPkdVU" "Damon & Naomi - Midnight (Elisa Ambrogio, 2021)" "https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-and-naomi-midnight-01.jpg" %}
 
 > So this bull is not Zeus, but they are not a regular bull either; they are special. This bull has a robe. The bull meets a reflective spinning sphere, and suddenly is not alone. 
 > 
