@@ -71,7 +71,7 @@ then
 
 else
 
-	aws s3 cp s3://www.fullofwishes.co.uk/_admin/full-list.html _deploy/_admin/full-list.html
+	aws s3 cp s3://www.fullofwishes.co.uk/_admin/full-list.html _deploy/_admin/full-list.html --profile grange85
 
 fi
 

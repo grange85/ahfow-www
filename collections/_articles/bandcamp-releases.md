@@ -18,6 +18,13 @@ tags:
 ---
 If you're wondering what you might like to buy on Bandcamp here are a few AHFoW related suggestions:
 
+Top of your list if you haven't already are:
+
+ - Dean Wareham's new album [I Have Nothing to Say to The Mayor of L.A.](https://deanwareham.bandcamp.com/album/i-have-nothing-to-say-to-the-mayor-of-l-a)
+ - Damon & Naomi's new album [A Sky Record](https://damonandnaomi.bandcamp.com/album/a-sky-record) also [available as a booklet](https://damonandnaomi.bandcamp.com/merch/a-sky-record-companion-deluxe-package)
+ - Dean & Britta's [Quarantine Tapes](https://deanandbritta.bandcamp.com/album/quarantine-tapes)
+
+
 _I'll add to this list if I think of anything else - feel free to [contact me with suggestions](/about/)_
 
 The entire Galaxie 500 catalogue is available digitally on Bandcamp
@@ -79,6 +86,8 @@ Britta has some lovely solo stuuff up there too
  - [ The Good Lyre - Songs Of John Wesley Harding ](https://johnwesleyharding.bandcamp.com/album/the-good-lyre-songs-of-john-wesley-harding) has Britta's lovely cover of Sleepy People
 
 Dean Wareham
+
+ - [I Have Nothing to Say to The Mayor of L.A.](https://deanwareham.bandcamp.com/album/i-have-nothing-to-say-to-the-mayor-of-l-a)
  - [Live at St Pancras Old Church London December 2013 - Dean Wareham](https://shop.soniccathedral.co.uk/album/live-at-st-pancras-old-church-london-december-2013-2)
 
 Dean and/or Britta also have worked with Cheval Sombre on these releases
