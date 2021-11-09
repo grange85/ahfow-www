@@ -26,9 +26,9 @@ tags: []
 <p><strong>Email:</strong> <a href="mailto:andy@fullofwishes.co.uk">andy@fullofwishes.co.uk</a></p>
 <p><strong>Post:</strong><br />
 Andy Aldridge<br />
-85 Studley Grange Road<br />
-London<br />
-W7 2LU</p>
+Flat 2, 59 Percy Park Road<br />
+Tynemouth<br />
+NE30 4LH</p>
 <p>Facebook: <a href="http://www.facebook.com/fullofwishes">http://www.facebook.com/fullofwishes</a></p>
 <p>Twitter: <a href="http://twitter.com/grange85">http://twitter.com/grange85</a> or <a href="http://twitter.com/ahfow">http://twitter.com/ahfow</a></p>
 <p>You can find my personal blog over here: <a href="http://www.grange85.co.uk/swirling">Everything's Swirling</a>.</p>
