@@ -4,7 +4,7 @@ status: publish
 published: true 
 draft: false
 sitemap: true
-title: Call for submissions - Everything's Swirling #3 - Luna 30
+title: "Call for submissions - Everything's Swirling #3 - Luna 30"
 author:
   display_name: Andy
   email: andy@grange85.co.uk
