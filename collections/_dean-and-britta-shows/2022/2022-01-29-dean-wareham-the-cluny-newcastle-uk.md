@@ -4,8 +4,8 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: "The Cluny, Newcastle, UK"
-title: "29th January 2022 - Dean Wareham - The Cluny, Newcastle, UK"
+show-venue: "The Cluny 2, Newcastle, UK"
+title: "29th January 2022 - Dean Wareham - The Cluny 2, Newcastle, UK"
 address: 
 show-notes: 
 show-setlist:
