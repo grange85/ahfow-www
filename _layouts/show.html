@@ -15,6 +15,11 @@ layout: default
 
 				<div class="row">
 					<div class="col">
+								{% if page.show-cancelled %}
+								<div class="alert alert-danger" role="alert">
+								Cancelled  
+								 </div>
+								 {% endif %}
 						<div class="dropdown">
 
 							<button class="btn btn-outline-secondary w-100 dropdown-toggle dropdown-toggle-split" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
