@@ -8,7 +8,7 @@ type: ahfow_track
 track-lyrics: 
 track-author: Krukowski/Yang
 track-sort: SEASON WITHOUT TIME
-track-alpha: s
+track-alpha: S
 track-original: 
 available-on:
 ahfow-posts:
