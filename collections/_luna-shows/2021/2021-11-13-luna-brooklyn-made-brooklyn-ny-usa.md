@@ -11,6 +11,22 @@ address: |
   USA
 show-notes: ''
 show-setlist: 
+  - Slide
+  - Fire In Cairo
+  - Going Home
+  - Double Feature
+  - Tracy I Love You
+  - Bewitched
+  - Malibu Love Nest
+  - Still At Home
+  - Black Postcards
+  - Moon Palace
+  - Bonnie and Clyde
+  - The Corridors of Power
+  - 23 Minutes in Brussels
+  - ^encore
+  - Chinatown
+  - Friendly Advice
 show-date: 2021-11-13
 date-added: 2021-06-02
 category: 2021

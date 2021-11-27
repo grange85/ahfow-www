@@ -11,6 +11,21 @@ address: |
   USA
 show-notes: ''
 show-setlist: 
+  - Chinatown
+  - Sideshow by The Seashore
+  - Tiger Lily
+  - Lost in Space
+  - Lovedust
+  - Tracy I Love You
+  - Moon Palace
+  - Freakin' and Peakin'
+  - Malibu Love Nest
+  - Marquee Moon
+  - California (All The Way)
+  - Indian Summer
+  - ^encore
+  - Bewitched
+  - 23 Minutes in Brussels
 show-date: 2021-11-19
 date-added: 2021-07-09
 category: 2021

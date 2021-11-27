@@ -11,6 +11,23 @@ address: |
   USA
 show-notes: ''
 show-setlist: 
+  - California (All The Way)
+  - Tiger Lily
+  - Friendly Advice
+  - Bewitched
+  - This Time Around
+  - Great Jones Street
+  - Going Home
+  - Into The Fold
+  - I Know You Tried
+  - Sleeping Pill
+  - I Can't Wait
+  - Fire in Cairo
+  - The Corridors of Power
+  - Slide
+  - Tracy I Love You
+  - ^encore
+  - Indian Summer
 show-date: 2021-11-09
 date-added: 2021-06-08
 category: 2021

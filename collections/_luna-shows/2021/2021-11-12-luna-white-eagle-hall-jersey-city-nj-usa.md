@@ -12,6 +12,22 @@ address: |
   07302
 show-notes: ''
 show-setlist: 
+  - I Can't Wait
+  - Chinatown
+  - Sideshow By The Seashore
+  - Tracy I Love You
+  - Superfreaky Memories
+  - Lost In Space
+  - Still At Home
+  - Malibu Love Next
+  - Kalamazoo
+  - Moon Palace
+  - Bonnie and Clyde
+  - The Corridors of Power
+  - Friendly Advice
+  - ^encore
+  - Most of The Time
+  - 23 Minutes in Brussels
 show-date: 2021-11-12
 date-added: 2021-05-18
 category: 2021

@@ -11,6 +11,25 @@ address: |
   USA
 show-notes: ''
 show-setlist: 
+  - ^Penthouse set
+  - Chinatown
+  - Sideshow by The Seashore
+  - Moon Palace
+  - Double Feature
+  - 23 Minutes in Brussels
+  - Lost In Space
+  - Rhythm King
+  - Kalamazoo
+  - Hedgehog
+  - Freakin' and Peakin'
+  - Bonnie and Clyde
+  - ^Second set
+  - Beautiful View
+  - Malibu Love Nest
+  - Still At Home
+  - Most of The Time
+  - ^encore
+  - Fuzzy Wuzzy
 show-date: 2021-11-10
 date-added: 2021-06-08
 category: 2021

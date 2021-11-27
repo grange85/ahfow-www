@@ -11,6 +11,21 @@ address: |
   USA
 show-notes: ''
 show-setlist: 
+  - Slide
+  - Rhythm King
+  - Fire in Cairo
+  - Malibu Love Nest
+  - Into The Fold
+  - Superfreaky Memories
+  - The Corridors of Power
+  - Still At Home
+  - This Time Around
+  - Bewitched
+  - Bonnie and Clyde
+  - Sleeping Pill
+  - ^encore
+  - Friendly Advice
+  - Marquee Moon
 show-date: 2021-11-18
 date-added: 2021-06-08
 category: 2021

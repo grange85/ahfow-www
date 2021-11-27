@@ -11,6 +11,21 @@ address: |
   USA
 show-notes: ''
 show-setlist: 
+  - Rhythm King
+  - Sideshow by The Seashore
+  - Lovedust
+  - Tiger Lily
+  - Great Jones Street
+  - That's What You Always Say
+  - Into The Fold
+  - Lost In Space
+  - Broken Chair
+  - The Corridors of Power
+  - California (All The Way)
+  - Sleeping Pill
+  - Friendly Advice
+  - ^encore
+  - Marquee Moon
 show-date: 2021-11-14
 date-added: 2021-11-09
 category: 2021

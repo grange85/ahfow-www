@@ -11,6 +11,21 @@ address: |
   USA
 show-notes: ''
 show-setlist: 
+  - California (All The Way)
+  - Fire In Cairo
+  - This Time Around
+  - Bewitched
+  - Malibu Love Nest
+  - Great Jones Street
+  - Moon Palace
+  - Superfreaky Memories
+  - 23 Minutes in Brussels
+  - The Corridors of Power
+  - Black Postcards
+  - Still At Home
+  - Car Wash Hair
+  - ^encore
+  - Marquee Moon
 show-date: 2021-11-15
 date-added: 2021-06-08
 category: 2021
@@ -25,7 +40,6 @@ performers: [
   ]
 facebook-event-url: 
 show-poster-url: 
-show-ticket-url: https://event.etix.com/ticket/online/performanceSale.do?performance_id=2323921&partner_id=240&method=restoreToken&cobrand=Union%20Transfer,%20LLC
 show-venue-website: https://utphilly.com/events/luna/
 show-additional: 
 support:
