@@ -5,7 +5,7 @@ sitemap: false
 ---
 <div class="list-group">
   <a href="https://www.facebook.com/groups/avotefullofwishes" class="list-group-item list-group-item-info">
-    <h3 class="list-group-item-heading">The World Cup of Galaxie 500 and Luna</h3>>
+    <h3 class="list-group-item-heading">The World Cup of Galaxie 500 and Luna</h3>
     <p class="list-group-item-text">... over on Facebook in the run up to Christmas</p>
   </a>
 </div>
