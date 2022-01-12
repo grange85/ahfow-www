@@ -4,7 +4,7 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: "Dean Wareham's European dates postponed again"" 
+title: "Dean Wareham's European dates postponed again"
 author: 
   display_name: Andy
   login: admin
