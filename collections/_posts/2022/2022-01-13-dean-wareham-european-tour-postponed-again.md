@@ -21,4 +21,15 @@ tags:
 
 Dean Wareham's upcoming European dates have been postponed again because of the ongoing pandemic.
 
-The much rescheduled dates, originally scheduled for April 2020, have been cancelled and the tour is likely to take place in July.
+The much rescheduled dates, originally scheduled for April 2020, have been cancelled and the tour will now take place in July.
+
+Confirmed dated so far
+
+* 21st July 2022 - Rescue Rooms, Nottingham
+* 22nd July 2022 - Islington Assembly Hall, London
+* 23rd July 2022 - The Venue, Worthing
+* 25th July 2022 - The Fleece, Bristol
+* 27th July 2022 - Brudenell Social Club, Leeds
+* 28th July 2022 - The Cluny, Newcastle
+* 29th July 2022 - Liquid Room, Edinburgh
+* 30th July 2022 - Oran Mor, Glasgow
