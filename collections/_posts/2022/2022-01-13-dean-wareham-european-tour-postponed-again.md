@@ -4,7 +4,7 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: "Dean Wareham's European dates postponed again"
+title: "Dean Wareham's UK dates postponed again"
 author: 
   display_name: Andy
   login: admin
@@ -19,7 +19,7 @@ tags:
 ---
 {% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/as-much-as-it-was-worth-it-screengrab-4.jpg" "Dean & Britta" %}
 
-Dean Wareham's upcoming European dates have been postponed again because of the ongoing pandemic.
+Dean Wareham's upcoming UK dates have been postponed again because of the ongoing pandemic.
 
 The much rescheduled dates, originally scheduled for April 2020, have been cancelled and the tour will now take place in July.
 
