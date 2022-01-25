@@ -1,7 +1,7 @@
 ---
 layout: post
 status: publish
-published: false 
+published: true 
 draft: false
 sitemap: true
 title: Terry Tolkin 1959 - 2022
