@@ -4,17 +4,17 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: "Nazca, Madrid, Spain"
-title: "20th February 2022 - Dean Wareham - Nazca, Madrid, Spain"
+show-venue: "Loco, Valencia, Spain"
+title: "13th July 2022 - Dean Wareham - Loco, Valencia, Spain"
 address: 
 show-notes: 
 show-setlist:
-show-date: 2022-02-20
-date-added: 2021-10-09
+show-date: 2022-07-13
+date-added: 2022-01-27
 category: 2022
 show-radio:
 show-lastfm:
-show-cancelled: true
+show-cancelled: false
 performers: [
   "Dean Wareham - guitar/vocals",
   "Britta Phillips - bass"
