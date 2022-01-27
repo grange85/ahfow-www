@@ -4,7 +4,7 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: "Dean Wareham's Spanis dates rescheduled"
+title: "Dean Wareham's Spanish dates rescheduled"
 author: 
   display_name: Andy
   login: admin
