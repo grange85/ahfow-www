@@ -4,7 +4,7 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: "Luna release 'Live Bewitched on Bandcamp"
+title: "Luna release 'Live Bewitched' on Bandcamp"
 author: 
   display_name: Andy
   login: admin
