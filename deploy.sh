@@ -88,19 +88,19 @@ fi
 # upload to s3
 echo "sync content..."
 # s3cmd sync --guess-mime-type --no-mime-magic --delete-removed --exclude '.sass-cache' --exclude 's3cfg*' --exclude 'database/*' _deploy/ s3://www.fullofwishes.co.uk
-aws s3 sync --size-only --delete --exclude '.sass-cache' _deploy/ s3://www.fullofwishes.co.uk
+aws s3 sync --size-only --delete --exclude '.sass-cache' _deploy/ s3://www.fullofwishes.co.uk --profile grange85
 
 # copy rss to correct location
 echo "copy rss..."
-aws s3 mv --content-type "text/xml" --metadata-directive REPLACE s3://www.fullofwishes.co.uk/feed.xml s3://www.fullofwishes.co.uk/feed 
+aws s3 mv --content-type "text/xml" --metadata-directive REPLACE s3://www.fullofwishes.co.uk/feed.xml s3://www.fullofwishes.co.uk/feed --profile grange85
 
 # update the routing rules
 echo "update routing rules..."
-aws s3api put-bucket-website --bucket www.fullofwishes.co.uk --website-configuration file://config/routing-rules.json
+aws s3api put-bucket-website --bucket www.fullofwishes.co.uk --website-configuration file://config/routing-rules.json --profile grange85
 
 # invalidate cloudfront
 echo "invalidate cloudfont distribution..."
-aws cloudfront create-invalidation --distribution-id $CDN_DISTRIBUTION_ID --paths "/*"
+aws cloudfront create-invalidation --distribution-id $CDN_DISTRIBUTION_ID --paths "/*" --profile grange85
 
 # ping feedburner
 curl --write-out 'pinged feedburner\n' --silent --output /dev/null "https://www.feedburner.com/fb/a/pingSubmit?bloglink=https%3A%2F%2Fwww.fullofwishes.co.uk/"
