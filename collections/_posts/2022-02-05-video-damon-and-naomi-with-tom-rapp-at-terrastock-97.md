@@ -24,11 +24,11 @@ Some fantastic video footage has just turned up on YouTube of Damon & Naomi's pe
 
 {% ahfowvideo "I1ws0Z4r3qQ" "Damon & Naomi with Tom Rapp at Terrastock I in 1997" "https://www.fullofwishes.co.uk/images/1997-04-27-damon-naomi-tom-rapp-terrastock-4.png" %}
 
-It opens with a lovely performance of Damon & Naomi perfoming The New Historicism from their second album [The Wondrous World of Damon & Naomi](/database/damon-and-naomi/releases/damon-and-naomi-wondrous-world/).
+It opens with a lovely clip of Damon & Naomi perfoming The New Historicism from their second album [The Wondrous World of Damon & Naomi](/database/damon-and-naomi/releases/damon-and-naomi-wondrous-world/).
 
 {% ahfowimage "https://www.fullofwishes.co.uk/images/1997-04-27-damon-naomi-tom-rapp-terrastock-2.png" "Damon & Naomi at Terrastock 1997" %}
 
-This is then followed by them being joined by the late, great Tom Rapp for their fantastic cover of Bob Dylan's I Shall Be Released.
+This is then followed by them being joined by the late, great Tom Rapp for their wonderful cover of Bob Dylan's I Shall Be Released.
 
 What an absolute joy to see this!
 
