@@ -12,6 +12,7 @@ author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 date: '2013-10-23'
+imageurl: https://media.fullofwishes.co.uk/00-misc/pictures/george-harrison-get-back.jpg
 categories:
 - galaxie 500
 - originals
@@ -19,21 +20,23 @@ tags: []
 ---
 Isn't It a Pity first saw the light of day on George Harrison's triple album All Things Must Pass in 1970, but it had been kicking around for a while before that. It had been apparently been vetoed by John Lennon during The Beatles' Get Back Sessions, and George may have put it forward as a Beatles track as early as 1966 for Revolver. If you're interested there's [a lot more to the Isn't It a Pity story over at Wikipedia](http://en.wikipedia.org/wiki/Isn%27t_It_a_Pity)
 
-George recorded two versions for All Things Must Pass, which don't appear to be on YouTube... so here's a demo recorded during The Beatles' Get Back sessions
+George recorded two versions for All Things Must Pass, here's one...
 
-{% ahfowvideo "MvH7TKLgT4g" "Isn't It a Pity (demo, Get Back sessions)" %}
+{% ahfowvideo "lIbVWNy7HBk" "George Harrison - Isn't It A Pity" %}
+
+Here's a recording made during The Beatles' Get Back sessions
+
+{% ahfowvideo "fWv3hnxCcA" "Isn't It a Pity (Get Back sessions)" "https://media.fullofwishes.co.uk/00-misc/pictures/george-harrison-get-back.jpg" %}
 
 And here's George (although not sure of the source of this version)
 
-{% ahfowvideo "YHR2SuS9u-4" "Isn't It a Pity (demo)" %}
+{% ahfowvideo "WjEyDxnoODY" "Isn't It a Pity (demo)" %}
 
 Galaxie 500 covered the song on their second album On Fire
 
-
 <iframe class="bandcamp" style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=158016030/size=medium/bgcol=ffffff/linkcol=0687f5/t=10/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/on-fire">On Fire by Galaxie 500</a></iframe>
 
-
-The band didn't play it live because, according to this 1990 interview in Sounds, because it was "too hard":
+The band didn't play it live because, according to this 1990 interview in Sounds, it was "too hard":
 
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/19900929_sounds_snippet.jpg" "Galaxie 500 clipping (Sounds, 1990)" %}
 
@@ -45,7 +48,12 @@ With Britta and Jonathan and Grasshopper of Mercury Rev
 
 With My Morning Jacket
 
-{% ahfowvideo "VOQx1IkN2II" "My Morning Jacket - Isn't It a Pity (feat. Dean Wareham)" %}
+{% ahfowaudio {
+"audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/08-my-morning-jacket-feat-dean-wareham-isnt-it-a-pity.mp3",
+"audiocap": "My Morning Jacket - Isn't It a Pity (feat. Dean Wareham)",
+"sourceurl": "",
+"sourcecap": ""
+} %}
 
 And finally Dean & Britta struggling through it in Sweden
 
