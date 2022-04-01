@@ -11,7 +11,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2022-04-01
-imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-rendexvous-live-bandcamp.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-rendezvous-live-bandcamp.jpg
 categories:
  - luna
  - news
