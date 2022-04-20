@@ -22,6 +22,7 @@ facebook-event-url:
 show-poster-url: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/13most_nico300.jpg
 show-ticket-url: https://dice.fm/event/7ade6-dean-britta-13-most-beautiful-songs-for-andy-warhols-screen-tests-4th-jun-the-guild-theatre-menlo-park-tickets
 show-venue-website:
+show-series: 13 Most Beautiful
 show-additional:
 support:
  - Escape-ism
