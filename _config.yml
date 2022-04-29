@@ -98,7 +98,9 @@ livereload: false
 host: 0.0.0.0
 port: 4040
 markdown: kramdown
-environment: development
+environment: production
+future: true
+unpublished: false
 
 # default excludes
 exclude:
