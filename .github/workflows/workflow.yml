@@ -20,7 +20,6 @@ jobs:
     # Standard usage
     - name: Deployment
       run: |
-	bundle install
 	bundle exec jekyll build --config _config.yml,_config_build.yml
 
 
