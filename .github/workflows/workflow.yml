@@ -20,7 +20,9 @@ jobs:
     # Standard usage
     - name: Deployment
       run: |
-	bundle exec jekyll build --config _config.yml,_config_build.yml
+        bundle install
+        bundle exec jekyll build --config _config.yml,_config_build.yml
+        
 
 
     # Example deployment: Push to S3
