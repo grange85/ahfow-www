@@ -1,4 +1,4 @@
-name: Deploy A Head Full of Wishes (without imported action)
+name: Manual deploy
 
 on:
   workflow_dispatch:
@@ -17,10 +17,15 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-gems-
 
+    - uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 2.6 # Not needed with a .ruby-version file
+        bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+
+
     # Standard usage
     - name: Deployment
       run: |
-        bundle install
         bundle exec jekyll build --config _config.yml,_config_build.yml
         
 
