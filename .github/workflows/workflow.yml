@@ -19,6 +19,9 @@ jobs:
         key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
         restore-keys: |
           ${{ runner.os }}-gems-
+    - name: debug
+      run: |
+        pwd
 
     # Standard usage
     - uses:  lemonarc/jekyll-action@1.0.0
