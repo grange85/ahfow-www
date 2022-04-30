@@ -22,6 +22,7 @@ jobs:
     - name: debug
       run: |
         pwd
+        find . | sed -e "s/[^-][^\/]*\//  |/g" -e "s/|\([^ ]\)/|-\1/" 
 
     # Standard usage
     - uses:  lemonarc/jekyll-action@1.0.0
