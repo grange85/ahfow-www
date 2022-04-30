@@ -1,9 +1,6 @@
-name: Deploy A Head Full of Wishes
+name: Deploy A Head Full of Wishes (without imported action)
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
 
 jobs:
@@ -19,13 +16,11 @@ jobs:
         key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
         restore-keys: |
           ${{ runner.os }}-gems-
-    - name: debug
-      run: |
-        pwd
-        find . | sed -e "s/[^-][^\/]*\//  |/g" -e "s/|\([^ ]\)/|-\1/" 
 
     # Standard usage
-    - uses:  lemonarc/jekyll-action@1.0.0
+    - name: Deployment
+      run: |
+        bundle exec jekyll build --config _config.yml,_config_build.yml
 
     # Example deployment: Push to S3
     - name: Configure AWS credentials
@@ -41,7 +36,7 @@ jobs:
 
     - name: Sync output to S3
       run: |
-        aws s3 sync --delete --exclude '.sass-cache' _site s3://www.fullofwishes.co.uk
-        aws s3 mv --content-type "text/xml" --metadata-directive REPLACE s3://www.fullofwishes.co.uk/feed.xml s3://www.fullofwishes.co.uk/feed
-        aws cloudfront create-invalidation --no-cli-pager --distribution-id ${{ secrets.CDN_DISTRIBUTION_ID_WWW }} --paths "/*"
-        aws cloudfront create-invalidation --no-cli-pager --distribution-id ${{ secrets.CDN_DISTRIBUTION_ID_CDN }} --paths "/*"
+        # aws s3 sync --delete --exclude '.sass-cache' _site s3://www.fullofwishes.co.uk
+        # aws s3 mv --content-type "text/xml" --metadata-directive REPLACE s3://www.fullofwishes.co.uk/feed.xml s3://www.fullofwishes.co.uk/feed
+        # aws cloudfront create-invalidation --no-cli-pager --distribution-id ${{ secrets.CDN_DISTRIBUTION_ID_WWW }} --paths "/*"
+        # aws cloudfront create-invalidation --no-cli-pager --distribution-id ${{ secrets.CDN_DISTRIBUTION_ID_CDN }} --paths "/*"
