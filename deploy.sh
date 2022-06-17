@@ -12,9 +12,9 @@ done
 
 branch=$(git symbolic-ref --short -q HEAD)
 
-if [[ $branch != 'master' ]]
+if [[ $branch != 'main' ]]
 then
-	echo "not on 'master' - so not deployed"
+	echo "not on 'main' - so not deployed"
 	exit 1
 fi
 
