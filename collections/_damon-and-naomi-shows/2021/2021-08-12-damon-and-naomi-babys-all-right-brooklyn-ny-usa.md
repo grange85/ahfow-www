@@ -11,6 +11,17 @@ address: |
   USA
 show-notes: ''
 show-setlist: 
+ - Oceans in Blue
+ - Between The Wars
+ - Goodbye
+ - Helsinki
+ - Sailing By
+ - Season Without Time
+ - New York City
+ - Turn of The Century
+ - Midnight
+ - The Aftertime
+ - Another Day
 show-date: 2021-08-12
 date-added: 2021-07-20
 category: 2021
