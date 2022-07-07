@@ -17,7 +17,9 @@ show-lastfm:
 show-cancelled: 
 performers: [
   "Dean Wareham - guitar/vocals",
-  "Britta Phillips - bass"
+  "Britta Phillips - bass",
+  "Derek See - guitar",
+  "Roger Brogan - drums"
   ]
 facebook-event-url:
 show-poster-url: 
