@@ -48,7 +48,7 @@ This time they opened with Galaxie 500's Flowers before playing a few new tracks
 I took [a few videos at the show and soundcheck](https://www.youtube.com/playlist?list=PLVUlJ8-T7PGas-brWq_8ffpJiP1kYGIcJi) - the mic on the camera really struggled so they don't sound so great - but ... still great!
 
 ### Notes and summary
-Dean's band for this tour was Britta (of course) on bass, Roger Brogan on drums and Derek See on guitar - and they were both remarkably tight and beautifully relaxed - all three shows (and I'll assume the rest of the tout) were amazing and they seemed to be having a blast - even after so long on the road.
+Dean's band for this tour was Britta (of course) on bass, Roger Brogan on drums and Derek See on guitar - and they were both remarkably tight and beautifully relaxed - all three shows (and I'll assume the rest of the tour) were amazing and they seemed to be having a blast - even after so long on the road.
 
 Derek and Roger released [a splendid album, Landslide Eyes, as The Gentle Cycle](https://thegentlecycle.bandcamp.com/album/landslide-eyes-2) earlier in the year that's well worth throwing some pennies at.
 
