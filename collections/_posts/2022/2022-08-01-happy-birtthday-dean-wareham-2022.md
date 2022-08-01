@@ -4,7 +4,7 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: "Happy birthday Dean Wareham (2021 edition)"
+title: "Happy birthday Dean Wareham (2022 edition)"
 author: 
   display_name: Andy
   login: admin
