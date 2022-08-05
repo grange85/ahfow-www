@@ -19,14 +19,16 @@ show-lastfm:
 show-cancelled: 
 performers: [
   "Naomi Yang - keyboards/vocals",
-  "Damon Krukowski - guitar/vocals"
+  "Damon Krukowski - guitar/vocals",
+  "Bhob Rainey - saxophone"
   ]
 facebook-event-url: 
 show-poster-url: 
-show-ticket-url: https://citywinery.com/boston/online/article/BOS-The-Loyal-Seas-8-6-22-8pm
+show-ticket-url: https://citywinery.com/boston/Online/default.asp?BOparam::WScontent::loadArticle::permalink=BOS-Damon-Naomi-8-6-22-8pm
 show-venue-website: 
 show-additional: 
 support:
- - The Loyal Sees
+ - Chris Brokaw
 show-series: 
 ---
+Free (with RSVP)
