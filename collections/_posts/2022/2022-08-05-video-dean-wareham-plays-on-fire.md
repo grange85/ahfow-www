@@ -11,7 +11,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2022-08-05
-imageurl: https://www.fullofwishes.co.uk/images/2022-07-13-dean-wareham-isnt-it-a-pity.jpg
+imageurl: https://www.fullofwishes.co.uk/images/dean-wareham-plays-on-fire-2022.jpg
 categories:
  - dean wareham
  - video
@@ -19,7 +19,8 @@ tags:
  - galaxie 500
  - on fire
 ---
-Dean Wareham has just finished a European tour where he was playing the whole of Galaxie 500's On Fire - so here, is the whole album as performed around Europe during July with Britta on bass, Derek See on guitar and Roger Brogan on drums... 
+Dean Wareham has 
+f Galaxie 500's On Fire - so here, is the whole album as performed around Europe during July with Britta on bass, Derek See on guitar and Roger Brogan on drums... 
 
 He hasn't been playing it in the right order so ... I have fixed that for him!
 
