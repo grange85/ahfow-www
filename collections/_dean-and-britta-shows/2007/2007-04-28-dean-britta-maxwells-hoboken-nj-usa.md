@@ -18,5 +18,7 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+support:
+ - The Last Town Chorus
 ---
 
