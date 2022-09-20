@@ -27,4 +27,4 @@ Tickets are <a href="https://dice.fm/event/3p5vx-sonic-cathedral-social-service-
 
 Keep an eye on the <a href="https://www.facebook.com/events/827280811004345/">Facebook page for more details</a>.
 
-{% ahfowimage "/images/scsc/2019-06-20-luna-tribute-ig.jpg" "Luna tribute night poster" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/images/scsc/2019-06-20-luna-tribute-ig.jpg" "Luna tribute night poster" %}

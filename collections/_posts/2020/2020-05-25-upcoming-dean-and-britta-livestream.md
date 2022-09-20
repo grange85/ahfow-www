@@ -17,7 +17,7 @@ categories:
  - news
 tags:
 ---
-{% ahfowimage "/images/2020-05-30-dean-and-britta-veeps.jpg" "Dean & Britta livestream" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/images/2020-05-30-dean-and-britta-veeps.jpg" "Dean & Britta livestream" %}
 
 Dean & Britta have announced another living room concert for this Saturday evening.
 

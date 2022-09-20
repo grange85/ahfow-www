@@ -17,7 +17,7 @@ categories:
  - news
 tags:
 ---
-{% ahfowimage "https://www.fullofwishes.co.uk/images/luna-live-bewitched.jpg" "Luna - live Bewitched" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/images/luna-live-bewitched.jpg" "Luna - live Bewitched" %}
 
 Back in January 2017 Luna performed three sold out shows at The Chapel in San Francisco, each night playing a full album and over the next three Bandcamp Fridays the band will be releasing the recordings of these shows.
 

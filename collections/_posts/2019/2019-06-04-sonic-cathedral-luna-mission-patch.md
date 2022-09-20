@@ -19,7 +19,7 @@ tags:
  - something in the air
  - thunderclap newman
 ---
-{% ahfowimage "/images/scsc/luna-scsc-subscribers-patch-crop.jpg" "Luna mission patch" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/images/scsc/luna-scsc-subscribers-patch-crop.jpg" "Luna mission patch" %}
 
 Sonic Cathedral have just announced that the exclusive sibscribers-only bonus that will come with the Luna release in their singles club will be this fab NASA mission style patch.
 
@@ -29,7 +29,7 @@ The release will be celebrated with a [Luna/Dean Wareham tribute night at the So
 
 There are only 200 subscriptions available so if you want one [head over to Sonic Cathedral](http://www.soniccathedral.co.uk/singlesclub/) and sign-up now.
 
-{% ahfowimage "/images/scsc/luna-scsc-instagram-4.jpg" "Luna - Something in the Air (Sonic Cathedral, 2019)" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/images/scsc/luna-scsc-instagram-4.jpg" "Luna - Something in the Air (Sonic Cathedral, 2019)" %}
 
 
 

@@ -19,7 +19,7 @@ tags:
  - something in the air
  - thunderclap newman
 ---
-{% ahfowimage "/images/scsc/luna-scsc-instagram-4.jpg" "Luna - Something in the Air (Sonic Cathedral, 2019)" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/images/scsc/luna-scsc-instagram-4.jpg" "Luna - Something in the Air (Sonic Cathedral, 2019)" %}
 
 ### Luna's cover of Something in the Air is being released on 7" as part of the <a href="http://www.soniccathedral.co.uk/singlesclub/">Sonic Cathedral singles club</a>
 
@@ -29,7 +29,7 @@ The single will be released on 20th June and singles club subscribers also get a
 
 <a href="http://www.soniccathedral.co.uk/singlesclub/">Head over to Sonic Cathedral's site to subscribe</a> - some copies will reach shops but there will *only be 300 copies*, and 200 of those are reserved for subscribers so the safest way to ensure a copy will be to sign up for the club (and all four releases so far have been excellent). New subscribers will receive all four releases, the new Luna single and the remaining six records.
 
-{% ahfowimage "/images/scsc/luna-scsc-instagram-3.jpg" "Luna - Something in the Air (Sonic Cathedral, 2019)" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/images/scsc/luna-scsc-instagram-3.jpg" "Luna - Something in the Air (Sonic Cathedral, 2019)" %}
 
 
 

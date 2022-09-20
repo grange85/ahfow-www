@@ -18,7 +18,7 @@ categories:
 tags:
  - dean wareham vs. cheval sombre
 ---
-<figure class="caption aligncenter"><img src="/images/wandrin-star-video-capture-02.jpg" alt="Wand'rin' Star - Dean Wareham (dir: Judith Berndsen / edited: Britta Phillips)" /><figcaption class="caption-text">Wand'rin' Star - Dean Wareham vs Cheval Sombre (dir: Judith Berndsen / edited: Britta Phillips)</figcaption></figure>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/images/wandrin-star-video-capture-02.jpg" alt="Wand'rin' Star - Dean Wareham (dir: Judith Berndsen / edited: Britta Phillips)" /><figcaption class="caption-text">Wand'rin' Star - Dean Wareham vs Cheval Sombre (dir: Judith Berndsen / edited: Britta Phillips)</figcaption></figure>
 
 Dean Wareham has just released this video for his cover of the Lee Marvin classic Wand'rin' Star from the excellent <a href="https://deanwareham.com/">Dean Wareham vs Cheval Sombre album</a>.
 

@@ -22,5 +22,5 @@ tags:
 
 Most items in [Dean Wareham's online shop](https://deanwareham.com/shop) are discounted until midnight on Monday, including Luna and Galaxie 500 T-shirts, CDs and vinyl. 
 
-{% ahfowimage "/images/dean-wareham-sale-2019.jpg" "Dean Wareham shop" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/images/dean-wareham-sale-2019.jpg" "Dean Wareham shop" %}
 

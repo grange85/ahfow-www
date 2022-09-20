@@ -33,4 +33,4 @@ Full tracklist:
 
 The EP has a sleeve by Sharon Lock (who previously designed the cover of Dean Wareham's solo album) and is <a href="https://luna.bandcamp.com/album/postscripts">available now for $5 (or more) on the band's bandcamp page</a>.
 
-{% ahfowimage "/images/luna-postscripts-sleeve.jpg" "Luna - Postscripts (2019)" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/images/luna-postscripts-sleeve.jpg" "Luna - Postscripts (2019)" %}

@@ -54,4 +54,4 @@ Thanks to [Sonic Cathedral](http://www.soniccathedral.co.uk/), [Daniel Land](htt
 
 There are a stack more unsorted and unfiltered [pictures from the show on Flickr](https://www.flickr.com/photos/grange85/albums/72157709198454332).
 
-{% ahfowimage "/images/scsc/2019-06-20-luna-tribute-ig.jpg" "Luna tribute night poster" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/images/scsc/2019-06-20-luna-tribute-ig.jpg" "Luna tribute night poster" %}

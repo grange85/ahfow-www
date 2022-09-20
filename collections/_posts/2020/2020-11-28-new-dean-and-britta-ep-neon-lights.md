@@ -21,10 +21,10 @@ longpost: false
 ---	
 <div class="row">
 	<div class="col">
-		{% ahfowimage "/images/dean-britta-neon-lights-ep-cover.jpg" "Neon Lights - sleeve" %}
+		{% ahfowimage "https://media.fullofwishes.co.uk/images/dean-britta-neon-lights-ep-cover.jpg" "Neon Lights - sleeve" %}
 	</div>
 	<div class="col">
-		{% ahfowimage "/images/neon-lights-back.jpg" "Neon Lights - sleeve reverse" %}
+		{% ahfowimage "https://media.fullofwishes.co.uk/images/neon-lights-back.jpg" "Neon Lights - sleeve reverse" %}
 	</div>
 </div>
 

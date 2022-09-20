@@ -18,7 +18,7 @@ categories:
  - news
 tags:
 ---
-{% ahfowimage "/images/2020-05-30-dean-and-britta-veeps.jpg" "Dean & Britta livestream" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/images/2020-05-30-dean-and-britta-veeps.jpg" "Dean & Britta livestream" %}
 
 Dean & Britta will be playing [another live concert from their living room sofa](https://deanandbritta.veeps.com/stream/events/d502eab985fc) on Saturday 27th June.
 

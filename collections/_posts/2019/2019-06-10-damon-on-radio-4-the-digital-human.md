@@ -21,7 +21,7 @@ tags:
  - bbc radio 4
  - the new analog
 ---
-{% ahfowimage "/images/the-digital-human.jpg" "The Digtial Human (BBC Radio 4)" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/images/the-digital-human.jpg" "The Digtial Human (BBC Radio 4)" %}
 
 Damon Krukowski will be guesting on today's episode of the [BBC Radio 4 show The Digital Human](https://www.bbc.co.uk/programmes/b01n7094). The show "explore[s] life through the prism of technology"
 

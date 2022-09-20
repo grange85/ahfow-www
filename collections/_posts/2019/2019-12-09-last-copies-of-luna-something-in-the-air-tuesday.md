@@ -19,7 +19,7 @@ tags:
  - sonic cathedral
 flickr: true
 ---
-{% ahfowimage "/images/luna-something-in-the-air.jpg" "Dean Wareham shop" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/images/luna-something-in-the-air.jpg" "Dean Wareham shop" %}
 
 Sonic Cathedral will be selling off the remaining copies of their Singles Club releases during the day tomorrow, including the last copies of Luna's contribution.
 

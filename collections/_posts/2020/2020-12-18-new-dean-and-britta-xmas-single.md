@@ -20,7 +20,7 @@ tags:
  - christmas
 longpost: false
 ---	
-{% ahfowimage "/images/dean-and-britta-happy-xmas-war-is-over.jpg" "Dean & Britta Happy Xmas (War Is Over)" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/images/dean-and-britta-happy-xmas-war-is-over.jpg" "Dean & Britta Happy Xmas (War Is Over)" %}
 
 Carrying on their long tradition of sneaking out seasonal treats Dean & Britta have just released a new digital single.
 

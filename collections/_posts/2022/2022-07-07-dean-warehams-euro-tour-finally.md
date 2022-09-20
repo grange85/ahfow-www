@@ -17,7 +17,7 @@ categories:
  - news
 tags:
 ---
-{% ahfowimage "https://www.fullofwishes.co.uk/images/seville-roger-brogan.jpg" "Seville (Photo: Roger Brogan, Instagram)" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/images/seville-roger-brogan.jpg" "Seville (Photo: Roger Brogan, Instagram)" %}
 After such a long wait Dean Wareham is finally about to kick off his European tour in Seville. The tour was first scheduled for April 2020 and after a couple of postponements it looks like it's finally happening...
 
 Dean will be playing a mix of Galaxie 500 tracks and material from his fab new album and will be backed by Britta on bass, Derek See on guitar and Roger Brogan on drums.

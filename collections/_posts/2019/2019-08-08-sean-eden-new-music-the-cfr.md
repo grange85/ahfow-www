@@ -19,7 +19,7 @@ tags:
  - sean eden
  - the cfr
 ---
-{% ahfowimage "/images/sean-the-cfr-hedbant.jpg" "The CFR - Hedbant" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/images/sean-the-cfr-hedbant.jpg" "The CFR - Hedbant" %}
 Luna guitarist Sean Eden is working with a new outfit called The CFR (The Council on Foreigh Relations) along with Christy Davis and David Voight (formerly of The Weeds of Eden).
 
 The band have just [released their first music on Bandcamp](https://thecfr.bandcamp.com/album/hedbant). Hedbant is an album of mostly improvised rock that's well worth checking out.

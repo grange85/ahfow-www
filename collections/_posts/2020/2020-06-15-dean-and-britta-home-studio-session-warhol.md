@@ -20,7 +20,7 @@ tags:
  - andy warhol
  - velvet underground
 ---
-{% ahfowimage "/images/2020-06-14-dean-and-britta-warhol-session.jpg" "Dean & Britta - Silver Home Studio Session" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/images/2020-06-14-dean-and-britta-warhol-session.jpg" "Dean & Britta - Silver Home Studio Session" %}
 
 Dean & Britta hae recorded a home [session for the Andy Warhol Museum's Silver Studio Sessions series](https://www.youtube.com/watch?v=18dYoqRUZPo).
 

@@ -20,7 +20,7 @@ tags:
  - manchester
  - full show
 ---
-{% ahfowimage "/images/1990-06-26-galaxie-500-manchester-cap-01.jpg" "Dean Wareham, Galaxie 500 (Manchester, 1990)" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/images/1990-06-26-galaxie-500-manchester-cap-01.jpg" "Dean Wareham, Galaxie 500 (Manchester, 1990)" %}
 Fantastic music video channel ScottishTeeVee has just uploaded [video of Galaxie 500's show from Manchester in June 1990](https://www.youtube.com/watch?v=vnZjs7Zq-rY) to YouTube.
 
 The show was recorded from the audience on a VHS camcorder and has been digitised from a copy of the master tape so looks pretty good for the methode, age and technology.
@@ -31,6 +31,6 @@ Head over to the YouTube channel, subscribe and wallow in this and the literally
 
 {% ahfowvideo "vnZjs7Zq-rY" "Galaxie 500 - Galaxie 500 - Live Manchester 1990 (Full Show)" %}
 
-{% ahfowimage "/images/1990-06-26-galaxie-500-manchester-cap-03.jpg" "Naomi Yang, Galaxie 500 (Manchester, 1990)" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/images/1990-06-26-galaxie-500-manchester-cap-03.jpg" "Naomi Yang, Galaxie 500 (Manchester, 1990)" %}
 
-{% ahfowimage "/images/1990-06-26-galaxie-500-manchester-cap-04.jpg" "Kramer with Galaxie 500 (Manchester, 1990)" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/images/1990-06-26-galaxie-500-manchester-cap-04.jpg" "Kramer with Galaxie 500 (Manchester, 1990)" %}

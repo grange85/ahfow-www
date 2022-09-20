@@ -49,4 +49,4 @@ If you have already read it I really suggest you go and read the [alternative (a
 
 Recently also the [Vostok 5 project](http://hefnet.com/vostok-5/) was _an exhibition of art and music about people and animals in space_ - the exhibition is over but you can [buy the music over here](https://darrenhayman.bandcamp.com/album/vostok-5).
 
-{% ahfowimage "/images/vostok5.jpg" "Vostok 5 exhibition posters" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/images/vostok5.jpg" "Vostok 5 exhibition posters" %}
