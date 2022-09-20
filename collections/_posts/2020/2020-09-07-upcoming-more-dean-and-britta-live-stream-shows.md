@@ -18,7 +18,7 @@ tags:
  - livestream
 ---
 
-{% ahfowimage "https://www.fullofwishes.co.uk/images/2020-05-30-dean-and-britta-veeps.jpg" "Dean & Britta live stream" %}
+{% ahfowimage https://media.fullofwishes.co.uk/images/2020-05-30-dean-and-britta-veeps.jpg" "Dean & Britta live stream" %}
 
 Dean & Britta have announced another couple of live stream shows for the 26th September - they will be playing an early show at 12:00 PDT, which is a suitable time for European fans, and a later show at 18:00 PDT. 
 

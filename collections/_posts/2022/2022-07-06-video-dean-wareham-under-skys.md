@@ -22,4 +22,4 @@ tags:
 ---
 Dean has just premiered the new video for the track Under Skys from his recent album [I Have Nothing to Say to The Mayor of LA](/database/dean-and-britta/dean-wareham-releases/dean-wareham-i-have-nothing-to-say-to-the-mayor-of-la/) - the video was shot in Death Valley and was directed by Judith Berndsen & Britta Phillips
 
-{% ahfowvideo "dOxzsf2gT8o" "Dean Wareham - Under Skys (Lazy Smoke cover)" "https://www.fullofwishes.co.uk/images/dean-wareham-under-skys-screengrab.jpg" %}
+{% ahfowvideo "dOxzsf2gT8o" "Dean Wareham - Under Skys (Lazy Smoke cover)" https://media.fullofwishes.co.uk/images/dean-wareham-under-skys-screengrab.jpg" %}

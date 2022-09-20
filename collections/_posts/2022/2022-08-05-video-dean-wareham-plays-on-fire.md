@@ -62,5 +62,5 @@ _Oran Mor, Glasgow - 30th July_
 
 ### Side 2 track 5 - Isn't it a Pity (George Harrison)
 _Loco Club, Valencia - 13th July_
-{% ahfowvideo "2EM2_ZoatcE" "Isn't it a Pity" "/images/2022-07-13-dean-wareham-isnt-it-a-pity.jpg" %}
+{% ahfowvideo "2EM2_ZoatcE" "Isn't it a Pity" https://media.fullofwishes.co.uk/images/2022-07-13-dean-wareham-isnt-it-a-pity.jpg" %}
 

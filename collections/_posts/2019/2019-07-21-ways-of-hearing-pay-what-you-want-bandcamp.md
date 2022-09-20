@@ -23,4 +23,4 @@ You can now get Damon's excellent [Ways of Hearing series from Bandcamp](https:/
 
 The podcast is [also available in book form](https://amzn.to/2JToDvf) but you have to pay for that - although it's also a beautifully designed package so well worth the dollars!
 
-<figure class="caption aligncenter"><img src="https://www.fullofwishes.co.uk/images/damon-krukowski-ways-of-hearing-aa.jpg" alt="Ways of Hearing" /><figcaption class="caption-text">Ways of Hearing</figcaption></figure>
+<figure class="caption aligncenter"><img src=https://media.fullofwishes.co.uk/images/damon-krukowski-ways-of-hearing-aa.jpg" alt="Ways of Hearing" /><figcaption class="caption-text">Ways of Hearing</figcaption></figure>
