@@ -32,7 +32,7 @@ All the deluxe editions of On Fire 30 are now sold out but the CD only edition c
 
 
 ## This Music Is Ours
-<div class="p-3 w-25 float-right"><img class="img-fluid" src="https://www.fullofwishes.co.uk/images/cd-obverse-tiom-30-web.jpg" alt="Cover of the This Music Is Ours CD"></div>
+<div class="p-3 w-25 float-right"><img class="img-fluid" src=https://media.fullofwishes.co.uk/images/cd-obverse-tiom-30-web.jpg" alt="Cover of the This Music Is Ours CD"></div>
 The follow up to On Fire 30 was a track-for-track remake of Galaxie 500's final album This Is Our Music - there are **just 12 copies left** of this and these are now available for just £5 + postage!
 
 includes badges, stickers, postcards and a booklet of art and words. Another great album with splendid covers from around the world - Melbourne's Annual Leaf do a brilliant cover of Spook, Miguel M. Matallín from Valencia does a beautiful Way Up High and so much more - **and all for just a fiver**!

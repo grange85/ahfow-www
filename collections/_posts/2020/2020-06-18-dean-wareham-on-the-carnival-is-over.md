@@ -19,7 +19,7 @@ tags:
  - kramer
  - the seekers
 ---
-{% ahfowimage "/images/dean-and-britta-the-carnival-is-over-sleeve.jpg" "Dean & Britta, The Carnival is Over (Piaptk, 2020)" %}
+{% ahfowimage https://media.fullofwishes.co.uk/images/dean-and-britta-the-carnival-is-over-sleeve.jpg" "Dean & Britta, The Carnival is Over (Piaptk, 2020)" %}
 
 Dean Wareham has written a [piece for M&ouml;istworks blog](https://moistworks.com/home/carnival) about the making of Dean & Britta's beautiful cover of The Seekers' The Carnival is Over that was released a couple of weeks back both digitally and as a limited one-sided lathe-cut single.
 

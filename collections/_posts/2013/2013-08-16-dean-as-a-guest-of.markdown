@@ -27,7 +27,7 @@ While I'm pondering just how I cure my minor headache here are a few of those ap
 
 Dean as a guest of... Angel Corpus Christi - Je T'aime / I Wanna Boogie With You
 
-{% ahfowvideo "WNvzfy8zT44" "https://www.fullofwishes.co.uk/images/acc-dw-jtaime-boogie-pink.jpg" %}
+{% ahfowvideo "WNvzfy8zT44" https://media.fullofwishes.co.uk/images/acc-dw-jtaime-boogie-pink.jpg" %}
 
 Dean as a guest of... The Sixths - Falling Out of Love With You
 {% ahfowvideo "Ephn8t-fU48" "" %}

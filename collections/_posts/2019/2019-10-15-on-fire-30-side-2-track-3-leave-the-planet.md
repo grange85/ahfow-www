@@ -18,7 +18,7 @@ tags:
 flickr: true
 ---
 
-{% ahfowimage "/images/leave-the-planet-the-band.jpg" "Leave The Planet" %}
+{% ahfowimage https://media.fullofwishes.co.uk/images/leave-the-planet-the-band.jpg" "Leave The Planet" %}
 
 Now... here's a thing - I love the whole of On Fire so putting together a post about each of the tracks would be easy... right!?
 

@@ -33,8 +33,8 @@ show-ticket-url:
 show-venue-website:
 show-additional:
 show-download:
-  site: mediafire
-  url: http://www.mediafire.com/download/bsyr8vd8m8kyahj/Galaxie_500_1989-09-26__ICA,_London,_UK.zip
+  site: ahfow
+  url: https://media.fullofwishes.co.uk/01-galaxie_500/audio/1989-09-26-galaxie-500-london.zip
 photos:
   - type: ahfow-set
     data: "[

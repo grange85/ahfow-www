@@ -66,4 +66,4 @@ The two London shows will be as follows:
  - The show at Rough Trade West will be a Q&A with Damon about his excellent book-of-the-podcast Ways of Hearing.  
  - The show at The Victoria is party of the Walthamstow Rock 'n' Roll Book Club and will feature a Q&A about Ways of Hearing followed by a Damon & Naomi live set
 
-{% ahfowimage "/images/damon-krukowski-ways-of-hearing-aa.jpg" "Damon Krukowski Ways of Hearing" %}
+{% ahfowimage https://media.fullofwishes.co.uk/images/damon-krukowski-ways-of-hearing-aa.jpg" "Damon Krukowski Ways of Hearing" %}

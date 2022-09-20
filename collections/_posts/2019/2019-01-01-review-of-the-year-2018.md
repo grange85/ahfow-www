@@ -109,14 +109,14 @@ In October the Lunafied LP started arriving on peoples turntables - and turned o
 
 Also The Dean Wareham vs. Cheval Sombre LP also got it's release on lovely "root beer" coloured vinyl and with some special editions with an additional one-sided, square lathe-cut single.
 
-{% ahfowimage "/images/root-beer-vinyl.jpg" "Dean Wareham vs. Cheval Sombre" %}
+{% ahfowimage https://media.fullofwishes.co.uk/images/root-beer-vinyl.jpg" "Dean Wareham vs. Cheval Sombre" %}
 
 
 ### December
 
 Damon's fabulous podcast series Ways of Hearing was <a href="https://waysofhearing.bandcamp.com/">released as a lossless download via Bandcamp</a> and it was announced that it would be turned into a book to be released by MIT Press in April 2019.
 
-{% ahfowimage "/images/ways-of-hearing.jpg" "Damon Krukowski - Ways of Hearing" %}
+{% ahfowimage https://media.fullofwishes.co.uk/images/ways-of-hearing.jpg" "Damon Krukowski - Ways of Hearing" %}
 
 Another track from the Dean vs. Cheval Sombre album gets the video treatment - The Bend in the River is directed by Matthew Buzzell.
 

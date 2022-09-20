@@ -19,7 +19,7 @@ tags:
  - fanzine
  - everything's swirling
 ---
-{% ahfowimage "https://www.fullofwishes.co.uk/images/that-bass-and-that-fanzine.jpg" "Everything's Swirling no.1 fanzine" %}
+{% ahfowimage https://media.fullofwishes.co.uk/images/that-bass-and-that-fanzine.jpg" "Everything's Swirling no.1 fanzine" %}
 
 In 2017 to celebrate the 30th anniversary of the birth of Galaxie 500 I produced a fanzine (with the help of lots of folk) called Everything's Swirling - it had photos, sketches, poems and reminscences - it was a bit rough and ready (but ... fanzine) but I was proud of it.
 {: .lead}

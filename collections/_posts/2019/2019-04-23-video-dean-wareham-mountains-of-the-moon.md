@@ -19,11 +19,11 @@ tags:
  - dean wareham vs. cheval sombre
  - cheval sombre
 ---
-{%ahfowimage "/images/dean-wareham-mountains-of-the-moon-video-2.png" "Dean Wareham - Mountains of the Moon" %}
+{%ahfowimage https://media.fullofwishes.co.uk/images/dean-wareham-mountains-of-the-moon-video-2.png" "Dean Wareham - Mountains of the Moon" %}
 <p class="lead">Dean Wareham has just shared a new video for Mountains of the Moon from the excellent Dean Wareham vs Cheval Sombre album.</p>
 
 <p>The video was made by Judith Berndsen & Grayson Kent, with Britta Phillips.</p>
 
 {% ahfowvideo "lVpAxR0pHbI" "Mountains of the Moon by Dean Wareham" %}
 
-{%ahfowimage "/images/dean-wareham-mountains-of-the-moon-video-1.png" "Dean Wareham - Mountains of the Moon starring Judith Berndsen & Grayson Kent" %}
+{%ahfowimage https://media.fullofwishes.co.uk/images/dean-wareham-mountains-of-the-moon-video-1.png" "Dean Wareham - Mountains of the Moon starring Judith Berndsen & Grayson Kent" %}
