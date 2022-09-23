@@ -2,8 +2,8 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: "Tractor Taver, Seattle, WA, USA"
-title: "17th January 2023 -  Luna - Tractor Taver, Seattle, WA, USA"
+show-venue: "Tractor Tavern, Seattle, WA, USA"
+title: "17th January 2023 -  Luna - Tractor Tavern, Seattle, WA, USA"
 address:
 show-notes: ''
 show-setlist: 

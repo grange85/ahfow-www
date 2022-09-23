@@ -2,12 +2,12 @@
 layout: show
 position: database-5
 artistslug: luna
-show-venue: "Tractor Tavern, Seattle, WA, USA"
-title: "18th January 2023 -  Luna - Tractor Tavern, Seattle, WA, USA"
+show-venue: "Alladin Theater, Portland, OR, USA"
+title: "19th January 2023 -  Luna - Alladin Theater, Portland, OR, USA"
 address:
 show-notes: ''
 show-setlist: 
-show-date: 2023-01-18
+show-date: 2023-01-19
 date-added: 2022-09-23
 category: 2023
 show-radio: 
@@ -21,11 +21,10 @@ performers: [
   ]
 facebook-event-url: 
 show-poster-url: 
-show-ticket-url: https://www.ticketweb.com/event/luna-play-lunafied-w-guests-tractor-tickets/12519505
+show-ticket-url: https://event.etix.com/ticket/online/performanceSale.do?performance_id=7978301&method=restoreToken
 show-venue-website: 
 show-additional: 
 support:
-show-series: Luna play Lunafied
+show-series: 
 links:
 ---
-Luna will play a complete set of covers
