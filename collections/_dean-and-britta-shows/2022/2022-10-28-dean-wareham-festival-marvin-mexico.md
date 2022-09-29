@@ -5,7 +5,7 @@ artistslug: dean-wareham
 artist:
   name: Dean Wareham
 show-venue: "Festival Marvin, Circuito Condesa Roma, Mexico City, Mexico"
-title: "11th May 2022 - Dean Wareham - Festival Marvin, Circuito Condesa Roma, Mexico City, Mexico"
+title: "28th October 2022 - Dean Wareham - Festival Marvin, Circuito Condesa Roma, Mexico City, Mexico"
 address: 
 show-notes: 
 show-setlist:

@@ -22,7 +22,7 @@ luna:
   slug : luna
   image: https://media.fullofwishes.co.uk/02-luna/pictures/luna-2017-promo-luz-gallardo.jpg
   upcoming-shows-feed: https://www.fullofwishes.co.uk/database/luna/shows/upcoming.xml
-  yearsactive : [1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2015,2016,2017,2018,2019,2020,2021,2023]
+  yearsactive : [1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2015,2016,2017,2018,2019,2020,2021,2022,2023]
   members :
     - firstname: Dean
       lastname: Wareham

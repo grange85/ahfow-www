@@ -5,7 +5,7 @@ artistslug: luna
 artist:
   name: Luna
 show-venue: "Festival Marvin, Circuito Condesa Roma, Mexico City, Mexico"
-title: "11th May 2022 - Dean Wareham - Festival Marvin, Circuito Condesa Roma, Mexico City, Mexico"
+title: "29th October 2022 - Dean Wareham - Festival Marvin, Circuito Condesa Roma, Mexico City, Mexico"
 address: 
 show-notes: 
 show-setlist:
