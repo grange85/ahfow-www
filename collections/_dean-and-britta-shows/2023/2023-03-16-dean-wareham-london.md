@@ -20,7 +20,7 @@ performers: [
   "Britta Phillips - bass"
   ]
 facebook-event-url:
-show-poster-url: 
+show-poster-url: https://media.fullofwishes.co.uk/05-dean_wareham/show_assets/2023-03-16/2023-03-16-dean-wareham-london-poster.jpg
 show-ticket-url: https://www.alttickets.com/dean-wareham-plays-galaxie-500-tickets
 show-venue-website:
 show-additional:
