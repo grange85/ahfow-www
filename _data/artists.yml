@@ -71,7 +71,7 @@ dean-and-britta:
   slug: dean-and-britta
   image: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/dean-and-britta-home-img.jpg
   upcoming-shows-feed: https://www.fullofwishes.co.uk/database/dean-and-britta/shows/upcoming.xml
-  yearsactive: [2003,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022]
+  yearsactive: [2003,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023]
   members :
     - firstname: Dean
       lastname: Wareham
@@ -88,7 +88,7 @@ dean-wareham:
   slug: dean-wareham
   shows: dean-and-britta
   image: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-home-img.jpg
-  yearsactive: [2003,2008,2013,2014,2016,2017,2018,2019,2020,2021,2022]
+  yearsactive: [2003,2008,2013,2014,2016,2017,2018,2019,2020,2021,2022,2023]
 
 britta-phillips:
   name: Britta Phillips
