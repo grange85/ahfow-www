@@ -14,7 +14,7 @@ date-added: 2022-10-10
 category: 2023
 show-radio:
 show-lastfm:
-show-cancelled: true
+show-cancelled: false
 performers: [
   "Dean Wareham - guitar/vocals",
   "Britta Phillips - bass"
