@@ -19,7 +19,7 @@ categories:
 tags:
  - naomi yang
 ---
-Not sure how this slipped me by but I just came across this tantalising trailer on Naomi's Vimeo feed, uploaded a few months back.
+Not sure how this slipped me by but I just came across this tantalising trailer on Naomi Yang's Vimeo feed, uploaded a few months back.
 
 > Indie rock musician known for her slow and melancholy ballads learns how to throw a punch from a tough-talking old boxer and a fiery neighborhood activist. But the fight she needs to win turns out to be in her past.
 
