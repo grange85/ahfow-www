@@ -2,10 +2,23 @@ name: Manual deploy
 
 on:
   workflow_dispatch:
+    inputs:
+      tags:
+        description: 'manual deploy'
+  push:
+    branches:
+      - main
+  schedule:
+    # Schedule to post every day during December
+    - cron: '37 6 1-24 12 *'
+
 
 jobs:
-  jekyll:
+  deployment:
     runs-on: ubuntu-latest
+    environment:
+      name: production
+      url: https://www.fullofwishes.co.uk
     steps:
     - uses: actions/checkout@v3
 
@@ -22,13 +35,10 @@ jobs:
         ruby-version: 3.0 # Not needed with a .ruby-version file
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
 
-
     # Standard usage
-    - name: Deployment
+    - name: Build site
       run: |
         bundle exec jekyll build --config _config.yml,_config_build.yml
-        
-
 
     # Example deployment: Push to S3
     - name: Configure AWS credentials
