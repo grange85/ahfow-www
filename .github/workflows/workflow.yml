@@ -40,11 +40,11 @@ jobs:
 
     - name: Create minified json for search
       run: |
-        python3 -c 'import json, sys;json.dump(json.load(sys.stdin), sys.stdout)' < _site/search.json > _site/search-min
+        python3 -c 'import json, sys;json.dump(json.load(sys.stdin), sys.stdout)' < _deploy/search.json > _deploy/search-min
 
     - name: Sync output to S3
       run: |
-        # aws s3 sync --delete --exclude '.sass-cache' _site s3://www.fullofwishes.co.uk
+        # aws s3 sync --delete --exclude '.sass-cache' _deploy s3://www.fullofwishes.co.uk
         # aws s3 mv --content-type "text/xml" --metadata-directive REPLACE s3://www.fullofwishes.co.uk/feed.xml s3://www.fullofwishes.co.uk/feed
         # aws cloudfront create-invalidation --no-cli-pager --distribution-id ${{ secrets.CDN_DISTRIBUTION_ID_WWW }} --paths "/*"
         # aws cloudfront create-invalidation --no-cli-pager --distribution-id ${{ secrets.CDN_DISTRIBUTION_ID_CDN }} --paths "/*"
