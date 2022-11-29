@@ -20,7 +20,7 @@ performers: [
   "Lee Wall - drums",
   ]
 facebook-event-url: 
-show-poster-url: 
+show-poster-url: https://media.fullofwishes.co.uk/02-luna/show_assets/2023-01-11/2023-01-11-luna-ojai-poster.jpg
 show-ticket-url: https://www.eventbrite.com/e/luna-ojai-deer-lodge-ojai-111-tickets-471595774657
 show-venue-website: https://folkyeah.com/luna-ojai-111
 show-additional: 
