@@ -19,10 +19,10 @@ tags:
  - noah baumbach
  - soundtrack
 excerpt: |
-  This week a new Noah Baumback film is landing on Netflix and the soundtrack will feature a new song, The Cloud is Coming, by Dean & Britta.
+  This week a new Noah Baumbach film is landing on Netflix and the soundtrack will feature a new song, The Cloud is Coming, by Dean & Britta.
   #DeanAndBritta #DeanWareham #BrittaPhillips #NoahBaumbach #WhiteNoise 
 ---
-This week a new Noah Baumback film is landing on Netflix and the soundtrack will feature a new song, The Cloud is Coming, by Dean & Britta.
+This week a new Noah Baumbach film is landing on Netflix and the soundtrack will feature a new song, The Cloud is Coming, by Dean & Britta.
 
 {% ahfowvideo "WlitnudreCs" "Dean & Britta - The Cloud is Coming" %}
 
