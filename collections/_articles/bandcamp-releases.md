@@ -20,8 +20,8 @@ If you're wondering what you might like to buy on Bandcamp here are a few AHFoW 
 
 Top of your list if you haven't already are:
 
- - Dean Wareham's new album [I Have Nothing to Say to The Mayor of L.A.](https://deanwareham.bandcamp.com/album/i-have-nothing-to-say-to-the-mayor-of-l-a)
- - Damon & Naomi's new album [A Sky Record](https://damonandnaomi.bandcamp.com/album/a-sky-record) also [available as a booklet](https://damonandnaomi.bandcamp.com/merch/a-sky-record-companion-deluxe-package)
+ - Dean Wareham's latest album [I Have Nothing to Say to The Mayor of L.A.](https://deanwareham.bandcamp.com/album/i-have-nothing-to-say-to-the-mayor-of-l-a)
+ - Damon & Naomi's latest album [A Sky Record](https://damonandnaomi.bandcamp.com/album/a-sky-record) also [available as a booklet](https://damonandnaomi.bandcamp.com/merch/a-sky-record-companion-deluxe-package)
  - Dean & Britta's [Quarantine Tapes](https://deanandbritta.bandcamp.com/album/quarantine-tapes)
 
 
@@ -47,6 +47,11 @@ Not all of Luna's catalogue but a few gems can be had
 - [A Place of Greater Safety - Luna](https://luna.bandcamp.com/album/a-place-of-greater-safety)
 - [Postscripts - Luna](https://luna.bandcamp.com/album/postscripts)
 - [Tell Me Do You Miss Me (live) - Luna](https://luna.bandcamp.com/album/tell-me-do-you-miss-me)
+
+Also they have put out three great _full album_ live releases
+- [Live Bewitched](https://luna.bandcamp.com/album/live-bewitched)
+- [Live Penthouse](https://luna.bandcamp.com/album/live-penthouse)
+- [Live Rendezvous](https://luna.bandcamp.com/album/live-rendezvous)
 
 **Most** of Damon & Naomi's catalogue is on Bandcamp - including some that aren't available elswhere.  
 _most of these are **pay what you want** but obviously the more you pay the better for everyone!_
@@ -75,7 +80,7 @@ Also Damon & Naomi's tenure with Magic Hour is all on Bancamp too!
 ... and Damon's brilliant Ways of Hearing audiobook/podcast
  - [Ways of Hearing - Damon Krukowski](https://waysofhearing.bandcamp.com/)
 
-Dean & Britta's first two albums are on Bandcamp, and there wonderful cover of The Carnival is Over
+Dean & Britta's first two albums are on Bandcamp, and their wonderful cover of The Carnival is Over
  - [The Carnival Is Over - Dean & Britta](https://deanandbritta.bandcamp.com/track/the-carnival-is-over)
  - [Back Numbers - Dean & Britta](https://deanandbritta.bandcamp.com/album/back-numbers)
  - [L'Avventura + bonus tracks (Sonic Boom remixes) - Dean & Britta](https://deanandbritta.bandcamp.com/album/lavventura-bonus-tracks-sonic-boom-remixes)
@@ -87,6 +92,8 @@ Britta has some lovely solo stuuff up there too
 
 Dean Wareham
 
+ - [Dean Wareham](https://deanwareham.bandcamp.com/album/dean-wareham)
+ - [Emancipated Hearts](https://deanwareham.bandcamp.com/album/emancipated-hearts)
  - [I Have Nothing to Say to The Mayor of L.A.](https://deanwareham.bandcamp.com/album/i-have-nothing-to-say-to-the-mayor-of-l-a)
  - [Live at St Pancras Old Church London December 2013 - Dean Wareham](https://shop.soniccathedral.co.uk/album/live-at-st-pancras-old-church-london-december-2013-2)
 
@@ -121,6 +128,8 @@ Sean can also be found playing on most of [Elk City](https://elkcity.bandcamp.co
  - [Everybody's Insecure](https://elkcity.bandcamp.com/album/everybodys-insecure)
  - [House of Tongues](https://elkcity.bandcamp.com/album/house-of-tongues)
  - [New Believers](https://elkcity.bandcamp.com/album/new-believers)
+ - [Above The Water](https://elkcity.bandcamp.com/album/above-the-water)
+
 
 #### Other
 
@@ -142,6 +151,8 @@ You can find AHFoW related folk on these (and plenty more if you hunt around)
 
 #### And some bands/artists/labels AHFoW is a fan of
 
+- [Landslide Eyes - The Gentle Cycle](https://thegentlecycle.bandcamp.com/album/landslide-eyes-2)
+  - See also [The Gentle Cycle's cover of Galaxie 500's Way Up High](https://thegentlecycle.bandcamp.com/track/way-up-high)
 - [The Lost Art of Wandering - Raymond Richards](https://raymondrichards.bandcamp.com/album/the-lost-art-of-wandering)
 - [Sonic Cathedral](https://shop.soniccathedral.co.uk/music)
 - [The Standby Connection](https://thestandbyconnection.bandcamp.com/)
