@@ -114,6 +114,7 @@ exclude:
 - _deploy/
 - _archived-posts/
 - _cloudfront-distribution-id
+- .jekyll-cache
 - "*.swp"
 - "*.swo"
 
