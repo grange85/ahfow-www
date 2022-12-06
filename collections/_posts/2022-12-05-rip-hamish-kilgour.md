@@ -24,7 +24,7 @@ excerpt: |
 ---
 {% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-anesthesia-minttea-reverse.jpg" "Dean Wareham - Anestheisa sleeve (reverse)" %}
 
-The versy sad news of the passing of Hamish Kilgour of The Clean has just been confirmed. Hamish had had been missing for a week and police confir<F3>med today that he has been found dead in Christchurch, New Zealand.
+The very sad news of the passing of Hamish Kilgour of The Clean has just been confirmed. Hamish had had been missing for a week and police confir<F3>med today that he has been found dead in Christchurch, New Zealand.
 
 Most well known for being in New Zealand band The Clean with his brother David, he later was living in New York City and while there played drums for Dean Wareham on his first post-Galaxie 500 sessions.
 
