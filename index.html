@@ -38,7 +38,7 @@ description: >
     {% if paginator.page == 1 and post.next.url == Nil %}
         {{post.content}}
     {% else %}
-        <div class="clearfix">{{post.excerpt}}</div>
+        <div class="clearfix">{{post.content}}</div>
         {% if post.content contains "<!--more-->" %}
         <p><a class="btn btn-outline-secondary btn-sm float-right" href="{{ post.url | prepend: site.baseurl }}">Read on&hellip;</a></p>
         {% endif %}
