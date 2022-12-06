@@ -25,18 +25,24 @@ tags:
 <p>The dream of going to bed on a clear Christmas Eve and waking on Christmas morning to find the world covered in a fresh blanket of snow is one I’ve had every year for as long as I can remember. Sadly, being London, while I’ve been dreaming of a white Christmas I’ve been invariably delivered a wet one. Maybe this time&hellip;</p>
 
 <p>Here’s Damon & Naomi’s cover of Irving Berlin’s Christmas classic</p>
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2221016275/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2954045243/transparent=true/" seamless><a href="http://damonandnaomi.bandcamp.com/album/spirit-of-love-b-sides-bonuses-and-soundtracks">Spirit of Love (B-sides, bonuses, and soundtracks) by Damon & Naomi</a></iframe>
+
+ {% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/01-damon-and-naomi-white-christmas.mp3",
+  "audiocap": "Damon & Naomi - White Christmas (2008)",
+  "sourceurl": "https://damonandnaomi.bandcamp.com/album/spirit-of-love-b-sides-bonuses-and-soundtracks",
+  "sourcecap": "Spirit of Love ( B-sides, bonuses, and soundtracks)"
+  } %}
 
 
 <p>And here’s Galaxie 500’s snow day specials</p>
 <p>Snowstorm&hellip;</p>
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=158016030/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2355405035/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/on-fire">On Fire by Galaxie 500</a></iframe>
+{% ahfowvideo "nsFtmGyigoo" "Galaxie 500 - Snowstorm" %}
 
 <p>Listen, the Snow Is Falling&hellip;</p>
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2405309532/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3594938743/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/this-is-our-music">This Is Our Music by Galaxie 500</a></iframe>
+{% ahfowvideo "RGY_b093UR4" "Galaxie 500 - Listen, The Snow is Falling (On Fire)" %}
 
 <p>Listen, the Snow Is Falling (live in Copenhagen)&hellip;</p>
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3510813574/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3152425973/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/copenhagen-live">Copenhagen (live) by Galaxie 500</a></iframe>
+{% ahfowvideo "wdkeA4ffSck" "Galaxie 500 - Listen, The Snow is Falling (Copenhagen)" %}
 
 <p>And here's Sean Eden's Snow Drive from Tell Me Do You Miss Me&hellip;</p>
  {% ahfowaudio {
