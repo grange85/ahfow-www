@@ -15,7 +15,7 @@ on:
 
 jobs:
   deployment:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     environment:
       name: production
       url: https://www.fullofwishes.co.uk
