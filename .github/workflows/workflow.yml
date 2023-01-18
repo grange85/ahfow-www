@@ -9,8 +9,8 @@ on:
     branches:
       - main
   schedule:
-    # Schedule to post every day during December
-    - cron: '37 6 1-24 12 *'
+    # Schedule to post every day
+    - cron: '37 6 * * *'
 
 
 jobs:
