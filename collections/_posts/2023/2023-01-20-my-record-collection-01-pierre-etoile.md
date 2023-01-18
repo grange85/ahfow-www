@@ -29,7 +29,7 @@ In June, just two months later, the Pierre Etoile EP was released by Rough Trade
 > We were conscious of trying not to undermine the band any further [... s]o we strived to make it as different as possible. That's why we didn't do it with Kramer and I didn't sing, etc. etc  
 > _Naomi Yang - Ptolemaic Terrascope, July 1997_
 
-Shortly after its release I found myself in Vinyl Experience in Buck Street, Camden, paying £3.80 for a copy of the EP. I'll have to assume that I must have been hunting it down since it's not obvious from the sleeve that it had anything to do with Galaxie 500 so I probably didn't just luck upon it. Obviously, back then I was a very thorough reader of the music inkies so it's not really a surprise that a heartbroken Galaxie 500 fan was looking for it!
+Shortly after its release I found myself in Vinyl Experience in Buck Street, Camden, paying £3.80 for a copy of the EP. I'll have to assume that I must have been hunting it down since it's not obvious from the front of the sleeve that it had anything to do with Galaxie 500 so I probably didn't just luck upon it. Obviously, back then I was a very thorough reader of the music inkies so it's not really a surprise that a heartbroken Galaxie 500 fan was looking for it!
 
 {% ahfowimage "https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/1991-06-melody-maker-pierre-pressure.jpg" "Melody Maker article - Pierre Pressure - June 1991 (I assume)" %}
 
