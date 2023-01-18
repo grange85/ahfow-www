@@ -99,7 +99,7 @@ host: 0.0.0.0
 port: 4040
 markdown: kramdown
 environment: production
-future: true
+future: false
 unpublished: false
 
 # default excludes
