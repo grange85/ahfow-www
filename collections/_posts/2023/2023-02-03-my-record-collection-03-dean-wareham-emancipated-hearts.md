@@ -4,50 +4,34 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: "My record collection: Dean Wareham - Emancipated Hearts"
+title: "My record collection: Dean Wareham - Emancipated Hearts (CD)"
 author: 
   display_name: Andy
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2023-02-03
-imageurl: 
+imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/emancipated-hearts-cd.jpg
 categories:
  - dean wareham
  - my record collection
 tags:
  - emancipated hearts
 ---
-{% ahfowimage "" "" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/emancipated-hearts-cd.jpg" "Emancipated Hearts CD" %}
 
-Emancipated Hearts was released in the autumn of 2013 - it's a six track mini-LP that was released as a lovely orange 10" by Sonic Cathedral (and in another colour - possibly black - on Double Feature) - the album was produced by Jason Quever (Papercuts) and featured 26 minutes of music ... which gets me thinking about formats.
+The CD of Dean's first solo album (yes, it's an album as far as I'm concerned - I may ruminate on this later in the series) - this came out on the wonderful Sonic Cathedral back in October 2013. My copy was scrounged off Nat at Sonic Cathedral when I ordered the 10" version - I must admit that I don't really like soliciting freebies but do occasionally if I'm feeling mean or poor, or both.
 
-Now, I have always had very strong opinions on formats - it's pretty simple
+It really and clearly was _for the collection_ since it's still in its cellophane wrapper - the vinyl, that I paid for, gets played often.
 
- - A single ... is 7" of vinyl, runs at 45rpm, and has 3 or 4 minutes of music on each side - normally one song/track per side...  
-   _e.g. Galaxie 500 - Tugboat / King of Spain_
- - A 12" single ... is 12" of vinyl, runs at 45rpm, and runs a bit longer, and plays louder, than a 7" single...
-   _e.g. Galaxie 500 - Fourth of July / Here She Comes Now_
- - An EP ... is 7" of vinyl, runs at __45rpm__, and has 7 or 8 minutes of music on each side - normally two songs/tracks per side...  
-   _e.g. The Beatles - Twist & Shout EP_
- - An LP ... is 10" __or__ 12" of vinyl, runs at 33rpm, and has 12 to 15 (10") or 15 to 25 (12") minutes on each side
-   _e.g.
-     - Galaxie 500 - On Fire (12")
-     - _Dean Wareham - Emancipated Hearts_ (10")
+ - *Catalogue Number:* AHFOW 10/072
+ - *Artist:* Dean Wareham
+ - *Title:* Emancipated Hearts
+ - *Notes:* sealed
+ - *Packaging:* Jewel case
+ - *Format:* CD
+ - [Buy Emancipated Hearts on Bandcamp](https://deanwareham.bandcamp.com/album/emancipated-hearts)
 
-_everything else is an aberration!_
+ Here's a video of Dean playing the title track for KCRW in June 2014
 
-So, when Dean says:
-
-> [M]y mini-LP or maxi-EP (__since it's 10" vinyl it is not an LP__) is out at last. 
-  _Dean Wareham Newsletter - 15th October 2013_
-
-... he's wrong - it runs at 33rpm and has 25'46" of music. OK, I'll grant that just under 26 minutes is at the short end of LP length - but it's not far off Dylan's Nashville Skyline (26'46"), Nick Drake's Pink Moon (28'22") - and out-runs The Beach Boys' Wild Honey (23'58") by a couple of minutes!
-
-So, Emancipated Hearts is an LP, and was Dean's first solo LP.
-
-
-
-
-   
-
+ {% ahfowvideo "Wsu8Ic7YoJo" "Dean Wareham - Emancipated Hearts (KCRW, June 2014)" %}
