@@ -30,7 +30,7 @@ It really and clearly was _for the collection_ since it's still in its cellophan
  - *Notes:* sealed
  - *Packaging:* Jewel case
  - *Format:* CD
- - [Buy Emancipated Hearts on Bandcamp](https://deanwareham.bandcamp.com/album/emancipated-hearts)
+ - [Buy 'Emancipated Hearts' on Bandcamp](https://deanwareham.bandcamp.com/album/emancipated-hearts)
 
  Here's a video of Dean playing the title track for KCRW in June 2014
 

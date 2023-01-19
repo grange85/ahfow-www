@@ -32,3 +32,12 @@ The [EP is on Luna's Baandcamp](https://luna.bandcamp.com/album/close-cover-befo
  - [1995 video](https://www.youtube.com/watch?v=W2pNzJ42Osc)
  
 {% ahfowimage "https://media.fullofwishes.co.uk/02-luna/pictures/close-cover-before-striking-cd-playing.jpg" "Close Cover Before Striking" %}
+
+ - *Catalogue Number:* AHFOW 10/077 
+ - *Artist:* Luna
+ - *Title:* Close Cover Before Striking
+ - *Notes:* 
+ - *Packaging:* Digipack
+ - *Format:* CD
+ - [Buy 'Close Cover Before Striking' on Bandcamp](https://luna.bandcamp.com/album/close-cover-before-striking)
+
