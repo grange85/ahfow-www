@@ -22,7 +22,7 @@ So, how to fill my time, and my blog!?
 
 My record (and CD)  collection is pretty big, although (sadly) not as big as it once was - I downsized considerably before we moved. The Oxfam record shop (and a few other charity shops) in Ealing took literally hundreds of my LPs.
 
-[My Discogs collection](https://www.discogs.com/user/grange85/collectio) currently has 2381 entries - that doesn't include everything I still have, maybe about half?
+[My Discogs collection](https://www.discogs.com/user/grange85/collection) currently has 2381 entries - that doesn't include everything I still have, maybe about half?
 
 The 'A Head Full of Wishes' folder in my Discogs collection (which probably does have _almost_ of all my AHFoW related releases) numbers 319
 
