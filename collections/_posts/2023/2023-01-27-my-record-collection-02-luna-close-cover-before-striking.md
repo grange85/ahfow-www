@@ -18,11 +18,11 @@ categories:
 tags:
  - close cover before striking
 ---
-{% ahfowimage "https://media.fullofwishes.co.uk/02-luna/pictures/close-cover-before-striking-matchbook.jpg" "Close Cover Before Striking" %}
-
-No idea where I bought this, and for how much. For some reason I'm thinking Selectadisc in Berwick Street - but it could have been anywhere. In fact by 2002 it could have been bought online.
+No idea where I bought Luna's Close Cover Before Striking, and for how much but it could have been anywhere. In fact by 2002 it could have been bought online.
 
 The CD sleeve was designed to look like a match book and everytime I pick it up I want it to be exactly like a match book - but no, it's just an ordinary digipack CD. It does have a sticker on the sleeve that makes it look a bit more like a matchbook - but the sticker is actually there to hide a printing error - when the sleeves came back from the printers it read "Close Cover Before Before Striking" - [there are some promos, in plain card sleeves, with the mistake](https://www.discogs.com/release/4840455-Luna-Close-Cover-Before-Striking). Although, was it really a mistake or was it a change of mind? I quite like the "Before Before", and seems strange that the _error_ made it through promo and full release QA?
+
+{% ahfowimage "https://media.fullofwishes.co.uk/02-luna/pictures/close-cover-before-striking-matchbook.jpg" "Close Cover Before Striking" %}
 
 The CD was released in October 2002 and has seven tracks, mostly outtakes from the Romantica sessions - and also included pretty low-res videos for Lovedust and 1995.
 

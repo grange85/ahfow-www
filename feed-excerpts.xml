@@ -25,7 +25,10 @@ layout: null
      {% unless post.draft %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.excerpt | replace : 'href="/', 'href="https://www.fullofwishes.co.uk/' | xml_escape }}
+        <description>{{ post.content | strip_html | truncatewords: 25 }}
+        {% for tag in post.tags %}
+            #{{tag | replace:" ", "-" }} 
+        {% endfor %}
         </description>
         <author>{{post.author.display_name}}</author>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
