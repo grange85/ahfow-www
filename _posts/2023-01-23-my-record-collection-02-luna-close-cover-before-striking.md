@@ -4,19 +4,19 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: "My record collection: Luna - Close Cover Before Striking"
-author: 
+title: 'My record collection: Luna - Close Cover Before Striking'
+author:
   display_name: Andy
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-date: 2023-01-27
 imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/close-cover-before-striking-matchbook.jpg
 categories:
- - luna
- - my record collection
+- luna
+- my record collection
 tags:
- - close cover before striking
+- close cover before striking
+date: 2023-01-23 00:00 +0000
 ---
 No idea where I bought Luna's Close Cover Before Striking, and for how much but it could have been anywhere. In fact by 2002 it could have been bought online.
 

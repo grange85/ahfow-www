@@ -10,12 +10,11 @@ description: >
   and Dean Wareham. With news, articles and lists of releases and past and future shows. 
 ---
     {% for post in paginator.posts %}
-    {% unless post.draft %}
 
 
 <div class="card">
     <div class="card-header">
-        <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>{% if post.draft %} <span class="badge badge-primary">Draft</span> {% endif %}</h2>
     </div>
     <div class="card-body">
  		    	    <p class="byline">
@@ -47,7 +46,6 @@ description: >
     </article>
     </div>
 </div>
-    {% endunless %}
     {% endfor %}
 
 <!-- Pagination links -->

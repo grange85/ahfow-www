@@ -16,7 +16,7 @@ ahfow-version: '2.0'
 sass:
   sass_dir: css
 
-collections_dir: collections
+# collections_dir: collections
 
 collections: 
   articles:
@@ -92,6 +92,40 @@ pagination:
   indexpage: 'index'
 
 excerpt_separator: <!--more-->
+
+jekyll_compose:
+  auto_open: true
+  default_front_matter:
+    drafts:
+      layout: post
+      status: publish
+      published: false
+      draft: true
+      sitemap: true
+      author:
+        display_name: Andy
+        login: admin
+        email: andy@grange85.co.uk
+        url: http://www.grange85.co.uk
+      imageurl: 
+      categories:
+      tags:
+    posts:
+      layout: post
+      status: publish
+      published: true
+      draft: false
+      sitemap: true
+      author:
+        display_name: Andy
+        login: admin
+        email: andy@grange85.co.uk
+        url: http://www.grange85.co.uk
+      imageurl: 
+      categories:
+      tags:
+
+
 
 # Build settings
 livereload: false

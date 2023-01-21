@@ -2,15 +2,15 @@
 layout: post
 status: publish
 published: true
-draft: false
+draft: true
 sitemap: true
-title: "My record collection: Dean Wareham - Emancipated Hearts"
+title: "My record collection: Dean Wareham - Emancipated Hearts (LP)"
+date: 2023-01-21
 author: 
   display_name: Andy
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-date: 2023-02-03
 imageurl: 
 categories:
  - dean wareham

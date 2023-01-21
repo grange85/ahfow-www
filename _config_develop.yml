@@ -1,6 +1,7 @@
-# Production environment overrides 
+# Development environment overrides 
 # Build settings
 environment: development
 destination: ./_deploy/
-future: false
+future: true
 unpublished: true
+drafts: true

@@ -5,6 +5,7 @@ gem "jekyll", "~> 4.3.0"
 gem 'webrick', '~> 1.3', '>= 1.3.1'
 gem 'bootstrap', '~> 4.6.1'
 #gem "minima"
+gem 'jekyll-compose', group: [:jekyll_plugins]
 
 group :jekyll_plugins do
   gem 'jekyll-feed', '~> 0.12.1'
