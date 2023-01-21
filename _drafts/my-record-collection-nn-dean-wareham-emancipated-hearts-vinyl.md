@@ -1,8 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
-draft: true
 sitemap: true
 title: "My record collection: Dean Wareham - Emancipated Hearts (LP)"
 date: 2023-01-21

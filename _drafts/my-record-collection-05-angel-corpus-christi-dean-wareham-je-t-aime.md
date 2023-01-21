@@ -1,10 +1,6 @@
 ---
 layout: post
 title: 'My record collection: Angel Corpus Christi / Dean Wareham - Je t''aime'
-date: 2023-01-21
-status: publish
-published: false
-draft: true
 sitemap: true
 author:
   display_name: Andy
@@ -15,3 +11,6 @@ imageurl:
 categories:
 tags:
 ---
+test
+
+{{page.url}}

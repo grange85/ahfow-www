@@ -98,9 +98,6 @@ jekyll_compose:
   default_front_matter:
     drafts:
       layout: post
-      status: publish
-      published: false
-      draft: true
       sitemap: true
       author:
         display_name: Andy
@@ -112,9 +109,6 @@ jekyll_compose:
       tags:
     posts:
       layout: post
-      status: publish
-      published: true
-      draft: false
       sitemap: true
       author:
         display_name: Andy

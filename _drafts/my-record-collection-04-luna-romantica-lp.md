@@ -1,11 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-draft: true
 sitemap: true
 title: "My record collection: Luna - Romantica"
-date: 2023-01-21
 author: 
   display_name: Andy
   login: admin

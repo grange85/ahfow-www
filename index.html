@@ -14,7 +14,13 @@ description: >
 
 <div class="card">
     <div class="card-header">
-        <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>{% if post.draft %} <span class="badge badge-primary">Draft</span> {% endif %}</h2>
+        <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+			{% assign curdate = site.time | date: '%s' | minus: 86400 %}
+			{% assign postdate = post.date | date: '%s' %}{% assign postdate = postdate | plus: 1 %}
+			{% if post.draft %} <span class="badge badge-primary">Draft</span> 
+			{% elsif postdate > curdate %} <span class="badge badge-primary">Future</span>
+			{% endif %}
+		</h2>
     </div>
     <div class="card-body">
  		    	    <p class="byline">
