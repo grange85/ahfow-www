@@ -11,7 +11,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2023-01-20
-imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/pierre-etoile-spinning-2023.jpg
+imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/pierre-etoile-spinning-2023.jpg
 categories:
  - damon & naomi
  - my record collection
@@ -22,7 +22,7 @@ So, here's the first random entry from my record collection and, in what will pr
 
 On 8th April 1991, three days after their last show [Galaxie 500 split](/2021/04/05/the-end-of-galaxie-500-30-years-on/). 
 
-{% ahfowimage "https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/pierre-etoile-spinning-2023.jpg" "Pierre Etoile" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/pierre-etoile-spinning-2023.jpg" "Pierre Etoile" %}
 
 In June, just two months later, the Pierre Etoile EP was released by Rough Trade. The first post-Galaxie 500 release by any of the members. The EP was actually recorded before the split and contains three songs - all sung by Damon. It was a considered decision to not have Naomi sing, supposedly to distance the release from Galaxie 500.
 

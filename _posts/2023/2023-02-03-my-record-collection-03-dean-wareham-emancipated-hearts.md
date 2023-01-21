@@ -11,7 +11,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2023-02-03
-imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/emancipated-hearts-cd.jpg
+imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/emancipated-hearts-cd.jpg
 categories:
  - dean wareham
  - my record collection
@@ -20,7 +20,7 @@ tags:
 ---
 The CD of Dean's first solo album (yes, it's an album as far as I'm concerned - I may ruminate on this later in the series) - this came out on the wonderful Sonic Cathedral back in October 2013. My copy was scrounged off Nat at Sonic Cathedral when I ordered the 10" version - I must admit that I don't really like soliciting freebies but do occasionally if I'm feeling mean or poor, or both.
 
-{% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/emancipated-hearts-cd.jpg" "Emancipated Hearts CD" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/emancipated-hearts-cd.jpg" "Emancipated Hearts CD" %}
 
 It really and clearly was _for the collection_ since it's still in its cellophane wrapper - the vinyl, that I paid for, gets played often.
 
