@@ -4,7 +4,7 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: 'My record collection: Luna - Close Cover Before Striking'
+title: 'My record collection: #002: Luna - Close Cover Before Striking'
 author:
   display_name: Andy
   login: admin
@@ -24,6 +24,11 @@ The CD sleeve was designed to look like a match book and everytime I pick it up 
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/close-cover-before-striking-matchbook.jpg" "Close Cover Before Striking" %}
 
+OK - just looked, and definitely did buy this online - it arrived in an order with CDs by John Parish and Sue Garner on the 1st October 2002. Here's what I thought at the time.
+
+> Luna - Close Cover Before Striking  
+> An exceptional little collection. Astronaut is possibly the most infectious Luna song ever - I've was humming it to myself after two listens (actually there are other infectious Luna songs - but you know what I mean). Waiting on a Friend - was the Stones' last listenable song and Luna do a lovely take complete with Jagger-esque ooh oohs. Oh I'm not gonna go through the whole album but it is a very worthy release. Shame the matchbook packaging isn't as complete as I'd hoped - it's just a digipack - I was hoping to have a real staple and to have to untuck the cover before opening...
+
 The CD was released in October 2002 and has seven tracks, mostly outtakes from the Romantica sessions - and also included pretty low-res videos for Lovedust and 1995.
 
 The [EP is on Luna's Baandcamp](https://luna.bandcamp.com/album/close-cover-before-striking) with a couple of extra tracks ... but no videos. But you can see the videos - in all their low-res-ness on YouTube:
@@ -39,5 +44,5 @@ The [EP is on Luna's Baandcamp](https://luna.bandcamp.com/album/close-cover-befo
  - *Notes:* 
  - *Packaging:* Digipack
  - *Format:* CD
+ - Bought online, probably from play247.com
  - [Buy 'Close Cover Before Striking' on Bandcamp](https://luna.bandcamp.com/album/close-cover-before-striking)
-

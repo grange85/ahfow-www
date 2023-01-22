@@ -4,7 +4,7 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: "My record collection: Pierre Etoile"
+title: "My record collection: #001: Pierre Etoile"
 author: 
   display_name: Andy
   login: admin
@@ -45,5 +45,5 @@ Back then Vinyl Experience had a motorbike mounted through its window - you sort
  - *Notes:* 
  - *Packaging:* 
  - *Format:* 12" single
+ - Vinyl Experience, Camden - £3.80
  - [Buy 'Pierre Etoile' on Bandcamp](https://damonandnaomi.bandcamp.com/album/pierre-etoile-ep)
-

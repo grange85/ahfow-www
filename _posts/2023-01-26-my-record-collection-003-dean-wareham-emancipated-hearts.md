@@ -1,22 +1,19 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "My record collection: Dean Wareham - Emancipated Hearts (CD)"
-author: 
+title: 'My record collection: #003: Dean Wareham - Emancipated Hearts (CD)'
+author:
   display_name: Andy
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-date: 2023-02-03
 imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/emancipated-hearts-cd.jpg
 categories:
- - dean wareham
- - my record collection
+- dean wareham
+- my record collection
 tags:
- - emancipated hearts
+- emancipated hearts
+date: 2023-01-26 00:00 +0000
 ---
 The CD of Dean's first solo album (yes, it's an album as far as I'm concerned - I may ruminate on this later in the series) - this came out on the wonderful Sonic Cathedral back in October 2013. My copy was scrounged off Nat at Sonic Cathedral when I ordered the 10" version - I must admit that I don't really like soliciting freebies but do occasionally if I'm feeling mean or poor, or both.
 
@@ -30,6 +27,7 @@ It really and clearly was _for the collection_ since it's still in its cellophan
  - *Notes:* sealed
  - *Packaging:* Jewel case
  - *Format:* CD
+ - Scrounged from Sonic Cathedral
  - [Buy 'Emancipated Hearts' on Bandcamp](https://deanwareham.bandcamp.com/album/emancipated-hearts)
 
  Here's a video of Dean playing the title track for KCRW in June 2014
