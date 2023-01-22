@@ -12,7 +12,6 @@ on:
     # Schedule to post every day
     - cron: '37 6 * * *'
 
-
 jobs:
   deployment:
     runs-on: ubuntu-20.04

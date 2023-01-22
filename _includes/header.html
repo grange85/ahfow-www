@@ -7,7 +7,9 @@
 		                <div class="col">
 		                    <h1 class="display-3 cc-home-banner-title"><a href="/" class="stretched-link text-light">{{ site.title }}</a></h1>
 		                        {% if site.subtitle %}
-		                            <p class="lead">{{ site.subtitle }}</p>
+		                            <p class="lead">{{ site.subtitle }}
+									{% if site.environment != "production" %}<br/>{{site.environment}}{% endif %}
+									</p>
 		                        {% endif %}
 		                </div>
 		            </div>
