@@ -9,12 +9,13 @@ author:
   url: http://www.grange85.co.uk
 imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/wondrous-world-of-d-n-ryko-cd.jpg
 categories:
- - damon & naomi
- - my record collection
+- damon & naomi
+- my record collection
 tags:
- - the wondrous world of damon & naomi
- - rykodisc
- - kramer
+- the wondrous world of damon & naomi
+- rykodisc
+- kramer
+date: 2023-02-02 00:00 +0000
 ---
 Another one bought, possibly on eBay, to try and fill out my collection, this is the 1998 Rykodisc re-release of Damon & Naomi's second album.
 
