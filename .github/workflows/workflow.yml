@@ -49,7 +49,7 @@ jobs:
 
     - name: Create minified json for search
       run: |
-        python3 -c 'import json, sys;json.dump(json.load(sys.stdin), sys.stdout)' < _deploy/search.json > _deploy/search-min
+        python3 -c 'import json, sys;json.dump(json.load(sys.stdin), sys.stdout)' < _deploy/search.json > _deploy/search-min.json
 
     - name: Sync output to S3
       run: |
