@@ -4,7 +4,8 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: "My record collection - introduction"
+series-title: 'My record collection'
+title: "Introduction"
 author:
   display_name: Andy
   login: admin

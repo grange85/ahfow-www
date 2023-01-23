@@ -4,7 +4,8 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: 'My record collection: #002: Luna - Close Cover Before Striking'
+series-title: 'My record collection'
+title: '#002: Luna - Close Cover Before Striking'
 author:
   display_name: Andy
   login: admin

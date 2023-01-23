@@ -28,7 +28,7 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% for post in site.tags.podcast limit:16 %}
       <item>
-        <title>{{ post.title | xml_escape }}</title>
+        <title>{% if post.series-title %}{{ post.series-title | xml_escape }}: {% endif %}{{ post.title | xml_escape }}</title>
         <description>{% if post.description %}{{post.description | xml_escape}} {% else %}{{ post.content | xml_escape }}{% endif %}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ site.domian }}{{ post.url | prepend: site.baseurl }}</link>

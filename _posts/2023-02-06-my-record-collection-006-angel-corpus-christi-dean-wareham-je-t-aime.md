@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'My record collection: #006: Angel Corpus Christi with Dean Wareham - Je t''aime
+series-title: 'My record collection'
+title: '#006: Angel Corpus Christi with Dean Wareham - Je t''aime
   / I Wanna Boogie With You'
 sitemap: true
 author:

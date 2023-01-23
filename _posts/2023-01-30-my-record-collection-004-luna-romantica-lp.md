@@ -1,7 +1,8 @@
 ---
 layout: post
 sitemap: true
-title: 'My record collection: #004: Luna - Romantica'
+series-title: 'My record collection'
+title: '#004: Luna - Romantica'
 author:
   display_name: Andy
   login: admin

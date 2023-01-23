@@ -24,7 +24,7 @@ layout: null
     {% for post in site.posts limit:16 %}
      {% unless post.draft %}
       <item>
-        <title>{{ post.title | xml_escape }}</title>
+        <title>{% if post.series-title %}{{ post.series-title | xml_escape }}: {% endif %}{{ post.title | xml_escape }}</title>
         <description>{{ post.content | replace : 'href="/', 'href="https://www.fullofwishes.co.uk/' | xml_escape }}
 
         {% unless post.content contains "<img" %}
