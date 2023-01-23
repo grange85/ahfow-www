@@ -141,6 +141,7 @@ exclude:
 - deploy.sh
 - _deploy/
 - _archived-posts/
+- _templates/
 - _cloudfront-distribution-id
 - .jekyll-cache
 - "*.swp"
