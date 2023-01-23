@@ -1,10 +1,5 @@
 		<div class="card">
 			<div class="card-header"><h2>{{ page.title }}
-			{% assign curdate = site.time | date: '%s' | minus: 86400 %}
-			{% assign postdate = page.date | date: '%s' %}{% assign postdate = postdate | plus: 1 %}
-			{% if page.draft %} <span class="badge badge-primary">Draft</span> 
-			{% elsif postdate > curdate %} <span class="badge badge-primary">Future</span>
-			{% endif %}
 			</h2>
 			</div>
 				<div class="card-body">
