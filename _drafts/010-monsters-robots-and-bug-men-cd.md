@@ -10,5 +10,9 @@ author:
   url: http://www.grange85.co.uk
 imageurl:
 categories:
+ - damon and naomi
+ - my record collection
 tags:
+ - magic hour
+ - post rock
 ---
