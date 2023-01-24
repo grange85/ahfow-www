@@ -17,3 +17,12 @@ tags:
  - college radio
  - interview
 ---
+
+
+{% ahfowaudio {
+  "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/luna-musicview-show-187-1994.mp3",
+  "audiocap": "Luna on Music View show 187, 1994",
+  "sourceurl": "",
+  "sourcecap": ""
+  } 
+%}
