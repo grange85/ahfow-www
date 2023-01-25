@@ -4,8 +4,8 @@ status: publish
 published: true
 draft: false
 sitemap: true
-series-title: 'My record collection (12")'
-title: "#001: Pierre Etoile"
+series-title: 'My record collection'
+title: '#001: Pierre Etoile (12")'
 author: 
   display_name: Andy
   login: admin
