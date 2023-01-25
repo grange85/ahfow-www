@@ -14,7 +14,7 @@ description: >
 
 <div class="card">
     <div class="card-header">
-        <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{% if post.series-title %}<span class="badge badge-secondary">{{ post.series-title }}</span><br/> {% endif %}{{ post.title }}</a>
+        <h2>{% if post.series-title %}<span class="text-muted text-uppercase small">{{ post.series-title }}</span><br/> {% endif %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 			{% if site.environment == "development" %}
 			{% if post.draft %} <span class="badge badge-primary">Draft</span> {% endif %}
 			{% endif %}
