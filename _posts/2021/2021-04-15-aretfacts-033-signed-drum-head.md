@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #033: Lee Wall's drum head"
+series-title: "Artefacts" 
+title: "#033: Lee Wall's drum head"
 author:
   display_name: Andy
   login: admin

@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Originals: While My Guitar Gently Weeps by The Beatles (covered by Damon and
   Naomi)'
 author:

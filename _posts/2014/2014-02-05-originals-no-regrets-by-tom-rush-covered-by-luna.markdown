@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: No Regrets by Tom Rush (covered by Luna)'
+title: 'No Regrets by Tom Rush (covered by Luna)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Song to the Siren by Tim Buckley (covered by Damon & Naomi)'
+title: 'Song to the Siren by Tim Buckley (covered by Damon & Naomi)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Originals: Bonnie and Clyde by Serge Gainsbourg and Brigitte Bardot (covered
   by Luna)'
 author:

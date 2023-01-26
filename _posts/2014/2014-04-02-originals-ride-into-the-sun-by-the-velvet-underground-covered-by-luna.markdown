@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Ride Into the Sun by The Velvet Underground (covered by Luna)'
+title: 'Ride Into the Sun by The Velvet Underground (covered by Luna)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

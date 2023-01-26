@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Hold On by John Lennon (covered by Luna)'
+title: 'Hold On by John Lennon (covered by Luna)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

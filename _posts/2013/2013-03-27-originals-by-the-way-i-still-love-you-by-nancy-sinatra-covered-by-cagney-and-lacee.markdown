@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Originals: By The Way (I Still Love You) by Nancy Sinatra (covered by Cagney
   and Lacee)'
 author:

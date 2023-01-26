@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Ceremony by Joy Division (covered by Galaxie 500)'
+title: 'Ceremony by Joy Division (covered by Galaxie 500)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Originals: The World''s Strongest Man by Scott Walker (covered by Damon and
   Naomi)'
 author:

@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Random Rules by Silver Jews (covered by Dean & Britta)'
+title: 'Random Rules by Silver Jews (covered by Dean & Britta)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

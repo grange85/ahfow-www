@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Originals: Since I Lay My Burden Down by Michael Holland (covered by Dean
   & Britta)'
 author:

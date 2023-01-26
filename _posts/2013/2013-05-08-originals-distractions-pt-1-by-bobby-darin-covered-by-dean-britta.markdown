@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Distractions, Pt 1 by Bobby Darin (covered by Dean & Britta)'
+title: 'Distractions, Pt 1 by Bobby Darin (covered by Dean & Britta)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

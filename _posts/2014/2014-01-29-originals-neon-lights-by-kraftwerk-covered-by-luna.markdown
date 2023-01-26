@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Neon Lights by Kraftwerk (covered by Luna)'
+title: 'Neon Lights by Kraftwerk (covered by Luna)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

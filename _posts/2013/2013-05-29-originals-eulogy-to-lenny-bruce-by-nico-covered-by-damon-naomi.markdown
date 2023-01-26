@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Eulogy to Lenny Bruce by Nico (covered by Damon & Naomi)'
+title: 'Eulogy to Lenny Bruce by Nico (covered by Damon & Naomi)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

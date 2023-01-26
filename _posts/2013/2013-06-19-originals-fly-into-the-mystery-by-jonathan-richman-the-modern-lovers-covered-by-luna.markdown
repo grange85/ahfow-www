@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Originals: Fly Into the Mystery by Jonathan RIchman & The Modern Lovers (covered
   by Luna)'
 author:

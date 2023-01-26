@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Everybody''s Talkin'' by Fred Neil (covered by Luna)'
+title: 'Everybody''s Talkin'' by Fred Neil (covered by Luna)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

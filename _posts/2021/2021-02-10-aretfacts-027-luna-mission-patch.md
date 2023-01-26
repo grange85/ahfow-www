@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #027: Luna 'mission' patch"
+series-title: "Artefacts" 
+title: "#027: Luna 'mission' patch"
 author:
   display_name: Andy
   login: admin

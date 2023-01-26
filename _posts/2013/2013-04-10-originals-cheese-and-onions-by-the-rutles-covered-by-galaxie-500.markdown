@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Cheese and Onions by The Rutles (covered by Galaxie 500)'
+title: 'Cheese and Onions by The Rutles (covered by Galaxie 500)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

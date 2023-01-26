@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Friday I''m in Love by The Cure (covered by Dean & Britta)'
+title: 'Friday I''m in Love by The Cure (covered by Dean & Britta)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

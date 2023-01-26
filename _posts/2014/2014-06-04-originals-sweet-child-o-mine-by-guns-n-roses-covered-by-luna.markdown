@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Sweet Child o'' Mine by Guns N'' Roses (covered by Luna)'
+title: 'Sweet Child o'' Mine by Guns N'' Roses (covered by Luna)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

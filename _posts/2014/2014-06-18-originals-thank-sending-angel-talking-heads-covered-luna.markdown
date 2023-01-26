@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Originals: Thank You for Sending Me an Angel by Talking Heads (covered by
   Luna)'
 author:

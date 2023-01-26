@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Six Feet of Chain by Lee Hazlewood (covered by Cagney & Lacee)'
+title: 'Six Feet of Chain by Lee Hazlewood (covered by Cagney & Lacee)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

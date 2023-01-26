@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #032: Poster for Galaxie 500's final show"
+title: "#032: Poster for Galaxie 500's final show"
+series-title: "Artefacts" 
 author:
   display_name: Andy
   login: admin

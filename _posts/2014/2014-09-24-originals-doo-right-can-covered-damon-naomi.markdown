@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Yoo Doo Right by CAN (covered by Damon & Naomi)'
+title: 'Yoo Doo Right by CAN (covered by Damon & Naomi)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

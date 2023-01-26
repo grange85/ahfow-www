@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Hey You by Pink Floyd (covered by Dean Wareham)'
+title: 'Hey You by Pink Floyd (covered by Dean Wareham)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

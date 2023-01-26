@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Originals: White Christmas by Bing Crosby covered by Damon & Naomi: Xmas special
   #2'
 author:

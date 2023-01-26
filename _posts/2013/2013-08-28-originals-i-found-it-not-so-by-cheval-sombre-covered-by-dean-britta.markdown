@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: I Found It Not So by Cheval Sombre (covered by Dean & Britta)'
+title: 'I Found It Not So by Cheval Sombre (covered by Dean & Britta)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

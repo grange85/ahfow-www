@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Originals: For The Sake of The Children by Henry Gibson (covered by Cagney
   and Lacee)'
 author:

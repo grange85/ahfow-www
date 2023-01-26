@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Our Love Will Still Be There by The Troggs (covered by Dean & Britta)'
+title: 'Our Love Will Still Be There by The Troggs (covered by Dean & Britta)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

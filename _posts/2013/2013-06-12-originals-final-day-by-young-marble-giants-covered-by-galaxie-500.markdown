@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Final Day by Young Marble Giants (covered by Galaxie 500)'
+title: 'Final Day by Young Marble Giants (covered by Galaxie 500)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

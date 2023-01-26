@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Originals: Here She Comes Now by The Velvet Underground (covered by Galaxie
   500)'
 author:

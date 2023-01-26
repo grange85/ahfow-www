@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Love by Jacks (covered by Damon & Naomi)'
+title: 'Love by Jacks (covered by Damon & Naomi)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

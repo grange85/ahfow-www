@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Watashi no Hana by Kazuki Tomokawa (covered by Damon & Naomi)'
+title: 'Watashi no Hana by Kazuki Tomokawa (covered by Damon & Naomi)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

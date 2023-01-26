@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Back in Your Life by Jonathan Richman (covered by Galaxie 500)'
+title: 'Back in Your Life by Jonathan Richman (covered by Galaxie 500)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Who Am I by Country Joe and the Fish (covered by Damon & Naomi)'
+title: 'Who Am I by Country Joe and the Fish (covered by Damon & Naomi)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

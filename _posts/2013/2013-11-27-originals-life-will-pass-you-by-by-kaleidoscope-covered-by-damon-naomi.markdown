@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Life Will Pass You By by Kaleidoscope (covered by Damon & Naomi)'
+title: 'Life Will Pass You By by Kaleidoscope (covered by Damon & Naomi)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

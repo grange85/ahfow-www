@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Isn''t It a Pity by George Harrison (covered by Galaxie 500)'
+title: 'Isn''t It a Pity by George Harrison (covered by Galaxie 500)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

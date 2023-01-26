@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Jealous Guy by John Lennon (covered by Luna)'
+title: 'Jealous Guy by John Lennon (covered by Luna)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

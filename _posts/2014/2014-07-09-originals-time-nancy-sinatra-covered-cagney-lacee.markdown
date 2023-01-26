@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Time by Nancy Sinatra (covered by Cagney & Lacee)'
+title: 'Time by Nancy Sinatra (covered by Cagney & Lacee)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

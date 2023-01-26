@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Originals: Translucent Carriages by Pearls Before Swine (covered by Damon
   and Naomi)'
 author:

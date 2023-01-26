@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Blue Moon by Big Star (covered by Damon & Naomi)'
+title: 'Blue Moon by Big Star (covered by Damon & Naomi)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Originals: I Want to Boogie With You by Lou Reed (covered by Angel Corpus
   Christi and Dean Wareham)'
 author:

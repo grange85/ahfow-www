@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Forever by The Beach Boys (covered by Dean & Britta)'
+title: 'Forever by The Beach Boys (covered by Dean & Britta)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

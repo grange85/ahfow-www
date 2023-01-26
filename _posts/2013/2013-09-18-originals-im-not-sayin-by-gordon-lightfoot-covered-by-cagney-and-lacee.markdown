@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: I''m Not Sayin'' by Gordon Lightfoot (covered by Cagney and Lacee)'
+title: 'I''m Not Sayin'' by Gordon Lightfoot (covered by Cagney and Lacee)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

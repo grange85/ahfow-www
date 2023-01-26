@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Originals: Well.... All Right by Buddy Holly and The Crickets (covered by
   Galaxie 500)'
 author:

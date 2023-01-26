@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: A Head Full of Wishes - The Originals
 author:
   display_name: Andy

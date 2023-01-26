@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Originals: Don''t Let Our Youth Go to Waste by Jonathan Richman (covered by
   Galaxie 500)'
 author:

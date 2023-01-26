@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Hear The Wind Blow by Opal (covered by Dean & Britta)'
+title: 'Hear The Wind Blow by Opal (covered by Dean & Britta)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

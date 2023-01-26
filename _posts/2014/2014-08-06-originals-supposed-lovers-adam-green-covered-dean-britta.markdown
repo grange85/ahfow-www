@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Originals: We''re Not Supposed to Be Lovers by Adam Green (covered by Dean
   and Britta)'
 author:

@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Borderline by Madonna (covered by Cagney and Lacee)'
+title: 'Borderline by Madonna (covered by Cagney and Lacee)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Indian Summer by The Doors (covered by Dean & Britta)'
+title: 'Indian Summer by The Doors (covered by Dean & Britta)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

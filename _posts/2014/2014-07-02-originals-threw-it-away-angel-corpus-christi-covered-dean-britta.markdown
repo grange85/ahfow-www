@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Threw it Away by Angel Corpus Christi (covered by Dean & Britta)'
+title: 'Threw it Away by Angel Corpus Christi (covered by Dean & Britta)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

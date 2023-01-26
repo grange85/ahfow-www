@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: I''ll Keep It With Mine by Judy Collins (covered by Dean & Britta)'
+title: 'I''ll Keep It With Mine by Judy Collins (covered by Dean & Britta)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

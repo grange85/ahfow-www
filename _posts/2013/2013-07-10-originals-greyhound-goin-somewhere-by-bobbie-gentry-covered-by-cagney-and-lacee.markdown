@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Originals: Greyhound Goin'' Somewhere by Bobbie Gentry (covered by Cagney
   and Lacee)'
 author:

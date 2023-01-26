@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Season of the Witch by Donovan (covered by Luna)'
+title: 'Season of the Witch by Donovan (covered by Luna)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

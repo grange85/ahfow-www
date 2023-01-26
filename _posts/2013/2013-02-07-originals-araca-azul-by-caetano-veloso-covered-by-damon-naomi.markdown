@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Araçá azul by Caetano Veloso (covered by Damon & Naomi)'
+title: 'Araçá azul by Caetano Veloso (covered by Damon & Naomi)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

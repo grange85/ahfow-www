@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: America by Traffic Sound (covered by Magic Hour)'
+title: 'America by Traffic Sound (covered by Magic Hour)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

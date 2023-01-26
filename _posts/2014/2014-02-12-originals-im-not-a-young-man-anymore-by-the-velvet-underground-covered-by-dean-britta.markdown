@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Originals: I''m Not A Young Man Anymore by The Velvet Underground (covered
   by Dean & Britta)'
 author:

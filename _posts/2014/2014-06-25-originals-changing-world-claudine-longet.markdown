@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: This Changing World by Claudine Longet (covered by Damon & Naomi)'
+title: 'This Changing World by Claudine Longet (covered by Damon & Naomi)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

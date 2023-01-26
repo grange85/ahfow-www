@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Indian Summer by Beat Happening (covered by Dean Wareham and Luna)'
+title: 'Indian Summer by Beat Happening (covered by Dean Wareham and Luna)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

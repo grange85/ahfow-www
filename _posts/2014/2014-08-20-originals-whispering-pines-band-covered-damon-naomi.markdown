@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Whispering Pines by The Band (covered by Damon & Naomi)'
+title: 'Whispering Pines by The Band (covered by Damon & Naomi)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

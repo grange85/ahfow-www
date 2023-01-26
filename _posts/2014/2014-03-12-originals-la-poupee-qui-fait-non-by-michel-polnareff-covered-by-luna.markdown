@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: La poupée qui fait non by Michel Polnareff (covered by Luna)'
+title: 'La poupée qui fait non by Michel Polnareff (covered by Luna)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

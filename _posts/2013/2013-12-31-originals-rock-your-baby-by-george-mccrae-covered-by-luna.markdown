@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Rock Your Baby by George McCrae (covered by Luna)'
+title: 'Rock Your Baby by George McCrae (covered by Luna)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Dancing Days by Led Zeppelin (covered by Luna)'
+title: 'Dancing Days by Led Zeppelin (covered by Luna)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

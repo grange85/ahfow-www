@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Only Women Bleed by Alice Cooper (covered by Luna)'
+title: 'Only Women Bleed by Alice Cooper (covered by Luna)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

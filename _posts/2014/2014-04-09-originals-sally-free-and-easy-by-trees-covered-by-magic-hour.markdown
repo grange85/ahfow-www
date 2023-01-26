@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Sally Free and Easy by Trees (covered by Magic Hour)'
+title: 'Sally Free and Easy by Trees (covered by Magic Hour)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

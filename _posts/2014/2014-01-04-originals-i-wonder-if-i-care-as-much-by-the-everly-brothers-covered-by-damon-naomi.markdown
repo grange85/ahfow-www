@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: I Wonder If I Care as Much by The Everly Brothers (covered by Damon & Naomi)'
+title: 'I Wonder If I Care as Much by The Everly Brothers (covered by Damon & Naomi)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

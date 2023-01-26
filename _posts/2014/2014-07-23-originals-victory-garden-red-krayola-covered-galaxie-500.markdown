@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Victory Garden by Red Krayola (covered by Galaxie 500)'
+title: 'Victory Garden by Red Krayola (covered by Galaxie 500)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

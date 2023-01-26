@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: post mortem and supplemental'
+title: 'post mortem and supplemental'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

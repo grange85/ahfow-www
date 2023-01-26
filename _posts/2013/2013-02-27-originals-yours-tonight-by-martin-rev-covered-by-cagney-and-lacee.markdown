@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Yours Tonight by Martin Rev (covered by Cagney and Lacee)'
+title: 'Yours Tonight by Martin Rev (covered by Cagney and Lacee)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Spirit of Love by C.O.B. (covered by Damon & Naomi)'
+title: 'Spirit of Love by C.O.B. (covered by Damon & Naomi)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

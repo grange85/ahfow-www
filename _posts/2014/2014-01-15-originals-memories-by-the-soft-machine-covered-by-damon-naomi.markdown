@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Memories by The Soft Machine (covered by Damon & Naomi)'
+title: 'Memories by The Soft Machine (covered by Damon & Naomi)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

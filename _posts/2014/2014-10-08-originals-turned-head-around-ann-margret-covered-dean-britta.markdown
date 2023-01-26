@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: You Turned My Head Around by Ann-Margret (covered by Dean & Britta)'
+title: 'You Turned My Head Around by Ann-Margret (covered by Dean & Britta)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

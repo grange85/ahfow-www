@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Originals: It''s All Over Now, Baby Blue by Bob Dylan (covered by Damon &
   Naomi)'
 author:

@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Femme Fatale by The Velvet Underground (covered by Damon & Naomi)'
+title: 'Femme Fatale by The Velvet Underground (covered by Damon & Naomi)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

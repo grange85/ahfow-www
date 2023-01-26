@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Originals: I Shall Be Released by The Band (covered by Damon & Naomi with
   Tom Rapp)'
 author:

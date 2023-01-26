@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Originals: Old Toy Trains by Roger Miller (covered by Dean & Britta with Sonic
   Boom) : Xmas special #1'
 author:

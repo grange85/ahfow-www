@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Originals: De l''automne a l''automne by Line et Willy (covered by Damon and
   Naomi) '
 author:

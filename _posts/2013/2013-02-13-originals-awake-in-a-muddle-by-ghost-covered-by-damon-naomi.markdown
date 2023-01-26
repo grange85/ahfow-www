@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Awake in a Muddle by Ghost (covered by Damon & Naomi)'
+title: 'Awake in a Muddle by Ghost (covered by Damon & Naomi)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

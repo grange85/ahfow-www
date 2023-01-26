@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Happy 75th birthday, Nico'
+title: 'Happy 75th birthday, Nico'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

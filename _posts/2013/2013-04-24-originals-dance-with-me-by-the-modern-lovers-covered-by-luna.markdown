@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Dance With Me by The Modern Lovers (covered by Luna)'
+title: 'Dance With Me by The Modern Lovers (covered by Luna)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

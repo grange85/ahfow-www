@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Submission by The Sex Pistols (covered by Galaxie 500)'
+title: 'Submission by The Sex Pistols (covered by Galaxie 500)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

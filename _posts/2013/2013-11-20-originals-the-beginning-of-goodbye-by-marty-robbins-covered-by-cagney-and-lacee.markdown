@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Originals: The Beginning of Goodbye by Marty Robbins (covered by Cagney and
   Lacee) '
 author:

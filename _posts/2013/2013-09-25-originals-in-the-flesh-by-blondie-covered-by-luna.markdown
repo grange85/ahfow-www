@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: In The Flesh by Blondie (covered by Luna)'
+title: 'In The Flesh by Blondie (covered by Luna)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Originals: Moonshot by Buffy Sainte-Marie (covered by Galaxie 500 and Dean
   & Britta)'
 author:

@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Straight Up by Paula Abdul (covered by Luna)'
+title: 'Straight Up by Paula Abdul (covered by Luna)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

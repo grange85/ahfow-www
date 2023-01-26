@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Living Too Close to the Ground by The Everly Brothers (covered by Dean Wareham)'
+title: 'Living Too Close to the Ground by The Everly Brothers (covered by Dean Wareham)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Memphis by Karen Black (covered by Cagney and Lacee)'
+title: 'Memphis by Karen Black (covered by Cagney and Lacee)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

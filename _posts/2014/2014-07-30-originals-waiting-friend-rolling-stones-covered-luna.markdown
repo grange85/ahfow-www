@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Waiting on a Friend by The Rolling Stones (covered by Luna)'
+title: 'Waiting on a Friend by The Rolling Stones (covered by Luna)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

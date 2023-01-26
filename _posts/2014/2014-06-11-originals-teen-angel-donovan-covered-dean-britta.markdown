@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Teen Angel by Donovan (covered by Dean & Britta)'
+title: 'Teen Angel by Donovan (covered by Dean & Britta)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin

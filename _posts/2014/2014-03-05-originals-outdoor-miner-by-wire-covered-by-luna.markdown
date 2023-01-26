@@ -1,8 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'Originals: Outdoor Miner by Wire (covered by Luna)'
+title: 'Outdoor Miner by Wire (covered by Luna)'
+series-title: 'Originals'
 author:
   display_name: Andy
   login: admin
