@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #002: Lunafied CDR by Luna"
+series-title: "Artefacts" 
+title: "#002: Lunafied CDR by Luna"
 author:
   display_name: Andy
   login: admin

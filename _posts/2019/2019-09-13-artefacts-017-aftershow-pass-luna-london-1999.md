@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #017: Aftershow pass for Luna show in London 1999"
+series-title: "Artefacts" 
+title: "#017: Aftershow pass for Luna show in London 1999"
 author:
   display_name: Andy
   login: admin

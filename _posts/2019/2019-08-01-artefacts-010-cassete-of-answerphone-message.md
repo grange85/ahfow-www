@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #010: Cassette of answerphone message"
+series-title: "Artefacts" 
+title: "#010: Cassette of answerphone message"
 author:
   display_name: Andy
   login: admin

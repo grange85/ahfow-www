@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #008: Luna - Going Home (demo) flexidisc"
+series-title: "Artefacts" 
+title: "#008: Luna - Going Home (demo) flexidisc"
 author:
   display_name: Andy
   login: admin

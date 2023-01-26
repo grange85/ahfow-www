@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #026: Comp ticket for Luna in NYC, February 2001"
+series-title: "Artefacts" 
+title: "#026: Comp ticket for Luna in NYC, February 2001"
 author:
   display_name: Andy
   login: admin

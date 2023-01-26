@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #024: Aftershow passes for Luna's farewell show in London in 2005"
+series-title: "Artefacts" 
+title: "#024: Aftershow passes for Luna's farewell show in London in 2005"
 author:
   display_name: Andy
   login: admin

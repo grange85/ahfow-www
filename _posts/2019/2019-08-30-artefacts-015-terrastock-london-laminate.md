@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #015: Laminated pass for Terrastock 3 festival in London"
+series-title: "Artefacts" 
+title: "#015: Laminated pass for Terrastock 3 festival in London"
 author:
   display_name: Andy
   login: admin

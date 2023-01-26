@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #021: Dean & Britta L'Avventura press release"
+series-title: "Artefacts" 
+title: "#021: Dean & Britta L'Avventura press release"
 author:
   display_name: Andy
   login: admin

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #020: Galaxie 500 Peel Sessions CDR"
+series-title: "Artefacts" 
+title: "#020: Galaxie 500 Peel Sessions CDR"
 author:
   display_name: Andy
   login: admin

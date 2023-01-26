@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #016: Afterimage by Damon Krukowski"
+series-title: "Artefacts" 
+title: "#016: Afterimage by Damon Krukowski"
 author:
   display_name: Andy
   login: admin

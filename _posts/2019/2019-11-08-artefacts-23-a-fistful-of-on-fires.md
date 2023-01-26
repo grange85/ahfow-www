@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #023: A Fistful of On Fires"
+series-title: "Artefacts" 
+title: "#023: A Fistful of On Fires"
 author:
   display_name: Andy
   login: admin

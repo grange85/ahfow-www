@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #009: Dean Wareham's Indietracks setlist"
+series-title: "Artefacts" 
+title: "#009: Dean Wareham's Indietracks setlist"
 author:
   display_name: Andy
   login: admin

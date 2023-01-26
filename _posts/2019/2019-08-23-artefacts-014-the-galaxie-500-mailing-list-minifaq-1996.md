@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #014: The Galaxie 500 Mailing List miniFaq, 1996"
+series-title: "Artefacts" 
+title: "#014: The Galaxie 500 Mailing List miniFaq, 1996"
 author:
   display_name: Andy
   login: admin

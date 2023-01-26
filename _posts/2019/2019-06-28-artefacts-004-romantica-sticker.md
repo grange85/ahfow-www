@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #004: Romantica promo stickers"
+series-title: "Artefacts" 
+title: "#004: Romantica promo stickers"
 author:
   display_name: Andy
   login: admin

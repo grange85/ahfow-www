@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #013: Damon & Naomi Shimmy Disc promo photo"
+series-title: "Artefacts" 
+title: "#013: Damon & Naomi Shimmy Disc promo photo"
 author:
   display_name: Andy
   login: admin

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #019: Damon & Naomi tenugui"
+series-title: "Artefacts" 
+title: "#019: Damon & Naomi tenugui"
 author:
   display_name: Andy
   login: admin

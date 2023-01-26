@@ -14,10 +14,10 @@ layout: null
         <width>1400</width>
         <height>1400</height>
         <title>A Head Full of Wishes</title>
-        <link>https://www.fullofwishes.co.uk</link>
+        <link>https://www.fullofwishes.co.uk?utm</link>
     </image>
     <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}?utm_source=rss&amp;utm_medium=ahfow&amp;utm_campaign=website" rel="self" type="application/rss+xml"/>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
@@ -38,7 +38,7 @@ layout: null
         </description>
         <author>{{post.author.display_name}}</author>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ site.domain }}{{ post.url | prepend: site.baseurl }}</link>
+        <link>{{ site.domain }}{{ post.url | prepend: site.baseurl }}?utm_source=rss&amp;utm_medium=ahfow&amp;utm_campaign=website</link>
         {% if post.enclosure.url contains ".mp3" %}
             <enclosure url="{{post.enclosure.url}}" length="{{post.enclosure.length}}" type="audio/mpeg" />
         {% elsif post.imageurl contains ".jpg" or post.imageurl contains "googleusercontent" %}

@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #018: Angry Women in Rock Volume One with Naomi Yang"
+series-title: "Artefacts" 
+title: "#018: Angry Women in Rock Volume One with Naomi Yang"
 author:
   display_name: Andy
   login: admin

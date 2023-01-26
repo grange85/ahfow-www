@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true 
-draft: false
 sitemap: true
-title: "Artefacts 034: Everything's Swirling #1 - fanzine to download"
+series-title: "Artefacts" 
+title: "034: Everything's Swirling #1 - fanzine to download"
 author:
   display_name: Andy
   login: admin

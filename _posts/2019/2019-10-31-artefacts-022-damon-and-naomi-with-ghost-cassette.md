@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #022: Cassette of Damon & Naomi with Ghost in LA in 2000"
+series-title: "Artefacts" 
+title: "#022: Cassette of Damon & Naomi with Ghost in LA in 2000"
 author:
   display_name: Andy
   login: admin

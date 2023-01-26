@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #006: Tickets for the UK premiere of 13 Most Beautiful"
+series-title: "Artefacts" 
+title: "#006: Tickets for the UK premiere of 13 Most Beautiful"
 author:
   display_name: Andy
   login: admin

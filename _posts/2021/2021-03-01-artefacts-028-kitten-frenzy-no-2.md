@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #028: Kitten Frenzy no.2"
+series-title: "Artefacts" 
+title: "#028: Kitten Frenzy no.2"
 author:
   display_name: Andy
   login: admin

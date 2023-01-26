@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #031: My copy of Dean Wareham's memoir 'Black Postcards'"
+series-title: "Artefacts" 
+title: "#031: My copy of Dean Wareham's memoir 'Black Postcards'"
 author:
   display_name: Andy
   login: admin

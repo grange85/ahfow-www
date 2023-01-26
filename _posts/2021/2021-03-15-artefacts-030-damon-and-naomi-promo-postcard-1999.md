@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #030: Damon & Naomi promo postcard for 1999 tour of Japan"
+series-title: "Artefacts" 
+title: "#030: Damon & Naomi promo postcard for 1999 tour of Japan"
 author:
   display_name: Andy
   login: admin

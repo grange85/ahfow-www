@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #003: Damon & Naomi The Earth is Blue LP and note"
+series-title: "Artefacts" 
+title: "#003: Damon & Naomi The Earth is Blue LP and note"
 author:
   display_name: Andy
   login: admin

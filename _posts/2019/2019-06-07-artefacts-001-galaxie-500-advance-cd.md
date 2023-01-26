@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #001: Galaxie 500 Copenhagen advance CD"
+series-title: "Artefacts" 
+title: "#001: Galaxie 500 Copenhagen advance CD"
 author:
   display_name: Andy
   login: admin

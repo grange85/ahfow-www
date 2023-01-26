@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #011: Photo of Stan Demeski and practice pad"
+series-title: "Artefacts" 
+title: "#011: Photo of Stan Demeski and practice pad"
 author:
   display_name: Andy
   login: admin

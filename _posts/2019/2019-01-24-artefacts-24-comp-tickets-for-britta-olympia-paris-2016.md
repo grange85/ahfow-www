@@ -1,10 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
-title: "Artefacts #025: Comp tickets for Britta supporting Keren Ann at The Olympia"
+series-title: "Artefacts" 
+title: "#025: Comp tickets for Britta supporting Keren Ann at The Olympia"
 author:
   display_name: Andy
   login: admin
