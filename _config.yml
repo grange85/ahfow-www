@@ -99,16 +99,18 @@ jekyll_compose:
     drafts:
       layout: post
       sitemap: true
-      author:
+      series-title: 
+      author: 
         display_name: Andy
         login: admin
         email: andy@grange85.co.uk
         url: http://www.grange85.co.uk
-      imageurl: 
+      imageurl:
       categories:
-      tags:
+      tags: 
     posts:
       layout: post
+      series-title: 
       sitemap: true
       author:
         display_name: Andy
@@ -118,8 +120,23 @@ jekyll_compose:
       imageurl: 
       categories:
       tags:
-
-
+    tracks: 
+      layout: track
+      position: atoz-3
+      categories: track
+      name: 14-auspicious-dreams
+      type: ahfow_track
+      track-lyrics: 
+      track-author: 
+      track-sort:
+      track-alpha: 
+      track-original: 
+      available-on:
+        - release: 
+          url: 
+      ahfow-posts:
+        - post-title: 
+          post-url: 
 
 # Build settings
 livereload: false

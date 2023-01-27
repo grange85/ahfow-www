@@ -26,7 +26,7 @@ Another one bought, possibly on eBay, to try and fill out my collection, this is
  - *Artist:* Damon & Naomi
  - *Title:* The Wondrous World of Damon & Naomi
  - *Notes:* Rykodisc re-release (1998)
- - *Packaging:* Jewelcase
+ - *Packaging:* Jewel case
  - *Format:* CD
  - Bought online, probably from eBay
  - _not available on Bandcamp_

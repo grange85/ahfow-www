@@ -39,7 +39,7 @@ Well I know exactly how much I paid for Guitarrorists because it still has a siz
  - *Artist:* Various
  - *Title:* Guitarrorists
  - *Notes:* 
- - *Packaging:* Digipack
+ - *Packaging:* Jewel case
  - *Format:* CD
  - HMV - £3.99
  - _not available on Bandcamp_
