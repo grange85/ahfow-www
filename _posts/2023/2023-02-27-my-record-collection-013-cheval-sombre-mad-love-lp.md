@@ -10,12 +10,13 @@ author:
   url: http://www.grange85.co.uk
 imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/cheval-sombre-mad-love-lp.jpg
 categories:
- - dean wareham
- - my record collection
+- dean wareham
+- my record collection
 tags:
- - cheval sombre
- - mad love
- - britta phillips
+- cheval sombre
+- mad love
+- britta phillips
+date: 2023-02-27 00:00 +0000
 ---
 This is the second Cheval Sombre LP and came out on Sonic Cathedral in November 2012. It features contributions from Dean Wareham, on two tracks, and Britta Phillips on two tracks - but neither on the same track.
 

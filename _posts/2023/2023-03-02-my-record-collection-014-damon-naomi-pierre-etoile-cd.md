@@ -10,11 +10,12 @@ author:
   url: http://www.grange85.co.uk
 imageurl:
 categories:
- - damon & naomi
- - my record collection
+- damon & naomi
+- my record collection
 tags:
- - pierre etoile
- - elefant records
+- pierre etoile
+- elefant records
+date: 2023-03-02 00:00 +0000
 ---
 Another copy of Pierre Etoile already. This was the re-release on Spanish label Elefant that came out in 1997 and unlike the [first release](/2023/01/20/my-record-collection-01-pierre-etoile/) this was actually credited to Damon & Naomi rather than _Pierre Etoile_ - I have to admit that I was slightly disappointed that D&N decided to not persist with Pierre Etoile - there was something a little more mysterious about it. But, maybe when you're trying to sell records it doesn't pay to be coy about who you are?
 
