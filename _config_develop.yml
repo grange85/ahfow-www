@@ -2,6 +2,6 @@
 # Build settings
 environment: development
 destination: ./_deploy/
-future: true
+future: false
 unpublished: true
 show_drafts: true
