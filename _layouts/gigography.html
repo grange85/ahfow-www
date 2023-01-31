@@ -25,13 +25,13 @@ layout: default
 
 			{% case artist.slug %}
 				{% when 'galaxie-500' %}
-					{% assign shows = site.galaxie-500-shows | where: "category", page.year %}
+					{% assign shows = site.galaxie-500-shows | where: "category", page.year | sort: "show-date" %}
 				{% when 'luna' %}
-					{% assign shows = site.luna-shows | where: "category", page.year %}
+					{% assign shows = site.luna-shows | where: "category", page.year | sort: "show-date" %}
 				{% when 'damon-and-naomi' %}
-					{% assign shows = site.damon-and-naomi-shows | where: "category", page.year %}
+					{% assign shows = site.damon-and-naomi-shows | where: "category", page.year | sort: "show-date" %}
 				{% when 'dean-and-britta' %}
-					{% assign shows = site.dean-and-britta-shows | where: "category", page.year %}
+					{% assign shows = site.dean-and-britta-shows | where: "category", page.year | sort: "show-date" %}
 			{% endcase %}
 			<div class="row">
 				<div class="col">

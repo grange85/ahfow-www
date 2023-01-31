@@ -8,7 +8,7 @@
 {% when 'damon-and-naomi' %}
   {% assign shows = site.damon-and-naomi-shows %}
 {% when 'dean-and-britta' %}
-  {% assign shows = site.dean-and-britta-shows %}
+  {% assign shows = site.dean-and-britta-shows | sort: "show-date" %}
 {% when 'dean-wareham' %}
   {% assign shows = site.dean-wareham-shows %}
 {% when 'britta-phillips' %}
