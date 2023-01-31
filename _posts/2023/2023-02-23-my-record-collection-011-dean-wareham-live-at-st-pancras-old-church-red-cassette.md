@@ -16,7 +16,7 @@ tags:
 - live album
 - st pancras old church
 - london
-date: 2023-02-21 00:00 +0000
+date: 2023-02-23 00:00 +0000
 ---
 Recorded across two nights as St Pancras Old Church in London and released on two different coloured cassettes by Sonic Cathedral - this is the red one. I might start getting embarrassed about how good the ex-members of Galaxie 500 are to me but this was given to me by Dean after his show at The Prince Albert in Brighton in May 2014.
 

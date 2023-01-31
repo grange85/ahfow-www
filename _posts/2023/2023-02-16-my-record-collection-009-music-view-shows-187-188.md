@@ -16,7 +16,7 @@ tags:
 - music view
 - college radio
 - interview
-date: 2023-02-15 00:00 +0000
+date: 2023-02-16 00:00 +0000
 ---
 As far as I can glean from what's on the web, and what's on the disc Music View was a packaged radio show sent to college stations and show 187 featured Luna. I have no idea where I got this CD - I guess someone sent this to me, if it was you ... thanks! 
 

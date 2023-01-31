@@ -14,7 +14,7 @@ categories:
 - my record collection
 tags:
 - romantica
-date: 2023-03-08 00:00 +0000
+date: 2023-03-13 00:00 +0000
 ---
 This is my CD version of Romnatica - bought from Amazon on the 19th May 2003 for £11.99.
 

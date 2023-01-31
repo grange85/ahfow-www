@@ -16,7 +16,7 @@ tags:
 - cheval sombre
 - mad love
 - britta phillips
-date: 2023-02-27 00:00 +0000
+date: 2023-03-02 00:00 +0000
 ---
 This is the second Cheval Sombre LP and came out on Sonic Cathedral in November 2012. It features contributions from Dean Wareham, on two tracks, and Britta Phillips on two tracks - but neither on the same track.
 

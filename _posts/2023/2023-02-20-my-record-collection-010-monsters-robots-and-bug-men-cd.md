@@ -15,7 +15,7 @@ categories:
 tags:
 - magic hour
 - post rock
-date: 2023-02-18 00:00 +0000
+date: 2023-02-20 00:00 +0000
 ---
 I have a feeling that I _did_ pick Monsters, Robots and Bug Men up in the Ealing Broadway HMV, although have no evidence. It might seem strange finding a release with Magic Hour<sup>&dagger;</sup> on in Ealing, but this compilation was released by Virgin, so probably did get a decent distribution.
 

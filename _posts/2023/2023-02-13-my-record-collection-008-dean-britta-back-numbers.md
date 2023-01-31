@@ -14,7 +14,7 @@ categories:
 - my record collection
 tags:
 - back numbers
-date: 2023-02-12 00:00 +0000
+date: 2023-02-13 00:00 +0000
 ---
 This is an advance/promo copy of Dean & Britta's second album "Back Numbers" that Dean sent me back in January 2007 - the front sleeve artwork is the same as the released version except it has ADVANCE CD printed on it. Everything else is more ... sparse. Obviously the music is as splendid as you'd expect.
 
