@@ -15,7 +15,7 @@ categories:
 tags:
 - rough trade records
 - today
-date: 2023-03-05 00:00 +0000
+date: 2023-03-09 00:00 +0000
 ---
 Slightly shocking that we've had to wait until the 15th entry in the series before Galaxie 500 put in an appearance - to be honest given how many copies of Today I have it's a surprise it has taken this long to reach a copy of Today! For a long time I was happy with the LP I bought of the album in 1990, and then the CD that came in the box set. But at some point it got out of hand.
 
