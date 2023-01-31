@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '#018: Luna - Penthouse (deluxe 2xLP)'
+title: "#018: Luna - Penthouse (deluxe 2xLP)"
 sitemap: true
-series-title: My record collection 
+series-title: My record collection
 author:
   display_name: Andy
   login: admin
@@ -10,14 +10,17 @@ author:
   url: http://www.grange85.co.uk
 imageurl:
 categories:
- - luna
- - my record collection
+- luna
+- my record collection
 tags:
- - penthouse
- - dean wareham
- - rhino records
+- penthouse
+- dean wareham
+- rhino records
+date: 2023-03-20 00:00 +0000
 ---
 In 2017 for Record Store Day, Rhino released a double vinyl edition of Luna's masterpiece _Penthouse_ - now ... I have to admit that I'm not good with crowds and will almost never queue for anything so RSD is not something I generally partake in ... I used to go into London's record shops in the weeks following to mop up any leftovers but ... no, you won't find me with a camping chair on a pavement outside Rough Trade West in the early hours of a Saturday in April.
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-penthouse-deluxe-lp.jpg" "Luna - Penthouse (deluxe 2LP)" %}
 
 BUT... Luna! This put me in a difficult position. I needed this, after all it even had tracks I didn't already own on it! What to do!?
 
