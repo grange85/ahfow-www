@@ -107,7 +107,9 @@ jekyll_compose:
         url: http://www.grange85.co.uk
       imageurl:
       categories:
+       - 
       tags: 
+       - 
     posts:
       layout: post
       series-title: 
@@ -119,7 +121,9 @@ jekyll_compose:
         url: http://www.grange85.co.uk
       imageurl: 
       categories:
+       - 
       tags:
+       - 
     tracks: 
       layout: track
       position: atoz-3
