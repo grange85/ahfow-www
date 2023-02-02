@@ -15,7 +15,7 @@ categories:
 tags:
 - mr jealousy
 - noah baumbach
-date: 2023-04-04 00:00 +0000
+date: 2023-04-03 00:00 +0000
 ---
 Luna feature quite heavily on the soundtrack album of Noah Baumbach's Mr. Jealousy. As well as the cover of John Lennon's _Jealous Guy_ there's the Penthouse version of _Chinatown_, the first outing of _Hello Little One_, a new version of which later appeared on The Days of Our Nights, and [Mr. Jealousy Luna Suite](/2015/03/31/audio-lost-tracks-mr-jealousy-luna-suite-by-luna/).
 
