@@ -15,7 +15,7 @@ categories:
 tags:
 - cheval sombre
 - lathe cut
-date: 2023-03-31 00:00 +0000
+date: 2023-03-30 00:00 +0000
 ---
 Along The Santa Fe Trail was a _cowboy song_ that Dean Wareham and Cheval Sombre recorded that didn't make it onto the wonderful [Dean Wareham vs Cheval Sombre LP](/database/dean-and-britta/dean-wareham-releases/dean-wareham-vs-cheval-sombre/) but was available on this lathe-cut single that was part of a special edition of the album released through Dean's website. 
 
