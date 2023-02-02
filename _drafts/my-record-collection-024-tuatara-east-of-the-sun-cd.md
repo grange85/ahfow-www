@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'My record collection #024: Tuatara - East of the Sun (CD)'
+title: '#024: Tuatara - East of the Sun (CD)'
 sitemap: true
-series-title:
+series-title: My record collection 
 author:
   display_name: Andy
   login: admin
@@ -10,7 +10,32 @@ author:
   url: http://www.grange85.co.uk
 imageurl:
 categories:
--
+ - dean wareham
+ - my record collection
 tags:
--
+ - tuatara
+ - east of the sun
+ - justin harwood
+ - barrett martin
+ - peter buck
+ - scott mccaughey
 ---
+When I first started the AHFoW discography I created some criteria about what should be included, although I sometimes strayed. Criteria #1 was that it had to have a direct relationship to a former member of Galaxie 500. That meant that I didn't include the side project that Luna's Justin Harwood was involved in 'Tuatara' - or at least didn't include it until _East of the Sun_, their fourth or fifth album, and a record with no input from Justin&dagger;. However, Dean Wareham does put in a vocal appearance on two tracks.
+
+Tuatara seem to be a band that the world struggles to describe - Wikipedia call them an _instrumental music group_ which was I guess pretty much true up until this album. East of the Sun (and it's partner _West of the Moon_) are most definitley not _instrumental_ - inlcuding lots of guest vocalists of which Dean is one. I think the singers probably make Tuatara sound a little more ... conventional ... than those earlier albums. 
+
+Other words that turn up in Tuatara reviews are _jazz_ and _fusion_ and _Americana_ and _soft rock_ and _soundtrack_ - but I suspect that just means that reviewers don't know where to file them.
+
+They're def better than that Pitchfork review you might've come across suggests!
+
+Here's one of Dean's contributions, [Trouble Rides In, on YouTube](https://www.youtube.com/watch?v=DH9tTKn9MQg) (audio only). 
+
+ - *Catalogue Number:* AHFOW 10/163
+ - *Artist:* Tuatara
+ - *Title:* East of the Sun
+ - *Notes:* 
+ - *Packaging:* Jewel case
+ - *Format:* CD
+ - Bought on Discogs for £2.99
+
+_&dagger; Another of Justin's side-projects will be included later in the series though._
