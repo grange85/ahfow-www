@@ -1,8 +1,8 @@
 ---
 layout: post
-title: ': Luna - IHOP (CD)'
+title: '#024: Luna - IHOP (CD)'
 sitemap: true
-series-title: My record collection #024
+series-title: My record collection
 author:
   display_name: Andy
   login: admin
@@ -14,4 +14,5 @@ categories:
  - my record collection
 tags:
  - ihop
+ - international house of pancakes
 ---
