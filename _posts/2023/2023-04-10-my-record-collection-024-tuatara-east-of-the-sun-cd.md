@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '#024: Tuatara - East of the Sun (CD)'
+title: "#024: Tuatara - East of the Sun (CD)"
 sitemap: true
-series-title: My record collection 
+series-title: My record collection
 author:
   display_name: Andy
   login: admin
@@ -10,17 +10,20 @@ author:
   url: http://www.grange85.co.uk
 imageurl:
 categories:
- - dean wareham
- - my record collection
+- dean wareham
+- my record collection
 tags:
- - tuatara
- - east of the sun
- - justin harwood
- - barrett martin
- - peter buck
- - scott mccaughey
+- tuatara
+- east of the sun
+- justin harwood
+- barrett martin
+- peter buck
+- scott mccaughey
+date: 2023-04-10 00:00 +0000
 ---
 When I first started the AHFoW discography I created some criteria about what should be included, although I sometimes strayed. Criteria #1 was that it had to have a direct relationship to a former member of Galaxie 500. That meant that I didn't include the side project that Luna's Justin Harwood was involved in 'Tuatara' - or at least didn't include it until _East of the Sun_, their fourth or fifth album, and a record with no input from Justin&dagger;. However, Dean Wareham does put in a vocal appearance on two tracks.
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/tuatara-east-of-the-sun.jpg" "Tuatara - East of the Sun" %}
 
 Tuatara seem to be a band that the world struggles to describe - Wikipedia call them an _instrumental music group_ which was I guess pretty much true up until this album. East of the Sun (and it's partner _West of the Moon_) are most definitley not _instrumental_ - inlcuding lots of guest vocalists of which Dean is one. I think the singers probably make Tuatara sound a little more ... conventional ... than those earlier albums. 
 
