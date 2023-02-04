@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '#023: Cagney & Lacee - Time / By The Way ...'
+title: "#023: Cagney & Lacee - Time / By The Way ..."
 sitemap: true
-series-title: My record collection 
+series-title: My record collection
 author:
   display_name: Andy
   login: admin
@@ -10,13 +10,16 @@ author:
   url: http://www.grange85.co.uk
 imageurl:
 categories:
- - dean wareham
- - my record collection
+- dean wareham
+- my record collection
 tags:
- - cagney & lacee
- - claudia silver
+- cagney & lacee
+- claudia silver
+date: 2023-04-06 00:00 +0000
 ---
 This was the first single by Dean Wareham's side project with his then wife Claudia, Cagney and Lacee. The sticker on the sleeve shows that I paid £3.50 for this at the Talbot Road Rough Trade Shop (now Rough Trade West) - the phone number on the sticker shows that it was before 2000.
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/cagney-and-lacee-time-btw-single.jpg" "Cagney & Lacee - Time / By The Way (I Still Love You" %}
 
 The sleeve doesn't actually say the artist name which explains the addition of a large, round black sticker that was attached reading __Cagney & Lacee__ and underneath in smaller letters _this sticker is removable_ - this suggests (to me) that the missing artist name was either an oversight or latterly considered a mistake. It doesn't however mention anywhere that "Cagney" was actually Dean Wareham of Luna and Galaxie 500.
 
