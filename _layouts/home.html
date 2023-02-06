@@ -1,0 +1,61 @@
+---
+layout: page
+---
+{{ content }}
+{% for post in paginator.posts %}
+
+<div class="card">
+    <div class="card-header">
+        <h2>{% if post.series-title %}<span class="text-muted text-uppercase small">{{ post.series-title }}</span><br/> {% endif %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+			{% if site.environment == "development" %}
+			{% if post.draft %} <span class="badge badge-primary">Draft</span> {% endif %}
+			{% endif %}
+		</h2>
+    </div>
+    <div class="card-body">
+ 		    	    <p class="byline">
+		        	Posted by
+		        	{% if post.author.display_name != 'Andy' %}<a href="/authors/">{{post.author.display_name}}</a>
+		        	{% else %}{{post.author.display_name}}
+		        	{% endif %}
+		        	 on {{ post.date | date: "%-d %B %Y" }}
+		        	</p>
+	                   {% if post.categories %}
+                    <p class="float-left pr-3">in categories: </p>
+                        <ul class="categories list-inline">
+                        {% for category in post.categories %}
+                            <li class="list-inline-item pr-1" ><a class="badge badge-pill badge-primary" href="{{ category | slugify | prepend: '/category/' | append: '/' }}">{{ category }}</a></li>
+                        {% endfor %}
+                        </ul>
+                    {% endif %}
+    <article>
+
+    {% if paginator.page == 1 and post.next.url == Nil %}
+        {{post.content}}
+    {% else %}
+        <div class="clearfix">{{post.content}}</div>
+        {% if post.content contains "<!--more-->" %}
+        <p><a class="btn btn-outline-secondary btn-sm float-right" href="{{ post.url | prepend: site.baseurl }}">Read on&hellip;</a></p>
+        {% endif %}
+
+    {% endif %}
+    </article>
+    </div>
+</div>
+    {% endfor %}
+
+<!-- Pagination links -->
+<div class="col-md-12">
+
+{% if paginator.page_trail %}
+  <ul class="pagination justify-content-center">
+  {% for trail in paginator.page_trail %}
+    <li class="page-item {% if page.url == trail.path %}disabled{% endif %}">
+        <a class="page-link" href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}">{{ trail.num }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+{% endif %}
+
+
+</div>
