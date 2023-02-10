@@ -66,19 +66,17 @@ twitter_username: ahfow
 github_username:  grange85
 permalink: /:year/:month/:day/:title/
 jekyll-archives:
-  enabled: ['month','categories']
+  enabled: ['categories']
   layouts:
-    month: month-archive
     category: category-archive
   permalinks:
-    month: '/:year/:month/'
     category: '/category/:name/'
 
 pagination: 
   enabled: true
   debug: false
   collection: 'posts'
-  per_page: 10
+  per_page: 12
   permalink: '/page:num/'
   title: ':title - page :num'
   limit: 10
