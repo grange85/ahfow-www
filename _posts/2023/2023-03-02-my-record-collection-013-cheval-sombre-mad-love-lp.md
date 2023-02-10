@@ -22,7 +22,7 @@ This is the second Cheval Sombre LP and came out on Sonic Cathedral in November 
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/cheval-sombre-mad-love-lp.jpg" "Cheval Sombre - Mad Love" %}
 
-The sleeve has some astounding artwork by Sharon Lock that I guess was insipired by the [heartbreaking letters of Emma Hauck](https://lettersofnote.com/2011/08/17/sweetheart-come/). Sharon's cover art will turn up a few more times in _my record collection_, and is always breathtaking or proviking or eye-catching, or ... all three. 
+The sleeve has some astounding artwork by Sharon Lock that I guess was insipired by the [heartbreaking letters of Emma Hauck](https://lettersofnote.com/2011/08/17/sweetheart-come/). Sharon's cover art will turn up a few more times in _my record collection_, and is always breathtaking or provoking or eye-catching, or ... all three. 
 
 AND ... this is the main reason that LPs are better than CDs or mp3s - my ears aren't good enough to hear "the warmth" or the "heart" and I'm quite fond of the convenience of more digital formats, BUT if you have beautiful album art what it really needs is to be a seen on a 12 inch square piece of thick card.
 

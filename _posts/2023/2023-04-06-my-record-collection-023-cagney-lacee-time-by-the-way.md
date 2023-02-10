@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl:
+imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/cagney-and-lacee-time-btw-single.jpg
 categories:
 - dean wareham
 - my record collection
@@ -34,4 +34,3 @@ The single was released on Terry Tolkin's No. 6 Records in 1995 and has the trac
  - *Packaging:* Wrap around sleeve
  - *Format:* 7"
  - Bought from Rough Trade for £3.50
- - [Buy '' on Bandcamp]()

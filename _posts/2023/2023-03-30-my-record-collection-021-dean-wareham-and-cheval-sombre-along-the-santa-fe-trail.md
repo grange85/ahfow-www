@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl:
+imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-cheval-santa-fe-trail-single.jpg
 categories:
 - dean wareham
 - my record collection
