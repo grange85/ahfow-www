@@ -1,12 +1,18 @@
-		<header>
-	            <div class="row">
-		                <div class="col">
-		                    <h1 class=""><a href="/" class="">{{ site.title }}</a></h1>
-		                        {% if site.subtitle %}
-		                            <p class="">{{ site.subtitle }}
-									{% if site.environment != "production" %}<br/>{{site.environment}}{% endif %}
-									</p>
-		                        {% endif %}
-		                </div>
-		        </div>
-		</header>
+<header>
+	<div class="row">
+		<div class="col">
+			<h1 class="">
+				{% if paginator.page == 1 %}
+				{{ site.title }}
+				{% else %}
+				<a href="{{ site.baseurl }}/">{{ site.title }}</a>
+				{% endif %}
+				{% if site.subtitle %}
+			</h1>
+			<p class="">{{ site.subtitle }}
+			{% if site.environment != "production" %}&nbsp;<em class="text-muted">({{site.environment}})</em>{% endif %}
+			</p>
+			{% endif %}
+		</div>
+	</div>
+</header>
