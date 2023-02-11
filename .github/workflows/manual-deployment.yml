@@ -16,7 +16,7 @@ on:
         type: choice
         description: Database
         required: true
-        options
+        options:
           - true
           - false
 jobs:
