@@ -1,4 +1,4 @@
-name: Deploy A Head Full of Wishes
+name: Manual deploy AHFoW
 
 on:
   workflow_dispatch:
@@ -12,20 +12,12 @@ on:
         options:
         - development
         - production
-  push:
-    deploy-environment: production
-    branches:
-      - main
-  schedule:
-    # Schedule to post every day
-    - cron: '37 6 * * *'
-
 jobs:
 # =====================
 # development deployment
 # =====================
   dev-deployment:
-    if: ${{ github.ref_name  == 'develop' || github.event.inputs.deploy-environment == 'development' }}
+    if: ${{ github.event.inputs.deploy-environment == 'development' }}
     runs-on: ubuntu-20.04
     environment:
       name: development
@@ -74,7 +66,7 @@ jobs:
 # production deployment
 # =====================
   prod-deployment:
-    if: ${{ github.ref_name  == 'main' || github.event.inputs.deploy-environment == 'production' }}
+    if: ${{ github.event.inputs.deploy-environment == 'production' }}
     runs-on: ubuntu-20.04
     environment:
       name: production
