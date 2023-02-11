@@ -1,4 +1,4 @@
-name: Manual deploy ahfow-www
+name: Manual deploy ahfow-www (new)
 
 on:
   workflow_dispatch:
@@ -17,8 +17,8 @@ on:
         description: Database
         required: true
         options:
-          - true
-          - false
+        - true
+        - false
 jobs:
   deployment:
     runs-on: ubuntu-20.04
