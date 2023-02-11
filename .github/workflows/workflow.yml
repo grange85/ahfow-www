@@ -62,8 +62,7 @@ jobs:
       uses: peter-evans/repository-dispatch@v2.1.1
       with:
         token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-        repo: ahfow-database
-        owner: grange85
-        event_type: ahfow_www_push
+        repository: grange85/ahfow-database
+        event-type: ahfow_www_push
         client-payload: '{"deploy_environment": "${{ github.event.inputs.deploy-environment }}"}'
 
