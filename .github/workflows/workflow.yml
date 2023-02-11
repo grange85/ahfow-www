@@ -13,9 +13,9 @@ on:
         - development
         - production
   push:
+    deploy-environment: production
     branches:
       - main
-      deploy-environment: production
   schedule:
     # Schedule to post every day
     - cron: '37 6 * * *'
