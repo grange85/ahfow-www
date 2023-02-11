@@ -3,18 +3,16 @@ name: Manual deploy ahfow-www (new)
 on:
   workflow_dispatch:
     inputs:
-      tags:
-        description: 'manual deploy'
       deploy-environment:
         type: choice
-        description: Environment
+        description: Depploy to environment:
         required: true
         options:
         - development
         - production
       deploy-database:
         type: choice
-        description: Database
+        description: Deploy database?
         required: true
         options:
         - true
@@ -66,7 +64,7 @@ jobs:
         aws cloudfront create-invalidation --no-cli-pager --distribution-id ${{ secrets.FULLOFWISHES_CDN_DISTRIBUTION_ID }} --paths "/*"
 
     - name: trigger database deployment
-      if: ${{ github.event.inputs.deploy_database == "true" }}
+      if: github.event.inputs.deploy_database == 'true'
       uses: peter-evans/repository-dispatch@v2.1.1
       with:
         token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
