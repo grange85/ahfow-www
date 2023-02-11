@@ -1,7 +1,7 @@
 name: Deploy AHFoW to LIVE
 
 on:
- push:
+  push:
     branches:
     - main
   schedule:
