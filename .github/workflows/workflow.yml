@@ -58,4 +58,12 @@ jobs:
         aws cloudfront create-invalidation --no-cli-pager --distribution-id ${{ secrets.FULLOFWISHES_WWW_DISTRIBUTION_ID }} --paths "/*"
         aws cloudfront create-invalidation --no-cli-pager --distribution-id ${{ secrets.FULLOFWISHES_CDN_DISTRIBUTION_ID }} --paths "/*"
 
+    - name: trigger database deployment
+      uses: grange85/ahfow-database@master
+        with:
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          repo: ahfow-database
+          owner: grange85
+          event_type: ahfow_www_push
+          deploy_environment: development
 
