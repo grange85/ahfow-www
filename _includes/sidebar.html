@@ -4,9 +4,9 @@
 	    <div class="card-body">
 		<h2 class="card-title h6">Categories</h5>
 		<ul class="list-group list-group-flush">
-					{% assign allcategories = site.categories | sort %}
+					{% assign allcategories = site.data.primary-categories.categories %}
 					{% for category in allcategories %}
-					<li class="list-group-item"><a class="card-link" href="{{ category | first | slugify | prepend: '/category/' }}/">{{ category | first }}</a></li>
+					<li class="list-group-item list-group-item-action"><a class="card-link" href="{{ category | slugify | prepend: '/category/' }}/">{{ category }}</a></li>
 					{% endfor %}
 		</ul>	
 </div>

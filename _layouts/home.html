@@ -17,14 +17,13 @@ layout: page
 		   on {{ post.date | date: "%-d %B %Y" }}
 		   </p>
 		   <p class="card-text">{{ post.content }}</p>
-		   <div class="card-footer mt-auto"><a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-outline-primary btn-sm">More</a></div>
 	   </div>
    </div>
 
     {% else %}
 
-   <div class="card col-6 mb-2" style="">
-	   <img src="{{ post.imageurl }}" class="card-img-top" alt="...">
+   <div class="card col-6 mb-2 px-0" style="">
+	   <img src="{{ post.imageurl }}" class="card-img-top img-fluid" alt="Thumbnail image">
 	   <div class="card-body">
 		   <h2 class="card-titlei h6">{% if post.series-title %}<span class="text-muted text-uppercase small">{{ post.series-title }}</span><br/> {% endif %}{{ post.title }}</h5>
 		   <p class="card-text byline">
@@ -35,12 +34,17 @@ layout: page
 		   on {{ post.date | date: "%-d %B %Y" }}
 		   </p>
 		   <p class="card-text">{{ post.content | strip_html | truncatewords: 50 }}</p>
-		   <div class="card-footer mt-auto"><a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-outline-primary btn-sm stretched-link">More</a></div>
+		   <div class="card-footer mt-auto text-end"><a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-outline-primary btn-sm stretched-link">More</a></div>
 	   </div>
    </div>
-
     {% endif %}
+
+
+
 {% endfor %}
+	{% if paginator.page != 1 %}
+		{% include advert-card.html %}
+	{% endif %}
 <div>
 <!-- Pagination links -->
 <div class="col-md-12">
