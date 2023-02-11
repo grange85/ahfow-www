@@ -3,7 +3,7 @@ name: Deploy AHFoW to LIVE
 on:
  push:
     branches:
-      - main
+     - main
   schedule:
     # Schedule to post every day
     - cron: '37 6 * * *'
