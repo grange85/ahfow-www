@@ -5,14 +5,14 @@ on:
     inputs:
       deploy-environment:
         type: choice
-        description: Depploy to environment:
+        description: 'Deploy to environment:'
         required: true
         options:
         - development
         - production
       deploy-database:
         type: choice
-        description: Deploy database?
+        description: 'Deploy database?'
         required: true
         options:
         - true
