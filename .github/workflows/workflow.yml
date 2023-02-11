@@ -65,5 +65,5 @@ jobs:
         repo: ahfow-database
         owner: grange85
         event_type: ahfow_www_push
-        client_payload: '{"deploy_environment": "${{ github.event.inputs.deploy-environment }}"}'
+        client-payload: '{"deploy_environment": "${{ github.event.inputs.deploy-environment }}"}'
 
