@@ -16,7 +16,7 @@ jobs:
   deployment:
     runs-on: ubuntu-20.04
     environment:
-      name: ${{ github.event.inputs.deploy-environment == 'development' }}
+      name: ${{ github.event.inputs.deploy-environment }}
       url: https://${{ vars.S3_BUCKET }}
     steps:
     - uses: actions/checkout@v3
