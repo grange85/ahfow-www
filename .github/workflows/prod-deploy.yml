@@ -1,23 +1,22 @@
-name: Manual deploy ahfow-www
+name: Deploy AHFoW to LIVE
 
 on:
-  workflow_dispatch:
-    inputs:
-      tags:
-        description: 'manual deploy'
-      deploy-environment:
-        type: choice
-        description: Environment
-        required: true
-        options:
-        - development
-        - production
+  push:
+    branches:
+    - main
+  schedule:
+    # Schedule to post every day
+    - cron: '37 6 * * *'
+
 jobs:
-  deployment:
+# =====================
+# production deployment
+# =====================
+  prod-deployment:
     runs-on: ubuntu-20.04
     environment:
-      name: ${{ github.event.inputs.deploy-environment }}
-      url: https://${{ vars.S3_BUCKET }}
+      name: production
+      url: https://www.fullofwishes.co.uk
     steps:
     - uses: actions/checkout@v3
 
@@ -53,9 +52,7 @@ jobs:
 
     - name: Sync output to S3
       run: |
-        aws s3 sync --size-only --delete --exclude '.sass-cache' _deploy s3://${{ vars.S3_BUCKET }}
-        aws s3 mv --content-type "text/xml" --metadata-directive REPLACE s3://${{ vars.S3_BUCKET }}/feed.xml s3://${{ vars.S3_BUCKET }}/feed
+        aws s3 sync --size-only --exclude '.sass-cache' _deploy s3://www.fullofwishes.co.uk
+        aws s3 mv --content-type "text/xml" --metadata-directive REPLACE s3://www.fullofwishes.co.uk/feed.xml s3://www.fullofwishes.co.uk/feed
         aws cloudfront create-invalidation --no-cli-pager --distribution-id ${{ secrets.FULLOFWISHES_WWW_DISTRIBUTION_ID }} --paths "/*"
         aws cloudfront create-invalidation --no-cli-pager --distribution-id ${{ secrets.FULLOFWISHES_CDN_DISTRIBUTION_ID }} --paths "/*"
-
-
