@@ -25,7 +25,7 @@ jobs:
 # development deployment
 # =====================
   dev-deployment:
-    if: ${{ github.ref_name  == 'develop' }}
+    if: ${{ github.ref_name  == 'develop' || github.event.inputs.deploy-environment == 'development' }}
     runs-on: ubuntu-20.04
     environment:
       name: development
@@ -74,7 +74,7 @@ jobs:
 # production deployment
 # =====================
   prod-deployment:
-    if: ${{ github.ref_name  == 'main' }}
+    if: ${{ github.ref_name  == 'main' || github.event.inputs.deploy-environment == 'production' }}
     runs-on: ubuntu-20.04
     environment:
       name: production
