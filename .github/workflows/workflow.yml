@@ -13,11 +13,6 @@ on:
         - development
         - production
   push:
-    environment: development
-    branches:
-      - develop
-  push:
-    deploy-environment: production
     branches:
       - main
   schedule:
