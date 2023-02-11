@@ -42,7 +42,7 @@ jobs:
     # Standard usage
     - name: Build site
       run: |
-        bundle exec jekyll build --config _config.yml,_config_build.yml
+        bundle exec jekyll build --config _config.yml,_config_${{ github.event.inputs.deploy-environment }}.yml
 
     # Example deployment: Push to S3
     - name: Configure AWS credentials

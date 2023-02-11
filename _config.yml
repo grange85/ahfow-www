@@ -65,12 +65,16 @@ unpublished: true
 twitter_username: ahfow
 github_username:  grange85
 permalink: /:year/:month/:day/:title/
+
 jekyll-archives:
-  enabled: ['categories']
+  enabled: ['month','categories']
   layouts:
+    month: month-archive
     category: category-archive
   permalinks:
+    month: '/:year/:month/'
     category: '/category/:name/'
+
 
 pagination: 
   enabled: true
