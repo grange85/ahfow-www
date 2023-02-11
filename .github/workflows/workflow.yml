@@ -1,4 +1,4 @@
-name: Manual deploy AHFoW
+name: Manual deploy ahfow-www
 
 on:
   workflow_dispatch:
