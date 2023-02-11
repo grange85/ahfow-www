@@ -60,10 +60,10 @@ jobs:
 
     - name: trigger database deployment
       uses: grange85/ahfow-database@master
-        with:
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          repo: ahfow-database
-          owner: grange85
-          event_type: ahfow_www_push
-          deploy_environment: development
+      with:
+        token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        repo: ahfow-database
+        owner: grange85
+        event_type: ahfow_www_push
+        deploy_environment: development
 
