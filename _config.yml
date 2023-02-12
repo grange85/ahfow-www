@@ -14,7 +14,7 @@ image: https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image.jpg
 ahfow-version: '2.0'
 
 sass:
-  sass_dir: css
+  sass_dir: _sass
 
 # collections_dir: collections
 
@@ -65,6 +65,7 @@ unpublished: true
 twitter_username: ahfow
 github_username:  grange85
 permalink: /:year/:month/:day/:title/
+
 jekyll-archives:
   enabled: ['month','categories']
   layouts:
@@ -74,11 +75,12 @@ jekyll-archives:
     month: '/:year/:month/'
     category: '/category/:name/'
 
+
 pagination: 
   enabled: true
   debug: false
   collection: 'posts'
-  per_page: 10
+  per_page: 9
   permalink: '/page:num/'
   title: ':title - page :num'
   limit: 10

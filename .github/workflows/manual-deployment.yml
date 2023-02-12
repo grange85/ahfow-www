@@ -3,18 +3,16 @@ name: Manual deploy ahfow-www (new)
 on:
   workflow_dispatch:
     inputs:
-      tags:
-        description: 'manual deploy'
       deploy-environment:
         type: choice
-        description: Environment
+        description: 'Deploy to environment:'
         required: true
         options:
         - development
         - production
       deploy-database:
         type: choice
-        description: Database
+        description: 'Deploy database?'
         required: true
         options:
         - true
@@ -44,7 +42,7 @@ jobs:
     # Standard usage
     - name: Build site
       run: |
-        bundle exec jekyll build --config _config.yml,_config_build.yml
+        bundle exec jekyll build --config _config.yml,_config_${{ github.event.inputs.deploy-environment }}.yml
 
     # Example deployment: Push to S3
     - name: Configure AWS credentials
@@ -60,13 +58,13 @@ jobs:
 
     - name: Sync output to S3
       run: |
-        aws s3 sync --size-only --delete --exclude '.sass-cache' _deploy s3://${{ vars.S3_BUCKET }}
+        aws s3 sync --size-only --exclude '.sass-cache' _deploy s3://${{ vars.S3_BUCKET }}
         aws s3 mv --content-type "text/xml" --metadata-directive REPLACE s3://${{ vars.S3_BUCKET }}/feed.xml s3://${{ vars.S3_BUCKET }}/feed
         aws cloudfront create-invalidation --no-cli-pager --distribution-id ${{ secrets.FULLOFWISHES_WWW_DISTRIBUTION_ID }} --paths "/*"
         aws cloudfront create-invalidation --no-cli-pager --distribution-id ${{ secrets.FULLOFWISHES_CDN_DISTRIBUTION_ID }} --paths "/*"
 
     - name: trigger database deployment
-      if: ${{ github.event.inputs.deploy_database == "true" }}
+      if: github.event.inputs.deploy-database == 'true'
       uses: peter-evans/repository-dispatch@v2.1.1
       with:
         token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}

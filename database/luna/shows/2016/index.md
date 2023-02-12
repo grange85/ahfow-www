@@ -1,6 +1,0 @@
----
-layout: gigography
-artistslug: luna
-year: 2016
-position: database-4
----

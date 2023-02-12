@@ -1,75 +1,18 @@
-<div class="row">
-	<div class="col">
-		<header>
-		    <div class="jumbotron jumbotron-fluid text-light mb-0 pt-0">
-		    	<div class="container">
-		            <div class="row">
-		                <div class="col">
-		                    <h1 class="display-3 cc-home-banner-title"><a href="/" class="stretched-link text-light">{{ site.title }}</a></h1>
-		                        {% if site.subtitle %}
-		                            <p class="lead">{{ site.subtitle }}
-									{% if site.environment != "production" %}<br/>{{site.environment}}{% endif %}
-									</p>
-		                        {% endif %}
-		                </div>
-		            </div>
-		        </div>
-		    </div>
-			<nav class="navbar navbar-expand-lg navbar-dark bg-primary text-white py-2 mt-0">
-				<button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#ahfow-navbar-collapse">
-					<span class="sr-only">Toggle navigation</span>
-					<span class="navbar-toggler-icon"></span>
-				</button>
-				<div class="collapse navbar-collapse" id="ahfow-navbar-collapse">
-					<ul class="navbar-nav mr-auto">
-						<li class="nav-item dropdown">
-					        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">News, reviews and articles</a>
-					        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-								<a class="dropdown-item" role="menuitem" tabindex="-1" href="/">Latest news</a>
-						          <div class="dropdown-divider"></div>
-								<a class="dropdown-item" role="menuitem" tabindex="-1" href="/category/galaxie-500/">Galaxie 500 news</a>
-								<a class="dropdown-item" role="menuitem" tabindex="-1" href="/category/luna/">Luna news</a>
-								<a class="dropdown-item" role="menuitem" tabindex="-1" href="/category/damon-naomi/">Damon &amp; Naomi news</a>
-								<a class="dropdown-item" role="menuitem" tabindex="-1" href="/category/dean-britta/">Dean &amp; Britta news</a>
-								<a class="dropdown-item" role="menuitem" tabindex="-1" href="/category/dean-wareham/">Dean Wareham news</a>
-						          <div class="dropdown-divider"></div>
-								<a class="dropdown-item" role="menuitem" tabindex="-1" href="/category/audio/">Audio</a>
-								<a class="dropdown-item" role="menuitem" tabindex="-1" href="/category/video/">Video</a>
-						</li>
-
-
-						<li class="nav-item dropdown">
-					        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Releases, shows and tracks</a>
-					        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-								<a class="dropdown-item" role="menuitem" tabindex="-1" href="/database/">Releases, shows and tracks home</a>
-						          <div class="dropdown-divider"></div>
-								<a class="dropdown-item" role="menuitem" tabindex="-1" href="/database/galaxie-500/">Galaxie 500</a>
-								<a class="dropdown-item" role="menuitem" tabindex="-1" href="/database/luna/">Luna</a>
-								<a class="dropdown-item" role="menuitem" tabindex="-1" href="/database/damon-and-naomi/">Damon &amp; Naomi</a>
-								<a class="dropdown-item" role="menuitem" tabindex="-1" href="/database/dean-and-britta/">Dean Wareham / Britta Phillips</a>
-						          <div class="dropdown-divider"></div>
-								<a class="dropdown-item" role="menuitem" tabindex="-1" href="/database/tracks/">A-Z of tracks</a>
-								<a class="dropdown-item" role="menuitem" tabindex="-1" href="/database/shows/show-downloads/">Full shows to download</a>
-						</li>
-
-
-						<li class="nav-item dropdown">
-					        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Social</a>
-					        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-								<a class="dropdown-item" role="menuitem" tabindex="-1" href="https://www.facebook.com/fullofwishes/">Facebook</a>
-								<a class="dropdown-item" role="menuitem" tabindex="-1" href="https://twitter.com/ahfow/">@ahfow on Twitter</a>
-								<a class="dropdown-item" role="menuitem" tabindex="-1" href="https://www.instagram.com/fullofwishes/">@fullofwishes on Instagram</a>
-						          <div class="dropdown-divider"></div>
-								<a class="dropdown-item" role="menuitem" tabindex="-1" href="https://twitter.com/grange85/">@grange85 on Twitter</a>
-								<a class="dropdown-item" role="menuitem" tabindex="-1" href="https://www.instagram.com/grange85/">@grange85 on Instagram</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="/search/">Search</a>
-						</li>
-
-					</ul>
-				</div><!-- /.navbar-collapse -->
-			</nav>
-		</header>
-	</div><!-- /.column -->
-</div>
+<header>
+	<div class="row">
+		<div class="col" style="background-image:url('https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image-1280x720-no-text.jpg'); background-size:cover; background-color:#003366; height:250px;background-position:center;">
+		<h1 class="text-white display-1">
+				{% if paginator.page == 1 %}
+				{{ site.title }}
+				{% else %}
+				<a href="{{ site.baseurl }}/" class="text-white">{{ site.title }}</a>
+				{% endif %}
+				{% if site.subtitle %}
+			</h1>
+			<p class="text-white">{{ site.subtitle }}
+			{% if site.environment != "production" %}&nbsp;<em class="text-muted">({{site.environment}})</em>{% endif %}
+			</p>
+			{% endif %}
+		</div>
+	</div>
+</header>

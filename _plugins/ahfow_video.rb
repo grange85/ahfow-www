@@ -50,7 +50,7 @@ eos
         ahfowvideo_thumbnail = "https://img.youtube.com/vi/#{ahfowvideo_url}/sddefault.jpg"
       end
       <<~HEREDOC
-        <figure class="figure embed-responsive mx-auto text-center">
+        <figure class="figure mx-auto text-center w-100">
           <a href="https://www.youtube.com/watch?v=#{ahfowvideo_url}" >
               <img src="#{ahfowvideo_thumbnail}" class="img-fluid sddefault opacity-3h4" />
           <figcaption class="figure-caption">
