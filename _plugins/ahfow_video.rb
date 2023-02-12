@@ -50,14 +50,16 @@ eos
         ahfowvideo_thumbnail = "https://img.youtube.com/vi/#{ahfowvideo_url}/sddefault.jpg"
       end
       <<~HEREDOC
-        <figure class="figure mx-auto text-center w-100">
+      <div class="text-center">
+        <figure class="figure w-100">
           <a href="https://www.youtube.com/watch?v=#{ahfowvideo_url}" >
-              <img src="#{ahfowvideo_thumbnail}" class="img-fluid sddefault opacity-3h4" />
-          <figcaption class="figure-caption">
-            #{ahfowvideo_caption} <i class="fab fa-youtube"></i>
+              <img src="#{ahfowvideo_thumbnail}" class="img-fluid opacity-3h4 mx-auto" />
+          <figcaption class="figure-caption text-right">
+            #{ahfowvideo_caption} 
           </figcaption>
           </a>
         </figure>
+      </div>
       HEREDOC
 #      "<figure class=\"figure embed-responsive\">\<a href=\"https://www.youtube.com/watch?v=#{ahfowvideo_url}\">    <div class=\"ytimg\">     <i class=\"bi bi-play-btn-fill display-3 text-danger text-center\"></i><img src=\"https://img.youtube.com/vi/#{ahfowvideo_url}/sddefault.jpg\" width=\"640\" height=\"480\" class=\"img-fluid rounded mx-auto d-block\" alt=\"#{ahfowvideo_caption} (link to youtube)\">   </div>  </a>  <figcaption class=\"figure-caption text-right\">#{ahfowvideo_caption} (link to youtube)</figcaption></figure>"
 #      if ahfowvideo_caption.empty?

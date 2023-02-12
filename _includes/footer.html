@@ -1,15 +1,13 @@
 <div class="container">
-  <footer class="row row-cols-5 py-5 my-5 border-top">
-    <div class="col">
+  <footer class="row py-5 my-5 border-top">
+    <div class="col col-md">
       <a href="/" class="d-flex align-items-center mb-3 link-dark text-decoration-none">
        <img src="/favicon-32x32.png" width="32" height="32" alt="A Head Full of Wishes logo">
       </a>
       <p class="text-muted">established: 1994<br/>last build: {{site.time | date: "%Y-%m-%d %H:%M" }}</p>
     </div>
 
-    <div class="col">
-    </div>
-    <div class="col">
+    <div class="col-md">
       <h5>Discography / Gigography</h5>
       <ul class="nav flex-column">
         <li class="nav-item mb-2"><a href="/database/galaxie-500/" class="nav-link p-0 text-muted">Galaxie 500</a></li>
@@ -20,7 +18,7 @@
       </ul>
     </div>
 
-    <div class="col">
+    <div class="col-md">
       <h5>Find out more</h5>
       <ul class="nav flex-column">
         <li class="nav-item mb-2"><a href="http://eepurl.com/hvmzyH" class="nav-link p-0 text-muted">Subscribe for email updates</a></li>
@@ -31,7 +29,7 @@
       </ul>
     </div>
  
-    <div class="col">
+    <div class="col-md">
 		<h5>Follow AHFoW</h5>
 		<ul class="nav flex-column">
             <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" href="https://www.reddit.com/r/aheadfullofwishes/">r/aheadfullofwishes (Reddit)</a></li>
@@ -47,19 +45,4 @@
 </div>
 
 <script src="{{ '/js/ahfow.js?' | prepend: site.baseurl | append: buildtimestamp }}"></script>
-{% if page.title == 'Search results' %}
-	<script>$('#q').val(window.location.search.split('=')[1].replace(/\+/g,' '));</script>
-{% endif %}
 
-{% if page.title == "Search results" %}
-<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
-<script>
-var sjs = SimpleJekyllSearch({
-  searchInput: document.getElementById('searchInput'),
-  resultsContainer: document.getElementById('searchResults'),
-  json: '/search{% if site.environment=="production" %}-min{% endif %}.json',
-  searchResultTemplate: '<li class="list-group-item"><a href="{{ site.url }}{url}">{title}</a></li>',
-  limit: 30
-})
-</script>
-{% endif %}

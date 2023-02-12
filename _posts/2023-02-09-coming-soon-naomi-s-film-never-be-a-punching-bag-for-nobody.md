@@ -21,7 +21,7 @@ Back in November, while browsing around I [came across the trailer for Never Be 
 
 <figure class="figure embed-responsive mx-auto text-center w-100">
     <a href="https://vimeo.com/720377196">
-        <img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/never-be-a-punching-bag.png" class="img-fluid sddefault opacity-3h4">
+        <img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/never-be-a-punching-bag.png" class="img-fluid mx-auto opacity-3h4">
         <figcaption class="figure-caption">
 Never Be a Punching Bag for Nobody (trailer, dir: Naomi Yang)<i class="fab fa-youtube"></i>
         </figcaption>
