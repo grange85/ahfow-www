@@ -32,7 +32,3 @@ Galaxie 500 covered it for the Shimmy Disc tribute album Rutles Highway Revisite
 {% ahfowvideo "5CAdEg_oOg4" "" %}
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>
 
---- 
-
-<i class="fa fa-comments" aria-hidden="true"></i>  [Talk about this on Reddit r/aheadfullofwishes](https://www.reddit.com/r/aheadfullofwishes/comments/ickrca/originals_cheese_and_onions_by_the_rutles_covered/)
-
