@@ -12,10 +12,10 @@ date: '2016-02-10'
 imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/britta-phillips-luck-or-magic.jpg
 categories:
 - video
-- britta phillips
 - dean wareham
 - dean & britta
-tags: []
+tags:
+- britta phillips
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/britta-phillips-luck-or-magic.jpg" alt="Britta Phillips - Luck or Magic" /><figcaption class="caption-text">Britta Phillips - Luck or Magic</figcaption></figure>
 <p class="lead">The new album by Britta Phillips will be released on the 29th April and is <a href="http://www.pledgemusic.com/projects/brittaphillips">available to order on Pledge Music</a></p>

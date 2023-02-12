@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: Categories
+title: All categories
 author:
   display_name: Andy
   login: admin

@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: home
+pagination:
+ enabled: true
 ---
 
 	{% include breadcrumbs.html %}
@@ -7,7 +9,7 @@ layout: default
 				<div class="row">
 					<div class="col">
 
-						<h2>Archive of posts with {{ page.type }} '{{ page.title }}'</h2>
+						<h2>Posts with {{ page.type }} '{{ page.title }}'</h2>
 						<div class="table-responsive">
 							<table class="table table-striped">
 								{% for post in page.posts %}

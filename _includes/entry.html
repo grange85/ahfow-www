@@ -3,16 +3,18 @@
 		    	    <div class="card-text byline">
 		        	{% if page.collection == "articles" %}Written by 
 		        	{{page.author.display_name}} {% if page.source %}<em> - {{page.source.name}}, {{page.source.publication_date}}</em>{% endif %}
-		        	{% else %}
+		        	{% elsif page.layout == "post" %}
 		        	Posted by
 		        	{% if page.author.display_name != 'Andy' %}<a href="/authors/">{{page.author.display_name}}</a>
 		        	{% else %}{{page.author.display_name}}
 		        	{% endif %}
 		        	 on {{ page.date | date: "%-d %B %Y" }}
+					 {% else %}
+
 		        	 {% endif %}
 		        	</div>
 		        	{% if page.categories %}
-		        	<p class="float-left pr-3">in categories: </p>
+		        	<p class="float-start pe-3">in categories: </p>
 		        		<ul class="categories list-inline">
 			        	{% for category in page.categories %}
 			        		<li class="list-inline-item"><a class="badge text-bg-primary" href="{{ category | slugify | prepend: '/category/' | append: '/' }}">{{ category }}</a></li>

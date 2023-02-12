@@ -13,7 +13,7 @@ author:
 date: 2022-07-06
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-krukowski-the-new-analog.jpg
 categories:
- - damon krukowski
+ - damon & naomi
  - news
 tags:
  - podcast

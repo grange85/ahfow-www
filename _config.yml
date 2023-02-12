@@ -11,57 +11,11 @@ description: >
 podcast-description: >
   A Head full of Wishes is a site for fans of Galaxie 500, Luna, Damon & Naomi, Dean & Britta and Dean Wareham. The podcast is as much about being a fan as it is about the music.
 image: https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image.jpg
-ahfow-version: '2.0'
+ahfow-version: '3.0'
 
 sass:
   sass_dir: _sass
 
-# collections_dir: collections
-
-collections: 
-  articles:
-    output: true
-    permalink: /:collection/:name/
-  tracks:
-    output: true
-    permalink: database/tracks/:title/
-  galaxie-500-releases:
-    output: true
-    permalink: database/galaxie-500/releases/:title/
-  galaxie-500-shows:
-    output: true
-    permalink: database/galaxie-500/shows/:path/
-  luna-releases:
-    output: true
-    permalink: database/luna/releases/:title/
-  luna-shows:
-    output: true
-    permalink: database/luna/shows/:path/
-  damon-and-naomi-releases:
-    output: true
-    permalink: database/damon-and-naomi/releases/:title/
-  damon-and-naomi-shows:
-    output: true
-    permalink: database/damon-and-naomi/shows/:path/
-  dean-and-britta-releases:
-    output: true
-    permalink: database/dean-and-britta/dean-and-britta-releases/:title/
-  dean-and-britta-shows:
-    output: true
-    permalink: database/dean-and-britta/shows/:path/
-  dean-wareham-releases:
-    output: true
-    permalink: database/dean-and-britta/dean-wareham-releases/:title/
-  britta-phillips-releases:
-    output: true
-    permalink: database/dean-and-britta/britta-phillips-releases/:title/
-  posts-live:
-    output: false
-  posts-dev:
-    output: false
-    
-
-unpublished: true
 twitter_username: ahfow
 github_username:  grange85
 permalink: /:year/:month/:day/:title/
@@ -74,7 +28,6 @@ jekyll-archives:
   permalinks:
     month: '/:year/:month/'
     category: '/category/:name/'
-
 
 pagination: 
   enabled: true
@@ -126,51 +79,6 @@ jekyll_compose:
        - 
       tags:
        - 
-    tracks: 
-      layout: track
-      position: atoz-3
-      categories: track
-      name: 14-auspicious-dreams
-      type: ahfow_track
-      track-lyrics: 
-      track-author: 
-      track-sort:
-      track-alpha: 
-      track-original: 
-      available-on:
-        - release: 
-          url: 
-      ahfow-posts:
-        - post-title: 
-          post-url: 
-    dean-and-britta-shows:
-      layout: show
-      position: database-5
-      artistslug: 
-      artist:
-        name: Dean Wareham
-      show-venue: ""
-      address: |
-      show-notes: 
-      show-setlist:
-      show-date: 
-      date-added:
-      category: 2023
-      show-radio:
-      show-lastfm:
-      show-cancelled:
-      performers: [
-        "Dean Wareham - guitar/vocals",
-        "Britta Phillips - bass"
-         ]
-      facebook-event-url:
-      show-poster-url: 
-      show-ticket-url: 
-      show-venue-website:
-      show-additional:
-      support:
-      show-series:
-
 # Build settings
 livereload: false
 host: 0.0.0.0

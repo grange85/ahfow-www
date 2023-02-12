@@ -10,9 +10,10 @@ author:
   url: http://www.grange85.co.uk
 imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/britta-phillips-luck-or-magic-lp-inner.jpg
 categories:
-- britta phillips
+- dean & britta
 - my record collection
 tags:
+- britta phillips
 - luck or magic
 - pledgemusic
 date: 2023-03-27 00:00 +0000

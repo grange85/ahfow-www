@@ -11,10 +11,10 @@ author:
 date: '2016-04-25'
 imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/britta-phillips-luck-or-magic.jpg
 categories:
-- britta phillips
 - dean wareham
 - dean & britta
-tags: []
+tags:
+- britta phillips
 ---
 <p class="lead">The debut album by Luna's Britta Phillips is now <a href="http://blogs.wsj.com/speakeasy/2016/04/25/listen-to-britta-phillipss-debut-solo-album-luck-or-magic-exclusive/">available to stream in full on WSJ</a>. The album is released on the 29 April and can be pre-ordered from Pledgemusic as well as all the usual online and offline suspects.</p>
 

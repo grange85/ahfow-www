@@ -14,8 +14,8 @@ imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1992_c.jp
 categories:
  - news
  - luna
- - fanzine
 tags:
+ - fanzine
 ---
 {% ahfowimage "https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1992_c.jpg" "Luna promo (1992)" %}
 So at some point in January, Luna will become 30 years old - first gig with Stanley was at Maxwells so might be [this one in February 1992](/database/luna/shows/1992/1992-02-22-luna-maxwells-hoboken-nj-usa/) where Dean says "This is Stanley Demeski, our newest member" -

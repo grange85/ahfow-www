@@ -13,8 +13,9 @@ imageurl:
 categories:
 - video
 - news
+- dean & britta
+tags:
 - britta phillips
-tags: []
 ---
 <p class="lead">Interview Magazine has a <a href="http://www.interviewmagazine.com/music/britta-phillips#_">lengthy interview with Britta</a> about her upcoming solo album Luck or Magic.</p>
 

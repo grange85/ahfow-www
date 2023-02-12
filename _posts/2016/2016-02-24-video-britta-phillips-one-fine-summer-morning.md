@@ -12,10 +12,10 @@ date: '2016-02-24'
 imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/britta-phillips-luck-or-magic.jpg
 categories:
 - video
-- britta phillips
 - dean wareham
 - dean & britta
-tags: []
+tags:
+- britta phillips
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/britta-phillips-one-fine-summer-morning.jpg" alt="Britta Phillips - One Fine Summer Morning" /><figcaption class="caption-text">Britta Phillips - One Fine Summer Morning</figcaption></figure>
 <p class="lead">Check out the lovely video for the first single from Britta Phillips' debut album.</p>

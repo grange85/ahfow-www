@@ -12,10 +12,10 @@ date: '2016-03-26'
 imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/britta-making-a-record.jpg
 categories:
 - video
-- britta phillips
 - dean wareham
 - dean & britta
-tags: []
+tags:
+- britta phillips
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/britta-making-a-record.jpg" alt="Britta Phillips - Making a record" /><figcaption class="caption-text">Britta Phillips - Making a record</figcaption></figure>
 <p class="lead">It's been just over a month since <a href="http://www.pledgemusic.com/projects/brittaphillips/">Britta announced her debut album on Pledgemusic</a> and she's been treating all the folk who've pre-ordered with a stack of updates.</p>

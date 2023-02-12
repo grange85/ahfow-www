@@ -10,6 +10,7 @@
 {% elsif page.layout == "month-archive" %}
 <li class="breadcrumb-item active">Posts from {{ page.date | date: "%B %Y" }}</li>
 {% elsif page.layout == "category-archive" %}
+<li class="breadcrumb-item"><a href="/category/">All catgeories</a></li>
 <li class="breadcrumb-item active">Posts with {{ page.type }} '{{ page.title }}'</li>
 {% else %}
 <li class="breadcrumb-item active">{{ page.title }}</li>

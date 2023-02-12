@@ -12,8 +12,9 @@ date: 2020-01-24
 imageurl: https://live.staticflickr.com/5461/30278285222_da54ae55fe_c.jpg
 categories:
  - artefacts
- - britta phillips
+ - dean & britta
 tags:
+ - britta phillips
  - ticket
 flickr: true
 longpost: false
