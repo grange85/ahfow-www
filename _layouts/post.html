@@ -1,11 +1,10 @@
 ---
 layout: default
 ---
-{% include breadcrumbs.html %}
+<article class="post-content">
 <div class="row">
-	<div class="col">
+		{% include breadcrumbs.html %}
 		{% include entry.html %}
-	</div>
 </div>
 
 {% if page.collection == 'posts' %}
@@ -22,3 +21,4 @@ layout: default
 	</div>
 </div>
 {% endif %}
+</article>
