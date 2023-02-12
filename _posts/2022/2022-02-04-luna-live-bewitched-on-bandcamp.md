@@ -11,7 +11,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2022-02-04
-imageurl: https://www.fullofwishes.co.uk/images/luna-live-bewitched.jpg
+imageurl: https://media.fullofwishes.co.uk/images/luna-live-bewitched.jpg
 categories:
  - luna
  - news

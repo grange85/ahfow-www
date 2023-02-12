@@ -11,7 +11,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-04-23
-imageurl: https://www.fullofwishes.co.uk/images/dean-wareham-mountains-of-the-moon-video-2.png
+imageurl: https://media.fullofwishes.co.uk/images/dean-wareham-mountains-of-the-moon-video-2.png
 categories:
  - dean wareham
  - video

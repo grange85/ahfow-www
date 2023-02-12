@@ -11,7 +11,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-03-03
-imageurl: https://www.fullofwishes.co.uk/images/that-bass-and-that-fanzine.jpg
+imageurl: https://media.fullofwishes.co.uk/images/that-bass-and-that-fanzine.jpg
 categories:
  - galaxie 500
  - editorial

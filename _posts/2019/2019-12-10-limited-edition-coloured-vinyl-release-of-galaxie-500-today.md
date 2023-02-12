@@ -11,7 +11,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-12-10
-imageurl: https://www.fullofwishes.co.uk/images/today-maroon-swirl-vinyl.jpg
+imageurl: https://media.fullofwishes.co.uk/images/today-maroon-swirl-vinyl.jpg
 categories:
  - galaxie 500
  - news

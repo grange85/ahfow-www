@@ -11,7 +11,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2020-05-04	
-imageurl: https://www.fullofwishes.co.uk/images/1990-06-26-galaxie-500-manchester-cap-01.jpg
+imageurl: https://media.fullofwishes.co.uk/images/1990-06-26-galaxie-500-manchester-cap-01.jpg
 categories:
  - galaxie 500
  - news

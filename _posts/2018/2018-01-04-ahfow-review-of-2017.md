@@ -12,7 +12,7 @@ author:
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 date: '2018-01-04'
-imageurl: https://www.fullofwishes.co.uk/images/that-bass-and-that-fanzine.jpg
+imageurl: https://media.fullofwishes.co.uk/images/that-bass-and-that-fanzine.jpg
 categories:
  - admin
 tags:

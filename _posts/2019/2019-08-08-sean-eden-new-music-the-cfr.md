@@ -11,7 +11,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-08-08
-imageurl: https://www.fullofwishes.co.uk/images/sean-the-cfr-hedbant.jpg
+imageurl: https://media.fullofwishes.co.uk/images/sean-the-cfr-hedbant.jpg
 categories:
  - after luna
  - news

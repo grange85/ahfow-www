@@ -8,7 +8,7 @@ title: "On Fire - side 2, track 3: Leave The Planet"
 author:
   display_name: Andy Aldridge
 date: 2019-10-15
-imageurl: https://www.fullofwishes.co.uk/images/leave-the-planet-the-band.jpg
+imageurl: https://media.fullofwishes.co.uk/images/leave-the-planet-the-band.jpg
 categories:
  - galaxie 500
  - on-fire-30

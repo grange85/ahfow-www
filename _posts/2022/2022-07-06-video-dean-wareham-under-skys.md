@@ -11,7 +11,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2022-07-06 10:00:00
-imageurl: https://www.fullofwishes.co.uk/images/dean-wareham-under-skys-screengrab.jpg
+imageurl: https://media.fullofwishes.co.uk/images/dean-wareham-under-skys-screengrab.jpg
 categories:
  - dean wareham
  - news
