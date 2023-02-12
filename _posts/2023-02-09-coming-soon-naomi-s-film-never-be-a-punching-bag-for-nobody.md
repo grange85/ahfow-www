@@ -19,7 +19,7 @@ tags:
 ---
 Back in November, while browsing around I [came across the trailer for Never Be A Punching Bag For Nobody]() on Vimeo and assumed it was something that had slipped past me, and posted it on this website - today Naomi officially announced the film and shared the trailer, so I guess I rather jumped the gun with this one (sorry Naomi!).
 
-<figure class="figure embed-responsive mx-auto text-center">
+<figure class="figure embed-responsive mx-auto text-center w-100">
     <a href="https://vimeo.com/720377196">
         <img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/never-be-a-punching-bag.png" class="img-fluid sddefault opacity-3h4">
         <figcaption class="figure-caption">
