@@ -8,6 +8,7 @@
 					{% for category in allcategories %}
 					<li class="list-group-item list-group-item-action"><a class="card-link" href="{{ category | slugify | prepend: '/category/' }}/">{{ category }}</a></li>
 					{% endfor %}
+					<li class="list-group-item list-group-item-action"><a class="card-link" href="/category/">All categories</a></li>
 		</ul>	
 </div>
 </div>
