@@ -13,7 +13,7 @@ author:
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 date: '2018-04-01'
-imageurl: https://www.fullofwishes.co.uk/pictures/2018-01-23-luna-kexp-01.jpg
+imageurl: https://media.fullofwishes.co.uk/images/2018-01-23-luna-kexp-01.jpg
 categories:
  - luna
  - audio
