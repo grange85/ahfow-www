@@ -24,8 +24,7 @@ layout: default
     {% else %}
 
    <div class="card col-lg-6 col-md-12 mb-2 px-0" style="">
-	{% assign imgurl = "" %}
-   {% if post.imageurl %}{% assign imgurl = post.imageurl %}{% else imgurl = "https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image-1280x720.jpg" %}{% endif %}
+   {% if post.imageurl %}{% assign imgurl = post.imageurl %}{% else %}{% assign imgurl = "https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image-1280x720.jpg" %}{% endif %}
 	   <img src="{{ imgurl }}" class="card-img-top img-fluid" alt="Thumbnail image">
 	   <div class="card-body">
 		   <h2 class="card-titlei h6">{% if post.series-title %}<span class="text-muted text-uppercase small">{{ post.series-title }}</span><br/> {% endif %}{{ post.title }}</h5>
