@@ -30,5 +30,4 @@ tags: []
 
 <p>... and, maybe I shouldn't be reading too much into this tweet... but...</p>
 <blockquote class="twitter-tweet" lang="en-gb"><p lang="en" dir="ltr"><a href="https://twitter.com/fyang">@fyang</a> this isn&#39;t a farewell tour</p>&mdash; Luna (@luna_theband) <a href="https://twitter.com/luna_theband/status/654672713735254017">October 15, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

@@ -48,4 +48,3 @@ For life is here only for the taking.
 ... so I took advantage of Twitter and asked Damon about that last verse...</p>
 <blockquote class="twitter-tweet" lang="en-gb"><p><a href="https://twitter.com/ahfow">@ahfow</a> ...so we chopped it off. and Kramer married it to another cover we&#39;d brought in, making a kind of suite. 1 take, not my best vox alas</p>
 <p>&mdash; Damon K (@dada_drummer) <a href="https://twitter.com/dada_drummer/status/509791873658290177">September 10, 2014</a></p></blockquote>
-<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>

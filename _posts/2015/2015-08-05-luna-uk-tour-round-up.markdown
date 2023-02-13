@@ -46,7 +46,6 @@ Video: Luna - Malibu Love Nest at The Garage, London - 31 July 2015
 <h3><a href="/database/luna/shows/2015/2015-08-02-luna-cca-glasgow-uk">2 August 2015 - Glasgow</a></h3>
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Luna rock the CCA in Glasgow on sunday night <a href="https://twitter.com/SeanEden">@SeanEden</a> <a href="https://twitter.com/brittaphillips">@brittaphillips</a> <a href="https://twitter.com/WarehamDean">@WarehamDean</a> <a href="http://t.co/IMpjZkwCSU">pic.twitter.com/IMpjZkwCSU</a></p>
 <p>&mdash; Terry Tochel (@TerryTochel) <a href="https://twitter.com/TerryTochel/status/628675027261648897">August 4, 2015</a></p></blockquote>
-<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <h3><a href="/database/luna/shows/2015/2015-08-03-luna-gorilla-manchester-uk">3 August 2015 - Manchester</a></h3>
 <p>Words: <a href="http://web.archive.org/web/20151209190226/http://dickiefelton.com/posts/review-luna-manchester-gorilla-monday-3-august-2015/">Dickie Felton's review</a></p>
 <blockquote><p>Musically and vocally, Luna are sensational. Wareham mostly on lead, Britta harmonising and Eden taking over singing duties on one song. It’s terrific song after terrific song.</p></blockquote>

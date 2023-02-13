@@ -28,7 +28,5 @@ tags: []
 
 <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/grange85">@grange85</a> hey claudine ripped that arrangement off as much as we did hers!</p>
 <p>&mdash; Damon K (@dada_drummer) <a href="https://twitter.com/dada_drummer/statuses/483672366904774656">June 30, 2014</a></p></blockquote>
-<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <blockquote class="twitter-tweet" lang="en-gb"><p>thanks to <a href="https://twitter.com/grange85">@grange85</a> we get to hear the original of a song we covered on More Sad Hits (we copped it from Claudine) <a href="http://t.co/jQY0YuSacR">http://t.co/jQY0YuSacR</a></p>
 <p>&mdash; Damon K (@dada_drummer) <a href="https://twitter.com/dada_drummer/statuses/483675260806365184">June 30, 2014</a></p></blockquote>
-<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>

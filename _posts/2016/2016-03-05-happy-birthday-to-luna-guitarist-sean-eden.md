@@ -29,4 +29,3 @@ tags: []
 <p>Have a great day Sean ... and see you in October!</p>
 
 
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

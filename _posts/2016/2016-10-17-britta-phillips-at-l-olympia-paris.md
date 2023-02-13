@@ -45,5 +45,4 @@ longpost: true
 <p><a href="https://flic.kr/s/aHskLHwk3w">A few more pics on Flickr, including some of Keren Ann's set</a></p>
 
 
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

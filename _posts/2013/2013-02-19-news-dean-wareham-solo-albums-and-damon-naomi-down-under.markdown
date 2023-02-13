@@ -30,4 +30,3 @@ tags: []
 <p>&mdash; Damon K (@dada_drummer) <a href="https://twitter.com/dada_drummer/status/298875580361879552">February 5, 2013</a></p></blockquote>
 <blockquote class="twitter-tweet"><p>pretty sure damon from galaxie 500/ Damon & Naomi just tweeted about liking our cover of tugboat. in shock :) :)</p>
 <p>&mdash; Joanna Gruesome (@JOANNAGRUESOME) <a href="https://twitter.com/JOANNAGRUESOME/status/298903728008871936">February 5, 2013</a></p></blockquote>
-<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>

@@ -38,6 +38,5 @@ tags:
 <p>On his Twitter this morning Matthew posted a picture showing the tricky decision making involved in selecting his eight discs - it was nice to see someone taking this as seriously as it deserves!</p>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Can’t be accused of under-thinking my choices for <a href="https://twitter.com/BBCRadio4">@BBCRadio4</a> <a href="https://twitter.com/hashtag/DesertIslandDiscs?src=hash">#DesertIslandDiscs</a>... <a href="https://t.co/Nm6o1P7WvF">pic.twitter.com/Nm6o1P7WvF</a></p>&mdash; Matthew Barzun (@MatthewBarzun) <a href="https://twitter.com/MatthewBarzun/status/749563355447193602">July 3, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <p>Well known (and sometimes not so well known) guests have been chosing their Desert Island Discs on BBC Radio since actor and comedian <a href="http://www.bbc.co.uk/programmes/p009y0nq">Vic Oliver picked Tchaikovsky, Jack Hylton and Bebe Daniels in 1942</a>.</p>

@@ -36,10 +36,8 @@ Luna have now confirmed that they are reunitiung for a tour of Spain in April 20
 </ul>
 <blockquote class="twitter-tweet" data-partner="tweetdeck" data-conversation="none"><p>10 years since the last Luna show; we are planning a short Spanish tour for April 2015</p>
 <p>&mdash; Dean Wareham (@WarehamDean) <a href="https://twitter.com/WarehamDean/status/527091603471486977">October 28, 2014</a></p></blockquote>
-<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <blockquote class="twitter-tweet" data-partner="tweetdeck" data-conversation="none"><p><a href="https://twitter.com/unclegrambo">@unclegrambo</a> later in the year will play a few US dates</p>
 <p>&mdash; Dean Wareham (@WarehamDean) <a href="https://twitter.com/WarehamDean/status/527105444884410370">October 28, 2014</a></p></blockquote>
-<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <p>See also:<br />
 <a href="http://www.brooklynvegan.com/archives/2014/10/luna_getting_ba.html">Brooklynvegan</a><br />
 <a href="http://www.tinymixtapes.com/news/luna-reunite-after-10-years-for-spanish-tour">Tinymixtapes</a></p>
