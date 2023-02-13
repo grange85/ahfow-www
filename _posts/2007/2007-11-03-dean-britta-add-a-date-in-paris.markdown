@@ -15,7 +15,6 @@ date: '2007-11-03'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 
 [Dean & Britta have added a Paris show to their European tour](http://blog.myspace.com/index.cfm?fuseaction=blog.view&friendID=23842982&blogID=325066939) they will be playing a free show at [Fleche D'Or](http://www.flechedor.fr/) at 102 Rue de Bagnolet, Paris, 75020  on December 3rd

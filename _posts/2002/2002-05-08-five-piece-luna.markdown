@@ -15,7 +15,6 @@ date: '2002-05-08'
 categories:
 - luna
 - news
-tags: []
 ---
 
 Luna will swell to a five piece for the upcoming tour when they're joined when they will be joined by keyboardist Lara Meyerratken - who has recently worked with Ben Lee (as did Britta before joining Luna).

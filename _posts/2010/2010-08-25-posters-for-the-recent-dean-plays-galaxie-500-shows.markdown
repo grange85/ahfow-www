@@ -15,7 +15,6 @@ date: '2010-08-25'
 categories:
 - dean & britta
 - pictures
-tags: []
 ---
 <div><span class="post-author vcard"><span class="fn">James Flames, </span></span>the artist of these two lovely posters for the recent Dean Wareham plays Galaxie 500 shows in New York and Philadelphia has just <a href="http://pitilli.blogspot.com/2010/08/deam-wareham-plays-galaxie-500-x2.html">posted about how he created them</a>. You can also <a href="http://www.jamesflames.com/store.html">buy limited edition numbered and signed copies of the posters directly from him</a>.
 <p />

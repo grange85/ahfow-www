@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2003-08-08'
 categories:
 - galaxie 500
-tags: []
 ---
 There are plans afoot to try and collect as much video footage of Galaxie 500 as possible, primarily so that the material can be collected and preserved/digitised but also with a view to releasing a DVD at some point in the future.
 

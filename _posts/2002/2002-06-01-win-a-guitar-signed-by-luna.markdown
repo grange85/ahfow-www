@@ -15,7 +15,6 @@ date: '2002-06-01'
 categories:
 - luna
 - news
-tags: []
 ---
 Jetset records and Virgin Megastore are giving away a Les Paul guitar signed by Luna - for more information visit Jetset's website...
 

@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2007-12-02'
 categories:
 - dean & britta
-tags: []
 ---
 <p>Review by Jens Aage Pedersen - originally posted on the Galaxie 500 Mailing List
 

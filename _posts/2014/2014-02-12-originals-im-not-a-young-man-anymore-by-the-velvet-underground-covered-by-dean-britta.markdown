@@ -13,7 +13,6 @@ author_url: http://www.grange85.co.uk
 date: '2014-02-12'
 categories:
 - news
-tags: []
 ---
 <p>I'm Not a Young Man Anymore only appeared in early 2008 when a bootleg of an April 1967 Velvet Underground performance from The Gymnasium in NYC surfaced. The bootleg also featured the first recorded performance of Sister Ray.<br />
 </p>

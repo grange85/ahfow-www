@@ -14,6 +14,5 @@ author_url: http://www.grange85.co.uk
 date: '2002-10-05'
 categories:
 - news
-tags: []
 ---
 Luna's show in Dublin on 30 October will now be at the SPIRIT and NOT at Whelan's.

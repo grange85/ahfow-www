@@ -15,7 +15,6 @@ date: '2001-07-18'
 categories:
 - luna
 - news
-tags: []
 ---
 Most (OK ALL) of this is leeched from DW's recently posted article on
 fuzzywuzzy - so if you want the full story go there.Luna's are hoping that

@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2007-03-01'
 categories:
 - dean & britta
-tags: []
 ---
 
 Arrived home from Portugal Thursday night. We played at the Festival of Oporto.

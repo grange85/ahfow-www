@@ -15,7 +15,6 @@ date: '2005-09-23'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 Piggie, Alison Bagnall's movie starring Dean Wareham has [its own
 website](https://web.archive.org/web/20050923+/http://piggiethemovie.com/index.html) with pictures and interviews -

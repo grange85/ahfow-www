@@ -19,6 +19,6 @@ tags:
  - counterpunch
 ---
 Dean Wareham has written a lengthy piece for Counterpunch about Tom Verlaine who passed away earlier this week.
-
+{: .lead }
  - [Dean Wareham - Encounters with Tom Verlaine](https://www.counterpunch.org/2023/01/31/encounters-with-tom-verlaine/)
 

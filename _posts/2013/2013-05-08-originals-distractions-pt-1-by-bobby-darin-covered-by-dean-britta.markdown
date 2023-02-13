@@ -14,7 +14,6 @@ date: '2013-05-08'
 categories:
 - dean & britta
 - originals
-tags: []
 ---
 <p>Here's a fantastic clip of Bob(by) Darin playing Distractions for Tom Jones in 1969<br />
 

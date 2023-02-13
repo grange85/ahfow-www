@@ -15,7 +15,6 @@ date: '2009-06-15'
 categories:
 - dean & britta
 - video
-tags: []
 ---
 <p>Here's a very cool video of Dean & Britta performing Galaxie 500's Tugboat at The Black Cat in Washington DC last week. To see it in glorious high definition head on over to the <a href="http://www.youtube.com/watch?v=78bbElL2-XI">YouTube page</a> and flip the HD switch on the player.</p>
 <p><figure class="caption "><figcaption class="caption-text"></figcaption></figure></p>

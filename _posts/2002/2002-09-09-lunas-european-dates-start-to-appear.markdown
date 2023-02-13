@@ -15,7 +15,6 @@ date: '2002-09-09'
 categories:
 - luna
 - news
-tags: []
 ---
 Luna's long awaited European tour finally looks to be on, with dates confirmed in Germany at the beginning of October and a Paris date towards the end of that month (see above for dates and venues). More dates will be added here as soon as I hear of them. If anyone knows of any dates not included please email me.
 

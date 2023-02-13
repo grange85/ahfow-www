@@ -16,7 +16,6 @@ categories:
 - dean & britta
 - pictures
 - 13 most beautiful
-tags: []
 ---
 <div class="imagebox-a"><a href="http://www.flickr.com/photos/wexnercenter/3059004704/" title="Photo Sharing"><img src="https://farm4.static.flickr.com/3169/3059004704_960733d425_m.jpg" alt="Dean & Britta" /></a><br/><strong>Dean & Britta</strong><br/>originally uploaded by <a href="http://www.flickr.com/people/wexnercenter/">Wexner Center</a></div>
 <div>

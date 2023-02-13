@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2008-10-12'
 categories:
 - damon & naomi
-tags: []
 ---
 <div class="imagebox-a"><a title="Alasdair, Damon & Naomi, by grange85" alt="Alasdair, Damon & Naomi, by grange85" alt="Alasdair, Damon & Naomi, by grange85" alt="Alasdair, Damon & Naomi, by grange85" href="http://www.flickr.com/photos/grange85/2935526849/"><img src="https://farm4.static.flickr.com/3049/2935526849_5c560d2950_m.jpg" width="240" height="180"></a><br/>Damon & Naomi @ Rough Trade East</div>
 <p>After a rather tiring and unsatisfying traipse around East London (we'll return soon with a better plan - there's so much to see and yet we managed to see almost nothing). We got to Rough Trade East in plenty of time, picked up our wristbands said "hi" to Damon & Naomi and introduced them to Adam (because that's what proud parents do when they get the chance) and then idled away until show time. Not getting a coffee because the Rough Trade espresso bar decided to close before the gig,  and the thought of negotiating the hordes in/around Brick Lane was just too much for us to contemplate.</p>

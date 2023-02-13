@@ -15,7 +15,6 @@ date: '2005-09-08'
 categories:
 - luna
 - news
-tags: []
 ---
 
 It seems that Rhino will be releasing a "Best of Luna" album in March of next year - no news on a tracklisting as yet but I have my ear to the ground. Release may or may not be tied in with Rhino's release of the Luna farewell tour documentary - tentatively titled "Tell Me Do You Miss Me"

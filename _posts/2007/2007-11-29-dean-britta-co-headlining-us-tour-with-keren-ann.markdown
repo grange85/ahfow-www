@@ -15,7 +15,6 @@ date: '2007-11-29'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 
 Dean & Britta have announced a co-headlining tour of the US with singer-songwriter Keren Ann([via Rounder Records - News](http://www.rounder.com/index.php?id=news.php&newsId=817)).

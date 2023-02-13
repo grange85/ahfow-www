@@ -13,7 +13,6 @@ author_email: joakim@fullofwishes.co.uk
 date: '2015-08-13'
 categories:
 - luna
-tags: []
 ---
 <p><em>I first met Joakim when he and Ulrika where in London for a Damon & Naomi gig a few years back, and again at the recent Luna shows in the UK. It was a pleasure. When he was back in Sweden he emailed me and mentioned that he'd written up their UK trip and wondered if I'd like to post it to AHFoW. I was overjoyed at the prospect of publishing someone else's words on the site - below is the first of four lovely missives about being a Luna fan following the band around the UK.<br/>Andy - AHFoW</em></p>
 <h4>It’s that moment when you know it’s all worth it.</h4>

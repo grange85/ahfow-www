@@ -19,7 +19,7 @@ tags:
  - bittorrent
 ---
 Luna's show at The Chapel in San Fracisco from last week is currently being seeded for download on bittorrent site Dimeadozen. Sounding pretty good too!
-
+{: .lead }
 As always, you need to be registered with Dime to download - but I'm not sure registration is the headache it once was, you'll also need a bittorrent client but there are plenty around - I use [Transmission](https://transmissionbt.com/) which is available for Linux, MacOS and Windows.
 
 - [Luna - 2023 01 14 @ The Chapel, San Francisco, CA MK4's](http://www.dimeadozen.org/torrents-details.php?id=745979&hit=1)

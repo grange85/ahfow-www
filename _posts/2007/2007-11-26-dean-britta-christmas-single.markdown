@@ -15,7 +15,6 @@ date: '2007-11-26'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2007/11/dandbfrontpage.JPG" alt='He’s Coming Home sleeve' /></div>
 

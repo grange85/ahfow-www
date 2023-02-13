@@ -13,7 +13,6 @@ author_email: joakim@fullofwishes.co.uk
 date: '2015-10-25'
 categories:
 - luna
-tags: []
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-08/2015-10-08-luna-nyc-joakim-05.jpg" alt="Luna at The Bowery Ballroom (Photo: Joakim)" /><figcaption class="caption-text">Luna at The Bowery Ballroom (Photo: Joakim)</figcaption></figure>
 <p class="lead">We got up, turned right when we got out from the hotel, kept walking on East Broadway and then we turned left before Seward Park and walked straight until we reached Lower East Side and turned left on Broome Street.</p>

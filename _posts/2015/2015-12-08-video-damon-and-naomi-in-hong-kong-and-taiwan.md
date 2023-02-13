@@ -12,7 +12,6 @@ date: '2015-12-08'
 categories:
 - damon & naomi
 - video
-tags: []
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2015-12-06/2015-12-06-damon-and-naomi-white-noise-records-instagram.jpg" alt="Damon & Naomi's soundcheck at White Noise Records in Hong Kong (Photo: <a href='https://www.instagram.com/p/-8ICE4GX3n/'>white_noise_records</a>)" /><figcaption class="caption-text">Damon & Naomi's soundcheck at White Noise Records in Hong Kong (Photo: <a href='https://www.instagram.com/p/-8ICE4GX3n/'>white_noise_records</a>)</figcaption></figure>
 

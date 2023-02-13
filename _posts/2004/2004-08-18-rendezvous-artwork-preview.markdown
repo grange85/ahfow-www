@@ -15,7 +15,6 @@ date: '2004-08-18'
 categories:
 - luna
 - news
-tags: []
 ---
 I'm not sure this is the final artwork but here is the picture that appears on the promo. A slightly bigger picture and tracklisting can be found at 
 

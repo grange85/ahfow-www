@@ -15,7 +15,6 @@ date: '2006-05-01'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 Dean Wareham will be appearing at [Maxwell's](https://web.archive.org/web/20060501+/http://www.maxwellsnj.com/)
 "Turntable Tuesday" in Hoboken, NJ on the 16 May - free entrance from 9pm

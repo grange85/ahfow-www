@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2007-03-16'
 categories:
 - news
-tags: []
 ---
 
 I've just created groups for A Head Full of Wishes on both the excellent music site [Last.fm](http://www.last.fm/group/A+Head+Full+of+Wishes) and the equally wonderful photo sharing site [Flickr](http://www.flickr.com/groups/aheadfullofwishes/) - please come and join.

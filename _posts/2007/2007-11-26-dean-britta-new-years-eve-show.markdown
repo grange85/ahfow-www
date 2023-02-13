@@ -15,7 +15,6 @@ date: '2007-11-26'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 
 Dean & Britta have taken over the traditional Luna New Year's Eve show - they'll be playing [Maxwells](http://www.maxwellsnj.com/) in Hoboken NJ

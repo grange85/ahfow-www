@@ -16,7 +16,6 @@ categories:
 - luna
 - dean & britta
 - video
-tags: []
 ---
 <p>This is just hilarious!<br />
 

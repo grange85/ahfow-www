@@ -14,7 +14,6 @@ categories:
 - news
 - luna
 - dean wareham
-tags: []
 description: "Luna's Dean Wareham puts the bands seven studio albums in his order of preference for Noisey Music"
 longpost: true
 ---

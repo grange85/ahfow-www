@@ -16,7 +16,6 @@ categories:
 - dean wareham
 - video
 - pictures
-tags: []
 ---
 <figure class="caption aligncenter"><a href="https://www.flickr.com/photos/g-rock/14291160060" title="Dean Wareham @ The Chapel SF by Greg Chow, on Flickr"><img class="aligncenter"src="https://farm3.staticflickr.com/2915/14291160060_9f51b0b009_z.jpg" width="640" height="427" alt="Dean Wareham @ The Chapel SF"></a><figcaption class="caption-text">Dean Wareham in San Francisco (photo: Greg Chow)</figcaption></figure>
 

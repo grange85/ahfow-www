@@ -15,7 +15,6 @@ date: '2010-07-18'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <div>Dean has written a short tribute to Tuli Kupferberg on the Dean & Britta blog along with a couple of audio clips.
 <p />

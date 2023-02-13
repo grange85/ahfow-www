@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2000-03-06'
 categories:
 - news
-tags: []
 ---
 Another new bassist installed - 6/March/2000
 

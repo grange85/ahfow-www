@@ -15,7 +15,6 @@ date: '2013-05-22'
 categories:
 - luna
 - originals
-tags: []
 ---
 <p>Suicide - Dream Baby Dream<br />
 

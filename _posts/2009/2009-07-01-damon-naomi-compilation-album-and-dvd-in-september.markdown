@@ -15,7 +15,6 @@ date: '2009-07-01'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <p><figure class="caption alignright" width="213" caption="1001 Nights"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2009/07/siren.f25.png" alt="1001 Nights" title="1001 Nights - Damon & Naomi" width="213" height="300" class="size-full wp-image-1376" /><figcaption class="caption-text">[/captio</figcaption></figure>]
 <p>As well as announcing the <a href="/2009/06/30/more-details-on-the-galaxie-500-vinyl-reissues/">Galaxie 500 reissues</a>, Damon & Naomi also had plenty of news about their post-Galaxie 500 project. On 8 September 20|20|20 will release a compilation of the duo's Sub Pop years containing 74 minutes of tracks taken from the four albums released by the label. No tracklist as yet but as soon as I have one I'll post it.</p>

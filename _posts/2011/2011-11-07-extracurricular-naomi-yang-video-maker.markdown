@@ -15,7 +15,6 @@ date: '2011-11-07'
 categories:
 - damon & naomi
 - video
-tags: []
 ---
 <p>The Wire magazine has made available the video for Meg Baird (of Espers) track The Finder which was directed by Naomi Yang</p>
 <blockquote><p>Meg and Naomi's film is their take on a public service announcement on how to stay safe while enjoying the outdoors in a New England autumn.</p></blockquote>

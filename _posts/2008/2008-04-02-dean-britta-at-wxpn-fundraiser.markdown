@@ -15,7 +15,6 @@ date: '2008-04-02'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <p>Dean & Britta will be "hosting a table" at this years WXPN Beggar's Banquet fundraiser. The event takes place on 4 April (this Friday!) and tickets are a mere $250 a pop...</p>
 <blockquote><p>Dean & Britta formerly of Luna<br />

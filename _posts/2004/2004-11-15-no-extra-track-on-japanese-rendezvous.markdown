@@ -15,7 +15,6 @@ date: '2004-11-15'
 categories:
 - luna
 - news
-tags: []
 ---
 
 Despite being led to believe otherwise it turns out that the Japanese release of Rendezvous contains no extra tracks and the only difference is the inclusion of a lyric sheet.

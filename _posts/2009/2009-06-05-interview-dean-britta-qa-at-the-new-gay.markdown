@@ -16,7 +16,6 @@ categories:
 - news
 - dean & britta
 - other people's blogs
-tags: []
 ---
 <p>Nice, funny <a href="http://thenewgay.net/2009/06/dean-britta.html">interview with Dean & Britta at The New Gay</a>, touching on gays in the army, who  they'd "go gay" for and the dawnings of heterosexuality...</p>
 <blockquote><p><strong>The New Gay:</strong> When did you first realize you were straight?<br />

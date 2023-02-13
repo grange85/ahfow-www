@@ -15,7 +15,6 @@ date: '2014-08-02'
 categories:
 - luna
 - news
-tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1994_d.jpg" width="1167" height="1410" alt="Luna promo photo from 1994" class /><figcaption class="caption-text"> Luna (1994)</figcaption></figure>
 Another year goes by for Luna's "judicious metronome" - have a great day Stan!</p>

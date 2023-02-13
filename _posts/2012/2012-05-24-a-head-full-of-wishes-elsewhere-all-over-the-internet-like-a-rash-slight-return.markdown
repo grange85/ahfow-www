@@ -15,7 +15,6 @@ author_url: http://www.grange85.co.uk
 date: '2012-05-24'
 categories:
 - admin
-tags: []
 ---
 <p>Not done this for a while so... a little plug for where else you can find A Head Full of Wishes out there on the 'net...</p>
 <p>The <a href="https://www.facebook.com/fullofwishes">A Head Full of Wishes Facebook page</a> is growing and while it's not quite buzzing with activity it ticks over rather nicely - getting close to 900 "likes" - while I'm not one to put much store by these numbers still nice to see that there's still an interest.</p>

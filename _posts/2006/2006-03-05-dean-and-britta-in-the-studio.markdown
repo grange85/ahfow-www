@@ -15,7 +15,6 @@ date: '2006-03-05'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 Dean & Britta are finally in the studio recording the follow up to
 L'Avventura. They will be recording for six weeks with legendary producer Tony

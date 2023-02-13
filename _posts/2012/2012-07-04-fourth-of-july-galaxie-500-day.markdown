@@ -15,7 +15,6 @@ imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-fo
 date: '2012-07-04'
 categories:
 - news
-tags: []
 ---
 {% ahfowvideo "hwi3qoZhMjw" "Dean Wareham plays Fourth of July in Australia in 2011" %}
 

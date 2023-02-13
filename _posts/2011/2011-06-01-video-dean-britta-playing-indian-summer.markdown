@@ -15,7 +15,6 @@ date: '2011-06-01'
 categories:
 - dean & britta
 - video
-tags: []
 ---
 <p>Check out this awesome video fo Dean & Britta playing Beat Happening's Indian Summer at last weekend's Primavera Sound festival in a promo for Ray Ban - you can look at it here but really you should <a href="https://www.youtube.com/watch?v=GquuwFlE5cw">head over to YouTube and watch it in HD</a></p>
 

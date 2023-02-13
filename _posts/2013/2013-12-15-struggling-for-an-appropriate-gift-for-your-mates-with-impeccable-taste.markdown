@@ -15,7 +15,6 @@ date: '2013-12-15'
 categories:
 - news
 - editorial
-tags: []
 ---
 <p>Well AHFoW is here to help.</p>
 <p>The 7" single of Snowstorm, is in a lovely sleeve and beautifful translucent yellow vinyl. It was originally given away with limited numbers of the <em>Don't Let Our Youth Go to Waste</em> DVD a couple of years back but can now be bought from Damon & Naomi's on line shop</p>

@@ -17,7 +17,6 @@ categories:
 - dean wareham
 - video
 - pictures
-tags: []
 ---
 <p><figure class="caption aligncenter"><a href="https://www.flickr.com/photos/-christoph-/14762049002" title="Dean Wareham live... by Christoph!, on Flickr"><img class="aligncenter" src="https://farm3.staticflickr.com/2898/14762049002_3cda5667fc_z.jpg" width="640" height="427" alt="Dean Wareham live..."></a><figcaption class="caption-text">Photo by Christoph!</figcaption></figure><br />
 Pictures: <a href="https://www.flickr.com/photos/-christoph-/sets/72157645960419454/">Christoph!'s pictures on Flickr</a><br />

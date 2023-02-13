@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2014-12-10'
 categories:
 - news
-tags: []
 ---
 <p>Some more nonsense oozing from my head... it's getting to the stage where I wish I hadn't decided to pick 20, partly because they might be getting a bit boring ... or worse... self-indulgent.</p>
 <h3>11: The Galaxie 500 box set</h3>

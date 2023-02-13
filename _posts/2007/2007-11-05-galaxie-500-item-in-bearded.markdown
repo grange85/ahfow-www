@@ -15,7 +15,6 @@ date: '2007-11-05'
 categories:
 - news
 - galaxie 500
-tags: []
 ---
 
 Independent UK based music magazine [Bearded](http://www.beardedmagazine.co.uk/index.php) has a one page feature on Galaxie 500 in it's second edition. You can download the magazine for free from their website, although you need to register and answer some mildly intrusive questions along the lines of "how much do you spend on clothes?"

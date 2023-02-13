@@ -15,7 +15,6 @@ date: '2007-11-12'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 
 Naomi has just posted to the [Damon & Naomi MySpace Blog](http://blog.myspace.com/index.cfm?fuseaction=blog.view&friendID=52968500&blogID=327806912)

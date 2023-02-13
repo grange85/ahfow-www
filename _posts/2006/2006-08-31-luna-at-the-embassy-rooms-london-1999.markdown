@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2006-08-31'
 categories:
 - luna
-tags: []
 ---
 Hot - really hot.
 

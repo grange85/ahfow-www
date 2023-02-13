@@ -15,7 +15,6 @@ date: '2006-04-25'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 
 There's a short news item on [Dean & Britta's website](https://web.archive.org/web/20060425+/http://www.deanandbritta.com) announcing that the next album is "finished". They have recorded 15 songs and will cut these down to 11 for an album release.

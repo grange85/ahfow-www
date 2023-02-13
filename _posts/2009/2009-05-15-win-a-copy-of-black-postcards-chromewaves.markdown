@@ -16,6 +16,5 @@ categories:
 - news
 - dean wareham
 - other people's blogs
-tags: []
 ---
 <p>Frank over at the very wonderful music blog <a href="http://www.chromewaves.net/2009/05/contest-dean-warehams-black-postcards-a-memoir/">Chromewaves has three copies of Dean Wareham's memoir Black Postcards to give away</a> - and all you have to do is a pick a fave Wareham track (and say why). <a href="http://www.chromewaves.net/2009/05/contest-dean-warehams-black-postcards-a-memoir/">So... of you go then</a>.</p>

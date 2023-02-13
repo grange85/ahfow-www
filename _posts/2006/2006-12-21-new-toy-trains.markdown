@@ -15,7 +15,6 @@ date: '2006-12-21'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 [Sonic Boom](https://web.archive.org/web/20061221+/http://www.sonic-boom.info) has remixed last years Dean, Britta
 and Sonic Christmas present [Old Toy Trains](https://web.archive.org/web/20061221+/http://www.sonic-

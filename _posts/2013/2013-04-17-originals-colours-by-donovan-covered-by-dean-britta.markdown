@@ -14,7 +14,6 @@ date: '2013-04-17'
 categories:
 - dean & britta
 - originals
-tags: []
 ---
 <p><img src="https://media.fullofwishes.co.uk/00-misc/pictures/donovan-colours-voguepye.jpg" width="550" height="550" class="aligncenter" /></p>
 <p>When I bought my first guitar - and cheap Washburn acoustic, I got given a book of easy guitar songs and the first song in the book, and therefore the first song I ever played on the guitar was <a href="http://en.wikipedia.org/wiki/Colours_%28Donovan_song%29">Donovan's Colours</a> - close to 40 years on I've probably not yet mastered it (or indeed anything on the guitar).</p>

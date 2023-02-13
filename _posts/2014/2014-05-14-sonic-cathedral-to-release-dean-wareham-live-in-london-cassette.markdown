@@ -15,7 +15,6 @@ date: '2014-05-14'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-live-at-st-pancras-cassettes.jpg" width="640" height="640" class /><figcaption class="caption-text"> Pic lifted from @soniccathedral's Instagram</figcaption></figure>
 <p>Sonic Cathedral will be releasing a recording of Dean Wareham's shows at St Pancras Old Church in London in December of last year. The show will be released on casette and will be available at the upcoming UK shows in Bristol, Brighton, Leamington Spa and London.</p>

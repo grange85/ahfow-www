@@ -15,7 +15,6 @@ date: '2006-06-21'
 categories:
 - luna
 - news
-tags: []
 ---
 Entertainment weekly have a nice little interview with Dean Wareham
 

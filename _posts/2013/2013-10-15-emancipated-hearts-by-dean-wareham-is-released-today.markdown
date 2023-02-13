@@ -15,7 +15,6 @@ date: '2013-10-15'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p><img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/2_color_DW_0813_4584cr_1024.jpg" width="1024" height="726" class="aligncenter" /><br />
 Dean Wareham's first solo album, Emancipated Hearts, is released in the US today (Tuesday). The album was recorded last winter in San Francisco with Jason Quever of Papercuts and is released on Dean & Britta's Double Feature label.</p>

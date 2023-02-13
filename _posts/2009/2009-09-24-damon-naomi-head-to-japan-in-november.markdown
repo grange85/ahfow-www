@@ -15,7 +15,6 @@ date: '2009-09-24'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <p>Damon & Naomi, currently touring North America with A Hawk & A Hacksaw, will be heading off to Japan for a week of dates in November.</p>
 <blockquote><p>we're extremely happy to announce that next month, we'll be returning to Japan. This time we will travel further north, and further south, than we have ventured there before.</p></blockquote>

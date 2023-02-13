@@ -15,7 +15,6 @@ date: '2008-07-01'
 categories:
 - news
 - admin
-tags: []
 ---
 <div class="imagebox-center"><br/>Oblivious - A new online forum</div>
 <p>It's been a few years since I last tried to get an online forum going for A Head Full of Wishes and I thought it was time to try again. The Galaxie 500 Mailing List has been a bit quiet of late, maybe that's because things are just quiet or maybe it's because mailing lists are so 20th century and people would much prefer to do things in their web browser - I suppose this is where we find out.</p>

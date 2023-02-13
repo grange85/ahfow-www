@@ -15,7 +15,6 @@ date: '2005-09-02'
 categories:
 - news
 - galaxie 500
-tags: []
 ---
 The two very excellent Galaxie 500 sessions recorded for BBC Radio 1's
 legendary John Peel show in 1989 and 1990 are getting a long overdue release

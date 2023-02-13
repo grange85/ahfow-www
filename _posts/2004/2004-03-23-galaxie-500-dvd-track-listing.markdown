@@ -15,7 +15,6 @@ date: '2004-03-23'
 categories:
 - news
 - galaxie 500
-tags: []
 ---
 Pitchfork had a news story about the forthcoming Galaxie 500 DVD complete with a track listing. This was duly leeched and added to this website. So preliminary details of the release can be found here...
 

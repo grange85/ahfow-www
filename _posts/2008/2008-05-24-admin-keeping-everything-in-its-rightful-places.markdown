@@ -15,7 +15,6 @@ date: '2008-05-24'
 categories:
 - editorial
 - admin
-tags: []
 ---
 <div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2008/05/backstage_kyoto-300x225.jpg" alt="" title="Backstage, Kyoto" width="300" height="225" class="alignnone size-medium wp-image-686" /><br/>Wake me up when he's finished...<br/>picture from <a href="http://www.fuzzywuzzy.com">fuzzywuzzy.com</a></div>
 <p>This is a really long and tedious post about managing links and tagging and it exists only as a reference and because I think really ought to document this sort of thing so that my grandchildren will be able to see just how truly, truly sad their granddad was . Unless the very un-rock'n'roll subject of managing information is your thing I suggest you should probably not read on...</p>

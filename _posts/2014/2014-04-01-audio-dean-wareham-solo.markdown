@@ -16,7 +16,6 @@ date: '2014-04-01'
 categories:
 - dean wareham
 - lost tracks
-tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/dean_wareham_tiom.jpg" width="612" height="612" class /><figcaption class="caption-text"> Photo: Norman Gholson Von Holtzendorff 1990</figcaption></figure>
 <p>With the recent releases of Dean Wareham's <em>Emancipated Hearts</em> and the more recent <em>Dean Wareham</em> you'd be forgiven for thinking that this was the first ever solo releases by Dean... this is a little thrown together post to prove otherwise:</p>

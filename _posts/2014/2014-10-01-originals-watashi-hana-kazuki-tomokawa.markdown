@@ -14,7 +14,6 @@ date: '2014-10-01'
 categories:
 - damon & naomi
 - originals
-tags: []
 ---
 <p><a href="https://www.flickr.com/photos/grange85/15377975435" title="Flower - watercolour and ink by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://farm3.staticflickr.com/2945/15377975435_0a557997f2_z.jpg" width="640" height="640" alt="Flower - watercolour and ink"></a></p>
 <p>Another one that slipped through the net...</p>

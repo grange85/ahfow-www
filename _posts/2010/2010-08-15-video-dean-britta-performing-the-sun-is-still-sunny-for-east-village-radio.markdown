@@ -15,7 +15,6 @@ date: '2010-08-15'
 categories:
 - dean & britta
 - video
-tags: []
 ---
 <div>Just came across this sweet video of Dean & Britta playing a session for East Village Radio.
 <p />

@@ -16,7 +16,6 @@ categories:
 - dean & britta
 - video
 - pictures
-tags: []
 ---
 <p>I've just come across a nice set of photos from last night's Dean & Britta show at The Lovin' Cup in Rochester, NY</p>
 <p><a href="http://www.flickr.com/photos/83204357@N00/3958818681/"><img alt="Dean & Britta" src="https://farm3.static.flickr.com/2431/3958818681_04bf1f13fe.jpg" title="Dean & Britta" class="aligncenter" width="500" height="375" /></a></p>

@@ -15,7 +15,6 @@ date: '2008-02-13'
 categories:
 - dean & britta
 - pictures
-tags: []
 ---
 <div class="imagebox-a"><a href="http://www.flickr.com/photos/kirstiecat/2258627597/" title="Photo Sharing"><img src="https://farm3.static.flickr.com/2196/2258627597_2399e31ec9_m.jpg" alt="Dean-Wareham-3.jpg" /></a><br/><strong>Dean-Wareham-3.jpg</strong><br/>originally uploaded by <a href="http://www.flickr.com/people/kirstiecat/">kirstiecat</a></div>
 <div>

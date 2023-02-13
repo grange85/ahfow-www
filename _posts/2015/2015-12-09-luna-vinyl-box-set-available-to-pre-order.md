@@ -13,7 +13,6 @@ imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/luna-captured-tracks
 categories:
 - luna
 - news
-tags: []
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/luna-captured-tracks-box-set.png" width="932" height="930" class /><figcaption class="caption-text"> Long Players 92-99</figcaption></figure>
 

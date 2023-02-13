@@ -15,6 +15,5 @@ date: '2008-06-19'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <p>Damon just emailed me to say that the London date that Damon & Naomi have had penciled in for a few months now will not be happening after "the promoter who told our agent he was holding that night didn't come through, and at too late a date to find anything else decent".</p>

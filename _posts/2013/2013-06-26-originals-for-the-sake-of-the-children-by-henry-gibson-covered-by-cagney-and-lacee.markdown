@@ -15,7 +15,6 @@ categories:
 - dean wareham
 - originals
 - cagney & lacee
-tags: []
 ---
 <p>This is a song from <a href="http://en.wikipedia.org/wiki/Nashville_%28film%29">Robert Altman's rather splendid film Nashville</a> (there'll be another later in the series). The only clip I can find on Youtube is this one, out of synch and subtitled in Spanish (you could however <a href="https://www.youtube.com/watch?v=6tdIW1se4yI">watch the whole film (with the director's audio commentary)</a> there!). It's performed by <a href="http://en.wikipedia.org/wiki/Henry_Gibson">Henry Gibson</a></p>
 {% ahfowvideo "s3TzXk5eong" "" %}

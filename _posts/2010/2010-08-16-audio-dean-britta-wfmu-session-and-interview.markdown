@@ -15,7 +15,6 @@ date: '2010-08-16'
 categories:
 - dean & britta
 - audio
-tags: []
 ---
 <div>Just after returning from their 13 Most Beautiful show in London Dean & Britta popped into <a href="http://www.wfmu.org">WFMU</a> for an interview for the show <a href="http://www.wfmu.org/playlists/MN">Underwater Theme Park</a> with Meghan. They performed a three song set comprising I&#039;ll Keep it with Mine, I Found it Not So, and Galaxie 500&#039;s Hearing Voices. They also chatted at length about 13 Most Beautiful, Galaxie 500 and anything else that popped up. The interview is lovingly punctuated with Meghan&#039;s laughter.
 <p /> You can <a href="http://www.wfmu.org/playlists/shows/36894">hear the show and see the playlist on the WFMU site</a> - zip through to about 1hr 15mins in for the session and interview (here&#039;s a direct link to the mp3 of the full show).

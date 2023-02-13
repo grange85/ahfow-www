@@ -15,7 +15,6 @@ date: '2006-04-21'
 categories:
 - luna
 - news
-tags: []
 ---
 
 The first couple of reviews for Matthew Buzzell's documentary of Luna's final tour have turned up...

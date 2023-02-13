@@ -14,7 +14,6 @@ date: '2013-04-24'
 categories:
 - luna
 - originals
-tags: []
 ---
 <p><a href="http://www.flickr.com/photos/powerhouse_museum/3655608937/" title="Grand Final Dance Championship at the Jack Keating Dance Studio by Powerhouse Museum Collection, on Flickr"><img class="aligncenter" src="https://farm3.staticflickr.com/2472/3655608937_d1d7cec19d_z.jpg?zz=1" width="640" height="467" alt="Grand Final Dance Championship at the Jack Keating Dance Studio"></a><br />
 Dance With Me was recorded by <a href="http://en.wikipedia.org/wiki/The_Modern_Lovers">The Modern Lovers</a> in the 1972 sessions with producer <a href="http://en.wikipedia.org/wiki/Kim_Fowley">Kim Fowley</a> but not released until the Original Modern Lovers LP was released in 1981.</p>

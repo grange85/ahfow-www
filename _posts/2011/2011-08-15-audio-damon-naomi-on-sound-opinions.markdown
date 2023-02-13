@@ -15,7 +15,6 @@ date: '2011-08-15'
 categories:
 - damon & naomi
 - audio
-tags: []
 ---
 <p>Damon & Naomi were interviewed at length on WBEZ show/podcast <a href="http://www.soundopinions.org/">Sound Opinions</a>. The duo talked at length about their career including discussing the prospects of a Galaxie 500 reunion.</p>
 <p>Naomi:</p>

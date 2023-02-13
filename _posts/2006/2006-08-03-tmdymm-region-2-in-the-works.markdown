@@ -15,7 +15,6 @@ date: '2006-08-03'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 OK I have to admit that this is barely news but it's all I have to offer for
 now! The Region 2 release of Matthew Buzzell's Luna documentary "Tell Me Do

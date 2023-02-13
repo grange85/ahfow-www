@@ -15,7 +15,6 @@ date: '2014-05-24'
 categories:
 - dean wareham
 - pictures
-tags: []
 ---
 <figure><a href="https://www.flickr.com/photos/grange85/14268132583" title="Dean Wareham in Leamington Spa by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://farm6.staticflickr.com/5517/14268132583_7d101c55e4_z.jpg" width="640" height="428" alt="Dean Wareham in Leamington Spa"></a><figcaption>Dean Wareham in Leamington Spa</figcaption></figure>
 <p>Second night. Finished work, headed home, and bundled Adam into the car to keep me company on the drive to Leamington Spa. Parking, that had been a headache in Brighton (and eventually cost me four quid), was a little easier in Leamington Spa... and free. Arrived just as the support act <a href="http://www.thedreamingspires.co.uk/">The Dreaming Spires</a> took to the stage.</p>

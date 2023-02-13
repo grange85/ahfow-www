@@ -15,7 +15,6 @@ date: '2009-06-09'
 categories:
 - news
 - editorial
-tags: []
 ---
 <p><figure class="caption alignright"><a href="http://www.songkick.com/artists/110737-luna"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2009/06/songkick.jpg" alt="Luna on Songkick" title="Luna on Songkick" width="300" height="207" class="size-full wp-image-1318" /></a><figcaption class="caption-text">Luna on Songkick</figcaption></figure>
 <p>Almost a year ago a friend of mine put me in touch with Ian Hogarth one of the founders of gig tracking site <a href="http://www.songkick.com/">Songkick</a>. Ian told me that they were planning a new version of the site and was interested in meeting up to talk me through what they were planning and how I, or more specifically A Head Full of Wishes, might be able to help. I met Ian and Michelle from Songkick over a lemonade in a pub in Shepherds Bush where they outlined, with huge enthusiasm, what they planned to do. A Head Full of Wishes' role in the new Songkick was to be one of the many sites that Songkick planned to trawl to create their huge archive of past concerts.</p>

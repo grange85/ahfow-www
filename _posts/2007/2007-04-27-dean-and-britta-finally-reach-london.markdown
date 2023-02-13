@@ -15,7 +15,6 @@ date: '2007-04-27'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 
 Dean & Britta have a date scheduled in London on the 19 June, I'm guessing there may be more European dates fitted around it and if/when I hear any more I'll let you all know.

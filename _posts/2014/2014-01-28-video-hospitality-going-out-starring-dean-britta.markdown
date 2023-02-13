@@ -15,7 +15,6 @@ date: '2014-01-28'
 categories:
 - dean & britta
 - video
-tags: []
 ---
 <p>Dean & Britta acting on the video for Going Out by Hospitality</p>
 {% ahfowvideo "pdzJs1KBUPQ" "" %}

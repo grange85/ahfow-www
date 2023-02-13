@@ -14,7 +14,6 @@ date: '2013-06-19'
 categories:
 - luna
 - originals
-tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/jonathan-richman.jpg" width="627" height="352" class /><figcaption class="caption-text"> Jonathan Richman</figcaption></figure>
 I think Fly Into the Mystery might have been another song recorded in the 1973 sessions with Kim Fowley (although as mentioned in the entry on <a href="/2013/05/15/originals-dont-let-our-youth-go-to-waste-by-jonathan-richman-covered-by-galaxie-500">Don't Let Our Youth Go to Waste</a> this is not clear-cut) - this recording is available on the Songs of Remembrance bootleg :<br />

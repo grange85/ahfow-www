@@ -21,7 +21,6 @@ categories:
 - dean & britta
 - dean wareham
 - lost tracks
-tags: []
 ---
 
 {% ahfowimage "https://live.staticflickr.com/3104/2744914632_4a853f8b08_c.jpg" "<a href='https://www.flickr.com/photos/pilliebee/2744914632/'>Strawberry Picking by pilliebee</a>" %}

@@ -15,7 +15,6 @@ date: '2005-04-11'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 
 Damon & Naomi will tour the UK and Europe, with Michio Kurihara at all UK dates, Kurihara and Bhob Rainey at all dates in Spain and Portugal. And in London and Newcastle, expect the D&N big band -- a quintet, with Kurihara, Bhob Rainey, and Greg Kelley. 

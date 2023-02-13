@@ -15,7 +15,6 @@ date: '2006-04-06'
 categories:
 - editorial
 - history
-tags: []
 ---
 
 During the first six months or so of A Head Full of Wishes a surprising amount

@@ -15,7 +15,6 @@ date: '2014-03-10'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p>
 Dean Wareham was in the list when <a href="http://www.indietracks.co.uk/">Indietracks</a> announced <a href="http://www.indietracks.co.uk/line-up/">the first few bands for their 2014 festival</a> this evening. Discounted early bird tickets on sale until the 11th on May.</p>

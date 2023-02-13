@@ -15,7 +15,6 @@ date: '2009-05-12'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p><figure class="caption alignright"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2009/05/terrydean-231x300.jpg" alt="Terry Tolkin and Dean Wareham" title="Terry Tolkin and Dean Wareham" width="231" height="300" class="size-medium wp-image-1245" /><figcaption class="caption-text">Terry Tolkin and Dean Wareham</figcaption></figure>
 <p><a href="http://www.warpedrealitymagazine.com/2009/05/the_mysteries_of_no_6_an_inter.html">Warped Reality has a long interview with Terry Tolkin</a> one of the stars of Dean Wareham's book Black Postcards. The interview deals with Terry's independent label No.6 Records as well as his time as an A&R man for Elektra Records during which time he signed Luna and a myriad of other cool bands.</p>

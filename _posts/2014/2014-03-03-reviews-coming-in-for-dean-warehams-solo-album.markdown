@@ -15,7 +15,6 @@ date: '2014-03-03'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p>Dean Wareham's new album, released next week on Double Feature and Sonic Cathedral has been getting good reviews in print and online - here I'll collect a few - please feel free to add any others you may find in the comments (or <a href="/about/" title="Contact me">email them to me</a> if you prefer).</p>
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/sonic-cathedral-scr075-ira.jpg" width="640" height="640" class /><figcaption class="caption-text"> <a href="http://instagram.com/p/kcQU6mlYYX/#">I think Ira finds it rather sad</a></figcaption></figure>

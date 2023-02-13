@@ -15,6 +15,5 @@ date: '2003-09-30'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 Damon & Naomi head back to Europe for a couple more shows. They have dates scheduled in London, UK and in Brest and Paris in France.

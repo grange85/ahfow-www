@@ -14,7 +14,6 @@ date: '2014-09-10'
 categories:
 - damon & naomi
 - originals
-tags: []
 ---
 <p>Who Am I was recorded by Country Joe and the Fish on their second album <a href="http://en.wikipedia.org/wiki/I-Feel-Like-I%27m-Fixin%27-to-Die">I Feel Like I'm Fixin' to Die</a> in 1967<br />
 

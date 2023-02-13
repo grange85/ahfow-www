@@ -15,7 +15,6 @@ date: '2014-02-17'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p>The first dates for Dean Wareham's return to Europe to promote his <a href="/2014/02/04/pre-order-dean-warehams-solo-album/" title="Pre-order Dean Wareham’s solo album">forthcoming solo album</a> have just come to light:</p>
 <p><strong>Italy</strong><br />

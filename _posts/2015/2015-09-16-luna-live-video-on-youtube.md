@@ -16,7 +16,6 @@ categories:
  - luna
  - news
  - video
-tags: []
 ---
 <p class="lead"> If you're not <a href="/database/luna/shows/">down-under where Luna are currently touring</a>, you're probably kicking your heels waiting (or crossing your fingers hoping) for Luna to come by (or come back) on their reunion tour. Here's a treat to fill the waiting and/or hoping...</p>
 

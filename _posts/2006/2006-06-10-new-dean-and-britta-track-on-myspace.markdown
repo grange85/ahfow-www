@@ -15,7 +15,6 @@ date: '2006-06-10'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 Dean & Britta have posted a new song on their [MySpace
 page](https://web.archive.org/web/20060610+/http://myspace.com/deanandbritta). The song, "We're Not Supposed to be

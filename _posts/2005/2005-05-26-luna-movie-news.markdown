@@ -15,7 +15,6 @@ date: '2005-05-26'
 categories:
 - luna
 - news
-tags: []
 ---
 _Matthew Buzzell_, the director of the video document of Luna's farewell tour
 gave me the latest on the project in an email last week. All the footage for

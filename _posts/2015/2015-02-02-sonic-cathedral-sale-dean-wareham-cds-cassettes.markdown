@@ -15,7 +15,6 @@ date: '2015-02-02'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p><img src="https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-sonic-cathedral-cd.jpg" width="1000" height="992" class="aligncenter" /><br />
 Dean Wareham's UK label, <a href="http://soniccathedral.bigcartel.com/">Sonic Cathedral, currently has a sale on</a> with some discounted Dean Wareham releases:</p>

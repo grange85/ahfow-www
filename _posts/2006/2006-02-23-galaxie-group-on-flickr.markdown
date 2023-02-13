@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2006-02-23'
 categories:
 - news
-tags: []
 ---
 After the horrors of MySpace it's nice to be able to write a news item about a
 "community" website that has got things so right

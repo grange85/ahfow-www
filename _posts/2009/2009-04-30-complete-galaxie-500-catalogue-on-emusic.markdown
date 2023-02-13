@@ -15,7 +15,6 @@ date: '2009-04-30'
 categories:
 - news
 - galaxie 500
-tags: []
 ---
 <p>The <a href="http://www.emusic.com/artist/Galaxie-500-MP3-Download/11577627.html">complete Galaxie 500 catalogue</a> has just been added to the subscription download service <a href="http://www.emusic.com">eMusic</a> and in celebration the <a href="http://www.emusic.com/17dots/2009/04/29/galaxie-500-copenhagen/">eMusic blog 17 dots is highly praising the live album Copenghagen</a>.</p>
 <blockquote><p>Dean Wareham’s voice is loose, his guitar sharpened to an edge we never heard on the records. Damon Krukowski’s drums are almost transparent, these polite, folded sheets of cymbals that provide a mis-en-scene as much as they do a rhythmic structure. And finally Naomi Yang, the secret hero of this record, whose bass is arguably the most dominant force on Copenhagen, due to both the mix (heavy on the low) and her aggressive performance.</p></blockquote>

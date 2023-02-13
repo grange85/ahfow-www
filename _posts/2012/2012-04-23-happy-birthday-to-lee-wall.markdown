@@ -16,7 +16,6 @@ date: '2012-04-23'
 categories:
 - news
 - after luna
-tags: []
 ---
 {% ahfowimage "https://live.staticflickr.com/7775/17107937187_f6ca17ab9f_b.jpg" "Lee Wall of Luna - (cc) Andy Aldridge" %}
 

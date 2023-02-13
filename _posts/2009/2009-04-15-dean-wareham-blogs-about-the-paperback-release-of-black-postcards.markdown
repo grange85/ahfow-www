@@ -15,7 +15,6 @@ date: '2009-04-15'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2009/02/41dyhhimxrl_sl160_.jpg" alt="Black postcards (paperback crop)" title="Black postcards (paperback crop)" width="104" height="160" class="size-full wp-image-1046" /></div>
 <p>Over at the official <a href="https://web.archive.org/web/20090415+/http://www.deanandbritta.com/blog/?p=299">Dean & Britta web site</a> Dean has blogged about the imminent paperback release of Black Postcards...</p>

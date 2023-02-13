@@ -15,7 +15,6 @@ date: '2015-08-30'
 categories:
 - luna
 - news
-tags: []
 ---
 
 {% ahfowvideo "-CQ7-nRSOt8" "" %}

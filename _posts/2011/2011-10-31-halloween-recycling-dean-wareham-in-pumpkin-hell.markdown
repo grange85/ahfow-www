@@ -15,7 +15,6 @@ imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/pumpkin-hell
 date: '2011-10-31'
 categories:
 - dean wareham
-tags: []
 photos:
   - type: ahfow-set
     photographer: EPK

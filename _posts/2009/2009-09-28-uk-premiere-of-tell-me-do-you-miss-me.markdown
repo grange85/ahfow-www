@@ -15,7 +15,6 @@ date: '2009-09-28'
 categories:
 - luna
 - news
-tags: []
 ---
 <p><ins datetime="2009-10-23T00:09:29+00:00"><strong>
 <p>The UK premiere of Tell Me Do You Miss Me has been postponed until 20 December - full details to follow.</p>

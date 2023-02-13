@@ -15,7 +15,6 @@ date: '2005-09-16'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 If you visit the [official website for The Squid and The
 Whale](https://web.archive.org/web/20050916+/http://www.squidandthewhalemovie.com/main.html) you will be able to

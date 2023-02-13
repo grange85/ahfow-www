@@ -15,7 +15,6 @@ date: '2012-03-07'
 categories:
 - damon & naomi
 - editorial
-tags: []
 flickr: true
 ---
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/mnoble/145358820" title="Tom Rapp"><img src="https://live.staticflickr.com/54/145358820_c678a5cc7e_c.jpg" width="800" height="600" alt="Tom Rapp"></a>

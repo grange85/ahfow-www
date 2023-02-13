@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2012-06-07'
 categories:
 - admin
-tags: []
 ---
 <p>I decided I needed somewhere I could dump things I have (or come across) that doesn't really fit on the real A Head Full of Wishes - maybe because it hasn't turned into a full post yet - or, more likely that it's too trivial to warrant one - but if you like the trivial then head over to...</p>
 <p><strong><a href="http://oblivious.fullofwishes.co.uk/">A Head Full of Wishes: Oblivious</a></strong></p>

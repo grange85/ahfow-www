@@ -15,7 +15,6 @@ date: '2008-09-12'
 categories:
 - dean & britta
 - other people's blogs
-tags: []
 ---
 <p><a href="http://www.thesoundofindie.com/?p=672">The Sound of Indie</a> has posted an mp3 from Dean & Britta's Galaxie 500 set at the Zipper Factpry a couple of weeks back.</p>
 <blockquote><p>This show featured ten (!!!) Galaxy 500 tunes. Needless to say, the show was sublime. Imagine sitting is a small theater listening to [the] set performed perfectly [...] It was good enough to make a grown man cry. I am sure many did.</p></blockquote>

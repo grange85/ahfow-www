@@ -15,7 +15,6 @@ date: '2009-02-23'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <p>The Walker Arts Center blog has <a href="http://blogs.walkerart.org/performingarts/2009/02/23/dean-britta-added-show-and-more-behind-the-8-ball/">posted a nice Q&A with Dean & Britta</a> in preparation for next weeks <a href="http://walkerart.org/tickets">two performances at the Minneapolis venue</a>.</p>
 <blockquote><p>What do you see as your artistic legacy?<br />

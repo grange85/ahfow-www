@@ -17,7 +17,7 @@ tags:
 date: 2023-02-13 00:00 +0000
 ---
 This is an advance/promo copy of Dean & Britta's second album "Back Numbers" that Dean sent me back in January 2007 - the front sleeve artwork is the same as the released version except it has ADVANCE CD printed on it. Everything else is more ... sparse. Obviously the music is as splendid as you'd expect.
-
+{: .lead }
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-britta-back-numbers-advance-cd.jpg" "Dean & Britta - Back Numbers (Advance Copy)" %}
 
 This was the start of the whole _Turn vs Turned_ headache ... on the sleeve of this CD track 4 is _You Turn My Head Around_ - on the official release it is <em>You Turn<strong>ed</strong> My Head Around</em> - this seemingly random interchanging of titles continued, and irked me considerably, to the point where Dean emailed me to explain...

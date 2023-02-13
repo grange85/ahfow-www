@@ -14,7 +14,6 @@ date: '2013-08-07'
 categories:
 - dean wareham
 - originals
-tags: []
 ---
 <p><a href="http://en.wikipedia.org/wiki/Hey_You_%28Pink_Floyd_song%29">Hey You</a> appears on Pink Floyd's 1979 album <a href="http://en.wikipedia.org/wiki/The_Wall">The Wall</a> </p>
 {% ahfowvideo "Lz0jEllqM-0" "" %}

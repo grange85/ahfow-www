@@ -15,7 +15,6 @@ date: '2011-05-17'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <p>Damon & Naomi's new album False Beats and True Hearts gets it's US release today on the duo's own 20|20|20 label. The album is available as a download, on CD or a high-quality vinyl release. The album is also available in the UK on <a href="http://brokenhorse.co.uk/">Broken Horse</a> records on CD and download.</p>
 <p>Get the album:<br />

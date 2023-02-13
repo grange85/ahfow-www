@@ -15,7 +15,6 @@ date: '2006-09-22'
 categories:
 - luna
 - news
-tags: []
 ---
 OK it's old news but here's a side-by-side comparison of the sleeve of the new
 Dylan album and Luna's 1995 single Hedgehog.

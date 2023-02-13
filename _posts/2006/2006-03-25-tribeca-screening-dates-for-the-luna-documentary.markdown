@@ -15,7 +15,6 @@ date: '2006-03-25'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 Tell Me Do You Miss Me will receive five screenings as part of the [Tribeca
 Film festival](https://web.archive.org/web/20060325+/http://www.tribecafilmfestival.org)

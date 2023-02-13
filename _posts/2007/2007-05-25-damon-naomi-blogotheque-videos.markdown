@@ -15,7 +15,6 @@ date: '2007-05-25'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 
 [Les concerts a emorter de Blogotheque](http://www.blogotheque.net/article.php3?id_article=3102) features Damon & Naomi performing (and drinking a lot of wine it seems!) in a Parisian apartment. The first video features covers of The Everly Brothers _I Wonder If..._ and Bob Dylan's _Hey Sister_. The second video is Araca Azul/The Earth is Blue.

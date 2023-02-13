@@ -15,7 +15,6 @@ date: '2008-05-22'
 categories:
 - galaxie 500
 - other people's blogs
-tags: []
 ---
 <p>I just came across this very nice review of Galaxie 500's third album This is Our Music on Tiny Mix Tapes</p>
 <blockquote><p>These are perfect pop songs — funny songs, sad songs, love songs. Our Music’s two centerpieces, “Summertime” and Yoko Ono’s “Listen, the Snow Is Falling” (they were a great weather band), achieve a majestic, burning magic that transcends any subgenre.</p></blockquote>

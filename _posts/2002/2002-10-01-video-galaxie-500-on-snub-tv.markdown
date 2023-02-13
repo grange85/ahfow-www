@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2002-10-01'
 categories:
 - galaxie 500
-tags: []
 ---
 (Tx: 22 January 1990)
 

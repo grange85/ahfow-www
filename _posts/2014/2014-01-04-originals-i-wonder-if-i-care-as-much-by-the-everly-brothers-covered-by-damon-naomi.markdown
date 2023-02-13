@@ -15,7 +15,6 @@ imageurl: https://media.fullofwishes.co.uk/00-misc/pictures/everly-brothers-1970
 categories:
 - damon & naomi
 - originals
-tags: []
 ---
 And following on from the [previous post](/2014/01/04/originals-living-too-close-to-the-ground-by-the-everly-brothers-covered-by-dean-wareham/) ... I also wasn't going to include tracks that had not had an official release (although I have already bent this rule at least once) so this lovely cover of I Wonder If I Care as Much by Damon & Naomi wouldn't have been included either - but once again Phil Everly's passing has forced my hand.
 

@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2013-05-08'
 categories:
 - news
-tags: []
 ---
 <p><a href="http://www.damonandnaomi.com/">Damon & Naomi</a> are home from Australia <a href="http://www.yetipublishing.com/G500.html">releasing books</a> and <a href="/2013/04/23/wondrous-world-of-damon-naomi-bootleg-edition/">new/old records</a> and publishing e-zines. </p>
 <blockquote><p>Back home, and excited to announce a virtual journey into the unknown – we are launching an Exact Change e-zine, through the auspices of 29th Street Publishing. There’s a sneak preview in a special free number of <a href="https://itunes.apple.com/us/app/maura-magazine/id590812236?mt=8">Maura Magazine</a> (the Maura app is also free, once you have it look for the  “Introducing” issue). This is for iPads and iPhones only, so plug in everyone!</p></blockquote>

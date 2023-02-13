@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2014-12-04'
 categories:
 - news
-tags: []
 ---
 <p><a href="https://www.flickr.com/photos/orangegreenblue/9186143130" title="Ninteen... Twenty... Suprise! by Kat N.L.M., on Flickr"><img class="aligncenter" src="https://farm4.staticflickr.com/3733/9186143130_75f7eb0642_z.jpg" width="640" height="427" alt="Ninteen... Twenty... Suprise!"></a><br />
 Anyone who read the boring bit of my last post (survey) would have noticed that this web site reaches (or has reached) it's 20th birthday around this time. I had all these elaborate plans for concerts or records or books to celebrate but just never got around to doing any of that... so the celebration will have to be this blog post of reminiscences and I'll save the big stuff for the 25th birthday - pop December 2019 in your calendars.</p>

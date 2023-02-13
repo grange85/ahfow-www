@@ -15,7 +15,6 @@ date: '2008-03-13'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2007/12/410aifzt3sl.jpg" alt='Black Postcards cover' /></div>
 <p>Dean Wareham's book "Black Postcards" is out today and will hopefully be on the shelves of your bookseller of choice. Alternatively you can buy it online from Amazon/A Shop Full of Wishes...</p>

@@ -15,7 +15,6 @@ date: '2015-11-02'
 categories:
 - audio
 - luna
-tags: []
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-frank-silvestry-001.jpg" alt="Luna with Stan Demeski (photo: Frank)" /><figcaption class="caption-text">Luna with Stan Demeski (photo: Frank)</figcaption></figure>
 <p class="lead">NYCTaper has just put up Luna's show at the Music Hall of Williamsburg that featured a special appearance from The Feelies (and former Luna) drummer Stan Demeski.</p>

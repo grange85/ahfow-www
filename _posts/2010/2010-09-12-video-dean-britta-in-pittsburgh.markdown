@@ -15,7 +15,6 @@ date: '2010-09-12'
 categories:
 - dean & britta
 - video
-tags: []
 ---
 <div>Here are some videos of Dean & Britta&#39;s performance at the Haiti benefit show in Pittsburgh on Friday...
 <p />

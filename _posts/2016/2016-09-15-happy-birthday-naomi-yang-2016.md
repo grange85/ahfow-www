@@ -16,7 +16,6 @@ categories:
  - galaxie 500
  - damon & naomi
  - news
-tags: []
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/vixpen/8644722946/in/album-72157633228910787/" title="damon & naomi 10 april 2013"><img src="https://c3.staticflickr.com/9/8531/8644722946_b917335971_b.jpg" width="1024" height="768" alt="damon & naomi 10 april 2013"></a>
 

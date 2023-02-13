@@ -15,7 +15,6 @@ date: '2009-10-18'
 categories:
 - dean & britta
 - audio
-tags: []
 ---
 <p>Two recordings from Dean & Britta's trip to Melbourne have just turned up on bittorrent site Dimeadozen.</p>
 <p>First up a recording of their <a href="http://www.dimeadozen.org/torrents-details.php?id=271873">13 Most Beautiful performance from 15 October</a> (including Night Nurse and Tugboat as encores)</p>

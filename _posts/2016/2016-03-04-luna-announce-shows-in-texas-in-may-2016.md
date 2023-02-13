@@ -13,7 +13,6 @@ imageurl:
 categories:
 - news
 - luna
-tags: []
 ---
 <figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/johnmcnicholas/21714982050/in/pool-aheadfullofwishes/" title="Luna"><img src="https://farm1.staticflickr.com/600/21714982050_df210a208c_b.jpg" width="1024" height="683" alt="Luna"></a><figcaption>Photo: <a href="https://www.flickr.com/photos/johnmcnicholas/21714982050/in/pool-aheadfullofwishes/">John McNicholas on Flickr</a></figcaption></figure>
 <p class="lead">The Luna reunion kicks back into gear in May with three dates in Texas.</p>

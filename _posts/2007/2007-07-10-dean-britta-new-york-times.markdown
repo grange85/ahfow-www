@@ -15,7 +15,6 @@ date: '2007-07-10'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 
 Dean & Britta are featured in a [sweet and pointless piece on the NY Times website](http://www.nytimes.com/2007/07/08/fashion/08nite.html). It's a short description of a night out.

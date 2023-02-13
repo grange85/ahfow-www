@@ -17,7 +17,6 @@ categories:
  - galaxie 500
  - damon & naomi
  - news
-tags: []
 ---
 <p class="lead">Happy birthday to Damon Krukowski, Galaxie 500's drummer and Damon & Naomi's Damon.</p>
 

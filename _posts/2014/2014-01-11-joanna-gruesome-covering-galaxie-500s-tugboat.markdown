@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2014-01-11'
 categories:
 - video
-tags: []
 ---
 <p>Video from Thursday's Joanna Gruesome show in London</p>
 <p>https://www.youtube.com/watch?v=k-pLzMeV550</p>

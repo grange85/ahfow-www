@@ -15,7 +15,6 @@ date: '2006-10-22'
 categories:
 - luna
 - news
-tags: []
 ---
 The documentary of Luna's farewell tour Tell Me Do You Miss Me will be getting
 shown at at a couple of film festivals outside of the US. Firstly it will

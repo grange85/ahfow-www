@@ -16,7 +16,6 @@ categories:
 - news
 - damon & naomi
 - fortune
-tags: []
 ---
 <p>Damon & Naomi have announced some dates in the UK to support the release of their splendid new album Fortune. The shows will include a showing of the film with live accompaniment and (most likely) a few bonus oldies thrown in at the end. The show is well worth catching if you can make it.</p>
 <p>The shows are at:<br />

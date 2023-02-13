@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2006-12-06'
 categories:
 - luna
-tags: []
 ---
 
 I guess on their last flit around the world Luna popped into radio studios all along the way. This performance of Malibu Love Nest (which was their show opener during most of the final tour) is from Philadelphia and was recorded as they passed through the city on their farewell tour in December 2004 and was broadcast in February 2005.

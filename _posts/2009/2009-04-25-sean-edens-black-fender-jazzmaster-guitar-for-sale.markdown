@@ -16,7 +16,6 @@ categories:
 - luna
 - news
 - after luna
-tags: []
 ---
 <div class="imagebox-a"><a href="http://www.chromewaves.net/concertPhotos.php?concert=luna2&#038;id=09"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2009/04/sean_jazzmaster.jpg" alt="sean_jazzmaster" title="sean_jazzmaster" width="240" height="320" class="alignnone size-full wp-image-1197" /></a><br/><a href="http://www.chromewaves.net/concertPhotos.php?concertPhotosID=65">Photo by Frank Yang / Chromewaves</a></div>
 <p>Sean Eden is selling his black Fender Jazzmaster on eBay. The guitar was used extensively while he played with Luna and can be seen being used to great effect throughout Tell Me Do You Miss Me. </p>

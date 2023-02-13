@@ -15,7 +15,6 @@ date: '2015-10-31'
 categories:
 - dean wareham
 - luna
-tags: []
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/pumpkin-hell-mic-terry-3.jpg" alt="Dean Wareham in Pumpkin Hell" /><figcaption class="caption-text">Dean Wareham in Pumpkin Hell</figcaption></figure>
 

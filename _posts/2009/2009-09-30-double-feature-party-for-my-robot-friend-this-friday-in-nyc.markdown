@@ -16,7 +16,6 @@ categories:
 - news
 - dean & britta
 - after luna
-tags: []
 ---
 <p><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2009/09/softcorecoversquare-150x150.jpg" alt="Sofr Core by My Robot Friend sleeve" title="Sofr Core by My Robot Friend sleeve" width="150" height="150" class="alignright size-thumbnail wp-image-1591" />
 <p>This Friday, October 2nd, <a href="http://www.deanandbritta.com">Dean & Britta</a>'s record label Double Feature will be hosting a release party for the new album by My Robot Friend. The party is at <a href="http://www.92y.org">92Y Tribeca in NYC</a> and kicks off at 9pm. Featuring sets from <a href="http://www.myrobotfriend.com/">My Robot Friend</a> and (Double Feature recording artist) <a href="http://www.myspace.com/chevalsombre">Cheval Sombre</a> (with Dean & Britta sitting in) as well as a DJ set by Dean Wareham. Tickets are $10.</p>

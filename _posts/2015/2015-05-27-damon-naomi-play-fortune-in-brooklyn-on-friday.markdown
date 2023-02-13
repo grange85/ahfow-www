@@ -16,7 +16,6 @@ categories:
 - news
 - damon & naomi
 - fortune
-tags: []
 ---
 <p><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2015-05-29/2015-05-29-damon-and-naomi-bell-house-01.jpg" width="640" height="640" alt="Damon & Naomi at The Bell House flyer" class="aligncenter" /><br />
 Damon & Naomi are playing their last scheduled performance of 'Fortune' at The Bell House in Brooklyn, NY - the show also features Elisa Ambrogio (Magik Markers) and Tanya Donelly (Throwing Muses, Belly).</p>

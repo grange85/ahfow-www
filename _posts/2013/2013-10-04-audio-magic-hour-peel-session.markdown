@@ -16,7 +16,6 @@ date: '2013-10-04'
 categories:
 - damon & naomi
 - audio
-tags: []
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/magic-hour-photo.jpg" alt="Magic Hour" /><figcaption class="caption-text">Magic Hour</figcaption></figure>
 <p>After the release of their debut LP More Sad Hits, Damon & Naomi accepted an invitation to be the rhythm section in Kate Biggar and Wayne Rogers new band Magic Hour. The band released three albums over the next couple of years.</p>

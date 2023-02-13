@@ -13,7 +13,6 @@ author_email: joakim@fullofwishes.co.uk
 date: '2015-08-14'
 categories:
 - luna
-tags: []
 ---
 <p><em>The second chapter of Joakim's epic account of a journey around the UK following Luna and meeting and making friends - you can <a href="/2015/08/13/electronic-snicker-snack-luna-in-the-uk-part-one-brighton/">read the first chapter</a> here</em><br />
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim/DeanLightLondon.jpg" width="800" height="600" class /><figcaption class="caption-text"> Dean Wareham in London (photo by Joakim)</figcaption></figure>

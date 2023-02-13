@@ -12,7 +12,6 @@ date: '2015-10-15'
 categories:
  - luna
  - audio
-tags: []
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-13/2015-10-13-luna-toronto-bill-03.jpg" alt="Luna in Toronto - photo by Bill Van Der Ende" /><figcaption class="caption-text">Luna in Toronto - photo by Bill Van Der Ende</figcaption></figure>
 <p class="lead">Another day another Luna reunion tour post...</p>

@@ -16,7 +16,6 @@ categories:
 - news
 - dean & britta
 - 13 most beautiful
-tags: []
 ---
 <div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2008/10/item_36_cover_medium.jpg" alt="item_36_cover_medium" title="item_36_cover_medium" width="200" height="282" class="alignnone size-full wp-image-894" /></div>
 <p><a href="https://web.archive.org/web/20090327+/http://www.deanandbritta.com/blog/?p=289">Dean has just blogged on deanandbritta.com</a> with news that you can buy the 13 Most Beautiful DVD direct from them ahead of the official release date of April 7th. He also mentions some more dates for the summer.</p>

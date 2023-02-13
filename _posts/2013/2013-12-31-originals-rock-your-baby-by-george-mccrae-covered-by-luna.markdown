@@ -14,7 +14,6 @@ date: '2013-12-31'
 categories:
 - luna
 - originals
-tags: []
 ---
 <p>OK, I'll keep this brief as I've already done this post (twice) before so head here for more Luna downloads</p>
 <p><a href="/2012/12/31/roll-your-own-luna-new-year-2013-version/" title="Roll your own Luna new year (2013 version)">Roll-your-own Luna new year (2013 version)</a></p>

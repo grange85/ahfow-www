@@ -15,7 +15,6 @@ date: '2007-08-24'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 
 Damon & Naomi are setting out on a tour of the US with the Japanese band [Boris](http://homepage1.nifty.com/boris/top.html) in October. Guitarist Michio Kurihara will be playing with both bands and [Helena Espvall](http://www.myspace.com/helenaespvall) the [Espers](http://www.espers.org/) cellist and Bhob Rainey will accompany Damon & Naomi.

@@ -15,7 +15,6 @@ date: '2002-01-09'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 The new Damon & Naomi album is due in May 2002 and will be a live document of last years European tour with Kurihara (of Ghost). There may also be a bonus DVD containing a film of the tour. The album will be out on sub pop(
 

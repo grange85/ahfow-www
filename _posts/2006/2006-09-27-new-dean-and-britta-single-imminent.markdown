@@ -15,7 +15,6 @@ date: '2006-09-27'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 17th of October sees the release of "Words You Used To Say" - the first new
 Material from Dean & Britta since L'Avventura in 2003. This single will be

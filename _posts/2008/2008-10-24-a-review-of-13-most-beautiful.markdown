@@ -16,7 +16,6 @@ categories:
 - news
 - dean & britta
 - 13 most beautiful
-tags: []
 ---
 <p>Here's a <a href="http://pifof.wordpress.com/2008/10/24/13-most-beautiful-songs-for-andy-warhols-screen-tests/">review of sorts of 13 Most Beautiful...</a>, although the fact that it was on the <a href="http://pifof.wordpress.com/2008/10/24/13-most-beautiful-songs-for-andy-warhols-screen-tests/">Pittsburgh International Festival of Firsts</a> blog means it might not be considered objective. It does give a nice bit of insight and makes the wait (for me) until the DVD release seem rather a long one.</p>
 <p>It mentions a couple of the tunes in the show (both Luna ones)...</p>

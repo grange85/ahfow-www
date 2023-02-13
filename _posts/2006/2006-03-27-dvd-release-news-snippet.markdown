@@ -15,7 +15,6 @@ date: '2006-03-27'
 categories:
 - luna
 - news
-tags: []
 ---
 Frank at the ever-excellent [Chromewaves](https://web.archive.org/web/20060327+/http://www.chromewaves.net) has a
 [post about the forthcoming DVD](https://web.archive.org/web/20060327+/http://www.chromewaves.net/?itemid=2160)

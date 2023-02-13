@@ -16,7 +16,6 @@ date: '2014-05-20'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-live-at-st-pancras-cassettes.jpg" width="640" height="640" class /><figcaption class="caption-text"> Pic lifted from @soniccathedral's Instagram</figcaption></figure>
 The live recording of Dean Warehams shows at St Pancras Old Chruch at the tail end of last year has been released by Sonic Cathedral is now available to buy either on limited edition cassette or as a digital download.</p>

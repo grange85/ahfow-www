@@ -15,7 +15,6 @@ date: '2006-12-21'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 [Sonic Boom](https://web.archive.org/web/20061221+/http://www.sonic-boom.info)'s website mentions that he is doing a
 gig with Dean & Britta at Mo Pitkin's in NYC on January 9th. No mention as yet

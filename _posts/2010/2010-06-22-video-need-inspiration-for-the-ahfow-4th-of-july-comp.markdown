@@ -15,7 +15,6 @@ date: '2010-06-22'
 categories:
 - video
 - admin
-tags: []
 ---
 <div>So you&#39;re thinking of maybe entering the <a href="/2010/06/20/fourth-of-july-competition-2010/">A Head Full of Wishes Fourth of July competition</a> but aren&#39;t really sure of what to make of it all, here are a few videos for inspiration...
 <p /> First up see what some kids made of the video... (it was kinda wack)<br /><figure class="caption "><figcaption class="caption-text"></figcaption></figure>

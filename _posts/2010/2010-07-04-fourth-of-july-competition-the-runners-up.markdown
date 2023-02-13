@@ -15,7 +15,6 @@ date: '2010-07-04'
 categories:
 - news
 - admin
-tags: []
 ---
 <p>Thanks to everyone who entered or thought about entering the A Head Full of Wishes competition. In the end there were four entries - all were wonderful and choosing a winner was really hard and I wanted to make everyone a winner but sadly I don't have enough stuff to give away! I do have some copies of Luna's Dear Paulina 7" so if any runners up want a copy give me a shout...</p>
 <p>So here are the runners up in no particular order...</p>

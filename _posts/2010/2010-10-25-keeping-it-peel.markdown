@@ -15,7 +15,6 @@ date: '2010-10-25'
 categories:
 - audio
 - editorial
-tags: []
 ---
 <p>Today is the 6th anniversary of the death of John Peel. Here's what  wrote on this site back then...</p>
 <blockquote><p>The great man died – I’ll miss him. He’s been a part of my life for 20+ years. Knowing that he was around was reassuring even if there were times when I drifted away from listening to his show.</p></blockquote>

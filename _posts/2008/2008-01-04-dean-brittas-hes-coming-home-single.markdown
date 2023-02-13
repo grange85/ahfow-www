@@ -15,7 +15,6 @@ date: '2008-01-04'
 categories:
 - dean & britta
 - editorial
-tags: []
 ---
 <div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2007/11/dandbfrontpage.JPG" alt='He’s Coming Home sleeve' /></div>
 <p>I got my copy (copies!) of Dean & Britta's Christmas single a couple of days after Christmas but that didn't stop it getting plenty of spins over the next few days (I'd resisted listening to it on MySpace because waiting a couple of days rather than visiting MySpace is always preferable). </p>

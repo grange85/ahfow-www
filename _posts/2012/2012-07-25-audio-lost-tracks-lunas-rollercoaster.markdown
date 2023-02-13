@@ -16,7 +16,6 @@ categories:
 - luna
 - audio
 - lost tracks
-tags: []
 ---
 <p><figure class="caption aligncenter"><a href="http://www.flickr.com/photos/34639903@N03/3683674064/" title="Nathan's Famous Franks, We're Still HERE BROOKLYN!!!!!!!!!!! by iamNigelMorris, on Flickr"><img src="https://farm4.staticflickr.com/3543/3683674064_51b0df8319.jpg" width="500" height="331" alt="Nathan's Famous Franks, We're Still HERE BROOKLYN!!!!!!!!!!!"></a><figcaption class="caption-text">Nathan's hot dogs, on the boardwalk</figcaption></figure></p>
 <p>I generally can't find fault with anything that Dean has ever done, things generally fall into two categories 'great' and 'better than great' - it's not a lack of objectivity it's simply the way it is - the man can pretty much do no wrong.</p>

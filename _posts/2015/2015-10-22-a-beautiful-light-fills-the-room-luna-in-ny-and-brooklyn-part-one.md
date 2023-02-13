@@ -13,7 +13,6 @@ author_email: joakim@fullofwishes.co.uk
 date: '2015-10-22'
 categories:
 - luna
-tags: []
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-07/2015-10-07-luna-nyc-joakim-05.jpg" alt="Champagne cork (Photo: Joakim)" /><figcaption class="caption-text">Champagne cork (Photo: Joakim)</figcaption></figure>
 <p class="lead">I wasn't supposed to tell anyone, especially not Dean. But I did. I did anyway. I told him that we had visited and taken pictures outside <a href="/2007/08/28/on-the-20th-anniversary-of-galaxie-500/">248 Front Street</a> the other day, where he used to live, and where Galaxie 500 held their first concert in an apartment!</p>

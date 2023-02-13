@@ -15,7 +15,6 @@ date: '2005-04-15'
 categories:
 - luna
 - news
-tags: []
 ---
 
 Dean Wareham was kind enough to jot down a few thoughts about the last days of Luna for the Luna's Last Waltz blog - you can check out what he had to say here... [http://lunaslastwaltz.blogspot.com/](https://web.archive.org/web/20050415+/http://lunaslastwaltz.blogspot.com/)

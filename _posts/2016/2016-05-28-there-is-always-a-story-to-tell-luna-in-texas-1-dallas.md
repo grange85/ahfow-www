@@ -12,7 +12,6 @@ date: '2016-05-27'
 imageurl: https://media.fullofwishes.co.uk/02-luna/photos/joakim-texas/18-l1020964-all-are-good.jpg
 categories:
 - luna
-tags: []
 photos:
   - type: ahfow-set
     photographer: Joakim Bengtsson

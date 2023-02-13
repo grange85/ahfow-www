@@ -15,7 +15,6 @@ date: '2011-11-11'
 categories:
 - luna
 - audio
-tags: []
 ---
 
 {% ahfowimage "https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1992_c.jpg" "Luna (1992)" %}

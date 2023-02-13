@@ -15,7 +15,6 @@ date: '2012-06-15'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p>Dean has an <a href="http://www.salon.com/2012/06/15/dean_wareham_my_jonathan_richman_romance/singleton/">article over at Salon</a> singing the praises of Jonathan Richman and hunting down the first Modern Lovers LP</p>
 <blockquote><p>I searched every record store in New York looking for a copy of “The Modern Lovers,” released in 1976 but already deleted. And not the kind of deleted where you find it in 50 cent bins. Bleecker Bob himself laughed at me when I dared ask if he had a copy behind the counter of his shop on MacDougal Street. </p></blockquote>

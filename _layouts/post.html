@@ -10,12 +10,12 @@ layout: default
 {% if page.collection == 'posts' %}
 <div class="row">
 	<div class="col">
-		<ul class="pagination justify-content-center">
-			{% if page.next.url and page.next.draft != true %}
-			<li class="page-item w-50"><a href="{{page.next.url}}" class="page-link text-truncate"><p class="text-left my-0 py-0">&laquo;</p><p class="text-truncate my-0 py-0">{{page.next.title}}</p></a></li>
+		<ul class="pagination pagination-lg">
+			{% if page.next.url %}
+			<li class="page-item w-50"><a href="{{page.next.url}}" class="page-link text-truncate"><div class="text-muted small text-start">Next</div>{{page.next.title}}</a></li>
 			{% endif %}
 			{% if page.previous.url %}
-			<li class="page-item w-50"><a href="{{page.previous.url}}" class="page-link text-truncate"><p class="text-right my-0 py-0">&raquo;</p><p class="text-truncate my-0 py-0">{{page.previous.title}}</p></a></li>
+			<li class="page-item w-50"><a href="{{page.previous.url}}" class="page-link text-truncate"><div class="text-muted small text-end">Previous</div>{{page.previous.title}} &raquo;</a></li>
 			{% endif %}
 		</ul>
 	</div>

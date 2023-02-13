@@ -15,7 +15,6 @@ date: '2015-11-04'
 categories:
 - video
 - luna
-tags: []
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-24/2015-10-24-luna-los-angeles-carson-daly.jpg" alt="Luna on Last Call with Carson Daly" /><figcaption class="caption-text">Luna on Last Call with Carson Daly</figcaption></figure>
 <p class="lead">The clips from Luna's Los Angeles show that were shown on Last Call with Carson Daly are now available to watch online</p>

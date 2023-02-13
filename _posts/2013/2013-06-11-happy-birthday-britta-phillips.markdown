@@ -15,7 +15,6 @@ date: '2013-06-11'
 categories:
 - dean & britta
 - audio
-tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/britta-13mb.jpg" width="600" height="338" class /><figcaption class="caption-text"> Britta recording 13 Most Beautiful</figcaption></figure>
 <p>Happy birthday Britta - have a lovely day!</p>

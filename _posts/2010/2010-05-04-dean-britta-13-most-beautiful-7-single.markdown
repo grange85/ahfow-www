@@ -16,7 +16,6 @@ categories:
 - news
 - dean & britta
 - 13 most beautiful
-tags: []
 ---
 <div>The Great Pop Supplement web site mentions a forthcoming 7" single - details and release schedule seems sketchy but...
 <p />

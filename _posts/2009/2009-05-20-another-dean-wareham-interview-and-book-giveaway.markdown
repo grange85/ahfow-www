@@ -15,7 +15,6 @@ date: '2009-05-20'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p>Earfarm has a nice interview with Dean Wareham and is also giving away five copies of the paperback...</p>
 <blockquote><p>Wait, you haven’t bought it yet? Well, I guess it’s a good thing we have FIVE paperback copies to give away. Interested? Write to us and let us know in a sentence or two why you want to read Black Postcards. We’ll pick our five favorite responses next week</p></blockquote>

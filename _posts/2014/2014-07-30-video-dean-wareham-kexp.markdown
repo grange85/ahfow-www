@@ -15,7 +15,6 @@ date: '2014-07-30'
 categories:
 - dean wareham
 - video
-tags: []
 ---
 <p>Last month, while in Seattle, Dean Wareham played a live session for KEXP. The complete session is now on YouTube for your enjoyment, plus there are a stack of photos from the session on Flickr.</p>
 <p>Video: Dean Wareham - The Dancer Disappears (live on KEXP)<br />

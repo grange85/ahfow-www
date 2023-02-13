@@ -15,7 +15,6 @@ date: '2010-09-09'
 categories:
 - dean & britta
 - video
-tags: []
 ---
 <div>I just came across this version of Incandescent Innocent, from 13 Most Beautiful, mashed up with <a href="http://www.myspace.com/thefireescapes">The Fire Escapes</a> song My Dreams are like Diamonds (with a bit of The Velvet Underground&#39;s Heroin thrown in) and sung by <a href="http://www.myspace.com/lucypullin">Lucy Pullin</a> of The Fire Escapes... it is rather lovely:
 <p />

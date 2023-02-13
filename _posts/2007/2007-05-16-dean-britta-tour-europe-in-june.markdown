@@ -15,7 +15,6 @@ date: '2007-05-16'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 Dates announced in Spain, France and UK with more a few more to follow...
 

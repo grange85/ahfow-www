@@ -17,7 +17,6 @@ categories:
 - dean & britta
 - dean wareham
 - editorial
-tags: []
 recycled:
   recycle: true
   date: 2021-04-23

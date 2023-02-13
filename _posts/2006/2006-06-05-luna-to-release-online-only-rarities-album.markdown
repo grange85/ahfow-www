@@ -15,7 +15,6 @@ date: '2006-06-05'
 categories:
 - luna
 - news
-tags: []
 ---
 An article in today's [New York Times](https://web.archive.org/web/20060605+/http://www.nytimes.com/2006/06/05/technology/05luna.html?_r=1&oref=slogin) reports that Luna will be selling an
 "album" of rarities through Rhino/Warner, Lunafied will be ONLY available

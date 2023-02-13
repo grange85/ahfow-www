@@ -15,6 +15,5 @@ date: '2004-09-29'
 categories:
 - luna
 - news
-tags: []
 ---
 Amazon.com has Luna's final album, Rendezvous, on their site available for pre-order. The album is scheduled for release on Jetset on the 26 October

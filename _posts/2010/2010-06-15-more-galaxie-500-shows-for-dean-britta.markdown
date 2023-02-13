@@ -16,7 +16,6 @@ categories:
 - news
 - dean & britta
 - galaxie 500
-tags: []
 ---
 <div>Dean & Britta have announced that they will be playing more shows performing the songs of Galaxie 500 - so far the following dates have been confirmed... </p>
 <ul>

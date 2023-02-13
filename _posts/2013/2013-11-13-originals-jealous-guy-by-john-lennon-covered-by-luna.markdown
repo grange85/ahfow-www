@@ -15,7 +15,6 @@ date: '2013-11-13'
 categories:
 - luna
 - originals
-tags: []
 recycled:
   recycle: true
   date: 2021-04-30

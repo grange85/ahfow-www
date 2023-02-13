@@ -15,7 +15,6 @@ date: '2011-09-30'
 categories:
 - miscellaneous
 - galaxie 500
-tags: []
 ---
 <p>I've just been pointed towards this lovely interview with Galaxie 500 from a 1990 issue of Ptolemaic Terrascope</p>
 <blockquote><p>PT: You're not a very visual group live. You all stand still and look serious.</p>

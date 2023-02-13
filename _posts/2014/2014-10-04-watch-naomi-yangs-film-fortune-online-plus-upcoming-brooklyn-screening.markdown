@@ -16,7 +16,6 @@ categories:
 - news
 - damon & naomi
 - fortune
-tags: []
 ---
 <p>Naomi Yang's film 'Fortune' is now available to stream on Vimeo. The 30 minute film features a soundtrack of new Damon & Naomi songs accompanying the mysterious and dreamlike images of a man encountering the legacy of his recently deceased father.<br />
 <iframe src="//player.vimeo.com/video/105007573?portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

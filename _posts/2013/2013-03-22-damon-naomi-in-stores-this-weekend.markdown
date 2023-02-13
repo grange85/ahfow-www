@@ -15,7 +15,6 @@ date: '2013-03-22'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <p><img src="https://media.fullofwishes.co.uk/images/featured/20130322_portsmouthnh.jpg" width="550" height="413" class="aligncenter" /></p>
 <p>Damon & Naomi have a couple of free in-store performances this weekend (assuming the weekend starts on a Friday which <a href="http://en.wikipedia.org/wiki/Ready_Steady_Go!">Ready Steady Go!</a> assured me it did).</p>

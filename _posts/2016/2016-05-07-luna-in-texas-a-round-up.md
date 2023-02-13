@@ -13,7 +13,6 @@ imageurl:
 categories:
 - news
 - luna
-tags: []
 longpost: true
 ---
 <p class="lead">Just throwing together a post collecting a few bits and pieces I've found of Luna's current trip to Texas - with added Britta Phillips solo! As I write this they're still a day from finishing theor Texan sojourn so probably best to check back in a few days time as I'm sure there'll be things added!</p>

@@ -16,7 +16,6 @@ categories:
 - dean & britta
 - editorial
 - 13 most beautiful
-tags: []
 ---
 <p><figure class="caption alignright"><a href="http://www.flickr.com/photos/grange85/3703880511/"><img alt="Lou Reed in 13 Most Beautiful" src="https://farm3.static.flickr.com/2598/3703880511_055e85c320_m.jpg" title="Lou Reed in 13 Most Beautiful" width="240" height="180" /></a><figcaption class="caption-text">Lou Reed in 13 Most Beautiful</figcaption></figure>
 <p>Hazel and I arrived in <a href="http://en.wikipedia.org/wiki/Dunfermline">Dunfermline</a> for last night's 13 Most Beautiful in plenty of time. We headed up to The Carnegie Hall  and milled around for a few minutes hoping to bump into Dean & Britta - because I can do "bumping into" I'm just no good at "hunting down". Having failed to bump we headed for a stroll around the town taking in the sights - the Abbey, Carnegie's birthplace - before heading back up to the hall. This time we did manage to bump into Dean (as well as a friend from Edinburgh who'd come to the show). We chatted with Dean & Britta for a while and then headed into the venue.</p>

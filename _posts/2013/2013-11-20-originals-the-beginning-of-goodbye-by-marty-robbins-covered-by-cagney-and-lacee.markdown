@@ -15,7 +15,6 @@ categories:
 - dean wareham
 - originals
 - cagney & lacee
-tags: []
 ---
 <p><a href="http://www.flickr.com/photos/dinohyus/6315754129/" title="Skynda dig hem...! by Dinohyus, on Flickr"><img class="aligncenter" src="https://farm7.staticflickr.com/6110/6315754129_5d5f757565_z.jpg" width="640" height="446" alt="Skynda dig hem...!"></a><br />
 When I first put my database together a cursory bit of research didn't reveal anything useful about the track "The Last Goodbye" - the sleeve told me it was by "Robbins" but I knew nothing more, so it went into my database as being <em>"written by Robbins, originally by unknown"</em> - in the 20 odd years since then Google got better and YouTube got made and it turns out that the song isn't called "The Last Goodbye" at all but "The Beginning of Goodbye" although to be honest I know precious little more about the song.</p>

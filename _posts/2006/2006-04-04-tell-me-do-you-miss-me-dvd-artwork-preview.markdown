@@ -15,7 +15,6 @@ date: '2006-04-04'
 categories:
 - luna
 - news
-tags: []
 ---
 ![DVD cover](https://media.fullofwishes.co.uk/02-luna/photos/tmdymm-poster-
 small.jpg)

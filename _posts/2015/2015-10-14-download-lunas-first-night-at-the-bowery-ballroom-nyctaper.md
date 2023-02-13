@@ -12,7 +12,6 @@ date: '2015-10-14'
 categories:
  - luna
  - audio
-tags: []
 ---
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/42302753@N05/21475071424/in/photolist-yHPsqx-yHFmy9-zEJpm8-zCoDCh-zEHbfk-yHNHZk-zoaYiM-zocqaV-zody1n-zEGBh6-zo97oY-yHRReK-zDD997-yHRdAK-yHHdbo-yHGRo1-zCqYXL-zo7ydj-zDCKgd-zFCU3t-s7tcw7-dqxTUN-dqHZys-dqHPBT-dqHPFK-gZFWFB-dqHPUa-dqHP9g-dqHYoq-dqHPhn-dqHYZS-dqHYuJ-dqHNET-dqHYyd-dqHYUu-dqHYro-dqHNRv-dqHPxF-dqHNMk-dqHYGU-bp4bi5-bBY6hc-bmhizj-bzcaRP-bzcaFD-bmhiqL-biYUeZ-aYvgcM-aYvgxR-aYvjqk/" title="Luna at Bowery Ballroom, NYC 10/7/15"><img src="https://farm1.staticflickr.com/579/21475071424_74d369c5bd_b.jpg" width="1024" height="681" alt="Luna at Bowery Ballroom, NYC 10/7/15"></a>
 <p class="lead">The always splendid NYCTaper has just popped online his gorgeous recording of Luna's return to the Bowery Ballroom in New York.</p>

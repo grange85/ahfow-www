@@ -15,6 +15,5 @@ date: '2009-08-16'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p>I just got an email from Adrian at London's Different Class Radio to tell me that in his latest show he's giving away a copy of Black Postcards. You can listen to the show (and it is well worth listening to) over at the website and the competition shouldn't be too challenging for any of you.</p>

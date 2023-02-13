@@ -17,7 +17,6 @@ categories:
 - dean & britta
 - video
 - 13 most beautiful
-tags: []
 ---
 <p>Here's the trailer for the DVD release of <a href="http://web.archive.org/web/20130518113355/http://13mostbeautiful.com/">13 Most Beautiful...Songs for the Andy Wahrol Screen Tests</a>, it features an instrumental version of the Dean & Britta song Knives from Bavaria...</p>
 <p><figure class="caption "><figcaption class="caption-text"></figcaption></figure>

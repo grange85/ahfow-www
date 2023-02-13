@@ -16,7 +16,6 @@ categories:
 - news
 - dean wareham
 - other people's blogs
-tags: []
 ---
 <p>Philadelphia Weekly's music blog Make Major Moves has just posted part one of a long Q&A with Dean Wareham. Mostly discussing the writing process and content of Black Postcards...</p>
 <blockquote><p>I think at a certain point I realized that several people are going to be upset by this and by that, and if I went back and took out every thing that was going to upset somebody, it would just be a puff-piece and not a very interesting book. And I think part of the larger point I was trying to make about being in a band is that it’s all about conflict. And so I wanted to go into some of that conflict.</p></blockquote>

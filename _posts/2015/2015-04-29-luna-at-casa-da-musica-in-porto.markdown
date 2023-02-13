@@ -15,7 +15,6 @@ date: '2015-04-29'
 categories:
 - luna
 - news
-tags: []
 ---
 <p><figure class="caption aligncenter"><a href="https://www.flickr.com/photos/grange85/17127591408" title="Luna by Andy Aldridge, on Flickr"><img src="https://farm8.staticflickr.com/7795/17127591408_9b31fdc6d7_z.jpg" width="640" height="480" alt="Luna"></a><figcaption class="caption-text">Luna</figcaption></figure><br />
 Just home from a rather special few days in Porto, the peak of which was of course Luna's show at Porto's Casa da Música - anyone who has followed me on Twitter or <a href="https://instagram.com/p/2BMa2OPDMm/">Instagram</a> on Sunday (and Monday) will know most of this but... for the rest of you here's how the day went.<br />

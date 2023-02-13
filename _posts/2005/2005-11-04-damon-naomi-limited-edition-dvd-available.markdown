@@ -15,7 +15,6 @@ date: '2005-11-04'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 Damon & Naomi are releasing a DVD of their show at Shibuya O-Nest in Tokyo,
 Japan. Filed earlier this year by Hiroo Ishihara it will be available only via

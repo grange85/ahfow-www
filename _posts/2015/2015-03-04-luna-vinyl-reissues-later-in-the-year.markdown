@@ -15,7 +15,6 @@ date: '2015-03-04'
 categories:
 - luna
 - news
-tags: []
 ---
 <p><a href="https://www.flickr.com/photos/grange85/15584032090" title="A set of Lunaparks #cd #lp #cassette #vinyl #ahfow #luna by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://farm6.staticflickr.com/5610/15584032090_01478196fc_z.jpg" width="640" height="640" alt="A set of Lunaparks #cd #lp #cassette #vinyl #ahfow #luna"></a><br />
 In an <a href="https://m.facebook.com/l.php?u=https%3A%2F%2Ffarewellhappyfields.wordpress.com%2F2015%2F03%2F01%2Fdean-wareham-playing-together-is-easy-keeping-the-band-is-difficult">interview to promote Luna's upcoming &nbsp;show in Portugal next month</a> Dean dropped this little nugget&nbsp;<br />

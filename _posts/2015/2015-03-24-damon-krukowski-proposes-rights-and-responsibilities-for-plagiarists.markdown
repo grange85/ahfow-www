@@ -15,7 +15,6 @@ date: '2015-03-24'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <p>Damon has written an <a href="http://pitchfork.com/features/oped/9613-plagiarize-this-a-reasonable-solution-to-musical-copyright-after-blurred-lines/">interesting article for Pitchfork</a> suggesting that plagiarists should have the same rights, and responsibilites as artists who cover tracks. The article comes in the wake of the Thicke/Pharrell "Blurred Lines" suit and includes a history of mechanical rights and suggests that a similar arrangemnemnt should be put in place for "borrowing".</p>
 <blockquote><p>Why not return to the Solomon-like wisdom of the 1909 Copyright Act, and extend its concept of compulsory licensing to digital copying? Let anyone make use of existing intellectual property as an aspect of their own work, so long as they pay a statutory royalty to the owner. Thicke and Williams might then borrow from Gaye at a statutory borrower’s rate, just as they could have covered Gaye at the statutory rate for mechanical reproduction.</p></blockquote>

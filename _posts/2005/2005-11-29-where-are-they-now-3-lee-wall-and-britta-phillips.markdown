@@ -15,7 +15,6 @@ date: '2005-11-29'
 categories:
 - luna
 - news
-tags: []
 ---
 OK - so we've not really lost touch with Britta thanks to the [Mailing
 List](http://groups.google.com/group/fullofwishes) and the Dean & Britta

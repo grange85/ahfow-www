@@ -19,7 +19,6 @@ categories:
 - dean wareham
 - galaxie 500
 - video
-tags: []
 ---
 <p>Dean Wareham reaches 45 today (August 1st) so in celebration here's a career spanning compilation of videos...</p>
 <p>Galaxie 500 - Tell Me (1990)</p>

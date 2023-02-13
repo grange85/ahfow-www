@@ -15,7 +15,6 @@ date: '2005-09-12'
 categories:
 - luna
 - news
-tags: []
 ---
 I hassled film-maker Matthew Buzzell for a little bit of news about the
 forthcoming Luna film "Tell Me Do You Miss Me?" and he was kind enough to fill

@@ -15,7 +15,6 @@ categories:
 - dean wareham
 - originals
 - cagney & lacee
-tags: []
 ---
 <p><a href="http://www.flickr.com/photos/allesmir/8413837176/" title="Madonna. by Hel*n, on Flickr"><img class="aligncenter" src="https://farm9.staticflickr.com/8494/8413837176_f224aac3d0_z.jpg" width="480" height="640" alt="Madonna."></a><br />
 The first of two appearances for Madonna in this series is her early single Borderline that Dean Wareham covered as part of his side project Cagney and Lacee with his then wife Claudia Silver. Madonna's original was released in 1984<a id="more"></a><a id="more-3790"></a><br />

@@ -15,7 +15,6 @@ date: '2013-06-11'
 categories:
 - luna
 - velvet underground tour diary
-tags: []
 ---
 ## 11th June
 {% ahfowimage "https://farm1.staticflickr.com/96/241601749_08d546579a_z.jpg" "machines (cc) estherase, on Flickr" "http://www.flickr.com/photos/estherase/241601749/" %}

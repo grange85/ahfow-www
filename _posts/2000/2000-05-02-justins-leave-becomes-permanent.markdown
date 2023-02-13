@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2000-05-02'
 categories:
 - news
-tags: []
 ---
 Justin Harwood, who left LUNA on a temporary leave of absence in January, has decided to stay in New Zealand. Britta Phillips, who has played with Luna on their recent tour is installed on a more permanent basis. Here's the official word Fuzzywuzzy
 

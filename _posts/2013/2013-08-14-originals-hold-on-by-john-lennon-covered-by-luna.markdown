@@ -14,7 +14,6 @@ date: '2013-08-14'
 categories:
 - luna
 - originals
-tags: []
 ---
 <p>Hold on was on John Lennon's debut solo album John Lennon/Plastic Ono Band released in 1970<br />
 </p>

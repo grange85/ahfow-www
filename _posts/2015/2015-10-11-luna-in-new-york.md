@@ -9,7 +9,6 @@ date: '2015-10-11'
 categories:
  - luna
  - review
-tags: []
 imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-08/2015-10-08-luna-frank-silvestry-004.jpg
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-08/2015-10-08-luna-frank-silvestry-004.jpg" alt="Luna at the Bowery Ballroom (Photo: Frank Silvestry)" /><figcaption class="caption-text">Luna at the Bowery Ballroom (Photo: Frank Silvestry)</figcaption></figure>

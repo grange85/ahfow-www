@@ -16,7 +16,6 @@ categories:
 - news
 - dean & britta
 - 13 most beautiful
-tags: []
 ---
 <p><a href="https://www.flickr.com/photos/grange85/4845185642" title="Herringbone Tweed by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://c1.staticflickr.com/5/4154/4845185642_6cd4ce4693_z.jpg" width="640" height="480" alt="Herringbone Tweed"></a><br />
 Dean & Britta are presenting 13 Most Beautiful at Centre Pompidou-Metz on the 7 July - see the site website for details and tickets.<br />

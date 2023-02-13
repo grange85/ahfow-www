@@ -15,7 +15,6 @@ date: '2009-06-30'
 categories:
 - news
 - galaxie 500
-tags: []
 ---
 <div class="imagebox-a"><figure class="caption "><figcaption class="caption-text"></figcaption></figure></div>
 <p>The last post was hastily chucked together before work yesterday so here's a bit more detail on the Galaxie 500 vinyl resissues. The vinly is described as being "Super Deluxe" although I haven't managed to identify what this entails but the More Sad Hits reissue was very lovely so I have no reason to believe that these will be any different. I'll try and track down the technical details for trhe audiophiles out there!</p>

@@ -15,7 +15,6 @@ date: '2009-09-22'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <p><figure class="caption alignright" width="227" caption="Sing Me to Sleep"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2009/09/alr-0021.jpg" alt="Sing Me to Sleep" title="alr-0021" width="227" height="227" class="size-full wp-image-1606" /><figcaption class="caption-text">[/captio</figcaption></figure>]
 <p>American Laundromat have just started taking pre-orders for a special limited edition first pressing of their latest charity compilation Sing Me to Sleep. The album contains lullabies performed by a fine collection of indie artists including Dean & Britta (not sure what their track is as yet, I'll update as soon as I know) as well as Tanya Donnelly, The Antlers and Papercuts (and lots more). The special edition comes with an extra CD of bonus tracks, a 7" single and lots of other bits and pieces plus the chance to win a signed copy.</p>

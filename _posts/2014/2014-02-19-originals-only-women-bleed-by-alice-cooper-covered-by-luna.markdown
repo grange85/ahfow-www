@@ -14,7 +14,6 @@ date: '2014-02-19'
 categories:
 - luna
 - originals
-tags: []
 ---
 <p>Only Women Bleed is from Alice Cooper's first solo album "Welcome to My Nightmare", released in 1975.</p>
 {% ahfowvideo "gZcRLKB-OlM" "" %}

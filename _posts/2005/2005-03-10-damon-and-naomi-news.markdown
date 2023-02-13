@@ -15,7 +15,6 @@ date: '2005-03-10'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 OK - now that the Luna "thing" has died down I thought I'd remind you that Damon & Naomi...
 

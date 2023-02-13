@@ -15,7 +15,6 @@ date: '2004-04-19'
 categories:
 - luna
 - news
-tags: []
 ---
 
 Luna's next album has been completed. Tentatively titled "Rendezvous" it will be released on Jetset probably in "late summer". No tracklisting as yet but it will undoubtedly contain some of the tracks previewed in shows at the tail end of last year. The band will probably not play live until nearer the albums release.

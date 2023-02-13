@@ -17,7 +17,6 @@ categories:
 - video
 - pictures
 - editorial
-tags: []
 ---
 <p><figure class="caption alignright"><a href="http://www.flickr.com/photos/grange85/3888581296/"><img alt="" src="https://farm3.static.flickr.com/2543/3888581296_a2129c8d4a_m.jpg" title="Damon & Naomi at Cafe OTO" width="240" height="180" /></a> <figcaption class="caption-text">Damon & Naomi</figcaption></figure>
 <p>I arrived at Cafe OTO shortly before opening act <a href="http://www.amordedias.com/">Amor de Dias</a> took to the stage. The venue was already fairly crowded so I shuffled in and found a spot near the front but tucked in behind a pillar. Most of the folk around me were sitting so I felt a bit conspicuous but held my ground, reasoning to myself that if I wasn't obstructing their view the pillar would be.</p>

@@ -15,7 +15,6 @@ date: '2013-06-20'
 categories:
 - luna
 - velvet underground tour diary
-tags: []
 ---
 ## 20th June
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/pictures/vu-1993.jpg" "Velvet Underground - 1993" %}

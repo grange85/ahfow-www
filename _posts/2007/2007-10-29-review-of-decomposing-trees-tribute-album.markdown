@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2007-10-29'
 categories:
 - news
-tags: []
 ---
 
 I just came across [this review on derives.net](http://web.archive.org/web/20081123200339/http://www.derives.net/reviews/review.php?id=1621) of the "Decomposing" fan tribute album - nice to see it's getting out there...

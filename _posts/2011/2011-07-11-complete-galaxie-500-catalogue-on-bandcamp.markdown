@@ -15,7 +15,6 @@ date: '2011-07-11'
 categories:
 - miscellaneous
 - galaxie 500
-tags: []
 ---
 <p>The complete <a href="http://galaxie500.bandcamp.com">Galaxie 500 catalogue is now available on the excellent download service Bandcamp</a>. You can stream the complete albums and download in pretty much any format you could want for a very reasonable $8.88 per album.<br />
 <a href="http://galaxie500.bandcamp.com"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2011/07/g500-bandcamp.jpg" alt="" title="g500-bandcamp" width="500" height="353" class="aligncenter size-full wp-image-2186" /></a></p>

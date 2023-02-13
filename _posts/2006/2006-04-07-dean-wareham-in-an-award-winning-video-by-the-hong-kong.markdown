@@ -15,7 +15,6 @@ date: '2006-04-07'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 Dean Wareham makes an appearance in an award winning music video by The Hong
 Kong. This is from their MySpace Blog

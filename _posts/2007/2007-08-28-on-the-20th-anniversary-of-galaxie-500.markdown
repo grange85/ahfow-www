@@ -16,7 +16,6 @@ date: '2007-08-28'
 categories:
 - galaxie 500
 - history
-tags: []
 ---
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1987-08-29/1987-08-29-galaxie-500-front-st.jpg" "Poster artwork for Galaxie 500's first show (Naomi Yang, Summer 1987)" %}
 

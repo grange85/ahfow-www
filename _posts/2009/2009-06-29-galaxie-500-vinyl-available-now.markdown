@@ -15,7 +15,6 @@ date: '2009-06-29'
 categories:
 - news
 - galaxie 500
-tags: []
 ---
 <p>The three Galaxie 500 albums are ow available to order on vinyl. <a href="http://web.archive.org/web/20140517124459/http://fierybreeze.com/">Visit the official store</a> where you can order various packages of vinyl and/or high quality downloads (and T-shirts)</p>
 <p>You can also download Fourth of July for free</p>

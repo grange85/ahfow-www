@@ -15,7 +15,6 @@ date: '2006-04-04'
 categories:
 - editorial
 - history
-tags: []
 ---
 A Head Full of Wishes was born out of the frustration of having free web space
 and having nothing to fill it with - these were the days before digital

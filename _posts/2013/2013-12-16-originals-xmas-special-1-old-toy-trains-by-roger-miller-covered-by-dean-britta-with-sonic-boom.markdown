@@ -14,7 +14,6 @@ date: '2013-12-16'
 categories:
 - dean & britta
 - originals
-tags: []
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/roger-miller-old-toy-trains-1967.jpg" alt="Roger Miller - Old Toy Trains" /><figcaption class="caption-text">Roger Miller - Old Toy Trains</figcaption></figure>
 <p>Old Toy Trains was recorded by Roger Miller in 1967 and released on a single by Smash records... and here's a video of that very single on YouTube, with an old toy car</p>

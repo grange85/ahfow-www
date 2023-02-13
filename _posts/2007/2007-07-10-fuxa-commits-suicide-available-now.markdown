@@ -15,7 +15,6 @@ date: '2007-07-10'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 
 The EP Fuxa commits suicide is available now from Mind Expansion records - you can order it from [their MySpace page](http://www.myspace.com/mindexpansionrecords). Randall of Fuxa wrote the following in response to an earlier news item...

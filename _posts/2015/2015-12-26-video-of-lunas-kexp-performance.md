@@ -14,7 +14,6 @@ categories:
 - luna
 - video
 - news
-tags: []
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/2015-11-luna-kexp-mosaic-2.jpg" alt="Luna on KEXP" /><figcaption class="caption-text">Luna on KEXP</figcaption></figure>
 

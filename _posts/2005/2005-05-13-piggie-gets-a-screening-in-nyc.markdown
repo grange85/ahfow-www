@@ -15,7 +15,6 @@ date: '2005-05-13'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 The Two Boots Pioneer Theater  
 155 East 3rd Street (between Avenues A and B), New York, New York 10009

@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2006-12-05'
 categories:
 - news
-tags: []
 ---
 Dean & Britta have a show at Abrons Art Center in NYC on 16th of December. You
 can get tickets from Ticketweb for $20 plus

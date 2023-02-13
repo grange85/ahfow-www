@@ -15,7 +15,6 @@ date: '2013-06-13'
 categories:
 - luna
 - velvet underground tour diary
-tags: []
 ---
 ## 13th June
 There's a live Elvis concert on TV this morning, from about 1972 I guess. James Burton on Telecaster - what a guitar player. In the hotel lobby I hear a Czech version of "Three Kinds of Lonely" by Lee Hazlewood. James Burton plays on the original version of that too. It's all getting very strange indeed.

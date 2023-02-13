@@ -15,7 +15,6 @@ date: '2003-09-28'
 categories:
 - news
 - galaxie 500
-tags: []
 ---
 Do you have or know of any Galaxie 500 video material,either broadcast or bootleg? Damon & Naomi are trying to collect as much Galaxie 500 video as possible, primarily for archival reasons but also with a view to releasing a DVD at some point in the future. Please help if you can.
 

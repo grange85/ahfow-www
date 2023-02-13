@@ -15,7 +15,6 @@ date: '2013-05-04'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <p>Damon & Naomi's Record Store Day release - The Wondrous World of <del datetime="2013-05-04T12:53:45+00:00">Sonny & Cher</del> Damon & Naomi - is now available to <a href="http://damonandnaomi.bandcamp.com/album/the-wondrous-world-of-damon-naomi-bootleg-edition">(stream and) purchase digitally on Bandcamp</a></p>
 <p><iframe class="aligncenter" width="300" height="410" style="position: relative; display: block; width: 300px; height: 410px;" src="https://bandcamp.com/EmbeddedPlayer/v=2/album=1184884747/size=grande3/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://damonandnaomi.bandcamp.com/album/the-wondrous-world-of-damon-naomi-bootleg-edition">The Wondrous World of Damon & Naomi (bootleg edition) by Damon & Naomi</a></iframe></p>

@@ -15,7 +15,6 @@ date: '2014-05-01'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <p><ins datetime="2014-05-02T17:45:46+00:00"><br />
 <img src="https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-love-formosa-punk.jpg" width="529" height="539" class="aligncenter" /></p>

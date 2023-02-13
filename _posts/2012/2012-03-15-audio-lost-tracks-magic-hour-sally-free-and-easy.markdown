@@ -16,7 +16,6 @@ categories:
 - damon & naomi
 - audio
 - lost tracks
-tags: []
 ---
 <p><figure class="caption aligncenter"><a href="http://www.flickr.com/photos/manyfires/3844370795/" title="disappearing act by manyfires, on Flickr"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2012/03/3844370795_03b5293bb5.jpg" width="500" height="491" alt="disappearing act"></a><figcaption class="caption-text"><a href='http://www.flickr.com/photos/manyfires/3844370795/'>Disappearing act by manyfires</a></figcaption></figure></p>
 <p>Magic Hour were the psych rock band that Damon & Naomi formed with Kate Biggar and Wayne Rogers of <a href="http://en.wikipedia.org/wiki/Crystalized_Movements">Crystalized Movements</a> (and <a href="http://www.twistedvillage.com/">Twisted Village</a>) after More Sad Hits. The band released three albums and a couple of singles between 1993 and 1996. Sally Free and Easy, from the band's first album, is the only Magic Hour song that was sung by Naomi and because of that, and because it was gentler and sweeter and folkier than a lot of Magic Hour's output, it could have just as easily fitted onto a Damon & Naomi album.</p>

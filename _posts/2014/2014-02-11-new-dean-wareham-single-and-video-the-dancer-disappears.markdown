@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2014-02-11'
 categories:
 - dean wareham
-tags: []
 ---
 <p>A second track from Dean Wareham's forthcoming, and self-titled album has been made available on the US iTunes store. The track, The Dancer Disappears, is the opening track on the Jim James produced album which will be released in full on the 11 March in the US on Double Feature Records, and on the 10 March in Europe on Sonic Cathedral.</p>
 <p>To accompany the single there's a new video created by Meesoo Lee<br />

@@ -15,7 +15,6 @@ date: '2013-07-31'
 categories:
 - damon & naomi
 - video
-tags: []
 ---
 <p>While things are currently quiet on the Damon & Naomi front, Naomi has been busy making videos - here are the two latest...</p>
 <p>Living, Loving, Partygoing by Future Bible Heroes<br />

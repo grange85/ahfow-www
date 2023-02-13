@@ -18,7 +18,6 @@ categories:
 - dean wareham
 - galaxie 500
 - other people's blogs
-tags: []
 ---
 <p>Things I'd Rather Be Doing has an interview with Dean Wareham about Black Postcards...</p>
 <blockquote><p>I could barely play the guitar at that point, how could I be a professional musician? But then you learn and perhaps this is the lesson of punk rock that you don't have to be amazing players to cook up something beautiful. Still, I think in Galaxie 500 we were surprised every step of the way: surprised that we recorded a seven-inch single that sounded so perfect, and an album that we were really proud of, surprised when the record was played on college radio, amazed that Slash Records and Rough Trade wanted to sign the band.</p></blockquote>

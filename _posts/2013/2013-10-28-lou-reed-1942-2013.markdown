@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2013-10-28'
 categories:
 - news
-tags: []
 ---
 <p>I got home today and my son told me that Lou Reed had died. Lou had played a huge part in my life and in my music. </p>
 <p>Pretty much every Galaxie 500 (or Luna or Dean & Britta) article or review somehow managed to mention Lou or The Velvet Underground. While that often smacked of journalistic laziness, it wasn't as if any of those bands tried to hide the influence.</p>

@@ -14,7 +14,6 @@ date: '2013-08-28'
 categories:
 - dean & britta
 - originals
-tags: []
 ---
 <p>The b-side of <a href="/2013/08/27/new-dean-wareham-single-released-and-available-now/" title="New Dean Wareham single released and available now">Dean Wareham's new single, released yesterday</a>, is <em>She Went Walking in the Rain</em>, a cover of a track from Cheval Sombre's second album Mad Love, today's entry in the originals list is Dean & Britta's cover of Cheval Sombre's <em>I Found It Not So</em>.</p>
 <p>The original of <em>I Found It Not So</em> was released on a 7" single by Static Caravan in 2008 and then on Mr Sombre's debut album on Dean & Britta's Double Feature Records. It features Dean Wareham on guitar.<br />

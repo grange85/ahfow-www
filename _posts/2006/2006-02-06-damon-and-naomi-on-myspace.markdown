@@ -15,7 +15,6 @@ date: '2006-02-06'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 Damon & Naomi have joined the ugly "social networking" horror that is
 [MySpace](http://www.myspace.com) \- you can [visit their MySpace

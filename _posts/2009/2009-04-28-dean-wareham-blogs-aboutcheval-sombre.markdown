@@ -15,7 +15,6 @@ date: '2009-04-28'
 categories:
 - dean & britta
 - other people's blogs
-tags: []
 ---
 <p><figure class="caption alignright" width="300" caption="Cheval Sombre sleeve"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2009/04/cheval_sombre_sleeve-300x264.jpg" alt="Cheval Sombre sleeve" title="cheval_sombre_sleeve" width="300" height="264" class="size-medium wp-image-1208" /><figcaption class="caption-text">[/captio</figcaption></figure>]
 <p>Nice to see Dean blogging fairly regularly. Today he <a href="https://web.archive.org/web/20090428+/http://www.deanandbritta.com/blog/?p=310">posts about the new Cheval Sombre</a> album and Sunday's launch party in NYC</p>

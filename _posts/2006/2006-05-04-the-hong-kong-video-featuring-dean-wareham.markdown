@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2006-05-04'
 categories:
 - dean wareham
-tags: []
 ---
 
 {% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dw_tongue-tied_05.jpg" "Dean Wareham in the Tongue Tied video" %}

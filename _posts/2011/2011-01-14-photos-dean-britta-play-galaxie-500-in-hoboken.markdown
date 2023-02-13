@@ -15,7 +15,6 @@ date: '2011-01-14'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <p><a href="http://www.brooklynvegan.com/archives/2011/01/dean_wareham_pl.html">Brooklyn Vegan has just posted a stack of great photos by Chris Gersbeck</a> of Dean & Britta's show at Maxwell's on Thursday night.</p>
 <p>The show was also taped by <a href="http://www.nyctaper.com/">nyctaper</a> so keep an eye on that site for a recording soon.</p>

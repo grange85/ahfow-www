@@ -15,7 +15,6 @@ date: '2015-09-08'
 categories:
  - luna
  - audio
-tags: []
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/20052803899/in/album-72157656706994745/" title="Luna"><img src="https://farm1.staticflickr.com/443/20052803899_bf9243ea34_c.jpg" width="800" height="600" alt="Luna"></a>
 

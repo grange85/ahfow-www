@@ -14,7 +14,6 @@ date: '2013-09-11'
 categories:
 - dean & britta
 - originals
-tags: []
 ---
 <p>Another Dylan song that Dylan didn't release - the first official release of <a href="http://en.wikipedia.org/wiki/I%27ll_Keep_It_with_Mine">I'll Keep It With Mine</a> was a rather splendid, and surprisingly jaunty version by Judy Collins, released in 1965:</p>
 

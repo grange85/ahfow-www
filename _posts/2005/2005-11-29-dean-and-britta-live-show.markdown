@@ -15,7 +15,6 @@ date: '2005-11-29'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 Dean & Britta will be performing a **very short set** at a benefit for [Open
 City](http://www.opencity.org) on Thursday, December 8, 6-9. At Paula Cooper

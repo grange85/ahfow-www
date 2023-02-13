@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2013-03-27'
 categories:
 - news
-tags: []
 ---
 <p><a href="http://www.spin.com/articles/scott-hardkiss-legendary-bay-area-dj-is-dead-at-43">RIP Scott Hardkiss</a><br />
 

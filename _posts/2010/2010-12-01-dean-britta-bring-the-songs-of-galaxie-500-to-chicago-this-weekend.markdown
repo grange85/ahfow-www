@@ -15,7 +15,6 @@ date: '2010-12-01'
 categories:
 - miscellaneous
 - dean & britta
-tags: []
 ---
 <p>After a couple of weeks break Dean & Britta are back on the road this weekend with two dates in the Dean Wareham plays Galaxie 500 series of shows at the Lincoln Hall in Chicago.</p>
 <p>There's a good <a href="http://leisureblogs.chicagotribune.com/turn_it_up/2010/11/dean-and-britta-give-galaxie-500-songs-a-new-life.html">interview with Dean by Greg Kot for the Chicago Tribune</a> where he explains the reason for taking these songs on the road...</p>

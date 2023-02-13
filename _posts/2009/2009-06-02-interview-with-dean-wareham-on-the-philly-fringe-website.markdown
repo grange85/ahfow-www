@@ -16,7 +16,6 @@ categories:
 - news
 - dean & britta
 - dean wareham
-tags: []
 ---
 <p>There's a nice in-depth Q&A with Dean Wareham at the Philly Fringe website promoting Dean & Britta's 13 Most Beautiful appearances at the festival in September (and their regular show at Johnny Brenda's on Thursday). The interview deals mostly with 13 Most Beautiful covering, amongst other topics, how they selected screen tests...</p>
 <blockquote><p>The more I read about the Factory I decided I wanted to focus on the people who lived there or were there every day or people who were important in the life of the Factory from '64-'66, rather than just famous.</p></blockquote>

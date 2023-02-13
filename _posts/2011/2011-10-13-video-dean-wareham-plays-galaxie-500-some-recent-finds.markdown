@@ -15,7 +15,6 @@ date: '2011-10-13'
 categories:
 - miscellaneous
 - dean & britta
-tags: []
 ---
 <p>Here are a few videos that have recently turned up on YouTube of Dean Wareham plays Galaxie 500 shows...</p>
 <p><strong>XOYO London 24 April 2011</strong><br />

@@ -15,7 +15,6 @@ date: '2014-02-04'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-sonic-cathedral75.jpg" width="770" height="777" class /><figcaption class="caption-text"> Dean Wareham (sleeve by Sharon Lock)</figcaption></figure>
 <p>Dean Wareham will release his first solo album in March and you are now able to pre-order it. It will be released by Sonic Cathedral in the UK and Europe and on Double Feature on the US. The LP is limited and comes in translucent yellow vinyl. It will also be available on CD and as a download from the usual suspects.</p>

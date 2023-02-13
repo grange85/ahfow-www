@@ -15,7 +15,6 @@ date: '2007-02-14'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 
 Damon & Naomi are playing a Valentines day show at The Tonic in NYC this evening.

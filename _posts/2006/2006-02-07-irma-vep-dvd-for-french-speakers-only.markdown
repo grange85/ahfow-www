@@ -15,7 +15,6 @@ date: '2006-02-07'
 categories:
 - luna
 - news
-tags: []
 ---
 The excellent [DVD Times](http://www.dvdtimes.co.uk) has a very in depth
 review of [Olivier Assayas's Irma

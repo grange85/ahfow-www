@@ -15,7 +15,6 @@ date: '2006-09-16'
 categories:
 - news
 - after luna
-tags: []
 ---
 Not top much information as yet but [American Laundromat](https://web.archive.org/web/20060916+/http://www.alr-
 music.com/) have scheduled a release of Neil young tracks performed by women

@@ -16,7 +16,6 @@ date: '2009-05-21'
 categories:
 - galaxie 500
 - video
-tags: []
 ---
 <p>This is the video <a href="https://web.archive.org/web/20090521+/http://www.deanandbritta.com/blog/?p=325">Dean mentioned in his blog</a>. It shows Galaxie 500's Fourth of July video and then invites some kids to pass comment on it - very cool.</p>
 

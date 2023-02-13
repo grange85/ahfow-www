@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2000-07-18'
 categories:
 - news
-tags: []
 ---
 LUNA's two recent shows at Ney York's Knitting Factory (14th/15 July) were
 both recorded and the band hope to release a live album to fill the gap

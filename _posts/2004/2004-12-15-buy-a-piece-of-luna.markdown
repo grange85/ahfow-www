@@ -15,7 +15,6 @@ date: '2004-12-15'
 categories:
 - luna
 - news
-tags: []
 ---
 
 A couple of Luna related items have turned up on eBay which some of the musicians out their might find interesting (or, I guess anyone who's planning on building The Luna Museum, or for the walls of the Indie-Rock-Cafe!).

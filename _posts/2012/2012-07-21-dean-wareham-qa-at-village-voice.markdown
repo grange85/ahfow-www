@@ -15,7 +15,6 @@ date: '2012-07-21'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p>There's a fairly lengthy Q&A with Dean Wareham over at The Village VOice blog - he touches on playing Galaxie 500 sets, Black Postcards, the Dean Wareham solo album and playing with Sean Eden (<a href="/2012/07/20/dean-britta-shows-in-ny-this-weekend/">which is happening tonight</a>)...</p>
 <blockquote><p><strong>VV: </strong>What are the chances of you playing again with Sean happening?<br />

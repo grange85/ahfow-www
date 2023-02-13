@@ -15,7 +15,6 @@ date: '2008-10-26'
 categories:
 - news
 - admin
-tags: []
 ---
 <p><strong>The short version...</strong></p>
 <p>I've decided that the current Oblivious forum isn't working and am trying a different angle. So as of about now Oblivious the forum no longer exists - but Oblivious the "social network" is born - please come and sign up.</p>

@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2011-08-23'
 categories:
 - dean wareham
-tags: []
 ---
 <p>In Salon <a href="http://www.salon.com/entertainment/tv/feature/2011/08/22/malkmus_wareham/index.html">Dean Wareham interviews Stephen Malkmus</a> about songwriting and working with Beck on the latest album by Stephen Malkmus and The Jicks, Mirror Traffic. The album is <a href="http://www.dominorecordco.com/artists/stephen-malkmus-and-the-jicks/">out on Domino Records</a> today.</p>
 <blockquote>

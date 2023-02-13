@@ -15,7 +15,6 @@ date: '2009-07-07'
 categories:
 - dean & britta
 - video
-tags: []
 ---
 <p>Heres' some <a href="http://www.youtube.com/watch?v=qFB0ZKCWVVc">video of Dean & Britta performing "I'm Not a Young Man Anymore" at their recent show in Ann Arbor</a>...</p>
 <p><figure class="caption "><figcaption class="caption-text"></figcaption></figure></p>

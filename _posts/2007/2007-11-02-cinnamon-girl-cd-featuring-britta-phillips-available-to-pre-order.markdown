@@ -15,7 +15,6 @@ date: '2007-11-02'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <div class="imagebox-a">[<img src="https://media.fullofwishes.co.uk/ahfow/uploads/bp-cinnamon-girl.jpg" alt='Cinnamon Girl sleeve' />](https://media.fullofwishes.co.uk/ahfow/uploads/bp-cinnamon-girl.jpg)</div>
 

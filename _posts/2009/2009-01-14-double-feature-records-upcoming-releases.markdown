@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2009-01-14'
 categories:
 - news
-tags: []
 ---
 <div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2009/01/sandpebb_a_thousand_wild_flowers_72dpi_250px_rgb.jpg" alt="Sand Pebbles album sleeve" title="sandpebb_a_thousand_wild_flowers_72dpi_250px_rgb" width="250" height="250" class="size-full wp-image-993" /><br/>Sand Pebbles - A Thousand Wild Flowers</div>
 <p>In a post on the <a href="http://www.deanandbritta.com/blog/?p=225">deanandbritta.com blog</a> yesterday Dean Wareham announced the first non-Dean & Britta releases on the couples Double Feature Records imprint. On February 17th A Thousand Wild Flowers by Australian band <a href="http://www.myspace.com/sandpebbles">Sand Pebbles</a> will be released, the album is a compilation of "the best songs" from their three out of print albums. The album is available to pre-order from the <a href="http://www.deanandbritta.com/shop.htm">deanandbritta.com web shop</a>.</p>

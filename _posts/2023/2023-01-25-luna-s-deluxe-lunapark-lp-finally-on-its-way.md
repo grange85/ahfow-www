@@ -18,7 +18,7 @@ tags:
  - deluxe
 ---
 Back in May of last year Run Out Groove records announced a deluxe double LP release of Luna's first album _Lunapark_, and started taking pre-orders. Yesterday Run Out Groove [posted on their Facebook page](https://www.facebook.com/RunOutGrooveLPs/posts/pfbid0Q5TcKoLjooX6DWoyDHkp7nZcohucnVsWjA8DxW7p5jtewwPW1uB7d2rsMBUfALWDl) that the release would finally start shipping out on the 10th February. 284 days after they started taking pre-orders.
-
+{: .lead }
 {% ahfowimage "https://media.fullofwishes.co.uk/02-luna/pictures/deluxe-lunapark-mock-up.jpg" "Deluxe Lunapark Run Out Groove mock-up" %}
 
 It'll be nice to finaly get this, and it's been so long since I gave ROG (part of Warner Music Group) my money it'll feel a bit like it's free!

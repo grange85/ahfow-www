@@ -15,7 +15,6 @@ date: '2012-11-07'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <p>Damon & Naomi will be in London on 26 January supproting Richard Youngs at <a href="http://www.cafeoto.co.uk/">Cafe Oto in Dalston</a>. As last time Damon will also be on drumming duty with Mr Youngs. No word as yet on any other dates while they're on this side of the pond.</p>
 <p><a href="http://www.wegottickets.com/event/193478">Tickets can be bought for £8.50 from wegottickets</a>.</p>

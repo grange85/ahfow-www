@@ -16,7 +16,6 @@ imageurl: https://media.fullofwishes.co.uk/ahfow/uploads/2009/08/luna_bewitched_
 categories:
 - luna
 - audio
-tags: []
 ---
 {% ahfowimage "https://media.fullofwishes.co.uk/ahfow/uploads/2009/08/luna_bewitched_promo_02.jpg" "Luna promo photo" %}
 Back in the early 90s I used to record shows until I realised that often I was worrying more about the recording and not enjoying the show as much as I should. I recorded two Luna shows, first one in London in 1992 (my first recording with my new Walkman Pro and I had it set up all wrong so sounds pretty poor) and [this one from 1993](/database/luna/shows/1993/1993-06-03-luna-borderline-london-uk/)

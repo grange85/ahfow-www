@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2006-04-03'
 categories:
 - luna
-tags: []
 ---
 {% ahfowimage "https://media.fullofwishes.co.uk/02-luna/pictures/tmdymm-britta.jpg" "Britta Phillips on Tell Me Do You Miss Me" %}
 

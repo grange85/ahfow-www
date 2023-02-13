@@ -15,7 +15,6 @@ date: '2013-08-09'
 categories:
 - galaxie 500
 - audio
-tags: []
 ---
 <p><a href="http://www.flickr.com/photos/nypl/3109773979/" title="Watuppa, from water front, Brooklyn, Manhattan. by New York Public Library, on Flickr"><img class="aligncenter" src="https://farm4.staticflickr.com/3038/3109773979_67246b3017.jpg" width="500" height="412" alt="Watuppa, from water front, Brooklyn, Manhattan."></a></p>
 <p>So, last week alt-pop superstar <a href="/2013/08/04/beck-covers-galaxie-500/">Beck covered Galaxie 500's Tugboat</a> live in Boston (Damon & Naomi were in the audience and <a href="http://youtu.be/evVnT-4hs6U">captured a little of it on video</a>). In choosing to cover Tugboat, Beck joined an ever growing band of artists who have decided to cover that song - it really is the <em>go to</em> track when it comes to covering Galaxie 500. </p>

@@ -15,7 +15,6 @@ date: '2007-02-12'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 
 Dean & Britta's second album Back Numbers will be released by Zoe Records on the 27 February and can now be pre-ordered.

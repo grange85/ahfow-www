@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2007-09-02'
 categories:
 - news
-tags: []
 ---
 
 Anyone who's visited [A Head Full of Wishes](http://www.grange85.co.uk/galaxie/) lately might have noticed a prominent advert for a book called [Net, Blogs and Rock 'n' Roll](http://www.netblogsrocknroll.com/) and may wonder what has prompted such an overt gesture of capitalism so I thought I'd better explain.

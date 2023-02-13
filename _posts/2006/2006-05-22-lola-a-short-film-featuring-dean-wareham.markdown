@@ -15,7 +15,6 @@ date: '2006-05-22'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 Dean Wareham appears in the short film [Lola](https://web.archive.org/web/20060522+/http://www.lolafilm.net) \- the
 film is subtitled "a short film about a long night" and was written and

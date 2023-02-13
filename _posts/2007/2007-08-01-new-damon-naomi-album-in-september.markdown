@@ -15,7 +15,6 @@ date: '2007-08-01'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 Damon & Naomi have announced details of their new album on their website.
 

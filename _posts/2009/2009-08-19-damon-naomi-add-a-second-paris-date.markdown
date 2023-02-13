@@ -15,7 +15,6 @@ date: '2009-08-19'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <p>Damon & Naomi have added another date in Paris on the 5th of Spetember at Cafe de Paris, support comes from Heligoland.
 <p>Here's a list of all upcoming Damon & Naomi shows which includes a tour of North America with A Hawk and A Hacksaw as well as their short four date European visit.</p>

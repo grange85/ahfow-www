@@ -16,7 +16,6 @@ categories:
 - news
 - galaxie 500
 - admin
-tags: []
 ---
 <p><em>Christmas is coming the rich are getting fat, please put a penny in the indie rock band's hat.</em></p>
 <p>Damon & Naomi have just put on sale a lovely grey variant of the Galaxie 500 Eclipse T-shirt, <a href="http://damonandnaomi.com/shop/galaxie-500-t-shirt/">available from their online store for $20</a> - the perfect gift for your Galaxie 500 loving friend...</p>

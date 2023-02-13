@@ -15,7 +15,6 @@ date: '2014-05-13'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-the-dancer-disappears.jpg" width="1024" height="1024" class /><figcaption class="caption-text"> The Dancer Disappears by Dean Wareham</figcaption></figure>
 To coincide with Dean Wareham's upcoming UK tour, <a href="http://www.soniccathedral.co.uk">Sonic Cathedral</a> are releasing a digital only single on 19 May. The release includes album track, The Dancer Disappears, plus a cover of Love by Robyn Hitchcock and a demo version of Holding Pattern.</p>

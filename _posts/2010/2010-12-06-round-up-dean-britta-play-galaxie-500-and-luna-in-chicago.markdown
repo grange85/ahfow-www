@@ -16,7 +16,6 @@ categories:
 - dean & britta
 - video
 - other people's blogs
-tags: []
 ---
 <p>Dean & Britta took their "plays Galaxie 500" show to Chicago at the weekend, playing two nights at the Lincoln Hall. On the second night they were joined for the encore by former Luna bandmate Sean Eden, playing Indian Summer, 23 Minutes in Brussels and Tiger Lily.</p>
 <p>Review & photos: <a href="http://www.soundcheckmagazine.com/reviews/concert-reviews/2355-review-photos-dean-wareham-britta-phillips-galaxie-500-lincoln-hall">A lovely review and some stunning photos in Soundcheck Magazine</a> from Friday night.</p>

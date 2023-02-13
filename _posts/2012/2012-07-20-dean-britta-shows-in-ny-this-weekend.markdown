@@ -15,7 +15,6 @@ date: '2012-07-20'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <p>Dean & Britta are playing two shows in NY this weekend:</p>
 <p>Tonight they play the "Dean Wareham plays Galaxie 500" show for the last time in NYC at Le Poisson Rouge, New York City.</p>

@@ -16,7 +16,6 @@ date: '2009-03-20'
 categories:
 - galaxie 500
 - pictures
-tags: []
 ---
 <figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/74825135@N00/3354266928/" title="img150"><img src="https://c1.staticflickr.com/4/3638/3354266928_f84714f9e7_b.jpg" width="1024" height="707" alt="img150"></a><figcaption>Galaxie 500 at Glastonbury, 22 June 1990</figcaption></figure>
 

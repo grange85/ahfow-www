@@ -15,7 +15,6 @@ date: '2008-10-07'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2008/10/img_0076-1-11-300x225.jpg" alt="Damon's damaged hand" title="Damon's damaged hand" width="300" height="225" class="alignnone size-medium wp-image-844" /></div>
 <p><a href="http://www.damonandnaomi.com/">Damon & Naomi</a>'s show this Sunday at London's Rough Trade East will be as a trio after Damon trimmed the top of his finger off while cutting an apple. The show will go ahead with <a href="http://theclientele.blogspot.com/">Alasdair MacLean</a> of <a href="http://www.theclientele.co.uk/">The Clientele</a> doing the bits that Damon's finger prevents him from doing. </p>

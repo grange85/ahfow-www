@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2014-10-26'
 categories:
 - news
-tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/lee-britta-dean-sean-2014.jpg" width="625" height="417" class /><figcaption class="caption-text"> Lee, Britta, Dean and Sean - Los Angeles 2014</figcaption></figure>
 <blockquote><p>A Luna reunion isn’t out of question. That could happen. A Galaxie 500 reunion isn’t going to happen. That would be too weird. It’s been so long.<br />

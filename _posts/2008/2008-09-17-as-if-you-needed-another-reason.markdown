@@ -17,7 +17,6 @@ categories:
 - dean & britta
 - editorial
 - other people's blogs
-tags: []
 ---
 <div class="imagebox-a"><a href="http://s149.photobucket.com/albums/s76/britta_photos_2007/?action=view&current=britta_pinko.jpg" target="_blank"></a></div>
 <p>The excellent blog <a href="http://www.thesoundofindie.com">The Sound of Indie</a> recenly posted a lovely sounding track from Dean & Britta's "Galaxie 500 show" from a few weeks back (<a href="/2008/09/12/mp3-of-dean-britta-covering-galaxie-500-covering-red-krayola/">see previous post</a>), I was among a number of people who pleaded for an opportunity to hear the whole show. Sadly <a href="http://en.wikipedia.org/wiki/Howard_Wolfson">Howard Wolfson</a> a pundit for the vile "media" outlet Fox News apparantly also contacted the blog asking for more. <a href="http://www.thesoundofindie.com/?p=700">The Sound of Indie responded</a>...</p>

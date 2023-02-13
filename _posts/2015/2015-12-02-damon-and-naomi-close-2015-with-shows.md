@@ -13,7 +13,6 @@ categories:
 - news
 - damon & naomi
 - fortune
-tags: []
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2015-12-16/2015-12-16-damon-and-naomi-montreal-popolopress-instagram.jpg" alt="Poster for Damon & Naomi in Montreal (Photo: <a href='https://www.instagram.com/p/-cIhHrQXJo/'>Popolopress</a>)" /><figcaption class="caption-text">Poster for Damon & Naomi in Montreal (Photo: <a href='https://www.instagram.com/p/-cIhHrQXJo/'>Popolopress</a>)</figcaption></figure>
 <p class="lead">Damon & Naomi are wrapping up 2015 with some shows. First they're heading back out east for two shows in Taiwan and then their first ever show in Hong Kong. Finally they're in Montreal for a performance of Fortune.</p>

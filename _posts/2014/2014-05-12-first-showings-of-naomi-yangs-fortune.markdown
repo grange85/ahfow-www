@@ -16,7 +16,6 @@ categories:
 - news
 - damon & naomi
 - fortune
-tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-and-naomi-fortune-still.jpg" width="640" height="360" class /><figcaption class="caption-text"> Still from Naomi Yang's 'Fortune' with Anabel Vázquez Rodríguez</figcaption></figure>
 Naomi's new silent 'Fortune' gets its world premier in the UK this week. It debuts at Mono in Glasgow on Wednesday before playing in London, Cardiff and Southampton. The film is silent and will be shown with a live soundtrack consisting of eleven new Damon & Naomi songs. </p>

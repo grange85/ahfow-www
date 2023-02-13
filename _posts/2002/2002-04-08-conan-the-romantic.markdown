@@ -14,6 +14,5 @@ author_url: http://www.grange85.co.uk
 date: '2002-04-08'
 categories:
 - news
-tags: []
 ---
 Sorry I was on holiday so I missed plugging Luna's appearance on "Late Night with Conan O'Brien" last week. I heard they played Lovedust...I guess you should look out for re-runs.

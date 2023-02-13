@@ -15,7 +15,6 @@ date: '2009-07-04'
 categories:
 - galaxie 500
 - editorial
-tags: []
 ---
 <p>An impressive number of entries to <a href="/2009/06/30/silly-fourth-of-july-competition/">this year's competition</a> - TWO ... compared to last year's NONE - made it tricky to pick a winner. Except... as there was always likely to be more than one winner it was actually pretty easy and the only tricky bit was inventing the categories in which they had both won. Both entered the photo section (I sadly never got any dog-biscuit poetry... maybe I'll bang one out myself). So...</p>
 <p><strong>Winner #1</strong> in the <em>making imaginative use of the Internet</em> section is Deanna...<br />

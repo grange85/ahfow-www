@@ -17,7 +17,6 @@ categories:
 - dean & britta
 - video
 - audio
-tags: []
 ---
 ![Britta Phillips](https://farm7.staticflickr.com/6031/5896032582_d1a11c5ac3_z.jpg){:.img-fluid}  
 Happy birthday Britta.

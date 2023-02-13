@@ -13,7 +13,6 @@ imageurl:
 categories:
 - damon & naomi
 - review
-tags: []
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26019862693/in/dateposted/" title="Damon & Naomi in Berlin"><img src="https://farm2.staticflickr.com/1602/26019862693_9d1a00b7fe_b.jpg" width="1024" height="768" alt="Damon & Naomi in Berlin"></a>
 Monday I headed home after work, grabbed a bite to eat and my son and we headed to Cafe OTO for Damon & Naomi's London show of their short European tour - they'd played Stewart Lee's ATP festival in Wales the day before and were heading off for a date in Spain and one in Berlin.

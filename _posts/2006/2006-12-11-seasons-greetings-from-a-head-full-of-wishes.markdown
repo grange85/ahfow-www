@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2006-12-11'
 categories:
 - admin
-tags: []
 ---
 This year's xmas gift to you is a collection of barely seasonal audio and
 video for your delectation. Admittedly most of it has been available on the

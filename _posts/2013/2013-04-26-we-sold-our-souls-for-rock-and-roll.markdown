@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2013-04-26'
 categories:
 - video
-tags: []
 ---
 <p>Galaxie 500 sell cars:<br />
 

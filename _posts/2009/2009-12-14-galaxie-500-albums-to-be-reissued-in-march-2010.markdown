@@ -15,7 +15,6 @@ date: '2009-12-14'
 categories:
 - news
 - galaxie 500
-tags: []
 ---
 <p>On 22 March 2010 <a href="http://www.dominorecordco.com/">Domino Records</a> will be reissuing Galaxie 500's catalogue outside of North America. The three albums will be released as heavyweight vinyl and in deluxe double CD packages. The CD packages of each album will include one of the three additional albums released after the band's break-up. Today will come with Uncollected, the collection of bonus material originally released in the Box Set in 1996. On Fire will be released with the band's Peel Sessions and This Is Our Music will be coupled with the excellent live album Copenhagen.</p>
 <p><img alt="" src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxiestill3.jpg" title="Galaxie 500" class="aligncenter" width="480" height="327" /></p>

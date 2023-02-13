@@ -15,7 +15,6 @@ date: '2004-10-11'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 Damon & Naomi have announced a couple of dates in NYC in November both dates will feature nmperign (who also appear on the duo's forthcoming album). Damon & Naomi will be playing the dates with Michio Kurihara.
 

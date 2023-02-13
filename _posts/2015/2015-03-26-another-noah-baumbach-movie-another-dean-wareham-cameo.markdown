@@ -15,7 +15,6 @@ date: '2015-03-26'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p>Noah Baumbach's latest movie While We're Young opens in US cinemas this weekend, and like most Noah Baumbach movies before it, you should be keeping an eye out for Dean Wareham - apparently playing a shaman. You can watch the trailer here:<br />
 

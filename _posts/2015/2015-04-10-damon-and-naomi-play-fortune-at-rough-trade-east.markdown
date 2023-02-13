@@ -16,7 +16,6 @@ categories:
 - news
 - damon & naomi
 - fortune
-tags: []
 ---
 <p><a href="https://www.flickr.com/photos/grange85/16903508769" title="Naomi Yang by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://farm8.staticflickr.com/7595/16903508769_3da77289d7_z.jpg" width="639" height="640" alt="Naomi Yang"></a></p>
 <p>On Thursday I took the day off work to see Damon & Naomi's lunchtime show at Rough Trade East in London, this was the third and final show of a short UK tour. The shows are in support of their new album Fortune, which was released in February and is the soundtrack to Naomi's short film of the same name that received its <a href="/2014/05/19/damon-and-naomi-at-cafe-oto-18th-may-2014/" title="Damon & Naomi at Café Oto, 18 May 2014">premiere on their last UK tour back in May of last year</a>.</p>

@@ -15,7 +15,6 @@ date: '2005-01-05'
 categories:
 - news
 - galaxie 500
-tags: []
 ---
 You too can now be the proud owner of an "original" Galaxie 500 T-shirt. The shirt, designed by Naomi Yang, have just been reissued and are available through Kung Fu Nation.
 

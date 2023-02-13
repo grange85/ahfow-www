@@ -15,7 +15,6 @@ date: '2000-08-01'
 categories:
 - galaxie 500
 - audio
-tags: []
 ---
 On the night of the 11th February 1990 Galaxie 500 where supposed to be
 supporting indie flavour-of-the-month The Sundays at the Town and Country

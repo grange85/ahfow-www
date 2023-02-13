@@ -15,7 +15,6 @@ date: '2007-05-11'
 categories:
 - news
 - galaxie 500
-tags: []
 ---
 
 It's been over a year since I last pointed everyone to [Mike's Galaxie 500 quiz](https://static.fullofwishes.co.uk/michaelsquiz/) (est. 1997) - anyone feeling like showing off can head on over and give it a shot. I managed 79/100.

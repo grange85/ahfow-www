@@ -15,7 +15,6 @@ date: '2013-11-19'
 categories:
 - news
 - galaxie 500
-tags: []
 ---
 <p>The 7" single released with the fab Galaxie 500 "oral and visual history" is being <a href="http://damonandnaomi.com/shop/galaxie-500-temperatures-rising-7/">sold separately from Damon & Naomi's web store</a>. The single contains Temperature's Rising b/w Crazy which would have been the bands second release back in the day if plans hadn't changed.<br />
 <strong><a href="http://damonandnaomi.com/shop/galaxie-500-temperatures-rising-7/">Head over to Damon & Naomi's shop and pick up a copy of this gem for $10</a></strong><br />

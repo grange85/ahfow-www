@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2013-12-29'
 categories:
 - editorial
-tags: []
 ---
 <p>This has been hastily thrown together and no doubt misses lots of stuff - but these are some of the highlights of AHFoW's year - hope you all had a good one!</p>
 <p><strong>January 2013</strong><br />

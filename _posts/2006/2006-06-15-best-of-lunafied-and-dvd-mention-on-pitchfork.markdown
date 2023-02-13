@@ -15,7 +15,6 @@ date: '2006-06-15'
 categories:
 - luna
 - news
-tags: []
 ---
 Pitchfork has a little [news item](http://web.archive.org/web/20060827165409/http://www.pitchforkmedia.com:80/article/news/36936/Luna_Luna_Remembered_on_DVD_Comp_Rarities_Set) highlighting all the forthcoming Luna releases.
 

@@ -15,7 +15,6 @@ date: '2008-11-07'
 categories:
 - news
 - admin
-tags: []
 ---
 <p>As I've just set up a Facebook group for AHFoW I decided it was about time for another round-up of just where you might bump into us on the web...</p>
 <ul>

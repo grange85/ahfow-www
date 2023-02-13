@@ -12,7 +12,6 @@ author_url: http://www.grange85.co.uk
 date: '2008-08-26'
 categories:
 - news
-tags: []
 ---
 <p>A few years back I started a project of putting up mp3s of tracks that Galaxie 500, Luna etc. had covered - the idea was that folk like us who had no idea as to how the original "Listen, the Snow Is Falling" sounded could find out - instead it just seemed to be a way for the world to download more Lennon, Dylan and Donovan tracks as the tracks in the "Originals" series were downloaded many times more than the other mp3s I uploaded.</p>
 <p>I still think that it's an interesting idea and, in a lot of cases, a nice introduction to some of the music that influenced the bands I loved so I've taken the opportunity to create a last.fm playlist for you all to enjoy...</p>

@@ -15,7 +15,6 @@ date: '2015-02-28'
 categories:
 - luna
 - audio
-tags: []
 ---
 <p><a href="https://www.flickr.com/photos/birzer/430517160" title="Luna NYC 050228 by Brian Birzer, on Flickr"><img src="https://farm1.staticflickr.com/178/430517160_33574a2fc3_z.jpg?zz=1" width="640" height="427" alt="Luna NYC 050228"></a></p>
 <p>Luna played their last show ten years ago tonight - here's how it ended...</p>

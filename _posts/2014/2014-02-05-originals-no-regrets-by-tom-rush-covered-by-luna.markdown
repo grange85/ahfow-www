@@ -14,7 +14,6 @@ date: '2014-02-05'
 categories:
 - luna
 - originals
-tags: []
 ---
 <p><a href="http://en.wikipedia.org/wiki/No_Regrets_(Tom_Rush_song)">No Regrets</a> was written by folk singer <a href="http://en.wikipedia.org/wiki/Tom_Rush">Tom Rush</a> and was the closing track on his 1968 album <a href="http://en.wikipedia.org/wiki/The_Circle_Game">The Circle Game</a><br />
 

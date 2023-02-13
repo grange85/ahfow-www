@@ -15,6 +15,5 @@ date: '2003-06-29'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 From KCRW web site..."Britta Phillips and Dean Wareham of Luna venture out on their own to explore their gentle, seductive sound on Morning Becomes Eclectic from the Museum of TV & Radio in NYC at 11:15am."

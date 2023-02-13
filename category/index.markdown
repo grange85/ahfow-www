@@ -13,8 +13,6 @@ author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 date: '2013-02-06 14:21:37 +0000'
 date_gmt: '2013-02-06 14:21:37 +0000'
-categories: []
-tags: []
 ---
 <ul class="list-group">
 	{% assign thecategories = site.categories | sort %}

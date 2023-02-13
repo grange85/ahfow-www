@@ -15,7 +15,6 @@ date: '2013-12-23'
 categories:
 - luna
 - audio
-tags: []
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/7732905648/in/photolist-dDX875-cMkars-cnG6LG" title="Red vinyl Egg Nog"><img src="https://farm8.staticflickr.com/7265/7732905648_d99f527bc6_b.jpg" width="1024" height="768" alt="Red vinyl Egg Nog"></a>
 

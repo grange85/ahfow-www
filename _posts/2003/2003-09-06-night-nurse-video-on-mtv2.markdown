@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2003-09-06'
 categories:
 - news
-tags: []
 ---
 The video for Dean & Britta's Night Nurse will be aired on the show Subterranean (with guests Kings of Leon)Dates:Sat 14 September at MidnightMon 15 September at 1.00 amWed 17 September at 2.30 amI guess that's Eastern US time - and those dates are correct - so to see the one on Saturday you stay up late on Friday night!
 

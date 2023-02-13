@@ -15,7 +15,6 @@ date: '2006-06-07'
 categories:
 - luna
 - news
-tags: []
 ---
 The tracklisting for the download only Luna covers album can be seen here.
 

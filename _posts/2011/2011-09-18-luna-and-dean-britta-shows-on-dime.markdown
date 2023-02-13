@@ -15,7 +15,6 @@ date: '2011-09-18'
 categories:
 - luna
 - dean & britta
-tags: []
 ---
 <p>Two new shows from Germany have arrived on bittorrent site Dimeadozen.</p>
 <p>The <a href="http://www.dimeadozen.org/torrents-details.php?id=374173">Luna show is from Marburg in 1999</a>.</p>

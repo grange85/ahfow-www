@@ -15,7 +15,6 @@ date: '2007-11-20'
 categories:
 - damon & naomi
 - video
-tags: []
 ---
 <p>A nice video of Damon & Naomi at their recent show in Bari, Italy...<br />
 <figure class="caption "><figcaption class="caption-text"></figcaption></figure></p>

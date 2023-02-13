@@ -15,7 +15,6 @@ date: '2015-02-09'
 categories:
 - luna
 - news
-tags: []
 ---
 <p><figure class="caption aligncenter"><a href="https://www.flickr.com/photos/youdiejoe/15853656523" title="Aquarian Birthday Soiree by Randy Perry, on Flickr"><img src="https://farm8.staticflickr.com/7293/15853656523_8d1d68b80d_z.jpg" width="640" height="427" alt="Aquarian Birthday Soiree"></a><figcaption class="caption-text">Luna partying</figcaption></figure><br />
 All the last (and next) members of Luna were at a birthday get-together in Los Angeles at the weekend - here are a couple of pictures - thank <a href="https://www.flickr.com/photos/youdiejoe/sets/72157650694997712">Randy for taking the pics</a>, and letting me know about them.<br />

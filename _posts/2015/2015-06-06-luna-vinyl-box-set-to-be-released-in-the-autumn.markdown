@@ -15,7 +15,6 @@ date: '2015-06-06'
 categories:
 - luna
 - news
-tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/luna-captured-tracks-box-set.png" width="932" height="930" class /><figcaption class="caption-text"> Long Players 92-99</figcaption></figure>
 <p>Dean has alluded to this in recent interviews but the official announcement has arrived for the upcoming box set of Luna vinyl. The box, Long Players 92-99 will be released by Captured Tracks and will contain Luna's first five albums, a disc of rarities and a book containing photos, an oral histroy and an interview with Dean Wareham.</p>

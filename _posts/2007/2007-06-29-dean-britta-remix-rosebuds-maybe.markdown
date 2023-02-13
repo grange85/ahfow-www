@@ -15,7 +15,6 @@ date: '2007-06-29'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 
 A live review of The Rosebuds on [Sonic Itch](http://www.sonicitchmusic.com/?p=670) throws this little snippet onto the end of the post...

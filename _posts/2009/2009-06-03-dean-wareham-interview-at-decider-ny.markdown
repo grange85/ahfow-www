@@ -16,7 +16,6 @@ categories:
 - news
 - dean wareham
 - other people's blogs
-tags: []
 ---
 <p><a href="http://web.archive.org/web/20090817172508/http://newyork.decider.com:80/articles/dean-wareham,28582/">Decider New York has a short interview with Dean Wareham</a> touching on fans, fatherhood and drug taking...</p>
 <blockquote><p> Don't be a rock star. I've seen people around me have their lives destroyed by drugs. It just depends on what kind of person you are. Like, some people have a “go” button and a “stop” button, and some people just have the “go” button, meaning that they take drugs and just take more, and more, and more. It could be 6 in the morning and they'll say, “Okay, I have to get more now.” I'm not that kind of person.</p></blockquote>

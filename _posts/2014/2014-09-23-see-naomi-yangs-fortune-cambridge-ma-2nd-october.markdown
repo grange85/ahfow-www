@@ -16,7 +16,6 @@ categories:
 - news
 - damon & naomi
 - fortune
-tags: []
 ---
 <p><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/naomi-yang-fortune-collage.jpg" width="556" height="444" class="aligncenter" /></p>
 <p>Naomi's silent film, Fortune, is getting a screening at Carpenter Center for the Visual Arts, Harvard University in Cambridge, MA on the 2 October. The screening is at 7pm and is free and the film is accompanied by a live performance of the soundtrack by Damon & Naomi that features eleven new D&N tracks.</p>

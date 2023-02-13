@@ -16,7 +16,6 @@ categories:
 - luna
 - galaxie 500
 - video
-tags: []
 ---
 <p>Because any excuse is a good excuse...</p>
 <p><strong>Galaxie 500 - Fourth of July</strong></p>

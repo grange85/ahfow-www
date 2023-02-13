@@ -15,7 +15,6 @@ date: '2013-11-06'
 categories:
 - dean wareham
 - originals
-tags: []
 ---
 <p><img src="https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/9a2fc3df15305e08a7fb.jpeg" width="2100" height="1406" class="aligncenter" /></p>
 <p>A quick supplement to <a href="/2013/11/06/originals-je-taime-moi-non-plus-by-serge-gainsbourg-et-jane-birkin-covered-by-angel-corpus-christi-and-dean-wareham/" title="Originals: Je t’aime… moi non plus by Serge Gainsbourg et Jane Birkin (covered by Angel Corpus Christi and Dean Wareham)">my earlier post</a> - I was a bit lazy to have left this off, but in the light of a recent sad event it gets a bonus post of its own - I Want To Boogie With You was from Lou Reed's 1979 album The Bells</p>

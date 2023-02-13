@@ -15,7 +15,6 @@ date: '2007-11-20'
 categories:
 - luna
 - video
-tags: []
 ---
 
 This is actually a vanity post pretending to be real! This is the credits from the only film I've ever been (and am ever likely to be) in the credit sequence of! My namecheck is 4 minutes and 8 seconds in if you don't wnat to watch the whole video :)

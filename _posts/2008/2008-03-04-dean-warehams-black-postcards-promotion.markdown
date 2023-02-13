@@ -16,7 +16,6 @@ categories:
 - news
 - dean wareham
 - after luna
-tags: []
 ---
 <p>Dean will be carrying out a (very) short promotional tour supporting the release of his memoir "Black postcards" - here's the schedule...</p>
 <ul>

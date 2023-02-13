@@ -16,7 +16,6 @@ categories:
 - dean wareham
 - video
 - pictures
-tags: []
 ---
 <p><a href="https://www.flickr.com/photos/grange85/14237876341" title="Dean Wareham at The Prince Albert in Brighton by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://farm3.staticflickr.com/2922/14237876341_126e747302_z.jpg" width="640" height="428" alt="Dean Wareham at The Prince Albert in Brighton"></a><br />
 On a whim, and thanks to Hertz doing a £12 a day rental promotion, I headed down to Brighton for my first of three consecutive nights of Dean Wareham shows. The gig was at The Prince Albert, which is next to, actually pretty much under, Brighton station. Arrived just after eight and headed into the upstairs room to find it uncomfortably empty and with no sign of anything happening. Bought myself a ginger beer and headed outside to post a <a href="http://instagram.com/p/oRTnUdvDPV/#">photo of the poster to Instagram</a> & facebook, where the Free Wifi garnered the most attention.</p>

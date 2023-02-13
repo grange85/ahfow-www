@@ -16,7 +16,6 @@ categories:
 - news
 - damon & naomi
 - dean & britta
-tags: []
 ---
 Limited edition Damon & Naomi tenugui
 

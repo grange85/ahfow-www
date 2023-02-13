@@ -15,6 +15,5 @@ date: '2009-09-17'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <p>Just spotted on last.fm that Dean & Britta are scheduled to play at Southpaw in Brooklyn on New Year's Eve - tickets $20 in advance. I wonder if <a href="/2005/12/01/audio-roll-your-own-luna-new-year/">Rock Your Baby will get an outing</a>?</p>

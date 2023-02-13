@@ -16,7 +16,6 @@ date: '2013-03-15'
 categories:
 - news
 - galaxie 500
-tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/images/misc/temprising_book.jpg" width="400" height="500" class /><figcaption class="caption-text"> Temperature's Rising</figcaption></figure>
 <p><ins datetime="2013-03-17T09:21:22+00:00"><strong>UPDATE 2</strong>: 2013-03-16<br />

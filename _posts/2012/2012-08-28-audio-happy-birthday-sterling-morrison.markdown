@@ -15,7 +15,6 @@ date: '2012-08-28'
 categories:
 - luna
 - audio
-tags: []
 ---
 <p>A few months ago I had a post ready for what would have been Sterling Morrison's 70th birthday... then I accidentally made it live months early, panicked and deleted it - and then promptly forgot to get it together again. This is therefore being hastily thrown together in my lunch break.</p>
 <p><figure class="caption aligncenter" width="550"><img alt="" src="https://media.fullofwishes.co.uk/images/misc/luna_vu_sd.jpg" title="Half of Luna + half of VU" width="550" height="378" /><figcaption class="caption-text">Half of Luna + half of VU photo courtesy of Stan Demeski</figcaption></figure>

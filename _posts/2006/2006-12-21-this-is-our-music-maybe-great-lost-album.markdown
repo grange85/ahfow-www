@@ -15,7 +15,6 @@ date: '2006-12-21'
 categories:
 - news
 - galaxie 500
-tags: []
 ---
 I'm not sure of David's sources but it seems that This is Our Music may be
 featured as the [Great Lost

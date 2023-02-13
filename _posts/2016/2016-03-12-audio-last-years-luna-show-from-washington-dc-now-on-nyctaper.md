@@ -13,7 +13,6 @@ imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-06/2015-1
 categories:
 - audio
 - luna
-tags: []
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-06/2015-10-06-luna-930-washingtondc-shawn-01.jpg" alt="Luna at the 9:30 Club, Washington DC (Photo: Shawn)" /><figcaption class="caption-text">Luna at the 9:30 Club, Washington DC (Photo: Shawn)</figcaption></figure>
 

@@ -15,7 +15,6 @@ date: '2006-12-29'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 Britta posted to the Galaxie 500 Mailing List with some information about the
 upcoming shows.

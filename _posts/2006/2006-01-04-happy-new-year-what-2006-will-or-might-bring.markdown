@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2006-01-04'
 categories:
 - news
-tags: []
 ---
   * Luna DVD - Tell Me Do You Miss Me? (March)
   * Luna "Best of..." (March)

@@ -16,7 +16,6 @@ categories:
 - dean wareham
 - galaxie 500
 - history
-tags: []
 ---
 <figure class="caption aligncenter"><a href="http://www.flickr.com/photos/74825135@N00/3354266928/" title="img150 by slint4587, on Flickr"><img class="aligncenter" src="https://farm4.static.flickr.com/3638/3354266928_f84714f9e7.jpg" width="500" height="345" alt="img150"></a><figcaption class="caption-text">Galaxie 500 at Glastonbury by slint4587</figcaption></figure>
 <p>This weekend is the <a href="http://www.glastonburyfestivals.co.uk/">Glastonbury Festival</a> so I'll take the opportunity to lift a bit from Dean Wareham's memoir Black Postcards about Galaxie 500's performance at the festival in 1990:</p>

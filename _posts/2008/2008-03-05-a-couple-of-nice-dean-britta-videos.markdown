@@ -15,7 +15,6 @@ date: '2008-03-05'
 categories:
 - dean & britta
 - video
-tags: []
 ---
 <p>I've grown to love the low-res video of YouTube and it's like (once I'd got past my high-res snobbery) - being able to see short clips of Dean & Britta's recent tour has been a treat - here are a couple of recent faves...</p>
 <p>Bonnie and Clyde @ The Cat's Cradle in Carrboro, NC<br />

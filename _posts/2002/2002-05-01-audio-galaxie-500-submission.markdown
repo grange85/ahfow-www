@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2002-05-01'
 categories:
 - galaxie 500
-tags: []
 ---
 OK - I've been sitting on this one for an age waiting for someone to release it officially but it really doesn't seem likely so here for your enjoyment is Galaxie 500's cover of The Sex Pistols track "Submission".
 

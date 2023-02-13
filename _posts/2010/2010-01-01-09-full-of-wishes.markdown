@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2010-01-01'
 categories:
 - editorial
-tags: []
 ---
 <p>I had a nice full year for A Head Full of Wishes so here's a short summary just because I feel like it. Obviously this is from a very personal perspective... feel free to comment on your own AHFoW related '09 highs...</p>
 <p><a href="http://www.flickr.com/photos/minimum/122429782/"><img alt="" src="https://farm1.static.flickr.com/38/122429782_4ec8a2b281.jpg" title="Galaxie 500" class="aligncenter" width="500" height="333" /></a></p>

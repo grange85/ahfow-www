@@ -15,7 +15,6 @@ date: '2007-01-20'
 categories:
 - news
 - after luna
-tags: []
 ---
 
 Former Luna guitarist [Sean Eden](http://seaneden.com) has his passport out and is off to Mexico for a few dates with [Elk City](http://www.elkcity.net/) - more details can be found on his website. After which he's off to London as part of [Dave Derby and the Norfolk Downs](http://www.davederby.com/) which also features the fantastic [Chris Brokaw](http://www.chrisbrokaw.com/). Anyone at the London gig feel free to hunt me down and say hello.

@@ -15,7 +15,6 @@ date: '2010-12-19'
 categories:
 - miscellaneous
 - damon & naomi
-tags: []
 ---
 <p>At about 10 o'clock on Saturday morning the snow arrived in west London, and it arrived in quantities I can't remember seeing since I was a child. Even when the rest of the country gets snow London tends to be left out. I love snow, I love how it makes our garden as beautiful as everyone else's. I love how it puts smiles on faces and snowmen on every bare patch. But tempering all of the love this time was that the fact that had to make it to The Borderline for Damon & Naomi and The Clientele. For all of London's lack of extreme weather it is additionally famous for the way it's transport infrastructure struggles when the weather does arrive.<figure class="caption aligncenter"><a href="http://www.flickr.com/photos/grange85/5273036065/"><img alt="" src="https://farm6.static.flickr.com/5248/5273036065_a844724d0a.jpg" title="West London snow" width="500" height="375" /></a><figcaption class="caption-text">West London in the snow</figcaption></figure><br />
 I walked to the station through thick snow, and straight onto a train that took me into the West End, making my concerns utterly pointless. The West End was strangely clear of snow... it had snowed but the traffic and the people and the warmth of all of that had turned it into a grey brown slush... not so beautiful here.</p>

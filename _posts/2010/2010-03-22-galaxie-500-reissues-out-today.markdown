@@ -15,7 +15,6 @@ date: '2010-03-22'
 categories:
 - news
 - galaxie 500
-tags: []
 ---
 <p><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2010/02/dominoreissuessleeves.jpg" alt="" title="dominoreissuessleeves" width="180" height="540" class="alignright size-full wp-image-1830" />
 <p>The deluxe reissues of Galaxie 500's three albums are released today by Domino Records. Each CD is paired with a bonus CD: Today comes with the "Uncollected" set that was collected for the 1996 box set; On Fire has the band's two Peel sessions; This Is Our Music has the live recording from Galaxie 500's last European show in Copenhagen.</p>

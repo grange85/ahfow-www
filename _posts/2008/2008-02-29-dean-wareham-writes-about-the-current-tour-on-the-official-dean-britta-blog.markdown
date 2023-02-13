@@ -15,7 +15,6 @@ date: '2008-02-29'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2008/02/bostonsucks1.jpg" alt='Boston Sucks - photo by James Tran (used without permission)' /><br/>Boston Sucks<br/>photo by James Tran (used without permission)</div>
 <p>Dean has posted another lengthy <a href="https://web.archive.org/web/20080229+/http://www.deanandbritta.com/blog/?p=110">post on the official Dean & Britta blog</a> - they may be sporadic but they're big and packed with sex, drugs and rock and roll when they do arrive...</p>

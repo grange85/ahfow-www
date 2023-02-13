@@ -15,7 +15,6 @@ date: '2008-08-11'
 categories:
 - dean & britta
 - pictures
-tags: []
 ---
 <div class="imagebox-a"><a href="http://www.flickr.com/photos/byjohnvettese/2734899503/" title="Photo Sharing"><img src="https://farm4.static.flickr.com/3196/2734899503_8ee85afeb7_m.jpg" alt="Dean & Britta @ XPN Fest" /></a><br/><strong>Dean & Britta @ XPN Fest</strong><br/>originally uploaded by <a href="http://www.flickr.com/people/byjohnvettese/">johnvettese</a></div>
 <div>

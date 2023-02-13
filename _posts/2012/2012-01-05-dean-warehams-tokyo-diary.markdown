@@ -16,7 +16,6 @@ categories:
 - dean & britta
 - dean wareham
 - other people's blogs
-tags: []
 ---
 <p>The Paris Review has posted <a href="http://www.theparisreview.org/blog/2012/01/03/the-tokyo-diary/">Dean Wareham's diary of his recent trip to Tokyo</a> to play a couple of "Dean Wareham plays Galaxie 500" shows, 20 years after Galaxie 500 had split meaning they never got to play there.</p>
 <blockquote><p>From the stage tonight I notice three different people crying as I sing “Blue Thunder,” which is a song about the power-steering action in my old 1975 Dodge Dart and doesn’t quite seem worth crying about, though admittedly it is also a song about being alone behind the wheel, and I wail about driving “so far away,” so maybe that’s what did it.</p></blockquote>

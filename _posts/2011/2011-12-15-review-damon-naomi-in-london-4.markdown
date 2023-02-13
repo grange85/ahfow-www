@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2011-12-15'
 categories:
 - damon & naomi
-tags: []
 ---
 <p><a href="http://www.flickr.com/photos/grange85/6496039017/" title="Damon & Naomi @ Viola Nights by andyaldridge, on Flickr"><img class="aligncenter" src="https://farm8.staticflickr.com/7017/6496039017_635f2bc5f5.jpg" width="500" height="375" alt="Damon & Naomi @ Viola Nights"></a></p>
 <p>I got off the bus just as the heavens opened, not too sure where to go... surely this crappy dead end leading to an industrial estate couldn't be where Damon & Naomi were playing? I tentatively made my way into the darkness - found first an ankle deep puddle and then, eventually, the Whirled Cinema Club. The venue itself was lovely, in a railway arch, and I wandered up the stairs drenched, glasses steamed up and found a spot near a radiator.</p>

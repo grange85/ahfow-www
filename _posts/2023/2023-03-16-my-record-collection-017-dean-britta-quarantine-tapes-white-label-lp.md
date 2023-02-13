@@ -20,7 +20,7 @@ tags:
 date: 2023-03-16 00:00 +0000
 ---
 White label (test pressing) of Dean & Britta's Quarantine Tapes LP. The A side label says "Dean & Britta - A - Quarantine Tapes" in Dean's handwriting - the B side label is signed by Dean & Britta. A gift (of course) and a prize possession!
-
+{: .lead }
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-and-britta-quarantine-tapes-tp-lp.jpg" "Dean & Britta - Quarantine Tapes (LP, test pressing)" %}
 
 Now it's been hard to put a positive spin on the shit-show that is the COVID pandemic, but ... there was one - and it was Dean & Britta's livestreamed shows. So the fact that there's a lovely vinyl record of them is an absolute treat. Maybe they should only have existed at a time they were so sorely needed ... but damm! I'd love them to do more!

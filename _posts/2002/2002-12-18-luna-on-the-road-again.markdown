@@ -15,7 +15,6 @@ date: '2002-12-18'
 categories:
 - luna
 - news
-tags: []
 ---
 Luna are setting off for a bunch more dates around the US in January and February of 2003.
 

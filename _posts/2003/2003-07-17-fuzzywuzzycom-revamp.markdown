@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2003-07-17'
 categories:
 - news
-tags: []
 ---
 Luna's fuzzywuzzy.com website has had a revamp - not a great deal of new content yet. It does have an online store where you can buy t-shirts. There's also a mailing list on the horizon.
 

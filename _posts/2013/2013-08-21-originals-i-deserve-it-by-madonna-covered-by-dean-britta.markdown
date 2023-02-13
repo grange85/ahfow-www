@@ -14,7 +14,6 @@ date: '2013-08-21'
 categories:
 - dean & britta
 - originals
-tags: []
 ---
 <p>I Deserve It was on Madonna's eighth album Music released in 2000<br />
 Here's the album version</p>

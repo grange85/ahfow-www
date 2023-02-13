@@ -14,7 +14,6 @@ date: '2014-03-19'
 categories:
 - galaxie 500
 - originals
-tags: []
 ---
 <p><a href="http://www.flickr.com/photos/tom1231/322775793/" title="Paperback Writer by Marxchivist, on Flickr"><img class="aligncenter" src="https://farm1.staticflickr.com/127/322775793_75f340b745.jpg" width="500" height="489" alt="Paperback Writer"></a><br />
 Rain was one of the Lennon <em>Lennon/McCartney </em>compositions and was released as the b-side of Paperback Writer in the 1966. </p>

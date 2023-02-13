@@ -14,7 +14,6 @@ date: '2013-12-04'
 categories:
 - galaxie 500
 - originals
-tags: []
 ---
 <p>OK, this is slap-dash research so don't take it as gospel... Listen, the Snow Is Falling was first released as the b-side of John & Yoko's Happy Xmas (War Is Over) in the US in December 1971, it got it's first UK release on the flip of Yoko's Mind Train in January 1971, and then as the b-side of Happy Xmas (War Is Over) in December 1972.<br />
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/yoko-ono-listen-the-snow-is-falling-apple.jpg" width="596" height="599" class /><figcaption class="caption-text"> Listen, the Snow Is Falling</figcaption></figure>

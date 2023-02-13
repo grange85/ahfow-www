@@ -14,7 +14,6 @@ date: '2014-05-21'
 categories:
 - luna
 - originals
-tags: []
 ---
 <p><a href="https://www.flickr.com/photos/ben_salter/4484207684" title="Tree tops by Ben Salter, on Flickr"><img class="aligncenter" src="https://farm5.staticflickr.com/4021/4484207684_4420a6d41b_z.jpg" width="640" height="427" alt="Tree tops"></a><br />
 Straight Up was written by musician, songwriter and producer Eliott Wolff for Paula Abdul in 1988. That version spent three weeks at the top of the Billboard Hot 100 in 1989, and was certified platinum.<br />

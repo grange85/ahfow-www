@@ -16,7 +16,6 @@ categories:
 - news
 - dean wareham
 - video
-tags: []
 ---
 <p>This is a trailer for the short film, <a href="http://myspacetv.com/index.cfm?fuseaction=vids.individual&videoid=30088876">Pumpkin Hell</a>, that Dean mentioned in an interview a while back but that I'd forgotten about since then - the trailer is pretty funny and Dean looks the part as a sleazy pumpkin seller...so I hope the whole film gets onto the Internet soon...<br />
 <br />

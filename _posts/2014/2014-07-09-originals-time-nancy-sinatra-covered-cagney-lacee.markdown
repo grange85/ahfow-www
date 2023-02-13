@@ -15,7 +15,6 @@ categories:
 - dean wareham
 - originals
 - cagney & lacee
-tags: []
 ---
 <p><a href="https://www.flickr.com/photos/nationaalarchief/3333356893" title="Wekker voor anti-conceptiepil / Alarm clock for birth control pills by Nationaal Archief, on Flickr"><img class="aligncenter" src="https://farm4.staticflickr.com/3638/3333356893_80d64b4088_z.jpg?zz=1" width="415" height="640" alt="Wekker voor anti-conceptiepil / Alarm clock for birth control pills"></a><br />
 I'm taking a guess that Dean Wareham most likely came to Time by Nancy Sinatra's version... I know I did. All my (admittedly rather slack) research has revealed that Time songwriter Michael Merchant wrote Time. And that's about it. A few folk recorded in 1966, including...<br />

@@ -16,7 +16,6 @@ date: '2014-08-01'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 ### Happy birthday Dean! Smile
 

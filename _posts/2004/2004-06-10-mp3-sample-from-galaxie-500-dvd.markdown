@@ -15,7 +15,6 @@ date: '2004-06-10'
 categories:
 - news
 - galaxie 500
-tags: []
 ---
 Plexifilm have made available an mp3 of a live track from the Galaxie 500 . The track, a cover of Joy Division's Ceremony, was recorded in 1990 at Club Lingerie, Hollywood, CAYou can get it here... 
 

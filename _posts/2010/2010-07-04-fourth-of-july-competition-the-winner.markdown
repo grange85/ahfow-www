@@ -15,7 +15,6 @@ date: '2010-07-04'
 categories:
 - news
 - admin
-tags: []
 ---
 <p>And the winner is...</p>
 <p>Simon Mealor's song The Fourth of July Still Plays in My Heart. It was lovely to get a musical entry and one that's been done so well. The excellently reverential backing track and the sweet narrative in the lyrics is just wonderful. Here's how Simon described it...</p>

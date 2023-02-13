@@ -15,7 +15,6 @@ date: '2010-12-09'
 categories:
 - dean & britta
 - editorial
-tags: []
 ---
 <p>I wear my <a href="http://www.grange85.co.uk/swirling/2004/06/29/108850795296338716/">being a fan</a> thing right out there on my sleeve (or <a href="">on the web</a>, or at the very least <a href="http://www.flickr.com/photos/grange85/sets/72157619400404262/with/3592561407/">on my chest</a>) which means there are some things you do that don't need to be explained - "I'm a fan" is all you need to say - just like the girls who screamed at The Beatles - there doesn't need to be a reason to scream... it's what you do.<br />
 <figure class="caption aligncenter"><a href="http://www.flickr.com/photos/grange85/5244864917/"><img alt="" src="https://farm6.static.flickr.com/5003/5244864917_2bf520ccd3.jpg" title="Dean & Britta play Galaxie 500" width="500" height="375" /></a><figcaption class="caption-text">Dean & Britta play Galaxie 500</figcaption></figure><br />

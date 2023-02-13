@@ -15,7 +15,6 @@ date: '2010-06-24'
 categories:
 - dean & britta
 - video
-tags: []
 ---
 <div>... almost on cue this video of Dean & Britta performing Fourth of July with the Joshua Light Show has just appeared on YouTube<br /><figure class="caption "><figcaption class="caption-text"></figcaption></figure>
 <p /> ... and also this one of Britta doing I&#39;ll Keep it With Mine...<br /><figure class="caption "><figcaption class="caption-text"></figcaption></figure>

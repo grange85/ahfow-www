@@ -16,7 +16,6 @@ categories:
 - news
 - dean wareham
 - other people's blogs
-tags: []
 ---
 <div>Dean Wareham has written about <a href="https://web.archive.org/web/20100614+/http://www.adequacy.net/2010/06/artists-on-albums-aoa13-dean-wareham-on-crazy-rhythms/">his love for Crazy Rhythms by The Feelies</a> in <a href="https://web.archive.org/web/20100614+/http://www.adequacy.net/">Delusion of Adequacy</a>&#39;s latest feature in their <a href="https://web.archive.org/web/20100614+/http://www.adequacy.net/category/features/">Artists on Albums</a> series...
 <p />

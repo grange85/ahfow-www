@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2012-02-24'
 categories:
 - luna
-tags: []
 ---
 <p><figure class="caption alignright" width="200" caption="Luna LPs getting first vinyl release"><img alt="" src="https://media.fullofwishes.co.uk/ahfow/uploads/2012/02/luna_romantica.jpg" title="Romantica by Luna" width="200" height="200" /><br/><img alt="" src="https://media.fullofwishes.co.uk/ahfow/uploads/2012/02/luna_rendezvous.jpg" title="Rendezvous by Luna" class="alignnone" width="200" height="200" /><figcaption class="caption-text"></figcaption></figure>
 <p>This just turned up on <a href="https://www.facebook.com/pages/Dean-Wareham/331987853509795">Dean's Facebook page</a>... <del datetime="2012-02-24T16:05:49+00:00">it links to a blog post that doesn't seem to exist but I guess more details are on the way</del> <ins datetime="2012-02-24T16:05:49+00:00"><a href="https://web.archive.org/web/20120224+/http://www.deanandbritta.com/blog/?p=1553">Blog post on Dean & Britta's website</a>.</ins></p>

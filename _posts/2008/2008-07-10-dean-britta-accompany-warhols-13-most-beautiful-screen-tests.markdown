@@ -16,7 +16,6 @@ categories:
 - news
 - dean & britta
 - 13 most beautiful
-tags: []
 ---
 <p>Dean & Britta have composed short pieces to accompany some of Andy Warhol's screen test, the films will be shown with live music accompaniment in October.</p>
 <blockquote><p>For "13 Most Beautiful ... Songs for Andy Warhol's Screen Tests," Wareham is selecting 13 of the screen tests, and composing short pieces for each.</p>

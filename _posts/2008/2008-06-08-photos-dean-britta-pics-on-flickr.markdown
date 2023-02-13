@@ -15,7 +15,6 @@ date: '2008-06-08'
 categories:
 - dean & britta
 - pictures
-tags: []
 ---
 <div class="imagebox-a"><a href="http://www.flickr.com/photos/charcoalheather/2367085199/" title="Photo Sharing"><img src="https://farm3.static.flickr.com/2412/2367085199_d1bb26174f_m.jpg" alt="_MG_4892" /></a><br/><strong>_MG_4892</strong><br/>originally uploaded by <a href="http://www.flickr.com/people/charcoalheather/">charcoal heather</a></div>
 <div>

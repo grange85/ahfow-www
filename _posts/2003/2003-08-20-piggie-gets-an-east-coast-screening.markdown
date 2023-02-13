@@ -15,7 +15,6 @@ date: '2003-08-20'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 Piggie the film by Alison Bagnall that stars Luna's Dean Wareham and features Luna/Dean & Britta on the soundtrack is getting a couple of screening as part of the Woodstock Film Festival.
 

@@ -15,7 +15,6 @@ date: '2013-11-02'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <p>Not sure how this slipped me by, <a href="http://www.bostonglobe.com/arts/music/2013/10/31/high-five-naomi-yang/a4O3kNGh9Aoy8JiAM082FN/story.html?s_campaign=sm_tw">Naomi wrote about five Velvet Underground tracks that "changed her life" for the Boston Globe</a></p>
 <blockquote><p>

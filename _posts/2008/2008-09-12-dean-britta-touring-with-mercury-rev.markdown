@@ -15,7 +15,6 @@ date: '2008-09-12'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <p>Dean & Britta will be playing some dates in Canada and the US with Mercury Rev at the beginning of December:</p>
 <blockquote><p># 05 December 2008 -  @ Paradise, Boston MA, USA<br />

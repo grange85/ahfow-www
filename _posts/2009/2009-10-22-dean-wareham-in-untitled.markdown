@@ -15,7 +15,6 @@ date: '2009-10-22'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p>Dean Wareham has a small part in the film <a href="http://en.wikipedia.org/wiki/%28Untitled%29_%282009_film%29">(untitled)</a> that opens this weekend and he even gets a line in the trailer.</p>
 <p><figure class="caption "><figcaption class="caption-text"></figcaption></figure></p>

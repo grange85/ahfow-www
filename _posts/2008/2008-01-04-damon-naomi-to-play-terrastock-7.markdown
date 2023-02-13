@@ -15,6 +15,5 @@ date: '2008-01-04'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <p>Damon & Naomi have been confirmed on the bill of <a href="http://www.terrascope.co.uk/Terrastock7/main.htm">Terrastock 7</a>  which takes place at the The Mellwood Arts & Entertainment Center, Louisville KY, USA between the 19th and 22nd of June 2008. The actual date of their performance hasn't been confirmed.</p>

@@ -15,7 +15,6 @@ date: '2013-06-08'
 categories:
 - luna
 - velvet underground tour diary
-tags: []
 ---
 ## 8th June
 {% ahfowimage "https://media.fullofwishes.co.uk/02-luna/pictures/41356_1476490645606_1633930988_1144507_201511_n.jpg" "Stan Demeski's All Access pass" %}

@@ -15,7 +15,6 @@ date: '2004-01-03'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 Damon & Naomi are heading out on a US tour with British folkie Bridget St John in February. Currently three dates have been announced (in Boston, Brooklyn and NYC) and more east coast dates are promised.
 

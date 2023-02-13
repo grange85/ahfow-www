@@ -15,6 +15,5 @@ date: '2008-09-15'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <p>Damon & Naomi have scheduled a gig at Rough Trade East on Sunday 12 October. The show kicks off at 7pm and is free. The duo's previous attempt at a London show fell through last July, so thankfully Londoners haven't had too long a wait for a replacement.</p>

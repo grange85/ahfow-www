@@ -15,7 +15,6 @@ date: '2010-03-30'
 categories:
 - galaxie 500
 - other people's blogs
-tags: []
 ---
 <p>Lots of love around for the Galaxie 500 reissues - here's what I've found so far - please feel free to add more in the comments (or <a href="mailto:andy@grange85.co.uk">email me</a>).</p>
 <p><strong><a href="http://pitchfork.com/reviews/albums/14083-today-on-fire-this-is-our-music/">Mark Richardson on Pitchfork</a> - Today 9.5; On Fire 10.0; This Is Our Music 8.3</strong></p>

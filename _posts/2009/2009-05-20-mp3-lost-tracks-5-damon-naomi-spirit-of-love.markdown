@@ -16,7 +16,6 @@ categories:
 - damon & naomi
 - audio
 - lost tracks
-tags: []
 ---
 <p><a href="http://www.flickr.com/photos/waterlilyla/2961047676/" title="Shrutis by waterlilyla, on Flickr"><img class="aligncenter" src="https://farm4.staticflickr.com/3218/2961047676_e09c8141c0_z.jpg" width="640" height="480" alt="Shrutis"></a>
 <p>In March 1997 Damon & Naomi played their first London show at the tiny 12 Bar Club. I still remember that show with a <a href="/articles/1997-03-19-review-damon-naomi-12-bar-club-london-uk-19th-march-1997">mixture of bliss and discomfort</a> but the most enduring of the blissful memories is the instrument that Naomi used. A <a href="http://en.wikipedia.org/wiki/Sruti_box">sruti box</a> is a simple one pitch harmonium that produces a beautiful drone. Since then Naomi has moved through a full harmonium and now plays a <a href="http://en.wikipedia.org/wiki/Clavia_Nord_Electro_2">Nord ELectro 2</a> and while I'm sure she (and the audience) appreciates the flexibility of these instruments I must admit I miss the beautiful simplicity of the sruti.</p>

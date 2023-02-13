@@ -15,7 +15,6 @@ date: '2014-07-09'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p>Indietracks release a compilation album of acts appearing at the festival every year and this year's has just been released. <a href="https://indietracks.bandcamp.com/album/indietracks-compilation-2014">For a couple of quid you can have an amazing 56 track album</a> (!!) which not only includes Dean Wareham's splendid Everly Brothers cover Living Too Close to the Ground, but in amongst the shedload of other brilliant music you'll find Joann Gruesome's also splendid cover of Galaxie 500's Tugboat. Now how is that not amazing value.<br />
 <iframe class="aligncenter" style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2852289277/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://indietracks.bandcamp.com/album/indietracks-compilation-2014">Indietracks Compilation 2014 by Various Artists</a></iframe></p>

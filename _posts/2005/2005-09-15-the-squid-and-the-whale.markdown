@@ -15,7 +15,6 @@ date: '2005-09-15'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 Dean Wareham & Britta Phillips have written the original music for the
 forthcoming [Noah Baumbach](http://uk.imdb.com/name/nm0000876/) film [The

@@ -15,7 +15,6 @@ date: '2005-02-24'
 categories:
 - luna
 - news
-tags: []
 ---
 Luna's Last Waltz is an attempt to blog the end of Luna - to help out go here, read and email me to join in...
 

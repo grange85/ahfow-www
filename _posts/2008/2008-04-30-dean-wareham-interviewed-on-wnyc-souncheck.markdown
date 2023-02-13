@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2008-04-30'
 categories:
 - damon & naomi
-tags: []
 ---
 <p>There's a lengthy interview with Dean Wareham talking about Black Postcards recorded for WNYC Soundcheck <a href="http://www.npr.org/templates/story/story.php?storyId=89129266">on the NPR Music website</a></p>
 <blockquote><p>"When Luna broke up, I finally had time to sit down and tell this story," Wareham says. "The personal stuff was more difficult — I was pushed by my editor after handing him the first draft to come back and tell more of the personal stuff. And I think that if there's a strength to the book, it's the extent to which I'm prepared to go into that."</p></blockquote>

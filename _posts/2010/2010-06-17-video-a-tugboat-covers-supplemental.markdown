@@ -15,7 +15,6 @@ date: '2010-06-17'
 categories:
 - galaxie 500
 - video
-tags: []
 ---
 <div>As a follow up to my previous Tugboat post, here are a few of my fave YouTube/video discoveries...
 <p />Obviously start with the original (and best) - Galaxie 500 under the hoop in 1989<br /><figure class="caption "><figcaption class="caption-text"></figcaption></figure>

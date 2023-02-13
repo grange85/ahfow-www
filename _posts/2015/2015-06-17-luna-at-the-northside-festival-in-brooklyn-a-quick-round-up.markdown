@@ -15,7 +15,6 @@ date: '2015-06-17'
 categories:
 - luna
 - news
-tags: []
 ---
 <figure class="caption aligncenter"><a href="https://www.flickr.com/photos/eychao/18537413390" title="Small child not enjoying #Luna. #music #northsidefestival by Eveline Chao, on Flickr"><img src="https://c1.staticflickr.com/9/8846/18537413390_755ca593ac_z.jpg" width="640" height="640" alt="Small child not enjoying #Luna. #music #northsidefestival"></a><figcaption class="caption-text">Not quite everyone was enjoying the show</figcaption></figure>
 <p>First up you should head over to the fab NYCTaper where you can download the show and listen to it while you read through the rest of this post.</p>

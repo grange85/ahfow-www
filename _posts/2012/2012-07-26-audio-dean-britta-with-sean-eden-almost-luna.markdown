@@ -16,7 +16,6 @@ categories:
 - luna
 - news
 - dean & britta
-tags: []
 ---
 <p>The fab NYCTaper recorded the Dean & Britta show in Wantagh last weekend that featured an extended section with former Luna guitarist Sean Eden guesting. The whole show is available to download as mp3s (or lossless flacs) from nyctaper.com</p>
 <p>The show was a  benefit for the <a href="http://tommybrullfoundation.org/joomla/">Tommy Brull Foundation</a> and you can show your appreciation by <a href="http://tommybrullfoundation.org/joomla/">making a donation at their website</a>.</p>

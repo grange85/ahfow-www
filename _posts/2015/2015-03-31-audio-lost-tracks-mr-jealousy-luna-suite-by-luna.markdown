@@ -15,7 +15,6 @@ date: '2015-03-31'
 categories:
 - luna
 - lost tracks
-tags: []
 ---
 <p>As <a href="/2015/03/26/another-noah-baumbach-movie-another-dean-wareham-cameo/" title="Another Noah Baumbach movie… another Dean Wareham cameo">another Noah Baumbach movie</a> is hitting cinemas this weekend here's a related Luna obscurity. Dean first worked with Noah Baumbach on his 1997 film Mr. Jealousy and has been involved in some capacity or another with most of his subsequent work.</p>
 

@@ -15,7 +15,6 @@ date: '2014-05-08'
 categories:
 - news
 - admin
-tags: []
 ---
 <p>Some of you may have noticed that A Head Full of Wishes has had a new coat of paint. It might not be very beautiful, but then I'm not an artist (not for want of trying). </p>
 <p>There are also changes afoot in the backroom as well. For most of the last 15 years of this web site a hand-crafted and lovingly-updated database has tried to keep tracks of the records and shows that Galaxie 500, and all the other acts that they spawned, made and played. But it was all getting a little creaky, and half-finished changes from a few years back were making it tricky to maintain.</p>

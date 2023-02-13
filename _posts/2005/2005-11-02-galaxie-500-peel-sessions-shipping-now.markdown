@@ -15,7 +15,6 @@ date: '2005-11-02'
 categories:
 - news
 - galaxie 500
-tags: []
 ---
 The newly released Galaxie 500 Peel Sessions CD is availiable now from
 20|20|20.

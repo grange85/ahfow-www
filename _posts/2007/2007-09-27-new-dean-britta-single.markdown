@@ -15,7 +15,6 @@ date: '2007-09-27'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 
 UK based label [Sonic Cathedral](http://www.soniccathedral.co.uk) is releasing a 7" single by Dean & Britta featuring two previously unreleased versions of the track White Horses, one is a remix by [Sonic Boom](http://www.sonic-boom.info/) and the other is a version sung in French.

@@ -15,7 +15,6 @@ date: '2014-01-08'
 categories:
 - news
 - galaxie 500
-tags: []
 ---
 <p>If you think that perhaps you're a bit too old for a T-shirt (and you're not by the way) you can still proudly show off your impeccable taste at the supermarket or farmers market with this rather lovely new Galaxie 500 tote bag.<br />
 <img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500-tote-bag.jpg" width="432" height="432" class="aligncenter" /></p>

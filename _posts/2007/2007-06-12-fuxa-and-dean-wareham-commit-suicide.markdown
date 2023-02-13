@@ -15,7 +15,6 @@ date: '2007-06-12'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 
 Dean Wareham is providing vocals to three versions of the Suicide track Cheree on the forthcoming EP [F&uuml;xa commits Suicide](http://www.myspace.com/fuxamusic) out on [Mind Expansion Records](http://www.myspace.com/mindexpansionrecords). The EP will be limited to 1000 copies and will be available soon.

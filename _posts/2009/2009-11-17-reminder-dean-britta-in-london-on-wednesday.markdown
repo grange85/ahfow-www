@@ -15,7 +15,6 @@ date: '2009-11-17'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <p><figure class="caption alignright"><a href="http://www.flickr.com/photos/grange85/348320701/"><img alt="St Giles in the Fields, London" src="https://farm1.static.flickr.com/158/348320701_22eeceda81_m.jpg" title="St Giles in the Fields, London" width="240" height="180" /></a><figcaption class="caption-text">St Giles in the Fields, London*</figcaption></figure>
 <p>Just a quick reminder that <a href="http://www.deanandbritta.com">Dean & Britta</a> are playing in London for the first time in over two years tomorrow (Wednesday) night. The show takes place at the very lovely St Giles in the Fields church just off Tottenham Court Road. Tickets are £12 and are <a href="http://www.wegottickets.com/event/61068">still available from wegottickets</a>.</p>

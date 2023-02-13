@@ -15,7 +15,6 @@ date: '2010-07-29'
 categories:
 - dean & britta
 - video
-tags: []
 ---
 A couple of videos of complete songs from Dean & Britta's secret Copenhagen show from 2007 have just appeared on YouTube. 
 

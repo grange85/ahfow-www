@@ -14,7 +14,6 @@ date: '2013-02-07'
 categories:
 - damon & naomi
 - originals
-tags: []
 ---
 <p>It seems all the As in my originals series are Damon & Naomi ones - second is their cover of Brazilian legend <a href="http://en.wikipedia.org/wiki/Caetano_Veloso">Caetano Veloso</a>'s Araçá azul. </p>
 <p>Original: Caetano Veloso - Araçá azul<br />

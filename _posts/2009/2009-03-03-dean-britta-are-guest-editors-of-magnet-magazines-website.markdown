@@ -15,7 +15,6 @@ date: '2009-03-03'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <p>Dean & Britta are this weeks <a href="http://www.magnetmagazine.com/category/guest-editor/">guest editor</a> at <a href="http://www.magnetmagazine.com/">Magnet Magazine's website</a> and their tenure kicked off yesterday with a Q&A interview during which he confirms that the last page of Black Postcards will be fixed for the <a href="http://www.amazon.com/gp/product/0143115480?ie=UTF8&tag=aheadfullofwi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0143115480">paperback edition</a> (my apologies for going on about just how much that bothered me!)</p>
 <blockquote><p><strong>Are there any postscripts you’d like to add to Black Postcards?</strong><br />

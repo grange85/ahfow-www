@@ -15,7 +15,6 @@ date: '2007-08-08'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 
 The great Lee Hazlewood passed away last week after a long battle with cancer. Dean Wareham has just posted a tribute to him on the Dean & Britta MySpace blog along with excerpts from an interview he did with Lee in 1999.

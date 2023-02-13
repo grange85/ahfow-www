@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2014-03-10'
 categories:
 - news
-tags: []
 ---
 <p>Dean Wareham's new album is out today on the UK and The UK tomorrow.</p>
 <p>Certain UK record shops have a bonus live CD if you buy in store. If you buy it from <a href="http://roughtrade.com/albums/80242" target="_blank">Rough Trade</a>, <a href="http://www.piccadillyrecords.com/prod/DeanWareham-DeanWarehamBonusDiscEdition-SonicCathedral-95431.html" target="_blank">Piccadilly</a>, <a href="http://www.normanrecords.com/records/145638-dean-wareham-dean-wareham-" target="_blank">Norman</a>, <a href="http://thedriftrecordshop.net/collections/frontpage/products/dean-wareham-dean-wareham" target="_blank">Drift</a>, <a href="http://www.monorailmusic.com/" target="_blank">Monorail</a>, <a href="http://www.resident-music.com/productdetails&product_id=28966" target="_blank">Resident</a>, <a href="http://www.rise-music.co.uk/browse/search/dean+wareham/item/254827/Dean-Wareham-Dean-Wareham.html" target="_blank">Rise</a>, <a href="http://www.sisterray.co.uk/" target="_blank">Sister Ray</a>, <a href="http://www.recordstore.co.uk/recordstore/recordstore/Dean-Wareham-Signed-Artcard/36QV0000000" target="_blank">Record Store</a>, <a href="http://rapturewitney.co.uk/" target="_blank">Rapture</a> or <a href="http://truckmusicstore.co.uk/" target="_blank">Truck</a>, for a limited time only, it will come with a bonus CD featuring six songs recorded live at Dean’s sold out shows at St Pancras Old Church in London last December.</p>

@@ -14,7 +14,6 @@ date: '2014-10-15'
 categories:
 - damon & naomi
 - originals
-tags: []
 ---
 <p><a href="https://www.flickr.com/photos/nationaalarchief/3199096562" title="Betty Amann in de film Asphalt by Nationaal Archief, on Flickr"><img class="aligncenter" src="https://farm4.staticflickr.com/3360/3199096562_178c243be8_z.jpg?zz=1" width="640" height="515" alt="Betty Amann in de film Asphalt"></a><br />
 Another one that slipped through the net (and another one that I missed in the Fs - I was obviously a bit careless back then).</p>

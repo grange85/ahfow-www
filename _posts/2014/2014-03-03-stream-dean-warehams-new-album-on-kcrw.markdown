@@ -15,7 +15,6 @@ date: '2014-03-03'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p>Despite the <a href="https://twitter.com/soniccathedral/status/438737469031579648">finest efforts of Stereogum</a> last week it is KCRW who, this week, are hosting a stream of Dean Wareham's fabulous new album.</p>
 <p><strong>Head over to kcrw.com to listen to the album in full</strong>, and when you have you can head off to <a href="http://elevenspot.11spot.com/deanwareham/dean-wareham-dean-wareham-pre-order-3-11.html">Dean Wareham's website</a>, <a href="http://soniccathedral.bigcartel.com/artist/dean-wareham">Sonic Cathedral</a>, <a href="https://itunes.apple.com/us/album/dean-wareham-bonus-track-version/id787486934?ls=1">iTunes</a>, <a href="http://www.amazon.com/gp/product/B00IB2RRE6?ie=UTF8&camp=213733&creative=393177&creativeASIN=B00IB2RRE6&linkCode=shr&tag=aheadfullofwi-20&=dmusic&qid=1393870239&sr=1-1&keywords=Dean+Wareham">Amazon</a>, or your favoured brick or online record emporium to pre-order your copy ahead of next week's release.</p>

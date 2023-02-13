@@ -15,7 +15,6 @@ date: '2007-04-03'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 
 Dean & Britta's live performance recorded last month for Worldcafe will be broadcast on Wednesday 4 April between 2 and 4 pm (EDT) on WXPN 88.5FM in Philadelphia or online at xpn.org. (rebroadcast 1 to 3am and possibly podcasted or available for download later...

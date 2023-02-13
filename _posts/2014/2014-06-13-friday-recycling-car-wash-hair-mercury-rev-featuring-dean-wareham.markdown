@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2014-06-13'
 categories:
 - news
-tags: []
 ---
 
 {% ahfowvideo "MVxAQLtpMBA" "" %}

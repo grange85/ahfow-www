@@ -16,7 +16,6 @@ categories:
  - galaxie 500
  - damon & naomi
  - news
-tags: []
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/21019476@N00/132758253/" title="naomi"><img src="https://farm1.staticflickr.com/49/132758253_3d7393a8e9_b.jpg" width="1024" height="768" alt="naomi"></a>
 

@@ -15,7 +15,6 @@ date: '2007-11-13'
 categories:
 - dean & britta
 - pictures
-tags: []
 ---
 <div class="imagebox-a">[<img src="https://farm3.static.flickr.com/2012/1973300616_e9b78d6deb_m.jpg" alt="dean_britta_14784f.jpg" />](http://www.flickr.com/photos/rafaespada/1973300616/)<br/>**dean_britta_14784f.jpg**<br/>originally uploaded by [rafa espada](http://www.flickr.com/people/rafaespada/)</div>
 <div>

@@ -15,7 +15,6 @@ date: '2013-03-27'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <p>Damon has written an <a href="http://pitchfork.com/features/oped/9093-alt-weeklies/">opinion piece for Pitchfork on underground media</a> in the wake of the closing of The Boston Phoenix. I'll not try and summarise it here but head over there to read it.</p>
 <p>I will lift the Galaxie 500 bit for a quote though!</p>

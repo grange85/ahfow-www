@@ -15,7 +15,6 @@ date: '2006-08-26'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 October will see the third release on [Damon &
 Naomi](http://www.damonandnaomi.com)'s [20|20|20](http://www.20-20-20.com)

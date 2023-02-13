@@ -14,7 +14,6 @@ date: '2014-10-08'
 categories:
 - dean & britta
 - originals
-tags: []
 ---
 <p><a href="https://www.flickr.com/photos/x-ray_delta_one/6259543399" title="1966 ... Ann Margret as paintbrush! by James Vaughan, on Flickr"><img class="aligncenter" src="https://farm7.staticflickr.com/6220/6259543399_25d05ae126_z.jpg" width="640" height="503" alt="1966 ... Ann Margret as paintbrush!"></a><br />
 You Turned My Head Around was written by Lee Hazelwood and first released by singer and actress Ann-Margret on a single on LHI Records in 1968. It also got released (as You Turn My Head Around) on the re-issue of the Lee Hazlewood/Ann-Margret CD The Cowboy and The Lady in 2000.</p>

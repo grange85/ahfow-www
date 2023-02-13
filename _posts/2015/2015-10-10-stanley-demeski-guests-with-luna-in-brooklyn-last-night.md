@@ -8,7 +8,6 @@ author:
 date: '2015-10-10'
 categories:
  - luna
-tags: []
 imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-stan-with-luna-janice.jpg
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-stan-with-luna-janice.jpg" alt="Stan with Luna after last night&#39;s show (photo: Janice Demeski)" /><figcaption class="caption-text">Stan with Luna after last night&#39;s show (photo: Janice Demeski)</figcaption></figure>

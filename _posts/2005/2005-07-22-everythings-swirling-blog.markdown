@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2005-07-22'
 categories:
 - news
-tags: []
 ---
 OK - not really appropriate but hey this is my website and if I can't plug my
 own blog on here then where the hell can I do it.

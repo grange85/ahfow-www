@@ -15,7 +15,6 @@ date: '2006-04-18'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 
 The Oliver Assayas film <a href="http://www.imdb.com/title/tt0388838/">Clean</a> that Dean Wareham and Britta Phillips provided some songs for is finally getting a limited US release nearly two years after being nominated for the Palm D'Or at Cannes (limited = NYC only as far as I can tell). Dean duets with star Maggie Cheung on a couple of songs on the soundtrack and the Dean & Britta song Knives from Bavaria also features

@@ -15,7 +15,6 @@ date: '2014-05-25'
 categories:
 - dean wareham
 - video
-tags: []
 ---
 <p>Some videos have just been posted to YouTube by <a href="https://www.youtube.com/channel/UChppBef_tltSEuFqnEu8Qzw">shorttrashmovies</a> of Dean Wareham's splendid show in London on Friday:</p>
 <p>Dean Wareham - Flowers (live at Islington Assembly Hall, London, 23 May 2014)<br />

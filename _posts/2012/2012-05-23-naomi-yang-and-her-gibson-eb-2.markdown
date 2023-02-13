@@ -15,7 +15,6 @@ date: '2012-05-23'
 categories:
 - damon & naomi
 - galaxie 500
-tags: []
 ---
 <p><img alt="" src="https://media.fullofwishes.co.uk/images/misc/naomi-89-07.jpg" title="Naomi in 1989 and 2007" class="aligncenter" width="550" height="488" /></p>
 <p>Sadly Naomi hasn't brought her bass over on her last few visits to the UK - and I always got a buzz seeing it - still do - even if it has to be in pictures these days. </p>

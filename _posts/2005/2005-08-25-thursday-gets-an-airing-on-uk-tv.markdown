@@ -15,7 +15,6 @@ date: '2005-08-25'
 categories:
 - luna
 - news
-tags: []
 ---
 Thursday, featuring the music of Luna, is getting an airing on Channel 4 in
 the early hours of Saturday the 2 September.

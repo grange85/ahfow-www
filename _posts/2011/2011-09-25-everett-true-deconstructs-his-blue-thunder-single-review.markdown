@@ -15,7 +15,6 @@ date: '2011-09-25'
 categories:
 - galaxie 500
 - other people's blogs
-tags: []
 ---
 <p>Not sure how this slipped by but last week <a href="http://www.collapseboard.com/everett-true/deconstructing-the-past-galaxie-500/">Everett Truerevisited his review of Galaxie 500's Blue Thunder single</a>.<br />
 <img src="https://media.fullofwishes.co.uk/ahfow/uploads/2011/09/g500-bt-sotw-mm.jpg" alt="" title="g500-bt-sotw-mm" width="450" height="481" class="aligncenter size-full wp-image-2222" /><br />

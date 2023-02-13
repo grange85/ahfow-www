@@ -15,7 +15,6 @@ date: '2010-05-05'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <div>Britta <a href="http://www.facebook.com/BrittaPhillipsNYC?v=wall&story_fbid=120273561325911">confirmed in a post on Facebook</a> that the duo will be performing a cover of Simon & Garfunkel&#39;s Homeward Bound at this year&#39;s <a href="http://www.summerstage.org/index1.aspx?BD=21734">Central Park Summerstage</a> on 8 June
 <p />

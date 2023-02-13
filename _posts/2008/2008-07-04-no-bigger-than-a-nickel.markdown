@@ -16,7 +16,6 @@ categories:
 - galaxie 500
 - pictures
 - editorial
-tags: []
 ---
 <div class="imagebox-a"><a href="http://www.flickr.com/photos/dweller/2092296688/" title="Photo Sharing"><img src="https://farm3.static.flickr.com/2287/2092296688_2bc279d89b_m.jpg" alt="empire state building - bit dark" /></a><br/><strong>empire state building - bit dark</strong><br/>originally uploaded by <a href="http://www.flickr.com/people/dweller/">pureguava</a><br />
 <a title="Change" alt="Change" alt="Change" alt="Change" href="http://flickr.com/photos/73758787@N00/533508135/"><img src="https://farm2.static.flickr.com/1068/533508135_6d035b1744_m.jpg" width="240" height="160"></a><br/><strong>Change</strong><br/>originally uploaded by <a href="http://flickr.com/people/73758787@N00/">JoshuaRaymund</a></div>

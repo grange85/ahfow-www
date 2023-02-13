@@ -14,7 +14,6 @@ date: '2013-03-06'
 categories:
 - damon & naomi
 - originals
-tags: []
 flickr: true
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/statelibraryofnsw/3419357179/" title="Margaret Ballardini &amp; Fred Watson, Luna Park, St Kilda, Victoria, ca. 1927 / photographed by M D True, Electric Studio"><img src="https://live.staticflickr.com/3307/3419357179_e61de71f00_b.jpg" width="791" height="1024" alt="Margaret Ballardini &amp; Fred Watson, Luna Park, St Kilda, Victoria, ca. 1927 / photographed by M D True, Electric Studio"></a>

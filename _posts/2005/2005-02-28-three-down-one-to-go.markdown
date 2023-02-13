@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2005-02-28'
 categories:
 - news
-tags: []
 ---
 Oh hell! it's nearly all over. By all accounts it's been a great weekend so far.Setlists are posted for both the Sunday shows...1: [http://www.fullofwishes.info/galaxie/index.php?show_id=6862](https://web.archive.org/web/20050228+/http://www.fullofwishes.info/galaxie/index.php?show_id=6862): [http://www.fullofwishes.info/galaxie/index.php?show_id=679](https://web.archive.org/web/20050228+/http://www.fullofwishes.info/galaxie/index.php?show_id=679)
 

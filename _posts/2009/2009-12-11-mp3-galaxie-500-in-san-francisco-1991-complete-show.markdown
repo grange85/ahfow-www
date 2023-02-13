@@ -15,7 +15,6 @@ date: '2009-12-11'
 categories:
 - galaxie 500
 - audio
-tags: []
 ---
 
 <p>Another recording pulled out from the not enough I have of Galaxie 500.</p>

@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2003-09-10'
 categories:
 - news
-tags: []
 ---
 The video for Dean & Britta's Night Nurse is available online for your delectation at launch.com
 

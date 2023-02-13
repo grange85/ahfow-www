@@ -15,7 +15,6 @@ date: '2004-09-23'
 categories:
 - luna
 - news
-tags: []
 ---
 Luna have announced on their website that their imminent album Rendezvous will be their last. They will be touring Japan in October, the US in November, Europe and more US dates in January and February 2005 and then, dear friends, it will be all over.
 

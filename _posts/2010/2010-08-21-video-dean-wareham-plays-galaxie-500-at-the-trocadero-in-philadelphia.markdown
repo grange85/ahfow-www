@@ -15,7 +15,6 @@ date: '2010-08-21'
 categories:
 - dean & britta
 - video
-tags: []
 ---
 <div>Here are a few bits and peices turning up from Dean & Britta&#39;s Galaxie 500 show at The Trocadero in Philadelphia on Friday night.
 <p />

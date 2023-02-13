@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2014-04-16'
 categories:
 - admin
-tags: []
 ---
 <p>A Head Full of Wishes, as well as being this website, can be found happily chipping away at the coalface in all the usual Internet places - please come and find me in any or all of these places... and tell your friends!!</p>
 <p><strong>Facebook:</strong> <a href="https://www.facebook.com/fullofwishes">A Head Full of Wishes on Facebook</a><br />

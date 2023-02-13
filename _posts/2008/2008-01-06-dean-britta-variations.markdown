@@ -15,7 +15,6 @@ date: '2008-01-06'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 
 {% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_variations.jpg" "Dean & Britta - Variations EP" %}

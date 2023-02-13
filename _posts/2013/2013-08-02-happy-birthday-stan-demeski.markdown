@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2013-08-02'
 categories:
 - luna
-tags: []
 ---
 <p>... and a happy birthday to Stanley - the "judicious metronome"</p>
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/Luna_promo_1992.jpg" width="512" height="720" class /><figcaption class="caption-text"> Luna^2</figcaption></figure>

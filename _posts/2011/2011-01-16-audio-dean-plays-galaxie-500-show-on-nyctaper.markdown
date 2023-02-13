@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2011-01-16'
 categories:
 - dean & britta
-tags: []
 ---
 <p>The excellent music sharing blog <a href="http://www.nyctaper.com">nyctaper</a> has just posted a <a href="http://www.nyctaper.com/?p=4902">recording of last Thursday's Dean & Britta show</a> at Maxwell's in Hoboken NJ. You can check out the quality with a couple of streamed clips and can download as either mp3s or lossless FLACs.</p>
 <p><a href="http://www.nyctaper.com/?p=4902">Audio: Dean Wareham plays Galaxie 500 - 2011-01-13: Maxwell's, Hoboken, NJ, USA (via nyctaper)</a></p>

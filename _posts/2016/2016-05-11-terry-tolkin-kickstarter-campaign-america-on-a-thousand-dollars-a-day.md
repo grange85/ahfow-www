@@ -13,7 +13,6 @@ imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2016-05-05/2016-0
 categories:
 - news
 - luna
-tags: []
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2016-05-05/2016-05-05-terry-tolkin-luna-austin-joakim.jpg" alt="Terry Tolkin introducing Luna in Austin (Photo: Joakim)" /><figcaption class="caption-text">Terry Tolkin introducing Luna in Austin (Photo: Joakim)</figcaption></figure>
 <p class="lead">Terry Tolkin is the A&R man who signed Luna to Elektra and anyone who's encountered him on Facebook knows that he has a hatful of amazing stories about the music industry that would make an amazing book.</p>

@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2006-08-10'
 categories:
 - news
-tags: []
 ---
 Just a reminder that Sean Eden's band The Weeds of Eden will be playing at
 Pianos in NYC this coming Tuesday (15 August) and the two following Tuesdays.

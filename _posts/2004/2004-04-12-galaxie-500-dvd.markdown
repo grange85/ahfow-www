@@ -15,7 +15,6 @@ date: '2004-04-12'
 categories:
 - news
 - galaxie 500
-tags: []
 ---
 Plexifilm have published an article about the forthcoming Galaxie 500 2xDVD on their website - it contains the complete tracklisting (as previously published on this site) as well as a glimpse at the cover art.
 

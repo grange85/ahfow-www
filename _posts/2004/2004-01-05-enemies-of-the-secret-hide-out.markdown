@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2004-01-05'
 categories:
 - news
-tags: []
 ---
 While Dean & Britta have been doing their thing it seems the other half of Luna have been contributing to an album by David Voigt. Both Lee and Sean contribute to various bits of "Enemies of the Secret Hide-out" - all of which is available for download for a limited period.
 

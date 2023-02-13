@@ -16,7 +16,6 @@ categories:
 - news
 - damon & naomi
 - fortune
-tags: []
 ---
 <p>Sorry, this one nearly slipped me by... but if you read this in time and live close enough by you'd be wise to head to the 3S Artspace in Portsmouth, NH where you can catch a screening of Naomi Yang's lovely "Fortune" with live accompaniment by Damon & Naomi.</p>
 <p><a href="http://www.3sarts.org/performances/performance/Fortune-with-live-score-by-Damon-&-Naomi?performanceid=945">Details here</a> - but don't read... just get down there!</p>

@@ -15,7 +15,6 @@ date: '2007-11-05'
 categories:
 - dean & britta
 - video
-tags: []
 ---
 <p>There are a bunch of videos on YouTube from Dean & Britta's CMJ show at The Bowery Ballroom last month. Here they are performing Ceremony<br />
 

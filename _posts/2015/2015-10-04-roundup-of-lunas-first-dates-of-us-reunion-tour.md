@@ -12,7 +12,6 @@ date: '2015-10-04'
 categories:
  - luna
  - video
-tags: []
 ---
 <p class="lead">On Friday and Saturday Luna played the first dates of the US leg of their reunion tour. The first shows were in Atlanta and Friday night's show started with them playing their classic 1995 album Penthouse from start to finish (including the hidden bonus track). Here's a quick round-up on what you can see and read about the first dates.</p>
 

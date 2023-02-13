@@ -15,7 +15,6 @@ date: '2006-06-19'
 categories:
 - luna
 - news
-tags: []
 ---
 Online magazine Pitchfork have reviewed the new compilation album [Best of
 Luna giving it a rating of 8.1](http://web.archive.org/web/20080517052411/http

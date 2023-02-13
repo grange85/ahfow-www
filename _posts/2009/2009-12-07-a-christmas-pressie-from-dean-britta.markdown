@@ -16,7 +16,6 @@ categories:
 - news
 - dean & britta
 - audio
-tags: []
 ---
 <p><img alt="" src="https://media.fullofwishes.co.uk/ahfow/uploads/2007/11/d7bxmasad.png" title="Hes Coming Home" class="alignright" width="180" height="240" />
 <p>Dean & Britta are giving away a download of their lovely Christmas single from a couple of years ago. He's Coming Home was originally released as a 7" single on <a href="http://www.chimneyrocks.org/hescominghome.html">Chimney Rocks! Records</a> but now is available in digital form from Dean & Britta in return for your email address. Head over to the <a href="http://promo.11spot.com/deanandbritta/holiday_bonus">He's Coming Home promo website</a> and enter your email and the code <strong>oldtoytrains</strong>.</p>

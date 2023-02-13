@@ -13,7 +13,6 @@ author_url: http://www.grange85.co.uk
 date: '2014-07-02'
 categories:
 - news
-tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/angel-corpus-christi-ht.jpg" width="417" height="634" alt="Angel Corpus Christi posing with posters" class /><figcaption class="caption-text"> Angel Corpus Christi</figcaption></figure>
 <a href="https://www.flickr.com/photos/26412141@N05/3515034597">Photo by Howard Thompson and used without permission</a>[/caption]<br />

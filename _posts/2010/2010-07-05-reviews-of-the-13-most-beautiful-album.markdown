@@ -16,7 +16,6 @@ categories:
 - news
 - dean & britta
 - 13 most beautiful
-tags: []
 ---
 <div>The first couple of reviews of Dean & Britta&#39;s forthcoming double CD release of the music recorded for 13 Most Beuatiful have arrived. Adrian Pannett in <a href="https://web.archive.org/web/20100705+/http://www.adequacy.net/2010/07/dean-britta-13-most-beautiful-songs-for-andy-warhols-screen-tests/">Delusions of Adequacy has a lovely write up</a>...
 <p />

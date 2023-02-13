@@ -15,7 +15,6 @@ date: '2008-07-10'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <p>Dean & Britta's newsletter just dropped in the news that...</p>
 <blockquote><p>Due to request L'Avventura will be made available on limited edition vinyl, more details to come.</p></blockquote>

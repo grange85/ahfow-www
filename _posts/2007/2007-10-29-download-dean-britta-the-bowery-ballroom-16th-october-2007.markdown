@@ -15,7 +15,6 @@ date: '2007-10-29'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 
 [The Sound Of Indie](http://www.thesoundofindie.com/?p=465) has Dean & Britta's recent CMJ performance at The Bowery Ballroom for download.

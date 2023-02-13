@@ -15,7 +15,6 @@ date: '2005-12-08'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 The official [Dean & Britta website](https://web.archive.org/web/20051208+/http://www.deanandbritta.com) has just
 put up a couple of mp3s for download. The tracks are "Family Conference",

@@ -15,7 +15,6 @@ date: '2011-04-05'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <p><figure class="caption alignright" width="239" caption="photo: Anabel V&aacute;zquez Rodr&iacute;guez"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2011/04/damonnaomi.06-239x300.jpg" alt="Michio Kurihara, Naomi Yang, Damon Krukowski" title="damonnaomi.06" width="239" height="300" class="size-medium wp-image-2155" /><figcaption class="caption-text">[/caption]Damon & Naomi are playing four dates in the UK in early May and then will be heading out on an extensive North American tour with <a href="http://www.amordedias.com/">Amor de D&iacute;as</a>. </figcaption></figure>
 <p>The UK dates will be with Michio Kurihara and musician <a href="http://en.wikipedia.org/wiki/Richard_Youngs">Richard Youngs</a>. Damon will be playing drums for Richard Youngs on these dates.</p>

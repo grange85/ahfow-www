@@ -16,7 +16,6 @@ categories:
 - dean & britta
 - after luna
 - video
-tags: []
 ---
 <p>OK... some video has finally turned up on YouTube of Dean & Britta playing with Sean Eden last Saturday in Chicago...</p>
 <p><ins datetime="2010-12-08T10:16:43+00:00">Dean & Britta with Sean Eden - Indian Summer<br />

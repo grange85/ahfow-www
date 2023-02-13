@@ -15,7 +15,6 @@ date: '2005-07-08'
 categories:
 - luna
 - news
-tags: []
 ---
 The guitar that Dean Wareham used for most of Luna's final tour is being sold
 on eBay - it's a 1980 Tokai Love Rock LS-80 - details and pictures can be

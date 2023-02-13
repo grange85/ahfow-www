@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2014-12-13'
 categories:
 - news
-tags: []
 ---
 <p>I think we'll all be glad to know this is the last part of my 20th birthday celebrations!</p>
 <h3>16: Net, Blogs and Rock and Roll</h3>

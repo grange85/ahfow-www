@@ -15,7 +15,6 @@ date: '2008-01-03'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <p>Damon & Naomi have three dates in Japan this month supporting the Japanese release of Within These Walls on P-Vine records.</p>
 <ul>

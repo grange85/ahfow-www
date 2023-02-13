@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2007-11-26'
 categories:
 - damon & naomi
-tags: []
 ---
 <div class="imagebox-a">[<img src="https://farm3.static.flickr.com/2033/2064154592_1432da0972_m.jpg" width="240" height="159" alt="Damon & Naomi" />](http://www.flickr.com/photos/grange85/2064154592/)</div>
 

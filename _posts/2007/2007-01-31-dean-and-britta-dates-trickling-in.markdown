@@ -15,7 +15,6 @@ date: '2007-01-31'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 
 The first dates of Dean & Britta's March tour of North America are trickling in - you can see [a list of all the dates so far](http://www.grange85.co.uk/galaxie/index.php?showall=true) and I'll keep this updated as soon as I hear of more.

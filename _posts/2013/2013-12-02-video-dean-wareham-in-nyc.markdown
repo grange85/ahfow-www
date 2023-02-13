@@ -16,7 +16,6 @@ categories:
 - dean wareham
 - video
 - pictures
-tags: []
 ---
 <p>Dean Warheam played a show in Brooklyn on Friday, with Britta (obv) and Sean Eden (as a special guest), as well as Jason Quever of Papercuts. A few bits and pieces have popped up online:<br />
 <a href="http://www.flickr.com/photos/97019847@N00/11128980054" title="IMG_7151 by Clay, on Flickr"><img src="https://farm3.staticflickr.com/2813/11128980054_5489f3165b_z.jpg" width="640" height="480" alt="IMG_7151"></a></p>

@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2014-07-27'
 categories:
 - dean wareham
-tags: []
 ---
 <p><a href="https://www.flickr.com/photos/grange85/14772349103" title="Dean Wareham at Indietracks 2014 by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://farm6.staticflickr.com/5575/14772349103_91e0ceaf72_z.jpg" width="640" height="429" alt="Dean Wareham at Indietracks 2014"></a></p>
 <p>We loaded the car and headed off for day two of Indietracks, this time heading to the main entrance of the site so that we could deliver Dean's guitar, rug and a box of merchandise. This was duly stashed in a small railway building come bookshop that was to be Dean Wareham HQ for the day, and Hazel and I headed out into the sweltering heat to  mill gently around the loveliest of all festivals.</p>

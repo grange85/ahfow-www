@@ -16,7 +16,6 @@ categories:
  - galaxie 500
  - damon & naomi
  - news
-tags: []
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/14030835179/in/photolist-rKsJZ7-r62cz5-s2L5bz-rKGUiZ-rKGUfn-rZSePN-rZSeKu-s3ahcg-r6mRmD-rKySxE-rHQjXV-rk6seh-q7SXAW-qyRtAX-pqi1f1-pcxWRK-oGk4HU-nUEogW-nnSaAM-nnSaHa-nnRGtn-nnSaVp-nEmske-nG8Pn6-nnRGMi-nCiJzC-nEksAA-nG8PxM-niWSor-nmYjYW-egpvn3-efJyMv-dQekJ1-dPR77r-dPR7a6-dPWH1m-dPR7kR-dPWH4o-dPQFZn-dPWHcd-dPWhUE-aYtga6-aYtfKF-dPR6PM-dPWhHL-dPWi2m-dPR74K-aU2U5H-aU2TY2-aU2TRx/" title="Damon"><img src="https://farm6.staticflickr.com/5072/14030835179_f5c9c17c3b_b.jpg" width="1024" height="1023" alt="Damon"></a>
 <p class="lead">Today is Damon's birthday - he'll be spending it in <a href="/database/damon-and-naomi/shows/2015/2015-09-07-damon-and-naomi-veloso-seoul-south-korea/">Seoul, South Korea ahead of Damon & Naomi's show there tomorrow evening</a>.</p>

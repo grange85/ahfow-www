@@ -12,7 +12,6 @@ date: '2016-04-05'
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1991-04-05/19910405-galaxie-500-bowdoin-college-04.jpg
 categories:
 - galaxie 500
-tags: []
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1991-04-05/19910405-galaxie-500-bowdoin-college-05.jpg" alt="Poster for Galaxie 500's last show" /><figcaption class="caption-text">Poster for Galaxie 500's last show</figcaption></figure>
 <p class="lead">25 years ago today Galaxie 500 played their last show. On <a href="/database/galaxie-500/shows/1991/1991-04-05-galaxie-500-bowdoin-college-brunswick-me-usa/">Friday 5 April 1991 the band played at Bowdoin College in Maine</a>.</p>

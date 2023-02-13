@@ -15,7 +15,6 @@ date: '2008-05-16'
 categories:
 - news
 - after luna
-tags: []
 ---
 <p>Britta is interviewed about music and politics on pinkomag.com</p>
 <blockquote><p><em>Pinko: So what’s up next from Dean & Britta?</em><br />

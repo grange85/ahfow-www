@@ -15,7 +15,6 @@ date: '2002-05-28'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 D&N play The Knitting Factory in NYC on 4th of June (8:30pm all ages) with the wonderful Dump (James McNew of YLT) in support. They will then be heading of to Japan for a few dates in July and will be at the Terrastock festival in Boston in October.damonandnaomi.com also has an interview with Galaxie 500 by James McNew back in 1989.
 

@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2013-12-07'
 categories:
 - dean wareham
-tags: []
 ---
 <p>So on to Friday, managed to not make the mailing list pub meet-up (again) but fairly certain I'd have been on my own if I had! Arrived at the church with my son at 7:30 and took up position behind the seats, same place as <a href="/2013/12/06/dean-wareham-in-london-1/" title="Dean Wareham in London #1">last night</a>, so Britta is, once again obscured in any photos I tool - mind you I'd forgotten my camera so I only took a few pictures with my phone and they all look a bit rubbish!</p>
 <p>Jason Quever of Papercuts opened with a much more relaxed set than the night before, he took longer to tune between songs. The first half of the set was on an acoustic guitar before he was joined (again) by Britta and Anthony and things stepped up a gear.</p>

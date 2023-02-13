@@ -15,7 +15,6 @@ date: '2013-11-04'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p>Dean Wareham's new album Emancipated Hearts is released today in the UK and Europe by fab indie <a href="http://www.soniccathedral.co.uk">Sonic Cathedral</a>, from whom I've pinched most of this blog post!</p>
 <p><img class="aligncenter" src="https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/deanwareham_emancipatedhearts_cover.jpg" /></p>

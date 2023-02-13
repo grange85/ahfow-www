@@ -16,7 +16,6 @@ categories:
 - news
 - fortune
 - damon & naomi
-tags: []
 ---
 <p>Extra dates in Glasgow, on the 15th of May and Cardiff on the 19th, have been added to the one <a href="/2014/04/04/naomi-yangs-silent-film-fortune-to-premiere-in-london/" title="Naomi Yang’s silent film ‘Fortune’ to premiere in London">previously announced in London</a> for Naomi Yang's <a href="/2014/03/31/damon-naomi-announce-fortune-a-new-silent-film-project/">new silent film 'Fortune'</a>.</p>
 <p><a href="http://www.ticketweb.co.uk/event/118465">15th Glasgow - Mono</a><br />

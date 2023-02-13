@@ -15,7 +15,6 @@ date: '2006-11-20'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 There's a short [Dean Wareham interview on Pitchfork](http://web.archive.org/w
 eb/20080706170127/http://www.pitchforkmedia.com/article/news/39777/Dean_Wareha

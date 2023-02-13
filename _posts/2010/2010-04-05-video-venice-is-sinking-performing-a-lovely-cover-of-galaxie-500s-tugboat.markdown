@@ -16,7 +16,6 @@ categories:
 - news
 - galaxie 500
 - video
-tags: []
 ---
 <p>Check out this video of the excellent <a href="http://veniceissinking.tumblr.com/tagged/welcome">Venice is Sinking</a> performing a lovely cover of Galaxie 500's Tugboat. If you love it, and I'm sure you will, you should probably go and <a href="http://veniceissinking.bigcartel.com/product/sand-lines-preorder">pre-order their upcoming album Sand and Lines</a> which has a very beautiful cover of the track recorded live in the <a href="http://www.georgiatheatre.com">Georgia Theatre</a> over four days using only two stereo mics (and without an audience). The album's proceeds go toward restoring the theatre which was devastated by fire shortly after the album was recorded.</p>
 <p><figure class="caption "><figcaption class="caption-text"></figcaption></figure></p>

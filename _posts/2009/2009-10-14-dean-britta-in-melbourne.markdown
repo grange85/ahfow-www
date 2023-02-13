@@ -15,7 +15,6 @@ date: '2009-10-14'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <p>Dean & Britta are currently in Melbourne, Australia to perform 13 Most Beautiful as part of the Melbourne Arts Festival. They're playing three performances at the CUB Malthouse, Merlyn Theatre on Thursday, Friday and Saturday (15th-17 October).</p>
 <p><ins datetime="2009-10-14T21:30:19+00:00">

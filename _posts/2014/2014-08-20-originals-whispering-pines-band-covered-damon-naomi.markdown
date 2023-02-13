@@ -14,7 +14,6 @@ date: '2014-08-20'
 categories:
 - damon & naomi
 - originals
-tags: []
 ---
 <p><a href="https://www.flickr.com/photos/grange85/451474819" title="Trees by Andy Aldridge, on Flickr"><img src="https://farm1.staticflickr.com/203/451474819_04634f1853_z.jpg" width="639" height="640" alt="Trees"></a><br />
 Whispering Pines was written by The Band's Richard Manuel (with Robbie Robertson) and released on their second album (The Band) in 1969:<br />

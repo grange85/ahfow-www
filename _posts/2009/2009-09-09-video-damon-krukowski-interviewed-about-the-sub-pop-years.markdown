@@ -15,7 +15,6 @@ date: '2009-09-09'
 categories:
 - damon & naomi
 - video
-tags: []
 ---
 <p>The Boston Globe has a <a href="http://www.boston.com/ae/music/articles/2009/09/08/damon_krukowski_discusses_the_evolution_of_damon__naomi/">five minute video interview with Damon about the Sub Pop Years</a></p>
 <p><figure class="caption aligncenter"><br />

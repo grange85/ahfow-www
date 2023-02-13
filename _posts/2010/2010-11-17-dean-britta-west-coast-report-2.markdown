@@ -15,7 +15,6 @@ date: '2010-11-17'
 categories:
 - miscellaneous
 - dean & britta
-tags: []
 ---
 <p>More reviews, pictures and videos have turned up about Dean & Britta's recent west coast jaunt - here are a few - feel free to add any more you find to the comments...</p>
 <p><figure class="caption aligncenter"><a href="http://www.flickr.com/photos/mattesque/5183424350/"><img alt="Dean & Britta by mattesque, on Flickr" src="https://farm2.static.flickr.com/1027/5183424350_df97ef6f5f.jpg" title="Dean & Britta by mattesque, on Flickr" width="500" height="333" /></a><figcaption class="caption-text">Dean & Britta by mattesque, on Flickr</figcaption></figure></p>

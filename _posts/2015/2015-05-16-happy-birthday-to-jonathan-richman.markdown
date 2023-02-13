@@ -16,7 +16,6 @@ categories:
 - news
 - video
 - audio
-tags: []
 ---
 <p><a href="https://www.flickr.com/photos/amigomac/4542009280" title="Jonathan Richman en Montevideo by Pablo Ibañez, on Flickr"><img src="https://c1.staticflickr.com/5/4030/4542009280_b24386d35a_z.jpg" width="640" height="416" alt="Jonathan Richman en Montevideo"></a></p>
 <blockquote cite="http://www.salon.com/2012/06/15/dean_wareham_my_jonathan_richman_romance/"><p>His voice sounds like he has a cold. He sings like he’s singing each line for the first time — the phrasing is striking, you feel like you are standing with him as a particular thought occurs.</p>

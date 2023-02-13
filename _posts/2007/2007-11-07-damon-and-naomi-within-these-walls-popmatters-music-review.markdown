@@ -15,7 +15,6 @@ date: '2007-11-07'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 
 Popmatters has an excellent in depth review of Damon & Naomi's Within These Walls...

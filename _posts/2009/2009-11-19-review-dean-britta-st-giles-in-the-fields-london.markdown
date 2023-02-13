@@ -15,7 +15,6 @@ date: '2009-11-19'
 categories:
 - dean & britta
 - editorial
-tags: []
 ---
 <p><a href="http://www.flickr.com/photos/grange85/4116445924/"><img alt="" src="https://farm3.static.flickr.com/2666/4116445924_3743ae7584_m.jpg" title="Britta and Dean" class="alignright" width="240" height="180" /></a>
 <p>Dean & Britta are not Galaxie 500, just like Luna were not Galaxie 500 and sometimes that makes it hard for me to be rational. Nothing is better than Galaxie 500 were and if I try and measure anyone up against that yardstick they're all going to come up a bit short. I just need to stop measuring.</p>

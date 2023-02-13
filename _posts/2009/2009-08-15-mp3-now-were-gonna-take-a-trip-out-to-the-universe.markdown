@@ -15,7 +15,6 @@ date: '2009-08-15'
 categories:
 - galaxie 500
 - audio
-tags: []
 ---
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-06-23/g500_bizarre_germany.jpg" "Galaxie 500 at The Bizarre Festival, 1990" %}
 

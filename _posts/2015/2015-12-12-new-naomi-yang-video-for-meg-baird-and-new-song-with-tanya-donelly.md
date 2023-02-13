@@ -13,7 +13,6 @@ date: '2015-12-12'
 categories:
 - damon & naomi
 - video
-tags: []
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/meg-baird-dont-weigh-down-the-light.jpg" alt="Meg Baird" /><figcaption class="caption-text">Meg Baird</figcaption></figure>
 <p class="lead">Naomi Yang has directed and photographed the official video for the track "Don't Weight Down the Light" by Meg Baird.</p>

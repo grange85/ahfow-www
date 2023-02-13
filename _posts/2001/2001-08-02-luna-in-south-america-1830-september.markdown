@@ -15,7 +15,6 @@ date: '2001-08-02'
 categories:
 - luna
 - news
-tags: []
 ---
 Luna are in the process of planning some dates in South America in September -
 as soon as I have confirmed venues I'll post them here.

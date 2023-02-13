@@ -15,7 +15,6 @@ date: '2002-06-11'
 categories:
 - luna
 - news
-tags: []
 ---
 According to Dean Wareham speaking on yesterday's "Morning Becomes Eclectic" show on KCRW (http://www.kcrw.org) Luna will hopefully be touring Europe in September. The album Romantica received an official European release through Beggars Banquet on Monday.
 

@@ -15,7 +15,6 @@ date: '2006-07-26'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 Damon is [interviewed](https://web.archive.org/web/20060726+/http://www.erasingclouds.com/wk1906damon.html) by
 webzine [Erasing Clouds](https://web.archive.org/web/20060726+/http://www.erasingclouds.com) as part of their

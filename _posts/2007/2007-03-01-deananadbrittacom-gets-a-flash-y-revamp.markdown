@@ -15,7 +15,6 @@ date: '2007-03-01'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 
 The [official Dean & Britta website](http://www.deanandbritta.com) has just been relaunched as a new Flash driven website promoting their new album Back Numbers which was released yesterday.

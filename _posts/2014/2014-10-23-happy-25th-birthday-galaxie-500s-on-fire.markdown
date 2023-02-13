@@ -15,7 +15,6 @@ date: '2014-10-23'
 categories:
 - galaxie 500
 - audio
-tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/on-fire-on-lp-cd-mc.jpg" width="1024" height="354" class /><figcaption class="caption-text"> Galaxie 500 - On FIre, available on LP CD MC</figcaption></figure>
 <p>Today<sup><a href="#note-1">[1]</a></sup> is the 25th anniversary of the release of Galaxie 500's masterpiece 2nd album On Fire.</p>

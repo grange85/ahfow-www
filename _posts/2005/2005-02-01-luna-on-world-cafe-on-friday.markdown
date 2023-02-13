@@ -15,7 +15,6 @@ date: '2005-02-01'
 categories:
 - luna
 - news
-tags: []
 ---
 Luna will appear on World Cafe this friday. This from [http://www.worldcafe.org/comingup.php](https://web.archive.org/web/20050201+/http://www.worldcafe.org/comingup.php)
 

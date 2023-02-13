@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2012-06-06'
 categories:
 - admin
-tags: []
 ---
 <p>OK - this is pretending to be a quirky and relevant post when is, in fact, me <a href="http://www.justgiving.com/hazel-andy-nightrider">soliciting for donations for a charity bike ride Hazel and myself are doing this weekend</a>... but first...</p>
 <p>Here's Dean & Britta enjoying a ride on their bike for Yo Gabba Gabba<br />

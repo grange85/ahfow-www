@@ -16,7 +16,6 @@ categories:
 - luna
 - news
 - other people's blogs
-tags: []
 ---
 <p><img src="https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_2002_a.jpg" width="1197" height="1520" class="aligncenter" /><br />
 Dean has given an <a href="http://www.rollingstone.com/music/features/inside-lunas-surprise-reunion-with-dean-wareham-20141029">interview to Rolling Stone about next years Luna dates</a>, the first the band will have played since they split in 2005:</p>

@@ -15,7 +15,6 @@ date: '2008-05-09'
 categories:
 - dean & britta
 - video
-tags: []
 ---
 <p>Here's a nice video I came across on YouTube of Dean & Britta playing White Horses and Singer Sing at their show at Johnny Brenda's in Philadelphia back in February...</p>
 <p><figure class="caption "><figcaption class="caption-text"></figcaption></figure></p>

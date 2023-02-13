@@ -15,6 +15,5 @@ date: '2003-11-10'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 The Britta Phillips and Dean Wareham album L'Avventura should be available in record shops in the UK in the next week or so. Released on Jetset through Realtime.

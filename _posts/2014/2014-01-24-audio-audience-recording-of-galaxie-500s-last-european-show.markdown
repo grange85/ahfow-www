@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2014-01-24'
 categories:
 - galaxie 500
-tags: []
 ---
 <p><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-1990-copenhagen-setlist-crop.jpg" width="640" height="400" class="aligncenter" /></p>
 <p>Galaxie 500's last show in Europe was in Copenhagen in Denmark in December 1990 and was recorded for Danish radio, that recording was released as the live album "Copenhagen" in 1997. Thomas at "From the basement - Live recordings from the Danish archives" has just shared for the first time a rather splendid audience recording of the whole show on The Traders Den.</p>

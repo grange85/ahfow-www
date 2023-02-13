@@ -15,7 +15,6 @@ date: '2005-12-04'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 Dean & Britta are hoping to back in the studio in January with producer Tony
 Visconti to start recording the follow up to L'Avventura.

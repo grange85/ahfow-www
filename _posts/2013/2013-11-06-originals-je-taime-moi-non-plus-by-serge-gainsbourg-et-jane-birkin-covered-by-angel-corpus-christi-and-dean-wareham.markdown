@@ -14,7 +14,6 @@ date: '2013-11-06'
 categories:
 - dean wareham
 - originals
-tags: []
 ---
 <p>OK, I wasn't entirely sure if this one qualified for the series - it being Dean guesting on Angel Corpus Christi's single - but then I thought, it's my blog and why wouldn't I want to grasp the opportunity to put some top notch French smut on it!?</p>
 <p>Serge originally recorded with <a href="http://en.wikipedia.org/wiki/Brigitte_Bardot#Politics_and_legal_issues">racist nutjob Brigitte Bardot</a> until her husband found out about it<br />

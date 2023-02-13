@@ -15,7 +15,6 @@ date: '2003-12-04'
 categories:
 - luna
 - news
-tags: []
 ---
 Luna's show last summer from New York's South Street Seaport in August last year has turned up on NYC TV channel 74 - there should be reruns on Friday 5 December at 7pm and Saturday 6 December at 9pm
 

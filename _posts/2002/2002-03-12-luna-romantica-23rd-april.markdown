@@ -15,6 +15,5 @@ date: '2002-03-12'
 categories:
 - luna
 - news
-tags: []
 ---
 Luna's new album, Romantica, will be released on April 23rd on Jetset Records (in the US). No news as yet about non-US availability.

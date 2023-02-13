@@ -17,7 +17,6 @@ categories:
 - news
 - video
 - pictures
-tags: []
 ---
 <p>Well, I'm all packed and ready to head off to Portugal in the morning so before I go I'll throw together a quick and dirty round-up of the first part of Luna's reunion tour.</p>
 <h3>17 April 2015: Luna – Gijon Sound Festival, Gijon</h3>

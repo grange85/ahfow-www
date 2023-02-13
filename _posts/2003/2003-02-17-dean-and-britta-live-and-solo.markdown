@@ -15,7 +15,6 @@ date: '2003-02-17'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 Hah! That got you. In a classic journalistic trick of making a news story out of almost nothing Britta confirmed that "Dean & Britta" would likely be playing some live dates as a duo after the release of their side project album L'Avventura in May. The album features some originals as well as covers by Madonna ("I Deserve It" from her last album Music), Opal (the lovely "Hear The Wind Blow") and Buffy Saint-Marie ("Moonshot" previously recorded by Galaxie 500 for a BBC Peel Session in 1990 and as yet unreleased). More details as soon as I have any. There, that wasn't too bad was it?
 

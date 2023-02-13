@@ -15,7 +15,6 @@ date: '2014-06-17'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p><a href="https://www.flickr.com/photos/grange85/14259992320" title="Dean Wareham at The Prince Albert in Brighton by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://farm3.staticflickr.com/2912/14259992320_0ceef953cf_z.jpg" width="640" height="480" alt="Dean Wareham at The Prince Albert in Brighton"></a><br />
 Dean Wareham and his band will be playing live on KCRW Morning Becomes Eclectic at 11:15 PST on Thursday 19th of June. You can <a href="http://www.kcrw.com/music/shows/morning-becomes-eclectic">watch and listen (or just listen I guess) online</a>.</p>

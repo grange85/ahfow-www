@@ -16,7 +16,6 @@ categories:
 - news
 - dean & britta
 - audio
-tags: []
 ---
 <p><figure class="caption alignright"><a href="https://media.fullofwishes.co.uk/ahfow/uploads/2009/09/alr-0021.jpg"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2009/09/alr-0021.jpg" alt="" title="alr-0021" width="227" height="227" class="size-full wp-image-1606" /></a><figcaption class="caption-text">Sing Me to Sleep</figcaption></figure>
 <p>Dean & Britta have provided a remix of the track International Velvet Theme to <a href="http://www.righttracktunes.org/">The Right Track: Tunes to Target Cancer</a> which is "a series of concerts, events, and music download[s ...] to help raise funds for rare and underfunded cancers". The series also includes tracks by Ween, Linda Thompson, Buffalo Tom and The Cowbly Junkes (and more).</p>

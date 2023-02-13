@@ -15,7 +15,6 @@ date: '2014-10-21'
 categories:
 - dean & britta
 - pictures
-tags: []
 ---
 <p>Some photos of last weekend's premiere of Unseen Warhol have been posted on Flickr by <a href="https://www.flickr.com/photos/bluelaemmle/">stupid blue</a><br />
 <figure class="caption aligncenter"><a href="https://www.flickr.com/photos/bluelaemmle/15564512766" title="Exposed: Songs for Unseen Warhol Films by stupid blue, on Flickr"><img src="https://farm6.staticflickr.com/5606/15564512766_f57d909680_z.jpg" width="640" height="512" alt="Exposed: Songs for Unseen Warhol Films"></a><figcaption class="caption-text">Dean & Britta perform while Antoine and Nico eat bananas</figcaption></figure></p>

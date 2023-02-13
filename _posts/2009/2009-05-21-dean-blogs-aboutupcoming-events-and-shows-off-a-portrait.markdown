@@ -17,7 +17,6 @@ categories:
 - dean & britta
 - dean wareham
 - other people's blogs
-tags: []
 ---
 <p><a href="https://web.archive.org/web/20090521+/http://www.deanandbritta.com/blog/?p=325">Dean's latest blog over at deanandbritta.com</a> plugs upcoming shows, book readings and a KCRW live performance. He also talks about Galaxie 500 songs, drummers and shows off a portrait of himself that a young Luna fan('s father) sent in.</p>
 <blockquote><p>We are planning on playing a bunch of Galaxie 500 songs; we did this at the Zipper Factory last year and it was fun and I managed to hit all the high notes. The Galaxie 500 video “Fourth of July” ran on New York Noise last week, followed by amusing comments from some young children. Warning: the video contains violent war imagery in addition to gorilla and clown suits.</p>

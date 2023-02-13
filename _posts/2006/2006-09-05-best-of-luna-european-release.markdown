@@ -15,7 +15,6 @@ date: '2006-09-05'
 categories:
 - luna
 - news
-tags: []
 ---
 [Dean & Britta's website](https://web.archive.org/web/20060905+/http://www.deanandbritta.com) has a news item
 stating that [Beggars Banquet](https://web.archive.org/web/20060905+/http://www.beggars.com) will release the

@@ -15,7 +15,6 @@ date: '2006-01-04'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 Damon & Naomi are amongst a myriad of very cool artists appearing on a new 5
 disc chartity release

@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2015-04-13'
 categories:
 - news
-tags: []
 ---
 <p><img src="https://media.fullofwishes.co.uk/02-luna/pictures/luna-promo-2015-a.jpg" width="2048" height="1364" class="aligncenter"><br></p>
 <p>This evening in Los Angeles Luna will play their first concert in 10 years. The last line up of the band featuring Dean Wareham, Sean Eden, Lee Wall and Britta Phillips are playing a show at The Echo before heading off for a tour of Spain and Portugal.</p>

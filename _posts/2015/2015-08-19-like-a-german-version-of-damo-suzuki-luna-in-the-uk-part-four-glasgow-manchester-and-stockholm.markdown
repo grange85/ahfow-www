@@ -14,7 +14,6 @@ author_email: joakim@fullofwishes.co.uk
 date: '2015-08-19'
 categories:
 - luna
-tags: []
 ---
 <p><em>Chapter four of Joakim's adventure takes them to Glasgow, on to Manchester and home to Sweden. See chapters <a href="/2015/08/13/electronic-snicker-snack-luna-in-the-uk-part-one-brighton/">one</a>, <a href="/2015/08/14/i-once-met-bob-dylan-on-the-streets-of-paris-luna-in-the-uk-part-two-london/">two</a> and <a href="/2015/08/17/a-wilder-affair-luna-in-the-uk-part-three-leeds/">three</a>.</em></p>
 <p><figure class="caption aligncenter"><a data-flickr-embed="true" data-header="false" data-footer="false" data-context="false"  href="https://www.flickr.com/photos/delrobertsonsomerville/19666735744/" title="Luna"><img src="https://farm1.staticflickr.com/326/19666735744_dc1a9fe691_b.jpg" width="1024" height="682" alt="Luna"></a><figcaption class="caption-text">Luna performing at the Glasgow CCA (photo by Derek Robertson - <a href="https://www.flickr.com/photos/delrobertsonsomerville/albums/72157654444070383">see more here</a>).</figcaption></figure></p>

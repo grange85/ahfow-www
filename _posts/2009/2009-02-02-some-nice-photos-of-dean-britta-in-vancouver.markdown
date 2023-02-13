@@ -15,7 +15,6 @@ date: '2009-02-02'
 categories:
 - dean & britta
 - pictures
-tags: []
 ---
 <div class="imagebox-a"><a href="http://www.flickr.com/photos/mattesque/3243305644/" title="Photo Sharing"><img src="https://farm4.static.flickr.com/3265/3243305644_85fc9f4aa2_m.jpg" alt="dean" /></a><br/><strong>dean</strong><br/>originally uploaded by <a href="http://www.flickr.com/people/mattesque/">mattesque</a></div>
 <div>

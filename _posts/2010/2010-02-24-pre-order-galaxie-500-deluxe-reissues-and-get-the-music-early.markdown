@@ -15,7 +15,6 @@ date: '2010-02-24'
 categories:
 - news
 - galaxie 500
-tags: []
 ---
 <p><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2010/02/dominoreissuessleeves.jpg" alt="" title="dominoreissuessleeves" width="180" height="540" class="alignright size-full wp-image-1830" />
 <p>On 22 March <a href="http://dominorecordco.com/artists/galaxie-500/">Domino Records will be re-issuing the three Galaxie 500 studio albums</a> on vinyl (with download voucher) and double CD packages. If you pre-order the albums from Domino by March 7th you will be able to download the tracks on March 8th (two weeks before release).</p>

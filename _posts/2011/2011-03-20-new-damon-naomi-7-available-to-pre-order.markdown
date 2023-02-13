@@ -15,7 +15,6 @@ date: '2011-03-20'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <p><img alt="" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_walking-backwards_f_001.jpg" title="Walking Backwards (single)" class="alignright" width="200" height="200" /></p>
 <p>Damon & Naomi will be releasing a 7" single next month on very cool UK label <a href="http://www.greatpopsupplement.com/">Great Pop Supplement</a>. The single will be Walking Backwards from their forthcoming album False Beats and True Hearts and will be backed by their cover of Scott Walker's The World's Strongest Man that was previously available only on the compilation album of Scott Walker covers that was released to support the release of the <a href="http://www.scottwalkerfilm.com/blog/">30 Century Man documentary film</a>.</p>

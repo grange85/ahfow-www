@@ -16,7 +16,6 @@ categories:
 - luna
 - news
 - audio
-tags: []
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2008/08/steveoneman.jpg" alt="Radio Free Steve poster" /><figcaption class="caption-text">Radio Free Steve poster</figcaption></figure>
 

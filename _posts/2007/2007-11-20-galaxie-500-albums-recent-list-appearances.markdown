@@ -15,7 +15,6 @@ date: '2007-11-20'
 categories:
 - news
 - galaxie 500
-tags: []
 ---
 
 Galaxie 500 albums have recently popped up in a couple of meaningless lists.

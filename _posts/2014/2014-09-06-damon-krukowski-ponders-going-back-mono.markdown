@@ -15,7 +15,6 @@ date: '2014-09-06'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <p>Damon has written a very interesting op-ed piece for Pitchfork on the history of stereo recording and why mono is better (at least in the summer months).</p>
 <p><strong>Pitchfork</strong>: <a href="http://pitchfork.com/features/oped/9492-back-to-mono/">Damon Krukowski - Back to mono</a></p>

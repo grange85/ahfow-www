@@ -17,7 +17,6 @@ categories:
 - dean & britta
 - galaxie 500
 - audio
-tags: []
 ---
 <p>In honour of <a href="/2013/05/01/a-first-look-at-temperatures-rising-lots-of-groovy-new-material/" title="A first look at Temperature’s Rising: Lots of groovy new material!">the book of the same name that I got on Wednesday</a>, and the absolute (probably relative) scorcher we're having in London this week...</p>
 

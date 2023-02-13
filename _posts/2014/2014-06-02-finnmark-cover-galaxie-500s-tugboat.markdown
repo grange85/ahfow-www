@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2014-06-02'
 categories:
 - news
-tags: []
 ---
 The latest band to join the [Tugboat covers club](/articles/2010-a-fleet-of-tugboats/) are Leeds based pop band Finnmark! Who have just released their [splendidly jaunty version of the Galaxie 500 standard](http://cathndadrecords.bandcamp.com/album/tugboat) on Cath 'n' Dad Records on Bandcamp.
 

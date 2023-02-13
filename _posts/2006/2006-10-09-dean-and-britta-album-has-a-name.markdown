@@ -15,7 +15,6 @@ date: '2006-10-09'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 Britta has just posted on the Dean & Britta MySpace blog plugging the upcoming
 Words You Used to Say single and she mentioned in passing that the new album

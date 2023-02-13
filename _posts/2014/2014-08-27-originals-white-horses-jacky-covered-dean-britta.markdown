@@ -14,7 +14,6 @@ date: '2014-08-27'
 categories:
 - dean & britta
 - originals
-tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/white-horses.jpg" width="640" height="437" class /><figcaption class="caption-text"> Radio Times scan lifted from <a href="http://thewhitehorsestvseries1968.wordpress.com">this White Horses site</a></figcaption></figure>
 White Horses was written by Michael Carr and Ben Nisbett for the UK import of <a href="http://en.wikipedia.org/wiki/The_White_Horses">Yugoslavian/German TV show</a> Ferien in Lipizza, it was credited to "Jacky", who is actually <a href="http://en.wikipedia.org/wiki/Jackie_Lee">Jackie Lee</a>. The theme song was so successful that it was apparently dubbed back onto non-English versions of the show.<br />

@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2003-06-04'
 categories:
 - news
-tags: []
 ---
 The Field Day Festival scheduled for this weekend in Calverton, NY has been cancelled. Some of the acts booked to play will be playing instead at The Giants Stadium. I'm currently not sure whether Luna will be among them. More details when I have them.
 

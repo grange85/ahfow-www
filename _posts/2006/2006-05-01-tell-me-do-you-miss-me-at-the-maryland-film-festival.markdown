@@ -15,7 +15,6 @@ date: '2006-05-01'
 categories:
 - luna
 - news
-tags: []
 ---
 The Luna final tour documrntary "Tell Me Do You Miss Me" will be showing at
 the 2006 Maryland Film Festival. The screening will be on Friday 12 May at 6pm

@@ -15,7 +15,6 @@ date: '2008-07-28'
 categories:
 - dean & britta
 - video
-tags: []
 ---
 <p>Here's a nice video of Dean & Britta performing Words You Used to Say at the Men's Vogue event in San Francisco last month...</p>
 <p><figure class="caption "><figcaption class="caption-text"></figcaption></figure></p>

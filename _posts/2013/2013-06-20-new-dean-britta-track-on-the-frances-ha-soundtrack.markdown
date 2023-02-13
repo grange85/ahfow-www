@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2013-06-20'
 categories:
 - news
-tags: []
 ---
 <p><a href="http://www.amazon.com/gp/product/B00CSWAXBO/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00CSWAXBO&linkCode=as2&tag=aheadfullofwi-20"></a><br />
 Dean & Britta, as well as making cameo appearances in the new Noah Baumbach movie <a href="http://en.wikipedia.org/wiki/Frances_Ha">Frances Ha</a>, have also provided a new track, Million Dollar Doll, for the soundtrack album. </p>

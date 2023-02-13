@@ -15,7 +15,6 @@ date: '2008-09-24'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <p>Rough Trade's website has details of Damon & Naomi's in-store appearance on the 13 October including this little tease...</p>
 <blockquote><p>Rough Trade are proud to announce an intimate in-store with ex Galaxie 500 members Damon & Naomi who are putting together an exclusive recording for this special event ,</p></blockquote>

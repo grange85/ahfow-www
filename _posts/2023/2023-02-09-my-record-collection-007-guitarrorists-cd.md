@@ -19,7 +19,7 @@ tags:
 date: 2023-02-09 00:00 +0000
 ---
 Well I know exactly how much I paid for Guitarrorists because it still has a sizeable _SALE £3.99_ sticker on the front. I also know that I bought it from an HMV since the sticker on the back is kind enough to tell me that. Not sure which HMV but suspect it was one of the West End ones since I can't imagine the Ealing Broadway branch having it ... although, I have been surprised in there so wouldn't completely rule it out.
-
+{: .lead }
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/guitarrorists-cd.jpg" "Guitarrorists (CD)" %}
 
 £3.99 is a bargain for ...

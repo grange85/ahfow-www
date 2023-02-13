@@ -14,7 +14,6 @@ date: '2014-09-17'
 categories:
 - damon & naomi
 - originals
-tags: []
 ---
 <p><a href="https://www.flickr.com/photos/floridamemory/3798096297" title="Motion picture scene (1916) by Florida Memory, on Flickr"><img class="aligncenter" src="https://farm3.staticflickr.com/2634/3798096297_fb71f075fe_o.jpg" width="600" height="440" alt="Motion picture scene (1916)"></a><br />
 The World's Strongest Man was written by Scott Walker and released in 1969 on host legendary LP Scott 4.<br />

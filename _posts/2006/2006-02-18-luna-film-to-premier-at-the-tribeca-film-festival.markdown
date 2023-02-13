@@ -15,7 +15,6 @@ date: '2006-02-18'
 categories:
 - luna
 - news
-tags: []
 ---
 The [Luna](https://web.archive.org/web/20060218+/http://www.fuzzywuzzy.com) documentary "Tell Me Do You Miss Me"
 will receive its world premiere as part of the 2006 [Tribeca Film

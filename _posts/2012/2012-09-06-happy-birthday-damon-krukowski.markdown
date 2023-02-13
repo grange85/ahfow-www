@@ -17,7 +17,6 @@ categories:
 - damon & naomi
 - video
 - audio
-tags: []
 ---
 <p>According to a few places on the internet today is Damon's birthday <ins datetime="2012-09-06T13:42:21+00:00">(<a href="https://twitter.com/dada_drummer/status/243704991649521665">confirmed</a>!)</ins>... <del datetime="2012-09-06T13:43:11+00:00">so if it is -</del> have a great day Damon!<br />
 <a href="http://www.flickr.com/photos/grange85/5711251457/" title="Richard Youngs with Damon Krukowski by andyaldridge, on Flickr"><img class="aligncenter" src="https://farm4.staticflickr.com/3188/5711251457_11f2422aa4.jpg" width="500" height="375" alt="Richard Youngs with Damon Krukowski"></a></p>

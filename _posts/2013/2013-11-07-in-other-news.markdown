@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2013-11-07'
 categories:
 - news
-tags: []
 ---
 <p>Away from Dean's new record, and Lou Reed's passing here are a few other bits of news that you may have missed...</p>
 <p>Damon has written another piece for Pitchfork, this time <a href="http://pitchfork.com/thepitch/126-the-roaring-twenties/">discussing the The Roaring Twenties a website that explores the "histrorical soundscape of New York"</a></p>

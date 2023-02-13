@@ -15,7 +15,6 @@ date: '2008-07-10'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <div class="imagebox-a"><a href="http://www.flickr.com/photos/gogirlsmusic/2571517696/" title="Photo Sharing"><img src="https://farm4.static.flickr.com/3148/2571517696_aa74bef2f1_m.jpg" alt="The Zipper Factory Theater in NYC" /></a><br/><strong>The Zipper Factory in NYC</strong><br/>uploaded by <a href="http://www.flickr.com/people/gogirlsmusic/">GoGirlsMusic.com</a></div>
 <p>Dean & Britta have just released some more information about there upcoming shows at The Zipper Factory in NYC</p>

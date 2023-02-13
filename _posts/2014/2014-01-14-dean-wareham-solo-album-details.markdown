@@ -15,7 +15,6 @@ date: '2014-01-14'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-sonic-cathedral75.jpg" width="770" height="777" class /><figcaption class="caption-text"> Dean Wareham (sleeve by Sharon Lock)</figcaption></figure>
 <p><a href="http://web.archive.org/web/20140427083550/http://www.soniccathedral.co.uk/dean-wareham-reveals-new-album-details/">Sonic Cathedral have posted more details regarding Dean Wareham's solo album</a>. The album will be released on 10th of March and will be available to pre-order from the Sonic Cathedral shop imminently as either a CD or translucent yellow vinyl LP.</p>

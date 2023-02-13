@@ -14,7 +14,6 @@ date: '2013-09-25'
 categories:
 - luna
 - originals
-tags: []
 ---
 <p>Blondie - In The Flesh (1976)<br />
 </p>

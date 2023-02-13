@@ -15,7 +15,6 @@ date: '2002-11-03'
 categories:
 - luna
 - news
-tags: []
 ---
 Luna will be playing New Years Eve at Maxwell's in Hoboken, NJ. The Maxwells site says tickets wuill be "$30 (inc. buffet and champagne toast)"
 

@@ -15,7 +15,6 @@ date: '2008-02-28'
 categories:
 - luna
 - audio
-tags: []
 ---
 
 {% ahfowimage "https://farm3.static.flickr.com/2381/2215504848_e37b6d44c7_z.jpg" "Luna, final show, after party (Photo: Franck" %}

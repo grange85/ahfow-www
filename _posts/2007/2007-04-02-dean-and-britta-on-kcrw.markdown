@@ -15,7 +15,6 @@ date: '2007-04-02'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 
 Dean & Britta will be on [KCRW's Morning Becomes Eclectic](http://www.kcrw.com/music/programs/mb) on Friday 6 April

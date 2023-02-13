@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2005-03-01'
 categories:
 - news
-tags: []
 ---
 
 I've been sent a good few photos that are sitting in my inbox waiting to be sorted out - it will happen over the next few days (I hope) - in the meantime there are stacks of (links to) photos on Luna's Last Waltz - go there for now...[http://lunaslastwaltz.blogspot.com](https://web.archive.org/web/20050301+/http://lunaslastwaltz.blogspot.com)

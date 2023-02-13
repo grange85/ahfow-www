@@ -15,7 +15,6 @@ date: '2004-06-22'
 categories:
 - luna
 - news
-tags: []
 ---
 Luna's official mailing list kicked into life to issue a rare bulletin from the band. While the news was mostly stuff we already knew it did confirm that the new album, Rendezvous, WILL be released on 28 September on Jetset Records.
 

@@ -15,7 +15,6 @@ date: '2013-06-12'
 categories:
 - luna
 - velvet underground tour diary
-tags: []
 ---
 #  12th June
 The train trip to Prague. The food car ist kaputt. We buy some horrible Bratwurst and stale chocolate at the Dresden train station. At the Czech border Sean and I are ordered off the train because we don't have visas - "Go to Berlin and get a visa" "But it's Saturday and I'm playing in Prague Sunday night." We spend four hours at the train station and finally negotiate our way into the country. The trip from the border down to Prague is beautiful, as the train winds along next to the Elbe. We stay at a fancy Western-style hotel up on a hill. They have a little bowling alley in the hotel. We eat cabbage soup, pork chop and chicken breasts, and drink BudweiserBudvar. Things are better now.

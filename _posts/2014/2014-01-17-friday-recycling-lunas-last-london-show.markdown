@@ -15,7 +15,6 @@ date: '2014-01-17'
 categories:
 - luna
 - audio
-tags: []
 ---
 <p>Nine years ago this very night Luna played their last show in London</p>
 

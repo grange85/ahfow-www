@@ -16,7 +16,6 @@ categories:
 - miscellaneous
 - damon & naomi
 - galaxie 500
-tags: []
 ---
 <p>Damon & Naomi's website has just published their November update with the following news:</p>
 <p>Recording of the new album is ongoing and recent contributors include Ghost's Masaki Batoh and Bhob Rainey and Greg Kelley of nmperign.</p>

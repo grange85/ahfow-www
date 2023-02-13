@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2006-09-08'
 categories:
 - news
-tags: []
 ---
 Frozen Notes is a "new magazine for the discerning reader" and issue one which
 is available now features no less than seven pages of Luna/Dean Wareham

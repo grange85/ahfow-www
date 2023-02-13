@@ -15,7 +15,6 @@ date: '2007-11-16'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2007/11/margot.jpg" alt='Margot at the Wedding film poster' /></div>
 

@@ -15,7 +15,6 @@ date: '2006-08-11'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 [Sonic Boom](https://web.archive.org/web/20060811+/http://www.sonic-boom.info/news.php) has just updated his website
 and inlcuded this news snippet...

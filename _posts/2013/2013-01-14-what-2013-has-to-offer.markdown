@@ -18,7 +18,6 @@ categories:
 - dean & britta
 - dean wareham
 - galaxie 500
-tags: []
 ---
 <p>OK, to be honest I'm not too sure of what's on the horizon but to break the silence here's a little of what I do know...</p>
 <p>Damon & Naomi are playing a couple of dates at the end of January in Europe with Richard Youngs. Firstly they're at <a href="http://www.cafeoto.co.uk/richard-youngs-damon-and-naomi-seaming.shtm">Cafe Oto in London on 26th of January</a> and then they'll be playing the MO'FO festival in Paris on the 27th.</p>

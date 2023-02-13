@@ -15,7 +15,6 @@ date: '2004-12-15'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 
 I've just added a full tracklisting and credits for Damon & Naomi's The Earth is Blue which will be released on Valentine's day of 2005. It includes amongst a bunch of lovely originals a gorgeous rendition of George Harrison's "While My Guitar Gently Weeps". The album will be released on Damon & Naomi's own 20/20/20 label. [http://www.fullofwishes.info/galaxie/index.php?album_id=197](https://web.archive.org/web/20041215+/http://www.fullofwishes.info/galaxie/index.php?album_id=197)

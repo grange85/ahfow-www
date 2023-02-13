@@ -15,7 +15,6 @@ date: '2013-07-04'
 categories:
 - galaxie 500
 - video
-tags: []
 ---
 <p><iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2405309532/size=medium/bgcol=ffffff/linkcol=0687f5/t=1/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/this-is-our-music">This Is Our Music by Galaxie 500</a></iframe></p>
 <p><img src="https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_4thofjuly_rtt249_006_550.jpg" width="550" height="395" class="aligncenter" /><br />

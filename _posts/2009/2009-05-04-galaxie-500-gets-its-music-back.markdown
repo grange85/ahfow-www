@@ -15,7 +15,6 @@ date: '2009-05-04'
 categories:
 - news
 - galaxie 500
-tags: []
 ---
 <p><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2009/05/galaxiestill1-300x210.jpg" alt="galaxiestill1" title="galaxiestill1" width="300" height="210" class="alignright size-medium wp-image-1220" />
 <p>Damon & Naomi's May update has news that the rights to Galaxie 500's music and videos have reverted to the band...</p>

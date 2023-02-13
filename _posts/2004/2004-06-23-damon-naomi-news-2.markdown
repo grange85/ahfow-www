@@ -15,7 +15,6 @@ date: '2004-06-23'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 Damon & Naomi's official newsletter also burst into life this week with the following information.
 

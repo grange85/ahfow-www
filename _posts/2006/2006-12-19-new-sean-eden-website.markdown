@@ -15,7 +15,6 @@ date: '2006-12-19'
 categories:
 - news
 - after luna
-tags: []
 ---
 I just came across the official [Sean Eden website](https://web.archive.org/web/20061219+/http://seaneden.com). I
 guess it's pretty new (and maybe not even officially launched) but there's a

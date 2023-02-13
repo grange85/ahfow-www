@@ -15,6 +15,5 @@ date: '2008-07-23'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <p><a href="http://www.newburycomics.com/rel/v2_home.php?storenr=103&deptnr=356">The Newbury Comics website</a> has signed copies of the L'Avventura re-release available to pre-order.</p>

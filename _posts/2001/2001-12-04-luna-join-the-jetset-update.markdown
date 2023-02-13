@@ -15,7 +15,6 @@ date: '2001-12-04'
 categories:
 - luna
 - news
-tags: []
 ---
 According to information gleaned from Dave Fridman's web site Luna's next album will be released on NYC based indie label Jetset. [Jetset](https://web.archive.org/web/200112+/http://jetsetrecords.com) have previosuly released product by such luminaries as Arab Strap, Mogwai and The Go Betweens.Magnet Magazine report that "Luna has signed a multi-album deal with Jetset Records and has scheduled a new album for March"
 

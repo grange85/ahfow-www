@@ -15,7 +15,6 @@ date: '2008-02-11'
 categories:
 - dean & britta
 - pictures
-tags: []
 ---
 <div class="imagebox-a"><a href="http://www.flickr.com/photos/chromewaves/2255217462/" title="Photo Sharing"><img src="https://farm3.static.flickr.com/2277/2255217462_4da3c177ee_m.jpg" alt="20080209-deanAndBritta" /></a><br/>originally uploaded by <a href="http://www.flickr.com/people/chromewaves/">chromewaves</a><br />
 <a title="Dean & Britta, by quadb" alt="Dean & Britta, by quadb" alt="Dean & Britta, by quadb" alt="Dean & Britta, by quadb" href="http://www.flickr.com/photos/quadb/2254430864/in/set-72157603882750563/"><img src="https://farm3.static.flickr.com/2412/2254430864_5c60e12c45_m.jpg" width="240" height="181"></a><br/>originally uploaded by <a href="http://www.flickr.com/people/quadb/">quadb</a>

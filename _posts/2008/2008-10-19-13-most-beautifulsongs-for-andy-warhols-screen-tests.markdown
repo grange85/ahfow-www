@@ -16,7 +16,6 @@ categories:
 - news
 - dean & britta
 - 13 most beautiful
-tags: []
 ---
 <div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2008/10/warhol_screentests_image1-300x226.jpg" alt="Jane Holzer brushes her teeth" title="Jane Holzer brushes her teeth" width="300" height="226" class="size-medium wp-image-860" /><br/>Baby Jane Holzer brusher her teeth</div>
 <p>Next Friday sees the premiere of 13 Most Beautiful...Songs for Andy Warhol's Screen Tests as part of the Pittsburgh International Festival of Firsts. The show features 13 of <a href="http://www.warholstars.org/filmch/screen.html">Andy Warhol's famous "screen tests"</a> (chosen from the 200 in the Warhol Museum's archive) including those of  Lou Reed, Edie Sedgewick, Nico and Dennis Hopper and will feature Dean & Britta performing a live accompaniment</p>

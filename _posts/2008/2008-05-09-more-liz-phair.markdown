@@ -15,7 +15,6 @@ date: '2008-05-09'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p>There's a bit of a followup to <a href="/2008/04/05/black-postcards-a-rock-roll-romance-dean-wareham-book-review-new-york-times/">Liz Phair's NY Times review of Black Postcards</a> in an <a href="http://www.rollingstone.com/news/story/20696130/liz_phair_fifteen_years_in_guyville">interview on Rolling Stone's website</a>...</p>
 <blockquote><p><strong>You recently reviewed former Luna and Galaxie 500 frontman Dean Wareham's autobiography for The New York Times. How did that come about?</strong><br />

@@ -15,7 +15,6 @@ date: '2013-06-19'
 categories:
 - luna
 - velvet underground tour diary
-tags: []
 ---
 ## 19th June
 {% ahfowimage "https://media.fullofwishes.co.uk/02-luna/pictures/27739_1364130156664_1633930988_855079_2778093_n.jpg" "Stan, Sterl, Dean & Mo" %}

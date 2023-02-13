@@ -15,7 +15,6 @@ date: '2010-09-09'
 categories:
 - dean & britta
 - audio
-tags: []
 ---
 <div>Dean & Britta appeared on WFUV&#39;s "Words & Music" show earlier int he week talking about 13 Most Beautiful and performing (full band) live versions of some tracks. You can listen to the archived show streamed, on the WFUV public archive (scroll down the page and select Dean & Britta #2) - you&#39;ll need a Windows machine or Flip4Mac to listen.
 - news

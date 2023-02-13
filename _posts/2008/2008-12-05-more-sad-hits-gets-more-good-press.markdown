@@ -15,7 +15,6 @@ date: '2008-12-05'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_moresadhits.jpg" width="200" height="200" alt="More Sad Hits sleeve"/></div>
 <p>Damon & Naomi have posted <a href="http://web.archive.org/web/20091102065104/http://www.damonandnaomi.com:80/reviews/mshreviews.html">a collection of some of the reviews</a> that the reissue of their first album has been getting. More Sad Hits has just been re-released on their own 20|20|20 label and has been garnering rave reviews, quite a few of which are from UK based sites and newspapers.</p>

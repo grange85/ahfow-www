@@ -16,7 +16,6 @@ imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/temprising_bo
 categories:
 - news
 - galaxie 500
-tags: []
 ---
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/temprising_book.jpg" "Temperatures Rising book" %}
 The fantastic Galaxe 500 oral and visual history book Temperature's Rising is getting a long-overdue second pressing and is available to [order now from 20-20-20 for $30](https://www.20-20-20.com/store/galaxie500-book).

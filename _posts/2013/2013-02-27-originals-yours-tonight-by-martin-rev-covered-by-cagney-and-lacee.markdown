@@ -15,7 +15,6 @@ categories:
 - dean wareham
 - originals
 - cagney & lacee
-tags: []
 ---
 <p><a href="http://www.flickr.com/photos/kayaker1204/5429041601/" title="Be Mine by kayaker1204, on Flickr"><img class="aligncenter" src="https://farm6.staticflickr.com/5173/5429041601_4b40a84e41_z.jpg" width="640" height="427" alt="Be Mine"></a><br />
 Cagney and Lacee were Dean Wareham and his then wife Claudia Silver. They released a mini album of covers and a couple of singles in the late 1990s.</p>

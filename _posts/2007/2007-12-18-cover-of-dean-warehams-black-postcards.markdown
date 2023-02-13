@@ -15,7 +15,6 @@ date: '2007-12-18'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <div class="center"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2007/12/410aifzt3sl.jpg" alt='Black Postcards cover' /></div>
 <blockquote><p>"Here is both a personal history and a cultural history. For years, Dean Wareham has made music of beguiling intimacy that draws you into mysteries, dreams and romances. Now he has written a captivating book that does the same."<br />

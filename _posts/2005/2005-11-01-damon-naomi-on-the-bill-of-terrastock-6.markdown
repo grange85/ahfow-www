@@ -15,7 +15,6 @@ date: '2005-11-01'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 The 6th Terrastock festival has just been announced and it's no surprise to
 find Damon & Naomi on the bill.

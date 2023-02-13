@@ -15,7 +15,6 @@ date: '2013-03-13'
 categories:
 - luna
 - originals
-tags: []
 ---
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/pictures/gainsbourg-bardot.jpg" "Serge Gainsbourg et Brigitte Bardot" %}
 

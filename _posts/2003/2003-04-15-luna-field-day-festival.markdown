@@ -15,7 +15,6 @@ date: '2003-04-15'
 categories:
 - luna
 - news
-tags: []
 ---
 Luna have been booked to play the second day of the inaugural Field Day Festival in Calverton, NY. Topping the bill that day are the grand dames of rap The Beastie Boys, as well as Blur and British Garage sensation The Streets. The first day of the festival features Radiohead, Beck and Spiritualized. Should be a worthwhile weekend if you can manage it...
 

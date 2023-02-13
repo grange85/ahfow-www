@@ -15,7 +15,6 @@ date: '2012-11-22'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p>Dean Wareham will be in Spain this weekend promoting the release of Postales Negras, the Spanish translation of Black Postcards. He'll be at FNAC, Calloa, Madrid on Friday evening at 19:30 and at Botiga FNAC El Triangle, in Barcelona on Saturday evening at 19:00.</p>
 <p>He <a href="http://www.facebook.com/DeanWareham">posted on Facebook</a> that he'll be</p>

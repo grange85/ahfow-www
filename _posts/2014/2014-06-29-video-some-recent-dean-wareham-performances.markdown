@@ -15,7 +15,6 @@ date: '2014-06-29'
 categories:
 - dean wareham
 - video
-tags: []
 ---
 <p>Dean Wareham - Ceremony live at The Crocodile in Seattle on 28 June 2014<br />
 

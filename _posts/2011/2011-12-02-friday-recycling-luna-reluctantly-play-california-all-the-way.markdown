@@ -16,7 +16,6 @@ date: '2011-12-02'
 categories:
 - luna
 - audio
-tags: []
 ---
 <p><a href="http://www.flickr.com/photos/dlemieux/4259107574/" title="Untitled by dlemieux, on Flickr"><img class="aligncenter" src="https://farm3.staticflickr.com/2692/4259107574_0e9269151e.jpg" width="500" height="361" alt=""></a><br />
 Luna on World Cafe in October 1997 cave into the DJ's requests to perform that song from the ad... Justin seems accommodating... Dean less so - but somehow gives in anyway</p>

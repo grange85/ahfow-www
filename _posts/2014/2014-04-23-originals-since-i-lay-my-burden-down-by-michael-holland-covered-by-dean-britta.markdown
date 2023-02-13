@@ -14,7 +14,6 @@ date: '2014-04-23'
 categories:
 - dean & britta
 - originals
-tags: []
 ---
 <p><a href="https://www.flickr.com/photos/library_of_congress/2162949251" title="In the park on hot day--"played out"  (LOC) by The Library of Congress, on Flickr"><img class="aligncenter" src="https://farm3.staticflickr.com/2378/2162949251_63abe20b0f_z.jpg?zz=1" width="640" height="469" alt="In the park on hot day--"played out"  (LOC)"></a><br />
 Since I Lay My Burden Down was written by Michael Holland and released on his 2005 album Tomorrow's American Treasures.</p>

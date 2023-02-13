@@ -15,7 +15,6 @@ date: '2013-08-27'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p><figure class="caption alignright"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean_loveiscolderthandeath.jpg" width="333" height="333" alt="Scan of the Love is Colder Than Death sleeve" class /><figcaption class="caption-text"> Love is Colder Than Death sleeve[/caption]Dean Wareham has just released his first solo single since Anesthesia in 1992. "Love is Colder Than Death" is released on Sonic Cathedral records and is available as a clear vinyl 7" single or a digital download. The single is backed with Dean's cover of Cheval Sombre's "She Went Walking In The Rain."</figcaption></figure>
 <ins datetime="2013-09-02T19:10:30+00:00"><strong><a href="http://amazingradio.com/?show=audition">Head on over to the Amazing Radio website to vote for Love is Colder Than Death in the Amazing Radio 'Audition' poll</a></strong></ins></p>

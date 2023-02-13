@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2014-03-24'
 categories:
 - news
-tags: []
 ---
 <p><a href="http://www.flickr.com/photos/meagan_taylor/2233756594/" title="Daft Punk toys by meagan_taylor, on Flickr"><img class="alignright" src="https://farm3.staticflickr.com/2336/2233756594_6fd9fd4e3b_n.jpg" width="320" height="213" alt="Daft Punk toys"></a></p>
 <p>Dean Wareham was sucked into a <a href="https://www.facebook.com/rmoodycom/posts/10151862122562060?stream_ref=10">debate with journalist Rick Moody on Facebook</a> about the validity of French band Daft Punk and the Grammy they received for their album Random Access Memories. </p>

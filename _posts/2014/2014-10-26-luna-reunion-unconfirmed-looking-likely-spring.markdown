@@ -15,7 +15,6 @@ date: '2014-10-26'
 categories:
 - luna
 - news
-tags: []
 ---
 <p><img src="https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_2001_b.jpg" width="1430" height="1144" class="aligncenter" /><br />
 It's looking very likely that Luna will be reforming for some dates around the 10th anniversary of their break-up next year. Prompted on Twitter both Britta and Sean hinted that a Luna reunion was on the cards.</p>

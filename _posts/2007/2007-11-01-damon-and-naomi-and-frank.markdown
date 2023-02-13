@@ -15,7 +15,6 @@ date: '2007-11-01'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 
 Damon & Naomi were interviewed for the public radio show [Weekend America](http://weekendamerica.publicradio.org/programs/2007/10/20/damon_and_naomi_and_.html) in which they discuss the influence that Frank Sinatra had on their recent album.

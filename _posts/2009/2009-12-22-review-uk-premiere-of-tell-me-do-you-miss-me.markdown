@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2009-12-22'
 categories:
 - luna
-tags: []
 ---
 <p><img alt="" src="https://media.fullofwishes.co.uk/02-luna/sleeves/luna_tmdymm.jpg" title="Tell Me Do You Miss Me" class="alignright" width="200" height="200" />
 <p>On Sunday night I trekked out into the wilds of South London to catch the UK premiere of Matthew Buzzell's film document of Luna's farewell tour. The film, Tell Me Do You Miss Me, was first seen in 2006 at the Tribeca Film Festival and was released on DVD shortly after, but had never had a big screen airing in the UK until Sunday night. The viewing was hosted by The Dream Machine and took place in the lovely Victorian pub The Half Moon in Herne Hill.</p>

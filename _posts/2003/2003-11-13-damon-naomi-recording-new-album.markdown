@@ -15,7 +15,6 @@ date: '2003-11-13'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 OK, so this is snagged pretty much verbatim from [http://www.damonandnaomi.com](https://web.archive.org/web/20031113+/http://www.damonandnaomi.com) 
 

@@ -15,7 +15,6 @@ date: '2011-02-17'
 categories:
 - miscellaneous
 - dean & britta
-tags: []
 ---
 A UK tour without including London... that's not only ridiculous but put me in a tricky position... which show would I go to, I eventually picked the easiest of the dates. My dad lives in West Sussex so I thought I'd take a couple of days of work and combine the show with a visit... and I'd have someone to drive me to and from the show meaning I didn't have to skip off early to catch the last train.
 

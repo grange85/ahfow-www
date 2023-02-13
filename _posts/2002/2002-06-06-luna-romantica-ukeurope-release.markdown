@@ -15,7 +15,6 @@ date: '2002-06-06'
 categories:
 - luna
 - news
-tags: []
 ---
 It seems that Romantica will be getting a UK (and I assume European) release through Beggars Banquet - release date is set for Monday 10 June.
 

@@ -15,7 +15,6 @@ date: '2006-04-04'
 categories:
 - luna
 - news
-tags: []
 ---
 I know nothing more about this except the snippet leaked by Britta on the Dean
 & Britta website forums

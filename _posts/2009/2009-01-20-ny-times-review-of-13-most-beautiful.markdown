@@ -16,6 +16,5 @@ categories:
 - news
 - dean & britta
 - 13 most beautiful
-tags: []
 ---
 <p>The <a href="http://www.nytimes.com/2009/01/20/arts/music/20warh.html?_r=1&ref=arts">New York Times has a great review</a> (accompanied by a  <em>fantastic</em> picture) of Dean & Britta's show at the Lincoln Center in New York last weekend. Looks like it was quite a spectacle!</p>

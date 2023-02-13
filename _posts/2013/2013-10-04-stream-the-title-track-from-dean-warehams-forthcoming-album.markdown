@@ -15,7 +15,6 @@ date: '2013-10-04'
 categories:
 - dean wareham
 - audio
-tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/3_DW_120_B108_B_1024.jpg" width="1024" height="997" class /><figcaption class="caption-text"> Photo: <a href="http://www.luzgallardo.com">Luz Gallardo</a></figcaption></figure>
 <p>Entertainment Weekly has a <a href="http://music-mix.ew.com/2013/10/04/dean-wareham-new-album-emancipated-hearts/">stream of Emancipated Hearts, the title track from Dean Wareham's mini album</a> that will be released on the 15th of October in the US, and at the beginning of November in Europe.</p>

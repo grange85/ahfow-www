@@ -15,7 +15,6 @@ date: '2011-02-11'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <p>The new <a href="http://www.damonandnaomi.com/">Damon & Naomi</a> album, False Beats and True Hearts will be released on the duos 20|20|20 label in May. You can listen to a track from the album, Walking Backwards below or download it from <a href="http://www.damonandnaomi.com/">damonandnaomi.com</a>. The album features contributions from Michio Kurihara and Masaki Batoh and all the usual suspects!</p>
 <div class="topspin-widget topspin-widget-bundle-widget">  <figure class="caption "><figcaption class="caption-text"></figcaption></figure></div>

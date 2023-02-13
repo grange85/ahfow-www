@@ -15,7 +15,6 @@ date: '2013-06-03'
 categories:
 - luna
 - velvet underground tour diary
-tags: []
 ---
 ## 3rd June:
 We have our own show at the Borderline in London. I am tired and have had a bit much Guinness. The show is sloppy and the guitars are out of tune but I don't think anyone noticed. After the show we go back to the Columbia Hotel and sit in the bar.

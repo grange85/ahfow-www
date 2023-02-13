@@ -15,7 +15,6 @@ date: '2004-10-18'
 categories:
 - luna
 - news
-tags: []
 ---
 Finally some "substance" added to the site. Buried in this site somewhere you will be able to find setlists and pictures from Luna's recent trek to Japan...Ok - to save you hunting here's where to find the latest additions...Pictures from Borofest: [http://www.fullofwishes.info/galaxie/showpic.php?type=1&id=390](https://web.archive.org/web/20041018+/http://www.fullofwishes.info/galaxie/showpic.php?type=1&id=390)
 

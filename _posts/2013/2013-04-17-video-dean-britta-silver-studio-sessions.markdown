@@ -15,7 +15,6 @@ date: '2013-04-17'
 categories:
 - dean & britta
 - video
-tags: []
 ---
 Beautiful live video session recorded at The Andy Warhol Museum in November 2012.
 

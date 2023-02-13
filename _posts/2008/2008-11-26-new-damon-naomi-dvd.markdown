@@ -15,7 +15,6 @@ date: '2008-11-26'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan-shibuyaonest2008.jpg" width="200" height="200" alt="DVD sleeve"/></div>
 <p>Damon & Naomi are releasing another limited edition DVD of their live show. Recorded over two nights in Tokyo Japan the DVD is available to pre-order on their website and all orders will be shipped on 5 December and should arrive in time for the holidays.</p>

@@ -16,7 +16,6 @@ categories:
 - luna
 - video
 - editorial
-tags: []
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/paulmccartney_ahfow_wonderful_christmas_time.jpg" alt="It only comes... this time of year" /><figcaption class="caption-text">It only comes... this time of year</figcaption></figure>
 

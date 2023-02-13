@@ -15,7 +15,6 @@ date: '2007-07-21'
 categories:
  - dean wareham
  - cagney & lacee
-tags: []
 ---
 
 {% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/cal_borderline_sleeve_04.jpg" "Cagney & Lacee - Borderline" %}

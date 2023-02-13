@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2005-02-28'
 categories:
 - news
-tags: []
 ---
 
 It seems the weather may have made Luna's a last show a buyers market - if you're wanting tickets watch the guestbook here - join the mailing list or contact me and I'll pass on the details I have (remembering of course that I'll be off to bed at some point fairly soon).Finally as a last resaort if you're local it will probably be worth going down and seeing what's available...

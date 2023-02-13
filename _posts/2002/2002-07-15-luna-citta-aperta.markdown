@@ -15,7 +15,6 @@ date: '2002-07-15'
 categories:
 - luna
 - news
-tags: []
 ---
 Some of Dean Wareham's lyrics from Romantica will be featured the latest edition (#15) of the art and literary jornal Open City.
 

@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2014-04-06'
 categories:
 - news
-tags: []
 ---
 <figure class="caption aligncenter"><a href="https://www.flickr.com/photos/allsongs/13642939664" title="Dean Wareham 53 by All Songs Considered NPR, on Flickr"><img src="https://farm8.staticflickr.com/7446/13642939664_5d68c1a099_z.jpg" width="640" height="425" alt="Dean Wareham 53"></a><figcaption class="caption-text"><a href="https://flic.kr/p/mMzCDE">Photo by Bob Boilen</a></figcaption></figure>
 

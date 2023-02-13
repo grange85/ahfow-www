@@ -16,7 +16,6 @@ categories:
 - news
 - dean & britta
 - video
-tags: []
 ---
 <p>As mentioned in my previous post the new video for Dean & Britta's You Turned My Head Around hit the web yesterday - it's now <a href="http://www.youtube.com/watch?v=IaPFJGN28bA">turned up on YouTube</a> which means you can watch it without leaving the comfort of A Head Full of Wishes. The video is a sweet gem and features Britta cycling (on a very cool looking bike) around singing and looking gorgeous, and Dean on foot (in some very nice shoes) walking around and looking gorgeous.</p>
 {% ahfowvideo "IaPFJGN28bA" "" %}

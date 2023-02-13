@@ -17,7 +17,6 @@ categories:
 - news
 - damon & naomi
 - fortune
-tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-fortune.jpg" width="1200" height="1200" class /><figcaption class="caption-text"> Fortune by Damon & Naomi</figcaption></figure>
 Damon & Naomi's new album Fortune is now available to buy digitally, or to pre-order on CD or LP for release on the 16 February. You can also buy the album digitally and listen to the whole thing on their bandcamp page.</p>

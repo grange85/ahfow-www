@@ -15,7 +15,6 @@ date: '2007-02-20'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 
 Dean & Britta will be on Boston radio station [WERS](http://www.wers.org/events/?id=182) on Thursday (22nd) at 12PM

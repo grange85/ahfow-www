@@ -14,7 +14,6 @@ date: '2013-10-30'
 categories:
 - damon & naomi
 - originals
-tags: []
 ---
 <p>And his Bobness puts in yet another appearance in this series. <a href="http://en.wikipedia.org/wiki/It%27s_All_Over_Now,_Baby_Blue">It's All Over Now, Baby Blue</a> put in its first appearance on Dylan's fifth album <a href="http://en.wikipedia.org/wiki/Bringing_It_All_Back_Home">Bringing it All Back Home</a> in 1965.<br />
 <em>(Sorry Spotify link)</em><br />

@@ -15,6 +15,5 @@ date: '2002-03-12'
 categories:
 - luna
 - news
-tags: []
 ---
 Luna will be embarking on a tour around North America durting May and June and are hoping to reach Europe perhaps sometime in the Autumn. Keep an eye here (or in your local press!) for dates when they are confirmed.

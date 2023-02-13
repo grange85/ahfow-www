@@ -15,7 +15,6 @@ date: '2009-09-15'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <p><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2009/09/softcorecoversquare-300x300.jpg" alt="Sofr Core by My Robot Friend sleeve" title="Sofr Core by My Robot Friend sleeve" width="300" height="300" class="alignright size-medium wp-image-1591" />
 <p><a href="http://www.deanandbritta.com">Dean & Britta</a>'s record label's next release will be by electronic music performer <a href="http://www.myrobotfriend.com/">My Robot Friend</a>. <a href="http://www.myspace.com/doublefeaturerecords">Double Feature</a> will release his third album "Soft Core" on 13 October.</p>

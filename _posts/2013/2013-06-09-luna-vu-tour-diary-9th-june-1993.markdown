@@ -15,7 +15,6 @@ date: '2013-06-09'
 categories:
 - luna
 - velvet underground tour diary
-tags: []
 ---
 ## 9th June
 Rotterdam, the Ahoy, capacity 10,600. A lot of people at this show, mostly Dutch people I think. Our show goes over very well. It's too hot to sleep in the damn hotel rooms.

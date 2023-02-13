@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2013-02-28'
 categories:
 - news
-tags: []
 ---
 <p>Eight years ago Luna played their last ever show at The Bowery Ballroom in New York City, I don't do this every year (in fact i think it <a href="/2008/02/28/three-years-ago-today/">might be five years since I commemorated the end of Luna on this site</a>) so here's a little reminder of how Luna finished:<br />
 <figure class="caption aligncenter"><a href="http://www.flickr.com/photos/birzer/430517160/"><img src="https://farm1.staticflickr.com/178/430517160_33574a2fc3_z.jpg" width="500" height="333" class /></a><figcaption class="caption-text"> Dean with the Kiwi finger point (photo: Brian Birzer)</figcaption></figure><br />

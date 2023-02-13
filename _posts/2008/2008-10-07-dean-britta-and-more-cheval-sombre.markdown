@@ -15,7 +15,6 @@ date: '2008-10-07'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2008/10/0172.jpg" alt="" title="0172" width="216" height="216" class="alignnone size-full wp-image-848" /></div>
 <p>Dean & Britta and Sonic Boom will appear on yet another <a href="http://www.myspace.com/chevalsombre">Cheval Sombre</a> 7" single. I Found it Not So will be released on the UK label Static Caravan in November and is available to pre-order direct from the label now. The order button says its sold out but the <a href="http://www.staticcaravan.org/">home page</a> has the Paypal pre-order details.</p>

@@ -15,7 +15,6 @@ date: '2013-06-10'
 categories:
 - luna
 - velvet underground tour diary
-tags: []
 ---
 ## 10th June
 We travel to Hamburg via train. I am chilling out listening to Mazzy Star and drinking Chokomel. Chokomel all around. Sean doesn't look too good today. That night we walk the infamous Herbertstrasse, then go to the Docks to see Alex Chilton but he has played already. Instead we see the Country Rockers from Memphis, TN. The drummer is about 65 years old and looks like he's about to fall off his drum throne. He plays real slow.

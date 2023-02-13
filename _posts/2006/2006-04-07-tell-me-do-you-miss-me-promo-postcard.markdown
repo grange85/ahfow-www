@@ -15,7 +15,6 @@ date: '2006-04-07'
 categories:
 - luna
 - news
-tags: []
 ---
 ![promo postcard](https://media.fullofwishes.co.uk/02-luna/photos/LUNA_TMDYMM_
 postcard_s.jpg)  

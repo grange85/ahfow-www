@@ -15,7 +15,6 @@ date: '2006-02-19'
 categories:
 - news
 - galaxie 500
-tags: []
 ---
 Hot on the heels of Damon & Naomi's [MySpace
 appearance](https://web.archive.org/web/20060219+/http://www.grange85.co.uk/galaxie/index.php?news=yes&id=244)

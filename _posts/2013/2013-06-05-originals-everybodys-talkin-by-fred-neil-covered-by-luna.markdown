@@ -14,7 +14,6 @@ date: '2013-06-05'
 categories:
 - luna
 - originals
-tags: []
 ---
 <p><a href="http://en.wikipedia.org/wiki/Fred_Neil">Fred Neil</a> released his original of <a href="http://en.wikipedia.org/wiki/Everybody%27s_Talkin%27">Everybody's Talkin'</a> on his <a href="http://en.wikipedia.org/wiki/Fred_Neil_%28album%29">second (eponymous) album</a> in 1966.<br />
 </p>

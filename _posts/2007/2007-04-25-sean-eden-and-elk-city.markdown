@@ -15,7 +15,6 @@ date: '2007-04-25'
 categories:
 - news
 - after luna
-tags: []
 ---
 
 Former Luna guitarist [Sean Eden](http://www.seaneden.com)'s solo project (probably not called) The Weeds of Eden are most likely on temporary hiatus while he fills his time being a member of [Elk City](http://www.elkcity.net/) who have just released a new album New Believers which has been well received. You can listen to a few tracks over at [their MySpace page](http://www.myspace.com/elkcity) and check out the video for [Cherries in The Snow on YouTube](http://www.youtube.com/watch?v=TZ6B3TAVQE0).

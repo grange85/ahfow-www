@@ -15,7 +15,6 @@ date: '2011-06-29'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <p>Damon & Naomi have made <a href="http://damonandnaomi.bandcamp.com/">four of their studio albums and the Sub Pop Years compilation available on Bandcamp</a>. You can stream the full albums for free and download them (in almost any format you could dream of) for a very reasonable $8.88 (apparently "those 8's are good luck in China").</p>
 <p style="text-align: center;">Stream or buy <a href="http://damonandnaomi.bandcamp.com/album/more-sad-hits">Damon & Naomi - More Sad Hits</a> on Bandcamp</p>

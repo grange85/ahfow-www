@@ -15,7 +15,6 @@ date: '2006-06-08'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 The always very excellent
 [Chromewaves](https://web.archive.org/web/20060608+/http://www.chromewaves.net/index.php?itemid=2237) reports that

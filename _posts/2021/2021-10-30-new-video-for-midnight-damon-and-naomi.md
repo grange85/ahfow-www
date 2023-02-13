@@ -17,7 +17,6 @@ categories:
  - video
 tags:
  - a sky record 
- - 
 ---
 
 {% ahfowimage "https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-and-naomi-midnight-04.jpg" "Dean Wareham and Cheval Sombre poster" %}

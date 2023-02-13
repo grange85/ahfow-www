@@ -15,7 +15,6 @@ date: '1999-04-16'
 categories:
 - luna
 - news
-tags: []
 ---
 Luna have been dropped by their US label Elektra on the eve of the release of their 5th album - in an interview with UK newspaper The Independent Dean Wareham said 
 

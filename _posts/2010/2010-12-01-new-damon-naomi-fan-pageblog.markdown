@@ -15,7 +15,6 @@ date: '2010-12-01'
 categories:
 - damon & naomi
 - other people's blogs
-tags: []
 ---
 <p>Still in it's very early days <a href="http://damonandnaomi2011.blogspot.com">The Wondrous World of Damon & Naomi</a> is aiming to provide a place that "people can turn to, for updates about what's going on with the band" </p>
 <p>I'll forgive this sentence...</p>

@@ -14,7 +14,6 @@ date: '2014-07-23'
 categories:
 - galaxie 500
 - originals
-tags: []
 ---
 <p><a href="https://www.flickr.com/photos/swilkes/582180438" title="Victory Gardens! by Sarah, on Flickr"><img src="https://farm2.staticflickr.com/1425/582180438_6c5a44c380_z.jpg?zz=1" width="628" height="640" alt="Victory Gardens!"></a><br />
 Just a quickie to-day as I've posted a couple of times about Victory Garden before:<br />

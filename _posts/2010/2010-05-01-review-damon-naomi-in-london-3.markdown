@@ -15,7 +15,6 @@ date: '2010-05-01'
 categories:
 - damon & naomi
 - editorial
-tags: []
 ---
 <div>OK, "review" might be a bit grand for what is about to follow... it&#39;s late and I&#39;m exhausted so just a quickie...
 <p />Another very lovely Damon & Naomi gig. Amor de Dias (Alasdiar Clientele and Lupe Pipas) opened with a sweet set. Damon & Naomi opened with Blue Moon in honour of Alex Chilton and played through an hour long set of old, new and very old. The "new" were a couple of songs being readied for the next album. the "old" was a selection of Damon & Naomi gems, and "very old" was a stunningly beautiful cover of Blue Thunder that saw them joined by Alasdair MacLean and James Hornsey of The Clientele on guitar and bass - stunning.

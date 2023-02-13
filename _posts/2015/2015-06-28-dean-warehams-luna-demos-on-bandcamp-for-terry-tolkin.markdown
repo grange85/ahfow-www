@@ -16,7 +16,6 @@ categories:
 - luna
 - news
 - dean wareham
-tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://f1.bcbits.com/img/a2686458761_10.jpg" width="1200" height="1200" alt="Dean Wareham: Luna Demos 1991" class /><figcaption class="caption-text"> Dean Wareham: Luna Demos 1991</figcaption></figure>
 Dean Wareham has just <a href="https://luna.bandcamp.com/album/luna-demos-1991">released the recordings he made</a> after leaving Galaxie 500 and before he formed Luna. All proceeds from the release are to help pay for the medical bills of Terry Tolkin:</p>

@@ -15,7 +15,6 @@ date: '2014-05-29'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 A few more details are emerging about the event that popped up here a few weeks back...
 

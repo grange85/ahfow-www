@@ -16,7 +16,6 @@ categories:
 - luna
 - video
 - audio
-tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2004-11-12/20041112_abbey_03.jpg" width="640" height="480" alt="Sean Eden of Luna" class /><figcaption class="caption-text"> Sean Eden of Luna</figcaption></figure>
 Photo: <a href="http://www.chromewaves.net/concertPhotos.php?concert=luna2">Frank Yang</a>[/caption]</p>

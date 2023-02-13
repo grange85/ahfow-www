@@ -15,7 +15,6 @@ date: '2013-08-01'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p>Not sure I'm supposed to be stressing that today Dean reaches the big five oh - but here goes.<br />
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/dean_wareham_tiom.jpg" width="612" height="612" class /><figcaption class="caption-text"> Photo: Norman Gholson Von Holtzendorff 1990</figcaption></figure>

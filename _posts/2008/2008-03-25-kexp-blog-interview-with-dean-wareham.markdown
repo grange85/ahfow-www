@@ -15,7 +15,6 @@ date: '2008-03-25'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p>There's a short interview with Dean Wareham on <a href="http://depts.washington.edu/kexp/blog/?p=5323">KEXP Blog</a> talking about Black Postcards and Tell Me Do You Miss Me...</p>
 <blockquote><p><strong>Is it much different reading the book reviews than it is reading what people have to say about your music?</strong><br />

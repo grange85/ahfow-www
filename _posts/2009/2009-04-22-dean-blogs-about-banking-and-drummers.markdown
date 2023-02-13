@@ -16,7 +16,6 @@ categories:
 - news
 - dean & britta
 - other people's blogs
-tags: []
 ---
 <div class="imagebox-a"><a title="Dean & Britta, by kyledeanreinford" alt="Dean & Britta, by kyledeanreinford" href="http://www.flickr.com/photos/kyledeanreinford/1595667455/in/pool-aheadfullofwishes"><img src="https://farm3.static.flickr.com/2227/1595667455_9b4eff0089_m.jpg" width="240" height="160"></a><br/>Anthony - photo by <a href="http://www.flickr.com/photos/kyledeanreinford/">Kyle Dean Reinford</a></div>
 <p>Over at deanandbritta.com <a href="https://web.archive.org/web/20090422+/http://www.deanandbritta.com/blog/?p=306">Dean has just posted to the blog</a> hinting (but not telling) at which bank to hang out at if you want to meet celebrities...</p>

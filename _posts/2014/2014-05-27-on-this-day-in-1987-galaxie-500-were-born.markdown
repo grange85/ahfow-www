@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2014-05-27'
 categories:
 - galaxie 500
-tags: []
 ---
 <p><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-cassette-typesetting.jpg" width="1024" height="594" class="aligncenter" /></p>
 <blockquote><p>It was after college, when I was in my first year of architecture school, and miserable, that Damon and Dean started talking about reforming a band. I thought that sounded like fun and volunteered to play bass<br />

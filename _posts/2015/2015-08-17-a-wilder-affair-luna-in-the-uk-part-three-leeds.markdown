@@ -13,7 +13,6 @@ author_email: joakim@fullofwishes.co.uk
 date: '2015-08-17'
 categories:
 - luna
-tags: []
 ---
 <p><em>The third chapter of Joakim's journey around the UK arrives in Leeds. Read <a href="/2015/08/13/electronic-snicker-snack-luna-in-the-uk-part-one-brighton/">part one</a> and <a href="/2015/08/14/i-once-met-bob-dylan-on-the-streets-of-paris-luna-in-the-uk-part-two-london/">part two</a>.</em></p>
 <p><figure class="caption aligncenter"><a data-flickr-embed="true" data-header="false" data-footer="false" data-context="false"  href="https://www.flickr.com/photos/grange85/20052803899/in/album-72157656706994745/" title="Luna"><img src="https://farm1.staticflickr.com/443/20052803899_bf9243ea34_b.jpg" width="1024" height="768" alt="Luna"></a><figcaption class="caption-text">Tuning up</figcaption></figure>

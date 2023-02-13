@@ -15,7 +15,6 @@ date: '2013-02-11'
 categories:
 - galaxie 500
 - audio
-tags: []
 ---
 <p>I was lucky enough to see the rather fab <a href="http://www.youngmarblegiants.com/">Young Marble Giants</a> playing one of their all too rare gigs in London last night (a <a href="http://www.flickr.com/photos/grange85/sets/72157632738807005/with/8461922303/">few crappy pictures here</a> but none worth embedding on this page) - half way through a set of familiar gems was the one gem that was more familiar than any of the others...</p>
 <p>Here's Dean singing it as released on <a href="http://galaxie500.bandcamp.com/album/uncollected">Uncollected</a><br />

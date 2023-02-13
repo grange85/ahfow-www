@@ -17,7 +17,6 @@ categories:
 - dean & britta
 - other people's blogs
 - 13 most beautiful
-tags: []
 ---
 <div class="imagebox-a"><a title="Dean & Britta with Warhol films, by robertloerzel" alt="Dean & Britta with Warhol films, by robertloerzel" href="http://www.flickr.com/photos/robertloerzel/3336655337/in/set-72157614915339471/"><img src="https://farm2.static.flickr.com/1326/3336655337_669a280c2d_m.jpg" width="240" height="183"></a><br/><a href="http://www.flickr.com/photos/robertloerzel/">Photo by Robert Loerzel</a></div>
 <p><a href="http://www.undergroundbee.com/">Robert Loerzel</a> has a good review of one of Dean & Britta's recent Chicago performances of 13 Most Beautiful in <a href="http://www.huffingtonpost.com/robert-loerzel/rocking-to-warhol-films_b_173313.html">The Huffington Post</a>...</p>

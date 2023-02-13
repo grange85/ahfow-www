@@ -15,7 +15,6 @@ date: '2008-11-11'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 You may remember [a couple of months back](/2008/09/17/as-if-you-needed-another-reason/) that excellent blog [The Sound of Indie](http://www.thesoundofindie.com/?p=700) decided to hold a recording of Dean & Britta's Galaxie 500 show at the Zipper Factory hostage to prevent Howard Wolfson, pundit for the vile media outlet Fox News, getting his paws on it. The recording would be kept locked up until the outcome of the election proved that despite Fox News' finest efforts, the US voters were ready to embrace change.
 

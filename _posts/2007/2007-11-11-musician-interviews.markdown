@@ -15,7 +15,6 @@ date: '2007-11-11'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 
 Dan Stafford has done a series of hand written (and hand responded) interviews with various artists including one with Dean & Britta

@@ -19,7 +19,7 @@ tags:
 date: 2023-04-17 00:00 +0000
 ---
 Succour was a double CD released to raise funds for the brilliant but beleaguered Ptolemaic Terrascope magazine... if [Monsters, Robots, and Bugmen]() was a "user's guide to the rock hinterland" then Succour was right out rock's _back of beyond_. It's in my collection, again, because of the appearance of Magic Hour who wrap up things at the end of disc 2.
-
+{: .lead }
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/succour-the-terrascope-benefit-album-cd.jpg" "Succour - The Terrascope Benefit Album" %}
 
 Can't be certain but I assume that I bought this direct from Ptolemaic Terrascope back in 1996 - maybe at the same time I bought my Johnny-come-lately first subscription - up until then I only had an odd copy or two since my tastes were more of the mainstream and I would have only really encountered PT through my long-established and still ongoing love of Hawkwind.

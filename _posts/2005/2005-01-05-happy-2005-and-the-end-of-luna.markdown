@@ -15,7 +15,6 @@ date: '2005-01-05'
 categories:
 - luna
 - news
-tags: []
 ---
 Happy New Year to all visitors.
 

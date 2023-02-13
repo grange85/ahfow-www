@@ -16,7 +16,6 @@ categories:
 - news
 - dean & britta
 - 13 most beautiful
-tags: []
 ---
 <div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2008/10/item_36_cover_medium.jpg" alt="item_36_cover_medium" title="item_36_cover_medium" width="200" height="282" class="alignnone size-full wp-image-894" /></div>
 <p><a href="https://web.archive.org/web/20090314+/http://www.adequacy.net/2009/03/flipsides-otherwise-fao-16/">Delusions of Adequacy</a> has the first review of the 13 Most Beaautiful DVD that I've come across - reassuring to know that, despite the delays Amazon keep notifying me of, that the DVD does exist! The review serves to whet my appetite even more...</p>

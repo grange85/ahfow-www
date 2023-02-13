@@ -16,7 +16,6 @@ categories:
 - news
 - damon & naomi
 - fortune
-tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-and-naomi-fortune-still.jpg" width="640" height="360" class /><figcaption class="caption-text"> Still from Naomi Yang's 'Fortune' with Anabel Vázquez Rodríguez</figcaption></figure>
 Over on <a href="https://www.facebook.com/photo.php?fbid=747227561976102&set=a.152457488119782.31540.105076796191185&type=1&theater">facebook this afternoon Damon & Naomi announced details of "Fortune"</a> a short silent film directed by Naomi Yang. The film features Norman von Holtzendorff and Anabel Vázquez Rodríguez and will be presented with a live soundtrack of eleven new songs performed by the duo.</p>

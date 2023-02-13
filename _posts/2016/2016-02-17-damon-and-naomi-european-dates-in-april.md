@@ -13,7 +13,6 @@ imageurl:
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/14030836219/in/photolist-nnRGMi-niWSor-nmYjYW-egpvn3-dQekJ1-dPR77r-dPR7a6-dPWH1m-dPWH4o-dPR7kR-dPQFZn-dPWhUE-aYtfKF-aYtga6-aU2U5H-aU2TY2-aU2TJV-9GFEp6-9GqTu5-92XNmc-5SKhQz-aU2TRx-9LjNR6-9LjPqH-9GJwH7-9GFEdk-9GJwMY-9GFEik-9GFEaK-9GnZdT-9GnZar-9GnZiM-9yPo2G-92XNug-931V7j-931V37-931UUJ-82imf8-7YkaUJ-7XNeqw-7XNfrA-7XJYaB-7XNdms-7XJW5a-7XJVvx-7Ah21G-7AdeTr-6VxXup-6VBZK7-6VxWL8" title="Damon & Naomi at Café Oto"><img class="aligncenter" src="https://farm3.staticflickr.com/2903/14030836219_82d2b8ba33_b.jpg" width="1024" height="685" alt="Damon & Naomi at Café Oto"></a>
 <p class="lead">Damon & Naomi are heading to Europe in April to play dates in the UK and Germany.</p>

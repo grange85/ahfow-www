@@ -13,7 +13,6 @@ imageurl:
 categories:
 - news
 - luna
-tags: []
 ---
 <figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/20166777846/in/photolist-wtLQiy-wKEHPu-wKEHrW-wJ51sj-wtLHES-wKEGX9-vPnmBQ-wtU8XM-vPvTVp-wtLHwf-wJ528C-wtLHko-wJ51K3-wJ51N9-wLozAe-wLTBwg-wtLGQA-wtU8Ci-wtU8FK-wLozqK/" title="Luna"><img src="https://farm1.staticflickr.com/308/20166777846_cba25a15b8_b.jpg" width="1024" height="768" alt="Luna"></a><figcaption>Luna at the Garage, Highbury and Islington in 2015</figcaption></figure>
 <p class="lead">The Luna reunion arrives back in London in October.</p>

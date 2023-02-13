@@ -16,7 +16,6 @@ categories:
 - dean & britta
 - dean wareham
 - other people's blogs
-tags: []
 ---
 <p>Dean & Britta arrived on this side of the pond with just drummer Jason Lawrence meaning that they'd be performing the songs of Galaxie 500 in the format of Galaxie 500 - as a three piece. The first show was at The Workman's Club in Dublin on Friday night...</p>
 <ul>

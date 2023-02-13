@@ -15,7 +15,6 @@ date: '2015-11-01'
 categories:
 - news
 - luna
-tags: []
 ---
 <p class="lead">Luna have a couple of media appearances while the US tour is wrapping up...</p>
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/2015-11-02-luna-carson-daly-tv.jpg" alt="Luna on Carson Daly" /><figcaption class="caption-text">Luna on Carson Daly</figcaption></figure>

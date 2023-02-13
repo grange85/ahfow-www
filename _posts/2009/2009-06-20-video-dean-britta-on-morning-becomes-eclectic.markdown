@@ -15,7 +15,6 @@ date: '2009-06-20'
 categories:
 - dean & britta
 - video
-tags: []
 ---
 <p>Here's the video of Dean & Britta's appearance on KCRW's Morning Becomes Eclectic last Thursday...</p>
 <p><figure class="caption "><figcaption class="caption-text"></figcaption></figure></p>

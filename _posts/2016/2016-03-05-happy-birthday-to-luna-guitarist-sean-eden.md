@@ -13,7 +13,6 @@ imageurl:
 categories:
 - news
 - luna
-tags: []
 ---
 <figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/bsides/17044101060/in/album-72157652118615975/" title="Sean Eden from Luna"><img src="https://farm8.staticflickr.com/7632/17044101060_2382eefd76_b.jpg" width="1024" height="678" alt="Sean Eden from Luna"></a><figcaption>Sean Eden in Madrid (Photo: <a href="https://www.flickr.com/photos/bsides/17044101060/in/album-72157652118615975/">bSides on Flickr</a>)</figcaption></figure>
 <p class="lead">Happy birthday to Luna's guitarist and <a href="https://twitter.com/seanedenquotes">philosopher</a> Sean Eden!</p>

@@ -15,7 +15,6 @@ date: '2005-09-08'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 Dean is currently in North Carolina producing an album for Jule Brown which is
 Mark Holland of Jennyanykind's side project.

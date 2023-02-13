@@ -15,7 +15,6 @@ date: '2005-01-25'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 [http://www.damonandnaomi.com](https://web.archive.org/web/20050125+/http://www.damonandnaomi.com) has been updated to include a merchandise section where you can order records and CDs as well as other Damon & Naomi bits and bobs (T-shirts, badges, books).If you pre-order the (tremendous) new album "The Earth is Blue", which is due for release on the 14 February, you will get a free live CD (while stocks last). Tha album is available on CD and LP.
 

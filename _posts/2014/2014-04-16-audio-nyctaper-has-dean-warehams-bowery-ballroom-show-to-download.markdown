@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2014-04-16'
 categories:
 - news
-tags: []
 ---
 <p><figure class="caption aligncenter"><a href="https://www.flickr.com/photos/42302753@N05/13691867994" title="Dean Wareham at Bowery Ballroom, NYC 4/5/14 by Dean Keim, on Flickr"><img src="https://farm8.staticflickr.com/7440/13691867994_986ef0812b_z.jpg" width="640" height="359" alt="Dean Wareham at Bowery Ballroom, NYC 4/5/14"></a><a href="https://www.flickr.com/photos/42302753@N05/13691867994">Dean Wareham at Bowery Ballroom, NYC 4/5/14 by Dean Keim, on Flickr</a><figcaption class="caption-text"></figcaption></figure></p>
 <p>The always excellent <a href="http://www.nyctaper.com/">nyctaper</a> have just shared Dean Wareham's Bowery Ballroom show from a couple of weeks back. I haven't had a chance to listen as yet but have absolutely no doubt that it's every bit as good as the site claims:</p>

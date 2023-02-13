@@ -16,7 +16,6 @@ categories:
 - news
 - dean wareham
 - other people's blogs
-tags: []
 ---
 <p>Dean has answered ten questions for French pop magazine Magic - you can read the full questionnaire at <a href="https://web.archive.org/web/20080704+/http://www.deanandbritta.com/blog/?p=158">deanandbritta.com</a></p>
 <blockquote><p>E: What was the worst thing you ever did to achieve your goals?</p>

@@ -15,7 +15,6 @@ date: '2008-05-18'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <div class="imagebox-a"><a href="https://media.fullofwishes.co.uk/ahfow/uploads/2008/05/ikersummer08.gif"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2008/05/ikersummer08-195x300.gif" alt="Damon &#038; Naomi 2008 tour poster by Iker Spozio" title="ikersummer08" width="195" height="300" class="alignnone size-medium wp-image-680" /></a></div>
 <p>All of this is merely a scarcely re-versioned news report that was recently posted on Damon & Naomi's web site so you may want to head over there to read it...</p>

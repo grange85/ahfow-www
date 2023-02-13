@@ -15,7 +15,6 @@ date: '2008-07-16'
 categories:
 - dean & britta
 - pictures
-tags: []
 ---
 <div class="imagebox-a"><a href="http://www.flickr.com/photos/28632707@N07/2673619220/" title="Photo Sharing"><img src="https://farm4.static.flickr.com/3212/2673619220_3fc11ba0a0_m.jpg" alt="wxpn july 12 08 313" /></a><br/><strong>wxpn july 12 08 313</strong><br/>originally uploaded by <a href="http://www.flickr.com/people/28632707@N07/">xponential2008</a></div>
 <div>

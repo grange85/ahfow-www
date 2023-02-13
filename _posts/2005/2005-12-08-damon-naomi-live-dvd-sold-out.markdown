@@ -15,7 +15,6 @@ date: '2005-12-08'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 I was just on [Damon & Naomi's website](https://web.archive.org/web/20051208+/http://www.damonandnaomi.com)
 preparing a little news item/plug for their recently released live DVD which

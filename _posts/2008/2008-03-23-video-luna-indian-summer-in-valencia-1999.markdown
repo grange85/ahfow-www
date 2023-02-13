@@ -15,7 +15,6 @@ date: '2008-03-23'
 categories:
 - luna
 - video
-tags: []
 ---
 <p>Here's a cool snip of Luna finishing "Indian Summer" off at the Roxy in Valencia in October 1999. The video is shot from the side of the stage...<br />
 <figure class="caption "><figcaption class="caption-text"></figcaption></figure></p>

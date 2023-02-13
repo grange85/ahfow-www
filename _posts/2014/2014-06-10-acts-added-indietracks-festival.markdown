@@ -15,7 +15,6 @@ date: '2014-06-10'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p><a href="https://www.flickr.com/photos/acb/9399364213" title="Untitled by acb, on Flickr"><img src="https://farm3.staticflickr.com/2884/9399364213_55890ca91a_z.jpg" width="640" height="150" class="aligncenter" alt="Untitled"></a><br />
 The very lovely Indietracks folk have <a href="http://www.indietracks.co.uk/the-chills-and-the-proper-ornaments-join-indietracks-2014/">just announced a bunch more acts</a> for this year's festival at the end of July. Top New Zealand pop act The Chills will be playing on Friday night and lovely French popsters Watoo Watoo have also been added to the bill.</p>

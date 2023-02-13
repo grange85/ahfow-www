@@ -15,7 +15,6 @@ date: '2009-02-13'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <div class="imagebox-a"><a href="http://www.amazon.com/gp/product/0143115480?ie=UTF8&tag=aheadfullofwi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0143115480"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2009/02/41dyhhimxrl_sl160_.jpg" alt="Black postcards (paperback crop)" title="Black postcards (paperback crop)" width="104" height="160" class="size-full wp-image-1046" /></a></div>
 <p>The paperback edition of Black Postcards will be published on the 28 April and is currently <a href="http://www.amazon.com/gp/product/0143115480?ie=UTF8&tag=aheadfullofwi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0143115480">availbale to pre-order from Amazon (US)</a></p>

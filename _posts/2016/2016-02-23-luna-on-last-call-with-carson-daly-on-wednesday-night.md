@@ -13,7 +13,6 @@ imageurl:
 categories:
 - news
 - luna
-tags: []
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/2016-02-24-luna-carson-daly-tv.jpg" alt="Luna on Last Call" /><figcaption class="caption-text">Luna on Last Call</figcaption></figure>
 <p class="lead">This Wednesday night <a href="http://www.nbc.com/last-call-with-carson-daly">Last Call with Carson Daly</a> will be showing some more clips from Luna's show at the Teragram Ballroom in LA in October of last year.</p>

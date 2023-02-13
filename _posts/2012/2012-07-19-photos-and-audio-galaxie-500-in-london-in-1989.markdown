@@ -17,7 +17,6 @@ categories:
 - galaxie 500
 - pictures
 - audio
-tags: []
 ---
 
 __Update:__ _This post suggests that this was Galaxie 500's first London show - [subsequent evidence has come to light](https://www.fullofwishes.co.uk/2019/08/13/galaxie-500s-first-uk-show/) that shows that Galaxie 500 actually played a low-key show in a South London pub a few nights before_

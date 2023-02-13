@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2008-04-05'
 categories:
 - luna
-tags: []
 ---
 <p>This is just a reminder that Kiek is still flooding Dimeadozen with Luna shows - here's a list of the shows he's done so far...</p>
 <ul>

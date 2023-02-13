@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2007-04-15'
 categories:
 - dean & britta
-tags: []
 ---
 
 Video of Dean & Britta performing Galaxie 500's Tugboat at their recent show in Boston

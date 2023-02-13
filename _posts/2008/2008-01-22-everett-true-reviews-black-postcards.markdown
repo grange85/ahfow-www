@@ -15,7 +15,6 @@ date: '2008-01-22'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <div class="imagebox-a"><a href="https://media.fullofwishes.co.uk/ahfow/uploads/2007/12/410aifzt3sl.jpg" title="Black Postcards cover"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2007/12/410aifzt3sl.jpg" alt='Black Postcards cover' /></a></div>
 <p>Everett True has a <a href="http://blogs.villagevoice.com/music/archives/2008/01/hugs_dean_wareham_laurie_lindeen.php">short review of Black Postcards on his Village Voice blogs</a></p>

@@ -15,7 +15,6 @@ date: '2011-09-16'
 categories:
 - galaxie 500
 - audio
-tags: []
 ---
 <p><a href="http://www.flickr.com/photos/celesterc/1969189970/" title="Bajo el jacaranda by Celeste, on Flickr"><img class="aligncenter" src="https://farm3.static.flickr.com/2232/1969189970_3305dea202.jpg" width="500" height="333" alt="Bajo el jacaranda"></a></p>
 <p>I posted this a while back but it's worth a recycle - this is a live version of Galaxie 500's <a href="/database/tracks/flowers/">Flowers</a> that was released on a Melody Maker CD "Gigantic 2" - the song was "recorded in Amsterdam" but that's pretty much all I know about it.</p>

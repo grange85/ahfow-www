@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2014-04-16'
 categories:
 - news
-tags: []
 ---
 <p>Naomi continues her alternative career as a music video director with this lovely clip for Drive by Marissa Nadler</p>
 <p>Marissa Nadler - Drive (Official Video):<br />

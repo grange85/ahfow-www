@@ -15,7 +15,6 @@ date: '2001-05-17'
 categories:
 - luna
 - news
-tags: []
 ---
 Luna have finished the recording of new material for their next album (on an,
 as yet, unknown label). The recording, at Jolly Roger studios in Hoboken was

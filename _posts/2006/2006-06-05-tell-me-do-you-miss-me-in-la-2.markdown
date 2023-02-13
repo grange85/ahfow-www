@@ -15,7 +15,6 @@ date: '2006-06-05'
 categories:
 - luna
 - news
-tags: []
 ---
 Here's some more information about the imminent screening of Matthew Buzzell's
 Luna film in LA

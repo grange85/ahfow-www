@@ -15,7 +15,6 @@ categories:
 - dean wareham
 - originals
 - cagney & lacee
-tags: []
 ---
 <p>Before this solo gem, Minnie Riperton had been in the fantastic Rotary Connection, and before that had been a receptionist at Chess Records. Lovin' You was released in 1975 and became the 400th #1 hit on the Billboard Hot 100. And possibly more important than that there is no song that is more brilliant to sing out loud when no one can hear you (or is that just me?)</p>
 

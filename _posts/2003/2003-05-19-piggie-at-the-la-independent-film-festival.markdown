@@ -15,7 +15,6 @@ date: '2003-05-19'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 Piggie, the film made a while back by Alison Bagnall and starring Dean Wareham is getting it's "World Premier" in June at the Los Angeles Independent Film Festival. More details can be found at the following web sites...
 

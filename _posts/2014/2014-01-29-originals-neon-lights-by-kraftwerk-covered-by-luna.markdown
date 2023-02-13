@@ -14,7 +14,6 @@ date: '2014-01-29'
 categories:
 - luna
 - originals
-tags: []
 ---
 <p><a href="http://www.flickr.com/photos/galt-museum/4188238621/" title="Marquis Coffee Shop by Galt Museum & Archives on The Commons, on Flickr"><img class="aligncenter" src="https://farm3.staticflickr.com/2489/4188238621_74bd9d09ae_z.jpg?zz=1" width="640" height="445" alt="Marquis Coffee Shop"></a></p>
 <p>Neonlicht was from Kraftwerk's seventh album Die Mensch·Maschine in 1978<br />

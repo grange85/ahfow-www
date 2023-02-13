@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2010-04-20'
 categories:
 - admin
-tags: []
 ---
 <div>I&#39;ve resurrected the <a href="http://twitter.com/ahfow">A Head Full of Wishes Twitter feed</a> for people who want all the AHFoW stuff without all the personal stuff that I tweet to <a href="http://twitter.com/grange85">@grange85</a>
 <p /> So...

@@ -13,7 +13,6 @@ author_url: http://www.grange85.co.uk
 date: '2014-06-18'
 categories:
 - news
-tags: []
 ---
 <p><a href="https://www.flickr.com/photos/khiltscher/8826997520" title="Talking Heads - Take Me To The River - D - 1978 by Klaus Hiltscher, on Flickr"><img class="aligncenter" src="https://farm9.staticflickr.com/8403/8826997520_9edc07ccfe_z.jpg" width="630" height="640" alt="Talking Heads - Take Me To The River - D - 1978"></a></p>
 <p>Thank You for Sending Me an Angel first appeared on Talking Heads' second album More Songs About Buildings and Food  in 1978<br />

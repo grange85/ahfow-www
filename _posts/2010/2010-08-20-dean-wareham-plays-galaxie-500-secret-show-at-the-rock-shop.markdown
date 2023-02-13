@@ -15,7 +15,6 @@ date: '2010-08-20'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <div>On Wednesday Dean & Britta played a not all that secret and sold out show at the small new venue in Brooklyn - The Rock Shop - here&#039;s some bits found around the Internet:
 <p />

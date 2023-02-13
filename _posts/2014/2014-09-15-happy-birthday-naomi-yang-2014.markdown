@@ -15,7 +15,6 @@ date: '2014-09-15'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/images/misc/naomi-89-07.jpg" width="550" height="488" class /><figcaption class="caption-text"> Naomi Yang</figcaption></figure>
 <p>Happy birthday to Naomi! Have a lovely day. </p>

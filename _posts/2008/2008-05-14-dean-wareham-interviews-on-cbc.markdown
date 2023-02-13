@@ -15,7 +15,6 @@ date: '2008-05-14'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p>There's an interview with Dean Wareham on the CBC Q podcast. The interview with Dean starts 18'20" in (after a lengthy item on poo).</p>
 <p>Direct link to the mp3 (22MB)</p>

@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2006-04-06'
 categories:
 - news
-tags: []
 ---
 The **very** late Galaxie 500 and Luna tribute album finally sees the light of
 day. The project kicked off at the tail end of 2004 but due to an insane

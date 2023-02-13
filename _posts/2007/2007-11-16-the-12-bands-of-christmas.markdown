@@ -15,7 +15,6 @@ date: '2007-11-16'
 categories:
 - news
 - after luna
-tags: []
 ---
 <div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2007/11/12bands07_cd_release_flyer.thumbnail.gif" alt='12 Bands of Christmas flyer' /></div>
 

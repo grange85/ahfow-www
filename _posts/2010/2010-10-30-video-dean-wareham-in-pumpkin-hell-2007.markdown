@@ -15,7 +15,6 @@ date: '2010-10-30'
 categories:
 - dean wareham
 - video
-tags: []
 ---
 
 So... Hallowe'en comes around again and again it seemed apt to dig out Dean Wareham's performance in Pumpkin Hell. Sadly the film appears to have gone AWOL from the IFC site where it was previously hosted. Luckily I've managed to track down a copy and present it here for your delectation.

@@ -15,7 +15,6 @@ date: '2005-09-17'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 The official Dean & Britta site has had a long overdue revamp. It now looks
 lovely and has some recent news as well as pictures, music and videos.

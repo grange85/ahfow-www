@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2011-03-06'
 categories:
 - dean wareham
-tags: []
 ---
 <p>Over on the excellent <a href="http://www.largeheartedboy.com/">Largehearted Boy</a> blog you can <a href="http://www.largeheartedboy.com/blog/archive/2011/03/dean_wareham_in.html">read an interview with author Lauren Grodstein carried out by Dean Wareham</a>, across an ocean...</p>
 <blockquote><p>DW: You visited us on the road. Were you selling T-shirts for us that night when our dressing room was robbed (quite obviously by the security guards) at that London club?</p>

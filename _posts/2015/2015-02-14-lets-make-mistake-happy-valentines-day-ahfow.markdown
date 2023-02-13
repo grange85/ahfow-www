@@ -17,7 +17,6 @@ categories:
 - news
 - damon & naomi
 - dean & britta
-tags: []
 ---
 <p><a href="https://www.flickr.com/photos/kayaker1204/5429041601" title="Be Mine by Kristy Johnson, on Flickr"><img class="aligncenter" src="https://farm6.staticflickr.com/5173/5429041601_4b40a84e41_z.jpg" width="640" height="427" alt="Be Mine"></a></p>
 

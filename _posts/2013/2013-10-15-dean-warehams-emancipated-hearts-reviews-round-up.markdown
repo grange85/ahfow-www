@@ -15,7 +15,6 @@ date: '2013-10-15'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p>OK - just a thrown together post to gather reviews in one place - if you come across one I haven't included please shout - and feel free to add your own in the comments!<br />
 <a id="more"></a><a id="more-4727"></a></p>

@@ -15,7 +15,6 @@ date: '2009-03-06'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <p>As part of their guest editor sojourn at Magnet Magazine's website Britta has taken the opportunity to <a href="http://www.magnetmagazine.com/2009/03/05/from-the-desk-of-dean-britta-spectrum/">sing the praises of Sonic Boom and Spectrum</a>.</p>
 <blockquote><p>I was totally blown away. So much so that I caught a ride with them to the ATP festival, where they were playing the next night. Spectrum was the best band I saw there. (I heard J Mascis said the same.) Sonic has one of the coolest and most original voices, and his band is primal and truly exciting. It is rare and thrilling to see a friend transform into a rock star.</p></blockquote>

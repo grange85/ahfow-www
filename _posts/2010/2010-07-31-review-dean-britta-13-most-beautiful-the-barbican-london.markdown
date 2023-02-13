@@ -16,7 +16,6 @@ categories:
 - dean & britta
 - editorial
 - 13 most beautiful
-tags: []
 ---
 <div>
 <div style="text-align: center"><a href="http://www.flickr.com/photos/grange85/4845185642/"><img src="https://farm5.static.flickr.com/4154/4845185642_6cd4ce4693.jpg" border="0" height="375" width="500" /></a></div>

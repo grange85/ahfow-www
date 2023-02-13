@@ -15,7 +15,6 @@ date: '2015-11-02'
 categories:
 - video
 - damon & naomi
-tags: []
 ---
 <p class="lead">Just happened across this lovely video of Damon & Naomi playing How Do I Say Goodbye on a huge stage in front of a big and appreciative audience at the Gwangju Sajik Folk Music Festival back in September.</p>
 

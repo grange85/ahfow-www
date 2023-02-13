@@ -15,7 +15,6 @@ date: '2009-04-24'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <div class="imagebox-a"><a href="http://www.amazon.com/gp/product/1933633719?ie=UTF8&tag=aheadfullofwi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1933633719"><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/51b2snDHj0L._SL160_.jpg"></a></div>
 <p>A new book called <a href="http://www.amazon.com/gp/product/1933633719?ie=UTF8&tag=aheadfullofwi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1933633719">Amplified: Fiction from Leading Alt-Country, Indie Rock, Blues and Folk Musicians</a> is, according to its official website, a collection of "sixteen short stories by some of the most important young songwriters working today" and one of those important <em>young</em> songwriters is Damon Krukowski.</p>

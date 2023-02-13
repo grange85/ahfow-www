@@ -12,7 +12,6 @@ date: '2015-12-06'
 categories:
 - audio
 - dean & britta
-tags: []
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/dean-and-britta-promo.jpg" alt="Dean & Britta" /><figcaption class="caption-text">Dean & Britta</figcaption></figure>
 <p class="lead">On Tuesday <a href="https://wfmu.org/playlists/shows/63881">Dean & Britta were on WFMU soundtrack show Morricone Island</a> for a lengthy interview about scoring for movies and other aspects of their career, touching on Mistress America, 13 Most Beautiful and even Jem.</p>

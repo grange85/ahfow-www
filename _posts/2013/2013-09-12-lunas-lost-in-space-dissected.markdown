@@ -16,7 +16,6 @@ categories:
 - dean & britta
 - video
 - other people's blogs
-tags: []
 ---
 <p>Following on from Chris Stroffolino's Piano Van session with Dean & Britta he's <a href="http://chrisstroffolino.blogspot.co.uk/2013/09/the-feuerzeig-video-covers-project-luna.html">wriiten a (long!) blog post</a> opening up the song and having a poke around it's innards...</p>
 <blockquote><p> As with many songs with catchy, sing along choruses, these lines are often the only lines of the song many casual listeners know, or have made it into long-term memory. They sink in, but on repeated listens, they call attention to the verses, especially if you’re looking for insights into unanswered questions about the significance of the chorus’s words.</p>

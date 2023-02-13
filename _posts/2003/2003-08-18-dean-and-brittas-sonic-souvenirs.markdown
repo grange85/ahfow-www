@@ -15,7 +15,6 @@ date: '2003-08-18'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 Jetset are releasing a six track EP of remixes of tracks from Dean & Britta's L'Avventura album. The remixes have been done by former Spacemen 3 member Sonic Boom (aka Pete Kember). The EP is currently available in selected indie stores across the US and will be in the mainstream music stores on October 7th. Still no news of a European release for this or for L'Avventura.
 

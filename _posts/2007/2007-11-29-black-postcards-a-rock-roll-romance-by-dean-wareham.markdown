@@ -15,7 +15,6 @@ date: '2007-11-29'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 
 When Luna were on that final tour one of Dean Wareham's regular answers to the "What will you do next?" question was generally along the lines of [this one from Stylus](http://www.stylusmagazine.com/articles/interview/dean-wareham-of-luna.htm)...

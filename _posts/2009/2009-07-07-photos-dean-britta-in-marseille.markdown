@@ -15,7 +15,6 @@ date: '2009-07-07'
 categories:
 - dean wareham
 - pictures
-tags: []
 ---
 <p>Here's a <a href="http://www.flickr.com/photos/pirlouiiiit/sets/72157620947366895/">lovely set of photos of Dean & Britta's recent performance of "13 Most Beautiful" in Marseille</a>...</p>
 <p><figure class="caption "><figcaption class="caption-text"></figcaption></figure></p>

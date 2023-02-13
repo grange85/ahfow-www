@@ -1,8 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
-draft: false
 sitemap: true
 series-title: 'My record collection'
 title: '#002: Luna - Close Cover Before Striking (CD)'
@@ -20,7 +17,7 @@ tags:
 date: 2023-01-23 00:00 +0000
 ---
 No idea where I bought Luna's Close Cover Before Striking, and for how much but it could have been anywhere. In fact by 2002 it could have been bought online.
-
+{: .lead }
 The CD sleeve was designed to look like a match book and everytime I pick it up I want it to be exactly like a match book - but no, it's just an ordinary digipack CD. It does have a sticker on the sleeve that makes it look a bit more like a matchbook - but the sticker is actually there to hide a printing error - when the sleeves came back from the printers it read "Close Cover Before Before Striking" - [there are some promos, in plain card sleeves, with the mistake](https://www.discogs.com/release/4840455-Luna-Close-Cover-Before-Striking). Although, was it really a mistake or was it a change of mind? I quite like the "Before Before", and seems strange that the _error_ made it through promo and full release QA?
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/close-cover-before-striking-matchbook.jpg" "Close Cover Before Striking" %}

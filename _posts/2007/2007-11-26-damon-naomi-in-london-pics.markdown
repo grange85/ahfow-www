@@ -15,7 +15,6 @@ date: '2007-11-26'
 categories:
 - damon & naomi
 - pictures
-tags: []
 ---
 <div class="imagebox-a">[<img src="https://farm3.static.flickr.com/2121/2063363107_10febc8382_m.jpg" alt="Naomi in blue" />](http://www.flickr.com/photos/grange85/2063363107/)<br/>**Naomi in blue**<br/>originally uploaded by [grange85](http://www.flickr.com/people/grange85/)</div>
 <div>

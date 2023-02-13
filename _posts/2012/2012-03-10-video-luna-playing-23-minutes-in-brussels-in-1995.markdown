@@ -15,7 +15,6 @@ date: '2012-03-10'
 categories:
 - luna
 - video
-tags: []
 ---
 <p>Nice Penthouse-era video of Luna playing 23 Minutes in Brussels at The Knitting Factory in New York City in 1995</p>
 

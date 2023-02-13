@@ -15,7 +15,6 @@ date: '2010-11-10'
 categories:
 - dean & britta
 - video
-tags: []
 ---
 <p>The "Dean Wareham plays Galaxie 500" show hits America's west coast this week starting tonight in San Diego. Check the upcoming shows page for full details.</p>
 <p>Here's a fantastic video of Dean & Britta covering Galaxie 500's Tugboat for KEXP's CMJ show at the Ace Hotel in NYC a couple of weeks back.</p>

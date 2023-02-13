@@ -14,7 +14,6 @@ date: '2013-09-04'
 categories:
 - damon & naomi
 - originals
-tags: []
 ---
 <p>I know, it's a Dylan track - but (apparently) Dylan never released a version of it until 1971 whereas The Band's version of <a href="http://en.wikipedia.org/wiki/I_Shall_Be_Released">I Shall Be Released</a> was on their debut album Music From The Big Pink in 1968.<br />
 

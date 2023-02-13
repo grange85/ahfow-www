@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2012-08-02'
 categories:
 - news
-tags: []
 ---
 <p>Happy birthday to Stanley Demeski formerly of Luna and still of the very wonderful The Feelies</p>
 <p>Here he is in his practice room practicing Luna's Tiger Lily<br />

@@ -15,7 +15,6 @@ date: '2008-07-02'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_lavventura.jpg" width="200" height="200" alt="L'Avventura sleeve scan"/></div>
 <p>Dean Wareham <a href="http://blog.myspace.com/index.cfm?fuseaction=blog.view&friendID=23842982&blogID=410954468">announced on the Dean & Britta MySpace blog</a> that they have acquired the ownership of the first Dean & Britta album L'Avventura and it will be re-issued on the 2 September on the couple's own Double Feature records. The new release will include three bonus tracks that were previously available on the Sonic Souvenirs remix EP. The album has been unavailable since Jetset went under and has been exchanging hands for inflated prices on eBay. The album will also be available through the iTunes store (and hopefully through other digital retailers).</p>

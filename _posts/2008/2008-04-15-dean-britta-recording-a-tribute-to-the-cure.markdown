@@ -15,7 +15,6 @@ date: '2008-04-15'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <div class="imagebox-a"><a title="The Cure, by celesterc" alt="The Cure, by celesterc" alt="The Cure, by celesterc" alt="The Cure, by celesterc" href="http://flickr.com/photos/celesterc/348632211/"><img src="https://farm1.static.flickr.com/148/348632211_48184c5b3c_m.jpg" width="194" height="240"></a></div>
 <p>Dean & Britta are signed up to appear on <a href="http://www.alr-music.com/">American Laundromat Record</a>'s next tribute project. They'll be recording "Friday I'm in Love" this weekend in New Jersey with Nick Kramer of <a href="http://www.myspace.com/nicholasandalexandra">Nicholas and Alexandra</a></p>

@@ -15,7 +15,6 @@ date: '2011-10-31'
 categories:
 - luna
 - news
-tags: []
 ---
 <p>Luna's last two albums Romantica and Rendezvous, as well as the mini-album Close Cover Before Striking have all been reissues in digital form with previously unreleased tracks</p>
 <p>2002 album Romantica comes with the never released track "Mystic Rattlers" and alternate versions of "Lovedust" and "Renée Is Crying."<br />

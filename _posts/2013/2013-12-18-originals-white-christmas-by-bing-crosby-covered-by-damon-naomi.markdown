@@ -14,7 +14,6 @@ date: '2013-12-18'
 categories:
 - damon & naomi
 - originals
-tags: []
 ---
 <p>White Christmas was written by Irving Berlin and got it's first airing, recorded by Bing Crosby on Christmas Day 1941, appeared in a film <a href="http://en.wikipedia.org/wiki/Holiday_Inn_%28film%29">Holiday Inn (1942)</a> and then became so famous it was give <a href="http://en.wikipedia.org/wiki/White_Christmas_(film)">a film all of its own in 1954</a><br />
 {% ahfowvideo "SvfhoWIPoVw" "Bing Crosby - White Christmas" %}</p>

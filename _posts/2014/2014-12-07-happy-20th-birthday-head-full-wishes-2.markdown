@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2014-12-07'
 categories:
 - news
-tags: []
 ---
 <p>Forgive my indulgence as I post another little nostalgia trip to celebrate 20 years of A Head Full of Wishes</p>
 <h3>6: Tell Me Do You Miss Me - the UK premiere</h3>

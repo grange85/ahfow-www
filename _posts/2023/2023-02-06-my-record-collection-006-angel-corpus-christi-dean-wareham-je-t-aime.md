@@ -19,7 +19,7 @@ tags:
 date: 2023-02-06 00:00 +0000
 ---
 Angel Corpus Christi and Dean Wareham cover Serge Gainsbourg and Lou Reed - what could be more perfect?
-
+{: .lead }
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/acc-dw-je-taime-spinning.jpg" "Angel Corpus Christi with Dean Wareham" %}
 
 I did declare in the [introduction to this series]() that I was being selective about what from my AHFoW collection would be included, but deciding what to include and what to leave out was becoming far too difficult - for instance, there was no way I'd be leaving out this absolute gem ... but why include this and not, for example, Dean guesting on Ivy's Apartment Life, or Damon & Naomi's contributions to the Pearls Before Swine Constructive Melancholy compilation. So ... everything is going in. Or at least everything that I know of! So my spreadsheet now has 347 rows and weekly posts would take me well into 2029! So ... I'm trying to post more frequently!

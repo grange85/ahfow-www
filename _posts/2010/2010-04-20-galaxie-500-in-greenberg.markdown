@@ -15,7 +15,6 @@ date: '2010-04-20'
 categories:
 - news
 - galaxie 500
-tags: []
 ---
 <div>So... another <a href="http://en.wikipedia.org/wiki/Noah_Baumbach">Noah Baumbach</a> film and another appearance on A Head Full of Wishes - <a href="http://en.wikipedia.org/wiki/Greenberg_%28film%29">Greenberg</a> features Galaxie 500&#39;s Strange on the soundtrack... it&#39;s not in this trailer, James Murphy did the music so the trailer has features LCD Soundsystem.
 <p /> <figure class="caption "><figcaption class="caption-text"></figcaption></figure>

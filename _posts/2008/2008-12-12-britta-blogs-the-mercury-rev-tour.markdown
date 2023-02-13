@@ -16,7 +16,6 @@ categories:
 - news
 - dean & britta
 - other people's blogs
-tags: []
 ---
 <div class="imagebox-a"><a title="Dean & Britta share a mic, by brilliancy" alt="Dean & Britta share a mic, by brilliancy" href="http://www.flickr.com/photos/brilliancy/3093859365/"><img src="https://farm4.static.flickr.com/3254/3093859365_c67355ec35_m.jpg" width="240" height="135"></a></div>
 <p>Britta has <a href="https://web.archive.org/web/20081212+/http://www.deanandbritta.com/blog/?p=194">written a post on the deanandbritta.com blog</a> about the bands recent tour supporting Mercury Rev.</p>

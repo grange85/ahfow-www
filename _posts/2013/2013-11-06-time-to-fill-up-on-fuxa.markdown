@@ -15,7 +15,6 @@ date: '2013-11-06'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p>Randall of Füxa just <a href="https://www.facebook.com/permalink.php?story_fbid=10151742594418931&id=187296468930">posted this on Facebook</a>...</p>
 <blockquote><p>yesterday evening i came home from work to a completely flooded apartment where everything i owned was ruined/water damaged. so bad in fact that i have to move house completely. fortunately, i had thousands of cd's/records from the past 20 years tucked away in storage as it was too depressing to look at the unsold masses. all that was lost can easily be replaced by selling just 2,000 records/cd's. seems doable right? </p></blockquote>

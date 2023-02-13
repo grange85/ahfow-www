@@ -15,7 +15,6 @@ date: '2013-07-11'
 categories:
 - dean & britta
 - video
-tags: []
 ---
 <p>Most of last week's Dean Wareham plays Galaxie 500 show in Minneapolis has just been posted to YouTube - I'll embed a couple here - <a href="http://www.youtube.com/user/heyitsrickjamesbch?feature=watch">but probably best to head over to YT to catch all 10 videos</a> in lovely HD!</p>
 <p>Don't Let Our Youth Go to Waste<br />

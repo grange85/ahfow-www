@@ -15,7 +15,6 @@ date: '2010-07-22'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <div>Dean & Britta are performing two songs (without band) <a href="http://beta.wnyc.org/shows/soundcheck/2010/jul/22/dean-britta-live/">live on WNYC Soundcheck</a> today (Thursday 22 July) at 2PM (EDT).
 - news

@@ -15,7 +15,6 @@ date: '2014-06-21'
 categories:
 - dean wareham
 - video
-tags: []
 ---
 <p>Dean Wareham - Holding Pattern | Water Tape (HD): </p>
 

@@ -15,7 +15,6 @@ date: '2011-01-11'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <p>Dean & Britta are heading back to Europe to play a bunch of "Dean Wareham plays Galaxie 500" shows in the <ins datetime="2011-01-11T23:32:40+00:00">Ireland, </ins>UK, France and Spain during February...</p>
 <ul>

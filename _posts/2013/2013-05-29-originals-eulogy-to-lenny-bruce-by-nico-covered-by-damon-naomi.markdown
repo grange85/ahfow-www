@@ -14,7 +14,6 @@ date: '2013-05-29'
 categories:
 - damon & naomi
 - originals
-tags: []
 ---
 <p>Eulogy to Lenny Bruce was written for Nico by Tim Hardin and appeared on Chelsea Girl<br />
 </p>

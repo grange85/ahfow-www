@@ -15,7 +15,6 @@ date: '2008-02-25'
 categories:
 - dean & britta
 - pictures
-tags: []
 ---
 <div class="imagebox-a"><a href="http://www.flickr.com/photos/chromewaves/419683410/" title="Photo Sharing"><img src="https://farm1.static.flickr.com/150/419683410_311781e2a7_m.jpg" alt="20070312-deanAndBritta" /></a><br/><strong>20070312-deanAndBritta</strong><br/>originally uploaded by <a href="http://www.flickr.com/people/chromewaves/">chromewaves</a></div>
 <div>

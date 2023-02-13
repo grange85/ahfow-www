@@ -15,7 +15,6 @@ date: '2014-01-07'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <p>Damon & Naomi have just launched a new <a href="https://itunes.apple.com/us/app/exact-change-e-zine-from-damon/id781858949?mt=8">Exact Change app for iPhone and iPad</a> available as a free download that includes a free issue. After that you can subscribe at $2.99 a month or $29.99 for a year long subscription.</p>
 <p><a href="https://itunes.apple.com/us/app/exact-change-e-zine-from-damon/id781858949?mt=8">View details of Exact Change in iTunes</a></p>

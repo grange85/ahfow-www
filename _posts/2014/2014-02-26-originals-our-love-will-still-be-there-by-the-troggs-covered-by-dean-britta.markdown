@@ -14,7 +14,6 @@ date: '2014-02-26'
 categories:
 - dean & britta
 - originals
-tags: []
 ---
 <p>The Troggs were led by the other rock and roll Presley, Reg, and were most famous for their version of Wild Thing. Our Love Will Still Be There was from their 1966 album From Nowhere<br />
 

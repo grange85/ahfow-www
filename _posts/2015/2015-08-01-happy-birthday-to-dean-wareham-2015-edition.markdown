@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2015-08-01'
 categories:
 - luna
-tags: []
 ---
 <p><a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/20184866052/in/dateposted-public/" title="Luna"><img src="https://farm1.staticflickr.com/380/20184866052_6cf824fe64_b.jpg" width="1024" height="768" alt="Luna"></a></p>
 <p>I'm far too busy seeing Dean to spend any time on this so here are a bunch of pics of Luna last night in London - have a great birthday Dean, and see you later!</p>

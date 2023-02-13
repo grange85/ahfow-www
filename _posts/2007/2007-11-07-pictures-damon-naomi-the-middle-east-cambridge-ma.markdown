@@ -15,7 +15,6 @@ date: '2007-11-07'
 categories:
 - damon & naomi
 - pictures
-tags: []
 ---
 
 Thomas Barrasso sent me a bunch of lovely photos of Damon & Naomi at their recent show in Cambridge MA. I haven't as yet managed to get the pictures bit of A Head Full of Wishes into the new site and it seemed a shame to sit on these so here are a couple of Thomas's gorgeous pictures...

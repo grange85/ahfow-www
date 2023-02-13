@@ -16,7 +16,6 @@ categories:
 - news
 - galaxie 500
 - other people's blogs
-tags: []
 ---
 <div><a href="https://pitchfork.com/features/article/7792-temperatures-rising-galaxie-500/">Pitchfork has just put up a lengthy oral history of Galaxie 500</a> featuring interviews with all the key players in the band&#39;s history. I&#39;m only a couple of pages in so eager to see how it turns out! Here&#39;s a couple of choice snippets I&#39;ve come across so far...
 <p /> <b>Kramer (Galaxie 500 Producer/ "Fourth Member"):</b> To be perfectly honest, when they first came in and played for me, I thought these kids must be lying. There&#39;s no way they went to Harvard; they sounded so fucking retarded! One chord for an entire song, played that slowly? Come on!

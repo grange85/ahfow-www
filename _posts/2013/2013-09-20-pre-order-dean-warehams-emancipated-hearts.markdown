@@ -15,7 +15,6 @@ date: '2013-09-20'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p>US folk are now able to pre-order Dean Wareham's new album on either CD or 10" vinyl from his <a href="http://deanwareham.com/">website</a> store. The album will be released on the 15 October.</p>
 <p><strong>Pre-order</strong>: <a href="http://elevenspot.11spot.com/deanwareham/dean-wareham-emancipated-hearts-pre-order-10-15.html">CD or LP from deanwareham.com online store</a><br />

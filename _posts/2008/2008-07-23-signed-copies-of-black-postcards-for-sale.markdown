@@ -15,7 +15,6 @@ date: '2008-07-23'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p>Dean Wareham is selling signed copies of his memoir Black Postcards...</p>
 <blockquote><p>For those who couldn't get to a book reading, but would like to buy a signed copy of the book, you can get one by sending a Paypal payment to fuzzmail@nyc.rr.com.<br />

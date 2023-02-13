@@ -15,7 +15,6 @@ imageurl: https://media.fullofwishes.co.uk/00-misc/pictures/roots-everly-brother
 categories:
 - dean wareham
 - originals
-tags: []
 ---
 I started writing this when I got to the Ls back in November - despite what it says below in the post I decided to NOT 'go with it' ... until the sad news of Phil Everly's passing forced my hand. RIP Phil.
 

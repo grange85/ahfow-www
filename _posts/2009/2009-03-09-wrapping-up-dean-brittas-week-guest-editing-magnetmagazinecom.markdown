@@ -16,7 +16,6 @@ categories:
 - news
 - dean & britta
 - other people's blogs
-tags: []
 ---
 <p>Dean & Britta's week guest editing Magent Magazine's website has now finished and to sum up here's links to all the posts they made over the week...</p>
 <ul>

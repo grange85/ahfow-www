@@ -15,7 +15,6 @@ date: '2014-08-07'
 categories:
 - news
 - fortune
-tags: []
 ---
 <p><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/naomi-yang-fortune-collage.jpg" width="556" height="444" class="aligncenter" /><br />
 Naomi Yang's lovely silent film 'Fortune' is showing in Montreal in September as part of the <a href="http://popmontreal.com/about/">Pop Montreal International Music Festival</a>. The film, with a live accompaniment of eleven new songs by Damon & Naomi, will be <a href="http://popmontreal.com/events-tickets/damon-naomi-fortune-a-silent-film-directed-by-musician-naomi-yang-with-original-soundtrack-by-her-band-damon-naomi/">screened at Film BOX (Quartiers POP) on the 19 September</a>.<br />

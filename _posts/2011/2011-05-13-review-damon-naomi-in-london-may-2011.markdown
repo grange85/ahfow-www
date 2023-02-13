@@ -15,7 +15,6 @@ date: '2011-05-13'
 categories:
 - damon & naomi
 - editorial
-tags: []
 ---
 <p>This week Damon & Naomi played twice in London. On Tuesday the duo, accompanied on this tour again by Kurihara, took to the stage at Rough Trade East for a short in-store performance... shorter for me as I got the start time wrong and was carrying out my family's demands that I bring home bagels from the wonderful 24 hour <a href="http://www.flickr.com/photos/dgbalancesrocks/74630552/">Beigel Bake</a>. I missed the first song but caught the remaining four or five songs (I really should keep notes) that included Ueno Station, The Well, a couple of songs from the new album and a cover of <a href="http://en.wikipedia.org/wiki/Shine_a_Light_%28song%29">The Rolling Stones' Shine a Light</a>. Quick chat with Damon & Naomi and a nod to Alun of <a href="http://www.brokenhorse.co.uk/">Broken Horse</a> (who have released the new Damon & Naomi album in the UK - and got it on the radio!) then the long ride home to deliver the bagels.</p>
 <p><figure class="caption aligncenter"><a href="http://www.flickr.com/photos/grange85/5708369864/" title="Damon & Naomi with Kurihara by grange85, on Flickr"><img class="aligncenter" src="https://farm4.static.flickr.com/3009/5708369864_d342a98d90.jpg" width="500" height="375" alt="Damon & Naomi with Kurihara"></a><figcaption class="caption-text">Damon & Naomi with Kurihara at Rough Trade East</figcaption></figure></p>

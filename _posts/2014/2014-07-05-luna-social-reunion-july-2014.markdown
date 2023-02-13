@@ -15,7 +15,6 @@ date: '2014-07-05'
 categories:
 - luna
 - pictures
-tags: []
 ---
 <p>Just nabbed these from Facebook/Instagram. Luna's last line-up lining up again (but just for a few photos).<br />
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/2014-07-luna-social-gathering-1.jpg" width="1280" height="884" alt="Lee, Britta, Dean & Sean - July 2014" class /><figcaption class="caption-text"> Lee, Britta, Dean & Sean - July 2014</figcaption></figure>

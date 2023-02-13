@@ -15,7 +15,6 @@ date: '2009-11-21'
 categories:
 - dean & britta
 - video
-tags: []
 ---
 <p>I've finally uploaded the videos I took at last Wednesday's Dean & Britta show at St Giles-in-the-Fields Church in London. My camera struggled with the low light and the volume so apologies for the quality.</p>
 <p><figure class="caption "><figcaption class="caption-text"></figcaption></figure></p>

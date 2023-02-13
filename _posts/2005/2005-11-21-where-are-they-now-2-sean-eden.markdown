@@ -15,7 +15,6 @@ date: '2005-11-21'
 categories:
 - luna
 - news
-tags: []
 ---
 Sean has been playing some shows around NYC with the band [Elk
 City](https://web.archive.org/web/20051121+/http://www.elkcity.net/) and will probably continue to do this while he

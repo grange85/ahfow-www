@@ -15,7 +15,6 @@ date: '2005-10-16'
 categories:
 - luna
 - news
-tags: []
 ---
 Lee has turned up playing drums on the new album from [Bill
 Ricchini](http://www.billricchini.com/). The album, "Tonight I Burn Brightly",

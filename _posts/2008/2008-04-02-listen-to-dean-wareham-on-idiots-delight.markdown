@@ -15,6 +15,5 @@ date: '2008-04-02'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p>Listen to a stream of Dean being interviewed at length on Vin Scelsa's Idiot's Delight on WFUV.</p>

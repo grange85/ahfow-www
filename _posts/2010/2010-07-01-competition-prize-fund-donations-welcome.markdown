@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2010-07-01'
 categories:
 - admin
-tags: []
 ---
 <div>Not too much so far but this is what I have so far for the winner (or to be divided between the winners) of the <a href="/2010/06/20/fourth-of-july-competition-2010/">Fourth of July competition</a>...<br /> 
 <ul>

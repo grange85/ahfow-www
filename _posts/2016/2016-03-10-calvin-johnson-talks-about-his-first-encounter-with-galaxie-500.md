@@ -13,7 +13,6 @@ imageurl:
 categories:
 - video
 - galaxie 500
-tags: []
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/calvin-johnson-postcard-to-galaxie-500.jpg" alt="Calvin Johnson postcard to Galaxie 500 (from a few months later)" /><figcaption class="caption-text">Calvin Johnson postcard to Galaxie 500 (from a few months later)</figcaption></figure>
 

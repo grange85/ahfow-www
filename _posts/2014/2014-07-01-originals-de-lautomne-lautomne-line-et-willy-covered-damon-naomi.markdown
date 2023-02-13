@@ -14,7 +14,6 @@ date: '2014-07-01'
 categories:
 - damon & naomi
 - originals
-tags: []
 ---
 <p><a href="https://www.flickr.com/photos/grange85/14549936401" title="The 1968 Monaco Eurovision Song Contest entry by Andy Aldridge, on Flickr"><img src="https://farm6.staticflickr.com/5492/14549936401_a5b4abf7e3_z.jpg" width="640" height="480" alt="The 1968 Monaco Eurovision Song Contest entry"></a></p>
 <p>OK, quick bonus entry... just in case you thought I might not have covered this song in enough detail already!</p>

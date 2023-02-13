@@ -15,7 +15,6 @@ date: '2013-05-01'
 categories:
 - news
 - galaxie 500
-tags: []
 ---
 <p><a href="http://www.flickr.com/photos/grange85/8697337247/" title="On my desk this morning by andyaldridge, on Flickr"><img class="aligncenter" src="https://farm9.staticflickr.com/8548/8697337247_19dcd96804_z.jpg" width="640" height="480" alt="On my desk this morning"></a><br />
 I picked up my copy of <a href="http://www.yetipublishing.com/G500.html">Temperature's Rising: Galaxie 500: an oral and visual history</a> from the PO this morning. It sat on my desk all morning while I worked - grr - so didn't get a proper look until lunchtime. Here are some idle thoughts:</p>

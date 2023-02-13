@@ -15,7 +15,6 @@ date: '2006-05-01'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 Dean & Britta will be special guests of comedian Dave Hill at the [UCB Theatre
 in NYC this Wednesday (3 May) 9:30 pm

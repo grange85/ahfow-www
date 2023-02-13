@@ -18,7 +18,6 @@ categories:
 - galaxie 500
 - video
 - audio
-tags: []
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/7255134114/" title="Tree, BC, sky"><img src="https://live.staticflickr.com/7215/7255134114_021e815e1e_c.jpg" width="800" height="600" alt="Tree, BC, sky"></a>
 

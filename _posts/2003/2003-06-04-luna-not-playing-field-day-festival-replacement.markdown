@@ -15,7 +15,6 @@ date: '2003-06-04'
 categories:
 - luna
 - news
-tags: []
 ---
 Britta on the Galaxie 500 mailing list reported that "We were cancelled along with lots of the other 'smaller bands' on the bill".
 

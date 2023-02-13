@@ -15,7 +15,6 @@ date: '2010-01-05'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <p><figure class="caption "><figcaption class="caption-text"></figcaption></figure>
 <p>Naomi has just launched a new site to make some of her photography avaialable to view and buy/download in high quality. <a href="http://www.naomivision.com/c/naomivision">Naomivision</a> has galleries of photos from her trips around the US as well as to Japan, Morocco, Portugal and many other countries. There's also a gallery of protraits available to view, although the portrait pictures are not available for download.</p>

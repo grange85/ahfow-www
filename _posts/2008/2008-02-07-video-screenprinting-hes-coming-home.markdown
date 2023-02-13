@@ -16,7 +16,6 @@ categories:
 - news
 - dean & britta
 - video
-tags: []
 ---
 <p>Here's a cool video showing the sleeves for Dean & Britta's excellent (<a href="http://chimneyrocks.org/hescominghome.html">and still available</a>) 7" single He's Coming Home being hand printed...</p>
 <p><figure class="caption "><figcaption class="caption-text"></figcaption></figure><br />Screenprinting Dean & Britta from dan rugh on Vimeo.</p>

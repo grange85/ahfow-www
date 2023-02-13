@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2007-11-08'
 categories:
 - video
-tags: []
 ---
 
 I just came across this very sweet version of Tugboat by Spanish Boy/Girl pop band [Espanto](http://www.myspace.com/espantosi) - I know nothing more than the precious little English that their label's page has to offer...

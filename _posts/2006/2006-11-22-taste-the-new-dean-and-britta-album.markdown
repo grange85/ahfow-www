@@ -15,7 +15,6 @@ date: '2006-11-22'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 Frank at (the very wonderful) [Chromewaves](http://www.chromewaves.net/) has a
 [post about Dean & Britta](http://www.chromewaves.net/?itemid=2438) and

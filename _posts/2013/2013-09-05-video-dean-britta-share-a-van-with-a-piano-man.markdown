@@ -15,7 +15,6 @@ date: '2013-09-05'
 categories:
 - dean & britta
 - video
-tags: []
 ---
 {% ahfowvideo "_0tchjwbHgw" "" %}
 

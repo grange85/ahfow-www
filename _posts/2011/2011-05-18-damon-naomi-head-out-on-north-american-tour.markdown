@@ -15,7 +15,6 @@ date: '2011-05-18'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <p>Damon & Naomi head out on an extensive North American tour to support their new album False Beats and True Hearts. The tour kicks off in Washington DC on May 18th and finishes up on the west coast at the beginning of June. You can see the full itinerary over here. The duo will be joined by saxophonist Bhob Rainey and guitarist Michio Kurihara.</p>
 <p>Also playing will be the lovely <a href="http://amordedias.com/">Amor de D&iacute;as</a> the new project featuring Alasdiar Maclean (The Clientele) and Lupe N&uacute;&ntilde;ez-Fern&aacute;ndez (Pipas)</p>

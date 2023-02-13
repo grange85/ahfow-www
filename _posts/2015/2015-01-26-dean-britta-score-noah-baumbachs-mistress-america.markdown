@@ -15,7 +15,6 @@ date: '2015-01-26'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <p><a href="https://www.flickr.com/photos/houstonryan/15748576533" title="Sundance Film Festival Street Photography January 24 2015-6117 by Ryan Houston, on Flickr"><img class="aligncenter" src="https://farm8.staticflickr.com/7386/15748576533_1d4828c379_z.jpg" width="640" height="484" alt="Sundance Film Festival Street Photography January 24 2015-6117"></a><br />
 Dean & Britta have provided the score for the new Noah Baumbach film Mistress America. The film has just premièred at Sundance where it appears to have been well received, as has the soundtrack:</p>

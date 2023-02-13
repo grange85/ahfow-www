@@ -13,7 +13,6 @@ imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-12-31/2015-1
 categories:
 - video
 - luna
-tags: []
 ---
 <p class="lead">I've just come across this clip of the first 7 minutes of Luna's New Year's Eve show last week at the Starline Social Club in San Francisco</p>
 <p>They open with {% ahfowtrack "Egg Nog" %}, and follow it with {% ahfowtrack "California (All the Way)" %}

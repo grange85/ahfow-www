@@ -15,7 +15,6 @@ date: '2004-09-02'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 This pinched wholesale from their website...Damon & Naomi have finished their new album, "The Earth is Blue," which features Kurihara on electric guitar, with guest appearances by mperign (trumpet player Greg Kelley and soprano saxophonist Bhob Rainey), and Dana Kletter (piano). Release details TBA.
 

@@ -14,7 +14,6 @@ date: '2014-03-12'
 categories:
 - luna
 - originals
-tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/la-poupee-qui-fait-non-sheet-music-cover.jpg" width="741" height="949" class /><figcaption class="caption-text"> Sheet music - <a href="http://accordeonduriche.canalblog.com/archives/2012/08/06/24671434.html">download here</a></figcaption></figure>
 Originally by Michel Polnareff and released in 1966<br />

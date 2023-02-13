@@ -13,7 +13,6 @@ author_email: joakim@fullofwishes.co.uk
 date: '2015-10-29'
 categories:
 - luna
-tags: []
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-002.jpg" alt="Stan Demeski with Luna (Photo: Joakim)" /><figcaption class="caption-text">Stan Demeski with Luna (Photo: Joakim)</figcaption></figure>
 

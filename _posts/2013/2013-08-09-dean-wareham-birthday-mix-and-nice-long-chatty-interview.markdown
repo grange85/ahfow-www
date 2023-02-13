@@ -15,7 +15,6 @@ date: '2013-08-09'
 categories:
 - dean wareham
 - audio
-tags: []
 ---
 <p>The latest edition of <a href="http://bloodontheknobs.com/">Blood on the Knobs</a> focuses on the carrer of Dean Wareham and features a great in depth chat with the host where he talks for the first time about the upcoming albums...</p>
 <blockquote><p>You know what this is like the first time I've talked to anyone about the songs, so I don't know what I think yet</p></blockquote>

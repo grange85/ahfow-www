@@ -12,7 +12,6 @@ date: '2016-01-01'
 imageurl:
 categories:
 - news
-tags: []
 ---
 <p class="lead">It's been quite an eventful year for AHFoW, so here's a quick thrown together summary...</p>
 <figure class="caption aligncenter"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/16624996418/in/photolist-rk6seh-q7SXAW-qyRtAX-pqi1f1-pcxWRK-oGk4HU-nUEogW-nnSaAM-nnRGtn-nnSaHa-nEmske-nG8Pn6-nG8PxM-nEksAA-nCiJzC-dPWHcd-aU2TJV-nnSaVp-nnRGMi-niWSor-nmYjYW-egpvn3-efJyMv-dQekJ1-dPR77r-dPWH1m-dPR7a6-dPQFZn-dPR7kR-dPWH4o-dPWhUE-aYtga6-aYtfKF-aU2U5H-aU2TY2-aU2TRx-9GFEp6-9GqTu5-92XNmc-5SKhBT-5SPBw7-5SKho2-5SKhQz-5SKgF6-9LjPqH-9LjNR6-9GFEdk-9GJwH7-9GJwMY-9GFEik" title="New Damon & Naomi LP has arrived"><img src="https://farm9.staticflickr.com/8744/16624996418_5b470e09ff_z.jpg" width="640" height="640" alt="New Damon & Naomi LP has arrived"></a><figcaption class="caption-text">New Damon & Naomi LP has arrived</figcaption></figure>

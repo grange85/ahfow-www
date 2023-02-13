@@ -15,7 +15,6 @@ date: '2012-05-08'
 categories:
 - damon & naomi
 - history
-tags: []
 ---
 <p>Damon & Naomi have just given <a href="http://www.damonandnaomi.com">their website</a> a makeover - it's still in its infancy and it'll take a while to fill up - but you can <a href="http://www.damonandnaomi.com">take a look over there</a>.</p>
 <p>Every so often, and in the case of record company websites, every album, a band's page gets a makeover... here a little visual history of Damon & Naomi's web presence over the years...</p>

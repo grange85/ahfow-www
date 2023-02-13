@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2013-07-31'
 categories:
 - news
-tags: []
 ---
 <p>Legendary Hoboken venue Maxwell's closes it's doors for the last time today.</p>
 <p><a href="http://www.mediafire.com/download/t9jrk7ahvtaa5a8/Galaxie-500_1990-02-24_Maxwells-Hoboken-NJ-USA.zip">Galaxie 500 @ Maxwell's in 1990 - full show (mp3)</a><br />

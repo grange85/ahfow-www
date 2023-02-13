@@ -15,7 +15,6 @@ date: '2006-01-17'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 The essential DVD website [DVD Times](http://www.dvdtimes.co.uk/) is reporting
 that The Squid and The Whale will be [out on (region 1)

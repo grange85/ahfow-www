@@ -16,7 +16,6 @@ categories:
 - dean & britta
 - dean wareham
 - video
-tags: []
 ---
 <p>I just came across these very lovely videos of Dean Wareham (and Britta and the band!) playing at an instore in Vancouver while promoting Black Postcards last January - lovely stuff!</p>
 <p>Hearing Voices</p>

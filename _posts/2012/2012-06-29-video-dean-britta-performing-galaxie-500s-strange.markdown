@@ -15,7 +15,6 @@ date: '2012-06-29'
 categories:
 - dean & britta
 - video
-tags: []
 ---
 <p><a href="http://www.thelittlesquares.com/">The Little Squares</a> has just published this film of Dean & Britta performing Galaxie 500s Strange:</p>
 <p><iframe class="aligncenter" src="https://player.vimeo.com/video/44775165" width="560" height="420" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>

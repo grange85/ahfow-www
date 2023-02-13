@@ -15,7 +15,6 @@ date: '2012-10-26'
 categories:
 - dean & britta
 - audio
-tags: []
 ---
 <p>Demain matin, je vais à Paris par le train, alors voici quelques chansons en français.<br />
 <em>(Désolé pour mon pauvre français... I'll spare you any more... and please feel free to correct what there is!)</em><br />

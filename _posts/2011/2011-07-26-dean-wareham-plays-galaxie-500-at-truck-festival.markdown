@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2011-07-26'
 categories:
 - dean & britta
-tags: []
 ---
 <p><a href="http://www.flickr.com/photos/grange85/5971743781/" title="Dean & Britta @ Truck Festival by andyaldridge, on Flickr"><img class="aligncenter" src="https://farm7.static.flickr.com/6027/5971743781_28d0fbd1a3.jpg" width="500" height="375" alt="Dean & Britta @ Truck Festival"></a></p>
 <p>I'm not a fan of festivals (although after <a href="http://www.grange85.co.uk/swirling/2011/07/22/electrelane-the-scala-london/">last week's Electrelane gig</a> I'm not so much of a fan of the sweaty indie club either) so I wasn't a 100% sure I was going to see Dean & Britta do their last UK "plays Galaxie 500" show... I kept visiting the website and putting tickets in my basket and then changing my mind. I'm fairly certain I'd have ended up going but the decision was made easier by Dean offering a spot on the guest list for me and Adam.</p>

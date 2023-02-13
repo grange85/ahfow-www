@@ -15,7 +15,6 @@ date: '2013-06-07'
 categories:
 - luna
 - velvet underground tour diary
-tags: []
 ---
 ## 7th June:
 

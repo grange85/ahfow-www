@@ -16,7 +16,6 @@ categories:
 - dean & britta
 - 13 most beautiful
 - pictures
-tags: []
 ---
 <div class="imagebox-a"><a href="http://www.flickr.com/photos/mitosettembremusica/3921939237/" title="Photo Sharing"><img src="https://farm3.static.flickr.com/2540/3921939237_ab661448c4_m.jpg" alt="14.IX_Teatro_Versace_AM_007" /></a><br/><strong>14.IX_Teatro_Versace_AM_007</strong><br/>originally uploaded by <a href="http://www.flickr.com/people/mitosettembremusica/">MITO SettembreMusica</a></div>
 <div>

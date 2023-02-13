@@ -15,7 +15,6 @@ date: '2013-09-06'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <p>Happy birthday Damon, have a great day!</p>
 

@@ -15,7 +15,6 @@ date: '2005-11-21'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 Britta recently posted on the official Dean & Britta forum mentioning that
 they had just started work on a soundtrack to the film [Just Like The

@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2014-07-04'
 categories:
 - news
-tags: []
 ---
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-fourth-of-july-rtt249.jpg" "Fourth of July sleeve" %}
 

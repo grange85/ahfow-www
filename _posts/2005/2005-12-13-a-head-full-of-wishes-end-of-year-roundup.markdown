@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2005-12-13'
 categories:
 - news
-tags: []
 ---
 **Luna and after Luna**  
 Well that was a year - Luna finally called it a day with a series of dates at

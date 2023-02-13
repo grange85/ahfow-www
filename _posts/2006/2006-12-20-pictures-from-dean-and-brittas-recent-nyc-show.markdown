@@ -15,7 +15,6 @@ date: '2006-12-20'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 ![Dean & Britta in NYC](https://media.fullofwishes.co.uk/07-dean_and_britta/sh
 ow_assets/2006-12-16/20061216_dab_pablochhang_09.jpg)I've just popped up a

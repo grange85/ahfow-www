@@ -15,7 +15,6 @@ date: '2002-01-15'
 categories:
 - luna
 - news
-tags: []
 ---
 Apparently the release date for Luna's new album, Romantica, has been pushed back from 19 March to 5 April
 

@@ -15,7 +15,6 @@ date: '2015-04-14'
 categories:
 - luna
 - news
-tags: []
 ---
 <ul class="ahfow-years-list">
 <li><a href="#setlist">Setlist</li>

@@ -15,7 +15,6 @@ date: '2008-09-02'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <p>Damon & Naomi have just posted their September update on their webpage. Top news is that the vinyl version of the re-release of More Sad Hits is now in stock...</p>
 <blockquote><p>But the truth is, back in 1992, it could only sound this good in the studio. The remastering by Alan Douches, and LP cutting by Kevin Gray, do an amazing job of translating the original master tape to both CD and vinyl. Some technological advances you can't argue with!</p></blockquote>

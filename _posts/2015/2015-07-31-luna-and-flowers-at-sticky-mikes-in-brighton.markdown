@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2015-07-31'
 categories:
 - luna
-tags: []
 ---
 <p><a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/20160306802/in/dateposted-public/" title="Luna in Brighton"><img src="https://farm1.staticflickr.com/329/20160306802_f67815d11e_b.jpg" width="1024" height="685" alt="Luna in Brighton"></a></p>
 <p>Wednesday evening sitting in a holiday cottage in Derbyshire with one full day of our holiday left. </p>

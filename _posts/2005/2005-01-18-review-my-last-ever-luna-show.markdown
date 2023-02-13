@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2005-01-18'
 categories:
 - luna
-tags: []
 ---
 
 <a href="https://www.flickr.com/photos/grange85/3480775" title="Luna @ ULU, London by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://farm1.staticflickr.com/3/3480775_2af57fb2c9_z.jpg" width="640" height="480" alt="Luna @ ULU, London"></a>

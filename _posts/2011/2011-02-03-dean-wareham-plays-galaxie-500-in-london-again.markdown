@@ -15,6 +15,5 @@ date: '2011-02-03'
 categories:
 - dean & britta
 - dean wareham
-tags: []
 ---
 <p>Dean & Britta are returning to London in April o play another Dean Wareham plays Galaxie 500 show. They are playing XOYO on 24 April and <a href="http://www.atpfestival.com/events/deanwarehamxoyo/tickets.php">tickets are on sale now</a> for £13 plus fees.</p>

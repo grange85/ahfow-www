@@ -16,7 +16,6 @@ categories:
 - news
 - dean & britta
 - 13 most beautiful
-tags: []
 ---
 <div class="imagebox-a"><a href="http://www.flickr.com/photos/chanc/2353605607/" title="Photo Sharing"><img src="https://farm3.static.flickr.com/2242/2353605607_b25e3a5678_m.jpg" alt="Sydney Opera House" /></a><br/><strong>Sydney Opera House</strong><br/>originally uploaded by <a href="http://www.flickr.com/people/chanc/">Christopher Chan</a></div>
 <div>

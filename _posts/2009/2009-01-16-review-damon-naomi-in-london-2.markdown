@@ -15,7 +15,6 @@ date: '2009-01-16'
 categories:
 - damon & naomi
 - pictures
-tags: []
 ---
 <p><a href="https://www.flickr.com/photos/grange85/3200535564" title="Damon & Naomi by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://farm4.staticflickr.com/3317/3200535564_146778b91d_z.jpg" width="640" height="480" alt="Damon & Naomi"></a>
 <p>Hazel and I headed out to the lovely Luminaire last night to catch <a href="http://www.damonandnaomi.com">Damon & Naomi</a> play a very sweet and nicely well attended show in London. We missed the first support but caught the whole of <a href="http://www.theleftoutsides.com/">The Left Outsides</a> playing another enjoyable set. We oddly managed to find a very good spot right at the front of the stage after The Left Outsides had finished.</p>

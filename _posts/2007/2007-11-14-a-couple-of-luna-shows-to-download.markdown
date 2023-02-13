@@ -15,7 +15,6 @@ date: '2007-11-14'
 categories:
 - luna
 - news
-tags: []
 ---
 
 There are a couple of Luna shows being re-seeded on Dimeadozen (registration required) right now. Two Chicago shows from the bands final tour - both excellent recordings and well worth a download. 

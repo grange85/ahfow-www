@@ -16,7 +16,6 @@ categories:
 - news
 - dean & britta
 - dean wareham
-tags: []
 ---
 <div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2008/01/deanbritta.jpg" alt='Dean & Britta near their home in Manhattan’s East Village in 2006. (Photo: Michael Lavine)' /><br />
 (Photo: Michael Lavine)</div>

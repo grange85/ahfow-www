@@ -15,7 +15,6 @@ date: '2006-03-17'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 Producer [Tony Visconti](https://web.archive.org/web/20060317+/http://www.tonyvisconti.com) has posted a little
 piece on his website (and a couple of pictures) about the first week of work

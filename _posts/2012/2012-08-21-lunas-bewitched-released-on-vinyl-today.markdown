@@ -15,7 +15,6 @@ date: '2012-08-21'
 categories:
 - luna
 - news
-tags: []
 ---
 <p><img alt="" src="https://media.fullofwishes.co.uk/02-luna/pictures/jds_bewitched1.jpg" title="Beiwtched unboxed" class="aligncenter" width="550" height="574" /><br />
 Today Luna's second album Bewitched gets its first ever vinyl release via Gotta Groove Records. The LP is a limited run of 1500 copies (so not too limited!) and can be ordered from <a href="http://gottagrooverecords.bandcamp.com/album/luna-bewitched-on-vinyl">Gotta Groove's Bandcamp page</a>. </p>

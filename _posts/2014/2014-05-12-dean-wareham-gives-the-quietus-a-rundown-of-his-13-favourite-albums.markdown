@@ -15,7 +15,6 @@ date: '2014-05-12'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p>The Quietus has published an article where Dean Wareham runs through his thirteen favourite albums including some of the usual suspects; The Feelies, The Velvet Underground and Lee Hazlewood; along with a couple of surprises. <a href="http://thequietus.com/articles/15226-dean-wareham-galaxie-500-favourite-albums">Head over to The Quietus to read the full list</a>.</p>
 <blockquote><p><a href="http://thequietus.com/articles/15226-dean-wareham-galaxie-500-favourite-albums?page=9">Perfect Prescription</a> was a concept album, the best drug record ever, and they do it without sounding trippy. It's druggy but it's not psychedelic; it remains grounded, smooth, groovy. I remember seeing this in a record shop in Boston, must have been 1989, looking at the cover, I think they both have their eyes closed and look like demented English schoolboys.</p></blockquote>

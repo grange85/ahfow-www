@@ -14,7 +14,6 @@ date: '2013-10-02'
 categories:
 - luna
 - originals
-tags: []
 ---
 <p>I've done plenty of Indian Summer posts over the years so I'll keep this one brief...</p>
 <p>Originally by Beat Happening on their fab 1988 album Jamboree<br />

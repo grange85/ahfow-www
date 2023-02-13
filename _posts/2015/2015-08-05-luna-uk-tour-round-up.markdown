@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2015-08-05'
 categories:
 - luna
-tags: []
 ---
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/-christoph-/20280453022/in/album-72157654451655103/" title="Luna live..."><img src="https://farm1.staticflickr.com/410/20280453022_7bc4cec9e8_b.jpg" width="1024" height="683" alt="Luna live..."></a>
 <p>This is a bit thrown together so please either leave comments below or <a href="/about/">email me</a> if you have anything to add!</p>

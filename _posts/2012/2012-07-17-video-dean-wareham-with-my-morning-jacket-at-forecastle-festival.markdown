@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2012-07-17'
 categories:
 - news
-tags: []
 ---
 <p>Last weekend Dean & Britta played a "Dean Wareham plays Galaxie 500" show at the Forecastle Festival in Louisville, KY, Dean also turned up in <a href="http://www.mymorningjacket.com/">My Morning Jacket</a>'s headline performance joining them for a cover of George Harrison's Isn't It a Pity - a <a href="http://www.youtube.com/watch?v=Za6z3xcJCvk">video of the whole 2 hour set</a> has turned up on YouTube, Dean turns up about 38 minutes in.</p>
 <p>My Morning Jacket feat Dean Wareham - Isn't it a Pity<br />

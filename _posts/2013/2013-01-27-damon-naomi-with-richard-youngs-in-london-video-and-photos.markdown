@@ -16,7 +16,6 @@ categories:
 - damon & naomi
 - video
 - pictures
-tags: []
 ---
 <p><a href="http://www.flickr.com/photos/grange85/8418830696/" title="Damon & Naomi by andyaldridge, on Flickr"><img class="aligncenter" src="https://farm9.staticflickr.com/8236/8418830696_78ba0da16c.jpg" width="375" height="500" alt="Damon & Naomi"></a><br />
 Damon & Naomi are now the support act, I don't entirely have a problem with this because it's not as if they support acts that I don't enjoy (<a href="/2010/12/19/review-damon-naomi-and-the-clientele-in-london/">The Clientele in 2010</a> and Richard Youngs tonight), my main problem is that I feel a little sad at 40 minute sets, the back catalogue is rich and sadly becoming neglected, I know a band has to move on but as I get older I seem to be getting more and more enjoyment from wallowing deeply and luxuriantly in my past.<br />

@@ -15,7 +15,6 @@ date: '2008-07-08'
 categories:
 - luna
 - news
-tags: []
 ---
 <div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/02-luna/sleeves/luna_dearpaulina.jpg" alt='Dear Paulina single' class='alignnone' /></div>
 <p><ins datetime="2008-07-09T19:06:27+00:00">

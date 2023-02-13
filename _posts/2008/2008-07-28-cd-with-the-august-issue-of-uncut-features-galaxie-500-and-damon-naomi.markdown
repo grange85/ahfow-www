@@ -16,6 +16,5 @@ categories:
 - news
 - damon & naomi
 - galaxie 500
-tags: []
 ---
 <p>According to <a href="http://beatle.wordpress.com/2008/07/28/new-uncut-magazine-features-george-harrison/">I read the news today: All Beatle news.</a> the August issue of UK pop culture mag UNCUT has a cover feature on George Harrison and a covermount CD that features both Damon & Naomi's cover of "While My Guitar Gently Weeps" from The Earth is Blue and Galaxie 500's version of "Isn't It a Pity" from On Fire. I suspect it's in the shops now.</p>

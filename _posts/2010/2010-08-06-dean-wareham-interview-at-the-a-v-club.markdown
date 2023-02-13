@@ -15,7 +15,6 @@ date: '2010-08-06'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <div>The A.V. Club has an interview with Dean Wareham covering the two roads that Dean & Britta are currently going down.
 <p />On 13 Most Beautiful...<br />

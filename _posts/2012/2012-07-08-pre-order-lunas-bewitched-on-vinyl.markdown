@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2012-07-08'
 categories:
 - news
-tags: []
 ---
 <p><img alt="" src="https://media.fullofwishes.co.uk/02-luna/sleeves/bewitched-LP.jpg" title="Bewitched - Luna" class="aligncenter" width="350" height="350" /></p>
 <p>Luna's second album finally gets a vinyl release on August 21st. Bewitched is being released by Gotta Groove Records and you can <a href="http://gottagrooverecords.bandcamp.com/album/luna-bewitched-on-vinyl">pre-order it at their Bandcamp page over here</a>.</p>

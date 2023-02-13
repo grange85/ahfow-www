@@ -15,7 +15,6 @@ date: '2005-08-23'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 Any New Yorkers who haven't yet had the chance to catch Piggie the film by
 Alison Bagnall starring Dean Wareham will have a week long runat the Pioneer

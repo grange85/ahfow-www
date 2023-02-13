@@ -15,7 +15,6 @@ date: '2009-07-12'
 categories:
 - dean & britta
 - other people's blogs
-tags: []
 ---
 <p><figure class="caption alignright"><a href="http://www.flickr.com/photos/isthismusic/3706916185/"><img alt="Dean Wareham" src="https://farm3.static.flickr.com/2515/3706916185_64dba55b94_m.jpg" title="Dean Wareham at The Carengie Hall in Dunfermline" width="180" height="240" /></a><figcaption class="caption-text">Dean Wareham</figcaption></figure>
 <p>I know I don't do this for every concert but... <a href="/2009/07/09/13-most-beautiful-at-the-carnegie-hall-in-dunfermline/">it was a special night (for me at least)</a> so in honour of that here's a round-up of what's out there on the Internet about Dean & Britta's recent show at The Carnegie Hall in Dunfermline.</p>

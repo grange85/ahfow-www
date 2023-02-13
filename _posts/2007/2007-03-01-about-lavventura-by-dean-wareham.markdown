@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2007-03-01'
 categories:
 - dean & britta
-tags: []
 ---
 
 On June 3 Jetset Records released L'AVVENTURA,an album by Britta Phillips and Dean Wareham. Produced by Tony Visconti.

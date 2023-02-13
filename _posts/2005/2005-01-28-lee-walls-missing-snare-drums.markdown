@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2005-01-28'
 categories:
 - news
-tags: []
 ---
 From [http://www.fuzzywuzzy.com](https://web.archive.org/web/20050128+/http://www.fuzzywuzzy.com)
 

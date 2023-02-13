@@ -15,7 +15,6 @@ date: '2006-05-04'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 In the interview section of last night's Dean & Britta appearance as part of
 the Dave Hill explosion it was revealed that Dean & Britta got married - a

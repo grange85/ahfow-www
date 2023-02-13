@@ -15,7 +15,6 @@ date: '2006-02-10'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 This little snippet from the web site of the band The Hong Kong
 

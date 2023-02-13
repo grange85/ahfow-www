@@ -16,7 +16,6 @@ categories:
 - news
 - dean & britta
 - 13 most beautiful
-tags: []
 ---
 <p>Dean & Britta will be taking 13 Most Beuatiful... back down under in 2010. Dates I've heard about so far are the 25th and 26 February as part of the Perth International Arts Festival in Western Australia and on the 4 March in Wellington as part of the New Zealand International Arts Festival</p>
 <p>Before that they have a performance at the Reynolds Theatre in Durham, North Carolina, USA on 18 February</p>

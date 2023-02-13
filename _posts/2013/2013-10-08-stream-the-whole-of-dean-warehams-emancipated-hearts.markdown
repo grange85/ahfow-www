@@ -15,7 +15,6 @@ date: '2013-10-08'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p>SPIN has a stream of the whole of Dean Wareham's upcoming mini-album Emancipated Hearts.</p>
 <p>Stream: <a href="http://www.spin.com/articles/galaxie-500-dean-wareham-solo-emancipated-hearts-album-stream/">Emancipated Hearts by Dean Wareham (via Spin)</a></p>

@@ -15,7 +15,6 @@ date: '2009-04-22'
 categories:
 - dean & britta
 - pictures
-tags: []
 ---
 <div class="imagebox-a"><img src="https://farm4.static.flickr.com/3488/3463731267_e3a6326989_m.jpg" width="161" height="240"><br/><a href="http://www.flickr.com/people/lorivep/">photos by lori baily</a></div>
 <p>A cool <a href="http://www.flickr.com/photos/lorivep/sets/72157617152213944/">set of pictures from Dean & Britrta's show with Mercury Rev at The Highline Ballroom in NYC</a> at the tail end of last year have just turned up on Flickr. As well as some nice on stage shots there are a few after show pics. It's also worth going through the set to see the beautifullty mad photos of Jonathan Donahue of Mercvury Rev (both on stage and off (with Tony Vosconti)).</p>

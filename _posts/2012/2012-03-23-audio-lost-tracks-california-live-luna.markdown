@@ -16,7 +16,6 @@ categories:
 - luna
 - audio
 - lost tracks
-tags: []
 ---
 <p><a href="http://www.flickr.com/photos/library_of_congress/3549663710/" title="Toward Los Angeles, California (LOC) by The Library of Congress, on Flickr"><img class="aligncenter" src="https://media.fullofwishes.co.uk/ahfow/uploads/2012/03/3549663710_35b4038392.jpg" width="478" height="500" alt="Toward Los Angeles, California (LOC)"></a></p>
 <p>All I know about this recording is what's written on the back of the Beautiful View CD single sleeve that this was released on. The track is called "California" without the usual parenthetical addendum and the sleeve informs us that it was...</p>

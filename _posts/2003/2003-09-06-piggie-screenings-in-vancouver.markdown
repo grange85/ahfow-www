@@ -15,7 +15,6 @@ date: '2003-09-06'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 The movie Piggie, starring Dean Wareham, will be getting another couple of screenings on October 3rd and 5th as part of the Vancouver International Film Festival.
 

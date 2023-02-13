@@ -15,7 +15,6 @@ date: '2004-12-06'
 categories:
 - luna
 - news
-tags: []
 ---
 
 Luna will perform on the John McEnroe show this Thursday, December 9th, on CNBC at 10pm (EST)

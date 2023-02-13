@@ -15,7 +15,6 @@ imageurl: https://lh3.googleusercontent.com/ZL4svau_xQxl8Lw3k0ZFERa95RJvTyeV1FEK
 date: '2015-07-14'
 categories:
 - news
-tags: []
 ---
 {% ahfowimage "https://lh3.googleusercontent.com/ZL4svau_xQxl8Lw3k0ZFERa95RJvTyeV1FEKTUTcGWE9wvFneCFaSMOampOEuZHHlGRGg8NXaYLOJD4QzvEQEF2zlb0-ovJy5y1YJ1-Y0PgKyltmpAzs8JyRfOAFsC_6OTf2IFDRpPc=w800" "Luna - Everybody's Talkin' / Fuzzy Wuzzy (demo)" %}
 

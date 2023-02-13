@@ -15,7 +15,6 @@ date: '2005-01-17'
 categories:
 - luna
 - news
-tags: []
 ---
 
 No controversy this time! Luna have added a fourth show at the Bowery Ballroom. The show will be a matinee at 2pm on Sunday 27 February. Tickets will go on sale via Ticketweb on Wednesday 19 January at noon.

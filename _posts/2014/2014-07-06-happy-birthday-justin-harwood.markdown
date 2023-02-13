@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2014-07-06'
 categories:
 - luna
-tags: []
 ---
 <p>According to my 2000 Luna calendar...<br />
 

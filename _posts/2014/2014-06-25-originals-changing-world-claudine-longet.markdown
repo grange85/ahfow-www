@@ -14,7 +14,6 @@ date: '2014-06-25'
 categories:
 - damon & naomi
 - originals
-tags: []
 ---
 <p><img src="https://media.fullofwishes.co.uk/00-misc/pictures/claudine-longet-run-wild-run-free.jpg" width="600" height="600" class="aligncenter" alt="The sleeve of Claudine Longet's Run Wild, Run Free LP" /><br />
 OK... this one took a bit of work. Another track that was in my database with the words "information required" ... since I added it I guess I stopped looking (even though the internet got so much better since the 1990s), probably to the point where I may even have forgotten that it wasn't a Damon & Naomi original... although the French opening should have kept tipping me off.</p>

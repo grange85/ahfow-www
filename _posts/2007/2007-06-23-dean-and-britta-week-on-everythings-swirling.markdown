@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2007-06-23'
 categories:
 - dean & britta
-tags: []
 ---
 
 Two London dates inspired me to fill up [Everything's Swirling](http://www.grange85.co.uk/swirling/) and my [Last.fm](http://www.last.fm/user/grange85/journal/) journal with a week's worth of posts. So here's a summary of what's gone on if you never go and visit my personal blogs!

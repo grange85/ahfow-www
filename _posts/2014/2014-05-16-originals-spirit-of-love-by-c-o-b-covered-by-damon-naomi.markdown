@@ -14,7 +14,6 @@ date: '2014-05-16'
 categories:
 - damon & naomi
 - originals
-tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/cob-spirit-of-love.jpg" width="600" height="600" class /><figcaption class="caption-text"> C.O.B. - Spirit of Love (1971)</figcaption></figure>
 I managed to miss posting an 'Original' this week - luckily next up is Spirit of Love which I've <a href="/2009/05/20/mp3-lost-tracks-5-damon-naomi-spirit-of-love/" title="Mp3: Lost tracks #5 – Damon & Naomi – Spirit of Love">already posted before</a>, <a href="/2011/11/04/audio-friday-recycling-damon-naomi-spirit-of-love/" title="Audio: Friday recycling: Damon & Naomi – Spirit of Love">twice</a>! So I can re-purpose those earlier posts...</p>

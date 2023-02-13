@@ -18,7 +18,6 @@ categories:
 - dean wareham
 - 13 most beautiful
 - other people's blogs
-tags: []
 ---
 <p><figure class="caption alignright"><a href="http://www.flickr.com/photos/pirlouiiiit/3696534983/in/pool-aheadfullofwishes"><img alt="photo by pirlouiiiit" src="https://farm3.static.flickr.com/2566/3696534983_cf95751f9c_m.jpg" title="Dean Wareham - 13 Most Beautiful in Marseille (2009)" width="240" height="160" /></a><figcaption class="caption-text">photo by pirlouiiiit</figcaption></figure>
 <p>Dean Wareham has a in-depth <a href="http://www.bombsite.com/issues/0/articles/3326">article on the BOMB Magazine website</a> detailing the process of selecting and scoring the Warhol Screen Tests used in 13 Most Beautiful.</p>

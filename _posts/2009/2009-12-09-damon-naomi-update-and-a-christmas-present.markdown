@@ -16,7 +16,6 @@ categories:
 - news
 - damon & naomi
 - audio
-tags: []
 ---
 <p><a href="https://media.fullofwishes.co.uk/ahfow/uploads/2009/12/dan_christmas.jpg"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2009/12/dan_christmas.jpg" alt="Damon & Naomi - White Christmas" title="Damon & Naomi - White Christmas" width="150" height="150" class="alignright size-full wp-image-1738" /></a>Damon & Naomi have returned from their "Lost Gaijin Tour" and have <a href="http://www.damonandnaomi.com">updated their web page</a> with a few words about it as well as news of a couple of special dates for the end of January in NYC and Boston.</p>
 <p>The two dates will feature Damon & Naomi playing with Kurihara and will also include screenings of Naomi's films from the <a href="http://www.factorytwentyfive.com/ftf2/">1001 Nights DVD</a> and a Q&A session moderated by Haden Guest, director of the <a href="http://hcl.harvard.edu/hfa/general_info.html">Harvard Film Archive</a>. Support for both shows will be from <a href="http://www.sharonvanetten.com/">Sharon van Etten</a>. The shows will be at <a href="http://www.92y.org">92Y Tribeca in NYC</a> on January 30th and <a href="http://www.brattlefilm.org">The Brattle Theatre in Cambridge, MA</a> on January 31st.</p>

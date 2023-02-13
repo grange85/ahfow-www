@@ -15,7 +15,6 @@ date: '2009-08-31'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 <p><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2009/07/subpopyears.jpg" alt="subpopyears" title="subpopyears" width="300" height="300" class="alignright size-full wp-image-1473" />
 <p>Damon & Naomi have just launched a <a href="http://web.archive.org/web/20100728081629/http://www.damonandnaomi.com:80/digital.html">digital store selling their new compilation album The Sub Pop Years</a>. As well as being able to buy the album in both mp3 and <a href="http://en.wikipedia.org/wiki/Apple_Lossless">Apple Lossless</a> formats you can also buy one of the many good value packages which combine the album with other Damon & Naomi albuns from their Sub Pop Years.</p>

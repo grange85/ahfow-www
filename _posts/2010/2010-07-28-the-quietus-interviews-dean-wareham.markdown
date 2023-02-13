@@ -15,7 +15,6 @@ date: '2010-07-28'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <div>Online culture mag <a href="http://thequietus.com/articles/04708-galaxie-500-dean-britta-interview">The Quietus has a lovely in-depth interview with Dean Wareham</a> covering his whole career from Galaxie 500 <i>"Leaving Galaxie 500 was a relief; I felt free. The problem there, beyond ego or personality or all the other petty stuff, was the very structure of the band"</i> through his experiences of labels, both indie and major, and his thoughts on the music industry...<br /><i><br /></i>
 <div style="margin-left: 40px"><i>I used to come home from school and sit on my bed and listen to music; now of course teenagers have more modern distractions. Yes they listen to music, but it&#039;s only one of many choices. And as you say, they expect the music to be free.</i></div>

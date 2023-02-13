@@ -15,7 +15,6 @@ date: '2010-08-25'
 categories:
 - luna
 - news
-tags: []
 ---
 <div>On September 13th There will be a free screening of the film document of Luna&#39;s last tour Tell Me Do You Miss Me... the film&#39;s director posted this on Facebook
 <p />

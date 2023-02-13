@@ -17,7 +17,6 @@ categories:
 - damon & naomi
 - dean & britta
 - dean wareham
-tags: []
 ---
 <p>OK - a little late with this one but <a href="http://www.musichallofwilliamsburg.com/event/211383-jim-james-brooklyn">Dean Wareham is playing tonight at the Music Hall of Williamsburg in Brooklyn supporting Jim James</a> (or My Morning Jacket) - the site says "sold out" so this post is mostly saying <em>if you're lucky enough to have tickets, get there early</em>.</p>
 <p><a href="http://backstagerider.com/2013/02/18/dean-wareham-britta-phillips-solo/">The lovely Backstage Rider</a> has a post with little teases about upcoming solo albums by Dean & Britta (two already recorded for Dean...</p>

@@ -13,7 +13,6 @@ imageurl:
 categories:
 - dean wareham
 - news
-tags: []
 ---
 <figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/bluelaemmle/15564512766/in/album-72157648879688811/" title="Exposed: Songs for Unseen Warhol Films"><img src="https://farm6.staticflickr.com/5606/15564512766_f57d909680_b.jpg" width="1024" height="819" alt="Exposed: Songs for Unseen Warhol Films"></a><figcaption class="caption-text">Dean Wareham performing Unseen Warhol in 2014 (Photo: stupid blue on Flickr)</figcaption></figure>
 <p class="lead">Exposed: Songs for Unseen Andy Warhol Films which premiered in October 2014 will be touring Europe in May 2016.</p>

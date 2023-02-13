@@ -16,7 +16,6 @@ categories:
 - news
 - dean wareham
 - video
-tags: []
 ---
 <p>Dean Wareham has just posted the dates for a short tour of North America in the spring on his facebook page</p>
 <blockquote><p>This will be with a 4-piece band playing songs from the new LP and of course songs from the Galaxie 500 and Luna catalogue

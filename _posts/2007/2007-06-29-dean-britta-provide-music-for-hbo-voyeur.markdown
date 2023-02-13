@@ -15,7 +15,6 @@ date: '2007-06-29'
 categories:
 - lost tracks
 - dean & britta
-tags: []
 ---
 
 Dean & Britta have provided a new piece of music for the [HBO multimedia project HBO Voyeur](https://en.wikipedia.org/wiki/The_HBO_Voyeur_Project). 

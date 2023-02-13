@@ -15,7 +15,6 @@ date: '2014-05-19'
 categories:
 - damon & naomi
 - video
-tags: []
 ---
 <p>This deserves a post all of its own. Thanks so much to Chris for videoing it...</p>
 <p>Damon & Naomi playing Yoko Ono's "Listen, the Snow Is Falling" in London last night.<br />

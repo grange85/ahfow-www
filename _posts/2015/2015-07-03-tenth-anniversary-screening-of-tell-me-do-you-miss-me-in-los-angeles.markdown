@@ -15,7 +15,6 @@ date: '2015-07-03'
 categories:
 - luna
 - news
-tags: []
 ---
 <p>The documentary of Luna's farewell tour is being screened as part of <a href="http://www.cinefamily.org/films/dont-knock-the-rock-2015/">The Cinefamily's Don't Knock the Rock season</a> - the screening will be attended by the director Matthew Buzzell and by the four members of Luna (Dean Wareham, Sean Eden, Lee Wall and Britta Phillips).</p>
 <p>The film was made during Luna's final world tour during 2004 and 2005 and premiered at the Tribeca Film Festival in April 2006.</p>

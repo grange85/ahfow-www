@@ -15,7 +15,6 @@ date: '2007-09-24'
 categories:
 - luna
 - history
-tags: []
 ---
 
 _OK maybe this'll turn into a series or maybe that "#1" in the title will be redundant but here goes..._

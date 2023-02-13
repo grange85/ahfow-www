@@ -13,5 +13,6 @@ window.addEventListener("DOMContentLoaded", function imageClasses() {
   var images = document.querySelectorAll('article.post-content img');
   for (var i = 0; i < images.length; i++) {
 	images[i].classList.add("w-100");
+	images[i].classList.add("img-fluid");
   }
 });

@@ -15,7 +15,6 @@ date: '2014-07-01'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p><a href="http://www.indietracks.co.uk/schedule/">Indietracks Festival has just announced the full schedule</a> for this year's festival. Dean Wareham will be headlining the indoor stage on the Saturday evening.</p>
 <p>A few other things a quick skim has noticed...<br />

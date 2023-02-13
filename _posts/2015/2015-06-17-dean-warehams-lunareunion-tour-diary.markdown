@@ -15,7 +15,6 @@ date: '2015-06-17'
 categories:
 - luna
 - news
-tags: []
 ---
 <p><a href="https://www.flickr.com/photos/grange85/17313527992" title="Luna at soundcheck by Andy Aldridge, on Flickr"><img src="https://c2.staticflickr.com/8/7786/17313527992_ac04240536_z.jpg" width="640" height="480" alt="Luna at soundcheck"></a></p>
 <p>Salon have published Dean Wareham's diary of their tour around Spain and Portugal</p>

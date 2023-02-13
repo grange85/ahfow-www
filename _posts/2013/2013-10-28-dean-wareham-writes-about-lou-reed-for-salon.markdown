@@ -15,7 +15,6 @@ date: '2013-10-28'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/dean-lou-and-britta.jpg" width="427" height="640" alt="Dean Wareham and Britta Phillips with Lou Reed" class /><figcaption class="caption-text"> Dean, Lou and Britta</figcaption></figure>
 Dean Wareham has written a piece on Lou Reed for Salon.<br />

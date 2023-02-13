@@ -15,7 +15,6 @@ date: '2010-08-01'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p>Today (Sunday 1 August) is Dean Wareham&#039;s birthday so here&#039;s a hastily compiled journey through his career using promo photos/postcards.
 <p />Happy Birthday Dean!<br />

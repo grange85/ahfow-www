@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2013-12-06'
 categories:
 - dean wareham
-tags: []
 ---
 <p>I was at work yesterday afternoon counting down the seconds to Dean Wareham's first London show for two and a half years when an email arrived </p>
 <blockquote><p>might not make it to London today. Our train has been sitting on the tracks for 2 hours and we are just outside Manchester</p></blockquote>

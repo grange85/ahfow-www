@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2013-07-02'
 categories:
 - news
-tags: []
 ---
 <p>OK, things are a bit quiet but I'll see if I can get a blog post out of it anyway.<br />
 <figure class="caption alignright" width="300"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2009/02/41dyhhimxrl_ss500_-300x300.jpg" alt="Black postcards (paperback edition)" width="300" height="300" class="size-medium wp-image-1042" /><figcaption class="caption-text"> Black postcards (paperback edition)</figcaption></figure>

@@ -15,7 +15,6 @@ date: '2014-03-24'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/images/misc/travelling.jpg" width="640" height="352" class /><figcaption class="caption-text"> Entertainment for another train journey</figcaption></figure>
 The last couple of of weeks have been a bit hectic in the outside world - travelling up and down the country, I've spent so much time in trains - so AHFoW has been a little neglected so this is by way of catching up with some of the bits and pieces I may have missed:</p>

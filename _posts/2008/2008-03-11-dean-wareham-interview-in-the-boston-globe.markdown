@@ -16,7 +16,6 @@ categories:
 - news
 - dean wareham
 - galaxie 500
-tags: []
 ---
 <p>The Boston Globe has an interview/article about Black Postcards which covers the break up of Galaxie 500 and specifically comparing the two sides of the story. The article, <a href="http://www.boston.com/ae/books/articles/2008/03/08/making_and_losing_the_band/?page=2">Making (and losing) the band</a>, also has quotes from Kramer and a "no comment" comment from Damon & Naomi. </p>
 <blockquote><p>Wareham made the provocative choice to open his memoir with a comment from Krukowski, taken from a 1997 interview in which he accuses the band's frontman of duplicity and egomania: "Naomi and I had developed a strong distrust of Dean, which in the end turned out to be not nearly strong enough - we were blind-sided, despite our misgivings about the person he was becoming," the passage begins. Wareham goes on to spill plenty of ink recounting his version of events. He is clear-eyed and occasionally harsh about everyone involved, himself included</p>

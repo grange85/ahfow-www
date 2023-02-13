@@ -16,7 +16,6 @@ categories:
 - dean wareham
 - pictures
 - editorial
-tags: []
 ---
 <p><a href="https://www.flickr.com/photos/grange85/14256438005" title="Dean Wareham by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://farm3.staticflickr.com/2926/14256438005_dca907ec33_z.jpg" width="640" height="428" alt="Dean Wareham"></a><br />
 Day three of my three day fanboy traipse around the bottom half of England is closer to home at the Islington Assembly Hall. Apologies in advance for the rambly, mess that this post is, feel free to <a href="#ahfow-photos">skip my nonsense and look at the pictures</a>!</p>

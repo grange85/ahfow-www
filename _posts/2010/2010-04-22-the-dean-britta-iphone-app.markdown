@@ -15,7 +15,6 @@ date: '2010-04-22'
 categories:
 - news
 - dean & britta
-tags: []
 ---
 <div>Britta has been working adding content to the official Dean & Britta iPhone app (va iLike).  I don&#39;t have an iPhone so have no idea on how it&#39;s doing but for a few pennies it could be worth checking out...
 <p /> <a href="http://itunes.apple.com/app/dean-britta-official-app/id318593334?mt=8">Visit iTunes to check out the official Dean & Britta iPhone app</a>

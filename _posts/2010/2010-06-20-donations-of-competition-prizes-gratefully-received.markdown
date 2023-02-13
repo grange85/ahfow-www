@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2010-06-20'
 categories:
 - admin
-tags: []
 ---
 <div>I&#39;m throwing together a competition for AHFoW and while I&#39;m happy to off-load some duplicate CDs to the winners (assuming there are any entries) but it would be nice to be able to put some more interesting goodies into the paws of the winners so if anyone has anything they&#39;d like to donate as a prize please <a href="mailto:andy@grange85.co.uk">get in touch with me</a> - CDs, posters, badges... anything that might be of interest to the discerning fan of AHFoW (and/or Galaxie 500, Luna, Damon & Naomi, Dean & Britta).
 <p /> If you&#39;re interested in winning some goodies - sit tight and keep an eye on <a href="">A Head Full of Wishes</a> for details (which are just about to be posted).

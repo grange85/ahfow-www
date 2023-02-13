@@ -15,7 +15,6 @@ date: '2007-02-18'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 
 The short film "LOLA" featuring Dean Wareham will be screened as part of the SXSW film festival in Austin TX in March.

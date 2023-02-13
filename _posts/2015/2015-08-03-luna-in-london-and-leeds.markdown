@@ -14,7 +14,6 @@ author_url: http://www.grange85.co.uk
 date: '2015-08-03'
 categories:
 - luna
-tags: []
 ---
 <p><a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/20184866052/in/dateposted-public/" title="Luna"><img src="https://farm1.staticflickr.com/380/20184866052_6cf824fe64_b.jpg" width="1024" height="768" alt="Luna"></a><br />
 Late Friday afternoon I dragged my tired self and tired boy into town for Luna's second show of the UK tour. Bus delays got us to the pre-show meet a little later than expected and found a nice crowd had gathered at the cafe, and more arrived in the run up. We then headed along Upper Street to <a href="/database/luna/shows/2015/2015-07-31-luna-the-garage-london-uk">the Garage</a> to catch the show, bumping into Dean & Britta as we did.</p>

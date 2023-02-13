@@ -15,6 +15,5 @@ date: '2003-08-14'
 categories:
 - news
 - damon & naomi
-tags: []
 ---
 Damon & Naomi are recording new tracks for an album. Some of the material will be debuted in the three upcoming shows the duo have scheduled which include a support slot for the excellent Clientele in NYC.

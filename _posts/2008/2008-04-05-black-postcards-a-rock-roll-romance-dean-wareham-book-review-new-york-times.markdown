@@ -15,7 +15,6 @@ date: '2008-04-05'
 categories:
 - news
 - dean wareham
-tags: []
 ---
 <div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2007/12/410aifzt3sl.jpg" alt="" title="Black Postcards cover" width="196" height="300" class="alignnone size-medium wp-image-591" /></div>
 <p><a href="http://www.nytimes.com/2008/04/06/books/review/Phair-t.html?ex=1207972800&en=4a3556391635b4fd&ei=5070">Sunday's New York Times has a review of Black Postcards</a> written by <a href="http://www.google.com/url?sa=t&ct=res&cd=1&url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLiz_Phair&ei=ksr2R86dJai6QPqXyZUK&usg=AFQjCNGS9NIKhql6xlIPYvFG2hbNZYaAag&sig2=slZD1XqUgS-UwwZQNIJJAw">Liz Phair</a> (who once pretended she was in a  Galaxie 500 video)...</p>

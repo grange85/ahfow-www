@@ -15,7 +15,6 @@ date: '2010-07-13'
 categories:
 - dean wareham
 - audio
-tags: []
 ---
 
 I heard today that Tuli Kupferberg of The Fugs died earlier this week. On 20 March 2003 Bush and Blair invaded Iraq on spurious grounds. Luna covered Tuli Kupferberg's Kill for Peace at their Knitting Factory shows on the 20th and 21st of March 2003 - This recording is from the 11pm show on the 21st.
