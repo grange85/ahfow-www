@@ -16,7 +16,6 @@ categories:
 - news
 - dean & britta
 ---
-<div class="imagebox-a"><a title="The Cure, by celesterc" alt="The Cure, by celesterc" alt="The Cure, by celesterc" alt="The Cure, by celesterc" href="http://flickr.com/photos/celesterc/348632211/"><img src="https://farm1.static.flickr.com/148/348632211_48184c5b3c_m.jpg" width="194" height="240"></a></div>
 <p>Dean & Britta are signed up to appear on <a href="http://www.alr-music.com/">American Laundromat Record</a>'s next tribute project. They'll be recording "Friday I'm in Love" this weekend in New Jersey with Nick Kramer of <a href="http://www.myspace.com/nicholasandalexandra">Nicholas and Alexandra</a></p>
 <p>More details on the tribute which also includes contributions from The Wedding Present, Elk City and Tanya Donnelly can be found on the <a href="http://www.myspace.com/atributetothecure"> projects MySpace page</a></p>
 <p>Britta previously contributed to American Laundromat's "Cinnamon Girl" tribute to Neil Young which was released earlier this year.</p>
