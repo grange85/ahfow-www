@@ -20,6 +20,6 @@ tags:
 ---
 
 Another video I just came across on my hard drive - this is Luna rehearsing Kalamazoo from Penthouse as broadcast on Facebook live back in August 2018.
-{: .lead}
+
 
 {% ahfowvideo "eeas_Nl4PwQ" "Luna - Kalamazoo (rehearsal, August 2018)" %}

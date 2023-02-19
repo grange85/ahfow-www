@@ -20,7 +20,7 @@ tags:
  - umaw
 ---
 A New York Times article [5 Notes From a Quiet Year: How Music Survived the Pandemic](https://www.nytimes.com/interactive/2021/03/11/magazine/live-music-covid.html) contains a piece from Damon talking about how the inate social nature of musicians led them to take advantage of the pandemic to form the Union of Musicians and Allied Workers (UMAW) when it became clear just how much of an impact the pandemic was having on musicians income.
-{: .lead}
+
 
 <!--more-->
 

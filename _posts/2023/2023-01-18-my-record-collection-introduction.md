@@ -15,7 +15,7 @@ categories:
 tags:
 ---
 I've been a bit neglectful of AHFoW over the last few months - maybe because there hasn't been a great deal happening in camp-AHFoW - or, more likely, I've been in a bit of an imagination slump. A few years ago I did a series of posts looking at the [original versions of all the songs covered by AHFoW-related bands](https://www.fullofwishes.co.uk/category/originals/) - obviously ... that's already a bit out of date so will need q revisit/update at some point - but ... not now. I also did a [flurry of posts about "Artefacts" in my collection](https://www.fullofwishes.co.uk/category/artefacts/) but that fizzled out - I might resurrect that at some point - but ... not now.
-{: .lead}
+
 So, how to fill my time, and my blog!?
 
 My record (and CD)  collection is pretty big, although (sadly) not as big as it once was - I downsized considerably before we moved. The Oxfam record shop (and a few other charity shops) in Ealing took literally hundreds of my LPs.

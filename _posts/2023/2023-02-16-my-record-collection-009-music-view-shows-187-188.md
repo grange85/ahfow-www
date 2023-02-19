@@ -19,7 +19,7 @@ tags:
 date: 2023-02-16 00:00 +0000
 ---
 As far as I can glean from what's on the web, and what's on the disc Music View was a packaged radio show sent to college stations and show 187 featured Luna. I have no idea where I got this CD - I guess someone sent this to me, if it was you ... thanks! 
-{: .lead }
+
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/music-view-187-188-cd.jpg" "Music View Show: 187 & 188" %}
 
 It dates from around the release of Bewitched, in fact Dean at one point describes Sean as being "almost in the band" - although he had toured and played on an album so maybe that's Dean teasing Sean.

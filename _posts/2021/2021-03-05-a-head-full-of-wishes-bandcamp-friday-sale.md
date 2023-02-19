@@ -20,7 +20,7 @@ tags:
 ---
 
 Happy Bandcamp Friday! For today's celebration I've reduced prices of the two Galaxie 500 tribute albums I released in 2019 and 2020!
-{: .lead}
+
 
 ## On Fire 30
 <div class="p-3 w-25 float-right"><img class="img-fluid" src="https://media.fullofwishes.co.uk/00-misc/ahfow-30/on-fire-30-cd-cover.jpg" alt="Cover of the On Fire 30 CD"></div>

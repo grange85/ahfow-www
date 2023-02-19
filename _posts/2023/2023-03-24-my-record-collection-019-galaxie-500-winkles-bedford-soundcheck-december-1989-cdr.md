@@ -22,7 +22,7 @@ tags:
 date: 2023-03-24 00:00 +0000
 ---
 In July 2012 Lori emailed me "we found some pictures that we took at the Galaxie 500 ICA gig [...] also I've got an audio of the soundcheck they did at Winkles in Bedford" - sometimes brilliant things like this happen out of the blue ... not as often as I'd like but maybe that makes it more special when it does?
-{: .lead }
+
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-winkles-1989-cdr.jpg" "CDR of Galaxie 500 soundcheck at Winkles in 1989" %}
 
 The CDR duly arrived with short soundcheck snippets of "When Will You Come Home", "Pictures", "Flowers" and "Blue Thunder" and Lori's explanation:

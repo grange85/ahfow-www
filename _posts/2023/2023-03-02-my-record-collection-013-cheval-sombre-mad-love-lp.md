@@ -19,7 +19,7 @@ tags:
 date: 2023-03-02 00:00 +0000
 ---
 This is the second Cheval Sombre LP and came out on Sonic Cathedral in November 2012. It features contributions from Dean Wareham, on two tracks, and Britta Phillips on two tracks - but neither on the same track.
-{: .lead }
+
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/cheval-sombre-mad-love-lp.jpg" "Cheval Sombre - Mad Love" %}
 
 The sleeve has some astounding artwork by Sharon Lock that I guess was insipired by the [heartbreaking letters of Emma Hauck](https://lettersofnote.com/2011/08/17/sweetheart-come/). Sharon's cover art will turn up a few more times in _my record collection_, and is always breathtaking or provoking or eye-catching, or ... all three. 

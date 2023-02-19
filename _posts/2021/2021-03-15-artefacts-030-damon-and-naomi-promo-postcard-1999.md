@@ -20,7 +20,7 @@ tags:
 {% ahfowimage "https://lh3.googleusercontent.com/d_1J9DkcedRWh1C7HQ8fbavbUBunAF7AKo36CCt1myW-xsxaiFNjjl_Pk5JhT02ZQDLhK9zGFQdYAlcMesW4yOQ110lCDj2xayrMiKQJFkNRNmzkOXqmrf9lijxdYrZJALf-EK1Uw9I=w800" "Damon & Naomi promo postcard, front - 1999" %}
 
 This promo postcard was sent to me by Andrea Troolin with a copy of the single that Damon & Naomi had released on her label Grimsey Records. This is actually Andrea's second appearance in the [artefacts series](/category/artefacts/) as she was the person who helped make the Galaxie 500 box set a reality and sent me the promo of Copenhagen that featured in [Artefacts #001](/2019/06/07/artefacts-001-galaxie-500-advance-cd/).
-{: .lead}
+
 
 <!--more-->
 

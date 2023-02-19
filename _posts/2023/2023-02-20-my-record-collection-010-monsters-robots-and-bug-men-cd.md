@@ -18,7 +18,7 @@ tags:
 date: 2023-02-20 00:00 +0000
 ---
 I have a feeling that I _did_ pick Monsters, Robots and Bug Men up in the Ealing Broadway HMV, although have no evidence. It might seem strange finding a release with Magic Hour<sup>&dagger;</sup> on in Ealing, but this compilation was released by Virgin, so probably did get a decent distribution.
-{: .lead }
+
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/monsters-robots-bug-men-cd.jpg" "Monsters, Robots and Bug Men" %}
 
 This double CD compilation is subtitled _a user's guide to the rock hinterland_ and as well as Magic Hour (which is why it's in this series) it has tracks by the likes of Bardo Pond, Fuxa, Windy & Carl and Pram - so I guess the subtitle isn't too far wrong. The closest it gets to mainstream might be Mercury Rev's appearance but it was pre-Deserter's Songs so still not _that_ mainstream.

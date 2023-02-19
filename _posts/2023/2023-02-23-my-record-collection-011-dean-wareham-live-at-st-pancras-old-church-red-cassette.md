@@ -19,7 +19,7 @@ tags:
 date: 2023-02-23 00:00 +0000
 ---
 Recorded across two nights as St Pancras Old Church in London and released on two different coloured cassettes by Sonic Cathedral - this is the red one. I might start getting embarrassed about how good the ex-members of Galaxie 500 are to me but this was given to me by Dean after his show at The Prince Albert in Brighton in May 2014.
-{: .lead }
+
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dw-live-at-st-pancras-red-mc.jpg" "Dean Wareham live at St Pancras Old Church - red" %}
 
 BTW, I can't be sure but suspect that the download code in that photo has probably never been redeemed - so ... if you're quick you can get yourself a free download of this fab little release!

@@ -18,7 +18,7 @@ tags:
  - RIP Tom Verlaine
 ---
 It has been confirmed that influential guitarist and songwriter Tom Verlaine has died at the age of 73. Tom guested on two songs on Luna's LP Penthouse - on the Life of The Record Podcast in 2020 Dean Wareham talked about how this came about.
-{: .lead }
+
 {% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/tom-verlaine-dean-wareham-photo-bp.jpg" "Tom Verlaine with Dean Wareham (photo: Britta Phillips pinched from Dean's Instagram)" "https://www.instagram.com/p/Cn-3aDALuCV/" %}
 
 > “Moon Palace” is one of my favorite Luna songs. It features a great guitar solo by Tom Verlaine. Mario said he could get Tom in to play on the record if we gave him some of our studio time so that was the deal that we did. Tom liked to work late so it really didn’t matter. He’d come in at 10pm and work for hours. He plays on “Moon Palace” and he plays a long guitar solo on “23 Minutes in Brussels.” It’s great listening to him play. He doesn’t use any pedals or tricks, just his fingers and the Stratocaster or Jazzmaster, whatever he’s playing. He uses the volume knob, he sort of swells. Whatever he’s doing, you know it’s him immediately. He’s a unique player, which I think is the highest compliment you can pay a musician really, not that they can shred. Well that’s a different kind of compliment, not that they can do incredible things at high speed but that they have a sound that only they have.  

@@ -18,7 +18,7 @@ tags:
  - bandcamp
 ---
 Today is the last Bandcamp Friday of the year so time to fill your boots before Christmas and since Bandcamp waive their fee all of your cash reaches the pockets of the artists.
-{: .lead}
+
 
 My [long list of AHFoW related releases on Bandcamp is over here](https://www.fullofwishes.co.uk/articles/bandcamp-releases/) - I've added a few things but there is certainly things missing!
 

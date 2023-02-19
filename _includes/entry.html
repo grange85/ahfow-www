@@ -22,7 +22,8 @@
 				        </ul>
 		    	    {% endif %}
 				
-				{{ content }}
-
+				{% assign paragraphs = page.content | newline_to_br | strip_newlines | split: "<br />" %}
+				{% assign firstpara = true %}{% for paragraph in paragraphs %}{% if paragraph != "" %}
+					{% if firstpara %} <div class="lead">{{ paragraph }}</div>{% else %}{{ paragraph }}{% endif %}{% endif %}{% assign firstpara = false %}{% endfor %}
 			</div>
 		</div>

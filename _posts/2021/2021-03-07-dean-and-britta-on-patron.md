@@ -22,7 +22,7 @@ tags:
 {% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/dean-and-britta-patreon-screencap.png" "Dean & Britta on Patreon" %}
 
 Dean & Britta have just [started a Patreon account](https://www.patreon.com/deanandbritta) where fans can support them financially in return for monthly rewards. Each month the duo will be publishing unreleased music, chapters from an audiobook and early access to news and merchandise.
-{: .lead}
+
 
 There are currently two tiers of membership:
 

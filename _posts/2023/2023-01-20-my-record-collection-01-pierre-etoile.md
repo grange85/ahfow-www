@@ -17,7 +17,7 @@ tags:
  - pierre etoile
 ---
 So, here's the first random entry from my record collection and, in what will probably turn out to be an unusual turn of events, I can actually remember where I bought this one. 
-{: .lead }
+
 On 8th April 1991, three days after their last show [Galaxie 500 split](/2021/04/05/the-end-of-galaxie-500-30-years-on/). 
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/pierre-etoile-spinning-2023.jpg" "Pierre Etoile" %}

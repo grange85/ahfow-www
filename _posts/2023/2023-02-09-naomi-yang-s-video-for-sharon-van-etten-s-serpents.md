@@ -19,7 +19,7 @@ tags:
 - serpents
 ---
 Back in 2011 Naomi made a video for Sharon Van Etten's song 'Serpents' that never at the time saw the light of day. Now, ahead of the imnminent 11th anniversary (!?) reissue the video is finally getting out there.
-{: .lead }
+
 {% ahfowvideo "WyBZPrS9uQI" "Sharon Van Etten - Serpents (Naomi Yang, 2011)" "https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/sve-serpents-naomi-yang-01.jpg" %}
 
 > Finally out tomorrow!!! After 11 years!!! The music video I made for Sharon Van Etten and her song “Serpents.” Lighting design and projections by the secret weapon of many a rock star, Susanne Sasic.  

@@ -20,7 +20,7 @@ tags:
 {% ahfowimage "https://lh3.googleusercontent.com/89mC15wJp-iOiMggHoQFXrvR0SV9AxPyxkhQpxb3Iu-bTFVoTgOk0_sz0ly6zRwgtbygWcIED-EFq5n8dsXJWVWf5V8DIcn38KT7R1OCl3-wpQlzJGFkbbR_GYsA-nkLiV7mS2dQt2E=w800" "Damon & Naomi at Terrastock cassette (1997)" %}
 
 As it should have been Tom Rapp's 74th birthday today's artefact is a recording of Damon & Naomi at the first Terrastock festival in Providence, RI in 1997
-{: .lead}
+
 
 The cassette was recorded by Tom and he sent it to me unannouced shortly after the show - he also joins the duo on stage for a fantastic cover of Bob Dylan's I Shall Be Released. That track (more professionally recorded) was released on a Terrastock tribute CD - but there's always something a bit special about an audience recording so...
 
