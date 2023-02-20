@@ -5,29 +5,9 @@
 @import "vars";
 @import "scss/bootstrap.scss";
 
-.jumbotron {
-	background-image: url(https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image-1280x720-no-text.jpg);
-	background-size: cover;
-	background-position: right center;
-	background-color: $primary;
-}
-h1 {
-}
-
 /**
  * Images
  */
-
-.sddefault {
-  object-fit: cover;
-  width: 640px; 
-  height: 360px; 
-  background-position-y: -60px;
-}
-
-.sddefault:hover {
-  opacity:0.7!important;
-}
 
 .opacity-0 {
   opacity:0!important;
