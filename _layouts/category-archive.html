@@ -1,24 +1,18 @@
 ---
-layout: home
-pagination:
- enabled: true
+layout: default
 ---
-
 	{% include breadcrumbs.html %}
-
 				<div class="row">
 					<div class="col">
 
 						<h2>Posts with {{ page.type }} '{{ page.title }}'</h2>
 						<div class="table-responsive">
-							<table class="table table-striped">
+							<table class="table">
 								{% for post in page.posts %}
-								{% unless post.draft %}
-								<tr>
-									<th>{{ post.date | date: "%-d %B %Y" }}</th>
+								<tr class="">
+									<th scope="row">{{ post.date | date: "%-d %B %Y" }}</th>
 									<td><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{% if post.series-title %}{{ post.series-title }} {% endif %}{{ post.title }}</a></td>
 								</tr>
-								{% endunless %}
 								{% endfor %}
 							</table>
 						</div>
