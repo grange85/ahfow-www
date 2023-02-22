@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "RIP Hamish Kilgour"
 author: 
   display_name: Andy

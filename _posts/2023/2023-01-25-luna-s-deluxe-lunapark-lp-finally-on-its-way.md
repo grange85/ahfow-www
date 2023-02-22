@@ -2,7 +2,6 @@
 layout: post
 title: Luna's deluxe Lunapark LP finally on its way
 date: 2023-01-25 12:38 +0000
-sitemap: true
 author:
   display_name: Andy
   login: admin

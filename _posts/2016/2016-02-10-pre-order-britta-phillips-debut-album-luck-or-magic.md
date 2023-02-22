@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Pre-order Britta Phillips' debut album Luck or Magic"
 author:
   display_name: Andy

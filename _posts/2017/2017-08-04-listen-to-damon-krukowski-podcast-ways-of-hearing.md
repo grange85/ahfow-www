@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Listen to Damon Krukowski's new podcast Ways of Hearing
 author:
   display_name: Andy

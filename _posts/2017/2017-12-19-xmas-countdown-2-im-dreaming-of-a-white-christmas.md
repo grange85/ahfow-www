@@ -1,8 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
-sitemap: true
 title: "Xmas countdown 2: I'm dreaming of a white Christmas"
 author:
   display_name: Andy

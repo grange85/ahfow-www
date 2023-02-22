@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: On Fire | 30 out today
 author:
   display_name: Andy

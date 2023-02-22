@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: 'I''m sitting on a big soft popcorn - Luna in The USA and the UK (1: Alexandria)'
 author:
   display_name: Joakim Bengtsson

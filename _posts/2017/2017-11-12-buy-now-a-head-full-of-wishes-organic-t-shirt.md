@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Buy now! A Head Full of Wishes organic cotton T-shirt
 author:
   display_name: Andy

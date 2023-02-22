@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Damon & Naomi add Madrid show to their short European tour in April"
 author:
   display_name: Andy

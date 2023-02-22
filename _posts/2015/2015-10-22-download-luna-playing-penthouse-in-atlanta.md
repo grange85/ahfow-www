@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Download: Luna playing Penthouse in Atlanta on NYCTaper"
 author:
   display_name: Andy

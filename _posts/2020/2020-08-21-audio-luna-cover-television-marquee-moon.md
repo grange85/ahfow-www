@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Audio: Luna cover Television's Marquee Moon"
 author:
   display_name: Andy

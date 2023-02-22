@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Dean Wareham interview for Mexican show VIBES"
 author: 
   display_name: Andy

@@ -2,7 +2,6 @@
 layout: post
 title: Luna's SF show from last week available on Dimeadozen
 date: 2023-01-22 23:20 +0000
-sitemap: true
 author:
   display_name: Andy
   login: admin

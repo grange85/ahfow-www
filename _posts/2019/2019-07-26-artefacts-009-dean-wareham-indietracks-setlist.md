@@ -1,6 +1,5 @@
 ---
 layout: post
-sitemap: true
 series-title: "Artefacts" 
 title: "#009: Dean Wareham's Indietracks setlist"
 author:

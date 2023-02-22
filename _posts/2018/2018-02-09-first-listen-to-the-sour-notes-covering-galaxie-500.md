@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
 draft: false
-published: true
-sitemap: true
 title: "First listen: The Sour Notes cover Galaxie 500's Fourth of July"
 author:
   display_name: Andy

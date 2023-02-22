@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Audio: Lost tracks: Luna - Early Morning"
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 imageurl: https://lh3.googleusercontent.com/RxqGJQP7ZGxWyzcBssfCq4QwKUtlBrnUodg9OJKTvuFy1ys3i6O4HC7bkU2l9vrDnohxha8S5hqahZFYS6ca_qCwOKlT0UA6k8qamYSSHbw7kmbfIDht4oHC72TP-qPUOAMse2i-Nlw=w2400
 date: 2021-05-21 10:30
 categories:

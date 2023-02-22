@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Damon, and Damon & Naomi in London
 author:
   display_name: Andy

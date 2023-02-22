@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Review: Dean & Britta's last live streamed shows of the season"
 author:
   display_name: Andy

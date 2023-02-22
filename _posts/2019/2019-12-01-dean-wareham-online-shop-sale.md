@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Discounts in Dean Wareham's online shop until midnight Monday 2nd December
 author:
   display_name: Andy

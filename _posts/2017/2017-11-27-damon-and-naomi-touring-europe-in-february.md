@@ -1,8 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
-sitemap: true
 title: Damon & Naomi touring Europe in February
 author:
   display_name: Andy

@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "On Fire - side 2, track 1: Decomposing Trees"
 author:
   display_name: Michael Williams

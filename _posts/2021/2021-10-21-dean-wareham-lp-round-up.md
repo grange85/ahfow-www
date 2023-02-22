@@ -1,9 +1,7 @@
 ---
 layout: post
-status: publish
 published: true 
 draft: false
-sitemap: true
 title: Dean Wareham LP round-up and Zoom listening party
 author:
   display_name: Andy

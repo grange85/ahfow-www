@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Friday recycling: Dean & Britta 13 Most Beautiful"
 author:
   display_name: Andy

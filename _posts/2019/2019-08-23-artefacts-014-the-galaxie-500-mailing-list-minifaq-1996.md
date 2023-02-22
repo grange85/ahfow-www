@@ -1,6 +1,5 @@
 ---
 layout: post
-sitemap: true
 series-title: "Artefacts" 
 title: "#014: The Galaxie 500 Mailing List miniFaq, 1996"
 author:

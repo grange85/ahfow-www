@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
 draft: false
-published: true
-sitemap: true
 title: "Buy some rare Galaxie 500 vinyl and some new T-shirts"
 author:
   display_name: Andy

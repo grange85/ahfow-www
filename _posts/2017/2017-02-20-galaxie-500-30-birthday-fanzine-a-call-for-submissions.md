@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Galaxie 500's 30th birthday - a call for contributions
 author:
   display_name: Andy

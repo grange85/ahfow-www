@@ -2,7 +2,6 @@
 layout: post
 title: "#012: International Sad Hits Volume One (CD)"
 series-title: My record collection
-sitemap: true
 author:
   display_name: Andy
   login: admin

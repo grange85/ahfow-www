@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Mp3: Lost tracks #5 - Damon & Naomi - Spirit of Love'
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2009-05-20'
 categories:
 - damon & naomi

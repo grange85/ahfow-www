@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Video: Galaxie 500 at Glastonbury'
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-06-22/1990-06-22-galaxie-500-glastonbury-robert-richard-flickr-cc.jpg
 date: '2012-05-18'
 categories:

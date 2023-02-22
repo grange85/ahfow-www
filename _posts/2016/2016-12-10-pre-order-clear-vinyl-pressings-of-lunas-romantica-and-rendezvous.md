@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Pre-order clear vinyl pressings of Luna's Romantica and Rendezvous
 author:
   display_name: Andy

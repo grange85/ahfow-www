@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Dean Wareham picks five albums that shaped him for Sound Opinions"
 author: 
   display_name: Andy

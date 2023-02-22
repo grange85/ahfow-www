@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Twenty Galaxie 500 covers for 2020
 author:
   display_name: Andy

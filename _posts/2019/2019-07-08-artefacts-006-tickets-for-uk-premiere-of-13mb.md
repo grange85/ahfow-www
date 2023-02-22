@@ -1,6 +1,5 @@
 ---
 layout: post
-sitemap: true
 series-title: "Artefacts" 
 title: "#006: Tickets for the UK premiere of 13 Most Beautiful"
 author:

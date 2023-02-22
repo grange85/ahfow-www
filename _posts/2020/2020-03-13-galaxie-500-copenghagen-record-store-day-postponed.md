@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Record Store Day release of Copenhagen postponed
 author:
   display_name: Andy

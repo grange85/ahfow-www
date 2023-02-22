@@ -1,6 +1,5 @@
 ---
 layout: post
-sitemap: true
 series-title: "Artefacts" 
 title: "#010: Cassette of answerphone message"
 author:

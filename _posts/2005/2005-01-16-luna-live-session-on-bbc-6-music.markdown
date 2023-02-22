@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Luna live session on BBC 6 Music
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2005-01-16'
 categories:
 - luna

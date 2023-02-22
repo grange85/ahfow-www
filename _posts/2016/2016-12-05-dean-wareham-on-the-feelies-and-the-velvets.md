@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Dean Wareham on The Feelies and The Velvets"
 author:
   display_name: Andy

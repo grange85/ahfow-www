@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "New video for Friends from Luna's A Sentimental Education"
 author:
   display_name: Andy

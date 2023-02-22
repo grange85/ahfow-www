@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Dean Wareham's "Luna Demos" vinyl release in September
 author:
   display_name: Andy

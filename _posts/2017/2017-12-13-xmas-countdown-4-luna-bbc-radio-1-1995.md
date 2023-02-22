@@ -1,8 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
-sitemap: true
 title: "Xmas countdown 4: Luna on Radio 1 in 1995"
 author:
   display_name: Andy

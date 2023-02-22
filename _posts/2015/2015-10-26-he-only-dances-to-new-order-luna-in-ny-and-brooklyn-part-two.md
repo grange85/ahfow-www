@@ -1,15 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'He only dances to New Order - Luna in New York and Brooklyn, part two: Thursday '
 author:
   display_name: Joakim Bengtsson
   login: joakim
   email: joakim@fullofwishes.co.uk
   url: ''
-author_login: joakim
-author_email: joakim@fullofwishes.co.uk
 date: '2015-10-25'
 categories:
 - luna

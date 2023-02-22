@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: On the 20th anniversary of Galaxie 500
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1987-08-29/1987-08-29-galaxie-500-front-st.jpg
 date: '2007-08-28'
 categories:

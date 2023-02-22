@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Audio: Download Luna's Penthouse show from NYC last weekend"
 author:
   display_name: Andy

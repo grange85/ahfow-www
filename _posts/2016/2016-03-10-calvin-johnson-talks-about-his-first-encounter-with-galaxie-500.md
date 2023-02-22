@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Calvin Johnson talks about his first encounter with Galaxie 500"
 author:
   display_name: Andy

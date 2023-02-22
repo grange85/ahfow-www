@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Naomi Yang's video for Dear Eloise's Something Beautiful to Share
 author:
   display_name: Andy

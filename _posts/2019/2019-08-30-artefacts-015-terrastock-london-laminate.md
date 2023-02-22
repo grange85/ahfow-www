@@ -1,6 +1,5 @@
 ---
 layout: post
-sitemap: true
 series-title: "Artefacts" 
 title: "#015: Laminated pass for Terrastock 3 festival in London"
 author:

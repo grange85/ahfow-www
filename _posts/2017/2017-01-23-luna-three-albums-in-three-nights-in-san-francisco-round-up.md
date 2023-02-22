@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Luna play three albums in three nights in SF (a round-up)
 author:
   display_name: Andy

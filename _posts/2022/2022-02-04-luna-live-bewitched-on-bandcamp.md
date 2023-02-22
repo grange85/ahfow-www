@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Luna release 'Live Bewitched' on Bandcamp"
 author: 
   display_name: Andy

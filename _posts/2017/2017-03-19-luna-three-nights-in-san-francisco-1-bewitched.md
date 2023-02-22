@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: 'Suddenly someone picks you up, you can fly. Luna - three nights in San Francisco (1: Bewitched)'
 author:
   display_name: Joakim Bengtsson

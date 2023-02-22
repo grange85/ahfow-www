@@ -1,15 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Peaceful, comforting, the busy streets - Luna in New York and Brooklyn, part three: Friday'
 author:
   display_name: Joakim Bengtsson
   login: joakim
   email: joakim@fullofwishes.co.uk
   url: ''
-author_login: joakim
-author_email: joakim@fullofwishes.co.uk
 date: '2015-10-29'
 categories:
 - luna

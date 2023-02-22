@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Dean Wareham dates in UK postponed until January 2021
 author:
   display_name: Andy

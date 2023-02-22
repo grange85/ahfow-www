@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Video: Damon & Naomi - Listen The Snow is Falling in Berlin in 2016"
 author:
   display_name: Andy

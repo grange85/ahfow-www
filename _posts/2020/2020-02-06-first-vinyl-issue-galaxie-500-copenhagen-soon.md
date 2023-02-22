@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: First vinyl issue of Galaxie 500's Copenhagen coming soon
 author:
   display_name: Andy

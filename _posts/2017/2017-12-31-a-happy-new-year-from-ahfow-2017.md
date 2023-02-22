@@ -1,8 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
-sitemap: true
 title: "Happy New Year from A Head Full of Wishes"
 author:
   display_name: Andy

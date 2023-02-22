@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "On Fire - side 1, track 3: Snowstorm"
 author:
   display_name: Andy

@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Dean Wareham releases live Holding Pattern for COVID-19 relief compilation
 author: 
   display_name: Andy

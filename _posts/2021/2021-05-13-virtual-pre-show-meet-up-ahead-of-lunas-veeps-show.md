@@ -2,7 +2,6 @@
 layout: post
 status: publish 
 draft: false
-sitemap: true
 title: "Virtual pre-show meet-up before Saturday's Luna live streamed show"
 author:
   display_name: Andy

@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: 'We have come out to play - Luna in The USA and the UK (4: Brooklyn day two)'
 author:
   display_name: Joakim Bengtsson

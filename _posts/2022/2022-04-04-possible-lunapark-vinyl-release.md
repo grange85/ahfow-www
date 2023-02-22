@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Vote to get a deluxe vinyl release of Lunapark"
 author: 
   display_name: Andy

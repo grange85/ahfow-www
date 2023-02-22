@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Video: Dean & Britta  on 'The Indie Rock Hit Parade'"
 author:
   display_name: Andy

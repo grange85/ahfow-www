@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Bandcamp Friday - a round-up
 author:
   display_name: Andy

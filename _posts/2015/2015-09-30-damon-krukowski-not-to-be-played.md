@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Extracurricular: Damon Krukowski 'NOT TO BE PLAYED' exhibition"
 author:
   display_name: Andy

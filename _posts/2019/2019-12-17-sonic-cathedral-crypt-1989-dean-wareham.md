@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Sonic Cathedral Crypt poster 'zine 1989 special with Dean Wareham"
 author:
   display_name: Andy

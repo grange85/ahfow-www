@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Luna add a Paris date to their tour in October'
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2016-07-14'
 imageurl: https://c8.staticflickr.com/8/7077/7010719271_da9a7857f6_b.jpg
 categories:

@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'A Head Full of Wishes elsewhere: all over the Internet like a rash (slight
   return)'
 author:
@@ -9,9 +7,6 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2012-05-24'
 categories:
 - admin

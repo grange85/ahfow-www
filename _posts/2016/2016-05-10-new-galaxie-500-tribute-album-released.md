@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'New Galaxie 500 tribute album released'
 author:
   display_name: Andy

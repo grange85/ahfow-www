@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Get A Head Full of Wishes updates via email"
 author:
   display_name: Andy

@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Review: Dean Wareham in London, Worthing and Newcastle"
 author: 
   display_name: Andy

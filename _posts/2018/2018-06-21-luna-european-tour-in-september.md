@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
 draft: false
-published: true
-sitemap: true
 title: "Luna's European tour in September"
 author:
   display_name: Andy

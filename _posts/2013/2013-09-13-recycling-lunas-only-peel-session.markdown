@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Recycling: Luna''s only Peel Session'
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1992_b.jpg
 date: '2013-09-13'
 categories:

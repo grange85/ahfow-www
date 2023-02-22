@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Video: Luna soundcheck Most of The Time"
 author:
   display_name: Andy

@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Nick Scalera on Galaxie 500's On Fire on Rockin' The Suburbs
 author:
   display_name: Andy

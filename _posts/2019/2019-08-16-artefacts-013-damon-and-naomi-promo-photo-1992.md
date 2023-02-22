@@ -1,6 +1,5 @@
 ---
 layout: post
-sitemap: true
 series-title: "Artefacts" 
 title: "#013: Damon & Naomi Shimmy Disc promo photo"
 author:

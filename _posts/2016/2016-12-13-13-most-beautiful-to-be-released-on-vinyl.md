@@ -1,10 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 pinned: true
 draft: false
-sitemap: true
 title: 13 Most Beautiful to get released on vinyl
 author:
   display_name: Andy

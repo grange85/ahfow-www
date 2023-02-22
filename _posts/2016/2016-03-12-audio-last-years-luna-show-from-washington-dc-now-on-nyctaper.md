@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Audio: Last year's Luna show from Washington DC now up on NYCTaper"
 author:
   display_name: Andy

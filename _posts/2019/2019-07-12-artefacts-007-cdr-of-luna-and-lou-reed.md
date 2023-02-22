@@ -1,6 +1,5 @@
 ---
 layout: post
-sitemap: true
 series-title: "Artefacts" 
 title: "#007: CDR of Luna and Lou Reed playing Ride Into The Sun"
 author:

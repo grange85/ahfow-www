@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Download: Galaxie 500 @ The College of Building & Printing, Glasgow - 3rd
   November 1990'
 author:
@@ -9,9 +7,6 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2007-11-05'
 categories:
 - news

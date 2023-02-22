@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "T-shirts, vinyl, CDs, DVDs, posters and some rare gems for sale in the Dean Wareham online shop"
 author:
   display_name: Andy

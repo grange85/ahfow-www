@@ -1,9 +1,7 @@
 ---
 layout: post
-status: publish
 published: true 
 draft: false
-sitemap: true
 title: Dean Wareham guests on WFMU's Three Chord Monte
 author:
   display_name: Andy

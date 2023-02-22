@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Luna in Oxford, London and Bognor Regis - a quick round-up"
 author:
   display_name: Andy

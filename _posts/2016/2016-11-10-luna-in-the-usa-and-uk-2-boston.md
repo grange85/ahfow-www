@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: 'The drink will stir itself - Luna in The USA and the UK (2: Boston)'
 author:
   display_name: Joakim Bengtsson

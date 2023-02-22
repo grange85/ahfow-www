@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Happy Birthday Britta Phillips (2021 edition)
 author:
   display_name: Andy

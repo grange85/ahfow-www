@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: A Tribute to Luna and Dean Wareham at The Social
 author:
   display_name: Andy

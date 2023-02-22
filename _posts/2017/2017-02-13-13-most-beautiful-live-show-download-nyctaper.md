@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: 13 Most Beautiful live in Philadelphia available on NYCTaper
 author:
   display_name: Andy

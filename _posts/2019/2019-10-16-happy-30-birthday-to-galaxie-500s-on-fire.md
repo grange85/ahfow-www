@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Happy 30th birthday to Galaxie 500's On Fire"
 author: 
   display_name: Andy

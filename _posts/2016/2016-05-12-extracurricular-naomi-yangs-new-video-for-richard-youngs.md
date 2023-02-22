@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Extracurricular: Naomi Yang's new video for Richard Youngs"
 author:
   display_name: Andy

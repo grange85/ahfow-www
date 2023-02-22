@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: New Damon & Naomi album, A Sky Record, coming in August
 author:
   display_name: Andy

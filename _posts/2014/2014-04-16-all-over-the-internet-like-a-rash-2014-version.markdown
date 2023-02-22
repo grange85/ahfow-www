@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: All over the internet like a rash - 2014 version
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2014-04-16'
 categories:
 - admin

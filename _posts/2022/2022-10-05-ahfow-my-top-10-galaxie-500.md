@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'A Head Full of Wishes'' Top 10 Galaxie 500 songs'
 author:
   display_name: Andy
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@grange85.co.uk
-author_url: http://www.grange85.co.uk
 date: 2022-10-05
 imageurl: https://media.fullofwishes.co.uk/images/ahfow-t-shirt.jpg
 categories:

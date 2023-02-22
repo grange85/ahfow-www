@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Video: Damon & Naomi live in Barcelona in 2018"
 author:
   display_name: Andy

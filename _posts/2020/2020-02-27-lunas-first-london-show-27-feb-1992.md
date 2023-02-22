@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Luna's first London show, 27th February 1992
 author:
   display_name: Andy

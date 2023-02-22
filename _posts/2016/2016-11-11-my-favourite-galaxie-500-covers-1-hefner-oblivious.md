@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "My favourite Galaxie 500 covers #1: Hefner - Oblivious"
 author:
   display_name: Andy

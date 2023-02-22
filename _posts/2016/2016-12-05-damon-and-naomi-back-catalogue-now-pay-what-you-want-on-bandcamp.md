@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Damon & Naomi back catalogue now pay what you want on bandcamp"
 author:
   display_name: Andy

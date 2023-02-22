@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Dean Wareham's UK dates postponed again"
 author: 
   display_name: Andy

@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "25 years ago - Luna in London"
 author: 
   display_name: Andy

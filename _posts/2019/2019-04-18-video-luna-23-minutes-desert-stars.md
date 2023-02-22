@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Video: Luna playing 23 Minutes in Brussels at the Desert Stars festival"
 author:
   display_name: Andy

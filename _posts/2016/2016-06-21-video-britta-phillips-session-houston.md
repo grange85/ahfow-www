@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Video of Britta Phillips session at The Geary Studio, Houston
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2016-06-21'
 imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/2016-05-britta-phillips-houston-public-media-01.jpg
 categories:

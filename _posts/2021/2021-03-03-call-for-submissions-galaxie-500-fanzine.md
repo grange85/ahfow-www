@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Call for submissions - Everything's Swirling: A Galaxie 500 fanzine"
 author:
   display_name: Andy

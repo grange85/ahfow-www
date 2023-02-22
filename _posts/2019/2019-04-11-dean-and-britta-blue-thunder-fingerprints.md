@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Video: Dean & Britta playing Blue Thunder"
 author:
   display_name: Andy

@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'There is always a story to tell - Luna in Texas (1: Dallas)'
 author:
   display_name: Joakim Bengtsson

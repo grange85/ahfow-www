@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Luna dates in Texas this week, plus two new shows in Brooklyn announced for October"
 author:
   display_name: Andy

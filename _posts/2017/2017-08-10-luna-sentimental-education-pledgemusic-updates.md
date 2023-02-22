@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Luna - A Sentimental Education: Pledgemusic updates"
 author:
   display_name: Andy

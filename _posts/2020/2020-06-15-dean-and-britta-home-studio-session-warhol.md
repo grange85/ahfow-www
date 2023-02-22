@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Dean & Britta perform a home session for the Andy Warhol Museum
 author:
   display_name: Andy

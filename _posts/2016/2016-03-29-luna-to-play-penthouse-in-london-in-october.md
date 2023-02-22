@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Luna to play Penthouse in London in October"
 author:
   display_name: Andy

@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Limited edition blue swirl vinyl release of Galaxie 500's This Is Our Music
 author:
   display_name: Andy

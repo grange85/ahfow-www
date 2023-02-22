@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'The first (and probably only) A Head Full of Wishes podcast: How does LUNA make you feel?'
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2016-06-01'
 imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/POSTCARDS_004.jpg
 enclosure:

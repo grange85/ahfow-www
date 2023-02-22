@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: New Luna T-shirt available to order now
 author:
   display_name: Andy

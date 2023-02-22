@@ -1,6 +1,5 @@
 ---
 layout: post
-sitemap: true
 series-title: "Artefacts" 
 title: "#018: Angry Women in Rock Volume One with Naomi Yang"
 author:

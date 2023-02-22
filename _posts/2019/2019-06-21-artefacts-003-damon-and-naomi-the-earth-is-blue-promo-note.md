@@ -1,6 +1,5 @@
 ---
 layout: post
-sitemap: true
 series-title: "Artefacts" 
 title: "#003: Damon & Naomi The Earth is Blue LP and note"
 author:

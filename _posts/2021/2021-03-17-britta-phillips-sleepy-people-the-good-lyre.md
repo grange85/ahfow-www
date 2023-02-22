@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Britta Phillips on new album The Good Lyre in aid of Sweet Relief"
 author:
   display_name: Andy

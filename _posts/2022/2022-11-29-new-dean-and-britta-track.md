@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "New Dean & Britta track on the soundtrack to Noah Baumbach's White Noise"
 author: 
   display_name: Andy

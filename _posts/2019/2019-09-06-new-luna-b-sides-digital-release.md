@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "New digital only Luna EP of b-sides and rarities out now"
 author:
   display_name: Andy

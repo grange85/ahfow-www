@@ -1,6 +1,5 @@
 ---
 layout: post
-sitemap: true
 series-title: "Artefacts" 
 title: "#008: Luna - Going Home (demo) flexidisc"
 author:

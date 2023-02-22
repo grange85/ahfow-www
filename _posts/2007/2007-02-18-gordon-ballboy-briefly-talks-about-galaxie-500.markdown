@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Gordon Ballboy (briefly) talks about Galaxie 500
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2007-02-18'
 categories:
 - news

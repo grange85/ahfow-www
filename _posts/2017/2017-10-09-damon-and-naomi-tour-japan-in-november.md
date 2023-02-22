@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Damon & Naomi touring Japan with Kurihara in November"
 author:
   display_name: Andy

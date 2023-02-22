@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Tell Me Do You Miss Me live LP coming soon
 author:
   display_name: Andy

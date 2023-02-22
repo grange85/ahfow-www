@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Stanley Demeski guests with Luna in Brooklyn last night"
 author:
   display_name: Andy Aldridge

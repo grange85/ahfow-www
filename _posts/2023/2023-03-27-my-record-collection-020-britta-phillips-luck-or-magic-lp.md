@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "#020: Britta Phillips - Luck or Magic (LP)"
-sitemap: true
 series-title: My record collection
 author:
   display_name: Andy

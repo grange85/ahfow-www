@@ -1,6 +1,5 @@
 ---
 layout: post
-sitemap: true
 series-title: 'My record collection'
 title: '#003: Dean Wareham - Emancipated Hearts (CD)'
 author:

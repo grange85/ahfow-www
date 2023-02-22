@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Full shows to download on Dimeadozen"
 author:
   display_name: Andy

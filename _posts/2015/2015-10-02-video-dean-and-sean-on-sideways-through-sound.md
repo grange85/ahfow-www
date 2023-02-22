@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Video: Dean and Sean playing a radio session in Australia last month"
 author:
   display_name: Andy

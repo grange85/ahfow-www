@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Video: Dean & Britta cover Simon & Garfunkel"
 author: 
   display_name: Andy

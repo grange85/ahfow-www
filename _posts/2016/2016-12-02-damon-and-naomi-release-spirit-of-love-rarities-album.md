@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Damon & Naomi release Spirit of Love (B​-​sides, bonuses, and soundtracks)"
 author:
   display_name: Andy

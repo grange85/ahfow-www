@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Luna on Last Call with Carson Daly on Wednesday night"
 author:
   display_name: Andy

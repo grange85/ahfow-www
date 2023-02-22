@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "New merch gives you new places to wear your Galaxie 500 alegience"
 author:
   display_name: Andy

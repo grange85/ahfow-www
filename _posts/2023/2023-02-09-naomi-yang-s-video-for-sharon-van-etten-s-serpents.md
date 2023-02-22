@@ -3,7 +3,6 @@ layout: post
 title: Naomi Yang's video for Sharon Van Etten's 'Serpents'
 date: 2023-02-09 10:04 +0000
 series-title:
-sitemap: true
 author:
   display_name: Andy
   login: admin

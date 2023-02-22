@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Dean Wareham talks Penthouse for the Life of The Record podcast
 author: 
   display_name: Andy

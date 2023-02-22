@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Video: Luna rehearsing Friendly Advice with Justin Harwood" 
 author: 
   display_name: Andy

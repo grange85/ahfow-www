@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: New Release - Dean & Britta Quarantine Tapes 7" box set
 author:
   display_name: Andy

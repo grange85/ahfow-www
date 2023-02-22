@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: New Dean Wareham LP available to pre-order now
 author:
   display_name: Andy

@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Dean & Britta and Yo La Tengo to play a Velvet Underground show in Philadelphia'
 author:
   display_name: Andy

@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Damon & Naomi live date in New York City next month
 author:
   display_name: Andy

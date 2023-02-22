@@ -1,15 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'A beautiful light fills the room - Luna in New York and Brooklyn, part one: Wednesday '
 author:
   display_name: Joakim Bengtsson
   login: joakim
   email: joakim@fullofwishes.co.uk
   url: ''
-author_login: joakim
-author_email: joakim@fullofwishes.co.uk
 date: '2015-10-22'
 categories:
 - luna

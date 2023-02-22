@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Britta Phillips guests on a new Slow Arrow EP"
 author:
   display_name: Andy

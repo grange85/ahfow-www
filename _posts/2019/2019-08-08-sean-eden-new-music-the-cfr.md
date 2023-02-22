@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "New music from Sean Eden with The CFR"
 author:
   display_name: Andy

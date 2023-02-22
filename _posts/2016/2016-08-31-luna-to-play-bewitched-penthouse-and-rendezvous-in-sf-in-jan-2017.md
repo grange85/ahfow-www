@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Luna to play Bewitched, Penthouse and Rendezvous in San Francisco in January 2017'
 author:
   display_name: Andy

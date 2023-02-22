@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Extracurricular: Naomi Yang's new video for Heather Trost's Agistri"
 author:
   display_name: Andy

@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "My favourite Galaxie 500 covers #3: ballboy - Tell Me"
 author:
   display_name: Andy

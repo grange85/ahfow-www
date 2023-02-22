@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Dean Wareham touring Europe with 'Exposed: Songs for Unseen Warhol Films' in May 2016"
 author:
   display_name: Andy

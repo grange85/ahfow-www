@@ -2,7 +2,6 @@
 layout: post
 status: publish 
 draft: false
-sitemap: true
 title: "Second Cheval Sombre album of the year available to pre-order from Friday"
 author:
   display_name: Andy

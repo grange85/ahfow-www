@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Happy 80th birthday Bob Dylan from AHFoW"
 author:
   display_name: Andy

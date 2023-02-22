@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Luna in Japan (pictures and setlists)
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2004-10-18'
 categories:
 - luna

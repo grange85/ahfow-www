@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Dean Wareham dates in France, The Netherlands, Germany and Denmark cancelled
 author:
   display_name: Andy

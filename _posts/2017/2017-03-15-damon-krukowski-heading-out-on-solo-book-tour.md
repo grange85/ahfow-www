@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Damon Krukowski heading out on a solo tour to promote The New Analog
 author:
   display_name: Andy

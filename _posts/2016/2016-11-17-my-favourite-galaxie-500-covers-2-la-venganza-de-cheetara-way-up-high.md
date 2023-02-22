@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "My favourite Galaxie 500 covers #2: La venganza de Cheetara - Way Up High"
 author:
   display_name: Andy

@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Buy now! Everything's Swirling - a Galaxie 500 30th birthday fanzine - 2nd run
 author:
   display_name: Andy

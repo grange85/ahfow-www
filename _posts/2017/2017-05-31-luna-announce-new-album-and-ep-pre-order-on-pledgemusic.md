@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Luna announce new album and EP - pre-order on Pledgemusic now"
 author:
   display_name: Andy

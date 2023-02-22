@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "On Fire commentary by Dean Wareham on Pandora"
 author:
   display_name: Andy

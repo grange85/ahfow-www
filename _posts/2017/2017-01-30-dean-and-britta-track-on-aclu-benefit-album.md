@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Dean & Britta track on ACLU benefit release
 author:
   display_name: Andy

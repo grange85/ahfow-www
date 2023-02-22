@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Damon Krukowski talks UMAW with the New York Times"
 author:
   display_name: Andy

@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Let's make the same mistake again - Happy Valentine's Day from @ahfow
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2015-02-14'
 categories:
 - luna

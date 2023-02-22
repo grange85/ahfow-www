@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Pre-order Dean & Britta's Back Numbers on vinyl"
 author:
   display_name: Andy

@@ -3,7 +3,6 @@ layout: post
 title: Dean Wareham on Tom Verlaine
 date: 2023-01-31 23:37 +0000
 series-title:
-sitemap: true
 author:
   display_name: Andy
   login: admin

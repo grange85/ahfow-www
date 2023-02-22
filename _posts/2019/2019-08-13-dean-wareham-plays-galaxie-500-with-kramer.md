@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Dean Wareham plays Galaxie 500 with Kramer
 author:
   display_name: Andy

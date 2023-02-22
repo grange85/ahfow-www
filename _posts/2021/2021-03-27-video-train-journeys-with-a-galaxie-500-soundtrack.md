@@ -2,7 +2,6 @@
 layout: post
 status: publish 
 draft: false
-sitemap: true
 title: "Video: Train travel with Galaxie 500 soundtrack"
 author:
   display_name: Andy

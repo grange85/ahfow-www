@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Happy birthday to Lee Wall
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 imageurl: https://live.staticflickr.com/7775/17107937187_f6ca17ab9f_b.jpg
 date: '2012-04-23'
 categories:

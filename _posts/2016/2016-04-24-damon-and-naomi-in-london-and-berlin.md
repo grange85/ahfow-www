@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: Damon & Naomi in London and Berlin
 author:
   display_name: Andy

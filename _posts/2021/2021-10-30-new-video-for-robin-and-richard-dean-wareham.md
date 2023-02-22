@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Video: New video for Dean Wareham's Robin and Richard"
 author: 
   display_name: Andy

@@ -1,8 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
-sitemap: true
 title: Luna's show at Brooklyn Steel now available to download from NYC Taper
 author:
   display_name: Andy

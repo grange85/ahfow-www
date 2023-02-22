@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Like a German version of Damo Suzuki - Luna in the UK, part four: Glasgow,
   Manchester and Stockholm'
 author:
@@ -9,8 +7,6 @@ author:
   login: joakim
   email: joakim@fullofwishes.co.uk
   url: ''
-author_login: joakim
-author_email: joakim@fullofwishes.co.uk
 date: '2015-08-19'
 categories:
 - luna

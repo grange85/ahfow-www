@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Luna cover The Cure''s "Fire in Cairo"'
 author:
   display_name: Andy

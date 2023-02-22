@@ -1,17 +1,12 @@
 ---
 layout: post
-status: publish
-published: true
 title: Happy birthday Dean Wareham (2014 edition)
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
 imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/justin-dean-mtv-rabbit.jpg
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2014-08-01'
 categories:
 - news

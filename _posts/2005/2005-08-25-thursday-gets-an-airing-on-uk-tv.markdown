@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Thursday gets an airing on UK TV"
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2005-08-25'
 categories:
 - luna

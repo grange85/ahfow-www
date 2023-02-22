@@ -1,6 +1,5 @@
 ---
 layout: post
-sitemap: true
 series-title: "Artefacts" 
 title: "#031: My copy of Dean Wareham's memoir 'Black Postcards'"
 author:

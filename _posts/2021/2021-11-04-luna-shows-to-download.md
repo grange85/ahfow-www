@@ -1,9 +1,7 @@
 ---
 layout: post
-status: publish
 published: true 
 draft: false
-sitemap: true
 title: Luna shows to download from Dimeadozen
 author:
   display_name: Andy

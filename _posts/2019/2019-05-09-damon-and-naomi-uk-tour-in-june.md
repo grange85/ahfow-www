@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Damon & Naomi UK dates confirmed for June
 author:
   display_name: Andy

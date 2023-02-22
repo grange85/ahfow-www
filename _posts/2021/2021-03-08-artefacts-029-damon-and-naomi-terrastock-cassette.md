@@ -1,6 +1,5 @@
 ---
 layout: post
-sitemap: true
 series-title: "Artefacts" 
 title: "#029: Cassette of Damon & Naomi at the first Terrastock festival"
 author:

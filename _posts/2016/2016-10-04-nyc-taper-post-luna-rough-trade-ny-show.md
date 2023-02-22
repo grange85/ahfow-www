@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "NYCTaper shares a recording of Luna's first night at Rough Trade NY"
 author:
   display_name: Andy

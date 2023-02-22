@@ -1,9 +1,7 @@
 ---
 layout: post
-status: publish
 published: true 
 draft: false
-sitemap: true
 title: "Video: Another track from Dean Wareham's upcoming album"
 author:
   display_name: Andy

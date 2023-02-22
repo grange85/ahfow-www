@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Video: Galaxie 500 in Manchester in 1990"	
 author: 
   display_name: Andy

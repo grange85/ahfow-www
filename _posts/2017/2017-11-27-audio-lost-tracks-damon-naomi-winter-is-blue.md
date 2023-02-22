@@ -1,8 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
-sitemap: true
 title: "Audio: Lost tacks: Damon & Naomi covering Vashti Bunyan's Winter is Blue"
 author:
   display_name: Andy

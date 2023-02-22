@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Luna get back on the road this week plus solo Britta show'
 author:
   display_name: Andy

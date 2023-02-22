@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Photo: Dean Wareham of Luna at MASS MoCA last weekend'
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2016-05-30'
 imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2016-05-28/2016-05-28-luna-mass-moca-thomas-barrasso-01.jpg
 categories:

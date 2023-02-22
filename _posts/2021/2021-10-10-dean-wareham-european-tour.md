@@ -1,9 +1,7 @@
 ---
 layout: post
-status: publish
 published: true 
 draft: false
-sitemap: true
 title: "Dean Wareham's European tour dates"
 author:
   display_name: Andy

@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Video: Luna's KEXP session from February has finally arrived online"
 author:
   display_name: Andy

@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Just announced: Luna full band livestream show"
 author:
   display_name: Andy

@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Damon & Naomi's Within These Walls released on vinyl
 author:
   display_name: Andy

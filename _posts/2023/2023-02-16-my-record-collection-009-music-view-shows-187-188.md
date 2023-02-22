@@ -2,7 +2,6 @@
 layout: post
 series-title: My record collection
 title: "#009: Music View Shows 187 & 188 (CD)"
-sitemap: true
 author:
   display_name: Andy
   login: admin

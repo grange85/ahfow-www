@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Video: Luna's mini tour of the US north east"
 author:
   display_name: Andy

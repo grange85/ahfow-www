@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Dean Wareham talks Nirvana Unplugged to Before The Stream"
 author: 
   display_name: Andy

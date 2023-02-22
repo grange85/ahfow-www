@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
 draft: false
-published: true
-sitemap: true
 title: "Vote for Lunafied"
 author:
   display_name: Andy

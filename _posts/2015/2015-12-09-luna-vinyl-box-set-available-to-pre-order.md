@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: Luna vinyl box set available to pre-order now
 author:
   display_name: Andy

@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Video: Never Be A Punching Bag for Nobody (trailer)"
 author: 
   display_name: Andy

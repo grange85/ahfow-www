@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "NYCTaper shares a recording of Luna's show in Alexandria a few weeks back"
 author:
   display_name: Andy

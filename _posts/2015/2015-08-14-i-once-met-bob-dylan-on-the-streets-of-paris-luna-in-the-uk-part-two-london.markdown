@@ -1,15 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'I once met Bob Dylan on the streets of Paris - Luna in the UK, part two: London'
 author:
   display_name: Joakim Bengtsson
   login: joakim
   email: joakim@fullofwishes.co.uk
   url: ''
-author_login: joakim
-author_email: joakim@fullofwishes.co.uk
 date: '2015-08-14'
 categories:
 - luna

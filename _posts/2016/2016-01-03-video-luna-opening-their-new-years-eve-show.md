@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Video: Luna opening their New Year's Eve show last week in San Francisco"
 author:
   display_name: Andy

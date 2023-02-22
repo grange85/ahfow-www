@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "The Rock Star Biography Podcast's discusses Dean Wareham's Black Postcards"
 author:
   display_name: Andy

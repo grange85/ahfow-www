@@ -1,8 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
-sitemap: true
 title: "A Head Full of Wishes review of the year - 2017"
 author:
   display_name: Andy

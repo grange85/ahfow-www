@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: New Dean & Britta single available to order now
 author: 
   display_name: Andy

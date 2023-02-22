@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Download Luna's recent show in Dallas from NYCTaper"
 author:
   display_name: Andy

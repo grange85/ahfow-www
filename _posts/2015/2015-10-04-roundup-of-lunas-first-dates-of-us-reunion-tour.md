@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "A quick roundup of Luna's first dates of their US reunion tour"
 author:
   display_name: Andy

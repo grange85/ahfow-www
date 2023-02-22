@@ -1,6 +1,5 @@
 ---
 layout: post
-sitemap: true
 series-title: "Artefacts" 
 title: "034: Everything's Swirling #1 - fanzine to download"
 author:

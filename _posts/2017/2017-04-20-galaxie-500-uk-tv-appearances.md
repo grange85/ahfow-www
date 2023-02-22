@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "'The ambition was never to be on TV' - Galaxie 500's UK TV appearances"
 author:
   display_name: Andy

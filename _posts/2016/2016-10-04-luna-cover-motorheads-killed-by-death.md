@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Luna cover Motörhead's Killed by Death for the AV Club"
 author:
   display_name: Andy

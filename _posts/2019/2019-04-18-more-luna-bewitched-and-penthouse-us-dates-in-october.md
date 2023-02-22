@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "More Luna Bewitched and Penthouse US dates in October"
 author:
   display_name: Andy

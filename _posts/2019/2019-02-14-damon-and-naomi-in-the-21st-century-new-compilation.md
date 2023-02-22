@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: New Damon & Naomi compilation released
 author:
   display_name: Andy

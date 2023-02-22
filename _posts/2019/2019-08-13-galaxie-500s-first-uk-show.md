@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "The truth about Galaxie 500's UK debut"
 author:
   display_name: Andy

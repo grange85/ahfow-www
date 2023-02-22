@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Second pressing of the Luna box set now available to pre-order"
 author:
   display_name: Andy

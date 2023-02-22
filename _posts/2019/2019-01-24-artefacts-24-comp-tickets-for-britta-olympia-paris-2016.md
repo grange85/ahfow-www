@@ -1,6 +1,5 @@
 ---
 layout: post
-sitemap: true
 series-title: "Artefacts" 
 title: "#025: Comp tickets for Britta supporting Keren Ann at The Olympia"
 author:

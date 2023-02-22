@@ -2,7 +2,6 @@
 layout: post
 status: publish 
 draft: false
-sitemap: true
 title: "Audio: Dean & Britta full show from 2009"
 author:
   display_name: Andy

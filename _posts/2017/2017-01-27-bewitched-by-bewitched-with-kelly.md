@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Bewitched by Bewitched with Kelly on trumpet
 author:
   display_name: Andy

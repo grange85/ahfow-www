@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Audio: Damon & Naomi Xfm radio session 2011"
 author:
   display_name: Andy

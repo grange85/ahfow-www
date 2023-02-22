@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "New Galaxie 500 Eclipse T-shirt for sale"
 author:
   display_name: Andy

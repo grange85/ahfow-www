@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Video: New video for Dean Wareham's cover of Wand'rin' Star"
 author:
   display_name: Andy

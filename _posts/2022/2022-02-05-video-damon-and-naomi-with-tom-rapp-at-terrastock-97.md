@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Video of Damon & Naomi with Tom Rapp at the first Terrastock Festival"
 author: 
   display_name: Andy

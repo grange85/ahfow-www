@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Interview Magazine talks to Britta Phillips and premieres her new video"
 author:
   display_name: Andy

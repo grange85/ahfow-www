@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
 draft: false
-published: true
-sitemap: true
 title: "When it was all over - Luna's split 13 years ago tonight"
 author:
   display_name: Andy

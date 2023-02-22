@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Review: Luna delightfully dueling in San Francisco"
 author:
   display_name: Jenell Kessler

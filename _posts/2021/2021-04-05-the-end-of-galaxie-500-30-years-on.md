@@ -2,7 +2,6 @@
 layout: post
 status: publish 
 draft: false
-sitemap: true
 title: "GALAXIE 500 have split (30 years on)"
 author:
   display_name: Andy

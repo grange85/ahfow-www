@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: 'Sometimes you need that kick. Luna - three nights in San Francisco (2: Penthouse)'
 author:
   display_name: Joakim Bengtsson

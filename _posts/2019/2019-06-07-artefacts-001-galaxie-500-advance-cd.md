@@ -1,6 +1,5 @@
 ---
 layout: post
-sitemap: true
 series-title: "Artefacts" 
 title: "#001: Galaxie 500 Copenhagen advance CD"
 author:

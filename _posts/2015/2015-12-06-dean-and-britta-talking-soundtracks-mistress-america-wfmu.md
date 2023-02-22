@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: Dean & Britta talking soundtracks and Mistress America on WFMU
 author:
 display_name: Andy

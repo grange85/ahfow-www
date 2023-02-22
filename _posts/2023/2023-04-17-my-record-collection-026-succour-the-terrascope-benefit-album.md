@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "#026: Succour: The Terrascope Benefit Album"
-sitemap: true
 series-title: My record collection
 author:
   display_name: Andy

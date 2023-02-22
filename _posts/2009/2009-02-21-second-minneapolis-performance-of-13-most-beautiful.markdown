@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Second Minneapolis performance of 13 Most Beautiful
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2009-02-21'
 categories:
 - news

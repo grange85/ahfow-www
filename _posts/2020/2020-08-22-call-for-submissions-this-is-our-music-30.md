@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Call for submissions - This Is Our Music | 30
 author:
   display_name: Andy

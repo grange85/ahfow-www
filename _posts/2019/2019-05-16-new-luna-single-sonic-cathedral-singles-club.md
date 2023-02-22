@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Beautiful new Luna single as part of the Sonic Cathedral singles club
 author:
   display_name: Andy

@@ -1,9 +1,7 @@
 ---
 layout: post
-status: publish
 published: true 
 draft: false
-sitemap: true
 title: 20 years ago in New York City
 author:
   display_name: Andy

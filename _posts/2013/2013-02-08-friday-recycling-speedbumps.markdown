@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Friday recycling: Speedbumps'
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2013-02-08'
 imageurl: https://farm7.staticflickr.com/6238/6314288860_9e250a34d0_z.jpg
 categories:

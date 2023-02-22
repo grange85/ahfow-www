@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Sonic Cathedral Luna / Dean Wareham tribute night in London
 author:
   display_name: Andy

@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "The last Bandcamp Friday of the year"
 author:
   display_name: Andy

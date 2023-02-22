@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "This Music Is Ours - a tribute to Galaxie 500"
 author:
   display_name: Andy

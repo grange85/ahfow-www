@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Damon & Naomi to tour China in September"
 author:
   display_name: Andy

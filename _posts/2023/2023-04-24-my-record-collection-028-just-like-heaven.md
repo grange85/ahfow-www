@@ -1,8 +1,7 @@
 ---
 layout: post
-title: 'My record collection #028: Just Like Heaven'
-sitemap: true
-series-title:
+title: '#028: Just Like Heaven'
+series-title: My record collection 
 author:
   display_name: Andy
   login: admin

@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Luna playing Penthouse in San Francisco available to download"
 author:
   display_name: Andy

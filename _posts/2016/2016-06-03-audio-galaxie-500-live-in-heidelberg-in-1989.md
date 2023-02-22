@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Audio: Galaxie 500 live in Heidelberg in 1989"
 author:
   display_name: Andy

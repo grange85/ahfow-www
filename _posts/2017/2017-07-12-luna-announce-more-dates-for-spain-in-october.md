@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: More dates added to Luna's tour of Spain in October
 author:
   display_name: Andy

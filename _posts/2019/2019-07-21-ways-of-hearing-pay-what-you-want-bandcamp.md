@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Damon Krukowski's Ways of Hearing available for pay-what-you-want on Bandcamp
 author:
   display_name: Andy

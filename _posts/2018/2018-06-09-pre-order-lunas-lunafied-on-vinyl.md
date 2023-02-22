@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
 draft: false
-published: true
-sitemap: true
 title: "Luna's Lunafied to get a double vinyl release (pre-order now)"
 author:
   display_name: Andy

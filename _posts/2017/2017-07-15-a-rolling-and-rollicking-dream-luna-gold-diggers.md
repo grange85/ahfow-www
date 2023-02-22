@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "A rolling and rollicking dream: Luna at Gold Diggers in Los Angeles"
 author:
   display_name: Joshua Mills

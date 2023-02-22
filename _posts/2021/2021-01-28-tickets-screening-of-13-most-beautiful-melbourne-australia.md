@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Tickets: 13 Most Beautiful screening in Melbourne"
 author:
   display_name: Andy

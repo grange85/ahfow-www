@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "New Dean and Britta Christmas single"
 author:
   display_name: Andy

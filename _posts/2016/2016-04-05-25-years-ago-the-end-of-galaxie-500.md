@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 25 years ago - the end of Galaxie 500
 author:
   display_name: Andy

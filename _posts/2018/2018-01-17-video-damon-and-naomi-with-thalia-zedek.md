@@ -1,8 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
-sitemap: true
 title: "Video: Damon & Naomi with Thalia Zedek cover Leonard Cohen"
 author:
   display_name: Andy

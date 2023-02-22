@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Review: Luna in Philadelphia"
 author:
   display_name: Frank Silvestry

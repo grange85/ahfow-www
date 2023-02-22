@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Dean Wareham talks The Velvet Underground's Loaded on the Jokermen podcast"
 author:
   display_name: Andy

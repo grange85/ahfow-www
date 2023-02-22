@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Luna reunion - more bits and pieces (pictures, videos and downloads)"
 author:
   display_name: Andy

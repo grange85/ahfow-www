@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: A Head Full of Wishes - January update
 author:
   display_name: Andy

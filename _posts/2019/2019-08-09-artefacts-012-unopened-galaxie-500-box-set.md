@@ -1,6 +1,5 @@
 ---
 layout: post
-sitemap: true
 series-title: "Artefacts" 
 title: "#012: Unopened Galaxie 500 Rykodisc box set"
 author:

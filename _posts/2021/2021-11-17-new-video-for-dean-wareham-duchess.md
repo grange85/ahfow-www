@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Video: Gorgeous new video for Dean Wareham's cover of Scott Walker's Duchess" 
 author: 
   display_name: Andy

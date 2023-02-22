@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Luna head back to Spain for dates in October
 author:
   display_name: Andy

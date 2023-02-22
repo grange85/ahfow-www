@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Dean Wareham vs Cheval Sombre new video plus live shows
 author:
   display_name: Andy

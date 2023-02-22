@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Happy Birthday to Luna guitarist Sean Eden"
 author:
   display_name: Andy

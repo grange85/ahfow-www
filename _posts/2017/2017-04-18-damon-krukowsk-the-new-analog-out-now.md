@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Damon Krukowski's The New Analog out now, and you can catch him on tour.
 author:
   display_name: Andy

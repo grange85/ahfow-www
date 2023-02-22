@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Pre-order Dean & Britta Quarantine Tapes T-shirts and tote bag
 author:
   display_name: Andy

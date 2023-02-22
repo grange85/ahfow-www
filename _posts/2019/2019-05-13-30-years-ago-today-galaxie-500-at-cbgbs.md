@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: 30 years ago today ~ Galaxie 500 at CBGBs
 author:
   display_name: Andy

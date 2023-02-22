@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Damon & Naomi's Pierre Etoile is now available for pay what you want on Bandcamp
 author:
   display_name: Andy

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "#022: Mr. Jealousy soundtrack (CD)"
-sitemap: true
 series-title: My record collection
 author:
   display_name: Andy

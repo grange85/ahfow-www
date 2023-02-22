@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Neil Innes and Cheese and Onions"
 author:
   display_name: Andy

@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Pre-order Damon Krukowski's book 'The New Analog: Listening and Reconnecting in a Digital World'"
 author:
   display_name: Andy

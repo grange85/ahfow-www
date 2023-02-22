@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Coolest T-shirt of 1989 becomes coolest T-shirt of 2005
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2005-01-05'
 categories:
 - news

@@ -1,8 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
-sitemap: true
 title: "Xmas countdown 3: Dean Wareham's Xmas gifts"
 author:
   display_name: Andy

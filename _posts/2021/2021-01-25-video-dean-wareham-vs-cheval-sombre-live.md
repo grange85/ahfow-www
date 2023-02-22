@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Video: Two years ago Dean Wareham & Cheval Sombre live" 
 author: 
   display_name: Andy

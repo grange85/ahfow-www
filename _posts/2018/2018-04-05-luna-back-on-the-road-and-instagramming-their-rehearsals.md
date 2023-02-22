@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
 draft: false
-published: true
-sitemap: true
 title: "Luna back on the road and Instgramming their rehearsals"
 author:
   display_name: Andy

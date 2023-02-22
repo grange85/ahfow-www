@@ -1,6 +1,5 @@
 ---
 layout: post
-sitemap: true
 series-title: "Artefacts" 
 title: "#011: Photo of Stan Demeski and practice pad"
 author:

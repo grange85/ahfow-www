@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "MP3: Luna playing The Slow Song in Toronto in 1999"
 author:
   display_name: Andy

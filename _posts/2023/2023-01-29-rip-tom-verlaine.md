@@ -3,7 +3,6 @@ layout: post
 title: RIP Tom Verlaine
 date: 2023-01-29 10:55 +0000
 series-title:
-sitemap: true
 author:
   display_name: Andy
   login: admin

@@ -1,6 +1,5 @@
 ---
 layout: post
-sitemap: true
 title: "#032: Poster for Galaxie 500's final show"
 series-title: "Artefacts" 
 author:

@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Limited edition coloured vinyl release of Galaxie 500's Today
 author:
   display_name: Andy

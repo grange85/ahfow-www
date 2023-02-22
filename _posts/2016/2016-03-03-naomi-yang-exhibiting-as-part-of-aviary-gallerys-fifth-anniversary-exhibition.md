@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Naomi Yang exhibiting as part of Aviary Gallery's fifth anniversary exhibition"
 author:
   display_name: Andy

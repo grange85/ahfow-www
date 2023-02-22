@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Tell Me Do You Miss Me album now available to download
 author:
   display_name: Andy

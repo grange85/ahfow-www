@@ -1,8 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
-sitemap: true
 title: "Xmas countdown 1: I made (and drunk) an egg nog"
 author:
   display_name: Andy

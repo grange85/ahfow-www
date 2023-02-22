@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
 draft: false
-published: true
-sitemap: true
 title: "Luna at KEXP video to watch and audio to download"
 author:
   display_name: Andy

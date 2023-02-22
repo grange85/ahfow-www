@@ -2,7 +2,6 @@
 layout: post
 status: publish 
 draft: false
-sitemap: true
 title: "Audio: Full show - Thirty years ago today Galaxie 500 in Denver"
 author:
   display_name: Andy

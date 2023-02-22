@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Upcoming: More Dean & Britta live streams"
 author:
   display_name: Andy

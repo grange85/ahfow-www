@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Audio: Lost tracks: Dean Wareham with Tuatara"
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: 2021-04-06 10:30
 categories:
  - dean wareham

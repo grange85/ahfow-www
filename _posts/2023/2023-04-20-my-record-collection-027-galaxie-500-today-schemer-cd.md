@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "#027: Galaxie 500 - Today (Schemer CD)"
-sitemap: true
 series-title: My record collection
 author:
   display_name: Andy

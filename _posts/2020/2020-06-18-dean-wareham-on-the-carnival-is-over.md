@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Dean Wareham writes about 'The Carnival is Over'
 author: 
   display_name: Andy

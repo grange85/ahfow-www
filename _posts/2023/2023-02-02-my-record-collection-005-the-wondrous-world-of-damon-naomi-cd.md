@@ -2,7 +2,6 @@
 layout: post
 series-title: 'My record collection'
 title: '#005: The Wondrous World of Damon & Naomi (CD)'
-sitemap: true
 author:
   display_name: Andy
   login: admin

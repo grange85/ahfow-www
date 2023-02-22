@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Damon & Naomi release live Galaxie 500 cover for #blacklivesmatter compilation"
 author: 
   display_name: Andy

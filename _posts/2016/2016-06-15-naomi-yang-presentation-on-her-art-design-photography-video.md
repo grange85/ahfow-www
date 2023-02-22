@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Naomi Yang talk about her design, photography, video and art'
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2016-06-15'
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/naomi-yang-exhibition-02.jpg
 categories:

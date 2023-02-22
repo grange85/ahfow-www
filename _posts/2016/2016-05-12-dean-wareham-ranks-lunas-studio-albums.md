@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Dean Wareham ranks Luna's studio albums"
 author:
   display_name: Andy

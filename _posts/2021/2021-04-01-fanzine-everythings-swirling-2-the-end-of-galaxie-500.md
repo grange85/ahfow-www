@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Everything's Swirling #2 - a fanzine commemorating the end of Galaxie 500"
 author:
   display_name: Andy

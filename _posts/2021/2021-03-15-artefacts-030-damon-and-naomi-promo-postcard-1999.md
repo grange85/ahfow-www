@@ -1,6 +1,5 @@
 ---
 layout: post
-sitemap: true
 series-title: "Artefacts" 
 title: "#030: Damon & Naomi promo postcard for 1999 tour of Japan"
 author:

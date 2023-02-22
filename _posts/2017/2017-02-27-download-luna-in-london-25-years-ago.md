@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Download: Luna in London 25 years ago"
 author:
   display_name: Andy

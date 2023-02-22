@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Upcoming: Dean & Britta to play another living room concert"
 author: 
   display_name: Andy

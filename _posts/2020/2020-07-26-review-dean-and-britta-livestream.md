@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Review: Dean & Britta in their living room"
 author:
   display_name: Andy

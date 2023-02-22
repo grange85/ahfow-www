@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
 draft: false
-published: true
-sitemap: true
 title: "Dean Wareham on 'Dream Pop' for Pitchfork"
 author:
   display_name: Andy

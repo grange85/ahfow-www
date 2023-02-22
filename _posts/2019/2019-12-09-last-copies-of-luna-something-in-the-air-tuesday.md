@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Last copies of Luna's Something in The Air single on sale on Tuesday"
 author:
   display_name: Andy

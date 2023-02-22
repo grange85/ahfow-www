@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Deluxe double LP edition of Luna's Penthouse for Record Store Day 2017
 author:
   display_name: Andy

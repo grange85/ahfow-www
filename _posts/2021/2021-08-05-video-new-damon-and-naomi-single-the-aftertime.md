@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: New single from Damon & Naomi's A Sky Record
 author:
   display_name: Andy

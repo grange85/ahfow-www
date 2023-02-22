@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: 'It swivels and swirls in your head. Luna - three nights in San Francisco (3: Rendezvous)'
 author:
   display_name: Joakim Bengtsson

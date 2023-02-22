@@ -1,9 +1,7 @@
 ---
 layout: post
-status: publish
 published: true 
 draft: false
-sitemap: true
 title: Third track and video from Dean's forthcoming album
 author:
   display_name: Andy

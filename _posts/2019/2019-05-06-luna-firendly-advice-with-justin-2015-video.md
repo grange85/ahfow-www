@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Video: Luna rehearsing Friendly Advice with Justin on bass in 2015"
 author:
   display_name: Andy

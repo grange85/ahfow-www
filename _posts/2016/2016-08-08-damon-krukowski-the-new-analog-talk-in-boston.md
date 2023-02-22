@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Damon Krukowski: The New Analog - a free talk on Thursday in Boston"
 author:
   display_name: Andy

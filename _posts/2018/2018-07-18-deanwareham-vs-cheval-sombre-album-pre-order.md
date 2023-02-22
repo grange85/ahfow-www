@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
 draft: false
-published: true
-sitemap: true
 title: "Dean Wareham vs. Cheval Sombre album available to pre-order now"
 author:
   display_name: Andy

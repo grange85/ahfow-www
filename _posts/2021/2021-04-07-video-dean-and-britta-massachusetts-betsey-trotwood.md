@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Video: Dean & Britta play The Bee Gees' Massachusetts"
 author:
   display_name: Andy

@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Terry Tolkin Kickstarter campaign - America On A Thousand Dollars A Day'
 author:
   display_name: Andy

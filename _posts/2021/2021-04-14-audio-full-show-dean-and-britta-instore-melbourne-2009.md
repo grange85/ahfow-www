@@ -2,7 +2,6 @@
 layout: post
 status: publish 
 draft: false
-sitemap: true
 title: "Audio: Full show - Dean & Britta at Pure Pop Records, Melbourne"
 author:
   display_name: Andy

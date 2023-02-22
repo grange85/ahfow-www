@@ -2,7 +2,6 @@
 layout: post
 status: publish 
 draft: false
-sitemap: true
 title: "Audio: Full show - Luna at The Borderline in London 1995"
 author:
   display_name: Andy

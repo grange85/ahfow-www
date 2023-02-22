@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Exclusive Luna patch for Sonic Cathedral singles club subscribers
 author:
   display_name: Andy

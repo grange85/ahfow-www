@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Video: Dean & Britta play two of their 13 Most Beautiful"
 author:
   display_name: Andy

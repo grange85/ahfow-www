@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title:  Galaxie 500 - Copenhagen online listening party with Damon Krukowski
 author:
   display_name: Andy

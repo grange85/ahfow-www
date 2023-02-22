@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'It''s not Dream Pop, it''s a pop dream - Luna in Texas (2: Austin)'
 author:
   display_name: Joakim Bengtsson

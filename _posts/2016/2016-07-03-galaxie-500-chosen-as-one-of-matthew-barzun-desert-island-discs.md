@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Galaxie 500 chosen as one of Matthew Barzun's Desert Island Discs
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/matthew-barzun-desert-island-discs.jpg
 date: '2016-07-03'
 categories:

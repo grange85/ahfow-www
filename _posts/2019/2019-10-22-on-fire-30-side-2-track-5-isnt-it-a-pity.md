@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "On Fire - side 2, track 5: Isn't It a Pity"
 author:
   display_name: David Duffin

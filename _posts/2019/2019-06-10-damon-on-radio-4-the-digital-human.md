@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Damon on the BBC Radio 4 show The Digital human
 author:
   display_name: Andy

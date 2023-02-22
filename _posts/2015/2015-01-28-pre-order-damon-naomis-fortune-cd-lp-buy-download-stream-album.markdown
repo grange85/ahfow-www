@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: Pre-order Damon & Naomi's Fortune on CD and LP, buy a download or stream the
   album
 author:
@@ -9,9 +7,6 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2015-01-28'
 categories:
 - news

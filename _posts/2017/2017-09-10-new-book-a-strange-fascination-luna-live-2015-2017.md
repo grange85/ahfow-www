@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Book: A Strange Fascination - Luna - live 2015 - 2017"
 author:
   display_name: Andy

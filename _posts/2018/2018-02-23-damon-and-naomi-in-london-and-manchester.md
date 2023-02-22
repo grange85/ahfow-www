@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
 draft: false
-published: true
-sitemap: true
 title: "Damon & Naomi in London and Manchester"
 author:
   display_name: Andy

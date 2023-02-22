@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Video: Dean (but mostly Britta) playing Ceremony in Brighton in 2011"
 author:
   display_name: Andy

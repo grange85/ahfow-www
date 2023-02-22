@@ -1,9 +1,7 @@
 ---
 layout: post
 status: published
-published: true
 draft: false
-sitemap: true
 title: Britta Phillips to tour the west coast supporting Teenage Fanclub
 author:
   display_name: Andy

@@ -1,8 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
-sitemap: true
 title: Video and audio of Luna live on WFUV back in November
 author:
   display_name: Andy

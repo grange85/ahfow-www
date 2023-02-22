@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: Damon & Naomi close 2015 with shows in Hong Kong, Taiwan and Montreal
 author:
 display_name: Andy

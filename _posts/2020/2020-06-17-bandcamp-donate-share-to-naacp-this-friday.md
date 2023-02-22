@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Bandcamp donating their share to the NAACP Legal Defense Fund this Friday
 author:
   display_name: Andy

@@ -2,7 +2,6 @@
 layout: post
 status: publish 
 draft: false
-sitemap: true
 title: "A beautiful view - the Luna live stream"
 author:
   display_name: Andy

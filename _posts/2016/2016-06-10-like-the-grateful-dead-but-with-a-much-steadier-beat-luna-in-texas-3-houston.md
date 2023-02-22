@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Like The Grateful Dead, but with a much steadier beat - Luna in Texas (3: Houston)'
 author:
   display_name: Joakim Bengtsson

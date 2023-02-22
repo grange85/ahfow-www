@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Photos: A stack of Dean & Britta pictures from last night''s Philadelphia
   show'
 author:
@@ -9,9 +7,6 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2009-06-05'
 categories:
 - dean & britta

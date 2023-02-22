@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Dean Wareham's much-postponed Euro tour kicks off in Seville today"
 author: 
   display_name: Andy

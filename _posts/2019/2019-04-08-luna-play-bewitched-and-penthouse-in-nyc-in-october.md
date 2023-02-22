@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Luna to play Bewitched and Penthouse in NYC in October"
 author:
   display_name: Andy

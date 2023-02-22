@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Dean and Britta guest on the new LP from Raymond Richards"
 author: 
   display_name: Andy

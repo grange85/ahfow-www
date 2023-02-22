@@ -2,7 +2,6 @@
 layout: post
 series-title: My record collection
 title: "#015: Galaxie 500 - Today (Rough Trade US LP)"
-sitemap: true
 author:
   display_name: Andy
   login: admin

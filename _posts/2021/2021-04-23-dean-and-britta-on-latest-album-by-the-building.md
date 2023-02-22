@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Dean and Britta guest on new album by The Building"
 author:
   display_name: Andy

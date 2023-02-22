@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Dean Wareham writes about The Velvet Underground Matrix Tapes box set for Salon"
 author:
   display_name: Andy

@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Naomi Yang's new video for MV and EE's Feel Alright"
 author:
   display_name: Andy

@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Dean Wareham covering Purple Mountains on new David Berman tribute
 author:
   display_name: Andy

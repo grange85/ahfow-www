@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Luna are punk in the UK, October 2016"
 author:
   display_name: Joakim Bengtsson

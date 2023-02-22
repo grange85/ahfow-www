@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Sean Eden posts about his recent musical projects
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2009-01-21'
 categories:
 - news

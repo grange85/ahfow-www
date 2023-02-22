@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Dean Wareham plays Galaxie 500 in London 1989 to 2018
 author:
   display_name: Andy

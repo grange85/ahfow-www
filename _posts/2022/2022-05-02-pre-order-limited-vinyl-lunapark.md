@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Pre-order limited vinyl reissue of Luna's debut album"
 author: 
   display_name: Andy

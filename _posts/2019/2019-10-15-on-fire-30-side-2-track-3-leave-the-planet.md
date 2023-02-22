@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "On Fire - side 2, track 3: Leave The Planet"
 author:
   display_name: Andy Aldridge

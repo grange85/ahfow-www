@@ -2,7 +2,6 @@
 layout: post
 series-title: My record collection
 title: "#016: Luna - Romantica (CD)"
-sitemap: true
 author:
   display_name: Andy
   login: admin

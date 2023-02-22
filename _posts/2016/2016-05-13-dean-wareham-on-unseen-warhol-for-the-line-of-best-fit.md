@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Dean Wareham on Unseen Warhol for The Line of Best Fit"
 author:
   display_name: Andy

@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Photos and video of Damon & Naomi in Hong Kong and Taiwan"
 author:
 display_name: Andy

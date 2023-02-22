@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Luna playlists on Spotify and Apple Music
 author:
   display_name: Andy

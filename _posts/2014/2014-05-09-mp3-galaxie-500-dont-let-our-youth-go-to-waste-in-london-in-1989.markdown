@@ -1,17 +1,12 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'MP3: Galaxie 500 - Don''t Let Our Youth Go to Waste in London in 1989'
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/1990-09-29_Melody-Maker_Galaxie-500_This-Is-Our-Music-review_image.jpg
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2014-05-09'
 categories:
 - galaxie 500

@@ -1,6 +1,5 @@
 ---
 layout: post
-sitemap: true
 series-title: "Artefacts" 
 title: "#017: Aftershow pass for Luna show in London 1999"
 author:

@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Naomi Yang's new video for Lee Ranaldo (ex Sonic Youth)
 author:
   display_name: Andy

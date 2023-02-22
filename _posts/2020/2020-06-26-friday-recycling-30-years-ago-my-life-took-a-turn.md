@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Friday recycling: 30 years ago my life took a turn"
 author:
   display_name: Andy

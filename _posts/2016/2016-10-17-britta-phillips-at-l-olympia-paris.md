@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Britta Phillips at L'Olympia, Paris"
 author:
   display_name: Andy

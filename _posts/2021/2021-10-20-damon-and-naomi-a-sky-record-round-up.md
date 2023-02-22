@@ -1,9 +1,7 @@
 ---
 layout: post
-status: publish
 published: true 
 draft: false
-sitemap: true
 title: "Damon & Naomi's A Sky Record round-up"
 author:
   display_name: Andy

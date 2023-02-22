@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: On Fire | 30 - a new Galaxie 500 tribute CD and book from A Head Full of Wishes
 author:
   display_name: Andy

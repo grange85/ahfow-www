@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Video: Luna on Last Call with Carson Daly available to download from DIME'
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2016-09-07'
 imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/2016-02-24-luna-carson-daly-tv.jpg
 categories:

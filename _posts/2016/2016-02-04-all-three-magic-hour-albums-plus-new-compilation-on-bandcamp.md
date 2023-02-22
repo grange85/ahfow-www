@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "All three Magic Hour albums and a new compilation of rarities now available on Bandcamp"
 author:
   display_name: Andy

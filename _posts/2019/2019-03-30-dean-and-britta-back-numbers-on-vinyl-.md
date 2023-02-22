@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Dean & Britta's Back Numbers to get a vinyl release"
 author:
   display_name: Andy

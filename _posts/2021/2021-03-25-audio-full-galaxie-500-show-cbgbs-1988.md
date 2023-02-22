@@ -2,7 +2,6 @@
 layout: post
 status: publish 
 draft: false
-sitemap: true
 title: "Audio: Full show download of Galaxie 500 show from CBGB's in 1988"
 author:
   display_name: Andy

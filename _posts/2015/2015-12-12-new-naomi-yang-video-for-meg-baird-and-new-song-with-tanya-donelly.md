@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "New Naomi Yang video for Meg Baird and new song co-written with Tanya Donelly"
 author:
 display_name: Andy

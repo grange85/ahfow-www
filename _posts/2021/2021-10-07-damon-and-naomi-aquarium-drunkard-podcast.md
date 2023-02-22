@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Damon and Naomi on the latest Aquarium Drunkard podcast"
 author:
   display_name: Andy

@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Luna (and Britta) in Texas: A round-up (pictures and video)'
 author:
   display_name: Andy

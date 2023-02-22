@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "MP3: Luna - Pup Tent, behind the music"
 author:
   display_name: Andy

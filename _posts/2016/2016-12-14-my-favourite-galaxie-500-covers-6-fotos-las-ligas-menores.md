@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "My favourite Galaxie 500 covers #6: Las Ligas Menores - Fotos"
 author:
   display_name: Andy

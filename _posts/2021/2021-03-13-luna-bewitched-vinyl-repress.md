@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Luna's Bewitched get's a vinyl repress"
 author:
   display_name: Andy

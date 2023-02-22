@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Video: One Fine Summer Morning by Britta Phillips"
 author:
   display_name: Andy

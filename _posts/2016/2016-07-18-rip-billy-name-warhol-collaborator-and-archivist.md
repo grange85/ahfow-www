@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'RIP Billy Name - Warhol collaborator and The Factory''s archivist'
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2016-07-18'
 imageurl: https://c7.staticflickr.com/9/8356/28365737326_c5d6a5c8f7_z.jpg
 categories:

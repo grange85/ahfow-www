@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: 'Knee bends and tippy-toes - Luna in The USA and the UK (3: Brooklyn day one)'
 author:
   display_name: Joakim Bengtsson

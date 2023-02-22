@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Audio: lost tracks: Fuzzy Wuzzy (demo) by Luna '
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 imageurl: https://lh3.googleusercontent.com/ZL4svau_xQxl8Lw3k0ZFERa95RJvTyeV1FEKTUTcGWE9wvFneCFaSMOampOEuZHHlGRGg8NXaYLOJD4QzvEQEF2zlb0-ovJy5y1YJ1-Y0PgKyltmpAzs8JyRfOAFsC_6OTf2IFDRpPc=w2400
 date: '2015-07-14'
 categories:

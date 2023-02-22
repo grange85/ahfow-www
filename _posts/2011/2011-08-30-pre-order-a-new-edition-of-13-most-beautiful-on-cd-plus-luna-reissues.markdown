@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Pre-order a new edition of 13 Most Beautiful on CD plus Luna reissues
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2011-08-30'
 categories:
 - miscellaneous

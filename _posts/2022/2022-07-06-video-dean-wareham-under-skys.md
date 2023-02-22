@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "New Video for Dean Wareham's cover of Lazy Smoke's Under Skys"
 author: 
   display_name: Andy

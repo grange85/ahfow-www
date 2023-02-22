@@ -1,6 +1,5 @@
 ---
 layout: post
-sitemap: true
 series-title: 'My record collection'
 title: "Introduction"
 author:

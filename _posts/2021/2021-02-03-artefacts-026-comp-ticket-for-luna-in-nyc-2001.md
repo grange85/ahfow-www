@@ -1,6 +1,5 @@
 ---
 layout: post
-sitemap: true
 series-title: "Artefacts" 
 title: "#026: Comp ticket for Luna in NYC, February 2001"
 author:

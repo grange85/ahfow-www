@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Video: Dean Wareham plays Galaxie 500's On Fire"
 author: 
   display_name: Andy

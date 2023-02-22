@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Hallowe''en recycling: Dean Wareham in “Pumpkin Hell”'
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/pumpkin-hell/pumpkin-hell-deanwareham_castpic-02.jpg
 date: '2011-10-31'
 categories:

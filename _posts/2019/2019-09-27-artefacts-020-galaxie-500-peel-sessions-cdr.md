@@ -1,6 +1,5 @@
 ---
 layout: post
-sitemap: true
 series-title: "Artefacts" 
 title: "#020: Galaxie 500 Peel Sessions CDR"
 author:

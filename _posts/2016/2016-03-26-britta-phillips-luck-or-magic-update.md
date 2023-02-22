@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Britta Phillips - Luck or Magic update"
 author:
   display_name: Andy

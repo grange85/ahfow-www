@@ -1,9 +1,7 @@
 ---
 layout: post
 status: published
-published: true
 draft: false
-sitemap: true
 title: A Head Full of Wishes review of the year 2016
 author:
   display_name: Andy

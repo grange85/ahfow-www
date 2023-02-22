@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: Video of Luna's KEXP performance finally arrives
 author:
   display_name: Andy

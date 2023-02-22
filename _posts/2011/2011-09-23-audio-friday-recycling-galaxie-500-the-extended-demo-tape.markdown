@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Audio: Friday recycling: Galaxie 500 the extended demo tape'
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2011-09-23'
 imageurl: https://static.fullofwishes.co.uk/galaxie500box/images/demotape_lg.gif
 recycled:

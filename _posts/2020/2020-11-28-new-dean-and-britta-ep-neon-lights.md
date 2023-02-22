@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Dean and Britta release Neon Lights EP"
 author:
   display_name: Andy

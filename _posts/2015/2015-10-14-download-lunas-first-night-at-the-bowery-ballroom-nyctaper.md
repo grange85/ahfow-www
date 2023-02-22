@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Download: Luna's first night at the Bowery Ballroom is now on NYCTaper"
 author:
   display_name: Andy

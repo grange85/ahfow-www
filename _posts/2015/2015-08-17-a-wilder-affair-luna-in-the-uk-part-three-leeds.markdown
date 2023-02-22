@@ -1,15 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'A wilder affair - Luna in the UK, part three: Leeds'
 author:
   display_name: Joakim Bengtsson
   login: joakim
   email: joakim@fullofwishes.co.uk
   url: ''
-author_login: joakim
-author_email: joakim@fullofwishes.co.uk
 date: '2015-08-17'
 categories:
 - luna

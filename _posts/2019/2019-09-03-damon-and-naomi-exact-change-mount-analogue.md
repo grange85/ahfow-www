@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Damon & Naomi's Exact Change returns to life"
 author:
   display_name: Andy

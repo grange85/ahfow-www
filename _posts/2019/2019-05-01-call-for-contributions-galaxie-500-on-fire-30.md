@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Call for contributions: Galaxie 500's On Fire 30th anniversary"
 author:
   display_name: Andy

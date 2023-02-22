@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Happy birthday Sean Eden (2017 edition)
 author:
   display_name: Andy

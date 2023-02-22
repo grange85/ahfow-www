@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Dean & Britta 13 Most Beautiful 13th anniversary tour"
 author:
   display_name: Andy

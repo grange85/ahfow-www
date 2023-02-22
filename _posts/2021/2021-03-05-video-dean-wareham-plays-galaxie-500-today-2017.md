@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Video: Dean Wareham plays Galaxie 500's Today"
 author:
   display_name: Andy

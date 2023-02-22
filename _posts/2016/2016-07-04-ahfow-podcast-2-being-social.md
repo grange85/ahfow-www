@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'A Head Full of Wishes podcast #2: Being social'
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2016-07-04'
 imageurl: https://media.fullofwishes.co.uk/00-misc/podcast/ahfow-podcast-2-being-social.jpg
 enclosure:

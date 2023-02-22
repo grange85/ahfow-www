@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Damon Krukowski Ways of Hearing book tour
 author:
   display_name: Andy

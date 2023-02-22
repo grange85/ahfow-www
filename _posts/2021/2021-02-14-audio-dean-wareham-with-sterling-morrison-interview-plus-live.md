@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Audio: Dean Wareham and Sterling Morrison play Great Jones Street"
 author:
   display_name: Andy

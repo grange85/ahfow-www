@@ -3,7 +3,6 @@ layout: post
 title: 'Video: Dean Wareham plays Unseen Warhol in Nantes in 2016'
 date: 2023-02-05 22:25 +0000
 series-title:
-sitemap: true
 author:
   display_name: Andy
   login: admin

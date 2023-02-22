@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Title: Some Luna tour numbers (subtitle: I need to get out more)"
 author:
   display_name: Andy

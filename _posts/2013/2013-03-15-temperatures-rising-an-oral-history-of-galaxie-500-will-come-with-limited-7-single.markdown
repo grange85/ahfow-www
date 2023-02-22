@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Temperature''s Rising: An Oral History of Galaxie 500 will come with limited
   7" single'
 author:
@@ -9,9 +7,6 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2013-03-15'
 categories:
 - news

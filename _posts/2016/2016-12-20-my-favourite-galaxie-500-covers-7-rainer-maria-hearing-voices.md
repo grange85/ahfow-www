@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "My favourite Galaxie 500 covers #7: Rainer Maria - Hearing Voices"
 author:
   display_name: Andy

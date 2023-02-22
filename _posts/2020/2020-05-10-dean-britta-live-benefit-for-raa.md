@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: Dean & Britta live from home in a benefit for the Rental Affordability Act
 author: 
   display_name: Andy

@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Photo: Galaxie 500 in London in 1990'
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2009-02-26'
 categories:
 - galaxie 500

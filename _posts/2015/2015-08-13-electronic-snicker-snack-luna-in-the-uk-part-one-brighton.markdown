@@ -1,15 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Electronic snicker snack - Luna in the UK, part one: Brighton'
 author:
   display_name: Joakim Bengtsson
   login: joakim
   email: joakim@fullofwishes.co.uk
   url: ''
-author_login: joakim
-author_email: joakim@fullofwishes.co.uk
 date: '2015-08-13'
 categories:
 - luna

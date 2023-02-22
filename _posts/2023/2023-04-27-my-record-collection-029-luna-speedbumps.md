@@ -1,8 +1,7 @@
 ---
 layout: post
-title: 'My record collection #029: Luna - Speedbumps'
-sitemap: true
-series-title:
+title: '#029: Luna - Speedbumps'
+series-title: My record collection 
 author:
   display_name: Andy
   login: admin

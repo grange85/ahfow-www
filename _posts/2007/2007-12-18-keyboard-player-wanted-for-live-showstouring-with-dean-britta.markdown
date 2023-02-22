@@ -1,16 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Keyboard player wanted for live shows/touring with Dean & Britta
 author:
   display_name: Andy
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2007-12-18'
 categories:
 - news

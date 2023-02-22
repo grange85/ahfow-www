@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 draft: false
-sitemap: true
 title: "Damon Krukowski guests on the new Devalued podcast"
 author: 
   display_name: Andy

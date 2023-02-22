@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "#023: Cagney & Lacee - Time / By The Way ..."
-sitemap: true
 series-title: My record collection
 author:
   display_name: Andy

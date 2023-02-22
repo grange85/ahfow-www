@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Some Friendly Advice to drink, and to watch in 360 degrees'
 author:
   display_name: Andy

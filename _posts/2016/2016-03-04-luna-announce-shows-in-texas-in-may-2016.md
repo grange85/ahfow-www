@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: "Luna announce shows in Texas in May"
 author:
   display_name: Andy

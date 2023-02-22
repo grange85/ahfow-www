@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: '"We shouldn''t do this but we''re going to" - a kazootastic cover of Lou Reed''s
   Walk on the Wild Side by Luna'
 author:
@@ -9,9 +7,6 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
 date: '2014-11-10'
 categories:
 - luna
