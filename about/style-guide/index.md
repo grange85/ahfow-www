@@ -1,9 +1,7 @@
 ---
-layout: page
+layout: default
 title: AHFoW style guide
-sitemap: false
 ---
-
 This isn't meant to scare folk off but - my editing is pretty light touch but this is a rough outline of how to write for the site. If you fancy writing anything for A Head Full of Wishes I am [always open for business](/about/).
 
 A Head Full of Wishes

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: All categories
 ---
 <ul class="list-group">

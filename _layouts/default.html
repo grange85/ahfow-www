@@ -6,7 +6,9 @@
 <body>
 	<div class="container">
 		{% include header.html %}
-
+        {% if pagination.page != 1 %}
+        {% include breadcrumbs.html %}
+        {% endif %}
 		<div class="row">
 
 		    <div class="col-md-8 col-xl-9">

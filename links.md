@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: Links
-sitemap: false
 ---
 <div class="list-group mt-2">
   <a href="https://www.fullofwishes.co.uk/category/my-record-collection/" class="list-group-item bg-primary text-white mb-2">

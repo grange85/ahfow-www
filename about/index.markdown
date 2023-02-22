@@ -1,21 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+layout: default
 title: About
-author:
-  display_name: Andy
-  login: admin
-  email: andy@fullofwishes.co.uk
-  url: http://www.grange85.co.uk
-author_login: admin
-author_email: andy@fullofwishes.co.uk
-author_url: http://www.grange85.co.uk
-date: '2007-10-28 07:01:12 +0000'
-date_gmt: '2007-10-28 14:01:12 +0000'
-categories:
-- miscellaneous
-tags: []
 ---
 <p>A Head Full of Wishes was born out of the frustration of having free web space and having nothing to fill it with - these were the days before digital cameras enabled me to fill up the Internet with endless pictures of my family.</p>
 <p>In 1994, with the Internet a mere toddler I pinched a bunch of Galaxie 500, Luna and Damon & Naomi lyrics and sleeve scans, threw together a rough discography and launched the website.</p>
