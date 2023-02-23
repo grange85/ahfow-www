@@ -12,8 +12,6 @@ imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham
 categories:
  - dean wareham
  - video
-tags:
- - cheval sombre
 ---
 {% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-duchess-video-grab-02.jpg" "Dean Wareham - Duchess" %}
 
