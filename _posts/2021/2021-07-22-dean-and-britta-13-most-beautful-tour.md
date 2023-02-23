@@ -30,5 +30,5 @@ As soon as I hear about additional dates I'll let you know - and I'll see you in
 {% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/13-most-beautiful-13-anniversary-additional-screen-tests-trailer.png" "A special encore..." %}
 
 - 18th September 2021 - [Sound Series Block Party, Isabella Street Block, Pittsburgh, PA, USA - Dean Wareham / Britta Phillips 13 Most Beautiful](/database/dean-and-britta/shows/2021/2021-09-18-dean-and-britta-isabella-street-block-pittsburgh-pa-usa/)
-- 18th September 2021 -	[Sound Series Block Party, Isabella Street Block, Pittsburgh, PA, USA
-Dean Wareham plays Galaxie 500's On Fire](/database/dean-and-britta/shows/2021/2021-09-18-dean-wareham-isabella-street-block-pittsburgh-pa-usa/)
+- 18th September 2021 -	[Sound Series Block Party, Isabella Street Block, Pittsburgh, PA, USA - Dean Wareham plays Galaxie 500's On Fire](/database/dean-and-britta/shows/2021/2021-09-18-dean-wareham-isabella-street-block-pittsburgh-pa-usa/)
+
