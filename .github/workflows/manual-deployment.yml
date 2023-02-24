@@ -58,7 +58,7 @@ jobs:
 
     - name: Sync output to S3
       run: |
-        aws s3 sync --size-only --exclude '.sass-cache' _deploy s3://${{ vars.S3_BUCKET }}
+        aws s3 sync --size-only --exclude --delete '.sass-cache' _deploy s3://${{ vars.S3_BUCKET }}
         aws s3 mv --content-type "text/xml" --metadata-directive REPLACE s3://${{ vars.S3_BUCKET }}/feed.xml s3://${{ vars.S3_BUCKET }}/feed
         aws cloudfront create-invalidation --no-cli-pager --distribution-id ${{ secrets.FULLOFWISHES_WWW_DISTRIBUTION_ID }} --paths "/*"
         aws cloudfront create-invalidation --no-cli-pager --distribution-id ${{ secrets.FULLOFWISHES_CDN_DISTRIBUTION_ID }} --paths "/*"
