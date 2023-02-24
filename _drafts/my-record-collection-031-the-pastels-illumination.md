@@ -36,7 +36,7 @@ There's a cool interview with some of the main players from around the [20th ann
 _were we ever inspired / just for a moment / or is this our life? / slackness in the blackness....
 can’t you see I’m trying to tell you? / We’ve paid our dues_
 
-[Soul Kitchen: Illumination, la toile de maître des Pastels](https://www.soul-kitchen.fr/75487-1997-2017-illumination-toile-de-maitre-pastels)
+Soul Kitchen: Illumination, la toile de maître des Pastels
 {: .blockquote-footer .text-end}
 
 There's a lovely pic of all the album's collaborators which lived on Jonathan Kilgour's near-official website back in the day! 
