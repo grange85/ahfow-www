@@ -18,7 +18,7 @@ tags:
 - 13 most beautiful
 - great pop supplement
 ---
-Lovely release on the always wonderful UK indie Great Pop Supplement, released in 2010 it contains two tracks from Dean & Britta's 13 Most Beautiful remixed by Scott Hardkiss.
+Lovely release on the always wonderful UK indie, Great Pop Supplement, released in 2010 it contains two tracks from Dean & Britta's 13 Most Beautiful remixed by Scott Hardkiss.
 
 {% ahfowimage "" "" %}
 
@@ -29,6 +29,12 @@ I bought this from Piccadilly Records (online). As it was a limited edition I bo
 Despite the fact that I've titled this post "I'll Keep It With Mine" this is another double A side single. I'll try not to get annoyed every time one turns up but singles (almost&dagger;) always have an A and a B side no matter how hard the record company try to convince otherwise - the AA side is invariably a B-side! After all who would think that "Girl's School" by Wings was a Christmas number 1? No one - that's who!
 
 It's as ridiculous as co-headlining tours - you go on last... you're headlining!
+
+This version of I'll Keep It With Mine is the Scott Hardkiss remix that had Britta's vocal processed and was quite a talking point on the Galaxie 500 Mailing List at the time. I wasn't particularly keen:
+
+> I think the issue isn't about *autotune being used* but more about *autotune being OVERused* - I've no idea if autotune is what's being used on Britta's vocal on the Scott Hardkis remixes but there is a processed - almost out of phase quality to them that I'm not keen on.
+
+The discussion got so ... lively ... that [Britta kindly sent me some un-remixed versions](https://www.fullofwishes.co.uk/2010/10/02/13-most-beautiful-the-missing-mixes/) to share. These had been on the original DVD release but hadn't made it on any of the CD versions of 13 Most Beautiful... or, onto this single.
 
  - *Catalogue Number:* AHFOW 11/0038
  - *Artist:* Dean & Britta
