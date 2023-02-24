@@ -56,7 +56,7 @@ jobs:
 #      run: |
 #        python3 -c 'import json, sys;json.dump(json.load(sys.stdin), sys.stdout)' < _deploy/search.json > _deploy/search-min.json
 
-    - name: Sync output to S3 and delete removed content
+   - name: Sync output to S3 and delete removed content
       if: github.event.inputs.deploy-database == 'true'
       run: |
         aws s3 sync --size-only --delete --exclude '.sass-cache' _deploy s3://${{ vars.S3_BUCKET }}
