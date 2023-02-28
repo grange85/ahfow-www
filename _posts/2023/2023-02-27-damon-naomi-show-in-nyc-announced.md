@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Damon & Naomi show in NYC announced
+title: Damon & Naomi live shows announced
 date: 2023-02-27 15:44 +0000
 series-title:
 sitemap: true
@@ -17,10 +17,12 @@ tags:
 - live show
 - union pool
 - new york city
+- crystal ballroom
+- somerville
 ---
-Damon & Naomi have just annouced a rare live show in May, They will be co-headlining a show with Meg Baird at the Union Pool on the 10th May. Tickets are [on sale now](https://dice.fm/event/pral8-meg-baird-damon-naomi-10th-may-union-pool-new-york-tickets).
+Damon & Naomi have just annouced a rare live show in May, They will be co-headlining shows with Meg Baird at the Crystal Ballroom in [Somerville MA](https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/2023/damon-and-naomi-2023-05-07-somerville-ma-usa/) on the 7th May and [The Union Pool in NYC](https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/2023/damon-and-naomi-2023-05-10-new-york-ny-usa/) on the 10th May. 
 
-Watch this space for more east coast shows.
+Expect more dates!
 
 If you haven't already you might want to take a listen to [Meg Baird's lovely new album Furling](https://megbaird.bandcamp.com/album/furling) while you're waiting!
 
