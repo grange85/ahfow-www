@@ -1,14 +1,14 @@
 ---
 layout: post
-title: '#030: Dean & Britta - I''ll Keep It With Mine'
+title: "#030: Dean & Britta - I'll Keep It With Mine"
 sitemap: true
-series-title: My record collection 
+series-title: My record collection
 author:
   display_name: Andy
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl:
+imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/my-record-collection-dab-ikiwm.jpg
 categories:
 - dean & britta
 - my record collection
@@ -17,10 +17,11 @@ tags:
 - it don't rain in beverly hills
 - 13 most beautiful
 - great pop supplement
+date: 2023-05-01 00:00 +0000
 ---
 Lovely release on the always wonderful UK indie, Great Pop Supplement, released in 2010 it contains two tracks from Dean & Britta's 13 Most Beautiful remixed by Scott Hardkiss.
 
-{% ahfowimage "" "" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/my-record-collection-dab-ikiwm.jpg" "Dean & Britta - I'll Keep It With Mine" %}
 
 It came in a wrap around card sleeve with an extra couple of pages stapled inside with photos from a live performance of 13 Most Beautiful.
 

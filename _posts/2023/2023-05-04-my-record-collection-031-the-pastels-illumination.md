@@ -1,24 +1,25 @@
 ---
 layout: post
-title: '#031: The Pastels - Illumination'
+title: "#031: The Pastels - Illumination"
 sitemap: true
-series-title: My record collection 
+series-title: My record collection
 author:
   display_name: Andy
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl:
+imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/my-record-collection-pastels-illumination.jpg
 categories:
 - dean wareham
 - my record collection
 tags:
 - the pastels
 - illumination
+date: 2023-05-04 00:00 +0000
 ---
 Illumination was the second album by The Pastels that Dean guested on - the sleeve notes aren't kind enough to tell who appeared on what track so I guess you have to listen closely! For some reason I've shared _Rough Riders_ when I've written about this before - I must have known that from somewhere?
 
-{% ahfowimage "" "" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/my-record-collection-pastels-illumination.jpg" "The Pastels - Illumination" %}
 
 Illumination is a fantastic album that I don't listen to enough ... maybe my favourie album by The Pastels (and not just because Dean's on it).
 
