@@ -14,6 +14,10 @@ categories:
 - my record collection
 tags:
 - bewitched
+- television
+- adventure
+- tom verlaine
+- richard lloyd
 ---
 This is the CD of Luna's second album, Bewitched, that I bought on release back in 1994, obviously can't remember that far back to say where I bought it and for how much.
 
