@@ -1,0 +1,22 @@
+{% if paginage.page != 1 %}
+<div class="row">
+<nav aria-label="breadcrumb py-1">
+<ol class="breadcrumb">
+<li class="breadcrumb-item"><a href="/">Home</a></li>
+
+{% if page.layout == "post" %}
+<li class="breadcrumb-item"><a href="/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/">Posts from {{ page.date | date: "%B %Y" }}</a></li>
+<li class="breadcrumb-item active">{% if page.series-title %}{{ page.series-title }}: {% endif %}{{ page.title }}</li>
+{% elsif page.layout == "month-archive" %}
+<li class="breadcrumb-item active">Posts from {{ page.date | date: "%B %Y" }}</li>
+{% elsif page.layout == "category-archive" %}
+<li class="breadcrumb-item"><a href="/category/">All catgeories</a></li>
+<li class="breadcrumb-item active">Posts with {{ page.type }} '{{ page.title }}'</li>
+{% else %}
+<li class="breadcrumb-item active">{{ page.title }}</li>
+{% endif %}
+</ol>
+</nav>
+</div>
+{% endif %}
+
