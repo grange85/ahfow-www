@@ -1,14 +1,41 @@
-
 <div class="col-md-12">
 <div class="card">
 	    <div class="card-body">
-		<h2 class="card-title h6">Categories</h5>
+		<h2 class="card-title h6">Discography/Gigography</h5>
 		<ul class="list-group list-group-flush">
-					{% assign allcategories = site.data.primary-categories.categories %}
-					{% for category in allcategories %}
-					<li class="list-group-item list-group-item-action"><a class="card-link" href="{{ category | slugify | prepend: '/category/' }}/">{{ category }}</a></li>
-					{% endfor %}
-					<li class="list-group-item list-group-item-action"><a class="card-link" href="/category/">All categories</a></li>
+        <li class="list-group-item list-group-item-action"><a href="/database/galaxie-500/" class="card-link">Galaxie 500</a></li>
+        <li class="list-group-item list-group-item-action"><a href="/database/luna/" class="card-link">Luna</a></li>
+        <li class="list-group-item list-group-item-action"><a href="/database/damon-and-naomi/" class="card-link">Damon &amp; Naomi</a></li>
+        <li class="list-group-item list-group-item-action"><a href="/database/dean-and-britta/" class="card-link">Dean & Britta</a></li>
+        <li class="list-group-item list-group-item-action"><a href="/database/dean-wareham/" class="card-link">Dean Wareham</a></li>
 		</ul>	
+		</div>
 </div>
+
+<div class="card">
+	    <div class="card-body">
+		<h2 class="card-title h6">Post categories</h5>
+		<ul class="list-inline list-group-inline">
+					{% for category in site.categories %}
+{% assign catsize = category | last | size %}
+{% if catsize > 15 %}
+					<li class="list-inline-item inline-group-item-action"><a class="card-link
+	{% if catsize >= 300 %}fs-3
+	{% elsif catsize >= 100 and catsize < 300 %}
+		fs-4
+	{% elsif catsize >= 60 and catsize < 100 %}
+		fs-4
+	{% elsif catsize >= 30 and catsize < 60 %}
+		fs-5
+	{% else %}
+		fs-6
+{% endif %}
+					" href="{{ category| first | slugify | prepend: '/category/' }}/">{{ category | first }}</a></li>
+					{% endif %}
+					{% endfor %}
+					<li class="list-inline-item inline-group-item-action"><a class="card-link" href="/category/">All categories</a></li>
+		</ul>	
+		</div>
+</div>
+
 </div>
