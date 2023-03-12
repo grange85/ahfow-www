@@ -10,11 +10,6 @@
     <div class="col-md">
       <h5>Discography / Gigography</h5>
       <ul class="nav flex-column">
-        <li class="nav-item mb-2"><a href="/database/galaxie-500/" class="nav-link p-0 text-muted">Galaxie 500</a></li>
-        <li class="nav-item mb-2"><a href="/database/luna/" class="nav-link p-0 text-muted">Luna</a></li>
-        <li class="nav-item mb-2"><a href="/database/damon-and-naomi/" class="nav-link p-0 text-muted">Damon &amp; Naomi</a></li>
-        <li class="nav-item mb-2"><a href="/database/dean-and-britta/" class="nav-link p-0 text-muted">Dean & Britta</a></li>
-        <li class="nav-item mb-2"><a href="/database/dean-wareham/" class="nav-link p-0 text-muted">Dean Wareham</a></li>
         <li class="nav-item mb-2"><a href="/about/" class="nav-link p-0 text-muted">About</a></li>
       </ul>
     </div>
@@ -33,31 +28,17 @@
     <div class="col-md">
 		<h5>Follow AHFoW</h5>
 		<ul class="nav flex-column">
-            <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" href="https://www.reddit.com/r/aheadfullofwishes/">r/aheadfullofwishes (Reddit)</a></li>
-            <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" href="https://www.facebook.com/fullofwishes/">AHFoW on Facebook</a></li>
-            <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" href="https://twitter.com/ahfow/">@ahfow on Twitter</a></li>
+            <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" rel="me" href="https://www.reddit.com/r/aheadfullofwishes/">r/aheadfullofwishes (Reddit)</a></li>
+            <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" rel="me" href="https://www.facebook.com/fullofwishes/">AHFoW on Facebook</a></li>
+            <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" rel="me" href="https://twitter.com/ahfow/">@ahfow on Twitter</a></li>
             <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" rel="me" href="https://mas.to/@grange85/">@grange85@mas.to</a></li>
-            <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" href="https://www.instagram.com/fullofwishes/">@fullofwishes on Instagram</a></li>
-            <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" href="https://oblivious.fullofwishes.co.uk">Oblivious (Tumblr)</a></li>
+            <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" rel="me" href="https://www.instagram.com/fullofwishes/">@fullofwishes on Instagram</a></li>
+            <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" rel="me" href="https://oblivious.fullofwishes.co.uk">Oblivious (Tumblr)</a></li>
       </ul>
     </div>
 
  </footer>
 </div>
 
-<script src="{{ '/js/ahfow.js?' | prepend: site.baseurl | append: buildtimestamp }}"></script>
-{% if page.path == "search.md" %}
-<script src="{{ '/js/simple-jekyll-search.min.js?' | prepend: site.baseurl | append: buildtimestamp }}"></script>
-<script>
-var sjs = SimpleJekyllSearch({
-  searchInput: document.getElementById('searchInput'),
-  resultsContainer: document.getElementById('searchResults'),
-  json: '/search.json'
-})
-</script>
-{% endif %}
+<script src="{{ '/js/ahfow-database.js?' | prepend: site.baseurl | append: buildtimestamp }}"></script>
 
-
-<hr>
-{{page.layout}}
-<hr>

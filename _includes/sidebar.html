@@ -19,18 +19,7 @@
 					{% for category in site.categories %}
 {% assign catsize = category | last | size %}
 {% if catsize > 15 %}
-					<li class="list-inline-item inline-group-item-action"><a class="card-link
-	{% if catsize >= 300 %}fs-3
-	{% elsif catsize >= 100 and catsize < 300 %}
-		fs-4
-	{% elsif catsize >= 60 and catsize < 100 %}
-		fs-4
-	{% elsif catsize >= 30 and catsize < 60 %}
-		fs-5
-	{% else %}
-		fs-6
-{% endif %}
-					" href="{{ category| first | slugify | prepend: '/category/' }}/">{{ category | first }}</a></li>
+					<li class="list-inline-item inline-group-item-action"><a class="card-link {% if catsize >= 300 %}fs-3{% elsif catsize >= 100 and catsize < 300 %}fs-4{% elsif catsize >= 60 and catsize < 100 %}fs-4{% elsif catsize >= 30 and catsize < 60 %}fs-5{% else %}fs-6{% endif %}" href="{{ category| first | slugify | prepend: '/category/' }}/">{{ category | first }}</a></li>
 					{% endif %}
 					{% endfor %}
 					<li class="list-inline-item inline-group-item-action"><a class="card-link" href="/category/">All categories</a></li>
