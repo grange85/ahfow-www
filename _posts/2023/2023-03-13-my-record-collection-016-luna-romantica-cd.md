@@ -25,7 +25,7 @@ Love the album though ... but, [as already mentioned](/2023/01/30/my-record-coll
 
  - *Catalogue Number:* AHFOW 10/059
  - *Artist:* Luna
- - *Title:* Penthouse
+ - *Title:* Romantica
  - *Notes:* 
  - *Packaging:* Jewel case
  - *Format:* CD
