@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Search results
+title: Search
 ---
 <form>
   <div class="form-group">
@@ -16,7 +16,6 @@ title: Search results
 
 <ul id="searchResults" class="list-group list-group-flush"></ul>
 
-If you've not found what you think you should have you can [use Google to search A Head Full of Wishes](https://cse.google.com/cse?cx=017452044498352075094:-vuzx4-btdw).
 
 <form onsubmit="event.preventDefault();document.location.href='https://www.google.com/search?q=site%3Awww.fullofwishes.co.uk%20'+document.getElementById('q').value;">
   <div class="form-group">
@@ -28,5 +27,4 @@ If you've not found what you think you should have you can [use Google to search
 </div>
   </div>
 </form>
-
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'My record collection #032: Galaxie 500 - This Is Our Music'
+title: '#032: Galaxie 500 - This Is Our Music'
 sitemap: true
-series-title:
+series-title: My record collection 
 author:
   display_name: Andy
   login: admin
