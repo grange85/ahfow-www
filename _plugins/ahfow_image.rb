@@ -53,9 +53,9 @@ eos
         ahfowimage_caption_b = ahfowimage_caption_b.gsub("(c)", "<i class=\"fas fa-copyright\"></i>")
 
         if ahfowimage_src.empty?
-          "<div class=\"text-center\"><figure class=\"figure w-100\"><img src=\"#{ahfowimage_url}\" class=\"figure-image img-fluid rounded mx-auto\" alt=\"#{ahfowimage_caption}\" /><figcaption class=\"figure-caption text-right\">#{ahfowimage_caption}</figcaption></figure></div>"
+          "<div class=\"text-center\"><figure class=\"figure w-100\"><img src=\"#{ahfowimage_url}\" class=\"figure-image img-fluid rounded mx-auto\" alt=\"#{ahfowimage_caption}\" /><figcaption class=\"figure-caption text-end\">#{ahfowimage_caption}</figcaption></figure></div>"
         else
-          "<div class=\"text-center\"><figure class=\"figure w-100\"><img src=\"#{ahfowimage_url}\" class=\"figure-image img-fluid rounded mx-auto\" alt=\"#{ahfowimage_caption}\" /><figcaption class=\"figure-caption text-right\"><a href=\"#{ahfowimage_src}\">#{ahfowimage_caption_b}</a></figcaption></figure></div>"
+          "<div class=\"text-center\"><figure class=\"figure w-100\"><img src=\"#{ahfowimage_url}\" class=\"figure-image img-fluid rounded mx-auto\" alt=\"#{ahfowimage_caption}\" /><figcaption class=\"figure-caption text-end\"><a href=\"#{ahfowimage_src}\">#{ahfowimage_caption_b}</a></figcaption></figure></div>"
         end
       end
     end
