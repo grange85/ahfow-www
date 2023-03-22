@@ -24,4 +24,13 @@ The album is a collection of covers, half the album picked and lead by Dean and 
 
 Dean Wareham, 2018
 {: .blockquote-footer .text-end}
-The album was recorded in early 2016 and was eventually released in October 2018.
+The album was recorded in early 2016 and was eventually released in October 2018. I bought my copy as part of a deluxe bundle with a T-shirt and the [Along The Santa Fe Trail lathe cut single]({% post_url /2023/2023-03-30-my-record-collection-021-dean-wareham-and-cheval-sombre-along-the-santa-fe-trail %}
+
+ - *Catalogue Number:* AHFOW 12/0027
+ - *Artist:* Dean Wareham / Cheval Sombre
+ - *Title:* Dean Wareham vs. Cheval Sombre
+ - *Notes:* 
+ - *Packaging:* nice, shiny LP sleeve
+ - *Format:* LP
+ - Bought as part of a _deluxe package_ from Dean Wareham for $75
+ - [Buy '' on Bandcamp]()
