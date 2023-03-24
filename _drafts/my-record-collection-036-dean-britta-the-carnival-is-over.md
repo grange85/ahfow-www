@@ -25,7 +25,7 @@ The only surprise about Dean Wareham covering The Seekers is that it took until 
 
 I ordered my copy straight away managing to save a bit on the horrendous postage costs by sharing shipping on a second copy... but still came in at an eye-watering $21.64 for one track!
 
-> If we spend our whole lives trying to recapture some of the magic of childhood, then perhaps I have spent mine trying to re-create the feeling that I got from hearing "Georgy Girl" - beauty and sadness and extasy all together.
+> If we spend our whole lives trying to recapture some of the magic of childhood, then perhaps I have spent mine trying to re-create the feeling that I got from hearing [The Seekers'] "Georgy Girl" - beauty and sadness and ecstasy all together.
 
 Dean Wareham - Black Postcards (2008)
 {: .blockquote-footer .text-end}

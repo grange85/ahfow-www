@@ -18,7 +18,7 @@ tags:
 - souncheck
 - bootleg
 - live recording
-date: 2023-03-24 00:00 +0000
+date: 2023-03-23 00:00 +0000
 ---
 In July 2012 Lori emailed me "we found some pictures that we took at the Galaxie 500 ICA gig [...] also I've got an audio of the soundcheck they did at Winkles in Bedford" - sometimes brilliant things like this happen out of the blue ... not as often as I'd like but maybe that makes it more special when it does?
 
