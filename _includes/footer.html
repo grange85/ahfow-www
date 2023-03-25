@@ -38,4 +38,15 @@
 </div>
 
 <script src="{{ '/js/ahfow.js?' | prepend: site.baseurl | append: buildtimestamp }}"></script>
-
+{% if page.name == "search.md" %}
+<script src="{{ '/js/simple-jekyll-search.min.js?' | prepend: site.baseurl | append: buildtimestamp }}"></script>
+<script>
+var sjs = SimpleJekyllSearch({
+  searchInput: document.getElementById('searchInput'),
+  resultsContainer: document.getElementById('searchResults'),
+  json: '/search{% if site.environment=="production" %}-min{% endif %}.json',
+  searchResultTemplate: '<li class="list-group-item"><a href="{{ site.url }}{url}">{title}</a></li>',
+  limit: 30
+})
+</script>
+{% endif %}
