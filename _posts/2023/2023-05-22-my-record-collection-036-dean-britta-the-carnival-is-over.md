@@ -1,14 +1,14 @@
 ---
 layout: post
-title: '#036: Dean & Britta - The Carnival is Over'
+title: "#036: Dean & Britta - The Carnival is Over"
 sitemap: true
-series-title: My record collection 
+series-title: My record collection
 author:
   display_name: Andy
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl:
+imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-and-britta-the-carnival-is-over.jpg
 categories:
 - dean & britta
 - my record collection
@@ -16,10 +16,11 @@ tags:
 - the seekers
 - the carnival is over
 - kramer
+date: 2023-05-22 00:00 +0000
 ---
 The only surprise about Dean Wareham covering The Seekers is that it took until 2020 before he did, with this gorgeous duet of The Carnival is Over with Britta. They had originally tried to record it back in 2008 (around the same time they recorded [Friday I'm in Love]({% post_url /2023/2023-04-24-my-record-collection-028-just-like-heaven %})) but abandoned it ... but come the pandemic...
 
-{% ahfowimage "" "" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-and-britta-the-carnival-is-over.jpg" "Dean & Britta - The Carnival is Over" %}
 
 ... the single seemingly popped out of nowhere when Dean [posted a picture of it on Instagram](https://www.instagram.com/p/CAdsiqNDPuX/) in May 2020 revealing the key facts: Seekers cover, mixed and mastered by Kramer, and coming out on PIAPTK.
 
