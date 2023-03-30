@@ -46,9 +46,9 @@ jobs:
         aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         aws-region: us-east-1
 
-#    - name: Create minified json for search
-#      run: |
-#        python3 -c 'import json, sys;json.dump(json.load(sys.stdin), sys.stdout)' < _deploy/search.json > _deploy/search-min.json
+    - name: Create minified json for search
+      run: |
+        python3 -c 'import json, sys;json.dump(json.load(sys.stdin), sys.stdout)' < _deploy/search.json > _deploy/search-min.json
 
     - name: Sync output to S3 (complete)
       if: contains(github.event.head_commit.message, '[data]')
