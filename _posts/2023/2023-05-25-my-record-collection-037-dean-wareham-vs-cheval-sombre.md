@@ -17,7 +17,7 @@ tags:
 - cowboy songs
 date: 2023-05-25 00:00 +0000
 ---
-Dean Wareham and Cheval Sombre's album had a long, long gestation. Dean first mentioned an album of _cowboy songs_ in an [interview with Rock on Philly](http://web.archive.org/web/20140325180916/http://rockonphilly.com/2014/03/rock-on-philly-interviews-dean-wareham/) bcak in March 2014, a full four and a half years before it finally saw the light of day.
+Dean Wareham and Cheval Sombre's album had a long, long gestation. Dean first mentioned an album of _cowboy songs_ in an [interview with Rock on Philly](http://web.archive.org/web/20140325180916/http://rockonphilly.com/2014/03/rock-on-philly-interviews-dean-wareham/) back in March 2014, a full four and a half years before it finally saw the light of day.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-wareham-vs-cheval-sombre.jpg" "Dean Wareham vs Cheval Sombre - 'root beer' coloured vinyl" %}
 
