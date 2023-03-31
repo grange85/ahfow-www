@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'My record collection #037: Dean Wareham vs Cheval Sombre'
+title: '#037: Dean Wareham vs Cheval Sombre'
 sitemap: true
-series-title:
+series-title: My record collection 
 author:
   display_name: Andy
   login: admin
