@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'My record collection #043: Magic Hour - Will They Turn You On or Will They
+title: '#043: Magic Hour - Will They Turn You On or Will They
   Turn on You'
 sitemap: true
-series-title:
+series-title: My record collection 
 author:
   display_name: Andy
   login: admin
