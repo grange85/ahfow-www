@@ -30,7 +30,21 @@ Other words that turn up in Tuatara reviews are _jazz_ and _fusion_ and _America
 
 They're def better than that Pitchfork review you might've come across suggests!
 
-Here's one of Dean's contributions, [Trouble Rides In, on YouTube](https://www.youtube.com/watch?v=DH9tTKn9MQg) (audio only). 
+Here are Dean's contributions, Trouble Rides In and Your Ghost Town:
+
+{% ahfowaudio {
+"audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/tuatara-east-of-the-sun-trouble-rides-in-dean-wareham.mp3",
+"audiocap": "Tuatara - Trouble Rides In (featuring Dean Wareham)",
+"sourceurl": "https://www.discogs.com/Tuatara-East-Of-The-Sun/master/1671143",
+"sourcecap": "Tuatara - East of The Sun (2007) - Discogs"
+} %}
+
+{% ahfowaudio {
+"audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/tuatara-east-of-the-sun-your-ghost-town-dean-wareham.mp3",
+"audiocap": "Tuatara - Your Ghost Town (featuring Dean Wareham)",
+"sourceurl": "https://www.discogs.com/Tuatara-East-Of-The-Sun/master/1671143",
+"sourcecap": "Tuatara - East of The Sun (2007) - Discogs"
+} %}
 
  - *Catalogue Number:* AHFOW 10/163
  - *Artist:* Tuatara
