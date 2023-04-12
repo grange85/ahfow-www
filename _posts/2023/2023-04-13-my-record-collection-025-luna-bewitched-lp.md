@@ -16,7 +16,7 @@ tags:
 - gotta groove records
 date: 2023-04-13 00:00 +0000
 ---
-Luna's second album Bewitched was first released in 1993 by Elektra and, unlike Lunapark _(Summershine)_ before, and all the subsequent albums _(Beggars Banqwuet/Teenbeat)_ until Romantica, never got licensed to any vinyl-loving indies for release in other territories and therefore, didn't get a vinyl release until this one in August 2012.
+Luna's second album Bewitched was first released in 1993 by Elektra and, unlike Lunapark _(Summershine)_ before, and all the subsequent albums _(Beggars Banquet/Teenbeat)_ until Romantica, never got licensed to any vinyl-loving indies for release in other territories and therefore, didn't get a vinyl release until this one in August 2012.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-bewitched-pledge-lp.jpg" "Luna - (Bewitched signed LP)" %}
 
