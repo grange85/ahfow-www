@@ -19,7 +19,7 @@ tags:
 - boston independent film festival
 - iffboston
 ---
-Naomi Yang's new film 'Never Be a Punching Bag for Nobody' will be getting it's world premiere at the [Boston Independent Film Festival](https://iffboston.org/series/the-festival/) on the 29th April.
+Naomi Yang's new film 'Never Be a Punching Bag for Nobody' will be getting it's world premiere at the [Boston Independent Film Festival](https://iffboston.org/series/the-festival/) on the 30th April.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/never-be-a-punching-bag-poster.jpg" "Never Be a Punching Bag for Nobody" %}
 
