@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Soundtrack for 'Never Be a Punching Bag...' out today
-date: 2023-04-21 13:42 +0100
 series-title:
 sitemap: true
 author:
