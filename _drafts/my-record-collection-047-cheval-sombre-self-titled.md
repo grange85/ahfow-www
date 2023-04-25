@@ -15,7 +15,7 @@ categories:
 tags:
 - cheval sombre
 ---
-I first heard of Cheval Sombre in September 2008 when Dean emailed me to tell me that Britta had remixed a track for a single by "our friend who goes by the name of Cheval Sombre" on Irish label Trensmat. Britta's remix of I Sleep was on the CD that was tucked into the 7" single. The following year Dean & Britta's _Double Feature Records_ released this, Cheval Sombre's first full length LP. And it's a beauty.
+I first heard of Cheval Sombre in September 2008 when Dean emailed me to tell me that Britta had remixed a track for a single by "our friend who goes by the name of Cheval Sombre" on Irish label Trensmat. Britta's remix of I Sleep was on the CD that was tucked in with the 7" single. The following year Dean & Britta's _Double Feature Records_ released this, Cheval Sombre's first full length LP. And it's a beauty.
 
 {% ahfowimage "" "" %}
 
@@ -29,3 +29,12 @@ A few months after release Dean & Britta played a show at St Giles' Church in Lo
 {: .blockquote-footer .text-end }
 
 I have quite the history of seeing, yet not seeing Cheval Sombre gigs... [even from the front row](https://www.flickr.com/photos/grange85/8209836725/in/album-72157632080412568/)!
+
+ - *Catalogue Number:* AHFOW 10/141
+ - *Artist:* Cheval Sombre
+ - *Title:* Cheval Sombre
+ - *Notes:* 
+ - *Packaging:* Sealed digipack
+ - *Format:* CD
+ - Not sure where I bought this - possibly direct from Dean & Britta / Double Feature??
+
