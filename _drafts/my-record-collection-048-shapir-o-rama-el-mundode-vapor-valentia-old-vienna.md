@@ -24,6 +24,7 @@ A bit of internet scouring to be honest hasn't revealed much ... [this article o
 
 I have this on LP, can't remember when I bought it - possibly early 2000s ... certainly not in 1994 because this completely slipped me by at the time... and only when Kiek pointed out that I hadn't included it in my Dean Wareham discography did I then manage to hunt down a copy. I later had to scrounge a digital copy of the track so that I could share it.
 
+Dave Rick guested on [Wax! Crackle! Pop! podcast #54](https://www.mixcloud.com/wax_crackle_pop/wax-crackle-pop-54-mystical-shit-from-the-noo-yawk-underground-with-dave-rick-and-chris-xefos/) and briefly touched upon Shapir O'Rama.
 
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/14_Shapir-O-Rama_She-s-A-Beacon.mp3",
