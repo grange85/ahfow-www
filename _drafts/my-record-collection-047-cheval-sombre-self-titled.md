@@ -14,7 +14,6 @@ categories:
 - my record collection
 tags:
 - cheval sombre
-date: 2023-05-03 23:12 +0100
 ---
 I first heard of Cheval Sombre in September 2008 when Dean emailed me to tell me that Britta had remixed a track for a single by "our friend who goes by the name of Cheval Sombre" on Irish label Trensmat. Britta's remix of I Sleep was on the CD that was tucked in with the 7" single. The following year Dean & Britta's _Double Feature Records_ released this, Cheval Sombre's first full length LP. And it's a beauty.
 
