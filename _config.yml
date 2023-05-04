@@ -16,7 +16,12 @@ ahfow-version: '3.0'
 sass:
   sass_dir: _sass
   style: compressed
-  
+
+collections: 
+  articles:
+    output: true
+    permalink: /:collection/:name/
+
 twitter_username: ahfow
 github_username:  grange85
 permalink: /:year/:month/:day/:title/
