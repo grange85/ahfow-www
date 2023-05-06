@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl:
+imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/magic-hour-no-excess-cd.jpg
 categories:
 - damon & naomi
 - my record collection
