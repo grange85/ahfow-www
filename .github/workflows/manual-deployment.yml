@@ -58,9 +58,14 @@ jobs:
 
     - name: Create index of media files
       run: |
-        echo "<html><head></head><body><h1>Index</h1><h2>Audio</h2><ul>" > _deploy/admin-file-index.html
+        echo "<html><head></head><body><h1>Index</h1>" > _deploy/admin-file-index.html
+        echo "<h2>Audio</h2><ul>" >> _deploy/admin-file-index.html
         aws s3 ls s3://${{ vars.S3_CDN_BUCKET }} --recursive | cut -c 21- | grep -i '\.mp3' | sed 's_\(^ *\([0-9]*\) *\([^ ]*\).*\)_<li><a href="https://media.fullofwishes.co.uk/\3">\3</a> <i>(\2)</i></li>_' >> _deploy/admin-file-index.html
-        echo "</ul></body></html>" >> _deploy/admin-file-index.html
+        echo "</ul>"
+        echo "<h2>Photos</h2><ul>" >> _deploy/admin-file-index.html
+        aws s3 ls s3://${{ vars.S3_CDN_BUCKET }} --recursive | cut -c 21- | grep -i '\.mp3' | sed 's_\(^ *\([0-9]*\) *\([^ ]*\).*\)_<li><a href="https://media.fullofwishes.co.uk/\3">\3</a> <i>(\2)</i></li>_' >> _deploy/admin-file-index.html
+        echo "</ul>"
+        echo "</body></html>" >> _deploy/admin-file-index.html
 
     - name: Sync output to S3 and delete removed content
       if: github.event.inputs.deploy-database == 'true'
