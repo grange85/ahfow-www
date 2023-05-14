@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'My record collection #040: Today / On Fire / This Is Our Music'
+title: '#040: Today / On Fire / This Is Our Music'
 sitemap: true
-series-title:
+series-title: My record collection 
 author:
   display_name: Andy
   login: admin
