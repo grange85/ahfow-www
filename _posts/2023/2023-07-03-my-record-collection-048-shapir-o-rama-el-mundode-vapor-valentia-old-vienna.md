@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'My record collection #048: Shapir-O''Rama - El mundo de vapor Valentia (old Vienna)'
+title: 'My record collection #048: Shapir-O''Rama - El mundo de vapor Valentia (old
+  Vienna)'
 sitemap: true
 series-title:
 author:
@@ -14,6 +15,7 @@ categories:
 - dean wareham
 tags:
 - shapir o'rama
+date: 2023-07-03 00:00 +0000
 ---
 To be honest I knew, back then, and know now, very little about Shapir-O'Rama. Dean Wareham appears on vocals on the final track on their first album _El mundo de vapor Valentia (old Vienna)_ which came out in 1994.
 
