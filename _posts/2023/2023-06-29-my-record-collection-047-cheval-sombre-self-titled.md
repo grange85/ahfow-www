@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'My record collection #047: Cheval Sombre - self-titled'
+title: '#047: Cheval Sombre - self-titled'
 sitemap: true
-series-title:
+series-title: My record collection 
 author:
   display_name: Andy
   login: admin
