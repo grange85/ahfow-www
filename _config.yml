@@ -21,6 +21,9 @@ collections:
   articles:
     output: true
     permalink: /:collection/:name/
+  share:
+    output: true
+    permalink: /:collection/:name/
 
 twitter_username: ahfow
 github_username:  grange85
