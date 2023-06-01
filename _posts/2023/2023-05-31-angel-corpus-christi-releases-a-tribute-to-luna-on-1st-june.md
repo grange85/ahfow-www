@@ -18,9 +18,11 @@ tags:
 - bewitched
 - luna tribute
 ---
-The wonderful Angel Corpus Christi will be releasing "Bewitched: A Tribute to Luna" on 1st June on 12" vinyl (and I'll assume in all the usual digital/streamed locations). The album contains covers of six Luna tracks including her cover of I Want Everything that previously came out on a single in 2001.
+The wonderful Angel Corpus Christi will be releasing [Bewitched: A Tribute to Luna](https://angelcorpuschristi.bandcamp.com/album/bewitched-a-tribute-to-luna) on 1st June on limited edition 12" vinyl, available on Angel's Bandcamp, and in all the usual digital/streamed locations. The album contains covers of six Luna tracks including her cover of I Want Everything that previously came out on a single in 2001.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/pictures/angel-corpus-christi-bewitched-insta-01.jpg" "Angel Corpus Christi - Bewitched" "https://www.instagram.com/p/Cs4mW3kPOev/" %}
+
+[Buy Angel Corpus Christi - Bewitched: A Tribute to Luna for $12 + postage](https://angelcorpuschristi.bandcamp.com/album/bewitched-a-tribute-to-luna)
 
 Angel, of course, has some Luna/Dean Wareham form, as well as her previously mentioned cover of "I Want Everything"...
 
@@ -31,4 +33,4 @@ Angel, of course, has some Luna/Dean Wareham form, as well as her previously men
  - And she's been [the sender of "strange faxes"](/2017/12/13/xmas-countdown-4-luna-bbc-radio-1-1995/) to Dean
  - _etc._
 
-You should head to your fave indie store to grab a copy... or I guess keep an eye on [ACC's Bandcamp](https://angelcorpuschristi.bandcamp.com/) (and fill your boots while you're waiting).
+{% ahfowvideo "9K4knjjFP7A" "Angel Corpus Christi - 23 Minutes in Brussels" %}
