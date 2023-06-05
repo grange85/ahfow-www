@@ -1,0 +1,9 @@
+---
+---
+{% for post in site.categories.originals %}
+{% capture hashtags %}#ahfow {% for cat in post.categories %}#{{ cat | replace: " ", "" | replace: "&", "and" }} {% endfor %} {% for tag in post.tags %}#{{ tag | replace: " ", "" }} {% endfor %}{% endcapture %}
+
+
+
+   "{{ post.title}}"    "{{ hashtags | strip }}"    {{ post.imageurl }} {{ post.url | prepend: "https://www.fullofwishes.co.uk" }}
+{% endfor %}
