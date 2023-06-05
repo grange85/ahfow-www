@@ -35,5 +35,5 @@ They were also released as lossless digital downloads available from an online s
  - *Notes:* 
  - *Packaging:* 
  - *Format:* LP
- - Bought, probably direct from 20-20-20 back in 2009
+ - Sent to me by Damon on release
  - [Buy all of these on Bandcamp](https://galaxie500.bandcamp.com/)
