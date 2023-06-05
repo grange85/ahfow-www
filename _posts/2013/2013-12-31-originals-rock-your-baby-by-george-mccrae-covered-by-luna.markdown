@@ -8,16 +8,20 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2013-12-31'
+imageurl: https://upload.wikimedia.org/wikipedia/en/8/86/Rock_Your_Baby_single_art.jpg
 categories:
 - luna
 - originals
+tags:
+- george mccrae
+- disco
 ---
 <p>OK, I'll keep this brief as I've already done this post (twice) before so head here for more Luna downloads</p>
 <p><a href="/2012/12/31/roll-your-own-luna-new-year-2013-version/" title="Roll your own Luna new year (2013 version)">Roll-your-own Luna new year (2013 version)</a></p>
 <p>... but stick here and, just for a change, instead of George swinging those hips and rocking that 'tache we'll look at a bit of spinning plastic...</p>
-{% ahfowvideo "G4C9QoFV8OY" "" %}
+{% ahfowvideo "g8_4b_gB7-Y" "" %}
 <p>... oh and then George swinging those hips and rocking that 'tache!</p>
-{% ahfowvideo "6ebC2p0sroA" "" %}
+{% ahfowvideo "KbCfHkM5dcQ" "" %}
 <p>And here's Luna, swinging those hips... but no moustaches</p>
 {% ahfowvideo "D-0Ey7_pcuE" "" %}
 <p>Oh and here's KC & The Sunshine Band - just because if I were ever to dance it'd be to this</p>

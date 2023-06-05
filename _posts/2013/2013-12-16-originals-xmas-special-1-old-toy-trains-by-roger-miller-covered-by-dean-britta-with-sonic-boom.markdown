@@ -7,14 +7,18 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
+imageurl: https://media.fullofwishes.co.uk/00-misc/pictures/roger-miller-old-toy-trains-1967.jpg
 date: '2013-12-16'
 categories:
 - dean & britta
 - originals
+tags:
+- roger miller
+- christmas
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/roger-miller-old-toy-trains-1967.jpg" alt="Roger Miller - Old Toy Trains" /><figcaption class="caption-text">Roger Miller - Old Toy Trains</figcaption></figure>
 <p>Old Toy Trains was recorded by Roger Miller in 1967 and released on a single by Smash records... and here's a video of that very single on YouTube, with an old toy car</p>
-{% ahfowvideo "4ZYGXWd5Aic" "Roger Miller - Old Toy Trains" %}
+{% ahfowvideo "zsb6iVcajPA" "Roger Miller - Old Toy Trains" %}
 <p>Dean & Britta first made available their cover of Old Toy Trains as a giveaway across the Internet in December 2004 (it was available to download from Luna's site, Sonic Boom's site and AHFoW).</p>
 
  {% ahfowaudio {

@@ -8,10 +8,14 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2013-01-31'
+imageurl: https://upload.wikimedia.org/wikipedia/commons/d/d3/Traffic-sound.png
 categories:
 - damon & naomi
 - lost tracks
 - originals
+tags:
+- traffic sound
+- psychedelic rock
 ---
 <p>A few years ago I made a collection of posts digging out the original versions of the songs that Galaxie 500, Luna and Damon & Naomi had covered over the years - this was in the days before YouTube and Spotify so tracking down the originals was not as easy as it would be now (although Napster and Audiogalaxy helped). I have an alphabetical list of all the covers that our favourite bands have been involved in and my intention over the coming months (possibly years) is to dig out original of the track (or in some cases the version that most likely inspired the cover). I'll possibly leave out the occasional cover from this series for various reasons.</p>
 <p>And you'll see I've left out the first one from the list which was Tom Rapp's cover of Neil Young's After The Goldrush which Naomi sang backing on and, I believe, Damon produced. But you all know that original, so...</p>

@@ -8,9 +8,14 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2014-01-15'
+imageurl: https://upload.wikimedia.org/wikipedia/en/0/0b/Softmachine70-Promo4.jpg
 categories:
 - damon & naomi
 - originals
+tags:
+- soft machine
+- hugh hopper
+- robert wyatt
 ---
 <p>Memories was a very early Soft Machine track from 1967, written by Hugh Hopper and recorded as a demo by Hopper, Robert Wyatt and Kevin Ayers by Yardbirds' producer Giorgio Gomelsky - that snippet of my knowledge was lifted from a <a href="http://web.archive.org/web/20131013220921/http://www.headheritage.co.uk/unsung/albumofthemonth/early-soft-machine">cool article about early Soft Machine by Julian Cope</a>.<br />
 </p>

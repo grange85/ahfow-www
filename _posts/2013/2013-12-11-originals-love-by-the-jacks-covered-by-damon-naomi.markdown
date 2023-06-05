@@ -8,9 +8,12 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2013-12-11'
+imageurl: https://media.fullofwishes.co.uk/00-misc/originals/jacks-japanese-band.jpg
 categories:
 - damon & naomi
 - originals
+tags:
+- jacks
 ---
 <p>So.. an album track by 60s Japanese psych/folk/rock band, that ain't gonna be on YouTube is it... and it wasn't, but it is now.</p>
 <p>Love was released on <del datetime="2013-12-11T23:52:14+00:00">The</del> Jacks 1968 album Vacant World, I'll pinch Wikipedia's description of the band because I rather love how <del datetime="2013-12-11T23:52:14+00:00">The</del> Jacks pretty much cover everything ...</p>

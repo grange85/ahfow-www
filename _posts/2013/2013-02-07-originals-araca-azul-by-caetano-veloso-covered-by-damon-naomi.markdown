@@ -8,17 +8,18 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2013-02-07'
+imageurl: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Caetano_Veloso_no_III_Festival_da_M%C3%BAsica_Popular.tif/lossy-page1-800px-Caetano_Veloso_no_III_Festival_da_M%C3%BAsica_Popular.tif.jpg
 categories:
 - damon & naomi
 - originals
+tags:
+- caetano veloso
 ---
 <p>It seems all the As in my originals series are Damon & Naomi ones - second is their cover of Brazilian legend <a href="http://en.wikipedia.org/wiki/Caetano_Veloso">Caetano Veloso</a>'s Araçá azul. </p>
 <p>Original: Caetano Veloso - Araçá azul<br />
 </p>
 {% ahfowvideo "tnYMgh6Vjjc" "" %}
-<p>Damon & Naomi cover - this actually runs into the next track The Earth is Blue... so expect a sudden finish!<br />
-</p>
-{% bandcamp {"track": "4118269475"} %}
+
 <p>Here's Damon & Naomi performing it in Tokyo in 2004 along with The Earth is Blue</p>
 
  {% ahfowaudio {

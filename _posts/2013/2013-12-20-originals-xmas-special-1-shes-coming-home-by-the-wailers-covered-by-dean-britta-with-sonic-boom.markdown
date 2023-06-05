@@ -8,9 +8,13 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2013-12-20'
+imageurl: https://media.fullofwishes.co.uk/00-misc/pictures/sonics_wailers_galaxies_merry_christmas.jpg
 categories:
 - dean & britta
 - originals
+tags:
+- the wailers
+- christmas
 ---
 <p>Nope! Not those Wailers, these Wailers were from Tacoma Washington and one of their biggest fans (according to Wikipedia) was a young Jimi Hendrix. They recorded She's Coming Home for a Christmas album they shared with fellow garage bands The Sonics and The Galaxies (weird... Sonics (like Sonic Boom) and Galaxies like in 500!) in 1965<p>
 {% ahfowvideo "-Z5JnzVSEf8" "She's Coming Home by The Wailers" %}
