@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection-shapir-o-rama.jpg
+imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/my-record-collection-shapir-o-rama.jpg
 categories:
 - my record collection
 - dean wareham
@@ -19,7 +19,7 @@ date: 2023-07-03 00:00 +0000
 ---
 To be honest I knew, back then, and know now, very little about Shapir-O'Rama. Dean Wareham appears on vocals on the final track on their first album _El mundo de vapor Valentia (old Vienna)_ which came out in 1994.
 
-{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection-shapir-o-rama.jpg" "Shapir-O'Rama - El Mundo..." %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/my-record-collection-shapir-o-rama.jpg" "Shapir-O'Rama - El Mundo..." %}
 
 A bit of internet scouring to be honest hasn't revealed much ... [this article on Trouser Press](https://trouserpress.com/reviews/when-people-were-shorter-and-lived-near-the-water/) suggests that the band exists becuase of a desire of Kim Rancourt (of When People Were Shorter and Lived Near The Water) had a "to work on original material with Dave Rick" and so is basically Dave Rick's earlier band Wonderama with Kim Rancourt.
 
