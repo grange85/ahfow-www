@@ -31,7 +31,7 @@ I abandoned being selective pretty much straight away, it was too hard to make c
 
 ... and then, a couple of weeks back, this beauty landed on my doormat (well, was handed to me by the postie - she's getting quite used to handing me 12" square packages).
 
-Anyone who's followed ACC on Instagram (and [you all should](https://www.instagram.com/angelcorpuschristi/) will be acutely aware of her love of Dean/Luna/Galaxie 500, whether it's the odd [direct reference](https://www.instagram.com/p/Cbbin9CA0ck/) or [photo](https://www.instagram.com/p/CgubVyRpbU9/), or a [lyric in a caption](https://www.instagram.com/p/CbEjeO2LrJE/). She wears her love on her ([beautifully crocheted](https://www.instagram.com/p/CqbfQV7g1RK/)) sleeve. So, it's not a huge surprise that she has chosen to release this little LP of Luna covers.
+Anyone who's followed ACC on Instagram (and [you all should](https://www.instagram.com/angelcorpuschristi/)) will be acutely aware of her love of Dean/Luna/Galaxie 500, whether it's the odd [direct reference](https://www.instagram.com/p/Cbbin9CA0ck/) or [photo](https://www.instagram.com/p/CgubVyRpbU9/), or a [lyric in a caption](https://www.instagram.com/p/CbEjeO2LrJE/). She wears her love on her ([beautifully crocheted](https://www.instagram.com/p/CqbfQV7g1RK/)) sleeve. So, it's not a huge surprise that she has chosen to release this little LP of Luna covers.
 
 The whole collection is wonderful, filled as it is with Angel's quirky delivery, and offbeat instrumentation - here's my track-by-track reaction:
 
