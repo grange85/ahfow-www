@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '#042: Pee Shy - Yellow Race Car'
+title: "#060: Pee Shy - Yellow Race Car"
 sitemap: true
-series-title: My record collection 
+series-title: My record collection
 author:
   display_name: Andy
   login: admin
@@ -15,7 +15,7 @@ categories:
 tags:
 - pee shy
 - strap boy
-date: 2023-06-12 00:00 +0000
+date: 2023-08-14 00:00 +0000
 ---
 Dean doesn't often venture into production - this was an early outing, I think it was recorded at the same time as Pee Shy's _Who Let All The Monkeys Out_ album (which will turn up later in this series) and released before the album on Tampa, FL indie Screw Music Forever - [although they weirdly don't seem to admit it on their (admittedly rather broken) website](http://www.screwmusicforever.com/).
 
