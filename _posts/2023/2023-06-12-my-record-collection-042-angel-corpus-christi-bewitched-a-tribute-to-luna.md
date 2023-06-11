@@ -46,7 +46,7 @@ The whole collection is wonderful, filled as it is with Angel's quirky delivery,
 - **Tiger Lily**  
   Hazel is unaware that Tiger Lily is the Luna song that makes me think of her, she's not really a Luna fan, so won't remember us together watching Luna play this in NYC back 2001, but I do. I suspect she likes Angel's version more than Luna's - that cool, almost jazzy, almost bossa-nova, feel - and a flute! Maybe I do too?
 - **Slide**  
-  So, while I recognised (even if I couldn't actually identify) most of the instruments listed on the sleeve, the _Pianosaurus_ was a new one on me. What was it? Like a dinosaur piano!? [Turns out, yes](https://flic.kr/p/MT2xw1)! And, thanks to the wonderful modern age we live in I can identify it as the instrument that opens _Slide_ and accompanies ACC on Slide. That and the weirdly, not quite rightness of the accordion ending, make this a perfect finish.
+  So, while I recognised (even if I couldn't actually identify) most of the instruments listed on the sleeve, the _Pianosaurus_ was a new one on me. What was it? Like a dinosaur piano!? [Turns out, yes](https://flic.kr/p/MT2xw1)! And, thanks to the wonderful modern age we live in I can identify it as the instrument that opens and accompanies ACC on Slide. That and the weirdly, not quite rightness of the accordion ending, make this a perfect finish.
 
 With things being a bit quiet on the _new_ for AHFoW, Angel Corpus Christi's Luna tribute is just what I needed.
 
