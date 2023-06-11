@@ -32,3 +32,6 @@ I've always been slightly disappointed in the sleeve of this issue - probably be
  - *Format:* CD
  - Not sure where I bought this... somewhere online - possibly direct from Elefant?
  - [Buy 'Damon & Naomi - Pierre Etoile' on Bandcamp](https://damonandnaomi.bandcamp.com/album/pierre-etoile-ep)
+
+ Previously in [my record collection](/category/my-record-collection)
+  - [#001: Pierre Etoile (12")](/2023/01/20/my-record-collection-01-pierre-etoile/)

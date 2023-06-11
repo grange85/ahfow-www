@@ -56,3 +56,6 @@ So, Emancipated Hearts is an LP, and was Dean's first solo LP. I rest my case.
  - *Format:* 10" LP
  - Bought from _Sonic Cathedral_ for £12 (plus £3.50 postage) - which is frankly a bargain for an album!
  - [Buy 'Emancipated Hearts' on Bandcamp](https://deanwareham.bandcamp.com/album/emancipated-hearts)
+
+ Previously in [my record collection](/category/my-record-collection)
+  - [#003: Dean Wareham - Emancipated Hearts (CD)](/2023/01/26/my-record-collection-003-dean-wareham-emancipated-hearts/)

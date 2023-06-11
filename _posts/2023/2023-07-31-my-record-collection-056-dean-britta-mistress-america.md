@@ -43,5 +43,5 @@ So having damned the album with faint praise last time out - "while perhaps not 
  - *Format:* CD
  - Bought somewhere for some money?
    
-Previously in _[my record collection](/category/my-record-collection/)_:
+Previously in [my record collection](/category/my-record-collection/)
  - [#045: Mistress America soundtrack CD](/2023/06/22/my-record-collection-045-mistress-america-soundtrack-cd/)
