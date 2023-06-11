@@ -33,3 +33,14 @@ Some random _facts_ related to this single coming ... as they pop into my head:
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/what-the-hell-does-this-button-do.jpg" "What the hell does this button do!?" %}
 
+ - *Catalogue Number:* AHFOW 11/0076
+ - *Artist:* Luna
+ - *Title:* Something In The Air / Oort Cloud / Kuiper Belt
+ - *Notes:* Came with a 'mission patch'
+ - *Packaging:* Card sleeve inside another card sleeve inside a PVC sleeve
+ - *Format:* 7"
+ - Bought as part of the Sonic Cathedral Singles Club
+ - The tracks are available as part of [Luna's 'Postscripts' EP on Bandcamp](https://luna.bandcamp.com/album/postscripts)
+
+Previously in [my record collection](/category/my-record-collection)
+ - [#033: Luna - Something in the Air](https://www.fullofwishes.co.uk/2023/05/11/my-record-collection-033-luna-something-in-the-air/)

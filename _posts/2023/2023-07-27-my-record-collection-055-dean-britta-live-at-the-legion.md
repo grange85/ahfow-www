@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'My record collection #055: Dean & Britta live at The Legion'
+title: '#055: Dean & Britta live at The Legion'
 sitemap: true
-series-title:
+series-title: My record collection 
 author:
   display_name: Andy
   login: admin

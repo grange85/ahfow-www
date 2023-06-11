@@ -34,3 +34,6 @@ This was another _fill out the collection_ purchase in 2012 - bought on eBay.
  - *Format:* CD
  - Bought on eBay - can't find out what I paid ... I'd guess no more than a fiver.
  - [Buy 'Today' on Bandcamp](https://galaxie500.bandcamp.com/album/today)
+ 
+ Previously in [my record collection](/category/my-record-collection)
+  - [#015: Galaxie 500 - Today (Rough Trade US LP)](/2023/03/09/my-record-collection-015-galaxie-500-today-rough-trade-us-lp/)

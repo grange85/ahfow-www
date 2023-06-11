@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'My record collection #054: F&uuml;xa - Electric Sound of Summer'
+title: '#054: F&uuml;xa - Electric Sound of Summer'
 sitemap: true
-series-title:
+series-title: My record collection 
 author:
   display_name: Andy
   login: admin

@@ -37,3 +37,6 @@ They were also released as lossless digital downloads available from an online s
  - *Format:* LP
  - Sent to me by Damon on release
  - [Buy all of these on Bandcamp](https://galaxie500.bandcamp.com/)
+ 
+ Previously in [my record collection](/category/my-record-collection)
+  - [#032: Galaxie 500 - This Is Our Music](/2023/05/08/my-record-collection-032-galaxie-500-this-is-our-music/) 
