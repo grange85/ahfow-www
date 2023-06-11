@@ -42,7 +42,7 @@ The whole collection is wonderful, filled as it is with Angel's quirky delivery,
 - **23 Minutes in Brussels**  
   There's so much to love about this, partly because there seems to be so much squeezed into the three and a half minutes. I keep listening to this and finding different things that I _love most_ about it - the first minute is a tease of almost conventionality but then... bells and burbles, squeaks and pops, and a solo, and Angel singing with herself. Perfect.
 - **I Want Everything**  
-  This was originally released on a single back in 2001. _I Want Everything_ is sometimes, often, my favourite Luna song and a lot of that is about this cover (and [IWEG]()), maybe it's the 20+ years of familiarity, but this sounds like _archetypal_ ACC. That's a good thing.
+  This was originally released on a single back in 2001. _I Want Everything_ is sometimes, often, my favourite Luna song and a lot of that is about this cover (and [IWEG](/2009/09/02/mp3-luna-live-in-london-in-1993/)), maybe it's the 20+ years of familiarity, but this sounds like _archetypal_ ACC. That's a good thing.
 - **Tiger Lily**  
   Hazel is unaware that Tiger Lily is the Luna song that makes me think of her, she's not really a Luna fan, so won't remember us together watching Luna play this in NYC back 2001, but I do. I suspect she likes Angel's version more than Luna's - that cool, almost jazzy, almost bossa-nova, feel - and a flute! Maybe I do too?
 - **Slide**  
