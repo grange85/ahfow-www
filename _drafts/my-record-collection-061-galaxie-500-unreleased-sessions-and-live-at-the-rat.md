@@ -15,3 +15,8 @@ categories:
 tags:
 - cassette
 ---
+This is a cassette sent to me in the mid 90s by someone (I think Matt) from The Galaxie 500 Mailing List in, I'd guess, 1995 since it has some of the tracks that later turned up on the box set... as well as some stuff that didn't.
+
+{% ahfowimage "url" "caption" %}
+
+
