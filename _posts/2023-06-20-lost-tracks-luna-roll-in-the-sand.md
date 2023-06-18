@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl:
+imageurl: https://media.fullofwishes.co.uk/00-misc/whitley-bay-beach.jpg
 categories:
 - luna
 - lost tracks
@@ -22,7 +22,7 @@ Roll in the Sand was released as the b-side of Luna's cover of Wire's Outdoor Mi
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/whitley-bay-beach.jpg" "Whitley Bay sands" %}
 
-A track that I'd mostly forgotten, maybe it is easily forgettable, with its gentle, pedestrian amble and its langurous guitar, although it is capable of worming its way inside - I listen to it rarely but know it very well.
+A track that I'd mostly forgotten, maybe it is easily forgettable? With its gentle, pedestrian amble and its langurous guitar, although it is capable of worming its way inside - I listen to it rarely but know it very well.
 
 {% ahfowaudio {
 "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/02-luna-roll-in-the-sand.mp3",
