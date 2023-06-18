@@ -18,7 +18,7 @@ tags:
 - coloured vinyl
 date: 2023-06-19 00:00 +0000
 ---
-So... having [regained the rights to their recordings from Ryko]({% post_url /2023/2023-06-05-my-record-collection-040-today-on-fire-this-is-our-music %}) in 2009, ten years on Galaxie 500 started a programme of putting out limited run _exclusive editions_ through Boston retailer Newbury Comics. This version of _Today_ was the third of these, released shortly before Christmas 2019 in maroon vinyl with a black "swirl" (not really a swirl, more of a smear).
+So... having [regained the rights to their recordings from Ryko]({% post_url /2023/2023-06-05-my-record-collection-040-today-on-fire-this-is-our-music %}) in 2009, ten years later we find Galaxie 500 starting a programme of releasing limited run _exclusive editions_ through Boston retailer Newbury Comics. This version of _Today_ was the third of these, released shortly before Christmas 2019 in maroon vinyl with a black "swirl" (not really a swirl, more of a smear).
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-maroon-today.jpg" "Galaxie 500 - Today (maroon vinyl, 2019)" %}
 
@@ -42,7 +42,7 @@ I am relieved that the first wave of reissues were black though.
  - Bought from Newbury Comics for $23.99 (plus $14.99 postage)
  - [Buy 'Today' on Bandcamp](https://galaxie500.bandcamp.com/album/today)
 
- Previously in [my record collection](/category/my-record-collection)
-    - [#040: Today / On Fire / This Is Our Music](/2023/06/05/my-record-collection-040-today-on-fire-this-is-our-music/)
-    - [#027: Galaxie 500 - Today (Schemer CD)](/2023/04/20/my-record-collection-027-galaxie-500-today-schemer-cd/)
-    - [#015: Galaxie 500 - Today (Rough Trade US LP)](/2023/03/09/my-record-collection-015-galaxie-500-today-rough-trade-us-lp/)
+Previously in [my record collection](/category/my-record-collection)
+ - [#040: Today / On Fire / This Is Our Music](/2023/06/05/my-record-collection-040-today-on-fire-this-is-our-music/)
+ - [#027: Galaxie 500 - Today (Schemer CD)](/2023/04/20/my-record-collection-027-galaxie-500-today-schemer-cd/)
+ - [#015: Galaxie 500 - Today (Rough Trade US LP)](/2023/03/09/my-record-collection-015-galaxie-500-today-rough-trade-us-lp/)
