@@ -26,7 +26,7 @@ I say 'thankfully' although buying the 7" meant that I had the single artwork in
 
 {% ahfowimage "https://media.fullofwishes.co.uk/images/misc/luna-outdoorminer-500.jpg" "Overuse of the Outdoor Miner cover image!" %}
 
-The cover of Wire's Outdoor Miner is, thankfully, rather wonderful. The b-side is another of those sweet Luna throwaways that has only ever seen the light of day here and on the LP of extras that came with the Long Players box-set a couple of years back.
+The cover of Wire's Outdoor Miner is, however, rather wonderful. The b-side is another of those sweet Luna throwaways that has only ever seen the light of day here and on the LP of extras that came with the Long Players box-set a couple of years back.
 
  - *Catalogue Number:* AHFOW 11/0009
  - *Artist:* Luna
