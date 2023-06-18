@@ -15,7 +15,7 @@ categories:
 tags:
 - cassette
 ---
-This is a cassette sent to me in the mid 90s by someone (I think Matt) from The Galaxie 500 Mailing List in, I'd guess, 1995 since it has some of the tracks that later turned up on the box set... as well as some stuff that didn't.
+This is a cassette sent to me in the mid 90s by someone from The Galaxie 500 Mailing List in, I'd guess, 1995 since it has some of the tracks that later turned up on the box set... as well as some stuff that didn't.
 
 {% ahfowimage "url" "caption" %}
 
@@ -53,3 +53,5 @@ Most of this has made it out there over time - quite a bit on this website - her
      - _[Download the full show](/database/galaxie-500/shows/galaxie-500-1988-12-16-rat-boston-ma-usa/)_
   - Tugboat 
   - Oblivious _this is the alternate version that came with Chemical Imbalance #8 and was released on the 1996 box set_
+
+
