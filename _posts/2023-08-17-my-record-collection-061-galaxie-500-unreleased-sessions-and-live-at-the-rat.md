@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '#061: Galaxie 500 - unreleased sessions and live at The Rat'
+title: "#061: Galaxie 500 - unreleased sessions and live at The Rat"
 sitemap: true
-series-title: My record collection 
+series-title: My record collection
 author:
   display_name: Andy
   login: admin
@@ -14,6 +14,7 @@ categories:
 - my record collection
 tags:
 - cassette
+date: 2023-08-17 00:00 +0000
 ---
 This is a cassette sent to me in the mid 90s by someone from The Galaxie 500 Mailing List in, I'd guess, 1995 since it has some of the tracks that later turned up on the box set... as well as some stuff that didn't. I can't remember who sent this, possibly Matthew (who was very helpful in the early days of the list/website but who I've long lost touch with).
 
