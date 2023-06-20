@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Audio: Lost tracks: Tell Me Do You Miss Me'
+title: 'Luna - Tell Me Do You Miss Me'
+series-title: Lost tracks
 author:
   display_name: Andy
   login: admin

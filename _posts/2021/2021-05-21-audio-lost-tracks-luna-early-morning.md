@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Audio: Lost tracks: Luna - Early Morning"
+title: "Luna - Early Morning"
+series-title: Lost tracks
 author:
   display_name: Andy
   login: admin

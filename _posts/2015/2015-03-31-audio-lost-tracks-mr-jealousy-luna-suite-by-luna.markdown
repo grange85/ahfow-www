@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Audio: Lost tracks: Mr. Jealousy Luna Suite by Luna'
+title: 'Luna - Mr. Jealousy Luna Suite'
+series-title: Lost tracks
 author:
   display_name: Andy
   login: admin

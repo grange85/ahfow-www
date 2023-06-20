@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Audio: Lost tracks: Magic Hour - Sally Free and Easy'
+title: 'Magic Hour - Sally Free and Easy'
+series-title: Lost tracks
 author:
   display_name: Andy
   login: admin

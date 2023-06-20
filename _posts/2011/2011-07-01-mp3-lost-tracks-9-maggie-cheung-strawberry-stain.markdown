@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Mp3: Lost tracks #9: Maggie Cheung - Strawberry Stain'
+title: 'Maggie Cheung - Strawberry Stain'
+series-title: Lost tracks
 author:
   display_name: Andy
   login: admin

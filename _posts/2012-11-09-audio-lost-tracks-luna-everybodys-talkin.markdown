@@ -2,7 +2,8 @@
 layout: post
 status: publish
 published: true
-title: 'Audio: Lost tracks / Luna - Everybody''s Talkin'''
+title: 'Luna - Everybody''s Talkin'''
+series-title: Lost tracks
 author:
   display_name: Andy
   login: admin

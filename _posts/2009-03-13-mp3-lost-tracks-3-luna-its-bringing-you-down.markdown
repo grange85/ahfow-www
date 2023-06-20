@@ -2,7 +2,8 @@
 layout: post
 status: publish
 published: true
-title: 'Mp3: Lost tracks #3 - Luna - It''s Bringing You Down'
+title: 'Luna - It''s Bringing You Down'
+series-title: Lost tracks
 author:
   display_name: Andy
   login: admin

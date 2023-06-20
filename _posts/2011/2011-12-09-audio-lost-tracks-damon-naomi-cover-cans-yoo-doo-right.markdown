@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Audio: Lost tracks: Damon & Naomi cover Can''s Yoo Doo Right'
+title: 'Damon & Naomi - Yoo Doo Right'
+series-title: Lost tracks
 author:
   display_name: Andy
   login: admin

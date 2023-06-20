@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Audio: Lost tracks: Damon & Naomi - 14 Auspicious Dreams'
+title: 'Damon & Naomi - 14 Auspicious Dreams'
+series-title: Lost tracks
 author:
   display_name: Andy
   login: admin

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Audio: Lost tracks: California (live) - Luna'
+title: 'Luna - California (live)'
+series-title: Lost tracks
 author:
   display_name: Andy
   login: admin

@@ -2,7 +2,8 @@
 layout: post
 status: publish
 published: true
-title: 'Mp3: Lost tracks #1 - Luna - Sucking Ice Cubes'
+title: 'Luna - Sucking Ice Cubes'
+series-title: Lost tracks
 author:
   display_name: Andy
   login: admin

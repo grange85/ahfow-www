@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Lost tracks: Luna - Roll in the Sand'
+title: 'Luna - Roll in the Sand'
 sitemap: true
-series-title:
+series-title: Lost tracks
 author:
   display_name: Andy
   login: admin
@@ -30,3 +30,6 @@ A track that I'd mostly forgotten, maybe it is easily forgettable? With its gent
 "sourceurl": "https://www.fullofwishes.co.uk/database/luna/releases/singles/",
 "sourcecap": "Luna - Outdoor Miner / Roll in the Sand"
 } %}
+
+__Update:__  
+_I just noticed that I'd  [already posted this back in 2012](/2012/10/02/audio-lost-tracks-luna-roll-in-the-sand/)... and did a much better job of it then too!_

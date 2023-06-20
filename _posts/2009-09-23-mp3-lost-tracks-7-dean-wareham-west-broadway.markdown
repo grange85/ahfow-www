@@ -2,7 +2,8 @@
 layout: post
 status: publish
 published: true
-title: 'Mp3: Lost tracks #7: Dean Wareham - West Broadway'
+title: 'Dean Wareham - West Broadway'
+series-title: Lost tracks
 author:
   display_name: Andy
   login: admin

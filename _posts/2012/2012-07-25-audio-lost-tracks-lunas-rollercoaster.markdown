@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Audio: Lost tracks - Luna''s Rollercoaster'
+title: 'Luna - Rollercoaster'
+series-title: Lost tracks
 author:
   display_name: Andy
   login: admin

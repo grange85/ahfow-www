@@ -2,7 +2,8 @@
 layout: post
 status: publish
 published: true
-title: 'Mp3: Lost tracks #2 - Dean & Britta - Forever'
+title: 'Dean & Britta - Forever'
+series-title: Lost tracks
 author:
   display_name: Andy
   login: admin

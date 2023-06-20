@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Mp3: Lost tracks #5 - Damon & Naomi - Spirit of Love'
+title: 'Damon & Naomi - Spirit of Love'
+series-title: Lost tracks 
 author:
   display_name: Andy
   login: admin
