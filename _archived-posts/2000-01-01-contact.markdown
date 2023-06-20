@@ -1,0 +1,39 @@
+---
+layout: post
+status: publish
+published: true
+title: Contact
+author:
+  display_name: Andy
+  login: admin
+  email: andy@fullofwishes.co.uk
+  url: http://www.grange85.co.uk
+author_login: admin
+author_email: andy@fullofwishes.co.uk
+author_url: http://www.grange85.co.uk
+date: '2000-01-01 00:00:00 +0000'
+date_gmt: '2000-01-01 00:00:00 +0000'
+categories:
+- miscellaneous
+tags: []
+---
+<p style="text-align:justify"><strong>By filling in this form</strong><br/><br />
+<form action="/scriptsz/formmail.cgi" method="post"><input type='hidden' name="recipient" value="webmaster@kesters.co.uk"/><input type='hidden' name="subject" value="A Head Full of Wishes"/><input type='hidden' name="required" value=""/><input type='hidden' name="env_report" value="REMOTE_HOST"/><input type='hidden' name="print_blank_fields" value="1"/><input type=hidden name="title" value="A Head Full of Wishes contact form results"><input type=hidden name="return_link_url" value="/galaxie/index.php"><input type=hidden name="return_link_title" value="Back to A Head Full of Wishes"><input type=hidden name="bgcolor" value="#333366"><input type=hidden name="text_color" value="#cccccc"><input type=hidden name="link_color" value="#ccccff"><input type=hidden name="vlink_color" value="#ccccff"><input type=hidden name="alink_color" value="#ccccff"><input type=hidden name="location" value="127"><br />
+<table>
+<tr>
+<td><b>Name:</b></td>
+<td><input name="realname" type="text" size='20,1' maxlength='100'/></td>
+</tr>
+<tr>
+<td><b>E-Mail address:</b></td>
+<td><input name="email" type="text" size='20,1' maxlength='100'/></td>
+</tr>
+<tr>
+<td><b>Comments:</b></td>
+<td><textarea name="comments" rows="5" cols="40"></textarea></td>
+</tr>
+</tbody>
+</table>
+<p><br/><input type="button" value="Submit my comments" onclick="this.form.submit();"/></form></p>
+<p style="text-align:justify"><strong>By email</strong><br/><a href="mailto:andy@grange85.co.uk?subject=A%20Head%20Full%20of%20Wishes">andy@grange85.co.uk</a></p>
+<p style="text-align:justify;"><strong>By regular mail</strong><br/>Andy Aldridge<br />85 Studley Grange Road<br />London<br />W7 2LU<br />UK</p>
