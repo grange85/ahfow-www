@@ -8,7 +8,6 @@ author:
   url: http://www.grange85.co.uk
 date: '2011-10-13'
 categories:
-- miscellaneous
 - dean & britta
 ---
 <p>Here are a few videos that have recently turned up on YouTube of Dean Wareham plays Galaxie 500 shows...</p>

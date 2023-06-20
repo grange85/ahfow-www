@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: Interview with Dean Wareham at Crikey
 author:
   display_name: Andy
@@ -8,7 +9,6 @@ author:
   url: http://www.grange85.co.uk
 date: '2011-10-10'
 categories:
-- miscellaneous
 - dean & britta
 ---
 <p>Ahead of Dean & Britta taking the "plays Galaxie 500" shows down-under the independent Australian news and arts blog Crikey has posted <a href="http://blogs.crikey.com.au/literaryminded/2011/10/10/black-postcards-kent-maccarter-interviews-dean-wareham-part-one/">the first half of an in depth interview with Dean Wareham</a>. </p>

@@ -9,7 +9,7 @@ author:
 date: '2002-10-31'
 imageurl: https://live.staticflickr.com/4458/37850177326_e9b63c030b_c.jpg
 categories:
-- miscellaneous
+- luna
 flickr: true
 ---
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/37850177326/in/photolist-Zse9X6-ZEG43f-qYVLAd-oy7xAJ-7ksNwM-7kwH6f-7ksNv8-7kwH8h-7ksNhD-7ksNkR-7kwH35" title="Luna at Dingwalls in London in October 2002 #luna #lunatheband #dingwalls"><img src="https://live.staticflickr.com/4458/37850177326_e9b63c030b_c.jpg" width="800" height="800" alt="Luna at Dingwalls in London in October 2002 #luna #lunatheband #dingwalls"></a>

@@ -8,7 +8,6 @@ author:
   url: http://www.grange85.co.uk
 date: '2011-10-12'
 categories:
-- miscellaneous
 - dean & britta
 ---
 <p><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2011/10/tumblr_lsvh25Oe8T1qk2ny4.jpg" alt="" title="tumblr_lsvh25Oe8T1qk2ny4" width="500" height="264" class="aligncenter size-full wp-image-2237" /></p>

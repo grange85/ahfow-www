@@ -8,7 +8,6 @@ author:
   url: http://www.grange85.co.uk
 date: '2011-07-11'
 categories:
-- miscellaneous
 - galaxie 500
 ---
 <p>The complete <a href="http://galaxie500.bandcamp.com">Galaxie 500 catalogue is now available on the excellent download service Bandcamp</a>. You can stream the complete albums and download in pretty much any format you could want for a very reasonable $8.88 per album.<br />

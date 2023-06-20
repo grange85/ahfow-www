@@ -8,7 +8,6 @@ author:
   url: http://www.grange85.co.uk
 date: '2011-09-30'
 categories:
-- miscellaneous
 - galaxie 500
 ---
 <p>I've just been pointed towards this lovely interview with Galaxie 500 from a 1990 issue of Ptolemaic Terrascope</p>

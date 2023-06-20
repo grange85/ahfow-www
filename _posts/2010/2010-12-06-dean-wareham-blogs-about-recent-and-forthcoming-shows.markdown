@@ -8,7 +8,6 @@ author:
   url: http://www.grange85.co.uk
 date: '2010-12-06'
 categories:
-- miscellaneous
 - dean & britta
 ---
 <p>Dean has just <a href="https://web.archive.org/web/20101206+/http://www.deanandbritta.com/blog/?p=814">posted to the deanandbritta.com blog</a> commenting on their recent shows (which included appearances from Lee Wall and Sean Eden of Luna - although not both at the same time) and mentions their forthcoming shows in the UK.</p>

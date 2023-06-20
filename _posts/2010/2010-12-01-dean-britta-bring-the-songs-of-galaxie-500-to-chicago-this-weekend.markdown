@@ -8,7 +8,6 @@ author:
   url: http://www.grange85.co.uk
 date: '2010-12-01'
 categories:
-- miscellaneous
 - dean & britta
 ---
 <p>After a couple of weeks break Dean & Britta are back on the road this weekend with two dates in the Dean Wareham plays Galaxie 500 series of shows at the Lincoln Hall in Chicago.</p>

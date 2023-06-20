@@ -8,7 +8,6 @@ author:
   url: http://www.grange85.co.uk
 date: '2010-11-12'
 categories:
-- miscellaneous
 - dean & britta
 ---
 <p>At last night's show at The Troubadour in Los Angeles Dean & Britta were joined on stage by Lee Wall for a set closer of 23 Minutes in Brussels - hopefully some video will turn up soon... in the meantime...</p>

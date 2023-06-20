@@ -8,7 +8,6 @@ author:
   url: http://www.grange85.co.uk
 date: '2011-08-30'
 categories:
-- miscellaneous
 - dean & britta
 - 13 most beautiful
 ---

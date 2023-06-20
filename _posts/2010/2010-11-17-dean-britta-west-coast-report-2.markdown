@@ -8,7 +8,6 @@ author:
   url: http://www.grange85.co.uk
 date: '2010-11-17'
 categories:
-- miscellaneous
 - dean & britta
 ---
 <p>More reviews, pictures and videos have turned up about Dean & Britta's recent west coast jaunt - here are a few - feel free to add any more you find to the comments...</p>

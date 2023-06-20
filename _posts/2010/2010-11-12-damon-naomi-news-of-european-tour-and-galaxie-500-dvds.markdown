@@ -8,7 +8,6 @@ author:
   url: http://www.grange85.co.uk
 date: '2010-11-12'
 categories:
-- miscellaneous
 - damon & naomi
 - galaxie 500
 ---
