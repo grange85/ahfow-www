@@ -11,7 +11,7 @@ author:
   url: http://www.grange85.co.uk
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/never-be-a-punching-bag-poster.jpg
 categories:
-- damon & Nnaomi
+- damon & naomi
 - news
 tags:
 - naomi yang
