@@ -9,7 +9,7 @@ author:
   url: http://www.grange85.co.uk
 imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/monsters-robots-bug-men-cd.jpg
 categories:
-- damon and naomi
+- damon & naomi
 - my record collection
 tags:
 - magic hour
