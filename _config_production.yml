@@ -3,5 +3,4 @@
 environment: production
 destination: ./_deploy/
 future: false
-unpublished: false
 show_drafts: false

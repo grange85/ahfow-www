@@ -95,7 +95,6 @@ port: 4040
 markdown: kramdown
 environment: production
 future: false
-unpublished: false
 
 # default excludes
 exclude:
