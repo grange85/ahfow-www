@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '#063: Luna - Dear Paulina'
+title: "#063: Luna - Dear Paulina"
 sitemap: true
-series-title: My record collection 
+series-title: My record collection
 author:
   display_name: Andy
   login: admin
@@ -15,6 +15,7 @@ categories:
 tags:
 - dear paulina
 - grange85
+date: 2023-08-24 00:00 +0000
 ---
 Luna's Dear Paulina single was released in September 1999 and is one of the few physical achievements of A Head Full of Wishes.
 
