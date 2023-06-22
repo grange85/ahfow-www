@@ -10,7 +10,6 @@ date: '2007-03-11'
 categories:
 - news
 - dean wareham
-- lost tracks
 ---
 
 Back in 1996, while still a member of Luna, Justin Harwood teamed up with Pete Buck (REM) and Barrett Martin (Screaming Trees) to form the instrumental supergroup Tuatara. The band have their fourth album, East of the Sun released in June, although as far as I can tell Justin is no longer a member. However the band have branched into having vocals on their album and have guest appearances by a bunch of familiar names including Dean Wareham.

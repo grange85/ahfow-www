@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Audio: Lost tracks: Dean Wareham with Tuatara"
+title: "Dean Wareham with Tuatara"
+series-title: Lost tracks
 author:
   display_name: Andy
   login: admin

@@ -2,7 +2,8 @@
 layout: post
 status: publish
 published: true
-title: 'Audio: Lost tracks: The Bad Vibe Merchant - Luna'
+title: 'Luna - The Bad Vibe Merchant'
+series-title: Lost tracks
 author:
   display_name: Andy
   login: admin

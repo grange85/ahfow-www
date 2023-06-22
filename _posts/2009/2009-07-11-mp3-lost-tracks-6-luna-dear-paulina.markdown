@@ -2,7 +2,8 @@
 layout: post
 status: publish
 published: true
-title: 'Mp3: Lost tracks #6 - Luna - Dear Paulina'
+title: 'Luna - Dear Paulina'
+series-title: Lost tracks 
 author:
   display_name: Andy
   login: admin

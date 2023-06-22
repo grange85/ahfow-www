@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Mp3: Lost tracks #4 - Cagney & Lacee - Orange'
+title: 'Cagney & Lacee - Orange'
+series-title: Lost tracks
 author:
   display_name: Andy
   login: admin

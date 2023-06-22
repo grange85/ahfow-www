@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Lost tracks: Luna - Hello Little One'
+title: 'Luna - Hello Little One'
+series-title: Lost tracks
 sitemap: true
-series-title:
 author:
   display_name: Andy
   login: admin

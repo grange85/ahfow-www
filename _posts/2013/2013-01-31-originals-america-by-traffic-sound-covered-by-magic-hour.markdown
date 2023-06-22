@@ -11,7 +11,6 @@ date: '2013-01-31'
 imageurl: https://upload.wikimedia.org/wikipedia/commons/d/d3/Traffic-sound.png
 categories:
 - damon & naomi
-- lost tracks
 - originals
 tags:
 - traffic sound

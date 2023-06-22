@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Audio: Lost tacks: Damon & Naomi covering Vashti Bunyan's Winter is Blue"
+title: "Damon & Naomi - Winter is Blue"
+series-title: Lost tracks
 author:
   display_name: Andy
   login: admin

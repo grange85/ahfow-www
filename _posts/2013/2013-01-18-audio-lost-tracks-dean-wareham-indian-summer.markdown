@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Audio: Lost tracks: Dean Wareham - Indian Summer'
+title: 'Dean Wareham - Indian Summer'
+series-title: Lost tracks
 author:
   display_name: Andy
   login: admin

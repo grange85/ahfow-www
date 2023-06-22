@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Dean & Britta provide music for HBO Voyeur
+title: Dean & Britta - HBO Voyeur
+series-title: Lost tracks
 author:
   display_name: Andy
   login: admin

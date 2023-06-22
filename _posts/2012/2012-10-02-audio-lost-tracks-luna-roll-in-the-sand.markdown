@@ -2,7 +2,8 @@
 layout: post
 status: publish
 published: true
-title: 'Audio: Lost Tracks - Luna - Roll in the Sand'
+title: 'Luna - Roll in the Sand'
+series-title: Lost tracks
 author:
   display_name: Andy
   login: admin

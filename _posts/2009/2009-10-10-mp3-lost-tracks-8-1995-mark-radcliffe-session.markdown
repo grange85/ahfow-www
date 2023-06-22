@@ -2,7 +2,8 @@
 layout: post
 status: publish
 published: true
-title: 'Mp3: Lost tracks #8: 1995 Mark Radcliffe session'
+title: 'Luna - 1995 Mark Radcliffe session'
+series-title: Lost tracks 
 author:
   display_name: Andy
   login: admin
