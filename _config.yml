@@ -108,6 +108,8 @@ exclude:
 - .jekyll-cache
 - "*.swp"
 - "*.swo"
+- "*.swn"
+
 
 plugins: [
       ]
