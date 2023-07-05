@@ -22,7 +22,7 @@ The randomised spreadsheet is constantly getting _massaged_, and occasionally ad
 
  - Total number of entries in the _my record collection_ spreadsheet: 340
  - Number posted: 50 (14.7%)
- - Estimated completion date: Monday 4th May 2026
+ - Estimated completion date: Thursday 7th May 2026
 
 So far:
  - Galaxie 500 - 7 posts
