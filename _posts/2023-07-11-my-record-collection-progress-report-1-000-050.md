@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Progress report #1 (000 - 050)'
+title: 'Progress report #1 (001 - 050)'
 sitemap: true
 series-title: My record collection
 author:
