@@ -2,7 +2,7 @@
 layout: post
 title: 'Progress report #1 (000 - 050)'
 sitemap: true
-series-title: My record collection 
+series-title: My record collection
 author:
   display_name: Andy
   login: admin
@@ -13,6 +13,7 @@ categories:
 - my record collection
 tags:
 - statistics
+date: 2023-07-11 08:56 +0100
 ---
 So, the [first 50 items in _my record collection_](/category/my-record-collection/) ticked off ... lets see how I'm doing.
 
