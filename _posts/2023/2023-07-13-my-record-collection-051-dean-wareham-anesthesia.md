@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection-dean-wareham-anesthesia-cd.jpg
+imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/my-record-collection-dean-wareham-anesthesia-cd.jpg
 categories:
 - dean wareham
 - my record collection
@@ -18,7 +18,7 @@ date: 2023-07-13 00:00 +0000
 ---
 Released in February 1992, just under a year after the heartbreaking break-up of Galaxie 500, Anesthesia was a balm to help soothe that wound. By the time the single was released Dean had formed Luna and a couple of weeks later [I saw them at The Underworld](/2020/02/27/lunas-first-london-show-27-feb-1992/) and all was (almost) forgiven.
 
-{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection-dean-wareham-anesthesia-cd.jpg" "Dean Wareham - Anesthesia CD" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/my-record-collection-dean-wareham-anesthesia-cd.jpg" "Dean Wareham - Anesthesia CD" %}
 
 The UK music inkies seemed to be equally relieved:
 

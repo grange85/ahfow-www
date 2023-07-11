@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection-galaxie500-tiom-cwnn.jpg
+imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/my-record-collection-galaxie500-tiom-cwnn.jpg
 categories:
 - galaxie 500
 - my record collection
@@ -19,7 +19,7 @@ date: 2023-07-17 00:00 +0000
 ---
 The Chain With No Name was a collection of independent record stores that was set up in the late 1980s to try and loosen the grip of the big chains with names like HMV, Virgin and Our Price. This was mostly done by arranging limited editions from indie record labels. This copy of This Is Our Music came with two postcards which, I have to say, is not a particularly high-grade inducement.
 
-{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection-galaxie500-tiom-cwnn.jpg" "Galaxie 500 - This Is Our Music (CWNN limited postcard set)" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/my-record-collection-galaxie500-tiom-cwnn.jpg" "Galaxie 500 - This Is Our Music (CWNN limited postcard set)" %}
     
 Since I've already posted about my first copy of This Is Our Music this is one that came into my possession later, but still has the (opened and aging) shrink wrap with the CWNN sticker and with both postcards. One is a reproduction of the blue section from the front of the album sleeve and the other is the distorted pic from the back - nice to have but ... like I said ... not a high-grade inducement if getting to your nearest indie involved public transport costs.
 

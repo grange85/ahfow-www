@@ -17,7 +17,7 @@ tags:
 - fuxa
 date: 2023-07-24 00:00 +0000
 ---
-F&uuml;xa's _Electric Sound of Summer_ was released in 2012 as a picture disc on top London indie [Rocket Girl Records(https://www.rocketgirl.co.uk/), and featured Dean Wareham's vocals on the cover of Suicides's Cheree and Britta Phillips singing on the cover of Daniel Johnson's Some Things Last a Long Time. Both are fine covers and the rest of the album is a treat.
+F&uuml;xa's _Electric Sound of Summer_ was released in 2012 as a picture disc on top London indie [Rocket Girl Records](https://www.rocketgirl.co.uk/), and featured Dean Wareham's vocals on the cover of Suicides's Cheree and Britta Phillips singing on the cover of Daniel Johnson's Some Things Last a Long Time. Both are fine covers and the rest of the album is a treat.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/fuxa-electric-sound-of-summer.jpg" "Fuxa - Electric Sound of Summer" %}
 
