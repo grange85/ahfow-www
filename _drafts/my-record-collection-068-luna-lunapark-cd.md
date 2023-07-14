@@ -29,6 +29,7 @@ I love Lunapark, sometimes more than any other Luna album. Dean ranked it sixth 
 [Dean Wareham ranks Luna's studio albums](/2016/05/12/dean-wareham-ranks-lunas-studio-albums/)
 {: .blockquote-footer .text-end}
 
+
 I'd have bought this album on the day of release (or the weekend after).
 
  - *Catalogue Number:* AHFOW 10/044
