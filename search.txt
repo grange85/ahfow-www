@@ -1,0 +1,9 @@
+---
+layout: none
+---
+  {% for post in site.posts %}
+{{ post.title }}
+{{ post.content }}
+{{ post.categories | join: ', ' }}
+{{ post.tags | join: ', ' }}
+  {% endfor %}
