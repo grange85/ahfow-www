@@ -28,7 +28,7 @@ They will play their first ever date in Reykjavik, Iceland om the 1st September 
 <table class="table table-striped">
       <tbody><tr>
         <th class="col-md-4">1st September 2023</th>
-        <td class="col-md-8"><a href="/database/damon-and-naomi/shows/damon-and-naomi-2023-09-01-mengi-reykjavík-iceland/">Mengi, Reykjavík, Iceland</a><br>
+        <td class="col-md-8"><a href="/database/damon-and-naomi/shows/damon-and-naomi-2023-09-01-mengi-reykjavik-iceland/">Mengi, Reykjavík, Iceland</a><br>
           <span class="badge text-bg-success">Damon &amp; Naomi</span>
         </td>
       </tr>
