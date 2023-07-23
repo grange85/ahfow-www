@@ -33,7 +33,7 @@ I no longer have the magazine so suspect it didnt't have any more Luna than thei
 
 To be honest I removed most of the compilations CDs that just included album tracks from my database - there were lots of Uncuts and Mojos etc. I'm not entirely sure how/why this one is still included.
 
-I've ripped the whole cd [and popped it here](https://www.mediafire.com/file/kgy12y3v7v7k9gn/cmj-new-music-monthly--volume-90--february-2001.zip/file) if you want to give the whole thing a listen.
+I've ripped the cd [and popped it here](https://www.mediafire.com/file/kgy12y3v7v7k9gn/cmj-new-music-monthly--volume-90--february-2001.zip/file) if you want to give the whole thing a listen.
 
  - *Catalogue Number:* AHFOW 10/137
  - *Artist:* Various
