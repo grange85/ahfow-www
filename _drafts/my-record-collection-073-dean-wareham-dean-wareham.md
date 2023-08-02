@@ -37,4 +37,4 @@ It is such a good album that seems to have slipped a lot of folk by and doesn't 
  - Bought from Sonic Cathedral for £15 + (£3.50 postage)
  - [Buy 'Dean Wareham' on Bandcamp](https://deanwareham.bandcamp.com/album/dean-wareham)
 
- _&dagger; [Obv I disagree](/2023/07/06/my-record-collection-049-dean-wareham-emancipated-hearts-vinyl/)!
+ _&dagger; [Obv I disagree](/2023/07/06/my-record-collection-049-dean-wareham-emancipated-hearts-vinyl/).
