@@ -53,14 +53,14 @@ jobs:
     - name: Sync output to S3 (complete)
       if: contains(github.event.head_commit.message, '[data]')
       run: |
-        aws s3 sync --size-only --delete --exclude '.sass-cache' _deploy s3://www.fullofwishes.co.uk
-        aws s3 mv --content-type "text/xml" --metadata-directive REPLACE s3://www.fullofwishes.co.uk/feed.xml s3://www.fullofwishes.co.uk/feed
+        aws s3 sync --size-only --delete --exclude '.sass-cache' _deploy s3://${{ vars.S3_BUCKET }}
+        aws s3 mv --content-type "text/xml" --metadata-directive REPLACE s3://${{ vars.S3_BUCKET }}/feed.xml s3:/${{ vars.S3_BUCKET }}/feed
 
     - name: Sync output to S3
       if: "!contains(github.event.head_commit.message, '[data]')"
       run: |
-        aws s3 sync --size-only --exclude '.sass-cache' _deploy s3://www.fullofwishes.co.uk
-        aws s3 mv --content-type "text/xml" --metadata-directive REPLACE s3://www.fullofwishes.co.uk/feed.xml s3://www.fullofwishes.co.uk/feed
+        aws s3 sync --size-only --exclude '.sass-cache' _deploy s3://${{ vars.S3_BUCKET }}
+        aws s3 mv --content-type "text/xml" --metadata-directive REPLACE s3://${{ vars.S3_BUCKET }}/feed.xml s3:/${{ vars.S3_BUCKET }}/feed
 
     - name: Invalidate Cloudfront
       run: |
