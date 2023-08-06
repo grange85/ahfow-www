@@ -17,7 +17,10 @@ layout: default
 		   {% endif %}
 		   on {{ post.date | date: "%-d %B %Y" }}
 		   </p>
-		   <p class="card-text">{{ post.content }}</p>
+		   <p class="card-text">{{ post.excerpt }}</p>
+		   {% if post.content.size > post.excerpt.size %}
+		   <p class="text-end"><a class="btn btn-secondary" href="{{ post.url | prepend: site.baseurl }}">... read on<a></p>
+			{% endif %}
 	   </div>
    </div>
 
