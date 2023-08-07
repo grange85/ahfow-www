@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Recent acquisition #1: Luna - The Days of Our Nights LP"
+title: 'Recent acquisition #1 - Luna The Days of Our Nights (LP)'
 sitemap: true
 series-title: My record collection
 author:
@@ -8,18 +8,19 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl:
+imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/the-days-of-our-nights-lp-reissue.jpg
 categories:
 - luna
 - my record collection
 tags:
 - the days of our nights
+date: 2023-09-08 00:00 +0000
 ---
-Inevitably, _my record collection_ was likely to grow during the course of this series initially I'd shuffle everything around to find a place for any new arrivals but it seems easier to just squeeze them in as extras, otherwise I may never finish!
+Inevitably, _my record collection_ was likely to grow during the course of this series. Initially I'd shuffle everything around to find a place for [any new arrivals](/2023/06/12/my-record-collection-042-angel-corpus-christi-bewitched-a-tribute-to-luna/) but it seems easier to just squeeze them in as extras, otherwise I may never finish!
 
-Earlier this month Luna's _difficult_ fifth album got a vinyl re-release via Real Gone Records and I thought I'd take a look through my _archives_ to see just how the album was perveived at the time ... and since.
+Earlier this month Luna's _difficult_ fifth album got a vinyl re-release via Real Gone Records and I thought I'd take a look through my _archives_ to see just how the album was perceived at the time ... and since.
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/the-days-of-our-nights-lp-reissue.jpg" "The Days of Our Nights LP (2023)" %}
 
 _Archives_ mostly means The Galaxie 500 Mailing List, which was a fairly lively, 500+ member discussion list, but I've also rummaged through some clippings, and scoured _other archives_ (the web!) for some more context.
 
@@ -29,7 +30,7 @@ In Black Postcards Dean was particularly harsh:
 
 <!--more-->
 
-> We made an album called _The Days of Our Nights_. Oir fifth studio album, it is possibly the works of the seven that Luna made.  
+> We made an album called _The Days of Our Nights_. Oir fifth studio album, it is possibly the worst of the seven that Luna made.  
 >
 > [...]  
 >
@@ -96,3 +97,14 @@ In 2006 I revisited the album, and my review of it on the mailing list
 
 Andy Aldridge, The Galaxie 500 Mailing List, 21st June 2006
 {: .blockquote-footer .text-end}
+
+For over 20 years the website/mailing list had an annual survey and The Days of Our Nights was routinely propping up the stack - although periodically Romantica would give it a run for its money.
+
+This copy was bought from Rough Trade and is the limited edition blue vinyl copy and was, frankly, too flipping expensive! Vinyl prices are ridculous at the moment, but this was more ridiculous than most. I'm sort of surprised I bought it!
+
+ - *Catalogue Number:* AHFOW 12/0089
+ - *Artist:* Luna
+ - *Title:* The Days of Our Nights
+ - *Notes:* Powder blue vinyl limited to 300 copies
+ - *Format:* LP
+ - Bought from Rough Trade for an eye-watering amount that I'm somewaht embarrassed to admit!
