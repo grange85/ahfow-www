@@ -14,7 +14,7 @@ categories:
 - my record collection
 tags:
 - the days of our nights
-date: 2023-09-08 00:00 +0000
+date: 2023-08-08 00:00 +0000
 ---
 Inevitably, _my record collection_ was likely to grow during the course of this series. Initially I'd shuffle everything around to find a place for [any new arrivals](/2023/06/12/my-record-collection-042-angel-corpus-christi-bewitched-a-tribute-to-luna/) but it seems easier to just squeeze them in as extras, otherwise I may never finish!
 
