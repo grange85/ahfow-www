@@ -28,6 +28,8 @@ The LP contains five tracks recorded at Fun City, an alternative version of I Ca
 
 Here's a quick summary of the history of the songs on Luna Demos:
 
+<!--more-->
+
  - Anesthesia and I Can't Wait (with Hamish Kilgour on drums) was released in 1992 as a [Dean Wareham solo single](/2023/07/13/my-record-collection-051-dean-wareham-anesthesia/).
  - Smile (as mentioned above) was previously released on the rather wonderful _What Else Do You Do?_ compilation (but more on that later in the series ... twice)
  - In June 2015 the five Fun City demos were released as a digital only release on Bandcamp with all the proceeds going to help Terry Tolkin with medical bills. [Terry passed away in January 2022](/2022/01/25/rip-terry-tolkin/).
