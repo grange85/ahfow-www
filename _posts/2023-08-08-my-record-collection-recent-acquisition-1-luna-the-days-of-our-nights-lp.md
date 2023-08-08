@@ -30,7 +30,7 @@ In Black Postcards Dean was particularly harsh:
 
 <!--more-->
 
-> We made an album called _The Days of Our Nights_. Oir fifth studio album, it is possibly the worst of the seven that Luna made.  
+> We made an album called _The Days of Our Nights_. Our fifth studio album, it is possibly the worst of the seven that Luna made.  
 >
 > [...]  
 >
