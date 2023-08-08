@@ -1,24 +1,25 @@
 ---
 layout: post
-title: '#074: Damon & Naomi - With Ghost (CD)'
+title: "#074: Damon & Naomi - With Ghost (CD)"
 sitemap: true
-series-title: My record collection 
+series-title: My record collection
 author:
   display_name: Andy
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl:
+imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-with-ghost-cd.jpg
 categories:
 - damon & naomi
 - my record collection
 tags:
 - with ghost
 - ghost
+date: 2023-10-02 00:00 +0000
 ---
-Damon & Naomi had covered Ghost's Awake in a Muddle on their third album _Playback Singers_ and had performed live with them before this full album collaboration came about, so it wasn't a surprise when in April 2000 news leaked out that they had been recording together at their home studio.
+Damon & Naomi had covered Ghost's "Awake in a Muddle" on their third album _Playback Singers_ and had performed live with them before this full album collaboration came about, so it wasn't a surprise when in April 2000 news leaked out that they had been recording together at their home studio.
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-with-ghost-cd.jpg" "Damon & Naomi with Ghost (CD)" %}
 
 > WE FIRST MET the Japanese band Ghost in 1995; despite any language barriers, we understood one another immediately and soon became friends. We have since toured together in both the U.S. and Japan, and on occasion Ghost has joined us on stage to play our songs. After a show like this in Tokyo in the fall of 1998, we decided to record an album together. Over the course of the following year, we sent our new songs to Japan, and Ghost sent back ideas for production and arrangements. They also sent music for a new song of theirs, to which we added lyrics. Then, in the last days of 1999 and the first of 2000, Ghost came to our studio to record this album, and celebrate the New Year, together.
 

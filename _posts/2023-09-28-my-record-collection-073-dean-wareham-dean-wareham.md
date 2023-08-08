@@ -8,16 +8,17 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl:
+imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-wareham-dean-wareham-lp.jpg
 categories:
 - dean wareham
 - my record collection
 tags:
 - self titled
+date: 2023-09-28 00:00 +0000
 ---
 Dean Wareham's self-titled album was released in March 2014 and the Sonic Cathedral LP was in translucent yellow vinyl and had the yellow version of Sharon Locke's beautiful sleeve, one of my favourite sleeves that will feature in this series!
 
-{% ahfowimage "" "" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-wareham-dean-wareham-lp.jpg" "Dean Wareham - Dean Wareham (LP)" %}
 
 The album was plugged as Dean's first solo album&dagger; but Dean somewhat played that down in a [Q&A in Time](https://time.com/13488/dean-wareham-finally-goes-it-alone-for-his-first-solo-album/) 
 
