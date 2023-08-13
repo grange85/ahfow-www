@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl:
+imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-blue-thunder-12.jpg
 categories:
 - galaxie 500
 - my record collection
@@ -17,9 +17,9 @@ tags:
 ---
 Blue Thunder was Galaxie 500's second single and contains the love-it-or-hate-it _w/sax_ version of the title track. I fall very heavily on the **love** side!
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-blue-thunder-12.jpg" "Galaxie 500 - Blue Thunder (12)" %}
 
-Now, saxophones in rock are invariably a bad idea but the late Ralph Carney's two contributions to Galaxie 500's oeuvre are so unconventional that they don't really fall into teh _saxophones in rock_ category ... although, that didn't stop The Onion (AV Club) from adding it to a list of [10 Great Songs Nearly Ruined By Saxophone](https://www.avclub.com/dont-blow-it-10-great-songs-nearly-ruined-by-saxophone-1798212377) in 2007.
+Now, saxophones in rock are invariably a bad idea but the late Ralph Carney's two contributions to Galaxie 500's oeuvre are so unconventional that they don't really fall into the _saxophones in rock_ category ... although, that didn't stop The Onion (AV Club) from adding it to a list of [10 Great Songs Nearly Ruined By Saxophone](https://www.avclub.com/dont-blow-it-10-great-songs-nearly-ruined-by-saxophone-1798212377) in 2007.
 
 > The warning is right there in the title. "Blue Thunder" is a magnificent example of the evils of saxophone, because both versions—with and without—are readily available. One is a majestic precursor to the slowcore movement, ambling along gently. The other is like a bucket of cold water dumped on an unsuspecting dreamer.
 
@@ -85,6 +85,8 @@ Temperature's Rising: An Oral History of Galaxie 500 (Yeti, 2012)
 {: .blockquote-footer .text-end}
 
 I still pick the _w/sax_ version as my go-to _Blue Thunder_.
+
+So, which side of the fence do you fall? [Vote here](https://forms.gle/zpzFrSD2jpG4SeH3A)!
 
 I bought this on release ... during my vinyl > CD transition I'd still invariably buy singles on vinyl - I bought very few CD singles, suspect those horrendous thin jewel cases contributed to me holding out!
 
