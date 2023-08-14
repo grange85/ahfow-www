@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'My record collection #073: Dean Wareham - Dean Wareham'
+title: '#073: Dean Wareham - Dean Wareham'
 sitemap: true
-series-title:
+series-title: My record collection 
 author:
   display_name: Andy
   login: admin
