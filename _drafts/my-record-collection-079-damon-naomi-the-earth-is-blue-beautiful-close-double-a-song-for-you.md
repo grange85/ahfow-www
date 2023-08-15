@@ -17,12 +17,20 @@ tags:
 - the earth is blue
 - acuarela
 ---
-Damon & Naomi's fifth album was released in Spain on Madrid indie Acuarela with a bonus promo CD of album version of Beautiful Close Double and the _"Live" in San Sebastian_ version of A Song For You, the Gram Parsons cover.
+Damon & Naomi's fifth album was released in Spain on Madrid indie Acuarela with a bonus promo CD of the album version of Beautiful Close Double and the _"Live" in San Sebastian_ version of A Song For You, the Gram Parsons cover.
 
 {% ahfowimage "url" "caption" %}
 
-I have often stated how much I despise a jewel case and the Acuarela version on The Earth is Blue was released in a digipack with a fold out insert tucked into a slot on the inside front cover. As a bonus - the ugly plastic tray then fell off, very neatly, leaving very little evidence of the glue that had failed, which made the package even nicer, and the disc neatly slots in with the insert. The promo CD wasn't really packaged as part of the release but just stuffed in the envelope with the album (in a plastic envelope).
+I have often stated how much I despise a jewel case and the Acuarela version of The Earth is Blue was released in a digipack with a fold out insert tucked into a slot on the inside front cover. As a bonus - the ugly plastic tray then fell off, very neatly, leaving very little evidence of the glue that had failed, which made the package even nicer, and the disc neatly slots in with the insert. The promo CD wasn't really packaged as part of the release but just stuffed in the envelope with the album (in a plastic envelope).
 
-I bought the CD on Discogs in 2017 to fill out my collection for &euro;7.95 + postage ... just to fill out the collection. The seller described the sleeve as "near mint" but I'd suggest that the plastic tray falling off and the water stain on the back probably meant it wasn't! But like I said, the first was a bonus so ... swings and roundabouts.
+I bought the CD on Discogs in 2017 for &euro;7.95 + postage ... just to fill out the collection. The seller described the sleeve as "near mint" but I'd suggest that the plastic tray falling off and the water stain on the back probably meant it wasn't! But like I said, the first was a bonus so ... swings and roundabouts.
 
 Beautiful Close Double is so beautiful, this would have been Damon & Naomi's _hit_ if they had hits!
+
+ - *Catalogue Number:* AHFOW 10/147-148
+ - *Artist:* Damon & Naomi
+ - *Title:* The Earth is Blue
+ - *Notes:* Bonus CD single with Beautiful Close Double and A Song For You
+ - *Packaging:* Digipack ... now plastic free!
+ - *Format:* CD/CDS
+ - [Buy 'The Earth is Blue' on Bandcamp](https://damonandnaomi.bandcamp.com/album/the-earth-is-blue)
