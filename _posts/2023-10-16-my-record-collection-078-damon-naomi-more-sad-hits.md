@@ -1,27 +1,25 @@
 ---
 layout: post
-title: '#078: Damon & Naomi - More Sad Hits'
+title: "#078: Damon & Naomi - More Sad Hits"
 sitemap: true
-series-title: My record collection 
+series-title: My record collection
 author:
   display_name: Andy
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl:
+imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-more-sad-hits-cd.jpg
 categories:
 - damon & naomi
 - my record collection
 tags:
 - man ray
 - more sad hits
+date: 2023-10-16 00:00 +0000
 ---
 Damon & Naomi's beautiful first album came used Man Ray's _Glass Tears_ on the front cover which just makes the album even more beautiful - also Macioce's pics on the back cover mirroring somewhat Man Ray's photo, are also perfect.
 
-{% ahfowimage "url" "caption" %}
-
-
-
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-more-sad-hits-cd.jpg" "Damon & Naomi - More Sad Hits (CD)" %}
 
 Interestingly while researching this post I found that in 2015 The Getty Museum described the photo like this:
 
@@ -41,8 +39,7 @@ Interestingly while researching this post I found that in 2015 The Getty Museum 
 
 But by then it was too late and the nonsense was [sprinkled](https://sundayguardianlive.com/art/9513-making-it-visible-known-how-man-ray-realised-his-photography-dreams) all [over](https://www.manray.net/glass-tears.jsp#prettyPhoto) the [internet](https://p2602891.our.dmu.ac.uk/2020/11/05/man-ray-glass-tears/) and [treated](https://www.flickr.com/photos/greatestpaka/5169456855) as [fact](https://artclasscurator.com/artwork-of-the-week-man-ray-tears/)! This is so frustrating but, as someone who has been responsible for [sprinking misinformation around the internet](/2011/06/20/mp3-victory-garden-enough-or-adolf/) I can't really complain too much!
 
-Anyway ... back to the album, and inside that perfect sleeve is a wonderful album - now while I might have suggested that [With Ghost]() is my fave D&N album and I'll stand by that (for now), More Sad Hits has a more emotional effect on me. The songs get deeper into me - maybe this is because of the post-Galaxie 500 relief - I listened to this album a lot when it came out, and still do now... and still hear things in different ways - e.g. being completely freaked out by the end of Astrafiammante at 3am while trying to manage a bout of insomnia.
+Anyway ... back to the album, and inside that perfect sleeve is a wonderful album - now while I might have suggested that [With Ghost](/2023/10/02/my-record-collection-074-damon-naomi-with-ghost-cd/) is my fave D&N album and I'll stand by that (for now), More Sad Hits has a more emotional effect on me. The songs get deeper into me - maybe this is because of the post-Galaxie 500 relief - I listened to this album a lot when it came out, and still do now... and still hear things in different ways - e.g. being completely freaked out by the end of Astrafiammante at 3am while trying to manage a bout of insomnia.
 
-Macioce posted some out-takes from the photo session on his [wonderful Instagram](https://www.instagram.com/p/CsJu9YVuW4r/?img_index=1) that includes this adorable, smiley photo!
+Macioce posted some out-takes from the photo session on his wonderful Instagram that includes [this adorable, smiley photo](https://www.instagram.com/p/CsJu9YVuW4r/?img_index=5)!
 
-{% ahfowimage "https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-and-naomi-more-sad-hits-outtake-macioce.jpg" "Damon & Naomi - More Sad Hits outtake - Photo: Macioce" "https://www.instagram.com/p/CsJu9YVuW4r/?img_index=1" %}
