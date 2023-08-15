@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '#077: Galaxie 500 - Blue Thunder'
+title: "#077: Galaxie 500 - Blue Thunder"
 sitemap: true
-series-title: My record collection 
+series-title: My record collection
 author:
   display_name: Andy
   login: admin
@@ -14,6 +14,7 @@ categories:
 - my record collection
 tags:
 - blue thunder
+date: 2023-10-12 00:00 +0000
 ---
 Blue Thunder was Galaxie 500's second single and contains the love-it-or-hate-it _w/sax_ version of the title track. I fall very heavily on the **love** side!
 
@@ -97,4 +98,4 @@ Obviously (one of) the greatest cover versions of all time is on the flip... I'l
  - *Title:* Blue Thunder / Victory Garden / Ceremony / Cold Night
  - *Format:* 12"
  - Bought for whatever singles cost - probably in Rough Trade.
- - [You can find Blue Thunder (w/sax) on 'Uncollected' on Bandcamp](https://galaxie500.bandcamp.com/album/uncollected) and the other tracks are prinkled around [their Bandcamp](https://galaxie500.bandcamp.com).
+ - [You can find Blue Thunder (w/sax) on 'Uncollected' on Bandcamp](https://galaxie500.bandcamp.com/album/uncollected) and the other tracks are sprinkled around [their Bandcamp](https://galaxie500.bandcamp.com).
