@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '#084: therealangelcorpuschristi'
+title: "#084: therealangelcorpuschristi"
 sitemap: true
-series-title: My record collection 
+series-title: My record collection
 author:
   display_name: Andy
   login: admin
@@ -16,6 +16,7 @@ tags:
 - dean wareham
 - britta phillips
 - angel corpus christi
+date: 2023-11-06 00:00 +0000
 ---
 Unlike Angel Corpus Christi's [lovely Luna tribute album](/2023/06/12/my-record-collection-042-angel-corpus-christi-bewitched-a-tribute-to-luna/) I don't have to bend the rules to include _therealangelcorpuschristi_ since Dean plays guitar (and Britta bass) on a Velvet Underground cover.
 
