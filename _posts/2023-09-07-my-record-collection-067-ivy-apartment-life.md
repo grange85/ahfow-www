@@ -23,6 +23,8 @@ Apartment Life was the second LP by Ivy and was released in 1997. It features De
 
 When this album was released the [Galaxie 500 Mailing List]() was probably at the height of it's activity ... it had around 400 members for most of the late 90s and early 00s, which might seem puny by modern social-media numbers&dagger;, but engagement was much greater. This meant that when Dean played guitar on one track by a, not all that big, dreampop band, I'd get to hear about it, and buy a copy.
 
+<!--more-->
+
 The sleeve has three pictures, one of each of the band members living their _apartment life_ in the same apartment. Although by the time Dominique was photographed, 20 minutes after the others, the kitchen was emptied of most of its contents. I spent too much time wondering whether it had been emptied using Photoshop!?
 
 This is another album I hadn't listened to for ages but is really very familiar because back in the late 90s I think I must have listened to it an awful lot... and it's obvious why, it pushes so many of my buttons! I bought Ivy's first album shortly afterwards. But, oddly, not their subsequent ones.

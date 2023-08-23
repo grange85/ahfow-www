@@ -30,6 +30,8 @@ In fact the one Lou Reed track is longer than all three of their contributions c
 
 There is more of their music in the film as Britta revealed on the list back in October 2005:
 
+<!--more-->
+
 > We had 8 cues in the movie. The 2 main themes recur 3 times  (each time with a slightly different arrangement), and we did a version of one of the Bert Jansch songs (without vocals) as well as that version of "Love On A Real Train."
 
 'Love on a Real Train' is a Tangerine Dream song originally used in 'Risky Business' - the quote above implies that it was Dean & Britta's version used in the The Squid and the Whale, but a web search suggested otherwise... so, I emailed Britta because I _needed_ to know, and because I would love to hear Dean & Britta covering Bert Jansch:

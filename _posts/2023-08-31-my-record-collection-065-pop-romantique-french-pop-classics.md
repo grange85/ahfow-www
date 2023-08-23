@@ -24,6 +24,8 @@ Obviously I love _La Poupée..._ and have listened to it a lot over the years bu
 
 Most of the songs on here are bona-fide pop classics, including four from the pen of Gainsbourg but there are a couple of ... outliers/cheats that possibly s-t-r-e-t-c-h the '_**French** pop classics_' definition:
 
+<!--more-->
+
 __1:__ Lloyd Cole covers Fairport Convention's cover of Bob Dylan's 'If You Gotta Go Now' - in 1969 The Fairport's decided to translate Dylan's song into French ... which got me wondering why? Apparently the answer is that the band ["thought it would be amusing to do Dylan’s song in French cajun style"](https://mainlynorfolk.info/fairport/songs/situdoispartir.html) although apparently Richard Thompson thought that it "ended up not very cajun, French, or Dylan".
 
 __2:__ The Ladybug Transistor roped Kevin Ayers in to do the French language version of his brilliant (but ... rather creepy) 'May I?' ... called 'Puis-Je?' - Kevin had recorded Puis-Je around the time he recoreded it in English and it sounds so French anyway - the studio version has accordion (and some weird sounding sax(?), and a very prominent and melodic bass line). On the fab live album [June 1, 1974](https://en.wikipedia.org/wiki/June_1,_1974) Kevin sings a section of the middle, after the guitar solo, in French before reverting to English for the ending

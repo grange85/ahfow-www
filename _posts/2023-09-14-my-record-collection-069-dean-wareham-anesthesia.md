@@ -25,6 +25,8 @@ This was certainly bought before I [saw Luna at The Underworld]() on their first
 
 I always get a bit confused by the sleeve of this ... I can't see the woman's face when I'm holding the record, only when I see it from across the room, or in photographs. A ghost. I'm not sure she's there until I move away!
 
+<!--more-->
+
 So... since I've covered all that let's talk about _Tomato Poodle_. 
 
 Anesthesia and I Can't Wait were recorded during the Fun City sessions by Wharton Tiers in July 1991 and both were later re-recorded by Luna for their first album. Tomato Poodle however: 

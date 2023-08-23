@@ -23,6 +23,8 @@ Luna's Dear Paulina single was released in September 1999 and is one of the few 
 
 Here are some facts - some of which are repeated from the post linked below, and some might be new:
 
+<!--more-->
+
 - It is the only release (so far) on GRANGE85RECORDS - so named because at the time I lived at **85** Studley **Grange** Road - I don't live there any more ... so, don't write to me there.
 - The run out groove has the URL **www.aald.demon.co.uk/galaxie/** inscribed in there - the domain doesn't exist any more ... so, don't bother visiting it ... except in the [Wayback Machine](http://web.archive.org/web/19990129013042/http://www.aald.demon.co.uk/galaxie/).
 - The insert included the URL above and an email address that also no longer exists.
