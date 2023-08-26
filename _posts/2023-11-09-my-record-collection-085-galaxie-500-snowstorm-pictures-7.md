@@ -38,7 +38,11 @@ The sleeve contains two shots from Macioce's first photoshoot with Galaxie 500:
 Temperature's Rising: Galaxie 500, an oral and visual history (Yeti, 2012)
 {: .blockquote-footer .text-end}
 
-I think that is one of my favourite quotes in the book `"Look at them! You look like Ten Years After!" And Galaxie stared back blankly. "Ten Years After!"` - also I think [that photoshoot](https://www.instagram.com/p/CZSJzHFFMkQ/) is my favourite of Galaxie 500! That and the [Unisphere one](https://www.instagram.com/p/CeECYKFOrfW/?img_index=1).
+I think that is one of my favourite quotes in the book ...
+
+> "Look at them! You look like Ten Years After!" And Galaxie stared back blankly. "Ten Years After!" Kramer said again. I looked from face to face. "Ten Years After? Woodstock?"
+
+... also I think [that photoshoot](https://www.instagram.com/p/CZSJzHFFMkQ/) is my favourite of Galaxie 500! That and the [Unisphere one](https://www.instagram.com/p/CeECYKFOrfW/?img_index=1).
 
 A few years back Naomi sent me one of the T-shirts Macioce mentioned and said "you should just have fun with it and wear it even if it self-destructs" but I [put it on once for a photo](https://www.flickr.com/photos/grange85/53137337736/in/album-72157619400404262/) and then filed it - I've been saving it for a special occasion - I'm not convinced any occasion will be special enough though!
 
