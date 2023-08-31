@@ -47,4 +47,5 @@ The [whole _album_ is still online](http://www.swartamps.com/dean_wareham_swart_
  - *Artist:* Various Artists
  - *Title:* Pop Romantique: French Pop Classics
  - *Packaging:* Jewel case
+ - 
  - *Format:* CD
