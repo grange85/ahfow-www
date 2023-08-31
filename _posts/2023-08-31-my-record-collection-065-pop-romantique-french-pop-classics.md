@@ -20,7 +20,7 @@ Luna's wonderful cover of Michel Polnareff's _La Poupée qui fait non_ first app
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/pop-romantique.jpg" "Pop Romantique CD" %}
 
-Obviously I love _La Poupée..._ and have listened to it a lot over the years but I must admit it's been a while since I listened to the whole of this album. It is mostly very lovely and has a couple of top notch guest appearances from legends sadly no longer with us - Francoise Hardy with Air, and Kevin Ayers with The Ladybug Transistor.
+Obviously I love _La Poupée..._ and have listened to it a lot over the years but I must admit it's been a while since I listened to the whole of this album. It is mostly very lovely and has a couple of top notch guest appearances from legends, Francoise Hardy with Air, and sadly no longer with us, Kevin Ayers with The Ladybug Transistor.
 
 Most of the songs on here are bona-fide pop classics, including four from the pen of Gainsbourg but there are a couple of ... outliers/cheats that possibly s-t-r-e-t-c-h the '_**French** pop classics_' definition:
 
