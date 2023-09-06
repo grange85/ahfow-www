@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Recent acquisition #1 - Luna The Days of Our Nights (LP)'
+title: 'Recent acquisition #01: Luna The Days of Our Nights (LP)'
 sitemap: true
 series-title: My record collection
 author:

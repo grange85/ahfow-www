@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Recent acquisition #2 - Britta Phillips & Kramer - Nocturnes'
+title: 'Recent acquisition #02: Britta Phillips & Kramer - Nocturnes'
 sitemap: true
 series-title: My record collection
 author:
