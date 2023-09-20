@@ -23,6 +23,8 @@ This is a CDR of Lunafied that Dean sent me back in 2006 after some rather unsub
 
 Lunafied was originally released as a digital only release by Rhino and wasn't available outside of the US and despite the fact that I already had all the songs on it in some form I wanted a copy so... I wrote to Dean. I hope he doesn't mind me publishing the email exchange that led me to having this CDR:
 
+<!--more-->
+
 ---
 
 ```
