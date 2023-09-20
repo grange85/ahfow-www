@@ -1,19 +1,34 @@
 <header>
-	<div class="row">
-		<div class="col" style="background-image:url('https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image-1280x720-no-text.jpg'); background-size:cover; background-color:#003366; height:250px;background-position:center;">
-        <div class="float-end"><a href="/search/" class="text-white"><i class="bi bi-search"></i> Search</a></div>
-		<h1 class="text-white display-1">
-				{% if paginator.page == 1 %}
-				{{ site.title }}
-				{% else %}
-				<a href="{{ site.baseurl }}/" class="text-white">{{ site.title }}</a>
-				{% endif %}
-				{% if site.subtitle %}
-			</h1>
-			<p class="text-white">{{ site.subtitle }}
-			{% if site.environment != "production" %}&nbsp;<em class="text-muted">({{site.environment}})</em>{% endif %}
-			</p>
-			{% endif %}
-		</div>
-	</div>
+<div class="row">
+<div class="col" style="background-image:url('https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image-1280x720-no-text.jpg'); background-size:cover; background-color:#003366; height:250px;background-position:center;">
+<h1 class="text-white display-1">
+{% if paginator.page == 1 %}
+{{ site.title }}
+{% else %}
+<a href="{{ site.baseurl }}/" class="text-white">{{ site.title }}</a>
+{% endif %}
+{% if site.subtitle %}
+</h1>
+<p class="text-white">{{ site.subtitle }}
+{% if site.environment != "production" %}&nbsp;<em class="text-muted">({{site.environment}})</em>{% endif %}
+</p>
+{% endif %}
+</div>
+</div>
 </header>
+<div class="row">
+<nav class="navbar navbar-expand-md navbar-dark">
+	<div class="container">
+		<button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#n_bar" aria-controls="navbarNavAltMarkup" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="n_bar">
+		<ul class="navbar-nav">
+			<li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+			<li class="nav-item"><a class="nav-link" href="/database/">Discography / Gigography</a></li>
+			<li class="nav-item"><a class="nav-link" href="/search/">Search <i class="bi bi-search"></i></a></li>
+		</ul>
+
+	</div>
+</nav>
+</div>
