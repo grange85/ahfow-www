@@ -45,7 +45,7 @@ var sjs = SimpleJekyllSearch({
   searchInput: document.getElementById('searchInput'),
   resultsContainer: document.getElementById('searchResults'),
   json: '/search{% if site.environment=="production" %}-min{% endif %}.json',
-  searchResultTemplate: '<li class="list-group-item"><a href="{{ site.url }}{url}">{series-title} {% endif %}{title}</a></li>',
+  searchResultTemplate: '<li class="list-group-item"><a href="{{ site.url }}{url}">{series-title} {title}</a></li>',
   limit: 30
 })
 </script>
