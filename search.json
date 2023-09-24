@@ -4,7 +4,7 @@ layout: none
 [
   {% for post in site.posts %}
     {
-      "series-title"    :   "{% if post.series-title %}{{post.series-title | escape }}: {% endif %},
+      "series-title"    :   "{% if post.series-title %}{{post.series-title | escape }}: {% endif %}i",
       "title"    : "{{ post.title | escape }}",
       "category" : "{{ post.categories | join: ', ' }}",
       "tags"     : "{{ post.tags | join: ', ' }}",
