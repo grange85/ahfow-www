@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'My record collection #088: Damon & Naomi - A Sky Record (LP)'
+title: '#088: Damon & Naomi - A Sky Record (LP)'
 sitemap: true
-series-title:
+series-title: My record collection 
 author:
   display_name: Andy
   login: admin
