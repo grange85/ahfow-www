@@ -26,7 +26,7 @@ The single has an unmarked white label, with the artists names scratched into th
 
 Dean sent me the single on their return from the tour and it's signed in silver by both of them . The single arrived with some handwritten setlists that Dean was going to throw out until Britta suggested I might like them - she was not wrong. Setlists these days get nabbed before the lights have gone up, so rather surprised they had some sitting around! 
 
-The Sand Pebbles side has the excellent Occupied Europe (Take Me Across The Water).
+The Sand Pebbles side has the excellent Occupied Europe (Take Me Across The Water). Here's [The Sand Pebbles covering Luna's 23 Minutes in Brussels](https://www.youtube.com/watch?v=0evpyM6w2ko) from a couple of years earlier.
 
  - *Catalogue Number:* AHFOW 11/0039
  - *Artist:* Dean & Britta / The Sand Pebbles
