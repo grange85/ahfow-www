@@ -17,7 +17,7 @@ tags:
 - jericho cd
 date: 2023-10-26 00:00 +0000
 ---
-Luna were dropped by Elektra on the eve of the release of The Days of Our Nights so its US release happened months after the UK/EU release on Beggars. This is the CD that finally made it out in the US on Jericho Reocrds in October of 1999.
+Luna were dropped by Elektra on the eve of the release of The Days of Our Nights so its US release happened months after the UK/EU release on Beggars. This is the CD that finally made it out in the US on Jericho Records in October of 1999.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-the-days-of-our-nights-jericho.jpg" "Top left = back of Jericho jewel case, top right = back of Jericho slip case, bottom right = back of Beggars Banquet CD" %}
 
