@@ -23,9 +23,9 @@ As I [mentioned on my previous Peel Sessions post]() this was the major omission
 My CDR is obviously better than the official release because:
 
 1. The sessions are presented in the correct order.
-2. It doesn't have a sleeve with portraits that are only vaguely reminscent of their subjects.
+2. It doesn't have a sleeve with portraits that are only vaguely reminiscent of their subjects.
 
-I can't remember where I pinched the astronimical illustrations I used on the sleeve from, but I'm still rather partial to it and it's clearly me riffing on the box set design ... although, I'm not a designer!
+I can't remember where I pinched the astronomical illustrations I used on the sleeve from, but I'm still rather partial to it and it's clearly me riffing on the box set design ... although, I'm not a designer!
 
  - *Catalogue Number:* AHFOW 10/109
  - *Artist:* Galaxie 500
