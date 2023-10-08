@@ -22,6 +22,8 @@ Fortune is Damon & Naomi's soundtrack to Naomi's short and silent film Fortune, 
 
 It doesn't have a strong narrative but is more a series of vignettes and as such works perfectly well without the film, and as a projection during a live performance. It also has, in The North Light, one of Damon & Naomi's most beautiful songs.
 
+<!--more-->
+
 I have seen Damon & Naomi play the film three times, the first at Cafe OTO in London in May 2014, then at Rough Trade East in April 2015, and finally in April 2016 in Berlin. All were lovely. And while the film doesn't have a strong narrative ... it does have a story that is [explained on Naomi's web site](https://www.naomivision.com/film).
 
 The album was released in March 2015 and I bought my copy for £16.19 from Norman Records.

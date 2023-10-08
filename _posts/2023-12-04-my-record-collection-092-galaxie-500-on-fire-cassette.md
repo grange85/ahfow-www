@@ -23,6 +23,8 @@ I never really loved the cassette as a format, it was conveniently portable (and
 
 In its previous home this cassette clearly lived in a bright room since the spine has faded to a pale mint green rather than the bright yellowy-green that it should be, in addition the label on the cassette has creases ... maybe _this_ is why I picked it up for pennies!? 
 
+<!--more-->
+
 It has not been played since it came into my possession. I have been playing everything in this series as I come to it but since my cassette deck never made the move to the north east (it was misbehaving anyway and I think I left it with Adam), I shan't bother playing it now. I am keeping an eye open in the local charity shops&dagger;, so maybe when the next cassette of On Fire turns up in the series - and yes, bafflingly I do have two copies - I'll give that one a listen!
 
 In order to accommodate the shape of the CD the front cover photo has more sky above, and less of Dean on the right - in fact it looks like Dean is actually photobombing a Damon & Naomi shoot :)
