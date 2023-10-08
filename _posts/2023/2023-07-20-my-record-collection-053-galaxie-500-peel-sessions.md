@@ -33,4 +33,4 @@ This copy was ordered from 20-20-20, so I could get the free poster that pre-ord
  - *Packaging:* Jewel case
  - *Format:* CD
  - Bought from Damon & Naomi / 20-20-20 for $10.98 ... plus shipping
- - [Buy 'Peel Session' on Bandcamp]i(https://galaxie500.bandcamp.com/album/peel-sessions)
+ - [Buy 'Peel Session' on Bandcamp](https://galaxie500.bandcamp.com/album/peel-sessions)
