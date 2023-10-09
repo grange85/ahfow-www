@@ -18,7 +18,7 @@ Now, since we're close to 100 posts in the series, and since it's almost Christm
 
 {% ahfowimage "url" "caption" %}
 
-So - here are twenty questions, the answers to all of them can be found in the _My record collection_ series of posts, some will be easy to track down the answers to, others might require a bit of _lateral thinking_ or _legwork_ - there will be a prize for the person with the most 
+So - here are twenty questions, the answers to all of them can be found in the _My record collection_ series of posts, some will be easy to track down the answers to, others might require a bit of _lateral thinking_ or _legwork_ - there will be a prize for the person with the most correct answers.
 
  - Where did I buy my 12" copy of the Pierre Etoile EP?
  - In 2016 I ranked Luna's seven albums - which did I rank 5th?
@@ -30,10 +30,16 @@ So - here are twenty questions, the answers to all of them can be found in the _
  - What single has A and B sides on the sleeve, but A and AA sides on the labels?
  - What's the Wings Christmas #1 that nobody remembers?
  - What one track cost me $21.64?
- - Name three tracks that I played during my only DJ stint?
+ - Name three of the tracks that I played during my only DJ stint?
  - How many times have I mentioned Motorhead so far during the series?
  - Which Luna song makes me think of Hazel?
  - On which entry did I post my astrological chart?
  - What was Dean Wareham's first solo album?
  - Who did Dean send a Galaxie 500 postcard to in November 1990?
- - 
+ - Who were the three support bands when Dean & Britta played The Legion in 2007?
+ - Who is Ray Agony?
+ - Who took the picture of Hazel on the front of Dear Paulina?
+ - Who designed the object pictured on the front of Luna's Lunapark LP?
+ - I saw three gigs on Dean's UK tour promoting his self-titled LP - where were they?
+ - An e-card announced the release date of Damon & Naomi with Ghost - what was the date?
+
