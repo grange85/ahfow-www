@@ -38,7 +38,7 @@ Here are some facts - some of which are repeated from the post linked below, and
 <blockquote>
 Remember banner ads - not that it was an ad, I didn't pay for it to be placed anywhere:
 <div class="mx-auto d-block" style="width:468px; height:60px;">
-<img src="https://media.fullofwishes.co.uk/02-luna/pictures/paulina_ad_old.gif">
+<a href="https://web.archive.org/web/19991128161418/http://www.aald.demon.co.uk/grange85/index.html"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/paulina_ad_old.gif"></a>
 </div>
 </blockquote>
 
