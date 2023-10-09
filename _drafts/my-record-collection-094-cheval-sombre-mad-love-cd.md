@@ -15,7 +15,6 @@ categories:
 tags:
 - mad love
 - sonic cathedral
-date: 2023-10-09 17:12 +0100
 ---
 This is the CD version of Cheval Sombre's second album _Mad Love_ that was released in 2012. I bought this copy in 2015 when Sonic Cathedral were having a crazy sale of CDs most for £2.50 some even cheaper. My copy is still sealed ... because [I already had this lovely album on LP](/2023/03/02/my-record-collection-013-cheval-sombre-mad-love-lp/).
 
