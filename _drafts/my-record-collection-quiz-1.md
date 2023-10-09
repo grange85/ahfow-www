@@ -18,7 +18,7 @@ Now, since we're close to 100 posts in the series, and since it's almost Christm
 
 {% ahfowimage "url" "caption" %}
 
-So - here are twenty questions, the answers to all of them can be found in the _My record collection_ series of posts, some will be easy to track down the answers to, others might require a bit of _lateral thinking_ or _legwork_ - there will be a prize for the person with the most correct answers.
+So - here are twenty questions, the answers to all of them can be found in the [my record collection](http://moonshot.local:4040/category/my-record-collection/) series of posts, some will be easy to track down the answers to, others might require a bit of _lateral thinking_ or _legwork_ - there will be a prize for the person with the most correct answers.
 
  - Name three of the tracks that I played during my only DJ stint?
  - I saw three gigs on Dean's UK tour promoting his self-titled LP - where were they?
@@ -27,7 +27,7 @@ So - here are twenty questions, the answers to all of them can be found in the _
  - What single has A and B sides on the sleeve, but A and AA sides on the labels?
  - An e-card announced the release date of Damon & Naomi with Ghost - what was the date?
  - Who is Ray Agony?
- - What is "oversized and ugly, and rather ruins [an] album’s minimalist aesthetic"?
+ - What's the URL of the promo page I put together to sell Dear Paulina?
  - Who were the three support bands when Dean & Britta played The Legion in 2007?
  - On which entry did I post my astrological chart?
  - What's the Wings Christmas #1 that nobody remembers?
