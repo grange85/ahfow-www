@@ -5,7 +5,7 @@ author:
   display_name: Andy Aldridge
 source:
   name: A Head Full of Wishes
-  publication_date: 2010
+  publication_date: 2019-06-20
 categories:
 - luna
 tags:
