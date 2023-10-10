@@ -4,7 +4,8 @@ status: publish
 published: true
 draft: false
 sitemap: true
-title: "Artefacts #005: Letter from Naomi, July 1997"
+title: "#005: Letter from Naomi, July 1997"
+series-title: Artefacts
 author:
   display_name: Andy
   login: admin
