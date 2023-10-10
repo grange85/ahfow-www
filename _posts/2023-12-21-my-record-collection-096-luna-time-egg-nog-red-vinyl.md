@@ -24,6 +24,8 @@ So, most of the posts in this series have been selected randomly, the exceptions
 
 So ... is Luna's Time / Egg Nog single a Christmas single?
 
+<!--more-->
+
  - PRO: It was released around Christmas in 1992.
  - CON: It was a promo so wasn't in the shops, so you couldn't buy it as a pressie!
  - PRO: It was released in green and red vinyl editions - the two most Christmassy colours!
