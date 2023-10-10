@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection-galaxie-500-blue-thunder-promo.jpg
+imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-blue-thunder-promo.jpg
 categories:
 - my record collection
 - galaxie 500
@@ -19,7 +19,7 @@ date: 2023-12-14 00:00 +0000
 ---
 I must admit that I can't remember the circumstances in which I bemoaned my lack of Galaxie 500 7" singles to Damon and Naomi that prompted them to get me together a beautiful care package, I must have sounded quite pathetic.
 
-{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection-galaxie-500-blue-thunder-promo.jpg" "Galaxie 500 / Straightjacket Fits split single" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-blue-thunder-promo.jpg" "Galaxie 500 / Straightjacket Fits split single" %}
 
 I pretty much have now have **everything** that Galaxie 500 put out on a 7" single&dagger; - and most of that is down to that care package. This included.
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'My record collection #091: I Shot Andy Warhol'
+title: '#091: I Shot Andy Warhol'
 sitemap: true
-series-title:
+series-title: My record collection 
 author:
   display_name: Andy
   login: admin
