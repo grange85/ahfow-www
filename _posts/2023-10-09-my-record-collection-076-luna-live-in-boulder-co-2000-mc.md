@@ -24,6 +24,8 @@ I have surprisingly few bootleg cassettes. I have the ones I've made (a couple o
 
 During my metal phase I had literally hundreds of bootleg cassettes - mostly bought at markets and record fairs around London. Often recordings of gigs I was at that would often hit the markets the weekend after the show. Sadly all of those went AWOL in a move (something else I keep dreaming will turn up again).
 
+<!--more->
+
 But by the time I became a Galaxie 500 fan I'd stopped that. Maybe because I just didn't go to where they were being sold any more. I also think I digitised and ditched a lot of the ones I did acquire over time so there are very few cassettes in my collection, so the ones that are are a bit of a mystery. Why do I have this? Why did I keep it? It's a middling audience recording from Britta's early days but I don't have it digitised ... and to be honest decided it wasn't worth my time to bother. I have lots of better recordings so, here's Fuzzy Wuzzy from The Bowery Ballroom a few days later.
 
 {% ahfowaudio {
