@@ -19,7 +19,7 @@ tags:
  - youtube
 ---
 {% ahfowimage "https://media.fullofwishes.co.uk/02-luna/show_assets/1995-05-10/1995-05-10-luna-borderline-david-rose-gig-diaries.jpg" "Luna at The Borderline (c) David Rose" "https://gigbook.blogspot.com/2010/11/294-luna-pram-london-wc2-borderline.html" %}
-Twenty six years ago tonight Luna headlined a show at The Borderline in London. My memories of the show are hazy - 26 years is a long time - I was at the show with my pals Jackie and Stuart (and maybe Ken?). The thing that stuck in my head was that this was the show that Laetitia Sadier joined the band to perform their cover of Bonnie & Clyde - I'm not sure but this might have been the only time this was performed live with Laetitia (feel free to correct me if I'm wrong).
+Twenty six years ago tonight Luna headlined a show at The Borderline in London. My memories of the show are hazy - 26 years is a long time - I was at the show with my pals Jackie and Stuart (and maybe Ken?). The thing that stuck in my head was that this was the show that Laetitia Sadier joined the band to perform their cover of Bonnie and Clyde - I'm not sure but this might have been the only time this was performed live with Laetitia (feel free to correct me if I'm wrong).
 
 While I say that it _stuck in my head_ I had started to wonder if it was a dream until back in 2010 [David Rose wrote up the show for his Gig Diairies blog](https://gigbook.blogspot.com/2010/11/294-luna-pram-london-wc2-borderline.html).
 

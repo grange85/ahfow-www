@@ -17,7 +17,7 @@ categories:
 
 Bonnie and Clyde was written by Serge Gainsbourg [based on a poem written by Bonnie Parker](http://allpoetry.com/poem/8564129-The_Trails_End-by-Bonnie_Parker) and recorded in 1967 with [bonkers, right-wing sex kitten](http://www.guardian.co.uk/film/2003/may/16/news.gwladysfouche) Brigitte Bardot
 
-{% ahfowvideo "GDAuaStv2Kk" "Bonnie & Clyde - Serge Gainsbourg et Brigitte Bardot" %}
+{% ahfowvideo "GDAuaStv2Kk" "Bonnie and Clyde - Serge Gainsbourg et Brigitte Bardot" %}
 
 Luna recorded two versions of it with Lætitia Sadier of Stereolab in 1995, both turned up on a single and one was included as a hidden track on the end of Penthouse. The single was awareded Single of the Week in Melody Maker.
 

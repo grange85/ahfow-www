@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'My Record Collection #091: I Shot Andy Warhol'
+title: 'My record collection #091: I Shot Andy Warhol'
 sitemap: true
 series-title:
 author:
@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl:
+imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/i-shot-andy-warhol-music-from-and-inspired-by.jpg
 categories:
 - luna
 - my record collection

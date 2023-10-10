@@ -2,7 +2,7 @@
 layout: post
 title: "#089: Luna - Lovedust (promo CD)"
 sitemap: true
-series-title: My Record Collection
+series-title: My record collection
 author:
   display_name: Andy
   login: admin

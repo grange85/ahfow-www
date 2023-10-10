@@ -39,7 +39,7 @@ My pal only taped the last two bands, but the first two were pretty great too:
 
 It was looking like an hour was the most Dean & Britta I was going to get.
 
-It was a fab show, Sonic Boom set up his gadgets on the side of the stage and helped out for a couple of numbers. They encored with Bonnie & Clyde and the lights came up at 00:02, we belted to the station and arrived on the platform with one minute to spare.
+It was a fab show, Sonic Boom set up his gadgets on the side of the stage and helped out for a couple of numbers. They encored with Bonnie and Clyde and the lights came up at 00:02, we belted to the station and arrived on the platform with one minute to spare.
 
 Squeezing four bands onto a bill on a Wednesday evening on the wrong side of London was a little inconsiderate IMO!
 

@@ -2,7 +2,7 @@
 layout: post
 title: "#090: Dean & Britta / Sand Pebbles split single"
 sitemap: true
-series-title: My Record Collection
+series-title: My record collection
 author:
   display_name: Andy
   login: admin
