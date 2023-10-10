@@ -15,6 +15,7 @@ categories:
 tags:
 - something in the air
 - sonic cathedral
+- mixcloud
 date: 2023-06-08 00:00 +0000
 ---
 Luna's cover of Thunderclap Newman's _Something in the Air_ was released as part of Sonic Cathedral's singles club in 2019, I [wrote about the test pressing]({% post_url /2023/2023-05-11-my-record-collection-033-luna-something-in-the-air %}) that Nat sent me earlier and suggested I had "plenty to write about the single" that would wait for this post ... not sure whether the post will live up to that tease ... but here goes.
@@ -29,7 +30,7 @@ Some random _facts_ related to this single coming ... as they pop into my head:
  - The flip side of the single contained _The Oort Cloud_/_Kuiper Belt_ - two spacey, instrumental improvisations.
  - Another member of Thunderclap Newman was Jimmy McCulloch who was later in Wings ... and died too young.
  - For the launch of the single Sonic Cathedral had a splendid, but sadly sparsely attended, evening at The Social. It included a screening of [Tell Me Do You Miss Me]() some excellent live performances by _"surprise live bands"_ ([Daniel Land](https://www.youtube.com/watch?v=mvXVcXdibFo), [Buffalo Postcard and Ben Phillipson](https://www.youtube.com/watch?v=5ZZYddaDo2o)) and _"special guest DJs"_ ... which was me!
- - Here's a [mix of what I played during that DJ-ing job](/articles/sonic-cathedral-social-service-playlist/) - I've not been asked again!
+ - Here's the playlist of a [mix of what I played during that DJ-ing job](/articles/sonic-cathedral-social-service-playlist/) - I've not been asked again!
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/what-the-hell-does-this-button-do.jpg" "What the hell does this button do!?" %}
 
