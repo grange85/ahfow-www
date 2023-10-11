@@ -19,7 +19,7 @@ tags:
 - download
 date: 2023-10-11 16:03 +0100
 ---
-I just noticed that I never shared a PDF of _Everything's Swirling #3_ a fanzine put together for Luna's 30th birthday last year. It was a very short run - I think just 50 copies - and was probably the _lightest_ in terms of content but - seems a shame for it not to share it all the same!
+I just noticed that I never shared a PDF of _Everything's Swirling #3_ a fanzine put together for Luna's 30th birthday last year. It was a very short run - I think just 50 copies - and was probably the _lightest_ in terms of content but - seems a shame not to share it all the same!
 
 [Everything's Swirling #3 - March 2022](https://media.fullofwishes.co.uk/00-misc/docs/everythings-swirling-fanzine-03-web.pdf) (PDF, 2MB)
 
