@@ -1,3 +1,0 @@
----
----
-{% include sidebar-cats.html %}
