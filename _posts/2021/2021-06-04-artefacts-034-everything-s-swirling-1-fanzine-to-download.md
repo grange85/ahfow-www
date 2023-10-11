@@ -1,7 +1,7 @@
 ---
 layout: post
 series-title: "Artefacts" 
-title: "034: Everything's Swirling #1 - fanzine to download"
+title: "#034: Everything's Swirling #1 - fanzine to download"
 author:
   display_name: Andy
   login: admin
