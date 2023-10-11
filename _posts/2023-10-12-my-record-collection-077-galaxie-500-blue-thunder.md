@@ -22,6 +22,10 @@ Blue Thunder was Galaxie 500's second single and contains the love-it-or-hate-it
 
 Now, saxophones in rock are invariably a bad idea but the late Ralph Carney's two contributions to Galaxie 500's oeuvre are so unconventional that they don't really fall into the _saxophones in rock_ category ... although, that didn't stop The Onion (AV Club) from adding it to a list of [10 Great Songs Nearly Ruined By Saxophone](https://www.avclub.com/dont-blow-it-10-great-songs-nearly-ruined-by-saxophone-1798212377) in 2007.
 
+But, where do you stand? <a class="btn btn-light" href="https://forms.gle/uPg2KFLe74GREfa2A" role="button">With or without?</a>
+
+<!--more-->
+
 > The warning is right there in the title. "Blue Thunder" is a magnificent example of the evils of saxophone, because both versions—with and without—are readily available. One is a majestic precursor to the slowcore movement, ambling along gently. The other is like a bucket of cold water dumped on an unsuspecting dreamer.
 
 [Don't Blow It: 10 Great Songs Nearly Ruined By Saxophone](https://www.avclub.com/dont-blow-it-10-great-songs-nearly-ruined-by-saxophone-1798212377) - September 2007
