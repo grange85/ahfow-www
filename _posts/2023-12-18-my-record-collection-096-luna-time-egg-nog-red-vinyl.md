@@ -16,7 +16,7 @@ tags:
 - egg nog
 - christmas
 - mp3
-date: 2023-12-21 00:00 +0000
+date: 2023-12-18 00:00 +0000
 ---
 So, most of the posts in this series have been selected randomly, the exceptions are the _recent acquisitions_ posts which turn up when they come into my possession; and, because it would have seemed odd blogging about Christmas when it wasn't Christmas, I've scheduled some seasonal posts for during the festive season.
 
