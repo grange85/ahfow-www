@@ -5,11 +5,11 @@
 					{% for category in site.categories %}
 {% assign catsize = category | last | size %}
 {% if catsize > 20 %}
-<li class="list-inline-item inline-group-item-action"><a class="{% if catsize >= 400 %}fw-bold fs-4{% elsif catsize >= 250 and catsize < 400 %}fw-semibold fs-5{% elsif catsize >= 160 and catsize < 250 %}fw-normal fs-5{% elsif catsize >= 80 and catsize < 160 %}fw-light fs-5{% elsif catsize >= 40 and catsize < 80 %}fw-light fs-6{% else %}fs-7 fw-light{% endif %}" href="{{ category| first | slugify | prepend: '/category/' }}/">{{ category | first }}</a></li>
+<li class="list-inline-item inline-group-item-action"><a class="card-link {% if catsize >= 400 %}fw-bold fs-4{% elsif catsize >= 250 and catsize < 400 %}fw-semibold fs-5{% elsif catsize >= 160 and catsize < 250 %}fw-normal fs-5{% elsif catsize >= 80 and catsize < 160 %}fw-light fs-5{% elsif catsize >= 40 and catsize < 80 %}fw-light fs-6{% else %}fs-7 fw-light{% endif %}" href="{{ category| first | slugify | prepend: '/category/' }}/">{{ category | first }}</a></li>
 					{% endif %}
 					{% endfor %}
 		</ul>	
-					<p class="text-end text-uppercase"><a class="" href="/category/">All categories</a></p>
+					<p class="text-end text-uppercase"><a class="card-link" href="/category/">All categories</a></p>
 		</div>
 </div>
 
