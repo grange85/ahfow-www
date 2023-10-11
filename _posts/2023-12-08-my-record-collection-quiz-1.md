@@ -46,5 +46,5 @@ Here are the questions if you want to do some research, and then [head over here
  - Which is correct, Turn or Turned?
  - What was the real reason for the removable sticker on a Cagney & Lacee single?
 
-<a class="btn btn-light" href="https://forms.gle/oU2JoyUa6vChDhaJ6" role="button">Take the quiz</a>
+<p><a class="btn btn-primary" href="https://forms.gle/oU2JoyUa6vChDhaJ6" role="button">Take the quiz</a></p>
 

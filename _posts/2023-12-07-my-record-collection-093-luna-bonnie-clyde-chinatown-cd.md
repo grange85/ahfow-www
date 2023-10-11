@@ -43,7 +43,9 @@ A few ineresting (to me) notes...
  - I always assumed it was a toy gun on the sleeve but I just Googled it and discovered that real guns look like toy guns (or toy guns look like real guns) and it might be a Beretta 948 - I have only ever held a fairground air rifle.
  - To my knowledge Dean and Laetitia only performed this live once ... and [I was there](/2021/05/10/audio-full-show-luna-borderline/).
 
-So, which version do you prefer? <a class="btn btn-light" href="https://forms.gle/pkomT67c4i53a3Y28" role="button">Clyde Barrow or Bonnie Parker?</a>
+So, which version do you prefer? 
+<p class="text-center"><a class="btn btn-primary" href="https://forms.gle/pkomT67c4i53a3Y28" role="button">Clyde Barrow or Bonnie Parker?</a></p>
+
 
  - *Catalogue Number:* AHFOW 10/037
  - *Artist:* Luna

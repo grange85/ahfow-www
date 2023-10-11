@@ -22,7 +22,8 @@ Blue Thunder was Galaxie 500's second single and contains the love-it-or-hate-it
 
 Now, saxophones in rock are invariably a bad idea but the late Ralph Carney's two contributions to Galaxie 500's oeuvre are so unconventional that they don't really fall into the _saxophones in rock_ category ... although, that didn't stop The Onion (AV Club) from adding it to a list of [10 Great Songs Nearly Ruined By Saxophone](https://www.avclub.com/dont-blow-it-10-great-songs-nearly-ruined-by-saxophone-1798212377) in 2007.
 
-But, where do you stand? <a class="btn btn-light" href="https://forms.gle/uPg2KFLe74GREfa2A" role="button">With or without?</a>
+But, where do you stand? 
+<p class="text-center"><a class="btn btn-primary" href="https://forms.gle/uPg2KFLe74GREfa2A" role="button">With or without?</a></p>
 
 <!--more-->
 
@@ -91,7 +92,8 @@ Temperature's Rising: An Oral History of Galaxie 500 (Yeti, 2012)
 
 I still pick the _w/sax_ version as my go-to _Blue Thunder_.
 
-So, which side of the fence do you fall? [Vote here](https://forms.gle/zpzFrSD2jpG4SeH3A)!
+So, which side of the fence do you fall? 
+<p class="text-center"><a class="btn btn-primary" href="https://forms.gle/uPg2KFLe74GREfa2A" role="button">With or without?</a></p>
 
 I bought this on release ... during my vinyl > CD transition I'd still invariably buy singles on vinyl - I bought very few CD singles, suspect those horrendous thin jewel cases contributed to me holding out!
 
