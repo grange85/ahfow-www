@@ -95,6 +95,41 @@ I still pick the _w/sax_ version as my go-to _Blue Thunder_.
 So, which side of the fence do you fall? 
 <p class="text-center"><a class="btn btn-primary" href="https://forms.gle/uPg2KFLe74GREfa2A" role="button">With or without?</a></p>
 
+___
+
+### Update (13th October 2023)
+{: #update}
+
+So the votes are in after 24 hours and ... it's a close run thing:
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-blue-thunder-the-results-are-in.png" "Pie chart showing poll results" %}
+
+ - Blue Thunder (w/sax) **33**
+ - Blue Thunder **28**
+
+_combined results from the form and Instagram_
+
+The _withouts_ comments were emphatcic!
+
+ - I find it utterly unlistenable
+ - Because it replaces the guitar. Goes over the guitar. Never any need for a sax solo.
+ - It has always sounded like someone playing over a finished song, rather than as part of it.
+ - 80s saxaphone recordings are universally terrible and even Galaxie couldn't fix it
+
+The _withs_ generally couldn't explain why!
+
+ - I cant explain it. I usually hate sax as much as the next guy.
+ - Impossible for me to articulate. But it is!
+ - I'm normally anti-sax but this just works.
+
+There were also a mix of similar responses on Facebook and Twitter.
+
+It's pretty close - but we have to have a winner:
+
+{% ahfowvideo "5ju5vWfRpk0" "Blue Thunder (w/sax)" %}
+
+___
+
 I bought this on release ... during my vinyl > CD transition I'd still invariably buy singles on vinyl - I bought very few CD singles, suspect those horrendous thin jewel cases contributed to me holding out!
 
 Obviously (one of) the greatest cover versions of all time is on the flip... I'll probably come to that later in the series! Actually... there are _two_ great covers on this!
