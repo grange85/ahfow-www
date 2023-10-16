@@ -26,10 +26,10 @@ _therealangelcorpuschristi_ is a compilation album pulling splendid contribution
 
 > We asked Pete (Sonic Boom) Kember to play on Femme Fatale, and he surprised us with a hypnotizing version featuring Dean Wareham on quitar, Britta Phillips on bass, and Pete on various keys. Pete mixed it too and the result went above and beyond our expectations!
 
+<!--more-->
+
 therealangelcorpuschristi sleeve notes by Angel Corpus Christi
 {: .blockquote-footer .text-end}
-
-<!--more-->
 
 The whole album is amazing and worth hunting down - not sure it ever got a digital release but you can find most of it sprinkled around [Angel's Bandcamp](https://angelcorpuschristi.bandcamp.com/) it includes a fab cover of [Dream Baby Dream (with Alan Vega!)](https://angelcorpuschristi.bandcamp.com/track/dream-baby-dream), Angel questioning Lou Reed's hairstyle choices in [Lou Reed's Hair](https://angelcorpuschristi.bandcamp.com/track/lou-reeds-hair) (but ultimatley forgiving him), and a frankly hilarious [Baby Elephant Walk/Walk on The Wild Side mash up](https://www.youtube.com/watch?v=pUwcFfZYpFg).
 

@@ -22,6 +22,8 @@ As I [mentioned on my previous Peel Sessions post]() this was the major omission
 
 My CDR is obviously better than the official release because:
 
+<!--more-->
+
 1. The sessions are presented in the correct order.
 2. It doesn't have a sleeve with portraits that are only vaguely reminiscent of their subjects.
 
