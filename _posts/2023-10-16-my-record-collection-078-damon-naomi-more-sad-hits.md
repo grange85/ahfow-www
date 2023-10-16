@@ -43,3 +43,10 @@ Anyway ... back to the album, and inside that perfect sleeve is a wonderful albu
 
 Macioce posted some out-takes from the photo session on his wonderful Instagram that includes [this adorable, smiley photo](https://www.instagram.com/p/CsJu9YVuW4r/?img_index=5)!
 
+ - *Catalogue Number:* AHFOW 10/118
+ - *Artist:* Damon & Naomi
+ - *Title:* More Sad Hits
+ - *Packaging:* Jewel case
+ - *Format:* CD
+ - Bought somewhere in London the week of release - for whatever CDs cost back then.
+ - [Buy 'More Sad Hits' on Bandcamp](https://damonandnaomi.bandcamp.com/album/more-sad-hits)
