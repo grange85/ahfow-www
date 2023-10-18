@@ -15,9 +15,13 @@ categories:
 tags:
 - new year's eve
 - rock yr baby
-- george mcrae
+- george mccrae
 ---
-I had intended giving you all a break between Christmas and New Year but then I decided it would probably be appropriate to throw together a post about Luna's New Year's Eve perennial - there wonderful cover of George McRae's disco masterpiece _Rock Your Baby_&dagger;, which had been a live staple for years before this post-reunion studio version was released in 2017.
+I had intended giving you all a break between Christmas and New Year but then I decided it would probably be appropriate to throw together a post about Luna's New Year's Eve perennial - their wonderful cover of George McCrae's disco masterpiece _Rock Your Baby_&dagger;, which had been a live staple for years before this post-reunion studio version was released in 2017.
+
+{% ahfowimage "url" "caption" %}
+
+The single is on the AA-side (or B-side as I like to call it) of the single with a cover of Roy Orbison's _California Blue_ on the A-side. Both were recorded at Palmetto Studios with Jason Quever so I'll assume as part of the sessions recording all those other covers for _A Sentimental Education_.
 
 Before their split in 2005 it had become a tradition for Luna to play in NYC (or NJ) on NYE, to my knowledge they played...
 
@@ -42,3 +46,20 @@ Dean & Britta looked like they might carry on the tradition when they played a s
 Post-reunion Luna have played one more New Year's Eve show in 2015
 
  - [Luna - 31st December 2015 - Starline Social Club, Oakland, CA, USA](/database/luna/shows/luna-2015-12-31-starline-social-club-oakland-ca-usa/)
+
+The blog post mentioned above has MP3s of as many new year performances as I have.
+
+A live version, recorde in San Francisco on Luna's farewell tour featured in the film _Tell Me Do You Miss Me_ and the LP of live recordings from the film. Here's the clip from the film:
+
+{% ahfowvideo "_YytQVOgMwY" "Luna - Rock Your Baby (Tell Me Do You Miss Me)" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/rock-your-baby-tmdymm-grab-01.jpg" %}
+
+ - *Catalogue Number:* AHFOW 11/0069
+ - *Artist:* Luna
+ - *Title:* California Blue / Rock Yr Baby
+ - *Packaging:* Card sleeve
+ - *Format:* 7"
+ - Bought from Great Pop Supplement for £14&Dagger; for this and the other single released by Feral Child at the same time - The Lonesome Cowboy Bill split with Cheval Sombre.
+
+&dagger; _Not entirely sure why Luna have decided to call the  track Rock **Yr** Baby - apart from legacy setlist laziness that made it onto this release. It got called Rock **Your** Baby on the TMDYMM LP._
+
+&Dagger; _I then asked if I could have a second copy of each - one for show and one for blow - so ... expect this to turn up again!_
