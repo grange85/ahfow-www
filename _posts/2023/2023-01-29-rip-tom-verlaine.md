@@ -14,7 +14,6 @@ categories:
 tags:
  - tom verlaine
  - television
- - RIP Tom Verlaine
 ---
 It has been confirmed that influential guitarist and songwriter Tom Verlaine has died at the age of 73. Tom guested on two songs on Luna's LP Penthouse - on the Life of The Record Podcast in 2020 Dean Wareham talked about how this came about.
 

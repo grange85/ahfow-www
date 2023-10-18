@@ -14,7 +14,6 @@ categories:
  - news
 tags:
  - raymond richards
- - a coaxed ghost
 exceprt: |
   Dean and Britta both put in appearances on the lovely new album from Raymond Richards. A Coaxed Ghost has just been released and is available on LP or digitally from Raymond's Bandcamp
   #RaymondRichards #DeanWareham #BrittaPhillips #ACoaxedGhost #IndieMusic

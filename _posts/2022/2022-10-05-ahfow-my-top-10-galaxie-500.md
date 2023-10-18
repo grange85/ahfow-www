@@ -12,6 +12,8 @@ categories:
 - news
 - galaxie 500
 - admin
+tags:
+ - poetic justice
 ---
 A while back the nice folk at [Poetic Justice](https://poeticjusticemagazine.com) magazine asked if I'd compile my top 10 Galaxie 500 songs. After the initial thrill of being asked I suddently realised what a ridiculous task it was trying to condense Galaxie 500's catalogue down to 10 songs... but I tried, and you can [see my top 10 and my thoughts and reasoning](https://poeticjusticemagazine.com/2022/10/04/a-head-full-of-wishes-top-10-galaxie-500-songs/) over at Poetic Justice.
 

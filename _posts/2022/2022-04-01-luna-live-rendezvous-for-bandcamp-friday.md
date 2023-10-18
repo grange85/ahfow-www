@@ -13,6 +13,8 @@ categories:
  - luna
  - news
 tags:
+ - rendezvous
+ - live album
 ---
 {% ahfowimage "https://media.fullofwishes.co.uk/02-luna/sleeves/luna-rendezvous-live-bandcamp.jpg" "Luna - live Rendezvous" %}
 

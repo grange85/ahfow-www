@@ -14,6 +14,11 @@ categories:
 - my record collection
 tags:
 - mistress america
+- suicide
+- hot chocolate
+- paul mccartney
+- omd
+- orchestral manoeuvres in the dark
 date: 2023-07-31 00:00 +0000
 ---
 Having assumed that the [previous Mistress America CD](/2023/06/22/my-record-collection-045-mistress-america-soundtrack-cd/) was sent to me by Dean I guess I must have bought this somewhere, although I can't find any evidence to suggest where. This one's been opened so it was the first one I owned.

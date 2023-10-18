@@ -15,6 +15,7 @@ categories:
 tags:
  - hamish kilgour
  - the clean
+ - anesthesia
 excerpt: |
   Hamish Kilgour of The Clean, who played drums on Dean Wareham's first post-Galaxie 500 session, has been found dead in Christchurch, New Zealand
   #HamishKilgour #TheClean #DeanWareham

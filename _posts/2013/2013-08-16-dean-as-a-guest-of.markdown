@@ -12,6 +12,13 @@ categories:
 - dean wareham
 - video
 - audio
+tags:
+- angel corpus christi
+- the sixths
+- fuxa
+- the pastels
+- cheval sombre
+- shapir o'rama
 ---
 {% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/pastelsgroop.jpg" "Dean as a guest of The Pastels" %}
 

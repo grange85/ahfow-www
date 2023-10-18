@@ -13,6 +13,10 @@ categories:
  - dean & britta
  - video
 tags:
+ - livestream
+ - cheese and onions
+ - i want everything
+ - the rutles
 ---
 I'm raiding my video grabs of Dean & Britta's live streamed shows again ... I hope they don't mind.
 

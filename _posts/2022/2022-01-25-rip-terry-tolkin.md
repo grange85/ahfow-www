@@ -12,6 +12,7 @@ imageurl: https://media.fullofwishes.co.uk/ahfow/uploads/2009/05/terrydean.jpg
 categories:
  - news
  - luna
+ - dean wareham
 tags:
  - terry tolkin
  - elektra

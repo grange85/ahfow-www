@@ -13,6 +13,8 @@ categories:
  - luna
  - news
 tags:
+ - lunapark
+ - run out groove
 ---
 {% ahfowimage "https://media.fullofwishes.co.uk/02-luna/sleeves/luna_lunapark.jpg" "Luna - Lunapark" %}
 Luna's debut album, Lunapark, is going to get a limited deluxe release through Run Out Groove records after coming out top in last month's poll

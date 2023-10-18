@@ -13,7 +13,7 @@ categories:
  - luna
  - news
 tags:
- - a strange Facination
+ - a strange fascination
  - book
 ---
 <figure class="caption aligncenter"><img src="{{site.baseurl}}/images/a-strange-fascination.jpg" class="img-fluid" /><figcaption>A Strange Fascination - Joakim Bengtsson and Ulrika Lov&eacute;n</figcaption></figure>

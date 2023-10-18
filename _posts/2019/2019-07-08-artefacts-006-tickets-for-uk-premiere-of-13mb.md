@@ -13,7 +13,7 @@ categories:
  - artefacts
  - dean & britta
 tags:
- - 13 most beautfiul
+ - 13 most beautiful
  - mp3
 flickr: true
 ---

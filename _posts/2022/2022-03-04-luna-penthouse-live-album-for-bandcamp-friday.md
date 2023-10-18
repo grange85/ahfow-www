@@ -13,6 +13,8 @@ categories:
  - luna
  - news
 tags:
+ - live album
+ - penthouse
 ---
 {% ahfowimage "https://media.fullofwishes.co.uk/02-luna/sleeves/luna-penthouse-live-bandcamp.jpg" "Luna - live Penthouse" %}
 

@@ -13,10 +13,10 @@ categories:
 - my record collection
 tags:
 - international sad hits
-- Fikret Kizilok
-- Kim Doo Soo
-- Tomokawa Kazuki
-- Mikami Kan
+- fikret kizilok
+- kim doo soo
+- tomokawa kazuki
+- mikami kan
 - 20-20-20
 date: 2023-02-27 00:00 +0000
 ---

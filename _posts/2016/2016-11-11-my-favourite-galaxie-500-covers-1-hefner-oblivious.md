@@ -12,7 +12,7 @@ categories:
  - galaxie 500
  - favourite galaxie 500 covers
 tags:
- - Hefner
+ - hefner
  - cover versions
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/nate2009/13953553059" title="Oblivious"><img src="https://c4.staticflickr.com/8/7301/13953553059_c29001f965_c.jpg" width="800" height="717" alt="Oblivious"></a>

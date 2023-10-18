@@ -11,6 +11,9 @@ categories:
 - news
 - galaxie 500
 - audio
+tags:
+- kexp
+- podcast
 ---
 <div class="imagebox-a"><a href="http://www.flickr.com/photos/kexp/2320966885/" title="Photo Sharing"><img src="https://farm4.static.flickr.com/3103/2320966885_7c017a3e44_m.jpg" alt="Transmissionary Six" /></a><br/><strong>Transmissionary Six</strong><br/>originally uploaded by <a href="http://www.flickr.com/people/kexp/">kexplive</a></div>
 <p>In their recent KEXP performance The Transmissionary Six  do a cover of Galaxie 500's Tugboat. The set was recorded in March but has just appeared on the KEXP Live Performances podcast. </p>

@@ -10,6 +10,12 @@ date: '2015-10-02'
 categories:
  - luna
  - video
+tags:
+ - sideways through sound
+ - sean eden
+ - bewitched
+ - tracy i love you
+ - moon palace
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/2015-09-30-luna-sideways-through-sound.jpg" alt="Dean and Sean on Sideways Through Sound" /><figcaption class="caption-text">Dean and Sean on Sideways Through Sound</figcaption></figure>
 

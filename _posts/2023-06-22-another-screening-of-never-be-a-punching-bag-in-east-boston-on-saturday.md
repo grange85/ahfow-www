@@ -15,7 +15,6 @@ categories:
 - news
 tags:
 - never be a punching bag for nobody
-- zumix
 - sal bartolo jr
 - naomi yang
 ---

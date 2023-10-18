@@ -16,7 +16,6 @@ tags:
 - never be a punching bag for nobody
 - naomi yang
 - boston independent film festival
-- q and a
 date: 2023-08-09 13:07 +0100
 ---
 Naomi Yang's lovely film _Never Be a Punching Bag for Nobody_ was premiered at the Boston Independent Film Festival back in April and as part of the presentation there was a Q&A with Naomi and Sal Bartolo Jr - the owner of the gym that featured heavily in the film.

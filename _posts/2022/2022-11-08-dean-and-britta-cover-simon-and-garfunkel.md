@@ -13,6 +13,9 @@ categories:
  - dean & britta
  - video
 tags:
+ - livestream
+ - simon & garfunkel
+ - homeward bound
 ---
 During Dean & Britta's live streamed show in September of 2020 they played this lovely cover of Simon & Garfunkel's Homeward Bound which, to my knowledge, they had only played live once before at a [benefit in NYC in 2010](https://www.fullofwishes.co.uk/2010/05/05/dean-britta-to-perform-homeward-bound-for-summerstage-2010/)
 

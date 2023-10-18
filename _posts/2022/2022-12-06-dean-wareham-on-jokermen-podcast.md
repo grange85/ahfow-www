@@ -15,6 +15,8 @@ categories:
 tags:
  - the velvet underground
  - loaded
+ - jokerman
+ - podcast
 excerpt: |
   Dean Wareham is the guest on the latest edition of the Jokermen podcast talking about The Velvet Underground album Loaded
   #DeanWareham #Podcast #VelvetUnderground #Jokermen #Podcast #Loaded

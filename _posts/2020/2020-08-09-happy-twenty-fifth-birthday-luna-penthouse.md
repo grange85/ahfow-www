@@ -15,7 +15,6 @@ categories:
  - editorial
 tags:
  - penthouse
- - 25
 flickr: true
 ---
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/50205029348/in/dateposted-public/" title="Luna - Penthouse cassette (Beggars Banquet, 1995)"><img src="https://live.staticflickr.com/65535/50205029348_a74f3ef931_c.jpg" width="800" height="355" alt="Luna - Penthouse cassette (Beggars Banquet, 1995)"></a>

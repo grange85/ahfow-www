@@ -14,7 +14,6 @@ categories:
  - news
 tags:
  - survey
- - 2018
  - review
 flickr: true
 longpost: true

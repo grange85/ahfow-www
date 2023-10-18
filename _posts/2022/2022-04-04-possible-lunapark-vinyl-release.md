@@ -13,6 +13,8 @@ categories:
  - luna
  - news
 tags:
+ - lunapark
+ - run out groove
 ---
 {% ahfowimage "https://media.fullofwishes.co.uk/02-luna/sleeves/luna-lunapark-summershine-1993.jpg" "Luna - Lunapark (Summershine, 1993)" %}
 Luna's debut album, Lunapark, is [in the running for a deluxe vinyl re-issue](https://www.runoutgroovevinyl.com/vote-for-next-release) from Run Out Groove Records. 

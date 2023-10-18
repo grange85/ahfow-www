@@ -15,6 +15,9 @@ categories:
 tags:
  - podcast
  - before the stream
+ - david bowie
+ - nirvana
+ - jason lawrence
 ---
 Dean Wareham appears on the latest issue of the [Before The Stream podcast](https://beforethestream.libsyn.com/nirvana-unplugged-the-man-who-sold-the-world-with-dean-wareham) (almost) talking about the Nirvana Unplugged cover of David Bowie's The Man Who Sold The World. The shows host is singer songwriter and sometime Dean & Britta drummer Jason Bemis Lawrence.
 

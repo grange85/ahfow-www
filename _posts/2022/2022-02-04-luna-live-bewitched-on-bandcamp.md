@@ -13,6 +13,8 @@ categories:
  - luna
  - news
 tags:
+ - bewitched
+ - live album
 ---
 {% ahfowimage "https://media.fullofwishes.co.uk/images/luna-live-bewitched.jpg" "Luna - live Bewitched" %}
 

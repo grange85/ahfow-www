@@ -14,7 +14,7 @@ categories:
  - dean wareham
 tags:
  - on fire
- - onfire30
+ - on fire 30
 flickr: true
 ---
 ## Dean Wareham has recorded some commentary on Galaxie 500's masterpiece On Fire for Pandora

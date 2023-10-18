@@ -15,6 +15,7 @@ categories:
  - news
 tags:
  - naomi yang
+ - never be a punching bag for nobody
 ---
 Not sure how this slipped me by but I just came across this tantalising trailer on Naomi Yang's Vimeo feed, uploaded a few months back.
 

@@ -16,7 +16,6 @@ tags:
 - today
 - on fire
 - this is our music
-- 202020
 date: 2023-06-05 00:00 +0000
 ---
 The 2009 20-20-20 vinyl reissues of Galaxie 500's On Fire and This Is Our Music conincidentally turned up next to each other in my random list so I've pulled in Today and will treat them as a single post since all three albums will have multiple solo entries in this series anyway - and it's going to take me until March 2026 to finish it anyway!

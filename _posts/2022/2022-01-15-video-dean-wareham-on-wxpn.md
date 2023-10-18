@@ -10,9 +10,11 @@ date: 2022-01-15
 imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/2021-11-dean-wareham-indie-rock-hit-parade-3.jpg
 categories:
  - dean wareham
+ - video
 tags:
  - wxpn
  - indie rock hit parade
+ - as much as it was worth
 ---
 Back in November Dean & Britta were in the WXPN studios in Philadelphia to record a couple of songs for The Indie Rock Hit Parade radio show - the songs were aired last night and videos of the performances shared on the WXPN YouTube.
 

@@ -14,6 +14,7 @@ categories:
  - news
 tags:
  - penthouse
+ - podcast
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/sleeves/luna_penthouse.jpg" alt="Luna - Penthouse" /><figcaption class="caption-text">Luna - Penthouse</figcaption></figure>
 The fabulous Life of The Record podcast is covering Luna's masterpiece Penthouse in the latest edition.

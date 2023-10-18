@@ -16,7 +16,7 @@ categories:
 tags:
 - boston independent film festival
 - iffboston
-- never be a punching bag for novody
+- never be a punching bag for nobody
 - naomi yang
 ---
 Naomi's new film _Never Be a Punching Bag For Nobody_ had been selected for the [Boston Independent Film Festival](https://iffboston.org/series/the-festival/). The festival runs from the 26th April until the 3rd May.
