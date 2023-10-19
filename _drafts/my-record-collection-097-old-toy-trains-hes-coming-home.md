@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'My Record Collection #097: Dean & Britta with Sonic Boom (blue)'
+title: 'My Record Collection #097: Old Toy Trains / He''s Coming Home - Dean & Britta (blue vinyl)'
 sitemap: true
 series-title:
 author:
