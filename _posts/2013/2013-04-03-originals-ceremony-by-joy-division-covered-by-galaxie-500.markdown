@@ -11,6 +11,10 @@ date: '2013-04-03'
 categories:
 - galaxie 500
 - originals
+tags:
+- ceremony
+- new order
+- joy division
 ---
 <p>Ceremony is the second track in this series to have <a href="http://en.wikipedia.org/wiki/Ceremony_%28song%29">a Wikipedia page all of its own</a>, so head over there for the full history - in short the song was one of the last songs written by Joy Division and never properly recorded. The only three known recordings by the band are below. New Order recorded the song twice and released it as their first single - also twice (and below, twice)</p>
 <p>Galaxie 500's version first turned up on the back of the Blue Thunder 12" single - and was a bonus track on all the recent CD reissues of their second album On Fire.<br /></p>

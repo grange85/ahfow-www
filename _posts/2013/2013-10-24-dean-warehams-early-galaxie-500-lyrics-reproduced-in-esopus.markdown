@@ -11,6 +11,8 @@ categories:
 - news
 - dean wareham
 - galaxie 500
+tags:
+- esopus
 ---
 <p><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/dean-notebook-cover-esopus.jpg" width="350" height="538" class="alignright" /><br />
 Issue #20 of <a href="http://www.esopusmag.com">Esopus magazine</a> due out at the end of October, has reproduced pages of Dean Wareham's lyrics. <a href="https://www.facebook.com/photo.php?fbid=615382368503674&set=a.402272483147998.82479.331987853509795&type=1&theater">Dean wrote on his Facebook page</a>...</p>

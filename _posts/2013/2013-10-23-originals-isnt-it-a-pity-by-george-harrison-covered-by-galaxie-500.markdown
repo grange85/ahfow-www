@@ -12,6 +12,10 @@ imageurl: https://media.fullofwishes.co.uk/00-misc/pictures/george-harrison-get-
 categories:
 - galaxie 500
 - originals
+tags:
+- george harrison
+- the beatles
+- isn't it a pity
 ---
 Isn't It a Pity first saw the light of day on George Harrison's triple album All Things Must Pass in 1970, but it had been kicking around for a while before that. It had been apparently been vetoed by John Lennon during The Beatles' Get Back Sessions, and George may have put it forward as a Beatles track as early as 1966 for Revolver. If you're interested there's [a lot more to the Isn't It a Pity story over at Wikipedia](http://en.wikipedia.org/wiki/Isn%27t_It_a_Pity)
 

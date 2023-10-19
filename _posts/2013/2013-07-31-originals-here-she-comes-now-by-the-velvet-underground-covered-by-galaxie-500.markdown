@@ -12,6 +12,9 @@ categories:
 - galaxie 500
 - audio
 - originals
+tags:
+- velvet underground
+- here she comes now
 ---
 <p>Here She Comes Now was from The Velvet Underground's second album, White Light/White Heat - <a href="http://en.wikipedia.org/wiki/Here_She_Comes_Now">it has a wikipeida page if you need to know more than that</a>. It apparently only exists in two known versions, the one from the album and a demo that turned up on the Peel Slowly... box set.</p>
 <p>LP version<br />

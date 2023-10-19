@@ -11,6 +11,9 @@ date: '2013-06-12'
 categories:
 - galaxie 500
 - originals
+tags:
+- young marble giants
+- final day
 ---
 <p>I saw Young Marble Giants back in February which inspired me to <a href="/2013/02/11/galaxie-500-covering-young-marble-giants-dean-vs-naomi/" title="Galaxie 500 covering Young Marble Giants – Dean vs Naomi">pre-empt this post</a>, so this is pretty much a rehash of that - sorry!</p>
 <p>Here's the original by the rather fantastic <a href="http://en.wikipedia.org/wiki/Young_Marble_Giants">Young Marble Giants</a>, recorded in 1980 and released on an EP on Rough Trade</p>

@@ -11,6 +11,10 @@ date: '2014-09-03'
 categories:
 - galaxie 500
 - originals
+tags:
+- buddy holly
+- well all right
+- the crickets
 ---
 <p>Well.... All Right was released by Buddy Holly as the b-side to his <a href="http://en.wikipedia.org/wiki/Heartbeat_%28Buddy_Holly_song%29">1958 single Heartbeat</a>. And it does have a <a href="http://en.wikipedia.org/wiki/Ellipsis">four dot ellipsis</a>, which I guess technically means that the title has an ellipsis and a full stop as there's really no such thing as a four dot ellipsis (personally I'm disinclined to use a four dots even at the end of a sentence!<br />
 

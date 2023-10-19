@@ -11,6 +11,8 @@ categories:
 - damon & naomi
 - galaxie 500
 - video
+tags:
+- beck
 ---
 <p>On Friday night in Boston Beck played a cover of Galaxie 500's Tugboat. Damon & Naomi were in the audience and posted this short clip of the performance...</p>
 {% ahfowvideo "evVnT-4hs6U" "" %}

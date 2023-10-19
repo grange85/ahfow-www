@@ -11,7 +11,6 @@ categories:
 - galaxie 500
 - pictures
 tags:
-- galaxie 500
 - bowdoin college
 - gig
 - photographs

@@ -11,6 +11,7 @@ categories:
 - news
 - galaxie 500
 - pictures
+- dean wareham
 ---
 <p>The latest issue of <a href="https://www.esopusmag.com/">ESOPUS Magazine</a> is dedicated to "personal and institutional archives", it consists of a beautiful collection of booklets each dedicated to reproductions from someone's (or some institution's) archive, all are rather lovely but of interest to us is the one called...</p>
 <p>GOOD ON PAPER: Early drafts of Galaxy 500 Lyrics by Dean Wareham<br />

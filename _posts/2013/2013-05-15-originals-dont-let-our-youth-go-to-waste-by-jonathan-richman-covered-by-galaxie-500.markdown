@@ -11,6 +11,11 @@ date: '2013-05-15'
 categories:
 - galaxie 500
 - originals
+tags:
+- don't let our youth go to waste
+- jonathan richman
+- modern lovers
+- kim fowley
 ---
 <p>And Jojo makes his third appearance in this series (and he's not done yet!) with a song that Galaxie 500 took form a bleak, 90 second song, sung unaccompanied, and made it their own stretching it out to almost seven minutes.<br />
 <a id="more"></a><a id="more-4135"></a><br />
