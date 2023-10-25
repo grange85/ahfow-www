@@ -1,25 +1,29 @@
 ---
 layout: post
-title: 'My Record Collection #097: Old Toy Trains / He''s Coming Home - Dean & Britta (blue vinyl)'
+title: "#097: Old Toy Trains / He's Coming Home - Dean & Britta (blue vinyl)"
 sitemap: true
-series-title:
+series-title: My record collection
 author:
   display_name: Andy
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl:
+imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-britta-sonic-old-toy-trains.jpg
 categories:
 - my record collection
 - dean & britta
 tags:
 - sonic boom
 - chimeny rocks
+- old toy trains
+- he's comimng home
+- the wailers
 - roger miller
+date: 2023-12-21 00:00 +0000
 ---
 This lovely Dean & Britta Christmas single was put out in 2007 on Chimney Rocks! Records but long-time mailing list member and contributor Scott. No concerns about the Christmas-credentials of this single - both sides are wonderfully xmassy!
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-britta-sonic-old-toy-trains.jpg" "Dean & Britta - Old Toy Trains / He's Coming Home" %}
 
 It came as a limited run of 500, some in blue vinyl (not sure how many), and I think Scott sent me this blue vinyl copy later (I had got a black vinyl one on release). It had a beautiful two colour silk screned sleeve on lovely heavy card - and a polythene bag that was also screen printed with snowflakes ... that have been, I guess appropriately, falling (off) over time.
 
@@ -41,4 +45,4 @@ Dean & Britta played _He's Coming Home_ live during their Christmas livstream in
  - *Notes:* Blue vinyl. Only Old Toy Trains is _with Sonic Boom_.
  - *Packaging:* Lovely screenprinted sleeve and bag.
  - *Format:* 7"
- - Bought just before Christmas 2007 for $11 incl shipping. It arrived between Christmas and the new year.
+

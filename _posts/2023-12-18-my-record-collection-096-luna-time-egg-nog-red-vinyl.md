@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-time-egg-nog-red.jpg
+imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-time-egg-nog.jpg
 categories:
 - my record collection
 - luna
@@ -20,7 +20,7 @@ date: 2023-12-18 00:00 +0000
 ---
 So, most of the posts in this series have been selected randomly, the exceptions are the _recent acquisitions_ posts which turn up when they come into my possession; and, because it would have seemed odd blogging about Christmas when it wasn't Christmas, I've scheduled some seasonal posts for during the festive season.
 
-{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-time-egg-nog-red.jpg" "Luna - Time / Egg Nog (red vinyl)" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-time-egg-nog.jpg" "Luna - Time / Egg Nog (red vinyl)" %}
 
 So ... is Luna's Time / Egg Nog single a Christmas single?
 

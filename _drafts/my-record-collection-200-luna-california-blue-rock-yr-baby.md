@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#098: Luna - California Blue / Rock Yr Baby'
+title: '#200: Luna - California Blue / Rock Yr Baby'
 sitemap: true
 series-title: My Record Collection 
 author:
