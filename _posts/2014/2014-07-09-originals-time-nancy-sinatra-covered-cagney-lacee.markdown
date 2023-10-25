@@ -31,7 +31,7 @@ Time - Nancy Sinatra (1966)<br />
 
 {% ahfowvideo "alEhISQAnFE" "" %}
 
-<p>Dean Wareham's side project Cagney and Lacee recorded the sonmg for a single on Terry Tolkin's No.6 Records in 1995<br />
-MP3: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/2-13-cagney-and-lacee-time.mp3">Time - Cagney and Lacee</a> (1995)<br />
+<p>Dean Wareham's side project Cagney & Lacee recorded the sonmg for a single on Terry Tolkin's No.6 Records in 1995<br />
+MP3: <a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/2-13-cagney-and-lacee-time.mp3">Time - Cagney & Lacee</a> (1995)<br />
 <audio src="https://media.fullofwishes.co.uk/05-dean_wareham/audio/2-13-cagney-and-lacee-time.mp3" preload="none" controls /></p>
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

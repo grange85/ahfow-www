@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Audio: Cagney and Lacee - Borderline'
+title: 'Audio: Cagney & Lacee - Borderline'
 author:
   display_name: Andy
   login: admin
@@ -15,7 +15,7 @@ categories:
 {% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/cal_borderline_sleeve_04.jpg" "Cagney & Lacee - Borderline" %}
 
 
-Before Dean & Britta there was Cagney and Lacee. Dean Wareham's side project with his then wife Claudia Silver. Over the course of a couple of years they released a couple of singles and an album of cover versions. Borderline was the second single and was released as part of the very lovely [Earworm Records](http://www.earwormrecords.com/) 1998 subscription series. It was a big fat hunk of white vinyl with two tracks on one side at 33 rpm and a platter of nothing on the flip.
+Before Dean & Britta there was Cagney & Lacee. Dean Wareham's side project with his then wife Claudia Silver. Over the course of a couple of years they released a couple of singles and an album of cover versions. Borderline was the second single and was released as part of the very lovely [Earworm Records](http://www.earwormrecords.com/) 1998 subscription series. It was a big fat hunk of white vinyl with two tracks on one side at 33 rpm and a platter of nothing on the flip.
 
 Borderline is Dean's first dip into Madonna's catalogue a full five years before Dean & Britta released I Deserve It on L'Avventura - it's a sweet take on the track. The other track on the single "Orange" is the only Silver/Wareham original to get a release before the side project was shelved.
 

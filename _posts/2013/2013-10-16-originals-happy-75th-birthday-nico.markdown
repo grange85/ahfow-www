@@ -30,11 +30,11 @@ Originals: I’ll Keep It With Mine by Judy Collins (covered by Dean & Britta)</
 <p><em>I'll Keep It With Mine by Nico</em><br />
 </p>
 {% ahfowvideo "qCwDMjp3G5Y" "" %}
-<p><strong><a href="/2013/09/18/originals-im-not-sayin-by-gordon-lightfoot-covered-by-cagney-and-lacee/" title="Originals: I’m Not Sayin’ by Gordon Lightfoot (covered by Cagney and Lacee)">Originals: I’m Not Sayin’ by Gordon Lightfoot (covered by Cagney and Lacee)</a></strong></p>
+<p><strong><a href="/2013/09/18/originals-im-not-sayin-by-gordon-lightfoot-covered-by-cagney-and-lacee/" title="Originals: I’m Not Sayin’ by Gordon Lightfoot (covered by Cagney & Lacee)">Originals: I’m Not Sayin’ by Gordon Lightfoot (covered by Cagney & Lacee)</a></strong></p>
 
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/cagney-and-lacee-im-not-sayin.mp3",
-  "audiocap": "I'm Not Sayin' by Cagney and Lacee",
+  "audiocap": "I'm Not Sayin' by Cagney & Lacee",
   "sourceurl": "",
   "sourcecap": ""
   } %}

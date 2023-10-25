@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Yours Tonight by Martin Rev (covered by Cagney and Lacee)'
+title: 'Yours Tonight by Martin Rev (covered by Cagney & Lacee)'
 series-title: 'Originals'
 author:
   display_name: Andy
@@ -14,8 +14,8 @@ categories:
 - cagney & lacee
 ---
 <p><a href="http://www.flickr.com/photos/kayaker1204/5429041601/" title="Be Mine by kayaker1204, on Flickr"><img class="aligncenter" src="https://farm6.staticflickr.com/5173/5429041601_4b40a84e41_z.jpg" width="640" height="427" alt="Be Mine"></a><br />
-Cagney and Lacee were Dean Wareham and his then wife Claudia Silver. They released a mini album of covers and a couple of singles in the late 1990s.</p>
-<p>The opening track on Cagney and Lacee's only album Six Feet of Chain is called "Be Mine" and is credited to <a href="http://en.wikipedia.org/wiki/Martin_Rev">Martin Rev</a>. Now Mr Rev, of fab noisy electronic duo Suicide, did indeed <a href="http://www.youtube.com/watch?v=og6Xxn0ANxw">release a track called Be Mine</a>, it was on his album "See Me Ridin'" from 1996 - but the track "Be Mine" on Cagney and Lacee's 1997 album isn't a cover of that! No, Cagney and Lacee's "Be Mine" is actually a cover of "Yours Tonight" another track on "See Me Ridin'"</p>
+Cagney & Lacee were Dean Wareham and his then wife Claudia Silver. They released a mini album of covers and a couple of singles in the late 1990s.</p>
+<p>The opening track on Cagney & Lacee's only album Six Feet of Chain is called "Be Mine" and is credited to <a href="http://en.wikipedia.org/wiki/Martin_Rev">Martin Rev</a>. Now Mr Rev, of fab noisy electronic duo Suicide, did indeed <a href="http://www.youtube.com/watch?v=og6Xxn0ANxw">release a track called Be Mine</a>, it was on his album "See Me Ridin'" from 1996 - but the track "Be Mine" on Cagney & Lacee's 1997 album isn't a cover of that! No, Cagney & Lacee's "Be Mine" is actually a cover of "Yours Tonight" another track on "See Me Ridin'"</p>
 <p>Again, not on YouTube so,</p>
 <p>For Spotify users:<br />
 <iframe class="aligncenter" src="https://embed.spotify.com/?uri=spotify:track:6np8bWPvrTyjL6YG3ljQGO" width="300" height="380" frameborder="0" allowtransparency="true"></iframe></p>
@@ -27,7 +27,7 @@ Update (14th July 2020): Currently on YouTube, so...
 
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/01_Cagney-and-Lacee_Be-Mine.mp3",
-  "audiocap": "Cagney and Lacee - Be Mine",
+  "audiocap": "Cagney & Lacee - Be Mine",
   "sourceurl": "",
   "sourcecap": ""
   } %}

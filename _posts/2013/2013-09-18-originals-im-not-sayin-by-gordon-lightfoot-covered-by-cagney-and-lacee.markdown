@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'I''m Not Sayin'' by Gordon Lightfoot (covered by Cagney and Lacee)'
+title: 'I''m Not Sayin'' by Gordon Lightfoot (covered by Cagney & Lacee)'
 series-title: 'Originals'
 author:
   display_name: Andy
@@ -19,11 +19,11 @@ categories:
 <p>Later that year it was covered by Nico (before her association with The Velvet Underground)<br />
 </p>
 {% ahfowvideo "2WCnC_4QXH8" "" %}
-<p>Dean Wareham's late 90s side project Cagney and Lacee released I'm Not Sayin' on Six Feet of Chain</p>
+<p>Dean Wareham's late 90s side project Cagney & Lacee released I'm Not Sayin' on Six Feet of Chain</p>
 
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/cagney-and-lacee-im-not-sayin.mp3",
-  "audiocap": "I'm Not Sayin' by Cagney and Lacee",
+  "audiocap": "I'm Not Sayin' by Cagney & Lacee",
   "sourceurl": "",
   "sourcecap": ""
   } %}

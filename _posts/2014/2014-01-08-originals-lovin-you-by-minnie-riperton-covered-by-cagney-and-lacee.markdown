@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lovin'' You by Minnie Riperton (covered by Cagney and Lacee)'
+title: 'Lovin'' You by Minnie Riperton (covered by Cagney & Lacee)'
 series-title: 'Originals'
 author:
   display_name: Andy
@@ -21,11 +21,11 @@ tags:
 
 {% ahfowvideo "kE0pwJ5PMDg" "" %}
 
-<p><a href="/2009/04/19/mp3-lost-tracks-4-cagney-lacee-orange/" title="Mp3: Lost tracks #4 – Cagney & Lacee – Orange">Cagney and Lacee, who were Dean Wareham and his then wife Claudia Silver</a>, covered the track on their Six Feet of Chain album released in 1997</p>
+<p><a href="/2009/04/19/mp3-lost-tracks-4-cagney-lacee-orange/" title="Mp3: Lost tracks #4 – Cagney & Lacee – Orange">Cagney & Lacee, who were Dean Wareham and his then wife Claudia Silver</a>, covered the track on their Six Feet of Chain album released in 1997</p>
 
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/02-cagney-and-lacee-lovin-you.mp3",
-  "audiocap": "Cagney and Lacee - Lovin' You",
+  "audiocap": "Cagney & Lacee - Lovin' You",
   "sourceurl": "",
   "sourcecap": ""
   } %}

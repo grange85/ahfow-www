@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Memphis by Karen Black (covered by Cagney and Lacee)'
+title: 'Memphis by Karen Black (covered by Cagney & Lacee)'
 series-title: 'Originals'
 author:
   display_name: Andy
@@ -15,11 +15,11 @@ categories:
 ---
 <p>Because of the very sad news of <a href="http://en.wikipedia.org/wiki/Karen_Black">Karen Black</a>'s passing today, here's the splendid Memphis that she wrote and recorded for Robert Altman's wonderful <a href="http://en.wikipedia.org/wiki/Nashville_%28film%29">Nashville</a></p>
 {% ahfowvideo "1ITqqSvpucg" "" %}
-<p>Cagney and Lacee covered it on Six Feet of Chain</p>
+<p>Cagney & Lacee covered it on Six Feet of Chain</p>
 
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/cagney-and-lacee-memphis.mp3",
-  "audiocap": "Cagney and Lacee - Memphis",
+  "audiocap": "Cagney & Lacee - Memphis",
   "sourceurl": "",
   "sourcecap": ""
   } %}

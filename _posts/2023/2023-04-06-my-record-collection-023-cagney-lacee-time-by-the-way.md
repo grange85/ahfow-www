@@ -16,7 +16,7 @@ tags:
 - claudia silver
 date: 2023-04-06 00:00 +0000
 ---
-This was the first single by Dean Wareham's side project with his then wife Claudia, Cagney and Lacee. The sticker on the sleeve shows that I paid £3.50 for this at the Talbot Road Rough Trade Shop (now Rough Trade West) - the phone number on the sticker shows that it was before 2000.
+This was the first single by Dean Wareham's side project with his then wife Claudia, Cagney & Lacee. The sticker on the sleeve shows that I paid £3.50 for this at the Talbot Road Rough Trade Shop (now Rough Trade West) - the phone number on the sticker shows that it was before 2000.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/cagney-and-lacee-time-btw-single.jpg" "Cagney & Lacee - Time / By The Way (I Still Love You" %}
 

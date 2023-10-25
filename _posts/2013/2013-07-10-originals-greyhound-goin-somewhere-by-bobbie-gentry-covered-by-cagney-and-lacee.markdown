@@ -26,10 +26,10 @@ categories:
   "sourcecap": ""
   } %}
 
-<p>Cagney and Lacee covered it on Six Feet of Chain<br />
+<p>Cagney & Lacee covered it on Six Feet of Chain<br />
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/06_Cagney-and-Lacee_Greyhound-Goin--Somewhere.mp3",
-  "audiocap": "Cagney and Lacee - Six Feet of Chain",
+  "audiocap": "Cagney & Lacee - Six Feet of Chain",
   "sourceurl": "",
   "sourcecap": ""
   } %}

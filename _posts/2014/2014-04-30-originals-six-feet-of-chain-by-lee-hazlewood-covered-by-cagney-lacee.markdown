@@ -14,7 +14,6 @@ categories:
 - originals
 - cagney & lacee
 tags:
-- cagney and lacee
 - lee hazlewood
 - country
 - trouble is a lonesome town
@@ -24,7 +23,7 @@ Oh, it's been too long since Lee Hazlewood turned up in this series (in the Bs) 
 
 {% ahfowvideo "oa3EqjnvqQk" "" %}
 
-<p>To be honest the lyrics to me don't match the story, it seems to me its more about a woman keeping her wayward man in line, so Cagney and Lacee's version, sung by Lacee (Dean's ex-wife Claudia Silver) makes a little more sense to me. Six Feet of Chain was the title track of Cagney and Lacee's only LP< released in 1997 on No.6 Records.</p>
+<p>To be honest the lyrics to me don't match the story, it seems to me its more about a woman keeping her wayward man in line, so Cagney & Lacee's version, sung by Lacee (Dean's ex-wife Claudia Silver) makes a little more sense to me. Six Feet of Chain was the title track of Cagney & Lacee's only LP< released in 1997 on No.6 Records.</p>
 
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/cagney-and-lacee-six-feet-of-chain.mp3",

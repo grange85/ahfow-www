@@ -43,5 +43,5 @@ Lee Hazelwood : 3</p>
 
 <h3>Footnotes</h3>
 <p id="footnote-1">1: Including Magic Hour</p>
-<p id="footnote-2">2: Including Cagney and Lacee. Not including the covers on Emancipated Hearts or Dean Wareham as both were released after I started the series.</p>
+<p id="footnote-2">2: Including Cagney & Lacee. Not including the covers on Emancipated Hearts or Dean Wareham as both were released after I started the series.</p>
 <p id="footnote-3">3: Technically John Lennon also gets a credit on <a href="/2013/04/10/originals-cheese-and-onions-by-the-rutles-covered-by-galaxie-500/" title="Originals: Cheese and Onions by The Rutles (covered by Galaxie 500)">Cheese and Onions</a></p>
