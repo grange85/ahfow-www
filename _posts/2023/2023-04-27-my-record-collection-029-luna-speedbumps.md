@@ -26,7 +26,7 @@ Eyes in My Smoke was later re-worked by Dean & Britta to accompany Ingrid Supers
 
 Luna performed Speedbumps on John McEnroe's TV show on the 9th December 2004 with Matt Johnson sitting in for Lee Wall who was on the wrong side of the country at the time.
 
-{% ahfowvideo "kXf20qj3d7g" "Luna play Speedbumps on McEnroe, December 2004" "https://media.fullofwishes.co.uk/02-luna/pictures/video-thumbs/luna-speedbumps-mcenroe.jpg" %}
+{% ahfowvideo "kXf20qj3d7g" "Luna play Speedbumps on McEnroe, December 2004" "https://media.fullofwishes.co.uk/02-luna/pictures/luna-speedbumps-mcenroe.jpg" %}
 
  - *Catalogue Number:* AHFOW 11/0005
  - *Artist:* Luna
