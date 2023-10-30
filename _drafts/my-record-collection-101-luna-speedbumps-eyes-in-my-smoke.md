@@ -15,11 +15,13 @@ categories:
 tags:
 - speedbumps
 ---
-Another copy of Luna's last first-phase single Speedbumps. When Little Teddy Records announced this as a single I wrote to Dean how pleased I was because "it was the track that cried out 'single' when I first heard Rendezvous".
+Another copy of Luna's final first-phase single Speedbumps. When Little Teddy Records announced this as a single I wrote to Dean to tell him how pleased I was because "it was the track that cried out 'single' when I first heard Rendezvous".
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-speedbumps-astronaut-eyes-in-my-smoke.jpg" "Luna - Speedbumps single" %}
 
 The b-side has two songs and runs at 33rpm, luckily the label clearly declares what speed you should spin the record at. Track _b1_, Astronaut, was the first track with music written by Lee Wall that was recorded by Luna (I think he also wrote _Star-Spangled Man_) - the lyrics were written by Dean. The track was recorded during the Romantica sessions and was released on the _Close Cover Before Striking_ EP and then remixed for Rendezvous.
+
+<!--more-->
 
 Astronaut was quite a live regular towards the end of Luna's first phase but think it might only have been played recently when they performed Rendezvous in full back in 2017.
 
