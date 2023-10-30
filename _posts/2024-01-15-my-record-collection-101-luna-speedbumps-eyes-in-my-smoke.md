@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '#101: Luna - Speedbumps / Astronaut / Eyes in My Smoke'
+title: "#101: Luna - Speedbumps / Astronaut / Eyes in My Smoke"
 sitemap: true
-series-title: My Record Collection 
+series-title: My Record Collection
 author:
   display_name: Andy
   login: admin
@@ -14,6 +14,7 @@ categories:
 - luna
 tags:
 - speedbumps
+date: 2024-01-15 00:00 +0000
 ---
 Another copy of Luna's final first-phase single Speedbumps. When Little Teddy Records announced this as a single I wrote to Dean to tell him how pleased I was because "it was the track that cried out 'single' when I first heard Rendezvous".
 
