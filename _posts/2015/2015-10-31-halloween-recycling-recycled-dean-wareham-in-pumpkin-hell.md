@@ -16,7 +16,7 @@ categories:
 <p class="lead">Don't kick my pumpkin&hellip; your boy kicked my pumpkins. You can touch 'em and hold 'em, whatever, just no kicking&hellip; they bruise</p>
 
 
-{% ahfowvideo "G09csbVdcsw" "Dean Wareham in Pumpkin Hell" "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/pumpkin-hell/pumpkin-hell-deanwareham_castpic-02.jpg" %}
+{% ahfowvideo "G09csbVdcsw" "Dean Wareham in Pumpkin Hell - click on the image to view the film" "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/pumpkin-hell/pumpkin-hell-deanwareham_castpic-02.jpg" %}
 
 
 <p>The film was made in 2007 by Max Finneran and is...</p>
