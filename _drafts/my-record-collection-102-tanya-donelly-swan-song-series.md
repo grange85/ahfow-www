@@ -19,9 +19,9 @@ Not that I'd consider Tanya Donelly _noise_ but this is possibly the release in 
 
 {% ahfowimage "url" "caption" %}
 
-I say "possibly" becuase the sleeve notes don't mention who specifically plays on what - there's just a great long list of "PLAYERS", so I guess there's a chance that Damon and Naomi put in _guitar/voice_ (Damon) and _bass/keyboard_ (Naomi) duty on other tracks.
+The sleeve notes don't mention who specifically plays on what - there's just a great long list of "PLAYERS", so I thought that there was a chance that Damon and Naomi put in _guitar/voice_ (Damon) and _bass/keyboard_ (Naomi) duty on other tracks. But the sleeve does say "for liner notes and more info regarding credits, please visit www.tanyadonelly.com" but, currently this site is "under construction" - seriously, if you're going to put sleeve notes on a website you really HAVE TO keep that content live! Fortunately we can thank (as we can so often) the Internet Archive's fantastic Wayback Machine which has the [website archived from 2016](http://web.archive.org/web/20161026154045/http://tanyadonelly.com/) and means I can track down _more info regarding credits_ and there is no evidence that Damon or Naomi appeared on any of the other tracks.
 
-The sleeve does say "for liner notes and more info regarding credits, please visit www.tanyadonelly.com" but, currently this site is "under construction" - seriously, if you're going to put sleeve notes on a website you really HAVE TO keep that content live! Fortunately we can thank (as we can so often) the Internet Archive's fantastic Wayback Machine which has the [website archived from 2016](http://web.archive.org/web/20161026154045/http://tanyadonelly.com/) and means I can track down _more info regarding credits_ and there is no evidence that Damon or Naomi appeared on any of the other tracks.
+<!--more-->
 
 So, it looks like it is just that one track, which is the lovely [Storm Blown Bird](https://youtu.be/83nVVsEZ4wY) which wasn't part of the main _Swan Song Series_ but was included as a bonus track in the series. This is how Tanya described the track
 
