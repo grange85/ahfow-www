@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '#103: Galaxie 500 - Copenhagen'
+title: "#103: Galaxie 500 - Copenhagen"
 sitemap: true
-series-title: My Record Collection 
+series-title: My Record Collection
 author:
   display_name: Andy
   login: admin
@@ -15,6 +15,7 @@ categories:
 tags:
 - copenhagen
 - video arts japan
+date: 2024-01-22 00:00 +0000
 ---
 This is the Video Arts Japan release of Galaxie 500's live album Copenhagen that was released along with the three studio albums in lovely pseudo vinyl sleeves.
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '#104: Galaxie 500 - Victory Garden (flexi)'
+title: "#104: Galaxie 500 - Victory Garden (flexi)"
 sitemap: true
-series-title: My Record Collection 
+series-title: My Record Collection
 author:
   display_name: Andy
   login: admin
@@ -16,6 +16,7 @@ tags:
 - the catalogue
 - victory garden
 - straitjacket fits
+date: 2024-01-25 00:00 +0000
 ---
 This is a flexidisc that contains Galaxie 500's cover of Red [KC]rayola's Victory Garden as well as Hail by Straitjacket Fits. It was given away free with the UK trade music magazine The Catalogue in the October/November 1989 edition.
 
