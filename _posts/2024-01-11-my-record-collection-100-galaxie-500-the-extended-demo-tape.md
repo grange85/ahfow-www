@@ -2,7 +2,7 @@
 layout: post
 title: "#100: Galaxie 500 - The extended demo tape"
 sitemap: true
-series-title: My Record Collection
+series-title: My record collection
 author:
   display_name: Andy
   login: admin

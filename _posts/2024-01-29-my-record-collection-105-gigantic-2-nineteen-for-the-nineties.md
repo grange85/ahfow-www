@@ -2,7 +2,7 @@
 layout: post
 title: "#105: Gigantic! 2 - Nineteen for the Nineties"
 sitemap: true
-series-title: My Record Collection
+series-title: My record collection
 author:
   display_name: Andy
   login: admin

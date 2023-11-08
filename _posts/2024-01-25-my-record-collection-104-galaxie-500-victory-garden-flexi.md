@@ -2,7 +2,7 @@
 layout: post
 title: "#104: Galaxie 500 - Victory Garden (flexi)"
 sitemap: true
-series-title: My Record Collection
+series-title: My record collection
 author:
   display_name: Andy
   login: admin

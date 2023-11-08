@@ -2,7 +2,7 @@
 layout: post
 title: "#102: Tanya Donelly - Swan Song Series"
 sitemap: true
-series-title: My Record Collection
+series-title: My record collection
 author:
   display_name: Andy
   login: admin

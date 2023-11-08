@@ -2,7 +2,7 @@
 layout: post
 title: '#108: Galaxie 500 - Oblivious (Chemical Imbalance)'
 sitemap: true
-series-title: My Record Collection 
+series-title: My record collection 
 author:
   display_name: Andy
   login: admin
@@ -20,4 +20,16 @@ This is a five track 7" that came with Chemical Imbalance issue 8 and features a
 
 {% ahfowimage "url" "caption" %}
 
-This is another of the records that Damon and Naomi sent me in the 7" vinyl care package.
+The label on the single doesn't make any mention of this being a different version than the album version but in subsequent releases, from the box set on, the song was always listed as _Oblivious \[alternate version\]_.
+
+This is another of the records that Damon and Naomi sent me in the _[7" vinyl care package](https://media.fullofwishes.co.uk/archive/ahfow-02-0029.png)_ in 2004.
+
+I don't have a copy of the accompanying fanzine (yet).
+
+ - *Catalogue Number:* AHFOW 11/0015
+ - *Artist:* Various Artists
+ - *Title:* Chemical Imbalance #8
+ - *Notes:* Includes Galaxie 500's alternate version of Oblivious.
+ - *Packaging:* Generic paper sleeve
+ - *Format:* 7"
+ - [Buy 'Oblivious [alternate version]' on Bandcamp](https://galaxie500.bandcamp.com/track/oblivious-2)

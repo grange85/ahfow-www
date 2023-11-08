@@ -2,7 +2,7 @@
 layout: post
 title: "#103: Galaxie 500 - Copenhagen"
 sitemap: true
-series-title: My Record Collection
+series-title: My record collection
 author:
   display_name: Andy
   login: admin

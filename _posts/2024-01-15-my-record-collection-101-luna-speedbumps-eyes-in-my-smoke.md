@@ -2,7 +2,7 @@
 layout: post
 title: "#101: Luna - Speedbumps / Astronaut / Eyes in My Smoke"
 sitemap: true
-series-title: My Record Collection
+series-title: My record collection
 author:
   display_name: Andy
   login: admin

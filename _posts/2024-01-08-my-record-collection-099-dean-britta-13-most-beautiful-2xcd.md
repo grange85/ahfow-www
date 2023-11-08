@@ -2,7 +2,7 @@
 layout: post
 title: "#099: Dean & Britta - 13 Most Beautiful (2xCD)"
 sitemap: true
-series-title: My Record Collection
+series-title: My record collection
 author:
   display_name: Andy
   login: admin
