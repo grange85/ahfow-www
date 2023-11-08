@@ -26,7 +26,7 @@ Galaxie 500 Mailing List member Nate turned up for the video shoot (with beer) a
 
 <!--more-->
 
-> I went to their video shoot for Lovedust. Great stuff. Cool to see the whole process, and everybody was all in quite the jovial mood (we brought beer with us). The musuem set up was cool, they are the artwork and Dean was our tour guide around the musuem, showing us (and the band) these painting and sculptures. 
+> I went to their video shoot for Lovedust. Great stuff. Cool to see the whole process, and everybody was all in quite the jovial mood (we brought beer with us). The museum set up was cool, they are the artwork and Dean was our tour guide around the museum, showing us (and the band) these painting and sculptures. 
 
 Nate - The Galaxie 500 Mailing List
 {: .blockquote-footer .text-end}
