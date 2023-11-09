@@ -16,7 +16,7 @@ tags:
  - luna
 ---
 
-So... there I was spending a whole day getting part one of the A Head Full of Wishes review of the year and then I poured a full cup of coffee over my Macbook and ... I lost the work, and lost the will to do it all again - I guess that's what the shitshow that was 2020 did for me.
+So... there I was spending a whole day getting part one of the A Head Full of Wishes review of the year and then I poured a full cup of coffee over my Macbook and... I lost the work, and lost the will to do it all again - I guess that's what the shitshow that was 2020 did for me.
 
 Anyway when I got to May I found this video that Dean & Britta popped on Facebook in one of their early forays into livestreaming from their living room.
 

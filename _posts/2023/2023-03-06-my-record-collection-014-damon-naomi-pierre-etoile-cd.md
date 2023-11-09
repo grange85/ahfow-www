@@ -20,9 +20,9 @@ Another copy of Pierre Etoile already. This was the re-release on Spanish label 
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-pierre-etoile-cd.jpg" "Damon & Naomi - Pierre Etoile (Elefant CD)" %}
 
-I can't find where and when I bought this - although it was pretty late on because I did buy the EP from iTunes in 2010 so I assume I didn't have a CD copy then. I also bought a copy via Bandcamp in 2017 - shocking that I've even been doubling up my downloads. I kind of hope Hazel doesn't read this and find out how much I've been spending on music I already own! _Although ... she probably already has some idea!_
+I can't find where and when I bought this - although it was pretty late on because I did buy the EP from iTunes in 2010 so I assume I didn't have a CD copy then. I also bought a copy via Bandcamp in 2017 - shocking that I've even been doubling up my downloads. I kind of hope Hazel doesn't read this and find out how much I've been spending on music I already own! _Although... she probably already has some idea!_
 
-I've always been slightly disappointed in the sleeve of this issue - probably because I loved the sleeve of the original so much. But, looking at it now I do rather like the design even if the sleeve photograph is a little ... uninspired.
+I've always been slightly disappointed in the sleeve of this issue - probably because I loved the sleeve of the original so much. But, looking at it now I do rather like the design even if the sleeve photograph is a little... uninspired.
 
  - *Catalogue Number:* AHFOW 10/016
  - *Artist:*  Damon & Naomi

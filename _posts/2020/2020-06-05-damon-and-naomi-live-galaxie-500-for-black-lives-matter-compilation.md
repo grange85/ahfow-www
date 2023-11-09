@@ -22,6 +22,6 @@ The 97 track compilation has been released by Rough Trade Publishing/Bank Robber
 
 > Released exclusively on Bandcamp, this collection gathers unreleased tracks, live recordings, vintage cuts, demos, and previously released songs from some of the artists we work with. We put a call out for songs on May 30th and in less than a week this was the amazing response we got.
 
-The album, [Talk - Action = Zero](https://roughtradepublishing.bandcamp.com/album/talk-action-zero-a-compilation-benefitting-black-lives-matter), is pay what you want and the cause is good so ... pay what you *can*!
+The album, [Talk - Action = Zero](https://roughtradepublishing.bandcamp.com/album/talk-action-zero-a-compilation-benefitting-black-lives-matter), is pay what you want and the cause is good so... pay what you *can*!
 
 {% ahfowimage "https://f4.bcbits.com/img/a1265312378_10.jpg" "A compilation benefitting Black Lives Matter - Talk - Action = Zero" %}

@@ -25,7 +25,7 @@ No Excess Is Absurd was Magic Hour's first album and is the one with the bonus o
 
 Now, 1994 was the very early days of the Internet, I started A Head Full of Wishes in the autumn of that year. Magic Hour toured the UK in October 1994 ... I managed to miss [this news item in NME](https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/1994-10-08-magic-hour-tour-news-nme.png) and so managed to _not_ see them when they toured. There is a [video of their show at The Sausage Machine in Camden on the 28th October](https://www.youtube.com/watch?v=6JveFMa97YU/) which should make me happy but just makes me all the more annoyed that I missed it.
 
-My CD of this is dying. When they were new, CDs were pitched as [being indestructible](https://www.youtube.com/watch?v=bMp1pSVxoqw&t=28s) but ... no, turns out this was nonsense - in fact not indestructible rather they fail more catastrophically - I'll have a story to tell about this in a later post. Luckily ... No Excess is Absurd is one of the many releases in this series I have multiple copies of so my dying Che CD isn't a complete catastrophe.
+My CD of this is dying. When they were new, CDs were pitched as [being indestructible](https://www.youtube.com/watch?v=bMp1pSVxoqw&t=28s) but... no, turns out this was nonsense - in fact not indestructible rather they fail more catastrophically - I'll have a story to tell about this in a later post. Luckily... No Excess is Absurd is one of the many releases in this series I have multiple copies of so my dying Che CD isn't a complete catastrophe.
 
  - *Catalogue Number:* AHFOW 10/092
  - *Artist:* Magic Hour

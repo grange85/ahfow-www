@@ -29,6 +29,6 @@ The single is available [for $1.99 _or more_ over on Bandcamp](https://deanandbr
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3997785857/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://deanandbritta.bandcamp.com/album/happy-xmas-war-is-over">Happy Xmas (War is Over) by Dean &amp; Britta</a></iframe>
 
-Meanwhile Sonic Boom himself has also released a seasonal single on which he "enlists dear friends, Dean & Britta ... for vocal harmonies."
+Meanwhile Sonic Boom himself has also released a seasonal single on which he "enlists dear friends, Dean & Britta... for vocal harmonies."
 
  [I Wish It Was Like Xmas Everyday (A Little Bit Deeper) is available on Sonic Boom's bandcamp](https://sonicboomspacemen3.bandcamp.com/track/i-wish-it-was-like-xmas-everyday-a-little-bit-deeper-feat-dean-britta) with 80% of proceeds going to  "[Earth Island’s fight for planetary repair and preservation](https://earthisland.org/)". 

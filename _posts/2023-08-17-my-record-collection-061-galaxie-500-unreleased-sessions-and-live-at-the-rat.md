@@ -35,9 +35,9 @@ Most of this has made it out there over time - some on this website - here's a t
     - On The Sofa _on the [extended demo tape](/2011/09/23/audio-friday-recycling-galaxie-500-the-extended-demo-tape/)_
     - Open Road _on the [extended demo tape](/2011/09/23/audio-friday-recycling-galaxie-500-the-extended-demo-tape/)_
  - _Dec 87_
-    - Shout You Down _I don't think I ever shared this so ... see below_
+    - Shout You Down _I don't think I ever shared this so... see below_
     - Can't Believe It's Me _released in the 1996 box set_
-    - See Thru Glasses _I don't think I ever shared this so ... see below_
+    - See Thru Glasses _I don't think I ever shared this so... see below_
 
 **B**
  - Live 19 12 87  

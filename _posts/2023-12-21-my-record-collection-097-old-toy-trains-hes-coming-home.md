@@ -25,13 +25,13 @@ This lovely Dean & Britta Christmas single was put out in 2007 on Chimney Rocks!
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-britta-sonic-old-toy-trains.jpg" "Dean & Britta - Old Toy Trains / He's Coming Home" %}
 
-It came as a limited run of 500, some in blue vinyl (not sure how many), and I think Scott sent me this blue vinyl copy later (I had got a black vinyl one on release). It had a beautiful two colour silk screned sleeve on lovely heavy card - and a polythene bag that was also screen printed with snowflakes ... that have been, I guess appropriately, falling (off) over time.
+It came as a limited run of 500, some in blue vinyl (not sure how many), and I think Scott sent me this blue vinyl copy later (I had got a black vinyl one on release). It had a beautiful two colour silk screned sleeve on lovely heavy card - and a polythene bag that was also screen printed with snowflakes... that have been, I guess appropriately, falling (off) over time.
 
 <!--more-->
 
 Both tracks are gems, Dean & Britta had released Old Toy Trains as a free download a few years earlier, but this was the first outing of their cover of He's Coming Home ([originally by The Wailers](https://www.youtube.com/watch?v=8sbqcaRx93w) (not Bob Marley's ones) and called She's Coming Home).
 
-_She's Coming Home_ has one of my absolute fave little bits of Dean & Britta's recorded output -- there it is, at about 1'38" in ... just before the short solo Britta shouts out "Go Dean!" - lovely. It also has lots of sleigh-bell action! And among Britta's many credits is _midi banjo_!
+_She's Coming Home_ has one of my absolute fave little bits of Dean & Britta's recorded output -- there it is, at about 1'38" in... just before the short solo Britta shouts out "Go Dean!" - lovely. It also has lots of sleigh-bell action! And among Britta's many credits is _midi banjo_!
 
 The whole single is a beaut! I love Christmas, and with bizarrely few exceptions, love Christmas singles and this one is right near (or at) the very top of my faves, up there with Macca and The Wombles!
 

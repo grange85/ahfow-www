@@ -24,7 +24,7 @@ tags:
 <p>For a few years now the AV Club have been inviting bands to pick a track from an ever-dwindling list of options and Luna had their go recently and picked Motorhead's Killed by Death (over an Erasure track)</p>
 <blockquote>
 Dean: But the Sean said "Let's do the Motorhead song"
-Sean: Because, I dunno, it'll be more fun to do a more ... rocking ... song
+Sean: Because, I dunno, it'll be more fun to do a more... rocking... song
 <footer><a href="http://www.avclub.com/video/luna-covers-motorheads-killed-death-243640">AV Club: Luna covers Motörhead’s "Killed By Death"</a></footer>
 </blockquote>
 

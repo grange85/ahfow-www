@@ -26,7 +26,7 @@ I have often stated how much I despise a jewel case and the Acuarela version of 
 
 <!--more-->
 
-I bought the CD on Discogs in 2017 for &euro;7.95 + postage ... just to fill out the collection. The seller described the sleeve as "near mint" but I'd suggest that the plastic tray falling off and the water stain on the back probably meant it wasn't! But like I said, the first was a bonus so ... swings and roundabouts.
+I bought the CD on Discogs in 2017 for &euro;7.95 + postage... just to fill out the collection. The seller described the sleeve as "near mint" but I'd suggest that the plastic tray falling off and the water stain on the back probably meant it wasn't! But like I said, the first was a bonus so... swings and roundabouts.
 
 Beautiful Close Double is so beautiful, this would have been Damon & Naomi's _hit_ if they had hits!
 
@@ -34,6 +34,6 @@ Beautiful Close Double is so beautiful, this would have been Damon & Naomi's _hi
  - *Artist:* Damon & Naomi
  - *Title:* The Earth is Blue
  - *Notes:* Bonus CD single with Beautiful Close Double and A Song For You
- - *Packaging:* Digipack ... now plastic free!
+ - *Packaging:* Digipack... now plastic free!
  - *Format:* CD/CDS
  - [Buy 'The Earth is Blue' on Bandcamp](https://damonandnaomi.bandcamp.com/album/the-earth-is-blue)

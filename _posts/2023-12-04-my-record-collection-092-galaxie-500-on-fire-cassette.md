@@ -21,7 +21,7 @@ I never really loved the cassette as a format, it was conveniently portable (and
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-on-fire-cassette-1.jpg" "Galaxie 500 - On Fire (cassette)" %}
 
-In its previous home this cassette clearly lived in a bright room since the spine has faded to a pale mint green rather than the bright yellowy-green that it should be, in addition the label on the cassette has creases ... maybe _this_ is why I picked it up for pennies!? 
+In its previous home this cassette clearly lived in a bright room since the spine has faded to a pale mint green rather than the bright yellowy-green that it should be, in addition the label on the cassette has creases... maybe _this_ is why I picked it up for pennies!? 
 
 <!--more-->
 

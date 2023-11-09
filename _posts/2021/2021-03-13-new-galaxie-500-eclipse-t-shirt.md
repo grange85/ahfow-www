@@ -23,7 +23,7 @@ Damon & Naomi's [online store](https://www.20-20-20.com/store) has a new _topaz_
 
 <!-- more -->
 
-Now... I wear my band T-shirts mostly in black, and occasionally in white - but I make exceptions for Galaxie 500 ones - although I resisted until Naomi encouraged me to try an orange one ... and then an _antique gold_ one (which I've become very attached to)...
+Now... I wear my band T-shirts mostly in black, and occasionally in white - but I make exceptions for Galaxie 500 ones - although I resisted until Naomi encouraged me to try an orange one... and then an _antique gold_ one (which I've become very attached to)...
 
 {% ahfowimage "https://lh3.googleusercontent.com/Gds4GudCqT44R15KiCjEyXbyM90axuaGRmDXMqL3lcKp-ZFUHGJaHAUtzvafQHn9j3Cegs_mRUHW7mJFVzyGu04GPq-XHOStnu3pL3gocI5tRa-zZhBvPVH4rwgEpcv1nW4eDP03Mx4=w800" "Washing line" %}
 

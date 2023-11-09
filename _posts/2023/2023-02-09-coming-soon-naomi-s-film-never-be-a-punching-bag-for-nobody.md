@@ -27,6 +27,6 @@ Never Be a Punching Bag for Nobody (trailer, dir: Naomi Yang)<i class="fab fa-yo
     </a>
 </figure>
 
-There is now a [page on Naomivision](https://www.naomivision.com/never-be-a-punching-bag-for-nobody) with more information about the film and informing us that it will be _Coming soon in 2023_ - so ... watch the trailer and sit tight for more details.
+There is now a [page on Naomivision](https://www.naomivision.com/never-be-a-punching-bag-for-nobody) with more information about the film and informing us that it will be _Coming soon in 2023_ - so... watch the trailer and sit tight for more details.
 
 > The film weaves together three stories: colorful boxing coach and ex-drill sergeant Sal Bartolo Jr., son of a renowned 1940s East Boston boxing champ; Yang herself, learning boxing from trainer Bartolo and reexamining some of her own family’s disturbing history; and schoolteacher Mary Ellen Welch, who in the 1960s mobilized a group of neighborhood women against encroachment from Logan airport, fighting back against an indifferent city government.

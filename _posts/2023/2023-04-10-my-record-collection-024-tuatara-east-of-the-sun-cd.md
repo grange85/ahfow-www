@@ -24,7 +24,7 @@ When I first started the AHFoW discography I created some criteria about what sh
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/tuatara-east-of-the-sun.jpg" "Tuatara - East of the Sun" %}
 
-Tuatara seem to be a band that the world struggles to describe - Wikipedia call them an _instrumental music group_ which was I guess pretty much true up until this album. East of the Sun (and it's partner _West of the Moon_) are most definitley not _instrumental_ - inlcuding lots of guest vocalists of which Dean is one. I think the singers probably make Tuatara sound a little more ... conventional ... than those earlier albums. 
+Tuatara seem to be a band that the world struggles to describe - Wikipedia call them an _instrumental music group_ which was I guess pretty much true up until this album. East of the Sun (and it's partner _West of the Moon_) are most definitley not _instrumental_ - inlcuding lots of guest vocalists of which Dean is one. I think the singers probably make Tuatara sound a little more... conventional... than those earlier albums. 
 
 Other words that turn up in Tuatara reviews are _jazz_ and _fusion_ and _Americana_ and _soft rock_ and _soundtrack_ - but I suspect that just means that reviewers don't know where to file them.
 

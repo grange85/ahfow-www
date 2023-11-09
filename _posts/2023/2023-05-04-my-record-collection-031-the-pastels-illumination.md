@@ -21,10 +21,10 @@ Illumination was the second album by The Pastels that Dean guested on - the slee
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/my-record-collection-pastels-illumination.jpg" "The Pastels - Illumination" %}
 
-Illumination is a fantastic album that I don't listen to enough ... maybe my favourie album by The Pastels (and not just because Dean's on it).
+Illumination is a fantastic album that I don't listen to enough... maybe my favourie album by The Pastels (and not just because Dean's on it).
 
 
-There's a cool interview with some of the main players from around the [20th anniversary of the album by French magazine Soul Kitchen](https://www.soul-kitchen.fr/75487-1997-2017-illumination-toile-de-maitre-pastels) (it is available in both French and English). I've pinched Dean's bit ...
+There's a cool interview with some of the main players from around the [20th anniversary of the album by French magazine Soul Kitchen](https://www.soul-kitchen.fr/75487-1997-2017-illumination-toile-de-maitre-pastels) (it is available in both French and English). I've pinched Dean's bit...
 
 > **SK:** How did you meet The Pastels?  
 > **Dean:** We met backstage at a Galaxie 500 show in Glasgow, must have been 1990, I think it was at the College of Printing and Building.  

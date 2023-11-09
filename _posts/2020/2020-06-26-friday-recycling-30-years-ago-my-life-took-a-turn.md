@@ -17,13 +17,13 @@ tags:
  - friday recycling
 ---
 
-_This is recycled from my [Everything's Swriling last year](https://www.grange85.co.uk/swirling/2019/06/27/29-years-ago-today-my-life-took-a-turn/) - but 30 years seems a bit more significant than 29 so I'm reposting here ... it's a bit personal but ... this is my blog_
+_This is recycled from my [Everything's Swriling last year](https://www.grange85.co.uk/swirling/2019/06/27/29-years-ago-today-my-life-took-a-turn/) - but 30 years seems a bit more significant than 29 so I'm reposting here... it's a bit personal but... this is my blog_
 
 So... at, I'd guess about 22:30 on 27th June 1990 this happened (38 minutes and 22 seconds in):
 
 {% ahfowvideo "ozeRVpP4T0Q?start=2302" "Galaxie 500 - Subterania - 1990-06-27" "https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-06-27/1990-06-27_galaxie_500-naomi-vidcap.jpg" %}
 
-... this pretty much changed the course of my life ... as follows:
+... this pretty much changed the course of my life... as follows:
 
 **1990**: I was working in the film stores at the BBC - not a great job but the pay wasn't too bad (with some overtime) and enabled me to get out and see gigs. I'd already been there six years (apart from a 18 months as a film projectionist) so it was looking like I was stuck there.
 
@@ -31,7 +31,7 @@ So... at, I'd guess about 22:30 on 27th June 1990 this happened (38 minutes and 
 
 **1994**: I'd been messing around with the internet from pretty early on and towards the end of 1994 I acquired some free web space. But what to do? So I taught myself how to code for the web and built a Galaxie 500 web page, because I still remembered that feeling from four years before. I was now a webmaster!
 
-I'd now been working in film stores ten years ... it was definitely looking like I was stuck there.
+I'd now been working in film stores ten years... it was definitely looking like I was stuck there.
 
 **1995**: I set up a mailing list for Galaxie 500 (and Luna and Damon & Naomi) fans.
 
@@ -40,7 +40,7 @@ I'd now been working in film stores ten years ... it was definitely looking like
 <figure><img src="https://www.grange85.co.uk/swirling/images/research-gateway.jpg" class="img-fluid" /><figcaption>Research Gateway in 2005</figcaption></figure>
 Research Central changed over the years, it became research.gateway, and then Research Gateway - the job changed, the site changed - as people learned the web they needed less help and more tools - we gave them that.
 
-**200?**: Actually I'm not sure exactly when, the powers that be decided that my skills (**_because of Galaxie 500_**) would be put to better use not as part of the archives but as part of the wider BBC intranet. Lots of people thought this was a good thing - but ... taking me away from archives wasn't good at all. Unfortunately over the following few years a variety of managers came and went and none of them had a clue what to do with us.
+**200?**: Actually I'm not sure exactly when, the powers that be decided that my skills (**_because of Galaxie 500_**) would be put to better use not as part of the archives but as part of the wider BBC intranet. Lots of people thought this was a good thing - but... taking me away from archives wasn't good at all. Unfortunately over the following few years a variety of managers came and went and none of them had a clue what to do with us.
 
 **2013**: After too many years of doing nothing and not getting anywhere I happened upon an advert for a job as the Webmaster at [The National Archives](https://www.nationalarchives.gov.uk). I applied for, and got, the job **_because of, you know... Galaxie 500_**. I was back in an archive. Home.
 

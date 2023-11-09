@@ -18,7 +18,7 @@ Anyone who read the boring bit of my last post (survey) would have noticed that 
 <p> The web site came into being when someone posted on an Amiga usenet group that there was a company dishing out free web-space for non-commercial use. I signed up and, not able to think of anything better I threw together a page about Galaxie 500, Luna and Damon & Naomi - it was years later before it got a name.<br />
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/misc/a-head-full-of-wishes-1997.jpg" width="640" height="261" class /><figcaption class="caption-text"> Sadly, neither I nor the Wayback Machine has anything from earlier than 1997</figcaption></figure>
 <h3>2: Not always roses</h3>
-<p> Now I thought that a mailing list where we all loved the same music would be a perfect ... but sometimes it went mental - and I was somehow supposed to referee these childish spats - here's one from 1999 - I'll spare the names...</p>
+<p> Now I thought that a mailing list where we all loved the same music would be a perfect... but sometimes it went mental - and I was somehow supposed to referee these childish spats - here's one from 1999 - I'll spare the names...</p>
 <blockquote><p>You are so out of line that I'm glad we are doing this by email, because If I was anywhere near you, I'd knock your fucking teeth out, that is the two you have left, you moron hillbilly.</p></blockquote>
 <blockquote><p>um...i think there's been a mix up. this is the galaxie list box, you guys must want the metallica one</p></blockquote>
 <blockquote><p>I haven't enjoyed being a list member today - I'm off to bed, things may look brighter in the morning.</p></blockquote>

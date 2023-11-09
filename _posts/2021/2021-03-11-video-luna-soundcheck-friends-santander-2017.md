@@ -16,7 +16,7 @@ tags:
  - soundcheck
 ---
 
-Just came across another video from Luna's soundcheck before their show in Santander in 2017 - I think I didn't share this because of the rather careless camerawork - but ... it's nice to hear a live Friends...
+Just came across another video from Luna's soundcheck before their show in Santander in 2017 - I think I didn't share this because of the rather careless camerawork - but... it's nice to hear a live Friends...
 
 {% ahfowvideo "rh0IMdohRy4" "Luna soundchecking in Santander, October 2017" %}
 

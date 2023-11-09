@@ -27,7 +27,7 @@ The album was plugged as Dean's first solo album&dagger; but Dean somewhat playe
 Dean Wareham - Time, 6th March 2014
 {: .blockquote-footer .text-end}
 
-It is such a good album that seems to have slipped a lot of folk by and doesn't seem to get the recognition it deserves. I'd add also that the tour supporting the album was one of my favourites - I saw three consecutive nights of the tour in Brighton, Leamington Spa, and London and each was a treat in different ways. Dean's band for the tour was Britta, Roger Brogan, and Raymond Richards and as a unit were both beatifully loose, and wonderfully tight at the same time. This was also the band that played Indietracks that year ... but that was closer to a _plays Galaxie 500 show_!
+It is such a good album that seems to have slipped a lot of folk by and doesn't seem to get the recognition it deserves. I'd add also that the tour supporting the album was one of my favourites - I saw three consecutive nights of the tour in Brighton, Leamington Spa, and London and each was a treat in different ways. Dean's band for the tour was Britta, Roger Brogan, and Raymond Richards and as a unit were both beatifully loose, and wonderfully tight at the same time. This was also the band that played Indietracks that year... but that was closer to a _plays Galaxie 500 show_!
 
  - *Catalogue Number:* AHFOW 12/0023
  - *Artist:* Dean Wareham 

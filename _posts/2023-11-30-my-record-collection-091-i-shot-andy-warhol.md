@@ -30,9 +30,9 @@ The film is OK, not great - although Lili Taylor _is_ great and that, and the mu
 
 It's pretty much a one-woman show and Lili Taylor's performance is exceptional and convincing.
 
-The music is also pretty good, although ... no Velvet Underground - apparently Lou was concerned that it might glorify Valerie so wouldn't give permission ... he was wrong, but maybe the VU would have been a bit too _on the money_ and therefore be distracting. 
+The music is also pretty good, although... no Velvet Underground - apparently Lou was concerned that it might glorify Valerie so wouldn't give permission... he was wrong, but maybe the VU would have been a bit too _on the money_ and therefore be distracting. 
 
-No VU however does mean we get the bonus of Yo La Tengo being a VU type band, and some other gems snuck into the soundtrack - some of which appear on this album - and some that should ... looking at you [Walk On By](https://www.youtube.com/watch?v=vsGsCvJWEo8) - and oddly the Love track on the album isn't the Love track in the film ... I guess rights!?
+No VU however does mean we get the bonus of Yo La Tengo being a VU type band, and some other gems snuck into the soundtrack - some of which appear on this album - and some that should... looking at you [Walk On By](https://www.youtube.com/watch?v=vsGsCvJWEo8) - and oddly the Love track on the album isn't the Love track in the film... I guess rights!?
 
 Luna's Season of the Witch was released as a single (more on that later) and also had a video which had clips from the film, combined with a Luna performamce of the song, and Dean snogging a handsome young woman.
 

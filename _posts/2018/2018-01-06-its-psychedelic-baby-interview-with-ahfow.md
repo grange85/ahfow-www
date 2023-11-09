@@ -1,7 +1,7 @@
 ---
 layout: post
 draft: false
-title: It's Psychedelic Baby interview with ... well, me!
+title: It's Psychedelic Baby interview with... well, me!
 author:
   display_name: Andy
   login: admin

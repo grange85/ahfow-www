@@ -43,7 +43,7 @@ Now, not many shows stick in my head as clearly as this one - this is what I rem
   } %}
 
 
-[Here's my recording of the show](http://www.mediafire.com/file/bd3tpmsa35d6u6p/luna-1992-02-27_-the-underworld-london-uk-andy-16bit.zip/file) - far from perfect but ... mine all the same. Also included is the Winterset track I recorded, the one with Gina Morris guesting.
+[Here's my recording of the show](http://www.mediafire.com/file/bd3tpmsa35d6u6p/luna-1992-02-27_-the-underworld-london-uk-andy-16bit.zip/file) - far from perfect but... mine all the same. Also included is the Winterset track I recorded, the one with Gina Morris guesting.
 
 And [here's Joe's recording](http://www.mediafire.com/file/jtwwjsudgcqslai/luna-1992-02-27_-the-underworld-london-uk-joe-24bit.zip/file), far better, and with Joe yelling, unsuccessfully for Tugboat in the encore.
 

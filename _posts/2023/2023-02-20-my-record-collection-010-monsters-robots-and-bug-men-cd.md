@@ -22,7 +22,7 @@ I have a feeling that I _did_ pick Monsters, Robots and Bug Men up in the Ealing
 
 This double CD compilation is subtitled _a user's guide to the rock hinterland_ and as well as Magic Hour (which is why it's in this series) it has tracks by the likes of Bardo Pond, Fuxa, Windy & Carl and Pram - so I guess the subtitle isn't too far wrong. The closest it gets to mainstream might be Mercury Rev's appearance but it was pre-Deserter's Songs so still not _that_ mainstream.
 
-The Magic Hour track is Chance Was from their second album _Will They Turn You On or Will They Turn On You_ - an album title annoyingly missing a question mark - expect me to whine about that again when the album turns up - which it will do ... twice!
+The Magic Hour track is Chance Was from their second album _Will They Turn You On or Will They Turn On You_ - an album title annoyingly missing a question mark - expect me to whine about that again when the album turns up - which it will do... twice!
 
  - *Catalogue Number:* AHFOW 10/098
  - *Artist:* Various artists

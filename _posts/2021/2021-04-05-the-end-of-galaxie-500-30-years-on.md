@@ -27,7 +27,7 @@ tags:
 
 Thirty years ago today Galaxie 500 played their last show, three days later the band was no more. 
 
-It's hard to write this  because three people I love who were once friends aren't friends any more - that's sad. Of course a band splitting up is bad, but a friendship disolving is so much sadder. Maybe I should have just let this anniversary go by unmentioned, after all the stories around the split have been out there a while now and kicking up the dust again won't change anything, but ... this is a Galxie 500 web site and it's hard to let this week pass without thinking back to 30 years ago.
+It's hard to write this  because three people I love who were once friends aren't friends any more - that's sad. Of course a band splitting up is bad, but a friendship disolving is so much sadder. Maybe I should have just let this anniversary go by unmentioned, after all the stories around the split have been out there a while now and kicking up the dust again won't change anything, but... this is a Galxie 500 web site and it's hard to let this week pass without thinking back to 30 years ago.
 
 This is just a collection of snippets related to those last few days of Galaxie 500, taken from various publications and interviews - it's not comprehensive and it's here just as a record - without any comment or editorialising. Nothing I say can change the fact that 30 years ago a band and a friendship died. 
 

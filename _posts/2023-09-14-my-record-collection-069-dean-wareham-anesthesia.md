@@ -23,7 +23,7 @@ This is the copy of Anesthesia I bought in early 1992, although I've [already co
 
 This was certainly bought before I [saw Luna at The Underworld]() on their first visit to London in 1992 because I remember Justin saying "thanks for coming out, without having a record" during the gig... and thinking... "well... I sort of _do_ have a record".
 
-I always get a bit confused by the sleeve of this ... I can't see the woman's face when I'm holding the record, only when I see it from across the room, or in photographs. A ghost. I'm not sure she's there until I move away!
+I always get a bit confused by the sleeve of this... I can't see the woman's face when I'm holding the record, only when I see it from across the room, or in photographs. A ghost. I'm not sure she's there until I move away!
 
 <!--more-->
 

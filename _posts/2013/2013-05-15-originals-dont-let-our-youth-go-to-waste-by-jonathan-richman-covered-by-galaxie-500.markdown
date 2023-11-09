@@ -20,7 +20,7 @@ tags:
 <p>And Jojo makes his third appearance in this series (and he's not done yet!) with a song that Galaxie 500 took form a bleak, 90 second song, sung unaccompanied, and made it their own stretching it out to almost seven minutes.<br />
 <a id="more"></a><a id="more-4135"></a><br />
 Here's The Modern Lovers recorded in the Kim Fowley sessions (probably not from 1972) - Jonathan was not happy with this version</p>
-<blockquote><p>I wrote it when I was 19 like everything else on this record ... but would close our shows with it sometimes and I'd cry in the middle of it.  I'd start into it as the last chord of "Roadrunner" was still ringing.  But this heavy-handed artsy-sounding rendition only makes me cry from embarrassment, not from feeling.  I don't know why I did it this contrived. </p></blockquote>
+<blockquote><p>I wrote it when I was 19 like everything else on this record... but would close our shows with it sometimes and I'd cry in the middle of it.  I'd start into it as the last chord of "Roadrunner" was still ringing.  But this heavy-handed artsy-sounding rendition only makes me cry from embarrassment, not from feeling.  I don't know why I did it this contrived. </p></blockquote>
 {% ahfowvideo "US0uQfm7g9I" "" %}
 <p>There are also a couple of live versions that I suspect Jojo is more happy with, here (for Spotify users) is the heartbreaking rendition that closes the live at Longbranch set.<br />
 <iframe class="aligncenter" src="https://embed.spotify.com/?uri=spotify:track:1wZVdvJuR5pLSyPyCXl6dq" width="300" height="380" frameborder="0" allowtransparency="true"></iframe></p>

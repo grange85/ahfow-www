@@ -19,7 +19,7 @@ tags:
 - bob dylan
 date: 2023-05-29 00:00 +0000
 ---
-In 1995 Beggars Banquet released _Hedgehog_ and _23 Minutes in Brussels_ as a single and featured the Ted Croner photo of a taxi that had also appeared on the inner sleeve/booklet of Luna's Penthouse. In 2006 the same photo adorned the front cover of Bob Dylan's _Modern Times_ although the design on Luna's release is ... classier.
+In 1995 Beggars Banquet released _Hedgehog_ and _23 Minutes in Brussels_ as a single and featured the Ted Croner photo of a taxi that had also appeared on the inner sleeve/booklet of Luna's Penthouse. In 2006 the same photo adorned the front cover of Bob Dylan's _Modern Times_ although the design on Luna's release is... classier.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-hedgehog-vs-dylan-moderntimes.jpg" "Luna vs Dylan" %}
 

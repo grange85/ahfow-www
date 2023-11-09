@@ -22,7 +22,7 @@ So, most of the posts in this series have been selected randomly, the exceptions
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-time-egg-nog.jpg" "Luna - Time / Egg Nog (red vinyl)" %}
 
-So ... is Luna's Time / Egg Nog single a Christmas single?
+So... is Luna's Time / Egg Nog single a Christmas single?
 
 <!--more-->
 
@@ -34,7 +34,7 @@ So ... is Luna's Time / Egg Nog single a Christmas single?
  - PRO: _Egg Nog_ makes abudant use of sleigh bells - the most Christmassy instrument!
  - CON: _Egg Nog_ is an instrumental so no Christmassy lyrics about bearded gents or sleigh rides or having a simply wonderful time!
  - CON: Luna have [played Egg Nog live](/database/tracks/egg-nog/#live) all year round.
- - PRO: The label has the words "Merry Christmas from Luna&#178;" written on it ... on both sides!?
+ - PRO: The label has the words "Merry Christmas from Luna&#178;" written on it... on both sides!?
  - CON: _Egg Nog_ is the b-side.
 
 Dean once described _Egg Nog_ as "one of the best things we ever put to tape", see what you think:
@@ -46,7 +46,7 @@ Dean once described _Egg Nog_ as "one of the best things we ever put to tape", s
 "sourcecap": "Time / Egg Nog (Elektra, 1992)"
 } %}
 
-And here's Luna playing it ... in September ... without sleigh bells!
+And here's Luna playing it... in September... without sleigh bells!
 
 {% ahfowaudio {
 "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/1999-09-06-luna-egg-nog-manchester.mp3",

@@ -23,6 +23,6 @@ categories:
 
 <figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/jojomelons/21864076863/in/photolist-zj47jt-zRixad-so6NP6-rrhRnt-2ZBJVM-snWmQ7-rrhR1X-so4yix-so6P5M-snWmFj-rrhRvV-rrhR5e-7a8gQ3-rY8wus-rY8tro-sfxX8y-4TkFeE-s6vovy-3gS1Sw-E3vGV-C1NDy-4TgrSV-wJ51sj-wJ51K3-wKEHPu-wKEHrW-wtLHwf-wtU8XM-wtU8FK-wtLHES-wJ528C-vPnmBQ-wKEGX9-wLozqK-vPvTVp-wJ51N9-wtLQiy-9mfoLy-C1NLt-E3vDF-C1NE6-9mfoME-wtU8Ci-wtLHko-wLozAe-wtLGQA-wLTBwg-7kwH8h-2ZBCdZ-7ksNkR" title="Luna"><img src="https://farm6.staticflickr.com/5712/21864076863_39e75348be_b.jpg" width="1024" height="683" alt="Luna"></a><figcaption>Luna (Photo: <a href="https://flic.kr/p/zj47jt">Wm. Mag. on Flickr</a>)</figcaption></figure>
 
-<p>Have a great day Sean ... and see you in October!</p>
+<p>Have a great day Sean... and see you in October!</p>
 
 

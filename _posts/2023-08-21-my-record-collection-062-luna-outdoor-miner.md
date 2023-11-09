@@ -23,7 +23,7 @@ I find it odd that I can sometimes remember so clearly buying a record. I very d
 
 Most of my time working at the BBC was spent either in the library in Brentford, or in one of their White City/Shpeherds Bush buildings, but occasionally I would find myself in Broadcasting House, or one of the nearby office blocks. Sometimes for work, and sometimes on a training course. I can't remember what the course was but it was during the lunch break on a training course that I belted down to Selectadisc on Berwick Street and bought this single. I'm not sure if I knew that's what I was going to buy but I do remember holding both the 7" and the CD and trying to decide which one to buy. The fact that the CD had no extra tracks tipped me (thankfully) onto the side of the vinyl.
 
-I say 'thankfully' although buying the 7" meant that I had the single artwork in a larger format ... and a gatefold sleeve, and let's face it, the "art" on the Outdoor Miner sleeve is horrendous. Clearly, however, the designer thought that a photograph of a cat nailed to a picture frame was amazing - so amazing in fact, that they decided to use it on the sleeve THREE TIMES!!
+I say 'thankfully' although buying the 7" meant that I had the single artwork in a larger format... and a gatefold sleeve, and let's face it, the "art" on the Outdoor Miner sleeve is horrendous. Clearly, however, the designer thought that a photograph of a cat nailed to a picture frame was amazing - so amazing in fact, that they decided to use it on the sleeve THREE TIMES!!
 
 {% ahfowimage "https://media.fullofwishes.co.uk/images/misc/luna-outdoorminer-500.jpg" "Overuse of the Outdoor Miner cover image!" %}
 

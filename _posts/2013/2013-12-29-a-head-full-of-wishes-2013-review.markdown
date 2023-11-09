@@ -54,7 +54,7 @@ Alt-rock superstar <a href="/2013/08/04/beck-covers-galaxie-500/" title="Beck co
 </p>
 {% ahfowvideo "evVnT-4hs6U" "" %}
 <p>Blood on the Knobs broadcast a <a href="/2013/08/09/dean-wareham-birthday-mix-and-nice-long-chatty-interview/"><em>Dean Wareham</em> special</a> with a lengthy interview and lots of great music</p>
-<p>Sonic Cathedral released <a href="/2013/08/27/new-dean-wareham-single-released-and-available-now/"><em>Dean Wareham</em>'s first solo record since 1992's Anesthesia</a> - Love Is Colder Than Death came as a lovely slab of translucent whitre plastic in a gorgeous card sleeve ... and was, of course, brilliant!<br />
+<p>Sonic Cathedral released <a href="/2013/08/27/new-dean-wareham-single-released-and-available-now/"><em>Dean Wareham</em>'s first solo record since 1992's Anesthesia</a> - Love Is Colder Than Death came as a lovely slab of translucent whitre plastic in a gorgeous card sleeve... and was, of course, brilliant!<br />
 </p>
 {% ahfowvideo "LC-4aPVH4cQ" "" %}
 <p><strong>September 2013</strong><br />

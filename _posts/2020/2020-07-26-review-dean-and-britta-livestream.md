@@ -34,7 +34,7 @@ The show finished with an _encore_ of a cover of Donovan's Sadness and then a pe
 
 <div class="col-md-6 float-right"><a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/50154544056/in/album-72157715243203528/" title="B-a-a-a-a-b-y"><img src="https://live.staticflickr.com/65535/50154544056_abd8eaa781_z.jpg" width="571" height="606" alt="B-a-a-a-a-b-y"></a></div>
 
-Definitely the best of the three shows so far - and an absolute joy to see them live. The Veeps platform has a _chat_ that was quite active during the show and was nice to have some level of interaction with other fans ... lovely to _see_ so many familiar _faces_ in there.
+Definitely the best of the three shows so far - and an absolute joy to see them live. The Veeps platform has a _chat_ that was quite active during the show and was nice to have some level of interaction with other fans... lovely to _see_ so many familiar _faces_ in there.
 
 You can still buy and watch the show on Veeps for a w[eek or so - so head over and check it out](https://deanandbritta.veeps.com/).
 
@@ -44,7 +44,7 @@ The one thing that was really missed was band/audience and inter-audience feedba
 - audience interaction with each other, while better, was also hard. Chat went past too quickly at times - the Veeps platform didn't allow @ comments or private comments or for the audience to break into smaller groups (not sure if this would work at all).
 - the inability to actually hear an audience made things feel a little off, it's almost as if you want a second stream so the audience and the band could see and hear each other - again not sure how/if this would work but I missed that probably more than anything else - I'm not a social person but I do miss being among fans!
 
-Dean suggested that they may release audio of the shows at some point ... so watch this space. He also mentioned [the series of lathe cut singles that would be released soon](https://www.instagram.com/p/CC63d3CjBgM/) - not too much additional information, except that their cover of Donovan's Sadness would be included. Again... watch this space for more details.
+Dean suggested that they may release audio of the shows at some point... so watch this space. He also mentioned [the series of lathe cut singles that would be released soon](https://www.instagram.com/p/CC63d3CjBgM/) - not too much additional information, except that their cover of Donovan's Sadness would be included. Again... watch this space for more details.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/50154544111/in/album-72157715243203528/" title="Dean &amp; Britta"><img src="https://live.staticflickr.com/65535/50154544111_5d87318a37_c.jpg" width="800" height="445" alt="Dean &amp; Britta"></a>
 

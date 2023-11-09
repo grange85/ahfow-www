@@ -26,7 +26,7 @@ The single was:
  - recorded in 1995 - as was Luna's Penthouse
  - engineered by Mario Salvati - as was Luna's Penthouse
  - recorded at Sorcerer Sound in NYC - as was Luna's Penthouse
- - and, obv, involved Dean Wareham ... as did Luna's Penthouse
+ - and, obv, involved Dean Wareham... as did Luna's Penthouse
 
 The single is a little less polished than the album, Yellow Race Car is a cool bit of noisy mid-90s guitar rock. The b-side is a gentler, piano-driven affair. Both tracks are well worth a listen and since I can't find this online to link to, here are recordings from my single.
 

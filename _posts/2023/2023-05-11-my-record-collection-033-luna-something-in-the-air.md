@@ -18,7 +18,7 @@ tags:
 - sonic cathedral
 date: 2023-05-11 00:00 +0000
 ---
-Luna's cover of Thunderclap Newman's _Something in the Air_ was released as part of lovely London indie _Sonic Cathedral's_ 2019 singles club. Luna's single was released in June ... but this test pressing was sent to me by Nat of Sonic Cathedral with April's single.
+Luna's cover of Thunderclap Newman's _Something in the Air_ was released as part of lovely London indie _Sonic Cathedral's_ 2019 singles club. Luna's single was released in June... but this test pressing was sent to me by Nat of Sonic Cathedral with April's single.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/my-record-collection-luna-something-test-pressing.jpg" "Luna - Something in the Air (test pressing)" %}
 
