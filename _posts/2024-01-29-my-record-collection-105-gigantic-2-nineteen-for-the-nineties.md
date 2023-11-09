@@ -44,7 +44,7 @@ And of course...
 "sourcecap": "Gigantic! 2 - Nineteen for the Nineties"
 } %}
 
-... and others, less impressive, but most not much ... less... er! Just a couple of turds (See See Rider and Pussy Galore).
+... and others, less impressive, but most not much... less... er! Just a couple of turds (See See Rider and Pussy Galore).
 
 The myth of the longevity and indestrictibiliy of the CD format took many hits over the years - one of those was [CD bronzing](https://en.wikipedia.org/wiki/Compact_disc_bronzing) where the discs would discolour and eventually become unplayable. This mostly affected discs manufactured by PDO in Blackburn. The Melody Maker CD of Gigantic 2 was affected by this fault.
 
@@ -77,7 +77,7 @@ According to the Wikipedia article the company changed hands shortly after and s
 
 I'm not sure how many other folk followed the instructions to get a replacement CD but I'd guess not too many - so I probably have one of the very few CD copies of Gigantic! 2 that is [still silver](https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-mm-gigantic-2-silver.jpg), otherwise [this is what it would have looked like](https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-mm-gigantic-2-bronzed.jpg). 
 
-Unfortunately ... it is sadly more unplayable than all those bronzed discs since it has a crack ... no idea how that happened, but it has rendered it useless. I have a CDR not entirely sure when I made this - I guess either before it cracked (but why!?) or before I sent it away (but how!? Not sure I was ripping CDs as early as 1996). But thankfully, I do have a copy.
+Unfortunately... it is sadly more unplayable than all those bronzed discs since it has a crack... no idea how that happened, but it has rendered it useless. I have a CDR not entirely sure when I made this - I guess either before it cracked (but why!?) or before I sent it away (but how!? Not sure I was ripping CDs as early as 1996). But thankfully, I do have a copy.
 
  - *Catalogue Number:*  AHFOW 10/014
  - *Artist:* Various Artists

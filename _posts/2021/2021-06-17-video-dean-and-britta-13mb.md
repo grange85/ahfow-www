@@ -19,7 +19,7 @@ tags:
 ---
 Back in July 2010, while they were touring their 13 Most Beautiful show, Dean & Britta popped into WNYC's Green Space for an interview and to play a couple of songs.
 
-I grabbed this at the time but it's pretty low-res - but ... maybe just because it was 11 years ago!
+I grabbed this at the time but it's pretty low-res - but... maybe just because it was 11 years ago!
 
 They open with Dylan's I'll Keep It With Mine with Nico looking icy cool. 
 

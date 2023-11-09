@@ -50,8 +50,8 @@ Or you can pay [$12 to buy them collected into one release](https://americanlaun
 
 I have to admit that a triple album is an imposing thing to listen to in one sitting, and I probably hadn't done it until it came to writing this blog post... I've been trying to think of the other triple LPs I have, and whether I ever listen to them in one go. A very quick/lazy scan of my shelves found...
 
-- 2 x Cavern of Anti Matter triple LPs - probably listened to them both ... once.
-- [Laurie Spiegel - The Expanding Universe](https://lauriespiegel.bandcamp.com/album/the-expanding-universe) triple LP - actually have listened to this quite a lot ... although more often I suspect the Bandcamp download!
+- 2 x Cavern of Anti Matter triple LPs - probably listened to them both... once.
+- [Laurie Spiegel - The Expanding Universe](https://lauriespiegel.bandcamp.com/album/the-expanding-universe) triple LP - actually have listened to this quite a lot... although more often I suspect the Bandcamp download!
 - Neil Young - Decade - I'd guess I listened to this quite a lot way back - but not so much recently.
 
 _there are definitely more, but suspect they don't get listened to very often!_ 

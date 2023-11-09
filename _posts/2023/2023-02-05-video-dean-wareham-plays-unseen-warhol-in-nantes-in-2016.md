@@ -17,7 +17,7 @@ tags:
  - andy warhol
  - tom verlaine
 ---
-Some video clips of Dean Wareham playing at the "Exposed, songs for unseen Warhol films" show in Nantes in 2016 have just turned up on YouTube. They mostly focus on the films rather than the band - but ... you get to see the films and the sound is pretty exceptional:
+Some video clips of Dean Wareham playing at the "Exposed, songs for unseen Warhol films" show in Nantes in 2016 have just turned up on YouTube. They mostly focus on the films rather than the band - but... you get to see the films and the sound is pretty exceptional:
 
 {% ahfowvideo "oGV9rkNSRqQ" "Paraphenalia (1966) with International Velvet (Susan Bottomly)" %}
 

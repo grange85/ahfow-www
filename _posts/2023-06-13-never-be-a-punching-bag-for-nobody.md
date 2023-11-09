@@ -27,7 +27,7 @@ Naomi Yang's film 'Never Be a Punching Bag for Nobody' is getting a [streaming p
 
 {% ahfowimage "https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/nbapbfn/naomi-yang-nbapbfn-still-04.jpg" "Never Be a Punching Bag for Nobody still" %}
 
-I was lucky enough to get a preview of the film, ahead of its screening as part of the Boston Independent Film Festival back in May and I've been trying to write about it since but somehow my words couldn't really get across just how moving I found it - but ... here are my words anyway!
+I was lucky enough to get a preview of the film, ahead of its screening as part of the Boston Independent Film Festival back in May and I've been trying to write about it since but somehow my words couldn't really get across just how moving I found it - but... here are my words anyway!
 
 The film describes Naomi's unexpected journey into boxing at a gym near Logan Airport in East Boston, and through that tells stories of personal and social change, and of local and environmental activism. 
 

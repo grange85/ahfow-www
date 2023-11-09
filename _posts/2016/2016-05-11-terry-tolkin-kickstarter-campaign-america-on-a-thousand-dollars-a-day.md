@@ -16,7 +16,7 @@ categories:
 <p class="lead">Terry Tolkin is the A&R man who signed Luna to Elektra and anyone who's encountered him on Facebook knows that he has a hatful of amazing stories about the music industry that would make an amazing book.</p>
 
 <div class="bg-info">
-<p><strong>UPDATE:</strong>Terry has now updated his Kickstarter with an affordable option for those of us who aren't as rich as the rock stars! It now has a $25 starting pledge ... and this is a book that's needing to be written...</p>
+<p><strong>UPDATE:</strong>Terry has now updated his Kickstarter with an affordable option for those of us who aren't as rich as the rock stars! It now has a $25 starting pledge... and this is a book that's needing to be written...</p>
 
 <blockquote><p>I've added a couple of “Rewards" for the more Pavlovian sector of my potential backers.</p>
 <p>I don't have the artwork yet but I've conjured up a jubilant Back Stage All EXCESS Pass/Bookmarker for donations on the $25 level. Immagonna print up a 100 of these. Then I'll come up with something else for that level of commitment.</p>

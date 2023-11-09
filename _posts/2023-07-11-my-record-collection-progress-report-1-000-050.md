@@ -15,7 +15,7 @@ tags:
 - statistics
 date: 2023-07-11 08:56 +0100
 ---
-So, the [first 50 items in _my record collection_](/category/my-record-collection/) ticked off ... lets see how I'm doing.
+So, the [first 50 items in _my record collection_](/category/my-record-collection/) ticked off... lets see how I'm doing.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/the-first-batch-collage.jpg" "My record collection - the first batch" %}
 
@@ -28,10 +28,10 @@ The randomised spreadsheet is constantly getting _massaged_, and occasionally ad
 So far:
  - Galaxie 500 - 7 posts
  - Luna - 14 posts
- - Damon & Naomi - 9 posts, of which ...
+ - Damon & Naomi - 9 posts, of which...
     - 5 are Magic Hour posts
  - Dean & Britta - 5 posts
- - Dean Wareham - 15 posts, of which ...
+ - Dean Wareham - 15 posts, of which...
     - 4 involve Cheval Sombre
     - 1 The Pastels
     - 1 Britta Phillips (but not Dean & Britta)

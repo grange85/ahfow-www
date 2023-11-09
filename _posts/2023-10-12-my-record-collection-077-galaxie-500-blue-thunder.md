@@ -20,7 +20,7 @@ Blue Thunder was Galaxie 500's second single and contains the love-it-or-hate-it
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-blue-thunder-12.jpg" "Galaxie 500 - Blue Thunder (12)" %}
 
-Now, saxophones in rock are invariably a bad idea but the late Ralph Carney's two contributions to Galaxie 500's oeuvre are so unconventional that they don't really fall into the _saxophones in rock_ category ... although, that didn't stop The Onion (AV Club) from adding it to a list of [10 Great Songs Nearly Ruined By Saxophone](https://www.avclub.com/dont-blow-it-10-great-songs-nearly-ruined-by-saxophone-1798212377) in 2007.
+Now, saxophones in rock are invariably a bad idea but the late Ralph Carney's two contributions to Galaxie 500's oeuvre are so unconventional that they don't really fall into the _saxophones in rock_ category... although, that didn't stop The Onion (AV Club) from adding it to a list of [10 Great Songs Nearly Ruined By Saxophone](https://www.avclub.com/dont-blow-it-10-great-songs-nearly-ruined-by-saxophone-1798212377) in 2007.
 
 But, where do you stand? 
 <p class="text-center"><a class="btn btn-primary" href="https://forms.gle/uPg2KFLe74GREfa2A" role="button">With or without?</a></p>
@@ -100,7 +100,7 @@ ___
 ### Update (13th October 2023)
 {: #update}
 
-So the votes are in after 24 hours and ... it's a close run thing:
+So the votes are in after 24 hours and... it's a close run thing:
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-blue-thunder-the-results-are-in.png" "Pie chart showing poll results" %}
 
@@ -130,7 +130,7 @@ It's pretty close - but we have to have a winner:
 
 ___
 
-I bought this on release ... during my vinyl > CD transition I'd still invariably buy singles on vinyl - I bought very few CD singles, suspect those horrendous thin jewel cases contributed to me holding out!
+I bought this on release... during my vinyl > CD transition I'd still invariably buy singles on vinyl - I bought very few CD singles, suspect those horrendous thin jewel cases contributed to me holding out!
 
 Obviously (one of) the greatest cover versions of all time is on the flip... I'll probably come to that later in the series! Actually... there are _two_ great covers on this!
 

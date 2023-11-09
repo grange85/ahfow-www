@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Galaxie 500 T-shirts in new colours ... 'for Spring'
+title: Galaxie 500 T-shirts in new colours... 'for Spring'
 date: 2023-03-14 12:05 +0000
 series-title:
 sitemap: true

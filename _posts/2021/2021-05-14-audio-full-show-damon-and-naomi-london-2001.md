@@ -24,7 +24,7 @@ Here are a few memories from that show.
 <!--more-->
 
 - First band was The Clientele - this was probably only the second time I'd seen them live and was still struggling to love them as much as I eventually did. I've possibly seen them since more than any other band.
-- Second act was the Trembling Blue Stars who were great - in the review I posted to the Galaxie 500 Mailing List after the show I said... "They have a drummer now gives them the opportunity to occasionally wig out" - I had seen them a few times before ... apparently without a drummer - although probably not since the late 90s. I saw them headlining the Garage later that year - but I'm not sure I saw them again.
+- Second act was the Trembling Blue Stars who were great - in the review I posted to the Galaxie 500 Mailing List after the show I said... "They have a drummer now gives them the opportunity to occasionally wig out" - I had seen them a few times before... apparently without a drummer - although probably not since the late 90s. I saw them headlining the Garage later that year - but I'm not sure I saw them again.
 - I think this was the first UK tour Damon & Naomi did with Kurihara and they seemed to really enjoy having him there.
 - Naomi made a [video tour diary](https://www.20-20-20.com/store/damon-naomi-1001-nights-dvd) of this tour so the attached pics are photos snapped off the telly
 - This was also the tour that spawned the Live in San Sebastian fake live album.

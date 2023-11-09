@@ -23,7 +23,7 @@ Will They Turn You On or Will They Turn on You was Magic Hour's second album and
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/magic-hour-wttoyowttyo-lp.jpg" "Magic Hour - Will They Turn You On or Will They Turn on You" %}
 
-I first bought this on CD around the time of release and bought this copy some time later. The inner sleeve of the LP has an astrological chart that wasn't included in the CD, it appears to have the details for all band members ...
+I first bought this on CD around the time of release and bought this copy some time later. The inner sleeve of the LP has an astrological chart that wasn't included in the CD, it appears to have the details for all band members...
 
 - Innermost wheel - Naomi Yang
 - Middle inner wheel - Damon Krukowski
@@ -32,7 +32,7 @@ I first bought this on CD around the time of release and bought this copy some t
 
 Now, obviously astrology is a load of balderdash, so I've never really paid any attention to it, but the chart is rather lovely to look at even if I haven't a clue what it is supposed to mean. I've always been rather taken by the nonsense of magic and folk stories and other such mystical shit. I guess that's why it appeals.
 
-So ... here's mine, I'm sure this shows that I'm obsessive and bothered by inaccuracies - like, for example, album titles that are questions but don't have a question mark.
+So... here's mine, I'm sure this shows that I'm obsessive and bothered by inaccuracies - like, for example, album titles that are questions but don't have a question mark.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/my-astrological-chart.jpg" "Andy's astrological chart" %}
 

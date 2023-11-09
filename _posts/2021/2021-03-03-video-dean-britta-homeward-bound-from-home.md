@@ -1,7 +1,7 @@
 ---
 layout: post
 draft: false
-title: "Video: Dean & Britta play Homeward Bound ... from home"
+title: "Video: Dean & Britta play Homeward Bound... from home"
 author:
   display_name: Andy
   login: admin

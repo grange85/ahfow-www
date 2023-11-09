@@ -32,7 +32,7 @@ This was another _fill out the collection_ purchase in 2012 - bought on eBay.
  - *Notes:* Schemer CD edition
  - *Packaging:* Jewel case
  - *Format:* CD
- - Bought on eBay - can't find out what I paid ... I'd guess no more than a fiver.
+ - Bought on eBay - can't find out what I paid... I'd guess no more than a fiver.
  - [Buy 'Today' on Bandcamp](https://galaxie500.bandcamp.com/album/today)
  
  Previously in [my record collection](/category/my-record-collection)

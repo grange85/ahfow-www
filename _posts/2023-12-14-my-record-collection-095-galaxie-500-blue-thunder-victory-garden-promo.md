@@ -34,4 +34,4 @@ The single also gets a thumbs up from me for putting two tracks on one side of a
  - *Packaging:* Generic sleeve with a promo sticker
  - *Format:* 7"
 
- _&dagger; There are some white labels and one sided promos on 7" that I don't have - one of them is currently on Discogs for £350 - I'm a pretty big fan ... but ..._
+ _&dagger; There are some white labels and one sided promos on 7" that I don't have - one of them is currently on Discogs for £350 - I'm a pretty big fan... but..._

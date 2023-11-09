@@ -18,7 +18,7 @@ tags:
 - audio download
 date: 2023-10-09 00:00 +0000
 ---
-I have surprisingly few bootleg cassettes. I have the ones I've made (a couple of which will turn up later) but not so many others. This is a Luna show from the Fox Theatre in Boulder, CO in 2000 and ... I've no idea how it came into my possesion (as always if it was you ... thanks!)
+I have surprisingly few bootleg cassettes. I have the ones I've made (a couple of which will turn up later) but not so many others. This is a Luna show from the Fox Theatre in Boulder, CO in 2000 and... I've no idea how it came into my possesion (as always if it was you... thanks!)
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-boulder-co-2000-04-03.jpg" "Luna bootleg cassette, 2000" %}
 
@@ -26,7 +26,7 @@ During my metal phase I had literally hundreds of bootleg cassettes - mostly bou
 
 <!--more-->
 
-But by the time I became a Galaxie 500 fan I'd stopped that. Maybe because I just didn't go to where they were being sold any more. I also think I digitised and ditched a lot of the ones I did acquire over time so there are very few cassettes in my collection, so the ones that are are a bit of a mystery. Why do I have this? Why did I keep it? It's a middling audience recording from Britta's early days but I don't have it digitised ... and to be honest decided it wasn't worth my time to bother. I have lots of better recordings so, here's Fuzzy Wuzzy from The Bowery Ballroom a few days later.
+But by the time I became a Galaxie 500 fan I'd stopped that. Maybe because I just didn't go to where they were being sold any more. I also think I digitised and ditched a lot of the ones I did acquire over time so there are very few cassettes in my collection, so the ones that are are a bit of a mystery. Why do I have this? Why did I keep it? It's a middling audience recording from Britta's early days but I don't have it digitised... and to be honest decided it wasn't worth my time to bother. I have lots of better recordings so, here's Fuzzy Wuzzy from The Bowery Ballroom a few days later.
 
 {% ahfowaudio {
 "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/2000-04-08-luna-fuzzy-wuzzy-nyc.mp3",

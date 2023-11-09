@@ -33,7 +33,7 @@ Walking there Naomi asked if I was going to the Walthamstow show... because I re
 
 We arrived at the allotted time to find Damon and just two other folk in the shop - one was there for the talk, the other bought a Black Sabbath LP (Paranoid) ... and left. Luckily Daniel, the attendee, was engaging and enthusiastic and had discovered the book and the podcast without having first heard of Galaxie 500 so had a more pure perspective!
 
-A couple of other folk arrived and Damon's talk turned into the six of us chatting about things mostly related to the book, but shooting off on interesting tangents. We all shot the breeze for an hour or so before the Rough Trade staff started hinting that they wanted to shut up ... by shutting up! So we left.
+A couple of other folk arrived and Damon's talk turned into the six of us chatting about things mostly related to the book, but shooting off on interesting tangents. We all shot the breeze for an hour or so before the Rough Trade staff started hinting that they wanted to shut up... by shutting up! So we left.
 
 I cycled home - in beautiful evening sunshine.
 

@@ -17,7 +17,7 @@ tags:
  - duchess
 ---
 
-While I loved hearing Dean & Britta [playing Homeward Bound](/2021/03/03/video-dean-britta-homeward-bound-from-home/) what I loved more was them doing this fab cover of Scott Walker's Duchess - maybe because I love the song a tiny bit more than the Simon & Garfunkel one ... (and that just reinforces what a great ear they have for a cover!
+While I loved hearing Dean & Britta [playing Homeward Bound](/2021/03/03/video-dean-britta-homeward-bound-from-home/) what I loved more was them doing this fab cover of Scott Walker's Duchess - maybe because I love the song a tiny bit more than the Simon & Garfunkel one... (and that just reinforces what a great ear they have for a cover!
 
 
 They played the song during both their early and late livestreams in September - this is from the evening performance. In the earlier one Dean explained how Luna's Slow Song was "not accidentally"[[1]](#footnote-1) similar to Duchess.

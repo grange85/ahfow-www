@@ -22,7 +22,7 @@ tags:
 - london
 - hamburg
 ---
-I've just arrived back in the North East after an exhausting couple of days in The Smoke to find plenty of great videos of Dean Wareham's recent shows hae turned up on YouTube, so here are a selection, but go and search ... there are plenty more.
+I've just arrived back in the North East after an exhausting couple of days in The Smoke to find plenty of great videos of Dean Wareham's recent shows hae turned up on YouTube, so here are a selection, but go and search... there are plenty more.
 
 {% ahfowvideo "EJUS3Dvmvt4" "Listen, The Snow is Falling - Nijmegen, The Netherlands (14th March)" %}
 

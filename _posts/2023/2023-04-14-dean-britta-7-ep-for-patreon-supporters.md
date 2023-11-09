@@ -27,4 +27,4 @@ _Penthouse_ is the top tier of their Patreon at $9.50 a month and they posted in
 
 > you can upgrade now and get it -- the rule of thumb has been that if you're signed up at Penthouse level for 6 months then you'll get the gift. Also you get 20% off anything in the shop over at deanwareham.com.
 
-So ... head on over and support, or upgrade. Every month they post new music and Dean has been reading his autobiography which has been a joy - so well worth throwing some money at them if you can afford it!
+So... head on over and support, or upgrade. Every month they post new music and Dean has been reading his autobiography which has been a joy - so well worth throwing some money at them if you can afford it!

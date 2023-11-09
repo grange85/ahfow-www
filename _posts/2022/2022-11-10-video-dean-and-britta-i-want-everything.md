@@ -18,7 +18,7 @@ tags:
  - i want everything
  - the rutles
 ---
-I'm raiding my video grabs of Dean & Britta's live streamed shows again ... I hope they don't mind.
+I'm raiding my video grabs of Dean & Britta's live streamed shows again... I hope they don't mind.
 
 This comes from their first full live streamed show that went out on YouTube in May 2020 as a benefit for the RAA - I've shared a couple of clips from this show but don't think I've shared this one.
 

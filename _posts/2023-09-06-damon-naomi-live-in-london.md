@@ -18,7 +18,7 @@ tags:
 - covid
 date: 2023-09-06 13:15 +0100
 ---
-The last time I'd seen Damon & Naomi was when they played a short set for the Walthamstow Rock and Roll Book Club in ... a pub upstairs room in ... Walthamstow in June 2019, who could know it would be over four years before they made it over again. Or indeed that COVID, that caused the hiatus, would rear its ugly head on this tour!
+The last time I'd seen Damon & Naomi was when they played a short set for the Walthamstow Rock and Roll Book Club in... a pub upstairs room in... Walthamstow in June 2019, who could know it would be over four years before they made it over again. Or indeed that COVID, that caused the hiatus, would rear its ugly head on this tour!
 
 {% ahfowimage "https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-and-naomi-cafe-oto-2023-09-03-001.jpg" "Damon & Naomi at Cafe Oto" %}
 
@@ -36,7 +36,7 @@ Damon & Naomi opened with a couple of songs from A Sky Record, and then a couple
 
 They were then pulled back on stage for an encore, despite the approaching curfew, of their beautiful cover of Tum Buckley's Song to The Siren. And then it was over.
 
-I hung around and chatted briefly to Damon, got a selfie with Naomi, and then ... into the sun, and onto a bus.
+I hung around and chatted briefly to Damon, got a selfie with Naomi, and then... into the sun, and onto a bus.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-and-naomi-cafe-oto-2023-09-03-002.jpg" "Naomi Yang at Cafe Oto" %}
 

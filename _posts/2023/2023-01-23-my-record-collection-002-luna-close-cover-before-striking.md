@@ -28,7 +28,7 @@ OK - just looked, and definitely did buy this online - it arrived in an order wi
 
 The CD was released in October 2002 and has seven tracks, mostly outtakes from the Romantica sessions - and also included pretty low-res videos for Lovedust and 1995.
 
-The [EP is on Luna's Baandcamp](https://luna.bandcamp.com/album/close-cover-before-striking) with a couple of extra tracks ... but no videos. But you can see the videos - in all their low-res-ness on YouTube:
+The [EP is on Luna's Baandcamp](https://luna.bandcamp.com/album/close-cover-before-striking) with a couple of extra tracks... but no videos. But you can see the videos - in all their low-res-ness on YouTube:
 
  - [Lovedust video](https://www.youtube.com/watch?v=qZ3S_5i3Mj0)
  - [1995 video](https://www.youtube.com/watch?v=W2pNzJ42Osc)

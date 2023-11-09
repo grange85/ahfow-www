@@ -17,7 +17,7 @@ tags:
 - live lp
 date: 2023-06-01 00:00 +0000
 ---
-I've written about how this copy of Luna Live came into my life before -- more than once ... but I guess it's probably due another outing so apologies if you've heard all this before...
+I've written about how this copy of Luna Live came into my life before -- more than once... but I guess it's probably due another outing so apologies if you've heard all this before...
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-live-lp.jpg" "Luna Live LP" %}
 

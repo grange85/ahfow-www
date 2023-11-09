@@ -18,7 +18,7 @@ categories:
 <p></ins></p>
 <blockquote><p>
 Dean Wareham and Britta Phillips will be performing the UK premiere of<br />
-Dean & Britta: 13 Most Beautiful ... Songs for Andy Warhol's Screen Tests<br />
+Dean & Britta: 13 Most Beautiful... Songs for Andy Warhol's Screen Tests<br />
 …in Scotland. Not in London. Not in Glasgow. Not in Edinburgh. The venue for this event is Carnegie Hall in Dunfermline, Fife.</p>
 <p>Home of The Skids, Suicide played there twice with The Clash and Elvis Costello respectively. Nazareth and Fay Rezillo also hail from there. How do you think she got her name? For those overseas, "fae" means from in these here parts.</p></blockquote>
 <p>(via <a href="http://nextbigthing.blogspot.com/2009/03/some-world-exclusive-news-kids.html">The Next Big Thing</a>)</p>

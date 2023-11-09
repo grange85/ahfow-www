@@ -10,7 +10,7 @@ date: '2014-12-10'
 categories:
 - news
 ---
-<p>Some more nonsense oozing from my head... it's getting to the stage where I wish I hadn't decided to pick 20, partly because they might be getting a bit boring ... or worse... self-indulgent.</p>
+<p>Some more nonsense oozing from my head... it's getting to the stage where I wish I hadn't decided to pick 20, partly because they might be getting a bit boring... or worse... self-indulgent.</p>
 <h3>11: The Galaxie 500 box set</h3>
 <p> From the earliest days of the web site and the list there were rumours about a Galaxie 500 reissue as the albums had been out of print since Rough Trade's collapse. Around '95 there was a lot of talk about Sub Pop putting them out but eventually Rykodisc released them. Andrea Troolin, who managed the box set release had got in touch with me, it was probably the first time that I realised that the web site was recognised as more than just being something that kept me and a few fans out of trouble. Andrea sent me a few emails, most long since lost in the Yahoo->Gmail move, I remember one was discussing the tracklisting of a promo CD for the box-set. She also sent me the first freebies that AHFoW had managed to provide - a copy of the previously discussed promo, and a ride the fiery breeze poster signed by all three members.<br />
 <a href="https://www.flickr.com/photos/grange85/7167416861" title="Selected by Galaxie 500 by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://farm8.staticflickr.com/7103/7167416861_bd42d62794_z.jpg" width="640" height="480" alt="Selected by Galaxie 500"></a></p>

@@ -25,8 +25,8 @@ Here are some facts - some of which are repeated from the post linked below, and
 
 <!--more-->
 
-- It is the only release (so far) on GRANGE85RECORDS - so named because at the time I lived at **85** Studley **Grange** Road - I don't live there any more ... so, don't write to me there.
-- The run out groove has the URL **www.aald.demon.co.uk/galaxie/** inscribed in there - the domain doesn't exist any more ... so, don't bother visiting it ... except in the [Wayback Machine](http://web.archive.org/web/19990129013042/http://www.aald.demon.co.uk/galaxie/).
+- It is the only release (so far) on GRANGE85RECORDS - so named because at the time I lived at **85** Studley **Grange** Road - I don't live there any more... so, don't write to me there.
+- The run out groove has the URL **www.aald.demon.co.uk/galaxie/** inscribed in there - the domain doesn't exist any more... so, don't bother visiting it... except in the [Wayback Machine](http://web.archive.org/web/19990129013042/http://www.aald.demon.co.uk/galaxie/).
 - The insert included the URL above and an email address that also no longer exists.
 - The picture on the sleeve is of Hazel, taken by my friend Martin.
 - The single is probably technically a _bootleg_ since I don't think Dean should have given it to me since it _belonged_ to the makers of [the film that it was used in](https://en.wikipedia.org/wiki/Thursday_(film)). Although he was quite confident that a small run on a UK indie wouldn't come to their attention.

@@ -21,9 +21,9 @@ To be honest I knew, back then, and know now, very little about Shapir-O'Rama. D
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/my-record-collection-shapir-o-rama.jpg" "Shapir-O'Rama - El Mundo..." %}
 
-A bit of internet scouring to be honest hasn't revealed much ... [this article on Trouser Press](https://trouserpress.com/reviews/when-people-were-shorter-and-lived-near-the-water/) suggests that the band exists becuase of a desire of Kim Rancourt (of When People Were Shorter and Lived Near The Water) had a "to work on original material with Dave Rick" and so is basically Dave Rick's earlier band Wonderama with Kim Rancourt.
+A bit of internet scouring to be honest hasn't revealed much... [this article on Trouser Press](https://trouserpress.com/reviews/when-people-were-shorter-and-lived-near-the-water/) suggests that the band exists becuase of a desire of Kim Rancourt (of When People Were Shorter and Lived Near The Water) had a "to work on original material with Dave Rick" and so is basically Dave Rick's earlier band Wonderama with Kim Rancourt.
 
-I have this on LP, can't remember when I bought it - possibly early 2000s ... certainly not in 1994 because this completely slipped me by at the time... and only when Kiek pointed out that I hadn't included it in my Dean Wareham discography did I then manage to hunt down a copy. I later had to scrounge a digital copy of the track so that I could share it.
+I have this on LP, can't remember when I bought it - possibly early 2000s... certainly not in 1994 because this completely slipped me by at the time... and only when Kiek pointed out that I hadn't included it in my Dean Wareham discography did I then manage to hunt down a copy. I later had to scrounge a digital copy of the track so that I could share it.
 
 Dave Rick guested on [Wax! Crackle! Pop! podcast #54](https://www.mixcloud.com/wax_crackle_pop/wax-crackle-pop-54-mystical-shit-from-the-noo-yawk-underground-with-dave-rick-and-chris-xefos/) and briefly touched upon Shapir-O'Rama.
 
@@ -42,4 +42,4 @@ Since the album doesn't appear to be on any streaming/download sites and since i
  - *Notes:* 
  - *Packaging:* 
  - *Format:* LP
- - Bought somewhere ... for some money, probably not much since you can get (a CD of) it [for pennies on Discogs](https://www.discogs.com/sell/list?master_id=144546&ev=mb)
+ - Bought somewhere... for some money, probably not much since you can get (a CD of) it [for pennies on Discogs](https://www.discogs.com/sell/list?master_id=144546&ev=mb)

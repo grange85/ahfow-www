@@ -21,7 +21,7 @@ Recorded across two nights as St Pancras Old Church in London and released on tw
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dw-live-at-st-pancras-red-mc.jpg" "Dean Wareham live at St Pancras Old Church - red" %}
 
-BTW, I can't be sure but suspect that the download code in that photo has probably never been redeemed - so ... if you're quick you can get yourself a free download of this fab little release!
+BTW, I can't be sure but suspect that the download code in that photo has probably never been redeemed - so... if you're quick you can get yourself a free download of this fab little release!
 
 There's a [video of the whole of one of those shows](https://www.youtube.com/watch?v=yttvsKGvGhw&list=PLgkLMlL-VFXsiKHn-ZsGdFpHHC26YkfbK) on YouTube.
 

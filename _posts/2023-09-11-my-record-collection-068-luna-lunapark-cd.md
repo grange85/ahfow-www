@@ -21,7 +21,7 @@ Luna's first album was released in the UK on Elektra, the only album of theirs t
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-lunapark-cd.jpg" "Luna - Lunapark CD" %}
 
-The sleeve has a picture of a pencil sharpener,  I know that now, and it doesn't look like anything else ... now. A space age pencil sharpener for sure, but so obviously a pencil sharpener, and so obviously a pencil sticking out of it. When I discovered what it was I felt a bit stupid for all the years it had been a spaceship or a ray gun. I posted it on [Facebook a couple of years ago](https://www.facebook.com/fullofwishes/photos/a.124150591490/10157924998001491/?paipv=0&eav=AfZDMHVNWHbaIDbZJRbuhoCWlicJz_f-Ih23a4VRlIEu3zDbXP81BYVsdY5RpcKKLD4) and it was quite a relief that a good few comments revealed that I wasn't alone in my stupidity.
+The sleeve has a picture of a pencil sharpener,  I know that now, and it doesn't look like anything else... now. A space age pencil sharpener for sure, but so obviously a pencil sharpener, and so obviously a pencil sticking out of it. When I discovered what it was I felt a bit stupid for all the years it had been a spaceship or a ray gun. I posted it on [Facebook a couple of years ago](https://www.facebook.com/fullofwishes/photos/a.124150591490/10157924998001491/?paipv=0&eav=AfZDMHVNWHbaIDbZJRbuhoCWlicJz_f-Ih23a4VRlIEu3zDbXP81BYVsdY5RpcKKLD4) and it was quite a relief that a good few comments revealed that I wasn't alone in my stupidity.
 
 <!--more-->
 

@@ -17,7 +17,7 @@ tags:
 - listening party
 date: 2023-07-17 23:06 +0100
 ---
-Luna's ... difficult fifth album The Days of Our Nights is getting a vinyl reissue in August courtesy of Real Gone Music.  On the 4th of August [H.I. Art on the Edge](https://www.facebook.com/H.I.ArtontheEdge) are hosting an online listening party.
+Luna's... difficult fifth album The Days of Our Nights is getting a vinyl reissue in August courtesy of Real Gone Music.  On the 4th of August [H.I. Art on the Edge](https://www.facebook.com/H.I.ArtontheEdge) are hosting an online listening party.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/02-luna/pictures/luna-tdoon-listening-party.jpg" "The Days of Our Nights listening party promo" %}
 

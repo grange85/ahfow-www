@@ -18,7 +18,7 @@ longpost: true
 ---		
 {% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2020-09-26/2020-09-26-dean-and-britta-veeps-04.jpg" "Dean & Britta live stream" %}
 
-On Saturday Dean and Britta played what they described as ther last live stream shows of "the season" (not entirely sure what this means but ... more on that later).
+On Saturday Dean and Britta played what they described as ther last live stream shows of "the season" (not entirely sure what this means but... more on that later).
 
 They played two sets once again using the Veeps platform and, once again, were enhanced with the addition of Roger Brogan on drums, SFX and technical support. Both sets opened with a video of various clips of Dean & Britta (some I'd not seen before) playing while Roger DJ-ed for half an hour before show time.
 <div class="col-md-6 float-right">{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2020-09-26/2020-09-26-dean-and-britta-veeps-09.jpg" "Roger Brogan on the RogerCam" %}</div>
@@ -36,7 +36,7 @@ The show wrapped up with another treat - a beautiful/perfect cover of Simon & Ga
 
 A couple of hours break and 1:30 am (UK time) came around and the second show was on! Another lovely DJ set from Roger, was followed by the set openers Air and Night Nurse again - this was followed by Galaxie 500's Flowers. 
 
-As it was now evening in the US Dean & Britta shared a drink and were, possibly even more relaxed - most likely because of how smoothly things seemed to be going ... that, and the drink!?
+As it was now evening in the US Dean & Britta shared a drink and were, possibly even more relaxed - most likely because of how smoothly things seemed to be going... that, and the drink!?
 {% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2020-09-26/2020-09-26-dean-and-britta-veeps-44.jpg" "Dean & Britta share a drink" %}
 
 The set continued in similar vein to the first show - with a few changes. Duchess was still there and tracks that hadn't been heard in the first show included The Silver Jews Random Rules and Luna's Bobby Peru.
@@ -48,7 +48,7 @@ Both shows were wonderful - the sound was, again, excellent; the band were havin
 
 So, I have no idea what Dean & Britta's definition of _the season_ is but in the chat at the end of the first show I threw out the suggestion that they do a Christmas show, after all there are so many tracks that they've recorded over the years that would fit so perfectly in there.
 
-Britta seemed up for it ...
+Britta seemed up for it...
 
 > Andy: Sad this'll be the last one of the "season" - you should do a xmas one! Start rehearsing Wonderful Christmastime now and you might have perfected it by December :) - thanks Dean & Britta!
 >  
@@ -58,7 +58,7 @@ Britta seemed up for it ...
 >  
 > EggNog: Egg Nog?   
 >  
-> itunongar: Listen the snow is falling ...  
+> itunongar: Listen the snow is falling...  
 >  
 > Britta: @ahlicake HI! Yes! "He's Coming Home for sure!  
 >  
@@ -78,7 +78,7 @@ Britta seemed up for it ...
 >  
 > Britta: Hey, that's almost a full set!  
 
-... so ... fingers crossed! Feel free to keep up the pressure on them on your social-media platform of choice :)
+... so... fingers crossed! Feel free to keep up the pressure on them on your social-media platform of choice :)
 
 {% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2020-09-26/2020-09-26-dean-and-britta-veeps-17.jpg" "And we're done" %}
 

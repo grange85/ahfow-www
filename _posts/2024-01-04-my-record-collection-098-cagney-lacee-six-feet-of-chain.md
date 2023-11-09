@@ -33,10 +33,10 @@ I wrote about all the covers in my [Originals series](/category/originals/) a fe
  - It says [Be Mine](/2013/02/27/originals-yours-tonight-by-martin-rev-covered-by-cagney-and-lacee/) on the sleeve, but is actually a cover of a different track called _Yours Tonight_ - both tracks are from Martin Rev's solo album _See Me Ridin'_.
  - [Lovin' You](/2014/01/08/originals-lovin-you-by-minnie-riperton-covered-by-cagney-and-lacee/) - a cover of the wonderful Minnie Riperton song. Minnie had previously been in the Rotary Connection, and before that a receptionist at Chess Records.
  - [Six Feet of Chain](/2014/04/30/originals-six-feet-of-chain-by-lee-hazlewood-covered-by-cagney-lacee/) - the first of two Lee Hazlewood songs and leaves off Lee's pre-song preamble that tells the story of two brothers who steal from each other and get each other arrested and jailed.
- - It says [The Last Goodbye](/2013/11/20/originals-the-beginning-of-goodbye-by-marty-robbins-covered-by-cagney-and-lacee/) on the sleeve, but is actually a song called _The Beginning of Goodbye_ by Marty Robbins - so ... two mistakes in song titles on the album!?
+ - It says [The Last Goodbye](/2013/11/20/originals-the-beginning-of-goodbye-by-marty-robbins-covered-by-cagney-and-lacee/) on the sleeve, but is actually a song called _The Beginning of Goodbye_ by Marty Robbins - so... two mistakes in song titles on the album!?
  - [By The Way (I Still Love You)](/2013/03/27/originals-by-the-way-i-still-love-you-by-nancy-sinatra-covered-by-cagney-and-lacee/) has the parenthesised part of the title left off on the sleeve - it is included on the [single](/2023/04/06/my-record-collection-023-cagney-lacee-time-by-the-way/) so we'll call this an aesthetic decision rather than _another_ mistake! This is the second Lee Hazlewood song.
  - [Greyhound Goin' Somewhere](/2013/07/10/originals-greyhound-goin-somewhere-by-bobbie-gentry-covered-by-cagney-and-lacee/) - was written for the wonderful Bobbie Gentry by Michael Martin Murph(e)y and Bill Dorsey and is on her 1969 album _Touch 'Em With Love_.
- - [For The Sake of The Children](/2013/06/26/originals-for-the-sake-of-the-children-by-henry-gibson-covered-by-cagney-and-lacee/) is the first of two songs from the great Robert Altman film _Nashville_ and was originally sung by Laugh-in poet, and leader of the Illinois Nazis Henry Gibson ... _[I hate Illinois Nazis](https://www.youtube.com/watch?v=nu-0HDBJHc8)_.
+ - [For The Sake of The Children](/2013/06/26/originals-for-the-sake-of-the-children-by-henry-gibson-covered-by-cagney-and-lacee/) is the first of two songs from the great Robert Altman film _Nashville_ and was originally sung by Laugh-in poet, and leader of the Illinois Nazis Henry Gibson... _[I hate Illinois Nazis](https://www.youtube.com/watch?v=nu-0HDBJHc8)_.
  - [Memphis](/2013/08/08/originals-memphis-by-karen-black-covered-by-cagney-and-lacee/) - also from _Nashville_ and written and sung by, sadly missed, Karen Black. Cagney & Lacee's version opens with a bit of dialogue lifted from the film.
  - [I'm Not Sayin'](/2013/09/18/originals-im-not-sayin-by-gordon-lightfoot-covered-by-cagney-and-lacee/) was written and first recorded by Gordon Lightfoot - and then covered by Nico before she got entangled in the VU.
 
@@ -50,4 +50,4 @@ I wrote about all the covers in my [Originals series](/category/originals/) a fe
   - Bought around the time of release.
 
   Previously in [my record collection](/category/my-record-collection):
-   - [#023: Cagney & Lacee - Time / By The Way ...](/2023/04/06/my-record-collection-023-cagney-lacee-time-by-the-way/)
+   - [#023: Cagney & Lacee - Time / By The Way...](/2023/04/06/my-record-collection-023-cagney-lacee-time-by-the-way/)

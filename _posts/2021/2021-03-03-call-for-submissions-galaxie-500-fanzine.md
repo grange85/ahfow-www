@@ -18,14 +18,14 @@ tags:
 ---
 {% ahfowimage "https://media.fullofwishes.co.uk/images/that-bass-and-that-fanzine.jpg" "Everything's Swirling no.1 fanzine" %}
 
-In 2017 to celebrate the 30th anniversary of the birth of Galaxie 500 I produced a fanzine (with the help of lots of folk) called Everything's Swirling - it had photos, sketches, poems and reminscences - it was a bit rough and ready (but ... fanzine) but I was proud of it.
+In 2017 to celebrate the 30th anniversary of the birth of Galaxie 500 I produced a fanzine (with the help of lots of folk) called Everything's Swirling - it had photos, sketches, poems and reminscences - it was a bit rough and ready (but... fanzine) but I was proud of it.
 
 
 <!--more-->
 
 On April 5th 1991 Galaxie 500 played their last show which means next month is the 30th anniversary of the end of Galaxie 500 and that seemed like a good time to create a second issue of Everything's Swirling - to bookend a fans-eye view of the band's lifespan.
 
-So that issue 2 isn't overfull of me it would be good to have contributions from other fans so I would like anything that you may feel fits within a 'zine, so ...
+So that issue 2 isn't overfull of me it would be good to have contributions from other fans so I would like anything that you may feel fits within a 'zine, so...
 
  - photos
  - sketches

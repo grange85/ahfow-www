@@ -18,7 +18,7 @@ date: 2023-08-08 00:00 +0000
 ---
 Inevitably, _my record collection_ was likely to grow during the course of this series. Initially I'd shuffle everything around to find a place for [any new arrivals](/2023/06/12/my-record-collection-042-angel-corpus-christi-bewitched-a-tribute-to-luna/) but it seems easier to just squeeze them in as extras, otherwise I may never finish!
 
-Earlier this month Luna's _difficult_ fifth album got a vinyl re-release via Real Gone Records and I thought I'd take a look through my _archives_ to see just how the album was perceived at the time ... and since.
+Earlier this month Luna's _difficult_ fifth album got a vinyl re-release via Real Gone Records and I thought I'd take a look through my _archives_ to see just how the album was perceived at the time... and since.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/the-days-of-our-nights-lp-reissue.jpg" "The Days of Our Nights LP (2023)" %}
 

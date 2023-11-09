@@ -21,7 +21,7 @@ The Chain With No Name was a collection of independent record stores that was se
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/my-record-collection-galaxie500-tiom-cwnn.jpg" "Galaxie 500 - This Is Our Music (CWNN limited postcard set)" %}
     
-Since I've already posted about my first copy of This Is Our Music this is one that came into my possession later, but still has the (opened and aging) shrink wrap with the CWNN sticker and with both postcards. One is a reproduction of the blue section from the front of the album sleeve and the other is the distorted pic from the back - nice to have but ... like I said ... not a high-grade inducement if getting to your nearest indie involved public transport costs.
+Since I've already posted about my first copy of This Is Our Music this is one that came into my possession later, but still has the (opened and aging) shrink wrap with the CWNN sticker and with both postcards. One is a reproduction of the blue section from the front of the album sleeve and the other is the distorted pic from the back - nice to have but... like I said... not a high-grade inducement if getting to your nearest indie involved public transport costs.
 
 Here's [one of the postcards that Dean sent to Justin in November 1990](https://www.instagram.com/p/CF0XFtGFnDu/) before he visited NZ for a holiday.
 

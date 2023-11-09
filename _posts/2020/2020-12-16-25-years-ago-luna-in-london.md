@@ -42,6 +42,6 @@ I think most times I've seen Luna they've finished the night with Indian Summer 
 
 I've met lots of folk since, and lots of folk have met lots of other folk who aren't me since. At least one couple that I know of started their relationship on the mailing list. I've met people in France, Spain, Germany, The Netherlands, Sweden, Denmark, and the USA.
 
-This year I've met none of them (actually I did sit in a churchyard in Hammersmith, with a mask on chatting to Andrew so ... maybe one!).
+This year I've met none of them (actually I did sit in a churchyard in Hammersmith, with a mask on chatting to Andrew so... maybe one!).
 
 Lets hope 2021 is when we can get this show back on the road!

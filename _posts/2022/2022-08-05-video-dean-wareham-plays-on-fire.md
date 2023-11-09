@@ -18,7 +18,7 @@ tags:
 ---
 Dean Wareham has been playing shows performing the whole of Galaxie 500's On Fire - so here, is the whole album as performed around Europe during July with Britta on bass, Derek See on guitar and Roger Brogan on drums... 
 
-He hasn't been playing it in the right order so ... I have fixed that for him!
+He hasn't been playing it in the right order so... I have fixed that for him!
 
 ### Side 1 track 1 - Blue Thunder
 _Islington Assembly Hall, London - 22nd July_

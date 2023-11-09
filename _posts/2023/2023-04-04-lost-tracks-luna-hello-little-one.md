@@ -22,7 +22,7 @@ Hello Little One was the second track on Luna's _transitionary_ album [The Days 
 
 {% ahfowimage "https://live.staticflickr.com/6149/6010599327_b1219cfa9c_c.jpg" "'Hello little one'" %}
 
-Having just [posted about Mr. Jealousy]({% post_url /2023/2023-04-03-my-record-collection-022-mr-jealousy-soundtrack-cd %}) in the _my record collection_ series it was pointed out to me that the track hadn't made it into my [lost tracks](/category/lost-tracks/) series despite it being a little bit ... lost. So this post is rectifying that.
+Having just [posted about Mr. Jealousy]({% post_url /2023/2023-04-03-my-record-collection-022-mr-jealousy-soundtrack-cd %}) in the _my record collection_ series it was pointed out to me that the track hadn't made it into my [lost tracks](/category/lost-tracks/) series despite it being a little bit... lost. So this post is rectifying that.
 
 I haven't seen the film in a long, long time so I'm not sure how the song is used in the film and how prominent it is. Dean and Noah briefly discussed the song in a [piece for Salon](https://www.salon.com/2016/05/20/the_ultimate_luna_interview_noah_baumbach_and_dean_wareham_talk_super_groups_the_velvet_underground_and_the_history_of_one_of_new_yorks_greatest_bands/) back in 2016 where Dean declared a preference for this version:
 

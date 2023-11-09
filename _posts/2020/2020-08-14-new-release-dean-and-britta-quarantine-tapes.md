@@ -20,7 +20,7 @@ tags:
 
 Available now from Dean Wareham's website is this lovely [box set of lathe-cut singles](https://deanwareham.com/album/1688965/quarantine-tapes) all recorded during Dean & Britta's lockdown in Echo Park either during their live sessions or in their home studio. They are also [available from the PIAPTK website](http://piaptk.com/products/676146-dean-and-britta-quarantine-tapes-7x7-boxset) 
 
-The box-set contains six square, clear plastic, two-sided 7" singles and will come with a bonus _star shaped_ (although ... [is that a star?](https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-quarantine-box-5.jpg)), one-sided single.
+The box-set contains six square, clear plastic, two-sided 7" singles and will come with a bonus _star shaped_ (although... [is that a star?](https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-quarantine-box-5.jpg)), one-sided single.
 
 Track listing as follows:
 
@@ -54,7 +54,7 @@ Bonus "star" shaped single only available with the box
  - Parking Lot (Galaxie 500)
 
 
-Buy from [Dean Wareham's shop](https://deanwareham.com/shop) or the [PIAPTK website](http://piaptk.com/products/676146-dean-and-britta-quarantine-tapes-7x7-boxset) for $74.99 plus postage - there's a warning about international shipping being rubbish so ... make your choice!
+Buy from [Dean Wareham's shop](https://deanwareham.com/shop) or the [PIAPTK website](http://piaptk.com/products/676146-dean-and-britta-quarantine-tapes-7x7-boxset) for $74.99 plus postage - there's a warning about international shipping being rubbish so... make your choice!
 
 Related link: [And 99 cents my ass - Justin Harwood (for FuzzyWuzzy 1999)](https://web.archive.org/web/19990128165114/http://www.fuzzywuzzy.com/ass/99.html)
 

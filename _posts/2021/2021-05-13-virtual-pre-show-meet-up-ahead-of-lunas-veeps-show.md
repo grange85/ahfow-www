@@ -18,7 +18,7 @@ tags:
  - full show
  - youtube
 ---
-OK ... so here's a half-baked idea (I have so many)...
+OK... so here's a half-baked idea (I have so many)...
 
 Here are some facts
 
@@ -26,11 +26,11 @@ Here are some facts
 * If this was a regular Luna gig (in a place I was in) I'd have tried to organise a pre-gig get-together - these have, over the years, had varying levels of success - some with a splendid turnout - one where it was literally just me!!
 * The show starts at 2am my time (3am for some other folk in Europe, and a more sensible time for most of the rest of you - including over croissants and coffee in Australia!!)
 
-So ... how can I keep myself occupied until 2am and simulate a pre-gig get-together?
+So... how can I keep myself occupied until 2am and simulate a pre-gig get-together?
 
 How about listening to and chatting over a recording of one of my favourite Luna shows of old?
 
-So at midnight (BST) over on YouTube AHFoW will stream the now almost legendary Luna show from The Borderline in London in 1993 - featuring Dean, Sean, Justin, Stanley ... and IWEG*
+So at midnight (BST) over on YouTube AHFoW will stream the now almost legendary Luna show from The Borderline in London in 1993 - featuring Dean, Sean, Justin, Stanley... and IWEG*
 
 It runs for 70 mins so will finish at 20 minutes before the Veeps room opens for the show - so time for a wee and to grab a beer, coffee, croissant before the main event!
 
@@ -41,5 +41,5 @@ It runs for 70 mins so will finish at 20 minutes before the Veeps room opens for
 
 {% ahfowvideo "8zsSbpeb4q0" "Luna at The Borderline in London in 1993" %}
 
-* IWEG = I Want Everything Girl ... she's from Colchester you know!
+* IWEG = I Want Everything Girl... she's from Colchester you know!
 

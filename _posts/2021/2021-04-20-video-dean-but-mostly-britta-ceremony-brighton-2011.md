@@ -15,6 +15,6 @@ categories:
 tags:
  - ceremony
 ---
-I just came across this video again from the Dean Wareham plays Galaxie 500 show in Brighton in 2011 - it might have been billed as that but the video is quite Britta heavy because another punter obstructed my view of Dean ... but of course ... not complaining!
+I just came across this video again from the Dean Wareham plays Galaxie 500 show in Brighton in 2011 - it might have been billed as that but the video is quite Britta heavy because another punter obstructed my view of Dean... but of course... not complaining!
 
 {% ahfowvideo "42i5GGfVUkU" "Dean Wareham - Ceremony, live in Brighton in 2011" "https://live.staticflickr.com/5012/5452361468_4aa5c079c5_c.jpg" %}

@@ -25,4 +25,4 @@ Lunapark has previously only been released on vinyl on Australian label Summersh
 
 [Head over to the Run Our Grooves website to vote](https://www.runoutgroovevinyl.com/vote-for-next-release) - voting closes on the 11th April - so get your vote in now!
 
-In a previous poll [Lunafied got the deluxe reissue](/2018/06/09/pre-order-lunas-lunafied-on-vinyl/) treatment and was a rather beautiful thing so ... get voting.
+In a previous poll [Lunafied got the deluxe reissue](/2018/06/09/pre-order-lunas-lunafied-on-vinyl/) treatment and was a rather beautiful thing so... get voting.
