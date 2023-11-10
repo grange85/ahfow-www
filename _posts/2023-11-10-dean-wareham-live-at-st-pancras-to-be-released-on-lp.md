@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dean Wareham live at St Pancras to be released on LP
-date: 2023-11-10 11:50 +0000
+date: 2023-11-10 11:45 +0000
 series-title:
 sitemap: true
 author:
