@@ -70,7 +70,7 @@ jekyll_compose:
         display_name: Andy
         login: admin
         email: andy@grange85.co.uk
-        url: http://www.grange85.co.uk
+        url: https://www.grange85.co.uk
       imageurl:
       categories:
        - 
@@ -84,7 +84,7 @@ jekyll_compose:
         display_name: Andy
         login: admin
         email: andy@grange85.co.uk
-        url: http://www.grange85.co.uk
+        url: https://www.grange85.co.uk
       imageurl: 
       categories:
        - 
