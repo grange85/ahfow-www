@@ -3,6 +3,7 @@ layout: post
 title: '#085: Galaxie 500 - Snowstorm / Pictures (7")'
 sitemap: true
 series-title: My record collection
+github_comments_issueid: 2
 author:
   display_name: Andy
   login: admin

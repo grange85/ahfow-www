@@ -58,7 +58,7 @@ function DoGithubComments(repo_name, comment_id)
             const commentsHtml = comments.join('');                // oldest first
             // const commentsHtml = comments.reverse().join('');   // newest first
             
-            commentsElement.innerHTML = "<form action='" + url + "' rel='nofollow'> <input class='btn btn-primary' type='submit' value='Post a comment\n(free github account required)' /> </form>" + commentsHtml;
+            commentsElement.innerHTML = "<form action='" + url + "' rel='nofollow'> <input class='btn btn-secondary mb-2' type='submit' value='Post a comment\n(free github account required)' /> </form>" + commentsHtml;
         } catch (err)
         {
             console.log( err.message );

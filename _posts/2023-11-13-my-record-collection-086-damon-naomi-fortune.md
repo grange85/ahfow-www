@@ -3,6 +3,7 @@ layout: post
 title: "#086: Damon & Naomi - Fortune"
 sitemap: true
 series-title: My record collection
+github_comments_issueid: 3
 author:
   display_name: Andy
   login: admin
