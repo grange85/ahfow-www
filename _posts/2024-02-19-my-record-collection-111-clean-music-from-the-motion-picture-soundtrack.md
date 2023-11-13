@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-imageurl:
+imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/clean-soundtrack-cd.jpg
 categories:
 - my record collection
 - dean wareham
@@ -18,10 +18,11 @@ tags:
 - olivier assayas
 - maggie cheung
 - nick nolte
+date: 2024-02-19 00:00 +0000
 ---
 This is the soundtrack to the Olivier Assayas film _Clean_. It has Dean & Britta's _Knives from Bavaria_ and a couple of songs that Dean made with the star of the film Maggie Cheung.
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/clean-soundtrack-cd.jpg" "Clean: Music from the Motion Picture Soundtrack" %}
 
 I was unaware of both the film, and Dean and Britta's contribution to it until Dean mentioned in an email discussion:
 
