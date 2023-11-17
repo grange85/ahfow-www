@@ -3,6 +3,7 @@ layout: post
 title: '#088: Damon & Naomi - A Sky Record (LP)'
 sitemap: true
 series-title: My record collection 
+github-comments-issueid: 6
 author:
   display_name: Andy
   login: admin

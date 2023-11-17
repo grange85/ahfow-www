@@ -3,6 +3,7 @@ layout: post
 title: '#087: Luna - Bobby Peru (7")'
 sitemap: true
 series-title: My record collection
+github-comments-issueid: 5
 author:
   display_name: Andy
   login: admin
