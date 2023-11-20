@@ -32,7 +32,7 @@ Naomi Yang - [A Golden Sky: In Conversation with Damon & Naomi](https://sun-13.c
 
 Since _My record collection_ doesn't include books (or DVDs which is probably an oversight), I guess I'll mention here the lovely _A Sky Record Companion_ that was this albums first physical manifestation. In a different age this would have been an insert in the LP anyway... which is where I keep my copy.
 
-The _companion_ is a lovely 48 page booklet, swen together and contains a number of essays, lots of pictures, and the lyrics.
+The _companion_ is a lovely 48 page booklet, sewn together and contains a number of essays, lots of pictures, and the album's lyrics.
 
 - Richard Youngs writes about touring with Damon & Naomi, and specifically the tour where Damon fell down the stairs and ended up in hospital.
 - Damon writes about [Sky Records](https://en.wikipedia.org/wiki/Sky_Records) and A Sky Record.
