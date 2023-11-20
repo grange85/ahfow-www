@@ -3,6 +3,7 @@ layout: post
 title: "#092: Galaxie 500 - On Fire (cassette)"
 sitemap: true
 series-title: My record collection
+github-comments-issueid: 10
 author:
   display_name: Andy
   login: admin

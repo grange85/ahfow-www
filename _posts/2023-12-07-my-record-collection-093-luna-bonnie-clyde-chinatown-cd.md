@@ -3,6 +3,7 @@ layout: post
 title: "#093: Luna - Bonnie and Clyde / Chinatown (CD)"
 sitemap: true
 series-title: My record collection
+github-comments-issueid: 11
 author:
   display_name: Andy
   login: admin

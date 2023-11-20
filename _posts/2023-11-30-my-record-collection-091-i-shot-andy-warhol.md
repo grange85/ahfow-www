@@ -3,6 +3,7 @@ layout: post
 title: '#091: I Shot Andy Warhol'
 sitemap: true
 series-title: My record collection 
+github-comments-issueid: 9
 author:
   display_name: Andy
   login: admin

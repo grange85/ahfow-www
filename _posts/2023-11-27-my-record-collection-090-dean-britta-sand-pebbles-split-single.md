@@ -3,6 +3,7 @@ layout: post
 title: "#090: Dean & Britta / Sand Pebbles split single"
 sitemap: true
 series-title: My record collection
+github-comments-issueid: 8
 author:
   display_name: Andy
   login: admin

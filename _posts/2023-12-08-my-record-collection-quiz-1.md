@@ -3,6 +3,7 @@ layout: post
 title: 'Have you been paying attention? Prize quiz #1'
 sitemap: true
 series-title: My record collection
+github-comments-issueid: 12
 author:
   display_name: Andy
   login: admin
