@@ -47,10 +47,10 @@ It's a good read but also a beautiful artefact and well worth [grabbing a copy](
 
 {% ahfowimage "https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/naomi-a-sky-record-companion-insta-2021-08-03.jpg" "Naomi listening to the album and reading the book - lifted from her Instagram" %}
 
+BTW - here's the shipping forecast for where I live, in case you're interested:
+
 > The shipping forecast issued by the Met Office on behalf of the Maritime and Costguard Agency at 05:05 on Monday the 20th November.
 > Tyne. Cyclonic 3 to 5, increasing 5 to 7 later, perhaps gale 8 later. Showers. Good, occasionally poor.
-
-BTW - the shipping forecast for where I live, in case you're interested:
 
  [The Shipping Forecast](https://www.bbc.co.uk/sounds/play/m001sllx)
 {: .blockquote-footer .text-end}
