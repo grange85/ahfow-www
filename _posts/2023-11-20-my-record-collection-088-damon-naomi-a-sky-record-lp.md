@@ -43,9 +43,17 @@ The _companion_ is a lovely 48 page booklet, swen together and contains a number
 - [Lindsay Zoladz](https://lindsayzoladz.com/) writes about time... and "quarantime".
 - [Jarvis Cocker](https://en.wikipedia.org/wiki/Jarvis_Cocker) writes about [The Shipping Forecast](https://www.bbc.co.uk/programmes/b006qfvv).
 
+BTW - the shipping forecast for where I live, in case you're interested:
+
 It's a good read but also a beautiful artefact and well worth [grabbing a copy](https://damonandnaomi.bandcamp.com/merch/a-sky-record-deluxe-companion-book-and-digital-album)!
 
 {% ahfowimage "https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/naomi-a-sky-record-companion-insta-2021-08-03.jpg" "Naomi listening to the album and reading the book - lifted from her Instagram" %}
+
+> The shipping forecast issued by the Met Office on behalf of the Maritime and Costguard Agency at 05:05 on Monday the 20th November.
+> Tyne. Cyclonic 3 to 5, increasing 5 to 7 later, perhaps gale 8 later. Showers. Good, occasionally poor.
+
+ [The Shipping Forecast](https://www.bbc.co.uk/sounds/play/m001sllx)
+{: .blockquote-footer .text-end}
 
  - *Catalogue Number:* AHFOW 12/0081
  - *Artist:* Damon & Naomi
