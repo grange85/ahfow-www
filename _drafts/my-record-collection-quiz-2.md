@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Quiz #1'
+title: 'Quiz #2'
 sitemap: true
 series-title: My record collection 
 author:
