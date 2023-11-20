@@ -13,12 +13,12 @@ categories:
  - dean & britta
  - review
 tags:
- - livestream
+ - live stream
 flickr: true
 ---
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/50154779017/in/album-72157715243203528/" title="Britta looks"><img src="https://live.staticflickr.com/65535/50154779017_82fc0028ba_c.jpg" width="800" height="453" alt="Britta looks"></a>
 
-Last night Dean & Britta played their ~~third~~ fourth livestreamed concert since lockdown and the first one at a sensible time for European fans. For this one they also roped in Roger Brogan to help with the sound and to play drums.
+Last night Dean & Britta played their ~~third~~ fourth live streamed concert since lockdown and the first one at a sensible time for European fans. For this one they also roped in Roger Brogan to help with the sound and to play drums.
 
 <div class="col-md-6 float-right"><a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/50154553211/in/album-72157715243203528/" title="Dean calls the helpdesk"><img src="https://live.staticflickr.com/65535/50154553211_b1bbab649e_z.jpg" width="520" height="578" alt="Dean calls the helpdesk"></a></div>
 

@@ -37,7 +37,7 @@ The whole single is a beaut! I love Christmas, and with bizarrely few exceptions
 
 Dean & Britta played _He's Coming Home_ live during their Christmas livstream in 2020 _(I do hope they don't mind me sharing these clips)_ - but, it's a gem - and _does_ have the "Go Dean!"
 
-{% ahfowvideo "VWgVlH4TRdk" "Dean & Britta - He's Coming Home (livestream, December 2020)" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-and-britta-holiday-special.jpg" %}
+{% ahfowvideo "VWgVlH4TRdk" "Dean & Britta - He's Coming Home (live stream, December 2020)" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-and-britta-holiday-special.jpg" %}
 
  - *Catalogue Number:* AHFOW 11/0066
  - *Artist:* Dean & Britta with Sonic Boom

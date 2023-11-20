@@ -1,7 +1,7 @@
 ---
 layout: post
 draft: false
-title: "Just announced: Luna full band livestream show"
+title: "Just announced: Luna full band live stream show"
 author:
   display_name: Andy
   login: admin
@@ -13,12 +13,12 @@ categories:
  - luna
  - news
 tags:
- - livestream
+ - live stream
  - veeps
 ---
 {% ahfowimage "https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-joshua-mills-003.jpg" "Luna at Gold Diggers in 2017 - (c) Joshua Mills" %}
 
-Just announced a real live Luna show in a real live club - livestreamed into your living room.
+Just announced a real live Luna show in a real live club - live streamed into your living room.
 
 > Yep, we are playing a LUNA live stream show in an actual Hollywood club, the first Luna show since February last year!
 > _Britta on the Dean & Britta Patreon_

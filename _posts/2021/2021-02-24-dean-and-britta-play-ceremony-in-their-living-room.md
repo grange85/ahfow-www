@@ -21,7 +21,7 @@ tags:
 
 Another video I've just come across while doing some site housekeeping is this clip from Dean & Britta's show for the <abbr title="Rental Affordability Act">RAA<abbr> back in May of last year.
 
-This was the duo's first full set livestream from their living room.
+This was the duo's first full set live stream from their living room.
 
 <!--more-->
 

@@ -35,4 +35,6 @@ I didn't really talk _about_ the album last time so here's a quick track-by-trac
  - __Luck or Magic__
  - __Landslide__ was written by Stevie Nicks and first [recorded for Fleetwood Mac's 1975 eponymous album](https://www.youtube.com/watch?v=WM7-PYtXtJM).
  - __Wrap Your Arms Around Me__ was originally by ex-Abba member Agnetha Faltskog's first English language solo album (also called Wrap Your Arms Around Me). Britta sings _fake-Swedish_ in the song.
- - __Ingrid Superstar__ 
+ - __Ingrid Superstar__ has "guitar swells" by Luna's Sean Eden.
+
+

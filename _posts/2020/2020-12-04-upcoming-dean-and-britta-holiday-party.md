@@ -15,7 +15,7 @@ categories:
  - news
 tags:
 ---
-{% ahfowimage "https://media.fullofwishes.co.uk/images/dean-and-britta-holiday-party-veeps.jpg" "Dean & Britta livestream" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/images/dean-and-britta-holiday-party-veeps.jpg" "Dean & Britta live stream" %}
 
 Dean & Britta have announced that they'll be having a [holiday party from their living room sofa](https://deanandbritta.veeps.com/stream/events/558391381f05) on Saturday 19th December.
 

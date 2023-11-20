@@ -12,7 +12,7 @@ imageurl: https://media.fullofwishes.co.uk/images/2020-05-30-dean-and-britta-vee
 categories:
  - dean & britta
 tags:
- - livestream
+ - live stream
 ---
 
 {% ahfowimage "https://media.fullofwishes.co.uk/images/2020-05-30-dean-and-britta-veeps.jpg" "Dean & Britta live stream" %}
@@ -23,5 +23,5 @@ Once again the shows will be streamed using Veeps and tickets are $11.50 per sho
 
 More details and links to buy tickets can be found here:
 
- - [26th September 2020 12:00 PDT - Live stream from Dean & Britta's living room, Echo Park, Los Angeles, CA, USA](https://www.fullofwishes.co.uk/database/dean-and-britta/shows/2020/2020-09-26-dean-and-britta-livestream-early-show/)
- - [26th September 2020 18:00 PDT - Live stream from Dean & Britta's living room, Echo Park, Los Angeles, CA, USA](https://www.fullofwishes.co.uk/database/dean-and-britta/shows/2020/2020-09-26-dean-and-britta-livestream-late-show/)
+ - [26th September 2020 12:00 PDT - Live stream from Dean & Britta's living room, Echo Park, Los Angeles, CA, USA](https://www.fullofwishes.co.uk/database/dean-and-britta/shows/2020/2020-09-26-dean-and-britta-live stream-early-show/)
+ - [26th September 2020 18:00 PDT - Live stream from Dean & Britta's living room, Echo Park, Los Angeles, CA, USA](https://www.fullofwishes.co.uk/database/dean-and-britta/shows/2020/2020-09-26-dean-and-britta-live stream-late-show/)
