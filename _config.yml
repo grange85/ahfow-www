@@ -67,7 +67,7 @@ jekyll_compose:
       layout: post
       sitemap: true
       series-title: 
-      github_comments_issueid: 
+      github-comments-issueid: 
       author: 
         display_name: Andy
         login: admin
@@ -82,7 +82,7 @@ jekyll_compose:
       layout: post
       sitemap: true
       series-title: 
-      github_comments_issueid: 
+      github-comments-issueid: 
       author:
         display_name: Andy
         login: admin
