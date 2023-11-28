@@ -4,7 +4,7 @@ title: 'Video: Another live Galaxie 500 video'
 date: 2023-11-28 23:07 +0000
 sitemap: true
 series-title:
-github_comments_issueid:
+github_comments_issueid: 14
 author:
   display_name: Andy
   login: admin
