@@ -30,5 +30,6 @@ Here's my half-baked analysis.
 - Kramer joins them on stage for the last two songs - Victory Garden and Ceremony.
 - I know that Kramer was on the tour supporting The Sundays in early 1990, and he was joining them on-stage for Ceremony.
 - Kramer was also on the co-headliner with Straitjacket Fits in Europe, so... could also be that??
+- I think Naomi has the same leggings on as she does at the [ICA show in 1989](/2012/07/19/photos-and-audio-galaxie-500-in-london-in-1989/)
 
 My money's on it being from the tour with The Sundays - but more based on guesswork and not any real evidence.
