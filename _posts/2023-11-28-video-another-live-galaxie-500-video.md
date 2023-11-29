@@ -25,6 +25,8 @@ If anyone has any clues as to the date of the venue [please shout](/about/)!
 
 Here's my half-baked analysis.
 
+<!--more-->
+
 - Short setlist and Dean mentions that Kramer is coming on stage at 8:59 -  which is early so probably a support slot?
 - No songs from This Is Our Music - so probably early 1990 at the latest?
 - Kramer joins them on stage for the last two songs - Victory Garden and Ceremony.
