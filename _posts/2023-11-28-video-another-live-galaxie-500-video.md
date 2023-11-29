@@ -33,3 +33,11 @@ Here's my half-baked analysis.
 - I think Naomi has the same leggings on as she does at the [ICA show in 1989](/2012/07/19/photos-and-audio-galaxie-500-in-london-in-1989/)
 
 My money's on it being from the tour with The Sundays - but more based on guesswork and not any real evidence.
+ 
+Update: 29th November 2023  
+Damon posted on Twitter:
+
+> Agree it seems like when the EP came out with Ceremony so I’d guess Sundays tour in the UK - the stage looks like a university to me…
+
+[@dada_drummer on Twitter](https://twitter.com/dada_drummer/status/1729689086028316973) - 29th November 2023, 02:29
+{: .blockquote-footer .text-end}
