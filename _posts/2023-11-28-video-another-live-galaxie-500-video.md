@@ -43,3 +43,8 @@ Damon posted on Twitter:
 
 [@dada_drummer on Twitter](https://twitter.com/dada_drummer/status/1729689086028316973) - 29th November 2023, 02:29
 {: .blockquote-footer .text-end}
+
+Update: 4th December 2023  
+Turns out this wasn't new - but in fact the show from Leicester that I posted about here **[ten years ago](https://www.fullofwishes.co.uk/2013/04/02/video-galaxie-500-with-kramer-in-1990/)!!**
+
+

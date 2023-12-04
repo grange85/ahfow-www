@@ -20,7 +20,7 @@ flickr: true
 <p>The show is from Leicester in 1990 on the tour where they were supporting The Sundays. Here's Dean summoning Kramer to the stage for a cover of <a href="/2011/06/20/mp3-victory-garden-enough-or-adolf/" title="Mp3: Victory Garden – Enough or Adolf">Red Krayola's Victory Garden</a>, and then Joy Division's Ceremony.<br />
 <a id="more"></a><a id="more-4093"></a></p>
 
-{% ahfowvideo "UMghNua4hjU" "Galaxie 500 - Victory Garden (Leicester 1990)" %}
+{% ahfowvideo "j9fwEl2bo-w" "Galaxie 500 - Victory Garden (Leicester 1990)" %}
 
 {% ahfowvideo "KFTYVE8MAaE" "Galaxie 500 - Ceremony (Leicester 1990)" %}
 
