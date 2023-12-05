@@ -19,7 +19,7 @@ tags:
 - spectrum
 - pete kember
 ---
-Sonic Souvenirs was Dean & Britta's second release and contaiins Sonic Boom remixes of tracks from their first release _L'Avventura_, it is an absolute gem!
+Sonic Souvenirs was Dean & Britta's second release and contains Sonic Boom remixes of tracks from their first release _L'Avventura_, it is an absolute gem!
 
 {% ahfowimage "" "caption" %}
 
