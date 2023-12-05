@@ -20,8 +20,8 @@ flickr: true
 <p>The show is from Leicester in 1990 on the tour where they were supporting The Sundays. Here's Dean summoning Kramer to the stage for a cover of <a href="/2011/06/20/mp3-victory-garden-enough-or-adolf/" title="Mp3: Victory Garden – Enough or Adolf">Red Krayola's Victory Garden</a>, and then Joy Division's Ceremony.<br />
 <a id="more"></a><a id="more-4093"></a></p>
 
-{% ahfowvideo "j9fwEl2bo-w" "Galaxie 500 - Victory Garden (Leicester 1990)" "https://www.fullofwishes.co.uk/temp/galaxie-500-leicester-1990-vidgrab00001.png" %}
+{% ahfowvideo "j9fwEl2bo-w" "Galaxie 500 - Victory Garden (Leicester 1990)" "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-leicester-1990-vidgrab00001.png" %}
 
-{% ahfowvideo "KFTYVE8MAaE" "Galaxie 500 - Ceremony (Leicester 1990)" "https://www.fullofwishes.co.uk/temp/galaxie-500-leicester-1990-vidgrab00003.png"  %}
+{% ahfowvideo "KFTYVE8MAaE" "Galaxie 500 - Ceremony (Leicester 1990)" "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-leicester-1990-vidgrab00003.png"  %}
 
-{% ahfowvideo "P5o1kFfSw1k" "Galaxie 500 - full show (Leicester 1990)" "https://www.fullofwishes.co.uk/temp/galaxie-500-leicester-1990-vidgrab00004.png"  %}
+{% ahfowvideo "P5o1kFfSw1k" "Galaxie 500 - full show (Leicester 1990)" "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-leicester-1990-vidgrab00004.png"  %}
