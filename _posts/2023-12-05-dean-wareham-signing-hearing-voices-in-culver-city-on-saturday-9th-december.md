@@ -19,7 +19,7 @@ tags:
 - ed templeton
 date: 2023-12-05 22:21 +0000
 ---
-Dean Wareham will be at [Arcana Books in Culver City](https://www.arcanabooks.com/blog/2023/Dec/04/dean-wareham-ed-templeton-book-signing/) signing copies of the new book of his lyrics [Hearing Voices](). He will be joined at the signing by Ed Templeton who provided the illustrations for the book.
+Dean Wareham will be at [Arcana Books in Culver City](https://www.arcanabooks.com/blog/2023/Dec/04/dean-wareham-ed-templeton-book-signing/) signing copies of the new book of his lyrics [Hearing Voices](/2023/11/19/hearing-voices-dean-wareham-s-lyrics-illustrated-in-book-form/). He will be joined at the signing by Ed Templeton who provided the illustrations for the book.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/hearing-voices-illustrated-lyrics-dean-wareham-06.jpg" "Illustration and lyrics for Ginger Snaps from Hearing Voices" %}
 
