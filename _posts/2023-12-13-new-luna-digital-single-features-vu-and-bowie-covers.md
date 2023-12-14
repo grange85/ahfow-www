@@ -25,4 +25,9 @@ Luna have just released a digital single featuring covers of Lou Reed's Satellit
 
 Luna have been covering 'Satellite of Love' live recently. Starman got its first airing before Luna's live streamed show way back in May 2021 so we've been knowingly waiting for this one for two and a half years! No sign of the video yet.
 
+>  We were a hesitant to cover a song that is already one of the greatest recordings in rock history, as it appears on Reed's Transformer album (produced by David Bowie), but it has been fun to play live and we have put our own spin on it. Britta and I recorded a demo of “Satellite” at home a few months ago; we sent that along to Lee Wall who sped it up and played drums, then on to Sean who played a Ronson-esque guitar solo. Then it was back to Lee for mixing and you can actually hear all four of us are singing at the end. 
+
+Dean Wareham - email newsletter 13th December 2023
+{: .blockquote-footer .text-end}
+
 The single can be bought for $2 (or more) [over at Bandcamp](https://luna.bandcamp.com/album/satellite-of-love) 
