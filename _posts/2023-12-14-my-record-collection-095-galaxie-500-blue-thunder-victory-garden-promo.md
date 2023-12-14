@@ -15,7 +15,7 @@ categories:
 tags:
 - straightjacket fits
 - damon & naomi
-date: 2023-12-14 00:00 +0000
+date: 2023-12-14 02:00 +0000
 ---
 I must admit that I can't remember the circumstances in which I bemoaned my lack of Galaxie 500 7" singles to Damon and Naomi that prompted them to get me together a beautiful care package, I must have sounded quite pathetic.
 
