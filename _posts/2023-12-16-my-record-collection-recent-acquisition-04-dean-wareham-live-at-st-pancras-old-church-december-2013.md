@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Recent acquisition #04: Dean Wareham - Live at St Pancras
-  Old Church December 2013'
+title: 'Recent acquisition #04: Dean Wareham - Live at St Pancras Old Church December
+  2013'
 sitemap: true
 series-title: My record collection
 github-comments-issueid:
@@ -10,17 +10,18 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-imageurl:
+imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-wareham-live-at-st-pancras-x-3.jpg
 categories:
 - dean wareham
 - my record collection
 tags:
 - st pancras old church
 - sonic cathedral
+date: 2023-12-16 23:09 +0000
 ---
 The always fab Sonic Cathedral have just released Dean Wareham's Live at St Pancras Old Church on vinyl, having previously released it in 2014 on cassette.
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-wareham-live-at-st-pancras-x-3.jpg" "Dean Wareham live at St Pancras Old Church x 3" %}
 
 This entry will cover three rows in my collection spreadsheet becuase I've [already written about one cassette version](/2023/02/23/my-record-collection-011-dean-wareham-live-at-st-pancras-old-church-red-cassette/) and have another one at some point in the future. Since I have three copies of the LP recently acquired it would be a bit hard on you (and me) to cover them three times!
 
@@ -28,7 +29,9 @@ This entry will cover three rows in my collection spreadsheet becuase I've [alre
 
 Well, "yes" is probably the answer, but, I'd better explain - so here are some bullet point facts to try and explain my madness.
 
-- I was at the shows that make up this live album, so you can hear me cheering.
+<!--more-->
+
+- I was at the shows that make up this live album, so you can hear me cheering. Well you would if I ever actually cheered at gigs. You can probably hear me applauding enthusiastically!
 - They were a couple of my favourite shows, the venue was great, the circumstances were unique.
 - My son Adam also came along. I think this was his first time seeing Dean live (not counting a soundcheck at on over 18s show when he was under 18). He was 16 for this one but ... no age restriction to get into a church! He may have been more thrilled at being backstage with Sonic Boom.
 - Nat at Sonic Cathedral sent me a test pressing when the album was announced a couple of months back, so ... **copy #1 - AHFOW 12/0095**
@@ -37,7 +40,7 @@ Well, "yes" is probably the answer, but, I'd better explain - so here are some b
 - Adam, since he was there, wanted a copy so I have bought him the red/green copy _to look after_! So ... **copy #3 - AHFOW 12/0097**
 - OK, I had actually ordered that one before he said he wanted a copy! And it is currently in my possession!
 
-So, I have three copies on vinyl, and two on cassette. So just five copies (so far) - still a way to go to catch up with "On Fire".
+So, I have three copies on vinyl, and two on cassette. So just five copies (so far) - still a way to go to [catch up with "On Fire"](https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-on-fire-x-7.jpg).
 
  - *Catalogue Number:* AHFOW 12/0095-0097
  - *Artist:* Dean Wareham
