@@ -21,7 +21,7 @@ tags:
 - roger miller
 date: 2023-12-21 00:00 +0000
 ---
-This lovely Dean & Britta Christmas single was put out in 2007 on Chimney Rocks! Records but long-time mailing list member and contributor Scott. No concerns about the Christmas-credentials of this single - both sides are wonderfully xmassy!
+This lovely Dean & Britta Christmas single was put out in 2007 on Chimney Rocks! Records by long-time mailing list member and contributor Scott. No concerns about the Christmas-credentials of this single - both sides are wonderfully xmassy!
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-britta-sonic-old-toy-trains.jpg" "Dean & Britta - Old Toy Trains / He's Coming Home" %}
 
