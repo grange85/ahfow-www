@@ -35,7 +35,7 @@ _She's Coming Home_ has one of my absolute fave little bits of Dean & Britta's r
 
 The whole single is a beaut! I love Christmas, and with bizarrely few exceptions, love Christmas singles and this one is right near (or at) the very top of my faves, up there with Macca and The Wombles!
 
-Dean & Britta played _He's Coming Home_ live during their Christmas livstream in 2020 _(I do hope they don't mind me sharing these clips)_ - but, it's a gem - and _does_ have the "Go Dean!"
+Dean & Britta played _He's Coming Home_ live during their Christmas live stream in 2020 _(I do hope they don't mind me sharing these clips)_ - but, it's a gem - and _does_ have the "Go Dean!"
 
 {% ahfowvideo "VWgVlH4TRdk" "Dean & Britta - He's Coming Home (live stream, December 2020)" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-and-britta-holiday-special.jpg" %}
 
