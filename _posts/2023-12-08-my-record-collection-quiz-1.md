@@ -12,6 +12,7 @@ author:
 imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/my-record-collection-quiz-1-prize.jpg
 categories:
 - my record collection
+- news
 tags:
 - quiz
 date: 2023-12-08 00:00 +0000
