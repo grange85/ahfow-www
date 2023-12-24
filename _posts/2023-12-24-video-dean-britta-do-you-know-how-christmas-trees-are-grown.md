@@ -28,6 +28,8 @@ Everything about this performance is gorgeous.
 
 The song was written by John Barry and Hal David for the James Bond film 'On Her Majesty's Secret Service' and sung by Nina of Nina and Frederik fame.
 
+<!--more-->
+
 Here's a clip on YouTube of Nina singing it on the Morecambe and Wise Christmas show in 1969 intercut with clips from the film. It's lovely too ... but not _as_ lovely!
 
 {% ahfowvideo "2AA4trOwTos" "Nina - Do You Know How Christmas Trees are Grown?" "https://media.fullofwishes.co.uk/00-misc/pictures/nina-do-you-know-how-xmas-trees.jpg" %}
