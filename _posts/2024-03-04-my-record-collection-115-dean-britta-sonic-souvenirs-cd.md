@@ -2,7 +2,7 @@
 layout: post
 title: "#115: Dean & Britta - Sonic Souvenirs (CD)"
 sitemap: true
-series-title: My Record Collection
+series-title: My record collection
 github-comments-issueid:
 author:
   display_name: Andy

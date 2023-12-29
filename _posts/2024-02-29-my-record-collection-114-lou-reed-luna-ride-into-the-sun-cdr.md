@@ -2,7 +2,7 @@
 layout: post
 title: "#114: Lou Reed + Luna - Ride Into The Sun (CDR)"
 sitemap: true
-series-title: My Record Collection
+series-title: My record collection
 github_comments_issueid:
 author:
   display_name: Andy

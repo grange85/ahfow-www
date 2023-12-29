@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'My Record Collection #111: Clean - Music from the Motion Picture Soundtrack'
+title: '#111: Clean - Music from the Motion Picture Soundtrack'
 sitemap: true
-series-title:
+series-title: My record collection 
 github-comments-issueid: 4
 author:
   display_name: Andy

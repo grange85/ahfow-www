@@ -2,7 +2,7 @@
 layout: post
 title: "#116: Dean & Britta - Tell Me Do You Miss Me (DVD - region 2/3/4/5)"
 sitemap: true
-series-title: My Record Collection
+series-title: My record collection
 github-comments-issueid:
 author:
   display_name: Andy
