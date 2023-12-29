@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-imageurl:
+imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-britta-sonic-souvenirs.jpg
 categories: 
 - dean & britta
 - my record collection
@@ -21,7 +21,7 @@ tags:
 ---
 Sonic Souvenirs was Dean & Britta's second release and contains Sonic Boom remixes of tracks from their first release _L'Avventura_, it is an absolute gem!
 
-{% ahfowimage "" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-britta-sonic-souvenirs.jpg" "Dean & Britta - Sonic Souvenirs" %}
 
 Those first two Dean & Brtta releases were credited as "Britta Phillips & Dean Wareham" - I vaguely remember Dean saying they had toyed with Britta & Dean but the 'a' at the end of Britta and _a_ at the start of that ampersand sounded clunky. I guess he felt that Britta's name should go first. They gave up on that shortly after, and had comfortably settled into Dean & Britta by the time their second album came out in 2007.
 

@@ -10,7 +10,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-imageurl:
+imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/tell-me-do-you-miss-me-uk-dvd.jpg
 categories:
 - luna
 - my record collection
@@ -21,7 +21,7 @@ tags:
 ---
 Tell Me Do You Miss Me was Matthew Buzzell's wonderful 'rockumentary' of Luna's farewell tour, it was premiered at the Tribeca film festival in April 2006 and the US DVD followed a couple of months later. This DVD for fans outside the US finally arrived three months after that US release.
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/tell-me-do-you-miss-me-uk-dvd.jpg" "Luna - Tell Me Do You Miss Me (DVD, region 2/3/4/5)" %}
 
 The DVD contains:
  - The film with a stereo and a 5.1 mix, and also a commentary with the band and director Matthew Buzzell.
