@@ -35,3 +35,6 @@ Damon & Naomi popped some copies of the CD on their website in may 2022 and I bo
  - *Format:* CD
  - Bought from Damon & Naomi's online store for $20 + shipping
  - [Buy 'A Sky Record' on Bandcamp](https://damonandnaomi.bandcamp.com/album/a-sky-record)
+
+ Previously in [my record collection](/category/my-record-collection):
+  - [#088: Damon & Naomi - A Sky Record (LP)](/2023/11/20/my-record-collection-088-damon-naomi-a-sky-record-lp/)
