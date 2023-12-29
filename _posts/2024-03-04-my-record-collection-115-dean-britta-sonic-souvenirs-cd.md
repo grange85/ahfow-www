@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '#115: Dean & Britta - Sonic Souvenirs (CD)'
+title: "#115: Dean & Britta - Sonic Souvenirs (CD)"
 sitemap: true
-series-title: My Record Collection 
+series-title: My Record Collection
 github-comments-issueid:
 author:
   display_name: Andy
@@ -10,7 +10,7 @@ author:
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
 imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-britta-sonic-souvenirs.jpg
-categories: 
+categories:
 - dean & britta
 - my record collection
 tags:
@@ -18,6 +18,7 @@ tags:
 - spaceman 3
 - spectrum
 - pete kember
+date: 2024-03-04 00:00 +0000
 ---
 Sonic Souvenirs was Dean & Britta's second release and contains Sonic Boom remixes of tracks from their first release _L'Avventura_, it is an absolute gem!
 
@@ -26,6 +27,8 @@ Sonic Souvenirs was Dean & Britta's second release and contains Sonic Boom remix
 Those first two Dean & Brtta releases were credited as "Britta Phillips & Dean Wareham" - I vaguely remember Dean saying they had toyed with Britta & Dean but the 'a' at the end of Britta and _a_ at the start of that ampersand sounded clunky. I guess he felt that Britta's name should go first. They gave up on that shortly after, and had comfortably settled into Dean & Britta by the time their second album came out in 2007.
 
 Britta offered some insight on the mailing list:
+
+<!--more-->
 
 > 'Britta Phililps & Dean Wareham' is just too damned long. Plus people don't know where to file it or find it in stores. It may just end up being 'Dean and Britta'....
 
