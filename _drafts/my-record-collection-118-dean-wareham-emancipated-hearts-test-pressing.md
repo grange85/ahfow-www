@@ -21,7 +21,9 @@ So Dean Wareham's first LP puts in it's third, and (I think) final, appearance i
     
 {% ahfowimage "url" "caption" %}       
 
-Love Is Colder Than Death 04:01
+**Love Is Colder Than Death**
+Named after Rainer Werner Fassbinder's 
+
 Emancipated Hearts 05:12
 The Deadliest Day Since the Invasion Began 03:20
 The Longest Bridges in the World 05:47
