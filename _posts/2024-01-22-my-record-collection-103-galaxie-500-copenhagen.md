@@ -25,7 +25,14 @@ Like the others in the series it came with an insert which had the lyrics to all
 
 <!--more-->
 
-The second set of notes, about the album, were written for the Japanese release by Ryuichi Kanagawa (apologies if Google Translate got that wrong) - I've popped what Google made of it [over here](https://media.fullofwishes.co.uk/01-galaxie_500/docs/japanese-copenhagen-sleeve-notes-google-translate.txt), you can get the gist but it really needs a proper translator!
+The second set of notes, about the album, were written for the Japanese release by Ryuichi Kanagawa 
+
+> Although it is only nine songs and just under 55 minutes long, it is undoubtedly the only work that can be combined with the lost Japanese performance. I'm sorry for writing in a whining, grudge-like manner, but if the show had come to Japan, the set list would have been like this... I'm immersed in emotion, and I'm so excited to be performing on the Quattro stage. I eveni imagine them.
+
+Google Translation of the sleeve notes by Ryuichi Kanagawa
+{: .blockquote-footer .text-end}
+
+Apologies if Google Translate got that wrong - I've popped what the whole of what Google made of it [over here](https://media.fullofwishes.co.uk/01-galaxie_500/docs/japanese-copenhagen-sleeve-notes-google-translate.txt), you can get the gist but it really needs a proper translator!
 
 Dean sent me a complete set of these discs before release - signed on the Obi strip.
 
