@@ -27,7 +27,7 @@ It came in a wrap around card sleeve with an extra couple of pages stapled insid
 
 I bought this from Piccadilly Records (online). As it was a limited edition I bought it before I posted/tweeted about it... just in case a post on A Head Full of Wishes caused a surge in sales - I do occasionally have an inflated view of the power of AHFoW!
 
-Despite the fact that I've titled this post "I'll Keep It With Mine" this is another double A side single. I'll try not to get annoyed every time one turns up but singles (almost&dagger;) always have an A and a B side no matter how hard the record company try to convince otherwise - the AA side is invariably a B-side! After all who would think that "Girl's School" by Wings was a Christmas number 1? No one - that's who!
+Despite the fact that I've titled this post "I'll Keep It With Mine" this is another double A side single. I'll try not to get annoyed every time one turns up but singles (almost&dagger;) always have an A and a B side no matter how hard the record company try to convince otherwise - the AA side is invariably a B-side! After all who would think that "Girls' School" by Wings was a Christmas number 1? No one - that's who!
 
 It's as ridiculous as co-headlining tours - you go on last... you're headlining!
 
@@ -55,4 +55,4 @@ I must admit that my lack of enthusiasm for the remix has faded with time and I 
  - *Format:* 7" single
  - Bought from Piccadilly Records for £4.99 (plus £1 postage)
 
- &dagger; _There are a very few exceptions... one is the single that was Christmas #1 the year after "Girl's School"_
+ &dagger; _There are a very few exceptions... one is the single that was Christmas #1 the year after "Girls' School"_
