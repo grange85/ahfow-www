@@ -1,0 +1,93 @@
+entries:
+  - title: A Head Full of Wishes
+    entries:
+      - title: About A Head Full of Wishes
+        url: /about/
+      - title: Discography / Gigography
+        url: /database/
+        entries:
+          - title: Galaxie 500
+            url: /database/galaxie-500/
+          - title: Luna
+            url: /database/luna/
+          - title: Damon & Naomi
+            url: /database/damon-and-naomi/
+          - title: Dean & Britta
+            url: /database/dean-and-britta/
+          - title: Dean Wareham
+            url: /database/dean-wareham/
+      - title: rss
+        url: /feed.xml
+  - title: Latest
+    post_list: 
+      limit: 5
+      show_more: false
+    entries:
+      - title: My record collection
+        url: /category/my-record-collection/
+      - title: Originals
+        url: /category/originals/
+      - title: Artefacts
+        url: /category/artefacts/
+  - title: News
+    post_list:
+      limit: 3
+      category: news
+      show_more: true
+      show_more_text: See more...
+      show_more_url: /category/news/
+  - title: Galaxie 500
+    post_list:
+      limit: 3
+      category: galaxie 500
+      show_more: true
+      show_more_text: ... more Galaxie 500
+      show_more_url: /category/galaxie-500/
+  - title: Luna
+    post_list:
+      limit: 3
+      category: luna
+      show_more: true
+      show_more_text: ... more Luna
+      show_more_url: /category/luna/
+  - title: Damon & Naomi
+    post_list:
+      limit: 3
+      category: damon & naomi
+      show_more: true
+      show_more_text: ... more Damon & Naomi
+      show_more_url: /category/damon-naomi/
+  - title: Dean & Britta
+    post_list:
+      limit: 3
+      category: dean & britta
+      show_more: true
+      show_more_text: ... more Dean & Britta
+      show_more_url: /category/dean-britta/
+    entries:
+      - title: 13 Most Beautiful
+        url: /category/13-most-beautiful/
+  - title: Dean Wareham
+    post_list:
+      limit: 3
+      category: dean wareham
+      show_more: true
+      show_more_text: ... more Dean Wareham
+      show_more_url: /category/dean-wareham/
+
+  - title: Other categories
+    entries:
+      - title: Pictures
+        url: /category/pictures/
+      - title: Videos
+        url: /category/video/
+      - title: Lost tracks
+        url: /category/lost-tracks/
+      - title: Admin
+        url: /category/admin/
+      - title: Editorial
+        url: /category/editorial/
+      - title: Velvet Underground tour diary (1993)
+        url: /category/velvet-underground-tour-diary/
+
+

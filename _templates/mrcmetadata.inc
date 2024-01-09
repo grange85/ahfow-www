@@ -1,8 +1,0 @@
- - *Catalogue Number:* 
- - *Artist:* 
- - *Title:* 
- - *Notes:* 
- - *Packaging:* 
- - *Format:* 
- - Bought...
- - [Buy '' on Bandcamp]()
