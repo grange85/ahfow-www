@@ -1,28 +1,22 @@
 ---
 layout: default
 ---
-<article class="post-content">
-<div class="row">
-		{% include entry.html %}
-</div>
 
-<div class="row">
-        {% include github-comments.html %}
-</div>
+{%-include back_link.html-%}
 
+<article>
+  <p class="post-meta">
+  <time datetime="{{ page.date }}">{{ page.date | date: site.theme_config.date_format }}</time><br>
+	Categories: 
+	{% for cat in page.categories %}
+		{% if site.main_categories contains cat  %}
+		<a href="/category/{{cat | slugify}}">{{ cat }}</a>
+		{% endif %}
+	{% endfor %}
+	</ul>
+  </p>
+  
+  <h1>{% if page.series-title %}{{page.series-title}}: {% endif %} {{ page.title }}</h1>
 
-{% if page.collection == 'posts' %}
-<div class="row">
-	<div class="col">
-		<ul class="pagination pagination-lg">
-			{% if page.next.url %}
-			<li class="page-item w-50"><a href="{{page.next.url}}" class="page-link text-truncate"><div class="text-muted small text-start">Next</div>{{page.next.title}}</a></li>
-			{% endif %}
-			{% if page.previous.url %}
-			<li class="page-item w-50"><a href="{{page.previous.url}}" class="page-link text-truncate"><div class="text-muted small text-end">Previous</div>{{page.previous.title}} &raquo;</a></li>
-			{% endif %}
-		</ul>
-	</div>
-</div>
-{% endif %}
+  {{ content }}
 </article>

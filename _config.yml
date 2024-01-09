@@ -11,12 +11,26 @@ description: >
 podcast-description: >
   A Head full of Wishes is a site for fans of Galaxie 500, Luna, Damon & Naomi, Dean & Britta and Dean Wareham. The podcast is as much about being a fan as it is about the music.
 image: https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image.jpg
-ahfow-version: '3.0'
+ahfow_version: '4.0'
 github_comments_repository: grange85/ahfow-www-comments
 
-sass:
-  sass_dir: _sass
-  style: compressed
+main_categories:
+  - news
+  - admin
+  - editorial
+  - galaxie 500
+  - luna
+  - damon & naomi
+  - dean & britta
+  - dean wareham
+  - my record collection
+  - 13 most beautiful
+  - artefacts
+  - originals
+  - pictures
+  - video
+  - velvet underground tour diary
+  - lost tracks
 
 collections: 
   articles:
@@ -30,35 +44,12 @@ twitter_username: ahfow
 github_username:  grange85
 permalink: /:year/:month/:day/:title/
 
-jekyll-archives:
-  enabled: ['month','categories','tags']
-  layouts:
-    month: month-archive
-    category: category-archive
-    tag: tag-archive
-  permalinks:
-    month: '/:year/:month/'
-    category: '/category/:name/'
-    tag: '/tag/:name/'
-
-pagination: 
-  enabled: true
-  debug: false
-  collection: 'posts'
-  per_page: 9
-  permalink: '/page:num/'
-  title: ':title - page :num'
-  limit: 10
-  sort_field: 'date'
-  sort_reverse: true
-  category: 'posts'
-  trail: 
-    before: 2
-    after: 2
-  extension: html
-  indexpage: 'index'
-
-excerpt_separator: <!--more-->
+theme: no-style-please
+theme_config:
+  appearance: "dark"
+  back_home_text: "<-- back to home"
+  date_format: "%Y-%m-%d"
+  show_description: true
 
 jekyll_compose:
   auto_open: true
@@ -103,6 +94,7 @@ future: false
 
 # default excludes
 exclude:
+- vendor
 - _notes
 - Rakefile
 - .git
@@ -116,5 +108,6 @@ exclude:
 - "*.swn"
 
 
-plugins: [
-      ]
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

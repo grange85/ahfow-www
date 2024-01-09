@@ -10,7 +10,7 @@ author:
   url: http://www.grange85.co.uk
 imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/cagney-and-lacee-six-feet.jpg
 categories:
-- dean & britta
+- dean wareham
 - my record collection
 tags:
 - old toy trains

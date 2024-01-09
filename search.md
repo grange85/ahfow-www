@@ -1,6 +1,8 @@
 ---
-layout: default
+layout: page
 title: Search
+custom_js:
+ - simple-jekyll-search.min
 ---
 <form>
   <div class="form-group">
@@ -28,3 +30,13 @@ title: Search
   </div>
 </form>
 
+<script src="/js/simple-jekyll-search.min.js?202312240956"></script>
+<script>
+var sjs = SimpleJekyllSearch({
+  searchInput: document.getElementById('searchInput'),
+  resultsContainer: document.getElementById('searchResults'),
+  json: '/search-min.json',
+  searchResultTemplate: '<li class="list-group-item"><a href="https://www.fullofwishes.co.uk{url}">{series-title}{title}</a></li>',
+  limit: 30
+})
+</script>
