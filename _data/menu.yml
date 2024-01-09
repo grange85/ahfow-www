@@ -17,7 +17,7 @@ entries:
           - title: Dean Wareham
             url: /database/dean-wareham/
       - title: rss
-        url: /feed.xml
+        url: /feed/
   - title: Latest
     post_list: 
       limit: 5
