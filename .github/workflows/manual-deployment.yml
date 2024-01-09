@@ -25,21 +25,16 @@ jobs:
       url: https://${{ vars.S3_BUCKET }}
     steps:
     - uses: actions/checkout@v3
-
-    # Use GitHub Actions' cache to shorten build times and decrease load on servers
     - uses: actions/cache@v3
       with:
         path: vendor/bundle
         key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
         restore-keys: |
           ${{ runner.os }}-gems-
-
     - uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 3.1 # Not needed with a .ruby-version file
-        bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-
-    # Standard usage
+        ruby-version: 3.1
+        bundler-cache: true
     - name: Build site
       run: |
         bundle exec jekyll build --config _config.yml,_config_${{ github.event.inputs.deploy-environment }}.yml
