@@ -94,6 +94,7 @@ future: false
 
 # default excludes
 exclude:
+- vendor
 - _notes
 - Rakefile
 - .git
