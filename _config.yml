@@ -50,7 +50,7 @@ theme_config:
   back_home_text: "<-- back to home"
   date_format: "%Y-%m-%d"
   show_description: true
-
+favicon: "favicon-32x32.png"
 jekyll_compose:
   auto_open: true
   default_front_matter:
