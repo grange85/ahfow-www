@@ -100,6 +100,7 @@ exclude:
 - .git
 - config
 - _deploy/
+- _site
 - _archived-posts/
 - _templates/
 - .jekyll-cache
