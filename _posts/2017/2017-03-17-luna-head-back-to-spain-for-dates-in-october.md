@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2017-03-17 23:00 +0000
-imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10/luna-spain-2017-10.jpg
+image: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10/luna-spain-2017-10.jpg
 categories:
  - luna
  - news

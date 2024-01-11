@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-11-08
-imageurl: https://live.staticflickr.com/65535/49033619767_80bd2e7a10_b.jpg
+image: https://live.staticflickr.com/65535/49033619767_80bd2e7a10_b.jpg
 categories:
  - artefacts
  - galaxie 500

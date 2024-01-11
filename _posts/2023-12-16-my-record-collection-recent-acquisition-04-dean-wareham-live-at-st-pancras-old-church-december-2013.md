@@ -10,7 +10,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-wareham-live-at-st-pancras-x-3.jpg
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-wareham-live-at-st-pancras-x-3.jpg
 categories:
 - dean wareham
 - my record collection

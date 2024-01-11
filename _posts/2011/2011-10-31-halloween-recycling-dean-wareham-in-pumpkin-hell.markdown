@@ -6,7 +6,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/pumpkin-hell/pumpkin-hell-deanwareham_castpic-02.jpg
+image: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/pumpkin-hell/pumpkin-hell-deanwareham_castpic-02.jpg
 date: '2011-10-31'
 categories:
 - dean wareham

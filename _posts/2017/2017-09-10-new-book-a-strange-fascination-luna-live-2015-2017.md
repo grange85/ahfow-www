@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2017-09-10 23:00 +1000
-imageurl: https://media.fullofwishes.co.uk/images/a-strange-fascination.jpg
+image: https://media.fullofwishes.co.uk/images/a-strange-fascination.jpg
 categories:
  - luna
  - news

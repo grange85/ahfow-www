@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-06-27
-imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-a-sky-record.jpg
+image: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-a-sky-record.jpg
 categories:
  - damon & naomi
  - news

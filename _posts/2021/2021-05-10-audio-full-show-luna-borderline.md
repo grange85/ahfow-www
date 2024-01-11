@@ -9,7 +9,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-05-10 10:30
-imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/1995-05-10/1995-05-10-luna-borderline-david-rose-gig-diaries.jpg
+image: https://media.fullofwishes.co.uk/02-luna/show_assets/1995-05-10/1995-05-10-luna-borderline-david-rose-gig-diaries.jpg
 categories:
  - luna
  - audio

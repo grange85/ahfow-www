@@ -9,7 +9,7 @@ author:
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 date: '2017-12-31'
-imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-california-blue-rock-yr-baby-front.jpg
+image: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-california-blue-rock-yr-baby-front.jpg
 categories:
  - news
  - admin

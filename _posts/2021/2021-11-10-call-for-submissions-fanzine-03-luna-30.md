@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-11-10
-imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1992_c.jpg
+image: https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1992_c.jpg
 categories:
  - news
  - luna

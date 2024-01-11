@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/luna-tdoon-listening-party.jpg
+image: https://media.fullofwishes.co.uk/02-luna/pictures/luna-tdoon-listening-party.jpg
 categories:
 - luna
 - news

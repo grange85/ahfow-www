@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/my-record-collection-quiz-1-prize.jpg
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/my-record-collection-quiz-1-prize.jpg
 categories:
 - my record collection
 - news

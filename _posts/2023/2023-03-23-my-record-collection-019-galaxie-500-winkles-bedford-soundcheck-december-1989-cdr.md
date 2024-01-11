@@ -7,7 +7,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-winkles-1989-cdr.jpg
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-winkles-1989-cdr.jpg
 categories:
 - galaxie 500
 - my record collection

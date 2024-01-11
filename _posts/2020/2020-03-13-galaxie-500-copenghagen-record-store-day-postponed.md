@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2020-03-13
-imageurl: 
+image: 
 categories:
  - galaxie 500
  - news

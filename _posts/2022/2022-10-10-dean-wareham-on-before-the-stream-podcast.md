@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2022-10-10 19:00:00
-imageurl: https://ssl-static.libsyn.com/p/assets/6/a/4/6/6a466d365ef49a02/BeforeTheStream_Logo_1400x1400.jpg
+image: https://ssl-static.libsyn.com/p/assets/6/a/4/6/6a466d365ef49a02/BeforeTheStream_Logo_1400x1400.jpg
 categories:
  - dean wareham
  - news

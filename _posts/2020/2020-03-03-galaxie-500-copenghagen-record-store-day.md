@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2020-03-03
-imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-record-store-day-2020-copenhagen.jpg
+image: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-record-store-day-2020-copenhagen.jpg
 categories:
  - galaxie 500
  - news

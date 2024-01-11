@@ -7,7 +7,7 @@ date: '2015-10-11'
 categories:
  - luna
  - review
-imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-08/2015-10-08-luna-frank-silvestry-004.jpg
+image: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-08/2015-10-08-luna-frank-silvestry-004.jpg
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-08/2015-10-08-luna-frank-silvestry-004.jpg" alt="Luna at the Bowery Ballroom (Photo: Frank Silvestry)" /><figcaption class="caption-text">Luna at the Bowery Ballroom (Photo: Frank Silvestry)</figcaption></figure>
 <p class="lead">Luna has and always will be intertwined with New York City. Regardless of the band members geographic origin or current residence, Luna embodies a uniquely New York sensibility. Still reeling from a <a href="/2015/10/06/review-luna-in-philadelphia/">sublime Philadelphia show on Monday night</a> we made the short 97 mile journey from our home in Philadelphia to see them for 2 of the 3 shows as part of their residency return to NYC this week.</p>

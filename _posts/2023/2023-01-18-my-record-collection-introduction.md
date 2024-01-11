@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2023-01-18
-imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection.jpg
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection.jpg
 categories:
  - my record collection
 tags:

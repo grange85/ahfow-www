@@ -7,7 +7,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2016-02-24'
-imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/britta-phillips-luck-or-magic.jpg
+image: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/britta-phillips-luck-or-magic.jpg
 categories:
 - video
 - dean wareham

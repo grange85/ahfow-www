@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-a-sky-record-cd.jpg
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-a-sky-record-cd.jpg
 categories:
 - my record collection
 - damon & naomi

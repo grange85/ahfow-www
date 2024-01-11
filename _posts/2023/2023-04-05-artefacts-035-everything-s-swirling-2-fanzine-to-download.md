@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/00-misc/pictures/everythings-swirling-2-cover.png
+image: https://media.fullofwishes.co.uk/00-misc/pictures/everythings-swirling-2-cover.png
 categories:
 - galaxie 500
 - artefacts

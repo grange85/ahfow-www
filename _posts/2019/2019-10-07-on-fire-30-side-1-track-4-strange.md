@@ -5,7 +5,7 @@ title: "On Fire - side 1, track 4: Strange"
 author:
   display_name: Ryan
 date: 2019-10-07
-imageurl: 
+image: 
 categories:
  - galaxie 500
  - on-fire-30

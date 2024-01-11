@@ -7,7 +7,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2013-02-08'
-imageurl: https://farm7.staticflickr.com/6238/6314288860_9e250a34d0_z.jpg
+image: https://farm7.staticflickr.com/6238/6314288860_9e250a34d0_z.jpg
 categories:
 - luna
 - audio

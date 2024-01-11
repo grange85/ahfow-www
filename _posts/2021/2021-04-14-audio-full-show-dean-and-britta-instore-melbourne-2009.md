@@ -9,7 +9,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-04-14 10:30
-imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/2009-10-17-dean-britta.jpg
+image: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/2009-10-17-dean-britta.jpg
 categories:
  - dean & britta
  - audio

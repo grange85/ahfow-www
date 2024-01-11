@@ -7,7 +7,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2016-05-10'
-imageurl: https://f4.bcbits.com/img/a2846007450_10.jpg
+image: https://f4.bcbits.com/img/a2846007450_10.jpg
 categories:
 - news
 - galaxie 500

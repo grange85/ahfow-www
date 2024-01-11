@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2020-03-20
-imageurl: https://live.staticflickr.com/65535/49056515282_9995e8e69c_z.jpg
+image: https://live.staticflickr.com/65535/49056515282_9995e8e69c_z.jpg
 categories:
  - luna
  - news

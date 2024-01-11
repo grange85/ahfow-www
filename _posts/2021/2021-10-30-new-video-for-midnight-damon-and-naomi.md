@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-10-30
-imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-and-naomi-midnight-04.jpg
+image: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-and-naomi-midnight-04.jpg
 categories:
  - damon & naomi
  - video

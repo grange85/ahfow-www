@@ -6,7 +6,7 @@ author:
   display_name: James Travis
   email:
   url: http://www.dotsandloops.co.uk
-imageurl:
+image:
 categories:
  - luna
 ---

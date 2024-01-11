@@ -6,7 +6,7 @@ author:
   display_name: Andy Aldridge
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/00-misc/pictures/the-silence-hark-the-silence.jpg
+image: https://media.fullofwishes.co.uk/00-misc/pictures/the-silence-hark-the-silence.jpg
 categories:
  - damon & naomi
  - news

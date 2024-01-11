@@ -8,7 +8,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2013-12-18'
-imageurl: https://upload.wikimedia.org/wikipedia/commons/0/01/White_Christmas_trailer_%281954%29_title_frame.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/0/01/White_Christmas_trailer_%281954%29_title_frame.jpg
 categories:
 - damon & naomi
 - originals

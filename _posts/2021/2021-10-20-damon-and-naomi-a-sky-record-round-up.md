@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-10-20
-imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-and-naomi-a-sky-record-companion.jpg
+image: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-and-naomi-a-sky-record-companion.jpg
 categories:
  - damon & naomi
  - news

@@ -8,7 +8,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2014-02-12'
-imageurl: https://media.fullofwishes.co.uk/00-misc/alt13mb/lou.jpg
+image: https://media.fullofwishes.co.uk/00-misc/alt13mb/lou.jpg
 categories:
 - originals
 - dean & britta

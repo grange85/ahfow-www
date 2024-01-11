@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-05-06
-imageurl: https://media.fullofwishes.co.uk/images/luna-friendly-advice-2015-w-justin.png
+image: https://media.fullofwishes.co.uk/images/luna-friendly-advice-2015-w-justin.png
 categories:
  - luna
  - video

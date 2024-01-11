@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2022-07-30
-imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/2022-07-22-dean-wareham-london-2.jpg
+image: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/2022-07-22-dean-wareham-london-2.jpg
 categories:
  - dean wareham
  - review

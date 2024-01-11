@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-10-23
-imageurl: https://media.fullofwishes.co.uk/02-luna/photos/2019-10-20-luna-bowery-ballroom-joakim-ulrika.jpg
+image: https://media.fullofwishes.co.uk/02-luna/photos/2019-10-20-luna-bowery-ballroom-joakim-ulrika.jpg
 categories:
  - luna
  - audio

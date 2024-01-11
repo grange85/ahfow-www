@@ -7,7 +7,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2011-09-23'
-imageurl: https://static.fullofwishes.co.uk/galaxie500box/images/demotape_lg.gif
+image: https://static.fullofwishes.co.uk/galaxie500box/images/demotape_lg.gif
 recycled:
   recycle: true
   date: 2021-07-09

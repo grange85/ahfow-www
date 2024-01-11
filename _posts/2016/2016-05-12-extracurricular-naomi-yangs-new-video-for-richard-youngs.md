@@ -7,7 +7,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2016-05-12'
-imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/naomi-extracurricular-richard-youngs-back-from-a-changing-world.jpg
+image: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/naomi-extracurricular-richard-youngs-back-from-a-changing-world.jpg
 categories:
  - news
  - damon & naomi

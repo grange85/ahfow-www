@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2020-06-05
-imageurl: https://f4.bcbits.com/img/a1265312378_10.jpg
+image: https://f4.bcbits.com/img/a1265312378_10.jpg
 categories:
  - damon & naomi
  - news

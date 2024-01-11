@@ -7,7 +7,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2009-09-02'
-imageurl: https://media.fullofwishes.co.uk/ahfow/uploads/2009/08/luna_bewitched_promo_02.jpg
+image: https://media.fullofwishes.co.uk/ahfow/uploads/2009/08/luna_bewitched_promo_02.jpg
 categories:
 - luna
 - audio

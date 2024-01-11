@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/fuxa-electric-sound-of-summer.jpg
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/fuxa-electric-sound-of-summer.jpg
 categories:
 - my record collection
 - dean wareham

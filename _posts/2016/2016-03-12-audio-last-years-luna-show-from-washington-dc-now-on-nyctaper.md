@@ -7,7 +7,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2016-03-12'
-imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-06/2015-10-06-luna-930-washingtondc-shawn-01.jpg
+image: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-06/2015-10-06-luna-930-washingtondc-shawn-01.jpg
 categories:
 - audio
 - luna

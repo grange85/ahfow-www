@@ -7,7 +7,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/9a2fc3df15305e08a7fb.jpeg
+image: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/9a2fc3df15305e08a7fb.jpeg
 date: '2013-11-06'
 categories:
 - dean wareham

@@ -5,7 +5,7 @@ title: "On Fire - side 2, track 5: Isn't It a Pity"
 author:
   display_name: David Duffin
 date: 2019-10-22
-imageurl: https://media.fullofwishes.co.uk/00-misc/pictures/david-on-fire-cd.jpg
+image: https://media.fullofwishes.co.uk/00-misc/pictures/david-on-fire-cd.jpg
 categories:
  - galaxie 500
  - on-fire-30

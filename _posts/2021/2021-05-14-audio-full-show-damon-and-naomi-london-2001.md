@@ -7,7 +7,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: 2021-05-14 10:30
-imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/2001-05-15-damon-and-naomi-garage-london-uk/2001-05-15_booklet.jpg
+image: https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/2001-05-15-damon-and-naomi-garage-london-uk/2001-05-15_booklet.jpg
 categories:
  - damon & naomi
  - audio

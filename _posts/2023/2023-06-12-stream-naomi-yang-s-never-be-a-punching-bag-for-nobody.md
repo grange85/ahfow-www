@@ -10,7 +10,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/never-be-a-punching-bag-poster.jpg
+image: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/never-be-a-punching-bag-poster.jpg
 categories:
 - damon & naomi
 - news

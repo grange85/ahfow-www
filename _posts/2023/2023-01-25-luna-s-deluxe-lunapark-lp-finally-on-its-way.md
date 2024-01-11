@@ -7,7 +7,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/deluxe-lunapark-mock-up.jpg
+image: https://media.fullofwishes.co.uk/02-luna/pictures/deluxe-lunapark-mock-up.jpg
 categories:
  - news
  - luna

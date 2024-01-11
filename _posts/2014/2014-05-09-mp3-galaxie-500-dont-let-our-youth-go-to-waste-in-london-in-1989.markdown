@@ -6,7 +6,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/1990-09-29_Melody-Maker_Galaxie-500_This-Is-Our-Music-review_image.jpg
+image: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/1990-09-29_Melody-Maker_Galaxie-500_This-Is-Our-Music-review_image.jpg
 date: '2014-05-09'
 categories:
 - galaxie 500

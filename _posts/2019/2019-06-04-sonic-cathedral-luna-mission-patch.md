@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-06-04
-imageurl: https://media.fullofwishes.co.uk/images/scsc/luna-scsc-subscribers-patch-crop.jpg
+image: https://media.fullofwishes.co.uk/images/scsc/luna-scsc-subscribers-patch-crop.jpg
 categories:
  - luna
  - news

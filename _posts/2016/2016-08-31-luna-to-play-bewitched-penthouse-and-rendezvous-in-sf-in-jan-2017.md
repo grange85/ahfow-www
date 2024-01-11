@@ -7,7 +7,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2016-08-31'
-imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01/2017-01-luna-chapel-sf-poster.jpg
+image: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01/2017-01-luna-chapel-sf-poster.jpg
 description: |
   Luna have just announced a three night residency at The Chapel in San Francisco in January where they will play three of their albums in full.
 categories:

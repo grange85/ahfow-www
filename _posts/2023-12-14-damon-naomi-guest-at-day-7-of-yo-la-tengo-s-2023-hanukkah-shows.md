@@ -10,7 +10,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/2023-12-13-yo-la-tengo-damon-naomi-fight-for-yourright.png
+image: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/2023-12-13-yo-la-tengo-damon-naomi-fight-for-yourright.png
 categories:
 - damon & naomi
 - news

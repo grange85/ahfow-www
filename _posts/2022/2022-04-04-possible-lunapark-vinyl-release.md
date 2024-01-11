@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2022-04-04 10:00
-imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-lunapark-summershine-1993.jpg
+image: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-lunapark-summershine-1993.jpg
 categories:
  - luna
  - news

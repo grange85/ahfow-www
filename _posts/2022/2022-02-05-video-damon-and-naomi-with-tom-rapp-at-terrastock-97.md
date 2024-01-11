@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2022-02-05
-imageurl: https://media.fullofwishes.co.uk/images/1997-04-27-damon-naomi-tom-rapp-terrastock-4.png
+image: https://media.fullofwishes.co.uk/images/1997-04-27-damon-naomi-tom-rapp-terrastock-4.png
 categories:
  - damon & naomi 
  - news

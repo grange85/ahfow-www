@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2022-05-02 10:00
-imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_lunapark.jpg
+image: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_lunapark.jpg
 categories:
  - luna
  - news

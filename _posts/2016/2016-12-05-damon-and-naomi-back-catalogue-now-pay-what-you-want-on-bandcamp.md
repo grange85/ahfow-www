@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: '2016-12-05'
-imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-and-naomi-bandcamp-grab.jpg
+image: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-and-naomi-bandcamp-grab.jpg
 categories:
  - damon & naomi
 tags:

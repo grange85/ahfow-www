@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2022-12-05
-imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-anesthesia-minttea-reverse.jpg
+image: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-anesthesia-minttea-reverse.jpg
 categories:
  - dean wareham
  - news

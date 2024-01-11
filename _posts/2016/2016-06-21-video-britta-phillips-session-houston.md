@@ -7,7 +7,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2016-06-21'
-imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/2016-05-britta-phillips-houston-public-media-01.jpg
+image: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/2016-05-britta-phillips-houston-public-media-01.jpg
 categories:
 - news
 - dean & britta

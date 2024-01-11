@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-01-25
-imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/show_assets/2019-01-25/dean-wareham-vs-cheval-sombre-zebulon-poster.jpg
+image: https://media.fullofwishes.co.uk/05-dean_wareham/show_assets/2019-01-25/dean-wareham-vs-cheval-sombre-zebulon-poster.jpg
 categories:
  - dean wareham
  - video

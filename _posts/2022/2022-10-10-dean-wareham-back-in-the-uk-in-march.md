@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2022-10-10 20:00:00
-imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/show_assets/2023-03-16/2023-03-16-dean-wareham-london-poster.jpg
+image: https://media.fullofwishes.co.uk/05-dean_wareham/show_assets/2023-03-16/2023-03-16-dean-wareham-london-poster.jpg
 categories:
  - dean wareham
  - news

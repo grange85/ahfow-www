@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-10-07
-imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/aquarium-drunkard-transmissions-damon-daomi.jpg
+image: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/aquarium-drunkard-transmissions-damon-daomi.jpg
 categories:
  - news
  - damon & naomi

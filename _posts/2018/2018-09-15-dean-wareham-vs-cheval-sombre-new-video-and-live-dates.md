@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2018-09-15
-imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-vs-cheval-sombre-luz-gallardo.jpg
+image: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-vs-cheval-sombre-luz-gallardo.jpg
 categories:
  - dean wareham
 tags:

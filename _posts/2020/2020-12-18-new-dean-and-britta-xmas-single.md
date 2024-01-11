@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2020-12-18
-imageurl: https://media.fullofwishes.co.uk/images/dean-and-britta-happy-xmas-war-is-over.jpg
+image: https://media.fullofwishes.co.uk/images/dean-and-britta-happy-xmas-war-is-over.jpg
 categories:
  - dean & britta
  - news

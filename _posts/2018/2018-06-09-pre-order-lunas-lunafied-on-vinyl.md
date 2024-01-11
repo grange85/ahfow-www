@@ -10,7 +10,7 @@ author:
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 date: '2018-06-09'
-imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_lunafied-pre-vinyl.jpg
+image: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_lunafied-pre-vinyl.jpg
 categories:
  - luna
  - news

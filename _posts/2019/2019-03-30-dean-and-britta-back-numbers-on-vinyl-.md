@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-03-30
-imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-back-numbers-wwr.jpg
+image: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-back-numbers-wwr.jpg
 categories:
   - news
 tags:

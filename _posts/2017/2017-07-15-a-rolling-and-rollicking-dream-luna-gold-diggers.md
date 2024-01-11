@@ -8,7 +8,7 @@ author:
   email:
   url:
 date: 2017-07-17
-imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-joshua-mills-003.jpg
+image: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-joshua-mills-003.jpg
 categories:
  - luna
 tags:

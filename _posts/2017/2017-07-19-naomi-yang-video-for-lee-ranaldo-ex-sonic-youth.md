@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2017-07-19 23:30 +0000
-imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/lee-ranaldo-new-thing-grab.jpg
+image: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/lee-ranaldo-new-thing-grab.jpg
 categories:
  - damon & naomi
  - news

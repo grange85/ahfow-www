@@ -6,7 +6,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dw_tongue-tied_05.jpg
+image: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dw_tongue-tied_05.jpg
 date: '2021-05-05'
 categories:
 - dean wareham

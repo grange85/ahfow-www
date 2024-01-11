@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-09-18
-imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-cashing-in-video-grab-01.jpg
+image: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-cashing-in-video-grab-01.jpg
 categories:
  - dean wareham
  - video

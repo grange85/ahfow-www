@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-11-26
-imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/terrascopaedia-13-orig.jpg
+image: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/terrascopaedia-13-orig.jpg
 categories:
  - galaxie 500
  - news

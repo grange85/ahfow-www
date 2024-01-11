@@ -7,7 +7,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2016-06-20'
-imageurl: https://c8.staticflickr.com/9/8626/16124343647_b453f35d0b_o.jpg
+image: https://c8.staticflickr.com/9/8626/16124343647_b453f35d0b_o.jpg
 categories:
 - damon & naomi
 - news

@@ -7,7 +7,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/00-misc/pictures/roger-miller-old-toy-trains-1967.jpg
+image: https://media.fullofwishes.co.uk/00-misc/pictures/roger-miller-old-toy-trains-1967.jpg
 date: '2013-12-16'
 categories:
 - dean & britta

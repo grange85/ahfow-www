@@ -8,7 +8,7 @@ author:
   email: joakim@fullofwishes.co.uk
   url: ''
 date: 2016-12-18 09:00 +0000
-imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-008.jpg
+image: https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-joakim-008.jpg
 categories:
  - luna
 tags:

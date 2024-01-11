@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-10-30
-imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2019-10-18/2019-10-18-luna-video-grab.jpg
+image: https://media.fullofwishes.co.uk/02-luna/show_assets/2019-10-18/2019-10-18-luna-video-grab.jpg
 categories:
  - luna
  - audio

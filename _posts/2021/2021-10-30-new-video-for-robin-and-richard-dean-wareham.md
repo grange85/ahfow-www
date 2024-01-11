@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-10-30
-imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-robin-and-richard-video-04.jpg
+image: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-robin-and-richard-video-04.jpg
 categories:
  - dean wareham
  - video

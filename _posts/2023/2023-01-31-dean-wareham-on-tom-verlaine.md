@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/tom-verlaine-dean-wareham-photo-bp.jpg
+image: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/tom-verlaine-dean-wareham-photo-bp.jpg
 categories:
  - dean wareham
  - news

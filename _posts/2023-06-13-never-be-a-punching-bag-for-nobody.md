@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/nbapbfn/naomi-yang-nbapbfn-still-04.jpg
+image: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/nbapbfn/naomi-yang-nbapbfn-still-04.jpg
 excerpt: 'Naomi Yang’s film ‘Never Be a Punching Bag for Nobody’ is getting a streaming
   presentation in association with UK magazine UNCUT. It will be available for 48
   hours from Friday 16th June. The price is $15 (or £11.93), and here’s why I think

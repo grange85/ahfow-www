@@ -7,7 +7,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2011-09-30'
-imageurl: https://media.fullofwishes.co.uk/ahfow/uploads/2011/09/laika.jpg
+image: https://media.fullofwishes.co.uk/ahfow/uploads/2011/09/laika.jpg
 categories:
 - damon & naomi
 - audio

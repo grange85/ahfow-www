@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-10-25
-imageurl: https://live.staticflickr.com/65535/48613588168_27fd2ee64c_c.jpg
+image: https://live.staticflickr.com/65535/48613588168_27fd2ee64c_c.jpg
 categories:
  - artefacts
  - dean & britta

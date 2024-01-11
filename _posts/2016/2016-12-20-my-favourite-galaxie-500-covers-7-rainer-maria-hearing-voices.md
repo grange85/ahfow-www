@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2016-12-20 00:00 +0000
-imageurl: https://c2.staticflickr.com/6/5810/21087508544_b828c1c794_b.jpg
+image: https://c2.staticflickr.com/6/5810/21087508544_b828c1c794_b.jpg
 categories:
  - galaxie 500
  - favourite galaxie 500 covers

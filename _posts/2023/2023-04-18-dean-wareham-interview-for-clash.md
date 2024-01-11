@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl:
+image:
 categories:
 - dean wareham
 - news

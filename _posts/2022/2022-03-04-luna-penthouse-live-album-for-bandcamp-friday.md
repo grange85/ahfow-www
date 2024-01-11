@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2022-03-04
-imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-penthouse-live-bandcamp.jpg
+image: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-penthouse-live-bandcamp.jpg
 categories:
  - luna
  - news

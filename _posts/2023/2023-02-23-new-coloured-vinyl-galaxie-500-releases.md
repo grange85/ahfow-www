@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-newbury-comics-joined.jpg
+image: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-newbury-comics-joined.jpg
 categories:
 - galaxie 500
 - news

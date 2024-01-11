@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2017-04-19
-imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/heather-trost-agistri-screen-grab.jpg
+image: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/heather-trost-agistri-screen-grab.jpg
 categories:
  - damon & naomi
  - news

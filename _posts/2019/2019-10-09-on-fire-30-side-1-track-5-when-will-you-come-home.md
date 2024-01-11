@@ -5,7 +5,7 @@ title: "On Fire - side 1, track 5: When Will You Come Home"
 author:
   display_name: Andy
 date: 2019-10-09
-imageurl: https://live.staticflickr.com/3938/15604180481_0917e51091_c.jpg
+image: https://live.staticflickr.com/3938/15604180481_0917e51091_c.jpg
 categories:
  - galaxie 500
  - on-fire-30

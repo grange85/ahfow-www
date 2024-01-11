@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2020-02-06
-imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-copenhagen-test-pressing-dk.jpg
+image: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-copenhagen-test-pressing-dk.jpg
 categories:
  - galaxie 500
  - news

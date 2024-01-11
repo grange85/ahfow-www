@@ -6,7 +6,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/fourth-of-july-kids-korner.jpg
+image: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/fourth-of-july-kids-korner.jpg
 date: '2009-05-21'
 categories:
 - galaxie 500

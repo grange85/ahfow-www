@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/2023-03-16-dean-wareham-london.jpg
+image: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/2023-03-16-dean-wareham-london.jpg
 categories:
 - dean wareham
 - dean & britta

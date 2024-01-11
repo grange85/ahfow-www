@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2017-01-27 23:00 +0000
-imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-19/2017-01-19-luna-kelly-joakim.jpg
+image: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-19/2017-01-19-luna-kelly-joakim.jpg
 categories:
  - luna
  - video

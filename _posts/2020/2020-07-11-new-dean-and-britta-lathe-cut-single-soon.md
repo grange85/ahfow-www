@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2020-07-10
-imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/dean-and-britta-massachusetts-insta-grab.jpg
+image: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/dean-and-britta-massachusetts-insta-grab.jpg
 categories:
  - dean & britta
  - news

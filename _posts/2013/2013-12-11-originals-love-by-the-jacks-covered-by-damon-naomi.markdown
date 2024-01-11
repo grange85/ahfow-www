@@ -8,7 +8,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2013-12-11'
-imageurl: https://media.fullofwishes.co.uk/00-misc/originals/jacks-japanese-band.jpg
+image: https://media.fullofwishes.co.uk/00-misc/originals/jacks-japanese-band.jpg
 categories:
 - damon & naomi
 - originals

@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-04-22 10:30
-imageurl: https://live.staticflickr.com/1446/26000058153_b7ed7d54e1_b.jpg
+image: https://live.staticflickr.com/1446/26000058153_b7ed7d54e1_b.jpg
 categories:
  - damon & naomi
  - video

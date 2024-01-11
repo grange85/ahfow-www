@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-03-15
-imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/ways-of-hearing-tour.jpg
+image: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/ways-of-hearing-tour.jpg
 categories:
   - news
   - damon & naomi

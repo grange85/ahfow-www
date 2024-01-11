@@ -6,7 +6,7 @@ author:
   display_name: Andy Aldridge
   email:
   url: http://www.grange85.co.uk/swirling
-imageurl:
+image:
 categories:
  - galaxie 500
 ---

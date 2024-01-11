@@ -6,7 +6,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-09-26/19890926_dean1_lori.jpg
+image: https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-09-26/19890926_dean1_lori.jpg
 date: '2012-07-19'
 categories:
 - galaxie 500

@@ -8,7 +8,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2014-01-04'
-imageurl: https://media.fullofwishes.co.uk/00-misc/pictures/everly-brothers-1970.jpg
+image: https://media.fullofwishes.co.uk/00-misc/pictures/everly-brothers-1970.jpg
 categories:
 - damon & naomi
 - originals

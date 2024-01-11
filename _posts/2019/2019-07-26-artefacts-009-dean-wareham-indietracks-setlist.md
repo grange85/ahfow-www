@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-07-26
-imageurl: https://live.staticflickr.com/65535/48146530781_9a11d93f3b_b.jpg
+image: https://live.staticflickr.com/65535/48146530781_9a11d93f3b_b.jpg
 categories:
  - artefacts
  - dean wareham

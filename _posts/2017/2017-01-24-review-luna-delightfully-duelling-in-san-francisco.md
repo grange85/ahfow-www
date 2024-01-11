@@ -6,7 +6,7 @@ author:
   display_name: Jenell Kessler
   login: jenell
 date: 2017-01-24 21:00 +0000
-imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-chapel-sf-frank-silvestry-006.jpg
+image: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-chapel-sf-frank-silvestry-006.jpg
 categories:
  - luna
 tags:

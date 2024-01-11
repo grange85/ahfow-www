@@ -5,7 +5,7 @@ title: "On Fire - side 2, track 4: Plastic Bird"
 author:
   display_name: Andy Aldridge
 date: 2019-10-17
-imageurl: https://live.staticflickr.com/65535/48827242298_98aed18aa9_c.jpg
+image: https://live.staticflickr.com/65535/48827242298_98aed18aa9_c.jpg
 categories:
  - galaxie 500
  - on-fire-30

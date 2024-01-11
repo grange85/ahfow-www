@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/2023-05-12-damon-and-naomi-hamden-ct.jpg
+image: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/2023-05-12-damon-and-naomi-hamden-ct.jpg
 categories:
 - damon & naomi
 - audio

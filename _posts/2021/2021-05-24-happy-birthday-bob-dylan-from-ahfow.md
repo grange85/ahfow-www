@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-05-24 10:00
-imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/luna-chinatown-dylan-modern-times.jpg
+image: https://media.fullofwishes.co.uk/02-luna/pictures/luna-chinatown-dylan-modern-times.jpg
 categories:
  - dean & britta
  - damon & naomi

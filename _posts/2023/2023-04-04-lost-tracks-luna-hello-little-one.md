@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://live.staticflickr.com/6149/6010599327_b1219cfa9c_c.jpg
+image: https://live.staticflickr.com/6149/6010599327_b1219cfa9c_c.jpg
 categories:
 - luna
 - lost tracks

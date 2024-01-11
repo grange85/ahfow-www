@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2022-01-25
-imageurl: https://media.fullofwishes.co.uk/ahfow/uploads/2009/05/terrydean.jpg
+image: https://media.fullofwishes.co.uk/ahfow/uploads/2009/05/terrydean.jpg
 categories:
  - news
  - luna

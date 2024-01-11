@@ -6,7 +6,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-06-22/1990-06-22-galaxie-500-glastonbury-robert-richard-flickr-cc.jpg
+image: https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-06-22/1990-06-22-galaxie-500-glastonbury-robert-richard-flickr-cc.jpg
 date: '2009-03-20'
 categories:
 - galaxie 500

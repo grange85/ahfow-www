@@ -6,7 +6,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/justin-dean-mtv-rabbit.jpg
+image: https://media.fullofwishes.co.uk/02-luna/pictures/justin-dean-mtv-rabbit.jpg
 date: '2014-08-01'
 categories:
 - news
