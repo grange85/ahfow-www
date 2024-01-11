@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2017-04-20
-imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-uk-tv-collage.jpg
+image: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-uk-tv-collage.jpg
 categories:
  - galaxie 500
  - video

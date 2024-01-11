@@ -4,7 +4,7 @@ title: "New Naomi Yang video for Meg Baird and new song co-written with Tanya Do
 author:
 display_name: Andy
 login: admin
-imageurl: https://media.fullofwishes.co.uk/00-misc/pictures/meg-baird-dont-weigh-down-the-light.jpg
+image: https://media.fullofwishes.co.uk/00-misc/pictures/meg-baird-dont-weigh-down-the-light.jpg
 email: andy@fullofwishes.co.uk
 url: http://www.grange85.co.uk
 date: '2015-12-12'

@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-and-naomi-eu-2023.jpg
+image: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-and-naomi-eu-2023.jpg
 categories:
 - damon & naomi
 - news

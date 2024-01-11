@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-06-16
-imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2010-07-22/2010-07-22-dean-and-britta-13mb-wnyc.jpg
+image: https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2010-07-22/2010-07-22-dean-and-britta-13mb-wnyc.jpg
 categories:
  - dean & britta
  - video

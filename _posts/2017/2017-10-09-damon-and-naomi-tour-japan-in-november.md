@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2017-10-09 23:00 +1000
-imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2017-11/2017-11-damon-and-naomi-japan.jpg
+image: https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2017-11/2017-11-damon-and-naomi-japan.jpg
 categories:
  - damon & naomi
  - news

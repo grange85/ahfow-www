@@ -7,7 +7,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2022-09-22
-imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/temprising_book.jpg
+image: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/temprising_book.jpg
 categories:
 - news
 - galaxie 500

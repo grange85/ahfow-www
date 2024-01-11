@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/hearing-voices-illustrated-lyrics-dean-wareham-06.jpg
+image: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/hearing-voices-illustrated-lyrics-dean-wareham-06.jpg
 categories:
 - dean wareham
 - galaxie 500

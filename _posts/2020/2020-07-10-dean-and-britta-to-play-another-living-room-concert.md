@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2020-07-10
-imageurl: https://live.staticflickr.com/65535/50098750901_a100f6d848_c.jpg
+image: https://live.staticflickr.com/65535/50098750901_a100f6d848_c.jpg
 categories:
  - dean & britta
  - luna

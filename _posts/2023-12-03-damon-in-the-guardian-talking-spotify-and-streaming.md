@@ -10,7 +10,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-krukowski-the-new-analog.jpg
+image: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-krukowski-the-new-analog.jpg
 categories:
 - news
 - damon & naomi

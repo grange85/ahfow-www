@@ -8,7 +8,7 @@ author:
   email: joakim@fullofwishes.co.uk
   url: ''
 date: 2017-02-19 01:00 +0000
-imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-penthouse-joakim-21.jpg
+image: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-penthouse-joakim-21.jpg
 categories:
  - luna
  - review

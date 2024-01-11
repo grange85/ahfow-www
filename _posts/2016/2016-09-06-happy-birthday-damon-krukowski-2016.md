@@ -7,7 +7,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2016-09-06'
-imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-krukowski-the-new-analog.jpg
+image: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-krukowski-the-new-analog.jpg
 categories:
  - galaxie 500
  - damon & naomi

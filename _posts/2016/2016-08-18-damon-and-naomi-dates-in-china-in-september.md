@@ -7,7 +7,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2016-08-14'
-imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/dandn-2015.jpg
+image: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/dandn-2015.jpg
 categories:
 - news
 - damon & naomi

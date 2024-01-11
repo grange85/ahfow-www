@@ -7,7 +7,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2016-10-02'
-imageurl: https://media.fullofwishes.co.uk/00-misc/pictures/friendly-liquid-advice.jpg
+image: https://media.fullofwishes.co.uk/00-misc/pictures/friendly-liquid-advice.jpg
 description: |
  Try out this cocktail recipe to accompany your Luna listening. Plus watch a 360&deg; video of Luna playing
  Friendly Advice

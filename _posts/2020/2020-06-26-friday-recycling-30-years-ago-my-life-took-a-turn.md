@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2020-06-26
-imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-06-27/1990-06-27_galaxie_500-naomi-vidcap.jpg
+image: https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-06-27/1990-06-27_galaxie_500-naomi-vidcap.jpg
 categories:
  - galaxie 500
  - admin

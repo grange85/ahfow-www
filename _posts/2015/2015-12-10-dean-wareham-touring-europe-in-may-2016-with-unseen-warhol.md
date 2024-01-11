@@ -7,7 +7,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2015-12-10'
-imageurl:
+image:
 categories:
 - dean wareham
 - news

@@ -9,7 +9,7 @@ author:
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 date: '2017-12-15'
-imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-aq-lagniappe.jpg
+image: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-aq-lagniappe.jpg
 categories:
  - dean wareham
  - dean & britta

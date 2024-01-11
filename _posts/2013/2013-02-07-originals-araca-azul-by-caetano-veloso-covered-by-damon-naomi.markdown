@@ -8,7 +8,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2013-02-07'
-imageurl: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Caetano_Veloso_no_III_Festival_da_M%C3%BAsica_Popular.tif/lossy-page1-800px-Caetano_Veloso_no_III_Festival_da_M%C3%BAsica_Popular.tif.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Caetano_Veloso_no_III_Festival_da_M%C3%BAsica_Popular.tif/lossy-page1-800px-Caetano_Veloso_no_III_Festival_da_M%C3%BAsica_Popular.tif.jpg
 categories:
 - damon & naomi
 - originals

@@ -7,7 +7,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2016-11-02'
-imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-krukowski-the-new-analog-cover.jpg
+image: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-krukowski-the-new-analog-cover.jpg
 description: |
   Damon's book 'The New Analog' will be published on Record Store Day 2017 and is now available to pre-order from Amazon
 categories:

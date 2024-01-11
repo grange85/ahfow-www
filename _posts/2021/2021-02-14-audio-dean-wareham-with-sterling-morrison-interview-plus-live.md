@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-02-14
-imageurl: https://media.fullofwishes.co.uk/images/misc/luna_vu_sd.jpg
+image: https://media.fullofwishes.co.uk/images/misc/luna_vu_sd.jpg
 categories:
  - luna
  - dean wareham

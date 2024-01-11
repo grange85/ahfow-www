@@ -7,7 +7,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/00-misc/pictures/gainsbourg-bardot.jpg
+image: https://media.fullofwishes.co.uk/00-misc/pictures/gainsbourg-bardot.jpg
 date: '2013-03-13'
 categories:
 - luna

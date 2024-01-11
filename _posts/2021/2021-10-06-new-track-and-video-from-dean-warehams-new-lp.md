@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-10-06
-imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/as-much-as-it-was-worth-it-screengrab-1.jpg
+image: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/as-much-as-it-was-worth-it-screengrab-1.jpg
 categories:
  - video
  - news

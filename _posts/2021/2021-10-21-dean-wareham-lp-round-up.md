@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-10-21
-imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-i-have-nothing-to-say-lp-cd.jpg
+image: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-i-have-nothing-to-say-lp-cd.jpg
 categories:
  - dean wareham
  - news

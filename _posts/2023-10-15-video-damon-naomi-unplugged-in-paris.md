@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/2023-09-damon-naomi-paris-yt-grab.jpg
+image: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/2023-09-damon-naomi-paris-yt-grab.jpg
 categories:
 - damon & naomi
 - video

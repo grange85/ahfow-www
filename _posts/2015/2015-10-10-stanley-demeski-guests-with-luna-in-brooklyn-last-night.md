@@ -6,7 +6,7 @@ author:
 date: '2015-10-10'
 categories:
  - luna
-imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-stan-with-luna-janice.jpg
+image: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-stan-with-luna-janice.jpg
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-stan-with-luna-janice.jpg" alt="Stan with Luna after last night&#39;s show (photo: Janice Demeski)" /><figcaption class="caption-text">Stan with Luna after last night&#39;s show (photo: Janice Demeski)</figcaption></figure>
 <p class="lead">Last night at <a href="/database/luna/shows/2015/2015-10-09-luna-music-hall-of-williamsburg-brooklyn-ny-usa/">The Music Hall of Williamsburg in Brooklyn</a>, Luna were joined on stage by former drummer Stan Demeski for the first time since 1996.</p>

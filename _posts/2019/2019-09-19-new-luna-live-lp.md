@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-09-19
-imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/tell-me-do-you-miss-me-lp-label-comp.jpg
+image: https://media.fullofwishes.co.uk/02-luna/sleeves/tell-me-do-you-miss-me-lp-label-comp.jpg
 categories:
  - luna
  - news

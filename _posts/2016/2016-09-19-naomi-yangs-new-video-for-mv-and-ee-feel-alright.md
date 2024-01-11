@@ -7,7 +7,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2016-09-19'
-imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/mv-ee-feel-alright.jpg
+image: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/mv-ee-feel-alright.jpg
 categories:
  - news
  - damon & naomi

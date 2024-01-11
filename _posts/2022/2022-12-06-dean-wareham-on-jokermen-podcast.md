@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2022-12-06
-imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dw_olympia_paris_ht.jpg
+image: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dw_olympia_paris_ht.jpg
 categories:
  - dean wareham
  - news

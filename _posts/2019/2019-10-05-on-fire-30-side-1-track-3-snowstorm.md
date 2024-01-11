@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-10-05
-imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/screenshot-galaxie-500-snub.jpg
+image: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/screenshot-galaxie-500-snub.jpg
 categories:
  - galaxie 500
  - on-fire-30

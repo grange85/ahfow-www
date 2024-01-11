@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2020-07-26
-imageurl: https://live.staticflickr.com/65535/50154779017_82fc0028ba_c.jpg
+image: https://live.staticflickr.com/65535/50154779017_82fc0028ba_c.jpg
 categories:
  - dean & britta
  - review

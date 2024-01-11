@@ -10,7 +10,7 @@ author:
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 date: '2018-04-06'
-imageurl: https://media.fullofwishes.co.uk/images/2018-04-06-galaxie-500-merch.jpg
+image: https://media.fullofwishes.co.uk/images/2018-04-06-galaxie-500-merch.jpg
 categories:
  - galaxie 500
  - news

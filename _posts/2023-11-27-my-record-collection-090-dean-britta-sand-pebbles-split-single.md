@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-and-britta-sand-pebbles-split.jpg
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-and-britta-sand-pebbles-split.jpg
 categories:
 - dean & britta
 - my record collection

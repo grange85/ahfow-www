@@ -10,7 +10,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/scr276lp_v2_deanwareham_live_bc_expanded.jpg
+image: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/scr276lp_v2_deanwareham_live_bc_expanded.jpg
 categories:
 - dean wareham
 - news

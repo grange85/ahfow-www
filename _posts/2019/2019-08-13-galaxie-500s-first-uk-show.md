@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-08-13
-imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-09-23/1989-09-23-galaxie-500-the-white-hart-tulse-hill-window-notice.jpg
+image: https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-09-23/1989-09-23-galaxie-500-the-white-hart-tulse-hill-window-notice.jpg
 categories:
  - galaxie 500
  - news

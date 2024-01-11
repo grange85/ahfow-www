@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: '2016-12-10 10:00 +0000'
-imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/pledgemusic-romantica-rendezvous-2017.jpg
+image: https://media.fullofwishes.co.uk/02-luna/pictures/pledgemusic-romantica-rendezvous-2017.jpg
 categories:
  - luna
  - news

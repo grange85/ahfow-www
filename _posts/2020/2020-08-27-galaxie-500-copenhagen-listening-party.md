@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2020-08-27
-imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/2020-08-27-dk-copenhagen-twitter.jpg
+image: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/2020-08-27-dk-copenhagen-twitter.jpg
 categories:
  - galaxie 500
  - news

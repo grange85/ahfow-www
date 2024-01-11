@@ -8,7 +8,7 @@ author:
   email: joakim@fullofwishes.co.uk
   url: ''
 date: 2017-05-05 10:00 +0100
-imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-dsc01671-3-06.jpg
+image: https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10/joakim-uk/manchester-dsc01671-3-06.jpg
 categories:
  - luna
  - review

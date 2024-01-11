@@ -10,7 +10,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-live-vhs-rip-unknown-date-venue.png
+image: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-live-vhs-rip-unknown-date-venue.png
 categories:
 - galaxie 500
 - video

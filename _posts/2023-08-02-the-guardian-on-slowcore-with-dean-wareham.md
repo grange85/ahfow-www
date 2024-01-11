@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/ahfow/uploads/2009/05/galaxiestill1-1024x718.jpg
+image: https://media.fullofwishes.co.uk/ahfow/uploads/2009/05/galaxiestill1-1024x718.jpg
 categories:
 - dean wareham
 - galaxie 500

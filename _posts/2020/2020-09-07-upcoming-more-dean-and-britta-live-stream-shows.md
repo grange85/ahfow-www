@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2020-09-07
-imageurl: https://media.fullofwishes.co.uk/images/2020-05-30-dean-and-britta-veeps.jpg
+image: https://media.fullofwishes.co.uk/images/2020-05-30-dean-and-britta-veeps.jpg
 categories:
  - dean & britta
 tags:

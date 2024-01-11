@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-10-07 21:20:00
-imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-approaching-perfection.jpg
+image: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-approaching-perfection.jpg
 categories:
  - dean wareham
  - news

@@ -8,7 +8,7 @@ author:
   email:
   url:
 date: 2017-10-29 23:00 +0100
-imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1995_a.jpg
+image: https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1995_a.jpg
 categories:
  - luna
  - review

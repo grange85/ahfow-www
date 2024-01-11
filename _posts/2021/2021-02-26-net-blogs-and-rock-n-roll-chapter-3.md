@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-02-25
-imageurl: https://media.fullofwishes.co.uk/00-misc/docs/net-blogs-rock-n-roll-cover.jpg
+image: https://media.fullofwishes.co.uk/00-misc/docs/net-blogs-rock-n-roll-cover.jpg
 categories:
  - editorial
 tags:

@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2020-09-28 
-imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/lips-black-bothsides.png
+image: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/lips-black-bothsides.png
 categories:
  - dean & britta
  - news

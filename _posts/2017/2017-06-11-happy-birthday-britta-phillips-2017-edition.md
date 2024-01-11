@@ -7,7 +7,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2017-06-11'
-imageurl: https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-008.jpg
+image: https://media.fullofwishes.co.uk/02-luna/photos/joakim-alexandria/joakim-luna-alexandria-008.jpg
 categories:
 - news
 - dean & britta

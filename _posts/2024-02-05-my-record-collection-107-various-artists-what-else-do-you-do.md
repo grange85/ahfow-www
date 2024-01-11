@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/what-else-do-you-do.jpg
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/what-else-do-you-do.jpg
 categories:
 - dean wareham
 - my record collection

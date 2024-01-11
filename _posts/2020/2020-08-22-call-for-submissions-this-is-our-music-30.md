@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2020-08-22
-imageurl: https://live.staticflickr.com/65535/48364062427_032127f42a_z.jpg
+image: https://live.staticflickr.com/65535/48364062427_032127f42a_z.jpg
 categories:
  - news
  - galaxie 500

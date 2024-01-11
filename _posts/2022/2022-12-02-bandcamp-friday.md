@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2022-12-02
-imageurl: https://media.fullofwishes.co.uk/00-misc/ahfow-bandcamp-screen.jpg
+image: https://media.fullofwishes.co.uk/00-misc/ahfow-bandcamp-screen.jpg
 categories:
  - news
 tags:

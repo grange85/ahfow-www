@@ -8,7 +8,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2013-12-20'
-imageurl: https://media.fullofwishes.co.uk/00-misc/pictures/sonics_wailers_galaxies_merry_christmas.jpg
+image: https://media.fullofwishes.co.uk/00-misc/pictures/sonics_wailers_galaxies_merry_christmas.jpg
 categories:
 - dean & britta
 - originals

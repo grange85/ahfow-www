@@ -9,7 +9,7 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 date: '2008-10-21 10:25:18 +0100'
-imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/1988-10-21-galaxie-500-today-launch.jpg
+image: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/1988-10-21-galaxie-500-today-launch.jpg
 categories:
 - audio
 - galaxie 500

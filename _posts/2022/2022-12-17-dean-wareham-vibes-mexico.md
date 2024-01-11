@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2022-12-17
-imageurl: https://cdn.grange85.co.uk/ahfow/dean-wareham-vibes-mexico.jpg
+image: https://cdn.grange85.co.uk/ahfow/dean-wareham-vibes-mexico.jpg
 categories:
  - dean wareham
  - news

@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-11-17
-imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-duchess-video-grab-02.jpg 
+image: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-duchess-video-grab-02.jpg 
 categories:
  - dean wareham
  - video

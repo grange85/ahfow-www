@@ -7,7 +7,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2016-07-21'
-imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/brittas-pledgemusic/britta-britta-stefano-giovanni.jpg
+image: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/brittas-pledgemusic/britta-britta-stefano-giovanni.jpg
 description: >
   Britta will be playing at (Le) Poisson Rouge in New York City on the 28th September. Tickets on sale Friday 22nd July.
 categories:

@@ -5,7 +5,7 @@ title: "On Fire - side 2, track 2: Another Day"
 author:
   display_name: Andy Aldridge
 date: 2019-10-13
-imageurl: 
+image: 
 categories:
  - galaxie 500
  - on-fire-30

@@ -8,7 +8,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2013-12-31'
-imageurl: https://upload.wikimedia.org/wikipedia/en/8/86/Rock_Your_Baby_single_art.jpg
+image: https://upload.wikimedia.org/wikipedia/en/8/86/Rock_Your_Baby_single_art.jpg
 categories:
 - luna
 - originals

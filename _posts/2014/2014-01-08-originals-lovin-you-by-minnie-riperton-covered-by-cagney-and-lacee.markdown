@@ -8,7 +8,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2014-01-08'
-imageurl: https://media.fullofwishes.co.uk/00-misc/pictures/minnie-ripperton.png
+image: https://media.fullofwishes.co.uk/00-misc/pictures/minnie-ripperton.png
 categories:
 - dean wareham
 - originals

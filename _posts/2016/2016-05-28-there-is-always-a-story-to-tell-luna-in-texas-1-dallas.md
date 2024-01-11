@@ -7,7 +7,7 @@ author:
   email: joakim@fullofwishes.co.uk
   url: ''
 date: '2016-05-27'
-imageurl: https://media.fullofwishes.co.uk/02-luna/photos/joakim-texas/18-l1020964-all-are-good.jpg
+image: https://media.fullofwishes.co.uk/02-luna/photos/joakim-texas/18-l1020964-all-are-good.jpg
 categories:
 - luna
 photos:

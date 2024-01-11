@@ -7,7 +7,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2016-09-21'
-imageurl: https://media.fullofwishes.co.uk/02-luna/photos/ctbox-005-luna-fake-box-black.jpg
+image: https://media.fullofwishes.co.uk/02-luna/photos/ctbox-005-luna-fake-box-black.jpg
 categories:
  - news
  - luna

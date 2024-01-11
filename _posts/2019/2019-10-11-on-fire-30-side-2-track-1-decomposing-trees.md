@@ -5,7 +5,7 @@ title: "On Fire - side 2, track 1: Decomposing Trees"
 author:
   display_name: Michael Williams
 date: 2019-10-11
-imageurl: 
+image: 
 categories:
  - galaxie 500
  - on-fire-30

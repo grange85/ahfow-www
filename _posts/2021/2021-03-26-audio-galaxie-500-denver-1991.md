@@ -9,7 +9,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-03-26 10:30
-imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1988-12-13/1988-12-13-galaxie-500-cbgb-print-ad.jpg
+image: https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1988-12-13/1988-12-13-galaxie-500-cbgb-print-ad.jpg
 categories:
  - galaxie 500
  - audio

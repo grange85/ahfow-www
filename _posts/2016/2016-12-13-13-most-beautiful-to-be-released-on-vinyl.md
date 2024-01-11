@@ -9,7 +9,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2016-12-13 23:00 +0000
-imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_13mostbeautiful_pink.jpg
+image: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_13mostbeautiful_pink.jpg
 categories:
  - dean & britta
  - news

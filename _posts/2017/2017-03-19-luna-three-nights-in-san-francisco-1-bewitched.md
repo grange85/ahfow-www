@@ -8,7 +8,7 @@ author:
   email: joakim@fullofwishes.co.uk
   url: ''
 date: 2017-03-19 01:00 +0000
-imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-19/20170119-luna-san-francisco-joakim-06.jpg
+image: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-19/20170119-luna-san-francisco-joakim-06.jpg
 categories:
  - luna
  - review

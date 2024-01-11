@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2017-01-30 23:00 +0000
-imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-is-there-another-language.jpg
+image: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-is-there-another-language.jpg
 categories:
  - news
  - dean & britta

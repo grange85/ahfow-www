@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2017-01-23 20:00 +0000
-imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/2017-01-21-chapel-sf-harrison-price-005.jpg
+image: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/2017-01-21-chapel-sf-harrison-price-005.jpg
 categories:
  - luna
  - news

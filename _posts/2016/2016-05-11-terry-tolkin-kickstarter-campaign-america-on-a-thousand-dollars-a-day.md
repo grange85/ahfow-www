@@ -7,7 +7,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2016-05-11'
-imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2016-05-05/2016-05-05-terry-tolkin-luna-austin-joakim.jpg
+image: https://media.fullofwishes.co.uk/02-luna/show_assets/2016-05-05/2016-05-05-terry-tolkin-luna-austin-joakim.jpg
 categories:
 - news
 - luna

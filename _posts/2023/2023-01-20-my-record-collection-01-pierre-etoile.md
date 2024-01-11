@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2023-01-20
-imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/pierre-etoile-spinning-2023.jpg
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/pierre-etoile-spinning-2023.jpg
 categories:
  - damon & naomi
  - my record collection

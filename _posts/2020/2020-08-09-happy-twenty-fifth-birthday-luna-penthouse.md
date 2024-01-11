@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2020-08-09
-imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-penthouse-cassette.jpg
+image: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-penthouse-cassette.jpg
 categories:
  - luna
  - news

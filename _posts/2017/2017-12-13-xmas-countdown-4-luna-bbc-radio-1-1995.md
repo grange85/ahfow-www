@@ -9,7 +9,7 @@ author:
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
 date: '2017-12-13'
-imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1995_a.jpg
+image: https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1995_a.jpg
 categories:
  - luna
 tags:

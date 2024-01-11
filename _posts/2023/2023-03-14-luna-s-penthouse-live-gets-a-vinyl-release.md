@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-live-penthouse-lp-16x9.jpg
+image: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-live-penthouse-lp-16x9.jpg
 categories:
 - news
 - luna

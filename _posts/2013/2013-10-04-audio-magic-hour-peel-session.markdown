@@ -6,7 +6,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/magic-hour-photo.jpg
+image: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/magic-hour-photo.jpg
 date: '2013-10-04'
 categories:
 - damon & naomi

@@ -7,7 +7,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/00-misc/misc/season-of-the-witch-bl-flickr.jpg
+image: https://media.fullofwishes.co.uk/00-misc/misc/season-of-the-witch-bl-flickr.jpg
 date: '2014-04-16'
 categories:
 - luna

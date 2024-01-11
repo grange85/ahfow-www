@@ -10,7 +10,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/do-you-know-how-xmas-trees-iglive.jpg
+image: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/do-you-know-how-xmas-trees-iglive.jpg
 categories:
 - dean & britta
 - video

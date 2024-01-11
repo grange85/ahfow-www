@@ -7,7 +7,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2015-12-26'
-imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/2015-11-luna-kexp-mosaic-2.jpg
+image: https://media.fullofwishes.co.uk/02-luna/pictures/2015-11-luna-kexp-mosaic-2.jpg
 categories:
 - luna
 - video

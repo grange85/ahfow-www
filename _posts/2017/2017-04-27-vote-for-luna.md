@@ -8,7 +8,7 @@ author:
   email:
   url:
 date: 2017-04-27
-imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/luna-painting-by-annabel-wright.jpg
+image: https://media.fullofwishes.co.uk/02-luna/pictures/luna-painting-by-annabel-wright.jpg
 categories:
  - luna
 tags:

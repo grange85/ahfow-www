@@ -10,7 +10,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-imageurl: https://live.staticflickr.com/7394/9826849803_6fb451a322_c.jpg
+image: https://live.staticflickr.com/7394/9826849803_6fb451a322_c.jpg
 categories:
 - video
 - galaxie 500

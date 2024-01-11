@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-04-21 23:00
-imageurl: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-joshua-mills-003.jpg
+image: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-07-11/2017-01-11-luna-gold-diggers-joshua-mills-003.jpg
 categories:
  - luna
  - news

@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-11-07 13:50:00
-imageurl: https://media.fullofwishes.co.uk/00-misc/ahfow-30/on-fire-30-cd-cover.jpg
+image: https://media.fullofwishes.co.uk/00-misc/ahfow-30/on-fire-30-cd-cover.jpg
 categories:
  - galaxie 500
  - news

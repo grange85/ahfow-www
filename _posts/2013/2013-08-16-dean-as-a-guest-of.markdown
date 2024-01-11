@@ -7,7 +7,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2013-08-16'
-imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/pastelsgroop.jpg
+image: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/pastelsgroop.jpg
 categories:
 - dean wareham
 - video

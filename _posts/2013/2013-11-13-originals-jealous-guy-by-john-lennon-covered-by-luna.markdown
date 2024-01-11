@@ -7,7 +7,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-mr-jealousy-soundtrack.jpg
+image: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-mr-jealousy-soundtrack.jpg
 date: '2013-11-13'
 categories:
 - luna

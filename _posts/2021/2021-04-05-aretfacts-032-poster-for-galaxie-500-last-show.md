@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-04-05 22:45
-imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/19910405-galaxie-500-bowdoin-college/19910405-galaxie-500-bowdoin-college-05.jpg
+image: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/19910405-galaxie-500-bowdoin-college/19910405-galaxie-500-bowdoin-college-05.jpg
 categories:
  - artefacts
  - galaxie 500

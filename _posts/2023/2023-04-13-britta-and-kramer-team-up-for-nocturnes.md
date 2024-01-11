@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/britta-kramer-nocturnes.jpg
+image: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/britta-kramer-nocturnes.jpg
 categories:
 - dean & britta
 - news

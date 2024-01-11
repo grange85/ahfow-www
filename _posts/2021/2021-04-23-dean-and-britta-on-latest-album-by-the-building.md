@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-04-23 16:47
-imageurl: https://f4.bcbits.com/img/a0065171340_10.jpg
+image: https://f4.bcbits.com/img/a0065171340_10.jpg
 categories:
  - dean & britta
  - news

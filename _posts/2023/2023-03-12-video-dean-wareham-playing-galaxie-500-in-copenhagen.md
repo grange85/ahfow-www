@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/2023-03-11-dean-wareham-copenhagen-vidcap.jpg
+image: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/2023-03-11-dean-wareham-copenhagen-vidcap.jpg
 categories:
 - dean wareham
 - video

@@ -8,7 +8,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2014-01-29'
-imageurl: https://upload.wikimedia.org/wikipedia/commons/e/ee/Kraftwerk_2019-07-11_-_Paris_%281%29.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/e/ee/Kraftwerk_2019-07-11_-_Paris_%281%29.jpg
 categories:
 - luna
 - originals

@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2020-05-22
-imageurl: https://media.fullofwishes.co.uk/images/dean-and-britta-the-carnival-is-over-sleeve.jpg
+image: https://media.fullofwishes.co.uk/images/dean-and-britta-the-carnival-is-over-sleeve.jpg
 categories:
  - dean & britta
  - news

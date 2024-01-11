@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-08-13
-imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2019-08-12/2019-08-12-dean-britta-butterfly-cabinet-poster.jpg
+image: https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2019-08-12/2019-08-12-dean-britta-butterfly-cabinet-poster.jpg
 categories:
  - dean wareham
  - galaxie 500

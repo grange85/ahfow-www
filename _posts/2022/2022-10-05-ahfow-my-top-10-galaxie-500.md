@@ -7,7 +7,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2022-10-05
-imageurl: https://media.fullofwishes.co.uk/images/ahfow-t-shirt.jpg
+image: https://media.fullofwishes.co.uk/images/ahfow-t-shirt.jpg
 categories:
 - news
 - galaxie 500

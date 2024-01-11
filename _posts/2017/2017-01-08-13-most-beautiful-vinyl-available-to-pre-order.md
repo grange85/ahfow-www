@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2017-01-08
-imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-13-most-beautiful-ww.jpg
+image: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-13-most-beautiful-ww.jpg
 categories:
  - dean & britta
  - 13 most beautiful

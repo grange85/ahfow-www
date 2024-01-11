@@ -6,7 +6,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://live.staticflickr.com/7775/17107937187_f6ca17ab9f_b.jpg
+image: https://live.staticflickr.com/7775/17107937187_f6ca17ab9f_b.jpg
 date: '2012-04-23'
 categories:
 - news

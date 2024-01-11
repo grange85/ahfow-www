@@ -7,7 +7,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/00-misc/pictures/cheese-and-onion-crisps.jpg
+image: https://media.fullofwishes.co.uk/00-misc/pictures/cheese-and-onion-crisps.jpg
 date: '2013-04-10'
 categories:
 - galaxie 500

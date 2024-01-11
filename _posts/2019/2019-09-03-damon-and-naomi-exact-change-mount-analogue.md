@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-09-03
-imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/exact-change-mount-analogue.jpg
+image: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/exact-change-mount-analogue.jpg
 categories:
  - damon & naomi
  - news

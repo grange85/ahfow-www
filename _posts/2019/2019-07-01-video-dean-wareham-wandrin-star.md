@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-07-01
-imageurl: https://media.fullofwishes.co.uk/images/wandrin-star-video-capture.jpg
+image: https://media.fullofwishes.co.uk/images/wandrin-star-video-capture.jpg
 categories:
  - dean wareham
  - video

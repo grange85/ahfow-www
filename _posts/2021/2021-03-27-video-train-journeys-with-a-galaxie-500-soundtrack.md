@@ -9,7 +9,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-03-27 16:30
-imageurl: https://img.youtube.com/vi/3xg2l4le8Is/maxresdefault.jpg
+image: https://img.youtube.com/vi/3xg2l4le8Is/maxresdefault.jpg
 categories:
  - galaxie 500
  - video

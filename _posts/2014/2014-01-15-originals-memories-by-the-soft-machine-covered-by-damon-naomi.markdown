@@ -8,7 +8,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2014-01-15'
-imageurl: https://upload.wikimedia.org/wikipedia/en/0/0b/Softmachine70-Promo4.jpg
+image: https://upload.wikimedia.org/wikipedia/en/0/0b/Softmachine70-Promo4.jpg
 categories:
 - damon & naomi
 - originals

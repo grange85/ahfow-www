@@ -6,7 +6,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1992_b.jpg
+image: https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1992_b.jpg
 date: '2013-09-13'
 categories:
 - luna

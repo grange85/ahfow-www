@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/the-days-of-our-nights-lp-reissue.jpg
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/the-days-of-our-nights-lp-reissue.jpg
 categories:
 - luna
 - my record collection

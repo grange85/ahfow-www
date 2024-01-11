@@ -7,7 +7,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/international-sad-hits-cd.jpg
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/international-sad-hits-cd.jpg
 categories:
 - damon & naomi
 - my record collection

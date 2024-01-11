@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-07-20
-imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2021-06-23/2021-06-02-damon-and-naomi-pem-04.jpg 
+image: https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2021-06-23/2021-06-02-damon-and-naomi-pem-04.jpg 
 categories:
  - damon & naomi
  - news

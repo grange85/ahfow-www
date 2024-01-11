@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2022-11-29
-imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/white-noise-noah-baumbach-poster.jpg
+image: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/white-noise-noah-baumbach-poster.jpg
 categories:
  - dean & britta
  - news

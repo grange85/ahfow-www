@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-11-07 23:00:00
-imageurl: https://images.theabcdn.com/i/29600225/300x300/c
+image: https://images.theabcdn.com/i/29600225/300x300/c
 categories:
  - galaxie 500
  - news

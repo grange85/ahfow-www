@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl: https://media.fullofwishes.co.uk/00-misc/my-record-collection/pee-shy-yellow-race-car.jpg
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/pee-shy-yellow-race-car.jpg
 categories:
 - dean wareham
 - my record collection

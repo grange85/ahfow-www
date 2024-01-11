@@ -7,7 +7,7 @@ author:
   email: joakim@fullofwishes.co.uk
   url: ''
 date: '2016-06-10'
-imageurl: https://media.fullofwishes.co.uk/02-luna/photos/joakim-houston/06-img-1047-photo-ulrika-nice-15.jpg
+image: https://media.fullofwishes.co.uk/02-luna/photos/joakim-houston/06-img-1047-photo-ulrika-nice-15.jpg
 categories:
 - luna
 tags:

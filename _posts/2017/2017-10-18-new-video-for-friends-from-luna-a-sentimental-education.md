@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2017-10-18 23:00 +1000
-imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/friends-grabs/luna-friends-video-caps-01.jpg
+image: https://media.fullofwishes.co.uk/02-luna/pictures/friends-grabs/luna-friends-video-caps-01.jpg
 categories:
  - luna
  - news

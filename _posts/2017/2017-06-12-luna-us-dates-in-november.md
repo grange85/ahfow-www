@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2017-06-12 23:00 +0000
-imageurl: https://media.fullofwishes.co.uk/02-luna/photos/joakim-boston/joakim-luna-boston-2016-09-29-07.jpg
+image: https://media.fullofwishes.co.uk/02-luna/photos/joakim-boston/joakim-luna-boston-2016-09-29-07.jpg
 categories:
  - luna
  - news
