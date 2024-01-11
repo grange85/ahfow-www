@@ -43,6 +43,7 @@ collections:
 twitter_username: ahfow
 github_username:  grange85
 permalink: /:year/:month/:day/:title/
+plausible_domain: "fullofwishes.co.uk"
 
 theme: no-style-please
 theme_config:
