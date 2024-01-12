@@ -24,8 +24,8 @@ module Jekyll
 
     def render(context)
       if tag_contents = determine_arguments(@markup.strip)
-        ahfowvideo_url, ahfowvideo_caption, ahfowvideo_thumbnail = tag_contents[0], tag_contents[1], tag_contents[2]
-        ahfowvideo_tag(ahfowvideo_url, ahfowvideo_caption, ahfowvideo_thumbnail)
+        ahfowvideo_url, ahfowvideo_caption, ahfowvideo_thumbnail, page_url = tag_contents[0], tag_contents[1], tag_contents[2], context['page']['url']
+        ahfowvideo_tag(ahfowvideo_url, ahfowvideo_caption, ahfowvideo_thumbnail,page_url)
       else
         raise ArgumentError.new <<-eos
 Syntax error in tag 'ahfowvideo' while parsing the following markup:
@@ -40,19 +40,24 @@ eos
 
     private
 
+
     def determine_arguments(input)
       matched = input.match(/"(.*?)" ?"(.*?)"( ?"(.*?)")?/)
       [matched[1].to_s.strip, matched[2].to_s.strip, matched[4].to_s.strip] if matched && matched.length >= 3
     end
 
-    def ahfowvideo_tag(ahfowvideo_url, ahfowvideo_caption = nil, ahfowvideo_thumbnail = nil)
+    def ahfowvideo_tag(ahfowvideo_url, ahfowvideo_caption = nil, ahfowvideo_thumbnail = nil, page_url=nil)
       if ahfowvideo_thumbnail.empty?
         ahfowvideo_thumbnail = "https://img.youtube.com/vi/#{ahfowvideo_url}/maxres1.jpg"
       end
       <<~HEREDOC
       <div class="text-center">
         <figure class="figure w-100">
-          <a href="https://www.youtube.com/watch?v=#{ahfowvideo_url}" >
+          <a 
+             data-goatcounter-click="external-youtube.com-#{ahfowvideo_url}"
+             data-goatcounter-title="YouTube-#{ahfowvideo_caption}"
+             data-goatcounter-referrer="#{page_url}"
+             href="https://www.youtube.com/watch?v=#{ahfowvideo_url}" >
               <img src="#{ahfowvideo_thumbnail}" class="img-fluid opacity-3h4 mx-auto" />
           <figcaption class="figure-caption text-right">
             #{ahfowvideo_caption} (play on YouTube)
