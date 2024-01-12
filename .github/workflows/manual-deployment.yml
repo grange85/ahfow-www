@@ -37,7 +37,7 @@ jobs:
         bundler-cache: true
     - name: Build site
       run: |
-        bundle exec jekyll build --config _config.yml,_config_${{ github.event.inputs.deploy-environment }}.yml
+        JEKYLL_ENV=${{ github.event.inputs.deploy-environment }} bundle exec jekyll build --config _config.yml,_config_${{ github.event.inputs.deploy-environment }}.yml
 
     # Example deployment: Push to S3
     - name: Configure AWS credentials
