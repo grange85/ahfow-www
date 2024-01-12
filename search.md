@@ -6,7 +6,7 @@ custom_js:
 ---
 <form>
   <div class="form-group">
-    <label for="searchInput"><h2>Search</h2></label>
+    <label for="searchInput"><h3>Search (posts only)</h3></label>
     <small id="searchHelp" class="form-text text-muted">just type in the box and the results will be shown below.</small>
 <div class="input-group mb-3">
   <span class="input-group-text" id="basic-addon1"><i class="bi bi-search"></i></span>
@@ -21,7 +21,7 @@ custom_js:
 
 <form onsubmit="event.preventDefault();document.location.href='https://www.google.com/search?q=site%3Awww.fullofwishes.co.uk%20'+document.getElementById('q').value;">
   <div class="form-group">
-    <label for="GsearchInput"><h2>Search via Google</h2></label>
+    <label for="GsearchInput"><h3> Full site search via Google</h3></label>
 <div class="input-group mb-3">
   <span class="input-group-text" id="basic-addon1"><i class="bi bi-search"></i></span>
   <input  class="form-control form-control-lg" type="text" class="form-control" id="q" placeholder="Search AHFoW via Google" aria-describedby="GsearchHelp">
