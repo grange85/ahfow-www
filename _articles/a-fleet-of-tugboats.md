@@ -91,8 +91,8 @@ tags:
   "audiocap": "Tugboat - British Sea Power",
   "sourceurl": "https://en.wikipedia.org/wiki/Stop_Me_If_You_Think_You%27ve_Heard_This_One_Before...",
   "sourcecap": "Stop Me If You Think You've Heard This One Before&hellip;"
-  } %
-}
+  } %}
+
 {% ahfowvideo "PM9fqFOMWt8" "Tugboat - British Sea Power (live in Newcastle, 2008)" %}
 
 <h4 id="tugboat-citay">Citay</h4>
