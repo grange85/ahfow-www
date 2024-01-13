@@ -7,6 +7,7 @@ source:
   name: A Head Full of Wishes
   publication_date: 2010
 date_gmt: '2010-06-15 21:45:47 +0100'
+image: https://c8.staticflickr.com/4/3559/3763561031_211cc7b2a7_b.jpg
 categories:
 - dean & britta
 - galaxie 500
