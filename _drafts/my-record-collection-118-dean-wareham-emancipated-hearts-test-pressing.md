@@ -22,13 +22,19 @@ So Dean Wareham's first LP puts in it's third, and (I think) final, appearance i
 {% ahfowimage "url" "caption" %}       
 
 **Love Is Colder Than Death**
-Named after Rainer Werner Fassbinder's 
+Named after Rainer Werner Fassbinder's first feature film... which [is on YouTube](https://www.youtube.com/watch?v=cW_5KheEG_c) and I started to watch but it was slow, and grubby and over stylised and derivative of the French New Wave from years earlier. We went and saw his much better The Marriage of Maria Braun at the NFT a few years ago and Hanna Schygulla introduced it.
 
-Emancipated Hearts 05:12
-The Deadliest Day Since the Invasion Began 03:20
-The Longest Bridges in the World 05:47
-The Ticking is the Bomb 04:07
-Air 03:10 
+**Emancipated Hearts**
+This has an odd middle section where Dean drifts into Little Drummer Boy so I guess, this makes it a Christmas song.
+
+**The Deadliest Day Since the Invasion Began**
+
+
+**The Longest Bridges in the World**
+
+**The Ticking is the Bomb**
+
+**Air**
 
 
  - *Catalogue Number:* AHFOW 12/0024
