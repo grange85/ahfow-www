@@ -39,14 +39,14 @@ And of course...
 
 {% ahfowaudio {
 "audiourl": "https://media.fullofwishes.co.uk/01-galaxie_500/audio/Galaxie-500_Flowers_-live-_Gigantic2.mp3",
-"audiocap": "Galaxie 500 - Flowers (live in Amsterdan)",
+"audiocap": "Galaxie 500 - Flowers (live in Amsterdam)",
 "sourceurl": "/database/galaxie-500/releases/miscellaneous/#gigantic-2",
 "sourcecap": "Gigantic! 2 - Nineteen for the Nineties"
 } %}
 
 ... and others, less impressive, but most not much... less... er! Just a couple of turds (See See Rider and Pussy Galore).
 
-The myth of the longevity and indestrictibiliy of the CD format took many hits over the years - one of those was [CD bronzing](https://en.wikipedia.org/wiki/Compact_disc_bronzing) where the discs would discolour and eventually become unplayable. This mostly affected discs manufactured by PDO in Blackburn. The Melody Maker CD of Gigantic 2 was affected by this fault.
+The myth of the longevity and indestructibility of the CD format took many hits over the years - one of those was [CD bronzing](https://en.wikipedia.org/wiki/Compact_disc_bronzing) where the discs would discolour and eventually become unplayable. This mostly affected discs manufactured by PDO in Blackburn. The Melody Maker CD of Gigantic 2 was affected by this fault.
 
 This issue was brought to light in 1994 and the manufacturer admitted that it was a fault of theirs and agreed to replace discs. As a public service to Galaxie 500 fans I posted the information on how to replace discs to the web site and the mailing list (and the [Galaxie 500 miniFAQ - see Q5](https://media.fullofwishes.co.uk/archive/1996-06-27-galaxie-500-mailing-list-mini-faq.txt)), as follows:
 
