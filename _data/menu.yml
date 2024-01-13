@@ -1,23 +1,4 @@
 entries:
-  - title: A Head Full of Wishes
-    entries:
-      - title: About A Head Full of Wishes
-        url: /about/
-      - title: Discography / Gigography
-        url: /database/
-        entries:
-          - title: Galaxie 500
-            url: /database/galaxie-500/
-          - title: Luna
-            url: /database/luna/
-          - title: Damon & Naomi
-            url: /database/damon-and-naomi/
-          - title: Dean & Britta
-            url: /database/dean-and-britta/
-          - title: Dean Wareham
-            url: /database/dean-wareham/
-      - title: rss
-        url: /feed/
   - title: Latest
     post_list: 
       limit: 5
@@ -29,6 +10,8 @@ entries:
         url: /category/originals/
       - title: Artefacts
         url: /category/artefacts/
+      - title: Discography / gigography
+        url: /database/
   - title: News
     post_list:
       limit: 3
@@ -43,6 +26,9 @@ entries:
       show_more: true
       show_more_text: ... more Galaxie 500
       show_more_url: /category/galaxie-500/
+    entries:
+      - title: Galaxie 500 discography/gigography
+        url: /database/galaxie-500/
   - title: Luna
     post_list:
       limit: 3
@@ -50,6 +36,9 @@ entries:
       show_more: true
       show_more_text: ... more Luna
       show_more_url: /category/luna/
+    entries:
+      - title: Luna discography/gigography
+        url: /database/luna/
   - title: Damon & Naomi
     post_list:
       limit: 3
@@ -57,6 +46,9 @@ entries:
       show_more: true
       show_more_text: ... more Damon & Naomi
       show_more_url: /category/damon-naomi/
+    entries:
+      - title: Damon & Naomi discography/gigography
+        url: /database/damon-and-naomi/
   - title: Dean & Britta
     post_list:
       limit: 3
@@ -67,6 +59,8 @@ entries:
     entries:
       - title: 13 Most Beautiful
         url: /category/13-most-beautiful/
+      - title: Dean & Britta discography/gigography 
+        url: /database/dean-and-britta/
   - title: Dean Wareham
     post_list:
       limit: 3
@@ -74,6 +68,9 @@ entries:
       show_more: true
       show_more_text: ... more Dean Wareham
       show_more_url: /category/dean-wareham/
+    entries:
+      - title: Dean Wareham discography
+        url: /database/dean-wareham/
 
   - title: Other categories
     entries:
