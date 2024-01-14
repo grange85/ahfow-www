@@ -33,10 +33,10 @@ I'm rather surprised that this isn't a film title too, but is actually lifted fr
 
 <blockquote>Bees were disappearing, maybe because of cell phone radiation, maybe because of perfume, maybe because of candy. It was the deadliest day since the invasion began. Unmanned drones made sorrowful noise overhead. It was 1933. The cities were polluted with light, the world warming. The seas rising. The seas were closing over future readers. Confused trees were blooming early; you could view the pics from space online.
 </blockquote>
-<p style="text-align:right;"><small>&mdash; <a href="https://www.google.co.uk/books/edition/Leaving_the_Atocha_Station/zwQ-fXZXfa0C?hl=en&gbpv=1">Ben Lerner - Leaving the Atocha Station</a></small></p>
+<p class="caption"><a href="https://www.google.co.uk/books/edition/Leaving_the_Atocha_Station/zwQ-fXZXfa0C?hl=en&gbpv=1">Ben Lerner - Leaving the Atocha Station</a></p>
 
 **The Longest Bridges in the World**  
-The longest bridges in the world (as [listed in Wikipedia](https://en.wikipedia.org/wiki/List_of_longest_bridges) I have crossed are...
+The longest bridges in the world (as [listed in Wikipedia](https://en.wikipedia.org/wiki/List_of_longest_bridges)) I have crossed are...
  - The Oresund between Denmark and Sweden (travelling by train between Luna shows).
  - Saint-Nazaire Bridge in France
  - The Tay Bridge in Scotland
@@ -49,7 +49,7 @@ Air is a cover of a track from Scottish psych-folk band The Incredible String Ba
 
 <blockquote>The first inkling I had took place after I left the Paradox Restaurant came when the Incredible String Band's US agent telephoned me in LA. Rather than send the tour proceeds to our London bank as agreed, they wanted it all paid in cash. I got through to Licorice, who told me they needed it to pay for Scientology courses. I knew little about the cult but what I had heard wasn't good. When I arrived back in New York I was confronted with a strangely unified foursome: they wanted the money and wanter to give it to the Church of Scientology.
 </blockquote>
-<p style="text-align:right;"><small>&mdash; <a href="https://www.google.co.uk/books/edition/White_Bicycles/wdc9a8T20gMC?hl=en&gbpv=1&dq=joe+boyd+white&printsec=frontcover&pli=1">Joe Boyd- White Bicylces</a></small></p>
+<p class="caption"><a href="https://www.google.co.uk/books/edition/White_Bicycles/wdc9a8T20gMC?hl=en&gbpv=1&dq=joe+boyd+white&printsec=frontcover&pli=1">Joe Boyd- White Bicylces</a></p>
 
 
  - *Catalogue Number:* AHFOW 12/0024

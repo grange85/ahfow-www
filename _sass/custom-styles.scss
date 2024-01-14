@@ -1,0 +1,7 @@
+p.caption {
+	font-size: 0.85rem;
+	text-align: right;
+}
+p.caption:before {
+	content: '\2014 ';
+}
