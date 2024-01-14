@@ -1,8 +1,15 @@
 ---
+title: 404 - page not found"
 layout: page
-title: Page not found
 sitemap: false
 ---
+<script>
+window.goatcounter = {
+	path: function(p) {
+	    return window.location.pathname + window.location.search
+	}
+}
+</script>
 <script>plausible("404",{ props: { path: document.location.pathname } });</script>
 <p class="lead">Things sometimes go astray - it's probably here somewhere, so you could try:</p>
 

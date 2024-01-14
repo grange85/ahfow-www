@@ -1,25 +1,47 @@
 ---
+title: 404 - page not found
+layout: page
+sitemap: false
 permalink: /404.html
-layout: default
 ---
+<script>
+window.goatcounter = {
+	path: function(p) {
+	    return window.location.pathname + window.location.search
+	}
+}
+</script>
+<script>plausible("404",{ props: { path: document.location.pathname } });</script>
+<p class="lead">Things sometimes go astray - it's probably here somewhere, so you could try:</p>
 
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
+<div class="bs-callout bs-callout-info">
+  <h3>Searching</h3>
+<p><a href="/search/">Search A Head Full of Wishes</a>.</p>
 
-<div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
 </div>
+
+<div class="bs-callout bs-callout-info">
+  <h3>Browsing</h3>
+  <ul>
+    <li>Maybe <a href="/">start at the home page</a></li>
+    <li>Or look through <a href="/database/">the database</a></li>
+  </ul>
+</div>
+
+<div class="bs-callout bs-callout-info">
+  <h3>Asking</h3>
+<p>You can find me all over the place so feel free to ask if there's anything I can help with.</p>
+
+<ul>
+  <li><a href="mailto:andy@fullofwishes.co.uk">Email</a></li>
+  <li><a href="https://twitter.com/ahfow/">Twitter</a></li>
+  <li><a href="https://www.facebook.com/fullofwishes/">Facebook</a></li>
+  <li><a href="https://www.instagram.com/fullofwishes/">Instagram</a></li>
+  <li><a href="https://reddit.com/r/aheadfullofwishes/">Reddit</a></li>
+</ul>
+
+
+</div>
+
+<div id="wb404"></div>
+<script src="https://archive.org/web/wb404.js"> </script>
