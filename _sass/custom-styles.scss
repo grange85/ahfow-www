@@ -1,7 +1,7 @@
-p.caption {
+p.caption, figcaption.figure-caption {
 	font-size: 0.85rem;
 	text-align: right;
 }
-p.caption:before {
+p.caption:before, figcaption.figure-caption:before {
 	content: '\2014 ';
 }
