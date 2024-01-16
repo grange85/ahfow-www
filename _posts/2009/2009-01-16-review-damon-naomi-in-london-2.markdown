@@ -11,7 +11,7 @@ categories:
 - damon & naomi
 - pictures
 ---
-<p><a href="https://www.flickr.com/photos/grange85/3200535564" title="Damon & Naomi by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://farm4.staticflickr.com/3317/3200535564_146778b91d_z.jpg" width="640" height="480" alt="Damon & Naomi"></a>
+<p><a href="https://www.flickr.com/photos/grange85/3200535564" title="Damon & Naomi by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://farm4.staticflickr.com/3317/3200535564_146778b91d_z.jpg" alt="Damon & Naomi"></a>
 <p>Hazel and I headed out to the lovely Luminaire last night to catch <a href="http://www.damonandnaomi.com">Damon & Naomi</a> play a very sweet and nicely well attended show in London. We missed the first support but caught the whole of <a href="http://www.theleftoutsides.com/">The Left Outsides</a> playing another enjoyable set. We oddly managed to find a very good spot right at the front of the stage after The Left Outsides had finished.</p>
 <p>It seems that Naomi hadn't brought over her bass so played the whole set on her Nord Electro 2. They played a great set mixed from old (In The Sun, Memories, New York City), new (Lilac Land, Stars Never Fade, Cruel Queen) and one unreleased track - a cover of the Scott Walker track "The World's Strongest Man" which they've recorded for a new Scott Walker tribute record (about which I haven't managed to track down any information as yet).</p>
 <p>Damon was, as usual, on good form with a hilariously bizarre story about his afternoon visit to <a href="http://www.freud.org.uk/">The Freud Museum</a>.  It was nice to be able to enjoy Damon's rambles without having to worry about them eating into a short (supporting) set.</p>
