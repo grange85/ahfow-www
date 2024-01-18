@@ -11,7 +11,7 @@ categories:
 - editorial
 ---
 <p>I had a nice full year for A Head Full of Wishes so here's a short summary just because I feel like it. Obviously this is from a very personal perspective... feel free to comment on your own AHFoW related '09 highs...</p>
-<p><a href="http://www.flickr.com/photos/minimum/122429782/"><img alt="" src="https://farm1.static.flickr.com/38/122429782_4ec8a2b281.jpg" title="Galaxie 500" class="aligncenter" width="500" height="333" /></a></p>
+<p><a href="http://www.flickr.com/photos/minimum/122429782/"><img alt="" src="https://farm1.static.flickr.com/38/122429782_4ec8a2b281.jpg" title="Galaxie 500" class="aligncenter" /></a></p>
 <p><strong>January...</strong><br/>Damon & Naomi were in London for the second time in three months, this time for a <a href="/2009/01/16/review-damon-naomi-in-london-2/">proper show at the lovely Luminaire</a>.</p>
 <p><strong>February...</strong><br/>Dean & Britta's Double Feature Records released its first non Dean & Britta release with <a href="/2009/02/24/sand-pebbles-album-out-now/">A Thousand Wild Flowers by Sand Pebbles</a>.</p>
 <p><strong>March...</strong><br/><a href="/2009/03/09/wrapping-up-dean-brittas-week-guest-editing-magnetmagazinecom/">Dean & Britta spent a week guest editing on Magnet Magazine's website</a> and declared affection for Badlands and Bread Pudding.</p>

@@ -11,7 +11,7 @@ categories:
 - news
 - dean wareham
 ---
-<p><img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/2_color_DW_0813_4584cr_1024.jpg" width="1024" height="726" class="aligncenter" /><br />
+<p><img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/2_color_DW_0813_4584cr_1024.jpg" class="aligncenter" /><br />
 Dean Wareham's first solo album, Emancipated Hearts, is released in the US today (Tuesday). The album was recorded last winter in San Francisco with Jason Quever of Papercuts and is released on Dean & Britta's Double Feature label.</p>
 <p>The album got a <a href="http://pitchfork.com/reviews/albums/18636-dean-wareham-emancipated-hearts-ep/">good review on Pitchfork this week</a>:</p>
 <blockquote><p>Born unceremoniously into the world, this brief and stirring mini LP stretches back to his earliest Galaxie 500 days when it was just two verses, two choruses, both the same, and the rest of the song just spills out. Maybe he's channeling one of his heroes Lou Reed while scoring 13 Most Beautiful... or dusting off "Blue Thunder" on the road a few years ago, but Wareham is at least glancing in the rear-view, beautifully recapturing that moment in which everything opened up among the gauze and reverb of the magical "Tugboat."</p></blockquote>
@@ -24,4 +24,4 @@ He’s also turned back the clock to about 1989 – there’s little evidence of
 <p>I'm guessing it'll be on <a href="https://itunes.apple.com/us/album/emancipated-hearts/id696230353?ls=1">iTunes too</a> (but that link didn't seem to be for me - maybe Apple know where I live!)</p>
 <p>Sadly, not on Bandcamp</p>
 <p><a href="http://soniccathedral.bigcartel.com/artist/dean-wareham">The album will be released in the UK and Europe on Sonic Cathedral on the 4 Novemmber</a> - the Sonic Cathedral 10" comes in orange vinyl.<br />
-<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/deanwareham_emancipatedhearts_cover.jpg" width="800" height="800" alt="Emancipated Hearts by Dean Wareham" class /><figcaption class="caption-text"> Emancipated Hearts by Dean Wareham</figcaption></figure>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/deanwareham_emancipatedhearts_cover.jpg" alt="Emancipated Hearts by Dean Wareham" class /><figcaption class="caption-text"> Emancipated Hearts by Dean Wareham</figcaption></figure>

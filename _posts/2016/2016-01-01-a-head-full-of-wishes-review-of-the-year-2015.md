@@ -12,7 +12,7 @@ categories:
 - news
 ---
 <p class="lead">It's been quite an eventful year for AHFoW, so here's a quick thrown together summary...</p>
-<figure class="caption aligncenter"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/16624996418/in/photolist-rk6seh-q7SXAW-qyRtAX-pqi1f1-pcxWRK-oGk4HU-nUEogW-nnSaAM-nnRGtn-nnSaHa-nEmske-nG8Pn6-nG8PxM-nEksAA-nCiJzC-dPWHcd-aU2TJV-nnSaVp-nnRGMi-niWSor-nmYjYW-egpvn3-efJyMv-dQekJ1-dPR77r-dPWH1m-dPR7a6-dPQFZn-dPR7kR-dPWH4o-dPWhUE-aYtga6-aYtfKF-aU2U5H-aU2TY2-aU2TRx-9GFEp6-9GqTu5-92XNmc-5SKhBT-5SPBw7-5SKho2-5SKhQz-5SKgF6-9LjPqH-9LjNR6-9GFEdk-9GJwH7-9GJwMY-9GFEik" title="New Damon & Naomi LP has arrived"><img src="https://farm9.staticflickr.com/8744/16624996418_5b470e09ff_z.jpg" width="640" height="640" alt="New Damon & Naomi LP has arrived"></a><figcaption class="caption-text">New Damon & Naomi LP has arrived</figcaption></figure>
+<figure class="caption aligncenter"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/16624996418/in/photolist-rk6seh-q7SXAW-qyRtAX-pqi1f1-pcxWRK-oGk4HU-nUEogW-nnSaAM-nnRGtn-nnSaHa-nEmske-nG8Pn6-nG8PxM-nEksAA-nCiJzC-dPWHcd-aU2TJV-nnSaVp-nnRGMi-niWSor-nmYjYW-egpvn3-efJyMv-dQekJ1-dPR77r-dPWH1m-dPR7a6-dPQFZn-dPR7kR-dPWH4o-dPWhUE-aYtga6-aYtfKF-aU2U5H-aU2TY2-aU2TRx-9GFEp6-9GqTu5-92XNmc-5SKhBT-5SPBw7-5SKho2-5SKhQz-5SKgF6-9LjPqH-9LjNR6-9GFEdk-9GJwH7-9GJwMY-9GFEik" title="New Damon & Naomi LP has arrived"><img src="https://farm9.staticflickr.com/8744/16624996418_5b470e09ff_z.jpg" alt="New Damon & Naomi LP has arrived"></a><figcaption class="caption-text">New Damon & Naomi LP has arrived</figcaption></figure>
 <p>On <strong>February</strong> 17th <a href="/2015/02/17/damon-naomis-fortune-released-today/">Damon & Naomi released the beautiful soundtrack to Naomi's short film "Fortune"</a> - the album was the same number of tracks and exactly the same length as Nick Drake's masterpiece Pink Moon...</p>
 <blockquote>
 	When the CD was mastered I asked the mastering engineer to add and subtract some tiny spaces in the blanks to make sure that it's eleven tracks and exactly, to the tenth of a second, the length of Pink Moon.
@@ -22,7 +22,7 @@ categories:
 
 <p>Also in February the members of <a href="/2015/02/09/another-luna-social-gathering/">Luna got together in Los Angeles for a social event</a> - it was also announced that the first reunion show would happen at The Echo in Los Angeles on the 13 April - tickets sold out almost instantly. It seems folk were ready for the reunion...</p>
 
-<figure class="caption aligncenter"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/youdiejoe/15853656523/in/album-72157650694997712/" title="Aquarian Birthday Soiree"><img src="https://farm8.staticflickr.com/7293/15853656523_8d1d68b80d_b.jpg" width="1024" height="683" alt="Aquarian Birthday Soiree"></a><figcaption class="caption-text">Lee, Dean, Britta and Sean in LA (Photo: Randy Perry)</figcaption></figure>
+<figure class="caption aligncenter"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/youdiejoe/15853656523/in/album-72157650694997712/" title="Aquarian Birthday Soiree"><img src="https://farm8.staticflickr.com/7293/15853656523_8d1d68b80d_b.jpg" alt="Aquarian Birthday Soiree"></a><figcaption class="caption-text">Lee, Dean, Britta and Sean in LA (Photo: Randy Perry)</figcaption></figure>
 
 <p>In <strong>March</strong> Dean dropped a hint that Luna's first five albums will be getting released in a vinyl box set... we're still waiting.</p>
 
@@ -31,7 +31,7 @@ categories:
 <p><a href="https://vimeo.com/126922416">There's a lovely video on Vimeo of The North Light</a>.</p>
 
 <p>On the 13 April, <a href="/2015/04/14/lunas-reunion-show-a-quick-round-up-lunareunion/">Luna played their first show in over 10 years</a> in Los Angeles&hellip;</p>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/bobbyshih/16940925877" title="Luna / Winter (13-Apr-2015) at the Echo"><img src="https://farm8.staticflickr.com/7711/16940925877_038332a296_b.jpg" width="1024" height="768" alt="Luna / Winter (13-Apr-2015) at the Echo"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/bobbyshih/16940925877" title="Luna / Winter (13-Apr-2015) at the Echo"><img src="https://farm8.staticflickr.com/7711/16940925877_038332a296_b.jpg" alt="Luna / Winter (13-Apr-2015) at the Echo"></a>
 <p>&hellip; and then headed off to Spain and Portugal.</p>
 <ul><li><a href="/2015/04/25/quick-round-up-of-the-first-half-of-lunas-reunion-tour-of-spain/">Spain/Portugal round-up part one</a></li><li><a href="/2015/05/05/quick-round-up-of-the-second-half-of-lunas-reunion-tour-of-spain-and-portugal/">Spain/Portugal round-up part two</a></li></ul>
 <p>In <strong>June</strong> official word on the Luna vinyl box set arrived from Captured Tracks</p>

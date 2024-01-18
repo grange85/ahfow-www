@@ -11,7 +11,7 @@ categories:
 - dean & britta
 ---
 <p>More reviews, pictures and videos have turned up about Dean & Britta's recent west coast jaunt - here are a few - feel free to add any more you find to the comments...</p>
-<p><figure class="caption aligncenter"><a href="http://www.flickr.com/photos/mattesque/5183424350/"><img alt="Dean & Britta by mattesque, on Flickr" src="https://farm2.static.flickr.com/1027/5183424350_df97ef6f5f.jpg" title="Dean & Britta by mattesque, on Flickr" width="500" height="333" /></a><figcaption class="caption-text">Dean & Britta by mattesque, on Flickr</figcaption></figure></p>
+<p><figure class="caption aligncenter"><a href="http://www.flickr.com/photos/mattesque/5183424350/"><img alt="Dean & Britta by mattesque, on Flickr" src="https://farm2.static.flickr.com/1027/5183424350_df97ef6f5f.jpg" title="Dean & Britta by mattesque, on Flickr" /></a><figcaption class="caption-text">Dean & Britta by mattesque, on Flickr</figcaption></figure></p>
 <ul>
 <li>Review, pictures and the setlist from the Vancouver show is on <a href="http://backstagerider.com/2010/11/16/dean-wareham-britta-phillips-galaxie-500-gallery/">The Backstage Rider</a></li>
 <p><lI>As well as the previously posted video of 23 Minutes, kubacheck has also posted videos of <a href="http://www.youtube.com/watch?v=jO33ChqROvo">Don't Let Our Youth Go to Waste</a> and <a href="http://www.youtube.com/watch?v=-5cO-rJdDck">Tugboat</a> from the Troubadour show in LA</li>

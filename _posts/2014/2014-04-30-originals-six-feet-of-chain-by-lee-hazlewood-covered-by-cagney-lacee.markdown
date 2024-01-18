@@ -18,7 +18,7 @@ tags:
 - country
 - trouble is a lonesome town
 ---
-<p><img src="https://media.fullofwishes.co.uk/00-misc/pictures/lee-hazlewood-trouble-is-a-lonesome-town.jpg" width="640" height="432" class="aligncenter" /><br />
+<p><img src="https://media.fullofwishes.co.uk/00-misc/pictures/lee-hazlewood-trouble-is-a-lonesome-town.jpg" class="aligncenter" /><br />
 Oh, it's been too long since Lee Hazlewood turned up in this series (in the Bs) so it's nice to have him back. Six Feet of Chain was released on Lee's first solo album "Trouble is a Lonesome Town" and is prefaced by a story of two brothers who steal from each other and have each other arrested and jailed and is supposedly sung by one of the brothers.<br />
 
 {% ahfowvideo "oa3EqjnvqQk" "" %}

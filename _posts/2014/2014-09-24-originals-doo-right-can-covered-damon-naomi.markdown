@@ -16,7 +16,7 @@ tags:
 - yoo doo right
 - monster movie
 ---
-<p><img src="https://media.fullofwishes.co.uk/00-misc/pictures/can-hovercraft.jpg" width="950" height="658" class="aligncenter" /><br />
+<p><img src="https://media.fullofwishes.co.uk/00-misc/pictures/can-hovercraft.jpg" class="aligncenter" /><br />
 Yoo Doo Right was 20 minutes long when released on CAN's Monster Movie LP in 1969, probably because 20 minutes was long enough for one side of a record. The song however had been edited down from a 6 hour live improvised concert held at Schloss Nörvenich, CAN's castle in North Rhine-Westphalia.<br />
 
 {% ahfowvideo "tlMFm9touZ8" "" %}

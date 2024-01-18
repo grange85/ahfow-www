@@ -14,7 +14,7 @@ tags:
 - reunion
 - spain
 ---
-<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/luna-tour-spain-2015.jpg" width="480" height="729" alt="Flyer for Luna's tour of Spain in 2015" class /><figcaption class="caption-text"> Flyer for Luna's tour of Spain in 2015</figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/luna-tour-spain-2015.jpg" alt="Flyer for Luna's tour of Spain in 2015" class /><figcaption class="caption-text"> Flyer for Luna's tour of Spain in 2015</figcaption></figure>
 Luna have now confirmed that they are reunitiung for a tour of Spain in April 2015, and Dean confirmed on Twitter that there would be "a few US dates" later in the year.</p>
 <p>Confirmed dates are as follows:</p>
 <ul>

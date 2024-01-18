@@ -18,7 +18,7 @@ tags:
  - box set
 flickr: true
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48260431901/in/dateposted/" title="Galaxie 500 box set - unopened"><img src="https://live.staticflickr.com/65535/48260431901_3dec115d61_c.jpg" width="800" height="723" alt="Galaxie 500 box set - unopened"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48260431901/in/dateposted/" title="Galaxie 500 box set - unopened"><img src="https://live.staticflickr.com/65535/48260431901_3dec115d61_c.jpg" alt="Galaxie 500 box set - unopened"></a>
 
 In September 1996 Rykodisc released this <a href="https://static.fullofwishes.co.uk/galaxie500box/">gorgeous four CD box set</a> containing all three Galaxie 500 albums and a bonus of _Uncollected_ tracks. 
 

@@ -11,7 +11,7 @@ categories:
 - news
 - damon & naomi
 ---
-<p><img class="aligncenter" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_wondrous_world_bootleg.jpg" width="640" height="640" alt="sleeve scan" /><br />
+<p><img class="aligncenter" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_wondrous_world_bootleg.jpg" alt="sleeve scan" /><br />
 On <a href="https://www.facebook.com/photo.php?fbid=550426371656223&set=pb.105076796191185.-2207520000.1361827585&type=3&theater">Facebook this afternoon</a> Damon & Naomi shared the cover art and gave a few snippets of information about a new release of their second album "The Wondrous World of Damon & Naomi" for Record Store Day. </p>
 <blockquote><p>It's an alternate version of the album, from 1995 - a master tape we thought was lost but turned up in Kramer's things.</p>
 </blockquote>

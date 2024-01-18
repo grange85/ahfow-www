@@ -16,13 +16,13 @@ tags:
 - video
 longpost: false
 ---
-<figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/29712253993/" title="The very lovely @britta_phillips mesmerising the rather big and pretty full Olympia in Paris"><img src="https://c1.staticflickr.com/9/8410/29712253993_b5b6c0f57c_z.jpg" width="640" height="640" alt="The very lovely @britta_phillips mesmerising the rather big and pretty full Olympia in Paris"></a><figcaption>Britta Phillips</figcaption></figure>
+<figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/29712253993/" title="The very lovely @britta_phillips mesmerising the rather big and pretty full Olympia in Paris"><img src="https://c1.staticflickr.com/9/8410/29712253993_b5b6c0f57c_z.jpg" alt="The very lovely @britta_phillips mesmerising the rather big and pretty full Olympia in Paris"></a><figcaption>Britta Phillips</figcaption></figure>
 
 <p class="lead">Another happy birthday to the wonderful Britta Phillips!</p>
 
 <p>Here's her lovely cover of Dylan's Don't Think Twice It's Alright from her split single with Dean last year</p>
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/241155590&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"></iframe>
+<iframe width="100%" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/241155590&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"></iframe>
 
 <p>&hellip; and here's a gorgeous radio session version of White Horses from ten years ago!</p>
 

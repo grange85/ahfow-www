@@ -15,7 +15,7 @@ tags:
  - hefner
  - cover versions
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/nate2009/13953553059" title="Oblivious"><img src="https://c4.staticflickr.com/8/7301/13953553059_c29001f965_c.jpg" width="800" height="717" alt="Oblivious"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/nate2009/13953553059" title="Oblivious"><img src="https://c4.staticflickr.com/8/7301/13953553059_c29001f965_c.jpg" alt="Oblivious"></a>
 <p>For a little idleness in the run up to the end of the year I thought I'd just post some of my favourite cover versions of Galaxie 500 songs. Now, I love covers of Galaxie 500 songs - I pretty much love them all, even when they're not that great, because a band choosing to cover Galaxie 500 already endears me to them. The ones in this series might not be the best, and I'll certainly leave out covers I love more, but they are generally ones that when I hear them they make me feel good for all sorts of reasons.</p>
 
 <p>Hefner were a band I sort of missed at the time - I knew of them, but somehow managed to have a completely erroneous idea of who they were and what they were like so I never gave them any of my time. Then, I heard them... when it was too late to get the full benefit of them.</p>

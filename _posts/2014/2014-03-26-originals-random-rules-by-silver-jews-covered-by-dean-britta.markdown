@@ -15,7 +15,7 @@ tags:
 - cover
 - silver jews
 ---
-<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/britta-watches-640.jpg" width="640" height="393" class /><figcaption class="caption-text"> I know that a lot of what I say has been lifted off of men's room walls</figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/britta-watches-640.jpg" class /><figcaption class="caption-text"> I know that a lot of what I say has been lifted off of men's room walls</figcaption></figure>
 <p>Random Rules was released on Silver Jews third album American Water in 1998. Silver Jews were a NYC band that was led by David Berman and featured Stephen Malkmus (of Pavement) and Chris Stroffolino.<br />
 
 {% ahfowvideo "jKl4Wpu75W0" "" %}

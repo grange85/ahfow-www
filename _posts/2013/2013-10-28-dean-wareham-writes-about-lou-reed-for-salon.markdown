@@ -11,7 +11,7 @@ categories:
 - news
 - dean wareham
 ---
-<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/dean-lou-and-britta.jpg" width="427" height="640" alt="Dean Wareham and Britta Phillips with Lou Reed" class /><figcaption class="caption-text"> Dean, Lou and Britta</figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/dean-lou-and-britta.jpg" alt="Dean Wareham and Britta Phillips with Lou Reed" class /><figcaption class="caption-text"> Dean, Lou and Britta</figcaption></figure>
 Dean Wareham has written a piece on Lou Reed for Salon.<br />
 <blockquote>
 Driving out of Vegas Sunday morning, my phone started to buzz with text messages about Lou Reed’s passing. The first was from my friend Pete Kember, aka Sonic Boom, a member of the great English band Spacemen 3, who once reworked Reed’s “Street Hassle” into their own “Walkin’ with Jesus.” It is quite obvious that without Reed we cannot imagine David Bowie, Roxy Music, the Stooges, Joy Division, Big Star, Sonic Youth, the Only Ones, Mazzy Star or Stereolab existing in quite the same way.</p></blockquote>

@@ -27,7 +27,7 @@ I managed to be away from a computer on the 30th anniversary of On Fire - which 
 
 Dean's lyrics as published in Esopus 11:
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/48827242298/in/photolist-2hoGo29-a6GJ8z" title="Esopus 11 (Plastic Bird)"><img src="https://live.staticflickr.com/65535/48827242298_98aed18aa9_c.jpg" width="800" height="596" alt="Esopus 11 (Plastic Bird)"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/48827242298/in/photolist-2hoGo29-a6GJ8z" title="Esopus 11 (Plastic Bird)"><img src="https://live.staticflickr.com/65535/48827242298_98aed18aa9_c.jpg" alt="Esopus 11 (Plastic Bird)"></a>
 
 
 ---

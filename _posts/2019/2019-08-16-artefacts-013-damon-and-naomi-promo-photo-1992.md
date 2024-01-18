@@ -19,7 +19,7 @@ tags:
 flickr: true
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48260870377/in/dateposted/" title="Damon &amp; Naomi promo (photo by Macioce) - 1992"><img src="https://live.staticflickr.com/65535/48260870377_fe0ee125d9_b.jpg" width="776" height="1024" alt="Damon &amp; Naomi promo (photo by Macioce) - 1992"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48260870377/in/dateposted/" title="Damon &amp; Naomi promo (photo by Macioce) - 1992"><img src="https://live.staticflickr.com/65535/48260870377_fe0ee125d9_b.jpg" alt="Damon &amp; Naomi promo (photo by Macioce) - 1992"></a>
 
 This beauty only recently came into my collection - sent to me by Andrew (along with lots of other gems, thanks Andrew!). The photo is by [Macioce (who has recently started posting his wonderful photos on Instagram)](https://www.instagram.com/maciocephotography/). 
 

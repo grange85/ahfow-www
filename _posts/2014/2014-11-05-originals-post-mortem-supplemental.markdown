@@ -11,7 +11,7 @@ date: '2014-11-05'
 categories:
 - news
 ---
-<p><img src="https://media.fullofwishes.co.uk/00-misc/pictures/muybridge-dancing.jpg" width="717" height="307" class="aligncenter" /></p>
+<p><img src="https://media.fullofwishes.co.uk/00-misc/pictures/muybridge-dancing.jpg" class="aligncenter" /></p>
 <p>I started the originals series on 31 January 2013 so it took me one year and eight months to get through them all... here's a few stats<br />
  - Covered by Galaxie 500 : 12
 Covered by Luna</a> : 21

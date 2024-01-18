@@ -13,7 +13,7 @@ categories:
 ---
 <p>Demain matin, je vais à Paris par le train, alors voici quelques chansons en français.<br />
 <em>(Désolé pour mon pauvre français... I'll spare you any more... and please feel free to correct what there is!)</em><br />
-<figure class="caption aligncenter"><a href="http://www.flickr.com/photos/smu_cul_digitalcollections/8044701619/" title="Fleche d'Or, Golden Arrow, Paris by SMU Central University Libraries, on Flickr"><img class="aligncenter" src="https://farm9.staticflickr.com/8460/8044701619_f95b06a329_z.jpg" width="640" height="423" alt="Fleche d'Or, Golden Arrow, Paris"></a><figcaption class="caption-text"></figcaption></figure></p>
+<figure class="caption aligncenter"><a href="http://www.flickr.com/photos/smu_cul_digitalcollections/8044701619/" title="Fleche d'Or, Golden Arrow, Paris by SMU Central University Libraries, on Flickr"><img class="aligncenter" src="https://farm9.staticflickr.com/8460/8044701619_f95b06a329_z.jpg" alt="Fleche d'Or, Golden Arrow, Paris"></a><figcaption class="caption-text"></figcaption></figure></p>
 
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-white-horses-version-francaise.mp3",
@@ -36,4 +36,4 @@ Previously: <a href="/2012/08/10/friday-recycling-bonnie-and-clyde/">Friday recy
 
 {% ahfowvideo "GxZp8qhDhHQ" "Luna playing Bobby Peru in Paris in 1999" %}
 
-<figure class="caption aligncenter"><a href="http://www.flickr.com/photos/franckd/2087020675/" title="Dean & Britta by Hidden Picts, on Flickr"><img src="https://farm3.staticflickr.com/2236/2087020675_7a9127b3ea_z.jpg?zz=1" width="640" height="430" alt="Dean & Britta"></a><figcaption class="caption-text">Dean Wareham at La Fleche d'Or, Paris - 2007</figcaption></figure>
+<figure class="caption aligncenter"><a href="http://www.flickr.com/photos/franckd/2087020675/" title="Dean & Britta by Hidden Picts, on Flickr"><img src="https://farm3.staticflickr.com/2236/2087020675_7a9127b3ea_z.jpg?zz=1" alt="Dean & Britta"></a><figcaption class="caption-text">Dean Wareham at La Fleche d'Or, Paris - 2007</figcaption></figure>

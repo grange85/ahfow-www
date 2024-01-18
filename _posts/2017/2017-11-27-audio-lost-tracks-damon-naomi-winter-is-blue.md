@@ -15,7 +15,7 @@ categories:
 tags:
  - vashti bunyan
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/nicksie2008/12792823653/" title="Distant Figure"><img src="https://farm4.staticflickr.com/3690/12792823653_8c84af8f8c_c.jpg" width="800" height="536" alt="Distant Figure"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/nicksie2008/12792823653/" title="Distant Figure"><img src="https://farm4.staticflickr.com/3690/12792823653_8c84af8f8c_c.jpg" alt="Distant Figure"></a>
 
 <p class="lead">Over the years Damon & Naomi have slipped a few beautiful covers into their live shows. In 2005 the beautiful cover they were playing was the gorgeous <a href="https://en.wikipedia.org/wiki/Vashti_Bunyan">Vashti Bunyan</a> song Winter is Blue.</p>
 

@@ -18,7 +18,7 @@ tags:
 - the monkees
 - starsailor
 ---
-<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/sirens-three-the-british-library.jpg" width="640" height="222" class /><figcaption class="caption-text"> <a href="https://flic.kr/p/icriaV">Sirens Three from The British Library</a></figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/sirens-three-the-british-library.jpg" class /><figcaption class="caption-text"> <a href="https://flic.kr/p/icriaV">Sirens Three from The British Library</a></figcaption></figure>
 <p>Tim Buckley released Song to the Siren on his 1970 album Starsailor, before that however it had been performed by Tim on the last episode of The Monkees in 1968:<br />
 
 {% ahfowvideo "vMTEtDBHGY4" "" %}

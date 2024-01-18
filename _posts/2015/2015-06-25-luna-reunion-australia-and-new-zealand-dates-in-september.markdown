@@ -11,7 +11,7 @@ categories:
 - luna
 - news
 ---
-<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/luna-australia-1998-mosaic.jpg" width="613" height="308" alt="Luna in Australia in 1998" class /><figcaption class="caption-text"> Luna in Australia in 1998</figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/luna-australia-1998-mosaic.jpg" alt="Luna in Australia in 1998" class /><figcaption class="caption-text"> Luna in Australia in 1998</figcaption></figure>
 Luna's reunion makes it down-under in September with dates in Brisbane, Sydney and Melbourne in Australia and a date in Auckland in New Zealand. </p>
 <ul>
 <li><a href="/database/luna/shows/2015/2015-09-15-luna-brisbane-festival-brisbane-australia">Brisbane Festival, Brisbane, Australia</a></li>

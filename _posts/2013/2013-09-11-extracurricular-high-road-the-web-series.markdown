@@ -14,11 +14,11 @@ tags:
 - justin harwood
 - the high road
 ---
-<p><img src="https://media.fullofwishes.co.uk/00-misc/pictures/highroad-poster.jpg" width="960" height="540" class="aligncenter" /><br />
+<p><img src="https://media.fullofwishes.co.uk/00-misc/pictures/highroad-poster.jpg" class="aligncenter" /><br />
 Former Luna bassist Justin Harwood has written and directed <a href="http://highroadwebseries.com">High Road</a>, a web seires about a community radio station in rural New Zealand. The whole of the rather splendid first series is available to watch on <a href="http://www.youtube.com/watch?v=KsHuk0iuaVY&feature=share&list=PLRgAVz39zTz-ZsD_rzpgcNP8DaL57gZVB">YouTube</a> and <a href="https://vimeo.com/channels/575275">Vimeo</a> (and embedded below).</p>
 
 {% ahfowvideo "KsHuk0iuaVY?list=PLRgAVz39zTz-ZsD_rzpgcNP8DaL57gZVB" "" %}
 
 <p>Keep an eye out during the title sequences for plenty of wonderful records... including a few that had Justin's name on the back!</p>
-<p><img src="https://media.fullofwishes.co.uk/00-misc/pictures/highroad-screengrab.jpg" width="641" height="354" class="aligncenter" /></p>
+<p><img src="https://media.fullofwishes.co.uk/00-misc/pictures/highroad-screengrab.jpg" class="aligncenter" /></p>
 <p>You can also <a href="https://www.facebook.com/highroadthewebseries">follow the series on Facebook</a>.</p>

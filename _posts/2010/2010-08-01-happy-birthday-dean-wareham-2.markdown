@@ -13,8 +13,8 @@ categories:
 ---
 <p>Today (Sunday 1 August) is Dean Wareham&#039;s birthday so here&#039;s a hastily compiled journey through his career using promo photos/postcards.
 <p />Happy Birthday Dean!<br />
-<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/postcard_POSTCARDS_003.jpg" width="500" height="361" class /><figcaption class="caption-text"> Speedy and the Castanets</figcaption></figure>
-<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/postcard_galaxie500-postcard.jpg" width="500" height="330" class /><figcaption class="caption-text"> Galaxie 500</figcaption></figure>
-<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/postcard_dean_minttea_promo.jpg" width="430" height="322" class /><figcaption class="caption-text"> Anesthesia</figcaption></figure>
-<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/postcard_POSTCARDS_004.jpg" width="500" height="336" class /><figcaption class="caption-text"> Bewitched</figcaption></figure>
-<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/postcard_deanwareham-postcard.jpg" width="500" height="334" class /><figcaption class="caption-text"> Happy birthday Dean Wareham</figcaption></figure>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/postcard_POSTCARDS_003.jpg" class /><figcaption class="caption-text"> Speedy and the Castanets</figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/postcard_galaxie500-postcard.jpg" class /><figcaption class="caption-text"> Galaxie 500</figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/postcard_dean_minttea_promo.jpg" class /><figcaption class="caption-text"> Anesthesia</figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/postcard_POSTCARDS_004.jpg" class /><figcaption class="caption-text"> Bewitched</figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/postcard_deanwareham-postcard.jpg" class /><figcaption class="caption-text"> Happy birthday Dean Wareham</figcaption></figure>

@@ -12,7 +12,7 @@ categories:
 - galaxie 500
 - originals
 ---
-<p><figure class="caption aligncenter"><a href="https://www.flickr.com/photos/keithmarshall/330226254" title="Rowing Boat and Sub by Keith Marshall, on Flickr"><img src="https://farm1.staticflickr.com/139/330226254_de6c47ccf8_z.jpg" width="640" height="427" alt="Rowing Boat and Sub"></a><figcaption class="caption-text">On a submarine mission</figcaption></figure><br />
+<p><figure class="caption aligncenter"><a href="https://www.flickr.com/photos/keithmarshall/330226254" title="Rowing Boat and Sub by Keith Marshall, on Flickr"><img src="https://farm1.staticflickr.com/139/330226254_de6c47ccf8_z.jpg" alt="Rowing Boat and Sub"></a><figcaption class="caption-text">On a submarine mission</figcaption></figure><br />
 Submission was recorded by The Sex Pistols in 1976 and appeared on (most copies of) their only studio album 'Never Mind the Bollocks Here's The Sex Pistols')<br />
 
 {% ahfowvideo "7UZ0bPaOdbQ" "" %}

@@ -12,10 +12,10 @@ categories:
 - galaxie 500
 - originals
 ---
-<p><img src="https://media.fullofwishes.co.uk/00-misc/pictures/jonathan-richman-and-the-modern-lovers-back-in-your-life.jpg" width="576" height="576" class="aligncenter" /><br />
+<p><img src="https://media.fullofwishes.co.uk/00-misc/pictures/jonathan-richman-and-the-modern-lovers-back-in-your-life.jpg" class="aligncenter" /><br />
 Argh! Didn't think this was going to be a tricky one... looks like UMG are busy wandering around YouTube asserting their rights to (taking down!) the Jonathan Richman and The Modern Lovers LP Back In Your Life - as I don't particularly want to incur the wrath of the major labels (again) the best I can offer is...</p>
 <p>For Spotify users...<br />
-<iframe class="aligncenter" src="https://embed.spotify.com/?uri=spotify:track:5L3h2rkAEQQdKFlEKdGk8h" width="300" height="380" frameborder="0" allowtransparency="true"></iframe></p>
+<iframe class="aligncenter" src="https://embed.spotify.com/?uri=spotify:track:5L3h2rkAEQQdKFlEKdGk8h" frameborder="0" allowtransparency="true"></iframe></p>
 
 Update (14th July 2020): Currently on YouTube, so...
 

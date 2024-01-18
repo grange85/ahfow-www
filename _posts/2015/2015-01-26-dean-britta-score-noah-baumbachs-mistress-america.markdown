@@ -11,7 +11,7 @@ categories:
 - news
 - dean & britta
 ---
-<p><a href="https://www.flickr.com/photos/houstonryan/15748576533" title="Sundance Film Festival Street Photography January 24 2015-6117 by Ryan Houston, on Flickr"><img class="aligncenter" src="https://farm8.staticflickr.com/7386/15748576533_1d4828c379_z.jpg" width="640" height="484" alt="Sundance Film Festival Street Photography January 24 2015-6117"></a><br />
+<p><a href="https://www.flickr.com/photos/houstonryan/15748576533" title="Sundance Film Festival Street Photography January 24 2015-6117 by Ryan Houston, on Flickr"><img class="aligncenter" src="https://farm8.staticflickr.com/7386/15748576533_1d4828c379_z.jpg" alt="Sundance Film Festival Street Photography January 24 2015-6117"></a><br />
 Dean & Britta have provided the score for the new Noah Baumbach film Mistress America. The film has just premièred at Sundance where it appears to have been well received, as has the soundtrack:</p>
 <blockquote><p>A decade on from composing duties on "The Squid and the Whale," the duo of Dean Wareham and Britta Phillips return here with a memorable original score steeped in ’80s-style New Wave synth pop.</p></blockquote>
 <p><em><strong>Variety:</strong> <a href="http://variety.com/2015/film/reviews/sundance-film-review-mistress-america-1201414298/">Greta Gerwig shines in a tailor-made role in her and Noah Baumbach's spirited screwball follow-up to 'Frances Ha</a></em></p>

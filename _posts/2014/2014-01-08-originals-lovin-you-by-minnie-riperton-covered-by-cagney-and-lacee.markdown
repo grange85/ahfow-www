@@ -33,5 +33,5 @@ tags:
 <p>As a bonus here's The Rotary Connection miming rather poorly to their cover of The Rolling Stones Lady Jane in 1969<br />
 </p>
 {% ahfowvideo "nGZCMX1MTic" "" %}
-<p><figure class="caption aligncenter"><a href="http://minnieriperton.wordpress.com/2009/11/30/215/"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/minnie-ripperton.png" width="600" alt="Earthy soul and a heavenly voice" class /></a><figcaption class="caption-text"> Earthy soul and a heavenly voice</figcaption></figure></p>
+<p><figure class="caption aligncenter"><a href="http://minnieriperton.wordpress.com/2009/11/30/215/"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/minnie-ripperton.png" alt="Earthy soul and a heavenly voice" class /></a><figcaption class="caption-text"> Earthy soul and a heavenly voice</figcaption></figure></p>
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

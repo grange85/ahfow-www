@@ -17,7 +17,7 @@ tags:
  - ptolemaic terrascope
 flickr: true
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48278977911/in/dateposted-public/" title="Terrastock III laminated pass"><img src="https://live.staticflickr.com/65535/48278977911_c83d29cd2e_h.jpg" width="928" height="1600" alt="Terrastock III laminated pass"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48278977911/in/dateposted-public/" title="Terrastock III laminated pass"><img src="https://live.staticflickr.com/65535/48278977911_c83d29cd2e_h.jpg" alt="Terrastock III laminated pass"></a>
 
 20 years ago this week the legendary Terrastock Festival had its third outing, and its only visit to London. Today's artefact is the three day pass that I sadly only managed to get one day of use out of. I genuinely can't remember why I didn't go for all three days - Adam was just over two so maybe that had something to do with it. I hope there was a good reason.
 

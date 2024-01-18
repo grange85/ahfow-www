@@ -15,4 +15,4 @@ categories:
 <p>The film was made during Luna's final world tour during 2004 and 2005 and premiered at the Tribeca Film Festival in April 2006.</p>
 <p>The screening takes place on 16 July 2015 at The Cinefamily, 611 N Fairfax Avenue, Los Angeles amnd tickets are <a href="http://cinefamily.ticketmob.com/event.cfm?id=105725&cart">available now priced $16</a>. Following the film there will be a discussion with Matthew and the band and, apparently, a "patio soiree"!</p>
 <p>More details from the <a href="http://www.cinefamily.org/films/dont-knock-the-rock-2015/">Don't Knock The Rock web page</a>, and you can <a href="https://www.facebook.com/events/724497831010018/">join the event on Facebook</a>.<br />
-<img src="https://media.fullofwishes.co.uk/02-luna/pictures/tmdymm-poster-full.jpg" width="1532" height="2160" class="aligncenter" /></p>
+<img src="https://media.fullofwishes.co.uk/02-luna/pictures/tmdymm-poster-full.jpg" class="aligncenter" /></p>

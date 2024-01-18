@@ -25,7 +25,7 @@ Shortly after the release of this album Cheval Sombre played a lovely show at St
 
 <!--more-->
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/8209837389/in/album-72157632080412568/" title="Cheval Sombre with Sonic Boom"><img src="" width="800" height="600" alt="Cheval Sombre with Sonic Boom"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></scriptBB>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/8209837389/in/album-72157632080412568/" title="Cheval Sombre with Sonic Boom"><img src="" alt="Cheval Sombre with Sonic Boom"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></scriptBB>
 
 
 {% ahfowimage "https://live.staticflickr.com/8202/8209837389_7f9c9a9bd7_c.jpg" "... this was my view!" %}

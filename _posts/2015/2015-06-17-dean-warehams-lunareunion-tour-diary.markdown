@@ -11,7 +11,7 @@ categories:
 - luna
 - news
 ---
-<p><a href="https://www.flickr.com/photos/grange85/17313527992" title="Luna at soundcheck by Andy Aldridge, on Flickr"><img src="https://c2.staticflickr.com/8/7786/17313527992_ac04240536_z.jpg" width="640" height="480" alt="Luna at soundcheck"></a></p>
+<p><a href="https://www.flickr.com/photos/grange85/17313527992" title="Luna at soundcheck by Andy Aldridge, on Flickr"><img src="https://c2.staticflickr.com/8/7786/17313527992_ac04240536_z.jpg" alt="Luna at soundcheck"></a></p>
 <p>Salon have published Dean Wareham's diary of their tour around Spain and Portugal</p>
 <p>Read: <a href="http://www.salon.com/2015/06/16/its_starting_to_sound_like_luna_up_in_here_dean_warehams_reunion_tour_diary/">"It’s starting to sound like Luna up in here": Dean Wareham’s reunion tour diary on Salon</a></p>
 <blockquote><p>We have sold out two nights at the beautiful Teatro Lara. After the show we go out for drinks with friends from Switzerland, and others who have traveled from Chicago and Los Angeles and Boston, including “City Kitty Nate” — so named because he comes to shows and calls out for "City Kitty."</p>

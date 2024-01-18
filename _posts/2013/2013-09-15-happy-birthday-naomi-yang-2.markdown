@@ -10,7 +10,7 @@ date: '2013-09-15'
 categories:
 - damon & naomi
 ---
-<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/naomiyang_earrings.jpg" width="500" height="750" alt="Naomi's earrings" class /><figcaption class="caption-text"> Naomi's earrings</figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/naomiyang_earrings.jpg" alt="Naomi's earrings" class /><figcaption class="caption-text"> Naomi's earrings</figcaption></figure>
 <p>Here's Naomi singing Love by The Jacks in Japanese<br />
 </p>
 {% ahfowvideo "wSc2hFFcQ84" "" %}

@@ -12,7 +12,7 @@ categories:
 - news
 - galaxie 500
 ---
-<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/images/misc/temprising_book.jpg" width="400" height="500" class /><figcaption class="caption-text"> Temperature's Rising</figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/images/misc/temprising_book.jpg" class /><figcaption class="caption-text"> Temperature's Rising</figcaption></figure>
 <p><ins datetime="2013-03-17T09:21:22+00:00"><strong>UPDATE 2</strong>: 2013-03-16<br />
 You are now able to order the limited edition (and regular) edition of Temperature's Rising from <a href="http://www.yetipublishing.com/">the Yetipublishing website</a>. The regular copy costs $19.95 and the limited edition for $45 - prices are post paid to the US butyou'll have to pay extra for overseas postage. The limited edition is of 275 numbered copies and as well as 7" single includes a band photograph signed by the photographer. The book will be available from April 15th.</p>
 <p>Here's the description lifted from the Yeti site:</p>

@@ -21,7 +21,7 @@ tags:
 
 <blockquote>Director Matthew Buzzell re-magines indie rock luminaries Luna as a high school band in "Friends," the second single from Luna's recently released album, "A Sentimental Education," from Double Feature Records.</blockquote>
 
-<iframe src="https://player.vimeo.com/video/236326499?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/236326499?byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/236326499">LUNA "Friends"</a> from <a href="https://vimeo.com/semipreciouspictures">Matthew Buzzell</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/friends-grabs/luna-friends-video-caps-01.jpg" alt="Luna - Friends (dir: Matthew Buzzell)" /><figcaption class="caption-text">Luna - Friends (dir: Matthew Buzzell)</figcaption></figure>

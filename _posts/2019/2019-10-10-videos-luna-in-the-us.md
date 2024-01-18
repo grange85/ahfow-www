@@ -19,7 +19,7 @@ flickr: true
 ---
 Here's a quick collection of videos from Luna's current US tour.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/48877172181/in/dateposted-public/" title="Watchin Luna live from 4000 miles away"><img src="https://live.staticflickr.com/65535/48877172181_d8cd93b029_c.jpg" width="800" height="600" alt="Watchin Luna live from 4000 miles away"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/48877172181/in/dateposted-public/" title="Watchin Luna live from 4000 miles away"><img src="https://live.staticflickr.com/65535/48877172181_d8cd93b029_c.jpg" alt="Watchin Luna live from 4000 miles away"></a>
 
 ### Paradise, Boston - 1st October
 

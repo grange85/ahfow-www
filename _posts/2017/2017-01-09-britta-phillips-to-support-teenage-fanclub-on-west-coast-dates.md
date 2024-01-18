@@ -16,7 +16,7 @@ categories:
 tags:
  - britta phillips
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/29712253993/" title="The very lovely @britta_phillips mesmerising the rather big and pretty full Olympia in Paris"><img src="https://c2.staticflickr.com/9/8410/29712253993_b5b6c0f57c_c.jpg" width="800" height="800" alt="The very lovely @britta_phillips mesmerising the rather big and pretty full Olympia in Paris"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/29712253993/" title="The very lovely @britta_phillips mesmerising the rather big and pretty full Olympia in Paris"><img src="https://c2.staticflickr.com/9/8410/29712253993_b5b6c0f57c_c.jpg" alt="The very lovely @britta_phillips mesmerising the rather big and pretty full Olympia in Paris"></a>
 <p class="lead">Britta Phillips gets back on the road in March supporting Teenage Fanclub on their west coast dates:</p>
 <table class="table table-striped">
         <tbody><tr>

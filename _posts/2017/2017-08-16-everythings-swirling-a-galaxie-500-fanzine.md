@@ -18,7 +18,7 @@ tags:
  - fanzine
 ---
 <p class="lead">On the 29th August 1987 Galaxie 500 played their first ever show in a flat in New York City. Everything's Swirling is a limited edition fanzine to celebrate the 30th anniversary of this event.</p>
-<figure class="aligncenter"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/36478301371/in/dateposted/" title="2017-08-16_10-31-17"><img src="https://farm5.staticflickr.com/4386/36478301371_f2a2545416_c.jpg" width="600" height="800" alt="2017-08-16_10-31-17"></a></figure>
+<figure class="aligncenter"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/36478301371/in/dateposted/" title="2017-08-16_10-31-17"><img src="https://farm5.staticflickr.com/4386/36478301371_f2a2545416_c.jpg" alt="2017-08-16_10-31-17"></a></figure>
 <p>The 32 page booklet is limited to 100 copies and includes articles, photographs, art and memorabilia by fans from all over the world. It will come with a numbered, hand printed, and hand-stamped sleeve, and will include a badge (button) and a high quality photograph of the band in either London in 1989 or Frankfurt in 1990 (most 15cm x 10cm but a few random issues will have larger 21cm x 14cm photos)</p>
 <h3>Ordering information</h3>
 <div class="text-muted">

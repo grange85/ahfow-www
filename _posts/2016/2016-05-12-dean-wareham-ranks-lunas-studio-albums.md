@@ -16,7 +16,7 @@ description: "Luna's Dean Wareham puts the bands seven studio albums in his orde
 longpost: true
 ---
 
-<figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26976992575/in/dateposted/" title="Luna&#x27;s seven studio albums"><img src="https://farm8.staticflickr.com/7522/26976992575_089135f8f0_b.jpg" width="1024" height="460" alt="Luna&#x27;s seven studio albums"></a><figcaption>Luna's seven studio albums</figcaption></figure>
+<figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26976992575/in/dateposted/" title="Luna&#x27;s seven studio albums"><img src="https://farm8.staticflickr.com/7522/26976992575_089135f8f0_b.jpg" alt="Luna&#x27;s seven studio albums"></a><figcaption>Luna's seven studio albums</figcaption></figure>
 
 <p class="lead">With Captured Tracks box set of the first five Luna albums imminent, Dean Wareham was asked by <a href="http://noisey.vice.com/blog/rank-your-records-luna-dean-wareham" target="blank">Noisey Music to rank all seven of Luna's studio albums</a> and explain his decision.</p>
 
@@ -44,7 +44,7 @@ longpost: true
 <h3>1: Penthouse</h3><blockquote>But I feel like Luna, when we made our first album, we weren't there yet and our third album is our best.</blockquote>
 
 <p>&hellip; and as it's my website&hellip;</p>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26941678646/in/dateposted/" title="So @deanwareham ranked Luna&#x27;s albums and so did I (before I saw Dean&#x27;s list). To be honest the first and last are right and the rest are a great big tie for second"><img src="https://farm8.staticflickr.com/7502/26941678646_efa8f30b8b_b.jpg" width="1024" height="1024" alt="So @deanwareham ranked Luna&#x27;s albums and so did I (before I saw Dean&#x27;s list). To be honest the first and last are right and the rest are a great big tie for second"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26941678646/in/dateposted/" title="So @deanwareham ranked Luna&#x27;s albums and so did I (before I saw Dean&#x27;s list). To be honest the first and last are right and the rest are a great big tie for second"><img src="https://farm8.staticflickr.com/7502/26941678646_efa8f30b8b_b.jpg" alt="So @deanwareham ranked Luna&#x27;s albums and so did I (before I saw Dean&#x27;s list). To be honest the first and last are right and the rest are a great big tie for second"></a>
 
 
 <p>Feel free to add your own list to the comments or say why you agree or disagree with Dean's order.</p>

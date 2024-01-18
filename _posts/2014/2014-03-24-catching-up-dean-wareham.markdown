@@ -11,7 +11,7 @@ categories:
 - news
 - dean wareham
 ---
-<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/images/misc/travelling.jpg" width="640" height="352" class /><figcaption class="caption-text"> Entertainment for another train journey</figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/images/misc/travelling.jpg" class /><figcaption class="caption-text"> Entertainment for another train journey</figcaption></figure>
 The last couple of of weeks have been a bit hectic in the outside world - travelling up and down the country, I've spent so much time in trains - so AHFoW has been a little neglected so this is by way of catching up with some of the bits and pieces I may have missed:</p>
 <p><strong><a href="http://filtermagazine.com/index.php/exclusives/entry/dean_wareham">Filter has a splendid little little interview where Dean introduces himself</a></strong>:</p>
 <blockquote><p>Filter: THE FUNNIEST THING A JOURNALIST EVER WROTE ABOUT US<br />
@@ -33,6 +33,6 @@ Dean: That I have “impressively voluminous hair.
 <p><strong><a href="http://rockonphilly.com/2014/03/rock-on-philly-interviews-dean-wareham/">Rock on Philly has a short Q&A with Dean where he drops a hint at an intriguing future project</a></strong>:</p>
 <blockquote><p>I am planning an album of cowboy songs with my friend Cheval Sombre. He has released a couple of folky albums that I really like</p></blockquote>
 <p>Dean & Britta played a short notice warm up gig for their forthcoming tour at Harvard & Stone in LA<br />
-<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-harvard-and-stone-jj.jpg" width="640" height="640" class /><figcaption class="caption-text"> Photo by Jim James (lifted from fb and used without permission - hope he doesn't mind)</figcaption></figure>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-harvard-and-stone-jj.jpg" class /><figcaption class="caption-text"> Photo by Jim James (lifted from fb and used without permission - hope he doesn't mind)</figcaption></figure>
 <p>The very splendid <a href="http://thevacantlots.tumblr.com/">The Vacant Lots</a> are supporting Dean on a few upcoming dates<br />
-<img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/the-vacant-lots-dean-wareham.jpg" width="644" height="960" class="aligncenter" /></p>
+<img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/the-vacant-lots-dean-wareham.jpg" class="aligncenter" /></p>

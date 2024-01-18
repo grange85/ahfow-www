@@ -26,7 +26,7 @@ tags:
  - lost in space
  - 23 minutes in brussels
 ---
-<p><a href="http://www.flickr.com/photos/andrea_campi/2417799135/" title="atomium by Andrea [bah! la realtà!], on Flickr"><img class="aligncenter" src="https://farm3.staticflickr.com/2138/2417799135_e2e42ce8e8_z.jpg" width="530" height="640" alt="atomium"></a>
+<p><a href="http://www.flickr.com/photos/andrea_campi/2417799135/" title="atomium by Andrea [bah! la realtà!], on Flickr"><img class="aligncenter" src="https://farm3.staticflickr.com/2138/2417799135_e2e42ce8e8_z.jpg" alt="atomium"></a>
 <p>Luna stopped off in Manchester for this session on Mark Radcliffe's BBC Radio 1 show on the 13 December 1995. I remember staying up to record this. I went through my box of cassettes a while ago to try and find it but couldn't track it down, which is a shame as I remember the interview being quite amusing... and at one point touched on the subject of, if memory serves, <a href="http://angelcorpuschristi.blogspot.com/">Angel Corpus Christi</a> faxing intimate self-portraits to Dean.</p>
 <p>Luckily the three tracks turned up on the Season of the Witch CD single put out by Beggars Banquet in 1996 (without the interviews but certainly better than my crappy FM recording).</p>
 <p>Mp3s via box.net</p>

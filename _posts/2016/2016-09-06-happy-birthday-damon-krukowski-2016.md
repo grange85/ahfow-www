@@ -19,15 +19,15 @@ categories:
 
 <p>Here he is on-stage in London with Richard Youngs, after the fall but before the ambulance trip&hellip;</p>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26446927261/in/photostream/" title="Richard Youngs with Damon Krukowski"><img src="https://c6.staticflickr.com/2/1710/26446927261_3839f69877_b.jpg" width="1024" height="768" alt="Richard Youngs with Damon Krukowski"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26446927261/in/photostream/" title="Richard Youngs with Damon Krukowski"><img src="https://c6.staticflickr.com/2/1710/26446927261_3839f69877_b.jpg" alt="Richard Youngs with Damon Krukowski"></a>
 
 <p>&hellip; and here on stage in Berlin a couple of days later playing a makeshift drum kit for Richard &hellip;</p>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26330043870/in/photostream/" title="berlin-2016-04-22-146"><img src="https://c7.staticflickr.com/2/1704/26330043870_809bba2020_b.jpg" width="1024" height="768" alt="berlin-2016-04-22-146"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26330043870/in/photostream/" title="berlin-2016-04-22-146"><img src="https://c7.staticflickr.com/2/1704/26330043870_809bba2020_b.jpg" alt="berlin-2016-04-22-146"></a>
 
 <p>&hellip; and then performing Fortune &hellip;</p>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26000061253/in/photostream/" title="berlin-2016-04-22-153"><img src="https://c6.staticflickr.com/2/1624/26000061253_55abcedb79_b.jpg" width="1024" height="768" alt="berlin-2016-04-22-153"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26000061253/in/photostream/" title="berlin-2016-04-22-153"><img src="https://c6.staticflickr.com/2/1624/26000061253_55abcedb79_b.jpg" alt="berlin-2016-04-22-153"></a>
 
 <p>Here's a lovely clip of Damon & Naomi playing The Turn of the Century in Taiwan last year:</p>
 

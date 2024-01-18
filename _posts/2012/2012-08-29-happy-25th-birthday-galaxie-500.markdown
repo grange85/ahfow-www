@@ -11,7 +11,7 @@ categories:
 - galaxie 500
 - audio
 ---
-<p><img alt="" src="https://media.fullofwishes.co.uk/images/misc/Galaxie500PR161210.jpg" title="Galaxie 500" class="aligncenter" width="562" height="368" /></p>
+<p><img alt="" src="https://media.fullofwishes.co.uk/images/misc/Galaxie500PR161210.jpg" title="Galaxie 500" class="aligncenter" /></p>
 <p>Five years ago <a href="/2007/08/28/on-the-20th-anniversary-of-galaxie-500/">I took it upon myself to declare Galaxie 500's birthday as being the 29 August 1987</a>, you can read my full argument for that date <a href="/2007/08/28/on-the-20th-anniversary-of-galaxie-500/">over here</a> but in short that was the date that the trio of Dean, Damon & Naomi first played to an audience at an apartment in <a href="https://maps.google.com/maps?q=248+front+st+new+york&ll=40.708127,-74.000883&spn=0.005148,0.007553&sll=40.708207,-74.001013&layer=c&cbp=13,271.89,,0,-10.73&cbll=40.708127,-74.000883&hnear=248+Front+St,+New+York,+10038&t=m&z=17&panoid=2cC3_xqC2_gZtSrtfuZPIA">Front St NYC</a>.</p>
 <p>Nobody chose to argue with me at the time although Dean subsequently undercut me a little in Black Postcards a year later...</p>
 <blockquote><p>Galaxie 500 was born the day that Naomi volunteered to play the bass guitar [...] we had our first rehearsal on May 27, 1987</p></blockquote>

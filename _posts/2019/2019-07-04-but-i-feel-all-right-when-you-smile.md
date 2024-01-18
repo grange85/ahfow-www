@@ -15,7 +15,7 @@ tags:
  - fourth of july
 flickr: true
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48191587367/in/dateposted/" title="INT. WEST LONDON VICTORIAN TERRACE HOUSE - THURSDAY MORNING - BREAKFAST"><img src="https://live.staticflickr.com/65535/48191587367_a591a6bbd6_c.jpg" width="800" height="800" alt="INT. WEST LONDON VICTORIAN TERRACE HOUSE - THURSDAY MORNING - BREAKFAST"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48191587367/in/dateposted/" title="INT. WEST LONDON VICTORIAN TERRACE HOUSE - THURSDAY MORNING - BREAKFAST"><img src="https://live.staticflickr.com/65535/48191587367_a591a6bbd6_c.jpg" alt="INT. WEST LONDON VICTORIAN TERRACE HOUSE - THURSDAY MORNING - BREAKFAST"></a>
 <pre>
 <strong>INT. WEST LONDON VICTORIAN TERRACE HOUSE - THURSDAY MORNING - BREAKFAST</strong>
 
@@ -60,4 +60,4 @@ Happy Galaxie 500 day - or whatever else you might choose to celebrate on this d
 
 {% ahfowvideo "J8QDLOpexnw" "Galaxie 500 - Fourth of July" %}
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48191500291/in/dateposted/" title="Galaxie 500 - Fourth of July 12&quot; single"><img src="https://live.staticflickr.com/65535/48191500291_551a333af1_c.jpg" width="800" height="794" alt="Galaxie 500 - Fourth of July 12&quot; single"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48191500291/in/dateposted/" title="Galaxie 500 - Fourth of July 12&quot; single"><img src="https://live.staticflickr.com/65535/48191500291_551a333af1_c.jpg" alt="Galaxie 500 - Fourth of July 12&quot; single"></a>

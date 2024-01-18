@@ -11,7 +11,7 @@ categories:
 - luna
 - news
 ---
-<p><img src="https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_2001_b.jpg" width="1430" height="1144" class="aligncenter" /><br />
+<p><img src="https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_2001_b.jpg" class="aligncenter" /><br />
 It's looking very likely that Luna will be reforming for some dates around the 10th anniversary of their break-up next year. Prompted on Twitter both Britta and Sean hinted that a Luna reunion was on the cards.</p>
 <blockquote class="twitter-tweet" lang="en" data-conversation="none"><p><a href="https://twitter.com/SeanEden">@SeanEden</a> <a href="https://twitter.com/WarehamDean">@WarehamDean</a> <a href="https://twitter.com/brittaphillips">@brittaphillips</a> &#10;&#10;please please pretty please with sugar on top...reunite Luna</p>
 <p>&mdash; loafing oaf (@bluemask68) <a href="https://twitter.com/bluemask68/status/525778552600662016">October 24, 2014</a></p></blockquote>

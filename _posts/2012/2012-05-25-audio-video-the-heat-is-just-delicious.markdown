@@ -14,7 +14,7 @@ categories:
 - video
 - audio
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/7255134114/" title="Tree, BC, sky"><img src="https://live.staticflickr.com/7215/7255134114_021e815e1e_c.jpg" width="800" height="600" alt="Tree, BC, sky"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/7255134114/" title="Tree, BC, sky"><img src="https://live.staticflickr.com/7215/7255134114_021e815e1e_c.jpg" alt="Tree, BC, sky"></a>
 
 It takes only the tiniest flurry of snow to have me digging out 'Snowstorm' or 'Listen, the Snow Is Falling' so it seems only fair that after three of four lovely days in London that I should dig out some appropriately sunny songs, so...
 
@@ -24,7 +24,7 @@ First up is this mp3 of In The Sun by Pierre &Eacute;toile
 
 The track was later re-recorded, when Pierre &Eacute;toile had decided to become Damon & Naomi, with Naomi doing the vocal, and released on Playback Singers. It can be bought on the [Sub Pop Years](http://damonandnaomi.bandcamp.com/album/the-sub-pop-years-1995-2002) compilation.
 
-<iframe class="aligncenter" width="400" height="100" style="position: relative; display: block; width: 400px; height: 100px;" src="https://bandcamp.com/EmbeddedPlayer/v=2/track=983485843/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://damonandnaomi.bandcamp.com/track/in-the-sun">In the Sun by Damon & Naomi</a></iframe>
+<iframe class="aligncenter" style="position: relative; display: block; width: 400px; height: 100px;" src="https://bandcamp.com/EmbeddedPlayer/v=2/track=983485843/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://damonandnaomi.bandcamp.com/track/in-the-sun">In the Sun by Damon & Naomi</a></iframe>
 
 Next up a couple of videos of sumemry tunes - first Galaxie 500 live at The Kennel Club in 1990...
 

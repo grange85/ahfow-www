@@ -12,7 +12,7 @@ categories:
 - news
 - dean wareham
 ---
-<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-live-at-st-pancras-cassettes.jpg" width="640" height="640" class /><figcaption class="caption-text"> Pic lifted from @soniccathedral's Instagram</figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-live-at-st-pancras-cassettes.jpg" class /><figcaption class="caption-text"> Pic lifted from @soniccathedral's Instagram</figcaption></figure>
 The live recording of Dean Warehams shows at St Pancras Old Chruch at the tail end of last year has been released by Sonic Cathedral is now available to buy either on limited edition cassette or as a digital download.</p>
 <p>The cassettes come in either red or green packaging in a sleeve designed by Sharon Locke (who designed the sleeve for Dean's new album as well as the Love Is Colder Than Death 7").</p>
 <p>The Cassette is available to buy at Dean's UK shows in Bristol (but you've just missed that), Brighton, Leamington Spa and London.</p>

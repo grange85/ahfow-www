@@ -12,12 +12,12 @@ categories:
 - dean & britta
 ---
 <p><ins datetime="2014-05-02T17:45:46+00:00"><br />
-<img src="https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-love-formosa-punk.jpg" width="529" height="539" class="aligncenter" /></p>
+<img src="https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-love-formosa-punk.jpg" class="aligncenter" /></p>
 <p>OK, I have some more details on the single</p>
 <p>It's a split single:</p>
 <p>One side is Dean Wareham playing a cover of Robyn Hitchcock's Love and the flip is Britta Phillips cover of The Beach Boys/Dennis Wilson track Fallin' in Love.</p>
 <p><a href="http://www.discogs.com/Dean-Wareham-Britta-Phillips-Love-Fallin-In-Love/master/682159">More details, and more pictures, can be found on Formosa Punk's Discogs page</a>.</p>
-<p><img src="https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-love-formosa-punk-reverse.jpg" width="529" height="532" class="aligncenter" /></p>
+<p><img src="https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-love-formosa-punk-reverse.jpg" class="aligncenter" /></p>
 <p><a href="http://www.normanrecords.com/records/147340-britta-phillips-dean-wareham-love-fallin-in-love-">Pre-order Britta Phillips & Dean Wareham - Love / Fallin' In Love at Norman Records (UK)</a></p>
 <p></ins><br />
 <a id="more"></a><a id="more-8981"></a></p>

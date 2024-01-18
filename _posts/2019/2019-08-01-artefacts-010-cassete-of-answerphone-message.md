@@ -19,7 +19,7 @@ tags:
  - answerphone
 flickr: true
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48244507501/in/dateposted/" title="TEAC C60 cassette"><img src="https://live.staticflickr.com/65535/48244507501_015b7db546_c.jpg" width="799" height="800" alt="TEAC C60 cassette"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48244507501/in/dateposted/" title="TEAC C60 cassette"><img src="https://live.staticflickr.com/65535/48244507501_015b7db546_c.jpg" alt="TEAC C60 cassette"></a>
 
 Another bonus artefact this week as it's Dean Wareham's birthday, so today's artefact is this rather innocuous, cheap C60 cassette.
 

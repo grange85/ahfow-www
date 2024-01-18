@@ -12,7 +12,7 @@ categories:
 - damon & naomi
 - originals
 ---
-<p><img src="https://media.fullofwishes.co.uk/00-misc/pictures/claudine-longet-run-wild-run-free.jpg" width="600" height="600" class="aligncenter" alt="The sleeve of Claudine Longet's Run Wild, Run Free LP" /><br />
+<p><img src="https://media.fullofwishes.co.uk/00-misc/pictures/claudine-longet-run-wild-run-free.jpg" class="aligncenter" alt="The sleeve of Claudine Longet's Run Wild, Run Free LP" /><br />
 OK... this one took a bit of work. Another track that was in my database with the words "information required" ... since I added it I guess I stopped looking (even though the internet got so much better since the 1990s), probably to the point where I may even have forgotten that it wasn't a Damon & Naomi original... although the French opening should have kept tipping me off.</p>
 <p>Even now it wasn't simply a matter of typing the title (or some lyrics) into Google or Spotify, no this took a bit of serious Google-ing to get any sort of history for This Changing World... and what I have must not be considered in any way authoritative.</p>
 <p>The original notes on my original Shimmy Disc copy of More Sad Hits (not to hand) must have credited the track to "J. C. Oliver" as that's how the song exists in the database. This undoubtedly contributed to my failed earlier research. J. C. Oliver is <a href="http://www.discogs.com/artist/643478-Jean-Claude-Olivier-2?type=Credits&filter_anv=1&anv=Jean-Claude%20Oliver">Jean-Claude Oliver</a> (although Discogs suggests he's sometimes credited as Olivier). The recent <a href="http://damonandnaomi.bandcamp.com/album/more-sad-hits">20|20|20 reissue of More Sad Hits</a> credits the song to Oliver/Spyropolus/Valade... this gave me a little more to go on.</p>
@@ -23,7 +23,7 @@ Claudine Longet has had an eventful live. She was married to Andy Williams, and 
 <p>All sorted then?</p>
 <p>Not for me? While this was the version that Damon & Naomi covered it clearly wasn't really the original.</p>
 <p>In 1968, French duo Line et Willy represented Monaco in <a href="http://en.wikipedia.org/wiki/Eurovision_Song_Contest_1968">The Eurovision Song Contest</a> with a song called "À chacun sa chanson" which was written by... J. C. Oliver and R. Valade, two of the three names on the More Sad Hits reissue. A bit more poking around found an EP of Line et Willy's Eurovision song, and on that EP was De l'automne a l'automne, also written by Oliver and Valade.<br />
-<img src="https://media.fullofwishes.co.uk/00-misc/pictures/line-et-willy-a-chacun.jpg" width="500" height="509" alt="Reverse of the sleeve of Line et Willy's À chacun sa chanson EP" class="aligncenter" /><br />
+<img src="https://media.fullofwishes.co.uk/00-misc/pictures/line-et-willy-a-chacun.jpg" alt="Reverse of the sleeve of Line et Willy's À chacun sa chanson EP" class="aligncenter" /><br />
 Jean-Claude Oliver (or Olivier) was the composer and Roger Valade wrote the lyrics to the song.</p>
 <p>Sadly I haven't managed to track down a version of Line et Willy's original but if anyone has it please do let me know!</p>
 <p>The third name was that of Diana Spyropolus who wrote the English lyrics for the second half of Claudine Longet's cover - I haven't managed to uncover much more about Ms Spyropolus - although I guess it could be <a href="https://www.goodreads.com/author/show/259288.Diana_Spyropulos">this one</a> ... but the 20 year gap between This Changing World and those books suggests otherwise).</p>

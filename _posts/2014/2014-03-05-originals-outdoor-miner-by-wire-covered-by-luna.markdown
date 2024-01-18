@@ -12,7 +12,7 @@ categories:
 - luna
 - originals
 ---
-<p><figure class="caption aligncenter"><a href="http://www.flickr.com/photos/library_of_congress/8056645375/" title="Belgian women workers in coal mine  (LOC) by The Library of Congress, on Flickr"><img src="https://farm9.staticflickr.com/8175/8056645375_f94acf5826_z.jpg" width="640" height="466" alt="Belgian women workers in coal mine  (LOC)"></a><figcaption class="caption-text">Some miners, outdoors</figcaption></figure><br />
+<p><figure class="caption aligncenter"><a href="http://www.flickr.com/photos/library_of_congress/8056645375/" title="Belgian women workers in coal mine  (LOC) by The Library of Congress, on Flickr"><img src="https://farm9.staticflickr.com/8175/8056645375_f94acf5826_z.jpg" alt="Belgian women workers in coal mine  (LOC)"></a><figcaption class="caption-text">Some miners, outdoors</figcaption></figure><br />
 Outdoor Miner was released by Wire on their tremendous 1978 album Chairs Missing, it went on to become an indie standard, to the point where a <a href="http://www.discogs.com/Various-A-Houseguests-Wish-Translations-Of-Wires-Outdoor-Miner/release/595177">whole album of cover versions exists</a>. Lots of good covers on that album but none come close to the original:<br />
 
 {% ahfowvideo "0vw4JkDf0wo" "" %}
@@ -35,7 +35,7 @@ Outdoor Miner was released by Wire on their tremendous 1978 album Chairs Missing
   } %}
 
 <p>Here's that sleeve, cat lovers avert your eyes!<br />
-<img src="https://media.fullofwishes.co.uk/images/misc/luna-outdoorminer-500.jpg" width="513" height="500" class="aligncenter" /></p>
+<img src="https://media.fullofwishes.co.uk/images/misc/luna-outdoorminer-500.jpg" class="aligncenter" /></p>
 <p>... and here's my second favourite Outdoor Miner cover by Flying Saucer Attack, cool video too.<br />
 
 {% ahfowvideo "ZGZOjHmLKD0" "" %}

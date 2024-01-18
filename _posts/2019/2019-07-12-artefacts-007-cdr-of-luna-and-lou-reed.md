@@ -18,7 +18,7 @@ tags:
  - ride into the sun
 flickr: true
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48146232176/in/dateposted/" title="CDR / Luna and Lou Reed playing Ride Into The Sun"><img src="https://live.staticflickr.com/65535/48146232176_73f11fbebc_c.jpg" width="799" height="800" alt="CDR / Luna and Lou Reed playing Ride Into The Sun"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48146232176/in/dateposted/" title="CDR / Luna and Lou Reed playing Ride Into The Sun"><img src="https://live.staticflickr.com/65535/48146232176_73f11fbebc_c.jpg" alt="CDR / Luna and Lou Reed playing Ride Into The Sun"></a>
 
 I can't find the accompanying communication that came with this but my memory is that Dean Wareham asked me not to make public this recording's provenance - but, given that he himself shared this recording on Soundcloud after Lou's passing in 2013, I guess it's OK for me to say that this CDR was sent to me by Dean back in 2004 specifically to put on A Head Full of Wishes.
 

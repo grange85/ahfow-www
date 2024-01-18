@@ -11,7 +11,7 @@ categories:
 - luna
 ---
 
-<a href="https://www.flickr.com/photos/grange85/3480775" title="Luna @ ULU, London by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://farm1.staticflickr.com/3/3480775_2af57fb2c9_z.jpg" width="640" height="480" alt="Luna @ ULU, London"></a>
+<a href="https://www.flickr.com/photos/grange85/3480775" title="Luna @ ULU, London by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://farm1.staticflickr.com/3/3480775_2af57fb2c9_z.jpg" alt="Luna @ ULU, London"></a>
 
 The show was pretty well attended and the crowd was enthusiastic - I know I say this every time but I'm always astounded to find that there are people over here who love Luna as much as I do.
 
@@ -28,5 +28,5 @@ MP3: [Luna - Indian Summer (London - 17 January 2005)](https://media.fullofwishe
 
 Feeling a little self-conscious Hazel and myself flashed our backstage passes at the beefy looking doorman and Britta ushered us downstairs into the Luna dressing room - a squash court - I had a beer, embarrassed myself hugely by behaving like such a "fan" and by talking inarticulate nonsense into a camera...I went home to relieve the babysitter and to ponder on the fact that I'll never see Luna again.
 
-<a href="https://www.flickr.com/photos/grange85/5752451853" title="2005-01-17_luna_pass1 by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://farm6.staticflickr.com/5110/5752451853_70d8d22ef6_z.jpg" width="472" height="640" alt="2005-01-17_luna_pass1"></a>
+<a href="https://www.flickr.com/photos/grange85/5752451853" title="2005-01-17_luna_pass1 by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://farm6.staticflickr.com/5110/5752451853_70d8d22ef6_z.jpg" alt="2005-01-17_luna_pass1"></a>
 

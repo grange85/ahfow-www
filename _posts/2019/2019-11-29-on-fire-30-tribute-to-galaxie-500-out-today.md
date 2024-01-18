@@ -19,7 +19,7 @@ tags:
 longpost: true
 flickr: true
 ---
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/49141936086/in/dateposted-public/" title="On Fire | 30 - deluxe package"><img src="https://live.staticflickr.com/65535/49141936086_0b47e9a431_c.jpg" width="800" height="800" alt="On Fire | 30 - deluxe package"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/49141936086/in/dateposted-public/" title="On Fire | 30 - deluxe package"><img src="https://live.staticflickr.com/65535/49141936086_0b47e9a431_c.jpg" alt="On Fire | 30 - deluxe package"></a>
 
 <div class="panel panel-primary row">
   <div class="panel-heading"><h3>On Fire | 30 ~ a tribute to Galaxie 500</h3></div>

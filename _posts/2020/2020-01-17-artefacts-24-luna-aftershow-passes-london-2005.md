@@ -18,7 +18,7 @@ tags:
 flickr: true
 longpost: false
 ---
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/49389645712/in/dateposted-public/" title="Luna - Aftershow passes (2005-01-17)"><img src="https://live.staticflickr.com/65535/49389645712_be0e89e87f_c.jpg" width="800" height="531" alt="Luna - Aftershow passes (2005-01-17)"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/49389645712/in/dateposted-public/" title="Luna - Aftershow passes (2005-01-17)"><img src="https://live.staticflickr.com/65535/49389645712_be0e89e87f_c.jpg" alt="Luna - Aftershow passes (2005-01-17)"></a>
 
 Fifteen years ago tonight Luna played their _last_ London show and today's artefacts are mine and Hazel's aftershow passes. Mine's the better condition one as Hazel's lived stuck inside her jacket for months - not for any close-to-her-heart-fan stuff but because it just was.
 
@@ -26,7 +26,7 @@ It was a perfect farewell: met up with a bunch of other fans; hung out (briefly)
 
 Off course most farewells aren't farewells any more and [Luna were back in London just over ten years later](/database/luna/shows/2015/2015-07-31-luna-the-garage-london-uk/).
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/3480775/in/album-72157600000883138/" title="Luna (with Sonic Boom) @ ULU, London"><img src="https://live.staticflickr.com/3/3480775_2af57fb2c9_c.jpg" width="800" height="600" alt="Luna (with Sonic Boom) @ ULU, London"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/3480775/in/album-72157600000883138/" title="Luna (with Sonic Boom) @ ULU, London"><img src="https://live.staticflickr.com/3/3480775_2af57fb2c9_c.jpg" alt="Luna (with Sonic Boom) @ ULU, London"></a>
 
 You can [download the full show, and see pictures](/database/luna/shows/2005/2005-01-17-luna-ulu-london-uk/) (including fat me ligging with the band), over here.
 

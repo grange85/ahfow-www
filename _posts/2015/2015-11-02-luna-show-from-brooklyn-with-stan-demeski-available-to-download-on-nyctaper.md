@@ -22,5 +22,5 @@ categories:
 <li>Review: <a href="/2015/10/29/peaceful-comforting-the-busy-streets-luna-in-ny-and-brooklyn-part-three/">Peaceful, comforting, the busy streets - Luna in New York and Brooklyn, part three: Friday</a> by Joakim</li>
 <li>Review: <a href="/2015/10/11/luna-in-new-york/">Luna in New York</a> by Frank</li>
 </ul>
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/160939790&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true"></iframe>
+<iframe width="100%" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/160939790&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true"></iframe>
 

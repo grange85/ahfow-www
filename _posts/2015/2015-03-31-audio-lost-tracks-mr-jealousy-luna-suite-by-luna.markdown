@@ -21,7 +21,7 @@ categories:
   "sourcecap": "Mr. Jealousy: music from the motion picture"
   } %}
 <p><a href="http://www.salon.com/2013/05/17/noah_baumbach_frances_ha_is_my_reinvention/">A couple of years back Dean interviewed Noah for Salon and talked about their work togther</a>.</p>
-<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/mr-jealousy-movie-poster-1997.jpg" width="580" height="864" class /><figcaption class="caption-text"> Mr. Jealousy poster</figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/mr-jealousy-movie-poster-1997.jpg" class /><figcaption class="caption-text"> Mr. Jealousy poster</figcaption></figure>
 <p>Actually it's not that obscure because you can pick up <a href="http://www.amazon.com/gp/product/B000007NH3/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000007NH3&linkCode=as2&tag=aheadfullofwi-20&linkId=ME2QAJCG5MU7QFGS">Mr. Jealousy: Music From The Motion Picture Soundtrack</a> from Amazon for peanuts.</p>
 <p>See also:<br />
 <a href="/2013/11/13/originals-jealous-guy-by-john-lennon-covered-by-luna/" title="Originals: Jealous Guy by John Lennon (covered by Luna)">Originals: Jealous Guy by John Lennon (covered by Luna)</a><br />
