@@ -11,7 +11,7 @@ categories:
 - news
 ---
 <p>OK, things are a bit quiet but I'll see if I can get a blog post out of it anyway.<br />
-<figure class="caption alignright" width="300"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2009/02/41dyhhimxrl_ss500_-300x300.jpg" alt="Black postcards (paperback edition)" class="size-medium wp-image-1042" /><figcaption class="caption-text"> Black postcards (paperback edition)</figcaption></figure>
+<figure class="caption alignright" ><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2009/02/41dyhhimxrl_ss500_-300x300.jpg" alt="Black postcards (paperback edition)" class="size-medium wp-image-1042" /><figcaption class="caption-text"> Black postcards (paperback edition)</figcaption></figure>
 The list-obsessive Rolling Stone web site have just published their <a href="http://www.rollingstone.com/music/lists/the-25-greatest-rock-memoirs-of-all-time-20120813/dean-wareham-black-postcards-2008-20120813">25 Greatest Rock Memoirs</a> and Dean Wareham's Black Postcards pops up at #22.<br />
 <blockquote> Nobody in this story gets rich, or even seems to break even – all anyone gets out of the experience is a couple dozen excellent songs. And that ends up being enough.</p></blockquote>
 <p><a href="http://www.amazon.com/gp/product/0143115480/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0143115480&linkCode=as2&tag=aheadfullofwi-20">Buy Dean Wareham's Black Postcards: A Memoir from Amazon</a></p>

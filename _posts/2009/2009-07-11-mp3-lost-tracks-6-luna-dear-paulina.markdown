@@ -50,4 +50,4 @@ tags: []
 </ul>
 <p><a href="http://oblivious.fullofwishes.co.uk/post/24603014328/dear-paulina-gets-single-of-the-fortnight-in">Hot Press Single of the Fortnight (November 1999)</a><br />
 <a href="http://oblivious.fullofwishes.co.uk/post/24603234764/dear-paulina-gets-single-of-the-fortnight-in">Dublin Event Guide Single of the Fortnight</a></p>
-<p><figure class="caption aligncenter" width="500"><img alt="" src="https://media.fullofwishes.co.uk/00-misc/pictures/thursday_paulina.jpg" title="Paulina Porizkova in Thursday" /><figcaption class="caption-text">Paulina Porizkova in Thursday</figcaption></figure>
+<p><figure class="caption aligncenter" ><img alt="" src="https://media.fullofwishes.co.uk/00-misc/pictures/thursday_paulina.jpg" title="Paulina Porizkova in Thursday" /><figcaption class="caption-text">Paulina Porizkova in Thursday</figcaption></figure>

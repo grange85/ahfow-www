@@ -19,7 +19,7 @@ categories:
 <p>======================
 1 =
 2 = alignright
-3 =  width="135"
+3 =  
 4 = Amor de Dias
 5 =
 6 = <a href="http://www.flickr.com/photos/grange85/3888573528/in/set-72157622245442704/"><img alt="Amor de Dias" src="https://farm4.static.flickr.com/3496/3888573528_88ea5a0143_m.jpg" title="Alasdair MacLean of Amor de Dias" /></a><br />
