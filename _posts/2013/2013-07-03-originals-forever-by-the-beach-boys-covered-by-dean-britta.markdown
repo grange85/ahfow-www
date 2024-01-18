@@ -12,7 +12,7 @@ categories:
 - dean & britta
 - originals
 ---
-<p><a href="http://www.flickr.com/photos/niznoz/5539406/" title="i love you forever by niznoz, on Flickr"><img class="aligncenter" src="https://farm1.staticflickr.com/5/5539406_858eeff2fb_z.jpg" width="640" height="426" alt="i love you forever"></a><br />
+<p><a href="http://www.flickr.com/photos/niznoz/5539406/" title="i love you forever by niznoz, on Flickr"><img class="aligncenter" src="https://farm1.staticflickr.com/5/5539406_858eeff2fb_z.jpg" alt="i love you forever"></a><br />
 Forever is a <a href="http://en.wikipedia.org/wiki/Dennis_Wilson">Dennis Wilson</a> <a href="http://en.wikipedia.org/wiki/The_Beach_Boys">Beach Boys</a> track and was released on their 1970 album Sunflower<br />
 Here's the studio version from <a href="http://en.wikipedia.org/wiki/Sunflower_(The_Beach_Boys_album)">Sunflower</a><br />
 

@@ -25,7 +25,7 @@ description: |
 
 <p>The video is for the track Back From a Changing World which is from last year's Inside The Future album.</p>
 
-<iframe src="https://player.vimeo.com/video/166196589" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/166196589" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/166196589">Richard Youngs &ldquo;Back From A World Changing"</a> from <a href="https://vimeo.com/thewiremagazine">The Wire Magazine</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 

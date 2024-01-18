@@ -11,11 +11,11 @@ categories:
 - luna
 - news
 ---
-<figure class="caption aligncenter"><a href="https://www.flickr.com/photos/eychao/18537413390" title="Small child not enjoying #Luna. #music #northsidefestival by Eveline Chao, on Flickr"><img src="https://c1.staticflickr.com/9/8846/18537413390_755ca593ac_z.jpg" width="640" height="640" alt="Small child not enjoying #Luna. #music #northsidefestival"></a><figcaption class="caption-text">Not quite everyone was enjoying the show</figcaption></figure>
+<figure class="caption aligncenter"><a href="https://www.flickr.com/photos/eychao/18537413390" title="Small child not enjoying #Luna. #music #northsidefestival by Eveline Chao, on Flickr"><img src="https://c1.staticflickr.com/9/8846/18537413390_755ca593ac_z.jpg" alt="Small child not enjoying #Luna. #music #northsidefestival"></a><figcaption class="caption-text">Not quite everyone was enjoying the show</figcaption></figure>
 <p>First up you should head over to the fab NYCTaper where you can download the show and listen to it while you read through the rest of this post.</p>
 <p>NYCTaper: <a href="http://www.nyctaper.com/2015/06/luna-june-11-2015-mccarren-park-northside-fest-flacmp3streaming/comment-page-1/#comment-1519749">Luna: June 11, 2015 McCarren Park (Northside Fest) – Flac/MP3/Streaming</a></p>
 <p>... or click this and head over there later!<br />
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/210749988&color=ff5500"></iframe></p>
+<iframe width="100%" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/210749988&color=ff5500"></iframe></p>
 <p>The New York Times has a review of the show:</p>
 <blockquote><p>Live, the songs opened up in ways that the studio versions deliberately held back. In music with such a restricted palette, small variations loomed larger: when “Bewitched” began with Mr. Wareham playing alone, when Ms. Phillips’s bass leapt out with a switch to distortion in “Friendly Advice,” when the whole band floated into a psychedelic haze in “Pup Tent,” when crescendos swelled and suddenly dropped away.</p>
 <p>At first, Mr. Wareham and Mr. Eden confined their lead guitar parts to terse little hooks; then they improvised more to reveal their distinct touches, jittery and insistent from Mr. Wareham and curvy and long-lined from Mr. Eden. Luna toured Spain and Portugal earlier this year and its members are listening to one another closely, clearly savoring their reunion.</p></blockquote>

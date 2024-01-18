@@ -11,7 +11,7 @@ categories:
 - news
 - galaxie 500
 ---
-<p><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2010/02/dominoreissuessleeves.jpg" alt="" title="dominoreissuessleeves" width="180" height="540" class="alignright size-full wp-image-1830" />
+<p><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2010/02/dominoreissuessleeves.jpg" alt="" title="dominoreissuessleeves" class="alignright size-full wp-image-1830" />
 <p>On 22 March <a href="http://dominorecordco.com/artists/galaxie-500/">Domino Records will be re-issuing the three Galaxie 500 studio albums</a> on vinyl (with download voucher) and double CD packages. If you pre-order the albums from Domino by March 7th you will be able to download the tracks on March 8th (two weeks before release).</p>
 <p>The CD issues are all released with bonus discs: Today comes with the Uncollected disc that was first made available as part of the Ryko box set and was subsequently released by Rykodisc as a single CD; On Fire comes with the Galaxie 500 Peel Sessions album (previously released in the US on 20|20|20 and This is Our Music comes with the Copenhagen live album previously released by Rykodisc. The vinyl editions don't include the bonus discs but do include a download voucher for mp3s.</p>
 <p>Even if you have already all of this it's worth heading over to the Domino site to read the three essays written for the albums - in particular the lovely one written for Today by <a href="http://www.stewartlee.co.uk/">Stewart Lee</a>...</p>

@@ -17,7 +17,7 @@ tags:
  - ghost
 flickr: true
 ---
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/48992662493/in/datetaken/" title="Damon &amp; Naomi with Ghost - Los Angeles 2000 (cassette)"><img src="https://live.staticflickr.com/65535/48992662493_9aee5552ed_c.jpg" width="800" height="510" alt="Damon &amp; Naomi with Ghost - Los Angeles 2000 (cassette)"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/48992662493/in/datetaken/" title="Damon &amp; Naomi with Ghost - Los Angeles 2000 (cassette)"><img src="https://live.staticflickr.com/65535/48992662493_9aee5552ed_c.jpg" alt="Damon &amp; Naomi with Ghost - Los Angeles 2000 (cassette)"></a>
 
 I can't remember when folk stopped sending me shows on cassette but suspect this was one of the last ones. It's a good recording of a show at The Knitting Factory in Los Angeles on Hallowe'en 2000 - Damon tweeted about that show...
 

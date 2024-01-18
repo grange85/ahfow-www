@@ -10,14 +10,14 @@ date: '2015-08-05'
 categories:
 - luna
 ---
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/-christoph-/20280453022/in/album-72157654451655103/" title="Luna live..."><img src="https://farm1.staticflickr.com/410/20280453022_7bc4cec9e8_b.jpg" width="1024" height="683" alt="Luna live..."></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/-christoph-/20280453022/in/album-72157654451655103/" title="Luna live..."><img src="https://farm1.staticflickr.com/410/20280453022_7bc4cec9e8_b.jpg" alt="Luna live..."></a>
 <p>This is a bit thrown together so please either leave comments below or <a href="/about/">email me</a> if you have anything to add!</p>
 <h3><a href="/database/luna/shows/2015/2015-07-30-luna-sticky-mikes-frog-bar-brighton-uk">30 July 2015 - Brighton</a></h3>
 <p>Pictures: <a href="http://www.londoninstereo.com/luna-gallery/">Rachel Lipsitz's gorgeous photos on London in Stereo</a>.</p>
 <p>Words: <a href="/2015/07/31/luna-and-flowers-at-sticky-mikes-in-brighton/">My write-up on AHFoW</a></p>
 <p>Words: <a href="http://meinzuhausemeinblog.blogspot.de/2015/08/luna-brighton-300715.html">Christoph's review and pictures (in German)</a> (<a href="https://translate.google.com/translate?sl=de&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fmeinzuhausemeinblog.blogspot.de%2F2015%2F08%2Fluna-brighton-300715.html&edit-text=&act=url">Google translate into English</a>)</p>
 <p>Pictures: <a href="https://www.flickr.com/photos/-christoph-/sets/72157654451655103">Christoph's splendid pictures on Flickr</a><br />
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/-christoph-/sets/72157654348264253" title="Konzert: Luna (31.07.15)"><img src="https://farm1.staticflickr.com/416/20033162188_20bfb5ec06_b.jpg" width="1024" height="683" alt="Konzert: Luna (31.07.15)"></a></p>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/-christoph-/sets/72157654348264253" title="Konzert: Luna (31.07.15)"><img src="https://farm1.staticflickr.com/416/20033162188_20bfb5ec06_b.jpg" alt="Konzert: Luna (31.07.15)"></a></p>
 
 <h3><a href="/database/luna/shows/2015/2015-07-31-luna-the-garage-london-uk">31 July 2015 - London</a></h3>
 <p>Words: <a href="/2015/08/03/luna-in-london-and-leeds/">My write up on AHFoW</a></p>

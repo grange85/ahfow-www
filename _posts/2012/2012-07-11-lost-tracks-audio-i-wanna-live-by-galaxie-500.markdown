@@ -11,7 +11,7 @@ categories:
 - galaxie 500
 - audio
 ---
-<p><a href="http://www.flickr.com/photos/usnationalarchives/3927159186/" title="Martin-Pena Area of Puerto Rico ..., 04/1972 by The U.S. National Archives, on Flickr"><img class="aligncenter" src="https://farm3.staticflickr.com/2620/3927159186_cf02961e25.jpg" width="500" height="340" alt="Martin-Pena Area of Puerto Rico ..., 04/1972"></a></p>
+<p><a href="http://www.flickr.com/photos/usnationalarchives/3927159186/" title="Martin-Pena Area of Puerto Rico ..., 04/1972 by The U.S. National Archives, on Flickr"><img class="aligncenter" src="https://farm3.staticflickr.com/2620/3927159186_cf02961e25.jpg" alt="Martin-Pena Area of Puerto Rico ..., 04/1972"></a></p>
 <p>I know nothing about this track... it's on a live recording I have from a 1988 show where Galaxie 500 were supporting The Pixies.</p>
 <p>I searched through the mailing list archives and all I could find was me asking if anyone knew anything about it (in 1999) -my question was answered with stony silence. Is it a cover? Google would seem to suggest otherwise, but Dean does say something, although maybe off-mic and certainly not very clear that initially sounded like it might be... now I'm not so sure.</p>
 <p>Please feel free to fill in the many gaps!</p>

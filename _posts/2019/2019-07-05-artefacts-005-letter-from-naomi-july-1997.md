@@ -22,7 +22,7 @@ tags:
  - ptolemaic terrascope
 flickr: true
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48140164382/in/dateposted/" title="Letter from Naomi Yang - July 1997"><img src="https://live.staticflickr.com/65535/48140164382_c699fcf600_b.jpg" width="861" height="1024" alt="Letter from Naomi Yang - July 1997"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48140164382/in/dateposted/" title="Letter from Naomi Yang - July 1997"><img src="https://live.staticflickr.com/65535/48140164382_c699fcf600_b.jpg" alt="Letter from Naomi Yang - July 1997"></a>
 
 Back in 1997, in the wake of [the heartbreaking Ptolemaic Terrascope interview](http://www.terrascope.co.uk/MyBackPages/Damon_and_Naomi.htm), I wrote a fan letter to Damon & Naomi. To be honest I can't remember if this was a real letter or an email. In my head it was a real letter with a stamp and everything. But that maybe the romantic in me trying to convince myself that I'd written a proper, old fashioned fan letter.
 

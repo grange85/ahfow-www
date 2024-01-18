@@ -11,7 +11,7 @@ categories:
 - news
 - damon & naomi
 ---
-<div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2009/04/51kppp5m63l_ss500_-150x150.jpg" alt="30 Century Man album sleeve" title="30 Century Man album sleeve" width="150" height="150" class="alignnone size-thumbnail wp-image-1154" /></div>
+<div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2009/04/51kppp5m63l_ss500_-150x150.jpg" alt="30 Century Man album sleeve" title="30 Century Man album sleeve" class="alignnone size-thumbnail wp-image-1154" /></div>
 <p>Damon & Naomi have covered "The World's Strongest Man" for a forthcoming Scott Walker tribute album. The album with the snappy title "Music inspired by the film Scott Walker 30 Century Man" will be <a href="http://www.lakeshore-records.com/scottwalker/?tracklisting">released by Lakeshore Records in May</a> and also includes contrinbutions from Laurie Anderson, Ulrich Schnauss and St Etienne amongst others.</p>
 <p>The album is being curated by Stephen Kijak the documentary maker responsible for the <a href="http://www.scottwalkerfilm.com/blog/">Scott Walker film</a>.</p>
 <p><del datetime="2009-04-12T23:32:28+00:00">The album is listed on Amazon.com but is currently priced at $18.50 so you might want to site tight until it reaches a sensible price before ordering.</del></p>

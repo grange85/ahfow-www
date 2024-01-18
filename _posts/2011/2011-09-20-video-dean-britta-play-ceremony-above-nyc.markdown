@@ -12,4 +12,4 @@ categories:
 - video
 ---
 <p>Breathtakingly sweet video of Dean & Britta covering Galaxie 500's cover of Joy Division's Ceremony at The Standard Hotel a couple of months back - you can view it right here but seriously <a href="http://vimeo.com/29170208">go to Vimeo and watch it in all it's HD glory</a>!</p>
-<p><iframe class="aligncenter" src="https://player.vimeo.com/video/29170208?title=0&byline=0&portrait=0" width="620" height="349" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe></p>
+<p><iframe class="aligncenter" src="https://player.vimeo.com/video/29170208?title=0&byline=0&portrait=0" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe></p>

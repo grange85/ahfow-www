@@ -16,7 +16,7 @@ categories:
 {% ahfowvideo "NRUcm9Qw9io" "" %}
 
 <p>I don't have any pics of Dean's appearance yet so you'll have to make do with a screencap from another Baumbach movie:<br />
-<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/francesha-dean-greta-gerwig.jpg" width="1280" height="720" class /><figcaption class="caption-text">  Greta Gerwig and Dean Wareham in Frances Ha</figcaption></figure>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/francesha-dean-greta-gerwig.jpg" class /><figcaption class="caption-text">  Greta Gerwig and Dean Wareham in Frances Ha</figcaption></figure>
 <p>... and a song from an even earlier Baumbach movie:<br />
 <strong>MP3: </strong><a href="https://media.fullofwishes.co.uk/02-luna/audio/01_Luna_Jealous-Guy.mp3">Jealous Guy by Luna</a> from Mr Jealousy<br />
 <audio src="https://media.fullofwishes.co.uk/02-luna/audio/01_Luna_Jealous-Guy.mp3" preload="none" controls /></p>

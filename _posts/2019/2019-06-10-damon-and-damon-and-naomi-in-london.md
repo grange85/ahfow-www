@@ -18,12 +18,12 @@ tags:
 flickr: true
 longpost: true
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48010575453/in/album-72157708992712557/" title="Damon &amp; Naomi"><img src="https://live.staticflickr.com/65535/48010575453_f357acf870_c.jpg" width="800" height="600" alt="Damon &amp; Naomi"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48010575453/in/album-72157708992712557/" title="Damon &amp; Naomi"><img src="https://live.staticflickr.com/65535/48010575453_f357acf870_c.jpg" alt="Damon &amp; Naomi"></a>
 
 Damon & Naomi arrived in the UK after a short tour of Italy promoting the Italian translation of Damon's The New Analog. Their first show was in York and this was followed by two London dates. The first, at Rough Trade West was just Damon, promoting the excellent [Ways of Hearing](https://amzn.to/2MAnHAq) book of [the podcast](https://www.radiotopia.fm/showcase/ways-of-hearing). The second, hosted by the [Walthamstow Rock N Roll Book Club](https://www.facebook.com/E17rockbookclub/), was another talk, followed by a Damon & Naomi set. I decided to go to both. Obviously.
 <!--more-->
 ## Day one
-<div class="col-md-6 float-right"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48003551916/in/dateposted/" title="Damon Krukowski at Rough Trade West"><img src="https://live.staticflickr.com/65535/48003551916_d2c3537bd8.jpg" width="500" height="375" alt="Damon Krukowski at Rough Trade West"></a></div>
+<div class="col-md-6 float-right"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48003551916/in/dateposted/" title="Damon Krukowski at Rough Trade West"><img src="https://live.staticflickr.com/65535/48003551916_d2c3537bd8.jpg" alt="Damon Krukowski at Rough Trade West"></a></div>
 
 Tuesday afternoon was warm, but the rain started just as I left work to cycle to Rough Trade - this combination had me arrive in Ladbroke Grove damp _and_ sweaty. It was about half an hour before the talk and the rain had stopped and there was even some sun so I thought I'd walk around a bit to dry off.
 
@@ -38,7 +38,7 @@ A couple of other folk arrived and Damon's talk turned into the six of us chatti
 I cycled home - in beautiful evening sunshine.
 
 ## Day two
-<div class="col-md-6 float-right"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48026756647" title="Damon Krukowski"><img src="https://live.staticflickr.com/65535/48026756647_3156673f79.jpg" width="500" height="499" alt="Damon Krukowski"></a></div>
+<div class="col-md-6 float-right"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48026756647" title="Damon Krukowski"><img src="https://live.staticflickr.com/65535/48026756647_3156673f79.jpg" alt="Damon Krukowski"></a></div>
 Wednesday the weather was better so I took the opportunity to bunk off work and head out east early. The reservoirs between Tottenham and Walthamstow have recently been smartened up and branded the Walthamstow Wetlands and I thought it was time to pay them a visit. I was hoping to convince some other fans to join me but sadly no luck so i had a lovely walk on my own before getting on a bus and heading off to the pre-show meeting venue.
 
 The pre-show meet was also just me.
@@ -56,4 +56,4 @@ They played _A Shining Dream_ from Fortune and _The Robot Speaks_ from The Earth
 
 And it was over, too soon. I said my farewells and headed home.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48026809146/in/dateposted/" title="Damon &amp; Naomi setlist"><img src="https://live.staticflickr.com/65535/48026809146_e58a4064d8_b.jpg" width="838" height="1024" alt="Damon &amp; Naomi setlist"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48026809146/in/dateposted/" title="Damon &amp; Naomi setlist"><img src="https://live.staticflickr.com/65535/48026809146_e58a4064d8_b.jpg" alt="Damon &amp; Naomi setlist"></a>

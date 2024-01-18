@@ -11,7 +11,7 @@ categories:
 - damon & naomi
 - galaxie 500
 ---
-<p><img alt="" src="https://media.fullofwishes.co.uk/images/misc/naomi-89-07.jpg" title="Naomi in 1989 and 2007" class="aligncenter" width="550" height="488" /></p>
+<p><img alt="" src="https://media.fullofwishes.co.uk/images/misc/naomi-89-07.jpg" title="Naomi in 1989 and 2007" class="aligncenter" /></p>
 <p>Sadly Naomi hasn't brought her bass over on her last few visits to the UK - and I always got a buzz seeing it - still do - even if it has to be in pictures these days. </p>
 <blockquote><p>It always seemed to me that equipment lists were the best thing about [<em>Guitar Player</em>]! On a practical and aesthetic level, as a musician, your equipment is an important issue to you - your choices define your aesthetic statement. But listing equipment is kind of a macho thing [...] </p>
 <p>There's a whole mentality that prevails [at music stores] [...] There's a "who knows more about equipment| game that's played.</p>
@@ -26,4 +26,4 @@ categories:
 
 {% ahfowvideo "wyeUwOGPIuo" "" %}
 
-<p><a href="http://www.flickr.com/photos/shangai_produzione/3331817856/" title="ceremony by banned, on Flickr"><img class="aligncenter" src="https://farm4.staticflickr.com/3617/3331817856_8f2e0a31fa.jpg" width="500" height="458" alt="ceremony"></a></p>
+<p><a href="http://www.flickr.com/photos/shangai_produzione/3331817856/" title="ceremony by banned, on Flickr"><img class="aligncenter" src="https://farm4.staticflickr.com/3617/3331817856_8f2e0a31fa.jpg" alt="ceremony"></a></p>

@@ -11,7 +11,7 @@ categories:
 - news
 - admin
 ---
-<p><figure class="caption alignright" width="300" caption="2010 winner 'No bigger than a nickel' by Ro"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2009/07/photo-300x225.jpg" alt="No bigger than a nickel" title="No bigger than a nickel" width="300" height="225" class="size-medium wp-image-1393" /><figcaption class="caption-text">[/captio</figcaption></figure>]
+<p><figure class="caption alignright" caption="2010 winner 'No bigger than a nickel' by Ro"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2009/07/photo-300x225.jpg" alt="No bigger than a nickel" title="No bigger than a nickel" class="size-medium wp-image-1393" /><figcaption class="caption-text">[/captio</figcaption></figure>]
 <p>Back in 2008 I launched a new competition for art about or inspired by Galaxie 500's track Fourth of July. The first year was met with embarrassing silence and a grand total of zero entries. For 2009 I decided that the lack of a prize may have contributed to the competition's pathetic failure and decided to offload some duplicate CDs to the winning entry... and sure enough egged on by some of my off-casts the number of entries soared and the <a href="/2009/07/04/fourth-of-july-competition-winners/">competiton was so fierce that in the end I made <strong>both entries</strong> winners</a>!</p>
 <p>So... welcome to year 3 of the AHFoW Fourth of July contest. The winning piece of art will, once again win a collection of crap that I have around that will probably include a couple of CDs and anything else I may be able to rustle up between now and then [<a href="/2010/06/20/donations-of-competition-prizes-gratefully-received/">prize donors welcome</a>].</p>
 <p><strong>The Rules</strong></p>

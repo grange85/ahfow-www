@@ -11,7 +11,7 @@ date: '2013-10-16'
 categories:
 - originals
 ---
-<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/nico_giacomoni.jpg" width="640" height="640" class /><figcaption class="caption-text"> Nico, photo by Antoine Giacomoni</figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/pictures/nico_giacomoni.jpg" class /><figcaption class="caption-text"> Nico, photo by Antoine Giacomoni</figcaption></figure>
 Had she still been with us today Nico would have been celebrating her 75th birthday, as sadly she passed away after a fall from her bicycle in Ibiza in 1988, we'll have to celebrate without her. So, instead of our regular installment in the <a href="/category/originals/">Originals</a> series, I'm going to revisit some earlier posts as a birthday tribute to the beautiful, and puzzling, Nico.</p>
 <p>But first...<br />
 </p>

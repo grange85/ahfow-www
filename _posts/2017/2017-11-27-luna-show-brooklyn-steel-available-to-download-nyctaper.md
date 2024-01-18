@@ -15,7 +15,7 @@ categories:
  - news
 tags:
 --- 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/42302753@N05/24679983588/" title="Luna at Brooklyn Steel 11/18/17"><img src="https://farm5.staticflickr.com/4563/24679983588_f9c4c19cb8_c.jpg" width="800" height="532" alt="Luna at Brooklyn Steel 11/18/17"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/42302753@N05/24679983588/" title="Luna at Brooklyn Steel 11/18/17"><img src="https://farm5.staticflickr.com/4563/24679983588_f9c4c19cb8_c.jpg" alt="Luna at Brooklyn Steel 11/18/17"></a>
 
 <p class="lead">Luna finished their Autumn US tour with a show at Brooklyn Steel and the great news for those of us who couldn't make it (and even those who did), the excellent NYC Taper was there to record the show, and the <a href="http://www.nyctaper.com/2017/11/luna-november-18-2017-brooklyn-steel/">recording is now available to download and stream</a>.</p>
 

@@ -12,7 +12,7 @@ categories:
  - damon & naomi
  - news
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/21019476@N00/132758253/" title="naomi"><img src="https://farm1.staticflickr.com/49/132758253_3d7393a8e9_b.jpg" width="1024" height="768" alt="naomi"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/21019476@N00/132758253/" title="naomi"><img src="https://farm1.staticflickr.com/49/132758253_3d7393a8e9_b.jpg" alt="naomi"></a>
 
 Happy birthday to Naomi Yang designer, photographer, <a href="/2012/05/23/naomi-yang-and-her-gibson-eb-2/">bassist</a>, singer, keyboardist, and more recently film-maker.
 

@@ -12,5 +12,5 @@ categories:
 - dean & britta
 - 13 most beautiful
 ---
-<div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2008/10/warhol_screentests_image1.jpg" alt=""Baby" Jane Holzer" title=""Baby" Jane Holzer" width="345" height="260" class="size-full wp-image-860" /></div>
+<div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2008/10/warhol_screentests_image1.jpg" alt=""Baby" Jane Holzer" title=""Baby" Jane Holzer" class="size-full wp-image-860" /></div>
 <p>Tickets are now on sale for the performance of "13 Most Beautiful..." at the Lincoln Centre in NYC on January 17th 2009.</p>

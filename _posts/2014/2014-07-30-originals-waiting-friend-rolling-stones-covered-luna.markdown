@@ -11,7 +11,7 @@ date: '2014-07-30'
 categories:
 - news
 ---
-<p><a href="https://www.flickr.com/photos/grange85/208210422" title="doggie by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://farm1.staticflickr.com/59/208210422_670a6fea0a_z.jpg" width="640" height="480" alt="doggie"></a><br />
+<p><a href="https://www.flickr.com/photos/grange85/208210422" title="doggie by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://farm1.staticflickr.com/59/208210422_670a6fea0a_z.jpg" alt="doggie"></a><br />
 Waiting on a Friend was on the last half-decent Rolling Stones album "Tattoo You" released in 1981, and is fine enough until the sax comes in. Apparently the song started in the sessions for Goats Head Soup in 1973 which may explain why it's not too shabby.<br />
 
 {% ahfowvideo "MKLVmBOOqVU" "" %}

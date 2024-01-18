@@ -15,7 +15,7 @@ tags: [lunareunion]
 ---
 <p class="lead">Luna's reunion gets back on track this week with three dates in Texas, all of which will feature a slot from Britta Phillips suppoorting her <a href="/2016/04/25/stream-and-pre-order-britta-phillips-debut-album-luck-or-magic/">recently released, and rather fabulous, new album Luck or Magic</a>.</p>
 
-<figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/birzer/407551145/in/album-72157594565023555/" title="Luna 28 January 2005 Austin TX"><img src="https://farm1.staticflickr.com/159/407551145_50ff844566_o.jpg" width="1280" height="853" alt="Luna 28 January 2005 Austin TX"></a><figcaption>Luna in Austin on their farewell tour in 2005 (Photo: Brian Birzer)</figcaption></figure>
+<figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/birzer/407551145/in/album-72157594565023555/" title="Luna 28 January 2005 Austin TX"><img src="https://farm1.staticflickr.com/159/407551145_50ff844566_o.jpg" alt="Luna 28 January 2005 Austin TX"></a><figcaption>Luna in Austin on their farewell tour in 2005 (Photo: Brian Birzer)</figcaption></figure>
 <p>First up they head to the Granada Theater in Dallas on Wednesday evening (<a href="http://www.granadatheater.com/event/1119699">tickets</a>), before heading off to the Mohawk in Austin (<a href="https://mohawk.queueapp.com/events/18728/products">tickets</a>) where they play on "the outdoor stage" on Thursday.</p>
 <p>Finally on Saturday the band play Numbers in Houston (<a href="http://www.stubwire.com/event/luna/numbers/houston/12299/">tickets</a>).</p>
 

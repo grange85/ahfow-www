@@ -11,6 +11,6 @@ categories:
 - news
 - damon & naomi
 ---
-<div class="imagebox-a"><a title="Gira de Damon & Naomi, by damagedgoods2006" alt="Gira de Damon & Naomi, by damagedgoods2006" href="http://flickr.com/photos/damagedgoods2006/3060410163/"><img src="https://farm4.static.flickr.com/3174/3060410163_5ed70f8223_m.jpg" width="162" height="240"></a><br/>Cartel para el tour ibérico</div>
+<div class="imagebox-a"><a title="Gira de Damon & Naomi, by damagedgoods2006" alt="Gira de Damon & Naomi, by damagedgoods2006" href="http://flickr.com/photos/damagedgoods2006/3060410163/"><img src="https://farm4.static.flickr.com/3174/3060410163_5ed70f8223_m.jpg" height="240"></a><br/>Cartel para el tour ibérico</div>
 <p>Damon & Naomi will be heading to Europe for a number of dates in UK, Portugal, Spain and France.</p>
 <p>View all of Damon & Naomi's upcoming shows.</p>

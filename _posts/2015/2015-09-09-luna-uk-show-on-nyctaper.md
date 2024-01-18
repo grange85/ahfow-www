@@ -11,7 +11,7 @@ categories:
  - luna
  - audio
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/20052803899/in/album-72157656706994745/" title="Luna"><img src="https://farm1.staticflickr.com/443/20052803899_bf9243ea34_c.jpg" width="800" height="600" alt="Luna"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/20052803899/in/album-72157656706994745/" title="Luna"><img src="https://farm1.staticflickr.com/443/20052803899_bf9243ea34_c.jpg" alt="Luna"></a>
 
 <p class="lead">NYCTaper has just put a <a href="http://www.nyctaper.com/2015/09/luna-august-1-2015-leeds-uk-flacmp3streaming/">terrific recording of Luna's splendid show in Leeds</a> up for download.</p>
 
@@ -22,13 +22,13 @@ You can [download the whole show from NYCTaper](http://www.nyctaper.com/2015/09/
 You can read <a href="/2015/08/17/a-wilder-affair-luna-in-the-uk-part-three-leeds/">Joakim's wonderful account of the show</a>.
 You can also read <a href="/2015/08/03/luna-in-london-and-leeds/">my half-arsed review</a> here.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/222838156&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"></iframe>
+<iframe width="100%" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/222838156&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"></iframe>
 
 <del>The London show will be uploaded sometime this week so watch this space ([or watch that space](http://www.nyctaper.com))</del>
 <p class="lead"><a href="http://www.nyctaper.com/2015/09/luna-july-31-2015-london-uk-flacmp3streaming/">NYCTaper has now also uploaded the wonderful London show</a> from the night before. The show at the Garage was a lot more rock, and a lot louder than the Leeds show - differently brilliant.</p>
 <p>You can <a href="http://www.nyctaper.com/2015/09/luna-july-31-2015-london-uk-flacmp3streaming/">download the show from NYCTaper</a>.</p>
 <p>Read <a href="/2015/08/14/i-once-met-bob-dylan-on-the-streets-of-paris-luna-in-the-uk-part-two-london/">Joakim's lovely wordy review of the London show</a>, and <a href="/2015/08/03/luna-in-london-and-leeds/">my shorter and more rudimentary take on it</a>.</p>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/20166778816/in/album-72157656637112975/" title="Luna"><img src="https://farm1.staticflickr.com/474/20166778816_d957392595_b.jpg" width="1024" height="768" alt="Luna"></a>
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/224056786&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"></iframe>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/20166778816/in/album-72157656637112975/" title="Luna"><img src="https://farm1.staticflickr.com/474/20166778816_d957392595_b.jpg" alt="Luna"></a>
+<iframe width="100%" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/224056786&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"></iframe>
 
 

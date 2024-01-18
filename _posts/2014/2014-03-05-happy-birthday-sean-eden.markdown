@@ -12,7 +12,7 @@ categories:
 - video
 - audio
 ---
-<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2004-11-12/20041112_abbey_03.jpg" width="640" height="480" alt="Sean Eden of Luna" class /><figcaption class="caption-text"> Sean Eden of Luna</figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2004-11-12/20041112_abbey_03.jpg" alt="Sean Eden of Luna" class /><figcaption class="caption-text"> Sean Eden of Luna</figcaption></figure>
 Photo: <a href="http://www.chromewaves.net/concertPhotos.php?concert=luna2">Frank Yang</a>[/caption]</p>
 <p>A couple of TV appearances with Luna<br />
 Luna - Friendly Advice MTV 120 Minutes<br />
@@ -41,6 +41,6 @@ Luna - Friendly Advice MTV 120 Minutes<br />
 
 {% ahfowvideo "TZ6B3TAVQE0" "" %}
 
-<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2005-02-26/20050227_0048090A.jpg" width="333" height="500" class /><figcaption class="caption-text"> Sean Eden of Luna</figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2005-02-26/20050227_0048090A.jpg" class /><figcaption class="caption-text"> Sean Eden of Luna</figcaption></figure>
 Photo: Pablo Chang[/caption]</p>
 <p><em>We're still waiting for that album Sean!</em></p>

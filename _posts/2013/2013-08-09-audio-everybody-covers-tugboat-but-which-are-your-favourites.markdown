@@ -13,7 +13,7 @@ categories:
 tags:
 - tugboat
 ---
-<p><a href="http://www.flickr.com/photos/nypl/3109773979/" title="Watuppa, from water front, Brooklyn, Manhattan. by New York Public Library, on Flickr"><img class="aligncenter" src="https://farm4.staticflickr.com/3038/3109773979_67246b3017.jpg" width="500" height="412" alt="Watuppa, from water front, Brooklyn, Manhattan."></a></p>
+<p><a href="http://www.flickr.com/photos/nypl/3109773979/" title="Watuppa, from water front, Brooklyn, Manhattan. by New York Public Library, on Flickr"><img class="aligncenter" src="https://farm4.staticflickr.com/3038/3109773979_67246b3017.jpg" alt="Watuppa, from water front, Brooklyn, Manhattan."></a></p>
 <p>So, last week alt-pop superstar <a href="/2013/08/04/beck-covers-galaxie-500/">Beck covered Galaxie 500's Tugboat</a> live in Boston (Damon & Naomi were in the audience and <a href="http://youtu.be/evVnT-4hs6U">captured a little of it on video</a>). In choosing to cover Tugboat, Beck joined an ever growing band of artists who have decided to cover that song - it really is the <em>go to</em> track when it comes to covering Galaxie 500. </p>
 <p>A couple of years ago I put together a post collecting the main ones - <a href="/2010/06/15/audio-a-fleet-of-tugboats/" title="Audio: A fleet of Tugboats">A Fleet of Tugboats</a> - and this is just a revisit of that.</p>
 <p>I've popped a silly little poll at the end where you can choose which version you like best - it doesn't mean anything and you can vote up for up to six if you can't decide - but I thought it might be fun. Feel free to justify your vote(s) in the comments if you so wish! I intend to!</p>

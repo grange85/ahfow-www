@@ -27,4 +27,4 @@ description: >
 
 <p>Here's his <a href="https://www.theguardian.com/artanddesign/2016/jul/18/billy-name-andy-warhol-factory-photographer-dies-76">obit from The Guardian</a>.</p>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/28365737326/in/dateposted/" title="RIP Billy Name, The Factory&#x27;s archivist #ahfow #Warhol #billyname"><img src="https://c7.staticflickr.com/9/8356/28365737326_c5d6a5c8f7_b.jpg" width="1024" height="1024" alt="RIP Billy Name, The Factory&#x27;s archivist #ahfow #Warhol #billyname"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/28365737326/in/dateposted/" title="RIP Billy Name, The Factory&#x27;s archivist #ahfow #Warhol #billyname"><img src="https://c7.staticflickr.com/9/8356/28365737326_c5d6a5c8f7_b.jpg" alt="RIP Billy Name, The Factory&#x27;s archivist #ahfow #Warhol #billyname"></a>

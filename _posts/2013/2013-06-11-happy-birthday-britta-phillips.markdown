@@ -11,7 +11,7 @@ categories:
 - dean & britta
 - audio
 ---
-<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/britta-13mb.jpg" width="600" height="338" class /><figcaption class="caption-text"> Britta recording 13 Most Beautiful</figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/britta-13mb.jpg" class /><figcaption class="caption-text"> Britta recording 13 Most Beautiful</figcaption></figure>
 <p>Happy birthday Britta - have a lovely day!</p>
 <p>Here's the beautifully sweet track Dean & Britta recorded for <a href="http://www.amazon.com/gp/product/B003DG5OGI/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003DG5OGI&linkCode=as2&tag=aheadfullofwi-20">Sing Me To Sleep - Indie Lullabies</a></p>
 

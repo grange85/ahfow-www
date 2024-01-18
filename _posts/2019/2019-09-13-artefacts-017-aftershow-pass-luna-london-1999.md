@@ -17,7 +17,7 @@ tags:
  - pass
 flickr: true
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48457628806/in/dateposted/" title="Luna aftershow pass - London 1999"><img src="https://live.staticflickr.com/65535/48457628806_2434bd6e9b_c.jpg" width="800" height="800" alt="Luna aftershow pass - London 1999"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48457628806/in/dateposted/" title="Luna aftershow pass - London 1999"><img src="https://live.staticflickr.com/65535/48457628806_2434bd6e9b_c.jpg" alt="Luna aftershow pass - London 1999"></a>
 
 The first time I was added to the guest-list for a Luna show was at The Embassy Rooms in London in 1999. I couldn't find anyone to come along to the show with me so my plus-one went begging. The guy on the door called me "Billy no-mates".
 

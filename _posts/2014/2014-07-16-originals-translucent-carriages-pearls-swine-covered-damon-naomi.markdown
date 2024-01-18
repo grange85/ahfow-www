@@ -12,7 +12,7 @@ categories:
 - damon & naomi
 - originals
 ---
-<p><a href="https://www.flickr.com/photos/24205602@N02/7040372853" title="Pearls Before Swine – One Nation Underground (1967 ESP Disk) 1980 Adelphi Records reissue w/Balaklava by Greg(ory), on Flickr"><img class="aligncenter" src="https://farm8.staticflickr.com/7088/7040372853_ca59c39aa4_z.jpg" width="640" height="428" alt="Pearls Before Swine – One Nation Underground (1967 ESP Disk) 1980 Adelphi Records reissue w/Balaklava"></a></p>
+<p><a href="https://www.flickr.com/photos/24205602@N02/7040372853" title="Pearls Before Swine – One Nation Underground (1967 ESP Disk) 1980 Adelphi Records reissue w/Balaklava by Greg(ory), on Flickr"><img class="aligncenter" src="https://farm8.staticflickr.com/7088/7040372853_ca59c39aa4_z.jpg" alt="Pearls Before Swine – One Nation Underground (1967 ESP Disk) 1980 Adelphi Records reissue w/Balaklava"></a></p>
 <p>Translucent Carriages was recorded for Pearls Before Swine's second album Balaklava in 1968.<br />
 
 {% ahfowvideo "EWfN9R3zyx8" "" %}

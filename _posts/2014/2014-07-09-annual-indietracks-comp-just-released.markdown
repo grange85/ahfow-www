@@ -15,4 +15,4 @@ categories:
 <iframe class="aligncenter" style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2852289277/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://indietracks.bandcamp.com/album/indietracks-compilation-2014">Indietracks Compilation 2014 by Various Artists</a></iframe></p>
 <p>Also it'll make you want to go to <a href="http://www.indietracks.co.uk/">Indietracks</a>, and astonishingly I believe there are still tickets available.</p>
 <p><a href="http://www.indietracks.co.uk/">Join me there</a>!</p>
-<p><img src="https://f0.bcbits.com/img/a1565586291_10.jpg" width="1200" height="1200" class="aligncenter" /></p>
+<p><img src="https://f0.bcbits.com/img/a1565586291_10.jpg" class="aligncenter" /></p>

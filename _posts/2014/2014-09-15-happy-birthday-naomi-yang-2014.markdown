@@ -11,7 +11,7 @@ categories:
 - news
 - damon & naomi
 ---
-<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/images/misc/naomi-89-07.jpg" width="550" height="488" class /><figcaption class="caption-text"> Naomi Yang</figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/images/misc/naomi-89-07.jpg" class /><figcaption class="caption-text"> Naomi Yang</figcaption></figure>
 <p>Happy birthday to Naomi! Have a lovely day. </p>
 <p>Lets celebrate with some folk music...<br />
 Listen to the awesome Magic Hour cover of Sally Free and Easy<br />

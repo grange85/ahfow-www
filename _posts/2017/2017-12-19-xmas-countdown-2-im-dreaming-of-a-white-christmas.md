@@ -16,7 +16,7 @@ categories:
 tags:
  - xmas countdown 2017
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/swedish_heritage_board/8252524688/" title="Karlavägen street in snow, Stockholm, Uppland, Sweden"><img src="https://farm9.staticflickr.com/8350/8252524688_96a02cb203_c.jpg" width="800" height="543" alt="Karlavägen street in snow, Stockholm, Uppland, Sweden"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/swedish_heritage_board/8252524688/" title="Karlavägen street in snow, Stockholm, Uppland, Sweden"><img src="https://farm9.staticflickr.com/8350/8252524688_96a02cb203_c.jpg" alt="Karlavägen street in snow, Stockholm, Uppland, Sweden"></a>
 <p class="lead">When I was growing up I shared a room with my brother. Every Christmas morning he'd wake up before me and, after he'd re-organised our stockings to ensure that he got all the good stuff, he'd stand by the window, wake me up, and convince me that it had been snowing. Being the foolish, gullible little brother, and being in a half-conscious state, I’d believe him - even when I knew it wasn’t true I’d convince myself to believe him.</p>
 
 <p>The dream of going to bed on a clear Christmas Eve and waking on Christmas morning to find the world covered in a fresh blanket of snow is one I’ve had every year for as long as I can remember. Sadly, being London, while I’ve been dreaming of a white Christmas I’ve been invariably delivered a wet one. Maybe this time&hellip;</p>

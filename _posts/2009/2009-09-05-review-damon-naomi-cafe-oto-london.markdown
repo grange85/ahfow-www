@@ -13,7 +13,7 @@ categories:
 - pictures
 - editorial
 ---
-<p><figure class="caption alignright"><a href="http://www.flickr.com/photos/grange85/3888581296/"><img alt="" src="https://farm3.static.flickr.com/2543/3888581296_a2129c8d4a_m.jpg" title="Damon & Naomi at Cafe OTO" width="240" height="180" /></a> <figcaption class="caption-text">Damon & Naomi</figcaption></figure>
+<p><figure class="caption alignright"><a href="http://www.flickr.com/photos/grange85/3888581296/"><img alt="" src="https://farm3.static.flickr.com/2543/3888581296_a2129c8d4a_m.jpg" title="Damon & Naomi at Cafe OTO" /></a> <figcaption class="caption-text">Damon & Naomi</figcaption></figure>
 <p>I arrived at Cafe OTO shortly before opening act <a href="http://www.amordedias.com/">Amor de Dias</a> took to the stage. The venue was already fairly crowded so I shuffled in and found a spot near the front but tucked in behind a pillar. Most of the folk around me were sitting so I felt a bit conspicuous but held my ground, reasoning to myself that if I wasn't obstructing their view the pillar would be.</p>
 <p>Amor de Dias is the new project of Alasdair MacLean of <a href="http://theclientele.co.uk/">The Clientle</a> and Lupe Núñez-Fernández of <a href="http://www.pipasforthepeople.com/">Pipas</a>. They played a short but very beautiful set of tropic-tinged folk guitar music accompanied on a couple of tracks by "Anne" on a huge recorder. Alasdair introduced the first track as "someone born in Aberdeen trying to play guitar like <a href="http://en.wikipedia.org/wiki/Caetano_Veloso">Caetano Veloso</a>." I think a couple of the numbers were tracks from <a href="http://web.archive.org/web/20131113053337/http://www.mergerecords.com:80/blog/2009/06/the-clientele-light-bonfires-on-the-heath/">Bonfires on the Heath</a>, the new album by The Clientele coming out next month.</p>
 <p>======================
@@ -22,7 +22,7 @@ categories:
 3 =  width="135"
 4 = Amor de Dias
 5 =
-6 = <a href="http://www.flickr.com/photos/grange85/3888573528/in/set-72157622245442704/"><img alt="Amor de Dias" src="https://farm4.static.flickr.com/3496/3888573528_88ea5a0143_m.jpg" title="Alasdair MacLean of Amor de Dias" width="135" height="240" /></a><br />
+6 = <a href="http://www.flickr.com/photos/grange85/3888573528/in/set-72157622245442704/"><img alt="Amor de Dias" src="https://farm4.static.flickr.com/3496/3888573528_88ea5a0143_m.jpg" title="Alasdair MacLean of Amor de Dias" /></a><br />
 
 ========================</p>
 <p>In the break before <a href="http://www.theleftoutsides.com/">The Left Outsides</a>, Damon came over for a chat and gave me a copy of the new Sub Pop Years compilation. I'm such a fan that I still get a glow just for being recognised (Alasdair patted my shoulder and said "nice to see you"... I love how the Internet has put me, albeit only in my head, in the same ball-park as cool and talented people.)</p>

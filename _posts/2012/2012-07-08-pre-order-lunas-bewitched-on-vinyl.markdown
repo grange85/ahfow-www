@@ -10,7 +10,7 @@ date: '2012-07-08'
 categories:
 - news
 ---
-<p><img alt="" src="https://media.fullofwishes.co.uk/02-luna/sleeves/bewitched-LP.jpg" title="Bewitched - Luna" class="aligncenter" width="350" height="350" /></p>
+<p><img alt="" src="https://media.fullofwishes.co.uk/02-luna/sleeves/bewitched-LP.jpg" title="Bewitched - Luna" class="aligncenter" /></p>
 <p>Luna's second album finally gets a vinyl release on August 21st. Bewitched is being released by Gotta Groove Records and you can <a href="http://gottagrooverecords.bandcamp.com/album/luna-bewitched-on-vinyl">pre-order it at their Bandcamp page over here</a>.</p>
 <blockquote><p>This is the first time Luna's Bewitched has ever been pressed on vinyl!<br />
 TEST PRESSING CONTEST -- 50 randomly selected pre-orders will receive a test pressing copy of this record in lieu of the final pressing! </p></blockquote>

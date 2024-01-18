@@ -27,7 +27,7 @@ categories:
 <p>Paul sent in this photo of dog decidedly not interested in a poem on a dog biscuit<br />
 </p>
 <p>Ro proved that a nickel is in fact bigger than the Empire State Building<br />
-<img class="aligncenter" src="https://media.fullofwishes.co.uk/ahfow/uploads/2009/07/photo.jpg" alt="also not bigger in height" title="Also No bigger than a nickel" width="400" height="300" class="size-full wp-image-1393" /></p>
+<img class="aligncenter" src="https://media.fullofwishes.co.uk/ahfow/uploads/2009/07/photo.jpg" alt="also not bigger in height" title="Also No bigger than a nickel" class="size-full wp-image-1393" /></p>
 
 {% ahfowvideo "L67x9VGfF-g" "" %}
 

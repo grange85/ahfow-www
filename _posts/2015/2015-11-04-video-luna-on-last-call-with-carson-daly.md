@@ -21,6 +21,6 @@ categories:
 	<li><a href="http://www.nbc.com/last-call-with-carson-daly/video/luna-friendly-advice/2930389?onid=144391#vc144391=3">Video: Luna - Friendly Advice (24 October 2015 The Teragram Ballroom, Los Angeles, CA)</a> - incomplete - via Last Call with Carson Daly</li>
 </ul>
 
-<iframe src="https://player.vimeo.com/video/144545276" width="500" height="313" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/144545276">LUNA - Malibu Love Nest - Teragram Ballroom - Los Angeles</a> from <a href="https://vimeo.com/user3663840">rubyrecluse</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/144545276" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/144545276">LUNA - Malibu Love Nest - Teragram Ballroom - Los Angeles</a> from <a href="https://vimeo.com/user3663840">rubyrecluse</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-<iframe src="https://player.vimeo.com/video/144545275" width="500" height="313" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/144545275">LUNA - Friendly Advice - Teragram Ballroom - Los Angeles</a> from <a href="https://vimeo.com/user3663840">rubyrecluse</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/144545275" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/144545275">LUNA - Friendly Advice - Teragram Ballroom - Los Angeles</a> from <a href="https://vimeo.com/user3663840">rubyrecluse</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

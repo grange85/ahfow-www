@@ -13,7 +13,7 @@ categories:
 tags:
 - lunareunion
 ---
-<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/luna-promo-2015-a.jpg" width="2048" height="1364" class /><figcaption class="caption-text"> Luna 2015</figcaption></figure>
+<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/luna-promo-2015-a.jpg" class /><figcaption class="caption-text"> Luna 2015</figcaption></figure>
 Luna have announced the dates for their reunion jaunt around north America in October. The tour starts in Atlanta on 3 October and wraps up in Los Angeles on 24th. Tickets are on sale now (or soon). There are a few gaps in the schedule so watch this space in case they get filled.</p>
 <ul>
 <li>3 October 2015 - Luna at Terminal West, Atlanta, GA, USA</li>

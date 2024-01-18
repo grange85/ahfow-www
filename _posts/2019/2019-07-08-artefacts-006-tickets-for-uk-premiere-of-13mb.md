@@ -17,7 +17,7 @@ tags:
  - mp3
 flickr: true
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48199920386/in/dateposted/" title="13 Most Beautiful at The Carnegie Hall"><img src="https://live.staticflickr.com/65535/48199920386_b11c1261c3_c.jpg" width="800" height="800" alt="13 Most Beautiful at The Carnegie Hall"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48199920386/in/dateposted/" title="13 Most Beautiful at The Carnegie Hall"><img src="https://live.staticflickr.com/65535/48199920386_b11c1261c3_c.jpg" alt="13 Most Beautiful at The Carnegie Hall"></a>
 
 Sneaking an extra _artefact_ in this week as today is the 10th anniversary of the first UK performance of Dean & Britta's splendid _13 Most Beautiful: Songs for Andy Warhol's Screen Test_ that happened at the Carnegie Hall in Dunfermline, Scotland.
 

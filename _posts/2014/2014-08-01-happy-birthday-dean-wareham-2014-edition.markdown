@@ -14,7 +14,7 @@ categories:
 ---
 ### Happy birthday Dean! Smile
 
-<figure class="caption aligncenter"><img alt="Dean Wareham with Sergio Huidor filming the video for When Will You Come Home" src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/sergio-huidor-dean-wareham.jpg" width="960" height="666" class /><figcaption class="caption-text"> Dean Wareham with Sergio Huidor filming the video for When Will You Come Home</figcaption></figure>
+<figure class="caption aligncenter"><img alt="Dean Wareham with Sergio Huidor filming the video for When Will You Come Home" src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/sergio-huidor-dean-wareham.jpg" class /><figcaption class="caption-text"> Dean Wareham with Sergio Huidor filming the video for When Will You Come Home</figcaption></figure>
 
 {% ahfowaudio {
 	"audiourl" : "https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-smile-what-else-do-you-do.mp3",
@@ -31,7 +31,7 @@ categories:
 {% ahfowvideo "r2lVXdSsxQ4" "Dean Wareham - Heartless People (WFUV)" %}
 
 
-<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/justin-dean-mtv-rabbit.jpg" width="541" height="428" class /><figcaption class="caption-text"> Justin and Dean (MTV 1994)</figcaption></figure>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/justin-dean-mtv-rabbit.jpg" class /><figcaption class="caption-text"> Justin and Dean (MTV 1994)</figcaption></figure>
 
 ### Previously
 

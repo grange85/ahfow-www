@@ -17,13 +17,13 @@ flickr: true
 > Dean Wareham - Black Postcards (The Penguin Press, 2008)
 
 For research I sat and watched Kojak on my own, on my phone a few weeks back!
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/15604180481/in/photolist-pLTvdv-2E3CZ" title="Watching YouTube all alone, watching Kojak on my phone"><img src="https://live.staticflickr.com/3938/15604180481_0917e51091_c.jpg" width="800" height="632" alt="Watching YouTube all alone, watching Kojak on my phone"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/15604180481/in/photolist-pLTvdv-2E3CZ" title="Watching YouTube all alone, watching Kojak on my phone"><img src="https://live.staticflickr.com/3938/15604180481_0917e51091_c.jpg" alt="Watching YouTube all alone, watching Kojak on my phone"></a>
 
 ... frankly there's very little I won't do in the name of AHFoW
 
 Also I did a drawing!
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48825574552/in/datetaken/" title="Watching Kojak on my own"><img src="https://live.staticflickr.com/65535/48825574552_5c6872e9f9_c.jpg" width="800" height="800" alt="Watching Kojak on my own"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48825574552/in/datetaken/" title="Watching Kojak on my own"><img src="https://live.staticflickr.com/65535/48825574552_5c6872e9f9_c.jpg" alt="Watching Kojak on my own"></a>
 
 {% ahfowvideo "EloWhfc3ANY" "When Will You Come Home - Galaxie 500 (dir: Sergio Huidor)" %}
 

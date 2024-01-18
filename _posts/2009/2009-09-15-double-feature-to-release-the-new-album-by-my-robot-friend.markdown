@@ -11,7 +11,7 @@ categories:
 - news
 - dean & britta
 ---
-<p><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2009/09/softcorecoversquare-300x300.jpg" alt="Sofr Core by My Robot Friend sleeve" title="Sofr Core by My Robot Friend sleeve" width="300" height="300" class="alignright size-medium wp-image-1591" />
+<p><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2009/09/softcorecoversquare-300x300.jpg" alt="Sofr Core by My Robot Friend sleeve" title="Sofr Core by My Robot Friend sleeve" class="alignright size-medium wp-image-1591" />
 <p><a href="http://www.deanandbritta.com">Dean & Britta</a>'s record label's next release will be by electronic music performer <a href="http://www.myrobotfriend.com/">My Robot Friend</a>. <a href="http://www.myspace.com/doublefeaturerecords">Double Feature</a> will release his third album "Soft Core" on 13 October.</p>
 <p>Double Feature will be hosting a release party for the album at 92YTribeca on 2 October featuring My Robot Frind, Cheval Sombre and a DJ set from Dean Wareham.</p>
 <p>My Robot Friend previously provided a remix of Dean & Britta's Say Goodnight on the couple's digital-only release Variations. Also check <a href="http://www.myspace.com/myrobotfriend">My Robot Friend's MySpace page</a> to hear one of the two tracks from the album that feature Dean Wareham as well as an older cover of Luna's 23 Minutes in Brussels.</p>

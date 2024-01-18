@@ -17,7 +17,7 @@ tags:
  - bootleg
 flickr: true
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48457473736/in/dateposted/" title="Galaxie 500 Peel Sessions bootleg CDR"><img src="https://live.staticflickr.com/65535/48457473736_2a7c72024e_c.jpg" width="799" height="800" alt="Galaxie 500 Peel Sessions bootleg CDR"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48457473736/in/dateposted/" title="Galaxie 500 Peel Sessions bootleg CDR"><img src="https://live.staticflickr.com/65535/48457473736_2a7c72024e_c.jpg" alt="Galaxie 500 Peel Sessions bootleg CDR"></a>
 
 The glaring ommission in the otherwise wonderful [Galaxie 500 box set](/2019/08/09/artefacts-012-unopened-galaxie-500-box-set/) was the two sessions the band recorded for the John Peel Show - the first of which was [recorded exactly 30 years ago this week](/database/galaxie-500/shows/1989/1989-09-24-galaxie-500-bbc-radio-one-london-uk/).
 

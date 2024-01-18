@@ -16,7 +16,7 @@ tags:
 - video
 longpost: true
 ---
-<figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/20006421039/" title="Luna"><img src="https://c8.staticflickr.com/1/286/20006421039_69bbcfed6f_b.jpg" width="1024" height="768" alt="Luna"></a><figcaption>Britta Phillips</figcaption></figure>
+<figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/20006421039/" title="Luna"><img src="https://c8.staticflickr.com/1/286/20006421039_69bbcfed6f_b.jpg" alt="Luna"></a><figcaption>Britta Phillips</figcaption></figure>
 
 <p class="lead">Happy birthday to the lovely Britta Phillips who'll be celebrating on the back of the wonderful solo album she released a couple of months back - <a href="http://amzn.to/22Zm2Ci">go buy it</a> (<a href="https://open.spotify.com/album/43brGW2fA599FbPHk5Zxdj">or stream it</a>) if you haven't already!</p>
 
@@ -48,4 +48,4 @@ longpost: true
 
 <p>Check out <a href="/2014/06/11/happy-birthday-britta-phillips-2014/">A Head Full of Wishes birthday card to Britta from 2014</a> for more goodies</p>
 
-<figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26913790466/" title="This slab of pink and white finally arrived this morning, thanks @britta_phillips"><img src="https://c3.staticflickr.com/8/7374/26913790466_c635eddf16_b.jpg" width="1024" height="1024" alt="This slab of pink and white finally arrived this morning, thanks @britta_phillips"></a><figcaption>Luck or Magic</figcaption></figure>
+<figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26913790466/" title="This slab of pink and white finally arrived this morning, thanks @britta_phillips"><img src="https://c3.staticflickr.com/8/7374/26913790466_c635eddf16_b.jpg" alt="This slab of pink and white finally arrived this morning, thanks @britta_phillips"></a><figcaption>Luck or Magic</figcaption></figure>

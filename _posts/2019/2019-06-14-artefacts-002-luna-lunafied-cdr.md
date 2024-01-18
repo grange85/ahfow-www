@@ -17,7 +17,7 @@ tags:
  - lunafied
 flickr: true
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/47996349402/in/dateposted/" title="Luan - Lunafied CDR (2006)"><img src="https://live.staticflickr.com/65535/47996349402_92604f627f_c.jpg" width="800" height="800" alt="Luan - Lunafied CDR (2006)"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/47996349402/in/dateposted/" title="Luan - Lunafied CDR (2006)"><img src="https://live.staticflickr.com/65535/47996349402_92604f627f_c.jpg" alt="Luan - Lunafied CDR (2006)"></a>
 
 In 2006 Rhino decided to release a digital-only album of Luna's covers. Lunafied arrived in the digital stores with an amazing [camera obscura sleeve by Abelardo Morell](http://www.abelardomorell.net/project/camera-obscura/) - but it only existed as a digital release which seemed a shame.
 

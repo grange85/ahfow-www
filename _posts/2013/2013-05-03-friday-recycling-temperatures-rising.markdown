@@ -31,7 +31,7 @@ categories:
   "sourcecap": ""
   } %}
 
-<p><iframe width="400" height="100" style="position: relative; display: block; width: 400px; height: 100px;" src="https://bandcamp.com/EmbeddedPlayer/v=2/track=1482508396/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://galaxie500.bandcamp.com/track/temperatures-rising">Temperature&#39;s Rising by Galaxie 500</a></iframe></p>
+<p><iframe style="position: relative; display: block; width: 400px; height: 100px;" src="https://bandcamp.com/EmbeddedPlayer/v=2/track=1482508396/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://galaxie500.bandcamp.com/track/temperatures-rising">Temperature&#39;s Rising by Galaxie 500</a></iframe></p>
 
 {% ahfowvideo "ZSen4giGlvI" "Dean & Britta - Temperature's Rising (Annadale Hotel, Sydney in 2011)" %}
 

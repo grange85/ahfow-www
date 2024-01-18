@@ -12,7 +12,7 @@ categories:
 - dean & britta
 - 13 most beautiful
 ---
-<div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2008/10/item_36_cover_medium.jpg" alt="" title="item_36_cover_medium" width="200" height="282" class="alignnone size-full wp-image-894" /></div>
+<div class="imagebox-a"><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2008/10/item_36_cover_medium.jpg" alt="" title="item_36_cover_medium" class="alignnone size-full wp-image-894" /></div>
 <p>Plexifilm are taking pre-orders for the DVD release of "13 Most Beautiful...Songs for Andy Warhol's Screen Tests" with music by Dean & Britta. There are two versions - a very <a href="http://web.archive.org/web/20131101032103/http://plexifilm.com/title.php?id=35">limited deluxe edition</a> for $250 and a <a href="http://web.archive.org/web/20131101034703/http://plexifilm.com/title.php?id=36">standard DVD at $30</a>.</p>
 <p>This is what you get for $250 if you can stretch to that...</p>
 <blockquote><p>

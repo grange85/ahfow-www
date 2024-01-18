@@ -18,7 +18,7 @@ tags:
 - season of the witch
 - witches
 ---
-<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/misc/season-of-the-witch-bl-flickr.jpg" width="640" height="640" class /><figcaption class="caption-text"> <a href="https://flic.kr/p/hPQY78">The Lancashire Witches</a></figcaption></figure>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/00-misc/misc/season-of-the-witch-bl-flickr.jpg" class /><figcaption class="caption-text"> <a href="https://flic.kr/p/hPQY78">The Lancashire Witches</a></figcaption></figure>
 
 Donovan wrote Season of the Witch for his 1966 LP Sunshine Superman, it helped weed out the Dylan copyist stuff that Pennebaker had planted in Don't Look Back.
 

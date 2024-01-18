@@ -11,7 +11,7 @@ categories:
 - news
 - damon & naomi
 ---
-<p><img class="aligncenter" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_wondrous_world_bootleg.jpg" width="640" height="640" alt="sleeve scan" /><br />
+<p><img class="aligncenter" src="https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_wondrous_world_bootleg.jpg" alt="sleeve scan" /><br />
 This <a href="http://www.recordstoreday.com/Home">Record Store Day</a>, <a href="http://damonandnaomi.com/shop/dn-wondrous-world-lp/">Damon & Naomi will be releasing a new version of their second album "The Wondrous World of Damon & Naomi"</a> the album has different mixes, a different running sequence and includes a previously unreleased track "Round and Round."</p>
 <p><strong><a href="http://damonandnaomi.com/shop/dn-wondrous-world-lp/">Pre-order The Wondrous World of Damon & Naomi (bootleg edition)</a></strong></p>
 <p>Damon & Naomi's <a href="http://damonandnaomi.com/shop/dn-wondrous-world-lp/">post on their website</a> explains the origins of the album...</p>

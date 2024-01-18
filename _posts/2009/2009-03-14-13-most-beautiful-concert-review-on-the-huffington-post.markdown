@@ -13,7 +13,7 @@ categories:
 - other people's blogs
 - 13 most beautiful
 ---
-<div class="imagebox-a"><a title="Dean & Britta with Warhol films, by robertloerzel" alt="Dean & Britta with Warhol films, by robertloerzel" href="http://www.flickr.com/photos/robertloerzel/3336655337/in/set-72157614915339471/"><img src="https://farm2.static.flickr.com/1326/3336655337_669a280c2d_m.jpg" width="240" height="183"></a><br/><a href="http://www.flickr.com/photos/robertloerzel/">Photo by Robert Loerzel</a></div>
+<div class="imagebox-a"><a title="Dean & Britta with Warhol films, by robertloerzel" alt="Dean & Britta with Warhol films, by robertloerzel" href="http://www.flickr.com/photos/robertloerzel/3336655337/in/set-72157614915339471/"><img src="https://farm2.static.flickr.com/1326/3336655337_669a280c2d_m.jpg" height="183"></a><br/><a href="http://www.flickr.com/photos/robertloerzel/">Photo by Robert Loerzel</a></div>
 <p><a href="http://www.undergroundbee.com/">Robert Loerzel</a> has a good review of one of Dean & Britta's recent Chicago performances of 13 Most Beautiful in <a href="http://www.huffingtonpost.com/robert-loerzel/rocking-to-warhol-films_b_173313.html">The Huffington Post</a>...</p>
 <blockquote><p>At this show, Dean & Britta sounded more like the V.U. than ever. Other than a few loud moments, they stayed on the more delicate end of the V.U. groove, with that trademark sound of tamped-down urgency pulsing underneath the chords. While Wareham and Britta Phillips don't sound precisely like Lou Reed and Nico when they sing, their languid vocals were a close-enough approximation to set the right mood for the screen tests.</p></blockquote>
 <ul>

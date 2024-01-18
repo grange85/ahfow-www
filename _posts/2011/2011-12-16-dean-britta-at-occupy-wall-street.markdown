@@ -11,7 +11,7 @@ categories:
 - news
 - dean & britta
 ---
-<p><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2011/12/372809_306057236094749_1857052274_n.jpg" alt="" title="D17 Re-occupy" width="180" height="278" class="alignright size-full wp-image-2278" />Dean & Britta are performing at the <a href="https://www.facebook.com/events/306057236094749/">D17 Re-occupy</a> event in New York City tomorrow (Saturday 17 December) - they will be onstage at 1:20 (shortly before Lou Reed)</p>
+<p><img src="https://media.fullofwishes.co.uk/ahfow/uploads/2011/12/372809_306057236094749_1857052274_n.jpg" alt="" title="D17 Re-occupy" class="alignright size-full wp-image-2278" />Dean & Britta are performing at the <a href="https://www.facebook.com/events/306057236094749/">D17 Re-occupy</a> event in New York City tomorrow (Saturday 17 December) - they will be onstage at 1:20 (shortly before Lou Reed)</p>
 <blockquote><p>RE-OCCUPY SATURDAY, DECEMBER 17th at 12PM<br />
 DUARTE SQ. PARK, 6th AVE & CANAL<br />
 PROTECT & CELEBRATE THE OCCUPY MOVEMENT FOR SOCIAL AND ECONOMIC JUSTICE</p>

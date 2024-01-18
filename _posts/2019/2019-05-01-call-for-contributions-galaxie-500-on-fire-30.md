@@ -16,7 +16,7 @@ tags:
  - on fire 30
 flickr: true
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/14966010204/in/photolist-Rb46d4-2dib5rW-2bMbbwH-2bBJXcg-MEniNo-Q4c6BD-CmbUHa-qbZ9qj-qrghG1-pwMyUg-psWdjt-oNuHqG-dQ8t3z-dQ84ZX-5H4mv9/" title="Galaxie 500 - On Fire"><img src="https://live.staticflickr.com/3943/14966010204_c004905dfe_c.jpg" width="800" height="439" alt="Galaxie 500 - On Fire"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/14966010204/in/photolist-Rb46d4-2dib5rW-2bMbbwH-2bBJXcg-MEniNo-Q4c6BD-CmbUHa-qbZ9qj-qrghG1-pwMyUg-psWdjt-oNuHqG-dQ8t3z-dQ84ZX-5H4mv9/" title="Galaxie 500 - On Fire"><img src="https://live.staticflickr.com/3943/14966010204_c004905dfe_c.jpg" alt="Galaxie 500 - On Fire"></a>
 
 ### On the 20th October 1989 Galaxie 500's masterpiece On Fire hit the streets for the first time ~ which means that come October the album will be 30 years old!
 
@@ -39,4 +39,4 @@ I'm going to push this idea for a month and make a decision about whether to run
 
 If there's enough interest then at the beginning of June I will set up a forum where we can discuss, debate, share ideas and inspire each other!
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/15401012047/in/photolist-Rb46d4-2dib5rW-2bMbbwH-2bBJXcg-MEniNo-Q4c6BD-CmbUHa-qbZ9qj-qrghG1-pwMyUg-psWdjt-oNuHqG-dQ8t3z-dQ84ZX-5H4mv9" title="On Fire - Galaxie 500 cassette"><img src="https://live.staticflickr.com/5607/15401012047_4cd50b31e5_c.jpg" width="799" height="800" alt="On Fire - Galaxie 500 cassette"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/15401012047/in/photolist-Rb46d4-2dib5rW-2bMbbwH-2bBJXcg-MEniNo-Q4c6BD-CmbUHa-qbZ9qj-qrghG1-pwMyUg-psWdjt-oNuHqG-dQ8t3z-dQ84ZX-5H4mv9" title="On Fire - Galaxie 500 cassette"><img src="https://live.staticflickr.com/5607/15401012047_4cd50b31e5_c.jpg" alt="On Fire - Galaxie 500 cassette"></a>

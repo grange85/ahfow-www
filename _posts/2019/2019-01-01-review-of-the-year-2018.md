@@ -52,14 +52,14 @@ In February the great [Tom Rapp passed away](/2018/02/12/tom-rapp-1947-2018/), m
   } %}
 
 
-<figure class="caption aligncenter"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/40277240951/" title="Damon &amp; Naomi at Cafe OTO, London, February 2018"><img src="https://farm5.staticflickr.com/4713/40277240951_7d4efa353a_c.jpg" width="800" height="600" alt="Damon &amp; Naomi at Cafe OTO, London, February 2018"></a><figcaption class="caption-text">Damon & Naomi (London, Feb 2018)</figcaption></figure>
+<figure class="caption aligncenter"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/40277240951/" title="Damon &amp; Naomi at Cafe OTO, London, February 2018"><img src="https://farm5.staticflickr.com/4713/40277240951_7d4efa353a_c.jpg" alt="Damon &amp; Naomi at Cafe OTO, London, February 2018"></a><figcaption class="caption-text">Damon & Naomi (London, Feb 2018)</figcaption></figure>
 
 
 Damon & Naomi arrived in Europe for a pretty extensive tour with Thalia Zedek and paid tribute to Tom by playing Translucent Carriages at the shows. Here they are in Manchester (without Thalia):
 
 {% ahfowvideo "bf2pMNJwP1c" "Damon & Naomi - Translucent Carriages (Manchester, Feb 2018)" %}
 
-<figure class="caption aligncenter"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/40286576991/" title="Damon about to chat about The New Analog"><img src="https://farm5.staticflickr.com/4607/40286576991_d568f4145c_o.jpg" width="640" height="640" alt="Damon about to chat about The New Analog"></a><figcaption>Damon with Laura Snapes (London, Feb 2019)</figcaption></figure>
+<figure class="caption aligncenter"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/40286576991/" title="Damon about to chat about The New Analog"><img src="https://farm5.staticflickr.com/4607/40286576991_d568f4145c_o.jpg" alt="Damon about to chat about The New Analog"></a><figcaption>Damon with Laura Snapes (London, Feb 2019)</figcaption></figure>
 
 ### April
 
@@ -91,12 +91,12 @@ Also in August some [Galaxie 500 live video saw the light of day](/2018/08/22/vi
 
 Luna head to Europe for a bunch of dates including a show at Coimbra which doubled as the release of an LP version of Dean Wareham's Luna Demos.
 
-<figure class="caption aligncenter"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/43638049355/" title="Dean Wareham&#x27;s Luna demos LP arrived this morning. Number 200/200 #nowplaying"><img src="https://farm2.staticflickr.com/1860/43638049355_d1a692feb8_z.jpg" width="640" height="640" alt="Dean Wareham&#x27;s Luna demos LP arrived this morning. Number 200/200 #nowplaying"></a><figcaption class="caption-text">Dean Wareham - Luna Demos</figcaption></figure>
+<figure class="caption aligncenter"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/43638049355/" title="Dean Wareham&#x27;s Luna demos LP arrived this morning. Number 200/200 #nowplaying"><img src="https://farm2.staticflickr.com/1860/43638049355_d1a692feb8_z.jpg" alt="Dean Wareham&#x27;s Luna demos LP arrived this morning. Number 200/200 #nowplaying"></a><figcaption class="caption-text">Dean Wareham - Luna Demos</figcaption></figure>
 
 Luna played lots of dates in Spain and northern Europe inlcuding their first trip to Sweden for eighteen years - you can [stream the full show](https://www.mixcloud.com/joakim-bengtsson2/luna-debaser-2018-09-12/) courtesy of A Strange Fascination on Mixcloud:
 
 
-<figure class="caption aligncenter"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/44634492352/in/album-72157701060802564/" title="Luna at Loppen, Copenhagen"><img src="https://farm2.staticflickr.com/1855/44634492352_669ae00c2a_c.jpg" width="800" height="600" alt="Luna at Loppen, Copenhagen"></a><figcaption class="caption-text">Luna, Copenhagen Sep 2018</figcaption></figure>
+<figure class="caption aligncenter"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/44634492352/in/album-72157701060802564/" title="Luna at Loppen, Copenhagen"><img src="https://farm2.staticflickr.com/1855/44634492352_669ae00c2a_c.jpg" alt="Luna at Loppen, Copenhagen"></a><figcaption class="caption-text">Luna, Copenhagen Sep 2018</figcaption></figure>
 
 
 ### October
