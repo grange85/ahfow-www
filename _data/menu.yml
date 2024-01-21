@@ -12,6 +12,8 @@ entries:
         url: /category/artefacts/
       - title: Discography / gigography
         url: /database/
+      - title: Search
+        url: /search/
   - title: News
     post_list:
       limit: 3
