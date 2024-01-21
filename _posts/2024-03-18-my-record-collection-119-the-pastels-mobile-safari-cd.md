@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'My record collection #119: The Pastels - Mobile Safari (CD)'
+title: '#119: The Pastels - Mobile Safari (CD)'
 sitemap: true
-series-title:
+series-title: My record collection 
 github-comments-issueid:
 author:
   display_name: Andy
@@ -11,9 +11,11 @@ author:
   url: https://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/the-pastels-mobile-safari-cd.jpg
 categories:
--
+- dean wareham
+- my record collection
 tags:
--
+- the pastels
+- mobile safari
 date: 2024-03-18 00:00 +0000
 ---
 Mobile Safari was The Pastels third album and was released in early 1995. It was the first of two (so far) albums by The Pastels that Dean has contributed to - 
