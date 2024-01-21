@@ -1,25 +1,26 @@
 ---
 layout: post
-title: '#120: Luna - Rendezvous (LP)'
+title: "#120: Luna - Rendezvous (LP)"
 sitemap: true
-series-title: My record collection 
+series-title: My record collection
 github-comments-issueid:
 author:
   display_name: Andy
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-rendezvous-rsd-lp.jpg
 categories:
 - luna
 - my record collection
 tags:
 - rendezvous
 - record store day
+date: 2024-03-21 00:00 +0000
 ---
 Luna's final album _Rendezvous_ only got released on CD back in 2004 and we had to wait until Record Store Day 2012 before it finally saw a vinyl release on Dean & Britta's _Double Feature_ records.
 
-{% ahfowimage "" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-rendezvous-rsd-lp.jpg" "Luna - Rendezvous (Record Store Day LP)" %}
 
 Record Store Day, because of what it is, meant that the limited run of 1000 copies were not available through online retailers (or at least not in the first instance)... and I don't do RSD on the day... I don't do crowds or queues. My usual tactic is to visit my favourite shops a week or two afterwards and mop up any leftovers. Or at least it was before RSD releases got stupidly expensive!
 
