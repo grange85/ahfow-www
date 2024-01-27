@@ -5,3 +5,8 @@ p.caption, figcaption.figure-caption {
 p.caption:before, figcaption.figure-caption:before {
 	content: '\2014 ';
 }
+audio {
+	width: 100%;
+	display: block;
+	margin: 0 auto;
+}
