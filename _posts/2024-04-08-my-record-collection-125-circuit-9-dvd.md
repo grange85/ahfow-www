@@ -19,7 +19,7 @@ tags:
 - matthew buzzell
 date: 2024-04-08 00:00 +0000
 ---
-Circuit was a DVD music magazine that run for a few issues from 1999, _Circuit (9)_ may have been the last edittion, and features two short films by film-maker Matthew Buzzell, one of which is [Dean Wareham: Psycho Babble](/2012/05/07/video-dean-wareham-in-psycho-babble/)
+Circuit was a DVD music magazine that ran for a few issues from 1999, _Circuit (9)_ may have been the last edittion, and features two short films by film-maker Matthew Buzzell, one of which is [Dean Wareham: Psycho Babble](/2012/05/07/video-dean-wareham-in-psycho-babble/)
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-wareham-psycho-babble-case.jpg" "Circuit (9) DVD" %}
 
