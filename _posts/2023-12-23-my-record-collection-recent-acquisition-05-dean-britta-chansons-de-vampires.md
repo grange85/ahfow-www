@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'My record collection ~ Recent acquisition #05: Dean & Britta - Chansons de
+title: 'Recent acquisition #05: Dean & Britta - Chansons de
   Vampires'
 sitemap: true
-series-title:
+series-title: My record collection
 github-comments-issueid:
 author:
   display_name: Andy
