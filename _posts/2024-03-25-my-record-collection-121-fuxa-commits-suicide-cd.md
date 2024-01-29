@@ -21,11 +21,11 @@ So space-rock supremo(s) Fuxa put in their second appearance, and (t)he(y) will 
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/fuxa-commits-suicide.jpg" "Fuxa Commits Suicide CD" %}
 
-The version of Cheree here seems to be the same as the one on the previous Fuxa entry in this series, but is described on the sleeve at the/a "Richard Formby mix".
+The version of Cheree here seems to be the same as the one on the previous Fuxa entry in this series, but is described on the sleeve as the/a "Richard Formby mix".
 
 However, since it is over 10 minutes long, the EP also includes a "radio edit" - but, given that even that is over six minutes long I suspect it didn't find itself on too many radio playlists! Which is a shame because it is rather great. The "radio edit" doesn't seem to be an edit of the _Richard Formby mix_ so I guess it's an edit of a version that hasn't seen the light of day?
 
-Unlike [Electric Sounds of Summer](/2023/07/24/my-record-collection-054-fuxa-electric-sound-of-summer/) this release does give more detailed credits and Dean's contribution is just the vocal. The EP also includes a version of Suicide's "Girl" with Sonic Boom, and an original Fuxa track "4th Abductions" that features Suicides Martin Rev.
+Unlike [Electric Sounds of Summer](/2023/07/24/my-record-collection-054-fuxa-electric-sound-of-summer/) this release does give more detailed credits and Dean's contribution is just the vocal. The EP also includes a version of Suicide's "Girl" with Sonic Boom, and an original Fuxa track "4th Abductions" that features Suicide's Martin Rev.
 
  - *Catalogue Number:* AHFOW 10/132
  - *Artist:* Fuxa
