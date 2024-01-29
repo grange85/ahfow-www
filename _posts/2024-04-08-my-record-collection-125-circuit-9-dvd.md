@@ -56,3 +56,10 @@ I've posted more about the film when I [shared it back in 2012](/2012/05/07/vide
 I've also ripped the [director's commentary to an mp3](https://media.fullofwishes.co.uk/00-misc/audio/psycho-babble-directors-commentary.mp3) if you want to hear that.
 
 The DVD has another short film by Matthew [Daniel Johnston - Rock](https://www.youtube.com/watch?v=0s2Pc0P5wWo). It also has items about Rufus Wainright, Steven Malkmus, Soft Machine and Mayo Thompson/Red [KC]rayola.
+
+ - *Catalogue Number:* AHFOW 13/010
+ - *Artist:* Various
+ - *Title:* Circuit (9)
+ - *Notes:* DVD magazine
+ - *Packaging:* Card DVD sleeve
+ - *Format:* DVD
