@@ -42,8 +42,13 @@ My camera misbehaved so all my pictures turned out very red - [you can see a set
 
 {% ahfowimage "https://live.staticflickr.com/65535/53491881203_dd49918473_c.jpg" "Dean &amp; Britta at The Metro in London - 19th June 2007" "https://www.flickr.com/photos/grange85/53491881203/in/photostream/" %}
 
-Andy would usually record all the bands... "just in case" but I thought that this time he had only recorded Dean & Britta's set for limited battery or tape reasons, but I've just popped the tape into my DAT machine and the Asobi Seksu set is on there too... I might get round to ripping that some time.
+Andy would usually record all the bands... "just in case" but I thought that this time he had only recorded Dean & Britta's set for limited battery or tape reasons, but I've just popped the tape into my DAT machine and the Asobi Seksu set is on there too, although there are lots of sound drop-outs so not sure if Andy was experimenting. I've ripped what there is but it's hardly worth sharing.
 
+ - *Catalogue Number:* AHFOW 16/019
+ - *Artist:* Dean & Britta
+ - *Title:* 2007-06-19: The Metro, London, UK
+ - *Format:* DAT
 
-
+Previously in [my record collection](/category/my-record-collection):
+ - [#055: Dean & Britta live at The Legion](/2023/07/27/my-record-collection-055-dean-britta-live-at-the-legion/)
 
