@@ -1,0 +1,27 @@
+---
+layout: default
+---
+{%-include back_link.html-%}
+
+<article>
+  <p class="post-meta">
+    <time datetime="{{ page.date }}">{{ page.date | date: site.theme_config.date_format }}</time>
+	{% if page.categories %}<br>
+	Categories: 
+	{% for cat in page.categories %}
+		{% if site.main_categories contains cat  %}
+		<a href="/swirling/category/{{cat | slugify}}/">{{ cat }}</a>
+		{% endif %}
+	{% endfor %}
+  {% endif %}
+  </p>
+  
+  <h2>{{ page.title }}</h2>
+
+  {{ content }}
+
+<script async src="https://talk.hyvor.com/embed/embed.js" type="module"></script>
+<hyvor-talk-comments website-id="10414" page-id="{{ page.title | slugify }}"></hyvor-talk-comments>
+
+
+</article>
