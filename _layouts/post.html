@@ -29,6 +29,7 @@ layout: default
 
 
 <script>
+customElements.whenDefined('hyvor-talk-comments').then(() => {
     const comments = document.querySelector("hyvor-talk-comments");
     comments.settings = {
     top_widget: 'none', // 'reactions' | 'ratings' | 'none'
@@ -45,6 +46,7 @@ layout: default
     },
 	}
     comments.load();
+}
 </script>
 
 
