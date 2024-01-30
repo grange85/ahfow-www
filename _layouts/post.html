@@ -21,6 +21,31 @@ layout: default
   {{ content }}
 
 <script async src="https://talk.hyvor.com/embed/embed.js" type="module"></script>
-<hyvor-talk-comments website-id="10414" page-id="{{ page.title | slugify }}"></hyvor-talk-comments>
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/hyvor-config.js"></script>
+<hyvor-talk-comments 
+	website-id="10414" 
+	page-id="{{ page.title | slugify }}"
+	loading="manual"
+	></hyvor-talk-comments>
+
+
+<script>
+    const comments = document.querySelector("hyvor-talk-comments");
+    comments.settings = {
+    top_widget: 'none', // 'reactions' | 'ratings' | 'none'
+    editor: {
+        emoji: false,
+        images: false,
+        gifs: false,
+        embeds: false, // link embedding
+        mentions: true,
+        code_blocks: true,
+        blockquotes: true,
+        inline_styles: true, // bold, italic, inline code, strike, spoiler
+        links: true,
+    },
+	}
+    comments.load();
+</script>
+
+
 </article>
