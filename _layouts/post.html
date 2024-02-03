@@ -10,7 +10,7 @@ layout: default
 	Categories: 
 	{% for cat in page.categories %}
 		{% if site.main_categories contains cat  %}
-		<a href="/swirling/category/{{cat | slugify}}/">{{ cat }}</a>
+		<a href="/category/{{cat | slugify}}/">{{ cat }}</a>
 		{% endif %}
 	{% endfor %}
   {% endif %}
