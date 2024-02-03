@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '#127: Dis Cover - Donna Regina as recorded by... (LP/CD)'
+title: "#127: Dis Cover - Donna Regina as recorded by... (LP/CD)"
 sitemap: true
-series-title: My record collection 
+series-title: My record collection
 github-comments-issueid:
 author:
   display_name: Andy
@@ -16,6 +16,7 @@ categories:
 tags:
 - donna regina
 - tribute
+date: 2024-04-15 00:00 +0000
 ---
 I have to admit that my awareness of Donna Regina had been pretty superficial ahead of this tribute album released in 2015. I'd come across reviews and the odd track but hadn't really followed it up - you'd think a [short review like this in Comes With a Smile #13](https://cwas.hinah.com/review/?id=655) would have clued me in!
 
