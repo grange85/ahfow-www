@@ -17,7 +17,7 @@ tags:
 - no excess is absurd
 date: 2023-07-10 00:00 +0000
 ---
-So Magic Hour put in their thrid appearance in six posts - and with the two compilation albums I've posted earlier it means that a surprising 10% of the first 50 posts are about them.
+So Magic Hour put in their third appearance in six posts - and with the two compilation albums I've posted earlier it means that a surprising 10% of the first 50 posts are about them.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/magic-hour-no-excess-black.jpg" "Magic Hour - No Excess is Absurd" %}
 

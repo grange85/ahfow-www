@@ -1,25 +1,26 @@
 ---
 layout: post
-title: '#129: Luna - Romantica (promo CD)'
+title: "#129: Luna - Romantica (promo CD)"
 sitemap: true
-series-title: My record collection 
+series-title: My record collection
 github-comments-issueid:
 author:
   display_name: Andy
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-romantica-promo.jpg
 categories:
 - my record collection
 - luna
 tags:
 - romantica
 - promo
+date: 2024-04-22 00:00 +0000
 ---
 This is the promo CD of Romantica that Dean sent me ahead of release, it comes in a simple card sleeve with the same cover as the released version but with the statement "Promotional copy. Not for sale." printed along the bottom. The reverse has the track listing at the top, and the words "Spring 2002" in the centre.
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-romantica-promo.jpg" "Luna - Romantica promo CD" %}
 
 I also recieved, I guess at the same time, [a handful of stickers with the Romantica artwork](/2019/06/28/artefacts-004-romantica-sticker/), one was signed by Dean for my son, he was four at the time so I _looked after it_ for him... I still am looking after it.
 
