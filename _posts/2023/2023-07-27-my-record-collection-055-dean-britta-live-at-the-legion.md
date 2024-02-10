@@ -9,6 +9,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-and-britta-at-the-legion-dat.jpg
+catno: 16/020
 categories:
 - dean & britta
 - my record collection

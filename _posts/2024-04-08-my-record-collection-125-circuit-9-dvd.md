@@ -10,6 +10,7 @@ author:
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-wareham-psycho-babble-case.jpg
+catno: 13/010
 categories:
 - my record collection
 - luna

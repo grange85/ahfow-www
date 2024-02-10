@@ -10,6 +10,7 @@ author:
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/the-pastels-mobile-safari-cd.jpg
+catno: 10/138
 categories:
 - dean wareham
 - my record collection

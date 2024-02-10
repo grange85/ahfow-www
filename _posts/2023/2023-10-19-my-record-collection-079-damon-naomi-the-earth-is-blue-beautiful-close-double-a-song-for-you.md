@@ -10,6 +10,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-the-earth-is-blue-acuarela.jpg
+catno: 10/147-148
 categories:
 - damon & naomi
 - my record collection

@@ -9,6 +9,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-wareham-vs-cheval-sombre.jpg
+catno: 12/0027
 categories:
 - dean wareham
 - my record collection

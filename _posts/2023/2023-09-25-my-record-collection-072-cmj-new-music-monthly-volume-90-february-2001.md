@@ -9,6 +9,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/cmj-new-music-monthly-90.jpg
+catno: 10/137
 categories:
 - luna
 - my record collection

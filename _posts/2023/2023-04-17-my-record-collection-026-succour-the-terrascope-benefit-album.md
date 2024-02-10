@@ -8,6 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/succour-the-terrascope-benefit-album-cd.jpg
+catno: 10/131
 categories:
 - damon & naomi
 - my record collection

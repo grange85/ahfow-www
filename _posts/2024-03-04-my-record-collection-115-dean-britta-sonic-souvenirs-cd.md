@@ -10,6 +10,7 @@ author:
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-britta-sonic-souvenirs.jpg
+catno: 10/058
 categories:
 - dean & britta
 - my record collection

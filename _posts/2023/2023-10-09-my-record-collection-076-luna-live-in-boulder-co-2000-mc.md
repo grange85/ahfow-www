@@ -9,6 +9,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-boulder-co-2000-04-03.jpg
+catno: 16/013
 categories:
 - luna
 - my record collection

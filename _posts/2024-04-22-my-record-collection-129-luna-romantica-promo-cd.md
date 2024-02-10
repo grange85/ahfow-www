@@ -10,6 +10,7 @@ author:
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-romantica-promo.jpg
+catno: 10/055
 categories:
 - my record collection
 - luna

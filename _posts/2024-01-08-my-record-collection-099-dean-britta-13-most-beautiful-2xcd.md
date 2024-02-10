@@ -9,6 +9,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-and-britta-13-most-beautiful-2cd-sealed.jpg
+catno: 10/011
 categories:
 - my record collection
 - dean & britta

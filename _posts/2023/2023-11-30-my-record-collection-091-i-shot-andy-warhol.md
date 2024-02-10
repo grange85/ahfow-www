@@ -10,6 +10,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/i-shot-andy-warhol-music-from-and-inspired-by.jpg
+catno: 10/047
 categories:
 - luna
 - my record collection

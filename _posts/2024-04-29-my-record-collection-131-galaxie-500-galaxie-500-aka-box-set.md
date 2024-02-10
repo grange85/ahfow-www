@@ -10,6 +10,7 @@ author:
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
 image:
+catno: 10/066
 categories:
 - my record collection
 - galaxie 500

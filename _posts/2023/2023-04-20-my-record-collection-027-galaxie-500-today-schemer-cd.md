@@ -8,6 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-today-schemer-cd.jpg
+catno: 10/005
 categories:
 - galaxie 500
 - my record collection

@@ -10,6 +10,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/acc-bewitched-tribute-to-luna.jpg
+catno: 12/0088
 categories:
 - my record collection
 - luna

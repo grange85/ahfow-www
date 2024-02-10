@@ -10,6 +10,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-bonnie-and-clyde-cd.jpg
+catno: 10/037
 categories:
 - my record collection
 - luna

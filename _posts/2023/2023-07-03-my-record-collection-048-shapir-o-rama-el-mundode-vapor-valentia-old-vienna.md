@@ -10,6 +10,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/my-record-collection-shapir-o-rama.jpg
+catno: 12/0071
 categories:
 - my record collection
 - dean wareham

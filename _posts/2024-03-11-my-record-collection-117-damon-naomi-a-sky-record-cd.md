@@ -10,6 +10,7 @@ author:
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-a-sky-record-cd.jpg
+catno: 10/160
 categories:
 - my record collection
 - damon & naomi

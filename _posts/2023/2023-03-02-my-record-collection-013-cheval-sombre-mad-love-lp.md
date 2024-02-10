@@ -8,6 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/cheval-sombre-mad-love-lp.jpg
+catno: 12/0004
 categories:
 - dean wareham
 - my record collection

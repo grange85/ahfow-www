@@ -10,6 +10,7 @@ author:
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
 imageurl:
+catno: 12/0024
 categories:
 - dean wareham
 - my record collection

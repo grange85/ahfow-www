@@ -9,6 +9,7 @@ author:
   url: http://www.grange85.co.uk
 date: 2023-01-20
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/pierre-etoile-spinning-2023.jpg
+catno: 12/0007 
 categories:
  - damon & naomi
  - my record collection
