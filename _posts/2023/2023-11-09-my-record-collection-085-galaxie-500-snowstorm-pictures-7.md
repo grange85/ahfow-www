@@ -48,7 +48,7 @@ I think that is one of my favourite quotes in the book ...
 
 A few years back Naomi sent me one of the T-shirts Macioce mentioned and said "you should just have fun with it and wear it even if it self-destructs" but I [put it on once for a photo](https://www.flickr.com/photos/grange85/53137337736/in/album-72157619400404262/) and then filed it - I've been saving it for a special occasion - I'm not convinced any occasion will be special enough though!
 
- - *Catalogue Number:* AHFOW 11/0019
+ - *Catalogue Number:* AHFOW 11/019
  - *Artist:* Galaxie 500
  - *Title:* Snowstorm / Pictures
  - *Notes:* Translucent yellow vinyl, given away with the DVD (some were later sold separately).

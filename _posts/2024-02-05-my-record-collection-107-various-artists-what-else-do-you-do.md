@@ -32,7 +32,7 @@ This was the second copy to come into my posession and was given to me by Dean W
 
 I've only just noticed that the LP has less tracks than my digitsed version - it seems that the CD version had five more tracks on it and someone must have sent a digitised version of the CD.
 
- - *Catalogue Number:* AHFOW 12/0076
+ - *Catalogue Number:* AHFOW 12/076
  - *Artist:* Various Artists
  - *Title:* What Else Do You Do (a compilation of quiet music).
  - *Notes:* Shimmy Disc copy

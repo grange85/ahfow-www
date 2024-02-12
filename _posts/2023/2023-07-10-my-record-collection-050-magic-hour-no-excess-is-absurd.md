@@ -24,7 +24,7 @@ So Magic Hour put in their third appearance in six posts - and with the two comp
 
 This is a black vinyl&dagger; copy of Magic Hour's first album that I bought on Discogs in 2012 for a bargain €5.55 (plus postage) - [the CD](/2023/06/26/my-record-collection-046-magic-hour-no-excess-is-absurd/) was my first copy and the one that was my only copy for a good few years. 
 
- - *Catalogue Number:* AHFOW 12/0067
+ - *Catalogue Number:* AHFOW 12/067
  - *Artist:* Magic Hour
  - *Title:* No Excess is Absurd
  - *Notes:* black vinyl

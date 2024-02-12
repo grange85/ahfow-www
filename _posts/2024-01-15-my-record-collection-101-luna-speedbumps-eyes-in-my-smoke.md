@@ -29,7 +29,7 @@ Astronaut was quite a live regular towards the end of Luna's first phase but thi
 
 I moaned last time about the labels claiming this is a double A-side... but it just occurred to me that since the flip has two songs on it does this make it a triple-A side!
 
- - *Catalogue Number:* AHFOW 11/0006
+ - *Catalogue Number:* AHFOW 11/006
  - *Artist:* Luna
  - *Title:* Speedbumps / Astronaut / Eyes in My Smoke
  - *Format:* 7"

@@ -29,7 +29,7 @@ _Update (2023-04-13): Thanks to Bobby ([@enablerno6 on Instagram](https://www.in
 
 The single was released on Terry Tolkin's No. 6 Records in 1995 and has the tracks [Time (written by Michael Merchant) and previously recorded by everyone](/2014/07/09/originals-time-nancy-sinatra-covered-cagney-lacee/) and [By The Way (I Still Love You) written by Lee Hazlewood and originally recorded by Nancy Sinatra](/2013/03/27/originals-by-the-way-i-still-love-you-by-nancy-sinatra-covered-by-cagney-and-lacee/).
 
- - *Catalogue Number:* AHFOW 11/0046
+ - *Catalogue Number:* AHFOW 11/046
  - *Artist:* Cagney & Lacee
  - *Title:* Time / By The Way (I Still Love You)
  - *Notes:* 

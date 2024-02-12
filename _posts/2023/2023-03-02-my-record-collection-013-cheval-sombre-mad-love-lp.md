@@ -30,7 +30,7 @@ Sharon's Mad Love sleeve needs to be seen on an LP - and thankfully it can be.
 
 The music contained within is pretty damn special too.
 
- - *Catalogue Number:* AHFOW 12/0004
+ - *Catalogue Number:* AHFOW 12/004
  - *Artist:* Cheval Sombre
  - *Title:* Mad Love
  - *Notes:* Clear vinyl

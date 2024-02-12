@@ -26,7 +26,7 @@ The price of all these big orders shipped from the US is rather making my eyes w
 
 Actually I suspect it was the $91 that triggered me into complaining about the scratch!
 
- - *Catalogue Number:* AHFOW 12/0002
+ - *Catalogue Number:* AHFOW 12/002
  - *Artist:* Britta Phillips
  - *Title:* Luck or Magic
  - *Notes:* Signed. White vinyl.

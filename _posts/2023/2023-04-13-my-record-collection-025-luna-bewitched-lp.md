@@ -25,7 +25,7 @@ The album also reverted to the originally planned, but last-minute replaced, art
 
 This copy arrived shortly after release, sent to me and signed by, Dean. I actually have a surprising amount of signed records although I almost never have the nerve to ask to get things signed but appreciate that people sign things without being asked! Although the first thing I have that Dean signed for me was the back of ticket after a London show.
 
- - *Catalogue Number:* AHFOW 12/0054
+ - *Catalogue Number:* AHFOW 12/054
  - *Artist:* Luna
  - *Title:* Bewitched
  - *Notes:* signed by Dean Wareham

@@ -27,7 +27,7 @@ Now it's been hard to put a positive spin on the shit-show that is the COVID pan
 
 {% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/2020-05-14-dean-and-britta-stream-01.jpg" "Dean & Britta - live streaming, May 2020" %}
 
- - *Catalogue Number:* AHFOW 12/0082
+ - *Catalogue Number:* AHFOW 12/082
  - *Artist:* Dean & Britta
  - *Title:* Quarantine Tapes
  - *Notes:* Test pressing, signed.

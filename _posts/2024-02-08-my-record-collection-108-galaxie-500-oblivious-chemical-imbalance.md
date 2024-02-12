@@ -30,7 +30,7 @@ This is another of the records that Damon and Naomi sent me in the _[7" vinyl ca
 
 I don't have a copy of the accompanying fanzine (yet).
 
- - *Catalogue Number:* AHFOW 11/0015
+ - *Catalogue Number:* AHFOW 11/015
  - *Artist:* Various Artists
  - *Title:* Chemical Imbalance #8
  - *Notes:* Includes Galaxie 500's alternate version of Oblivious.

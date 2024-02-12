@@ -31,7 +31,7 @@ It is a beautiful package and would have been worth queuing for!
 Dean wrote to me...
 > [T]he new vinyl master by Scott Hull means it is louder and cleaner than both the Beggar’s Banquet LP and the one in the box. Also they worked from the original art files so the cover looks great. There’s a really nice (slower) version of “Tracy I Love You” and an early mix of “Sideshow” with more slide guitar by Sean.
 
- - *Catalogue Number:* AHFOW 12/0058
+ - *Catalogue Number:* AHFOW 12/058
  - *Artist:* Luna
  - *Title:* Penthouse
  - *Notes:* Deluxe double LP edition

@@ -38,7 +38,7 @@ Here's Galaxie 500 playing Victory Garden in Deventer in The Netherlands while o
 "sourcecap": "15th November 1989 - Burgerweehuis, Deventer, Netherlands"
 } %}
 
- - *Catalogue Number:* AHFOW 11/0012, AHFOW 05/0012/01, AHFOW 05/0012/02
+ - *Catalogue Number:* AHFOW 11/012, AHFOW 05/012/01, AHFOW 05/012/02
  - *Artist:* Galaxie 500 / Straitjacket Fits
  - *Title:* Victory Garden / Hail
  - *Notes:* Free with The Catalogue - October/November 1989

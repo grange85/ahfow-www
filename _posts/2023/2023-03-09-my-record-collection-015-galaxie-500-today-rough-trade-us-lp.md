@@ -25,7 +25,7 @@ This is the Rough Trade US re-release of Galaxie 500's debut album, released in 
 
 The run out grooves have the Aurora catalogue number etched into them... and then crossed out!
 
- - *Catalogue Number:* AHFOW 12/0031
+ - *Catalogue Number:* AHFOW 12/031
  - *Artist:* Galaxie 500
  - *Title:* Today
  - *Notes:* Rough Trade US copy

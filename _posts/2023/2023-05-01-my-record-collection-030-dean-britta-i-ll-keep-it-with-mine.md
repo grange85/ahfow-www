@@ -48,7 +48,7 @@ Britta Phillips - The Galaxie 500 Mailing List
 
 I must admit that my lack of enthusiasm for the remix has faded with time and I do rather love it now!
 
- - *Catalogue Number:* AHFOW 11/0038
+ - *Catalogue Number:* AHFOW 11/038
  - *Artist:* Dean & Britta
  - *Title:* I'll Keep It With Mine / It Don't Rain in Beverly Hills
  - *Notes:* #27/500

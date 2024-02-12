@@ -38,7 +38,7 @@ Here's a quick summary of the history of the songs on Luna Demos:
 
 This is the only release where you can hear the drum machine demo of I Can't Wait.
 
- - *Catalogue Number:* AHFOW 12/0026
+ - *Catalogue Number:* AHFOW 12/026
  - *Artist:* Dean Wareham
  - *Title:* Luna Demos
  - *Notes:* Clear vinyl #200 of 200

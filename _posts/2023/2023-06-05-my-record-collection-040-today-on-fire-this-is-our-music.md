@@ -29,7 +29,7 @@ My copies were sent to me as a gift by Damon after I enquired about whether they
 
 They were also released as lossless digital downloads available from an online shop with the domain [fierybreeze.com](https://web.archive.org/web/20090823043044/http://fierybreeze.com/) which is also published on the back of the sleeves - and is on the sleeves of the recent coloured vinyl reissues. Someone however has let that domain expire and it now hosts something a little less reputable. _I've linked to the site from 2009 in the Wayback Machine to save your eyes from a noisy gambling site._ 
 
- - *Catalogue Numbers:* AHFOW 12/0033 / AHFOW 12/0035 / AHFOW 12/0039
+ - *Catalogue Numbers:* AHFOW 12/033 / AHFOW 12/035 / AHFOW 12/039
  - *Artist:* Galaxie 500
  - *Title:* Today / On Fire / This Is Our Music
  - *Notes:* 

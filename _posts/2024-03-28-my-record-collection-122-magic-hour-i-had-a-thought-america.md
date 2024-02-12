@@ -26,7 +26,7 @@ The A side is I Had a Thought and is lifted from their second album _Will They T
 
 The picture on the sleeve is of indigenous American [Mountain Chief](https://en.wikipedia.org/wiki/Mountain_Chief) listening to a recording on a wax cylinder being played by enthnologist [Frances Densemore](https://en.wikipedia.org/wiki/Frances_Densmore) in 1916. A different pic from the same session appeared on the sleeve of the Folkways album [Healing Songs of the American Indians](https://folkways.si.edu/healing-songs-of-the-american-indians/music/album/smithsonian).
 
- - *Catalogue Number:* AHFOW 11/0025
+ - *Catalogue Number:* AHFOW 11/025
  - *Artist:* Magic Hour
  - *Title:* I Had a Thought / America
  - *Notes:* Black vinyl

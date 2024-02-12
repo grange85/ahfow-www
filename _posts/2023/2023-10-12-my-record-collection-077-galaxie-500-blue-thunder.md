@@ -135,7 +135,7 @@ I bought this on release... during my vinyl > CD transition I'd still invariably
 
 Obviously (one of) the greatest cover versions of all time is on the flip... I'll probably come to that later in the series! Actually... there are _two_ great covers on this!
 
- - *Catalogue Number:* AHFOW 12/0036
+ - *Catalogue Number:* AHFOW 12/036
  - *Artist:* Galaxie 500
  - *Title:* Blue Thunder / Victory Garden / Ceremony / Cold Night
  - *Format:* 12"

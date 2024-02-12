@@ -37,7 +37,7 @@ Back then Vinyl Experience had a motorbike mounted through its window - you sort
  - Nineteen Sixty-Nine - an almost unbearably fragile song of strums and harmonies.
  - This Car Climbed Mt. Washington - this starts with more gentle fragility but at just after two minutes in things change. The whole EP changes. Damon & Naomi change. It was re-recorded for More Sad Hits and while I love both versions, I have a fondness for this and Damon's "inept lead guitar" _(Damon Krukowski - Ptolemaic Terrascope, July 1997)_
 
- - *Catalogue Number:* AHFOW 12/0007 
+ - *Catalogue Number:* AHFOW 12/007 
  - *Artist:* Pierre Etoile
  - *Title:* Pierre Etoile
  - *Notes:* 

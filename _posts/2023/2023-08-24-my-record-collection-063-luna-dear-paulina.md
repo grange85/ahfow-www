@@ -46,7 +46,7 @@ Remember banner ads - not that it was an ad, I didn't pay for it to be placed an
 Dear Paulina banner 'ad' (typical size 468 x 60 pixels)
 {: .blockquote-footer .text-center}
 
- - *Catalogue Number:* AHFOW 11/0049
+ - *Catalogue Number:* AHFOW 11/049
  - *Artist:* Luna
  - *Title:* Dear Paulina / Seven-Eleven
  - *Notes:* 

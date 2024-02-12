@@ -27,7 +27,7 @@ I have plenty to write about the single but I'll save it for when the proper rel
 
 In the meantime you might want to check what Sonic Cathedral are up to now - still releasing a relentless stream of amazing music - that's what! [Check them out](https://www.soniccathedral.co.uk/).
 
- - *Catalogue Number:* AHFOW 11/0075
+ - *Catalogue Number:* AHFOW 11/075
  - *Artist:* Luna
  - *Title:* Something in the Air
  - *Notes:* Test pressing

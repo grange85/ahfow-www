@@ -44,7 +44,7 @@ In case you need to b e reminded how wonderful Dean & Britta's quarantine shows 
 
 {% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2020-09-26/2020-09-26-dean-and-britta-veeps-44.jpg" "Dean & Britta from home" %}
 
- - *Catalogue Number:* AHFOW 11/0078
+ - *Catalogue Number:* AHFOW 11/078
  - *Artist:* Dean & Britta
  - *Title:* Quarantine Tapes
  - *Packaging:* A box containing 7 individually sleeved, lathe-cut singles.

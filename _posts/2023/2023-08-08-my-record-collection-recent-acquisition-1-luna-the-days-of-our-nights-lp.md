@@ -103,7 +103,7 @@ For over 20 years the website/mailing list had an annual survey and The Days of 
 
 This copy was bought from Rough Trade and is the limited edition blue vinyl copy and was, frankly, too flipping expensive! Vinyl prices are ridculous at the moment, but this was more ridiculous than most. I'm sort of surprised I bought it!
 
- - *Catalogue Number:* AHFOW 12/0089
+ - *Catalogue Number:* AHFOW 12/089
  - *Artist:* Luna
  - *Title:* The Days of Our Nights
  - *Notes:* Powder blue vinyl limited to 300 copies

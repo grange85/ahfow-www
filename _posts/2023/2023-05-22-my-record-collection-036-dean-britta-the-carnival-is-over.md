@@ -41,7 +41,7 @@ Dean sent me a (kind of Christmas card) postcard of The Seekers way, way back!
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/a-world-of-our-own-the-seekers.jpg" "The Seekers Christmas Card" %}
 
- - *Catalogue Number:* AHFOW 11/0077
+ - *Catalogue Number:* AHFOW 11/077
  - *Artist:* Dean & Britta
  - *Title:* The Carnival is Over
  - *Notes:* One-sided, square, clear, lathe-cut single

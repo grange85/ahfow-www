@@ -40,7 +40,7 @@ Dean & Britta played _He's Coming Home_ live during their Christmas live stream 
 
 {% ahfowvideo "VWgVlH4TRdk" "Dean & Britta - He's Coming Home (live stream, December 2020)" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-and-britta-holiday-special.jpg" %}
 
- - *Catalogue Number:* AHFOW 11/0066
+ - *Catalogue Number:* AHFOW 11/066
  - *Artist:* Dean & Britta with Sonic Boom
  - *Title:* He's Coming Home / Old Toy Trains
  - *Notes:* Blue vinyl. Only Old Toy Trains is _with Sonic Boom_.

@@ -33,7 +33,7 @@ _Here are my most played Luna albums according to Last.fm (with my 2016 rankings
 6. Pup Tent (3)
 7. Days of Our Nights (7)
 
- - *Catalogue Number:* AHFOW 12/0057
+ - *Catalogue Number:* AHFOW 12/057
  - *Artist:* Luna
  - *Title:* Romantica
  - *Notes:* signed by all four members of Luna

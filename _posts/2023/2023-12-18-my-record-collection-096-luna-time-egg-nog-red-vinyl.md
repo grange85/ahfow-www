@@ -58,7 +58,7 @@ And here's Luna playing it... in September... without sleigh bells!
 
 This is the red vinyl copy and I think I probably bought it on eBay a few years back.
 
- - *Catalogue Number:* AHFOW 11/0003
+ - *Catalogue Number:* AHFOW 11/003
  - *Artist:* Luna
  - *Title:* Time / Egg Nog
  - *Notes:* Red vinyl promo

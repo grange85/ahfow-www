@@ -56,7 +56,7 @@ BTW - here's the shipping forecast for where I live, in case you're interested:
  [The Shipping Forecast](https://www.bbc.co.uk/sounds/play/m001sllx)
 {: .blockquote-footer .text-end}
 
- - *Catalogue Number:* AHFOW 12/0081
+ - *Catalogue Number:* AHFOW 12/081
  - *Artist:* Damon & Naomi
  - *Title:* A Sky Record _(and A Sky Record Companion)_
  - *Format:* LP

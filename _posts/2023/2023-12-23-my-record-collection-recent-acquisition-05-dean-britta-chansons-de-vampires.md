@@ -39,7 +39,7 @@ The EP is an absolute joy, as you'd imagine, BUT it has the bonus joy of being a
 
 If you aren't already (and can afford $4 a month) you should sign up to [Dean & Britta's Patreon](https://www.patreon.com/deanandbritta/) - they've already shared well over 100 pieces of music, and Dean has read most of Black Postcards!
 
- - *Catalogue Number:* AHFOW 11/0082
+ - *Catalogue Number:* AHFOW 11/082
  - *Artist:* Dean & Britta
  - *Title:* Chansons de Vampires
  - *Notes:* Limited Patreon single

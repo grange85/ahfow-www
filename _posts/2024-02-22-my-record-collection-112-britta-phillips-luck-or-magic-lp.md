@@ -52,7 +52,7 @@ I didn't really talk _about_ the album last time so here's a quick track-by-trac
  - __Wrap Your Arms Around Me__ was originally [by ex-Abba member Agnetha Faltskog](https://www.youtube.com/watch?v=VQBU1zgxc-A) and on her first English language solo album (also called Wrap Your Arms Around Me). Britta sings _fake-Swedish_ in the song.
  - __Ingrid Superstar__ has "guitar swells" by Luna's Sean Eden.
 
- - *Catalogue Number:* AHFOW 12/0003
+ - *Catalogue Number:* AHFOW 12/003
  - *Artist:* Britta
  - *Title:* Luck or Magic
  - *Format:* LP

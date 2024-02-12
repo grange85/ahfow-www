@@ -53,7 +53,7 @@ Air is a cover of a track from Scottish psych-folk band The Incredible String Ba
 <p class="caption"><a href="https://www.google.co.uk/books/edition/White_Bicycles/wdc9a8T20gMC?hl=en&gbpv=1&dq=joe+boyd+white&printsec=frontcover&pli=1">Joe Boyd- White Bicylces</a></p>
 
 
- - *Catalogue Number:* AHFOW 12/0024
+ - *Catalogue Number:* AHFOW 12/024
  - *Artist:* Dean Wareham
  - *Title:* Emancipated Hearts
  - *Notes:* Test pressing

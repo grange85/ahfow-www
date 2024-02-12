@@ -26,7 +26,7 @@ On Fire was my first exposure to Galaxie 500 and was my first purchase... but no
 
 Also slightly annoyed that I so fully jumped on the CD bandwagon... it did get to the point where the consumer had no choice and I'd have had to, but no I was an early and complete adopter, just the sort of sucker the labels loved. I probably still am.
 
- - *Catalogue Number:* AHFOW 12/0034
+ - *Catalogue Number:* AHFOW 12/034
  - *Artist:* Galaxie 500
  - *Title:* On Fire
  - *Notes:* Rough Trade UK

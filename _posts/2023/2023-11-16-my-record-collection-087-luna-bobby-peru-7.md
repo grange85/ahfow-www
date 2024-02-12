@@ -38,7 +38,7 @@ The b-side includes the Luna deep cut Bob le Flambeur - which is also a film ref
 
 I suspect I bought this seven inch on release - it may even have been an early instance of me buying more than one format on release.
 
- - *Catalogue Number:* AHFOW 11/0011
+ - *Catalogue Number:* AHFOW 11/011
  - *Artist:* Luna
  - *Title:* Bobby Peru / Dance With Me / Bob Le Flambeur
  - *Format:* 7"

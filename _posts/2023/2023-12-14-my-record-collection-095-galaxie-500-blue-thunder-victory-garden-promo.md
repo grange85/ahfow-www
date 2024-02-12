@@ -28,7 +28,7 @@ It's a promo single with Blue Thunder and Victory Garden on the A-side, and Hail
 
 The single also gets a thumbs up from me for putting two tracks on one side of a 7" single that spins at 45 rpm, like a proper EP should.
 
- - *Catalogue Number:* AHFOW 11/0017
+ - *Catalogue Number:* AHFOW 11/017
  - *Artist:* Galaxie 500 / Straightjacket Fits
  - *Title:* Blue Thunder / Victory Garden / Hail
  - *Notes:* promo

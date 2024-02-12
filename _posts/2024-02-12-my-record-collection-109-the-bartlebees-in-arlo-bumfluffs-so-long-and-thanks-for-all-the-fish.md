@@ -43,7 +43,7 @@ Here's the track Dean guests on...
 
 This was rather late coming into my collection. I was made aware of it in early 2000, added it to the website in January 2001, and bought myself a copy on Discogs in December 2017!
 
- - *Catalogue Number:* AHFOW 11/0061
+ - *Catalogue Number:* AHFOW 11/061
  - *Artist:* The Bartlebees
  - *Title:* in Arlo Bumfluffs' So Long and Thanks For All The Fish
  - *Notes:* Dean Wareham on guitar and backing vocaks on In My Box

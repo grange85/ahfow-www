@@ -38,7 +38,7 @@ The flip has Angel covering Suicide's Cheree, with Alan Vega, and The Beach Boys
 
 Angel can still be found around these parts... [ACC website](https://www.angelcorpuschristi.com/), [ACC Instagram](https://www.instagram.com/angelcorpuschristi/), [ACC Bandcamp](https://angelcorpuschristi.bandcamp.com/)
 
- - *Catalogue Number:* AHFOW 11/0067
+ - *Catalogue Number:* AHFOW 11/067
  - *Artist:* Angel Corpus Christi with Dean Wareham
  - *Title:* Je t'aime / I Wanna Boogie With You
  - *Notes:* Pink vinyl, no postcard

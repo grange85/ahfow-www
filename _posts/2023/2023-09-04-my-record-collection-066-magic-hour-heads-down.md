@@ -24,7 +24,7 @@ Heads Down was the first release by Magic Hour and the single has one track spli
 
 I bought this on Discogs for two quid, including postage, back in 2012 which is quite a bargain! Actually I think you can still get [copies for peanuts on Discogs](https://www.discogs.com/sell/release/525802?ev=rb) or you can grab it, along with a hatful of Magic Hour obscurities on their [Magic Moments](https://magic-hour.bandcamp.com/album/magic-moments) collection.
 
- - *Catalogue Number:* AHFOW 11/0023
+ - *Catalogue Number:* AHFOW 11/023
  - *Artist:* Magic Hour
  - *Title:* Heads Down, Parts 1 and 2
  - *Packaging:* Picture sleeve

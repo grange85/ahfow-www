@@ -29,7 +29,7 @@ Luna performed Speedbumps on John McEnroe's TV show on the 9th December 2004 wit
 
 {% ahfowvideo "kXf20qj3d7g" "Luna play Speedbumps on McEnroe, December 2004" "https://media.fullofwishes.co.uk/02-luna/pictures/luna-speedbumps-mcenroe.jpg" %}
 
- - *Catalogue Number:* AHFOW 11/0005
+ - *Catalogue Number:* AHFOW 11/005
  - *Artist:* Luna
  - *Title:* Speedbumps
  - *Notes:* 

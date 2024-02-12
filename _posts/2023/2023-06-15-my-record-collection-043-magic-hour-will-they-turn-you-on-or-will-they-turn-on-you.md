@@ -37,7 +37,7 @@ So... here's mine, I'm sure this shows that I'm obsessive and bothered by inaccu
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/my-astrological-chart.jpg" "Andy's astrological chart" %}
 
- - *Catalogue Number:* AHFOW 12/0065
+ - *Catalogue Number:* AHFOW 12/065
  - *Artist:* Magic Hour
  - *Title:* Will They Turn You On or Will They Turn on You
  - *Notes:* Orange vinyl

@@ -36,7 +36,7 @@ I was lucky enough to see The Dream Syndicate earlier this year and thank Luna (
 
 The sleeve has a picture of a pomegranate, which for years I didn't realise was a pomegranate. I think because I just hadn't looked at it too closely - I just saw a lovely circle of bright colour that looked edible - probably a cake or a bowl of something. Then one day I had a pomegranate and a revelation. The thing about pomegranates is that they are much too much hard work. The fact there are a ton of web pages telling you "the easy way to prepare a pomegranate" proves that there is in fact no easy way to prepare a pomegarante.
 
- - *Catalogue Number:* AHFOW 12/0048
+ - *Catalogue Number:* AHFOW 12/048
  - *Artist:* Luna
  - *Title:* Indian Summer
  - *Format:* 12" single

@@ -26,7 +26,7 @@ The single is clear, square, and came in a heavy PVC sleeve with artowrk printed
 > "Along the Santa Fe Trail" was recorded during the Dean Vs. Cheval Sombre sessions and released as a lathe-cut 7" single. Vocals by Chris & Dean, with Gryphon Rue on the singing saw and Anthony LaMarca on lap steel guitar. The song was written for the 1940 film "Santa Fe Trail" starring Errol Flynn, Olivia De Havilland and Ronald Reagan!  
 > _Dean Wareham - Patreon, March 2022_
 
- - *Catalogue Number:* AHFOW 11/0072
+ - *Catalogue Number:* AHFOW 11/072
  - *Artist:* Dean Wareham vs Cheval Sombre
  - *Title:* Along The Santa Fe Trail
  - *Notes:* Square, lathe-cut, clear polycarbonate plastic

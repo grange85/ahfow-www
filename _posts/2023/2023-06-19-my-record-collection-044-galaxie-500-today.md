@@ -34,7 +34,7 @@ A 30% increase in three years!
 
 I am relieved that the first wave of reissues were black though.
 
- - *Catalogue Number:* AHFOW 12/0044
+ - *Catalogue Number:* AHFOW 12/044
  - *Artist:* Galaxie 500
  - *Title:* Today
  - *Notes:* Maroon "swirl" vinyl

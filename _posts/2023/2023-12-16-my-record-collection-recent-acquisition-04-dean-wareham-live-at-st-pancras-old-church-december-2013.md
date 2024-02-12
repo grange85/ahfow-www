@@ -35,15 +35,15 @@ Well, "yes" is probably the answer, but, I'd better explain - so here are some b
 - I was at the shows that make up this live album, so you can hear me cheering. Well you would if I ever actually cheered at gigs. You can probably hear me applauding enthusiastically!
 - They were a couple of my favourite shows, the venue was great, the circumstances were unique.
 - My son Adam also came along. I think this was his first time seeing Dean live (not counting a soundcheck at on over 18s show when he was under 18). He was 16 for this one but ... no age restriction to get into a church! He may have been more thrilled at being backstage with Sonic Boom.
-- Nat at Sonic Cathedral sent me a test pressing when the album was announced a couple of months back, so ... **copy #1 - AHFOW 12/0095**
-- There is a limited edition Bandcamp exclusive in gold vinyl so I sort of had to have that. So ... **copy #2 - AHFOW 12/0096**
+- Nat at Sonic Cathedral sent me a test pressing when the album was announced a couple of months back, so ... **copy #1 - AHFOW 12/095**
+- There is a limited edition Bandcamp exclusive in gold vinyl so I sort of had to have that. So ... **copy #2 - AHFOW 12/096**
 - The record stores have a red/green vinyl version.
-- Adam, since he was there, wanted a copy so I have bought him the red/green copy _to look after_! So ... **copy #3 - AHFOW 12/0097**
+- Adam, since he was there, wanted a copy so I have bought him the red/green copy _to look after_! So ... **copy #3 - AHFOW 12/097**
 - OK, I had actually ordered that one before he said he wanted a copy! And it is currently in my possession!
 
 So, I have three copies on vinyl, and two on cassette. So just five copies (so far) - still a way to go to [catch up with "On Fire"](https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-on-fire-x-7.jpg).
 
- - *Catalogue Number:* AHFOW 12/0095-0097
+ - *Catalogue Number:* AHFOW 12/095-0097
  - *Artist:* Dean Wareham
  - *Title:* Live at St Pancras Old Church December 2013
  - *Notes:* Test pressing, gold vinyl, red/green vinyl

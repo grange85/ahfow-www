@@ -51,7 +51,7 @@ The whole collection is wonderful, filled as it is with Angel's quirky delivery,
 
 With things being a bit quiet on the _new_ for AHFoW, Angel Corpus Christi's Luna tribute is just what I needed.
 
- - *Catalogue Number:* AHFOW 12/0088
+ - *Catalogue Number:* AHFOW 12/088
  - *Artist:* Angel Corpus Christi
  - *Title:* Bewitched: A Tribute to Luna
  - *Notes:* 

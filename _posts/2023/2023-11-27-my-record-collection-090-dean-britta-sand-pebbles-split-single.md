@@ -32,7 +32,7 @@ Dean sent me the single on their return from the tour and it's signed in silver 
 
 The Sand Pebbles side has the excellent Occupied Europe (Take Me Across The Water). Here's [Sand Pebbles covering Luna's 23 Minutes in Brussels](https://www.youtube.com/watch?v=0evpyM6w2ko) from a couple of years earlier.
 
- - *Catalogue Number:* AHFOW 11/0039
+ - *Catalogue Number:* AHFOW 11/039
  - *Artist:* Dean & Britta / Sand Pebbles
  - *Title:* I'll Keep it With Mine (Sonic Boom Remix) / Occupied Europe (Take Me Across The Water)
  - *Notes:* Tour single from Dean & Britta's 2011 tour of Australia and New Zealand

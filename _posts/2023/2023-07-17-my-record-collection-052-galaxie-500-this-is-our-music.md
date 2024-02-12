@@ -40,7 +40,7 @@ Here's [one of the postcards that Dean sent to Justin in November 1990](https://
 
 Dean comments that the rest of the sentence is _"I really don't know"_ - which also says a lot - but somehow that _but_ without a full stop is a little more heartbreaking!
 
- - *Catalogue Number:* AHFOW 12/0040
+ - *Catalogue Number:* AHFOW 12/040
  - *Artist:* Galaxie 500
  - *Title:* This Is Our Music
  - *Notes:* Limited edition LP with postcards

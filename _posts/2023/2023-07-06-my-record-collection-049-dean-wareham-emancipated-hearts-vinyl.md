@@ -49,7 +49,7 @@ I should also point out that the catalogue number of this vinyl release is SCR04
 
 So, Emancipated Hearts is an LP, and was Dean's first solo LP. I rest my case.
 
- - *Catalogue Number:* AHFOW 12/0025
+ - *Catalogue Number:* AHFOW 12/025
  - *Artist:* Dean Wareham
  - *Title:* Emancipated Hearts
  - *Notes:* orange vinyl

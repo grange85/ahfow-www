@@ -35,7 +35,7 @@ Some random _facts_ related to this single coming... as they pop into my head:
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/what-the-hell-does-this-button-do.jpg" "What the hell does this button do!?" %}
 
- - *Catalogue Number:* AHFOW 11/0076
+ - *Catalogue Number:* AHFOW 11/076
  - *Artist:* Luna
  - *Title:* Something In The Air / Oort Cloud / Kuiper Belt
  - *Notes:* Came with a 'mission patch'

@@ -57,7 +57,7 @@ I have to admit that a triple album is an imposing thing to listen to in one sit
 
 _there are definitely more, but suspect they don't get listened to very often!_ 
 
- - *Catalogue Number:* AHFOW 12/0072
+ - *Catalogue Number:* AHFOW 12/072
  - *Artist:* Tanya Donelly
  - *Title:* Swan Song Series
  - *Packaging:* Tri-fold sleeve

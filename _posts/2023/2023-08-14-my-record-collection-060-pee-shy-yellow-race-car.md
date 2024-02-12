@@ -49,7 +49,7 @@ Now I have vague memories about Dean mentioning this production job in an interv
 
 I only got my paws on a copy of this in 2017 for a fiver on Discogs. I had the album from not long after it's release in 1996.
 
- - *Catalogue Number:* AHFOW 11/0062
+ - *Catalogue Number:* AHFOW 11/062
  - *Artist:* Pee Shy
  - *Title:* Yellow Race Car
  - *Notes:* Produced by Dean 'Strap Boy' Wareham

@@ -40,7 +40,7 @@ I have no idea if I left a large sweaty arse-print on the sofa - I didn't dare l
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/fat-bloke-on-the-subway.jpg" "Fat bloke on the subway, February 2001" %}
 
- - *Catalogue Number:* AHFOW 12/0051
+ - *Catalogue Number:* AHFOW 12/051
  - *Artist:* Luna
  - *Title:* Luna Live
  - *Notes:* Signed

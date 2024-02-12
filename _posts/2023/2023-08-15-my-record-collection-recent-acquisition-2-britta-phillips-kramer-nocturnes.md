@@ -26,7 +26,7 @@ I nearly didn't buy this "mini ep" \<[eye-roll](/2023/07/06/my-record-collection
 
 But it is very lovely, and I kept coming across it on... [Dean & Britta's Bandcamp](https://deanandbritta.bandcamp.com/album/nocturnes), in [Dean's shop](https://deanwareham.com/product/914785), and then... in [a UK record shop on Discogs](https://www.discogs.com/user/Juno_Records)... so I bought it - which means I've bought it twice and probably would have been cheaper if I'd bought the single in the first place!
 
- - *Catalogue Number:* AHFOW 11/0080
+ - *Catalogue Number:* AHFOW 11/080
  - *Artist:* Britta Phillips & Kramer
  - *Title:* Nocturnes EP
  - Bought on Discogs for £9.50 + postage

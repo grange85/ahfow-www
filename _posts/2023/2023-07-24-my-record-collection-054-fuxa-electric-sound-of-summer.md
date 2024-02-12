@@ -28,7 +28,7 @@ Unusually for a picture disc (at least in my experience) the album also came in 
 
 I'll have to admit that I'm not really a fan of Anthony Ausgang's art; psychedelic, stoned, cartoon cats aren't really my thing. Which is a shame because there'll be more of his art later. There'll also be plenty more cover art I don't like by other artists!
 
- - *Catalogue Number:* AHFOW 12/0029
+ - *Catalogue Number:* AHFOW 12/029
  - *Artist:* F&uuml;xa
  - *Title:* Elecric Sound of Summer
  - *Notes:* 

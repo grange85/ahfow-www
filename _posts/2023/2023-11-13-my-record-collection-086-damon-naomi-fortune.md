@@ -30,7 +30,7 @@ I have seen Damon & Naomi play the film three times, the first at Cafe OTO in Lo
 
 The album was released in March 2015 and I bought my copy for £16.19 from Norman Records.
 
- - *Catalogue Number:* AHFOW 12/0012
+ - *Catalogue Number:* AHFOW 12/012
  - *Artist:* Damon & Naomi
  - *Title:* Fortune
  - *Format:* LP

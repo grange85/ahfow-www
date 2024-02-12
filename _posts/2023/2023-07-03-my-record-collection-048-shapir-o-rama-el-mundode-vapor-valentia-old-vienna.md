@@ -37,7 +37,7 @@ Dave Rick guested on [Wax! Crackle! Pop! podcast #54](https://www.mixcloud.com/w
 
 Since the album doesn't appear to be on any streaming/download sites and since it's worth a listen I've ripped my LP and [popped it here](https://media.fullofwishes.co.uk/00-misc/my-record-collection/shapir-o-rama-el-mundo.zip) _(zipped mp3, 102MB)_ - if anyone is bothered by this please [give me a shout](https://www.fullofwishes.co.uk/about/)!
 
- - *Catalogue Number:* AHFOW 12/0071
+ - *Catalogue Number:* AHFOW 12/071
  - *Artist:* Shapir-O'Rama
  - *Title:* El mundo de vapor Valentia (old Vienna)
  - *Notes:* 

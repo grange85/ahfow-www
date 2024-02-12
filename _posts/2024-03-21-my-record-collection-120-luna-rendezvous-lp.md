@@ -45,7 +45,7 @@ Have I already done a ranking of Luna's LP covers? Probably not, so here goes.
 
 There's another Rendezvous post coming in a week or so, I'll maybe talk about the music then!
 
- - *Catalogue Number:* AHFOW 12/0052
+ - *Catalogue Number:* AHFOW 12/052
  - *Artist:* Luna
  - *Title:* Rendezvous
  - *Notes:* Record Store Day release in black vinyl - sleeve signed by Dean Wareham.
