@@ -12,7 +12,6 @@ which_category: 13 most beautiful
 <li>16 = MC</li>
 </ul>
 
-
 {%-assign sortedposts = site.categories['my record collection'] | sort: "catno" -%}
 
   <ul>
