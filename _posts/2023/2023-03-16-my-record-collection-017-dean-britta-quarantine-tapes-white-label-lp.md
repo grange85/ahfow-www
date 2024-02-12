@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-and-britta-quarantine-tapes-tp-lp.jpg
-catno: 12/0082
+catno: 12/082
 categories:
 - dean & britta
 - my record collection

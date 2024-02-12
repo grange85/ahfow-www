@@ -9,7 +9,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-indian-summer-12.jpg
-catno: 12/0048
+catno: 12/048
 categories:
 - my record collection
 - luna

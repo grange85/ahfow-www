@@ -9,7 +9,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-and-britta-the-carnival-is-over.jpg
-catno: 11/0077
+catno: 11/077
 categories:
 - dean & britta
 - my record collection

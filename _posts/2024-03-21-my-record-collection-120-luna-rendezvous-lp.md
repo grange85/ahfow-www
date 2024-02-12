@@ -10,7 +10,7 @@ author:
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-rendezvous-rsd-lp.jpg
-catno: 12/0052
+catno: 12/052
 categories:
 - luna
 - my record collection

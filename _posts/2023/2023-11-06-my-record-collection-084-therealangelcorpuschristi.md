@@ -9,7 +9,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/therealangelcorpuschristi-lp.jpg
-catno: 12/0001
+catno: 12/001
 categories:
 - my record collection
 - dean & britta

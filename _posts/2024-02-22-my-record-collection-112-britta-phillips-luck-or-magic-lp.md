@@ -10,7 +10,7 @@ author:
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/britta-luck-or-magic.jpg
-catno: 12/0003
+catno: 12/003
 categories:
 - dean wareham
 - my record collection

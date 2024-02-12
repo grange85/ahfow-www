@@ -9,7 +9,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-speedbumps-astronaut-eyes-in-my-smoke.jpg
-catno: 11/0006
+catno: 11/006
 categories:
 - my record collection
 - luna

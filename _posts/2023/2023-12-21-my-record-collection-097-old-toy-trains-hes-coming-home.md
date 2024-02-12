@@ -9,7 +9,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-britta-sonic-old-toy-trains.jpg
-catno: 11/0066
+catno: 11/066
 categories:
 - my record collection
 - dean & britta

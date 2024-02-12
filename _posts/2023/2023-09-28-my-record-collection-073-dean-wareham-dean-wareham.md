@@ -9,7 +9,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-wareham-dean-wareham-lp.jpg
-catno: 12/0023
+catno: 12/023
 categories:
 - dean wareham
 - my record collection

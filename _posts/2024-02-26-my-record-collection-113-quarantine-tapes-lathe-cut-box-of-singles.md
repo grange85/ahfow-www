@@ -10,7 +10,7 @@ author:
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/quarantine-tapes-box.jpg
-catno: 11/0078
+catno: 11/078
 categories:
 - dean & britta
 - my record collection

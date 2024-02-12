@@ -9,7 +9,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-live-lp.jpg
-catno: 12/0051
+catno: 12/051
 categories:
 - luna
 - my record collection

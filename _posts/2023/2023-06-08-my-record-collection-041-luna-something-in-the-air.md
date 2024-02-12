@@ -9,7 +9,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-something-in-the-air-sonic-cathedral.jpg
-catno: 11/0076
+catno: 11/076
 categories:
 - luna
 - my record collection

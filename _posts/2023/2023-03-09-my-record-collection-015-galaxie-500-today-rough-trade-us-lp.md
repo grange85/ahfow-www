@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-today-rough-trade-us-lp.jpg
-catno: 12/0031
+catno: 12/031
 categories:
 - galaxie 500
 - my record collection

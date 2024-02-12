@@ -10,7 +10,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-fortune-lp.jpg
-catno: 12/0012
+catno: 12/012
 categories:
 - damon & naomi
 - my record collection

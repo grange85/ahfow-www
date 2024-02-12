@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/close-cover-before-striking-matchbook.jpg
-catno: 10/077 
+catno: 10/77 
 categories:
 - luna
 - my record collection

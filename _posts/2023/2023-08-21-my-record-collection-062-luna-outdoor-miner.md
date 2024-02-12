@@ -9,7 +9,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-outdoor-miner.jpg
-catno: 11/0009
+catno: 11/009
 categories:
 - luna
 - my record collection

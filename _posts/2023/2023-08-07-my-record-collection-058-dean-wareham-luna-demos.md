@@ -9,7 +9,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-wareham-luna-demos.jpg
-catno: 12/0026
+catno: 12/026
 categories:
 - dean wareham
 - luna
