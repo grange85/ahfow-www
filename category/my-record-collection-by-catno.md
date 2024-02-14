@@ -4,6 +4,8 @@ title: My record collection by catalogue number
 which_category: 13 most beautiful
 ---
 
+See the _my record collection_ posts in [date order](/category/my-record-collection/).
+
 <ul>
 <li>10 = CD</li>
 <li>11 = 7" singles</li>

@@ -17,6 +17,13 @@ categories:
 tags:
 - comment
 - hyvor
+comments:
+ - name: Bob in Atlanta
+   message: |
+       "<p>I keep hearing lately about blogs making a comeback. I was just musing to a friend (who also maintains a music-centric blog), if the surviving bloggers are mostly music blogs?</p><br /><p>I\u2019m kind of out of the habit of checking RSS feeds for blog updates because of the inexorable attraction of the primary social media outlets, but the idea of going back to that is attractive to me, if only to escape some of the tiresome annoyances of the big platforms. </p><br /><p>Perhaps it\u2019s a nostalgia thing, but right now it sounds very refreshing. Anyways, keep at it! Love your content\u2026</p>"
+ - name: Andy (A Head Full of Wishes)
+   mesasage: |
+       "<p>Thanks Bob, and yes nostalgia is a strong driver ~ seeing the past through those rose coloured specs is dangerous though. But a blogging comeback would be good\u2026</p><br /><p>Now to get a blogroll together.</p>"
 ---
 Simon Reynolds recently wrote a [piece for the Guardian on blogging](https://www.theguardian.com/commentisfree/2023/dec/26/blogging-freedom-outdated-format) and accompanied it with [more context](http://blissout.blogspot.com/2023/12/ou-sont-les-blogs-dantan.html), and [follow-ups](http://blissout.blogspot.com/2024/01/blogs-continued.html) on his own Blissblog and pointed out that _"Blogging has become more of a solitary activity. A blogpost will be sparked by something 'out there,' or by something within, but rarely in response to another blog"_ - related to this is the parallel demise of commentary and discussion.
 
