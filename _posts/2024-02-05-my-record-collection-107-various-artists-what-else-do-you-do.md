@@ -24,7 +24,7 @@ This is one of two copies of _What Else Do You Do (a compilation of quiet music)
 
 The album contains all the usual Shimmy Disc suspects - Pale Face, Bongwater, The Tinklers, Dogbowl, Tuli Kupferberg etc. etc.
 
-Tuli Kupferberg also provided the front cover cartoon (that gives it's name to the album title) - whenever I mention the sleeve I will invariably moan that Paul is right-handed in the cartoon - it still bothers me, and I know it shouldn't! There's a [Tuli documentary coming soon narrated by Thurston Moore](https://thetulimovie.com/).
+Tuli Kupferberg also provided the front cover cartoon (that gives its name to the album title) - whenever I mention the sleeve I will invariably moan that Paul is right-handed in the cartoon - it still bothers me, and I know it shouldn't! There's a [Tuli documentary coming soon narrated by Thurston Moore](https://thetulimovie.com/).
 
 <!--more-->
 
