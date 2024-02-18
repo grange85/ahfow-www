@@ -24,3 +24,7 @@ end
 gem 'kramdown-parser-gfm', '~> 1.1'
 
 gem "webrick", "~> 1.8"
+gem 'csv', '~> 3.0'
+gem 'base64', '~> 0.2.0'
+gem 'bigdecimal', '~> 3.1', '>= 3.1.6'
+
