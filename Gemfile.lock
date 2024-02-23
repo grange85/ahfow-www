@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/grange85/no-style-please
-  revision: 446dc869f65e254ed9e81d0a2d29e95da99b4204
+  revision: 4c79671bdebc380f670abfc9b22ed120171622bc
   specs:
     no-style-please (0.4.7)
       jekyll (~> 4.3.3)
@@ -71,7 +71,7 @@ GEM
     rexml (3.2.6)
     rouge (4.2.0)
     safe_yaml (1.0.5)
-    sass-embedded (1.71.0-x86_64-linux-gnu)
+    sass-embedded (1.71.1-x86_64-linux-gnu)
       google-protobuf (~> 3.25)
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
