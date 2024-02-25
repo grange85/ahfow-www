@@ -31,12 +31,12 @@ Not all of these are from live streamed shows, some were recorded in Dean & Brit
 
 The set was first released in this box of lathe-cut plastic discs for $75 (and individually or as digital downloads):
 
-> It sounded like a quick and easy thing when Mike Dixon called me from Tucson "hey, why not make some instant lathe-cut singles from your live stream shows?" But the plan expanded from there. We tracked four of the songs in our studio (rather than live). And instead of one generic single cover, we did six different jackets, and added the box and a die-cut silkscreen sticker (if you buy the complete set). "If it's worth doing," said Mike, "it's worth over-doing." To that end, we've added one more bonus to the complete set -- a diamond-shaped plexiglass disc with a live recording of "Parking Lot"
+<blockquote>
+It sounded like a quick and easy thing when Mike Dixon called me from Tucson "hey, why not make some instant lathe-cut singles from your live stream shows?" But the plan expanded from there. We tracked four of the songs in our studio (rather than live). And instead of one generic single cover, we did six different jackets, and added the box and a die-cut silkscreen sticker (if you buy the complete set). "If it's worth doing," said Mike, "it's worth over-doing." To that end, we've added one more bonus to the complete set -- a diamond-shaped plexiglass disc with a live recording of "Parking Lot"
+</blockquote>
+<p class="caption">Dean Wareham newsletter</p>
 
- Dean Wareham newsletter
-{: .blockquote-footer .text-end}
-
-It is a lovely package and I love all the thought that went into it - "if it's worth doing it's worth over-doing" is a fine sentiment - although the _over-doing_ meant that the overall cost with shipping to the UK rather scared me - and it was ... middle of covid and the middle of us trying to sell our house and move. Then I got an email from Dean and he'd noticed I hadn't bought a box ... so sent me one. I honestly get spoiled by these people!
+It is a lovely package and I love all the thought that went into it - "if it's worth doing it's worth over-doing" is a fine sentiment - although the _over-doing_ meant that the overall cost with shipping to the UK rather scared me - and it was... middle of covid and the middle of us trying to sell our house and move. Then I got an email from Dean and he'd noticed I hadn't bought a box... so sent me one. I honestly get spoiled by these people!
 
 I will add that as lovely as it is... it's definitely a more _looking at and admiring_ thing, and for listening there's an LP that I'll come to later!
 
