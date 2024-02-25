@@ -19,11 +19,11 @@ tags:
 - key production
 date: 2024-05-09 00:00 +0000
 ---
-So, having received the DAT that Dean sent me of Dear Paulina and having taken it to Abbey Road Studios to have the single cut, the next milestone in the release of the single was the arrival of a pack of white label test pressings that arrived.
+So, having received the DAT that Dean sent me of Dear Paulina and having taken it to Abbey Road Studios to have the single cut, the next milestone in the release of the single was the arrival of a pack of white label test pressings.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dear-paulina-test-pressing.jpg" "Luna - Dear Paulina (7 inch test pressing)" %}
 
-The [paperwork that arrived with the test pressings](https://media.fullofwishes.co.uk/00-misc/my-record-collection/dear-paulina-cutting-and-test-pressing-comments.jpg) pointed out that there was "a light tick beginning A-side new stamper grown will not be on production run". The _positive comments_ box just had the work "OK" - what was that... the first review!?
+The [paperwork that came with the test pressings](https://media.fullofwishes.co.uk/00-misc/my-record-collection/dear-paulina-cutting-and-test-pressing-comments.jpg) pointed out that there was "a light tick beginning A-side new stamper grown will not be on production run". The _positive comments_ box just had the work "OK" - what was that... the first review!?
 
 Apart from that _slight tick_ they sounded OK, to my ears, but they weren't flat like I expected them to be and weren't perfect. Were they supposed to be? I had no idea, was I just supposed to be _listening_ or should I be worried about the _thing_!? I rang Key Production and asked them, Heather at Key was very reassuring, although she would be I suppose? I agreed that they could go ahead with the run of 500 copies.
 
