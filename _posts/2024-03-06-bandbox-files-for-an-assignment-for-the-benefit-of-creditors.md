@@ -17,7 +17,7 @@ categories:
 tags:
 - bandbox
 ---
-I guess for those of us who have been waiting for months and have received nothing, it will come as no surprise that Bandbox, who released the live Bewitched, Penthouse, and Rendezvous albums have gone to the wall. I suspect everyone who has been waiting will have recieved the notification but... just in case:
+I guess for those of us who have been waiting for months and have received nothing, it will come as no surprise that Bandbox, who released the live Bewitched, Penthouse, and Rendezvous albums have gone to the wall. I suspect everyone who has been waiting will have received the notification but... just in case:
 
 <blockquote>
 Bandbox is filing an Assignment for the Benefit of Creditors. They are doing this in order to allow a court supervised process to liquidate the company’s assets and distribute the proceeds according to priorities established in law. 
