@@ -18,7 +18,6 @@ tags:
 - tell me do you miss me
 - rockumentary
 - matthew buzzell
-date: 2024-03-07 00:00 +0000
 ---
 Tell Me Do You Miss Me was Matthew Buzzell's wonderful 'rockumentary' of Luna's farewell tour, it was premiered at the Tribeca film festival in April 2006 and the US DVD followed a couple of months later. This DVD for fans outside the US finally arrived three months after that US release.
 
