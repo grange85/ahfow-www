@@ -34,13 +34,13 @@ Have I already done a ranking of Luna's LP covers? Probably not, so here goes.
 1. Penthouse - photo by Ted Croner /  _I adore Ted Croner's grainy night shots of NYC_.
 2. Lunafied - photo Alberdo Morell /  _A gorgeous [camera obscura]() photo - I emailed Dean to find out if it was going to have a physical release because the sleeve was so beautiful... it took 12 years but did... eventually_.
 3. Best of Luna - illustration by Adrian Tomine / _I was a fan of Tomine from way before this so having his art turn up on a Luna disc was a treat_.
-4. Rendezvous - photo by Chas Ray Krider
+4. Rendezvous - photo by Chas Ray Krider.
 5. Bewitched -  / _The reissue cover is lovely - it's baffling that someone thought that the original sleeve was better_.
 6. Lunapark - Raymond Loewy's pencil sharpener / _yes, pencil sharpener!?_
-7. Pup Tent - photo David Levinthal
-8. Romantica - painting by Steve Ellis
-9. The Days of Our Nights - painting by Richard Phillips / _I used to really dislike this but again, bigger art work made it better and I do like it now_.
-10. A Sentimental Education - image by Niko Luoma
+7. Pup Tent - photo David Levinthal.
+8. Romantica - painting by Steve Ellis.
+9. The Days of Our Nights - painting by Richard Phillips / _I used to really dislike this but again, bigger art work made it better and I don't mind it so much now_.
+10. A Sentimental Education - image by Niko Luoma.
 11. Luna Live / _This is awful, looks like a five minute Photoshop job - sorry if it was you_.
 
 There's another Rendezvous post coming in a week or so, I'll maybe talk about the music then!

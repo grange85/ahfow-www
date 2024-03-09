@@ -45,10 +45,10 @@ The longest bridges in the world (as [listed in Wikipedia](https://en.wikipedia.
 **The Ticking is the Bomb**  
 UNCUT described this as _a stunned, penumbral beauty close in spirit, perhaps, to his formative work in Galaxie 500_ ~ since that quote was lifted from their covermount CD I guess it, in turn, may have been lifted from the press release, it certainly sounds like it. I don't have the presser to check though.
 
-**Air**
+**Air**  
 Air is a cover of a track from Scottish psych-folk band The Incredible String Band. Joe Boyd in his book _White Bicylces_ Joe Boyd writes of the ISB being sucked into Scientology...
 
-<blockquote>The first inkling I had took place after I left the Paradox Restaurant came when the Incredible String Band's US agent telephoned me in LA. Rather than send the tour proceeds to our London bank as agreed, they wanted it all paid in cash. I got through to Licorice, who told me they needed it to pay for Scientology courses. I knew little about the cult but what I had heard wasn't good. When I arrived back in New York I was confronted with a strangely unified foursome: they wanted the money and wanter to give it to the Church of Scientology.
+<blockquote>The first inkling I had took place after I left the Paradox Restaurant came when the Incredible String Band's US agent telephoned me in LA. Rather than send the tour proceeds to our London bank as agreed, they wanted it all paid in cash. I got through to Licorice, who told me they needed it to pay for Scientology courses. I knew little about the cult but what I had heard wasn't good. When I arrived back in New York I was confronted with a strangely unified foursome: they wanted the money and wanted to give it to the Church of Scientology.
 </blockquote>
 <p class="caption"><a href="https://www.google.co.uk/books/edition/White_Bicycles/wdc9a8T20gMC?hl=en&gbpv=1&dq=joe+boyd+white&printsec=frontcover&pli=1">Joe Boyd- White Bicylces</a></p>
 
