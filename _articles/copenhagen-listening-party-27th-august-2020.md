@@ -4,6 +4,7 @@ title: Copenhagen listening party - 27th August 2020
 sitemap: true
 series-title:
 github-comments-issueid:
+date: 2024-03-11
 author:
   display_name: Andy
   login: admin
@@ -13,7 +14,10 @@ image:
 categories:
 - galaxie 500
 tags:
--
+- copenhagen
+- damon krukowski
+- listening party
+- twitter
 ---
 On the 27th January 2020 for the Record Store Day vinyl release of Galaxie 500's _Copenhagen_ Newbury Comics hosted a Twitter listening party where Damon tweeted about the album while we all listened (and chimed in). I've grabbed all of Damon's tweets below - but lots of other folk chipped in so you might want to search the [#Galaxie500xNewbury](https://twitter.com/hashtag/Galaxie500xNewbury) hashtag for more (if you can bear Twitter's awfulness).
 

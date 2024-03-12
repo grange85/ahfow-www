@@ -9,8 +9,13 @@ author:
 author_login: admin
 author_email: andy@fullofwishes.co.uk
 author_url: http://www.grange85.co.uk
-date: '2013-03-09 23:07:20 +0000'
-date_gmt: '2013-03-09 23:07:20 +0000'
 categories: []
 tags: []
 ---
+{% for article in site.articles %}
+  <li>
+    <a href="{{ article.url }}">
+      {{ article.title }}
+    </a>
+  </li>
+{% endfor %}
