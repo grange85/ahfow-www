@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '#137: Galaxie 500 - Copenhagen (promo CD)'
+title: "#137: Galaxie 500 - Copenhagen (promo CD)"
 sitemap: true
-series-title: My record collection 
+series-title: My record collection
 github-comments-issueid:
 author:
   display_name: Andy
@@ -18,6 +18,7 @@ tags:
 - promo cd
 - andrea troolin
 - rykodisc
+date: 2024-03-16 10:56 +0000
 ---
 This is an advance CD of Galaxie 500's live album _Copenhagen_ that was sent to me in March 1997 by Andrea at Rykodisc ahead of it's release. I [covered this previously in my Artefacts series](https://www.fullofwishes.co.uk/2019/06/07/artefacts-001-galaxie-500-advance-cd/) a few years ago so, once again, expect a bit of a rehash.
 
@@ -31,3 +32,14 @@ This spectacular performance shimmers with the finesse that characterized their 
 <p class="caption">Rykodisc Advance CD press note (March 1997)</p>
 
 I also saw Damon & Naomi for the first time that month and I asked Damon about the live album "I always liked that tape" he said.
+
+ - *Catalogue Number:* AHFOW 10/008
+ - *Artist:* Galaxie 500
+ - *Title:* Copenhagen
+ - *Notes:* Advance promo CD
+ - *Packaging:* Card sleeve and shrink-wrap
+ - *Format:* CD
+ - [Buy 'Copenhagen' on Bandcamp](https://galaxie500.bandcamp.com/album/copenhagen-live' on Bandcamp]())
+
+ Previously in [my record collection](/category/my-record-collection):
+  - [#103: Galaxie 500 - Copenhagen](/2024/01/22/my-record-collection-103-galaxie-500-copenhagen/)
