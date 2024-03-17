@@ -18,6 +18,7 @@ tags:
 - promo cd
 - andrea troolin
 - rykodisc
+date: 2024-05-20 00:00 +0000
 ---
 This is an advance CD of Galaxie 500's live album _Copenhagen_ that was sent to me in March 1997 by Andrea at Rykodisc ahead of it's release. I [covered this previously in my Artefacts series](https://www.fullofwishes.co.uk/2019/06/07/artefacts-001-galaxie-500-advance-cd/) a few years ago so, once again, expect a bit of a rehash.
 
