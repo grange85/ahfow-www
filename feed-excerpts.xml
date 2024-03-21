@@ -30,7 +30,7 @@ layout: null
         </description>
         <author>{{post.author.display_name}}</author>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ site.domain }}{{ post.url | prepend: site.baseurl }}?utm_source=rss&amp;utm_medium=ahfow&amp;utm_campaign=website</link>
+        <link>{{ site.domain }}{{ post.url | prepend: site.baseurl }}</link>
         {% if post.enclosure.url contains ".mp3" -%}
         <enclosure url="{{post.enclosure.url}}" length="{{post.enclosure.length}}" type="audio/mpeg" />
         {% elsif post.imageurl contains ".jpg" or post.imageurl contains "googleusercontent" -%}
