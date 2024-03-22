@@ -20,6 +20,7 @@ tags:
 - instagram
 - mastodon
 - discord
+date: 2024-03-22 00:03 +0000
 ---
 Life used to be easier but social media has become so fractured, here's where you can find A Head Full of Wishes - please feel free to get in touch or say "hello" if you like, or just follow to keep up to date with stuff. I keep an eye on them all but some less diligently than others.
 
@@ -39,6 +40,7 @@ Life used to be easier but social media has become so fractured, here's where yo
 ### Andy
 _lots of unrelated nonsense (food, films, music, seaside and cat pictures), but AHFoW stuff sneaks in_
 
+ - [Everything's Swirling](https://www.grange85.co.uk/swirling/) - my personal blog, I'm currently blogging about an album from every one of my 60 years!
  - [@grange85.bsky.social - Bluesky](https://bsky.app/profile/grange85.bsky.social) - this is my personal account for more general, mostly music and film, witterings.
  - [@grange85 on Instagram](https://www.instagram.com/grange85/)
  - [@grange85@mas.to (Mastodon)](https://mas.to/@grange85/)
