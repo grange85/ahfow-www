@@ -26,4 +26,4 @@ On this day in 1991 the band played at the Paramount Theater in Denver and here'
 
 <!--more-->
 
-Actually I'm not too sure how (or when) this recording arrived in my collection but it's well worth a listen - for a band that was cracking apart on stage they were still darned tight and the crowd seem appreciative of them even though most were there for The Cocteau Twins.
+Actually I'm not too sure how (or when) this recording arrived in my collection but it's well worth a listen - for a band that was cracking apart, on stage they were still darned tight and the crowd seem appreciative of them even though most were there for The Cocteau Twins.
