@@ -9,7 +9,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-03-26 10:30
-image: https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1988-12-13/1988-12-13-galaxie-500-cbgb-print-ad.jpg
+image: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/1991-03-26-g500-denver-cover.jpg
 categories:
  - galaxie 500
  - audio
@@ -22,7 +22,7 @@ Thirty years ago Galaxie 500 were in the final stages of their last ever tour tr
 
 On this day in 1991 the band played at the Paramount Theater in Denver and here's an audio recording of the full show.
 
-{% ahfowvideo "SdHBMtvKBfg" "Galaxie 500 at The Paramount Theater, Denver in March 1991 (audio only)" %}
+{% ahfowvideo "SdHBMtvKBfg" "Galaxie 500 at The Paramount Theater, Denver in March 1991 (audio only)" "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/1991-03-26-g500-denver-cover.jpg" %}
 
 <!--more-->
 
