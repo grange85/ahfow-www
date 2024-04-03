@@ -2,7 +2,7 @@
 layout: page
 title: Search
 custom_js:
- - simple-jekyll-search.min
+ - ahfow-misc
 ---
 <form>
   <div class="form-group">
@@ -19,7 +19,7 @@ custom_js:
 <ul id="searchResults" class="list-group list-group-flush"></ul>
 
 
-<form onsubmit="event.preventDefault();document.location.href='https://www.google.com/search?q=site%3Awww.fullofwishes.co.uk%20'+document.getElementById('q').value;">
+<form id="gsearch">
   <div class="form-group">
     <label for="GsearchInput"><h3> Full site search via Google</h3></label>
 <div class="input-group mb-3">
