@@ -36,8 +36,8 @@ The picture on the sleeve is of indigenous American [Mountain Chief](https://en.
  - [America is on the Magic Moments compilation on Bandcamp](https://magic-hour.bandcamp.com/album/magic-moments), [I Had a Thought is on Will They Turn You on...](https://magic-hour.bandcamp.com/album/will-they-turn-you-on-or-will-they-turn-on-you)
 
  previously in [my record collection](/category/my-record-collection):
-  - [#043: magic hour - will they turn you on or will they turn on you](/2023/06/15/my-record-collection-043-magic-hour-will-they-turn-you-on-or-will-they-turn-on-you/)
-  - [#046: magic hour - no excess is absurd](/2023/06/26/my-record-collection-046-magic-hour-no-excess-is-absurd/)
-  - [#050: magic hour - no excess is absurd](/2023/07/10/my-record-collection-050-magic-hour-no-excess-is-absurd/)
-  - [#057: magic hour - will they turn you on or will they turn on you](/2023/08/03/my-record-collection-057-magic-hour-will-they-turn-you-on/)
-  - [#066: magic hour - heads down](/2023/09/04/my-record-collection-066-magic-hour-heads-down/)
+  - [#043: Magic Hour - Will They Turn You On or Will They Turn on You](/2023/06/15/my-record-collection-043-magic-hour-will-they-turn-you-on-or-will-they-turn-on-you/)
+  - [#046: Magic Hour - No Excess Is Absurd](/2023/06/26/my-record-collection-046-magic-hour-no-excess-is-absurd/)
+  - [#050: Magic Hour - No Excess is Absurd](/2023/07/10/my-record-collection-050-magic-hour-no-excess-is-absurd/)
+  - [#057: Magic Hour - Will They Turn You On or Will They Turn on You](/2023/08/03/my-record-collection-057-magic-hour-will-they-turn-you-on/)
+  - [#066: Magic Hour - Heads Down](/2023/09/04/my-record-collection-066-magic-hour-heads-down/)
