@@ -40,6 +40,3 @@ window.goatcounter = {
 
 
 </div>
-
-<div id="wb404"></div>
-<script src="https://archive.org/web/wb404.js"> </script>
