@@ -10,7 +10,6 @@ window.goatcounter = {
 	}
 }
 </script>
-<script>plausible("404",{ props: { path: document.location.pathname } });</script>
 <p class="lead">Things sometimes go astray - it's probably here somewhere, so you could try:</p>
 
 <div class="bs-callout bs-callout-info">
