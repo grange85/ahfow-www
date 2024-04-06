@@ -32,7 +32,7 @@ I love Mercury Rev, but maybe it's my DW bias that makes me think that this is t
 There's a fab clip of Dean and Britta with Grasshopper and Jonathan playing this live:
 {% ahfowvideo "c9JlYusC_dE&t=235" "Mercury Rev and Dean & Britta Car Wash Hair at the Mystery Spot, Phoenicia" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-britta-grasshopper-jonathan.jpg" %}
 
-I love that the kid seen at the end is providing the missing drums... also that kid is possibly in (or close to) his 20s now!
+I love that the kid seen at the end is providing the missing drums... also that kid is possibly in (or close to) his 20s now! Laura Levine has [some nice photos of the day](http://www.lauralevine.com/mysteryspotvintage.com/?p=1552).
 
 Luna covered Car Wash Hair for A Sentimental Education but (sacrilege alert) I don't think it's as good as the original!
 
