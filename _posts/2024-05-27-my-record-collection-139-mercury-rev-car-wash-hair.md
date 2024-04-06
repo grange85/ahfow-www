@@ -18,7 +18,7 @@ tags:
 - car wash hair
 date: 2024-05-27 00:00 +0000
 ---
-I'm guessing that, since the catalogue number of Mercury Rev's _Car Wash Hair_ was MINT5 and Dean Wareham's _Anesthesia_ was MINT5, that this might have been Dean's first post-Galaxie 500 appearance - although I suspect it passed me by at the time and I think I probably only became aware of Dean's involvement when I started the website in late 1994 and picked up a CD around then.
+I'm guessing that, since the catalogue number of Mercury Rev's _Car Wash Hair_ was MINT5 and Dean Wareham's _Anesthesia_ was MINT6, that this might have been Dean's first post-Galaxie 500 appearance - although I suspect it passed me by at the time and I think I probably only became aware of Dean's involvement when I started the website in late 1994 and picked up a CD around then.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/mercury-rev-car-wash-hair.jpg" "Mercury Rev - Car Wash Hair" %}
 
