@@ -60,3 +60,9 @@ I always feel a bit of a traitor when I say anything negative about these bands 
 
 Having said all that I do rather love a 10" - so maybe I'll forgive them!
 
+ - *Catalogue Number:* AHFOW 12/060
+ - *Artist:* Luna
+ - *Title:* A Place of Greater Safety
+ - *Format:* 10"
+ - Bought via Pledgemusic with _A Sentimental Education_ and some other gear!
+ - [Buy 'A Place of Greater Safety' on Bandcamp](https://luna.bandcamp.com/album/a-place-of-greater-safety)
