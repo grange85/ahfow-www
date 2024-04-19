@@ -20,7 +20,7 @@ tags:
 - record store day 2024
 date: 2024-04-19
 ---
-Tomorrow (Saturday 20th April) is Record Store Day, and your chance to get the deluxe edotion of Dean & Britta's debut album, L'avventura. 
+Tomorrow (Saturday 20th April) is Record Store Day, and your chance to get the deluxe edition of Dean & Britta's debut album, L'avventura. 
 
 The album was produced by Tony Visconti and the RSD release will also include the tracks remixed by Sonic Boom on the Sonic Souvenirs EP and the tracks from the 2006 _Words You Used to Say_ single.
 
