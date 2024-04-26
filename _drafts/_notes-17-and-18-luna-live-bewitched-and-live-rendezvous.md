@@ -1,25 +1,3 @@
----
-layout: post
-title: 'Recent acquisition #17 and #18: Luna - Live Bewitched
-  and Live Rendezvous'
-sitemap: true
-series-title: My record collection 
-github-comments-issueid:
-author:
-  display_name: Andy
-  login: admin
-  email: andy@grange85.co.uk
-  url: https://www.grange85.co.uk
-image:
-categories:
-- my record collection 
-- luna
-tags:
-- bandbox
-- live rendezvous
-- live bewitched
-- live
----
 Here's a timeline of my experience of the Bandbox debacle that (sort of) concluded last week when Dean Wareham kindly gave me copies of two of the three live albums.
 
 {% ahfowimage "url" "caption" %}
@@ -125,6 +103,5 @@ That "thanks for the memories" was a nice little sign off! Probably should have 
 In amongst all of that there were promises, discount cards you could buy, some bullshit about not being able to source the "brown pellets" for the Live Rendezvous.
 
 A couple of weeks ago I got an email from Dean saying that he had a copy of the Bewitched and Rendezvous live albums for me and last week he was in London coincidentally at the same time I was and we met up and now I have two of the three LPs.
-
 
 
