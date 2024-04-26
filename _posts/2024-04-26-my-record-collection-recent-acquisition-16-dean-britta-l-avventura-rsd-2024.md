@@ -49,5 +49,4 @@ I know I keep saying this but we (the fans) are so lucky that we are fans of suc
  - [Buy 'L'Avventura' on Bandcamp](https://deanandbritta.bandcamp.com/album/lavventura-bonus-tracks-sonic-boom-remixes)
 
 Previously in [my record collection](/category/my-record-collection):
- - [#140: Dean & Britta - L'Avventura promo CD](/2024/05/30/my-record-collection-140-dean-britta-l-avventura-promo-cd/)
  - [#115: Dean & Britta - Sonic Souvenirs (CD)](/2024/03/04/my-record-collection-115-dean-britta-sonic-souvenirs-cd/)
