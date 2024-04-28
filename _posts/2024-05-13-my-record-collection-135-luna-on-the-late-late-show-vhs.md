@@ -34,7 +34,7 @@ awful.  Nowhere near as good as in concert.
 They're doing Four Thousand Days.  It sounds kind
 of poppy and jangly.  Almost like a single.  Maybe?
 </p><p>
-They're actually givng a few shots to Britta.
+They're actually giving a few shots to Britta.
 I noticed in the Cynthia Garret show, they almost
 never showed her on close up.
 </p><p>
