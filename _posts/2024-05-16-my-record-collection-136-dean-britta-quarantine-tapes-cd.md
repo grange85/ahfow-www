@@ -30,7 +30,7 @@ Massachusetts, I'm So Bored With The USA, Drive, Most of The Time, Indian Summer
 </blockquote>
 <p class="caption">Quarantine Tapes sleeve notes</p>
 
-I love the sleeve, as I might have mentioned before that I'm a bit cool on Brian Calvin's lips, but I do like the layout and typography used, and the picture of Dean and Britta on the back is lovely.
+I sort of love the sleeve, as I might have mentioned before that I'm a bit cool on Brian Calvin's lips, but I do like the layout and typography used, and the picture of Dean and Britta on the back is lovely.
 
  - *Catalogue Number:* AHFOW 10/162
  - *Artist:* Dean & Britta
