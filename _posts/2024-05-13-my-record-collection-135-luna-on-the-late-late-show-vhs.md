@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "#135: Luna on The Late Late Show, June 2000 (VHS)"
-series-title:
+series-title: My record collection
 sitemap: true
 github-comments-issueid:
 author:
