@@ -27,7 +27,7 @@ We have now reached 150 posts in _my record collection_ as follows:
 
 A couple of posts have been about more than one item in my collection so technically I'm already beyond 150 entries in my collection.
 
-The total number of rows (=posts) in my spreadsheet is 370 (up 6 from [progress report #2](http://moonshot.local:4040/2023/12/20/my-record-collection-progress-report-2-051-100/) which are a few recent additions, and some strays that slipped through the net. Estimated completion date is now **Monday, 20th July 2026** - not entirely sure why that's a week earlier than in the last progress report, maybe I was more careful about my reduced output during Christmas last time.
+The total number of rows (=posts) in my spreadsheet is 371 (up 7 from [progress report #2](http://moonshot.local:4040/2023/12/20/my-record-collection-progress-report-2-051-100/) which are a few recent additions, and some strays that slipped through the net. Estimated completion date is now **Monday, 23th July 2026** - not entirely sure why that's a few days earlier than in the last progress report, maybe I was more careful about my reduced output during Christmas last time.
 
 Posts 101 to 150 include:
 
