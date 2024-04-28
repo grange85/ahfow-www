@@ -20,7 +20,7 @@ tags:
 - bootleg
 date: 2024-05-06 00:00 +0000
 ---
-I have gone on ad nauseum over the years about how I **wasn't** at this gig that was hastily arranged when The Sundays were forced to postpone their London show, and almost to rub it in someone (again I've forgotten who) sent me this audience recording of the show.
+I have gone on ad nauseam over the years about how I **wasn't** at this gig that was hastily arranged when The Sundays were forced to postpone their London show, and almost to rub it in someone (again I've forgotten who) sent me this audience recording of the show.
 
 {% ahfowvideo "XtTgFDnGHZY" "Galaxie 500 at The Camden Falcon" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-camden-falcon-1990-02-11.jpg" %}
 Additional _rubbing in_ was provided by Naomi in the [Temperature's Rising oral history book](/2013/03/15/temperatures-rising-an-oral-history-of-galaxie-500-will-come-with-limited-7-single/).
