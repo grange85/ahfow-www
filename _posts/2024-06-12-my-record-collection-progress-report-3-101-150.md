@@ -32,7 +32,7 @@ The total number of rows (=posts) in my spreadsheet is 371 (up 7 from [progress 
 Posts 101 to 150 include:
 
 _Primary artist_
-{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/my-record-collection-primary-artists-posts-101-150.png" "My record collection - formats" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/my-record-collection-primary-artists-posts-101-150.png" "My record collection - artists" %}
 - 5 x Damon & Naomi (inlcudes 2 Magic Hour)
 - 12 x Dean & Britta
 - 13 relating to Dean Wareham _(but not Dean & Britta)_
