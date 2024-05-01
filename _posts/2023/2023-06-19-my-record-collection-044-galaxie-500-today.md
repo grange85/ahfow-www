@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#044: Galaxie 500 - Today'
+title: '#044: Galaxie 500 - Today (maroon vinyl LP)'
 sitemap: true
 series-title: My record collection 
 author:

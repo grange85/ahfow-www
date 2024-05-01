@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My uncut Terrascopaedia interviews: #1 Damon and Naomi"
+title: 'My uncut Terrascopaedia interviews: #1 Damon and Naomi'
 sitemap: true
 series-title:
 github-comments-issueid:
@@ -17,6 +17,7 @@ categories:
 tags:
 - terrascopaedia
 - interview
+date: 2024-05-01 19:27 +0100
 ---
 Back in 2018 Phil at Terrascopaedia suggested I might get a piece into his wonderful hand-made fanzine about Galaxie 500 and, mostly becuase the idea of having my name in a copy was exciting I jumped at the chance. My _angle_ was to interview Naomi, Dean and Damon about how they "kept Galaxie 500 a going concern when it wasn't actually a going concern". I approached all three with the proposal and they all agreed so I rattled off a few questions. In retrospect the questions could have been better and more carefully aligned but I didn't really know what I was doing.
 
@@ -117,3 +118,5 @@ DK: As you know, Naomi and I love to travel so we’ve toured a lot of places an
 
 </blockquote>
 <p class="caption">Interview via email with Damon and Naomi - September 2018</p>
+
+I'll post Dean's interview in a couple of days.
