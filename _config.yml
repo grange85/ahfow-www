@@ -62,7 +62,7 @@ jekyll_compose:
       layout: post
       sitemap: true
       series-title: 
-      github-comments-issueid: 
+      catno: 
       author: 
         display_name: Andy
         login: admin
