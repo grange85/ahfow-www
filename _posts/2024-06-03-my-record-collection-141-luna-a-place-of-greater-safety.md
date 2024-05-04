@@ -3,6 +3,7 @@ layout: post
 title: "#141: Luna - A Place of Greater Safety"
 sitemap: true
 series-title: My record collection
+catno: 12/060
 github-comments-issueid:
 author:
   display_name: Andy

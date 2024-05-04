@@ -3,6 +3,7 @@ layout: post
 title: "#145: Galaxie 500 @ CBGB's - 19th October 1990 (MC)"
 sitemap: true
 series-title: My record collection
+catno: 16/009
 github-comments-issueid:
 author:
   display_name: Andy

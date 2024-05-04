@@ -3,6 +3,7 @@ layout: post
 title: '#144: Damon & Naomi with Ghost (LP) and Femme Fatale / My Flower 7"'
 sitemap: true
 series-title: My record collection
+catno: 12/014 (11/030)
 github-comments-issueid:
 author:
   display_name: Andy

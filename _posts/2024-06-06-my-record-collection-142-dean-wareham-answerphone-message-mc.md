@@ -3,6 +3,7 @@ layout: post
 title: "#142: Dean Wareham - answerphone message (1997)"
 sitemap: true
 series-title: My record collection
+catno: 16/022
 github-comments-issueid:
 author:
   display_name: Andy

@@ -10,6 +10,7 @@ author:
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/magic-hour-no-excess-purple.jpg
+catno: 10/066
 categories:
 - my record collection
 - damon & naomi

@@ -4,6 +4,7 @@ title: "#132: 13 Most Beautiful... songs for Andy Warhol's Screen Tests (DVD)"
 sitemap: true
 series-title: My record collection
 github-comments-issueid:
+catno: 13/002
 author:
   display_name: Andy
   login: admin

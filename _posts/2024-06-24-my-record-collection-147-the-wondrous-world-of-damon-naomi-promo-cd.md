@@ -4,6 +4,7 @@ title: "#147: The Wondrous World of Damon & Naomi (promo CD)"
 sitemap: true
 series-title: My record collection
 github-comments-issueid: 
+catno: 10/121
 author:
   display_name: Andy
   login: admin
@@ -54,3 +55,14 @@ Here are Damon's notes:
 </blockquote>
 <p class="caption">Damon Krukowski, July 1995</p>
 
+ - *Catalogue Number:* AHFOW 10/121
+ - *Artist:* Damon & Naomi
+ - *Title:* The Wondrous World of Damon & Naomi
+ - *Notes:* In-store promo
+ - *Packaging:* PVC sleeve with printouts
+ - *Format:* CD
+ - Bought from Selectadisc in Berwick Street, probably for peanuts!
+ - [Buy 'The Wondrous World of Damon & Naomi' on Bandcamp](https://damonandnaomi.bandcamp.com/album/the-wondrous-world-of-damon-naomi-bootleg-edition) _although only the "bootleg version" is available_
+
+Previously in [my record collection](/category/my-record-collection):
+ - [#005: The Wondrous World of Damon & Naomi (CD)](/2023/02/02/my-record-collection-005-the-wondrous-world-of-damon-naomi-cd/)

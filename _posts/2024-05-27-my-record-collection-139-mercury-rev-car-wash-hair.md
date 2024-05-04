@@ -3,6 +3,7 @@ layout: post
 title: "#139: Mercury Rev - Car Wash Hair"
 sitemap: true
 series-title: My record collection
+catno: 10/167
 github-comments-issueid:
 author:
   display_name: Andy

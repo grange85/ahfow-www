@@ -3,6 +3,7 @@ layout: post
 title: "#134: Luna - Dear Paulina test pressings"
 sitemap: true
 series-title: My record collection
+catno: 11/053-057
 github-comments-issueid:
 author:
   display_name: Andy
@@ -31,7 +32,7 @@ I sent a few copies of the test pressing to folk who'd helped out. I sent one to
 
 There's a [post from a while back](https://www.fullofwishes.co.uk/2009/07/11/mp3-lost-tracks-6-luna-dear-paulina/) that has more of the story, and MP3s of both tracks.
 
- - *Catalogue Number:* AHFOW 11/053 - 0057
+ - *Catalogue Number:* AHFOW 11/053 - 057
  - *Artist:* Luna
  - *Title:* Dear Paulina / Seven Eleven
  - *Notes:* Test pressing
