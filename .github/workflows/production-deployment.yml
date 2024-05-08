@@ -18,10 +18,10 @@ jobs:
       name: production
       url: https://www.fullofwishes.co.uk
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
 
     # Use GitHub Actions' cache to shorten build times and decrease load on servers
-    - uses: actions/cache@v3
+    - uses: actions/cache@v4
       with:
         path: vendor/bundle
         key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
@@ -66,13 +66,3 @@ jobs:
       run: |
         aws cloudfront create-invalidation --no-cli-pager --distribution-id ${{ secrets.FULLOFWISHES_WWW_DISTRIBUTION_ID }} --paths "/*"
         aws cloudfront create-invalidation --no-cli-pager --distribution-id ${{ secrets.FULLOFWISHES_CDN_DISTRIBUTION_ID }} --paths "/*"
-
-    - name: trigger database deployment
-      if: contains(github.event.head_commit.message, '[data]')
-      uses: peter-evans/repository-dispatch@v2.1.1
-      with:
-        token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-        repository: grange85/ahfow-database
-        event-type: ahfow_www_push
-        client-payload: '{"deploy_environment": "production","ahfow_www": "true"}'
-
