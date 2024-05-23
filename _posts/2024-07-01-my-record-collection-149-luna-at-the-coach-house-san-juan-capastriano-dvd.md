@@ -3,7 +3,7 @@ layout: post
 title: "#149:Luna at The Coach House, San Juan Capastriano (DVD)"
 sitemap: true
 series-title: My record collection
-catno:
+catno: 13/011
 author:
   display_name: Andy
   login: admin
