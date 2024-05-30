@@ -6,12 +6,14 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-image: https://lh3.googleusercontent.com/ZL4svau_xQxl8Lw3k0ZFERa95RJvTyeV1FEKTUTcGWE9wvFneCFaSMOampOEuZHHlGRGg8NXaYLOJD4QzvEQEF2zlb0-ovJy5y1YJ1-Y0PgKyltmpAzs8JyRfOAFsC_6OTf2IFDRpPc=w2400
+image: https://media.fullofwishes.co.uk/02-luna/pictures/luna-everybodys-talking-spinning.jpg
 date: '2015-07-14'
 categories:
-- news
+- audio
+- lost tracks
+- luna
 ---
-{% ahfowimage "https://lh3.googleusercontent.com/ZL4svau_xQxl8Lw3k0ZFERa95RJvTyeV1FEKTUTcGWE9wvFneCFaSMOampOEuZHHlGRGg8NXaYLOJD4QzvEQEF2zlb0-ovJy5y1YJ1-Y0PgKyltmpAzs8JyRfOAFsC_6OTf2IFDRpPc=w800" "Luna - Everybody's Talkin' / Fuzzy Wuzzy (demo)" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/02-luna/pictures/luna-everybodys-talking-spinning.jpg" "Luna - Everybody's Talkin' / Fuzzy Wuzzy (demo)" %}
 
 I dug out my copy of Luna's cover of Everybody's Talkin' that was out out on Sub Pop's singles club back in the day. It's a gem, of course, but you knew that.
 
@@ -20,8 +22,8 @@ What you mightn't have known is that the demo version Of Fuzzy Wuzzy that was on
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/02-luna-fuzzy-wuzzy-demo.mp3",
   "audiocap": " Luna - Fuzzy Wuzzy (demo)",
-  "sourceurl": "",
-  "sourcecap": ""
+  "sourceurl": "/database/luna/releases/singles/#everybody-s-talkin-sp438",
+  "sourcecap": "Everybody's Talkin' (Sub Pop, 1998)"
   } %}
 
 This was recorded from my vinyl using my very rudimentary set-up so you have the joy of listening to it the way I do!
