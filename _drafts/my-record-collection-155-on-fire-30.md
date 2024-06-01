@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#155: On Fire 30'
+title: '#155: On Fire|30'
 sitemap: true
 series-title: My record collection 
 catno: 10/157
@@ -17,7 +17,7 @@ tags:
 - on fire
 - on fire 30
 ---
-In October 2019 Galaxie 500's masterpiece **On Fire** reached 30 years of age. At the beginning of May that year I came up with a half-arsed plan to commemorate this - over the next few months, and mainly because of other people - that half-arsed idea turned into **On Fire | 30**.
+In October 2019 Galaxie 500's masterpiece **On Fire** reached 30 years of age. At the beginning of May that year I came up with a half-arsed plan to commemorate this - over the next few months, and mainly because of other people - that half-arsed idea turned into **On Fire|30**.
 
 {% ahfowimage "url" "caption" %}
 
@@ -27,12 +27,16 @@ My first thought was to release the music on a cassette as it would have been ch
 
 The whole thing wouldn't have happened but for the contributions of lots of people but most importantly these three:
 
- - The album wouldn't have happened without Miguel, he rounded up most of the artists including a couple of coups in Britta for one track, and Robert Scott (of The Bats) for another! 
- - John designed the beautiful sleeve and layed out the book and the cd sleeve and disc artwork.
+ - On Fire|30 wouldn't have had music without Miguel, he rounded up most of the artists including a couple of coups in Britta for one track, and Robert Scott (of The Bats) for another! 
+ - John designed the beautiful artwork on the book and disc, and prepped it all for printing.
  - Hannah did a fine job of coralling everything, arranging for the book printing and the cd pressing. She also came round and stuffed envelopes when it came to sending things out.
 
 Contributors were "paid" in copies of the finished article.
 
-**On Fire | 30** was released in two formats - a _deluxe edition_ that included the booklet with badges, photos, postcards and the disc - I also andomly included horrendouns, messy, limited-edition lino-cu, and a CD only for folk who just wanted the music - this turned out to be a mistake since nobody wanted just the CD - I still have a few kicking around, I sometimes leave them at gigs just to get rid of a few!
+**On Fire | 30** was released in two formats - a _deluxe edition_ that included the booklet with badges, photos, postcards and the disc - I also randomly included horrendous, messy, limited-edition lino-cut print, and a _standard edition_ CD only for folk who just wanted the music - this turned out to be a mistake since nobody wanted just the CD - I still have a few kicking around, I sometimes leave them at gigs just to get rid of a few!
 
-The booklets sold out fairly quickly
+The booklets however sold out fairly quickly.
+
+You can still listen to and buy (for pay what you want) the album [on Bandcamp](https://aheadfullofwishes.bandcamp.com/album/on-fire-30) or buy the CD (although shipping costs are ridiculous at the moment so maybe [get in touch with me](/about/) if you want to _negotiate_ a trade! 
+
+
