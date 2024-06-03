@@ -22,7 +22,6 @@ tags:
 <a id="more"></a><a id="more-3907"></a><br />
 Galaxie 500 covered it for the Shimmy Disc tribute album Rutles Highway Revisited<br />
 </p>
-{% bandcamp {"track": "1160116344"} %}
 <p>I'm not sure Galaxie 500 ever played it live, but on his "Dean Wareham plays Galaxie 500" dates it would occasionally get an airing...<br />
 
 {% ahfowvideo "wM5MWqOtHss" "" %}

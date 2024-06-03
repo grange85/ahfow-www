@@ -21,6 +21,5 @@ Big Star recorded Blue Moon for their third album in 1974, the album may have be
 {% ahfowvideo "Ub9N8IP8hao" "" %}
 <p>Damon & Naomi recorded their cover of Blue Moon for their fourth album <a href="https://damonandnaomi.bandcamp.com/album/damon-naomi-with-ghost">Damon & Naomi with Ghost</a> recorded (of course) with Japanese rock band Ghost.</p>
 
-{% bandcamp {"track": "1796753126"} %}
 
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

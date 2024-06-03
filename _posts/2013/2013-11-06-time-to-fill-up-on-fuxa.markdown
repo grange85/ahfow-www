@@ -17,5 +17,4 @@ categories:
 <p><a href="http://fuxa1.bandcamp.com/album/fuxa-commits-suicide">Dean Wareham singing on this 10 minute long cover of Suicide's Cheree</a> - seriously if you don't have this already...<br />
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3874447431/size=medium/bgcol=ffffff/linkcol=0687f5/t=1/transparent=true/" seamless><a href="http://fuxa1.bandcamp.com/album/fuxa-commits-suicide">Fuxa Commits Suicide by fuxa</a></iframe></p>
 <p>This <a href="http://fuxa1.bandcamp.com/album/a-mind-expansion-digital-compilation">awesome digital compilation which includes Dean & Britta covering Dennis Wilson's Forever</a></p>
-{% bandcamp {"album": "918688473"}%}
 

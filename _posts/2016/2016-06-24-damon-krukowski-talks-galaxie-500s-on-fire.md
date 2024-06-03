@@ -26,4 +26,3 @@ tags:
 
 <p>Head over to <a href="https://daily.bandcamp.com/2016/06/24/galaxie-500-interview/">bandcamp daily</a> to read the full article.</p>
 
-{% bandcamp {"album":"158016030"} %}

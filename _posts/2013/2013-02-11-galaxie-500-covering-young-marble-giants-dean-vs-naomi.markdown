@@ -14,10 +14,8 @@ categories:
 <p>I was lucky enough to see the rather fab <a href="http://www.youngmarblegiants.com/">Young Marble Giants</a> playing one of their all too rare gigs in London last night (a <a href="http://www.flickr.com/photos/grange85/sets/72157632738807005/with/8461922303/">few crappy pictures here</a> but none worth embedding on this page) - half way through a set of familiar gems was the one gem that was more familiar than any of the others...</p>
 <p>Here's Dean singing it as released on <a href="http://galaxie500.bandcamp.com/album/uncollected">Uncollected</a><br />
 </p>
-{% bandcamp {"track": "1787690183"} %}
 <p>Here's Naomi singing it as recorded for their 1990 <a href="http://galaxie500.bandcamp.com/album/peel-sessions">Peel Session</a><br />
 </p>
-{% bandcamp {"track": "2114229519"} %}
 <p>Which do you prefer... I, of course, love them both equally!</p>
 <p>And, pre-empting its appearance in my <a href="/category/originals/">Originals</a> posts in a couple of months time... if you've never heard the fantastic original...</p>
 {% ahfowvideo "rB8ymBZwgOE" "" %}

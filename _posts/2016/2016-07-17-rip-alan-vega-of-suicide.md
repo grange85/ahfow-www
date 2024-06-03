@@ -27,7 +27,6 @@ description: >
 {% ahfowvideo "K6Vrf-CjnLo" "Suicide 197?" %}
 
 <p>Here's LUNA's cover of Suicide's {% ahfowtrack "Dream Baby Dream" %} for <a href="/database/luna/releases/luna-your-invitation-to-suicide/">(enclosed please find) Your Invitation to Suicide</a></p>
-{% bandcamp {"track": "3080784553"} %}
 
 {% ahfowvideo "Ug55Cs2xxZM" "Fuxa featuring Dean Wareham - Cheree (Rev/Vega)" %}
 

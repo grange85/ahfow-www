@@ -14,52 +14,66 @@
 #  0. You just DO WHAT THE FUCK YOU WANT TO.
 # 
 # 
-# AHFoW liquid ahfowaudio
+# AHFoW liquid ahfowbc
 #
 # Example:
-#    {% ahfowaudio image-url image-caption %}
+#    {% ahfowbc "bandcamp-url" "bandcamp-caption" %}
 
 module Jekyll
-  require 'json'
-  class AhfowBandcampTag < Liquid::Tag
-    def initialize(tag_name, input, tokens)
-      super
-        @input = input
-      end
+  class AhfowBcTag < Liquid::Tag
 
-      def render(context)
-        # Attempt to parse the JSON if any is passed in
-        begin
-          if( !@input.nil? && !@input.empty? )
-            jdata = JSON.parse(@input)
-            if( jdata.key?( "type" ) )
-              type = jdata["type"].strip
-            end
-            if( jdata.key?( "album" ) )
-              album_id = jdata["album"].strip
-              height = "120"
-              size = "large"
-              tracklist = "false"
-              artwork = "small"
-              track_id = ""
-            elsif ( jdata.key?( "track" ) )
-              track_id = jdata["track"].strip
-              album_id = ""
-              height = "42"
-              size = "small"
-              tracklist = "false"
-              artwork = "false"
-            else return ""
-          end
-        end
-        rescue
+    def render(context)
+      if tag_contents = determine_arguments(@markup.strip)
+        ahfowbc_url, ahfowbc_caption, ahfowbc_thumbnail, page_url = tag_contents[0], tag_contents[1], tag_contents[2], context['page']['url']
+        ahfowbc_tag(ahfowbc_url, ahfowbc_caption, ahfowbc_thumbnail,page_url)
+      else
+        raise ArgumentError.new <<-eos
+Syntax error in tag 'ahfowbc' while parsing the following markup:
+
+  #{@markup}
+
+Valid syntax:
+{% ahfowbc video-url video-caption %}
+eos
       end
-#      format = "%s - %s - %s - %s - %s - %s"
-      format = '<iframe class="embed-responsive-item" style="border: 0; width: 100%%; height: %spx;" src="https://bandcamp.com/EmbeddedPlayer/album=%s/size=%s/bgcol=333333/linkcol=0f91ff/tracklist=%s/artwork=%s/track=%s/transparent=true/" seamless></iframe>'
-      output = sprintf(format, height, album_id, size, tracklist, artwork, track_id)
-      return output
+    end
+
+    private
+
+
+    def determine_arguments(input)
+      matched = input.match(/"(.*?)" ?"(.*?)"( ?"(.*?)")?/)
+      [matched[1].to_s.strip, matched[2].to_s.strip, matched[4].to_s.strip] if matched && matched.length >= 3
+    end
+
+    def ahfowbc_tag(ahfowbc_url, ahfowbc_caption = nil, ahfowbc_thumbnail = nil, page_url=nil)
+      if ahfowbc_thumbnail.empty?
+        ahfowbc_thumbnail = "https://img.youtube.com/vi/#{ahfowbc_url}/maxres1.jpg"
+      end
+      <<~HEREDOC
+      <div class="text-center">
+        <figure class="figure w-100">
+          <a 
+             data-goatcounter-click="external-bandcamp.com-#{ahfowbc_url}"
+             data-goatcounter-title="Bandcamp-#{ahfowbc_caption}"
+             data-goatcounter-referrer="#{page_url}"
+             href="{ahfowbc_url}" >
+              <img src="#{ahfowbc_thumbnail}" class="img-fluid opacity-3h4 mx-auto" />
+          <figcaption class="figure-caption text-right">
+            #{ahfowbc_caption} (play on Bandcamp)
+          </figcaption>
+          </a>
+        </figure>
+      </div>
+      HEREDOC
+#      "<figure class=\"figure embed-responsive\">\<a href=\"https://www.youtube.com/watch?v=#{ahfowbc_url}\">    <div class=\"ytimg\">     <i class=\"bi bi-play-btn-fill display-3 text-danger text-center\"></i><img src=\"https://img.youtube.com/vi/#{ahfowbc_url}/maxres1.jpg\" width=\"640\" height=\"480\" class=\"img-fluid rounded mx-auto d-block\" alt=\"#{ahfowbc_caption} (link to youtube)\">   </div>  </a>  <figcaption class=\"figure-caption text-right\">#{ahfowbc_caption} (link to youtube)</figcaption></figure>"
+#      if ahfowbc_caption.empty?
+#        "<figure class=\"figure embed-responsive embed-responsive-16by9\"><iframe class=\"embed-responsive-item\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/#{ahfowbc_url}\" frameborder=\"0\" allowfullscreen></iframe></figure>"
+#      else
+#        "<figure class=\"figure embed-responsive embed-responsive-16by9\"><iframe class=\"embed-responsive-item\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/#{ahfowbc_url}\" frameborder=\"0\" allowfullscreen></iframe><figcaption class=\"figure-caption text-right\">#{ahfowbc_caption}</figcaption></figure>"
+#      end
     end
   end
 end
 
-Liquid::Template.register_tag('bandcamp', Jekyll::AhfowBandcampTag)
+Liquid::Template.register_tag('ahfowbc', Jekyll::AhfowBcTag)

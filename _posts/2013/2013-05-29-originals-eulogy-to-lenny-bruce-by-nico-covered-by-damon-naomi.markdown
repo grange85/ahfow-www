@@ -17,5 +17,4 @@ categories:
 {% ahfowvideo "DdQYAZ_k_Q8" "" %}
 <p>Damon & Naomi's cover was on Damon & Naomi with Ghost<br />
 </p>
-{% bandcamp {"track": "1767240532"} %}
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

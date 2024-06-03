@@ -30,7 +30,6 @@ tags:
 {% ahfowvideo "rVWO6yE_c40" "New Order - Ceremony - In September 1981, "Ceremony" was re-recorded. Gillian Gilbert played guitar on the recording, just before she formally joined the band. Martin Hannett again produced the record." %}
 
 <p>Galaxie 500 - Ceremony - from the Blue Thunder 12"</p>
-{% bandcamp {"track": "3788010337"} %}
 
 {% ahfowvideo "av2ApbIdNSI" "Galaxie 500 - Ceremony - live at Club Lingerie, 1990" %}
 
