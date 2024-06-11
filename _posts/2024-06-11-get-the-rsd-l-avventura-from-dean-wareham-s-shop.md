@@ -23,7 +23,7 @@ Dean Wareham's online shop now has some copies of the deluxe L'Avventura double 
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-and-britta-lavventura-rsd2024.jpg" "L'Avventura (deluxe) - Dean & Britta" %}
 
-Head over to Dean's website and [grab yourself a copy](https://deanwareham.com/product/992679) before it's too late. He did also have some copies of teh Back Numbers reissue but looks like you might already be too late for that.
+Head over to Dean's website and [grab yourself a copy](https://deanwareham.com/product/992679) before it's too late. He did also have some copies of the Back Numbers reissue but looks like you might already be too late for that.
 
 
 

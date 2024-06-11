@@ -30,7 +30,7 @@ In the four years since they played I had moved from London, where most bands pl
 
 [Richard Youngs opened the show](https://www.flickr.com/photos/grange85/53167530152/in/album-72177720310997512/) with a rambling, apologetic introduction. The apology was for his underpreparedness, that occasionally showed through; the faces he pulled as he hit a wrong piano chord added somewhat to the charm of the set.
 
-Damon & Naomi opened with a couple of songs from A Sky Record, and then a couple of older songs before Naomi cast aside the keyboard and strapped on _[that bass](https://www.flickr.com/photos/grange85/53167531837/in/album-72177720310997512/)_ for a run of even older songs including In The Sun from their first release, the Pierre Etoile EP (although with Naomi on vocals so tehnically I guess from Playback Singers) and then stepped back even further into the past with Galaxie 500's Another Day which they have been playing live for a couple of years... but now, with _that bass_ - so, extra special.
+Damon & Naomi opened with a couple of songs from A Sky Record, and then a couple of older songs before Naomi cast aside the keyboard and strapped on _[that bass](https://www.flickr.com/photos/grange85/53167531837/in/album-72177720310997512/)_ for a run of even older songs including In The Sun from their first release, the Pierre Etoile EP (although with Naomi on vocals so technically I guess from Playback Singers) and then stepped back even further into the past with Galaxie 500's Another Day which they have been playing live for a couple of years... but now, with _that bass_ - so, extra special.
 
 {% ahfowvideo "Saqgv7Sxh10" "Damon & Naomi - Another Day at Cafe Oto" %}
 

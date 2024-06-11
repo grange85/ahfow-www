@@ -27,7 +27,7 @@ tags:
 <blockquote>
 	Then Dean played guitar on 3 more songs – we kept his original guitars on "Landslide" and "Fallin' In Love." I kept my original demo guitars on the 4 songs I play on. I especially like what I played on the song "Luck or Magic," but I’m not really a guitar player&hellip;
 </blockquote>
-<p>&hellip; stacks of downloads of full tracks, demos, snippets etc. Including both sides of teh Fallin' In Love/Hey Paula single; a couple of Jem era tracks; early demos of her cover of Drive (The Cars)</p>
+<p>&hellip; stacks of downloads of full tracks, demos, snippets etc. Including both sides of the Fallin' In Love/Hey Paula single; a couple of Jem era tracks; early demos of her cover of Drive (The Cars)</p>
 
 <p>&hellip; and some lovely little video clips!</p>
 
