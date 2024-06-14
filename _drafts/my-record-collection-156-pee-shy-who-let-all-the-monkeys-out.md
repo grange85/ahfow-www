@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/pee-shy-who-let-all-the-monkeys-out-cd.jpg
 categories:
 - my record collection
 - dean wareham
@@ -20,7 +20,7 @@ tags:
 ---
 I first heard of Pee Shy on The Galaxie 500 Mailing List when it was pointed out that Dean Wareham had produced _Who Let All the Monkeys Out?_, this was probably not long after release. I bought myself a copy pretty much straight away and rather liked it and must admit like it more as time passes.
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/pee-shy-who-let-all-the-monkeys-out-cd.jpg" "Pee Shy - Who Let All The Monkeys Out" %}
 
 It was probably just as well that I was a completist because there was some pretty negative comments about it on the Mailing List at the time and I am glad that I ignored them, although the two most vociferous defenders urged people to see them live if they could. Sadly, I never did.
 
@@ -41,7 +41,7 @@ And just to add another Luna connection, they covered Alice Cooper's _Only Women
 
 {% ahfowvideo "XSPvy_5-8PM" "Pee Shy - Only Women Bleed" %}
 
-They released a second album a couple of years later, which I also have but don't listen to as much (and I don't think that's just for DW reasons!). After the band split Cindy Wheeler and Mary Guidera formed [The Caulfield Sisters](https://en.wikipedia.org/wiki/Caulfield_Sisters) and  released an EP  which is more... grown up, I guess? I like it a lot. 
+They released a second album a couple of years later, which I also have but don't listen to as much (and I don't think that's just for DW reasons!). After the band split Cindy Wheeler and Mary Guidera formed [The Caulfield Sisters](https://en.wikipedia.org/wiki/Caulfield_Sisters) and  released an EP  which is more... grown up, I guess? I like it a lot. Their [Facebook page](https://www.facebook.com/thecaulfieldsisters/) has been pretty quiet, but maybe they still exist?
 
  - *Catalogue Number:* AHFOW 10/024
  - *Artist:* Pee Shy
