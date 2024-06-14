@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '#156: Pee Shy - Who Let All The Monkeys Out?'
+title: "#156: Pee Shy - Who Let All The Monkeys Out?"
 sitemap: true
-series-title: My record collection 
+series-title: My record collection
 catno:
 author:
   display_name: Andy
@@ -17,6 +17,7 @@ tags:
 - pee shy
 - who let all the monkeys out
 - cindy wheeler
+date: 2024-07-25 00:00 +0000
 ---
 I first heard of Pee Shy on The Galaxie 500 Mailing List when it was pointed out that Dean Wareham had produced _Who Let All the Monkeys Out?_, this was probably not long after release. I bought myself a copy pretty much straight away and rather liked it and must admit like it more as time passes.
 
