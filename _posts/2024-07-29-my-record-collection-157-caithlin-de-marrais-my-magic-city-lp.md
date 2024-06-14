@@ -1,15 +1,15 @@
 ---
 layout: post
-title: '#157: Caithlin de Marais - My Magic City (LP)'
+title: "#157: Caithlin De Marrais - My Magic City (LP)"
 sitemap: true
-series-title: My record collection 
-catno: 
+series-title: My record collection
+catno: 12/094
 author:
   display_name: Andy
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image: 
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/caithlin-de-marais-my-magic-city-lp.jpg
 categories:
 - my record collection
 - dean wareham
@@ -17,10 +17,11 @@ tags:
 - caithlin de marais
 - my magic city
 - rainer maria
+date: 2024-07-29 00:00 +0000
 ---
-I was unaware of Dean Wareham's appearance on former Rainer Maria singer Caithlin de Marais's first solo album when it was released in 2008, and only became aware of it when the album got its first vinyl release a couple of years back.
+I was unaware of Dean Wareham's appearance on former Rainer Maria singer Caithlin De Marrais's first solo album when it was released in 2008, and only became aware of it when the album got its first vinyl release a couple of years back.
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/caithlin-de-marais-my-magic-city-lp.jpg" "Caithlin De Marrais - My Magic City" %}
 
 The album credits just list all the contributors in alphabetical order and Caithlin describes _how_ the record was made, but not who contributed where:
 
@@ -36,4 +37,13 @@ Britta also gets an _electric bass_ credit and I suspect her appearance was on t
 
 The album is very sweet and fresh, this [Pitchfork review](https://pitchfork.com/reviews/albums/12521-my-magic-city/) suggests _"too sugary"_ but I don't agree - it is just about right!
 
-Caithlin's other AHFoW connection is that she did a cover of Galaxie 500's Hearing Voices for Spin way back in the day - I downloaded and salvaged it and you can [see it and hear it in all its "shuddery low-res joy](/2016/12/20/my-favourite-galaxie-500-covers-7-rainer-maria-hearing-voices/).
+Caithlin's other AHFoW connection is that Rainer Maria did a cover of Galaxie 500's Hearing Voices for Spin way back in the days when streaming a tiny low-res video was exciting - I downloaded and salvaged it and you can [see it and hear it in all its "shuddery low-res joy"](/2016/12/20/my-favourite-galaxie-500-covers-7-rainer-maria-hearing-voices/).
+
+ - *Catalogue Number:* AHFOW 12/094
+ - *Artist:* Caithlin De Marrais
+ - *Title:* My Magic City
+ - *Notes:* White vinyl
+ - *Packaging:* Card sleeve
+ - *Format:* LP
+ - Bought online for £25 (incl postage)
+ - [Buy 'My Magic City' on Bandcamp](https://caithlindemarrais.bandcamp.com/album/my-magic-city)
