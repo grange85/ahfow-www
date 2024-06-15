@@ -35,9 +35,7 @@ This was during a global cost of living crisis...
 </blockquote>
 <p class="caption"><a href="https://commonslibrary.parliament.uk/research-briefings/cbp-9428/">Rising cost of living in the UK (published 24 May, 2024)</a></p>
 
-Admittedly ROG were up-front about the lead time but their threats of this being a _limited release_ exploited fans who wanted this. 
-
-Taking money from fans who might be struggling to afford things was inappropriate particularly as Warner's weren't the ones strapped for cash...
+Admittedly ROG were up-front about the lead time but their threats of this being a _limited release_ exploited fans who wanted this, it's not as if Warner's were strapped for cash...
 
 <blockquote>
 In 2023, Warner Music Group reported revenues of 6.03 billion U.S. dollars. The record company has seen its revenues grow consistently for the last few years after a small decline in 2015, and despite the 2020 figure marking a slight decrease, 2023 had the highest revenue recorded to date.
