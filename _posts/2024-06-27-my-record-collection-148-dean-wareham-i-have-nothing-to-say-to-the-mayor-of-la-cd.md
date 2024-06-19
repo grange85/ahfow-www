@@ -19,7 +19,7 @@ tags:
 - cd
 date: 2024-06-27 00:00 +0000
 ---
-Dean's third (or second depending on your view on the status of [Emancipated Hearts](/2023/01/26/my-record-collection-003-dean-wareham-emancipated-hearts/) solo album is an absolute gem, maybe I still prefer his self-titled (2nd) album, but that's possibly familiarity and also the lovely shows I saw when he was over here promoting it. But this is a blinder all the same, and I get the impression that Dean thinks it's better.
+Dean's third (or second depending on your view on the status of [Emancipated Hearts](/2023/01/26/my-record-collection-003-dean-wareham-emancipated-hearts/) solo album) is an absolute gem, maybe I still prefer his self-titled (2nd) album, but that's possibly familiarity and also the lovely shows I saw when he was over here promoting it. But this is a blinder all the same, and I get the impression that Dean thinks it's better.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-wareham-i-have-nothing-to-say-cd.jpg" "I Have Nothing to Say to The Mayor of LA (CD)" %}
 
