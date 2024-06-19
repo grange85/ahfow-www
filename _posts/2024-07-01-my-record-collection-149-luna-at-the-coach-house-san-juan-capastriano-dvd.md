@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#149:Luna at The Coach House, San Juan Capastriano (DVD)"
+title: "#149: Luna at The Coach House, San Juan Capastriano (DVD)"
 sitemap: true
 series-title: My record collection
 catno: 13/011
