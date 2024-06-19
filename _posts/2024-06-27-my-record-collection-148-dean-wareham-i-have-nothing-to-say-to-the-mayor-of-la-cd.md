@@ -27,7 +27,7 @@ The cover painting is by [San Francisco artist Chris Lux](https://www.instagram.
 
 While *I* have nothing to say to the mayor of LA I do have a couple of things to say to the CD sleeve designer:
 
-- I have evidence that supports the fact that Dean's audience is aging (along with Dean) and therefore our eyes are probably not what they were - the type used for the lyrics and the credits in the CD insert is *far too small* for our aging eyes - I literally had to use my phone to ensure I had the name of the cover artist correct!
+- I have evidence that supports the fact that Dean's audience is ageing (along with Dean) and therefore our eyes are probably not what they were - the type used for the lyrics and the credits in the CD insert is *far too small* for our ageing eyes - I literally had to use my phone to ensure I had the name of the cover artist correct!
 - Black text on a black background is surely not a good idea? The tracklisting on the back is virtually unreadable.
 
 The LP version thankfully hasn't been given the black text on black background reverse, although the type is still pretty small!
