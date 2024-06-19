@@ -49,6 +49,8 @@ The third track on the CD is _Requiem for a Mouse_ which was originally planned 
 "sourcecap": "Dear Diary (Beggars Banquet promo single)"
 } %}
 
+Everytime I hear it I'm reminded of the John Cameron/Frog [soundtrack to fab pulpy horror film Pyschomania](https://www.youtube.com/watch?v=S9BguJcDJT0).
+
 I can't remember where I got this but have a feeling that, despite it being a promo, Beggars were selling copies on their website so think I maybe got it there. Actually the only clue that it is a promo is the **P** on th end of the catalogue number.
 
  - *Catalogue Number:* AHFOW 10/007
