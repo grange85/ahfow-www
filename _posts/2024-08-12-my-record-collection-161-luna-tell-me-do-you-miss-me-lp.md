@@ -24,7 +24,7 @@ In September 2019 Luna announced the release of this "quasi-bootleg" LP of track
 
 Side A has tracks from various shows of the final tour while side B is a selection from their final shows at The Bowery Ballroom.
 
-The album is titled, and designed, to match the DVD _rockumentary_ [Tell Me Do You Miss Me]() - the title of course being a lyric from 23 Minutes in Brussels, which was the closing song on the DVD but is actually not included on this LP. This is of course fine because the LP finishes with Fuzzy Wuzzy which is one of Luna's finest live songs!
+The album is titled, and designed, to match the DVD _rockumentary_ Tell Me Do You Miss Me - the title of course being a lyric from 23 Minutes in Brussels, which was the closing song on the DVD but is actually not included on this LP. This is of course fine because the LP finishes with Fuzzy Wuzzy which is one of Luna's finest live songs!
 
 So... just because, here's a list of what are currently my top five favourite live Luna songs&dagger;: _(most of which aren't on this LP)_
 
