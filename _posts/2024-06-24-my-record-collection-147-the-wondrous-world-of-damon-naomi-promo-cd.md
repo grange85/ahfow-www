@@ -52,7 +52,7 @@ Here are Damon's notes:
 <li>Who Am I is from a Country Joe and The Fish record, and it's more pitiful than even our sad songs.</li>
 <li>Whispering Pines is by The Band, and is an old favorite of ours.</li>
 </ul>
-<p>These are all pretty depressing songs. I guess they each express something we wanted on the album, but which we wouldn't or couldn't write on our own."</p>
+<p>These are all pretty depressing songs. I guess they each express something we wanted on the album, but which we wouldn't or couldn't write on our own.</p>
 </blockquote>
 <p class="caption">Damon Krukowski, July 1995</p>
 
