@@ -28,7 +28,7 @@ The album credits just list all the contributors in alphabetical order and Caith
 <blockquote>
 We made the record wherever we happened to be, creating music in a fire-ravaged church in brooklyn, a rustic cottage in upstate new york, and several brooklyn apartments including my own. There was no sound isolation, not much in the way of overdubs. We cued one another with eye contact, everyone playing together. I sang the songs live in the room as the musicians were playing them. You can hear the warmth and affection of the sessions in the songs.
 </blockquote>
-<p class="caption">footer</p>
+<p class="caption">My Magic City sleeve notes</p>
 
 Fortunately the website for the [Skepetal Lightning re-release]() is kind enought to clarify things _"the album also includes a lush stereo guitar solo from Dean Wareham
 (Galaxie 500, Luna, Dean & Britta) on 'Outer Space Is Still Sexy'_. 
