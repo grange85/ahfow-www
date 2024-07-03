@@ -21,7 +21,7 @@ tags:
 - 20-20-20
 date: 2023-02-27 00:00 +0000
 ---
-The first, and only physical, volume of international music put out on Damon & Naomi's 20-20-20 label. Subtitled _Altaic language group_ - the artists featured are from Turkey, Korea, and Japan - which I must admit puzzled me, as a non linguist, that Turkey and Japan can be in the same language group... but, hey, [what do I know]()? Although, it's all a bit... controversial.
+The first, and only physical, volume of international music put out on Damon & Naomi's 20-20-20 label. Subtitled _Altaic language group_ - the artists featured are from Turkey, Korea, and Japan - which I must admit puzzled me, as a non linguist, that Turkey and Japan can be in the same language group... but, hey, what do I know? Although, it's all a bit... controversial.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/international-sad-hits-cd.jpg" "International Sad Hits Volume One" %}
 

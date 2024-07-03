@@ -21,7 +21,7 @@ tags:
 - dat
 date: 2024-04-01 00:00 +0000
 ---
-This is a recording of Dean & Britta's first London show in 2007 as recorded to DAT by my pal Andy. The [next night's show]() has already put in an appearance in this series.
+This is a recording of Dean & Britta's first London show in 2007 as recorded to DAT by my pal Andy. The [next night's show](/2023/07/27/my-record-collection-055-dean-britta-live-at-the-legion/) has already put in an appearance in this series.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-and-britta-metro-dat.jpg" "Dean & Britta at The Metro DAT" %}
 

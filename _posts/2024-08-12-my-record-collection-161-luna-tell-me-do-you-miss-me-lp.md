@@ -18,7 +18,7 @@ tags:
 - live album
 date: 2024-08-12 00:00 +0000
 ---
-In September 2019 Luna announced the release of this "quasi-bootleg" LP of tracks recorded on their (so called) farwell tour in 2004/5. The LP was to be a limited release of 750 individually numbered copies and would be sold on their autumn tour of the US before flogging the left-overs online. My copy is #695.
+In September 2019 Luna announced the release of this "quasi-bootleg" LP of tracks recorded on their (so called) farewell tour in 2004/5. The LP was to be a limited release of 750 individually numbered copies and would be sold on their autumn tour of the US before flogging the left-overs online. My copy is #695.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-tell-me-do-you-miss-me-lp.jpg" "Luna - Tell Me Do You Miss Me (LP)" %}
 

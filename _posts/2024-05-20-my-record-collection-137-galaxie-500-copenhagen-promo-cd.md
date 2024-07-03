@@ -40,7 +40,7 @@ I also saw Damon & Naomi for the first time that month and I asked Damon about t
  - *Notes:* Advance promo CD
  - *Packaging:* Card sleeve and shrink-wrap
  - *Format:* CD
- - [Buy 'Copenhagen' on Bandcamp](https://galaxie500.bandcamp.com/album/copenhagen-live' on Bandcamp]())
+ - [Buy 'Copenhagen' on Bandcamp](https://galaxie500.bandcamp.com/album/copenhagen-live')
 
  Previously in [my record collection](/category/my-record-collection):
   - [#103: Galaxie 500 - Copenhagen](/2024/01/22/my-record-collection-103-galaxie-500-copenhagen/)

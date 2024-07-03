@@ -46,4 +46,3 @@ If you aren't already (and can afford $4 a month) you should sign up to [Dean & 
  - *Packaging:* Wrap around sleeve in plastic bag
  - *Format:* 7" EP _(a **real** EP)_ 
  
- - [Buy 'Chansons de Vampires' on Bandcamp]()

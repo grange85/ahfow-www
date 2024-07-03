@@ -17,7 +17,7 @@ tags:
 - peel sessions
 date: 2023-10-23 00:00 +0000
 ---
-As I [mentioned on my previous Peel Sessions post]() this was the major omission from the lovely box set and in between the release of that and the official release of The Peel Sessions nine years later, I took advantage of my employment in BBC Information & Archives to acquire a copy of Galaxie 500's Peel sessions and burnt them on this CD.
+As I [mentioned on my previous Peel Sessions post](/2023/07/20/my-record-collection-053-galaxie-500-peel-sessions/) this was the major omission from the lovely box set and in between the release of that and the official release of The Peel Sessions nine years later, I took advantage of my employment in BBC Information & Archives to acquire a copy of Galaxie 500's Peel sessions and burnt them on this CD.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-peel-sessions-cdr.jpg" "Galaxie 500 - Peel Sessions (bootleg CDR)" %}
 

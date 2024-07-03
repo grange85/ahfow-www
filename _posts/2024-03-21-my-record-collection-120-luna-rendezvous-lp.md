@@ -32,7 +32,7 @@ I must admit that I was a little cool on the artwork for Rendezvous on release, 
 Have I already done a ranking of Luna's LP covers? Probably not, so here goes.
 
 1. Penthouse - photo by Ted Croner /  _I adore Ted Croner's grainy night shots of NYC_.
-2. Lunafied - photo Alberdo Morell /  _A gorgeous [camera obscura]() photo - I emailed Dean to find out if it was going to have a physical release because the sleeve was so beautiful... it took 12 years but did... eventually_.
+2. Lunafied - photo Alberdo Morell /  _A gorgeous camera obscura photo - I emailed Dean to find out if it was going to have a physical release because the sleeve was so beautiful... it took 12 years but did... eventually_.
 3. Best of Luna - illustration by Adrian Tomine / _I was a fan of Tomine from way before this so having his art turn up on a Luna disc was a treat_.
 4. Rendezvous - photo by Chas Ray Krider.
 5. Bewitched -  / _The reissue cover is lovely - it's baffling that someone thought that the original sleeve was better_.

@@ -29,7 +29,7 @@ The single was released in August 2013 by Sonic Cathedral and came packaged in a
 
 As I menetioned on [an earlier post](/2024/03/14/my-record-collection-118-dean-wareham-emancipated-hearts-test-pressing/) _Love is Colder Than Death_ was named after a Rainer Werner Fassbinder film that I described as "grubby and over stylised" - Dean wasn't that much of a fan of the film either... he [told Pitchfork](https://pitchfork.com/news/52051-listen-dean-wareham-galaxie-500-luna-shares-new-single-love-is-colder-than-death/) that "\[i\]t's not a great film, but is a memorable title".
 
-This is the only physical release of Dean's cover of _She Went Walking in the Rain_ - the original was on Cheval Sombre's second LP [Mad Love]() and there's also a [fantastic live version](https://chevalsombre.bandcamp.com/track/she-went-walking-in-the-rain) on the Cheval Sombre / Sonic Boom [live at St Pancras Old Church](https://chevalsombre.bandcamp.com/album/cheval-sombre-with-sonic-boom-recorded-live-at-st-pancras-old-church-london) album.
+This is the only physical release of Dean's cover of _She Went Walking in the Rain_ - the original was on Cheval Sombre's second LP [Mad Love](https://chevalsombre.bandcamp.com/album/mad-love-2) and there's also a [fantastic live version](https://chevalsombre.bandcamp.com/track/she-went-walking-in-the-rain) on the Cheval Sombre / Sonic Boom [live at St Pancras Old Church](https://chevalsombre.bandcamp.com/album/cheval-sombre-with-sonic-boom-recorded-live-at-st-pancras-old-church-london) album.
 
  - *Catalogue Number:* AHFOW 11/042
  - *Artist:* Dean Wareham

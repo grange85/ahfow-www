@@ -51,7 +51,7 @@ There's quite a lot I could write about this release but most of it would be lif
      - The catalogue numbers start KAR - which was the number plate of No.6's [Lotus Super Seven](https://www.hagerty.co.uk/articles/the-cars-of-the-prisoner-at-50-years/)
      - Since we never get to meet No.1 there is no KAR-001.
      - In an impressive bit of forethought No.6 (KAR-006) was saved for this release.
-     - I visited Portmerion where The Prisoner was filmed, on a family holiday when I was about 14 and wore a No.6 badge for the next few years.
+     - I visited Portmeirion where The Prisoner was filmed, on a family holiday when I was about 14 and wore a No.6 badge for the next few years.
  - The comp starts from KAR-011 and is selective rather than complete.
  - Far too much of _DISQUE ONE_ is taken up with the awful Dwarves and their tiresome punk rock.
  - The best non Dean track on the album is Tindersticks _Marbles_

@@ -22,7 +22,7 @@ Apartment Life was the second LP by Ivy and was released in 1997. It features De
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/ivy-apartment-life.jpg" "Ivy - Apartment Life" %}
 
-When this album was released the [Galaxie 500 Mailing List]() was probably at the height of it's activity... it had around 400 members for most of the late 90s and early 00s, which might seem puny by modern social-media numbers&dagger;, but engagement was much greater. This meant that when Dean played guitar on one track by a, not all that big, dreampop band, I'd get to hear about it, and buy a copy.
+When this album was released the _Galaxie 500 Mailing List_ was probably at the height of it's activity... it had around 400 members for most of the late 90s and early 00s, which might seem puny by modern social-media numbers&dagger;, but engagement was much greater. This meant that when Dean played guitar on one track by a, not all that big, dreampop band, I'd get to hear about it, and buy a copy.
 
 <!--more-->
 

@@ -54,5 +54,3 @@ A few years back Naomi sent me one of the T-shirts Macioce mentioned and said "y
  - *Notes:* Translucent yellow vinyl, given away with the DVD (some were later sold separately).
  - *Packaging:* Wrap around sleeve
  - *Format:* 
- - Bought...
- - [Buy 'Snowstorm / Pictures' on Bandcamp]()

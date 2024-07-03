@@ -63,5 +63,4 @@ _there are definitely more, but suspect they don't get listened to very often!_
  - *Packaging:* Tri-fold sleeve
  - *Format:* Triple LP
  - Bought from Cargo for £30.99 + £3.07 postage.
- - [Buy 'Swan Song Series' on Bandcamp]()
 
