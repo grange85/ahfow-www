@@ -1,15 +1,15 @@
 ---
 layout: post
-title: '#166: Guitarrorists = Player + Instruement (2xLP)'
+title: "#166: Guitarrorists = Player + Instrument (2xLP)"
 sitemap: true
-series-title: My record collection 
+series-title: My record collection
 catno: 12/079
 author:
   display_name: Andy
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/guitarrorists-2-lp.jpg
 categories:
 - dean wareham
 - my record collection
@@ -17,18 +17,27 @@ tags:
 - guitarrorists
 - various artists
 - no.6 records
+date: 2024-08-29 00:00 +0000
 ---
 When I posted about the CD version of Guitarrorists back near the beginning of this series (18 months ago!) I was rather casually dismissive of it, just saying that I don't listen to it much and clearly didn't really have the inclination to post much more than that. This time round I felt I should try harder...
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/guitarrorists-2-lp.jpg" "Gutarrorists = Player + Instrument (2xLP)" %}
 
-... but, it's hard work - too much of it is lacking in melody and beauty, too much of it sound like _exercises_ or _experiments_ and therefore are a little hard on the ears. I tried, and a few beauties do sneak in, but not enough and some of the less beautiful ones overstay their welcome - I can just about tolerate a 90 second experiment but any that are over three minutes are trying my patience.
+... but, it's hard work - too much of it is lacking in melody and beauty, too much of it sound like _exercises_ or _experiments_ and therefore are a little hard on the ears. I tried, and a few beauties do sneak in, but not enough and even some of the nicer ones overstay their welcome - I can just about tolerate a 90 second experiment but any that are over three minutes are trying my patience.
 
 I didn't think to take notes as I listened so, I guess I need to listen to it again to identify the ones I liked. That'll be me listening to the whole thing three times in 18 months, more times than the 30 years previously I suspect!
 
+Here are a few that I rather liked - there may be others... but not that many!
 
+ - I Really Can't Say - Kathy Korniloff
+ - Mariposa - Marc Gentry
+ - West Broadway - Dean Wareham
+ - Dark Field - Nick Saloman
+ - Here - Lee Ranaldo (although at five and a half minutes it's way too long!)
 
-It does earn points however for being in a gatefold sleeve and therefore has sleeve notes and credits that are actually big enough to read - here's what it says about Dean's contribution:
+_(basically, if you want my love steer clear of that distortion pedal)_
+
+The LP does however earn points however for being in a gatefold sleeve and therefore has sleeve notes and credits that are actually big enough to read - here's what it says about Dean's contribution:
 
 <blockquote>
 <em>Dean Wareham</em> has traded in the galaxie 500 for a clean, quiet electric car and enrolled in an abnormal psych. course at n.y.u.
