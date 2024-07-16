@@ -1,7 +1,6 @@
 ---
 layout: post
-title: '#168: 2000-07-14: The Knitting Factory, New York, NY,
-  USA (MC)'
+title: '#168: Luna @ The Knitting Factory, New York - 14th July 2000 (MC)'
 sitemap: true
 series-title: My record collection 
 catno: 16/023
