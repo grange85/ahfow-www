@@ -35,8 +35,6 @@ Here are a few that I rather liked - there may be others... but not that many!
  - Dark Field - Nick Saloman
  - Here - Lee Ranaldo (although at five and a half minutes it's way too long!)
 
-_(basically, if you want my love steer clear of that distortion pedal)_
-
 The LP does however earn points however for being in a gatefold sleeve and therefore has sleeve notes and credits that are actually big enough to read - here's what it says about Dean's contribution:
 
 <blockquote>
@@ -48,6 +46,49 @@ The LP does however earn points however for being in a gatefold sleeve and there
 
 I also discovered, as I slid out the record from my collection that the spine gives the album a longer title - _Guitarrorists = Player + Instrument_ (I went and checked the CD spine but that only gave the album a one word title).
 
+As a bonus of something sweeter - here are the short guitar workouts of familiar tunes that Dean provided to Swart Amps back in 2007
+
+{% ahfowaudio {
+"audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/swart/01-dean-wareham-22-minutes.mp3",
+"audiocap": "22 Minutes (Swart Atomic Space Tone mp3s)",
+"sourceurl": "",
+"sourcecap": ""
+} %}
+
+{% ahfowaudio {
+"audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/swart/02-dean-wareham-cindy-tremelo.mp3",
+"audiocap": "Cindy Tremelo (Swart Atomic Space Tone mp3s)",
+"sourceurl": "",
+"sourcecap": ""
+} %}
+
+{% ahfowaudio {
+"audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/swart/03-dean-wareham-smoky-eyes.mp3",
+"audiocap": "Smoky Eyes (Swart Atomic Space Tone mp3s)",
+"sourceurl": "",
+"sourcecap": ""
+} %}
+
+{% ahfowaudio {
+"audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/swart/04-dean-wareham-fold-in-two.mp3",
+"audiocap": "Fold in Two (Swart Atomic Space Tone mp3s)",
+"sourceurl": "",
+"sourcecap": ""
+} %}
+
+{% ahfowaudio {
+"audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/swart/05-dean-wareham-lily-tiger.mp3",
+"audiocap": "Lily Tiger (Swart Atomic Space Tone mp3s)",
+"sourceurl": "",
+"sourcecap": ""
+} %}
+
+{% ahfowaudio {
+"audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/swart/06-dean-wareham-poupee.mp3",
+"audiocap": "Poupee (Swart Atomic Space Tone mp3s)",
+"sourceurl": "",
+"sourcecap": ""
+} %}
 
  - *Catalogue Number:* AHFOW 12/079
  - *Artist:* Various Artists
