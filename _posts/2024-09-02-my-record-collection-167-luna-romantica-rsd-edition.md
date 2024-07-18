@@ -3,7 +3,7 @@ layout: post
 title: "#167: Luna - Romantica (RSD edition)"
 sitemap: true
 series-title: My record collection
-catno:
+catno: 12/047
 author:
   display_name: Andy
   login: admin
