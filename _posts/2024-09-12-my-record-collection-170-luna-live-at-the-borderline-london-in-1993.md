@@ -21,7 +21,7 @@ tags:
 - bootleg
 date: 2024-09-12 00:00 +0000
 ---
-I've written about this show often so apologies for the rehash, but over time this has become one of my favourite Luna show. I made the recording on my [SONY DC6 Walkman Professional](https://walkman.land/sony/wm-d6c) although the mic was the SONY tie clip mic that came with my [previous Walkman recorder](https://walkman.land/sony/WM-F2) - sadly both recorders have passed away... although [I still have the mic](https://flic.kr/p/2q4LrGb).
+I've written about this show often so apologies for the rehash, but over time this has become one of my favourite Luna shows. I made the recording on my [SONY D6C Walkman Professional](https://walkman.land/sony/wm-d6c) although the mic was the SONY tie clip mic that came with my [previous Walkman recorder](https://walkman.land/sony/WM-F2) - sadly both recorders have passed away... although [I still have the mic](https://flic.kr/p/2q4LrGb).
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-borderline-1993-cassette.jpg" "Luna @ The Borderline cassette" %}
 
