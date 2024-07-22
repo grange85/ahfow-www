@@ -40,7 +40,7 @@ The copies with booklets however sold out fairly quickly, so here is a [PDF of t
 
 I _hosted_ a listening party on Twitter on release day, although suspect it was just me listening - [here's what I tweeted](/articles/2019-on-fire-30-listening-party/).
 
-You can still listen to and buy (for pay what you want) the album [on Bandcamp](https://aheadfullofwishes.bandcamp.com/album/on-fire-30) or buy the CD (although shipping costs are ridiculous at the moment so maybe [get in touch with me](/about/) if you want to _negotiate_ a trade or a deal! 
+You can still listen to and buy (for pay what you want) the album [on Bandcamp](https://aheadfullofwishes.bandcamp.com/album/on-fire-30) or buy the CD, although shipping costs are ridiculous at the moment so maybe [get in touch with me](/about/) if you want to _negotiate_ a trade or a deal! 
 
  - *Catalogue Number:* AHFOW 10/157
  - *Artist:* Various
