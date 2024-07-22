@@ -38,7 +38,7 @@ Contributors were "paid" in copies of the finished article.
 
 The copies with booklets however sold out fairly quickly, so here is a [PDF of the booklet](https://media.fullofwishes.co.uk/00-misc/ahfow-30/on-fire-30-booklet.pdf).
 
-I _hosted_ a listening party on Twitter on release day, although suspect it was just me listening - [here's what I tweeted](http://moonshot.local:4040/articles/2019-on-fire-30-listening-party/).
+I _hosted_ a listening party on Twitter on release day, although suspect it was just me listening - [here's what I tweeted](/articles/2019-on-fire-30-listening-party/).
 
 You can still listen to and buy (for pay what you want) the album [on Bandcamp](https://aheadfullofwishes.bandcamp.com/album/on-fire-30) or buy the CD (although shipping costs are ridiculous at the moment so maybe [get in touch with me](/about/) if you want to _negotiate_ a trade or a deal! 
 
