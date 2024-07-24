@@ -18,11 +18,11 @@ tags:
 - andy warhol
 - screen tests
 ---
-This is my second copy of the double CD edition of 13 Most Beautiful but since [the first](/2024/01/08/my-record-collection-099-dean-britta-13-most-beautiful-2xcd/) was still in its shrink wrap this is the one I'll actually get to listen to!
+This is my second copy of the double CD edition of 13 Most Beautiful but since [the first](/2024/01/08/my-record-collection-099-dean-britta-13-most-beautiful-2xcd/) was still in its shrink wrap this is the one I'll actually get to listen to! 
 
 {% ahfowimage "url" "caption" %}
 
-It's odd but I often don't think of this as a Dean & Britta album, maybe because a soundtrack album is more about the film it soundtracks, although that seems less the case with this one since the whole film/presentation is episodic, and each _episode_ requires a track the exact length of the episode, and each episode is of a fairly consistent length - as long as a 100ft roll of 16mm film.
+Because this is, in theory at least, a soundtrack album it should be about the film it soundtracks, although that seems less the case with this one since the whole film/presentation is episodic, and each _episode_ requires a track the exact length of the episode, and each episode is of a fairly consistent length - as long as a 100ft roll of 16mm film.
 
 I was a projectionist for about 18 months in the late 80s (so long ago) and so I know that...
 
@@ -34,25 +34,39 @@ Warhol projected these slower to extend to around 4 minutes - which I suspect is
 
 So, in theory each of the tracks on 13 Most Beautiful ought to be that long, most are - this is what my DVD suggests:
 
- - Chapter: 01, Length: 00:04:30.500
- - Chapter: 02, Length: 00:04:38.000
- - Chapter: 03, Length: 00:04:18.500
- - Chapter: 04, Length: 00:04:43.000
- - Chapter: 05, Length: 00:04:20.000
- - Chapter: 06, Length: 00:04:31.000
- - Chapter: 07, Length: 00:04:01.500
- - Chapter: 08, Length: 00:04:38.000
- - Chapter: 09, Length: 00:05:12.000
- - Chapter: 10, Length: 00:04:34.500
- - Chapter: 11, Length: 00:04:33.000
- - Chapter: 12, Length: 00:04:43.000
- - Chapter: 13, Length: 00:04:34.400
+ - 01, Ann: 04:30 /  _04:25 on disc 1 of the CD_
+ - 02, Paul: 04:38 /  _04:58 on disc 1 of the CD_
+ - 03, Edie: 04:18 /  _04:47 on disc 1 of the CD_
+ - 04, Billy: 04:43 /  _05:06 on disc 1 of the CD_
+ - 05, Susan: 04:20 /  _04:37 on disc 1 of the CD_
+ - 06, Dennis: 04:31 /  _04:43 on disc 1 of the CD_
+ - 07, Mary: 04:01 /  _04:02 on disc 1 of the CD_
+ - 08, Nico: 04:38 /  _04:51 on disc 1 of the CD_
+ - 09, Freddy: 05:12 /  _05:11 on disc 1 of the CD_
+ - 10, Richard: 04:34 /  _06:24 on disc 1 of the CD_
+ - 11, Ingrid: 04:33 /  _03:52 on disc 1 of the CD_
+ - 12, Lou: 04:43 /  _03:09 on disc 1 of the CD_
+ - 13, Jane: 04:34 /  _04:29 on disc 1 of the CD_
 
-Which, with a bit of leader I guess makes sense, except chapter 9, Freddy Herko, who for some reason over-runs!?
+Which, with a bit of leader I guess makes sense, except chapter 9, Freddy Herko, who for some reason over-runs!? The versions on this CD are mostly remixes, and as you can see often run a different length and the CD version of _Not a Young Man Anymore_ isn't long enough for the film!
 
-However, the album timings are different
+It's odd but I often don't instantly think of this as a Dean & Britta album here are some reasons why:
 
+ - it has been released in different versions with different tracks/mixes/running order
+ - it is heavier on instrumental tracks than their _real albums_
+ - its first release was a DVD
 
+Of course it _is_ a Dean & Britta album... or, is it?!
+
+Track 7 on disc 1 is described as being _Produced, **performed** and mixed by Anthony LaMarca_ - performed?? It's certainly _sung_ by Dean, but _performed_ by Anthony?? Does this make it a _Various Artists_ release??
+
+_Apologies for the random and probably incomprehensible ramblings of this post!_
+
+ - *Catalogue Number:* AHFOW 10/004
+ - *Artist:* Dean & Britta _(or Various Artists)_
+ - *Title:* 13 Most Beautiful: Songs for Andy Warhol's Screen Tests
+ - *Notes:* Double CD edition in card sleeve
+ - *Format:* 2xCD
 
 Previously in [my record collection](/category/my-record-collection):
  - [#162: 13 Most Beautiful... songs for Andy Warhol's Screen Tests (DVD)](/2024/08/15/my-record-collection-162-13-most-beautiful-songs-for-andy-warhol-s-screen-tests-dvd/)
