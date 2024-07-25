@@ -55,6 +55,7 @@ It's odd but I often don't instantly think of this as a Dean & Britta album here
 
  - it has been released in different versions with different tracks/mixes/running order
  - it is heavier on instrumental tracks than their _real albums_
+ - it contains songs/tracks that started life elsewhere
  - its first release was a DVD
 
 Of course it _is_ a Dean & Britta album... or, is it?!
