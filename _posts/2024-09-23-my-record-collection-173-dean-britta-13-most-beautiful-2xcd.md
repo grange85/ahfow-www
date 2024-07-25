@@ -1,15 +1,15 @@
 ---
 layout: post
-title: '#173: Dean & Britta - 13 Most Beautiful (2xCD)'
+title: "#173: Dean & Britta - 13 Most Beautiful (2xCD)"
 sitemap: true
-series-title: My record collection 
+series-title: My record collection
 catno: 10/004
 author:
   display_name: Andy
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-and-britta-13-most-beautiful-2cd-open.jpg
 categories:
 - dean & britta
 - my record collection
@@ -17,10 +17,11 @@ tags:
 - 13 most beautiful
 - andy warhol
 - screen tests
+date: 2024-09-23 00:00 +0000
 ---
 This is my second copy of the double CD edition of 13 Most Beautiful but since [the first](/2024/01/08/my-record-collection-099-dean-britta-13-most-beautiful-2xcd/) was still in its shrink wrap this is the one I'll actually get to listen to! 
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-and-britta-13-most-beautiful-2cd-open.jpg" "Dean & Britta - 13 Most Beautiful" %}
 
 Because this is, in theory at least, a soundtrack album it should be about the film it soundtracks, although that seems less the case with this one since the whole film/presentation is episodic, and each _episode_ requires a track the exact length of the episode, and each episode is of a fairly consistent length - as long as a 100ft roll of 16mm film.
 
@@ -35,18 +36,18 @@ Warhol projected these slower to extend to around 4 minutes - which I suspect is
 So, in theory each of the tracks on 13 Most Beautiful ought to be that long, most are - this is what my DVD suggests:
 
  - 01, Ann: 04:30 /  _04:25 on disc 1 of the CD_
- - 02, Paul: 04:38 /  _04:58 on disc 1 of the CD_
- - 03, Edie: 04:18 /  _04:47 on disc 1 of the CD_
- - 04, Billy: 04:43 /  _05:06 on disc 1 of the CD_
- - 05, Susan: 04:20 /  _04:37 on disc 1 of the CD_
- - 06, Dennis: 04:31 /  _04:43 on disc 1 of the CD_
- - 07, Mary: 04:01 /  _04:02 on disc 1 of the CD_
- - 08, Nico: 04:38 /  _04:51 on disc 1 of the CD_
- - 09, Freddy: 05:12 /  _05:11 on disc 1 of the CD_
- - 10, Richard: 04:34 /  _06:24 on disc 1 of the CD_
- - 11, Ingrid: 04:33 /  _03:52 on disc 1 of the CD_
- - 12, Lou: 04:43 /  _03:09 on disc 1 of the CD_
- - 13, Jane: 04:34 /  _04:29 on disc 1 of the CD_
+ - 02, Paul: 04:38 /  _04:58_
+ - 03, Edie: 04:18 /  _04:47_
+ - 04, Billy: 04:43 /  _05:06_
+ - 05, Susan: 04:20 /  _04:37_
+ - 06, Dennis: 04:31 /  _04:43_
+ - 07, Mary: 04:01 /  _04:02_
+ - 08, Nico: 04:38 /  _04:51_
+ - 09, Freddy: 05:12 /  _05:11_
+ - 10, Richard: 04:34 /  _06:24_
+ - 11, Ingrid: 04:33 /  _03:52_
+ - 12, Lou: 04:43 /  _03:09_
+ - 13, Jane: 04:34 /  _04:29_
 
 Which, with a bit of leader I guess makes sense, except chapter 9, Freddy Herko, who for some reason over-runs!? The versions on this CD are mostly remixes, and as you can see often run a different length and the CD version of _Not a Young Man Anymore_ isn't long enough for the film!
 
