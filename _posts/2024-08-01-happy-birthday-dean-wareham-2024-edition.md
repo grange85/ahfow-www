@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://live.staticflickr.com/65535/52791663954_c4775cae0d_b.jpg
 categories:
 - dean wareham
 - galaxie 500
