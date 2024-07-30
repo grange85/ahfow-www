@@ -50,5 +50,5 @@ Dean comments that the rest of the sentence is _"I really don't know"_ - which a
  - [Buy 'This Is Our Music' on Bandcamp](https://galaxie500.bandcamp.com/album/this-is-our-music)
 
  Previously in [my record collection](/category/my-record-collection/)
-  - [#040: Today / On Fire / This Is Our Music](/2023/06/05/my-record-collection-040-today-on-fire-this-is-our-music/)
   - [#032: Galaxie 500 - This Is Our Music](/2023/05/08/my-record-collection-032-galaxie-500-this-is-our-music/)
+  - [#040: Today / On Fire / This Is Our Music](/2023/06/05/my-record-collection-040-today-on-fire-this-is-our-music/)

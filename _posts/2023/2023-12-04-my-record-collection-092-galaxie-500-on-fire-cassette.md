@@ -40,7 +40,7 @@ In order to accommodate the shape of the CD the front cover photo has more sky a
  - [Buy 'On Fire' on Bandcamp](https://galaxie500.bandcamp.com/album/on-fire)
 
 Previously in [my record collection](/category/my-record-collection):
- - [My record collection #034: Galaxie 500 - On Fire](/2023/05/15/my-record-collection-034-galaxie-500-on-fire/)
- - [My record collection #040: Today / On Fire / This Is Our Music](/2023/06/05/my-record-collection-040-today-on-fire-this-is-our-music/)
+ - [#034: Galaxie 500 - On Fire](/2023/05/15/my-record-collection-034-galaxie-500-on-fire/)
+ - [#040: Today / On Fire / This Is Our Music](/2023/06/05/my-record-collection-040-today-on-fire-this-is-our-music/)
 
  &dagger; I do have a couple of crappy portable cassette players but nothing that is worth the effort!

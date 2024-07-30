@@ -71,8 +71,8 @@ _Apologies for the random and probably incomprehensible ramblings of this post!_
  - *Format:* 2xCD
 
 Previously in [my record collection](/category/my-record-collection):
- - [#162: 13 Most Beautiful... songs for Andy Warhol's Screen Tests (DVD)](/2024/08/15/my-record-collection-162-13-most-beautiful-songs-for-andy-warhol-s-screen-tests-dvd/)
- - [#132: 13 Most Beautiful... songs for Andy Warhol's Screen Tests (DVD)](/2024/05/02/my-record-collection-132-13-most-beautiful-dvd/)
  - [#099: Dean & Britta - 13 Most Beautiful (2xCD)](/2024/01/08/my-record-collection-099-dean-britta-13-most-beautiful-2xcd/)
+ - [#132: 13 Most Beautiful... songs for Andy Warhol's Screen Tests (DVD)](/2024/05/02/my-record-collection-132-13-most-beautiful-dvd/)
+ - [#162: 13 Most Beautiful... songs for Andy Warhol's Screen Tests (DVD)](/2024/08/15/my-record-collection-162-13-most-beautiful-songs-for-andy-warhol-s-screen-tests-dvd/)
 
 

@@ -42,4 +42,4 @@ I sort of love the sleeve, as I might have mentioned before that I'm a bit cool 
 
 Previously in [my record collection](/category/my-record-collection):
  - [#017: Dean & Britta - Quarantine Tapes (white label LP)](/2023/03/16/my-record-collection-017-dean-britta-quarantine-tapes-white-label-lp/)
- - [ #113: Quarantine Tapes (lathe cut box of singles)](/2024/02/26/my-record-collection-113-quarantine-tapes-lathe-cut-box-of-singles/)
+ - [#113: Quarantine Tapes (lathe cut box of singles)](/2024/02/26/my-record-collection-113-quarantine-tapes-lathe-cut-box-of-singles/)

@@ -51,6 +51,6 @@ Here's my [previous post from fifteen years ago](/2009/09/02/mp3-luna-live-in-lo
  - *Format:* MC
 
 Previously in [my record collection](/category/my-record-collection):
- - [#168: Luna @ The Knitting Factory, New York - 14th July 2000 (MC)](/2024/09/05/my-record-collection-168-2000-07-14-the-knitting-factory-new-york-ny-usa-mc/) 
- - [#126: Luna at The Underworld February 1992 (MC)](/2024/04/11/my-record-collection-126-luna-at-the-underworld-february-1992-mc/)
  - [#076: Luna live in Boulder, CO 2000 MC](/2023/10/09/my-record-collection-076-luna-live-in-boulder-co-2000-mc/)
+ - [#126: Luna at The Underworld February 1992 (MC)](/2024/04/11/my-record-collection-126-luna-at-the-underworld-february-1992-mc/)
+ - [#168: Luna @ The Knitting Factory, New York - 14th July 2000 (MC)](/2024/09/05/my-record-collection-168-2000-07-14-the-knitting-factory-new-york-ny-usa-mc/) 

@@ -28,5 +28,5 @@ It was a rather hastily thrown together affair and I never got as much interest 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/pictures/everythings-swirling-3-cover.png" "Everything's Swirling #3 - cover" %}
 
 Previously in [artefacts](/category/artefacts):
- - [Artefacts ~ #035: Everything's Swirling #2 - fanzine to download](https://www.fullofwishes.co.uk/2023/04/05/artefacts-035-everything-s-swirling-2-fanzine-to-download/)
  - [Artefacts ~ #034: Everything's Swirling #1 - fanzine to download](https://www.fullofwishes.co.uk/2021/06/04/artefacts-034-everything-s-swirling-1-fanzine-to-download/)
+ - [Artefacts ~ #035: Everything's Swirling #2 - fanzine to download](https://www.fullofwishes.co.uk/2023/04/05/artefacts-035-everything-s-swirling-2-fanzine-to-download/)
