@@ -28,7 +28,7 @@ Tuli Kupferberg also provided the front cover cartoon (that gives its name to th
 
 <!--more-->
 
-This was the second copy to come into my posession and was given to me by Dean Wareham when I visited his flat in early 2001 - a story I've told many times, most recently in the post in this series about my [LP copy of Luna Live](/2023/06/01/my-record-collection-039-luna-live-lp/).
+This was the second copy to come into my possession and was given to me by Dean Wareham when I visited his flat in early 2001 - a story I've told many times, most recently in the post in this series about my [LP copy of Luna Live](/2023/06/01/my-record-collection-039-luna-live-lp/).
 
 I've only just noticed that the LP has less tracks than my digitsed version - it seems that the CD version had five more tracks on it and someone must have sent a digitised version of the CD.
 

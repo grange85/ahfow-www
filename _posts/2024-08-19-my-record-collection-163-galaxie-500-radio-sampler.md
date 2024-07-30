@@ -19,7 +19,7 @@ tags:
 - radio sampler
 date: 2024-08-19 00:00 +0000
 ---
-I can't remember how this Galaxie 500 _Radio Sampler_ came into my posession, either a fan sent it to me (if so, thanks) or I bought it on eBay - one thing I'm certain of is that I didn't pay £3.99 for it in Our Price which the sticker on the case suggests&dagger;, since it's a promo and wouldn't/shouldn't be sold in a shop and, more pertinently, Our Price went out of business 5 years before Domino put this out.
+I can't remember how this Galaxie 500 _Radio Sampler_ came into my possession, either a fan sent it to me (if so, thanks) or I bought it on eBay - one thing I'm certain of is that I didn't pay £3.99 for it in Our Price which the sticker on the case suggests&dagger;, since it's a promo and wouldn't/shouldn't be sold in a shop and, more pertinently, Our Price went out of business 5 years before Domino put this out.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-radio-sampler-cd.jpg" "Galaxie 500 - Radio Sampler (promo CDS)" %}
 
