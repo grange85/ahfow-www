@@ -1,25 +1,26 @@
 ---
 layout: post
-title: '#174: Galaxie 500 - On Fire / Peel Sessions (2xCD)'
+title: "#174: Galaxie 500 - On Fire / Peel Sessions (2xCD)"
 sitemap: true
-series-title: My record collection 
+series-title: My record collection
 catno: 10/075
 author:
   display_name: Andy
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-on-fire-peel-sesssion-2cd.jpg
 categories:
 - galaxie 500
 - my record collection
 tags:
 - on fire
 - peel sessions
+date: 2024-09-26 00:00 +0000
 ---
 This is another of the lovely Domino double CDs released in 2010, On Fire was packaged with the Peel Sessions and came with a glossy booklet with a short essay by Richard King, Kramer's _fiery breeze_ sleeve notes, and the Byron Coley sleeve notes that I think appear on all three of these releases.
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-on-fire-peel-sesssion-2cd.jpg" "Galaxie 500 - On Fire / Peel Sessions CD" %}
 
 Similar double packs were also released on 20\|20\|20 - with I believe slightly different packaging and I think without the Richard King essay, but I resisted buying those.
 
