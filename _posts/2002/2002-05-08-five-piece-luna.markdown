@@ -1,6 +1,7 @@
 ---
 layout: post
 title: five-piece Luna
+comments: true
 author:
   display_name: Andy
   login: admin
