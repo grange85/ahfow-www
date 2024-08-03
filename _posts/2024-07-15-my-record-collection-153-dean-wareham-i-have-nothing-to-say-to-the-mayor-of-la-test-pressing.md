@@ -4,7 +4,7 @@ title: "#153: Dean Wareham - I Have Nothing to Say to the Mayor of LA (test pres
 sitemap: true
 series-title: My record collection
 catno: 12/085
-comments: true
+comments: false
 author:
   display_name: Andy
   login: admin

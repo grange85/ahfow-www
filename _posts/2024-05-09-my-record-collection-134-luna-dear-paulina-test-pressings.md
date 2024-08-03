@@ -4,7 +4,7 @@ title: "#134: Luna - Dear Paulina test pressings"
 sitemap: true
 series-title: My record collection
 catno: 11/053-057
-comments: true
+comments: false
 github-comments-issueid:
 author:
   display_name: Andy

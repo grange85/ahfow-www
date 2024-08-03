@@ -10,7 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/therealangelcorpuschristi-lp.jpg
 catno: 12/001
-comments: true
+comments: false
 categories:
 - my record collection
 - dean & britta

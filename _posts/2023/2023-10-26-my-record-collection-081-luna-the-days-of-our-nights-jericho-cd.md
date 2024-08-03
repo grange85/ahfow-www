@@ -10,7 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-the-days-of-our-nights-jericho.jpg
 catno: 10/064
-comments: true
+comments: false
 categories:
 - luna
 - my record collection

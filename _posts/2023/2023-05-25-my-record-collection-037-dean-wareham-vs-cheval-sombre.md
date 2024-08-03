@@ -10,7 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-wareham-vs-cheval-sombre.jpg
 catno: 12/027
-comments: true
+comments: false
 categories:
 - dean wareham
 - my record collection

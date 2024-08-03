@@ -9,7 +9,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/emancipated-hearts-cd.jpg
 catno: 10/072
-comments: true
+comments: false
 categories:
 - dean wareham
 - my record collection

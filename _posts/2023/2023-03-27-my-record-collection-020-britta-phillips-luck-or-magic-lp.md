@@ -9,7 +9,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/britta-phillips-luck-or-magic-lp-inner.jpg
 catno: 12/002
-comments: true
+comments: false
 categories:
 - dean & britta
 - my record collection

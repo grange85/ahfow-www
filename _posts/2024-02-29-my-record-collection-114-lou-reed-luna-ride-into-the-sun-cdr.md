@@ -11,7 +11,7 @@ author:
   url: https://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/lou-reed-luna-ride-into-the-sun.jpg
 catno: 10/153
-comments: true
+comments: false
 categories:
 - luna
 - my record collection

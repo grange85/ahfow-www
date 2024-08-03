@@ -4,7 +4,7 @@ title: "#148: Dean Wareham - I Have Nothing to Say to The Mayor of LA (CD)"
 sitemap: true
 series-title: My record collection
 catno: 10/161
-comments: true
+comments: false
 github-comments-issueid: 
 author:
   display_name: Andy

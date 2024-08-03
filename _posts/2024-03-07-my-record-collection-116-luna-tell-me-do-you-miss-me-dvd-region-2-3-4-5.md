@@ -11,7 +11,7 @@ author:
   url: https://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/tell-me-do-you-miss-me-uk-dvd.jpg
 catno: 13/007
-comments: true
+comments: false
 categories:
 - luna
 - my record collection

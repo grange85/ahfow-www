@@ -10,7 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-time-egg-nog.jpg
 catno: 11/003
-comments: true
+comments: false
 categories:
 - my record collection
 - luna

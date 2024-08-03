@@ -10,7 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-blue-thunder-12.jpg
 catno: 12/036
-comments: true
+comments: false
 categories:
 - galaxie 500
 - my record collection

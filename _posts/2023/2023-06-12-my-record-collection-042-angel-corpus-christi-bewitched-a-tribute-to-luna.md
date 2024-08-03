@@ -11,7 +11,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/acc-bewitched-tribute-to-luna.jpg
 catno: 12/088
-comments: true
+comments: false
 categories:
 - my record collection
 - luna

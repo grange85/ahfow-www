@@ -11,7 +11,7 @@ author:
   url: https://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/jule-brown-smoke-and-mirrors.jpg
 catno: 10/140
-comments: true
+comments: false
 categories:
 - my record collection
 - dean wareham

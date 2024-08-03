@@ -4,7 +4,7 @@ title: "#157: Caithlin De Marrais - My Magic City (LP)"
 sitemap: true
 series-title: My record collection
 catno: 12/094
-comments: true
+comments: false
 author:
   display_name: Andy
   login: admin

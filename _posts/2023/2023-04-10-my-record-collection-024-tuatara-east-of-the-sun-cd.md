@@ -9,7 +9,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/tuatara-east-of-the-sun.jpg
 catno: 10/163
-comments: true
+comments: false
 categories:
 - dean wareham
 - my record collection

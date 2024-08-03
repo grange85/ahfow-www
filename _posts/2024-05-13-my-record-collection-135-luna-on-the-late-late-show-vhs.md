@@ -3,7 +3,7 @@ layout: post
 title: "#135: Luna on The Late Late Show, June 2000 (VHS)"
 series-title: My record collection
 catno: 13/014
-comments: true
+comments: false
 sitemap: true
 github-comments-issueid:
 author:

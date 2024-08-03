@@ -10,7 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/bewitched-dean-vs-television.jpg
 catno: 10/019
-comments: true
+comments: false
 categories:
 - luna
 - my record collection

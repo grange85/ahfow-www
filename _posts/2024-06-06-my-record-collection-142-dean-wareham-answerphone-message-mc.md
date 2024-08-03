@@ -4,7 +4,7 @@ title: "#142: Dean Wareham - answerphone message (1997)"
 sitemap: true
 series-title: My record collection
 catno: 16/022
-comments: true
+comments: false
 github-comments-issueid:
 author:
   display_name: Andy

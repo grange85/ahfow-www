@@ -9,7 +9,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-britta-back-numbers-advance-cd.jpg
 catno: 10/036
-comments: true
+comments: false
 categories:
 - dean & britta
 - my record collection

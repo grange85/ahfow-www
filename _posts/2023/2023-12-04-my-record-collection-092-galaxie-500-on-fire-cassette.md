@@ -11,7 +11,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-on-fire-cassette-1.jpg
 catno: 16/001
-comments: true
+comments: false
 categories:
 - my record collection
 - galaxie 500

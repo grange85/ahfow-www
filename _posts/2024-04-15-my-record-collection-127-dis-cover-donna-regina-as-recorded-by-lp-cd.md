@@ -11,7 +11,7 @@ author:
   url: https://www.grange85.co.uk
 image:
 catno: 12/078
-comments: true
+comments: false
 categories:
 - my record collection
 - dean & britta

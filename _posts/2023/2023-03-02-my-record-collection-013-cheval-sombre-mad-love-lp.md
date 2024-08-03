@@ -9,7 +9,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/cheval-sombre-mad-love-lp.jpg
 catno: 12/004
-comments: true
+comments: false
 categories:
 - dean wareham
 - my record collection

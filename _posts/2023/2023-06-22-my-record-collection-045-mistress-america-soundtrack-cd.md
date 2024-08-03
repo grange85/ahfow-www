@@ -10,7 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/mistress-america-sealed-cd.jpg
 catno: 10/105
-comments: true
+comments: false
 categories:
 - dean & britta
 - my record collection

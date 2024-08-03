@@ -4,7 +4,7 @@ title: "#136: Dean & Britta - Quarantine Tapes (CD)"
 sitemap: true
 series-title: My record collection
 catno: 10/162
-comments: true
+comments: false
 github-comments-issueid:
 author:
   display_name: Andy

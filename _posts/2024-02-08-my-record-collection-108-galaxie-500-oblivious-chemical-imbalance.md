@@ -10,7 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-chemical-imbalance-oblivious.jpg
 catno: 11/015
-comments: true
+comments: false
 categories:
 - my record collection
 - galaxie 500

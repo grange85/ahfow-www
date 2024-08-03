@@ -10,7 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/tanya-donnelly-swan-songs.jpg
 catno: 12/072
-comments: true
+comments: false
 categories:
 - my record collection
 - damon & naomi

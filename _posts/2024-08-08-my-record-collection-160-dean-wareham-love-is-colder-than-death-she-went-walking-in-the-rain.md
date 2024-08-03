@@ -5,7 +5,7 @@ title: "#160 - Dean Wareham - Love is Colder Than Death / She Went Walking in th
 sitemap: true
 series-title: My record collection
 catno: 11/042
-comments: true
+comments: false
 author:
   display_name: Andy
   login: admin

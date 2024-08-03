@@ -10,7 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/my-record-collection-galaxie500-tiom-cwnn.jpg
 catno: 12/040
-comments: true
+comments: false
 categories:
 - galaxie 500
 - my record collection

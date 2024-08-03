@@ -10,7 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/pee-shy-yellow-race-car.jpg
 catno: 11/062
-comments: true
+comments: false
 categories:
 - dean wareham
 - my record collection

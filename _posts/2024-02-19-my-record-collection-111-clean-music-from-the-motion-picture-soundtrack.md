@@ -11,7 +11,7 @@ author:
   url: https://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/clean-soundtrack-cd.jpg
 catno: 10/029
-comments: true
+comments: false
 categories:
 - my record collection
 - dean wareham

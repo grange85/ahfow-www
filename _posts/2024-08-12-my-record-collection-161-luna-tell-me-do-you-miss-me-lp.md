@@ -4,7 +4,7 @@ title: "#161: Luna - Tell Me Do You Miss Me (LP)"
 sitemap: true
 series-title: My record collection
 catno:
-comments: true
+comments: false
 author:
   display_name: Andy
   login: admin

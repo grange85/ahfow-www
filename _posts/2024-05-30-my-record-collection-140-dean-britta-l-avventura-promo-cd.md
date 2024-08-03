@@ -4,7 +4,7 @@ title: "#140: Dean & Britta - L'Avventura promo CD"
 sitemap: true
 series-title: My record collection
 catno: 10/039
-comments: true
+comments: false
 github-comments-issueid:
 author:
   display_name: Andy

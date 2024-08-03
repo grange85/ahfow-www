@@ -4,7 +4,7 @@ title: "#168: Luna at The Knitting Factory, New York July 2000"
 sitemap: true
 series-title: My record collection
 catno: 16/023
-comments: true
+comments: false
 author:
   display_name: Andy
   login: admin

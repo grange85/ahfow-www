@@ -4,7 +4,7 @@ title: "#146: Galaxie 500 - Today / Uncollected (2xCD)"
 sitemap: true
 series-title: My record collection
 catno: 10/006
-comments: true
+comments: false
 github-comments-issueid:
 author:
   display_name: Andy

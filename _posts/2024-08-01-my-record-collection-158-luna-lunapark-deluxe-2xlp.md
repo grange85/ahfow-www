@@ -4,7 +4,7 @@ title: "#158: Luna - Lunapark (Deluxe 2xLP)"
 sitemap: true
 series-title: My record collection
 catno: 12/087
-comments: true
+comments: false
 author:
   display_name: Andy
   login: admin

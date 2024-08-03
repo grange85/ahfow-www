@@ -4,7 +4,7 @@ title: "#143: The Pastels - Worlds of Possibility (CDS)"
 sitemap: true
 series-title: My record collection
 catno: 10/151
-comments: true
+comments: false
 github-comments-issueid:
 author:
   display_name: Andy

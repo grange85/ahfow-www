@@ -4,7 +4,7 @@ title: "#133: Galaxie 500 - Camden, The Falcon, 11.02.90 (MC)"
 sitemap: true
 series-title: My record collection
 catno: 16/021
-comments: true
+comments: false
 github-comments-issueid:
 author:
   display_name: Andy

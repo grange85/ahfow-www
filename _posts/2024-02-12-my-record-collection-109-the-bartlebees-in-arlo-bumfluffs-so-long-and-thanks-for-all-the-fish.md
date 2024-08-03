@@ -10,7 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/the-bartlebees-so-long.jpg
 catno: 11/061
-comments: true
+comments: false
 categories:
 - dean wareham
 - my record collection

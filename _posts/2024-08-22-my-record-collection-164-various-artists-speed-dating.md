@@ -4,7 +4,7 @@ title: "#164: Various artists - Speed Dating"
 sitemap: true
 series-title: My record collection
 catno: 10/076
-comments: true
+comments: false
 author:
   display_name: Andy
   login: admin

@@ -10,7 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/the-squid-and-the-whale.jpg
 catno: 10/100
-comments: true
+comments: false
 categories:
 - dean & britta
 - dean wareham

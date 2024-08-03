@@ -4,7 +4,7 @@ title: "#169: What Else Do You Do (Shimmy Disc Europe LP)"
 sitemap: true
 series-title: My record collection
 catno: 12/075
-comments: true
+comments: false
 author:
   display_name: Andy
   login: admin

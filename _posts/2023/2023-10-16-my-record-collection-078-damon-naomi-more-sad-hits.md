@@ -10,7 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-more-sad-hits-cd.jpg
 catno: 10/118
-comments: true
+comments: false
 categories:
 - damon & naomi
 - my record collection
