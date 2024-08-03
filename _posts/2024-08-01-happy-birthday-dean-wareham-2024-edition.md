@@ -4,7 +4,7 @@ title: Happy birthday Dean Wareham (2024 edition)
 sitemap: true
 series-title:
 catno:
-comments: false
+comments: true
 author:
   display_name: Andy
   login: admin
