@@ -4,6 +4,7 @@ title: "#138: Dean Wareham and Cheval Sombre - Along The Santa Fe Trail"
 sitemap: true
 series-title: My record collection
 catno: 11/073
+comments: true
 github-comments-issueid:
 author:
   display_name: Andy

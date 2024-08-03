@@ -11,6 +11,7 @@ author:
   url: https://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-underworld-1992-mc.jpg
 catno: 16/015
+comments: true
 categories:
 - my record collection
 - luna

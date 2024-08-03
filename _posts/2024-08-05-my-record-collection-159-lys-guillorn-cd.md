@@ -4,6 +4,7 @@ title: "#159: Lys Guillorn (CD)"
 sitemap: true
 series-title: My record collection
 catno: 10/164
+comments: true
 author:
   display_name: Andy
   login: admin

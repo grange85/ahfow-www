@@ -10,6 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-something-in-the-air-sonic-cathedral.jpg
 catno: 11/076
+comments: true
 categories:
 - luna
 - my record collection

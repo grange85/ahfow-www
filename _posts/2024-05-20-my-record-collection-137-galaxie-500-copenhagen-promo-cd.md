@@ -4,6 +4,7 @@ title: "#137: Galaxie 500 - Copenhagen (promo CD)"
 sitemap: true
 series-title: My record collection
 catno: 10/008
+comments: true
 github-comments-issueid:
 author:
   display_name: Andy

@@ -10,6 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/naomi-yang-never-be-a-punching-bag-cdr.jpg
 catno: 10/165
+comments: true
 categories:
 - damon & naomi
 - my record collection

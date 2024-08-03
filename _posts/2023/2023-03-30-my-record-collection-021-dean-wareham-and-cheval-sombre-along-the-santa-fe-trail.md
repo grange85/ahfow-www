@@ -9,6 +9,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-cheval-santa-fe-trail-single.jpg
 catno: 11/072
+comments: true
 categories:
 - dean wareham
 - my record collection

@@ -10,6 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-and-britta-mistress-america-cd-opened.jpg
 catno: 10/127
+comments: true
 categories:
 - dean & britta
 - my record collection

@@ -4,6 +4,7 @@ title: "#166: Guitarrorists = Player + Instrument (2xLP)"
 sitemap: true
 series-title: My record collection
 catno: 12/079
+comments: true
 author:
   display_name: Andy
   login: admin

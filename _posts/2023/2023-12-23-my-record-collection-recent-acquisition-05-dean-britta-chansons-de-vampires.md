@@ -12,6 +12,7 @@ author:
   url: https://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-and-britta-chansons-de-vampires.jpg
 catno: 11/082
+comments: true
 categories:
 - my record collection
 - dean & britta

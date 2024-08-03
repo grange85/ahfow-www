@@ -12,6 +12,7 @@ author:
   url: https://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-wareham-live-at-st-pancras-x-3.jpg
 catno: 12/095-0097
+comments: true
 categories:
 - dean wareham
 - my record collection

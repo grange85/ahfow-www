@@ -11,6 +11,7 @@ author:
   url: https://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-britta-sonic-souvenirs.jpg
 catno: 10/058
+comments: true
 categories:
 - dean & britta
 - my record collection

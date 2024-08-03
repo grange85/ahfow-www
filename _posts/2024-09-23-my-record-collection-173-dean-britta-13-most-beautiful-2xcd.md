@@ -4,6 +4,7 @@ title: "#173: Dean & Britta - 13 Most Beautiful (2xCD)"
 sitemap: true
 series-title: My record collection
 catno: 10/004
+comments: true
 author:
   display_name: Andy
   login: admin

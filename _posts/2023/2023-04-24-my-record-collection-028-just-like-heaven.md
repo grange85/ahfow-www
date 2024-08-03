@@ -9,6 +9,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/just-like-heaven-tribute-to-the-cure.jpg
 catno: 10/133
+comments: true
 categories:
 - dean & britta
 - my record collection

@@ -9,6 +9,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-pierre-etoile-cd.jpg
 catno: 10/016
+comments: true
 categories:
 - damon & naomi
 - my record collection

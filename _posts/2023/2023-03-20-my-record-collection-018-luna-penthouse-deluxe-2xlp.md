@@ -9,6 +9,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-penthouse-deluxe-lp.jpg
 catno: 12/058
+comments: true
 categories:
 - luna
 - my record collection

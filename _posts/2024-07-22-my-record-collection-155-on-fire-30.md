@@ -4,6 +4,7 @@ title: "#155: On Fire | 30"
 sitemap: true
 series-title: My record collection
 catno: 10/157
+comments: true
 author:
   display_name: Andy
   login: admin

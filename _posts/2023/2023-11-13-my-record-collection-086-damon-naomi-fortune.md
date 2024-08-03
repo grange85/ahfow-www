@@ -11,6 +11,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-fortune-lp.jpg
 catno: 12/012
+comments: true
 categories:
 - damon & naomi
 - my record collection

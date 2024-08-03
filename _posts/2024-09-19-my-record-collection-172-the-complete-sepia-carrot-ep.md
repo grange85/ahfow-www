@@ -4,6 +4,7 @@ title: "#172: The Complete Sepia Carrot EP"
 sitemap: true
 series-title: My record collection
 catno: 11/026
+comments: true
 author:
   display_name: Andy
   login: admin

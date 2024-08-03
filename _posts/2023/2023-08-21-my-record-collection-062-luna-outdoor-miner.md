@@ -10,6 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-outdoor-miner.jpg
 catno: 11/009
+comments: true
 categories:
 - luna
 - my record collection

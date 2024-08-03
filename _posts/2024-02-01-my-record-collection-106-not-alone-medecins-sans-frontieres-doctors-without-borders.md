@@ -10,6 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-not-alone.jpg
 catno: 10/080
+comments: true
 categories:
 - my record collection
 - damon & naomi

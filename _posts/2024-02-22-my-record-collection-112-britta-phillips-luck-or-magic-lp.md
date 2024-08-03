@@ -11,6 +11,7 @@ author:
   url: https://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/britta-luck-or-magic.jpg
 catno: 12/003
+comments: true
 categories:
 - dean wareham
 - my record collection

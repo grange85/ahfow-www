@@ -10,6 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-202020-2009-reissues.jpg
 catno: 12/033
+comments: true
 categories:
 - galaxie 500
 - my record collection

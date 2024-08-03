@@ -10,6 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-wareham-luna-demos.jpg
 catno: 12/026
+comments: true
 categories:
 - dean wareham
 - luna

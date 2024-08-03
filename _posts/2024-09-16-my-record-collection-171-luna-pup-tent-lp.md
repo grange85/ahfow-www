@@ -4,6 +4,7 @@ title: "#171: Luna - Pup Tent (LP)"
 sitemap: true
 series-title: My record collection
 catno: 12/050
+comments: true
 author:
   display_name: Andy
   login: admin

@@ -9,6 +9,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/romantica-lp.jpg
 catno: 12/057
+comments: true
 categories:
 - luna
 - my record collection

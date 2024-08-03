@@ -10,6 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-wareham-anesthesia-12.jpg
 catno: 12/021
+comments: true
 categories:
 - dean wareham
 - my record collection

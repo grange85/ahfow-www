@@ -10,6 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/cheval-sombre-self-titled-and-sealed.jpg
 catno: 10/141
+comments: true
 categories:
 - dean & britta
 - my record collection

@@ -11,6 +11,7 @@ author:
   url: https://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-rendezvous-promo.jpg
 catno: 10/001
+comments: true
 categories:
 - luna
 - my record collection

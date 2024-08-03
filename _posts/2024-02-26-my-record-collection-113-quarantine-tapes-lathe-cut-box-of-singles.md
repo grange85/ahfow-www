@@ -11,6 +11,7 @@ author:
   url: https://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/quarantine-tapes-box.jpg
 catno: 11/078
+comments: true
 categories:
 - dean & britta
 - my record collection

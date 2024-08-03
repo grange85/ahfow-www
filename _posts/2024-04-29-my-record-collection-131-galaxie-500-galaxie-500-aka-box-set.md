@@ -11,6 +11,7 @@ author:
   url: https://www.grange85.co.uk
 image:
 catno: 10/066
+comments: true
 categories:
 - my record collection
 - galaxie 500

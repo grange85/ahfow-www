@@ -10,6 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/the-days-of-our-nights-lp-reissue.jpg
 catno: 12/089
+comments: true
 categories:
 - luna
 - my record collection

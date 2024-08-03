@@ -10,6 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/my-record-collection-dab-ikiwm.jpg
 catno: 11/038
+comments: true
 categories:
 - dean & britta
 - my record collection

@@ -10,6 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/cheval-sombre-mad-love-cd-live-cass.jpg
 catno: 10/143
+comments: true
 categories:
 - my record collection
 - dean wareham

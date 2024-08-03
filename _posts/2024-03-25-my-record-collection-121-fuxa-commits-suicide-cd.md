@@ -11,6 +11,7 @@ author:
   url: https://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/fuxa-commits-suicide.jpg
 catno: 10/132
+comments: true
 categories:
 - dean wareham
 - my record collection

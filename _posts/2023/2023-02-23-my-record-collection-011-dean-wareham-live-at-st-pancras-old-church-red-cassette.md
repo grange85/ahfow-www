@@ -9,6 +9,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dw-live-at-st-pancras-red-mc.jpg
 catno: 16/007
+comments: true
 categories:
 - dean wareham
 - my record collection

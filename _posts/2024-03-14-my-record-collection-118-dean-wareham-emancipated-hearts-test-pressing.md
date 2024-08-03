@@ -11,6 +11,7 @@ author:
   url: https://www.grange85.co.uk
 imageurl:
 catno: 12/024
+comments: true
 categories:
 - dean wareham
 - my record collection

@@ -10,6 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/britta-and-kramer-nocturnes.jpg
 catno: 11/080
+comments: true
 categories:
 - my record collection
 - dean & britta

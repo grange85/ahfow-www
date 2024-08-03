@@ -11,6 +11,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-bobby-peru-7.jpg
 catno: 11/011
+comments: true
 categories:
 - luna
 - my record collection

@@ -10,6 +10,7 @@ author:
 date: 2023-01-20
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/pierre-etoile-spinning-2023.jpg
 catno: 12/007 
+comments: true
 categories:
  - damon & naomi
  - my record collection

@@ -11,6 +11,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/my-record-collection-shapir-o-rama.jpg
 catno: 12/071
+comments: true
 categories:
 - my record collection
 - dean wareham

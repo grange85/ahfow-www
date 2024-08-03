@@ -9,6 +9,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-winkles-1989-cdr.jpg
 catno: 10/154
+comments: true
 categories:
 - galaxie 500
 - my record collection

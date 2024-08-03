@@ -9,6 +9,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/cagney-and-lacee-time-btw-single.jpg
 catno: 11/046
+comments: true
 categories:
 - dean wareham
 - my record collection

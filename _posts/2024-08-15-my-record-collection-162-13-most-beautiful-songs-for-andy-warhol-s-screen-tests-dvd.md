@@ -4,6 +4,7 @@ title: "#162: 13 Most Beautiful... songs for Andy Warhol's Screen Tests (DVD)"
 sitemap: true
 series-title: My record collection
 catno: 13/003
+comments: true
 author:
   display_name: Andy
   login: admin

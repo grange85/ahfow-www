@@ -9,6 +9,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/music-view-187-188-cd.jpg
 catno: 10/144
+comments: true
 categories:
 - luna
 - my record collection

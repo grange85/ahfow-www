@@ -11,6 +11,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-a-sky-record-lp.jpg
 catno: 12/081
+comments: true
 categories:
 - my record collection
 - damon & naomi

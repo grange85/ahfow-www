@@ -4,6 +4,7 @@ title: "#152: Luna - Dear Diary / Sweet Child o' Mine (promo CD)"
 sitemap: true
 series-title: My record collection
 catno: 10/007
+comments: true
 author:
   display_name: Andy
   login: admin

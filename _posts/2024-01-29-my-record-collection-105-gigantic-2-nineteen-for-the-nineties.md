@@ -10,6 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-mm-gigantic-2.jpg
 catno: 10/014
+comments: true
 categories:
 - galaxie 500
 - my record collection

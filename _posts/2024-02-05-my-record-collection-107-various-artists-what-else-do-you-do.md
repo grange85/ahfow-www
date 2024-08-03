@@ -10,6 +10,7 @@ author:
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/what-else-do-you-do.jpg
 catno: 12/076
+comments: true
 categories:
 - dean wareham
 - my record collection

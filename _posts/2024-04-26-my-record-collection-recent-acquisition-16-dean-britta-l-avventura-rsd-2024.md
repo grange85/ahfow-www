@@ -11,6 +11,7 @@ author:
   url: https://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-and-britta-lavventura-rsd2024.jpg
 catno: 12/098
+comments: true
 categories:
 - dean & britta
 - my record collection

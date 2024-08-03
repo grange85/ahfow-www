@@ -11,6 +11,7 @@ author:
   url: https://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/magic-hour-i-had-a-thought-black-vinyl.jpg
 catno: 11/025
+comments: true
 categories:
 - damon & naomi
 - my record collection

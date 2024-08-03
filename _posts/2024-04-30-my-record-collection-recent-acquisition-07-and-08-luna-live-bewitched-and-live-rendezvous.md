@@ -11,6 +11,7 @@ author:
   url: https://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-live-bewitched-live-rendezvous.jpg
 catno: 12/099-100
+comments: true
 categories:
 - my record collection
 - luna

@@ -5,6 +5,7 @@ sitemap: true
 series-title: My record collection
 github-comments-issueid: 
 catno: 10/121
+comments: true
 author:
   display_name: Andy
   login: admin
