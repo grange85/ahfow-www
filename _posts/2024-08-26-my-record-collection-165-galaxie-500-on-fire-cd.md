@@ -4,7 +4,7 @@ title: "#165: Galaxie 500 - On Fire (CD)"
 sitemap: true
 series-title: My record collection
 catno: 10/056
-comments: false
+comments: true
 author:
   display_name: Andy
   login: admin

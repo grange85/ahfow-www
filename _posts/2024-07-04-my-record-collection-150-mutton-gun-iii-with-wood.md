@@ -4,7 +4,7 @@ title: "#150: Mutton Gun - III (with Wood)"
 sitemap: true
 series-title: My record collection
 catno: 10/146
-comments: false
+comments: true
 author:
   display_name: Andy
   login: admin

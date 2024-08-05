@@ -4,7 +4,7 @@ title: "#154: Luna - In The Flesh"
 sitemap: true
 series-title: My record collection
 catno: 11/032
-comments: false
+comments: true
 author:
   display_name: Andy
   login: admin

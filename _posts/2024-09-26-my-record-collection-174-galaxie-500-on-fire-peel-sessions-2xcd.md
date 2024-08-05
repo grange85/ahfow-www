@@ -4,7 +4,7 @@ title: "#174: Galaxie 500 - On Fire / Peel Sessions (2xCD)"
 sitemap: true
 series-title: My record collection
 catno: 10/075
-comments: false
+comments: true
 author:
   display_name: Andy
   login: admin

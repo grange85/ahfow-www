@@ -4,7 +4,7 @@ title: "#175: Galaxie 500 at ULU (VHS)"
 sitemap: true
 series-title: My record collection
 catno: 13/016
-comments: false
+comments: true
 author:
   display_name: Andy
   login: admin

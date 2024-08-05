@@ -4,7 +4,7 @@ title: "#170: Luna live at The Borderline, London in 1993"
 sitemap: true
 series-title: My record collection
 catno: 16/014
-comments: false
+comments: true
 author:
   display_name: Andy
   login: admin

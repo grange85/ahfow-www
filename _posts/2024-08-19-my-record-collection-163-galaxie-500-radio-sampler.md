@@ -4,7 +4,7 @@ title: "#163: Galaxie 500 Radio Sampler"
 sitemap: true
 series-title: My record collection
 catno: 10/107
-comments: false
+comments: true
 author:
   display_name: Andy
   login: admin
