@@ -4,7 +4,7 @@ title: "#178: Damon & Naomi - Terrastock 1997"
 sitemap: true
 comments: true
 series-title: My record collection
-catno: AHFOW 16/016
+catno: 16/016
 author:
   display_name: Andy
   login: admin
