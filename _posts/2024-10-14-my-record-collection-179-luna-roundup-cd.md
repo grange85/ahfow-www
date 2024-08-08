@@ -19,7 +19,7 @@ tags:
 - promo
 date: 2024-10-14 00:00 +0000
 ---
-ROUNDUP was a promotional CD that Luna put out around the time of Romantica and is as such the first Luna "Best of" album.
+ROUNDUP was a promotional CD that Luna put out around the time of Romantica which I guess means that this is the first Luna "Best of" album.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-roundup-and-trudy.jpg" "Luna - ROUNDUP (with Trudy Kockenlocker)" %}
 
@@ -39,7 +39,7 @@ The tracks from Lunapark to Pup Tent are "courtesy of Elektra Entertainment Grou
 
 Dean sent me a handful of these CDs when they were released, around July 2002 with a note on a postcard that read "hope you're doing well. Maybe see you in October. Our manager printed up 500 of these CDs". I gave away a few as end of year survey prizes but still have two copies... the second of which will be making an appearance later.
 
- - *Catalogue Number:*  AHFOW 10/0040
+ - *Catalogue Number:*  AHFOW 10/040
  - *Artist:* Luna
  - *Title:* ROUNDUP
  - *Packaging:* card sleeve
