@@ -62,9 +62,9 @@ Similar double packs were also released on 20\|20\|20 - with I believe slightly 
  - [Buy 'Peel Sessions' on Bandcamp](https://galaxie500.bandcamp.com/album/peel-sessions)
 
 Previously in [my record collection](/category/my-record-collection):
- - [#034: Galaxie 500 - On Fire](http://moonshot.local:4040/2023/05/15/my-record-collection-034-galaxie-500-on-fire/)
- - [#040: Today / On Fire / This Is Our Music](http://moonshot.local:4040/2023/06/05/my-record-collection-040-today-on-fire-this-is-our-music/)
- - [#053: Galaxie 500 - Peel Sessions](http://moonshot.local:4040/2023/07/20/my-record-collection-053-galaxie-500-peel-sessions/)
- - [#080: Galaxie 500 - Peel Sessions (CDR)](http://moonshot.local:4040/2023/10/23/my-record-collection-080-galaxie-500-peel-sessions-cdr/)
- - [#092: Galaxie 500 - On Fire (cassette)](http://moonshot.local:4040/2023/12/04/my-record-collection-092-galaxie-500-on-fire-cassette/)
- - [#165: Galaxie 500 - On Fire (CD)](http://moonshot.local:4040/2024/08/26/my-record-collection-165-galaxie-500-on-fire-cd/)
+ - [#034: Galaxie 500 - On Fire](/2023/05/15/my-record-collection-034-galaxie-500-on-fire/)
+ - [#040: Today / On Fire / This Is Our Music](/2023/06/05/my-record-collection-040-today-on-fire-this-is-our-music/)
+ - [#053: Galaxie 500 - Peel Sessions](/2023/07/20/my-record-collection-053-galaxie-500-peel-sessions/)
+ - [#080: Galaxie 500 - Peel Sessions (CDR)](/2023/10/23/my-record-collection-080-galaxie-500-peel-sessions-cdr/)
+ - [#092: Galaxie 500 - On Fire (cassette)](/2023/12/04/my-record-collection-092-galaxie-500-on-fire-cassette/)
+ - [#165: Galaxie 500 - On Fire (CD)](/2024/08/26/my-record-collection-165-galaxie-500-on-fire-cd/)
