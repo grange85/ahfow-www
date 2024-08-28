@@ -14,6 +14,7 @@ image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-britta
 categories:
 - my record collection
 - dean wareham
+- lost tracks
 tags:
 - britta phillips
 - robyn hitchcock
@@ -25,7 +26,7 @@ This is a lovely split single released by fab Taiwan based label _Formosa Punk_ 
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-britta-love-fallin-in-love-black.jpg" "Dean Wareham / Britta Phillips split single" %}
 
-Love later appeared on the digital-only single of The Dancer Disappears which was released around the same time by Sonic Cathedral (there may have been CDR promos of this but I don't have one, so I'm going to call this the **only** physical release of this track which makes this a _lost track_:
+Love later appeared on the digital-only single of The Dancer Disappears which was released around the same time by Sonic Cathedral, there may have been CDR promos of this but I don't have one, so I'm going to call this the **only** physical release of this which makes this a _lost track_:
 
 {% ahfowaudio {
 "audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/01-dean-wareham-love.mp3",
