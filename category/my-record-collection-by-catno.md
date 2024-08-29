@@ -19,10 +19,12 @@ See the _my record collection_ posts in [date order](/category/my-record-collect
   <ul>
     {%- for post in sortedposts -%}
     {% if post.catno %}
+    {% for catnoitem in post.catno %}
         <li>
-          <span>{{- post.catno -}}</span>
+          <span>{{- catnoitem -}}</span>
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </li>
+    {% endfor %}
     {% endif %}
     {%- endfor -%}
   </ul>
