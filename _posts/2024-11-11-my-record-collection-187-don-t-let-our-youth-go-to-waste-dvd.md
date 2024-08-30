@@ -1,9 +1,9 @@
 ---
 layout: post
-title: '#187: Don''t Let Our Youth Go to Waste (DVD)'
+title: "#187: Don't Let Our Youth Go to Waste (DVD)"
 sitemap: true
 comments: true
-series-title: My record collection 
+series-title: My record collection
 catno: 13/005
 author:
   display_name: Andy
@@ -17,6 +17,7 @@ categories:
 tags:
 - don't let our youth go to waste
 - dvd
+date: 2024-11-11 00:00 +0000
 ---
 This is a sealed copy of the lovely double DVD of video that the band released in 2004, it was given to me as a gift and, since I already had a copy, stayed in it's shrink wrap - as an archival copy - it is after all the only Galaxie 500 release that I get a name check on!
 
