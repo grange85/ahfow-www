@@ -9,7 +9,10 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-202020-2009-reissues.jpg
-catno: 12/033
+catno: 
+ - 12/033
+ - 12/035
+ - 12/039
 comments: false
 categories:
 - galaxie 500

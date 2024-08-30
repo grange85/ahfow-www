@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/grange85/no-style-please
-  revision: 3f05f12f94c44d114b35b6cd93a2b32e8888576d
+  revision: 5d0cb4cd09170406393cf1549587e338b94214ca
   specs:
     no-style-please (0.4.7)
       jekyll (~> 4.3.3)
@@ -33,22 +33,22 @@ GEM
     ffi (1.17.0-x86_64-linux-gnu)
     ffi (1.17.0-x86_64-linux-musl)
     forwardable-extended (2.6.0)
-    google-protobuf (4.27.4)
+    google-protobuf (4.28.0)
       bigdecimal
       rake (>= 13)
-    google-protobuf (4.27.4-aarch64-linux)
+    google-protobuf (4.28.0-aarch64-linux)
       bigdecimal
       rake (>= 13)
-    google-protobuf (4.27.4-arm64-darwin)
+    google-protobuf (4.28.0-arm64-darwin)
       bigdecimal
       rake (>= 13)
-    google-protobuf (4.27.4-x86-linux)
+    google-protobuf (4.28.0-x86-linux)
       bigdecimal
       rake (>= 13)
-    google-protobuf (4.27.4-x86_64-darwin)
+    google-protobuf (4.28.0-x86_64-darwin)
       bigdecimal
       rake (>= 13)
-    google-protobuf (4.27.4-x86_64-linux)
+    google-protobuf (4.28.0-x86_64-linux)
       bigdecimal
       rake (>= 13)
     http_parser.rb (0.8.0)

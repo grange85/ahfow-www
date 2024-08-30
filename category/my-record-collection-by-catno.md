@@ -16,15 +16,24 @@ See the _my record collection_ posts in [date order](/category/my-record-collect
 
 {%-assign sortedposts = site.categories['my record collection'] | sort: "catno" -%}
 
-  <ul>
+{% capture list %}
     {%- for post in sortedposts -%}
-    {% if post.catno %}
-    {% for catnoitem in post.catno %}
-        <li>
-          <span>{{- catnoitem -}}</span>
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    {%- if post.catno -%}
+    {%- for catnoitem in post.catno -%}{{ catnoitem }}|{{ post.url | relative_url }}|{{ post.title }}^{%- endfor -%}
+    {%- endif -%}
+    {%- endfor -%}
+{% endcapture %}
+
+{% assign sortedlist = list | split: "^" | sort %}
+
+  <ul>
+    {%- for sorteditem in sortedlist -%}
+    {% assign item = sorteditem | split: "|" %}
+        <li style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+          <span>{{- item[0] -}}</span>
+          <a href="{{ item[1] }}">{{ item[2] }}</a>
         </li>
     {% endfor %}
-    {% endif %}
-    {%- endfor -%}
   </ul>
+
+

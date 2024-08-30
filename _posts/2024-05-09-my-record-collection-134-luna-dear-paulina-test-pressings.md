@@ -3,7 +3,12 @@ layout: post
 title: "#134: Luna - Dear Paulina test pressings"
 sitemap: true
 series-title: My record collection
-catno: 11/053-057
+catno: 
+ - 11/053
+ - 11/054
+ - 11/055
+ - 11/056
+ - 11/057
 comments: false
 github-comments-issueid:
 author:
