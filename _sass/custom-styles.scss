@@ -14,3 +14,13 @@ audio {
 blockquote strong {
   color: #e98623;
 }
+
+@media only screen 
+and (min-width : 704px) {
+li {
+ white-space: nowrap; 
+ overflow: hidden; 
+ text-overflow: ellipsis;
+ }
+}
+

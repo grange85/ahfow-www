@@ -29,7 +29,7 @@ See the _my record collection_ posts in [date order](/category/my-record-collect
   <ul>
     {%- for sorteditem in sortedlist -%}
     {% assign item = sorteditem | split: "|" %}
-        <li style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+        <li>
           <span>{{- item[0] -}}</span>
           <a href="{{ item[1] }}">{{ item[2] }}</a>
         </li>
