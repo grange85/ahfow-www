@@ -15,8 +15,7 @@ banner_image: https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-imag
 image: https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image-1280x720.jpg
 ahfow_version: '4.0'
 github_comments_repository: grange85/ahfow-www-comments
-cactus_comments: 
-  sitename: ahfow
+cactus_comments: false
 main_categories:
   - news
   - admin
