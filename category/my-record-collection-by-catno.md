@@ -26,7 +26,7 @@ See the _my record collection_ posts in [date order](/category/my-record-collect
 
 {% assign sortedlist = list | split: "^" | sort %}
 
-  <ul>
+  <ul class="post-index">
     {%- for sorteditem in sortedlist -%}
     {% assign item = sorteditem | split: "|" %}
         <li>
