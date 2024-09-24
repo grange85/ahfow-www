@@ -21,7 +21,6 @@ __Update:__ _This post suggests that this was Galaxie 500's first London show - 
 <blockquote><p>While going through some old photos we found some pictures that we took at the Galaxie 500 gig at ICA together with ticket stubs etc. Can I email to you?</p></blockquote>
 <p>My reply was "yes" only with more words and over-excited gibbering. So here are some great pictures of Galaxie 500's first London show at the ICA in London on 26 September 1989 (click on the thumbnail to see the full picture).</p>
 
-<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-09-26/19890926_ticket_lori.jpg" alt="Ticket" /><figcaption class="caption-text">Ticket</figcaption></figure>
 
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-09-26/19890926_naomi2_lori.jpg" alt="Naomi Yang by Lori" /><figcaption class="caption-text">Naomi Yang by Lori</figcaption></figure>
 
@@ -42,6 +41,10 @@ David Cavanagh of Sounds loved our show. He wrote some pretty silly things:</p>
 (Sounds, October 1989)
 </p></blockquote>
 <p><strong>I'd like to thank Lori (and her "hubby") for absolutely making my week (month, year etc.) </strong></p>
-<p>As a bonus here's a <a href="http://www.mediafire.com/?bsyr8vd8m8kyahj">recording of Galaxie 500 at that ICA show</a>.</p>
+
+You can listen to the full show on YouTube:
+
+{% ahfowvideo "9JCgyTzj0M4" "Galaxie 500 at The ICA, London" "https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-09-26/19890926_ticket_lori.jpg" %}
+
 <p><strong>Update:</strong> I've just dug out <a href="http://oblivious.fullofwishes.co.uk/post/27620458202/on-the-back-of-yesterdays-post-of-photos-from">the other Galaxie 500 photos I was sent and popped them on Oblivious</a> - these were from what turned out to be Galaxie 500s last show.</p>
 <p>If anyone else has anything like this kicking around in a shoebox please, <a href="/about/">please get in touch</a>!</p>
