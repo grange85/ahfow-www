@@ -17,9 +17,11 @@ categories:
 tags:
 - tour dates
 ---
-Dean Wareham has announced a six date tour of the UK at the beginning of April 2025. Starting in Glasgow on the 1st and finishing up in London on the 7th. The shows are billed "Songs by Galaxie 500, Luna, Dean & Britta and more..." - so covering all the bases (as expected/usual).
+Dean Wareham has announced a seven date tour of the UK at the beginning of April 2025. Starting in Glasgow on the 1st and finishing up in London on the 7th. The shows are billed "Songs by Galaxie 500, Luna, Dean & Britta and more..." - so covering all the bases (as expected/usual).
 
 {% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/show_assets/2025-04/2025-04-dean-wareham-uk-tour.png" "Dean Wareham - April 2025 UK tour" %}
+
+There will be dates added in France, Germany, and Spain and I'll post them as soon as I hear about them.
 
 Here's a list of all the dates - there are links to tickets behind all of them:
 <table>
@@ -37,6 +39,12 @@ Here's a list of all the dates - there are links to tickets behind all of them:
 		  <span class="show-details">poster</span>
 							</td>
 						</tr>
+                        <tr>
+                            <th>3rd April 2025</th>
+                            <td><a href="/database/dean-and-britta/shows/dean-wareham-2025-04-03-hangar-34-liverpool-uk/">Hangar 34, Liverpool, UK</a><br>
+                        <span class="show-details">Dean Wareham</span>
+                            </td>
+                        </tr>
 						<tr>
 							<th>4th April 2025</th>
 							<td><a href="/database/dean-and-britta/shows/dean-wareham-2025-04-04-the-assembly-royal-leamington-spa-uk/">The Assembly, Royal Leamington Spa, UK</a><br>
