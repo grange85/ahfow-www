@@ -10,7 +10,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://media.fullofwishes.co.uk/05-dean_wareham/show_assets/2025-04/2025-04-dean-wareham-uk-tour.png
 categories:
 - dean wareham
 - news
