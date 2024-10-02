@@ -26,6 +26,8 @@ Dean & Britta & Sonic Boom have just made available their Christmas album up for
 
 The album will be released in _emerald green_ vinyl or as a digital download and is [up on Bandcamp now](https://sonicboomspacemen3.bandcamp.com/album/a-peace-of-us).
 
+There is also a [Rough Trade exclusive copy](https://www.roughtrade.com/en-gb/product/dean-and-britta-sonic-boom/a-peace-of-us#vinyl-lp-exclusive-clear-plus) in "Christmas splatter" vinyl.
+
 <blockquote>
 Their venture into a holiday album was organic, spurred by a few cover tunes over the years, a Christmas special during the pandemic, and finally collaborative sessions between Dean & Britta in L.A. and Sonic Boom in Portugal. The trio all contributed vocals, with guitars by Wareham, bass and keyboards by Phillips, effects, and mixes by Sonic. The result is an album of exploration as well as comfort, “like Bing Crosby...on acid,” Britta adds, the tracklist a reminder that the holidays are complex and tragicomic.
 </blockquote>
