@@ -31,3 +31,7 @@ Their venture into a holiday album was organic, spurred by a few cover tunes ove
 </blockquote>
 
 [Pre-order now](https://sonicboomspacemen3.bandcamp.com/album/a-peace-of-us)
+
+You can also buy an [enamel ornament of the sleeve](https://sonicboomspacemen3.bandcamp.com/merch/christmas-ornament) to hang on your tree!
+
+{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/a-peace-of-you-ornament.png" "xmas ornament" %}
