@@ -22,7 +22,7 @@ tags:
 ---
 Dean & Britta & Sonic Boom have just made available their Christmas album up for pre-order. [A Peace of Us](https://sonicboomspacemen3.bandcamp.com/album/a-peace-of-us) will be released on the 22nd November and contains 14 tracks, some familiar from previous releases and performances, and some new.
 
-{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-britta-sonic-boom-a-peace-of-you.jpg" "A Peace of You - Dean & Britta & Sonic Boom" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-britta-sonic-boom-a-peace-of-you.jpg" "A Peace of Us - Dean & Britta & Sonic Boom" %}
 
 The album will be released in _emerald green_ vinyl or as a digital download and is [up on Bandcamp now](https://sonicboomspacemen3.bandcamp.com/album/a-peace-of-us).
 
