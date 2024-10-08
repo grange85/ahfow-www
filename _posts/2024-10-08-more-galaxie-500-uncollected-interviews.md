@@ -38,4 +38,4 @@ The former members of Galaxie 500 have been doing the radio/podcast promotion ro
 } %}
 
 I posted a couple earlier:
- - [Naomi interview on KALX / Dean interview on WFMU](/2024/09/24/naomi-interview-on-kalx-rare-earth/)
+ - [Naomi interview on KALX / Dean interview on WFMU](/2024/09/23/naomi-interview-on-kalx-rare-earth/)
