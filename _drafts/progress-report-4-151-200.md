@@ -1,0 +1,63 @@
+---
+layout: post
+title: 'Progress report #4 (151 - 200)'
+sitemap: true
+comments: true
+series-title: My record collection
+catno:
+author:
+  display_name: Andy
+  login: admin
+  email: andy@grange85.co.uk
+  url: https://www.grange85.co.uk
+image:
+categories:
+- my record collection
+tags:
+-
+---
+We have now reached 200 posts in _my record collection_ as follows:
+
+ - main series - 192 posts
+ - recent acquisitions - 8 posts
+
+... plus a few extra posts (intro, progress reports, the quiz).
+
+A few posts have been about more than one item in my collection so technically I'm already beyond 150 entries in my collection.
+
+The total number of rows (=posts) in my spreadsheet is 369 (down 2 from [progress report #3]() which I think are a couple that I combined into a single post, and one that might have been a mistake (can't actually remember). The spreadsheet is in a continual state of flux. Estimated completion date is now **Thursday, 16th July 2026**.
+
+Posts 151 to 200 include:
+
+_Primary artist_
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/posts-by-primary-artist-200.png" "My record collection - primary artists" %}
+
+
+|Primary artist|1 to 200|151 to 200|
+|---|---|---|
+|Damon & Naomi |30|6|
+|Dean & Britta |26|5|
+|Dean Wareham |51|14|
+|Galaxie 500|35|10|
+|Luna|55|14|
+|none&dagger;|3|1|
+
+_&dagger; Those 3 which technically shouldn't have been included are:_
+ - _[#042: Angel Corpus Christi - Bewitched: A Tribute to Luna](/2023/06/12/my-record-collection-042-angel-corpus-christi-bewitched-a-tribute-to-luna/)_
+ - _[Recent acquisition #02: Britta Phillips & Kramer - Nocturnes](/2023/08/15/my-record-collection-recent-acquisition-2-britta-phillips-kramer-nocturnes/)_
+ - _[#155: On Fire \| 30](/2024/07/22/my-record-collection-155-on-fire-30/)_
+
+_Formats:_
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/posts-by-format-200.png" "My record collection - formats" %}
+
+|Format	|1 to 200|151 to 200|
+|---|---|---|
+|CD	|84|17
+|LP	|47|14
+|7"	|37|9
+|MC	|12|4
+|DVD|7|4
+|12"|5|1
+|VHS|3|1
+|10"|3|
+|DAT|2|
