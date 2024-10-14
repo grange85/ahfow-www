@@ -27,7 +27,7 @@ Having already posted about two copies of the Mistress America soundtrack we com
 
 I can't remember where I bought the first of these, I think from some online retailer overseas, but I can't find the email evidence of that, but it did arrive rather creased, evidence that somewhere in the postal system it had been seriously manhandled. The record itself had, fortunately, survived unharmed and because of that, and because I couldn't be bothered the hassle of returning it I just resigned myself to having a creased copy.
 
-Three or four years later I [posted a picture on Instgram](https://www.instagram.com/p/BtNi4QqA1YL/) of the LP and commented on it's rather shabby state, mostly to convince folk that I'm not really that careless with my record collection... even if I sometimes am!
+Three or four years later I [posted a picture on Instgram](https://www.instagram.com/p/BtNi4QqA1YL/) of the LP and commented on its rather shabby state, mostly to convince folk that I'm not really that careless with my record collection... even if I sometimes am!
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/mistress-america-creassed-lp-instagram.jpg" "Mistress America - creased LP" %}
 
