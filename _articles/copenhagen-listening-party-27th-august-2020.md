@@ -19,7 +19,7 @@ tags:
 - listening party
 - twitter
 ---
-On the 27th January 2020 for the Record Store Day vinyl release of Galaxie 500's _Copenhagen_ Newbury Comics hosted a Twitter listening party where Damon tweeted about the album while we all listened (and chimed in). I've grabbed all of Damon's tweets below - but lots of other folk chipped in so you might want to search the [#Galaxie500xNewbury](https://twitter.com/hashtag/Galaxie500xNewbury) hashtag for more (if you can bear Twitter's awfulness).
+On the 27th August 2020 for the Record Store Day vinyl release of Galaxie 500's _Copenhagen_ Newbury Comics hosted a Twitter listening party where Damon tweeted about the album while we all listened (and chimed in). I've grabbed all of Damon's tweets below - but lots of other folk chipped in so you might want to search the [#Galaxie500xNewbury](https://twitter.com/hashtag/Galaxie500xNewbury) hashtag for more (if you can bear Twitter's awfulness).
 
 > Welcome everyone to @newburycomics listening party for Galaxie 500's live album, Copenhagen. Tag your tweets . To start us off: photos Naomi took of our touring party on the train in Europe, 1990. From top that's me, Kramer (our producer/soundman), and Dean
 

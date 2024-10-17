@@ -61,3 +61,9 @@ I know who's side I'm on. It's that of the people who listened to it, not the on
  - *Format:* LP
  - Bought for the collection sometime in the intervening years
  - [Buy 'This Is Our Music' on Bandcamp](https://galaxie500.bandcamp.com/album/this-is-our-music)
+
+Previously in [my record collection](/category/my-record-collection):
+ - [#032: Galaxie 500 - This Is Our Music](http://moonshot.local:4040/2023/05/08/my-record-collection-032-galaxie-500-this-is-our-music/)
+ - [#040: Today / On Fire / This Is Our Music](http://moonshot.local:4040/2023/06/05/my-record-collection-040-today-on-fire-this-is-our-music/)
+ - [#052: Galaxie 500 - This Is Our Music](http://moonshot.local:4040/2023/07/17/my-record-collection-052-galaxie-500-this-is-our-music/)
+ - [#059: Galaxie 500 - This Is Our Music](http://moonshot.local:4040/2023/08/10/my-record-collection-059-galaxie-500-this-is-our-music/)
