@@ -21,7 +21,9 @@ Galaxie 500's live album _Copenhagen_ was eventually released on vinyl for Recor
 
 {% ahfowimage "url" "caption" %}
 
-The show was recorded in Copenhagen on the 1st December 1990 - that is 35 years, and one day ago. This was due to be posted in a couple of weeks time but I've shuffled things about so that it falls close to the anniversary of the show (nobody reads anything on a Sunday so I've kept my Monday/Thursday posting schedule which explains that _and one day_).
+The show was recorded in Copenhagen on the 1st December 1990 - that is 35 years today. This was due to be posted in a couple of weeks time but I've shuffled things about so that it falls on the anniversary of the show.
+
+The show, at just under an hour long, was too long for an LP, and too short for a double LP, so... it's an LP-and-a-half, with the blank side filled with an etching by tattoo artist Matt Crocker.
 
 A couple of days before the release Newbury Comics and Damon hosted a Twitter listening party - I've archived [everything that Damon posted](/articles/copenhagen-listening-party-27th-august-2020/) but here are a few nuggets:
 
