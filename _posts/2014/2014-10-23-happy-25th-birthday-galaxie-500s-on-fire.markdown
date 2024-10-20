@@ -37,12 +37,12 @@ On Fire inhabits an awesome, distorted reality. The band, ostensibly a trio of g
 <div id="note-1">
 <strong>Why today?</strong><br />
 <p>I haven't figured out exactly when Galaxie 500's On Fire was released but I think 23rd of October is the most likely date - I came up with it becuase...</p>
-<ul>
-<li>This [UK Rough Trade press release](https://media.fullofwishes.co.uk/01-galaxie_500/docs/galaxie-500-on-fire-presser.jpg) has the release date for 23rd October.
-<li>Simon Reynolds review of the album was in the 28 October edition of Melody Maker</li>
-<li>MM always came out the Wednesday before the date on the cover which would have been 25 October</li>
-<li>Records in the UK were released on the Monday and you'd want the record to be in the shops when folk opened their MM on Wednesday - so On Fire must have been released on the 23 October</li>
-</ul>
+
+ - This [UK Rough Trade press release](https://media.fullofwishes.co.uk/01-galaxie_500/docs/galaxie-500-on-fire-presser.jpg) has the release date for 23rd October.
+ - Simon Reynolds review of the album was in the 28 October edition of Melody Maker
+ - MM always came out the Wednesday before the date on the cover which would have been 25 October
+ - Records in the UK were released on the Monday and you'd want the record to be in the shops when folk opened their MM on Wednesday - so On Fire must have been released on the 23 October
+
 <p>A US press release dating from August 1989 when Galaxie 500 signed to Rough Trade, suggests the album would be released on 20 October, but as that's a Friday I'll dismiss it.</p>
 <p>Records in the US are apparently released on a Tuesday - so US release date was possibly the 24 October... so we can party tomorrow as well!</p>
 <p>Feel free to correct me if you think I'm wrong.
