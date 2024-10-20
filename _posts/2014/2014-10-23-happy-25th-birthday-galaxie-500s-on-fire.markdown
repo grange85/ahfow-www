@@ -36,7 +36,7 @@ On Fire inhabits an awesome, distorted reality. The band, ostensibly a trio of g
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/esopus20/esopus-snowstorm-lyrics-scan.jpg" alt="Snowstorm lyrics " class /><figcaption class="caption-text"> Snowstorm lyrics </figcaption></figure>
 <div id="note-1">
 <strong>Why today?</strong><br />
-I haven't figured out exactly when Galaxie 500's On Fire was released but I think 23rd of October is the most likely date - I came up with it becuase...</p>
+<p>I haven't figured out exactly when Galaxie 500's On Fire was released but I think 23rd of October is the most likely date - I came up with it becuase...</p>
 <ul>
 <li>This [UK Rough Trade press release](https://media.fullofwishes.co.uk/01-galaxie_500/docs/galaxie-500-on-fire-presser.jpg) has the release date for 23rd October.
 <li>Simon Reynolds review of the album was in the 28 October edition of Melody Maker</li>
