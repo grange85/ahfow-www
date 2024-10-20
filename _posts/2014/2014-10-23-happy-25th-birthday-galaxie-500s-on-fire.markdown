@@ -33,7 +33,9 @@ categories:
 <blockquote><p>
 On Fire inhabits an awesome, distorted reality. The band, ostensibly a trio of guitar, bass and drums, sound more like a sun carriage. Damon Krukowski’s cymbals and Dean Wareham’s falsetto become lead instruments. Naomi Yang doesn’t so much play as paint with her bass. These abstract tones and spots of primary colour are the sound of three people locked somewhere in a beautiful space, the midpoint between telepathy and propulsion. From the languorous opening bars of ‘Blue Thunder’ to the euphoric closing refrain of “What a pity, what a pity” the record moves back and forward allowing waves of electricity to swell and break across its ten tracks. Few songs have been more appropriately titled than ‘Snowstorm’ and few bands have been in such graceful control of a maelstrom. Has anyone played a wah-wah with such equine grace as Dean Wareham? Each note in the solo crystallizing the reverie of a snowflake hitting the ground.<br />
 -<em>Richard King - sleeve notes to the 2010 Domino reissue</em></p></blockquote>
-<p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/esopus20/esopus-snowstorm-lyrics-scan.jpg" alt="Snowstorm lyrics " class /><figcaption class="caption-text"> Snowstorm lyrics </figcaption></figure>
+
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/esopus20/esopus-snowstorm-lyrics-scan.jpg" alt="Snowstorm lyrics " class /><figcaption class="caption-text"> Snowstorm lyrics </figcaption></figure>
+
 <div id="note-1">
 <strong>Why today?</strong><br />
 <p>I haven't figured out exactly when Galaxie 500's On Fire was released but I think 23rd of October is the most likely date - I came up with it becuase...</p>
