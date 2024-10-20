@@ -10,48 +10,66 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-on-fire-x-7.jpg
 categories:
 - galaxie 500
 - news
 tags:
 - on fire
 ---
-{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/on-fire-on-lp-cd-mc.jpg" "Galaxie 500 - On Fire (LP, CD, MC)" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-on-fire-x-7.jpg" "Galaxie 500 - On Fire x 7 (LP, CD, MC)" %}
 
-Today&dagger; is the 35th anniversary of the release of Galaxie 500's masterpiece 2nd album On Fire. If you've been reading this blog for ten years you may recognise most of this post from the LP's 25th birthday!
+Today&dagger; is the 35th anniversary of the release of Galaxie 500's masterpiece second album On Fire - there was a little uncertainty as to its release date but I'm pretty certain that it was released in the UK on 23rd October 1989. At the bottom of this page you can see the reasons why I'm pretty confident that today is On Fire's birthday.
 
-<blockquote><p>If a Pyrrhic victory means triumph won at such cost you may as well have lost, then Galaxie 500's music is the exact opposite: a statement of defeat that resounds like a glorious triumph</p>
+<blockquote>
+It was recorded in two separate sessions [...] we took our time with this one, spending at least seven days making it, maybe more like ten. Kramer really put on his producer's hat and gave this album a lot more attention.
 </blockquote>
-<p class="caption">Simon Reynolds - Melody Maker 28 October 1989</p>
+<p class="caption">Dean Wareham (Temperature's Rising, p103)</p>
 
-<p>Here are some quotes lifted from the thoroughly brilliant "Temperature's Rising: Galaxie 500 an oral and visual history" by Mike McGonigal...</p>
-<blockquote><p>We made that record so easily! I'm not even sure there were any second takes. It's one of the easiest records I ever made.</p>
+<blockquote>
+We made that record so easily! [...] It's one of the easiest records I ever made.
 </blockquote>
-<p class="caption">Kramer</p>
-<blockquote><p>Making On Fire was a very happy experience. I think we were at a point where we were accomplished enough musicians that we were able to play what we had in our head. There was a generally optimistic feeling about the direction of the band and we were getting attention from the critics. It was a lot of fun and the possibilities seemed endless, something that I feel I was very lucky to experience. A very joyful, youthful moment.</p>
+<p class="caption">Kramer (Temperature's Rising, p103)</p>
+
+<blockquote>
+I remember everything being in sync for _On Fire_ [...] It was exciting, to be making that happen in the studio. It felt like anything we threw into the mix would work.
 </blockquote>
-<p class="caption">Naomi</p>
+<p class="caption">Damon Krukowski (Temperature's Rising, p103)</p>
 
-<blockquote><p>
-On Fire inhabits an awesome, distorted reality. The band, ostensibly a trio of guitar, bass and drums, sound more like a sun carriage. Damon Krukowski’s cymbals and Dean Wareham’s falsetto become lead instruments. Naomi Yang doesn’t so much play as paint with her bass. These abstract tones and spots of primary colour are the sound of three people locked somewhere in a beautiful space, the midpoint between telepathy and propulsion. From the languorous opening bars of ‘Blue Thunder’ to the euphoric closing refrain of “What a pity, what a pity” the record moves back and forward allowing waves of electricity to swell and break across its ten tracks. Few songs have been more appropriately titled than ‘Snowstorm’ and few bands have been in such graceful control of a maelstrom. Has anyone played a wah-wah with such equine grace as Dean Wareham? Each note in the solo crystallizing the reverie of a snowflake hitting the ground.</p>
+On Fire was recorded over two sessions at Noise New York, the first in February 1989 was to make some demos for Slash Records, and the second in August 1989 - these two sessions produced all the tracks for the album, the three extra tracks for the Blue Thunder EP, and a few extras some that turned up on the box set Uncollected disc, and others on the recent [Uncollected Noise New York](/2024/07/11/pre-order-galaxie-500-uncollected-noise-new-york-88-90/) release.
+
+And so, armed with a full album so that "we would be able to avoid a discussion with labels about who was going to produce the album" _Dean Wareham, (Black Postcards, p66)_ they passed on Slash and towards the end of August 1989 they signed with Rough Trade.
+
+<blockquote>
+Rough Trade is proud to announce the signing of Boston-based trio, Galaxie 500. The band's first release on Rough Trade will be a full LP On Fire recorded at Noise New York, and produced by Kramer (Bongwater, Butthole Surfers, B.A.L.L.)
 </blockquote>
-<p class="caption">Richard King - sleeve notes to the 2010 Domino reissue</p>
+<p class="caption">Rough Trade press release, 28th August 1989</p>
 
+<blockquote>
+[E]ven though we had already made _Today_, listening to On Fire I felt that my bass playing finally had a real direction, as did our songwriting and our sound. I suppose that moment was the liminal moment - between musical naivet&eacute; and experience. I think of it as a time when we were all happy together. But who knows.
+</blockquote>
+<p class="caption">Naomi Yang - Box set sleeve notes</p>
 
+{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/naomi-box-set-sleeve-notes.jpg" "Naomi's handwritten sleeve notes for the box set" %}
+
+For the 30th anniversary of the album Dean recorded a "commentary" for the album for streaming service Pandora:
+
+{% ahfowaudio {
+"audiourl": "https://media.fullofwishes.co.uk/01-galaxie_500/audio/dean-wareham-on-fire-commentary-pandora-words-only.mp3",
+"audiocap": "On Fire commentary by Dean Wareham - October 2014"
+} %}
 
 ## &dagger; Why today?
-I haven't figured out exactly when Galaxie 500's On Fire was released but I think 23rd of October is the most likely date - I came up with it becuase...
+This is the evidence that Galaxie 500's On Fire was released on the 23rd of October:
 
-- Simon Reynolds review of the album was in the 28 October edition of Melody Maker
-- MM always came out the Wednesday before the date on the cover which would have been 25 October
-- Records in the UK were released on the Monday and you'd want the record to be in the shops when folk opened their MM on Wednesday - so On Fire must have been released on the 23 October
+ - This [UK press release](https://media.fullofwishes.co.uk/01-galaxie_500/docs/galaxie-500-on-fire-presser.jpg) claims that "Boston based trio Galaxie 500 [...] are set to release their second album 'On Fire' on 23rd October".
+ - [Simon Reynolds review of the album](https://media.fullofwishes.co.uk/01-galaxie_500/pictures/19891028_MM_SR_On-Fire.jpg) was in the 28th October edition of Melody Maker.
+ - Melody Maker always came out the Wednesday before the date on the cover which would have been 25th October.
+ - Records in the UK were released on a Monday and you'd want the record to be in the shops when folk opened their Melody Maker on Wednesday - so On Fire must have been released on the 23 October.
 
-A US press release dating from August 1989 when Galaxie 500 signed to Rough Trade, suggests the album would be released on 20 October, but as that's a Friday I'll dismiss it.
+Records in the US were apparently released on a Tuesday - so US release date was possibly the 24th October - a US press release dating from August 1989 when Galaxie 500 signed to Rough Trade, suggests the album would be released on 20 October, but as that's a Friday I'll dismiss it.
 
-Records in the US are apparently released on a Tuesday - so US release date was possibly the 24 October... so we can party tomorrow as well!
+There is also a [radio promo press release](https://media.fullofwishes.co.uk/01-galaxie_500/docs/galaxie-500-on-fire-roughtrade-radio-sheet.jpg) that suggests it will be released on the 16th October but suspect that either this was a mistake, or that at some point release was delayed a week.
 
-There is also an early press release that suggests it was to be released on the 16th October - but I reckon all the above suggests it was pushed back a week!
-
-Feel free to correct me if you think I'm wrong.
+Feel free to correct me if you think I'm wrong - but I'll need some strong evidence to change my mind :)
 
