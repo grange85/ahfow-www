@@ -27,6 +27,8 @@ But if I remember one of the happiest moments, it must have been the night after
 </blockquote>
 <p class="caption">Naomi Yang - Galaxie 500 box set booklet (1996)</p>
 
+{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/naomi-box-set-notes-extract.jpg" "Naomi's handwritten notes for the box set booklet" %}
+
 <blockquote>
 I remember everything being in sync for _On Fire_ [...] It was exciting, to be making that happen in the studio. It felt like anything we threw into the mix would work.
 </blockquote>
