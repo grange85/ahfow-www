@@ -20,7 +20,7 @@ date: 2024-10-23 00:00 +0000
 ---
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-on-fire-x-7.jpg" "Galaxie 500 - On Fire x 7 (LP, CD, MC)" %}
 
-Today&dagger; is the 35th anniversary of the release of Galaxie 500's masterpiece second album On Fire - there was a little uncertainty as to its release date but I'm pretty certain that it was released in the UK on 23rd October 1989. At the bottom of this page you can see the reasons why I'm pretty confident that today is On Fire's birthday.
+Today&dagger; is the 35th anniversary of the release of Galaxie 500's masterpiece second album On Fire - there was a little uncertainty as to its release date but I'm pretty certain that it was released in the UK on 23rd October 1989. At the bottom of this page you can see the reasons why I'm confident that today is On Fire's birthday.
 
 <blockquote>
 But if I remember one of the happiest moments, it must have been the night after we finished On Fire. I remember so clearly being in my room at my parents' house in New York, listening to the dub of the final mixes while lying in bed in the dark room. All I had to listen to the tape on was a tinny cassette player, running out of batteries. The light from the streetlight came in the window that night, as it had all my life. Yet it all took on a magical quality for me as I listened and listened. I was so happy and proud of what we had done. Kramer's production had, as usual, taken the songs to a level I could have never imagined in our rehearsals - but even without that, all that worrying and rehearsing and plan- ning and editing of the material before we even entered Noise had really done it. We had made something so real. I think I listened all night. I was so astonished.
