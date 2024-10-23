@@ -68,6 +68,10 @@ For the 30th anniversary of the album Dean recorded a "commentary" for the album
 
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/onfire-insert-g500-scan.jpg" "THEN there was The Great Chigao Fire. I was there..." %}
 
+For On Fire's 30th birthday I produced an slbum/fanzine, it has long since sold out but you can [doenload a copy of the booklet here](/2024/07/22/my-record-collection-155-on-fire-30/) and [listen to / buy the album on Bandcamp](https://aheadfullofwishes.bandcamp.com/album/on-fire-30).
+
+For On Fire's 25th birthday I posted a [birthday tribute post](/2014/10/23/happy-25th-birthday-galaxie-500s-on-fire/) ~ like this but with different words and pics.
+
 ## &dagger; Why today?
 This is the evidence that Galaxie 500's On Fire was released on the 23rd of October:
 
