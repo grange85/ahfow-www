@@ -19,7 +19,7 @@ tags:
 - sugar plant
 - tokyo
 ---
-Damon & Naomi's show at [Fever in Tokyo on the 5th November](/database/damon-and-naomi/shows/damon-and-naomi-2024-11-05-fever-shindaita-bldg-setagaya-tokyo-japan/) will be live streamed - and available to view for a week after the show. The stream will be through the Zaiko platform and will cost &yen;2500 (which Google tells me is about &pound;12.50 and about $16.30i).
+Damon & Naomi's show at [Fever in Tokyo on the 5th November](/database/damon-and-naomi/shows/damon-and-naomi-2024-11-05-fever-shindaita-bldg-setagaya-tokyo-japan/) will be live streamed - and available to view for a week after the show. The stream will be through the Zaiko platform and will cost &yen;2500 (which Google tells me is about &pound;12.50 and about $16.30).
 
 {% ahfowimage "https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-naomi-2024-11-05-tokyo-livestream.jpg" "Poster" %}
 
