@@ -10,7 +10,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-spain-2024-04.jpg
 categories:
 - news
 - dean wareham
