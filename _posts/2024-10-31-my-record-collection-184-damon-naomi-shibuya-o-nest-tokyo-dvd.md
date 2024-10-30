@@ -37,7 +37,7 @@ I love live albums, a couple of my favourite albums of all time are live ones, a
 
 Having said that, this is lovely as a record of a show (that I wasn't at). It's very heavy on tracks from Within These Walls - seven of the 12 tracks are from that album, but that's what they were promoting, and Lilac Land and Stars Never Fade are up amongst my favourite Damon & Naomi tracks so, no complaints here.
 
-Damon & Naomi are [back in Tokyo next week](/2024/10/22/damon-naomi-japanese-dates-in-november/) for a couple of dates.
+Damon & Naomi are [back in Tokyo next week](/2024/10/22/damon-naomi-japanese-dates-in-november/) for a couple of dates - and if you're not in Tokyo you can still [enjoy their show on the 5th November online](/2024/10/28/damon-naomi-s-upcoming-tokyo-date-to-be-live-streamed/)!
 
 
  - *Catalogue Number:* AHFOW 13/009
