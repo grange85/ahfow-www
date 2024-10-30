@@ -18,10 +18,11 @@ tags:
 - bandcamp
 - listening party
 - sonic boom
+- a peace of us
 ---
 {% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-britta-sonic-boom-a-peace-of-you.jpg" "A Peace of Us sleeve" %}
 
-Dean & Britta have announced that they will be hosting [a listening party of Bandcamp](https://deanandbritta.bandcamp.com/merch/a-peace-of-us-listening-party) for their Christmas album with Sonic Boom [A Peace of Us](/database/dean-and-britta/releases/a-peace-of-us/). The event will be on the 17th of November at 17:00 EST which [timeanddate.com informs me](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2024&month=11&day=17&hour=22&min=00&sec=0&p1=248&p2=1327&p3=43&p4=137&p5=240&p6=22&p7=141&iv=1800) is:
+Dean & Britta have announced that they will be hosting [a listening party on Bandcamp](https://deanandbritta.bandcamp.com/merch/a-peace-of-us-listening-party) for their Christmas album with Sonic Boom [A Peace of Us](/database/dean-and-britta/releases/a-peace-of-us/). The event will be on the 17th of November at 17:00 EST which [timeanddate.com informs me](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2024&month=11&day=17&hour=22&min=00&sec=0&p1=248&p2=1327&p3=43&p4=137&p5=240&p6=22&p7=141&iv=1800) is:
 
  - Tokyo (Japan) - _Monday, 18 November 2024, 07:00_
  - Newcastle upon Tyne (United Kingdom – England) - _Sunday, 17 November 2024, 22:00_
