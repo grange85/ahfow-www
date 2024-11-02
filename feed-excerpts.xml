@@ -25,18 +25,18 @@ layout: null
      {% unless post.draft -%}
       <item>
         <title>{% if post.series-title %}{{ post.series-title | xml_escape }}: {% endif %}{{ post.title | xml_escape }}</title>
-        <description>{{ post.excerpt | strip_html | truncatewords: 40 | xml_escape }}
-		{% for tag in post.tags -%}{% assign words = tag | split : " " %}{% capture camelcase %}{% for word in words %}{{ word | replace: "&", "And" | capitalize}}{% endfor%}{% endcapture %} #{{ camelcase | xml_escape}}{% endfor %}{% for category in post.categories %}{% assign words = category | split : " " %}{% capture camelcase %}{% for word in words %}{{ word | replace: "&", "And" | capitalize}}{% endfor%}{% endcapture %} #{{ camelcase | xml_escape}}{% endfor %}
+        <description>{{ post.excerpt | strip_html | truncatewords: 20 | xml_escape }}
+		{%- for tag in post.tags -%}{% assign words = tag | split : " " %}{% capture camelcase %}{% for word in words %}{{ word | replace: "&", "And" | capitalize}}{% endfor%}{% endcapture %} #{{ camelcase | xml_escape}}{% endfor %}{% for category in post.categories %}{% assign words = category | split : " " %}{% capture camelcase %}{% for word in words %}{{ word | replace: "&", "And" | capitalize}}{% endfor%}{% endcapture %} #{{ camelcase | xml_escape}}{% endfor %}
         </description>
-        <author>{{post.author.display_name}}</author>
+		<author>{{post.author.email}} ({{post.author.display_name}})</author>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ site.domain }}{{ post.url | prepend: site.baseurl }}</link>
         {% if post.enclosure.url contains ".mp3" -%}
         <enclosure url="{{post.enclosure.url}}" length="{{post.enclosure.length}}" type="audio/mpeg" />
-        {% elsif post.imageurl contains ".jpg" or post.imageurl contains "googleusercontent" -%}
-        <media:content url="{{post.imageurl}}" type="image/jpg" medium="image" />
-        {% elsif post.imageurl contains ".png" -%}
-        <media:content url="{{post.imageurl}}" type="image/png" medium="image" />
+        {% elsif post.image contains ".jpg" or post.image contains "googleusercontent" -%}
+        <media:content url="{{post.image}}" type="image/jpg" medium="image" />
+        {% elsif post.image contains ".png" -%}
+        <media:content url="{{post.image}}" type="image/png" medium="image" />
         {% endif %}
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
         {% for tag in post.tags -%}
