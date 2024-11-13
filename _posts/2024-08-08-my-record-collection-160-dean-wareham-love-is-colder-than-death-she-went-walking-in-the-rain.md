@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#160 - Dean Wareham - Love is Colder Than Death / She Went Walking in the
+title: "#160: Dean Wareham - Love is Colder Than Death / She Went Walking in the
   Rain"
 sitemap: true
 series-title: My record collection
