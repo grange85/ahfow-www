@@ -79,6 +79,7 @@ jekyll_compose:
       sitemap: true
       comments: true
       series-title: 
+      catno: 
       author:
         display_name: Andy
         login: admin
