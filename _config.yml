@@ -16,6 +16,13 @@ image: https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image-1280x
 ahfow_version: '4.0'
 github_comments_repository: grange85/ahfow-www-comments
 cactus_comments: false
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image-1280x720.jpg
+
 main_categories:
   - news
   - admin
