@@ -28,13 +28,7 @@ Anyway -- here's what I wrote last time...
 <p>David has <a href="https://www.netblogsrocknroll.com/2007/08/fan-communities.html">written up that interview</a> more fully on his blog.</p>
 </blockquote>
 
-So here then is _my chapter_
+So [here then is _my chapter_](/documents/net-blogs-and-rock-n-roll-david-jennings-chapter-3-smaller.pdf)
 
-<div class="embed-responsive embed-responsive-16by9">
-    <object class="embed-responsive-item" data="/documents/net-blogs-and-rock-n-roll-david-jennings-chapter-3-smaller.pdf" type="application/pdf" title="Net, Blogs and Rock 'n' Roll - Chapter 3">
-        <p>Your browser doesn't supporting embedded pdf files. You can download the file
-            <a href="/documents/net-blogs-and-rock-n-roll-david-jennings-chapter-3-smaller.pdf">here</a>.</p>
-    </object>
-</div>
 
 <p class="text-muted text-center"><small><a class="text-muted" href="https://media.fullofwishes.co.uk/00-misc/docs/Net--Blogs-and-Rock--n--Roll.pdf">ohhh... shhh (pdf, 0.8 MB)</a></small></p>
