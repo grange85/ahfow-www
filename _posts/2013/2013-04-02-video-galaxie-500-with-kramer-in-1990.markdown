@@ -14,7 +14,7 @@ tags:
 - kramer
 flickr: true
 ---
-<figure class="caption aligncenter"><a data-flickr-embed="true" href="https://www.flickr.com/photos/neate_photos/12709886835" title="Galaxie 500"><img src="https://live.staticflickr.com/2832/12709886835_c154b2d770_h.jpg" alt="Galaxie 500"></a><figcaption class="caption-text">Dean Wareham of Galaxie 500 - Leicester 1990 (photo Greg Neate))</figcaption></figure>
+{% ahfowimage "https://live.staticflickr.com/2832/12709886835_c154b2d770_h.jpg" "Galaxie 500" "https://www.flickr.com/photos/neate_photos/12709886835" %}
 
 <p>Sometime over the Easter weekend <a href="https://www.facebook.com/fullofwishes">A Head Full of Wishes reached 1000 <em>likes</em> on Facebook</a> - not that I'm one to put too much store by the numbers but it did seem worth a little nod... only I wasn't ready with anything (the last 5 <em>likes</em> came quicker than the previous 15!). So I hastily popped a couple of videos on YouTube from a Galaxie 500 show that was shared on Dimeadozen a few months back.</p>
 <p>The show is from Leicester in 1990 on the tour where they were supporting The Sundays. Here's Dean summoning Kramer to the stage for a cover of <a href="/2011/06/20/mp3-victory-garden-enough-or-adolf/" title="Mp3: Victory Garden – Enough or Adolf">Red Krayola's Victory Garden</a>, and then Joy Division's Ceremony.<br />

@@ -76,7 +76,6 @@ longpost: true
 <h2>December</h2>
 <p>Damon & Naomi released a digital album of rarities and  decided to put the whole of their back-catalogue onto Bandcamp for pay what you want - and it turned out to be a great success.</p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Over 2000 album downloads this month - we don&#39;t need no stinking streaming <a href="https://t.co/GH7Bcn5Qmu">https://t.co/GH7Bcn5Qmu</a> <a href="https://t.co/f7RCNDBLkb">pic.twitter.com/f7RCNDBLkb</a></p>&mdash; Damon K (@dada_drummer) <a href="https://twitter.com/dada_drummer/status/814822270199853060">December 30, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <p>&hellip; and thanks to the <a href="https://archive.org/donate/">Internet Archive</a> Wayback Machine <a href="/2016/12/20/my-favourite-galaxie-500-covers-7-rainer-maria-hearing-voices/">I found a video I thought I'd lost forever</a>.</p>
 
 <h2>&hellip; and on to 2017!</h2>

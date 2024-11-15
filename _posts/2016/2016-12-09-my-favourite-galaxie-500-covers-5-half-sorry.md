@@ -26,7 +26,6 @@ tags:
 
 <p>Then this happened:</p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/grange85">@grange85</a> <a href="https://twitter.com/ahfow">@ahfow</a> nudge nudge <a href="https://t.co/3f2cv6cJQN">https://t.co/3f2cv6cJQN</a> 😉</p>&mdash; Half (@herelieshalf) <a href="https://twitter.com/herelieshalf/status/797147773447663620">November 11, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <p>So, fifth in this series of my favourite Galaxie 500 covers is this very splendid cover of Sorry by "<a href="https://soundcloud.com/herelieshalf">North East England-based bedroom producer</a>" Half and featuring Jason Russo formerly of Mercury Rev. Who knows? I might have picked it anyway - it starts with a lovely organ, has some nice programmed percussion and a pedal steel all of which might easily have been enough to get them in here - but I'll admit that the tweet was definitely the clincher!</p>
 

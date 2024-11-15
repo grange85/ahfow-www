@@ -36,7 +36,5 @@ longpost: false
 <p>Damon tweeted that back in the day he simply thought of Galaxie 500 as "punk rock" and now aspires to get filed under 'acid folk'!</p>
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Re genre, got to admit I simply thought of us as punk rock back in the day - and ever since it&#39;s been my goal to be filed under... <a href="https://t.co/Xt9b1qHL3a">pic.twitter.com/Xt9b1qHL3a</a></p>&mdash; Damon K (@dada_drummer) <a href="https://twitter.com/dada_drummer/status/985901530112053248?ref_src=twsrc%5Etfw">April 16, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">&quot;Something called dreampop&quot; - there was a time when Galaxie 500 ruled that &quot;something&quot; ! <a href="https://t.co/Y0JAPOG5DP">pic.twitter.com/Y0JAPOG5DP</a></p>&mdash; A Head Full of Wishes (@ahfow) <a href="https://twitter.com/ahfow/status/985912826740002818?ref_src=twsrc%5Etfw">April 16, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

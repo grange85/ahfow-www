@@ -24,6 +24,6 @@ The band have just [released their first music on Bandcamp](https://thecfr.bandc
 It's available to stream for free, or buy for cheap - and is well worth doing either - or both.
 
 Sean tweeted...
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thanks Andy, I&#39;m currently in the pacific theater engaged in a covert CFR propaganda campaign, surveillance footage coming soon. <a href="https://t.co/EbW1uixSxb">https://t.co/EbW1uixSxb</a> <a href="https://t.co/9NZe9FGbyJ">pic.twitter.com/9NZe9FGbyJ</a></p>&mdash; Sean Eden (@SeanEden) <a href="https://twitter.com/SeanEden/status/1159264104327987200?ref_src=twsrc%5Etfw">August 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thanks Andy, I&#39;m currently in the pacific theater engaged in a covert CFR propaganda campaign, surveillance footage coming soon. <a href="https://t.co/EbW1uixSxb">https://t.co/EbW1uixSxb</a> <a href="https://t.co/9NZe9FGbyJ">pic.twitter.com/9NZe9FGbyJ</a></p>&mdash; Sean Eden (@SeanEden) <a href="https://twitter.com/SeanEden/status/1159264104327987200?ref_src=twsrc%5Etfw">August 8, 2019</a></blockquote>
 
 So sit tight for more!
