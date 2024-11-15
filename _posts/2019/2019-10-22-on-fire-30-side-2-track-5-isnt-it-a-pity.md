@@ -27,7 +27,6 @@ The sleeve notes may credit Kramer’s overdub as ‘cheap organ’, but it adds
 
 ---
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=158016030/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2696126854/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/on-fire">On Fire by Galaxie 500</a></iframe>
 
 
 {% ahfowvideo "iXUHdrN9uik" "Dean Wareham - Isn't It a Pity (Malmo, 2010)" %}

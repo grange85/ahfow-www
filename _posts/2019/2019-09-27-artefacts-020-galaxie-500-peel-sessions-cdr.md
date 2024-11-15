@@ -25,7 +25,6 @@ To repair this error I took advantage of being employed in the BBC library to ac
 
 Mine is better than [the official release](/database/galaxie-500/releases/galaxie-500-peel-sessions/) because it is chronologically correct!
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=500961155/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/peel-sessions">Peel Sessions by Galaxie 500</a></iframe>
 
 ---
 

@@ -23,8 +23,6 @@ My cursory scouring of YouTube suggests there is only one recording, although th
 {% ahfowvideo "0BXgMdLSPHM" "" %}
 
 <p>Galaxie 500 recorded it for their final album This Is Our Music </p>
-<p><iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2405309532/size=small/bgcol=ffffff/linkcol=0687f5/track=3594938743/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/this-is-our-music">This Is Our Music by Galaxie 500</a></iframe></p>
 <p>There's an awesome live version on Copenhagen</p>
-<p><iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3510813574/size=small/bgcol=ffffff/linkcol=0687f5/track=3152425973/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/copenhagen-live">Copenhagen (live) by Galaxie 500</a></iframe></p>
 <p>I'm happy that Dean & Britta have played this live - and a <a href="http://www.youtube.com/results?search_query=dean+wareham+listen+the+snow+is+falling&page=&utm_source=opensearch">search of YouTube will find plenty of videos</a> of that - but Galaxie 500's version is frankly untouchable so it alone is sharing this page with Yoko. Don't even try and suggest that this isn't one of the three best cover versions ever recorded - because you'd be wrong!</p>
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

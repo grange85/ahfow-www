@@ -25,7 +25,6 @@ Originally by Red Krayola on their second LP "God Bless the Red Krayola and All 
 {% ahfowvideo "bur-14Z1gN4" "" %}
 
 <p>Galaxie 500 released it on the b-side of their Blue Thunder single, and it has more recently been on the CD reissues of On Fire.<br />
-<iframe style="position: relative; display: block; width: 400px; height: 100px;" src="https://bandcamp.com/EmbeddedPlayer/v=2/track=2115667322/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://galaxie500.bandcamp.com/track/victory-garden">Victory Garden by Galaxie 500</a></iframe></p>
 
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/01-galaxie_500/audio/1989-11-15-galaxie-500-victory-garden-netherlands.mp3",

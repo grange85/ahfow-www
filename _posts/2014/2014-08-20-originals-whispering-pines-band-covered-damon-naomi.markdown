@@ -18,4 +18,3 @@ Whispering Pines was written by The Band's Richard Manuel (with Robbie Robertson
 {% ahfowvideo "SDyLukweBGw" "" %}
 
 <p>Damon & Naomi's cover was released on their second album The Wondrous World of Damon & Naomi in 1995. This is the version that appeared on The Bootleg Edition a couple of years back:<br />
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1184884747/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=81281471/transparent=true/" seamless><a href="http://damonandnaomi.bandcamp.com/album/the-wondrous-world-of-damon-naomi-bootleg-edition">The Wondrous World of Damon & Naomi (bootleg edition) by Damon & Naomi</a></iframe></p>

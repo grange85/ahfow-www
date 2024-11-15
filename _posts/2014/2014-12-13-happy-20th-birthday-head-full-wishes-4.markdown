@@ -36,4 +36,3 @@ You can possibly still get copies of the book on <a href="http://www.amazon.com/
 
 <h3>20: Baby my head's full of wishes</h3>
 <p> So... A Head Full of Wishes moves into its third decade with a <a href="/2014/11/23/new-damon-naomi-album-fortune-february/">new Damon & Naomi LP</a> in February, a Luna reunion in April, and hopefully, more opportunities to meet fans at gigs and festivals, in pubs and coffee shops, online and offline. It's been a treat - and while meeting the band members over the years has been a thrill meeting other fans has been brilliant - sometimes awkward - but always brilliant.<br />
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3830882259/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3574432626/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/today">Today by Galaxie 500</a></iframe></p>

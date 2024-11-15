@@ -20,7 +20,6 @@ flickr: true
 <strong>Buffy Sainte-Marie</strong>: That's the correct answer. Vanguard seldom took any suggestions seriously from me. Record companies are mostly about the business, not the music. I've always loved that song, too, so thanks for liking it too :) Much of the credit for the beauty of "Moonshot" and other songs on that album, and (1973's) Quiet Places, (1974's) Buffy and (1975's) Changing Woman, goes to Norbert Putnam, producer, bass player and owner of Quadraphonic Studios. He shared not only his talent but engaged his friends (many from the Area Code 615 band out of Muscle Shoals, Ala.) in the albums, so there are great, great players adding their own talents. Norbert's friend Glen Spreen did the strings for "Moonshot."</p></blockquote>
 {% ahfowvideo "o9vAa2mNoqQ" "" %}
 <p>Galaxie 500 covered the song for their second Peel Session in 1990:<br />
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=500961155/size=medium/bgcol=ffffff/linkcol=0687f5/t=4/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/peel-sessions">Peel Sessions by Galaxie 500</a></iframe></p>
 <p>Dean revisited the track for Dean & Britta's L'Avventura album in 2003<br />
 </p>
 {% ahfowvideo "SZsiYOL0EzE" "" %}

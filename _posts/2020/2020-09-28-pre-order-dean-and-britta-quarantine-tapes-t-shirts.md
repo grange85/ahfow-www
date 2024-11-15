@@ -26,5 +26,4 @@ You can also pre-order a "Quarantine Tapes" tote bag for $15 (and postage).
 
 If you haven't already you should also buy the album which is available for $7 from Bandcamp and is well worth it!
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=740684993/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://deanandbritta.bandcamp.com/album/quarantine-tapes">Quarantine Tapes by Dean &amp; Britta</a></iframe>
 

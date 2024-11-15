@@ -19,7 +19,6 @@ tags:
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/24737846235/in/dateposted/" title="Sorry"><img src="https://c4.staticflickr.com/2/1588/24737846235_e316870368_b.jpg" alt="Sorry"></a>
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1552913561/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2453332190/transparent=true/" seamless><a href="http://theblogthatcelebratesitself.bandcamp.com/album/va-blue-thunder-a-tribute-to-galaxie-500">VA - Blue Thunder, A Tribute to Galaxie 500 by The Blog That Celebrates Itself Records</a></iframe>
 
 <p class="lead">So I kicked off this series without really thinking it through - I set two stupidly arbitrary rules for myself<sup><a href="#footnote-1">[1]</a></sup> ~ the second one was not to over-mine the rich seam that the two tribute albums provided. This meant I had to pick from them for reasons that might seem a little&hellip; unfair.</p>
 

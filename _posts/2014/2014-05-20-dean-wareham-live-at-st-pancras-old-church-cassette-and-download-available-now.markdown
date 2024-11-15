@@ -18,4 +18,3 @@ The live recording of Dean Warehams shows at St Pancras Old Chruch at the tail e
 <p>The Cassette is available to buy at Dean's UK shows in Bristol (but you've just missed that), Brighton, Leamington Spa and London.</p>
 <p><a href="http://soniccathedral.bigcartel.com/product/scr076-dean-wareham-live-at-st-pancras-old-church-mc">Buy the cassette from the Sonic Cathedral shop</a><br />
 <a href="https://soniccathedral.bandcamp.com/album/live-at-st-pancras-old-church-london-december-2013-2">Buy the digital download from Sonic Cathedral's bandcamp</a></p>
-<p><iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1608301513/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://soniccathedral.bandcamp.com/album/live-at-st-pancras-old-church-london-december-2013-2">Live At St Pancras Old Church London December 2013 by Dean Wareham</a></iframe></p>

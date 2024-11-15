@@ -29,6 +29,5 @@ _(feel free to send me a copy if you have a spare one knocking around so I can p
 
 The two tracks on both releases were covers of [The Beatles' Rain](https://www.fullofwishes.co.uk/2014/03/19/originals-rain-by-the-beatles-covered-by-galaxie-500/) and [Jonathan Richman's Don't Let Our Youth Go To Waste](https://www.fullofwishes.co.uk/2013/05/15/originals-dont-let-our-youth-go-to-waste-by-jonathan-richman-covered-by-galaxie-500/). When digital releases came around these were released for some reason as a single track, so for the price of one download from your [online retailer of choice](https://galaxie500.bandcamp.com/track/rain-dont-let-our-youth-go-to-waste) you get nearly 9 minutes of live Galaxie 500 perfection.
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2614932935/size=small/bgcol=ffffff/linkcol=0687f5/track=2956625308/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/uncollected">Uncollected by Galaxie 500</a></iframe>
 
 

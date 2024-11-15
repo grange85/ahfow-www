@@ -25,7 +25,6 @@ tags:
 <p>Oh but all the greats of English folk probably have it in their repertoire.</p>
 <p>Magic Hour released their cover on the 1994 album No Excess is Absurd and it was the only track by the band to feature Naomi Yang's vocals.<br />
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3380459093/size=small/bgcol=ffffff/linkcol=0687f5/track=3953675584/transparent=true/" seamless><a href="http://magic-hour.bandcamp.com/album/no-excess-is-absurd">No Excess Is Absurd by Magic Hour</a></iframe>
 
 <p>If you pop 10 minutes into this video you can see Magic Hour performing the track at The Sausage Machine in London in 1994.</p>
 

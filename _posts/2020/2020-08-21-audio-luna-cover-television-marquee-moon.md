@@ -23,7 +23,6 @@ tags:
 
 It is [available to buy for $1.99 (or more) on Bandcamp](https://luna.bandcamp.com/track/marquee-moon).
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3222195674/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://luna.bandcamp.com/track/marquee-moon">Marquee Moon by Luna</a></iframe>
 
 Update: Now with a video...
 

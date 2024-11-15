@@ -54,4 +54,3 @@ categories:
 
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-split-draft-presser.jpg" alt="Damon's draft press release" /><figcaption class="caption-text">Damon's draft press release</figcaption></figure>
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=158016030/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3550322277/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/on-fire">On Fire by Galaxie 500</a></iframe>

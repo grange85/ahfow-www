@@ -40,7 +40,6 @@ Today is the 30th anniversary of the release of Galaxie 500's masterpiece On Fir
 > _Simon Reynolds (Melody Maker, 28th October 1989)_
 
 
-<iframe style="border: 0; width: 700px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=158016030/size=large/bgcol=ffffff/linkcol=de270f/artwork=small/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/on-fire">On Fire by Galaxie 500</a></iframe>
 
 
 

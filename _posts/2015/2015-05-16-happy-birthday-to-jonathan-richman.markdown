@@ -21,7 +21,6 @@ categories:
 {% ahfowvideo "w5OnYVFr_DA" "" %}
 
 <p>Have a great day Jojo. <a href="https://www.youtube.com/watch?v=nu3TvC9CH18">I love your chimes... they reel and they rock</a>.</p>
-<p><iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3510813574/size=small/bgcol=ffffff/linkcol=0687f5/track=452266046/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/copenhagen-live">Copenhagen (live) by Galaxie 500</a></iframe></p>
 
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/01-galaxie_500/audio/galaxie-500-back-in-your-life.mp3",

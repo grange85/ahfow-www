@@ -24,7 +24,6 @@ tags:
 </p>
 {% ahfowvideo "pZzK7hWUdmc" "" %}
 <p>Galaxie 500 released it as the b-side of the Fourth of July 12" (and subsequently on all the CD?digital re-releases of This Is Our Music)<br />
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2405309532/size=medium/bgcol=ffffff/linkcol=0687f5/t=10/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/this-is-our-music">This Is Our Music by Galaxie 500</a></iframe></p>
 <p>And a cool recording for UK TV turned up on the DVD<br />
 </p>
 {% ahfowvideo "n8hixY2vHpU" "" %}

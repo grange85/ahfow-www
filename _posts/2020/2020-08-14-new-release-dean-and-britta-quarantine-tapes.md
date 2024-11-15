@@ -59,6 +59,5 @@ Buy from [Dean Wareham's shop](https://deanwareham.com/shop) or the [PIAPTK webs
 Related link: [And 99 cents my ass - Justin Harwood (for FuzzyWuzzy 1999)](https://web.archive.org/web/19990128165114/http://www.fuzzywuzzy.com/ass/99.html)
 
 You can also buy downloads of all the tracks except Plastic Bird from [Dean & Britta's Bandcamp](https://deanandbritta.bandcamp.com/album/quarantine-tapes)
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=740684993/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://deanandbritta.bandcamp.com/album/quarantine-tapes">Quarantine Tapes by Dean &amp; Britta</a></iframe>
 
 

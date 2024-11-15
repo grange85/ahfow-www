@@ -40,7 +40,6 @@ Here's Tom covering Damon & Naomi's Tour of the World also at the first Terrasto
 
 Here's Damon & Naomi covering Pearls Before Swine's Translucent Carriages for the For The Dead in Space tribute album
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2180436484/size=small/bgcol=ffffff/linkcol=0687f5/track=91075728/transparent=true/" seamless><a href="http://damonandnaomi.bandcamp.com/album/playback-singers">Playback Singers by Damon &amp; Naomi</a></iframe>
 
 
 Here's [Tom interviewing Damon & Naomi](http://web.archive.org/web/20091101095413/http://www.damonandnaomi.com:80/interviews/magnetinterview.html) (and a little the vice-versa)

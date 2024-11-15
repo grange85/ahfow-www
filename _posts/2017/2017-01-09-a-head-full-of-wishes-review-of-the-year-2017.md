@@ -21,7 +21,6 @@ longpost: true
 <p class="lead">A wee bit later than planned but here's a quick summary of what happened in the world of AHFoW during 2016 (I've missed out plenty so feel free to poke around the site for loads of words, pictures, videos and audios!</p>
 <h2>January</h2>
 <p>Magic Hour - the band that Damon & Naomi were in with Kate and Wayne of Crytsalized Movements/Twisted Village put their <a href="https://magic-hour.bandcamp.com/">entire catalogue on Bandcamp</a> including a new collection of non album tracks - Magic Monents.</p>
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3096253867/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://magic-hour.bandcamp.com/album/magic-moments">Magic Moments by Magic Hour</a></iframe>
 <h2>February</h2>
 <!--more-->
 <p>Britta launched her Pledgemusic pre-orders of Luck or Magic and <a href="/2016/02/24/video-britta-phillips-one-fine-summer-morning/">dropped a lovely video for One Fine Summer Morning</a>.</p>

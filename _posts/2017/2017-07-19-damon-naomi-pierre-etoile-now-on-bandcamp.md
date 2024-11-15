@@ -33,4 +33,3 @@ tags:
 <footer>Everett True &ndash; Melody Maker, August 3 1991</footer>
 </blockquote>
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1715169692/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://damonandnaomi.bandcamp.com/album/pierre-etoile-ep">Pierre Etoile EP by Damon & Naomi</a></iframe>

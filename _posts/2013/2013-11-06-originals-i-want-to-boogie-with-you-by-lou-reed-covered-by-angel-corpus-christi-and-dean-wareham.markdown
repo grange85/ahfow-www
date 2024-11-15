@@ -25,5 +25,4 @@ tags:
 {% ahfowvideo "WNvzfy8zT44" "Angel Corpus Christi with Dean Wareham" %}
 
 <p>Available to buy/stream on bandcamp:</p>
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1993101719/size=small/bgcol=ffffff/linkcol=0687f5/track=1303941829/transparent=true/" seamless><a href="https://angelcorpuschristi.bandcamp.com/track/i-want-to-boogie-with-you-je-taime">Angel Corpus Christi and Dean Wareham - I Wanna Boogie With You / Je t'aime</a></iframe>
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

@@ -18,7 +18,6 @@ tags:
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/kome8/15956480751/" title="tell me it&#x27;s not just a dream"><img src="https://c8.staticflickr.com/9/8636/15956480751_d63c0279b0_b.jpg" alt="tell me it&#x27;s not just a dream"></a>
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3471517667/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3505964779/transparent=true/" seamless><a href="http://ballboy.bandcamp.com/album/the-sash-my-father-wore-and-other-stories">The Sash My Father Wore And Other Stories by ballboy</a></iframe>
 
 <p>I adore ballboy and Gordon (of ballboy) has an oft-stated his love of Galaxie 500. This cover of Tell Me is from <a href="https://ballboy.bandcamp.com/album/the-sash-my-father-wore-and-other-stories">The Sash My Father Wore and Other Stories</a> which is the ballboy album that's pretty much just Gordon. And it's a beauty.</p>
 

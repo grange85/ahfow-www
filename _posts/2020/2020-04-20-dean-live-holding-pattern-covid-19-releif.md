@@ -22,7 +22,6 @@ Dean Wareham's has contributed a live version of Holding Pattern to [Love in The
 > 
 > All proceeds will go to the COVID-19 Solidarity Response Fund (covid19responsefund.org), supporting WHO’s work to track and understand the spread of the virus, to ensure patients get the care they need and frontline workers get essential supplies and information, and to accelerate research and development of a vaccine and treatments for all who need them.
 
-<iframe style="border: 0; width: 700px; height: 700px;" src="https://bandcamp.com/EmbeddedPlayer/album=3292767783/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://veniversus.bandcamp.com/album/love-in-the-time-of-covid">Love In The Time Of Covid by Various Artists</a></iframe>
 
 The track was recorded in April 2014 for WXPN.
 

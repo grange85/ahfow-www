@@ -18,7 +18,6 @@ Submission was recorded by The Sex Pistols in 1976 and appeared on (most copies 
 {% ahfowvideo "7UZ0bPaOdbQ" "" %}
 
 <p>Galaxie 500 covered the track for their second session for BBC Radio One's John Peel show in October 1990.<br />
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=500961155/size=small/bgcol=ffffff/linkcol=0687f5/track=3906522565/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/peel-sessions">Peel Sessions by Galaxie 500</a></iframe></p>
 <p>The Sex Pistols were a 1970s British novelty act - here they are playing it live in 2007 to a large room full of middle aged men:<br />
 
 {% ahfowvideo "hZUOKqYSd8c" "" %}

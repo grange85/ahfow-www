@@ -18,7 +18,6 @@ Had she still been with us today Nico would have been celebrating her 75th birth
 {% ahfowvideo "FjjDmX9Tkss" "" %}
 <p><strong><a href="/2013/05/29/originals-eulogy-to-lenny-bruce-by-nico-covered-by-damon-naomi/" title="Originals: Eulogy to Lenny Bruce by Nico (covered by Damon & Naomi)">Originals: Eulogy to Lenny Bruce by Nico (covered by Damon & Naomi)</a></strong><br />
 <em>Eulogy to Lenny Bruce by Damon & Naomi</em><br />
-<iframe class="aligncenter" style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2109597946/size=medium/bgcol=ffffff/linkcol=0687f5/t=1/transparent=true/" seamless><a href="http://damonandnaomi.bandcamp.com/album/the-sub-pop-years-1995-2002">The Sub Pop Years (1995-2002) by Damon & Naomi</a></iframe><br />
 <em>Eulogy to Lenny Bruce by Nico</em><br />
 </p>
 {% ahfowvideo "DdQYAZ_k_Q8" "" %}

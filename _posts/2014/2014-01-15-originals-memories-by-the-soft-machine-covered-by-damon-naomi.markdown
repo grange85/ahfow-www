@@ -21,7 +21,6 @@ tags:
 </p>
 {% ahfowvideo "9wHti_GY1V8" "" %}
 <p>Damon & Naomi covered the track for their first album More Sad Hits<br />
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4050036211/size=medium/bgcol=ffffff/linkcol=0687f5/t=6/transparent=true/" seamless><a href="http://damonandnaomi.bandcamp.com/album/more-sad-hits">More Sad Hits by Damon & Naomi</a></iframe></p>
 <p>Here's Damon & Naomi playing the track in a bookshop in 2008<br />
 </p>
 {% ahfowvideo "vKE5J-qTfmk" "" %}

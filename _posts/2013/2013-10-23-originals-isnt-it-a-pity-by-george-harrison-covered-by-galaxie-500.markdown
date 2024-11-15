@@ -33,7 +33,6 @@ And here's George (although not sure of the source of this version)
 
 Galaxie 500 covered the song on their second album On Fire
 
-<iframe class="bandcamp" style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=158016030/size=medium/bgcol=ffffff/linkcol=0687f5/t=10/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/on-fire">On Fire by Galaxie 500</a></iframe>
 
 The band didn't play it live because, according to this 1990 interview in Sounds, it was "too hard":
 

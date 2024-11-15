@@ -34,7 +34,6 @@ Back in 1974/5 my dad upgraded to a swanky new "Music Centre" - a large record/t
 
 When Galaxie 500's cover of Cheese and Onions appeared it was like a divine collision of things I loved. 
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2614932935/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1160116344/transparent=true/" seamless><a href="http://galaxie500.bandcamp.com/album/uncollected">Uncollected by Galaxie 500</a></iframe>
 
 I'm not sure that Galaxie 500 ever played the track live but Dean has taken a couple of pops at it, usually in response to shouts from the audience - here in Australia in 2011:
 

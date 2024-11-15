@@ -18,5 +18,4 @@ The existence of Luna's cover of <a href="http://en.wikipedia.org/wiki/Dancing_D
 </p>
 {% ahfowvideo "YGST7qYvlMw" "" %}
 <p>Luna - Dancing Days<br />
-<iframe style="position: relative; display: block; width: 400px; height: 100px;" src="https://bandcamp.com/EmbeddedPlayer/v=2/track=3284964201/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://luna.bandcamp.com/track/dancing-days-bonus-track">Dancing Days (bonus track) by Luna</a></iframe></p>
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>
