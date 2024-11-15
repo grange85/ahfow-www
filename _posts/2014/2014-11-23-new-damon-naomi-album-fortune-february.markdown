@@ -30,5 +30,4 @@ categories:
 </ul>
 <p>I imagine that given Damon's <a href="https://storify.com/dada_drummer/rant">recent comments on Twitter</a> with regards to streaming, it'll be available to stream for free too!</p>
 <p>You can still see the film of Fortune on <a href="http://vimeo.com/naomiyang">Naomi's Vimeo channel</a>.<br />
-<iframe src="//player.vimeo.com/video/105007573?portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="http://vimeo.com/105007573">Fortune</a> from <a href="http://vimeo.com/naomiyang">Naomi Yang</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

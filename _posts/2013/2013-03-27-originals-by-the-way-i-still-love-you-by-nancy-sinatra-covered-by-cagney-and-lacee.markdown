@@ -17,7 +17,6 @@ categories:
 By The Way was written by Lee Hazlewood and released on Country, My Way by Nancy Sinatra (I guess the album title's a little nod to her dad?). Cagney & Lacee first released it as on the b-side of their 7" single Time on No.6 Records and then later on the Six Feet of Chain album.<br />
 <a id="more"></a><a id="more-3891"></a><br />
 Another track that doesn't seem to have made it to the free bits of the Internet but you can check it out on Spotify...<br />
-<iframe class="aligncenter" src="https://embed.spotify.com/?uri=spotify:track:1PKgeANqvc1OHbhOogouxc" frameborder="0" allowtransparency="true"></iframe></p>
 
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/05_Cagney-and-Lacee_By-the-Way.mp3",

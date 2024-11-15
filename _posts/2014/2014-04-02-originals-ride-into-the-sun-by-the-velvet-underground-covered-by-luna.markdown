@@ -46,6 +46,5 @@ tags:
 {% ahfowvideo "IG_LBHLxi8E" "" %}
 
 <p>In 1996 Luna supported Lou Reed on his Set The Twilight Reeling tour, this recording is of Lou joining Luna on stage at The Beacon Theater in NYC</p>
-<iframe width="100%" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/117407153&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"></iframe>
 <p>And if that's not enough Ride Into the Sun there's <a href="/2011/08/26/audio-luna-play-ride-into-the-sun-with-lou-reed/" title="Audio: Luna play Ride into the Sun with Lou Reed">another recording of Lou and Luna at The Orpheum in Boston from 1996 over here</a>.</p>
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

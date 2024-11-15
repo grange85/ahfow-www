@@ -21,4 +21,3 @@ categories:
 <p>Naomi <a href="/2011/11/07/extracurricular-naomi-yang-video-maker/">previously made the video for The Finder from Meg's second album</a>.</p>
 
 <p class="lead">In other Damon & Naomi news the duo have a track co-written with Tanya Donelly - the track, Storm Blown Bird, will be available as one of the bonus tracks on the CD release of <a href="http://alr-music.com/tanyadonelly/">Tanya's Swan Song series coming out next year on American Laundromat Records</a>.</p>
-<iframe width="100%" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/235746031&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"></iframe>

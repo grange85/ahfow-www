@@ -18,4 +18,3 @@ categories:
 
 <p>To help fill out the experience you could flick through the <a href="https://www.flickr.com/photos/42302753@N05/sets/72157659324560340">stacks of lovely pictures</a> that Dean Keim has popped on Flickr!</p>
 
-<iframe width="100%" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/228361444&color=ff5500"></iframe>

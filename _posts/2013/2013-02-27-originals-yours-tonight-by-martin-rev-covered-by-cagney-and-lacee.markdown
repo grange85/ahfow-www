@@ -18,7 +18,6 @@ Cagney & Lacee were Dean Wareham and his then wife Claudia Silver. They released
 <p>The opening track on Cagney & Lacee's only album Six Feet of Chain is called "Be Mine" and is credited to <a href="http://en.wikipedia.org/wiki/Martin_Rev">Martin Rev</a>. Now Mr Rev, of fab noisy electronic duo Suicide, did indeed <a href="http://www.youtube.com/watch?v=og6Xxn0ANxw">release a track called Be Mine</a>, it was on his album "See Me Ridin'" from 1996 - but the track "Be Mine" on Cagney & Lacee's 1997 album isn't a cover of that! No, Cagney & Lacee's "Be Mine" is actually a cover of "Yours Tonight" another track on "See Me Ridin'"</p>
 <p>Again, not on YouTube so,</p>
 <p>For Spotify users:<br />
-<iframe class="aligncenter" src="https://embed.spotify.com/?uri=spotify:track:6np8bWPvrTyjL6YG3ljQGO" frameborder="0" allowtransparency="true"></iframe></p>
 <p>Not sure whether this was a mistake or intentional - I've decided it was a test for fans, one that I failed utterly completely by not discovering it until 15 years after Six Feet of Chain was released!</p>
 
 Update (14th July 2020): Currently on YouTube, so...

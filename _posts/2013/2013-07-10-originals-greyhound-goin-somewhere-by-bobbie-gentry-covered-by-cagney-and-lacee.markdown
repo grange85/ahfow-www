@@ -18,7 +18,6 @@ categories:
 <p class="lead">Greyhound Goin' Somewhere was written by R. Dorsey and M. Murphy about whom I know nothing. It was recorded by the fantastic Bobbie Gentry on her splendid 1969 album Touch 'em With Love</p>
 
 <p>Bobbie Gentry - Greyhound Goin' Somewhere from <a href="http://en.wikipedia.org/wiki/Touch_%27Em_with_Love">Touch 'em With Love</a></p>
-<iframe src="https://embed.spotify.com/?uri=spotify:track:2RaDSMOtkWe6beo3jRmBrW" frameborder="0" allowtransparency="true"></iframe>
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/00-misc/audio/19_Bobbie-Gentry_Greyhound-Goin--Somewhere.mp3",
   "audiocap": "Bobbie Gentry - Greyhound Goin' Somewhere - BBC TV 1969",

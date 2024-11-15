@@ -16,7 +16,6 @@ To coincide with Dean Wareham's upcoming UK tour, <a href="http://www.soniccathe
 <p>Details of The Dancer Disappears on A Head Full of Wishes</p>
 <p><a href="https://itunes.apple.com/gb/album/the-dancer-disappears-single/id860699894">Pre-order "The Dancer Disappears" on iTunes</a><br />
 <a href="http://www.amazon.co.uk/gp/product/B00JMQJ040/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00JMQJ040&linkCode=as2&tag=aheadfullofwi-21">Pre order "The Dancer Disappears" on Amazon UK</a></p>
-<p><iframe width="100%" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/141841039&color=ff5500&auto_play=false&hide_related=false&show_artwork=true"></iframe></p>
 
 {% ahfowvideo "4Jr4SmThHHk" "" %}
 

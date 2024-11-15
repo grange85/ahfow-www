@@ -25,7 +25,6 @@ categories:
 {% ahfowvideo "NOifMqYXta4" "" %}
 
 <p>Damon & Naomi - <a href="http://en.blogotheque.net/2007/05/21/damon-and-naomi-en/">Take Away Show</a> - I Wonder If / Oh Sister</p>
-<iframe src="https://player.vimeo.com/video/11186091" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <p>And here's a clip of Damon & Naomi playing Oh Sister in London in 2003</p>
 {% ahfowvideo "e1UTWNo1pa4" "" %}

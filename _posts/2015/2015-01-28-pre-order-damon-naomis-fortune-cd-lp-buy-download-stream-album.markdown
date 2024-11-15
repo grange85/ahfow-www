@@ -27,5 +27,4 @@ The album has received a lovely review in UK magazine UNCUT where the album is d
 <blockquote><p>Damon & Naomi's [&hellip;] melodies seem to arrive through cascades of notes, shivering through complex skeins of acoustic guitar, keyboards, bass and drum [and] is a perfect fit for soundtracking</p></blockquote>
 <p><br clear="right"/><br />
 The album is the soundtrack to Naomi's short film Fortune which the duo screened with live accompaniment a few times last year. You can <a href="http://www.naomivision.com/shortfilm#1">watch the whole film on naomivision.com</a> (and below):<br />
-<iframe src="//player.vimeo.com/video/105007573?portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="http://vimeo.com/105007573">Fortune</a> from <a href="http://vimeo.com/naomiyang">Naomi Yang</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

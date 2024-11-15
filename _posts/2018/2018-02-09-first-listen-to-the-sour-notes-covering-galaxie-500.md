@@ -30,7 +30,6 @@ tags:
 </blockquote>
 
 <p>Listen to The Sour Notes cover of Fourth of July.</p>
-<iframe width="100%" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/385024091&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 <p>The band are releasing a new track from their covers album, <a href="https://thesournotes.bandcamp.com/album/this-is-not-our-music-covers-lp">This Is Not Our Music</a>, each week - Fourth of July is out now. They have a stack of other great music to check out on <a href="https://thesournotes.bandcamp.com/">their bandcamp</a>.</p>
 

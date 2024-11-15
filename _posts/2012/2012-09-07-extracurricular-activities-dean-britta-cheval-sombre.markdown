@@ -19,7 +19,6 @@ tags:
 <a id="more"></a><a id="more-3329"></a><br />
 Sonic Cathedral's blog post about the release<br />
 <a href="http://www.nme.com/blog/index.php?blog=15&p=12667&title=new_music_cheval_sombre_couldn_t_do&more=1&c=1">NME gave the album its <em>Radar Tip of the Day</em></a>.</p>
-<p><iframe class="aligncenter" width="100%" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F54519405&show_artwork=true"></iframe></p>
 <p>Here are a few reminders of Dean & Britta's previous involvement with Cheval Sombre</p>
 <p>{% ahfowvideo "WHq9OEj4SvQ" "Mary Woronov's screen test with Dean & Britta's cover of Cheval Sombre's I Found it Not So - from 13 Most Beautiful" %}</p>
 <p>{% ahfowvideo "0lXnqpr_0H0" "Cheval Sombre with Dean & Britta and Sonic Boom in London (2009)" %}</p>

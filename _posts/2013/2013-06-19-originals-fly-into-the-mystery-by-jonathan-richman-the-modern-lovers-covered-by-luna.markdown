@@ -22,7 +22,6 @@ Live versions are available dating from as early as 1971 - such as this one from
 </p>
 {% ahfowvideo "Cd0ZK9Gvy6g" "" %}
 <p>It turned up officially on the 1977 release Rock and Roll With The Modern Lovers<br />
-<iframe class="aligncenter" src="https://embed.spotify.com/?uri=spotify:track:0yUJz57e6JQbVlXzn7PvxQ" frameborder="0" allowtransparency="true"></iframe></p>
 <p>Luna's version first turned up on the Benicassim 98 compilation listed as "Fly Into The Sun" and then on the Italian compilation Homesleephome2 and later on the digital only Lunafied.</p>
 
  {% ahfowaudio {

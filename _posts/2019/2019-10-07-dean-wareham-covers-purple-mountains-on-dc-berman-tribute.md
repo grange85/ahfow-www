@@ -32,4 +32,3 @@ Snow is Falling in Manhattan was originally released on the Purple Mountains alb
 
 [Approaching Perfection : A Tribute to DC Berman](http://section-26.fr/approaching-perfection-a-tribute-to-dc-berman/)
 
-<iframe width="100%" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/685662880&color=%236c4673&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>

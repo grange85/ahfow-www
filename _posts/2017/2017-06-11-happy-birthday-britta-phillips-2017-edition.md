@@ -22,7 +22,6 @@ longpost: false
 
 <p>Here's her lovely cover of Dylan's Don't Think Twice It's Alright from her split single with Dean last year</p>
 
-<iframe width="100%" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/241155590&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"></iframe>
 
 <p>&hellip; and here's a gorgeous radio session version of White Horses from ten years ago!</p>
 

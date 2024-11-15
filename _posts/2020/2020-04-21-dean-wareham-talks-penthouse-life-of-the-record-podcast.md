@@ -25,6 +25,5 @@ The fabulous Life of The Record podcast is covering Luna's masterpiece Penthouse
 
 Subscribe using whatever is your chosen method of getting podcasts or [listen online here](https://lifeoftherecord.com/#/luna/).
 
-<iframe frameborder="0" scrolling="no" src="https://embed.radiopublic.com/e?if=life-of-the-record-GbkmVm&ge=s1!326ea652b605ceef8a24232a8d286ee7268ad3d2&wmode=opaque" width="100%"></iframe>
 
 

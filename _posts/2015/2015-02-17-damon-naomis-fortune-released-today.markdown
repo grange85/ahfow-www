@@ -20,5 +20,4 @@ Oh.. I know becuause of the way the modern world works Fortune has been availabl
 <li><a href="http://www.20-20-20.com/store/damon-naomi-fortune">Order the album on CD or LP from the shiny new 20-20-20 web page</a>.</li>
 </ul>
 <p>The album is the soundtrack to Naomi's short film Fortune which the duo screened with live accompaniment a few times last year. You can <a href="http://www.naomivision.com/shortfilm#1">watch the whole film on naomivision.com</a> (and below):<br />
-<iframe src="//player.vimeo.com/video/105007573?portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="http://vimeo.com/105007573">Fortune</a> from <a href="http://vimeo.com/naomiyang">Naomi Yang</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
