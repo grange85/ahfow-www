@@ -24,7 +24,7 @@ tags:
 
 <p>Thanks so much to Frank Tewald - Timberlake Tapes - of Ludwigsburg for getting this to me. It fair made my week!</p>
 
-<h4><a href="/database/galaxie-500/shows/1989/1989-11-29-galaxie-500-schwimmbad-heidelberg-germany/">29 November 1989 - Galaxie 500 - Schwimmbad, Heidelberg, Germany</a></h4>
+<h4><a href="/database/galaxie-500/shows/galaxie-500-1989-11-29-schwimmbad-heidelberg-germany/">29 November 1989 - Galaxie 500 - Schwimmbad, Heidelberg, Germany</a></h4>
 <p><strong>Setlist</strong></p>
 <ul>
 <li><a href="/database/tracks/flowers/">Flowers</a></li>
