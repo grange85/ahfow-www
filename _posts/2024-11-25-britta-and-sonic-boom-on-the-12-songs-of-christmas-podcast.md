@@ -28,5 +28,6 @@ Britta and Pete Kember (aka Sonic Boom) are the guests of Alex Rawls on the [12 
 <blockquote>
 As Britta Phillips and Sonic Boom - Pete Kember - explain  [...] the album is an expression of their relationship, and something they have been working on in bits and pieces since 2007 when Dean & Britta recorded a 45 with "Old Toy Trains" and "He's Coming Home." Kember talks about how he suggests covers, and how that too is part of their relationship.
 </blockquote>
-<p class="caption"><a href="https://www.twelvesongsofchristmas.com/content/dean-amp-britta-amp-sonic-boom">Twelve Songs of Christmas: Dean & Britta & Sonic Boom</a></p>
+<p class="caption"><a href="https://www.podbean.com/ep/pb-h5ccg-1748a36">Twelve Songs of Christmas: Dean & Britta & Sonic Boom</a></p>
+
 
