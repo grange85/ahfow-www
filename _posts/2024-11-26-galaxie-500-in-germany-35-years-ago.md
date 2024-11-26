@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Galaxie 500 in Europe - 25 years ago
+title: Galaxie 500 in Europe - 35 years ago
 date: 2024-11-26 11:00 +0000
 sitemap: true
 comments: true
@@ -20,7 +20,7 @@ categories:
 tags:
 -
 ---
-25 years ago this week Galaxie 500's extensive European tour arrived in Germany and we're lucky that a couple of shows were nicely recorded by the German fans.
+35 years ago this week Galaxie 500's extensive European tour arrived in Germany and we're lucky that a couple of shows were nicely recorded by the German fans.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-europe-1989-naomi-yang.jpg" "Galaxie 500 - Tour travels 1989 (photos: Naomi Yang)" %}
 
