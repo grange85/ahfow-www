@@ -30,9 +30,3 @@ As Britta Phillips and Sonic Boom - Pete Kember - explain  [...] the album is an
 </blockquote>
 <p class="caption"><a href="https://www.twelvesongsofchristmas.com/content/dean-amp-britta-amp-sonic-boom">Twelve Songs of Christmas: Dean & Britta & Sonic Boom</a></p>
 
-{% ahfowaudio {
-"audiourl": "https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-12-songs-of-chritsmas-2024-11-21-podcast.mp3",
-"audiocap": "Dean & Britta & Sonic Boom",
-"sourceurl": "https://www.twelvesongsofchristmas.com/content/dean-amp-britta-amp-sonic-boom",
-"sourcecap": "Twelve Songs of Christmas"
-} %}
