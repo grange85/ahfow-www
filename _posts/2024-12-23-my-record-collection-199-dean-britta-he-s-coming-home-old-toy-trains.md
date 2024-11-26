@@ -25,7 +25,15 @@ This is a black vinyl copy of Dean & Britta's lovely Christmas single put out by
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-and-britta-hes-coming-home-black.jpg" "Dean & Britta with Sonic Boom" %}
 
-Both of these tracks have recently reappeared on [A Peace of Us](https://deanandbritta.bandcamp.com/album/a-peace-of-us) the fab Xmas album from Dean & Britta and Sonic Boom.
+Both of these tracks have recently reappeared on [A Peace of Us](https://deanandbritta.bandcamp.com/album/a-peace-of-us) the fab Xmas album from Dean & Britta and Sonic Boom, although of course this version of He's Coming Home still has the "Go Dean!" that was bafflingly removed for A Peace of Us.
+
+<blockquote>
+<p><b>Allison</b>:	the quarantine shows were beyond special. and hey, where was the "go Dean!" in this version?</p>
+<p><b>Andy</b>:	Did I miss the "Go Dean"!???</p>
+<p><b>Dean & Britta</b>:	we took out "Go Dean", you can say it yourself each time!</p>
+<p><b>Andy</b>:	That "Go Dean!" is about my favourite xmassy thing ever!!</p>
+</blockquote>
+<p class="caption">A Peace of Us listening party (22nd November 2024)</p>
 
 Since I've already written about [the (blue vinyl) single](/2023/12/21/my-record-collection-097-old-toy-trains-hes-coming-home/) in this series, and the two songs in the [originals](/category/originals/) series I guess I'm pretty much all out of words for this... and, since this is the eve of Christmas Eve I guess I'll just post some completely unrelated Christmas nonsense :)
 
