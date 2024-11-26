@@ -16,7 +16,6 @@ categories:
 - galaxie 500
 - video
 - audio
-- pictures
 tags:
 -
 ---
