@@ -43,13 +43,16 @@ Dean & Britta looked like they might carry on the tradition when they played a s
 
 ... but that seems to have been a one off.
 
-Post-reunion Luna have played one more New Year's Eve show in 2015
+Post-reunion Luna have played New Year's Eve shows in 2015 and 2023...
 
  - [Luna - 31st December 2015 - Starline Social Club, Oakland, CA, USA](/database/luna/shows/luna-2015-12-31-starline-social-club-oakland-ca-usa/)
+ - [Luna - 31st December 2023 - The Fillmore, San Francisco, CA, USA](/database/luna/shows/luna-2023-12-31-the-fillmore-san-francisco-ca-usa/)
+
+... and will be [back at the Fillmore this evening](/database/luna/shows/luna-2024-12-31-the-fillmore-san-francisco-ca-usa/).
 
 The blog post mentioned above has MP3s of as many new year performances as I have.
 
-A live version, recorde in San Francisco on Luna's farewell tour featured in the film _Tell Me Do You Miss Me_ and the LP of live recordings from the film. Here's the clip from the film:
+A live version, recorded in San Francisco on Luna's farewell tour featured in the film _Tell Me Do You Miss Me_ and the [LP of live recordings from the film](/2024/08/12/my-record-collection-161-luna-tell-me-do-you-miss-me-lp/). Here's the clip from the film:
 
 {% ahfowvideo "_YytQVOgMwY" "Luna - Rock Your Baby (Tell Me Do You Miss Me)" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/rock-your-baby-tmdymm-grab-01.jpg" %}
 
@@ -62,4 +65,4 @@ A live version, recorde in San Francisco on Luna's farewell tour featured in the
 
 &dagger; _Not entirely sure why Luna have decided to call the  track Rock **Yr** Baby - apart from legacy setlist laziness that made it onto this release. It got called Rock **Your** Baby on the TMDYMM LP._
 
-&Dagger; _I then asked if I could have a second copy of each - one for show and one for blow - so ... expect this to turn up again!_
+&Dagger; _I then asked if I could buy a second copy of each - one for show and one for blow - so ... expect this to turn up again... maybe next year!_
