@@ -19,7 +19,7 @@ categories:
 tags:
 -
 ---
-35 years ago this week Galaxie 500's extensive European tour arrived in Germany and we're lucky that a couple of shows were nicely recorded by the German fans.
+35 years ago this week Galaxie 500's extensive European tour (with Straitjacket Fits) arrived in Germany and we're lucky that a couple of shows were nicely recorded by the German fans.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-europe-1989-naomi-yang.jpg" "Galaxie 500 - Tour travels 1989 (photos: Naomi Yang)" %}
 
