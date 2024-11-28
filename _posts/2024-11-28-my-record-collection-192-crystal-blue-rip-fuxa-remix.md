@@ -3,7 +3,7 @@ layout: post
 title: "#192: Dean & Britta - Crystal Blue RIP (F&uuml;xa remix)"
 sitemap: true
 comments: true
-series-title:
+series-title: My record collection
 catno: 11/035
 author:
   display_name: Andy
