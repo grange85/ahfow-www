@@ -21,7 +21,7 @@ tags:
 - paul kean
 - the bats
 ---
-Dean & Britta are currently on a short tour of New Zealand playing (mostly) Galaxie 500 sets. Some cracking videos of their show in Lyttleton have shown up on YouTube. Paul Kean of top NZ band The Bats guested on a few songs too. Sounds like a treat!
+Dean & Britta are currently on a short tour of New Zealand playing (mostly) Galaxie 500 sets. Some cracking videos of their show in Lyttelton have shown up on YouTube. Paul Kean of top NZ band The Bats guested on a few songs too. Sounds like a treat!
 
 {% ahfowvideo "0IXRWf7U_n8" "Dean & Britta - Ceremony" %}
 
