@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#092: Galaxie 500 - On Fire (cassette)"
+title: "[095] - #092: Galaxie 500 - On Fire (cassette)"
 sitemap: true
 series-title: My record collection
 github-comments-issueid: 10

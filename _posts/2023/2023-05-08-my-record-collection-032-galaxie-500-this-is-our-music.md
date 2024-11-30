@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#032: Galaxie 500 - This Is Our Music'
+title: '[032] - #032: Galaxie 500 - This Is Our Music'
 sitemap: true
 series-title: My record collection 
 author:

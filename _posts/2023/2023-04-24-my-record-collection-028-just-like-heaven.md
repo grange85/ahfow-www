@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#028: Just Like Heaven'
+title: '[028] - #028: Just Like Heaven'
 series-title: My record collection 
 author:
   display_name: Andy

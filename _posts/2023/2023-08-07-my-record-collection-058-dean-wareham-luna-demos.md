@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#058: Dean Wareham - Luna demos"
+title: "[058] - #058: Dean Wareham - Luna demos"
 sitemap: true
 series-title: My record collection
 author:

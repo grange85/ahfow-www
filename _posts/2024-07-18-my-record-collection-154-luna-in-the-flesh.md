@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#154: Luna - In The Flesh"
+title: "[161] - #154: Luna - In The Flesh"
 sitemap: true
 series-title: My record collection
 catno: 11/032

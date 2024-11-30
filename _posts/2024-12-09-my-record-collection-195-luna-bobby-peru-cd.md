@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#195: Luna - Bobby Peru (CD)"
+title: "[205] - #195: Luna - Bobby Peru (CD)"
 sitemap: true
 comments: true
 series-title: My record collection

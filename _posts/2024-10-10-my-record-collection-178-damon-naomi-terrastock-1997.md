@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#178: Damon & Naomi - Terrastock 1997"
+title: "[186] - #178: Damon & Naomi - Terrastock 1997"
 sitemap: true
 comments: true
 series-title: My record collection

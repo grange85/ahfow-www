@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#136: Dean & Britta - Quarantine Tapes (CD)"
+title: "[143] - #136: Dean & Britta - Quarantine Tapes (CD)"
 sitemap: true
 series-title: My record collection
 catno: 10/162

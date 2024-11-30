@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#198: White Christmas - Damon & Naomi'
+title: '[208] - #198: White Christmas - Damon & Naomi'
 date: 2024-12-19 00:00 +0000
 sitemap: true
 catno: 10/093
@@ -11,7 +11,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-white-christmas.jpg
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-white-xmas.jpg
 categories:
 - damon & naomi
 - my record collection
@@ -21,7 +21,7 @@ tags:
 ---
 Damon & Naomi recorded Irving Berlin's perennial classic in 2008 for the film [Lovely, Still](https://en.wikipedia.org/wiki/Lovely,_Still), a romantic comedy with Martin Landau and Ellen Burstyn, and released it on a limited CDR when they played an in-store at Rough Trade East in London in October 2008.
 
-{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-white-christmas.jpg" "Damon & Naomi - White Christmas (CDR)" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-white-xmas.jpg" "Damon & Naomi - White Christmas (CDR)" %}
 
 The CDR was in a plastic envelope with a card insert, and each disc had a different hand design drawn on it by Naomi, I'm not sure _how_ different since I've only ever seen the one copy I own.
 

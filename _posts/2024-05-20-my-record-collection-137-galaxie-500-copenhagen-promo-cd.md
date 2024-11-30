@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#137: Galaxie 500 - Copenhagen (promo CD)"
+title: "[144] - #137: Galaxie 500 - Copenhagen (promo CD)"
 sitemap: true
 series-title: My record collection
 catno: 10/008

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#126: Luna at The Underworld February 1992 (MC)"
+title: "[131] - #126: Luna at The Underworld February 1992 (MC)"
 sitemap: true
 series-title: My record collection
 github-comments-issueid:

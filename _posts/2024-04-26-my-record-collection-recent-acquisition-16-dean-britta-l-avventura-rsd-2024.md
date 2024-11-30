@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Recent acquisition #06: Dean & Britta - L''Avventura (RSD 2024)'
+title: '[136] - #R06: Dean & Britta - L''Avventura (RSD 2024)'
 sitemap: true
 series-title: My record collection
 github-comments-issueid:

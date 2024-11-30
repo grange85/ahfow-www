@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#066: Magic Hour - Heads Down"
+title: "[068] - #066: Magic Hour - Heads Down"
 sitemap: true
 series-title: My record collection
 author:

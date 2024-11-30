@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Recent acquisition #03: Naomi Yang - Never Be a Punching Bag for Nobody'
+title: '[071] - #R03: Naomi Yang - Never Be a Punching Bag for Nobody'
 sitemap: true
 series-title: My record collection
 author:

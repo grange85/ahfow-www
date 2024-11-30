@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#012: International Sad Hits Volume One (CD)"
+title: "[012] - #012: International Sad Hits Volume One (CD)"
 series-title: My record collection
 author:
   display_name: Andy

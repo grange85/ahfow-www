@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#188: Cagney & Lacee - Borderline / Orange"
+title: "[196] - #188: Cagney & Lacee - Borderline / Orange"
 sitemap: true
 comments: true
 series-title: My record collection

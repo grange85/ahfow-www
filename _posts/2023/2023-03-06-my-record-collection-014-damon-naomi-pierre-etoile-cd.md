@@ -1,7 +1,7 @@
 ---
 layout: post
 series-title: My record collection
-title: "#014: Damon & Naomi - Pierre Etoile (CD)"
+title: "[014] - #014: Damon & Naomi - Pierre Etoile (CD)"
 author:
   display_name: Andy
   login: admin

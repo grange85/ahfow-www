@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#029: Luna - Speedbumps'
+title: '[029] - #029: Luna - Speedbumps'
 series-title: My record collection 
 author:
   display_name: Andy

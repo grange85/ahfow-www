@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#101: Luna - Speedbumps / Astronaut / Eyes in My Smoke"
+title: "[106] - #101: Luna - Speedbumps / Astronaut / Eyes in My Smoke"
 sitemap: true
 series-title: My record collection
 author:

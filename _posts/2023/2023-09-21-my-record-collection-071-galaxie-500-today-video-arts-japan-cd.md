@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#071: Galaxie 500 - Today (Video Arts Japan CD)"
+title: "[074] - #071: Galaxie 500 - Today (Video Arts Japan CD)"
 sitemap: true
 series-title: My record collection
 author:

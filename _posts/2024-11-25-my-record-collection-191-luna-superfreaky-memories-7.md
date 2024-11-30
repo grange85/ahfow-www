@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#191: Luna - Superfreaky Memories (7")'
+title: '[199] - #191: Luna - Superfreaky Memories (7")'
 sitemap: true
 comments: true
 series-title: My record collection

@@ -1,7 +1,7 @@
 ---
 layout: post
 series-title: My record collection
-title: "#011: Dean Wareham Live at St Pancras Old Church (red cassette)"
+title: "[011] - #011: Dean Wareham Live at St Pancras Old Church (red cassette)"
 author:
   display_name: Andy
   login: admin

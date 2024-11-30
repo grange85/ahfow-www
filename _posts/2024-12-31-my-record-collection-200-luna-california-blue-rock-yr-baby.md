@@ -1,14 +1,15 @@
 ---
 layout: post
-title: '#200: Luna - California Blue / Rock Yr Baby'
+title: "[210] - #200: Luna - California Blue / Rock Yr Baby"
 sitemap: true
-series-title: My record collection 
+series-title: My record collection
+catno: 11/069
 author:
   display_name: Andy
   login: admin
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
-imageurl:
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-california-blue-rock-yr-baby.jpg
 categories:
 - my record collection
 - luna
@@ -16,10 +17,11 @@ tags:
 - new year's eve
 - rock yr baby
 - george mccrae
+date: 2024-12-31 00:00 +0000
 ---
 I had intended giving you all a break between Christmas and New Year but then I decided it would probably be appropriate to throw together a post about Luna's New Year's Eve perennial - their wonderful cover of George McCrae's disco masterpiece _Rock Your Baby_&dagger;, which had been a live staple for years before this post-reunion studio version was released in 2017.
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-california-blue-rock-yr-baby.jpg" "Luna - California Blue / Rock Yr Baby" %}
 
 The single is on the AA-side (or B-side as I like to call it) of the single with a cover of Roy Orbison's _California Blue_ on the A-side. Both were recorded at Palmetto Studios with Jason Quever so I'll assume as part of the sessions recording all those other covers for _A Sentimental Education_.
 
@@ -56,7 +58,11 @@ A live version, recorded in San Francisco on Luna's farewell tour featured in th
 
 {% ahfowvideo "_YytQVOgMwY" "Luna - Rock Your Baby (Tell Me Do You Miss Me)" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/rock-your-baby-tmdymm-grab-01.jpg" %}
 
- - *Catalogue Number:* AHFOW 11/0069
+Here's to 2025 - I hope it's good for you all, and that I get to see some of you at Dean's Euro shows in April!
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/ring-out-the-old-ring-in-the-new.jpg" "Ring-a-ding-ding" %}
+
+ - *Catalogue Number:* AHFOW 11/069
  - *Artist:* Luna
  - *Title:* California Blue / Rock Yr Baby
  - *Packaging:* Card sleeve
@@ -65,4 +71,4 @@ A live version, recorded in San Francisco on Luna's farewell tour featured in th
 
 &dagger; _Not entirely sure why Luna have decided to call the  track Rock **Yr** Baby - apart from legacy setlist laziness that made it onto this release. It got called Rock **Your** Baby on the TMDYMM LP._
 
-&Dagger; _I then asked if I could buy a second copy of each - one for show and one for blow - so ... expect this to turn up again... maybe next year!_
+&Dagger; _I then asked if I could buy a second copy of each - one for show and one for blow - so ... expect this to turn up again... maybe next year! Perhaps I can talk about the A-side then, and most probably the sleeve!_

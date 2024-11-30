@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#030: Dean & Britta - I'll Keep It With Mine"
+title: "[030] - #030: Dean & Britta - I'll Keep It With Mine"
 sitemap: true
 series-title: My record collection
 author:

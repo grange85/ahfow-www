@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#035: Luna - Bewitched"
+title: "[035] - #035: Luna - Bewitched"
 sitemap: true
 series-title: My record collection
 author:

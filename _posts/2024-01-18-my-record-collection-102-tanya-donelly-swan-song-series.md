@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#102: Tanya Donelly - Swan Song Series"
+title: "[107] - #102: Tanya Donelly - Swan Song Series"
 sitemap: true
 series-title: My record collection
 author:

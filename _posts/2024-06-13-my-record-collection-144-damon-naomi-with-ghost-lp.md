@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#144: Damon & Naomi with Ghost (LP) and Femme Fatale / My Flower 7"'
+title: '[151] - #144: Damon & Naomi with Ghost (LP) and Femme Fatale / My Flower 7"'
 sitemap: true
 series-title: My record collection
 catno: 

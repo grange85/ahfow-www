@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#165: Galaxie 500 - On Fire (CD)"
+title: "[172] - #165: Galaxie 500 - On Fire (CD)"
 sitemap: true
 series-title: My record collection
 catno: 10/056

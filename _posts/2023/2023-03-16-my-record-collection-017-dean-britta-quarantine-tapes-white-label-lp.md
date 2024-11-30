@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#017: Dean & Britta - Quarantine Tapes (white label LP)"
+title: "[017] - #017: Dean & Britta - Quarantine Tapes (white label LP)"
 series-title: My record collection
 author:
   display_name: Andy

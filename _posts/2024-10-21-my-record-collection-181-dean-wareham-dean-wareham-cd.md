@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#181: Dean Wareham - Dean Wareham (CD)"
+title: "[189] - #181: Dean Wareham - Dean Wareham (CD)"
 sitemap: true
 comments: true
 series-title: My record collection

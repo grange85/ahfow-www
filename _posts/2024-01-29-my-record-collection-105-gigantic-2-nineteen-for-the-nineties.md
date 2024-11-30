@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#105: Gigantic! 2 - Nineteen for the Nineties"
+title: "[110] - #105: Gigantic! 2 - Nineteen for the Nineties"
 sitemap: true
 series-title: My record collection
 author:

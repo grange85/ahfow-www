@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#193: Galaxie 500 - Copenhagen (LP)"
+title: "[201] - #193: Galaxie 500 - Copenhagen (LP)"
 sitemap: true
 comments: true
 series-title: My record collection

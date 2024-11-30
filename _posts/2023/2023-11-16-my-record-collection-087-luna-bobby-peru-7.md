@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#087: Luna - Bobby Peru (7")'
+title: '[090] - #087: Luna - Bobby Peru (7")'
 sitemap: true
 series-title: My record collection
 github-comments-issueid: 5

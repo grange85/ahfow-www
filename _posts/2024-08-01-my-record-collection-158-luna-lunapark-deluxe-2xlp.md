@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#158: Luna - Lunapark (Deluxe 2xLP)"
+title: "[165] - #158: Luna - Lunapark (Deluxe 2xLP)"
 sitemap: true
 series-title: My record collection
 catno: 12/087

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#074: Damon & Naomi - With Ghost (CD)"
+title: "[077] - #074: Damon & Naomi - With Ghost (CD)"
 sitemap: true
 series-title: My record collection
 author:

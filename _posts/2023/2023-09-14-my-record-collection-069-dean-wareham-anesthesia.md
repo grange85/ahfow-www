@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#069: Dean Wareham - Anesthesia"
+title: "[072] - #069: Dean Wareham - Anesthesia"
 sitemap: true
 series-title: My record collection
 author:

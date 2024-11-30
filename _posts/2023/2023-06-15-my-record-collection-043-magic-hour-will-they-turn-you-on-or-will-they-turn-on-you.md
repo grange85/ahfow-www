@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#043: Magic Hour - Will They Turn You On or Will They
+title: '[043] - #043: Magic Hour - Will They Turn You On or Will They
   Turn on You'
 sitemap: true
 series-title: My record collection 

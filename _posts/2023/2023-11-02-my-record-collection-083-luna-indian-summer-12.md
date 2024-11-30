@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#083: Luna - Indian Summer 12"'
+title: '[086] - #083: Luna - Indian Summer 12"'
 sitemap: true
 series-title: My record collection
 author:

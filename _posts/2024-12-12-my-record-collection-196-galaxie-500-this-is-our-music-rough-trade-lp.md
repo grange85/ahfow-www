@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#196: Galaxie 500 - This Is Our Music (Rough Trade UK LP)"
+title: "[206] - #196: Galaxie 500 - This Is Our Music (Rough Trade UK LP)"
 sitemap: true
 comments: true
 series-title: My record collection

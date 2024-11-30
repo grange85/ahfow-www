@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#077: Galaxie 500 - Blue Thunder"
+title: "[080] - #077: Galaxie 500 - Blue Thunder"
 sitemap: true
 series-title: My record collection
 author:

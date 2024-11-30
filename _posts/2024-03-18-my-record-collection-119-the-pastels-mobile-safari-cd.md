@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#119: The Pastels - Mobile Safari (CD)'
+title: '[124] - #119: The Pastels - Mobile Safari (CD)'
 sitemap: true
 series-title: My record collection 
 github-comments-issueid:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#103: Galaxie 500 - Copenhagen"
+title: "[108] - #103: Galaxie 500 - Copenhagen"
 sitemap: true
 series-title: My record collection
 author:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#123: Dean & Britta live at The Metro"
+title: "[128] - #123: Dean & Britta live at The Metro"
 sitemap: true
 series-title: My record collection
 github-comments-issueid:

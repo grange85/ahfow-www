@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#098: Cagney & Lacee - Six Feet of Chain"
+title: "[103] - #098: Cagney & Lacee - Six Feet of Chain"
 sitemap: true
 series-title: My record collection
 author:

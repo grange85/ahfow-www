@@ -1,7 +1,7 @@
 ---
 layout: post
 series-title: 'My record collection'
-title: '#002: Luna - Close Cover Before Striking (CD)'
+title: '[002] - #002: Luna - Close Cover Before Striking (CD)'
 author:
   display_name: Andy
   login: admin

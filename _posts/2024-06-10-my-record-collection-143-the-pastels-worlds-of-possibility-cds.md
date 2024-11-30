@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#143: The Pastels - Worlds of Possibility (CDS)"
+title: "[150] - #143: The Pastels - Worlds of Possibility (CDS)"
 sitemap: true
 series-title: My record collection
 catno: 10/151

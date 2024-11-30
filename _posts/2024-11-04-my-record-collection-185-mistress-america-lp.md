@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#185: Mistress America (LP) - times two"
+title: "[193] - #185: Mistress America (LP) - times two"
 sitemap: true
 comments: true
 series-title: My record collection

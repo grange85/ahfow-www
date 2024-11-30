@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#100: Galaxie 500 - The extended demo tape"
+title: "[105] - #100: Galaxie 500 - The extended demo tape"
 sitemap: true
 series-title: My record collection
 author:

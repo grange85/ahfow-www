@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#084: therealangelcorpuschristi"
+title: "[087] - #084: therealangelcorpuschristi"
 sitemap: true
 series-title: My record collection
 author:

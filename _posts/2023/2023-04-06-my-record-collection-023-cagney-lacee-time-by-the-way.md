@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#023: Cagney & Lacee - Time / By The Way ..."
+title: "[023] - #023: Cagney & Lacee - Time / By The Way ..."
 series-title: My record collection
 author:
   display_name: Andy

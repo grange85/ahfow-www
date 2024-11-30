@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#166: Guitarrorists = Player + Instrument (2xLP)"
+title: "[173] - #166: Guitarrorists = Player + Instrument (2xLP)"
 sitemap: true
 series-title: My record collection
 catno: 12/079

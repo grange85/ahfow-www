@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#121: Fuxa Commits Suicide (CD)"
+title: "[126] - #121: Fuxa Commits Suicide (CD)"
 sitemap: true
 series-title: My record collection
 github-comments-issueid:

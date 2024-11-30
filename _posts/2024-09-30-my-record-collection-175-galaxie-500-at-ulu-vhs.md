@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#175: Galaxie 500 at ULU (VHS)"
+title: "[182] - #175: Galaxie 500 at ULU (VHS)"
 sitemap: true
 series-title: My record collection
 catno: 13/016

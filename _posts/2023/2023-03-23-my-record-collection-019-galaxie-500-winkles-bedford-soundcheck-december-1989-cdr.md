@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#019: Galaxie 500 - Winkles, Bedford soundcheck - December 1989 (CDR)"
+title: "[019] - #019: Galaxie 500 - Winkles, Bedford soundcheck - December 1989 (CDR)"
 series-title: My record collection
 author:
   display_name: Andy

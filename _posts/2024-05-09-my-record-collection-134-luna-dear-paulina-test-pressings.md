@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#134: Luna - Dear Paulina test pressings"
+title: "[141] - #134: Luna - Dear Paulina test pressings"
 sitemap: true
 series-title: My record collection
 catno: 

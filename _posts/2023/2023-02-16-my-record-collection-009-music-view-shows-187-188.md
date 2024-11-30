@@ -1,7 +1,7 @@
 ---
 layout: post
 series-title: My record collection
-title: "#009: Music View Shows 187 & 188 (CD)"
+title: "[009] - #009: Music View Shows 187 & 188 (CD)"
 author:
   display_name: Andy
   login: admin

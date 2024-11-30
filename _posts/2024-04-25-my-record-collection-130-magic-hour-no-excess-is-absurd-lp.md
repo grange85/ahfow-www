@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#130: Magic Hour - No Excess is Absurd (LP)"
+title: "[135] - #130: Magic Hour - No Excess is Absurd (LP)"
 sitemap: true
 series-title: My record collection
 github-comments-issueid:

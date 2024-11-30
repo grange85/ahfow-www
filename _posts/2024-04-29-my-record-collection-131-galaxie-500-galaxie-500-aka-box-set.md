@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#131: Galaxie 500 - Galaxie 500 (aka Box Set)"
+title: "[137] - #131: Galaxie 500 - Galaxie 500 (aka Box Set)"
 sitemap: true
 series-title: My record collection
 github-comments-issueid:

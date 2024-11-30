@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#180: Luna - Season of The Witch (10")'
+title: '[188] - #180: Luna - Season of The Witch (10")'
 sitemap: true
 comments: true
 series-title: My record collection

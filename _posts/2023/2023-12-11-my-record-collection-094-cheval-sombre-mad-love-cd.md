@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#094: Cheval Sombre - Mad Love (CD)"
+title: "[097] - #094: Cheval Sombre - Mad Love (CD)"
 sitemap: true
 series-title: My record collection
 author:

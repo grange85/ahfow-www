@@ -1,7 +1,7 @@
 ---
 layout: post
 series-title: 'My record collection'
-title: '#001: Pierre Etoile (12")'
+title: '[001] - #001: Pierre Etoile (12")'
 author: 
   display_name: Andy
   login: admin

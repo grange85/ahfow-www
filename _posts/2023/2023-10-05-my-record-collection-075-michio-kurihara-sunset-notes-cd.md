@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#075: Michio Kurihara - Sunset Notes (CD)"
+title: "[078] - #075: Michio Kurihara - Sunset Notes (CD)"
 sitemap: true
 series-title: My record collection
 author:

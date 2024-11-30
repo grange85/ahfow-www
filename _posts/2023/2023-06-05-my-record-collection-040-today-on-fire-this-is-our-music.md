@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#040: Today / On Fire / This Is Our Music'
+title: '[040] - #040: Today / On Fire / This Is Our Music'
 sitemap: true
 series-title: My record collection 
 author:

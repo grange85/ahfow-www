@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#152: Luna - Dear Diary / Sweet Child o' Mine (promo CD)"
+title: "[159] - #152: Luna - Dear Diary / Sweet Child o' Mine (promo CD)"
 sitemap: true
 series-title: My record collection
 catno: 10/007

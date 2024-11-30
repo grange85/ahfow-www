@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#161: Luna - Tell Me Do You Miss Me (LP)"
+title: "[168] - #161: Luna - Tell Me Do You Miss Me (LP)"
 sitemap: true
 series-title: My record collection
 catno:

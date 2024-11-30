@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#097: Old Toy Trains / He's Coming Home - Dean & Britta (blue vinyl)"
+title: "[101] - #097: Old Toy Trains / He's Coming Home - Dean & Britta (blue vinyl)"
 sitemap: true
 series-title: My record collection
 author:

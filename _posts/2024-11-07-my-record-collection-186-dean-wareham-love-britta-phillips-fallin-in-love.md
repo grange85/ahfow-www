@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#186: Dean Wareham - Love / Britta Phillips - Fallin' in Love"
+title: "[194] - #186: Dean Wareham - Love / Britta Phillips - Fallin' in Love"
 sitemap: true
 comments: true
 series-title: My record collection

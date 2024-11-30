@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#124: Luna - Rendezvous promo CD"
+title: "[129] - #124: Luna - Rendezvous promo CD"
 sitemap: true
 series-title: My record collection
 github-comments-issueid:

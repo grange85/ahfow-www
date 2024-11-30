@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#153: Dean Wareham - I Have Nothing to Say to the Mayor of LA (test pressing)"
+title: "[160] - #153: Dean Wareham - I Have Nothing to Say to the Mayor of LA (test pressing)"
 sitemap: true
 series-title: My record collection
 catno: 12/085

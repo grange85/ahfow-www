@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#078: Damon & Naomi - More Sad Hits"
+title: "[081] - #078: Damon & Naomi - More Sad Hits"
 sitemap: true
 series-title: My record collection
 author:

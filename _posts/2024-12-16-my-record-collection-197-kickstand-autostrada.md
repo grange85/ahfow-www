@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#197: Kickstand - Autostrada"
+title: "[207] - #197: Kickstand - Autostrada"
 sitemap: true
 comments: true
 series-title: My record collection

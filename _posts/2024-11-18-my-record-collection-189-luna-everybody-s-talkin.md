@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#189: Luna - Everybody's Talkin'"
+title: "[197] - #189: Luna - Everybody's Talkin'"
 sitemap: true
 comments: true
 series-title: My record collection

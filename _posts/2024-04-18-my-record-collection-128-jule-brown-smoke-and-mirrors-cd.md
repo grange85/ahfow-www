@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#128: Jule Brown - Smoke and Mirrors (CD)"
+title: "[133] - #128: Jule Brown - Smoke and Mirrors (CD)"
 sitemap: true
 series-title: My record collection
 github-comments-issueid:

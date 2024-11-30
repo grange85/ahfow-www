@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#049: Dean Wareham - Emancipated Hearts (LP)"
+title: "[049] - #049: Dean Wareham - Emancipated Hearts (LP)"
 series-title: My record collection
 author:
   display_name: Andy

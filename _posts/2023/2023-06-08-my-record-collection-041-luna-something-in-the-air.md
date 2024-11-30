@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#041: Luna - Something in the Air"
+title: "[041] - #041: Luna - Something in the Air"
 sitemap: true
 series-title: My record collection
 author:

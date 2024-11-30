@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#176: Various Artists - Gathered Leaves"
+title: "[183] - #176: Various Artists - Gathered Leaves"
 sitemap: true
 comments: true
 series-title: My record collection

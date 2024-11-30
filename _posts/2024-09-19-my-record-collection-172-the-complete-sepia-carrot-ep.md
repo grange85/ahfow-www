@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#172: The Complete Sepia Carrot EP"
+title: "[179] - #172: The Complete Sepia Carrot EP"
 sitemap: true
 series-title: My record collection
 catno: 11/026

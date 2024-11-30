@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#095: Galaxie 500 - Blue Thunder / Victory Garden (promo)"
+title: "[098] - #095: Galaxie 500 - Blue Thunder / Victory Garden (promo)"
 sitemap: true
 series-title: My record collection
 author:

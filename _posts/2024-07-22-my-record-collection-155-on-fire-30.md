@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#155: On Fire | 30"
+title: "[162] - #155: On Fire | 30"
 sitemap: true
 series-title: My record collection
 catno: 10/157

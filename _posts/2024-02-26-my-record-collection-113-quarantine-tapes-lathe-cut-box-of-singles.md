@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#113: Quarantine Tapes (lathe cut box of singles)"
+title: "[118] - #113: Quarantine Tapes (lathe cut box of singles)"
 sitemap: true
 series-title: My record collection
 github_comments_issueid:

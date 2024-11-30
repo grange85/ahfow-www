@@ -1,7 +1,7 @@
 ---
 layout: post
 series-title: My record collection
-title: "#013: Cheval Sombre - Mad Love (LP)"
+title: "[013] - #013: Cheval Sombre - Mad Love (LP)"
 author:
   display_name: Andy
   login: admin

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#061: Galaxie 500 - unreleased sessions and live at The Rat"
+title: "[063] - #061: Galaxie 500 - unreleased sessions and live at The Rat"
 sitemap: true
 series-title: My record collection
 author:

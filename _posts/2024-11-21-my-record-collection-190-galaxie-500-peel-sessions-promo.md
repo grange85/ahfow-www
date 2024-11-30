@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#190: Galaxie 500 - Peel Sessions (promo)"
+title: "[198] - #190: Galaxie 500 - Peel Sessions (promo)"
 sitemap: true
 comments: true
 series-title: My record collection

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#096: Luna - Time / Egg Nog (red vinyl)"
+title: "[100] - #096: Luna - Time / Egg Nog (red vinyl)"
 sitemap: true
 series-title: My record collection
 author:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#039: Luna Live LP"
+title: "[039] - #039: Luna Live LP"
 sitemap: true
 series-title: My record collection
 author:

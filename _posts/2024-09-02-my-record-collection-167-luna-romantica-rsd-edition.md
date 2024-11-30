@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#167: Luna - Romantica (RSD edition)"
+title: "[174] - #167: Luna - Romantica (RSD edition)"
 sitemap: true
 series-title: My record collection
 catno: 12/047

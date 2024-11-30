@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#027: Galaxie 500 - Today (Schemer CD)"
+title: "[027] - #027: Galaxie 500 - Today (Schemer CD)"
 series-title: My record collection
 author:
   display_name: Andy

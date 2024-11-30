@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#070: Luna - Lunafied (CDR)"
+title: "[073] - #070: Luna - Lunafied (CDR)"
 sitemap: true
 series-title: My record collection
 author:

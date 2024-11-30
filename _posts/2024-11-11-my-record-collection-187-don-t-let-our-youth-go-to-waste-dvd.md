@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#187: Don't Let Our Youth Go to Waste (DVD)"
+title: "[195] - #187: Don't Let Our Youth Go to Waste (DVD)"
 sitemap: true
 comments: true
 series-title: My record collection

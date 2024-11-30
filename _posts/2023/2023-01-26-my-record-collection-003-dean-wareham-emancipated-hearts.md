@@ -1,7 +1,7 @@
 ---
 layout: post
 series-title: 'My record collection'
-title: '#003: Dean Wareham - Emancipated Hearts (CD)'
+title: '[003] - #003: Dean Wareham - Emancipated Hearts (CD)'
 author:
   display_name: Andy
   login: admin

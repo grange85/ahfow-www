@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#170: Luna live at The Borderline, London in 1993"
+title: "[177] - #170: Luna live at The Borderline, London in 1993"
 sitemap: true
 series-title: My record collection
 catno: 16/014

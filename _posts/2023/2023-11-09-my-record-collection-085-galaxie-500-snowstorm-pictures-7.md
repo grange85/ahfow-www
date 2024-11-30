@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#085: Galaxie 500 - Snowstorm / Pictures (7")'
+title: '[088] - #085: Galaxie 500 - Snowstorm / Pictures (7")'
 sitemap: true
 series-title: My record collection
 github-comments-issueid: 2

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#179: Luna - ROUNDUP (CD)"
+title: "[187] - #179: Luna - ROUNDUP (CD)"
 sitemap: true
 comments: true
 series-title: My record collection

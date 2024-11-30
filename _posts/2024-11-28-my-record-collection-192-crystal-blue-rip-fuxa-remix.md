@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#192: Dean & Britta - Crystal Blue RIP (F&uuml;xa remix)"
+title: "[200] - #192: Dean & Britta - Crystal Blue RIP (F&uuml;xa remix)"
 sitemap: true
 comments: true
 series-title: My record collection

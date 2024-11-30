@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Recent acquisition #04: Dean Wareham - Live at St Pancras Old Church December
+title: '[099] - #R04: Dean Wareham - Live at St Pancras Old Church December
   2013'
 sitemap: true
 series-title: My record collection

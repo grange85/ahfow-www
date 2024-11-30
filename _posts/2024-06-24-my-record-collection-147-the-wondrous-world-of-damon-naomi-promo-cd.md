@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#147: The Wondrous World of Damon & Naomi (promo CD)"
+title: "[154] - #147: The Wondrous World of Damon & Naomi (promo CD)"
 sitemap: true
 series-title: My record collection
 github-comments-issueid: 

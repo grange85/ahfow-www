@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#159: Lys Guillorn (CD)"
+title: "[166] - #159: Lys Guillorn (CD)"
 sitemap: true
 series-title: My record collection
 catno: 10/164

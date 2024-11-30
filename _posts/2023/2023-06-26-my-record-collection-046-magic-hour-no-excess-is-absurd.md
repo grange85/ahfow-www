@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#046: Magic Hour - No Excess Is Absurd"
+title: "[046] - #046: Magic Hour - No Excess Is Absurd"
 sitemap: true
 series-title: My record collection
 author:

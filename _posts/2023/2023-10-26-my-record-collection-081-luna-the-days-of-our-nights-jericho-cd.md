@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#081: Luna - The Days of Our Nights (Jericho CD)"
+title: "[084] - #081: Luna - The Days of Our Nights (Jericho CD)"
 sitemap: true
 series-title: My record collection
 author:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#107: Various Artists - What Else Do You Do"
+title: "[112] - #107: Various Artists - What Else Do You Do"
 sitemap: true
 series-title: My record collection
 author:

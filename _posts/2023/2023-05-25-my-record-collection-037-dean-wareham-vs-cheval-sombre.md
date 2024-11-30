@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#037: Dean Wareham vs Cheval Sombre'
+title: '[037] - #037: Dean Wareham vs Cheval Sombre'
 sitemap: true
 series-title: My record collection 
 author:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#038: Luna - Hedgehog / 23 Minutes in Brussels"
+title: "[038] - #038: Luna - Hedgehog / 23 Minutes in Brussels"
 sitemap: true
 series-title: My record collection
 author:

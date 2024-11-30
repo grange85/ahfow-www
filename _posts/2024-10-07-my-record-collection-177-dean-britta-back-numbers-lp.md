@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#177: Dean & Britta - Back Numbers (LP)"
+title: "[184] - #177: Dean & Britta - Back Numbers (LP)"
 sitemap: true
 comments: true
 series-title: My record collection

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#056: Dean & Britta - Mistress America"
+title: "[056] - #056: Dean & Britta - Mistress America"
 sitemap: true
 series-title: My record collection
 author:

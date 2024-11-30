@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#118: Dean Wareham - Emancipated Hearts (test pressing)"
+title: "[123] - #118: Dean Wareham - Emancipated Hearts (test pressing)"
 sitemap: true
 series-title: My record collection
 github-comments-issueid:

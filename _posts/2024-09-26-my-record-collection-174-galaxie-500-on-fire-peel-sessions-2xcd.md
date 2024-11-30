@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#174: Galaxie 500 - On Fire / Peel Sessions (2xCD)"
+title: "[181] - #174: Galaxie 500 - On Fire / Peel Sessions (2xCD)"
 sitemap: true
 series-title: My record collection
 catno: 10/075

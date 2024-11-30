@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#086: Damon & Naomi - Fortune"
+title: "[089] - #086: Damon & Naomi - Fortune"
 sitemap: true
 series-title: My record collection
 github-comments-issueid: 3

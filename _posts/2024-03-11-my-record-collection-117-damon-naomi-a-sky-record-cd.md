@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#117: Damon & Naomi with Kurihara - A Sky Record (CD)"
+title: "[122] - #117: Damon & Naomi with Kurihara - A Sky Record (CD)"
 sitemap: true
 series-title: My record collection
 github-comments-issueid:

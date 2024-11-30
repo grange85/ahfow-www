@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#048: Shapir-O''Rama - El mundo de vapor Valentia (old
+title: '[048] - #048: Shapir-O''Rama - El mundo de vapor Valentia (old
   Vienna)'
 sitemap: true
 series-title: My record collection 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#065: Pop Romantique: French Pop Classics"
+title: "[067] - #065: Pop Romantique: French Pop Classics"
 sitemap: true
 series-title: My record collection
 author:

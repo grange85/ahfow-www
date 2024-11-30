@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#132: 13 Most Beautiful... songs for Andy Warhol's Screen Tests (DVD)"
+title: "[139] - #132: 13 Most Beautiful... songs for Andy Warhol's Screen Tests (DVD)"
 sitemap: true
 series-title: My record collection
 github-comments-issueid:
