@@ -3,7 +3,7 @@ layout: post
 title: "[163] - #156: Pee Shy - Who Let All The Monkeys Out?"
 sitemap: true
 series-title: My record collection
-catno:
+catno: 10/024
 comments: true
 author:
   display_name: Andy

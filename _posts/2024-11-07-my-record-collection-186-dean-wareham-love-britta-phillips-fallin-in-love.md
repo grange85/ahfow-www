@@ -4,7 +4,7 @@ title: "[194] - #186: Dean Wareham - Love / Britta Phillips - Fallin' in Love"
 sitemap: true
 comments: true
 series-title: My record collection
-catno:
+catno: 11/034
 author:
   display_name: Andy
   login: admin
