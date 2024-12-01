@@ -22,7 +22,7 @@ Galaxie 500's live album _Copenhagen_ was eventually released on vinyl for Recor
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-copenhagen-rsd2020-lp.jpg" "Galaxie 500 - Copenhagen (LP)" %}
 
-The show was recorded in Copenhagen on the 1st December 1990 - that is 35 years ago today&dagger; - at the end of the band's last European tour and was recorded by Danish National Radio, or at least some of it was. Turns out that from somewhere in the middle of _Listen The Snow is Falling_ you're no longer listening to the 24 track master!
+The show was recorded in Copenhagen on the 1st December 1990 - that is 34 years ago today&dagger; - at the end of the band's last European tour and was recorded by Danish National Radio, or at least some of it was. Turns out that from somewhere in the middle of _Listen The Snow is Falling_ you're no longer listening to the 24 track master!
 
 <blockquote>
 <p>That’s when I learned the radio hadn’t taped the whole show!</p>
