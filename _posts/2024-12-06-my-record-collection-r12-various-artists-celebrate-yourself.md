@@ -41,6 +41,10 @@ As part of Sonic Cathedral's birthday celebrations there was also, separately re
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/sonic-cathedral-celebrate-yourself-booklet.jpg" "Celebrating Ourselves! booklet" %}
 
+As well as all the Dean Wareham associated releases Sonic Cathedral have been pumping out lots of other brilliant music - you pretty much can't go wrong buying anything from the catalogue - which makes this compilation astounding value for money and a perfect Sonic Cathedral intro/catch-up if you're not already worshipping!
+
+Thanks Nat/Sonic Cathedral for being amazing for 20 years, and here's to the next 20!
+
  - *Catalogue Number:* AHFOW 10/172
  - *Artist:* Various artists
  - *Title:* Celebrate Yourself! The Sonic Cathedral Story 2004–2024
