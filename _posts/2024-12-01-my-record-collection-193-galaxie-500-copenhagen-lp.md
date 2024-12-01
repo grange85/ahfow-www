@@ -19,7 +19,7 @@ tags:
 - rsd
 date: 2024-12-01 00:00 +0000
 ---
-Galaxie 500's live album _Copenhagen_ was eventually released on vinyl for Record Store Day in 2020 - obviously because of Covid there wasn't really a _Record Store Day_ in 2020 - instead there were a series of "drops" where the scheduled records arrived in the shops. Copenhagen finally hit the stores on the 29th August.
+Galaxie 500's live album _Copenhagen_ was finally released on vinyl for Record Store Day in 2020 - obviously because of Covid there wasn't really a _Record Store Day_ in 2020 - instead there were a series of "drops" where the scheduled records arrived in the shops. Copenhagen finally hit the stores on the 29th August.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-copenhagen-rsd2020-lp.jpg" "Galaxie 500 - Copenhagen (LP)" %}
 
