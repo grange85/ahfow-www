@@ -24,7 +24,7 @@ Damon & Naomi's [20-20-20 online shop](https://www.20-20-20.com/store) is curren
 
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500-uncollected-2024.jpg" "Galaxie 500 - Uncollected" %}
 
-o, [head over and fill your boots](https://www.20-20-20.com/store) using the code HOLIDAY20 at checkout.
+So, [head over and fill your boots](https://www.20-20-20.com/store) using the code HOLIDAY20 at checkout.
 
 Also. if you haven't grabbed the Dean & Britta & Sonic Boom Christmas album "A Peace of Us", [Carpark Records are currently selling it at half-price](https://store.carparkrecords.com/products/cak177-dean-britta-sonic-boom-a-peace-of-us?variant=49567840534810) so just $13.50
 
