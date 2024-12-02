@@ -20,7 +20,7 @@ categories:
 tags:
 - 
 ---
-Damon & Naomi's [20-20-20 online shop](https://www.20-20-20.com/store) is currently having a sale where everything is 20% off, including the regent [Galaxie 500 Uncollected]() collection on vinyl, cd or cassette and the lovely Galaxie 500 bass drum T-shirts. 
+Damon & Naomi's [20-20-20 online shop](https://www.20-20-20.com/store) is currently having a sale where everything is 20% off, including the recent [Galaxie 500 Uncollected](https://www.20-20-20.com/store/p/galaxie-500-uncollected-lp) collection on vinyl, cd or cassette and the lovely Galaxie 500 bass drum T-shirts. 
 
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500-uncollected-2024.jpg" "Galaxie 500 - Uncollected" %}
 
