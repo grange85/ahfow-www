@@ -42,16 +42,16 @@ Dean</p>
 </blockquote>
 <p class="caption">Email from Dean Wareham (December 2004)</p>
 
-... and since then there have been a fairly regular trickle of Xmassy goodness from Dean...
+... and since then there has been a fairly regular trickle of Xmassy goodness from Dean...
 
- - 2004 - Dean & Britta and Sonic Boom release ["Old Toy Trains"](/2017/12/15/xmas-countdown-3-dean-warehams-xmas-gifts/) as a download via Fuzzywuzzy and AHFoW.
- - 2006 - Sonic Boom does a [remix of "Old Toy Trains"](/2017/12/15/xmas-countdown-3-dean-warehams-xmas-gifts/) and it is once again shared digitally.
- - 2007 - ["Old Toy Trains" / "He's Coming Home"](/2023/12/21/my-record-collection-097-old-toy-trains-hes-coming-home/) gets a vinyl release on Chimney Rocks! records.
- - 2014 - Dean does an Aquarium Drunkard "Lagnapipe session" with "Christmas Can't Be Far Away" and ["Stille Nacht"](https://youtu.be/3auutZ0njng).
- - 2017 - Dean & Britta and Sonic Boom release ["Little Altar Boy"](https://www.amazon.co.uk/Little-Altar-Boy-Sonic-Boom/dp/B0771BKTKV) for "Home for The Holidays" an Amazon digital album.
- - 2019 - Dean covers ["Snow is Falling in Manhattan"](https://soundcloud.com/section26/dean-wareham-snow-is-falling-in-manhattan) for a David Berman tribute album.
- - 2020 - Dean & Britta do a gorgeous Instgram Live performance of ["Do They Know How Christmas Trees Are Grown"](https://www.youtube.com/watch?v=_mgMlLoxcU0)
- - 2020 - Dean & Britta do a Christmas live stream that includes ["Happy Xmas (War is Over)"](https://www.youtube.com/watch?v=nKzbZ3KcuuI), all of the above... and more.
+ - 2004 - Dean & Britta and Sonic Boom released ["Old Toy Trains"](/2017/12/15/xmas-countdown-3-dean-warehams-xmas-gifts/) as a download via Fuzzywuzzy and AHFoW.
+ - 2006 - Sonic Boom did a [remix of "Old Toy Trains"](/2017/12/15/xmas-countdown-3-dean-warehams-xmas-gifts/) and it is once again shared digitally.
+ - 2007 - ["Old Toy Trains" / "He's Coming Home"](/2023/12/21/my-record-collection-097-old-toy-trains-hes-coming-home/) got a vinyl release on Chimney Rocks! records.
+ - 2014 - Dean did an Aquarium Drunkard "Lagnapipe session" with "Christmas Can't Be Far Away" and ["Stille Nacht"](https://youtu.be/3auutZ0njng).
+ - 2017 - Dean & Britta and Sonic Boom released ["Little Altar Boy"](https://www.amazon.co.uk/Little-Altar-Boy-Sonic-Boom/dp/B0771BKTKV) for "Home for The Holidays" an Amazon digital album.
+ - 2019 - Dean covered ["Snow is Falling in Manhattan"](https://soundcloud.com/section26/dean-wareham-snow-is-falling-in-manhattan) for a David Berman tribute album.
+ - 2020 - Dean & Britta did a gorgeous Instgram Live performance of ["Do They Know How Christmas Trees Are Grown"](https://www.youtube.com/watch?v=_mgMlLoxcU0)
+ - 2020 - Dean & Britta did a Christmas live stream that includes ["Happy Xmas (War is Over)"](https://www.youtube.com/watch?v=nKzbZ3KcuuI), all of the above... and more.
 
 So, it was no surprise to hear early in 2024 that Dean & Britta were working with Sonic Boom on what was to become A Peace of Us.
 
