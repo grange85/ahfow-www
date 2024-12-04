@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Audio: lost tracks: Fuzzy Wuzzy (demo) by Luna '
+title: 'Fuzzy Wuzzy (demo) by Luna '
+series-title: "Lost tracks"
 author:
   display_name: Andy
   login: admin
