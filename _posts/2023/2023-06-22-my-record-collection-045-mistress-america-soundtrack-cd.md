@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[045] - #045: Mistress America soundtrack CD"
+title: "[045] Mistress America soundtrack CD"
 sitemap: true
 series-title: My record collection
 author:

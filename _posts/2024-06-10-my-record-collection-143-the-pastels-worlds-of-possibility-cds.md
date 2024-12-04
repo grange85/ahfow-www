@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[150] - #143: The Pastels - Worlds of Possibility (CDS)"
+title: "[150] The Pastels - Worlds of Possibility (CDS)"
 sitemap: true
 series-title: My record collection
 catno: 10/151
@@ -33,5 +33,5 @@ Gerry Love also gets a credit, and there are three other, non-album, tracks on h
  - *Format:* CDS
 
  Previously in [my record collection](/category/my-record-collection):
-  - [#031: The Pastels - Illumination](/2023/05/04/my-record-collection-031-the-pastels-illumination/)
-  - [#119: The Pastels - Mobile Safari (CD)](/2024/03/18/my-record-collection-119-the-pastels-mobile-safari-cd/)
+  - [[031] The Pastels - Illumination](/2023/05/04/my-record-collection-031-the-pastels-illumination/)
+  - [[124] The Pastels - Mobile Safari (CD)](/2024/03/18/my-record-collection-119-the-pastels-mobile-safari-cd/)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[113] - #108: Galaxie 500 - Oblivious (Chemical Imbalance)"
+title: "[113] Galaxie 500 - Oblivious (Chemical Imbalance)"
 sitemap: true
 series-title: My record collection
 author:

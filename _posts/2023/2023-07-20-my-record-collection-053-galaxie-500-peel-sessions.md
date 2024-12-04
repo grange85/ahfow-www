@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[053] - #053: Galaxie 500 - Peel Sessions"
+title: "[053] Galaxie 500 - Peel Sessions"
 sitemap: true
 series-title: My record collection
 author:

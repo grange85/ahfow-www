@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[202] - #R11: Dean & Britta & Sonic Boom - A Peace of Us'
+title: '[202] Dean & Britta & Sonic Boom - A Peace of Us'
 date: 2024-12-02 00:00 +0000
 sitemap: true
 comments: true

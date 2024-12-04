@@ -1,7 +1,7 @@
 ---
 layout: post
 series-title: 'My record collection'
-title: '[007] - #007: Guitarrorists (CD)'
+title: '[007] Guitarrorists (CD)'
 author:
   display_name: Andy
   login: admin

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[134] - #129: Luna - Romantica (promo CD)"
+title: "[134] Luna - Romantica (promo CD)"
 sitemap: true
 series-title: My record collection
 github-comments-issueid:
@@ -54,5 +54,5 @@ Since there haven't been enough cat pics in the series here's our much missed Pe
  - [Buy 'Romantica' on Bandcamp](https://luna.bandcamp.com/album/romantica)
 
  Previously in [my record collection](/category/my-record-collection):
-  - [#004: Luna - Romantica (LP)](/2023/01/30/my-record-collection-004-luna-romantica-lp/)
-  - [#016: Luna - Romantica (CD)](/2023/03/13/my-record-collection-016-luna-romantica-cd/)
+  - [[004] Luna - Romantica (LP)](/2023/01/30/my-record-collection-004-luna-romantica-lp/)
+  - [[016] Luna - Romantica (CD)](/2023/03/13/my-record-collection-016-luna-romantica-cd/)

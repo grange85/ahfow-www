@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[097] - #094: Cheval Sombre - Mad Love (CD)"
+title: "[097] Cheval Sombre - Mad Love (CD)"
 sitemap: true
 series-title: My record collection
 author:
@@ -44,5 +44,5 @@ The show was recorded for posterity and released on a limited edition cassette b
  - [Buy 'Mad Love' on Bandcamp](https://chevalsombre.bandcamp.com/album/mad-love-2)
 
 Previously in [my record collection](/category/my-record-collection):
- - [#013: Cheval Sombre - Mad Love (LP)](/2023/03/02/my-record-collection-013-cheval-sombre-mad-love-lp/)
+ - [[013] Cheval Sombre - Mad Love (LP)](/2023/03/02/my-record-collection-013-cheval-sombre-mad-love-lp/)
 

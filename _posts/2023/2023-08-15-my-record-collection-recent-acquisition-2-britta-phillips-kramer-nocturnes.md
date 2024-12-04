@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[062] - #R02: Britta Phillips & Kramer - Nocturnes'
+title: '[062] Britta Phillips & Kramer - Nocturnes'
 sitemap: true
 series-title: My record collection
 author:

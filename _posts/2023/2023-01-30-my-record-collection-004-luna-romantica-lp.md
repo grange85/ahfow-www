@@ -1,7 +1,7 @@
 ---
 layout: post
 series-title: 'My record collection'
-title: '[004] - #004: Luna - Romantica (LP)'
+title: '[004] Luna - Romantica (LP)'
 author:
   display_name: Andy
   login: admin

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[152] - #145: Galaxie 500 @ CBGB's - 19th October 1990 (MC)"
+title: "[152] Galaxie 500 @ CBGB's - 19th October 1990 (MC)"
 sitemap: true
 series-title: My record collection
 catno: 16/009
@@ -42,4 +42,4 @@ I lost touch with Lauren, as I did with so many of the folk from back then, main
  - *Format:* MC
 
 Previously in [my record collection](/category/my-record-collection):
- - [#133: Galaxie 500 - Camden, The Falcon, 11.02.90 (MC)](/2024/05/06/my-record-collection-133-galaxie-500-camden-the-falcon-11-02-90-mc/)
+ - [[140] Galaxie 500 - Camden, The Falcon, 11.02.90 (MC)](/2024/05/06/my-record-collection-133-galaxie-500-camden-the-falcon-11-02-90-mc/)

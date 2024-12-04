@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[106] - #101: Luna - Speedbumps / Astronaut / Eyes in My Smoke"
+title: "[106] Luna - Speedbumps / Astronaut / Eyes in My Smoke"
 sitemap: true
 series-title: My record collection
 author:
@@ -37,4 +37,4 @@ I moaned last time about the labels claiming this is a double A-side... but it j
  - Bought direct from Little Teddy
 
 Previously in [my record collection](/category/my-record-collection):
- - [#029: Luna - Speedbumps](/2023/04/27/my-record-collection-029-luna-speedbumps/)
+ - [[029] Luna - Speedbumps](/2023/04/27/my-record-collection-029-luna-speedbumps/)

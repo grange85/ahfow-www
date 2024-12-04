@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[064] - #062: Luna - Outdoor Miner"
+title: "[064] Luna - Outdoor Miner"
 sitemap: true
 series-title: My record collection
 author:

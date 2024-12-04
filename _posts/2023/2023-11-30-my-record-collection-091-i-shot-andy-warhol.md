@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[094] - #091: I Shot Andy Warhol'
+title: '[094] I Shot Andy Warhol'
 sitemap: true
 series-title: My record collection 
 github-comments-issueid: 9

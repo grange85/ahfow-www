@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[123] - #118: Dean Wareham - Emancipated Hearts (test pressing)"
+title: "[123] Dean Wareham - Emancipated Hearts (test pressing)"
 sitemap: true
 series-title: My record collection
 github-comments-issueid:
@@ -63,5 +63,5 @@ Air is a cover of a track from Scottish psych-folk band The Incredible String Ba
  - [Buy 'Emancipated Hearts' on Bandcamp](https://deanwareham.bandcamp.com/album/emancipated-hearts)
 
  Previously in [my record collection](/category/my-record-collection):
-  - [#003: Dean Wareham - Emancipated Hearts (CD)](/2023/01/26/my-record-collection-003-dean-wareham-emancipated-hearts/)
-  - [#049: Dean Wareham - Emancipated Hearts (LP)](/2023/07/06/my-record-collection-049-dean-wareham-emancipated-hearts-vinyl/)
+  - [[003] Dean Wareham - Emancipated Hearts (CD)](/2023/01/26/my-record-collection-003-dean-wareham-emancipated-hearts/)
+  - [[049] Dean Wareham - Emancipated Hearts (LP)](/2023/07/06/my-record-collection-049-dean-wareham-emancipated-hearts-vinyl/)

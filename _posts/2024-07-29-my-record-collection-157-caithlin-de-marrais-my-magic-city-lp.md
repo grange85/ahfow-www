@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[164] - #157: Caithlin De Marrais - My Magic City (LP)"
+title: "[164] Caithlin De Marrais - My Magic City (LP)"
 sitemap: true
 series-title: My record collection
 catno: 12/094

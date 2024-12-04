@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[129] - #124: Luna - Rendezvous promo CD"
+title: "[129] Luna - Rendezvous promo CD"
 sitemap: true
 series-title: My record collection
 github-comments-issueid:
@@ -64,4 +64,4 @@ So... Sean, how's that solo album coming along?
  - [Buy 'Rendezvous' on Bandcamp](https://luna.bandcamp.com/album/rendezvous)
 
  Previously in [my record collection](/category/my-record-collection):
-  -  [#120: Luna - Rendezvous (LP)](/2024/03/21/my-record-collection-120-luna-rendezvous-lp/)
+  -  [[125] Luna - Rendezvous (LP)](/2024/03/21/my-record-collection-120-luna-rendezvous-lp/)

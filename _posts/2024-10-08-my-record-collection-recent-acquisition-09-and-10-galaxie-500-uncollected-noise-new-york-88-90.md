@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[185] - #R09 and #R10: Galaxie 500 - Uncollected Noise New York ''88-''90'
+title: '[185] Galaxie 500 - Uncollected Noise New York ''88-''90'
 sitemap: true
 comments: true
 series-title: My record collection

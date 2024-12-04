@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[115] - #110: Luna on Later"
+title: "[115] Luna on Later"
 sitemap: true
 series-title: My record collection
 author:

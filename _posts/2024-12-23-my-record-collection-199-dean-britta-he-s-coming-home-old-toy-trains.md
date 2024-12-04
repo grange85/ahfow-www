@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[209] - #199: Dean & Britta with Sonic Boom- He''s Coming Home / Old Toy Trains'
+title: '[209] Dean & Britta with Sonic Boom- He''s Coming Home / Old Toy Trains'
 date: 2024-12-23 00:00 +0000
 sitemap: true
 comments: true
@@ -68,6 +68,6 @@ Have a lovely xmas, if you celebrate, and a lovely few days doing whatever makes
  - *Format:* 7"
 
  Previously in [my record collection](/category/my-record-collection):
-  - [#097: Old Toy Trains / He's Coming Home - Dean & Britta (blue vinyl)](/2023/12/21/my-record-collection-097-old-toy-trains-hes-coming-home/)
+  - [[101] Old Toy Trains / He's Coming Home - Dean & Britta (blue vinyl)](/2023/12/21/my-record-collection-097-old-toy-trains-hes-coming-home/)
 
 _&dagger; actually it has only been a couple of weeks but [the last reference](/2024/12/09/my-record-collection-195-luna-bobby-peru-cd/) was a little obscured :)_

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[117] - #112: Britta Phillips - Luck or Magic (LP)"
+title: "[117] Britta Phillips - Luck or Magic (LP)"
 sitemap: true
 series-title: My record collection
 github_comments_issueid:

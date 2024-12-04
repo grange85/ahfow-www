@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[054] - #054: F&uuml;xa - Electric Sound of Summer'
+title: '[054] F&uuml;xa - Electric Sound of Summer'
 sitemap: true
 series-title: My record collection 
 author:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[021] - #021: Dean Wareham and Cheval Sombre - Along The Santa Fe Trail"
+title: "[021] Dean Wareham and Cheval Sombre - Along The Santa Fe Trail"
 series-title: My record collection
 author:
   display_name: Andy

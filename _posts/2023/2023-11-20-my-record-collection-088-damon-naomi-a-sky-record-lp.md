@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[091] - #088: Damon & Naomi - A Sky Record (LP)'
+title: '[091] Damon & Naomi - A Sky Record (LP)'
 sitemap: true
 series-title: My record collection 
 github-comments-issueid: 6

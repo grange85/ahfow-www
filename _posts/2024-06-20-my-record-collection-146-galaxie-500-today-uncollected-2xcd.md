@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[153] - #146: Galaxie 500 - Today / Uncollected (2xCD)"
+title: "[153] Galaxie 500 - Today / Uncollected (2xCD)"
 sitemap: true
 series-title: My record collection
 catno: 10/006
@@ -56,8 +56,8 @@ I'm a fan too which is why I could spot the Galaxie 500 box set behind Stew in t
  - [Buy 'Uncollected' on Bandcamp](https://galaxie500.bandcamp.com/album/uncollected)
 
 Previously in [my record collection](/category/my-record-collection):
- - [#015: Galaxie 500 - Today (Rough Trade US LP)](/2023/03/09/my-record-collection-015-galaxie-500-today-rough-trade-us-lp/)
- - [#027: Galaxie 500 - Today (Schemer CD)](/2023/04/20/my-record-collection-027-galaxie-500-today-schemer-cd/)
- - [#040: Today / On Fire / This Is Our Music](/2023/06/05/my-record-collection-040-today-on-fire-this-is-our-music/)
- - [#044: Galaxie 500 - Today (maroon vinyl LP)](/2023/06/19/my-record-collection-044-galaxie-500-today/)
- - [#071: Galaxie 500 - Today (Video Arts Japan CD)](/2023/09/21/my-record-collection-071-galaxie-500-today-video-arts-japan-cd/)
+ - [[015] Galaxie 500 - Today (Rough Trade US LP)](/2023/03/09/my-record-collection-015-galaxie-500-today-rough-trade-us-lp/)
+ - [[027] Galaxie 500 - Today (Schemer CD)](/2023/04/20/my-record-collection-027-galaxie-500-today-schemer-cd/)
+ - [[040] Today / On Fire / This Is Our Music](/2023/06/05/my-record-collection-040-today-on-fire-this-is-our-music/)
+ - [[044] Galaxie 500 - Today (maroon vinyl LP)](/2023/06/19/my-record-collection-044-galaxie-500-today/)
+ - [[074] Galaxie 500 - Today (Video Arts Japan CD)](/2023/09/21/my-record-collection-071-galaxie-500-today-video-arts-japan-cd/)

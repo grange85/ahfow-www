@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[114] - #109: The Bartlebees in Arlo Bumfluffs' So Long, and Thanks For All The Fish"
+title: "[114] The Bartlebees in Arlo Bumfluffs' So Long, and Thanks For All The Fish"
 sitemap: true
 series-title: My record collection
 author:

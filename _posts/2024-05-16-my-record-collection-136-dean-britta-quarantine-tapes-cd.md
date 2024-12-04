@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[143] - #136: Dean & Britta - Quarantine Tapes (CD)"
+title: "[143] Dean & Britta - Quarantine Tapes (CD)"
 sitemap: true
 series-title: My record collection
 catno: 10/162
@@ -42,5 +42,5 @@ I sort of love the sleeve, as I might have mentioned before that I'm a bit cool 
  - [Buy 'Quarantine Tapes' on Bandcamp](https://deanandbritta.bandcamp.com/album/quarantine-tapes)
 
 Previously in [my record collection](/category/my-record-collection):
- - [#017: Dean & Britta - Quarantine Tapes (white label LP)](/2023/03/16/my-record-collection-017-dean-britta-quarantine-tapes-white-label-lp/)
- - [#113: Quarantine Tapes (lathe cut box of singles)](/2024/02/26/my-record-collection-113-quarantine-tapes-lathe-cut-box-of-singles/)
+ - [[017] Dean & Britta - Quarantine Tapes (white label LP)](/2023/03/16/my-record-collection-017-dean-britta-quarantine-tapes-white-label-lp/)
+ - [[118] Quarantine Tapes (lathe cut box of singles)](/2024/02/26/my-record-collection-113-quarantine-tapes-lathe-cut-box-of-singles/)

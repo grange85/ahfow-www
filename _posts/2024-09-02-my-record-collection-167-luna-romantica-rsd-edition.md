@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[174] - #167: Luna - Romantica (RSD edition)"
+title: "[174] Luna - Romantica (RSD edition)"
 sitemap: true
 series-title: My record collection
 catno: 12/047
@@ -38,6 +38,6 @@ This release was in black vinyl whereas the Pledge version was clear, which mean
  - [Buy 'Romantica' on Bandcamp](https://luna.bandcamp.com/album/romantica)
 
 Previously in [my record collection](/category/my-record-collection):
- - [#004: Luna - Romantica (LP)](/2023/01/30/my-record-collection-004-luna-romantica-lp/)
- - [#016: Luna - Romantica (CD)](/2023/03/13/my-record-collection-016-luna-romantica-cd/)
- - [#129: Luna - Romantica (promo CD)](/2024/04/22/my-record-collection-129-luna-romantica-promo-cd/)
+ - [[004] Luna - Romantica (LP)](/2023/01/30/my-record-collection-004-luna-romantica-lp/)
+ - [[016] Luna - Romantica (CD)](/2023/03/13/my-record-collection-016-luna-romantica-cd/)
+ - [[134] Luna - Romantica (promo CD)](/2024/04/22/my-record-collection-129-luna-romantica-promo-cd/)

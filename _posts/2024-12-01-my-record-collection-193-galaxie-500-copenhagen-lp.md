@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[201] - #193: Galaxie 500 - Copenhagen (LP)"
+title: "[201] Galaxie 500 - Copenhagen (LP)"
 sitemap: true
 comments: true
 series-title: My record collection
@@ -59,5 +59,5 @@ Two of those moments are on side 3 of the album, and with 'Here She Comes Now' i
 _&dagger;  This was due to be posted in a couple of weeks time but I've shuffled things about so that it falls on the anniversary of the show._
 
 Previously in [my record collection](/category/my-record-collection):
- - [#103: Galaxie 500 - Copenhagen](/2024/01/22/my-record-collection-103-galaxie-500-copenhagen/)
- - [#137: Galaxie 500 - Copenhagen (promo CD)](/2024/05/20/my-record-collection-137-galaxie-500-copenhagen-promo-cd/)
+ - [[108] Galaxie 500 - Copenhagen](/2024/01/22/my-record-collection-103-galaxie-500-copenhagen/)
+ - [[144] Galaxie 500 - Copenhagen (promo CD)](/2024/05/20/my-record-collection-137-galaxie-500-copenhagen-promo-cd/)

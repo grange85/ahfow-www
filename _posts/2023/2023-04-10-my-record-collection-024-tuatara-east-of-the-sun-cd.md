@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[024] - #024: Tuatara - East of the Sun (CD)"
+title: "[024] Tuatara - East of the Sun (CD)"
 series-title: My record collection
 author:
   display_name: Andy

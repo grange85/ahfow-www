@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[082] - #079: Damon & Naomi - The Earth is Blue / Beautiful Close Double / A Song
+title: "[082] Damon & Naomi - The Earth is Blue / Beautiful Close Double / A Song
   For You"
 sitemap: true
 series-title: My record collection

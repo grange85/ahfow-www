@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[190] - #182: Best of Luna (US version)"
+title: "[190] Best of Luna (US version)"
 sitemap: true
 comments: true
 series-title: My record collection

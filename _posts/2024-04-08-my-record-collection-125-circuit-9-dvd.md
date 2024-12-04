@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[130] - #125: Circuit (9) - DVD"
+title: "[130] Circuit (9) - DVD"
 sitemap: true
 series-title: My record collection
 github-comments-issueid:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[186] - #178: Damon & Naomi - Terrastock 1997"
+title: "[186] Damon & Naomi - Terrastock 1997"
 sitemap: true
 comments: true
 series-title: My record collection
@@ -60,4 +60,4 @@ During Tom's set at the first Terrastock he played a cover of Damon & Naomi's _T
  - *Format:* MC
 
 Previously in [my record collection](/category/my-record-collection):
- - [#172: The Complete Sepia Carrot EP](/2024/09/19/my-record-collection-172-the-complete-sepia-carrot-ep/)
+ - [[179] The Complete Sepia Carrot EP](/2024/09/19/my-record-collection-172-the-complete-sepia-carrot-ep/)

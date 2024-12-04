@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[183] - #176: Various Artists - Gathered Leaves"
+title: "[183] Various Artists - Gathered Leaves"
 sitemap: true
 comments: true
 series-title: My record collection
@@ -40,4 +40,4 @@ The whole LP is a treat with contributions from the sort of Terrascopic mix of f
  - *Format:* LP
 
 Previously in [my record collection](/category/my-record-collection):
- - [#026: Succour: The Terrascope Benefit Album](/2023/04/17/my-record-collection-026-succour-the-terrascope-benefit-album/)
+ - [[026] Succour: The Terrascope Benefit Album](/2023/04/17/my-record-collection-026-succour-the-terrascope-benefit-album/)

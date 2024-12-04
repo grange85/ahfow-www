@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[121] - #116: Luna - Tell Me Do You Miss Me (DVD - region 2/3/4/5)"
+title: "[121] Luna - Tell Me Do You Miss Me (DVD - region 2/3/4/5)"
 sitemap: true
 series-title: My record collection
 github-comments-issueid:

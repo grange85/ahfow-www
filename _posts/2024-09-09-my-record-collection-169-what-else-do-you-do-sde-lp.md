@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[176] - #169: What Else Do You Do (Shimmy Disc Europe LP)"
+title: "[176] What Else Do You Do (Shimmy Disc Europe LP)"
 sitemap: true
 series-title: My record collection
 catno: 12/075
@@ -41,4 +41,4 @@ I bought this LP in, I think, in the Virgin Megastore on the corner of Oxford St
  - *Format:* LP
 
 Previously in [my record collection](/category/my-record-collection):
- - [#107: Various Artists - What Else Do You Do](/2024/02/05/my-record-collection-107-various-artists-what-else-do-you-do/)
+ - [[112] Various Artists - What Else Do You Do](/2024/02/05/my-record-collection-107-various-artists-what-else-do-you-do/)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[132] - #127: Dis Cover - Donna Regina as recorded by... (LP/CD)"
+title: "[132] Dis Cover - Donna Regina as recorded by... (LP/CD)"
 sitemap: true
 series-title: My record collection
 github-comments-issueid:

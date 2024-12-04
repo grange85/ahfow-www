@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[204] - #R12 - Various artists - Celebrate Yourself!'
+title: '[204] Various artists - Celebrate Yourself!'
 date: 2024-12-06 00:00 +0000
 sitemap: true
 comments: true

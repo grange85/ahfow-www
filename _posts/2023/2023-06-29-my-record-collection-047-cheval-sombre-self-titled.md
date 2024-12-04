@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[047] - #047: Cheval Sombre - self-titled'
+title: '[047] Cheval Sombre - self-titled'
 sitemap: true
 series-title: My record collection 
 author:

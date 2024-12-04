@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[102] - #R05: Dean & Britta - Chansons de Vampires'
+title: '[102] Dean & Britta - Chansons de Vampires'
 sitemap: true
 series-title: My record collection
 github-comments-issueid:

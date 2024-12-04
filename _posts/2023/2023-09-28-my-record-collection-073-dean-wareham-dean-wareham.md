@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[076] - #073: Dean Wareham - Dean Wareham'
+title: '[076] Dean Wareham - Dean Wareham'
 sitemap: true
 series-title: My record collection 
 author:

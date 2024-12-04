@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[124] - #119: The Pastels - Mobile Safari (CD)'
+title: '[124] The Pastels - Mobile Safari (CD)'
 sitemap: true
 series-title: My record collection 
 github-comments-issueid:
@@ -56,4 +56,4 @@ So... _The Pastels_... I'm talking to you now, don't you think that eleven years
  - Bought, about the time of release, for whatever CDs cost then.
 
 Previously in [my record collection](/category/my-record-collection):
- - [#031: The Pastels - Illumination](/2023/05/04/my-record-collection-031-the-pastels-illumination/)
+ - [[031] The Pastels - Illumination](/2023/05/04/my-record-collection-031-the-pastels-illumination/)

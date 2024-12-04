@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[072] - #069: Dean Wareham - Anesthesia"
+title: "[072] Dean Wareham - Anesthesia"
 sitemap: true
 series-title: My record collection
 author:
@@ -60,4 +60,4 @@ I can't remember where I bought this - I'm thinking Selectadisc, almost certainl
  - *Format:* 12" single
 
  Previously in [my record collection](/category/my-record-collection):
-  - [#051: Dean Wareham - Anesthesia](/2023/07/13/my-record-collection-051-dean-wareham-anesthesia/)
+  - [[051] Dean Wareham - Anesthesia](/2023/07/13/my-record-collection-051-dean-wareham-anesthesia/)

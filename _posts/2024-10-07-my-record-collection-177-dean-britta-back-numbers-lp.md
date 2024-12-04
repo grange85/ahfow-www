@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[184] - #177: Dean & Britta - Back Numbers (LP)"
+title: "[184] Dean & Britta - Back Numbers (LP)"
 sitemap: true
 comments: true
 series-title: My record collection
@@ -38,4 +38,4 @@ The album is of course beautiful, it seems to be overshadowed by, or overlooked 
  - [Buy 'Back Numbers' on Bandcamp](https://deanandbritta.bandcamp.com/album/back-numbers)
 
  Previously in [my record collection](/category/my-record-collection):
-  - [#008: Dean & Britta - Back Numbers (advance CD)](/2023/02/13/my-record-collection-008-dean-britta-back-numbers/)
+  - [[008] Dean & Britta - Back Numbers (advance CD)](/2023/02/13/my-record-collection-008-dean-britta-back-numbers/)

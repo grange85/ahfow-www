@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[210] - #200: Luna - California Blue / Rock Yr Baby"
+title: "[210] Luna - California Blue / Rock Yr Baby"
 sitemap: true
 series-title: My record collection
 catno: 11/069

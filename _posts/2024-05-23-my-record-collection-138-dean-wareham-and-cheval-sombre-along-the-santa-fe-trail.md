@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[145] - #138: Dean Wareham and Cheval Sombre - Along The Santa Fe Trail"
+title: "[145] Dean Wareham and Cheval Sombre - Along The Santa Fe Trail"
 sitemap: true
 series-title: My record collection
 catno: 11/073
@@ -51,4 +51,4 @@ Sadly this film is even worse that The Charge of The Light Brigade and one that 
  - *Format:* 7"
 
  Previously in [my record collection](/category/my-record-collection):
-  - [#021: Dean Wareham and Cheval Sombre - Along The Santa Fe Trail](/2023/03/30/my-record-collection-021-dean-wareham-and-cheval-sombre-along-the-santa-fe-trail/)
+  - [[021] Dean Wareham and Cheval Sombre - Along The Santa Fe Trail](/2023/03/30/my-record-collection-021-dean-wareham-and-cheval-sombre-along-the-santa-fe-trail/)

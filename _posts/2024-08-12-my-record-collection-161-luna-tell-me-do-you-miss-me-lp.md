@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[168] - #161: Luna - Tell Me Do You Miss Me (LP)"
+title: "[168] Luna - Tell Me Do You Miss Me (LP)"
 sitemap: true
 series-title: My record collection
 catno: 12/063
@@ -61,4 +61,4 @@ Here's the full live version of _Black Postcards_ from the TMDYMM DVD just to sh
  - [Buy 'Tell Me Do You Miss Me (LP)' on Bandcamp](https://luna.bandcamp.com/album/tell-me-do-you-miss-me)
 
 Previously in [my record collection](/category/my-record-collection):
- - [#116: Luna - Tell Me Do You Miss Me (DVD - region 2/3/4/5)](/2024/03/07/my-record-collection-116-luna-tell-me-do-you-miss-me-dvd-region-2-3-4-5/)
+ - [[121] Luna - Tell Me Do You Miss Me (DVD - region 2/3/4/5)](/2024/03/07/my-record-collection-116-luna-tell-me-do-you-miss-me-dvd-region-2-3-4-5/)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[070] - #068: Luna - Lunapark (CD)"
+title: "[070] Luna - Lunapark (CD)"
 sitemap: true
 series-title: My record collection
 author:

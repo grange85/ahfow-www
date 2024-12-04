@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[192] - #184: Damon & Naomi - Shibuya O-Nest, Tokyo (DVD)"
+title: "[192] Damon & Naomi - Shibuya O-Nest, Tokyo (DVD)"
 sitemap: true
 comments: true
 series-title: My record collection

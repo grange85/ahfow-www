@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[108] - #103: Galaxie 500 - Copenhagen"
+title: "[108] Galaxie 500 - Copenhagen"
 sitemap: true
 series-title: My record collection
 author:
@@ -46,4 +46,4 @@ Dean sent me a complete set of these discs before release - signed on the Obi st
  - *Format:* CD
 
  Previously in [my record collection](/category/my-record-collection):
-  - [#071: Galaxie 500 - Today (Video Arts Japan CD)](/2023/09/21/my-record-collection-071-galaxie-500-today-video-arts-japan-cd/)
+  - [[074] Galaxie 500 - Today (Video Arts Japan CD)](/2023/09/21/my-record-collection-071-galaxie-500-today-video-arts-japan-cd/)

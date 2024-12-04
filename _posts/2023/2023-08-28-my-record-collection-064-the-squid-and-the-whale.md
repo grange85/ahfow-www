@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[066] - #064: The Squid and the Whale'
+title: '[066] The Squid and the Whale'
 sitemap: true
 series-title: My record collection 
 author:

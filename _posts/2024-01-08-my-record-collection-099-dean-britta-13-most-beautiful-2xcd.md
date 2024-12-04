@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[104] - #099: Dean & Britta - 13 Most Beautiful (2xCD)"
+title: "[104] Dean & Britta - 13 Most Beautiful (2xCD)"
 sitemap: true
 series-title: My record collection
 author:

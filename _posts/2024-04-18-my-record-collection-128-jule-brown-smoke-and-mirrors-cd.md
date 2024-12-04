@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[133] - #128: Jule Brown - Smoke and Mirrors (CD)"
+title: "[133] Jule Brown - Smoke and Mirrors (CD)"
 sitemap: true
 series-title: My record collection
 github-comments-issueid:
@@ -65,4 +65,4 @@ It was nice coming across Mark's comment (it was in my email ... and [in the Way
  - Sadly not available on Bandcamp, can be found on Spotify though. Back in 2011 Mark did put out a digital release of (and called) [Rough Cuts](https://markhollandfromjennyanykind.bandcamp.com/album/rough-cuts) that has Dean on guitar.
 
 Previously in [my record collection](/category/my-record-collection):
- - [#060: Pee Shy - Yellow Race Car](/2023/08/14/my-record-collection-060-pee-shy-yellow-race-car/)
+ - [[061] Pee Shy - Yellow Race Car](/2023/08/14/my-record-collection-060-pee-shy-yellow-race-car/)

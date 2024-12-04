@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[041] - #041: Luna - Something in the Air"
+title: "[041] Luna - Something in the Air"
 sitemap: true
 series-title: My record collection
 author:
@@ -46,4 +46,4 @@ Some random _facts_ related to this single coming... as they pop into my head:
  - The tracks are available as part of [Luna's 'Postscripts' EP on Bandcamp](https://luna.bandcamp.com/album/postscripts)
 
 Previously in [my record collection](/category/my-record-collection)
- - [#033: Luna - Something in the Air](https://www.fullofwishes.co.uk/2023/05/11/my-record-collection-033-luna-something-in-the-air/)
+ - [[033] Luna - Something in the Air](https://www.fullofwishes.co.uk/2023/05/11/my-record-collection-033-luna-something-in-the-air/)

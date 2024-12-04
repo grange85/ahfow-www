@@ -1,7 +1,7 @@
 ---
 layout: post
 series-title: My record collection
-title: "[010] - #010: Monsters, Robots and Bug Men (CD)"
+title: "[010] Monsters, Robots and Bug Men (CD)"
 author:
   display_name: Andy
   login: admin

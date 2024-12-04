@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[040] - #040: Today / On Fire / This Is Our Music'
+title: '[040] Today / On Fire / This Is Our Music'
 sitemap: true
 series-title: My record collection 
 author:
@@ -43,4 +43,4 @@ They were also released as lossless digital downloads available from an online s
  - [Buy all of these on Bandcamp](https://galaxie500.bandcamp.com/)
  
  Previously in [my record collection](/category/my-record-collection)
-  - [#032: Galaxie 500 - This Is Our Music](/2023/05/08/my-record-collection-032-galaxie-500-this-is-our-music/) 
+  - [[032] Galaxie 500 - This Is Our Music](/2023/05/08/my-record-collection-032-galaxie-500-this-is-our-music/) 

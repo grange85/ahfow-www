@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[160] - #153: Dean Wareham - I Have Nothing to Say to the Mayor of LA (test pressing)"
+title: "[160] Dean Wareham - I Have Nothing to Say to the Mayor of LA (test pressing)"
 sitemap: true
 series-title: My record collection
 catno: 12/085
@@ -34,4 +34,4 @@ I'll maybe talk more about the album when the released LP arrives in this collec
  - [Buy 'I Have Nothing to Say to the Mayor of LA' on Bandcamp](https://deanwareham.bandcamp.com/album/i-have-nothing-to-say-to-the-mayor-of-l-a)
 
 Previously in [my record collection](/category/my-record-collection):
- - [#148: Dean Wareham - I Have Nothing to Say to The Mayor of LA (CD)](/2024/06/27/my-record-collection-148-dean-wareham-i-have-nothing-to-say-to-the-mayor-of-la-cd/)
+ - [[155] Dean Wareham - I Have Nothing to Say to The Mayor of LA (CD)](/2024/06/27/my-record-collection-148-dean-wareham-i-have-nothing-to-say-to-the-mayor-of-la-cd/)

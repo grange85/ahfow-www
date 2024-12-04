@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[169] - #162: 13 Most Beautiful... songs for Andy Warhol's Screen Tests (DVD)"
+title: "[169] 13 Most Beautiful... songs for Andy Warhol's Screen Tests (DVD)"
 sitemap: true
 series-title: My record collection
 catno: 13/003
@@ -58,6 +58,6 @@ So, it's actually describing the films, which is fine because the DVD release is
  - Bought - not sure when or for how much
 
 Previously in [my record collection](/category/my-record-collection):
- - [#099: Dean & Britta - 13 Most Beautiful (2xCD)](/2024/01/08/my-record-collection-099-dean-britta-13-most-beautiful-2xcd/)
- - [#132: 13 Most Beautiful... songs for Andy Warhol's Screen Tests (DVD)](/2024/05/02/my-record-collection-132-13-most-beautiful-dvd/)
+ - [[104] Dean & Britta - 13 Most Beautiful (2xCD)](/2024/01/08/my-record-collection-099-dean-britta-13-most-beautiful-2xcd/)
+ - [[139] 13 Most Beautiful... songs for Andy Warhol's Screen Tests (DVD)](/2024/05/02/my-record-collection-132-13-most-beautiful-dvd/)
 

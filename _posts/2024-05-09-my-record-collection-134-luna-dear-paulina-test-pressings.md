@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[141] - #134: Luna - Dear Paulina test pressings"
+title: "[141] Luna - Dear Paulina test pressings"
 sitemap: true
 series-title: My record collection
 catno: 
@@ -46,4 +46,4 @@ There's a [post from a while back](https://www.fullofwishes.co.uk/2009/07/11/mp3
  - *Format:* 7"
 
  Previously in [my record collection](/category/my-record-collection):
-  - [#063: Luna - Dear Paulina](/2023/08/24/my-record-collection-063-luna-dear-paulina/)
+  - [[065] Luna - Dear Paulina](/2023/08/24/my-record-collection-063-luna-dear-paulina/)

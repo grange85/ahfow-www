@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[025] - #025: Luna - Bewitched LP"
+title: "[025] Luna - Bewitched LP"
 series-title: My record collection
 author:
   display_name: Andy

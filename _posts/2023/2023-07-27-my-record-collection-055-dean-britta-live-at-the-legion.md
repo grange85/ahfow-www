@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[055] - #055: Dean & Britta live at The Legion'
+title: '[055] Dean & Britta live at The Legion'
 sitemap: true
 series-title: My record collection 
 author:

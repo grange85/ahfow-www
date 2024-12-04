@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[191] - #183: Galaxie 500 - Rain / Don't Let Our Youth Go to Waste"
+title: "[191] Galaxie 500 - Rain / Don't Let Our Youth Go to Waste"
 sitemap: true
 comments: true
 series-title: My record collection

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[163] - #156: Pee Shy - Who Let All The Monkeys Out?"
+title: "[163] Pee Shy - Who Let All The Monkeys Out?"
 sitemap: true
 series-title: My record collection
 catno: 10/024
@@ -54,4 +54,4 @@ They released a second album a couple of years later, which I also have but don'
  - Bought around the time of release - no idea from where or for how much
 
 Previously in [my record collection](/category/my-record-collection):
- - [#060: Pee Shy - Yellow Race Car](/2023/08/14/my-record-collection-060-pee-shy-yellow-race-car/)
+ - [[061] Pee Shy - Yellow Race Car](/2023/08/14/my-record-collection-060-pee-shy-yellow-race-car/)

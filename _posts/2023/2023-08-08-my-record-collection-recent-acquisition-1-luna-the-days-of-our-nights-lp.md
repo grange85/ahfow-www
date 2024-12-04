@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[059] - #R01: Luna The Days of Our Nights (LP)'
+title: '[059] Luna The Days of Our Nights (LP)'
 sitemap: true
 series-title: My record collection
 author:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[193] - #185: Mistress America (LP) - times two"
+title: "[193] Mistress America (LP) - times two"
 sitemap: true
 comments: true
 series-title: My record collection
@@ -51,6 +51,6 @@ The soundtrack is credited to _Dean Wareham & Britta Phillips_ - the third from 
  - *Format:* LP / LP
 
 Previously in [my record collection](/category/my-record-collection):
- - [#045: Mistress America soundtrack CD](/2023/06/22/my-record-collection-045-mistress-america-soundtrack-cd/)
- - [#056: Dean & Britta - Mistress America](/2023/07/31/my-record-collection-056-dean-britta-mistress-america/)
+ - [[045] Mistress America soundtrack CD](/2023/06/22/my-record-collection-045-mistress-america-soundtrack-cd/)
+ - [[056] Dean & Britta - Mistress America](/2023/07/31/my-record-collection-056-dean-britta-mistress-america/)
 

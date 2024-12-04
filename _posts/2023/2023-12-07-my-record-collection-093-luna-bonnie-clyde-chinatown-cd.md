@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[096] - #093: Luna - Bonnie and Clyde / Chinatown (CD)"
+title: "[096] Luna - Bonnie and Clyde / Chinatown (CD)"
 sitemap: true
 series-title: My record collection
 github-comments-issueid: 11

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[149] - #142: Dean Wareham - answerphone message (1997)"
+title: "[149] Dean Wareham - answerphone message (1997)"
 sitemap: true
 series-title: My record collection
 catno: 16/022

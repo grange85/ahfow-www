@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[208] - #198: White Christmas - Damon & Naomi'
+title: '[208] White Christmas - Damon & Naomi'
 date: 2024-12-19 00:00 +0000
 sitemap: true
 catno: 10/093

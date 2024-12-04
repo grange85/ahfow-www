@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[120] - #115: Dean & Britta - Sonic Souvenirs (CD)"
+title: "[120] Dean & Britta - Sonic Souvenirs (CD)"
 sitemap: true
 series-title: My record collection
 github-comments-issueid:

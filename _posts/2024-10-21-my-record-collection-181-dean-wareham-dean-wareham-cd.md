@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[189] - #181: Dean Wareham - Dean Wareham (CD)"
+title: "[189] Dean Wareham - Dean Wareham (CD)"
 sitemap: true
 comments: true
 series-title: My record collection
@@ -51,4 +51,4 @@ Jim’s a good producer. He should do a lot more of it. He’s a positive force 
  - [Buy 'Dean Wareham' on Bandcamp](https://deanwareham.bandcamp.com/album/dean-wareham)
 
 Previously in [my record collection](/category/my-record-collection):
- - [#073: Dean Wareham - Dean Wareham](/2023/09/28/my-record-collection-073-dean-wareham-dean-wareham/)
+ - [[076] Dean Wareham - Dean Wareham](/2023/09/28/my-record-collection-073-dean-wareham-dean-wareham/)

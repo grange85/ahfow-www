@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[136] - #R06: Dean & Britta - L''Avventura (RSD 2024)'
+title: '[136] Dean & Britta - L''Avventura (RSD 2024)'
 sitemap: true
 series-title: My record collection
 github-comments-issueid:
@@ -51,4 +51,4 @@ I know I keep saying this but we (the fans) are so lucky that we are fans of suc
  - [Buy 'L'Avventura' on Bandcamp](https://deanandbritta.bandcamp.com/album/lavventura-bonus-tracks-sonic-boom-remixes)
 
 Previously in [my record collection](/category/my-record-collection):
- - [#115: Dean & Britta - Sonic Souvenirs (CD)](/2024/03/04/my-record-collection-115-dean-britta-sonic-souvenirs-cd/)
+ - [[120] Dean & Britta - Sonic Souvenirs (CD)](/2024/03/04/my-record-collection-115-dean-britta-sonic-souvenirs-cd/)

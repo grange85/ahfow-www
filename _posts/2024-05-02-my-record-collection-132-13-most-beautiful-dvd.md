@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[139] - #132: 13 Most Beautiful... songs for Andy Warhol's Screen Tests (DVD)"
+title: "[139] 13 Most Beautiful... songs for Andy Warhol's Screen Tests (DVD)"
 sitemap: true
 series-title: My record collection
 github-comments-issueid:
@@ -40,4 +40,4 @@ As well as the 13 Screen Tests the DVD also has a 10 minute black and white film
   - *Format:* DVD
 
   Previously in [my record collection](/category/my-record-collection):
-   - [#099: Dean & Britta - 13 Most Beautiful (2xCD)](/2024/01/08/my-record-collection-099-dean-britta-13-most-beautiful-2xcd/)
+   - [[104] Dean & Britta - 13 Most Beautiful (2xCD)](/2024/01/08/my-record-collection-099-dean-britta-13-most-beautiful-2xcd/)

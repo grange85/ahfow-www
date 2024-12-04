@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[116] - #111: Clean - Music from the Motion Picture Soundtrack'
+title: '[116] Clean - Music from the Motion Picture Soundtrack'
 sitemap: true
 series-title: My record collection 
 github-comments-issueid: 4

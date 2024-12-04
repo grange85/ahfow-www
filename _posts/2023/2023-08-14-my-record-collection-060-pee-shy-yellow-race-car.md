@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[061] - #060: Pee Shy - Yellow Race Car"
+title: "[061] Pee Shy - Yellow Race Car"
 sitemap: true
 series-title: My record collection
 author:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[031] - #031: The Pastels - Illumination"
+title: "[031] The Pastels - Illumination"
 sitemap: true
 series-title: My record collection
 author:

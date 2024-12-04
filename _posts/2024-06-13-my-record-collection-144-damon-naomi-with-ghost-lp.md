@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[151] - #144: Damon & Naomi with Ghost (LP) and Femme Fatale / My Flower 7"'
+title: '[151] Damon & Naomi with Ghost (LP) and Femme Fatale / My Flower 7"'
 sitemap: true
 series-title: My record collection
 catno: 
@@ -43,4 +43,4 @@ Femme Fatale was recorded with Ghost in the sessions for the album and the b-sid
  - [Buy 'Femme Fatale/My Flower' on Bandcamp as part of the Spirit of Love compilation](https://damonandnaomi.bandcamp.com/album/spirit-of-love-b-sides-bonuses-and-soundtracks)
 
 Previously in [my record collection](/category/my-record-collection):
- - [#074: Damon & Naomi - With Ghost (CD)](/2023/10/02/my-record-collection-074-damon-naomi-with-ghost-cd/)
+ - [[077] Damon & Naomi - With Ghost (CD)](/2023/10/02/my-record-collection-074-damon-naomi-with-ghost-cd/)

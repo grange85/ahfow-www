@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[018] - #018: Luna - Penthouse (deluxe 2xLP)"
+title: "[018] Luna - Penthouse (deluxe 2xLP)"
 series-title: My record collection
 author:
   display_name: Andy

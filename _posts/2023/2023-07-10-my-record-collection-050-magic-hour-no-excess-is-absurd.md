@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[050] - #050: Magic Hour - No Excess is Absurd"
+title: "[050] Magic Hour - No Excess is Absurd"
 sitemap: true
 series-title: My record collection
 author:
@@ -35,5 +35,5 @@ This is a black vinyl&dagger; copy of Magic Hour's first album that I bought on 
  - [Buy 'No Excess Is Absurd' on Bandcamp](https://magic-hour.bandcamp.com/album/no-excess-is-absurd)
 
  Previously in [my record collection](/category/my-record-collection)
-  - [#046: Magic Hour - No Excess Is Absurd](/2023/06/26/my-record-collection-046-magic-hour-no-excess-is-absurd/)
+  - [[046] Magic Hour - No Excess Is Absurd](/2023/06/26/my-record-collection-046-magic-hour-no-excess-is-absurd/)
  _&dagger; - the fact that I mention **black vinyl** suggests there's another copy on the way - maybe I'll have come up with something more insightful to write when it arrives!_

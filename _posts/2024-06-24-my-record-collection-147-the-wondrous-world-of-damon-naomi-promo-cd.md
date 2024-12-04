@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[154] - #147: The Wondrous World of Damon & Naomi (promo CD)"
+title: "[154] The Wondrous World of Damon & Naomi (promo CD)"
 sitemap: true
 series-title: My record collection
 github-comments-issueid: 
@@ -67,4 +67,4 @@ Here are Damon's notes:
  - [Buy 'The Wondrous World of Damon & Naomi' on Bandcamp](https://damonandnaomi.bandcamp.com/album/the-wondrous-world-of-damon-naomi-bootleg-edition) _although only the "bootleg version" is available_
 
 Previously in [my record collection](/category/my-record-collection):
- - [#005: The Wondrous World of Damon & Naomi (CD)](/2023/02/02/my-record-collection-005-the-wondrous-world-of-damon-naomi-cd/)
+ - [[005] The Wondrous World of Damon & Naomi (CD)](/2023/02/02/my-record-collection-005-the-wondrous-world-of-damon-naomi-cd/)

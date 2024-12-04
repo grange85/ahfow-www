@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[034] - #034: Galaxie 500 - On Fire"
+title: "[034] Galaxie 500 - On Fire"
 sitemap: true
 series-title: My record collection
 author:

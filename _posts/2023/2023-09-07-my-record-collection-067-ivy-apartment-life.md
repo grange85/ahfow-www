@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[069] - #067: Ivy - Apartment Life"
+title: "[069] Ivy - Apartment Life"
 sitemap: true
 series-title: My record collection
 author:

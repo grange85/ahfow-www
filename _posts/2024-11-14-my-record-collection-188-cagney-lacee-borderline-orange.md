@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[196] - #188: Cagney & Lacee - Borderline / Orange"
+title: "[196] Cagney & Lacee - Borderline / Orange"
 sitemap: true
 comments: true
 series-title: My record collection
@@ -56,5 +56,5 @@ The other track has Lacee narrating the story of a girl with "frizzy red hair an
  - Bought somewhere around the time of release
 
 Previously in [my record collection](/category/my-record-collection):
- - [#023: Cagney & Lacee - Time / By The Way ...](http://moonshot.local:4040/2023/04/06/my-record-collection-023-cagney-lacee-time-by-the-way/)
- - [#098: Cagney & Lacee - Six Feet of Chain](http://moonshot.local:4040/2024/01/04/my-record-collection-098-cagney-lacee-six-feet-of-chain/)
+ - [[023] Cagney & Lacee - Time / By The Way ...](http://moonshot.local:4040/2023/04/06/my-record-collection-023-cagney-lacee-time-by-the-way/)
+ - [[103] Cagney & Lacee - Six Feet of Chain](http://moonshot.local:4040/2024/01/04/my-record-collection-098-cagney-lacee-six-feet-of-chain/)

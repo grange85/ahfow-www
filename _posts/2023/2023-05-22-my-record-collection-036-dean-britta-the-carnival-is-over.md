@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[036] - #036: Dean & Britta - The Carnival is Over"
+title: "[036] Dean & Britta - The Carnival is Over"
 sitemap: true
 series-title: My record collection
 author:

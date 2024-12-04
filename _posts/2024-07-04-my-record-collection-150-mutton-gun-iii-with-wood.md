@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[157] - #150: Mutton Gun - III (with Wood)"
+title: "[157] Mutton Gun - III (with Wood)"
 sitemap: true
 series-title: My record collection
 catno: 10/146

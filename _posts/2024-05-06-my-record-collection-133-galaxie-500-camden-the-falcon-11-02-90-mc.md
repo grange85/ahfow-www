@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[140] - #133: Galaxie 500 - Camden, The Falcon, 11.02.90 (MC)"
+title: "[140] Galaxie 500 - Camden, The Falcon, 11.02.90 (MC)"
 sitemap: true
 series-title: My record collection
 catno: 16/021

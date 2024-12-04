@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[205] - #195: Luna - Bobby Peru (CD)"
+title: "[205] Luna - Bobby Peru (CD)"
 sitemap: true
 comments: true
 series-title: My record collection
@@ -40,4 +40,4 @@ As well as the lead track, and _Bob le Flambeur_ that was on the seven inch, the
  - *Format:* CD
 
 Previously in [my record collection](/category/my-record-collection):
- - [#087: Luna - Bobby Peru (7")](/2023/11/16/my-record-collection-087-luna-bobby-peru-7/)
+ - [[090] Luna - Bobby Peru (7")](/2023/11/16/my-record-collection-087-luna-bobby-peru-7/)

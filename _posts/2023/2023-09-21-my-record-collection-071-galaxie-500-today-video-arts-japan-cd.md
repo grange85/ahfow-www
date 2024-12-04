@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[074] - #071: Galaxie 500 - Today (Video Arts Japan CD)"
+title: "[074] Galaxie 500 - Today (Video Arts Japan CD)"
 sitemap: true
 series-title: My record collection
 author:
@@ -35,7 +35,7 @@ The CD came packaged in a lovely stiff card sleeve with an insert containing sle
  - [Buy 'Today' on Bandcamp](https://galaxie500.bandcamp.com/album/today)
 
  Previously in [my record collection](/category/my-record-collection):
-  - [#015: Galaxie 500 - Today (Rough Trade US LP)](/2023/03/09/my-record-collection-015-galaxie-500-today-rough-trade-us-lp/)
-  - [#027: Galaxie 500 - Today (Schemer CD)](/2023/04/20/my-record-collection-027-galaxie-500-today-schemer-cd/)
-  - [#040: Today / On Fire / This Is Our Music](/2023/06/05/my-record-collection-040-today-on-fire-this-is-our-music/)
-  - [#044: Galaxie 500 - Today](/2023/06/19/my-record-collection-044-galaxie-500-today/)
+  - [[015] Galaxie 500 - Today (Rough Trade US LP)](/2023/03/09/my-record-collection-015-galaxie-500-today-rough-trade-us-lp/)
+  - [[027] Galaxie 500 - Today (Schemer CD)](/2023/04/20/my-record-collection-027-galaxie-500-today-schemer-cd/)
+  - [[040] Today / On Fire / This Is Our Music](/2023/06/05/my-record-collection-040-today-on-fire-this-is-our-music/)
+  - [[044] Galaxie 500 - Today](/2023/06/19/my-record-collection-044-galaxie-500-today/)

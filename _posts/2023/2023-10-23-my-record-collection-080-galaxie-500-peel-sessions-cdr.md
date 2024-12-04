@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[083] - #080: Galaxie 500 - Peel Sessions (CDR)"
+title: "[083] Galaxie 500 - Peel Sessions (CDR)"
 sitemap: true
 series-title: My record collection
 author:
@@ -41,4 +41,4 @@ I can't remember where I pinched the astronomical illustrations I used on the sl
  - [Buy 'Peel Sessions' on Bandcamp](https://galaxie500.bandcamp.com/album/peel-sessions)
 
  Previously in [my record collection](/category/my-record-collection):
-  - [#053: Galaxie 500 - Peel Sessions](/2023/07/20/my-record-collection-053-galaxie-500-peel-sessions/)
+  - [[053] Galaxie 500 - Peel Sessions](/2023/07/20/my-record-collection-053-galaxie-500-peel-sessions/)

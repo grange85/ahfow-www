@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[198] - #190: Galaxie 500 - Peel Sessions (promo)"
+title: "[198] Galaxie 500 - Peel Sessions (promo)"
 sitemap: true
 comments: true
 series-title: My record collection
@@ -60,6 +60,6 @@ While I'm not a particularly big fan of the sleeve of this release I do rather l
  - [Buy 'Peel Sessions' on Bandcamp](https://galaxie500.bandcamp.com/album/peel-sessions)
 
 Previously in [my record collection](/category/my-record-collection):
- - [#053: Galaxie 500 - Peel Sessions](/2023/07/20/my-record-collection-053-galaxie-500-peel-sessions/)
- - [#080: Galaxie 500 - Peel Sessions (CDR)](/2023/10/23/my-record-collection-080-galaxie-500-peel-sessions-cdr/)
- - [#174: Galaxie 500 - On Fire / Peel Sessions (2xCD)](/2024/09/26/my-record-collection-174-galaxie-500-on-fire-peel-sessions-2xcd/)
+ - [[053] Galaxie 500 - Peel Sessions](/2023/07/20/my-record-collection-053-galaxie-500-peel-sessions/)
+ - [[083] Galaxie 500 - Peel Sessions (CDR)](/2023/10/23/my-record-collection-080-galaxie-500-peel-sessions-cdr/)
+ - [[181] Galaxie 500 - On Fire / Peel Sessions (2xCD)](/2024/09/26/my-record-collection-174-galaxie-500-on-fire-peel-sessions-2xcd/)

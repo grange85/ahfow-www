@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[200] - #192: Dean & Britta - Crystal Blue RIP (F&uuml;xa remix)"
+title: "[200] Dean & Britta - Crystal Blue RIP (F&uuml;xa remix)"
 sitemap: true
 comments: true
 series-title: My record collection
@@ -37,7 +37,7 @@ The other side of the single has a [lovely cover of The Go-Go's _Our Lips are Se
  - Bought direct from Rocket Girl (I think)
 
 Previously in [my record collection](/category/my-record-collection):
- - [#054: Füxa - Electric Sound of Summer](http://moonshot.local:4040/2023/07/24/my-record-collection-054-fuxa-electric-sound-of-summer/)
- - [#121: Fuxa Commits Suicide (CD)](http://moonshot.local:4040/2024/03/25/my-record-collection-121-fuxa-commits-suicide-cd/)
+ - [[054] Füxa - Electric Sound of Summer](http://moonshot.local:4040/2023/07/24/my-record-collection-054-fuxa-electric-sound-of-summer/)
+ - [[126] Fuxa Commits Suicide (CD)](http://moonshot.local:4040/2024/03/25/my-record-collection-121-fuxa-commits-suicide-cd/)
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[035] - #035: Luna - Bewitched"
+title: "[035] Luna - Bewitched"
 sitemap: true
 series-title: My record collection
 author:
@@ -42,4 +42,4 @@ Michael Lee Lim - The Galaxie 500 Mailing List
  - Bought probably the first week of release and for whatever CDs cost back then. £9.99 ?
 
  Previously in [my record collection](/category/my-record-collection)
-  - [#025: Luna - Bewitched LP](/2023/04/13/my-record-collection-025-luna-bewitched-lp/)
+  - [[025] Luna - Bewitched LP](/2023/04/13/my-record-collection-025-luna-bewitched-lp/)

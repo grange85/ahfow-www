@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[165] - #158: Luna - Lunapark (Deluxe 2xLP)"
+title: "[165] Luna - Lunapark (Deluxe 2xLP)"
 sitemap: true
 series-title: My record collection
 catno: 12/087
@@ -56,4 +56,4 @@ Having said all that - it is a very beautiful package, a lovely gatefold sleeve,
  - Bought direct from Run Out Groove for $55.97
 
 Previously in [my record collection](/category/my-record-collection):
- - [#068: Luna - Lunapark (CD)](/2023/09/11/my-record-collection-068-luna-lunapark-cd/)
+ - [[070] Luna - Lunapark (CD)](/2023/09/11/my-record-collection-068-luna-lunapark-cd/)

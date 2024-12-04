@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[158] - #151: Cheval Sombre - Days Go By"
+title: "[158] Cheval Sombre - Days Go By"
 sitemap: true
 series-title: My record collection
 catno: 12/091
@@ -52,10 +52,11 @@ This is the Sonic Cathedral Bandcamp exclusive version in "frosted clear with bl
  - [Buy 'Days Go By' on Bandcamp](https://chevalsombre.bandcamp.com/album/days-go-by)
 
 Previously in [my record collection](/category/my-record-collection):
- - [#013: Cheval Sombre - Mad Love (LP)](/2023/03/02/my-record-collection-013-cheval-sombre-mad-love-lp/)
- - [#021: Dean Wareham and Cheval Sombre - Along The Santa Fe Trail](/2023/03/30/my-record-collection-021-dean-wareham-and-cheval-sombre-along-the-santa-fe-trail/)
- - [#037: Dean Wareham vs Cheval Sombre](/2023/05/25/my-record-collection-037-dean-wareham-vs-cheval-sombre/)
- - [#047: Cheval Sombre - self-titled](/2023/06/29/my-record-collection-047-cheval-sombre-self-titled/)
- - [#094: Cheval Sombre - Mad Love (CD)](/2023/12/11/my-record-collection-094-cheval-sombre-mad-love-cd/)
- - [#138: Dean Wareham and Cheval Sombre - Along The Santa Fe Trail](/2024/05/23/my-record-collection-138-dean-wareham-and-cheval-sombre-along-the-santa-fe-trail/)
+ - [[013] Cheval Sombre - Mad Love (LP)](/2023/03/02/my-record-collection-013-cheval-sombre-mad-love-lp/)
+ - [[021] Dean Wareham and Cheval Sombre - Along The Santa Fe Trail](/2023/03/30/my-record-collection-021-dean-wareham-and-cheval-sombre-along-the-santa-fe-trail/)
+ - [[037] Dean Wareham vs Cheval Sombre](/2023/05/25/my-record-collection-037-dean-wareham-vs-cheval-sombre/)
+ - [[047] Cheval Sombre - self-titled](/2023/06/29/my-record-collection-047-cheval-sombre-self-titled/)
+ - [[097] Cheval Sombre - Mad Love (CD)](/2023/12/11/my-record-collection-094-cheval-sombre-mad-love-cd/)
+ - [[145] Dean Wareham and Cheval Sombre - Along The Santa Fe Trail](/2024/05/23/my-record-collection-138-dean-wareham-and-cheval-sombre-along-the-santa-fe-trail/)
+
 

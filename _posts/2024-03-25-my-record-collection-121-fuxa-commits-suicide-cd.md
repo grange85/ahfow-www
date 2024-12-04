@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[126] - #121: Fuxa Commits Suicide (CD)"
+title: "[126] Fuxa Commits Suicide (CD)"
 sitemap: true
 series-title: My record collection
 github-comments-issueid:
@@ -38,4 +38,4 @@ Unlike [Electric Sounds of Summer](/2023/07/24/my-record-collection-054-fuxa-ele
  - [Buy 'Fuxa Commits Suicide' on Bandcamp](https://fuxa1.bandcamp.com/album/fuxa-commits-suicide)
 
  Previously in [my record collection](/category/my-record-collection):
-  - [#054: Füxa - Electric Sound of Summer](/2023/07/24/my-record-collection-054-fuxa-electric-sound-of-summer/)
+  - [[054] Füxa - Electric Sound of Summer](/2023/07/24/my-record-collection-054-fuxa-electric-sound-of-summer/)

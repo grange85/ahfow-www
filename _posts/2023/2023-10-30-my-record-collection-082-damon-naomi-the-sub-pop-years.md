@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[085] - #082: Damon & Naomi - The Sub Pop Years"
+title: "[085] Damon & Naomi - The Sub Pop Years"
 sitemap: true
 series-title: My record collection
 author:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[084] - #081: Luna - The Days of Our Nights (Jericho CD)"
+title: "[084] Luna - The Days of Our Nights (Jericho CD)"
 sitemap: true
 series-title: My record collection
 author:
@@ -38,7 +38,7 @@ I think this release might be the first to have a link to Luna's website fuzzywu
  - Sent to me by Dean on release
 
 Previously in [my record collection](/category/my-record-collection):
- - [Recent acquisition #1 - Luna The Days of Our Nights (LP)](/2023/08/08/my-record-collection-recent-acquisition-1-luna-the-days-of-our-nights-lp/)
+ - [[059] Luna The Days of Our Nights (LP)](/2023/08/08/my-record-collection-recent-acquisition-1-luna-the-days-of-our-nights-lp/)
 
 
 

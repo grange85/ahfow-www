@@ -1,7 +1,7 @@
 ---
 layout: post
 series-title: My record collection
-title: "[014] - #014: Damon & Naomi - Pierre Etoile (CD)"
+title: "[014] Damon & Naomi - Pierre Etoile (CD)"
 author:
   display_name: Andy
   login: admin
@@ -36,4 +36,4 @@ I've always been slightly disappointed in the sleeve of this issue - probably be
  - [Buy 'Damon & Naomi - Pierre Etoile' on Bandcamp](https://damonandnaomi.bandcamp.com/album/pierre-etoile-ep)
 
  Previously in [my record collection](/category/my-record-collection)
-  - [#001: Pierre Etoile (12")](/2023/01/20/my-record-collection-01-pierre-etoile/)
+  - [[001] Pierre Etoile (12")](/2023/01/20/my-record-collection-01-pierre-etoile/)

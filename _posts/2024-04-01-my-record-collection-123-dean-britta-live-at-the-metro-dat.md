@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[128] - #123: Dean & Britta live at The Metro"
+title: "[128] Dean & Britta live at The Metro"
 sitemap: true
 series-title: My record collection
 github-comments-issueid:
@@ -52,5 +52,5 @@ Andy would usually record all the bands... "just in case" but I thought that thi
  - *Format:* DAT
 
 Previously in [my record collection](/category/my-record-collection):
- - [#055: Dean & Britta live at The Legion](/2023/07/27/my-record-collection-055-dean-britta-live-at-the-legion/)
+ - [[055] Dean & Britta live at The Legion](/2023/07/27/my-record-collection-055-dean-britta-live-at-the-legion/)
 

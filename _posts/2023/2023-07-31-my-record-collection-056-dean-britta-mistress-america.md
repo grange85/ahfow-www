@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[056] - #056: Dean & Britta - Mistress America"
+title: "[056] Dean & Britta - Mistress America"
 sitemap: true
 series-title: My record collection
 author:
@@ -51,4 +51,4 @@ So having damned the album with faint praise last time out - "while perhaps not 
  - Bought somewhere for some money?
    
 Previously in [my record collection](/category/my-record-collection/)
- - [#045: Mistress America soundtrack CD](/2023/06/22/my-record-collection-045-mistress-america-soundtrack-cd/)
+ - [[045] Mistress America soundtrack CD](/2023/06/22/my-record-collection-045-mistress-america-soundtrack-cd/)

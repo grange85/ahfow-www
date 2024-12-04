@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[173] - #166: Guitarrorists = Player + Instrument (2xLP)"
+title: "[173] Guitarrorists = Player + Instrument (2xLP)"
 sitemap: true
 series-title: My record collection
 catno: 12/079
@@ -99,4 +99,4 @@ As a bonus of something sweeter - here are the short guitar workouts of familiar
  - I've had the CD since the early/mid 90s but this was bought in 2016 on Discogs for £17 + postage.
 
 Previously in [my record collection](/category/my-record-collection):
- - [#007: Guitarrorists (CD)](/2023/02/09/my-record-collection-007-guitarrorists-cd/)
+ - [[007] Guitarrorists (CD)](/2023/02/09/my-record-collection-007-guitarrorists-cd/)

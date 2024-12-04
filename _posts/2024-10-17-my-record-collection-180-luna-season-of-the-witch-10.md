@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[188] - #180: Luna - Season of The Witch (10")'
+title: '[188] Luna - Season of The Witch (10")'
 sitemap: true
 comments: true
 series-title: My record collection
@@ -36,4 +36,4 @@ I watched _I Shot Andy Warhol_ when I [posted about the soundtrack album last ye
  - Bought way back then.
 
 Previously in [my record collection](/category/my-record-collection):
- - [#091: I Shot Andy Warhol](/2023/11/30/my-record-collection-091-i-shot-andy-warhol/)
+ - [[094] I Shot Andy Warhol](/2023/11/30/my-record-collection-091-i-shot-andy-warhol/)

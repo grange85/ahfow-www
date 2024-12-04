@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[178] - #171: Luna - Pup Tent (LP)"
+title: "[178] Luna - Pup Tent (LP)"
 sitemap: true
 series-title: My record collection
 catno: 12/050

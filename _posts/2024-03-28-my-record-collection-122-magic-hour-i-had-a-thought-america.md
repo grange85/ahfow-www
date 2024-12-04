@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[127] - #122: Magic Hour - I Had a Thought / America"
+title: "[127] Magic Hour - I Had a Thought / America"
 sitemap: true
 series-title: My record collection
 github-comments-issueid:

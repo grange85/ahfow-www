@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[170] - #163: Galaxie 500 Radio Sampler"
+title: "[170] Galaxie 500 Radio Sampler"
 sitemap: true
 series-title: My record collection
 catno: 10/107

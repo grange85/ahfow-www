@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[079] - #076: Luna live in Boulder, CO 2000 MC"
+title: "[079] Luna live in Boulder, CO 2000 MC"
 sitemap: true
 series-title: My record collection
 author:

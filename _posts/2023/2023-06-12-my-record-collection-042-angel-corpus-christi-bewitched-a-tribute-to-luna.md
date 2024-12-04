@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[042] - #042: Angel Corpus Christi - Bewitched: A Tribute to
+title: '[042] Angel Corpus Christi - Bewitched: A Tribute to
   Luna'
 sitemap: true
 series-title: My record collection 

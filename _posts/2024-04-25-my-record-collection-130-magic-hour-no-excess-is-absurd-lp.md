@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[135] - #130: Magic Hour - No Excess is Absurd (LP)"
+title: "[135] Magic Hour - No Excess is Absurd (LP)"
 sitemap: true
 series-title: My record collection
 github-comments-issueid:
@@ -40,5 +40,5 @@ The sleeve is a frame taken from Harry Smith's _Film No.7: Color Study_ - the fi
   - Bought on Discogs in 2012 for &euro;5.55 (plus postage)
 
   Previously in [my record collection](/category/my-record-collection):
-   - [#046: Magic Hour - No Excess Is Absurd](/2023/06/26/my-record-collection-046-magic-hour-no-excess-is-absurd/)
-   - [#050: Magic Hour - No Excess is Absurd](/2023/07/10/my-record-collection-050-magic-hour-no-excess-is-absurd/)
+   - [[046] Magic Hour - No Excess Is Absurd](/2023/06/26/my-record-collection-046-magic-hour-no-excess-is-absurd/)
+   - [[050] Magic Hour - No Excess is Absurd](/2023/07/10/my-record-collection-050-magic-hour-no-excess-is-absurd/)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[099] - #R04: Dean Wareham - Live at St Pancras Old Church December
+title: '[099] Dean Wareham - Live at St Pancras Old Church December
   2013'
 sitemap: true
 series-title: My record collection
@@ -59,4 +59,4 @@ So, I have three copies on vinyl, and two on cassette. So just five copies (so f
  - [Buy 'Live at St Pancras Old Church December 2013' on Bandcamp](https://deanwareham.bandcamp.com/album/live-at-st-pancras-old-church-london-december-2013)
 
 Previously in [my record collection](/category/my-record-collection):
- - [#011: Dean Wareham Live at St Pancras Old Church (red cassette)](/2023/02/23/my-record-collection-011-dean-wareham-live-at-st-pancras-old-church-red-cassette/)
+ - [[011] Dean Wareham Live at St Pancras Old Church (red cassette)](/2023/02/23/my-record-collection-011-dean-wareham-live-at-st-pancras-old-church-red-cassette/)

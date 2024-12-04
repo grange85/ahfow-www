@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[049] - #049: Dean Wareham - Emancipated Hearts (LP)"
+title: "[049] Dean Wareham - Emancipated Hearts (LP)"
 series-title: My record collection
 author:
   display_name: Andy
@@ -60,4 +60,4 @@ So, Emancipated Hearts is an LP, and was Dean's first solo LP. I rest my case.
  - [Buy 'Emancipated Hearts' on Bandcamp](https://deanwareham.bandcamp.com/album/emancipated-hearts)
 
  Previously in [my record collection](/category/my-record-collection)
-  - [#003: Dean Wareham - Emancipated Hearts (CD)](/2023/01/26/my-record-collection-003-dean-wareham-emancipated-hearts/)
+  - [[003] Dean Wareham - Emancipated Hearts (CD)](/2023/01/26/my-record-collection-003-dean-wareham-emancipated-hearts/)

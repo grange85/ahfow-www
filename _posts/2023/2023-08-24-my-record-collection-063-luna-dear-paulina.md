@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[065] - #063: Luna - Dear Paulina"
+title: "[065] Luna - Dear Paulina"
 sitemap: true
 series-title: My record collection
 author:

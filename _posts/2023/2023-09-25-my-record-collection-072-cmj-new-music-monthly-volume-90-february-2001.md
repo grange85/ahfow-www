@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[075] - #072: CMJ New Music Monthly - Volume 90 - February 2001"
+title: "[075] CMJ New Music Monthly - Volume 90 - February 2001"
 sitemap: true
 series-title: My record collection
 author:

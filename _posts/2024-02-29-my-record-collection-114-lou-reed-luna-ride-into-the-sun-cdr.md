@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[119] - #114: Lou Reed + Luna - Ride Into The Sun (CDR)"
+title: "[119] Lou Reed + Luna - Ride Into The Sun (CDR)"
 sitemap: true
 series-title: My record collection
 github_comments_issueid:

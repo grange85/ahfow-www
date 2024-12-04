@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[027] - #027: Galaxie 500 - Today (Schemer CD)"
+title: "[027] Galaxie 500 - Today (Schemer CD)"
 series-title: My record collection
 author:
   display_name: Andy
@@ -38,4 +38,4 @@ This was another _fill out the collection_ purchase in 2012 - bought on eBay.
  - [Buy 'Today' on Bandcamp](https://galaxie500.bandcamp.com/album/today)
  
  Previously in [my record collection](/category/my-record-collection)
-  - [#015: Galaxie 500 - Today (Rough Trade US LP)](/2023/03/09/my-record-collection-015-galaxie-500-today-rough-trade-us-lp/)
+  - [[015] Galaxie 500 - Today (Rough Trade US LP)](/2023/03/09/my-record-collection-015-galaxie-500-today-rough-trade-us-lp/)

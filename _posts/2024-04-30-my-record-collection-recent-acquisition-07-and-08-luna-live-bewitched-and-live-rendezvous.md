@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[138] - #R07 and #R08: Luna - Live Bewitched and Live Rendezvous'
+title: '[138] Luna - Live Bewitched and Live Rendezvous'
 sitemap: true
 series-title: My record collection
 github-comments-issueid:

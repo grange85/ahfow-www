@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[103] - #098: Cagney & Lacee - Six Feet of Chain"
+title: "[103] Cagney & Lacee - Six Feet of Chain"
 sitemap: true
 series-title: My record collection
 author:
@@ -52,4 +52,4 @@ I wrote about all the covers in my [Originals series](/category/originals/) a fe
   - Bought around the time of release.
 
   Previously in [my record collection](/category/my-record-collection):
-   - [#023: Cagney & Lacee - Time / By The Way...](/2023/04/06/my-record-collection-023-cagney-lacee-time-by-the-way/)
+   - [[023] Cagney & Lacee - Time / By The Way...](/2023/04/06/my-record-collection-023-cagney-lacee-time-by-the-way/)

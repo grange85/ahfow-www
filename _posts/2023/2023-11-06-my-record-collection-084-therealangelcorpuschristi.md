@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[087] - #084: therealangelcorpuschristi"
+title: "[087] therealangelcorpuschristi"
 sitemap: true
 series-title: My record collection
 author:
@@ -42,7 +42,7 @@ The whole album is amazing and worth hunting down - not sure it ever got a digit
  - Bought from Amazon for £22.99 (incl postage)
 
  Previously in [my record collection](/category/my-record-collection):
- - [#006: Angel Corpus Christi with Dean Wareham - Je t'aime / I Wanna Boogie With You (7")](/2023/02/06/my-record-collection-006-angel-corpus-christi-dean-wareham-je-t-aime/)
- - [#042: Angel Corpus Christi - Bewitched: A Tribute to Luna](/2023/06/12/my-record-collection-042-angel-corpus-christi-bewitched-a-tribute-to-luna/)
+ - [[006] Angel Corpus Christi with Dean Wareham - Je t'aime / I Wanna Boogie With You (7")](/2023/02/06/my-record-collection-006-angel-corpus-christi-dean-wareham-je-t-aime/)
+ - [[042] Angel Corpus Christi - Bewitched: A Tribute to Luna](/2023/06/12/my-record-collection-042-angel-corpus-christi-bewitched-a-tribute-to-luna/)
 
  &dagger; _I had catalogued my memorabilia (clippings, photos, etc.) for years but only started giving my cd and vinyl catalogue numbers a few years ago which is how an album so late in my collection (but so early in the alphabet) has this number._

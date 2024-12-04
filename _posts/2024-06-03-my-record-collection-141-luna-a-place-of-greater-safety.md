@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[148] - #141: Luna - A Place of Greater Safety"
+title: "[148] Luna - A Place of Greater Safety"
 sitemap: true
 series-title: My record collection
 catno: 12/060

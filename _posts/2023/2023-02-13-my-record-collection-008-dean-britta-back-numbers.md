@@ -1,7 +1,7 @@
 ---
 layout: post
 series-title: My record collection
-title: "[008] - #008: Dean & Britta - Back Numbers (advance CD)"
+title: "[008] Dean & Britta - Back Numbers (advance CD)"
 author:
   display_name: Andy
   login: admin

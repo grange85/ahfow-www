@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[142] - #135: Luna on The Late Late Show, June 2000 (VHS)"
+title: "[142] Luna on The Late Late Show, June 2000 (VHS)"
 series-title: My record collection
 catno: 13/014
 comments: false
@@ -54,4 +54,4 @@ You can [see the performance on YouTube](https://www.youtube.com/watch?v=tzU1Q0q
  - *Format:* VHS
 
  Previously in [my record collection](/category/my-record-collection):
-  - [#110: Luna on Later](/2024/02/15/my-record-collection-110-luna-on-later/)
+  - [[115] Luna on Later](/2024/02/15/my-record-collection-110-luna-on-later/)

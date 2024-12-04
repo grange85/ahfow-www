@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[109] - #104: Galaxie 500 - Victory Garden (flexi)"
+title: "[109] Galaxie 500 - Victory Garden (flexi)"
 sitemap: true
 series-title: My record collection
 author:
