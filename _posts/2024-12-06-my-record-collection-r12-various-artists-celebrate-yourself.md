@@ -11,7 +11,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/sonic-cathedral-celebrate-yourself-box.jpg
 categories:
 - dean wareham
 - my record collection
@@ -19,9 +19,9 @@ tags:
 - sonic cathedral
 - cheval sombre
 ---
-A couple of months back the wonderful London indie hit its 20th anniversary and this lovely four CD collection was released to celebrate "The label that celebrates itself".
+A couple of months back the wonderful London indie hit its 20th anniversary and this lovely four CD collection was released this week to celebrate "The label that celebrates itself".
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/sonic-cathedral-celebrate-yourself-box.jpg" "Celebrate Yourself! box set" %}
 
 Dean Wareham has been tied up with Sonic Cathedral off/on over the years... here are a few of those knots off the top of my head:
 
@@ -35,13 +35,17 @@ Dean Wareham has been tied up with Sonic Cathedral off/on over the years... here
 - ... and [released them on cassette](/2023/02/23/my-record-collection-011-dean-wareham-live-at-st-pancras-old-church-red-cassette/)...
 - ... and then as a [lovely 1.5xLP edition](/2023/12/16/my-record-collection-recent-acquisition-04-dean-wareham-live-at-st-pancras-old-church-december-2013/).
 
-Dean's appearance on "Celebrate Yourself" is his cover of Galaxie 500's "When Will You Come Home" from the St Pancras Old Church album. The sleeve claims that it is the track's first appearance on CD but, as you'll find out later in this series, that is not entirely true!
+This box set is in four parts, a disc each of: 'classics', remixes, live recordings, and seasonal/christmas tracks and Dean's appearance is on the third disc, "Reverberate Yourself" and is his cover of Galaxie 500's "When Will You Come Home" from the St Pancras Old Church album. The sleeve claims that it is the track's first appearance on CD but, as you'll find out later in this series, that is not entirely true!
+
+{% ahfowimage "https://live.staticflickr.com/65535/53322432469_8d4114b3ca_c.jpg" "Dean Wareham live at St Pancras Old Church, December 2013" "https://www.flickr.com/photos/grange85/53322432469/in/album-72177720312571151/" %}
 
 As part of Sonic Cathedral's birthday celebrations there was also, separately released, a "Celebrating Ourselves!" booklet which has some nice live pics of Dean & Britta:
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/sonic-cathedral-celebrate-yourself-booklet.jpg" "Celebrating Ourselves! booklet" %}
 
 As well as all the Dean Wareham associated releases Sonic Cathedral have been pumping out lots of other brilliant music - you pretty much can't go wrong buying anything from the catalogue - which makes this compilation astounding value for money and a perfect Sonic Cathedral intro/catch-up if you're not already worshipping!
+
+As well as Dean Wareham you will find Cheval Sombre, twice, once live with Sonic Boom, Slowdive, Lorelle Meets the Obsolete, Maps, Dot Allison, Andy Bell, and so much more I'm not sure why I've bothered starting a list - you can see the tracklisting here. It's sold out on Bandcamp but you can still buy copies from record stores ([Rough Trade](https://www.roughtrade.com/en-gb/product/various/celebrate-yourself-the-sonic-cathedral-story-2004-2024),  [Norman Records](https://www.normanrecords.com/records/205725-various-celebrate-yourself-the-sonic-cathedral), [Picadilly Records](https://www.piccadillyrecords.com/157460/Various-Artists-Celebrate-Yourself!-The-Sonic-Cathedral-Story-2004-2024-Sonic-Cathedral), etc.)
 
 Thanks Nat/Sonic Cathedral for being amazing for 20 years, and here's to the next 20!
 
