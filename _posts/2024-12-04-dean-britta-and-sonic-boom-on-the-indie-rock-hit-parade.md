@@ -20,7 +20,7 @@ tags:
 - indie rock hit parade
 - a peace of us
 ---
-Dean and Britta and Sonic Boom were [guests on WXPN's Indie Rock Hit Parade earlier](https://xpn.org/2024/12/03/irhp-dean-and-britta-and-sonic-boom-interview/) talking about A Peace of Us, and their favourite (and least favourite) aspects of the holday season.
+Dean and Britta and Sonic Boom were [guests on WXPN's Indie Rock Hit Parade earlier](https://xpn.org/2024/12/03/irhp-dean-and-britta-and-sonic-boom-interview/) talking about A Peace of Us, and their favourite (and least favourite) aspects of the holiday season.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/dean-britta-sonic-boom-press.jpg" "Dean, Britta and Sonic Boom" %}
 
