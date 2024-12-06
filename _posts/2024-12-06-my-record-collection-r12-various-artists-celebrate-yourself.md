@@ -19,7 +19,7 @@ tags:
 - sonic cathedral
 - cheval sombre
 ---
-A couple of months back the wonderful London indie hit its 20th anniversary and this lovely four CD collection was released this week to celebrate "The label that celebrates itself".
+A couple of months back the wonderful London indie hit its 20th anniversary and this lovely four CD collection has been released today to celebrate "the label that celebrates itself".
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/sonic-cathedral-celebrate-yourself-box.jpg" "Celebrate Yourself! box set" %}
 
