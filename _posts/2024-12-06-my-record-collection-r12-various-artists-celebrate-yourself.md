@@ -34,6 +34,9 @@ Dean Wareham has been tied up with Sonic Cathedral off/on over the years... here
 - ... and recorded them...
 - ... and [released them on cassette](/2023/02/23/my-record-collection-011-dean-wareham-live-at-st-pancras-old-church-red-cassette/)...
 - ... and then as a [lovely 1.5xLP edition](/2023/12/16/my-record-collection-recent-acquisition-04-dean-wareham-live-at-st-pancras-old-church-december-2013/).
+- Sonic Cathedral released Luna's cover of Something in the Air for their 2019 singles club...
+- ... and had a launch party for it, and screened Tell Me Do You Miss Me
+- _there are undoubtedly many more_
 
 This box set is in four parts, a disc each of: 'classics', remixes, live recordings, and seasonal/christmas tracks and Dean's appearance is on the third disc, "Reverberate Yourself" and is his cover of Galaxie 500's "When Will You Come Home" from the St Pancras Old Church album. The sleeve claims that it is the track's first appearance on CD but, as you'll find out later in this series, that is not entirely true!
 
