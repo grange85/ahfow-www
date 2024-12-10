@@ -39,8 +39,8 @@ It was described as being "blue swirl" vinyl, but no _swirl_ on my copy, just a 
  - [Buy 'This Is Our Music' on Bandcamp](https://galaxie500.bandcamp.com/album/this-is-our-music)
 
 Previously in [my record collection](/category/my-record-collection):
- - [[032] Galaxie 500 - This Is Our Music](http://moonshot.local:4040/2023/05/08/my-record-collection-032-galaxie-500-this-is-our-music/)
- - [[040] Today / On Fire / This Is Our Music](http://moonshot.local:4040/2023/06/05/my-record-collection-040-today-on-fire-this-is-our-music/)
- - [[052] Galaxie 500 - This Is Our Music](http://moonshot.local:4040/2023/07/17/my-record-collection-052-galaxie-500-this-is-our-music/)
- - [[060] Galaxie 500 - This Is Our Music](http://moonshot.local:4040/2023/08/10/my-record-collection-059-galaxie-500-this-is-our-music/)
- - [[206] Galaxie 500 - This Is Our Music (Rough Trade UK LP)](http://moonshot.local:4040/2024/12/12/my-record-collection-196-galaxie-500-this-is-our-music-rough-trade-lp/)
+ - [[032] Galaxie 500 - This Is Our Music](/2023/05/08/my-record-collection-032-galaxie-500-this-is-our-music/)
+ - [[040] Today / On Fire / This Is Our Music](/2023/06/05/my-record-collection-040-today-on-fire-this-is-our-music/)
+ - [[052] Galaxie 500 - This Is Our Music](/2023/07/17/my-record-collection-052-galaxie-500-this-is-our-music/)
+ - [[060] Galaxie 500 - This Is Our Music](/2023/08/10/my-record-collection-059-galaxie-500-this-is-our-music/)
+ - [[206] Galaxie 500 - This Is Our Music (Rough Trade UK LP)](/2024/12/12/my-record-collection-196-galaxie-500-this-is-our-music-rough-trade-lp/)
