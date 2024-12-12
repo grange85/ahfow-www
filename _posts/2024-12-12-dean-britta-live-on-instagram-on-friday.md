@@ -11,7 +11,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/dean-and-britta-instagram-promo.jpg
 categories:
 - dean & britta
 - news
