@@ -19,7 +19,7 @@ tags:
 - interview
 date: 2024-05-03 00:00 +0000
 ---
-This is the second part of my Terrascopaedia interviews, this time with Dean. You can read [the first part with Damon & Naomi](/2024/05/01/my-uncut-terrascopaedia-interviews-1-damon-and-naomi/), and see the finished article, as [beautifully presented in Terrascopaedia 11](https://media.fullofwishes.co.uk/01-galaxie_500/docs/galaxie-500-terrascopaedia-13.pdf).
+This is the second part of my Terrascopaedia interviews, this time with Dean. You can read [the first part with Damon & Naomi](/2024/05/01/my-uncut-terrascopaedia-interviews-1-damon-and-naomi/), and see the finished article, as [beautifully presented in Terrascopaedia 13](https://media.fullofwishes.co.uk/01-galaxie_500/docs/galaxie-500-terrascopaedia-13.pdf).
 
 
 It's probably worth mentioning that, I guess inevitably, Dean and Damon's views were sometimes at odds with each other, Damon called these "accurate representations of our differences".

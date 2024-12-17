@@ -23,7 +23,7 @@ Back in 2018 Phil at Terrascopaedia suggested I might get a piece into his wonde
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/instagram-fullofwishes/2023-08-16_12-30-06_UTC_5.jpg" "Terrascopaedia #13 - November 2019" %}
 
-I attempted to get the three interviews into a single article, but the best work on that was done by Phil, who took my rather clumsy attempt and made it perfect. But I thought it might be quite interesting to see how those _raw_ interviews went. First up, Damon and Naomi. You can read [the second part with Dean](/2024/05/03/my-uncut-terrascopaedia-interviews-2-dean/), and see the finished article, as [beautifully presented in Terrascopaedia 11](https://media.fullofwishes.co.uk/01-galaxie_500/docs/galaxie-500-terrascopaedia-13.pdf).
+I attempted to get the three interviews into a single article, but the best work on that was done by Phil, who took my rather clumsy attempt and made it perfect. But I thought it might be quite interesting to see how those _raw_ interviews went. First up, Damon and Naomi. You can read [the second part with Dean](/2024/05/03/my-uncut-terrascopaedia-interviews-2-dean/), and see the finished article, as [beautifully presented in Terrascopaedia 13](https://media.fullofwishes.co.uk/01-galaxie_500/docs/galaxie-500-terrascopaedia-13.pdf).
 
 <blockquote>
 <p><strong>AA: When was the auction where you bought back the rights to Galaxie 500’s masters and contracts?</strong></p>
