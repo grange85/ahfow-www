@@ -55,13 +55,30 @@ Here is a [PDF of the final interview](https://media.fullofwishes.co.uk/01-galax
  - [My uncut Terrascopaedia interviews: #2 Dean](https://www.fullofwishes.co.uk/2024/05/03/my-uncut-terrascopaedia-interviews-2-dean/)
 
 
-### 23:
+### 23: It's all about me
+ - [Poetic Justice](https://poeticjusticemagazine.com) online magazine asked me to pick my 10 favourite Galaxie 500 songs... [so I did and explaied why](https://poeticjusticemagazine.com/2022/10/04/a-head-full-of-wishes-top-10-galaxie-500-songs/)
+ - [It's Psychedelic Baby interviewed me](https://www.psychedelicbabymag.com/2017/12/an-interview-with-andy-aldridge.html) about AHFoW and more.
 
-### 24:
+### 24: Heading north
+I moved from London to Whitley Bay in the North East of England and saw Dean on my doorstep not long afterwards
+{% ahfowvideo "A3cnN8q8gBE" "Dean Wareham - Duchess / Tugboat @ The Cluny (July 2022)" %}
 
-### 25:
+### 25: We all got older
+From 1995 until 2020 I ran a survey every Christmas but interest seemed to wane (half as many people voted in 2020 compared to 2018) so I finally gave it the axe. In the final survey I posted a graphic that might explain why!
 
-### 26:
+In 1999 Bob was the first of us who edged into the "over 50" category - in 2020 44% of us were over 50 - maybe old folk just don't like doing surveys!
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/how-weve-aged-ahfow-survey-2020.png" "How we've ages - AHFoW survey 2020" %}
+
+### 26: Every cloud...
+COVID happened... and we were all stuck at home for ages, some of us getting periodically sick, the rest getting tired of it all - but the silver lining was that Dean & Britta, initially with trepidation, but then later fully embraced, live streamed concerts from their living room. It was lovely to spend real time with them, and with other fans around the world. 
+
+Here's [a playlist of clips from those shows](https://www.youtube.com/playlist?list=PLVUlJ8-T7PGaHT7kFoKYnihyXtiugNoh-) (or rehearsals, or promos for those shows).
+
+Also, always a joy watching them trying to switch off at the end of the show!
+
+{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/dean-and-britta-turning-off.jpg" "Turning off" %}
+
 
 ### 27:
 
