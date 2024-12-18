@@ -3,6 +3,7 @@ layout: post
 title: "Stanley Demeski guests with Luna in Brooklyn last night"
 author:
   display_name: Andy Aldridge
+  login: admin
 date: '2015-10-10'
 categories:
  - luna
