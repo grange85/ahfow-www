@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Posts by guest authors
 ---
 {% for author in site.data.authors %}

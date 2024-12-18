@@ -4,6 +4,7 @@ draft: false
 title: "On Fire - side 2, track 5: Isn't It a Pity"
 author:
   display_name: David Duffin
+  login: david
 date: 2019-10-22
 image: https://media.fullofwishes.co.uk/00-misc/pictures/david-on-fire-cd.jpg
 categories:
