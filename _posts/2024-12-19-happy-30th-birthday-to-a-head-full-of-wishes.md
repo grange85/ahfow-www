@@ -98,7 +98,7 @@ I was invited to be the _Special Guest DJ_ at a Sonic Cathedral Luna tribute nig
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/what-the-hell-does-this-button-do.jpg" "What the hell does this button do!?" %}
 
 ### 29: Tea with Naomi
-Damon was in London promoting Ways of Hearing and had two events scheduled. The first was in Rough Trade West and then the following day at the [Walthamstow Rock 'n' Roll Book Club](). I went to the first and arrived in the area a bit early and while wandering past a pub someone started knocking on the window from the inside and there was Naomi beckoning me in! I joined her, ordered a cup of tea and sat chatting to her. We talked about my imminent retirement and the fear of leaving London. She was very encouraging! 
+Damon was in London promoting Ways of Hearing and had two events scheduled. The first was in Rough Trade West and then the following day at the [Walthamstow Rock 'n' Roll Book Club](https://rocknrollbookclub.co.uk/). I went to the first and arrived in the area a bit early and while wandering past a pub someone started knocking on the window from the inside and there was Naomi beckoning me in! I joined her, ordered a cup of tea and sat chatting to her. We talked about my imminent retirement and the fear of leaving London. She was very encouraging! 
 
 She also asked if I was planning on coming the following night. She cryptically suggested that it would be in my best interests to go.
 
