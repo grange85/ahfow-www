@@ -48,7 +48,7 @@ Five reasons I love xmas - even though I'm not religious!
 #3 - Scrooge, the musical with Albert Finney  
 {% ahfowvideo "Dkq7WZTzkLQ" "Thank You Very Much (from Scrooge)" %}
 
-#4 - Most Christmas pop songs of the 70s - here's one of my faves (but not [the one I'd be expected to post](https://youtu.be/94Ye-3C1FC8))
+#4 - Most Christmas pop songs of the 70s - here's one of my faves (but not [the one I'd be expected to post](/2024/12/17/simply-having-a-wonderful-christmastime-an-explanation/))
 {% ahfowvideo "IJPc7esgvsA" "Wizzard - I Wish it Could be Christmas Everyday" %}
 
 #5 - These folk
