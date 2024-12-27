@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Head Full of Wishes review of the year - 2017"
+title: "A Head Full of Wishes review of the year 2017"
 author:
   display_name: Andy
   login: admin
