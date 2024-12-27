@@ -97,6 +97,16 @@ jekyll_compose:
        - 
       tags:
        - 
+jekyll-archives:
+  enabled:
+    - year
+    - month
+  layout: jarchive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+
+
 # Build settings
 livereload: false
 host: 0.0.0.0
@@ -125,3 +135,4 @@ exclude:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-archives

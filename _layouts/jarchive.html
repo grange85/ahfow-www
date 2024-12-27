@@ -1,0 +1,33 @@
+---
+layout: default
+---
+{%-include back_link.html-%}
+
+<h2>
+{%- case page.type -%}
+  {%-when 'year'-%}
+  Archive of posts from {{ page.date | date: "%Y" }} <em><small>({{ page.posts.size }} posts)</small></em>
+  {%-when 'month'-%}
+  Archive of posts from {{ page.date | date: "%B %Y" }} <em><small>({{ page.posts.size }} posts)</small></em>
+  {%-else-%}
+  {{- page.title -}} <em><small>({{ page.posts.size }} posts)</small></em>
+{%- endcase -%}
+</h2>
+
+<h3>Posts</h3>
+
+{%- if page.posts.size > 0 -%}
+  <ul class="post-index">
+    {%- for post in page.posts reversed -%}
+        <li>
+          <span>{{- post.date | date: site.theme_config.date_format -}}</span>&nbsp;
+		  {%- if post.series-title -%}<span class="series-title">{{post.series-title}}</span><br>
+		  <span class="indent-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></span>
+		  {%-else-%}
+		  <span><a href="{{ post.url | relative_url }}">{{ post.title }}</a></span>
+		  {%-endif-%}
+        </li>
+    {%- endfor -%}
+  </ul>
+{%- endif -%}
+
