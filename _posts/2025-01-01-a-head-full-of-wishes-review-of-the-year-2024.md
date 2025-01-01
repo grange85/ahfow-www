@@ -43,7 +43,6 @@ Quiet for them, but not for me
  - Dean & Britta's first album [L'avventura got a deluxe release as part of Record Store Day](/2024/04/25/my-record-collection-recent-acquisition-16-dean-britta-l-avventura-rsd-2024/) - with added _Sonic Souvenirs_.
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-and-britta-lavventura-rsd2024.jpg" "Record Store Day L'avventura" %}
 
-### May
  - Dean and Britta were in Portugal with Sonic Boom working on what was to become [A Peace of Us](/2024/12/02/my-record-collection-r11-dean-britta-sonic-boom-a-peace-of-us/).
  - I retired after almost eleven years at The National Archives... and on my last day Dean and Britta turned up with a couple of the Bandbox live LPs, and the RSD L'avventura:
 {% ahfowimage "https://live.staticflickr.com/65535/53679284864_b34f0d7b11_c.jpg" "Britta (with a bag of records), me and Dean at TNA" %}
