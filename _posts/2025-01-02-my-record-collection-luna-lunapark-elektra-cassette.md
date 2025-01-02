@@ -41,3 +41,7 @@ A few idle thoughts/observations:
   - *Artist:* Luna
   - *Title:* Lunapark
   - *Format:* MC
+
+Previously in [my record collection](/category/my-record-collection):
+ - [\[165\] Luna - Lunapark (Deluxe 2xLP)](/2024/08/01/my-record-collection-158-luna-lunapark-deluxe-2xlp/)
+ - [\[070\] Luna - Lunapark (CD)](/2023/09/11/my-record-collection-068-luna-lunapark-cd/)
