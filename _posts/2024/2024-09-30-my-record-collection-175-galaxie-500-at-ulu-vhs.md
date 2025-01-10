@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "[182] Galaxie 500 at ULU (VHS)"
+title: "[182] Galaxie 500 live in London 1990 (VHS)"
 sitemap: true
 series-title: My record collection
-catno: 13/016
+catno: 13/015
 comments: true
 author:
   display_name: Andy
@@ -56,7 +56,7 @@ There's also a VHS rip which is of lower quality but greater length - it include
 
 I can't remember but suspect my copy is similar to the second one.
 
- - *Catalogue Number:* AHFOW 13/016
+ - *Catalogue Number:* AHFOW 13/015
  - *Artist:* Galaxie 500
  - *Title:* Live in London
  - *Notes:* Domestic VHS
