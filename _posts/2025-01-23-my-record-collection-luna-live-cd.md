@@ -26,7 +26,7 @@ As you can see the sleeve is well worn... I like that in a sleeve, things should
 
 It's a fab live record, the LP is longer, and therefore better. Here are some thoughts/notes on this one though
  - The Luna Live sleeve is one of my least favourite - here are some reasons:
-   - That duotone orange!
+   - That orange!
    - I'm not fond of the typography.
    - The terrible PhotoShop muddle of five-piece Luna on the front - poor Lee looks awful?! And the way Justin's strap shoots out of Dean's back,
 
