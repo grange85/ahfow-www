@@ -28,7 +28,7 @@ It's a fab live record, the LP is longer, and therefore better. Here are some th
  - The Luna Live sleeve is one of my least favourite - here are some reasons:
    - That orange!
    - I'm not fond of the typography.
-   - The terrible PhotoShop muddle of five-piece Luna on the front - poor Lee looks awful?! And the way Justin's strap shoots out of Dean's back,
+   - The terrible PhotoShop muddle of five-piece Luna on the front - poor Lee looks awful?! And the way Justin's strap shoots out of Dean's back...
 
 I must admit that I do always find it rather sad when little consideration is given to the artistic canvas that is a record sleeve, thankfully for the most part the sleeves I'm dealing with are invariably well thought out (obv it helps having Naomi's eye on the Galaxie 500 and D&N releases). There are sleeves I don't like but still appreciate for being well thought out - I'm not sure that Luna Live fits that. Sorry, if you were involved, it's just my opinion!
 
