@@ -53,7 +53,7 @@ The rumors are true: Damon & Naomi, have gone all Phil Spectorish on us... The E
 </blockquote>
 <p class="caption">The Earth is Blue hype sticker</p>
 
-I ordered this direct from Damon & Naomi, I know this since I have snipped off the bit of the Jiffy bag that it came in that Naomi had writteb "Hi Andy!" on. I have it tucked it into the sleeve. Since I ordered it from them it meant I also got a bonus five song CD of Damon & Naomi live in Tokyo with Kurihara and Takizawa of Ghost (which will obv turn up later in this series). I don't think I bought the LP at the same time, but I do _have_ the LP so... maybe I did.
+I ordered this direct from Damon & Naomi, I know this since I have snipped off the bit of the Jiffy bag that it came in that Naomi had written "Hi Andy!" on. I have it tucked it into the sleeve. Since I ordered it from them it meant I also got a bonus five song CD of Damon & Naomi live in Tokyo with Kurihara and Takizawa of Ghost (which will obv turn up later in this series). I don't think I bought the LP at the same time, but I do _have_ the LP so... maybe I did.
 
  - *Catalogue Number:* AHFOW 10/117
  - *Artist:* Damon & Naomi
