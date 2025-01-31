@@ -18,7 +18,7 @@ categories:
 tags:
 - the earth is blue
 ---
-The Earth is Blue was Damon & Naomi's fifth&dagger; studio album and was the first release on their own 20\|20\|20 record label, released on the 14th February 2005 it has, in _Beautiful Close Double_ and _A Second Life_ the most beuatiful opening of any D&N album.
+The Earth is Blue was Damon & Naomi's fifth&dagger; studio album and was the first release on their own 20\|20\|20 record label, released on the 14th February 2005 it has, in _Beautiful Close Double_ and _A Second Life_ the most beautiful opening of any D&N album.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-the-earth-is-blue-202020-cd.jpg" "Damon & Naomi - The Earth is Blue" %}
 
