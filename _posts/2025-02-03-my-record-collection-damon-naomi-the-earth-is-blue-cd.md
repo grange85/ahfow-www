@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Damon & Naomi - The Earth is Blue (CD)
+title: "[220] Damon & Naomi - The Earth is Blue (CD)"
 date: 2025-02-03 00:00 +0000
 sitemap: true
 comments: true
@@ -62,6 +62,9 @@ I ordered this direct from Damon & Naomi, I know this since I have snipped off t
  - *Format:* CD
  - Bought
  - [Buy 'The Earth is Blue' on Bandcamp](https://damonandnaomi.bandcamp.com/album/the-earth-is-blue)
+
+Previously in [my record collection](/category/my-record-collection):
+ - [\[082\] Damon & Naomi - The Earth is Blue / Beautiful Close Double / A Song For You](/2023/10/19/my-record-collection-079-damon-naomi-the-earth-is-blue-beautiful-close-double-a-song-for-you/)
 
 <em>&dagger;  - well obviously sixth if you count the studio recorded "live" album!
 
