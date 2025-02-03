@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[108] Galaxie 500 - Copenhagen"
+title: "[108] Galaxie 500 - Copenhagen (Video Arts Japan CD)"
 sitemap: true
 series-title: My record collection
 author:
