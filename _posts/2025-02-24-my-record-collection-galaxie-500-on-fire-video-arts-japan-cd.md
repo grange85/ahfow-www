@@ -26,12 +26,12 @@ This is the lovely reissue of Galaxie 500's On Fire released in 2008 by Video Ar
 Like the others...
 
  - It comes in a lovely LP sleeve replica
- - It had SAMPLE stamped on the inner ring of the disc
- - It had the song lyrics in English and Japanese
- - Dean had signed the OBI strip
- - It had a refreshed version of Byron Coley's box set notes... in Japanese
+ - It has SAMPLE stamped on the inner ring of the disc
+ - It has the song lyrics in English and Japanese
+ - Dean has signed the OBI strip
+ - It has a refreshed version of Byron Coley's box set notes... in Japanese
 
-It also had a second set of sleeve notes written by Ryuichi Kanagawa which I do rather love (even if I only have Google Translate to help me) - I love fan writing... and this is a fan writing:
+It also has a second set of sleeve notes written by Ryuichi Kanagawa which I do rather love (even if I only have Google Translate to help me) - I love fan writing... and this is a fan writing:
 
 <blockquote>
 <p>Three albums in three and a half years... I'm sure I'd be punished if I complained that this is not enough, but I think there was still a possibility for the Galaxie 500 sound. So, rather than looking for a post-Galaxie 500 band, I hope they'll reunite. I've never asked him directly, but even if Dean said, "We've done everything we can," I wouldn't believe him. If I ever meet Dean, I'll tell him this.</p>
