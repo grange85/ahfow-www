@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[052] Galaxie 500 - This Is Our Music"
+title: "[052] Galaxie 500 - This Is Our Music (CWNN LP)"
 sitemap: true
 series-title: My record collection
 author:

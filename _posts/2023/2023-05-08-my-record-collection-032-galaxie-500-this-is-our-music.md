@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[032] Galaxie 500 - This Is Our Music'
+title: '[032] Galaxie 500 - This Is Our Music (Rough Trade UK CD)'
 sitemap: true
 series-title: My record collection 
 author:
@@ -19,7 +19,7 @@ tags:
 - rough trade
 date: 2023-05-08 00:00 +0000
 ---
-By the time This Is Our Music was released I was a full on _fan_ of Galaxie 500 and this is the copy that I bought, probably on release day, certainly in the first week of release, in early October of 1990. I can't remember where but probably in one of the big chains since it's not the _Chain With No Name_ special edition... so maybe not as big a fan as I though!?
+By the time This Is Our Music was released I was a full on _fan_ of Galaxie 500 and this is the copy that I bought, probably on release day, certainly in the first week of release, in early October of 1990. I can't remember where but probably in one of the big chains since it's not the _Chain With No Name_ special edition... so maybe not as big a fan as I thought!?
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/my-record-collection-galaxie-500-this-is-our-music-rtuk.jpg" "Galaxie 500 - This Is Our Music" %}
 
