@@ -42,16 +42,16 @@ The next [record, and recording of them playing it](/database/tracks/23-minutes-
 
 Initially the song would turn up mid-set, but by 2000 it had become a set closer, or encore. It is the most played song in my database - I was expecting Friendly Advice or Indian Summer to give it a run but it's head and shoulders above the competition - here's the top 10:
 
- 1. 23 Minutes in Brussels - played by Luna 347 times
- 2. Friendly Advice - 289
- 3. Sideshow by The Seashore - 278
- 4. Chinatown - 265
- 5. Moon Palace - 246
- 6. Tiger Lily - 221
- 7. Lost in Space - 218
- 8. Bewitched - 209
- 9. Pup Tent - 205
- 10. California (All The Way) - 192
+ 1. 23 Minutes in Brussels - played by Luna 355 times
+ 2. Friendly Advice - 296
+ 3. Sideshow by The Seashore - 283
+ 4. Chinatown - 270
+ 5. Moon Palace - 249
+ 6. Lost in Space - 225
+ 7. Tiger Lily - 223
+ 8. Bewitched - 215
+ 9. Pup Tent - 207
+ 10. Malibu Love Nest - 199
 
 Oddly Indian Summer didn't even make the top 10, I wonder if it gets played more in the UK so my impression is skewed? I'll leave that spreadsheet wrangling for another day!
 
