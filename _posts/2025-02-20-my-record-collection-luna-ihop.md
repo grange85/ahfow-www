@@ -25,7 +25,7 @@ IHOP was the first single from Pup Tent ahd released as such "despite the lack o
 <blockquote>
 <p>The radio department chose the unlikley "IHOP" as the first single. The song didn't sound like typical Luna, but it was up-tempo and in a major key, and it had hooks and some catchy lyrics. One thing it lacked was a chorus. I mentioned this to Nancy Jeffries, who was now are A&R woman.</p>
 <p>"The single they picked... there's no chorus-"</p>
-<p>"Why don't you write a chorus then>"</p>
+<p>"Why don't you write a chorus then?"</p>
 </blockquote>
 <p class="caption">Dean Wareham - Black Postcards (2008, p177)</p>
 
