@@ -18,11 +18,20 @@ categories:
 tags:
 - ihop
 ---
-IHOP was (I think) the second single from Pup Tent after Bobby Peru...  unless they were released the other way round. I can't remember and can't prove it. It's probably the way I'd have released them since I like Bobby Peru better...
+IHOP was the first single from Pup Tent ahd released as such "despite the lack of a chorus",
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-ihop-cd-single.jpg" "Luna - IHOP (CD single)" %}
 
-... although, maybe because I've seen Wild at Heart (even if I can't remember it at all), and have never been to an International House of Pancakes, Joakim and Ulrika have though... of course, and _acquired_ IHOP mugs into the bargain!
+<blockquote>
+<p>The radio department chose the unlikley "IHOP" as the first single. The song didn't sound like typical Luna, but it was up-tempo and in a major key, and it had hooks and some catchy lyrics. One thing it lacked was a chorus. I mentioned this to Nancy Jeffries, who was now are A&R woman.</p>
+<p>"The single they picked... there's no chorus-"</p>
+<p>"Why don't you write a chorus then>"</p>
+</blockquote>
+<p class="caption">Dean Wareham - Black Postcards (2008, p177)</p>
+
+After a failed attempt to record a chorus it was released chorus-less.
+
+I have never been to an IHOP (International House of Pancakes), but Joakim and Ulrika have... of course, and _acquired_ IHOP mugs into the bargain!
 
 {% ahfowimage "https://media.fullofwishes.co.uk/02-luna/photos/joakim-houston/01-img-0804-ihop-01.jpg" "Is there a doctor in the house?" %}
 <blockquote>
@@ -30,7 +39,7 @@ The waitress looked over her shoulder making sure no one else was close. She lea
 </blockquote>
 <p class="caption"><a href="/2016/06/10/like-the-grateful-dead-but-with-a-much-steadier-beat-luna-in-texas-3-houston/">Like The Grateful Dead, but with a much steadier beat - Luna in Texas</a></p>
 
-Of course, the reason I have never eaten in an IHOP is that despite the **I** they are not really international and seem to be concentrated in the Americas, the Middle East and Asia - there are a few pancake restaurants over here e.g. My Old Dutch - which has the [most London name possible](https://www.youtube.com/watch?v=2kvyZDgxVx8) and in Whitley Bay _Crêperie Nathalie_ which has a fancier name.
+Of course, the reason I have never eaten in an IHOP is that despite the **I** they are not really international and seem to be concentrated in the Americas, the Middle East and Asia - there are a few pancake restaurants over here e.g. My Old Dutch - which has the [most London name possible](https://www.youtube.com/watch?v=2kvyZDgxVx8) and in Whitley Bay _Crêperie Nathalie_ which has a fancier name, but they're still pancakes.
 
 I have never worked out what the heck the sleeve is a photo of, it's by [David Levinthal](https://davidlevinthal.com/) who took all the cowboy photos used across Pup Tent and its related releases - so I guess it's a detail from one of those? It's probably [here somewhere](https://davidlevinthal.com/artwork/ww-87-89.html) but I haven't found it. Any help appreciated!
 

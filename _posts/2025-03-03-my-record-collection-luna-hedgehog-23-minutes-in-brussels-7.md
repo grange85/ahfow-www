@@ -55,7 +55,7 @@ Initially the song would turn up mid-set, but by 2000 it had become a set closer
 
 Oddly Indian Summer didn't even make the top 10, I wonder if it gets played more in the UK so my impression is skewed? I'll leave that spreadsheet wrangling for another day!
 
-Obviously my database is far from complete but suspect that gives a fairly accurate view of Luna's most popular live songs. Although I certainly have more setlists from the AHFOW era 1994 onwards.
+Obviously my database is far from complete (this is based on 450 setlists) but suspect that gives a fairly accurate view of Luna's most popular live songs. Although I certainly have more setlists from the AHFOW era 1994 onwards.
 
  - *Catalogue Number:* AHFOW 11/013
  - *Artist:* Luna
@@ -65,10 +65,5 @@ Obviously my database is far from complete but suspect that gives a fairly accur
 
 Previously in [my record collection](/category/my-record-collection):
  - [\[038\] Luna - Hedgehog / 23 Minutes in Brussels](/2025/03/03/my-record-collection-luna-hedgehog-23-minutes-in-brussels-7/)
-
-
-
-
-
 
 

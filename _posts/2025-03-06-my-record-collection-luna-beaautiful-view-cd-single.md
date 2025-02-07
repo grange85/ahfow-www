@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Luna - Beaautiful View (CD single)
+title: "[229] Luna - Beaautiful View (CD single)"
 date: 2025-03-06 00:00 +0000
 sitemap: true
 comments: true
