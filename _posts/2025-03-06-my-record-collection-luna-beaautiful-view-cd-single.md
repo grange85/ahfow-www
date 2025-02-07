@@ -22,7 +22,7 @@ Another single from Pup Tent, I forgot when I [posted about IHOP](/2025/02/20/my
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-beautiful-view-cd-single.jpg" "Luna - Beautiful View (single)" %}
 
-The CD came in a card sleeve with another of David Levinthal's _Western_ photos - this one of the cowboy entering the saloon taken from behind - I've always assumed he was leaving the saloon on the cover of the album, although I guess it could be either?
+The CD came in a card sleeve with another of David Levinthal's _Western_ photos - this one of the cowboy entering the saloon taken from behind - I've always assumed he was leaving the saloon on the cover of the album, although I guess it could be the other way round?
 
 As well as the lead track the single also has the $7000 "U.S. radio edit" of Bobby Peru:
 
