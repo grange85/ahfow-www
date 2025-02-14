@@ -37,7 +37,7 @@ Damon recently, behind his Substack paywall, reprinted an interview that he and 
 <p>[A]ll of Tom’s songs are touched by a special note of tragedy, something that rarely finds its way into popular music.</p>
 <p>Tom Rapp himself is not a tragic figure, however. He is in fact extremely funny. In conversation, the wit that he uses so elegantly in his songs emerges as a hilarious candor, both about himself and others.</p>
 </blockquote>
-<p class="caption"><a href="">Damon Krukowski - Interview with Tom Rapp of Pearls Before Swine (paywalled article)</a></p>
+<p class="caption"><a href="https://dadadrummer.substack.com/p/interview-with-tom-rapp-of-pearls">Damon Krukowski - Interview with Tom Rapp of Pearls Before Swine (paywalled article)</a></p>
 
 I wrote about [Tom in an obituary of sorts](https://www.fullofwishes.co.uk/2018/02/12/tom-rapp-1947-2018/) for this website when he sadly passed away in 2018.
 
