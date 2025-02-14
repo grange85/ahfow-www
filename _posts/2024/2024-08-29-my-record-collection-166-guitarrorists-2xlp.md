@@ -92,7 +92,7 @@ As a bonus of something sweeter - here are the short guitar workouts of familiar
 } %}
 
  - *Catalogue Number:* AHFOW 12/079
- - *Artist:* Various Artists
+ - *Artist:* Various artists
  - *Title:* Guitarrorists = Player + Instrument
  - *Packaging:* Gatefold sleeve
  - *Format:* 2xLP

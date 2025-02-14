@@ -43,7 +43,7 @@ So having damned the album with faint praise last time out - "while perhaps not 
    Oh... here's the guitars! Early Hot Chocolate, and earlier than anything else on the album, but a lovely finish to the album. Surprised that this was only a minor hit in 1971, and yet is a song I'm very familiar with. I guess it got lots of radio play in later years. The thing about Hot Chocolate is that they were one of those acts that were just so effortlessly brilliant that even though they made music that generally wasn't _my cup of tea_ I loved them all the same.
 
  - *Catalogue Number:* AHFOW 10/127
- - *Artist:* Various Artists
+ - *Artist:* Various artists
  - *Title:* Mistress America: original motion picture soundtrack
  - *Notes:* 
  - *Packaging:* Jewel case

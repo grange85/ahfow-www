@@ -46,7 +46,7 @@ Back in, I think, 2007 Dean recorded some promo guitar pieces for the Swart Ampl
 The [whole _album_ is still online](http://www.swartamps.com/dean_wareham_swart_atomic_spacetone.htm) on the Swart Amps site.
 
  - *Catalogue Number:* AHFOW 10/074
- - *Artist:* Various Artists
+ - *Artist:* Various artists
  - *Title:* Pop Romantique: French Pop Classics
  - *Packaging:* Jewel case
  - *Format:* CD

@@ -42,7 +42,7 @@ Luna's Season of the Witch was released as a single (more on that later) and als
 {% ahfowvideo "wwzjjpcOTVE" "Luna - Season of the Witch" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-season-of-the-with-vidcap.jpg" %}
 
  - *Catalogue Number:* AHFOW 10/047
- - *Artist:* Various Artists
+ - *Artist:* Various artists
  - *Title:* I Shot Andy Warhol - Music from and inspired by the motion picture
  - *Notes:* Luna open the album with Season of the Witch
  - *Packaging:* Jewel case

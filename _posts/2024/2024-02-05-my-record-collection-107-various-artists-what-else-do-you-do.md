@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[112] Various Artists - What Else Do You Do"
+title: "[112] Various artists - What Else Do You Do"
 sitemap: true
 series-title: My record collection
 author:
@@ -34,7 +34,7 @@ This was the second copy to come into my possession and was given to me by Dean 
 I've only just noticed that the LP has less tracks than my digitsed version - it seems that the CD version had five more tracks on it and someone must have sent a digitised version of the CD.
 
  - *Catalogue Number:* AHFOW 12/076
- - *Artist:* Various Artists
+ - *Artist:* Various artists
  - *Title:* What Else Do You Do (a compilation of quiet music).
  - *Notes:* Shimmy Disc copy
  - *Packaging:* Pink sleeve, opened but still has it's shrink wrap.

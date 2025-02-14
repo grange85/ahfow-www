@@ -21,7 +21,7 @@ tags:
 ---
 Released around the same time as [Tom Rapp's first release in 26 years](/2025/03/13/my-record-collection-tom-rapp-a-journal-of-the-plague-year/) this was a tribute album to Tom and Pearls Before Swine which included the usual _terrascopic_ suspects such as Bevis Frond, Alchemysts, Flying Saucer Attack, and, of course Damon & Naomi.
 
-{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/for-the-dead-in-space-cd.jpg" "Various Artists - For The Dead in Space (CD)" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/for-the-dead-in-space-cd.jpg" "Various artists - For The Dead in Space (CD)" %}
 
 The CD also includes Tom himself performing _Hopelessly Romantic_ that was on that aforementioned _first release_, and Tom's son David's band Shy Camp.
 

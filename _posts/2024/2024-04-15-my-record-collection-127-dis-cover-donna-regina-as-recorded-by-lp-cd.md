@@ -39,7 +39,7 @@ I'm still playing Donna Regina catch-up... but this is one of my faves so far:
 {% ahfowvideo "8rfBwcNJmec" "Holding the Mirror for Sophia Loren" %}
 
  - *Catalogue Number:* AHFOW 12/078
- - *Artist:* Various Artists
+ - *Artist:* Various artists
  - *Title:* Dis Cover - Donna Regina as covered by
  - *Notes:* Came with a CD copy of the album
  - *Format:* LP/CD

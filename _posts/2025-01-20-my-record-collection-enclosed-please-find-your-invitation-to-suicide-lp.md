@@ -43,7 +43,7 @@ I'm not too sure where/when I got this copy although suspect it was in the pile 
 The 16 track CD version of [(Enclosed please find) Your Invitation to Suicide is on Bandcamp for virtually nothing](https://munsterrecords.bandcamp.com/album/your-invitation-to-suicide) - so worth a download (if downloading is your thing).
 
  - *Catalogue Number:* AHFOW 12/077
- - *Artist:* Various Artists
+ - *Artist:* Various artists
  - *Title:* (Enclosed please find) Your Invitation to Suicide
  - *Packaging:* Lovely fold out card sleeve
  - *Format:* 2xLP

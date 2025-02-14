@@ -29,7 +29,7 @@ Can't be certain but I assume that I bought this direct from Ptolemaic Terrascop
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/succour-the-terrascope-benefit-album-advert.jpg" "Advert for Succour from Ptolemaic Terrascope #20" %}
 
  - *Catalogue Number:* AHFOW 10/131
- - *Artist:* Various Artists
+ - *Artist:* Various artists
  - *Title:* Succour
  - *Notes:* 
  - *Packaging:* Jewel case

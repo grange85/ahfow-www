@@ -61,12 +61,12 @@ It's odd but I often don't instantly think of this as a Dean & Britta album here
 
 Of course it _is_ a Dean & Britta album... or, is it?!
 
-Track 7 on disc 1 is described as being _Produced, **performed** and mixed by Anthony LaMarca_ - performed?? It's certainly _sung_ by Dean, but _performed_ by Anthony?? Does this make it a _Various Artists_ release??
+Track 7 on disc 1 is described as being _Produced, **performed** and mixed by Anthony LaMarca_ - performed?? It's certainly _sung_ by Dean, but _performed_ by Anthony?? Does this make it a _Various artists_ release??
 
 _Apologies for the random and probably incomprehensible ramblings of this post!_
 
  - *Catalogue Number:* AHFOW 10/004
- - *Artist:* Dean & Britta _(or Various Artists)_
+ - *Artist:* Dean & Britta _(or Various artists)_
  - *Title:* 13 Most Beautiful: Songs for Andy Warhol's Screen Tests
  - *Notes:* Double CD edition in card sleeve
  - *Format:* 2xCD

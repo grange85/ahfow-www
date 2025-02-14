@@ -33,7 +33,7 @@ Damon & Naomi played A Song For You, with Kurihara, for Spin back when they did 
 {% ahfowvideo "L2L6rS-BAmA" "Damon & Naomi with Kurihara - A Song For You" "https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/a-song-for-you-blobbed.jpg" %}
 
  - *Catalogue Number:* AHFOW 10/080
- - *Artist:* Various Artists
+ - *Artist:* Various artists
  - *Title:* Not Alone
  - *Notes:* 5CD set
  - *Packaging:* Box containing 5 CDs in card sleeves

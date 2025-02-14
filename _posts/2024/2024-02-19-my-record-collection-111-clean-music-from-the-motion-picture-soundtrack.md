@@ -70,6 +70,6 @@ I have previously shared both of the Maggie Cheung / Dean Wareham songs (Dean & 
 - [Lost tracks: Maggie Cheung - Strawberry Stain](/2011/07/01/mp3-lost-tracks-9-maggie-cheung-strawberry-stain/) 
 
  - *Catalogue Number:* AHFOW 10/029
- - *Artist:* Various Artists
+ - *Artist:* Various artists
  - *Title:* Clean - Music from the Motion Picture Soundtrack
  - *Format:* CD

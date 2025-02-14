@@ -86,7 +86,7 @@ Dean Wareham
 ### And some other stuff
 
 I'm very proud to have released The On Fire 30 tribute album - and you shold own a copy if you don't already! I'll donate any money from sales on Friday to Black Lives Matter UK
- - [On Fire 30 - Various Artists](https://aheadfullofwishes.bandcamp.com/album/on-fire-30)
+ - [On Fire 30 - Various artists](https://aheadfullofwishes.bandcamp.com/album/on-fire-30)
 
 Luna's Sean Eden is a part of improvisational rock band The CFR who released an EP on Bandcamp last year and will be releasing new music on Friday (all proceeds to the NAACP Legal Defense Fund)
  - [Hedbant - The CFR](https://thecfr.bandcamp.com/releases)
@@ -98,14 +98,14 @@ You can find AHFoW related folk on these (and plenty more if you hunt around)
  - [All Things Being Equal - Sonic Boom](https://sonicboomspacemen3.bandcamp.com/album/all-things-being-equal-3)
  - [Fuxa Commits Suicide](https://fuxa1.bandcamp.com/album/fuxa-commits-suicide)
  - [A Mind Expansion digital compilation](https://fuxa1.bandcamp.com/album/a-mind-expansion-digital-compilation) 
- - [Your Invitation to Suicide - Various Artists](https://munsterrecords.bandcamp.com/album/your-invitation-to-suicide) 
+ - [Your Invitation to Suicide - Various artists](https://munsterrecords.bandcamp.com/album/your-invitation-to-suicide) 
  - [Lys Guillorn](https://lysguillorn.bandcamp.com/album/lys-guillorn-2)
  - [Rough Cuts - Mark Holland](https://markhollandfromjennyanykind.bandcamp.com/album/rough-cuts)
 
 Tribute albums
- - [Tribute to Galaxie 500 - Various Artists](https://elefantrecordsclassics.bandcamp.com/album/tribute-to-galaxie-500)
- - [Blue Thunder, A Tribute to Galaxie 500 - Various Artists](https://theblogthatcelebratesitself.bandcamp.com/album/va-blue-thunder-a-tribute-to-galaxie-500)
- - [On Fire 30 - Various Artists](https://aheadfullofwishes.bandcamp.com/album/on-fire-30)
+ - [Tribute to Galaxie 500 - Various artists](https://elefantrecordsclassics.bandcamp.com/album/tribute-to-galaxie-500)
+ - [Blue Thunder, A Tribute to Galaxie 500 - Various artists](https://theblogthatcelebratesitself.bandcamp.com/album/va-blue-thunder-a-tribute-to-galaxie-500)
+ - [On Fire 30 - Various artists](https://aheadfullofwishes.bandcamp.com/album/on-fire-30)
  - [Snowstorm: A Tribute To Galaxie 500](https://elefantrecordsclassics.bandcamp.com/album/snowstorm-a-tribute-to-galaxie-500)
  - [No Tan Buenos Pero Diferentes (Un tributo a Galaxie 500) ](https://lofirecords.bandcamp.com/album/no-tan-buenos-pero-diferentes-un-tributo-a-galaxie-500)
 

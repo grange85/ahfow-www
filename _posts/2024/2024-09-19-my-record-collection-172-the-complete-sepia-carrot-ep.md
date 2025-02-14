@@ -55,7 +55,7 @@ Spirit of Love was a cover of the track by Clive Palmer, who was a founding memb
 I also [posted about Spirit of Love](/2009/05/20/mp3-lost-tracks-5-damon-naomi-spirit-of-love/) in my [lost tracks](/category/lost-tracks) series.
 
  - *Catalogue Number:* AHFOW 11/026
- - *Artist:* Various Artists
+ - *Artist:* Various artists
  - *Title:* The Complete Sepia Carrot EP
  - *Format:* 7" single (33RPM)
  - Bought as part of a subscription to Ptolemaic Terrascope

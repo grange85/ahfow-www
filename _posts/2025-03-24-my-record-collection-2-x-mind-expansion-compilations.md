@@ -33,7 +33,7 @@ I bought both from direct from Randall about the time of release one for $20 (in
 Both sets have 32 tracks each, and a lot of great stuff there is... but, if you buy them digitally you get a whole lot more - with 50 tracks on #1 and 49 on #2 - which is a bit of a treat since they're available for _name your price_ a.k.a. _pay what you can_!
 
  - *Catalogue Number:* AHFOW 10/082 & 10/083
- - *Artist:* Various Artists
+ - *Artist:* Various artists
  - *Title:* A Mind Expansion Compilation / A Mind Expansion Compilation 2
  - *Packaging:* Double CD jewel cases
  - *Format:* 2x(2xCD)

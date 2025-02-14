@@ -35,10 +35,10 @@ Those other songs you mention ‑‑ ‘Indian Summer’ and ‘Smile’ ‑‑ 
 I bought this LP in, I think, in the Virgin Megastore on the corner of Oxford Street and Tottenham Court Road around the time of release.
 
  - *Catalogue Number:* AHFOW 12/075
- - *Artist:* Various Artists
+ - *Artist:* Various artists
  - *Title:* What Else Do You Do
  - *Notes:* Shimmy Disc Europe
  - *Format:* LP
 
 Previously in [my record collection](/category/my-record-collection):
- - [[112] Various Artists - What Else Do You Do](/2024/02/05/my-record-collection-107-various-artists-what-else-do-you-do/)
+ - [[112] Various artists - What Else Do You Do](/2024/02/05/my-record-collection-107-various-artists-what-else-do-you-do/)

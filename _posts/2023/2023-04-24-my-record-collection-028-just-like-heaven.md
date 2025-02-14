@@ -26,7 +26,7 @@ It's odd but there are bands that I don't really get - it's difficult to explain
 Having said that the tracks on this album are mostly very familiar, they have seeped into my consciousness without any effort from me, or from The Cure - maybe that is their skill? And they're being covered by lots of familiar names here, and they mostly sound... fine.
 
  - *Catalogue Number:* AHFOW 10/133
- - *Artist:* Various Artists
+ - *Artist:* Various artists
  - *Title:*  Just Like Heaven: A Tribute to The Cure
  - *Notes:* 
  - *Packaging:* Jewel case

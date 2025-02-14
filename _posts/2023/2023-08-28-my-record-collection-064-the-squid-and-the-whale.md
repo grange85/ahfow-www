@@ -41,7 +41,7 @@ There is more of their music in the film as Britta revealed on the list back in 
 > ... we did a version of "Love on a Real Train." We titled it "Locker" since it played over that scene.
 
  - *Catalogue Number:* AHFOW 10/100
- - *Artist:* Various Artists
+ - *Artist:* Various artists
  - *Title:* Music from the Motion Picture The Squid and the Whale
  - *Packaging:* Jewel case
  - *Format:* CD

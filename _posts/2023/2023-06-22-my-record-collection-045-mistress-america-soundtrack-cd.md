@@ -30,7 +30,7 @@ So, I don't listen to this album as much as Dean & Britta's other work, but I do
 I have two CDs of the soundtrack, one was sent to me by Dean in August 2015 the other I must have bought - this one is still in the shrink wrap so I'll assume Dean sent me this one. It arrived a month before I saw the film at The Waterman's Arts Centre in Brentford - I suspect that after hearing the music within the context of the film I could understand it better.
 
  - *Catalogue Number:* AHFOW 10/105
- - *Artist:* Various Artists (but mostly Dean & Britta)
+ - *Artist:* Various artists (but mostly Dean & Britta)
  - *Title:* Mistress America
  - *Notes:* Sealed CD
  - *Packaging:* Jewel case

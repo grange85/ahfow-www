@@ -82,7 +82,7 @@ I'm not sure how many other folk followed the instructions to get a replacement 
 Unfortunately... it is sadly more unplayable than all those bronzed discs since it has a crack... no idea how that happened, but it has rendered it useless. I have a CDR not entirely sure when I made this - I guess either before it cracked (but why!?) or before I sent it away (but how!? Not sure I was ripping CDs as early as 1996). But thankfully, I do have a copy.
 
  - *Catalogue Number:*  AHFOW 10/014
- - *Artist:* Various Artists
+ - *Artist:* Various artists
  - *Title:* Gigantic! 2 - Nineteen for the Nineties 
  - *Notes:* Cracked CD and replacement CDR
  - *Packaging:* Jewel case
