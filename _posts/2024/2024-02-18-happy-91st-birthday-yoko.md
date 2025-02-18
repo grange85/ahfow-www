@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Happy 91st birthday Yoko
+title: Happy birthday Yoko Ono
 date: 2024-02-18 11:12 +0000
 sitemap: true
 series-title:
