@@ -12,7 +12,6 @@ author:
 image: https://media.fullofwishes.co.uk/00-misc/instagram-fullofwishes/2023-08-16_12-30-06_UTC_5.jpg
 categories:
 - galaxie 500
-- dean wareham
 - damon & naomi
 tags:
 - terrascopaedia

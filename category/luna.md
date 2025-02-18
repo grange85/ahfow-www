@@ -3,6 +3,7 @@ layout: archive
 title: Luna
 which_category: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/luna-2017-promo-luz-gallardo.jpg
+metadata: true
 ---
 ### Links
  - [{{ page.title }} discography](/database/{{ page.title | replace: "&", "and" | slugify }}/releases/)
