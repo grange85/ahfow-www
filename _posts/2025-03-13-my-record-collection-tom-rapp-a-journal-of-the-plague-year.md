@@ -19,7 +19,7 @@ tags:
 - tom rapp
 - a journal of the plague year
 ---
-A Journal of the Plague Year was Tom Rapp's first new album in over a quarter of a century and most of it was produced and engineered by Damon and both he and Naomi played on varios bits of the album
+A Journal of the Plague Year was Tom Rapp's first new album in over a quarter of a century and most of it was produced and engineered by Damon and both he and Naomi played on various bits of the album.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/tom-rapp-a-journal-of-the-plague-year-cd.jpg" "Tom Rapp - A Journal of the Plague Year" %}
 
