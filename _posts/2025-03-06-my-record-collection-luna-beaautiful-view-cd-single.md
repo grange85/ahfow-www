@@ -4,7 +4,7 @@ title: "[229] Luna - Beaautiful View (CD single)"
 date: 2025-03-06 00:00 +0000
 sitemap: true
 comments: true
-series-title: My record collection - 
+series-title: My record collection
 catno: 10/043
 author:
   display_name: Andy
