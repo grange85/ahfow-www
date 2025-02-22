@@ -19,7 +19,7 @@ tags:
 - the rolling stones
 - the singer not the song
 ---
-While listening to [Dean and Britta's guest slot](/articles/dean-and-britta-on-pure-wkpn/) on Howard Thompson's radio show yesterday they snuck in a cover of The Rolling Stones' The Singer Not the Song that I was unaware of.
+While listening to [Dean and Britta's guest slot](/articles/dean-and-britta-on-pure-wkpn/) on Howard Thompson's radio show yesterday they snuck in a cover of The Rolling Stones' _The Singer Not the Song_ that they'd recorded and that I was unaware of.
 
 {% ahfowimage "https://f4.bcbits.com/img/a3123431363_65" "Super Bloom: A Benefit for Fire Relief in Los Angeles " %}
 
