@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Originals: While My Guitar Gently Weeps by The Beatles (covered by Damon and
+title: 'While My Guitar Gently Weeps by The Beatles (covered by Damon and
   Naomi)'
+series-title: Originals
 author:
   display_name: Andy
   login: admin

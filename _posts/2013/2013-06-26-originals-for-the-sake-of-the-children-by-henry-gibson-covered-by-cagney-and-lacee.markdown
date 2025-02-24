@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Originals: For The Sake of The Children by Henry Gibson (covered by Cagney
+title: 'For The Sake of The Children by Henry Gibson (covered by Cagney
   and Lacee)'
+series-title: Originals
 author:
   display_name: Andy
   login: admin

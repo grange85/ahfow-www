@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Originals: Je t''aime... moi non plus by Serge Gainsbourg et Jane Birkin (covered
+title: 'Je t''aime... moi non plus by Serge Gainsbourg et Jane Birkin (covered
   by Angel Corpus Christi and Dean Wareham)'
+series-title: Originals
 author:
   display_name: Andy
   login: admin

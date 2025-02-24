@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Originals: By The Way (I Still Love You) by Nancy Sinatra (covered by Cagney
+title: 'By The Way (I Still Love You) by Nancy Sinatra (covered by Cagney
   and Lacee)'
 author:
   display_name: Andy
@@ -8,6 +8,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2013-03-27'
+series-title: Originals
 categories:
 - dean wareham
 - originals

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Originals: I Want to Boogie With You by Lou Reed (covered by Angel Corpus
+title: 'I Want to Boogie With You by Lou Reed (covered by Angel Corpus
   Christi and Dean Wareham)'
+series-title: Originals
 author:
   display_name: Andy
   login: admin

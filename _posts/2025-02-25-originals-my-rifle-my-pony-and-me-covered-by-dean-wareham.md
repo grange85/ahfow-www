@@ -10,7 +10,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image: https://img.youtube.com/vi/Eq8Z9ubeeF4/maxres1.jpg
+image: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-my-rifle-grab-2018.jpg
 categories:
 - dean wareham
 - originals
@@ -27,6 +27,12 @@ The tune was [originally used](https://youtu.be/gp0vMW016gg) in the great film [
 
 _... as a bonus that video also has Ricky singing Cindy from the film_.
 
-Dean recorded _My Rifle, My Pony and Me_ for the [Dean Wareham vs Cheval Sombre](https://www.fullofwishes.co.uk/database/dean-wareham/releases/dean-wareham-vs-cheval-sombre/) album of "cowboy tunes" but here he is playing it for Facebook back in October 2018:
+Dean recorded _My Rifle, My Pony and Me_ for the lovely [Dean Wareham vs Cheval Sombre](https://www.fullofwishes.co.uk/database/dean-wareham/releases/dean-wareham-vs-cheval-sombre/) album of "cowboy tunes" but here he is playing it for Facebook back in October 2018:
 
-{% ahfowvideo "Eq8Z9ubeeF4" "Dean Wareham - My Rifle, My Pony, and Me" %}
+{% ahfowvideo "Eq8Z9ubeeF4" "Dean Wareham - My Rifle, My Pony, and Me (October 2018)" "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-my-rifle-grab-2018.jpg" %}
+
+He also played it on Instagram during lockdown, sitting on his bed:
+
+{% ahfowvideo "SET5Nu6HAdE" "Dean Wareham - My Rifle, My Pony, and Me (April 2020)" %}
+
+_Apologies for the poor quality of this one, it was grabbed quickly with a screen recorder rather than downloaded properly!_

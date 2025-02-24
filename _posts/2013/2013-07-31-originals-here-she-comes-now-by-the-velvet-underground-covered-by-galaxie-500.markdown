@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Originals: Here She Comes Now by The Velvet Underground (covered by Galaxie
+title: 'Here She Comes Now by The Velvet Underground (covered by Galaxie
   500)'
+series-title: Originals
 author:
   display_name: Andy
   login: admin

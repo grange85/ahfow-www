@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Originals: Fly Into the Mystery by Jonathan RIchman & The Modern Lovers (covered
+title: 'Fly Into the Mystery by Jonathan RIchman & The Modern Lovers (covered
   by Luna)'
+series-title: Originals
 author:
   display_name: Andy
   login: admin

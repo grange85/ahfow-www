@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Originals: Dream Baby Dream by Suicide (covered by Luna)'
+title: 'Dream Baby Dream by Suicide (covered by Luna)'
+series-title: Originals
 author:
   display_name: Andy
   login: admin

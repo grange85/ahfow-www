@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Originals: White Christmas by Bing Crosby covered by Damon & Naomi: Xmas special
+title: 'White Christmas by Bing Crosby covered by Damon & Naomi: Xmas special
   #2'
+series-title: Originals
 author:
   display_name: Andy
   login: admin

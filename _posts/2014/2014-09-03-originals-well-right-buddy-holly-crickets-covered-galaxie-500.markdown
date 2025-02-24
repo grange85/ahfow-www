@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Originals: Well.... All Right by Buddy Holly and The Crickets (covered by
+title: 'Well.... All Right by Buddy Holly and The Crickets (covered by
   Galaxie 500)'
+series-title: Originals
 author:
   display_name: Andy
   login: admin

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Originals: Since I Lay My Burden Down by Michael Holland (covered by Dean
+title: 'Since I Lay My Burden Down by Michael Holland (covered by Dean
   & Britta)'
+series-title: Originals
 author:
   display_name: Andy
   login: admin

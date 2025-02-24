@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Originals: We''re Not Supposed to Be Lovers by Adam Green (covered by Dean
-  and Britta)'
+title: 'We''re Not Supposed to Be Lovers by Adam Green (covered by Dean and Britta)'
+series-title: Originals
 author:
   display_name: Andy
   login: admin

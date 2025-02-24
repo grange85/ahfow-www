@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Originals: De l''automne a l''automne by Line et Willy (covered by Damon and
+title: 'De l''automne a l''automne by Line et Willy (covered by Damon and
   Naomi) '
+series-title: Originals
 author:
   display_name: Andy
   login: admin

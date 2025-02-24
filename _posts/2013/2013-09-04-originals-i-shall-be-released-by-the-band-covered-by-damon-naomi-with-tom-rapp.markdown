@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Originals: I Shall Be Released by The Band (covered by Damon & Naomi with
+title: 'I Shall Be Released by The Band (covered by Damon & Naomi with
   Tom Rapp)'
+series-title: Originals
 author:
   display_name: Andy
   login: admin

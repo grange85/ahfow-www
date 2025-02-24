@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Originals: Old Toy Trains by Roger Miller (covered by Dean & Britta with Sonic
+title: 'Old Toy Trains by Roger Miller (covered by Dean & Britta with Sonic
   Boom) : Xmas special #1'
+series-title: Originals
 author:
   display_name: Andy
   login: admin

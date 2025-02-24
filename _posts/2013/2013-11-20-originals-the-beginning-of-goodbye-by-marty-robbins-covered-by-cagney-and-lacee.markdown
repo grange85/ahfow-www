@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Originals: The Beginning of Goodbye by Marty Robbins (covered by Cagney and
+title: 'The Beginning of Goodbye by Marty Robbins (covered by Cagney and
   Lacee) '
+series-title: Originals
 author:
   display_name: Andy
   login: admin

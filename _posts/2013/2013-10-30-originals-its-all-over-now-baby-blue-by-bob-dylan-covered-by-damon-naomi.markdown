@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Originals: It''s All Over Now, Baby Blue by Bob Dylan (covered by Damon &
+title: 'It''s All Over Now, Baby Blue by Bob Dylan (covered by Damon &
   Naomi)'
+series-title: Originals
 author:
   display_name: Andy
   login: admin

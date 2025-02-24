@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Originals: She''s Coming Home by The Wailers (covered by Dean & Britta with
+title: 'She''s Coming Home by The Wailers (covered by Dean & Britta with
   Sonic Boom): Xmas special #3'
+series-title: Originals
 author:
   display_name: Andy
   login: admin

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Originals: I''m Not A Young Man Anymore by The Velvet Underground (covered
+title: 'I''m Not A Young Man Anymore by The Velvet Underground (covered
   by Dean & Britta)'
+series-title: Originals
 author:
   display_name: Andy
   login: admin

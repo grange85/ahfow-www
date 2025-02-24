@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Originals: Don''t Let Our Youth Go to Waste by Jonathan Richman (covered by
+title: 'Don''t Let Our Youth Go to Waste by Jonathan Richman (covered by
   Galaxie 500)'
 author:
   display_name: Andy
@@ -8,6 +8,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2013-05-15'
+series-title: Originals
 categories:
 - galaxie 500
 - originals

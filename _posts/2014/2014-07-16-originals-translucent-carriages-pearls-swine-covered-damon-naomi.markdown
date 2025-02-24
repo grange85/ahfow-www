@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Originals: Translucent Carriages by Pearls Before Swine (covered by Damon
+title: 'Translucent Carriages by Pearls Before Swine (covered by Damon
   and Naomi)'
+series-title: Originals
 author:
   display_name: Andy
   login: admin

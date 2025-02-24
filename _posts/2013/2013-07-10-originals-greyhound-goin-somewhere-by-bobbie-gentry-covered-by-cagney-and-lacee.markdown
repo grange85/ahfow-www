@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Originals: Greyhound Goin'' Somewhere by Bobbie Gentry (covered by Cagney
+title: 'Greyhound Goin'' Somewhere by Bobbie Gentry (covered by Cagney
   and Lacee)'
+series-title: Originals
 author:
   display_name: Andy
   login: admin

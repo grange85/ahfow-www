@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Originals: Moonshot by Buffy Sainte-Marie (covered by Galaxie 500 and Dean
+title: 'Moonshot by Buffy Sainte-Marie (covered by Galaxie 500 and Dean
   & Britta)'
+series-title: Originals
 author:
   display_name: Andy
   login: admin

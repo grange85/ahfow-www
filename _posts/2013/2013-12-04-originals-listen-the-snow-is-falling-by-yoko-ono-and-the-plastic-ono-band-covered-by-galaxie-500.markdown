@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Originals: Listen, the Snow Is Falling by Yoko Ono and The Plastic Ono Band
+title: 'Listen, the Snow Is Falling by Yoko Ono and The Plastic Ono Band
   (covered by Galaxie 500)'
+series-title: Originals
 author:
   display_name: Andy
   login: admin
