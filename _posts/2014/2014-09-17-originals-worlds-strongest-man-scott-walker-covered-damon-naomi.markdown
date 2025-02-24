@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Originals: The World''s Strongest Man by Scott Walker (covered by Damon and
+title: 'The World''s Strongest Man by Scott Walker (covered by Damon and
   Naomi)'
+series-title: Originals
 author:
   display_name: Andy
   login: admin
