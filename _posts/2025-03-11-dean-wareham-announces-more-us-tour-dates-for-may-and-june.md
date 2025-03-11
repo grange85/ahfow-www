@@ -18,9 +18,9 @@ categories:
 tags:
 - tour dates
 ---
-Dean Has just announces a stack more dates around the US to his tour in May and June of this year in support of his upcoming album [That's The Price of Loving Me](/2025/01/09/dean-wareham-announces-new-solo-album-that-s-the-price-of-loving-me/) which is released on the 28th March.
+Dean has just announced a stack more dates around the US to his tour in May and June of this year in support of his upcoming album [That's The Price of Loving Me](/2025/01/09/dean-wareham-announces-new-solo-album-that-s-the-price-of-loving-me/) which is released on the 28th March.
 
-Here are all the US dates - most have ticket links. Tickets for most of the newly added shows will be on sale later this week:
+Here are all the US dates announced so far - most have ticket links. Tickets for most of the newly added shows will be on sale later this week:
 
 <table>
       <tr>
