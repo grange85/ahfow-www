@@ -18,7 +18,6 @@ categories:
 tags:
 - ptolemaic terrascope
 - terrastock
-- bevis frond
 - silver apples
 - flying saucer attack
 ---
