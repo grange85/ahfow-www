@@ -108,6 +108,12 @@ Here are all the US dates announced so far - most have ticket links. Tickets for
         </td>
       </tr>
       <tr>
+        <th>8th June 2025</th>
+        <td><a href="/database/dean-and-britta/shows/dean-wareham-2025-06-08-the-basement-at-bond-street-bar-asbury-park-nj-usa/">The&nbsp;Basement&nbsp;at&nbsp;Bond&nbsp;Street&nbsp;Bar,&nbsp;Asbury&nbsp;Park,&nbsp;NJ,&nbsp;USA</a><br/>
+          <span class="show-details">Dean Wareham</span>
+        </td>
+      </tr>
+      <tr>
         <th>10th June 2025</th>
         <td><a href="/database/dean-and-britta/shows/dean-wareham-2025-06-10-world-cafe-philadelphia-pa-usa/">World Cafe,&nbsp;Philadelphia,&nbsp;PA,&nbsp;USA</a><br/>
           <span class="show-details">Dean Wareham</span>
@@ -132,13 +138,13 @@ Here are all the US dates announced so far - most have ticket links. Tickets for
         </td>
       </tr>
       <tr>
-        <th>16th June 2025</th>
+        <th>18th June 2025</th>
         <td><a href="/database/dean-and-britta/shows/dean-wareham-2025-06-16-high-noon-saloon-madison-wi-usa/">High Noon Saloon,&nbsp;Madison,&nbsp;WI,&nbsp;USA</a><br/>
           <span class="show-details">Dean Wareham</span>
         </td>
       </tr>
       <tr>
-        <th>16th June 2025</th>
+        <th>19th June 2025</th>
         <td><a href="/database/dean-and-britta/shows/dean-wareham-2025-06-16-turf-club-st-paul-mn-usa/">Turf Club,&nbsp;St. Paul,&nbsp;MN,&nbsp;USA</a><br/>
           <span class="show-details">Dean Wareham</span>
         </td>

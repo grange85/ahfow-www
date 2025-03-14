@@ -39,7 +39,9 @@ Damon & Naomi's track was co-written with the late Hugh Hopper of Soft Machine a
 
 Naomi does use her [sruti box](https://en.wikipedia.org/wiki/Shruti_box) on the song, so it does have some appropriate instrumentation. I do seem to particularly love the songs where she plays the sruti, or her harmonium - see also [Spirit of Love](/2009/05/20/mp3-lost-tracks-5-damon-naomi-spirit-of-love/).
 
-Oddly this track never made it onto the [Spirit of Love digital release](https://damonandnaomi.bandcamp.com/album/spirit-of-love-b-sides-bonuses-and-soundtracks) of Damon & Naomi rarities so, as far as I'm aware, the only place you can get _14 Auspicious Dreams_ is on this 7" single that was limited to 500 copies.
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/14-auspicious-dreams.jpg" "The Fourteen Dreams of Queen Trishala" "https://philamuseum.org/collection/object/62887" %}
+
+Oddly this track never made it onto the [Spirit of Love digital release](https://damonandnaomi.bandcamp.com/album/spirit-of-love-b-sides-bonuses-and-soundtracks) of Damon & Naomi rarities so, as far as I'm aware, the only place you can get _14 Auspicious Dreams_ is on a 7" single that was limited to 500 copies.
 
 Hugh Hopper wrote {% ahfowtrack "Memories" %}, that Damon & Naomi covered on their first album [More Sad Hits](/database/damon-and-naomi/releases/more-sad-hits/), Hugh died in June 2009.
 
