@@ -50,7 +50,7 @@ This site uses the [Musicbrainz styles](https://musicbrainz.org/doc/Style/Langua
 
 In addition to the MB rules:
 * In song titles and is always _and_ and not an _&_
-* Song titles not in English use the style of that language so, _La poupée qui fait non_
+* Song titles not in English use the style of that language so, _La poupée qui fait non_ - this also applies to album titles so Dean & Britta's first album is called _L'avventura_ and not _L'Avventura_
 
 For specific songs and any anomlies see:
 * [Galaxie 500 titles](#galaxie-500-titles)
@@ -67,7 +67,6 @@ Fourth of July
 
 Listen, the Snow Is Falling
 : always include the comma
-
 
 <h4 id="luna-titles">Luna titles</h4>
 

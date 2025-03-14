@@ -20,7 +20,7 @@ categories:
 
 {% ahfowaudio {
 "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/1994_Luna_Great-Jones-Street.mp3",
-"audiocap": "Luna (feat. Sterling Morrision) - Great Jones St."
+"audiocap": "Luna (feat. Sterling Morrision) - Great Jones Street"
 } %}
 
 <p>Today I'll be playing that and maybe also Galaxie 500 playing Tugboat. </p>
