@@ -74,7 +74,7 @@ Also Damon & Naomi's tenure with Magic Hour is all on Bancamp too!
 Dean & Britta's first two albums are on Bandcamp, and there wonderful cover of The Carnival is Over
  - [The Carnival Is Over - Dean & Britta](https://deanandbritta.bandcamp.com/track/the-carnival-is-over)
  - [Back Numbers - Dean & Britta](https://deanandbritta.bandcamp.com/album/back-numbers)
- - [L'Avventura + bonus tracks (Sonic Boom remixes) - Dean & Britta](https://deanandbritta.bandcamp.com/album/lavventura-bonus-tracks-sonic-boom-remixes)
+ - [L'avventura + bonus tracks (Sonic Boom remixes) - Dean & Britta](https://deanandbritta.bandcamp.com/album/lavventura-bonus-tracks-sonic-boom-remixes)
 
 Britta's lovely solo album is there too
 - [Luck or Magic - Britta Phillips](https://brittaphillips.bandcamp.com/album/luck-or-magic)

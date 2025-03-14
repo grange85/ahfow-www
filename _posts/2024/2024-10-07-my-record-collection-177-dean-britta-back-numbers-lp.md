@@ -27,7 +27,7 @@ The track listing has been slightly shuffled I guess to accommodate putting the 
 
 The album came with an insert that has the lovely _doodled_ insert, well it looks doodled to me, although during a particularly long phone call? Also it has crows, and [I love crows](https://www.flickr.com/photos/grange85/albums/72177720312280310/) - the insert had been in the CD but folded up so it's good to have it in a good size and without creases!
 
-The album is of course beautiful, it seems to be overshadowed by, or overlooked because of, L'Avventura but it is, I think, a much more _whole_ album than that one - I do love both albums but this is better, and is the one that makes me wish for another Dean & Britta album - it's been seventeen years ffs - and no, 13 Most Beautiful and Mistress America don't count as D&B albums, lovely though they are, they are soundtracks and not _proper_ albums. Maybe the upcoming Xmas album will scratch that itch?
+The album is of course beautiful, it seems to be overshadowed by, or overlooked because of, L'avventura but it is, I think, a much more _whole_ album than that one - I do love both albums but this is better, and is the one that makes me wish for another Dean & Britta album - it's been seventeen years ffs - and no, 13 Most Beautiful and Mistress America don't count as D&B albums, lovely though they are, they are soundtracks and not _proper_ albums. Maybe the upcoming Xmas album will scratch that itch?
 
  - *Catalogue Number:* AHFOW 12/016
  - *Artist:* Dean & Britta

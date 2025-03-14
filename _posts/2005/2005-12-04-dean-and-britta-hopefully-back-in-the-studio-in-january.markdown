@@ -12,7 +12,7 @@ categories:
 - dean & britta
 ---
 Dean & Britta are hoping to back in the studio in January with producer Tony
-Visconti to start recording the follow up to L'Avventura.
+Visconti to start recording the follow up to L'avventura.
 
 Source: Britta on the [Galaxie 500 Mailing
 List](http://groups.google.com/group/fullofwishes) \- _" hopefully we'll be in

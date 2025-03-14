@@ -42,7 +42,7 @@ Three or four years later I [posted a picture on Instgram](https://www.instagram
 
 A few weeks later another copy arrived unannounced, in pristine condition, and with Dean and Britta's autographs in gold on the front sleeve!
 
-The soundtrack is credited to _Dean Wareham & Britta Phillips_ - the third from of credit, having already been _Britta Phillips & Dean Wareham_ for L'Avventura and Sonic Souvenirs, and _Dean & Britta_ for most of the rest of their output.
+The soundtrack is credited to _Dean Wareham & Britta Phillips_ - the third from of credit, having already been _Britta Phillips & Dean Wareham_ for L'avventura and Sonic Souvenirs, and _Dean & Britta_ for most of the rest of their output.
 
  - *Catalogue Number:* AHFOW 12/015 & AHFOW 12/020
  - *Artist:* Various artists (but mostly Dean & Britta)

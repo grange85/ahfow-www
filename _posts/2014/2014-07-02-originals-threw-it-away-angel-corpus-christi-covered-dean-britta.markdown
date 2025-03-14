@@ -22,7 +22,7 @@ tags:
 Threw it Away was from Angel Corpus Christi's lovely White Courtesy Phone LP in 1994<br />
 MP3: <a href="https://media.fullofwishes.co.uk/00-misc/audio/02-angel-corpus-christi-threw-it-away.mp3">Angel Corpus Christi - Threw it Away</a><br />
 <audio src="https://media.fullofwishes.co.uk/00-misc/audio/02-angel-corpus-christi-threw-it-away.mp3" preload="none" controls /></p>
-<p>Dean & Britta's cover was released on their debut album L'Avventura in 2003.<br />
+<p>Dean & Britta's cover was released on their debut album L'avventura in 2003.<br />
 MP3: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/08-britta-phillips--dean-wareham-threw-it-away.mp3">Dean & Britta - Threw it Away</a><br />
 <audio src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/08-britta-phillips--dean-wareham-threw-it-away.mp3" preload="none" controls /></p>
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dw_angel_vega_ht.jpg" class /><figcaption class="caption-text"> Dean Wareham with Angel Corpus Christi and Suicide's Alan Vega</figcaption></figure>

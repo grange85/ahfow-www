@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About L'Avventura by Dean Wareham
+title: About L'avventura by Dean Wareham
 author:
   display_name: Andy
   login: admin
@@ -17,7 +17,7 @@ tags:
 
 On June 3 Jetset Records released L'AVVENTURA,an album by Britta Phillips and Dean Wareham. Produced by Tony Visconti.
 
-L'Avventura was recorded in 2002. Britta and Dean played guitar and bass and keyboards,with drummer Matt Johnson (Jeff Buckley, Beth Orton, Elysian Fields). Producer Tony Visconti made many of the greatest rock records ever, he is known for his work with David Bowie and T.Rex, as well as the Stranglers and the Moody Blues and many others. Tony plays additional guitar and keyboard on this record, and contributed a number of string arrangements, performed by the Scorchio String Quartet (who can also be heard on Bowie's recent Heathen album). The record was produced at Tony's studio in New York City (since he lived in London for many years, many people assume that Tony is English, he was in fact born in Brooklyn, NY).
+L'avventura was recorded in 2002. Britta and Dean played guitar and bass and keyboards,with drummer Matt Johnson (Jeff Buckley, Beth Orton, Elysian Fields). Producer Tony Visconti made many of the greatest rock records ever, he is known for his work with David Bowie and T.Rex, as well as the Stranglers and the Moody Blues and many others. Tony plays additional guitar and keyboard on this record, and contributed a number of string arrangements, performed by the Scorchio String Quartet (who can also be heard on Bowie's recent Heathen album). The record was produced at Tony's studio in New York City (since he lived in London for many years, many people assume that Tony is English, he was in fact born in Brooklyn, NY).
 
 The album contains 11 songs, half of them covers, some of them duets in the tradition of Nancy Sinatra and Lee Hazlewood,Serge Gainsbourg and Jane Birkin, and Dolce and Gabbana.
 
@@ -36,6 +36,6 @@ The songs are:
  - **Random Rules**. Written by David Berman of the Silver Jews. Berman is one of the very best lyricists we have, and a respected poet to boot. Random Rules is a hilarious and sad poem about adultery
  - **Indian Summer** from their Morrison Hotel. There are many songs titled "Indian Summer". Do not confuse this with the Beat Happening song that Luna covered. Or the Lee Hazlewood title "L'Ete Indien".
 
-L'Avventura is a soundtrack to get lucky to, a record to fall in love with, filled with songs of infatuation, desire, addiction, regret and bliss.
+L'avventura is a soundtrack to get lucky to, a record to fall in love with, filled with songs of infatuation, desire, addiction, regret and bliss.
 
 

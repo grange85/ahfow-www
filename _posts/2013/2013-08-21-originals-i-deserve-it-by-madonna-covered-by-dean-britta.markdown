@@ -19,7 +19,7 @@ Here's the album version</p>
 <p>... and here's Madge playing it live in 2001</p>
 {% ahfowvideo "dggpKeZJSQ8" "" %}
 
-<p>Dean & Britta covered it on their debut album L'Avventura in 2003</p>
+<p>Dean & Britta covered it on their debut album L'avventura in 2003</p>
 <div class="well"><p class="audio">Audio: <a href="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/03_Britta-Phillips_Dean-Wareham_I-Deserve-It.m4a">I Deserve It - Dean & Britta</a></p><audio controls="controls" preload="none" src="https://media.fullofwishes.co.uk/07-dean_and_britta/audio/03_Britta-Phillips_Dean-Wareham_I-Deserve-It.m4a"></audio></div>
 
  {% ahfowaudio {

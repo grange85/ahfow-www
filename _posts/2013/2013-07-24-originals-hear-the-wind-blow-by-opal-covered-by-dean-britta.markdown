@@ -21,7 +21,7 @@ Dean has long-expressed his love for Paisley Underground's finest Opal, a band t
 Here's the video for Opal's Happy Nightmare Baby, being introduced by Dave Roback, standing with him is Hope Sandoval (and Suki Ewers), after Kendra Smith left the band in 1989 Hope replaced her and once the tour had finished the band became Mazzy Star.<br />
 </p>
 {% ahfowvideo "N6g1IvcwL5Y" "" %}
-<p>Dean & Britta's cover was released on their first album L'Avventura in 2003, and was later remixed by Sonic Boom for the Sonic Souvernirs EP.</p>
+<p>Dean & Britta's cover was released on their first album L'avventura in 2003, and was later remixed by Sonic Boom for the Sonic Souvernirs EP.</p>
 <p>Here's a sweet radio performance for WERS (sound sadly drops out a few times)<br />
 </p>
 {% ahfowvideo "8xdmrlfKQJo" "" %}

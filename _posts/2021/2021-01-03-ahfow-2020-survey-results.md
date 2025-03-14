@@ -61,7 +61,7 @@ More Sad Hits topped the album poll as always - this year leaving the rest of th
 
 > In 1993 I was searching for anything about Galaxie 500.  News traveled slower then.  This was like getting a letter from an old friend.
 
-You can see the results for Dean & Britta and Dean solo [here](https://datastudio.google.com/reporting/29c0a71a-22b2-43cf-9b31-acc1f6816caa) - Quarantine Tapes puts in a strong appearance but L'Avventura holds onto the D&B crown comfortably. And Dean's eponymous album gets most of the votes in that poll.
+You can see the results for Dean & Britta and Dean solo [here](https://datastudio.google.com/reporting/29c0a71a-22b2-43cf-9b31-acc1f6816caa) - Quarantine Tapes puts in a strong appearance but L'avventura holds onto the D&B crown comfortably. And Dean's eponymous album gets most of the votes in that poll.
 
 
 ## Summing up

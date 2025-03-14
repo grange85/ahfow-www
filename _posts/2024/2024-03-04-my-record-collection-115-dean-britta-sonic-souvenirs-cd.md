@@ -22,7 +22,7 @@ tags:
 - pete kember
 date: 2024-03-04 00:00 +0000
 ---
-Sonic Souvenirs was Dean & Britta's second release and contains Sonic Boom remixes of tracks from their first release _L'Avventura_, it is an absolute gem!
+Sonic Souvenirs was Dean & Britta's second release and contains Sonic Boom remixes of tracks from their first release _L'avventura_, it is an absolute gem!
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-britta-sonic-souvenirs.jpg" "Dean & Britta - Sonic Souvenirs" %}
 
@@ -51,4 +51,4 @@ In an [interview from 2005](https://midnighttosix.wordpress.com/category/intervi
  - *Packaging:* Jewel case
  - *Format:* CD
  - Bought on release, for whatever it cost.
- - Some of the 'Sonic Souvenirs' tracks were on the CD reissue of L'Avventura and [can be found on Bandcamp](https://brittaphillips.bandcamp.com/album/lavventura-sonic-boom-remixes-from-sonic-souvenirs-ep)
+ - Some of the 'Sonic Souvenirs' tracks were on the CD reissue of L'avventura and [can be found on Bandcamp](https://brittaphillips.bandcamp.com/album/lavventura-sonic-boom-remixes-from-sonic-souvenirs-ep)

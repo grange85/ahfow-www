@@ -1,6 +1,6 @@
 ---
 layout: post
-title: L'Avventura gets UK release
+title: L'avventura gets UK release
 author:
   display_name: Andy
   login: admin
@@ -11,4 +11,4 @@ categories:
 - news
 - dean & britta
 ---
-The Britta Phillips and Dean Wareham album L'Avventura should be available in record shops in the UK in the next week or so. Released on Jetset through Realtime.
+The Britta Phillips and Dean Wareham album L'avventura should be available in record shops in the UK in the next week or so. Released on Jetset through Realtime.

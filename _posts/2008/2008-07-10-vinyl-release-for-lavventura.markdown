@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vinyl release for L'Avventura
+title: Vinyl release for L'avventura
 author:
   display_name: Andy
   login: admin
@@ -12,4 +12,4 @@ categories:
 - dean & britta
 ---
 <p>Dean & Britta's newsletter just dropped in the news that...</p>
-<blockquote><p>Due to request L'Avventura will be made available on limited edition vinyl, more details to come.</p></blockquote>
+<blockquote><p>Due to request L'avventura will be made available on limited edition vinyl, more details to come.</p></blockquote>

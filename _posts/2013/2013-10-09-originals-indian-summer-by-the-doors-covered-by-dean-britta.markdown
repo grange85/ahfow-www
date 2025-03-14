@@ -16,7 +16,7 @@ categories:
 <blockquote><p>For the first Doors LP? Well, the first song we ever recorded was "Indian Summer"... the song that came out on the fifth album "Morrison Hotel". But that was actually the first song we ever recorded. It's the same [recording]. You know, we pepped it up a little bit.</p></blockquote>
 <p><a href="http://home.arcor.de/doorsquarterlyonline/robby.htm">Robby Krieger</a></p>
 {% ahfowvideo "yOKAQSGCm8Q" "" %}
-<p>Dean & Britta recorded a cover of the song for their debut album L'Avventura</p>
+<p>Dean & Britta recorded a cover of the song for their debut album L'avventura</p>
 
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/07-dean_and_britta/audio/Dean-and-Britta_Indian-Summer.mp3",

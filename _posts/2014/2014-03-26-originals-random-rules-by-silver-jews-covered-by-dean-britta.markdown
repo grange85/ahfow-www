@@ -20,7 +20,7 @@ tags:
 
 {% ahfowvideo "jKl4Wpu75W0" "" %}
 
-<p>Dean & Britta's cover was the penultimate track on their 2003 album L'Avventura</p>
+<p>Dean & Britta's cover was the penultimate track on their 2003 album L'avventura</p>
 
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/07-dean_and_britta/audio/dean-and-britta-random-rules.mp3",
