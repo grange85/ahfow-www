@@ -23,7 +23,7 @@ This is a one track promo of Dear Diary put out by Luna's (then) new record comp
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-dear-diary-jericho-promo.jpg" "Luna - Dear Diary (promo CD)" %}
 
-So, having been dumped by Elektra on the eve of the release of Days... Luna, shopped the LP around and finally settled with Jericho - this one track radio promo comes in a jewel sleeve with a full colour sleeve - the back resembles the back of the album, but has a picture of the front cover where the barcode should be.
+So, having been dumped by Elektra on the eve of the release of Days... Luna, shopped the LP around and finally settled with Jericho - this one track radio promo comes in a jewel case with a full colour sleeve - the back resembles the back of the album, but has a picture of the front cover where the barcode should be.
 
 The front cover has a inverted picture of someone, I don't know who. On the reverse is a bit of Luna puff:
 
@@ -45,7 +45,7 @@ The front cover has a inverted picture of someone, I don't know who. On the reve
 </p>
 
 <p>
-    THE DAYS OF OUR NIGHTS was produced by Paul Kimble, former member/producer of Grant Lee Buffalo, as well as produber for soundtracks to Velvet Goldmine and City of Angels.
+    THE DAYS OF OUR NIGHTS was produced by Paul Kimble, former member/producer of Grant Lee Buffalo, as well as producer for soundtracks to Velvet Goldmine and City of Angels.
 </p>
 </blockquote>
 <p class="caption">Dear Diary promo notes</p>
