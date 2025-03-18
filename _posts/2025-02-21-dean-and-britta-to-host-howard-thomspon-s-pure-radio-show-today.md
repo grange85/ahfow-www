@@ -29,7 +29,7 @@ If you read my memoir, you know Howard already, he was head of A&R at Elektra wh
 </blockquote>
 <p class="caption">Dean Wareham - newsletter (21st February 2025)</p>
 
-The show has been archived and can be [streamed here](https://archives.wpkn.org/bookmarks/listen/428214/) - if you fancy keeping it for posterity it wasn't too hard to [find the mp3](https://dlni5xe55ginl.cloudfront.net/c2df9fbd-f128-4d63-9481-1eb8ee0364d0.mp3)... but maybe that's the sort of thing only I get interested in!?
+The show has been archived and can be [streamed/downloaded here](/articles/dean-and-britta-on-pure-wkpn/).
 
 It's three hours of top notch music with some nice little surprises dotted in amongst all the usual suspects, and well worth popping on while you're washing up, or on your daily commute... and Dean and Britta's lovely commentary...
 
