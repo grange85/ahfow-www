@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dean Wareham announces new solo album 'That's The Price of Loving Me'
+title: Dean Wareham announces new solo album 'That's the Price of Loving Me'
 date: 2025-01-09 15:43 +0000
 sitemap: true
 comments: true
@@ -20,9 +20,9 @@ tags:
 - album
 - kramer
 ---
-Dean Wareham's new solo album "That's The Price of Loving Me" will be released on the 28th March and is currently available to [pre-order on Bandcamp](https://deanwareham.bandcamp.com/album/thats-the-price-of-loving-me) and in record shops.
+Dean Wareham's new solo album "That's the Price of Loving Me" will be released on the 28th March and is currently available to [pre-order on Bandcamp](https://deanwareham.bandcamp.com/album/thats-the-price-of-loving-me) and in record shops.
 
-{% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-thats-the-price.jpg" "That's The Price of Loving Me - Dean Wareham" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-thats-the-price.jpg" "That's the Price of Loving Me - Dean Wareham" %}
 
 The album was recorded during the summer with Galaxie 500 producer Kramer
 
