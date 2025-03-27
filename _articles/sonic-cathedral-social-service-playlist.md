@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 20th June 2019 - Sonic Cathedral Social Service playlist
+date: 2019-06-20
 author:
   display_name: Andy Aldridge
 source:

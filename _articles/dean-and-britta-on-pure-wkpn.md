@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dean Wareham and Britta Phillips on PURE WKPN - 21st February 2025
+date: 2025-02-21
 author:
   display_name: Andy Aldridge
 source:

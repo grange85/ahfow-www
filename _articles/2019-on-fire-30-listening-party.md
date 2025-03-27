@@ -2,6 +2,7 @@
 layout: post
 status: publish
 published: true
+date: 2019-11-28
 title: On Fire 30 - Listening Party 28th November 2019
 author:
   display_name: Andy Aldridge

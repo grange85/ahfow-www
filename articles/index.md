@@ -12,7 +12,7 @@ author_url: http://www.grange85.co.uk
 categories: []
 tags: []
 ---
-{% for article in site.articles %}
+{% for article in site.articles reversed %}
   <li>
     <a href="{{ article.url }}">
       {{ article.title }}

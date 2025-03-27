@@ -2,6 +2,7 @@
 layout: post
 title: Copenhagen listening party - 27th August 2020
 sitemap: true
+date: 2020-08-17
 series-title:
 github-comments-issueid:
 date: 2024-03-11
