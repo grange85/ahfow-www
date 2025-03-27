@@ -57,10 +57,10 @@ So it was a very happy coincidence that the fourth Tom Rapp show of 1996, this t
 Sadly I don't have recordings of those "_unrehearsed, chaotic but fun_" songs but do have a Damon & Naomi's set - with Batoh guesting.
 {% ahfowvideo "hDZFdYXtEQk" "Damon & Naomi with Masaki Batoh - NYC, September 1997" %}
 
-Shortly after Tom died in 2018 Damon & Naomi were touring the UK, here they are playing it in Manchester.
+Shortly after Tom died in 2018 Damon & Naomi were tour ing the UK, here they are playing _Translucent Carriages_ in Manchester.
 {% ahfowvideo "bf2pMNJwP1c" "Damon & Naomi - Translucent Carriages (Mnachester, February 2018)" %}
 
-For The Dead in Space expnaded to three volumes and the whole set are available to buy on Bandcamp, on CD, or digitally for _pay what you can_.
+For The Dead in Space expanded to three volumes and the whole set are available to buy on Bandcamp, on CD, or digitally for _pay what you can_.
 
 
  - *Catalogue Number:* AHFOW 10/103
