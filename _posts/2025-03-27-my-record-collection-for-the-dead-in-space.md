@@ -70,4 +70,4 @@ For The Dead in Space expanded to three volumes and the whole set are available 
  - [Buy 'For The Dead in Space (volumes 1 to 3)' on Bandcamp](https://jeffreyalexander.bandcamp.com/album/for-the-dead-in-space)
 
 Previously in [my record collection](/category/my-record-collection):
- - [\[231\] Tom Rapp - A Journal of the Plague Year (CD)](http://moonshot.local:4040/2025/03/13/my-record-collection-tom-rapp-a-journal-of-the-plague-year/)
+ - [\[231\] Tom Rapp - A Journal of the Plague Year (CD)](/2025/03/13/my-record-collection-tom-rapp-a-journal-of-the-plague-year/)
