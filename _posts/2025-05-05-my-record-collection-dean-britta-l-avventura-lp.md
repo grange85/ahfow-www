@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dean & Britta L'avventura (LP)
+title: "[247] Dean & Britta L'avventura (LP)"
 date: 2025-05-05 00:00 +0000
 sitemap: true
 comments: true

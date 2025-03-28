@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[242] Galaxie 500 - This Is Our Music (Rough Trade LP)'
+title: '[243] Galaxie 500 - This Is Our Music (Rough Trade LP)'
 date: 2025-04-21 00:00 +0000
 sitemap: true
 comments: true

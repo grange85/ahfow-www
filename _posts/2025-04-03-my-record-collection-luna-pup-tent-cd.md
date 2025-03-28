@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[237] Luna - Pup Tent (CD)"
+title: "[238] Luna - Pup Tent (CD)"
 date: 2025-04-03 00:00 +0000
 sitemap: true
 comments: true

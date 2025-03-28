@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[243] Sonic Cathedral: Cathedral Classics Volume Two'
+title: '[244] Sonic Cathedral: Cathedral Classics Volume Two'
 date: 2025-04-24 00:00 +0000
 sitemap: true
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[239] Galaxie 500 - Today (Shimmy Disc Europe LP)"
+title: "[240] Galaxie 500 - Today (Shimmy Disc Europe LP)"
 date: 2025-04-10 00:00 +0000
 sitemap: true
 comments: true
