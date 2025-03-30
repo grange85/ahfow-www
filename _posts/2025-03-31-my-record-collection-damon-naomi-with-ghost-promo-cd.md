@@ -23,7 +23,7 @@ Another copy of Damon & Naomi's fantastic "with Ghost" album, this time a promo 
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-with-ghost-promo-cd.jpg" "Damon & Naomi with Ghost (promo CD)" %}
 
-The promo came in a card sleeve with different artwork to the released version. The cover has a photo of Damon & Naomi with their names in black capitals and "WITH GHOST" in... ghostly capitals. I rather like this design, although the released CD was much more beuatiful! The card sleeve and disc both declare that the album will be released on 5th September 2000 and will be "CD only" and that I'll be obliged to surrender it on demand... it doesn't make it clear who can demand me to surrender it.
+The promo came in a card sleeve with different artwork to the released version. The cover has a photo of Damon & Naomi with their names in black capitals and "WITH GHOST" in... ghostly capitals. I rather like this design, although the released CD was much more beautiful! The card sleeve and disc both declare that the album will be released on 5th September 2000 and will be "CD only" and that I'll be obliged to surrender it on demand... it doesn't make it clear who can demand me to surrender it.
 
  - *Catalogue Number:* AHFOW 10/120
  - *Artist:* Damon & Naomi
