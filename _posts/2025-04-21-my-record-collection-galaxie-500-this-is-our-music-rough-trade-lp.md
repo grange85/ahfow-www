@@ -61,4 +61,4 @@ Previously in [my record collection](/category/my-record-collection):
 
 
 _&dagger; Not counting the two copies in the two box sets I have!_  
-_&Dagger; I won't/can't answer the question 'what is the weakest Galaxie 500 album?_
+_&Dagger; I won't/can't answer the question 'what is the weakest Galaxie 500 album?'_
