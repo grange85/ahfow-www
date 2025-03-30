@@ -23,7 +23,7 @@ I always speculated that this was my _second_ Galaxie 500 purchase, after the CD
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-today-lp-shimmy-disc-europe.jpg" "Galaxie 500 - Today (SDE LP)" %}
 
-I've always been slightly puzzled why I bought On Fire on CD, and Today on LP which might suggest that I bought Today first but to be honest around the CD -> LP transition my buying was a little random... by the time of This Is Our Music I had probably fully embreaced CDs - although continued to buy singles on vinyl.
+I've always been slightly puzzled why I bought On Fire on CD, and Today on LP which might suggest that I bought Today first but to be honest around the CD -> LP transition my buying was a little random... by the time of This Is Our Music I had probably fully embraced CDs - although continued to buy singles on vinyl.
 
 Either way this is my original copy of Today released on Shimmy Disc Europe and has of course been well played, and well loved, being my only copy until the box set release in 1996.
 
