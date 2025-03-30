@@ -15,8 +15,12 @@ image: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-and-britta
 categories:
 - dean & britta
 - dean wareham
+- video
 tags:
-- 
+- the mystery guest
+- dear betty baby
+- the cloud is coming
+- we're not done yet
 ---
 A lovely clip of Dean and Britta performing four songs from Dean's new album for [The Best Show with Tom Scharpling](https://www.youtube.com/@BestShow4Life) - this was the first time any of these songs had been played live.
 
