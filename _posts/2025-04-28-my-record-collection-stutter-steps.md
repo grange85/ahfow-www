@@ -45,4 +45,4 @@ Stutter Steps released a second album in 2020 which doesn't seem to have any dir
  - Bought from Amazon for £4.78
  - [Buy 'Stutter Steps' on Bandcamp](https://stuttersteps.bandcamp.com/album/stutter-steps)
 
-_&dagger; ... but all the other Stutter Steps releases have indirect connections... the second album, and a single have sometime Dean & Britta collaborator Anthony LaMarca, and a 2017 EP has Jason Quever of Papercuts (and producer of Dean's Emancipated Hearts album) on one track.
+_&dagger; ... but all the other Stutter Steps releases have indirect connections... the second album, and a single have sometime Dean & Britta collaborator Anthony LaMarca, and a 2017 EP has Jason Quever of Papercuts (and producer of Dean's Emancipated Hearts album) on one track._
