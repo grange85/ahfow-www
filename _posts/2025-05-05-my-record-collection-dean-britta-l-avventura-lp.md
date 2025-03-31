@@ -40,6 +40,6 @@ Lovely LP of course and it was great to finally get it on vinyl only five years 
  - [Buy 'L'avventura' on Bandcamp](https://deanandbritta.bandcamp.com/album/lavventura-bonus-tracks-sonic-boom-remixes)
 
 Previously in [my record collection](/category/my-record-collection):
- - [\[136\] Dean & Britta - L'Avventura (RSD 2024)](https://www.fullofwishes.co.uk/2024/04/25/my-record-collection-recent-acquisition-16-dean-britta-l-avventura-rsd-2024/)
- - [\[147\] Dean & Britta - L'Avventura promo CD](https://www.fullofwishes.co.uk/2024/05/30/my-record-collection-140-dean-britta-l-avventura-promo-cd/)
- - [\[213\] Dean & Britta - L'Avventura (CD promo)](https://www.fullofwishes.co.uk/2025/01/09/my-record-collection-dean-britta-l-avventura-cd-promo/)
+ - [\[136\] Dean & Britta - L'avventura (RSD 2024)](https://www.fullofwishes.co.uk/2024/04/25/my-record-collection-recent-acquisition-16-dean-britta-l-avventura-rsd-2024/)
+ - [\[147\] Dean & Britta - L'avventura promo CD](https://www.fullofwishes.co.uk/2024/05/30/my-record-collection-140-dean-britta-l-avventura-promo-cd/)
+ - [\[213\] Dean & Britta - L'avventura (CD promo)](https://www.fullofwishes.co.uk/2025/01/09/my-record-collection-dean-britta-l-avventura-cd-promo/)
