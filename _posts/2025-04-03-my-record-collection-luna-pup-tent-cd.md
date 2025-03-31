@@ -43,4 +43,4 @@ It must be an absolute hoot writing this nonsense!
  - Bought on release
 
 Previously in [my record collection](/category/my-record-collection):
- - [\[178\] Luna - Pup Tent (LP)](http://moonshot.local:4040/2024/09/16/my-record-collection-171-luna-pup-tent-lp/)
+ - [\[178\] Luna - Pup Tent (LP)](/2024/09/16/my-record-collection-171-luna-pup-tent-lp/)
