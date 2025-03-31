@@ -47,15 +47,15 @@ eos
 
     def ahfowimage_tag(ahfowimage_url, ahfowimage_caption = nil, ahfowimage_src = nil)
       if ahfowimage_caption.empty?
-        "<div class=\"text-center\"><figure class=\"figure w-100\"><img src=\"#{ahfowimage_url}\" class=\"figure-image img-fluid rounded mx-auto d-block\" /></figure></div>"
+        "<div><figure><img src=\"#{ahfowimage_url}\"/></figure></div>"
       else
         ahfowimage_caption_b = ahfowimage_caption.gsub("(cc)", "<i class=\"fab fa-creative-commons\"></i>")
         ahfowimage_caption_b = ahfowimage_caption_b.gsub("(c)", "<i class=\"fas fa-copyright\"></i>")
 
         if ahfowimage_src.empty?
-          "<div class=\"text-center\"><figure class=\"figure w-100\"><img src=\"#{ahfowimage_url}\" class=\"figure-image img-fluid rounded mx-auto\" alt=\"#{ahfowimage_caption}\" /><figcaption class=\"figure-caption text-end\">#{ahfowimage_caption}</figcaption></figure></div>"
+          "<div><figure><img src=\"#{ahfowimage_url}\" alt=\"#{ahfowimage_caption}\" /><figcaption class=\"figure-caption\">#{ahfowimage_caption}</figcaption></figure></div>"
         else
-          "<div class=\"text-center\"><figure class=\"figure w-100\"><img src=\"#{ahfowimage_url}\" class=\"figure-image img-fluid rounded mx-auto\" alt=\"#{ahfowimage_caption}\" /><figcaption class=\"figure-caption text-end\"><a href=\"#{ahfowimage_src}\">#{ahfowimage_caption_b}</a></figcaption></figure></div>"
+          "<div><figure><img src=\"#{ahfowimage_url}\" alt=\"#{ahfowimage_caption}\" /><figcaption class=\"figure-caption\"><a href=\"#{ahfowimage_src}\">#{ahfowimage_caption_b}</a></figcaption></figure></div>"
         end
       end
     end

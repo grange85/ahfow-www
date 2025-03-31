@@ -49,11 +49,11 @@ module Jekyll
         rescue
       end
         audiouri = URI.parse(ahfowaudio_url).path
-      output = "<div class=\"card mb-2\"><div class=\"card-body\">"
-      output += "<p class=\"audio\"><i class=\"bi bi-file-music\"> </i><a href=\"#{ahfowaudio_url}\" download=\"download-from-ahfow\" data-goatcounter-click=\"#{ahfowaudio_url}\" data-goatcounter-title=\"download-audio: #{ahfowaudio_caption}\" data-goatcounter-referrer=\"#{context['page']['url']}\">#{ahfowaudio_caption}</a></p>"
-      output += "<audio class=\"w-100\" controls=\"controls\" preload=\"none\" src=\"#{ahfowaudio_url}\" onplay=\"window.goatcounter.count({path: '#{ahfowaudio_url}',title: 'play-audio: #{ahfowaudio_caption}', event: true,});\"></audio></div>"
+      output = "<div><div>"
+      output += "<p class=\"audio\"><i> </i><a href=\"#{ahfowaudio_url}\" download=\"download-from-ahfow\" data-goatcounter-click=\"#{ahfowaudio_url}\" data-goatcounter-title=\"download-audio: #{ahfowaudio_caption}\" data-goatcounter-referrer=\"#{context['page']['url']}\">#{ahfowaudio_caption}</a></p>"
+      output += "<audio controls=\"controls\" preload=\"none\" src=\"#{ahfowaudio_url}\" onplay=\"window.goatcounter.count({path: '#{ahfowaudio_url}',title: 'play-audio: #{ahfowaudio_caption}', event: true,});\"></audio></div>"
       if( !ahfowaudio_sourceurl.nil? && !ahfowaudio_sourceurl.empty? )
-        output += "<p class=\"card-footer text-right pt-2 pb-1 \"><small class=\"text-muted\">Source: <a href=\"#{ahfowaudio_sourceurl}\">#{ahfowaudio_sourcecap}</a></small></p>"
+        output += "<p class=\"caption\">Source: <a href=\"#{ahfowaudio_sourceurl}\">#{ahfowaudio_sourcecap}</a></p>"
       end
 
       output += "</div>"
