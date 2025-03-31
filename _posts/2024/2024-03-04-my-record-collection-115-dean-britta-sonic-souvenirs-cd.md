@@ -35,14 +35,14 @@ Britta offered some insight on the mailing list:
 > 'Britta Phililps & Dean Wareham' is just too damned long. Plus people don't know where to file it or find it in stores. It may just end up being 'Dean and Britta'....
 
  Britta Phillips - The Galaxie 500 Mailing List - 26th September 2005
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 In an [interview from 2005](https://midnighttosix.wordpress.com/category/interviews/pete-kember-aka-sonic-boom/) Sonic Boom declared this CD as his "favourite album to listen to high"...
 
 > Possibly 'DEAN WAREHAM & BRITTA PHILLIPS' 'Sonic Souvenirs' EP on Jetset Records. That's a really nice record to get high to – full of great feelings & words.
 
  [Interview with Pete Kember (AKA Sonic Boom) (2005)](https://midnighttosix.wordpress.com/category/interviews/pete-kember-aka-sonic-boom/)
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
  - *Catalogue Number:* AHFOW 10/058
  - *Artist:* Britta Phillips & Dean Wareham

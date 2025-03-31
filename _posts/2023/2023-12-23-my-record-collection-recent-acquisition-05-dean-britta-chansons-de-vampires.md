@@ -33,7 +33,7 @@ The tracks had been previously shared digitally for lower-tier Patreon supporter
 > Olivier [Assayas]  asked us to create new versions of French chansons originally popularized by cabaret singer Aristide Bruant: "Le Chat Noir" and "La Valse Brune" and to create an instrumental of "Duchess" in a similar vein. We were so happy to be part of this show, if you haven't seen it, it's a sequel of sorts to his 1996 Irma Vep film which featured Luna's "Bonnie & Clyde." There are some outstanding performances by Alicia Vikander, Vincent Macaigne and Lars Eidinger, who also pops up in the soon-to-be-released Noah Baumbach film, White Noise -- and you will spy us in that one too (on screen and in the soundtrack). 
 
  Dean Wareham, Patreon - November 2022
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 The EP is an absolute joy, as you'd imagine, BUT it has the bonus joy of being a _proper EP_! I can't remember the last time I got four tracks on a seven inch disc that played at 45rpm!
 

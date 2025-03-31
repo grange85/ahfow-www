@@ -37,7 +37,7 @@ Dean wrote about it in Black Postcards:
 > Not only that, it seemed to help our profile in England, where we released an EP containing "Chinatown," the two very different recordings of "Bonnie and Clyde," and Talking Heads' "Thank You For Sending Me an Angel." All of a sudden, we started getting good reviews in England. _Melody Maker_ called the EP the single of the week.
 
 Dean Wareham - Black Postcards (Penguin Books, 2008)
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 A few ineresting (to me) notes...
 

@@ -26,7 +26,7 @@ This was the closing show of a short run of East coast dates the duo performed l
 > The laid-back setting also encourages banter, so we get to hear about D&N's newly adopted cat, misadventures on the Merritt Parkway and Tim Buckley's appearance on The Monkees. And hey, there’s even a majestic rendition of the old Galaxie 500 chestnut "Another Day"
 
  [Doom & Gloom from The Tomb - 2nd November 2023](https://doomandgloomfromthetomb.tumblr.com/post/732888235428265984/damon-naomi-best-video-film-cultural-center)
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 It's an absolute gem so [head over there and download](https://doomandgloomfromthetomb.tumblr.com/post/732888235428265984/damon-naomi-best-video-film-cultural-center)
 

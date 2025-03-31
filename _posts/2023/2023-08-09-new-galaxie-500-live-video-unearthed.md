@@ -33,4 +33,4 @@ The performance has Damon playing a second guitar rather than drums and is prett
 >  Thank you Mimi for sharing this with us! And thank you Eclipse Video in Cambridge for managing to digitize the fragile tape (same place we took the Tugboat video to make dupes in 1988).
 
 [Damon Krukowski - YouTube](https://www.youtube.com/watch?v=Mt_41H-iXKA)
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}

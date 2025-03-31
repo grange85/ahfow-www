@@ -39,7 +39,7 @@ In Black Postcards Dean was particularly harsh:
 > It's not for lack of trying that the fifth album is a bloated dud. It's more likely from trying too hard and thinking too much.
 
 Dean Wareham - Black Postcards (Penguin, 2008 - p197)
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 He was confronted about the _bloated dud_ statement when he [ranked the albums for Vice in 2016](https://www.vice.com/en/article/6azmx4/rank-your-records-luna-dean-wareham):
 
@@ -50,55 +50,55 @@ He was confronted about the _bloated dud_ statement when he [ranked the albums f
 > Do I stand by that? "A bloated dud?" That's too unkind. There are some nice songs on it. I didn't really like the single much, "Dear Diary."
 
 [Rank Your Records: Dean Wareham orders Luna's seven records (Vice, 2016)](https://www.vice.com/en/article/6azmx4/rank-your-records-luna-dean-wareham)
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 > There are some good things on there. I just think we were a little lost, which can happen to a band. It happens to every band—if they stick together long enough.
 
 [The ultimate Luna interview - Noah Baumbach (Salon, 2016)](https://www.salon.com/2016/05/20/the_ultimate_luna_interview_noah_baumbach_and_dean_wareham_talk_super_groups_the_velvet_underground_and_the_history_of_one_of_new_yorks_greatest_bands/)
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 Reviews at the time were mostly very positive - including my own as posted on the mailing list after a couple of lunchtime listens at work:
 
 > OK all the above flowery nonsense is based on one elongated listen in a lunchtime (and a bit!) - but it is certainly a much more instant album than Pup Tent was (even Bewitched took longer to become comfortable to these ears), and on second listen even those opening two and a half songs sounded better - this is a very good album and if it turns out to be a grower I may have spent my lunch listening to the #1 Luna album!
 
 Andy Aldridge, The Galaxie 500 Mailing List 21st April 1999
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 The British press seemed equally impressed...
 
 > On probably their best work yet, they tone down the dreaminess and come up with a dozen playful songs. Still very subtle but now more accessible.
 
 The Independent, 1st May 1999
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 > Deriving their sound from the gentler side of Velvet Undergound, Luna are matchless purveyors of effortlessly melodic yet lyrically warped guitar rock.
 
 The Sunday Times, 2nd May 1999
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 > HOW IRONIC can it get? Elektra in America has dropped Luna over this fifth album, surely their most accessible.
 
 The Times, May 1999
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 ... and when it finally got a US release towards the end of the year things were mostly the same...
 
 >  Geniuses make the complicated seem simple. Example: croaky-throated front man Dean Wareham's guitar melodies. Diamond-pure, absolutely celestial.
 
 Newsweek, 1999
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 > The tight rhythm section is almost hip-hop informed-check out the nearly funky Dear Diary and 4000 Days, and the twin-guitar attack absent on Pup Tent is reinvigorated, even muscular at times. And oh those majestic solos-Slash will leave Axl for good if he hears Dean and the boys' take on Sweet Child O' Mine. Guitars are back!
 
 Torey Marcus, Link Magazine, November 1999
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 In 2006 I revisited the album, and my review of it on the mailing list
 
 > I was just having a search through the mailing list archives out of idleness and noticed that just after "Days..." was released I declared it "probably Luna's best album..." which, with hindsight was a little rash and over-enthusiastic. Maybe it was the 'neweness' of it all but now I consider it my least favourite Luna album - not to say that it doesn't have some great tracks - I just never seem to go back to it...
 
 Andy Aldridge, The Galaxie 500 Mailing List, 21st June 2006
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 For over 20 years the website/mailing list had an annual survey and The Days of Our Nights was routinely propping up the stack - although periodically Romantica would give it a run for its money.
 

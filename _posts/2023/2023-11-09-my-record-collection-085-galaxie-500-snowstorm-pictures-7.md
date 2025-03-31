@@ -39,7 +39,7 @@ The sleeve contains two shots from Macioce's first photoshoot with Galaxie 500:
 > Kramer said, "Look at them! You look like Ten Years After!" And Galaxie stared back blankly. "Ten Years After!" Kramer said again. I looked from face to face. "Ten Years After? Woodstock?" That may have been the first time I realized I was now older than the bands I photographed. They didn't use the picture for an album, but Kramer made a shirt from it.
 
 Temperature's Rising: Galaxie 500, an oral and visual history (Yeti, 2012)
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 I think that is one of my favourite quotes in the book ...
 

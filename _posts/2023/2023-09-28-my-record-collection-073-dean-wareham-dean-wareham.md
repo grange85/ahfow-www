@@ -27,7 +27,7 @@ The album was plugged as Dean's first solo album&dagger; but Dean somewhat playe
 > No. I always depend on the people around me. Even though it doesn’t have Britta’s name on it, she was very involved in helping arrange the songs, and so was our drummer Anthony [LaMarca] — and with this record Jim James as well.
 
 Dean Wareham - Time, 6th March 2014
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 It is such a good album that seems to have slipped a lot of folk by and doesn't seem to get the recognition it deserves. I'd add also that the tour supporting the album was one of my favourites - I saw three consecutive nights of the tour in Brighton, Leamington Spa, and London and each was a treat in different ways. Dean's band for the tour was Britta, Roger Brogan, and Raymond Richards and as a unit were both beatifully loose, and wonderfully tight at the same time. This was also the band that played Indietracks that year... but that was closer to a _plays Galaxie 500 show_!
 

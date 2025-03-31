@@ -38,14 +38,14 @@ This version of I'll Keep It With Mine is the Scott Hardkiss remix that had Brit
 > I think the issue isn't about autotune being used but more about autotune being OVERused - I've no idea if autotune is what's being used on Britta's vocal on the Scott Hardkis remixes but there is a processed - almost out of phase quality to them that I'm not keen on.
 
 Andy Aldridge - The Galaxie 500 Mailing List
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 The discussion got so... lively... that [Britta kindly sent me some un-remixed versions](https://www.fullofwishes.co.uk/2010/10/02/13-most-beautiful-the-missing-mixes/) to share. These had been on the original DVD release but hadn't made it on any of the CD versions of 13 Most Beautiful... or, onto this single.
 
 > I'd be happy to send you all the DVD version without auto-tune. I'm kinda wishing we'd put it on the CD. 
 
 Britta Phillips - The Galaxie 500 Mailing List
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 I must admit that my lack of enthusiasm for the remix has faded with time and I do rather love it now!
 

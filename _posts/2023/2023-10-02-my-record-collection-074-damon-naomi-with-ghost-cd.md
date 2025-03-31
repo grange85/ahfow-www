@@ -26,7 +26,7 @@ Damon & Naomi had covered Ghost's "Awake in a Muddle" on their third album _Play
 > WE FIRST MET the Japanese band Ghost in 1995; despite any language barriers, we understood one another immediately and soon became friends. We have since toured together in both the U.S. and Japan, and on occasion Ghost has joined us on stage to play our songs. After a show like this in Tokyo in the fall of 1998, we decided to record an album together. Over the course of the following year, we sent our new songs to Japan, and Ghost sent back ideas for production and arrangements. They also sent music for a new song of theirs, to which we added lyrics. Then, in the last days of 1999 and the first of 2000, Ghost came to our studio to record this album, and celebrate the New Year, together.
 
 Damon & Naomi with Ghost sleeve notes.
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 The album was released on CD by Sub Pop in a sweet tri-fold digipack that showed off Naomi's design and photos - this is probably my favourite Damon & Naomi sleeve and the one I'd rip-off when I made [sleeves for my bootlegs](https://www.fullofwishes.co.uk/2021/05/14/audio-full-show-damon-and-naomi-london-2001/).
 

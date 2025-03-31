@@ -27,7 +27,7 @@ Indian Summer contains the first Luna recordings made with new guitarist Sean Ed
 <!--more-->
 
 Dean Wareham - Black Postcards (2008)
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 The other cover not mentioned by Dean above was The Dream Syndicate's That's What You Always Say. This was my first real exposure to The Dream Syndicate. Ken had tried to push me towards _The Paisley Underground_ but it wasn't until Luna released this that I felt the need to follow up on his encouragement, and then admittedly in a haphazard way.
 

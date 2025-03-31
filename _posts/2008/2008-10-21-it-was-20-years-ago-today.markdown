@@ -25,7 +25,7 @@ To be honest I'm not 100% certain of the exact date that Galaxie 500's first alb
 > At the start of the summer of '88 we went back to Noise New York and recorded the _Today_ album. We arrived at 2pm to find Kramer sleeping. We set up and did the basic tracks in about four hors on day1. Day 2 we did vocals and lead guitars, most everything in one take. I remember being completely lost during "Don't Let Our Youth Go to Waste" - there are strange harmonic overtones at the ned of that song that I was never able to replicate - sometimes it's good to have no idea what you're doing [...]. On the third day Kramer mixed the record, adding things as he went..."You know what would be hilarious here?"
 
 Dean Wareham - Galaxie 500 1987 - 1991, p23-25
-{: .blockquote-footer .text-end }
+{: .blockquote-footer .caption }
 
 <p>To celebrate I've hastily thrown together a little gift...</p>
 <p><a id="more"></a><a id="more-866"></a></p>

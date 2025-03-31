@@ -28,6 +28,6 @@ The show was 'problematic' because circumstances led to them having to perform t
 > It was now nearly closing time, but since we weren’t going to use the PA, curfew no longer mattered. We set the amps to the lowest possible volume and sang without mics.
 
 [DIY Professional - Dada Drummer Almanach (19th September 2023)](https://dadadrummer.substack.com/p/diy-professional)
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 Head over to [Dada Drummer Almanach](https://dadadrummer.substack.com/p/diy-professional) for the full story.

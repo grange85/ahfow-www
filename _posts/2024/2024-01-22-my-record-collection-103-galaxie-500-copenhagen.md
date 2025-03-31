@@ -32,7 +32,7 @@ The second set of notes, about the album, were written for the Japanese release 
 > Although it is only nine songs and just under 55 minutes long, it is undoubtedly the only work that can be combined with the lost Japanese performance. I'm sorry for writing in a whining, grudge-like manner, but if the show had come to Japan, the set list would have been like this... I'm immersed in emotion, and I'm so excited to be performing on the Quattro stage. I eveni imagine them.
 
 Google Translation of the sleeve notes by Ryuichi Kanagawa
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 Apologies if Google Translate got that wrong - I've popped what the whole of what Google made of it [over here](https://media.fullofwishes.co.uk/01-galaxie_500/docs/japanese-copenhagen-sleeve-notes-google-translate.txt), you can get the gist but it really needs a proper translator!
 

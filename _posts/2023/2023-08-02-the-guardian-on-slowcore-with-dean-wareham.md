@@ -22,4 +22,4 @@ The Guardian today has [a piece on Slowcore](https://www.theguardian.com/music/2
 > We were not trying to make people dance, we were not trying to ‘rock’ – we were trying to make things that were beautiful.
 
 Dean Wareham in "The glacial pleasures of slowcore", The Guardian - 2nd August 2023
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}

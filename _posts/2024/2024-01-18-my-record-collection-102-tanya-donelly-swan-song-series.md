@@ -42,7 +42,7 @@ So, it looks like it is just that one track, which is the lovely [Storm Blown Bi
 > I was a Damon and Naomi fan before we became friends, and was nervous and excited to work with them. We share an attraction to winding, non-linear, tempo-mixing music, and this is definitely apparent in this song. The main body was recorded live, with a few overdubs ~ happily old-school, and an extremely fun day. The musicality of these two people is inspiring, and wonderful to experience. A song about running into the night.
 
  [Tanya Donelly - Swan Song Series: Bonus Track Notes](http://web.archive.org/web/20161023221100/http://tanyadonelly.com/?page_id=134) _archived at Wayback Machine (https://web.archive.org/), 23rd October 2016_
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 The Swan Song Series were a series of five EPs released digitally over time via Bandcamp and featuring a number of well known musical friends, it was then collected into this three LP set which I bought direct from UK distributors Cargo for £30.99 + postage.
 

@@ -29,7 +29,7 @@ It's funny also that Friendly Advice has turned up on a CD because despite it be
 > A note about LUNA LIVE - Due to an error that occurred during the manufacturing process, track 3 on the CD version of LUNA LIVE is in fact, Double Feature, not Friendly Advice as indicated in the track listing. We plan to correct this error on future pressings of the CD, and will temporarily offer the live version of Friendly Advice as a free, downloadable mp3 file on fuzzywuzzy.com. Both Double Feature and Friendly Advice can be found on the vinyl version of LUNA LIVE.
 
 [Fuzzywuzzy.com 6th February 2001](http://web.archive.org/web/20010303130417/http://www.fuzzywuzzy.com/lunadocs/whatsnew/whatsnew.html)
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 I no longer have the magazine so suspect it didnt't have any more Luna than their appearance on the CD.
 

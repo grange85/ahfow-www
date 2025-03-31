@@ -31,7 +31,7 @@ There was a discussion back in the day on the Galaxie 500 Mailing List about the
 > I asked Dean about this similarity once, and while he denied that "striking the pose" was intentional, he did acknowledge that when he bought the red jacket (as seen in the Bewitched sleeve pic), he did note a resemblence to the red coat that one of the TV members is wearing on the cover of Television's "Adventure"
 
 Michael Lee Lim - The Galaxie 500 Mailing List
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
  - *Catalogue Number:* AHFOW 10/019
  - *Artist:* Luna

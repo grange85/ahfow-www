@@ -27,6 +27,6 @@ The album marks Naomi's first solo release and today you can listen to the title
 > I had been listening to a lot of instrumental music and instrumental soundtracks in the last few years and so it seemed very natural to try this myself.
 
 [Naomi Yang - Instagram (@naomivision)](https://www.instagram.com/p/Cqs6t6FPire/)
-{: .blockquote-footer .text-end }
+{: .blockquote-footer .caption }
 
 The film will be [premiering as part of the Boston Independent Film Festival]({% post_url /2023/2023-04-01-naomi-yang-s-new-film-selected-for-the-boston-independent-film-festival %}) at the end of the month (or the beginning of the next one).

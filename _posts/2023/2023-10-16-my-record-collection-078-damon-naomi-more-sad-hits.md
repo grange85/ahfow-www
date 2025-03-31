@@ -28,14 +28,14 @@ Interestingly while researching this post I found that in 2015 The Getty Museum 
 > The face, however, belongs not to a real woman but to a fashion mannequin who cries tears of glistening, round glass beads; the effect is to aestheticize the sentiment her tears would normally express.
 
 [Larmes (Tears), J. Paul Getty Museum (Internet Archive - archived 2015)](https://web.archive.org/web/20150301205145/http://www.getty.edu/art/collection/objects/37756/man-ray-larmes-tears-american-1930-1932)
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 ... and this claim is repeated all over the place... but... look at the photo, [look at it closely](https://www.manray.net/images/gallery/glass-tears.jpg) - there is no way that this is not a "real woman" this is clearly nonsense? By 2018 Getty updated their site and changed the words 
 
 > The face belongs to a fashion model who cries tears of glistening, round glass beads; the effect is to aestheticize the sentiment her tears would normally express.
 
 [Larmes (Tears), J. Paul Getty Museum (Internet Archive - archived 2018)](https://web.archive.org/web/20180306110255/http://www.getty.edu/art/collection/objects/37756/man-ray-larmes-tears-american-1930-1932)
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 <!--more-->
 

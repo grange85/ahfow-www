@@ -36,7 +36,7 @@ It appears that Mr Agony is actually a pseudonym for band collaborator Sergio Hu
 > I always liked how you can see Sergio's reflection in the top left photo, on the far right of the image. He was using my Rolleiflex and is looking down at the ground glass to frame the photo.
 
 Naomi Yang - Temperature's Rising: Galaxie 500, an oral and visual history (Yeti, 2012)
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 
 

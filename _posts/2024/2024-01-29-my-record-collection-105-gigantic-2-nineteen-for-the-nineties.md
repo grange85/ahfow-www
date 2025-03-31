@@ -71,7 +71,7 @@ This issue was brought to light in 1994 and the manufacturer admitted that it wa
 > Freephone (UK only) 	0800 387063  
 
  A Head Full of Wishes (miniFaq)
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 You were obliged to return the faulty disc and provide proof of purchase (although, having the disc is surely proof of purchase). I duly sent off my faulty CD keeping the sleeve, and waited. And waited, and waited. I did start to worry that I'd seen the last of my CD but eventually the replacement arrived as promised.
 

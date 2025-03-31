@@ -32,7 +32,7 @@ Galaxie 500 Mailing List member Nate turned up for the video shoot (with beer) a
 > I went to their video shoot for Lovedust. Great stuff. Cool to see the whole process, and everybody was all in quite the jovial mood (we brought beer with us). The museum set up was cool, they are the artwork and Dean was our tour guide around the museum, showing us (and the band) these painting and sculptures. 
 
 Nate - The Galaxie 500 Mailing List
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 {% ahfowimage "https://media.fullofwishes.co.uk/02-luna/pictures/luna-lovedust-video-mosaic.jpg" "Lovedust video screen captures" %}
 
@@ -41,7 +41,7 @@ The [second video](https://youtu.be/VB-coiiqqr0) Lee sent to me on a CDR with a 
 > I'm sending you a music video for Lovedust, directed and edited by Martina Broner. Produced back in '02, it contains rare footage shot in the studio during the Romantica sessions, as well as live, soundcheck, and backstage shots.  I thought you might like to have it for your archives.
 
 Lee Wall - email
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 The first time I uploaded it to YouTube it was pulled down and I had a _strike_ against my account (I'd even asked Lee if I could post it) - thankfully YouTube have mostly got over that sledgehammery way of dealing with copyright infringement.
 

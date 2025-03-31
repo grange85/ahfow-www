@@ -34,7 +34,7 @@ I love Lunapark, sometimes more than any other Luna album. Dean ranked it sixth 
 > I like some of this record too, but I don’t feel like we were really a band yet. We’d only been a band for a few months and did this album as a trio: myself, Justin Harwood and Stanley Demeski. Grasshopper played on a few songs too. But after that we were always a quartet with two guitar players. So it’s missing Sean Eden.
 
 [Dean Wareham ranks Luna's studio albums](/2016/05/12/dean-wareham-ranks-lunas-studio-albums/)
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 
 I'd have bought this album on the day of release (or the weekend after).

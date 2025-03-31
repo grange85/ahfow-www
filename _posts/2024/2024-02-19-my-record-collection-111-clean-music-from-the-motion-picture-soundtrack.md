@@ -39,7 +39,7 @@ I was unaware of both the film, and Dean and Britta's contribution to it until D
 > Brian Eno songs, plus the ones Maggie did with David Roback.
 
  Dean Wareham - email - 12th April 2005
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 Dean then sent me a copy of the album when he'd got hold of some copies. I read the synopsis of the film and thought that it sounded a bit too gritty and _rock and roll_ for my sensitive tastes and decided to make do with just listening to the album!
 

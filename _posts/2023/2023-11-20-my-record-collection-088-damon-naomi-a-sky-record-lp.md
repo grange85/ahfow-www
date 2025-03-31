@@ -30,7 +30,7 @@ The album was started before covid, started by Damon & Naomi in their home studi
 <!--more-->
 
 Naomi Yang - [A Golden Sky: In Conversation with Damon & Naomi](https://sun-13.com/2021/10/05/a-golden-sky-in-conversation-with-damon-naomi-part-1/)
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 Since _My record collection_ doesn't include books (or DVDs which is probably an oversight), I guess I'll mention here the lovely _A Sky Record Companion_ that was this albums first physical manifestation. In a different age this would have been an insert in the LP anyway... which is where I keep my copy.
 
@@ -55,7 +55,7 @@ BTW - here's the shipping forecast for where I live, in case you're interested:
 > Tyne. Cyclonic 3 to 5, increasing 5 to 7 later, perhaps gale 8 later. Showers. Good, occasionally poor.
 
  [The Shipping Forecast](https://www.bbc.co.uk/sounds/play/m001sllx)
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
  - *Catalogue Number:* AHFOW 12/081
  - *Artist:* Damon & Naomi

@@ -28,7 +28,7 @@ The album is a collection of covers, half the album picked and lead by Dean and 
 > Dean Wareham Vs. Cheval Sombre [is] a collection of western dreampop I made with my friend Chris (aka Cheval Sombre). Chris and I took turns on lead vocals, Jason Quever produced at Palmetto Recording here in L.A. I play the electric guitars, backed by Britta Phillips, Anthony LaMarca, Jason Quever and Will Halsey. Some of these songs (e.g. "Wandering Star") are from old Hollywood movies, others are by songwriters like Bob Dylan and Stephen Merritt.
 
 Dean Wareham, 2018
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 The album was recorded in early 2016 and was eventually released in October 2018. I bought my copy as part of a deluxe bundle with a T-shirt and the [Along The Santa Fe Trail lathe cut single]({% post_url /2023/2023-03-30-my-record-collection-021-dean-wareham-and-cheval-sombre-along-the-santa-fe-trail %})
 
  - *Catalogue Number:* AHFOW 12/027

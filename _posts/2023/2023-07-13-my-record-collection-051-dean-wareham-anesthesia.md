@@ -29,14 +29,14 @@ The UK music inkies seemed to be equally relieved:
 > With Mercury Rev's Jimmy Chambers guesting on drums, we see Dean happily clinging to the basic blueprint of simple tunes and simpler words ("you know I try to please ya! You're under anesthesia" is up there with his rib-tickling best) and plenty of time for the solos. Currently "getting it together" with ex-Chills bassist Justin Harwood and ex-Ultra Vivid Scene drummer Byron Guthrie, and with a new deal with Elektra in the swag bag, surely this most audacious of pop talents cannot be relegated to footnote status second time around.
 
 Keith Cameron - New Musical Express - 15th February 1992
-{:.blockquote-footer .text-end}
+{:.blockquote-footer .caption}
 
 > "Anesthesia" is as subtly beautiful as you'd expect the debut single from Galaxie 500's old singer/guitarist to be. perhaps a trifle slight, but no less beguiling for that. Imagine the gentler side of Galaxie without the storm of guitar - or sthenic bass - that Kramer would occasionally whip up. Sure Dean does launch into one of those thumb-biting, carefully layered guitar solos of his, but, for now, the key word is "restraint".
 >
 > Mint Tea is the new Mercury Rev label in Britain and, appropriately, Hamish Kilgour from the mighty Clean contributes drums. The second song annoys me, but that's because Hamish sounds as if he wants to belong to Moose. Whatever for?
 
 Melody Maker - 15th February 1992
-{:.blockquote-footer .text-end}
+{:.blockquote-footer .caption}
 
 My first copy of this was a 12" single - this is the CD version I bought later, for years Mint Tea/Jungle were selling their catalogue pretty cheap online so I grabbed this and the Mint Humbucker comp then.
 

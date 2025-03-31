@@ -25,5 +25,5 @@ Damon has a [piece in The Guardian](https://www.theguardian.com/commentisfree/20
 
 Spotify made £56m profit, but has decided not to pay smaller artists like me. We need you to make some noise  
 \- Damon Krukowski (The Guardian, 30th November 2023)
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 

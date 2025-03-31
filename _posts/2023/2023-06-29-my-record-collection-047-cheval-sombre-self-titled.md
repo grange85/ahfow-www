@@ -29,7 +29,7 @@ A few months after release Dean & Britta played a show at St Giles' Church in Lo
 > I arrived shortly before Cheval Sombre took to the stage, hooked up with David and settled down in a pew with as good a view as we could expect at this late stage. Cheval Sombre played seated, accompanied by a seated Sonic Boom. I think Britta (who accompanied them) may have been standing... but she was standing behind the PA (except when she sat behind the drums). Dean played guitar on a couple of songs and stood... in my eye line. But I never **saw** too much of the set
 
 [AHFoW: Review: Dean & Britta @ St Giles in the Fields, London](/2009/11/19/review-dean-britta-st-giles-in-the-fields-london/)
-{: .blockquote-footer .text-end }
+{: .blockquote-footer .caption }
 
 I have quite the history of seeing, yet not seeing Cheval Sombre gigs... [even from the front row](https://www.flickr.com/photos/grange85/8209836725/in/album-72157632080412568/)!
 

@@ -30,7 +30,7 @@ I'm going to hand the description of this over to an email from Michael, who tra
 > When I received and listened to the tape, I knew it was something pretty unusual but didn't know who to ask.  So I wrote to Dean directly. Dean told me that I had come across a tape of all the songs they recorded on their first day in the studio -- August 11, 1987 at 6/8 studios.  He said about five copies had been made of the tape I had in my possession and another 30 or so of the three song variety made for sending out to labels and stations.  He wasn't even sure if he still had a copy of all seven songs, so I made a copy and sent it to him.  He basically said that the band had decided beyond the first three songs the others just weren't good enough even to put on the demo cassette.  That's also the reason they're not on the box set. 
 
 Michael Keller (email, 21st March 2002)
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 So my copy is the cassette that Michael sent me, with a photocopied sleeve... not original but I suspect that photocopied sleeves and home-duped cassettes was probably the way this went out so, bar being one generation down it's probably fairly close (although I think the originals were photocopied onto green paper), I can pretend.
 
@@ -45,7 +45,7 @@ In the _Temperature's Rising_ book there's a covering letter that was sent out w
 > I'm writing on behalf of GALAXIE 500. We're a three-piece (**Naomi Yang on bass and vocals**, Damon Krukowski on drums, and **Dean Wareham on guitar**) currently playing in Boston...
 
 Covering letter extract - _my emphasis_ (Temperature's Rising, Yeti 2012)
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
 Now, assuming this was sent with the three track demo on which Naomi sang only one of the three songs, and subsequently sang on very few Galaxie 500 songs, why is she the only credited vocalist here? Here are a couple of my guesses...
 

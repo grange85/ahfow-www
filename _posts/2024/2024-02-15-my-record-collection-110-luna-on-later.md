@@ -36,7 +36,7 @@ There was lots of discussion on the mailing list around the time of the broadcas
 > I wanted to ask her how a VH1 VJ gets to host her own late-night network TV show.
 
  Dean Wareham - Black Postcards (Penguin, 2008)
-{: .blockquote-footer .text-end}
+{: .blockquote-footer .caption}
 
  - *Catalogue Number:* AHFOW 13/013
  - *Artist:* Luna
