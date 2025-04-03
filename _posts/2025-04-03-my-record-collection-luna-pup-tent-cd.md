@@ -24,6 +24,8 @@ This is the CD version of Pup Tent that I bought on release.
 
 That photo on the back though... looks like the band are in a police line-up, and why wasn't Justin included in the "wear red" email? 
 
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-pup-tent-line-up.jpg" "Luna line up" %}
+
 After Sterling Morrison on Bewitched and Tom Verlaine on Penthouse, Pup Tent's celebrity guest star is Barrett Martin of Screaming Trees (and Tuatara) fame - he plays "marimba, vibes on 'Pup Tent and 'Beautiful View'" - I like that a drummer can't help but find instruments that need to be hit!
 
 I have a [copy of the Elektra press release](https://media.fullofwishes.co.uk/02-luna/docs/pup-tent-press-release-ocr.pdf) (pdf) which is quite hilarious:
