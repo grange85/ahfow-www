@@ -7,7 +7,8 @@ function handler(event) {
 	// manage redirects
     var redirects = [
         ['my-record-collection-116-dean-britta','https://www.fullofwishes.co.uk/2024/03/07/my-record-collection-116-luna-tell-me-do-you-miss-me-dvd-region-2-3-4-5/'],
-        ['happy-61st-birthday-jonathan-richman','https://www.fullofwishes.co.uk/2015/05/16/happy-birthday-to-jonathan-richman/']
+        ['happy-61st-birthday-jonathan-richman','https://www.fullofwishes.co.uk/2015/05/16/happy-birthday-to-jonathan-richman/'],
+		['dean-wareham-2025-04-03-hangar-34-liverpool-uk','https://www.fullofwishes.co.uk/database/dean-and-britta/shows/dean-wareham-2025-04-03-rough-trade-liverpool-uk/']
     ];
 
     while (redirect < redirects.length) {
