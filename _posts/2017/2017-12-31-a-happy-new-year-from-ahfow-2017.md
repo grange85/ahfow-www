@@ -60,4 +60,4 @@ tags:
   "sourcecap": "Luna - Hedgehog / 23 Minutes in Brussels"
   } %}
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/nai_collection/11495225345/" title="Happy New Year!"><img src="https://farm4.staticflickr.com/3774/11495225345_825f69f76a_c.jpg" alt="Happy New Year!"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/nai_collection/11495225345/" title="Happy New Year!"><img src="https://media.fullofwishes.co.uk/flickr-downloads/11495225345_825f69f76a_c.jpg" alt="Happy New Year!"></a>

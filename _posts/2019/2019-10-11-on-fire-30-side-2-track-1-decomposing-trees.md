@@ -12,7 +12,7 @@ categories:
 tags:
 flickr: true
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/188393597/in/photolist-2hbjrTg-8Zrhr3-hDyRt" title="Decomposing Tree"><img src="https://live.staticflickr.com/62/188393597_b636ffe5b7_c.jpg" alt="Decomposing Tree"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/188393597/in/photolist-2hbjrTg-8Zrhr3-hDyRt" title="Decomposing Tree"><img src="https://media.fullofwishes.co.uk/flickr-downloads/188393597_b636ffe5b7_c.jpg" alt="Decomposing Tree"></a>
 
 If I’m going to be completely honest, {% ahfowtrack "Decomposing Trees" %} was not the song that served as my gateway to the Galaxie.  Back in the spring of 2011, during my final days at Loyola University Maryland, it was {% ahfowtrack "Ceremony" %} that left me dumbstruck on the front stairs of our campus library.  Whenever I felt like I needed to let my brain breathe for a minute I would scour the nostalgic best-of lists on pitchfork.com.  Being that I was born in 1989, it seemed only natural to tackle “The Top 100 Albums of the 1980s” (2002).  And since I’ve always been intrigued by the color orange, I found it entirely logical to immerse myself within the world of that tiny square slated at #16.
 

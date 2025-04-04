@@ -30,7 +30,7 @@ The important one is the tatty bottom CD which was the one I bought on release d
 1989/90 was clearly my vinyl to CD transition period - Today I bought on vinyl before I bought this - the Blue Thunder EP I bought on vinyl, after this.
 
 This is missing:
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/32275249447/" title="Orange. On Fire. Worth every penny #galaxie500 #onfire #bestalbum #orange #vinyl #lp #record"><img src="https://live.staticflickr.com/7843/32275249447_cab022469b_b.jpg" alt="Orange. On Fire. Worth every penny #galaxie500 #onfire #bestalbum #orange #vinyl #lp #record"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/32275249447/" title="Orange. On Fire. Worth every penny #galaxie500 #onfire #bestalbum #orange #vinyl #lp #record"><img src="https://media.fullofwishes.co.uk/flickr-downloads/32275249447_cab022469b_b.jpg" alt="Orange. On Fire. Worth every penny #galaxie500 #onfire #bestalbum #orange #vinyl #lp #record"></a>
 
 The bottom vinyl LP is a UK Rough Trade copy from 1989 and the cassette is also a 1989 vintage Rough Trade release. The others are a Domino release double CD, a beuatiful Video Arts Japan CD, and a 20\|20\|20 LP.
 

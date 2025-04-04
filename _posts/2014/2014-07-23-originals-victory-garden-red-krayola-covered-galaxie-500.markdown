@@ -16,7 +16,7 @@ tags:
 - red crayola
 - red krayola
 ---
-<p><a href="https://www.flickr.com/photos/swilkes/582180438" title="Victory Gardens! by Sarah, on Flickr"><img src="https://farm2.staticflickr.com/1425/582180438_6c5a44c380_z.jpg?zz=1" alt="Victory Gardens!"></a><br />
+<p><a href="https://www.flickr.com/photos/swilkes/582180438" title="Victory Gardens! by Sarah, on Flickr"><img src="https://media.fullofwishes.co.uk/flickr-downloads/582180438_6c5a44c380_z.jpg?zz=1" alt="Victory Gardens!"></a><br />
 Just a quickie to-day as I've posted a couple of times about Victory Garden before:<br />
 <a href="/2014/07/23/originals-victory-garden-red-krayola-covered-galaxie-500/" title="Mp3: Victory Garden – Enough or Adolf">Mp3: Victory Garden – Enough or Adolf</a><br />
 <a href="/2012/09/21/friday-recycling-victory-garden/" title="Friday recycling: Victory Garden">Friday recycling: Victory Garden</a><br />

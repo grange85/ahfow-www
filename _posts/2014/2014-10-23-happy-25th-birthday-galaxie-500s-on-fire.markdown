@@ -17,7 +17,7 @@ categories:
 <p>But at least nobody tried to blame it on a cow. And the wedding went ahead as planned.</p>
 <p>And some people actually believe that Nero fiddled as Rome burned, and that he really did look like a badly aging Peter Lorre. On Sunday nights we'd all gather 'round the television set to watch the Disney show, and I would always fall asleep from boredom. But I had a big old Siamese cat named Butch who'd always loved to play with my face moments after my head hit the pillow. So I'd awake startled, sometimes, crying, sometimes covered with blood and crying, staring into the idiot box. Sometimes I'd see Walt himself, sometimes Mickey or Goofy. But sometime I'd see a thousand bright blue caribou racing a dust storm to the finish line, neck and neck all the way like nature's own Indy 500! Flesh and blood against the elements! And I remember wondering to myself, "Why are they racing?" THEN one fine day I understood why the race took place. It was because the hairs on those caribou necks were being tickled by the instinctual knowledge of a fire raging not too far away, and most certainly headed this way. Humans often get the same feeling...like an oddly warm breeze malevolently fueled by the maddening flames behind it. Come ride the fiery breeze of GALAXIE 500!<br />
 -<em>Kramer, NYC, July 1989</em></p></blockquote>
-<p><a href="https://www.flickr.com/photos/grange85/14966010204" title="Galaxie 500 - On Fire by Andy Aldridge, on Flickr"><img class="alignccenter" src="https://farm4.staticflickr.com/3943/14966010204_c004905dfe_z.jpg" alt="Galaxie 500 - On Fire"></a></p>
+<p><a href="https://www.flickr.com/photos/grange85/14966010204" title="Galaxie 500 - On Fire by Andy Aldridge, on Flickr"><img class="alignccenter" src="https://media.fullofwishes.co.uk/flickr-downloads/14966010204_c004905dfe_z.jpg" alt="Galaxie 500 - On Fire"></a></p>
 <blockquote><p>If a Pyrrhic victory means triumph won at such cost you may as well have lost, then Galaxie 500's music is the exact opposite: a statement of defeat that resounds like a glorious triumph<br />
 -<em>Simon Reynolds - Melody Maker 28 October 1989</em></p></blockquote>
 <p>Here are some quotes lifted from the thoroughly brilliant "Temperature's Rising: Galaxie 500 an oral and visual history" by Mike McGonigal...</p>
@@ -25,7 +25,7 @@ categories:
 -<em>Kramer</em></p></blockquote>
 <blockquote><p>Making On Fire was a very happy experience. I think we were at a point where we were accomplished enough musicians that we were able to play what we had in our head. There was a generally optimistic feeling about the direction of the band and we were getting attention from the critics. It was a lot of fun and the possibilities seemed endless, something that I feel I was very lucky to experience. A very joyful, youthful moment.<br />
 -<em>Naomi Yang</em></p></blockquote>
-<p><a href="https://www.flickr.com/photos/grange85/15401012047" title="On Fire - Galaxie 500 cassette by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://farm6.staticflickr.com/5607/15401012047_4cd50b31e5_z.jpg" alt="On Fire - Galaxie 500 cassette"></a></p>
+<p><a href="https://www.flickr.com/photos/grange85/15401012047" title="On Fire - Galaxie 500 cassette by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://media.fullofwishes.co.uk/flickr-downloads/15401012047_4cd50b31e5_z.jpg" alt="On Fire - Galaxie 500 cassette"></a></p>
 
 {% ahfowvideo "lc3kxjy2GNk" "" %}
 

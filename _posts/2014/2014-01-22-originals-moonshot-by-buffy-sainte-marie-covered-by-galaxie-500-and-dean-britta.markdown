@@ -9,7 +9,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2014-01-22'
-image: https://live.staticflickr.com/1496/24795493641_7c58d8e226_c.jpg
+image: https://media.fullofwishes.co.uk/flickr-downloads/24795493641_7c58d8e226_c.jpg
 categories:
 - originals
 tags:
@@ -36,6 +36,6 @@ flickr: true
 <p>Buffy commented on one of Dean's cover versions in the Magnet interview, although it's not clear which one...</p>
 <blockquote><p>I saw your version of "Moonshot" on YouTube. Thank you!! It's just gorgeous, and I was so touched when I came upon it — by accident — several months ago. Some of my favorite songs are real obscure like "Moonshot." Hardly anyone knows them. I like your taste. Anyway, many thanks for doing this. I went to your website — cool.</p></blockquote>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/nothingelseon/24795493641/in/photolist-DM6op4-gZD12n-DM6omZ-4pvdBP-5HerLb/" title="042 - Buffy Sainte-Marie - Moonshot LP (B)"><img src="https://live.staticflickr.com/1496/24795493641_7c58d8e226_c.jpg" alt="042 - Buffy Sainte-Marie - Moonshot LP (B)"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/nothingelseon/24795493641/in/photolist-DM6op4-gZD12n-DM6omZ-4pvdBP-5HerLb/" title="042 - Buffy Sainte-Marie - Moonshot LP (B)"><img src="https://media.fullofwishes.co.uk/flickr-downloads/24795493641_7c58d8e226_c.jpg" alt="042 - Buffy Sainte-Marie - Moonshot LP (B)"></a>
 
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>

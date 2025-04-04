@@ -16,7 +16,7 @@ tags:
 - kraftwerk
 - neon lights
 ---
-<p><a href="http://www.flickr.com/photos/galt-museum/4188238621/" title="Marquis Coffee Shop by Galt Museum & Archives on The Commons, on Flickr"><img class="aligncenter" src="https://farm3.staticflickr.com/2489/4188238621_74bd9d09ae_z.jpg?zz=1" alt="Marquis Coffee Shop"></a></p>
+<p><a href="http://www.flickr.com/photos/galt-museum/4188238621/" title="Marquis Coffee Shop by Galt Museum & Archives on The Commons, on Flickr"><img class="aligncenter" src="https://media.fullofwishes.co.uk/flickr-downloads/4188238621_74bd9d09ae_z.jpg?zz=1" alt="Marquis Coffee Shop"></a></p>
 <p>Neonlicht was from Kraftwerk's seventh album Die Mensch·Maschine in 1978<br />
 </p>
 {% ahfowvideo "iPDCiHLsFMU" "" %}

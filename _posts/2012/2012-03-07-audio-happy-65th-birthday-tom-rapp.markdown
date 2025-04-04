@@ -12,7 +12,7 @@ categories:
 - editorial
 flickr: true
 ---
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/mnoble/145358820" title="Tom Rapp"><img src="https://live.staticflickr.com/54/145358820_c678a5cc7e_c.jpg" alt="Tom Rapp"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/mnoble/145358820" title="Tom Rapp"><img src="https://media.fullofwishes.co.uk/flickr-downloads/145358820_c678a5cc7e_c.jpg" alt="Tom Rapp"></a>
 
 The big news of the first <a href="http://www.terrascope.co.uk/terrastockpages/terrastock.html">Terrastock</a> festival in Providence in 1997 was the reappearance of [Tom Rapp](http://en.wikipedia.org/wiki/Tom_Rapp), prime mover of [Pearls Before Swine](http://www.terrascope.co.uk/MyBackPages/Pearls_Before_Swine.htm), and absent from the music scene since the mid 70s. On Thursday 8 March Tom will turn 65, much of his second coming involved Damon & Naomi (hence it's appearance here) - they performed together a number of times, Damon produced (and they both appeared on) his comeback album A Journal of The Plague Year and appeared on the new recordings that appeared on the Pearls Before Swine compilation album Constructive Melancholy.
 

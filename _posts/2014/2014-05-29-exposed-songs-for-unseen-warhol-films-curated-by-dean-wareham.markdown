@@ -29,7 +29,7 @@ So far the following dates have been confirmed (hopefully more to follow)
 
 In 2008 the Warhol Museum commissioned Dean & Britta to produce music for 13 Warhol Screen Tests, [13 Most Beautiful](/2008/07/10/dean-britta-accompany-warhols-13-most-beautiful-screen-tests/) has toured the world in the six years since then.  
 
-{% ahfowimage "https://farm4.staticflickr.com/3490/4036524058_f082b8ce4f_z.jpg" "Dean & Britta performing 13 Most Beautiful" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/4036524058_f082b8ce4f_z.jpg" "Dean & Britta performing 13 Most Beautiful" %}
 
 [Pitchfork has a small item on the shows](http://pitchfork.com/news/55361-bradford-cox-eleanor-friedberger-dean-wareham-to-live-score-unseen-andy-warhol-films/).
 

@@ -16,7 +16,7 @@ tags:
 - video
 longpost: false
 ---
-<figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/29712253993/" title="The very lovely @britta_phillips mesmerising the rather big and pretty full Olympia in Paris"><img src="https://c1.staticflickr.com/9/8410/29712253993_b5b6c0f57c_z.jpg" alt="The very lovely @britta_phillips mesmerising the rather big and pretty full Olympia in Paris"></a><figcaption>Britta Phillips</figcaption></figure>
+<figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/29712253993/" title="The very lovely @britta_phillips mesmerising the rather big and pretty full Olympia in Paris"><img src="https://media.fullofwishes.co.uk/flickr-downloads/8410/29712253993_b5b6c0f57c_z.jpg" alt="The very lovely @britta_phillips mesmerising the rather big and pretty full Olympia in Paris"></a><figcaption>Britta Phillips</figcaption></figure>
 
 <p class="lead">Another happy birthday to the wonderful Britta Phillips!</p>
 

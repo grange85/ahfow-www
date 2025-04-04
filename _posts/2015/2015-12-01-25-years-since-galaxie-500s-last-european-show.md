@@ -19,7 +19,7 @@ categories:
 
 <p>All the excitement was justified - it's a gem!</p>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/23405696346/in/dateposted-public/" title="Galaxie 500 advance promo for Copenhagen"><img src="https://farm1.staticflickr.com/748/23405696346_91b52f7996_b.jpg" alt="Galaxie 500 advance promo for Copenhagen"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/23405696346/in/dateposted-public/" title="Galaxie 500 advance promo for Copenhagen"><img src="https://media.fullofwishes.co.uk/flickr-downloads/23405696346_91b52f7996_b.jpg" alt="Galaxie 500 advance promo for Copenhagen"></a>
 
 <p>The album is available to download from bandcamp and right now you can get <a href="https://galaxie500.bandcamp.com/album/copenhagen-live#buyFullDiscography">all of Galaxie 500's releases as high-quality downloads for just $42.62</a> - that's the three flawless studio albums, the Peel sessions album, Copenhagen and Uncollected - for peanuts!</p>
 

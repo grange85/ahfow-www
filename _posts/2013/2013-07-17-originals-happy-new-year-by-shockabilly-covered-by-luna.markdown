@@ -12,7 +12,7 @@ categories:
 - luna
 - originals
 ---
-<p><a href="http://www.flickr.com/photos/duncan/4372293037/" title="Happy New Year by duncan, on Flickr"><img class="aligncenter" src="https://farm3.staticflickr.com/2689/4372293037_f70f932df6.jpg" alt="Happy New Year"></a><br />
+<p><a href="http://www.flickr.com/photos/duncan/4372293037/" title="Happy New Year by duncan, on Flickr"><img class="aligncenter" src="https://media.fullofwishes.co.uk/flickr-downloads/4372293037_f70f932df6.jpg" alt="Happy New Year"></a><br />
 <a href="http://en.wikipedia.org/wiki/Shockabilly">Shockabilly</a> were a mid 80s project featuring Eugene Chadbourne and Kramer. "Happy New Year" was written by Chadbourne and appeared on their 1985 album "Heaven"</p>
 {% ahfowvideo "JBJD2A5zuq8" "" %}
 <p>Luna's cover was recorded during the Penthouse session and was released as a bonus track on the Beggars Banquet CD single Hedgehog / 23 Minutes in Brussels. It later turned up on the digital-only covers album Lunafied.</p>

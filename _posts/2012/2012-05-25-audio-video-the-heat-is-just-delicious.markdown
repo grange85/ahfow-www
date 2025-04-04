@@ -14,7 +14,7 @@ categories:
 - video
 - audio
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/7255134114/" title="Tree, BC, sky"><img src="https://live.staticflickr.com/7215/7255134114_021e815e1e_c.jpg" alt="Tree, BC, sky"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/7255134114/" title="Tree, BC, sky"><img src="https://media.fullofwishes.co.uk/flickr-downloads/7255134114_021e815e1e_c.jpg" alt="Tree, BC, sky"></a>
 
 It takes only the tiniest flurry of snow to have me digging out 'Snowstorm' or 'Listen, the Snow Is Falling' so it seems only fair that after three of four lovely days in London that I should dig out some appropriately sunny songs, so...
 

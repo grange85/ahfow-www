@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image: https://live.staticflickr.com/2555/4116448672_dd2811469f_c.jpg
+image: https://media.fullofwishes.co.uk/flickr-downloads/4116448672_dd2811469f_c.jpg
 categories:
 - dean & britta
 - video
@@ -21,7 +21,7 @@ date: 2024-11-18 00:00 +0000
 ---
 I've just come across a few videos I took back on this day fifteen years ago of Dean & Britta's show for Sonic Cathedral at St Giles in The Fields church in London.
 
-{% ahfowimage "https://live.staticflickr.com/2666/4116445924_3743ae7584_c.jpg" "Dean &amp; Britta" "https://www.flickr.com/photos/grange85/4116445924/in/album-72157622708403307" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/4116445924_3743ae7584_c.jpg" "Dean &amp; Britta" "https://www.flickr.com/photos/grange85/4116445924/in/album-72157622708403307" %}
 
 It was the first time Dean & Britta had been in London for over two years and they were joined by Cheval Sombre and Sonic Boom. Here's an extract from my review at the time:
 
@@ -37,7 +37,7 @@ It was the first time Dean & Britta had been in London for over two years and th
 
 The videos aren't perfect (I'll blame the tech of the day), but don't _sound_ too bad, and it's lovely to be reminded of such a special night.
 
-{% ahfowvideo "6G4ZlP0nhrA" "Dean & Britta - Ceremony (London, 2009)" "https://live.staticflickr.com/2555/4116448672_dd2811469f_c.jpg" %}
+{% ahfowvideo "6G4ZlP0nhrA" "Dean & Britta - Ceremony (London, 2009)" "https://media.fullofwishes.co.uk/flickr-downloads/4116448672_dd2811469f_c.jpg" %}
 
 There are clips of:
 

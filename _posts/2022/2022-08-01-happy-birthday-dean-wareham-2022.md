@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2022-08-01
-image: https://live.staticflickr.com/321/20231134722_b2c62e26ac_h.jpg
+image: https://media.fullofwishes.co.uk/flickr-downloads/20231134722_b2c62e26ac_h.jpg
 categories:
  - dean wareham
  - news
@@ -17,7 +17,7 @@ tags:
  - birthday
  - speedbumps
 ---
-{% ahfowimage "https://live.staticflickr.com/321/20231134722_b2c62e26ac_h.jpg" "Dean Warheam at The Brudenell Social Club in 2015" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/20231134722_b2c62e26ac_h.jpg" "Dean Warheam at The Brudenell Social Club in 2015" %}
 
 Shockingly it seems like an age since I did a birthday post for Dean so... here's one hastily thrown together...
 

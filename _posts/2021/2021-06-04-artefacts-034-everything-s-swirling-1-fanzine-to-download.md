@@ -18,7 +18,7 @@ tags:
  - fanzine
  - download
 ---
-{% ahfowimage "https://live.staticflickr.com/4424/36138562123_7ddb781af5_c.jpg" "Everything's Swirling" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/36138562123_7ddb781af5_c.jpg" "Everything's Swirling" %}
 Back in 2017 to celebrate the 30th anniversary of the begining of Galaxie 500 I threw together the first issue of Everything's Swirling - it was a messy, mostly hand-made affair with loads of great contributions from lots of talented fans. The initial run of 100 sold out in no time and a second run of 50 went almost as fast... and that was it - it was in the hands of 150 folk.
 
 Now, I'd been meaning to make a downloadable version but I just never got myself organised enough to do it.

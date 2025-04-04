@@ -12,7 +12,7 @@ categories:
 - luna
 - originals
 ---
-<p><a href="http://www.flickr.com/photos/deatonstreet/2525136610/" title="Dancing the Maypole Dance by deatonstreet, on Flickr"><img class="aligncenter" src="https://farm3.staticflickr.com/2122/2525136610_287d41534d_z.jpg" alt="Dancing the Maypole Dance"></a><br />
+<p><a href="http://www.flickr.com/photos/deatonstreet/2525136610/" title="Dancing the Maypole Dance by deatonstreet, on Flickr"><img class="aligncenter" src="https://media.fullofwishes.co.uk/flickr-downloads/2525136610_287d41534d_z.jpg" alt="Dancing the Maypole Dance"></a><br />
 The existence of Luna's cover of <a href="http://en.wikipedia.org/wiki/Dancing_Days">Led Zep's Dancing Days</a> was first mentioned way back in a post on the band's official web site (fuzzywuzzy.com - but I think the post got lost in one of the reboots that site got) - it didn't however see the light until the band released Close Cover Before Striking in digital form in 2011.</p>
 <p>Zeppelin's original appeared on their 1973 album <a href="http://en.wikipedia.org/wiki/Houses_of_the_Holy">Houses of the Holy</a><br />
 </p>

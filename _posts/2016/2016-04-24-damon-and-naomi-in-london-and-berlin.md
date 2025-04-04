@@ -12,14 +12,14 @@ categories:
 - damon & naomi
 - review
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26019862693/in/dateposted/" title="Damon & Naomi in Berlin"><img src="https://farm2.staticflickr.com/1602/26019862693_9d1a00b7fe_b.jpg" alt="Damon & Naomi in Berlin"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26019862693/in/dateposted/" title="Damon & Naomi in Berlin"><img src="https://media.fullofwishes.co.uk/flickr-downloads/26019862693_9d1a00b7fe_b.jpg" alt="Damon & Naomi in Berlin"></a>
 Monday I headed home after work, grabbed a bite to eat and my son and we headed to Cafe OTO for Damon & Naomi's London show of their short European tour - they'd played Stewart Lee's ATP festival in Wales the day before and were heading off for a date in Spain and one in Berlin.
 
 I was running a bit late but Chris messaged me at eight to tell me that the doors hadn't yet opened - which seemed a bit odd but was fine because it meant I wasn't going to miss the support act, Richard Youngs who once again was being joined by Damon on drums and voice.
 
 We arrived not long after the doors had opened and shuffled in next to Chris who'd got a prime spot and nabbed us a couple of seats. It was heading to 8:45 before Richard and Damon took to the stage. We were told at this point that earlier in the day Damon had had a tumble down some stairs but, like a trooper, was going to take his place on the drum stool.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26446927261/" title="Richard Youngs with Damon Krukowski"><img src="https://farm2.staticflickr.com/1710/26446927261_3839f69877_b.jpg" alt="Richard Youngs with Damon Krukowski"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26446927261/" title="Richard Youngs with Damon Krukowski"><img src="https://media.fullofwishes.co.uk/flickr-downloads/26446927261_3839f69877_b.jpg" alt="Richard Youngs with Damon Krukowski"></a>
 
 The show went well, they were playing through Richard's recent album <a href="http://glassrecordsredux.bigcartel.com/product/richard-youngs-inside-the-future-cd" target="_blank">Inside the Future</a> and Damon's contributions didn't seem to be too hampered by his fall, although he did seem a little stiffer than usual - but it didn't seem to have any negative effect on a good set.
 
@@ -50,7 +50,7 @@ Naomi also popped over and made some fanboy spill lemonade down himself - she wa
 
 Damon was retaking his position in the support act for this show and took to the stage with Richard Youngs to once again play through <em>Inside the Future</em>. However the venue had somehow failed to supply a drum kit so one had been fashioned from things found around the venue. 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26000070853/" title="berlin-2016-04-22-143"><img src="https://farm2.staticflickr.com/1535/26000070853_78c3b1b499_b.jpg" alt="Damon playing his makeshift kit with Richard Youngs"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26000070853/" title="berlin-2016-04-22-143"><img src="https://media.fullofwishes.co.uk/flickr-downloads/26000070853_78c3b1b499_b.jpg" alt="Damon playing his makeshift kit with Richard Youngs"></a>
 
 Damon sat himself behind a wooden chair, a plastic bucket, and a chrome-effect pedal bin; he also made use of various items of crockery and cutlery. The <em>kit</em> was played seriously and beautifully, without any hint that it wasn't a perfectly respectable instrument - this made the set beautifully unique and thoroughly enjoyable.
 
@@ -58,13 +58,13 @@ After <em>Inside the Future</em> Richard finished his set a capella with quizzin
 
 Damon & Naomi took to the stage played a short <em>prologue</em> set of oldies, opening with {% ahfowtrack "Judah and the Maccabees" %}, and including {% ahfowtrack "Turn Of The Century" %}, {% ahfowtrack "Lilac Land" %}, {% ahfowtrack "How Do I Say Goodbye" %}, {% ahfowtrack "Helsinki" %} - and sprinkled with Damon filling in the audience with the grizzly details of their London adventure.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26603301415/in/photostream/" title="berlin-2016-04-22-170"><img src="https://farm2.staticflickr.com/1609/26603301415_fdac576ee0_b.jpg" alt="berlin-2016-04-22-170"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26603301415/in/photostream/" title="berlin-2016-04-22-170"><img src="https://media.fullofwishes.co.uk/flickr-downloads/26603301415_fdac576ee0_b.jpg" alt="berlin-2016-04-22-170"></a>
 
 Then they played through Fortune - it was my third screening of Fortune and the film is still beautiful (and baffling) and the songs are gorgeous - the album stands beautifully on its own and {% ahfowtrack "The North Light" %} is right up there with my favourite Damon & Naomi songs.
 
 We were then treated to an <em>epilogue</em> of covers - firstly a blissful {% ahfowtrack "Listen, the Snow Is Falling" %} and closing out the set with a divine cover of Sandy Denny's {% ahfowtrack "No More Sad Refrains" %}.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26597556286" title="3ca0141f-3ba5-4e9b-92fe-5fdd91f996b5"><img src="https://farm2.staticflickr.com/1528/26597556286_caf584ac19_b.jpg" alt="3ca0141f-3ba5-4e9b-92fe-5fdd91f996b5"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26597556286" title="3ca0141f-3ba5-4e9b-92fe-5fdd91f996b5"><img src="https://media.fullofwishes.co.uk/flickr-downloads/26597556286_caf584ac19_b.jpg" alt="3ca0141f-3ba5-4e9b-92fe-5fdd91f996b5"></a>
 
 We said our goodbyes and slipped quietly into the Berlin night.
 {% ahfowvideo "wzE-qoNw_7E" "Damon & Naomi - No More Sad Refrains (Sandy Denny cover)" %}

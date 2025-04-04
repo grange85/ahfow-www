@@ -12,7 +12,7 @@ categories:
 tags:
 flickr: true
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/missouristatearchives/8598934010/" title="Soda Fountain (MSA)"><img src="https://live.staticflickr.com/8237/8598934010_5c45df00bd_c.jpg" alt="Soda Fountain (MSA)"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/missouristatearchives/8598934010/" title="Soda Fountain (MSA)"><img src="https://media.fullofwishes.co.uk/flickr-downloads/8598934010_5c45df00bd_c.jpg" alt="Soda Fountain (MSA)"></a>
 
 Funny... Took a Coke? Was Dean corrupting my mind? I thought he was talking about Coca-Cola when I first heard the song when I was clean cut teenager. They sell Coca-Cola in drugstores too right?
 

@@ -15,7 +15,7 @@ categories:
 <em>Dean</em> was in the studio finishing up his solo album with Jim James of My Morning Jacket - the album will finally get a release on Sonic Cathedral and Double Feature in March 2014<br />
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/jim-james-dean-wareham.jpg" class /><figcaption class="caption-text"> Jim James and Dean Wareham at La La Land (photo: Britta)</figcaption></figure>
 <p><a href="/2013/01/27/damon-naomi-with-richard-youngs-in-london-video-and-photos/" title="Damon & Naomi with Richard Youngs in London (video and photos)"><em>Damon & Naomi</em> played at Cafe OTO in London</a> supporting Richard Youngs and, in Damon's case, being Richard Youngs' band.<br />
-<a href="http://www.flickr.com/photos/grange85/8417737727/" title="Damon & Naomi by andyaldridge, on Flickr"><img class="aligncenter" src="https://farm9.staticflickr.com/8089/8417737727_e76c965aee_z.jpg" alt="Damon & Naomi"></a></p>
+<a href="http://www.flickr.com/photos/grange85/8417737727/" title="Damon & Naomi by andyaldridge, on Flickr"><img class="aligncenter" src="https://media.fullofwishes.co.uk/flickr-downloads/8417737727_e76c965aee_z.jpg" alt="Damon & Naomi"></a></p>
 <p><em>A Head Full of Wishes</em> kicked off the <a href="/category/originals/">"Originals" series of posts</a> highlighting the original versions of the many tracks covered by Galaxie 500, Luna, Damon & Naomi and Dean & Britta over the years. <a href="/category/originals/">By the end of 2013 there would have been 50 posts</a>!<br />
 <a id="more"></a><a id="more-4957"></a><br />
 <strong>February 2013</strong><br />
@@ -38,7 +38,7 @@ Electronic music producer and <a href="/2013/03/27/scott-hardkiss/" title="Scott
 <blockquote><p> closer in spirit to the psychedelic record the duo and he had previously recorded together, More Sad Hits. When Damon & Naomi asked for changes, the mercurial Kramer — Phil Spector of indie rock — flew into one of his famous rages, insisting the album was already as it should be</p></blockquote>
 <p><strong>May 2013</strong><br />
 The long, long overdue <a href="http://www.amazon.com/gp/product/1891241567/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1891241567&linkCode=as2&tag=aheadfullofwi-20">Temperature's Rising: An Oral History of Galaxie 500</a> finally got published, some editions came with a <a href="http://damonandnaomi.com/shop/galaxie-500-temperatures-rising-7/">7" single that you can now buy separately</a> from Damon & Naomi.<br />
-<a href="http://www.flickr.com/photos/grange85/8698854358/" title="On my lap by andyaldridge, on Flickr"><img class="aligncenter" src="https://farm9.staticflickr.com/8407/8698854358_f19440d6d2_z.jpg" alt="On my lap"></a></p>
+<a href="http://www.flickr.com/photos/grange85/8698854358/" title="On my lap by andyaldridge, on Flickr"><img class="aligncenter" src="https://media.fullofwishes.co.uk/flickr-downloads/8698854358_f19440d6d2_z.jpg" alt="On my lap"></a></p>
 <p>The Noah Baumbach film Frances Ha gets a limited release and features<a href="http://oblivious.fullofwishes.co.uk/post/69369402681/srlansky-dean-wareham-and-britta-phillips-on"> dinner party performances from Dean & Britta</a> and a Britta Phillips track on the soundtrack (credited to Dean & Britta).<br />
 </p>
 {% ahfowvideo "qNyjPxW2wT4" "" %}

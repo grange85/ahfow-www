@@ -9,7 +9,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2017-01-09
-image: https://c4.staticflickr.com/6/5676/30179539435_f0e7564aaa_c.jpg
+image: https://media.fullofwishes.co.uk/flickr-downloads/5676/30179539435_f0e7564aaa_c.jpg
 categories:
  - luna
  - damon & naomi
@@ -17,7 +17,7 @@ tags:
  - britta phillips
 longpost: true
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/30107025742/" title="Arcade"><img src="https://c7.staticflickr.com/6/5061/30107025742_bfd1eee3c5_c.jpg" alt="Arcade"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/30107025742/" title="Arcade"><img src="https://media.fullofwishes.co.uk/flickr-downloads/5061/30107025742_bfd1eee3c5_c.jpg" alt="Arcade"></a>
 <p class="lead">A wee bit later than planned but here's a quick summary of what happened in the world of AHFoW during 2016 (I've missed out plenty so feel free to poke around the site for loads of words, pictures, videos and audios!</p>
 <h2>January</h2>
 <p>Magic Hour - the band that Damon & Naomi were in with Kate and Wayne of Crytsalized Movements/Twisted Village put their <a href="https://magic-hour.bandcamp.com/">entire catalogue on Bandcamp</a> including a new collection of non album tracks - Magic Monents.</p>
@@ -34,7 +34,7 @@ longpost: true
 <p>In April I almost saw Damon & Naomi in London except Damon ended up in the care of our NHS&hellip;</p>
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/2016-04-19-damon-and-naomi-hospital.jpg" alt="Damon in London" /><figcaption class="caption-text">Damon in London</figcaption></figure>
 <p>&hellip; and then did see them in Berlin:</p>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26019862693/in/dateposted/" title="Damon & Naomi in Berlin"><img src="https://c6.staticflickr.com/2/1602/26019862693_9d1a00b7fe_c.jpg" alt="Damon & Naomi in Berlin"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26019862693/in/dateposted/" title="Damon & Naomi in Berlin"><img src="https://media.fullofwishes.co.uk/flickr-downloads/1602/26019862693_9d1a00b7fe_c.jpg" alt="Damon & Naomi in Berlin"></a>
 <h2>May</h2>
 <p>In May Luna were back on the road - you can watch a 360&deg; video of them playing Friendly Advice</p>
 {% ahfowvideo "Ue-ba-QHa2Q" "Luna play Friendly Advice - 360&deg;" %}
@@ -68,7 +68,7 @@ longpost: true
   "sourceurl": "/2016/10/04/luna-cover-motorheads-killed-by-death/",
   "sourcecap": "Luna covers Mot&ouml;rhead’s “Killed By Death”"
   } %}<p>Luna also crossed the pond for dates in the UK, Belgium and France.</p>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/29592462313/in/album-72157671522191684/" title="Luna on stage at Butlins, Bognor Regis"><img src="https://c2.staticflickr.com/6/5803/29592462313_05a4a4152d_c.jpg" alt="Luna on stage at Butlins, Bognor Regis"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/29592462313/in/album-72157671522191684/" title="Luna on stage at Butlins, Bognor Regis"><img src="https://media.fullofwishes.co.uk/flickr-downloads/5803/29592462313_05a4a4152d_c.jpg" alt="Luna on stage at Butlins, Bognor Regis"></a>
 
 <h2>November</h2>
 <p>November was quiet so I idly started picking my <a href="/category/favourite-galaxie-500-covers/">favourite Galaxie 500 covers</a> (that's other people covering Galaxie 500 not Galaxie 500 covering other people!)</p>
@@ -82,6 +82,6 @@ longpost: true
 <p>And that was it - another busy year - thanks to Dean and Damon & Naomi for keeping on doing amazing things and keeping me in a near full time hobby. Thanks to all the brilliant fans who I'm proud to be one of - who make being fans of Galaxie 500, Luna and Damon & Naomi (&c.) a wonderful thing to be a part of.</p>
 <p>2017 will see Damon's book, hopefully the much hinted at Luna covers album and/or Dean's album of "cowboy songs" with Cheval Sombre. And with any luck more gigs to go to and fans to hang with.</p>
 <p>It's been a blast - thank you all so much!</p>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/30179539435/" title="Loitering in the fans room backstage at the o2 Academy"><img src="https://c4.staticflickr.com/6/5676/30179539435_f0e7564aaa_c.jpg" alt="Loitering in the fans room backstage at the o2 Academy"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/30179539435/" title="Loitering in the fans room backstage at the o2 Academy"><img src="https://media.fullofwishes.co.uk/flickr-downloads/5676/30179539435_f0e7564aaa_c.jpg" alt="Loitering in the fans room backstage at the o2 Academy"></a>
 
 

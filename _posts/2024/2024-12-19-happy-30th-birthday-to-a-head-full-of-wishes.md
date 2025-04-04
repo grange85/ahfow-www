@@ -88,7 +88,7 @@ There's a list of [posts by Joakim](/authors/) here, where you can also find a f
 
 Joakim's AHFoW posts, plus more, and some by Ulrika, plus lots of photos, were compiled into a lovely paperback book - A Strange Fascination. You can possibly [still get a copy from Joakim](https://www.facebook.com/astrangefascination/).
 
-{% ahfowimage "https://live.staticflickr.com/4507/36901266143_699d5d3594_c.jpg" "A Strange Fascination" "https://www.flickr.com/photos/grange85/36901266143/in/photolist-YafCRu-YdQCNB" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/36901266143_699d5d3594_c.jpg" "A Strange Fascination" "https://www.flickr.com/photos/grange85/36901266143/in/photolist-YafCRu-YdQCNB" %}
 
 I'm still open to guest posts [please get in touch](/about/).
 

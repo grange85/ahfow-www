@@ -26,4 +26,4 @@ categories:
 
 {% ahfowvideo "wyeUwOGPIuo" "" %}
 
-<p><a href="http://www.flickr.com/photos/shangai_produzione/3331817856/" title="ceremony by banned, on Flickr"><img class="aligncenter" src="https://farm4.staticflickr.com/3617/3331817856_8f2e0a31fa.jpg" alt="ceremony"></a></p>
+<p><a href="http://www.flickr.com/photos/shangai_produzione/3331817856/" title="ceremony by banned, on Flickr"><img class="aligncenter" src="https://media.fullofwishes.co.uk/flickr-downloads/3331817856_8f2e0a31fa.jpg" alt="ceremony"></a></p>

@@ -19,7 +19,7 @@ flickr: true
 ---
 ## Dean Wareham has recorded some commentary on Galaxie 500's masterpiece On Fire for Pandora
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/14966010204/in/photolist-2g4iCWS-psWdjt-oNuHqG-Rb46d4-2dib5rW-2bMbbwH-2bBJXcg-MEniNo-Q4c6BD-CmbUHa-qbZ9qj-pwMyUg-qrghG1-dQ8t3z-dQ84ZX-5H4mv9" title="Galaxie 500 - On Fire"><img src="https://live.staticflickr.com/3943/14966010204_c004905dfe_c.jpg" alt="Galaxie 500 - On Fire"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/14966010204/in/photolist-2g4iCWS-psWdjt-oNuHqG-Rb46d4-2dib5rW-2bMbbwH-2bBJXcg-MEniNo-Q4c6BD-CmbUHa-qbZ9qj-pwMyUg-qrghG1-dQ8t3z-dQ84ZX-5H4mv9" title="Galaxie 500 - On Fire"><img src="https://media.fullofwishes.co.uk/flickr-downloads/14966010204_c004905dfe_c.jpg" alt="Galaxie 500 - On Fire"></a>
 
 The streaming music service Pandora currently has a playlist where Dean chats about the making of On Fire. I think the playlist is for subscribers only but if you aren't subscribed you can sign up for a free 60 day trial. Non-US users might need to find a way of preteending they're from the US - but that's not hard - and a PayPal account and GMail address and a Zip code are all fairly easy to come by :)
 

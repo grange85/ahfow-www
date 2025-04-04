@@ -19,13 +19,13 @@ categories:
 {% ahfowvideo "x_XK0nyRLr0" "Luna playing Pup Tent" %}
 <p>Setlist</p>
 <h3>18 April 2015: Luna – Escenario Santander, Santander</h3>
-<p><a href="https://www.flickr.com/photos/city_kitty/17167048956" title="Night 2. #lunareunion by city kitty, on Flickr"><img src="https://farm8.staticflickr.com/7604/17167048956_a5b1304ea6_z.jpg" alt="Night 2. #lunareunion"></a><br />
+<p><a href="https://www.flickr.com/photos/city_kitty/17167048956" title="Night 2. #lunareunion by city kitty, on Flickr"><img src="https://media.fullofwishes.co.uk/flickr-downloads/17167048956_a5b1304ea6_z.jpg" alt="Night 2. #lunareunion"></a><br />
 Setlist</p>
 <h3>19 April 2015: Luna – Teatre de Lloseta, Lloseta, Mallorca</h3>
 {% ahfowvideo "sxDeNNgSFlE" "" %}
 <p>Setlist</p>
 <h3>20 April 2015: Luna – Teatro Lara, Madrid</h3>
-<p><a href="https://www.flickr.com/photos/-christoph-/16612647523" title="Luna live... by Christoph!, on Flickr"><img src="https://farm8.staticflickr.com/7705/16612647523_57d1c59ca2_z.jpg" alt="Luna live..."></a><br />
+<p><a href="https://www.flickr.com/photos/-christoph-/16612647523" title="Luna live... by Christoph!, on Flickr"><img src="https://media.fullofwishes.co.uk/flickr-downloads/16612647523_57d1c59ca2_z.jpg" alt="Luna live..."></a><br />
 Setlist</p>
 <h3>21 April 2015: Luna – Teatro Lara, Madrid</h3>
 Setlist</p>

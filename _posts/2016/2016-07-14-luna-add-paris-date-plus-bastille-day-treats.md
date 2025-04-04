@@ -7,7 +7,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2016-07-14'
-image: https://c8.staticflickr.com/8/7077/7010719271_da9a7857f6_b.jpg
+image: https://media.fullofwishes.co.uk/flickr-downloads/7077/7010719271_da9a7857f6_b.jpg
 categories:
 - luna
 - news
@@ -20,7 +20,7 @@ description: >
 longpost: true
 ---
 <p class="lead">Luna have announced that they will play a date in Paris on the 12th October.</p>
-<figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/rejik/7010719271/in/photolist-bFvLAc-7p5Smr-azcnQA-2Hby4-jhCbB4-5k78Ho-Ggqzs-hKHJPA-7LL3tk-68rK4q-FywMH-FywKc-FywLi-faVBLf-JENfNn-ACj21r-6JaPvH-BDeoFV-7hkV8W-gLTVJ3-7oBHou-feYWV2-2Wb7Qi-9oNqg5-4f9hY1-8nqsdJ-j3FZYW-6eXFao-pqpF2Z-gkwXP7-9bhaPi-itjpLC-8zdfP6-2ixBmN-7xrPvt-k2zS8e-6vgTrE-2NHzF-5sZ8RJ-6Y9uVo-5ct7xY-dfyZm-dTGvV7-8mVwLt-3gP2as-7ysJu-4gb8Di-8mVwfn-pdpwt8-pkD5ap" title="Eiffel Tower On A Moon Lit Night."><img src="https://c8.staticflickr.com/8/7077/7010719271_da9a7857f6_b.jpg" alt="Eiffel Tower On A Moon Lit Night."></a><figcaption>Eiffel Tower and Luna</figcaption></figure>
+<figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/rejik/7010719271/in/photolist-bFvLAc-7p5Smr-azcnQA-2Hby4-jhCbB4-5k78Ho-Ggqzs-hKHJPA-7LL3tk-68rK4q-FywMH-FywKc-FywLi-faVBLf-JENfNn-ACj21r-6JaPvH-BDeoFV-7hkV8W-gLTVJ3-7oBHou-feYWV2-2Wb7Qi-9oNqg5-4f9hY1-8nqsdJ-j3FZYW-6eXFao-pqpF2Z-gkwXP7-9bhaPi-itjpLC-8zdfP6-2ixBmN-7xrPvt-k2zS8e-6vgTrE-2NHzF-5sZ8RJ-6Y9uVo-5ct7xY-dfyZm-dTGvV7-8mVwLt-3gP2as-7ysJu-4gb8Di-8mVwfn-pdpwt8-pkD5ap" title="Eiffel Tower On A Moon Lit Night."><img src="https://media.fullofwishes.co.uk/flickr-downloads/7077/7010719271_da9a7857f6_b.jpg" alt="Eiffel Tower On A Moon Lit Night."></a><figcaption>Eiffel Tower and Luna</figcaption></figure>
 <p>The band will play their first date in Paris since 2002 at Petit Bain.</p>
 <table class="table table-striped">
         <tbody>

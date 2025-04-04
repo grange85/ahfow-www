@@ -5,7 +5,7 @@ title: "On Fire - side 1, track 5: When Will You Come Home"
 author:
   display_name: Andy
 date: 2019-10-09
-image: https://live.staticflickr.com/3938/15604180481_0917e51091_c.jpg
+image: https://media.fullofwishes.co.uk/flickr-downloads/15604180481_0917e51091_c.jpg
 categories:
  - galaxie 500
  - on-fire-30
@@ -17,7 +17,7 @@ flickr: true
 > Dean Wareham - Black Postcards (The Penguin Press, 2008)
 
 For research I sat and watched Kojak on my own, on my phone a few weeks back!
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/15604180481/in/photolist-pLTvdv-2E3CZ" title="Watching YouTube all alone, watching Kojak on my phone"><img src="https://live.staticflickr.com/3938/15604180481_0917e51091_c.jpg" alt="Watching YouTube all alone, watching Kojak on my phone"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/15604180481/in/photolist-pLTvdv-2E3CZ" title="Watching YouTube all alone, watching Kojak on my phone"><img src="https://media.fullofwishes.co.uk/flickr-downloads/15604180481_0917e51091_c.jpg" alt="Watching YouTube all alone, watching Kojak on my phone"></a>
 
 ... frankly there's very little I won't do in the name of AHFoW
 

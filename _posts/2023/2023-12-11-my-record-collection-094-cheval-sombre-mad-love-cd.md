@@ -30,7 +30,7 @@ Shortly after the release of this album Cheval Sombre played a lovely show at St
 <a href="https://www.flickr.com/photos/grange85/8209837389/in/album-72157632080412568/" title="Cheval Sombre with Sonic Boom"><img src="" alt="Cheval Sombre with Sonic Boom"/></a>
 
 
-{% ahfowimage "https://live.staticflickr.com/8202/8209837389_7f9c9a9bd7_c.jpg" "... this was my view!" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/8209837389_7f9c9a9bd7_c.jpg" "... this was my view!" %}
 
 The show was recorded for posterity and released on a limited edition cassette by Sonic Cathedral and a photograph of the show from my position was used on the sleeve. There are more of my [pictures from the show on Flickr](https://www.flickr.com/photos/grange85/albums/72157632080412568/with/8209836725/).
 

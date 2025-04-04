@@ -10,7 +10,7 @@ date: '2015-07-31'
 categories:
 - luna
 ---
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/20160306802/in/dateposted-public/" title="Luna in Brighton"><img src="https://farm1.staticflickr.com/329/20160306802_f67815d11e_b.jpg" alt="Luna in Brighton"></a></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/20160306802/in/dateposted-public/" title="Luna in Brighton"><img src="https://media.fullofwishes.co.uk/flickr-downloads/20160306802_f67815d11e_b.jpg" alt="Luna in Brighton"></a></p>
 <p>Wednesday evening sitting in a holiday cottage in Derbyshire with one full day of our holiday left. </p>
 <p>"What shall we do tomorrow?" asks Hazel. </p>
 <p>"Well" I reply hesitantly, "we could go home and then I could go and see Luna in Brighton?" </p>
@@ -27,5 +27,5 @@ categories:
 <p>The pictures are a little ropey - I'm sure others will have better ones. Keep your eyes peeled on Instagram and Flickr.</p>
 <p>You can now follow Luna on <a href="https://twitter.com/luna_theband">Twitter</a> (as well as <a href="https://instagram.com/luna_nyc/">Instagram</a> and <a href="https://www.facebook.com/Luna.Official.Bandpage">Facebook</a>).</p>
 <p><a href="/database/luna/shows/2015/2015-07-31-luna-the-garage-london-uk">London tonight</a> - if you're nearby and haven't made up your mind this is one you'd be silly to miss!</p>
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/19980555898/in/datetaken/" title="Flowers, now with four times as many bass strings #flowers"><img src="https://farm1.staticflickr.com/508/19980555898_d7a6edee62_b.jpg" alt="Flowers, now with four times as many bass strings #flowers"></a></p>
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/20168429785/in/dateposted-public/" title="Luna in Brighton"><img src="https://farm1.staticflickr.com/498/20168429785_06d690e964_b.jpg" alt="Luna in Brighton"></a></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/19980555898/in/datetaken/" title="Flowers, now with four times as many bass strings #flowers"><img src="https://media.fullofwishes.co.uk/flickr-downloads/19980555898_d7a6edee62_b.jpg" alt="Flowers, now with four times as many bass strings #flowers"></a></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/20168429785/in/dateposted-public/" title="Luna in Brighton"><img src="https://media.fullofwishes.co.uk/flickr-downloads/20168429785_06d690e964_b.jpg" alt="Luna in Brighton"></a></p>

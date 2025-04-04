@@ -14,7 +14,7 @@ categories:
 - cagney & lacee
 - lost tracks
 ---
-<p><a href="http://www.flickr.com/photos/sinorfavela/477271465/" title="blue hair orange sea by sinor favela / fotos voladoras, on Flickr"><img class="aligncenter" src="https://farm1.staticflickr.com/205/477271465_2394f20c4e_z.jpg?zz=1" alt="blue hair orange sea"></a></p>
+<p><a href="http://www.flickr.com/photos/sinorfavela/477271465/" title="blue hair orange sea by sinor favela / fotos voladoras, on Flickr"><img class="aligncenter" src="https://media.fullofwishes.co.uk/flickr-downloads/477271465_2394f20c4e_z.jpg?zz=1" alt="blue hair orange sea"></a></p>
 <p>Cagney & Lacee was Dean Wareham and his (then) wife Claudia Silver. They released an album and a couple of singles between 1996 and 1998. The album, Six Feet of Chain was described on the sleeve as "[an] album of cover versions lovingly performed by Dean Wareham and Claudia Silver" and featured covers of tracks by Lee Hazlewood and Minnie Ripperton as well as a couple of tracks from the (excellent) <a href="http://en.wikipedia.org/wiki/Nashville_(1975_film)">Robert Altman film Nashville</a>.</p>
 <p>The couple's last release was put out on the excellent UK label <a href="http://www.earwormrecords.com/">Earworm</a> as part of their subscription only singles club and featured a cover of Madonna's Borderline as well as the only Cagney & Lacee original to have seen the light of day.</p>
 <p>So here, for your enjoyment is that Silver/Wareham penned track - "Orange."</p>

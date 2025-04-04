@@ -15,7 +15,7 @@ categories:
 
 Amsterdam, coffee shops, Chokomel. It's good to be in Amsterdam.
 
-{% ahfowimage "https://c3.staticflickr.com/2/1278/913008434_9b2dc78dba_o.jpg" "I had to look it up" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/1278/913008434_9b2dc78dba_o.jpg" "I had to look it up" %}
 
 _In April 1993 Luna were invited to open for The Velvet Underground on their reunion tour around Europe. Dean Wareham kept a diary of the tour which was published in the November 1993 issue of Alternative Press, I've just lifted that article and chopped it up into days and will post it here over the coming days - all without permission - if anyone objects give me a shout._
 {: .text-muted}

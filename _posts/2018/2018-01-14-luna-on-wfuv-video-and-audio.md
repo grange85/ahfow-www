@@ -17,7 +17,7 @@ tags:
  - wfuv
  - live show
 ---
-{% ahfowimage "https://farm5.staticflickr.com/4562/37829938064_31c20e24e8_c.jpg" "Luna" "https://www.flickr.com/photos/wfuv/37829938064/in/album-72157689843893715/" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/37829938064_31c20e24e8_c.jpg" "Luna" "https://www.flickr.com/photos/wfuv/37829938064/in/album-72157689843893715/" %}
 
 This week Luna kicked off the next US leg of their ongoing 'reunion' (when does it stop being that?) and to coincide WFUV have <a href="http://www.wfuv.org/content/luna-2018">broadcast the session that the band recorded</a> when they were in NYC on the last leg back in November.
 The set included the first public outing of their cover of Sweetness by Yes.

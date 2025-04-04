@@ -17,7 +17,7 @@ tags:
 - cover
 - ride into the sun
 ---
-<p><a href="https://www.flickr.com/photos/denever_new/10058897163" title="Facing the rails by Giuseppe Martino™, on Flickr"><img class="aligncenter" src="https://farm3.staticflickr.com/2850/10058897163_712f2889fc_z.jpg" alt="Facing the rails"></a></p>
+<p><a href="https://www.flickr.com/photos/denever_new/10058897163" title="Facing the rails by Giuseppe Martino™, on Flickr"><img class="aligncenter" src="https://media.fullofwishes.co.uk/flickr-downloads/10058897163_712f2889fc_z.jpg" alt="Facing the rails"></a></p>
 <p>Ride Into the Sun never made it onto any of The Velvet Underground's official releases until, I believe, their posthumous Another View compilation was released in 1986, the version on that was an istrumental version recorded in 1969, an earlier version, with vocals, had turned up on the 1993 Australian box set, and an out-take from the Loaded sessions made it onto the Peel Slowly and See box set. There are also live versions kicking around, notably on the Quine Tapes.</p>
 <p>I'm not going to try and work out what we have here... and when it was recorded because I haven't listened that closely and it's a can of worms I'm not ready to open (anyone is welcome to correct my guesses!)...</p>
 <p>Instrumental (I think this is the 1969 version from Another View)<br />

@@ -13,7 +13,7 @@ categories:
 - damon & naomi
 - originals
 ---
-<p><a href="https://www.flickr.com/photos/recessactivitiesinc/8492832065" title="Rutherford Chang: We Buy White Albums by Recess, on Flickr"><img class="aligncenter" src="https://farm9.staticflickr.com/8089/8492832065_8806e23ea4_z.jpg" alt="Rutherford Chang: We Buy White Albums"></a><br />
+<p><a href="https://www.flickr.com/photos/recessactivitiesinc/8492832065" title="Rutherford Chang: We Buy White Albums by Recess, on Flickr"><img class="aligncenter" src="https://media.fullofwishes.co.uk/flickr-downloads/8492832065_8806e23ea4_z.jpg" alt="Rutherford Chang: We Buy White Albums"></a><br />
 George Harrison's While My Guitar Gently Weeps was originally released by The Beatles on The Beatles (aka The White Album) in 1968<br />
 
 

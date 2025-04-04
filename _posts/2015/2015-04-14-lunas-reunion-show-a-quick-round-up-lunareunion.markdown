@@ -12,7 +12,7 @@ categories:
 - news
 ---
 <p>Here’s a quick round up of what I’ve found so far… but now I’m at work!! Please feel free to <a href="/about/" title="Contact me">email me</a>, add comments, or <a href="http://twitter.com/ahfow">tweet me</a> if you find anything more!</p>
-<p><a href="https://www.flickr.com/photos/bobbyshih/16940925877" title="Luna / Winter (13-Apr-2015) at the Echo by Bobby Shih, on Flickr"><img class="aligncenter" src="https://farm8.staticflickr.com/7711/16940925877_038332a296_z.jpg" alt="Luna / Winter (13-Apr-2015) at the Echo"></a></p>
+<p><a href="https://www.flickr.com/photos/bobbyshih/16940925877" title="Luna / Winter (13-Apr-2015) at the Echo by Bobby Shih, on Flickr"><img class="aligncenter" src="https://media.fullofwishes.co.uk/flickr-downloads/16940925877_038332a296_z.jpg" alt="Luna / Winter (13-Apr-2015) at the Echo"></a></p>
 <p><a id="more"></a><a id="more-13697"></a></p>
 <h3 id="setlist">Setlist</h3>
 <ul>
@@ -48,7 +48,7 @@ categories:
 
 <h3 id="pics">Some pictures</h3>
 <p><a href="https://www.flickr.com/photos/bobbyshih/sets/72157651553332728/">Luna / Winter (13-Apr-2015) at the Echo by bobbyshih on Flickr</a><br />
-<a href="https://www.flickr.com/photos/bobbyshih/17148179175" title="Luna / Winter (13-Apr-2015) at the Echo by Bobby Shih, on Flickr"><img class="aligncenter" src="https://farm8.staticflickr.com/7643/17148179175_563af26338_z.jpg" alt="Luna / Winter (13-Apr-2015) at the Echo"></a><br />
-<a href="https://www.flickr.com/photos/bobbyshih/16957255399" title="First #Luna show in 10 years #blackandwhitephotography #blackandwhite by Bobby Shih, on Flickr"><img class="aligncenter" src="https://farm9.staticflickr.com/8796/16957255399_5dfb36c91c_z.jpg" alt="First #Luna show in 10 years #blackandwhitephotography #blackandwhite"></a></p>
+<a href="https://www.flickr.com/photos/bobbyshih/17148179175" title="Luna / Winter (13-Apr-2015) at the Echo by Bobby Shih, on Flickr"><img class="aligncenter" src="https://media.fullofwishes.co.uk/flickr-downloads/17148179175_563af26338_z.jpg" alt="Luna / Winter (13-Apr-2015) at the Echo"></a><br />
+<a href="https://www.flickr.com/photos/bobbyshih/16957255399" title="First #Luna show in 10 years #blackandwhitephotography #blackandwhite by Bobby Shih, on Flickr"><img class="aligncenter" src="https://media.fullofwishes.co.uk/flickr-downloads/16957255399_5dfb36c91c_z.jpg" alt="First #Luna show in 10 years #blackandwhitephotography #blackandwhite"></a></p>
 <p>Quite a few pictures on Instagram if you have a hunt round...</p>
 

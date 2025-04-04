@@ -49,6 +49,6 @@ tags:
   "sourceurl": "/database/luna/shows/1992/1992-02-27-luna-underworld-london-uk/",
   "sourcecap": "27 February 1992 - Luna - Underworld, London, UK"
   } %}
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/32980722082/in/dateposted/" title="LUNA - UNDERWORLD FEB &#x27;92"><img src="https://c1.staticflickr.com/1/614/32980722082_1f5057762a_c.jpg" alt="LUNA - UNDERWORLD FEB &#x27;92"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/32980722082/in/dateposted/" title="LUNA - UNDERWORLD FEB &#x27;92"><img src="https://media.fullofwishes.co.uk/flickr-downloads/614/32980722082_1f5057762a_c.jpg" alt="LUNA - UNDERWORLD FEB &#x27;92"></a>
 
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1992_b.jpg" alt="Luna - 1992 promo" /><figcaption class="caption-text">Luna - 1992 promo</figcaption></figure>

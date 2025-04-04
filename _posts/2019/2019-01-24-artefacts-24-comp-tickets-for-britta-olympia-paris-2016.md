@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2020-01-24
-image: https://live.staticflickr.com/5461/30278285222_da54ae55fe_c.jpg
+image: https://media.fullofwishes.co.uk/flickr-downloads/30278285222_da54ae55fe_c.jpg
 categories:
  - artefacts
  - dean & britta
@@ -18,7 +18,7 @@ tags:
 flickr: true
 longpost: false
 ---
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/30278285222/in/photolist-N8A8jo-H4Fzqo-9LnB33-9LnB8h-9LjPbp" title="While @britta_phillips didn&#x27;t make it onto the marquee or the poster she did make it onto the tickets, and like Cher and Madonna she only needs one name!"><img src="https://live.staticflickr.com/5461/30278285222_da54ae55fe_c.jpg" alt="While @britta_phillips didn&#x27;t make it onto the marquee or the poster she did make it onto the tickets, and like Cher and Madonna she only needs one name!"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/30278285222/in/photolist-N8A8jo-H4Fzqo-9LnB33-9LnB8h-9LjPbp" title="While @britta_phillips didn&#x27;t make it onto the marquee or the poster she did make it onto the tickets, and like Cher and Madonna she only needs one name!"><img src="https://media.fullofwishes.co.uk/flickr-downloads/30278285222_da54ae55fe_c.jpg" alt="While @britta_phillips didn&#x27;t make it onto the marquee or the poster she did make it onto the tickets, and like Cher and Madonna she only needs one name!"></a>
 
 Luna finished their 2016 European tour on a boat in Paris and while the rest of the band headed home Dean and Britta (and Hazel and I) hung around for a couple of days as Britta was doing a solo show supporting Keren Ann at the legendary Olympia. Today's artefacts are my comp tickets for the show.
 
@@ -32,7 +32,7 @@ I had actually already bought tickets for the show which is why [my pics](https:
 
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/09-britta-phillips/pictures/britta-getting-nervous-2016-10-15.jpg" alt="Britta with her setlist before the show" /><figcaption class="caption-text">Britta with her setlist before the show</figcaption></figure>
 
-<figure class="caption aligncenter"><a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/29764173474/in/album-72157675250349246/" title="Britta"><img src="https://live.staticflickr.com/8560/29764173474_49433864b9_b.jpg" alt="Britta"></a><figcaption class="caption-text">Britta on stage at L'Olympia Paris, 2016</figcaption></figure>
+<figure class="caption aligncenter"><a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/29764173474/in/album-72157675250349246/" title="Britta"><img src="https://media.fullofwishes.co.uk/flickr-downloads/29764173474_49433864b9_b.jpg" alt="Britta"></a><figcaption class="caption-text">Britta on stage at L'Olympia Paris, 2016</figcaption></figure>
 
 ---
 

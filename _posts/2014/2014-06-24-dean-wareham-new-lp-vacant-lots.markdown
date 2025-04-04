@@ -13,7 +13,7 @@ tags:
 - extracurricular
 - the vacant lots
 ---
-<p><figure class="caption aligncenter"><a href="https://www.flickr.com/photos/grange85/14313626049" title=""Guitars on Tomorrow by Dean Wareham #thevacantlots #deanwareham #vinyl #lp #record by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://farm6.staticflickr.com/5529/14313626049_89a7685d4b_z.jpg" alt=""Guitars on Tomorrow by Dean Wareham #thevacantlots #deanwareham #vinyl #lp #record"></a><figcaption class="caption-text">Guitars on Departure by Dean Wareham</figcaption></figure><br />
+<p><figure class="caption aligncenter"><a href="https://www.flickr.com/photos/grange85/14313626049" title=""Guitars on Tomorrow by Dean Wareham #thevacantlots #deanwareham #vinyl #lp #record by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://media.fullofwishes.co.uk/flickr-downloads/14313626049_89a7685d4b_z.jpg" alt=""Guitars on Tomorrow by Dean Wareham #thevacantlots #deanwareham #vinyl #lp #record"></a><figcaption class="caption-text">Guitars on Departure by Dean Wareham</figcaption></figure><br />
 Sonic Cathedral are releasing the new LP by The Vacant Lots next week. The album, Departure, features Dean Wareham on guitars on the track Tomorrow.</p>
 <p>You can <a href="http://soniccathedral.bigcartel.com/product/scr080lp-the-vacant-lots-departure-lp">order the LP direct from Sonic Cathedral</a>, or from all the usual suspects and initial copies from certain outlets will have a free bonus CD of singles, remixes and demos.</p>
 <p><a target="_blank" href="http://www.amazon.co.uk/gp/search/?ie=UTF8&camp=1634&creative=19450&index=blended&keywords=the%20vacant%20lots%20departure&linkCode=ur2&oe=utf-8&tag=aheadfullofwi-21">Buy Departure by The Vacant Lots from Amazon UK</a><br />

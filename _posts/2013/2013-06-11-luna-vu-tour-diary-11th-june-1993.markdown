@@ -12,7 +12,7 @@ categories:
 - velvet underground tour diary
 ---
 ## 11th June
-{% ahfowimage "https://farm1.staticflickr.com/96/241601749_08d546579a_z.jpg" "machines (cc) estherase, on Flickr" "http://www.flickr.com/photos/estherase/241601749/" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/241601749_08d546579a_z.jpg" "machines (cc) estherase, on Flickr" "http://www.flickr.com/photos/estherase/241601749/" %}
 Laundry day. I feel sick. The tumble dryers aren't working properly. I walk about Hamburg, pick up a copy of "Moonshot" by Buffy St. Marie, and am starting to feel feverish. We're playing another arena, the Sporthalle, capacity 7,000 or so. The Velvets play an extra long set tonight, two and a half hours. I sleep for about three hours and wake up drenched with sweat but feeling better.
 
 {% ahfowaudio {

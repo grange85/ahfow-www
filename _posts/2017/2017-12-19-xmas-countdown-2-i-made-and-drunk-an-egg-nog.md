@@ -15,7 +15,7 @@ categories:
 tags:
  - xmas countdown 2017
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/7465394756/in/photolist-cMkars-cnG6LG-dDX875" title="Luna  - Time/Egg Nog"><img src="https://farm8.staticflickr.com/7252/7465394756_e58b7fdbdb_c.jpg" alt="Luna  - Time/Egg Nog"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/7465394756/in/photolist-cMkars-cnG6LG-dDX875" title="Luna  - Time/Egg Nog"><img src="https://media.fullofwishes.co.uk/flickr-downloads/7465394756_e58b7fdbdb_c.jpg" alt="Luna  - Time/Egg Nog"></a>
 
 <p class="lead"> I've never had an egg nog. To me Egg Nog is primarily a Luna tune, and secondarily some strange unknown seasonal beverage. This year I decided to make an egg nog! You can catch most of my egg-nogging as an Instagram story for the next 24 hours! Or just stay here, look at a couple of photos and listen to the aforementioned Luna gem.</p>
 

@@ -17,7 +17,7 @@ tags:
  - t-shirt
 longpost: true
 ---
-<figure class="caption aligncenter"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/24485650058/in/dateposted/" title="AHFoW T-shirt"><img src="https://farm5.staticflickr.com/4530/24485650058_e9dd73e448_z.jpg" alt="AHFoW T-shirt"></a><figcaption>A Head Full of Wishes T-shirt</figcaption></figure>
+<figure class="caption aligncenter"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/24485650058/in/dateposted/" title="AHFoW T-shirt"><img src="https://media.fullofwishes.co.uk/flickr-downloads/24485650058_e9dd73e448_z.jpg" alt="AHFoW T-shirt"></a><figcaption>A Head Full of Wishes T-shirt</figcaption></figure>
 <p class="lead">Now available to order is this lovely <em>organic cotton</em> A Head Full of Wishes T-shirt featuring the "earring" design used on the long sold out Everything's Swirling fanzine.</p>
 
 <p>I have printed 50 shirts in "unisex" size from <del>S</del> M to <del>XXL</del> XL (but the extremes are limited so best be quick if you want one of those) - orders will be first come ~ first served.</p>
@@ -49,11 +49,11 @@ longpost: true
 <p>If the size you require is no longer available I will get in touch to offer an alternative or a refund!</p>
 
 <figure class="caption aligncenter">
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/38302091446/in/photostream/" title="AHFoW T-shirt"><img src="https://farm5.staticflickr.com/4552/38302091446_09a2df1f45_b.jpg" alt="AHFoW T-shirt"></a><figcaption>T-shirt and <em>extras</em></figcaption></figure>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/38302091446/in/photostream/" title="AHFoW T-shirt"><img src="https://media.fullofwishes.co.uk/flickr-downloads/38302091446_09a2df1f45_b.jpg" alt="AHFoW T-shirt"></a><figcaption>T-shirt and <em>extras</em></figcaption></figure>
 
 <figure class="caption aligncenter">
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26582018479/in/dateposted/" title="Recycled cotton AHFoW collectors cards!!"><img src="https://farm5.staticflickr.com/4532/26582018479_57cf3f003b_c.jpg" alt="Recycled cotton AHFoW collectors cards!!"></a><figcaption>Recycled cotton cards</figcaption></figure>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26582018479/in/dateposted/" title="Recycled cotton AHFoW collectors cards!!"><img src="https://media.fullofwishes.co.uk/flickr-downloads/26582018479_57cf3f003b_c.jpg" alt="Recycled cotton AHFoW collectors cards!!"></a><figcaption>Recycled cotton cards</figcaption></figure>
 
 <figure class="caption aligncenter">
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/36264426794/in/dateposted/" title="The last #everythingsswirling fanzines were posted out this morning, all come with one of these "earring" badges (a few come with both). #galaxie500 #badges"><img src="https://farm5.staticflickr.com/4354/36264426794_138d2cf001_c.jpg" alt="The last #everythingsswirling fanzines were posted out this morning, all come with one of these "earring" badges (a few come with both). #galaxie500 #badges"></a><figcaption>Badges</figcaption></figure>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/36264426794/in/dateposted/" title="The last #everythingsswirling fanzines were posted out this morning, all come with one of these "earring" badges (a few come with both). #galaxie500 #badges"><img src="https://media.fullofwishes.co.uk/flickr-downloads/36264426794_138d2cf001_c.jpg" alt="The last #everythingsswirling fanzines were posted out this morning, all come with one of these "earring" badges (a few come with both). #galaxie500 #badges"></a><figcaption>Badges</figcaption></figure>
 

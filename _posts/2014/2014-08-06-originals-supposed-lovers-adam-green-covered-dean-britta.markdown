@@ -12,7 +12,7 @@ categories:
 - dean & britta
 - originals
 ---
-<p><a href="https://www.flickr.com/photos/george_eastman_house/2986882833" title="E. River by George Eastman House, on Flickr"><img class="aligncenter" src="https://farm4.staticflickr.com/3025/2986882833_954954d7bd_z.jpg?zz=1" alt="E. River"></a><br />
+<p><a href="https://www.flickr.com/photos/george_eastman_house/2986882833" title="E. River by George Eastman House, on Flickr"><img class="aligncenter" src="https://media.fullofwishes.co.uk/flickr-downloads/2986882833_954954d7bd_z.jpg?zz=1" alt="E. River"></a><br />
 Adam Green's original of We're Not Supposed to be Lovers was released on his second solo album "friends of Mine" in 2003.<br />
 
 {% ahfowvideo "hRyFr4rigZ0" "" %}

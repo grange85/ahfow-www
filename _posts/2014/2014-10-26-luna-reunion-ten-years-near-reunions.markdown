@@ -17,7 +17,7 @@ categories:
 <p>Dean & Britta with Sean in Chicago IL in 2010</p>
 {% ahfowvideo "jUUafnCQbzQ" "" %}
 
-<figure class="caption aligncenter"><a href="https://www.flickr.com/photos/subcow/7658288576" title="Dean & Britta with Sean Eden (Luna) at Shine A Light festival 7-21-12 by Kurt Christensen, on Flickr"><img class="aligncenter" src="https://farm9.staticflickr.com/8007/7658288576_f2680e0fc0_z.jpg" alt="Dean & Britta with Sean Eden (Luna) at Shine A Light festival 7-21-12"></a><figcaption class="caption-text">Dean & Britta with Sean in Wantagh NY in 2012 - <a href="http://www.nyctaper.com/2012/07/dean-britta-with-luna-reunion-july-21-2012-mulcahys-wantagh-ny-flac-and-mp3-downloads-streaming-songs/">full show in NYCTaper</a></figcaption></figure>
+<figure class="caption aligncenter"><a href="https://www.flickr.com/photos/subcow/7658288576" title="Dean & Britta with Sean Eden (Luna) at Shine A Light festival 7-21-12 by Kurt Christensen, on Flickr"><img class="aligncenter" src="https://media.fullofwishes.co.uk/flickr-downloads/7658288576_f2680e0fc0_z.jpg" alt="Dean & Britta with Sean Eden (Luna) at Shine A Light festival 7-21-12"></a><figcaption class="caption-text">Dean & Britta with Sean in Wantagh NY in 2012 - <a href="http://www.nyctaper.com/2012/07/dean-britta-with-luna-reunion-july-21-2012-mulcahys-wantagh-ny-flac-and-mp3-downloads-streaming-songs/">full show in NYCTaper</a></figcaption></figure>
 
 <p>Dean & Britta with Lee in Los Angeles in 2010</p>
 

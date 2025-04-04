@@ -8,7 +8,7 @@ author:
   url: http://www.grange85.co.uk
 categories: admin
 ---
-<figure class="aligncenter"><a data-flickr-embed="true" data-header="false" data-footer="false" data-context="false"  href="https://www.flickr.com/photos/grange85/15577399435/in/photolist-pJwf9k-9PN9Bf-4mZktJ" title="Repaired and beautified"><img src="https://farm6.staticflickr.com/5612/15577399435_caf11ed96c_c.jpg" alt="Repaired and beautified"></a><figcaption>Repaired and beautified</figcaption></figure>
+<figure class="aligncenter"><a data-flickr-embed="true" data-header="false" data-footer="false" data-context="false"  href="https://www.flickr.com/photos/grange85/15577399435/in/photolist-pJwf9k-9PN9Bf-4mZktJ" title="Repaired and beautified"><img src="https://media.fullofwishes.co.uk/flickr-downloads/15577399435_caf11ed96c_c.jpg" alt="Repaired and beautified"></a><figcaption>Repaired and beautified</figcaption></figure>
 
 After more than ten years as a Wordpress blog, A Head Full of Wishes now isn't.
 

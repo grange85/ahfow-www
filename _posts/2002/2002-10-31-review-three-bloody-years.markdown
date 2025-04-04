@@ -7,12 +7,12 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2002-10-31'
-image: https://live.staticflickr.com/4458/37850177326_e9b63c030b_c.jpg
+image: https://media.fullofwishes.co.uk/flickr-downloads/37850177326_e9b63c030b_c.jpg
 categories:
 - luna
 flickr: true
 ---
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/37850177326/in/photolist-Zse9X6-ZEG43f-qYVLAd-oy7xAJ-7ksNwM-7kwH6f-7ksNv8-7kwH8h-7ksNhD-7ksNkR-7kwH35" title="Luna at Dingwalls in London in October 2002 #luna #lunatheband #dingwalls"><img src="https://live.staticflickr.com/4458/37850177326_e9b63c030b_c.jpg" alt="Luna at Dingwalls in London in October 2002 #luna #lunatheband #dingwalls"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/37850177326/in/photolist-Zse9X6-ZEG43f-qYVLAd-oy7xAJ-7ksNwM-7kwH6f-7ksNv8-7kwH8h-7ksNhD-7ksNkR-7kwH35" title="Luna at Dingwalls in London in October 2002 #luna #lunatheband #dingwalls"><img src="https://media.fullofwishes.co.uk/flickr-downloads/37850177326_e9b63c030b_c.jpg" alt="Luna at Dingwalls in London in October 2002 #luna #lunatheband #dingwalls"></a>
 
 Three years, three bloody years - Luna would have to put in a damned good show to justify neglecting their UK fans for three years.
 

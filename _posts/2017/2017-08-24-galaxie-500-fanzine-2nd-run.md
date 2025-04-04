@@ -21,4 +21,4 @@ tags:
 
 <p>You can <a href="/2017/08/17/everythings-swirling-a-galaxie-500-fanzine/">find out more about the fanzine over here</a>.</p>
 
-<figure class="aligncenter"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/36478301371/in/dateposted/" title="2017-08-16_10-31-17"><img src="https://farm5.staticflickr.com/4386/36478301371_f2a2545416_c.jpg" alt="2017-08-16_10-31-17"></a></figure>
+<figure class="aligncenter"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/36478301371/in/dateposted/" title="2017-08-16_10-31-17"><img src="https://media.fullofwishes.co.uk/flickr-downloads/36478301371_f2a2545416_c.jpg" alt="2017-08-16_10-31-17"></a></figure>

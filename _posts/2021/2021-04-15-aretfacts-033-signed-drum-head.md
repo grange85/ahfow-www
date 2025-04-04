@@ -29,7 +29,7 @@ Lee's drum head signed by all of Luna. It has lived on a shelf in the study ever
 
 I guess this is artefact #033a - a signed drumstick from Luna's show at Dingwalls in 2002!
 
-{% ahfowimage "https://live.staticflickr.com/7649/16396777144_8b3fd18c06_z.jpg" "Signed drumstick" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/16396777144_8b3fd18c06_z.jpg" "Signed drumstick" %}
 
 
 

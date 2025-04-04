@@ -11,7 +11,7 @@ categories:
 - luna
 - audio
 ---
-{% ahfowimage "https://farm8.staticflickr.com/7265/7732905648_d99f527bc6_b.jpg" "Red vinyl Egg Nog" "https://www.flickr.com/photos/grange85/7732905648/in/photolist-dDX875-cMkars-cnG6LG" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/7732905648_d99f527bc6_b.jpg" "Red vinyl Egg Nog" "https://www.flickr.com/photos/grange85/7732905648/in/photolist-dDX875-cMkars-cnG6LG" %}
 
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/02-luna-egg-nog.mp3",
@@ -24,9 +24,9 @@ categories:
 <footer>Dean Wareham - Black Postcards</footer>
 </blockquote>
 
-{% ahfowimage "https://farm8.staticflickr.com/7252/7465394756_e58b7fdbdb_b.jpg" "Luna  - Time/Egg Nog" "https://www.flickr.com/photos/grange85/7465394756/in/photolist-dDX875-cMkars-cnG6LG" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/7465394756_e58b7fdbdb_b.jpg" "Luna  - Time/Egg Nog" "https://www.flickr.com/photos/grange85/7465394756/in/photolist-dDX875-cMkars-cnG6LG" %}
 
-{% ahfowimage "https://farm8.staticflickr.com/7142/6554390595_76a9609b4d_b.jpg" "Cinnamon" "https://www.flickr.com/photos/dinnerseries/6554390595/" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/6554390595_76a9609b4d_b.jpg" "Cinnamon" "https://www.flickr.com/photos/dinnerseries/6554390595/" %}
 
 <p><a href="/2013/12/16/originals-xmas-special-1-old-toy-trains-by-roger-miller-covered-by-dean-britta-with-sonic-boom/" title="Originals: Old Toy Trains by Roger Miller (covered by Dean & Britta with Sonic Boom) : Xmas special #1">Originals: Old Toy Trains by Roger Miller (covered by Dean & Britta with Sonic Boom) : Xmas special #1</a><br />
 <a href="/2013/12/18/originals-white-christmas-by-bing-crosby-covered-by-damon-naomi/" title="Originals: White Christmas by Bing Crosby covered by Damon & Naomi: Xmas special #2">Originals: White Christmas by Bing Crosby covered by Damon & Naomi: Xmas special #2</a><br />

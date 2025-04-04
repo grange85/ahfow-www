@@ -22,7 +22,7 @@ categories:
 tags: []
 ---
 <p><figure class="caption aligncenter"><br />
-<a href="http://www.flickr.com/photos/grange85/3710107636/" title="Dear Paulina by andyaldridge, on Flickr"><img src="https://farm4.staticflickr.com/3455/3710107636_754218dbe6_z.jpg" alt="Dear Paulina"></a><figcaption class="caption-text">Dear Paulina</figcaption></figure>
+<a href="http://www.flickr.com/photos/grange85/3710107636/" title="Dear Paulina by andyaldridge, on Flickr"><img src="https://media.fullofwishes.co.uk/flickr-downloads/3710107636_754218dbe6_z.jpg" alt="Dear Paulina"></a><figcaption class="caption-text">Dear Paulina</figcaption></figure>
 <p>OK - a ridiculously long post so skip to the end if you're just here to leech a couple of Luna rarities!</p>
 <p>In Summer 1997 I had this half-baked idea to release a kind of <a href="http://en.wikipedia.org/wiki/The_Beatles%27_Christmas_Album#1963:_The_Beatles_Christmas_Record">Beatles Fan Club single</a> only with Galaxie 500 rather than The Beatles. I had no idea, when I kicked off, just what I thought it might be like. So... I wrote (on paper with stamps and things) to <a href="http://www.damonandnaomi.com">Damon & Naomi</a> just to test the ground. I got a lovely letter back from Naomi saying that they'd rather not get involved as Damon & Naomi, and that apart from The Peel Sessions they didn't have any Galaxie 500 unreleased material that they wanted to release "we were never that prolific" so, with that knockback I forgot about it.</p>
 <p><a id="more"></a><a id="more-1417"></a>

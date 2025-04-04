@@ -12,7 +12,7 @@ categories:
 - dean wareham
 - audio
 ---
-{% ahfowimage "https://farm5.staticflickr.com/4018/4529435423_a07baab948_b.jpg" "2 Boys and Store Front Christmas Display" "https://www.flickr.com/photos/depthandtime/4529435423" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/4529435423_a07baab948_b.jpg" "2 Boys and Store Front Christmas Display" "https://www.flickr.com/photos/depthandtime/4529435423" %}
 <p class="lead">UPDATE (2015-12-22): Here's the mp3 of Dean & Britta performing Old Toy Trains on XFM</p>
 
  {% ahfowaudio {

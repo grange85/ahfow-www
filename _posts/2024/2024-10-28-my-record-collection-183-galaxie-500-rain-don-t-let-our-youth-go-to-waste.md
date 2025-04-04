@@ -45,7 +45,7 @@ sound by KRAMER KRAMER KRAMER</p>
 
 This is another single that came in the [care package of 7" singles](/2014/12/10/happy-20th-birthday-head-full-wishes-3/) that Damon and Naomi sent me in 2004:
 
-{% ahfowimage "https://farm9.staticflickr.com/8674/15371119284_c526fb37fc_z.jpg" "With Compliments" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/15371119284_c526fb37fc_z.jpg" "With Compliments" %}
 
  - *Catalogue Number:* AHFOW 11/014
  - *Artist:* Galaxie 500

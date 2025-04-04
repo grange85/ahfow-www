@@ -49,7 +49,7 @@ _Tracklist_
 
 
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/14253120261/in/album-72157644819665224/" title="Dean Wareham"><img src="https://live.staticflickr.com/3833/14253120261_842be0f092_c.jpg" alt="Dean Wareham"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/14253120261/in/album-72157644819665224/" title="Dean Wareham"><img src="https://media.fullofwishes.co.uk/flickr-downloads/14253120261_842be0f092_c.jpg" alt="Dean Wareham"></a>
 
 {% ahfowvideo "wTLO4U0VJlM" "Dean Wareham - Fourth of July (London 2014)" %}
 

@@ -11,7 +11,7 @@ date: '2013-07-24'
 categories:
 - news
 ---
-<p><a href="http://www.flickr.com/photos/nationalarchives/3047452733/" title="Stephen Stokes' Master Plan by The National Archives UK, on Flickr"><img class="aligncenter" src="https://farm4.staticflickr.com/3026/3047452733_f0e961e5b3.jpg" alt="Stephen Stokes' Master Plan"></a><br />
+<p><a href="http://www.flickr.com/photos/nationalarchives/3047452733/" title="Stephen Stokes' Master Plan by The National Archives UK, on Flickr"><img class="aligncenter" src="https://media.fullofwishes.co.uk/flickr-downloads/3047452733_f0e961e5b3.jpg" alt="Stephen Stokes' Master Plan"></a><br />
 Dean has long-expressed his love for Paisley Underground's finest Opal, a band that featured Dave Roback and Kendra Smith, when the blog Aquarium Drunkard asked Dean for a list of ten albums that inspired Galaxie 500, Opal's only album Happy Nightmare Baby was in the list.</p>
 <p>Hear The Wind Blow only appeared on the CD issue of the long out-of-print collection of obscurities Early Recordings released after the band split in 1989.<br />
 

@@ -15,7 +15,7 @@ tags:
 - the beatles
 - rain
 ---
-<p><a href="http://www.flickr.com/photos/tom1231/322775793/" title="Paperback Writer by Marxchivist, on Flickr"><img class="aligncenter" src="https://farm1.staticflickr.com/127/322775793_75f340b745.jpg" alt="Paperback Writer"></a><br />
+<p><a href="http://www.flickr.com/photos/tom1231/322775793/" title="Paperback Writer by Marxchivist, on Flickr"><img class="aligncenter" src="https://media.fullofwishes.co.uk/flickr-downloads/322775793_75f340b745.jpg" alt="Paperback Writer"></a><br />
 Rain was one of the Lennon <em>Lennon/McCartney </em>compositions and was released as the b-side of Paperback Writer in the 1966. </p>
 <p>As a b-side the band rather surprisingly made three promotional films for it, <del datetime="2020-10-09">this one was made round the corner from me in Chiswick House</del></p>
 <p>The Beatles - Rain<br />

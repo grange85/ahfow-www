@@ -19,7 +19,7 @@ categories:
 - lost tracks
 ---
 
-{% ahfowimage "https://live.staticflickr.com/3104/2744914632_4a853f8b08_c.jpg" "<a href='https://www.flickr.com/photos/pilliebee/2744914632/'>Strawberry Picking by pilliebee</a>" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/2744914632_4a853f8b08_c.jpg" "<a href='https://www.flickr.com/photos/pilliebee/2744914632/'>Strawberry Picking by pilliebee</a>" %}
 
 For the 2004 film [Clean](http://en.wikipedia.org/wiki/Clean_%282004_film%29), Dean Wareham teamed up with lead actor [Maggie Cheung](http://en.wikipedia.org/wiki/Maggie_Cheung) to record a couple of songs for the soundtrack.
 

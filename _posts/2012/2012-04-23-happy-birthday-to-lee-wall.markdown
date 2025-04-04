@@ -6,13 +6,13 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-image: https://live.staticflickr.com/7775/17107937187_f6ca17ab9f_b.jpg
+image: https://media.fullofwishes.co.uk/flickr-downloads/17107937187_f6ca17ab9f_b.jpg
 date: '2012-04-23'
 categories:
 - news
 - after luna
 ---
-{% ahfowimage "https://live.staticflickr.com/7775/17107937187_f6ca17ab9f_b.jpg" "Lee Wall of Luna - (cc) Andy Aldridge" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/17107937187_f6ca17ab9f_b.jpg" "Lee Wall of Luna - (cc) Andy Aldridge" %}
 
 Today is Luna's last drummer's birthday...
 

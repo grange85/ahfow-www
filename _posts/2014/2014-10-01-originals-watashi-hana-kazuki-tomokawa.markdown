@@ -12,7 +12,7 @@ categories:
 - damon & naomi
 - originals
 ---
-<p><a href="https://www.flickr.com/photos/grange85/15377975435" title="Flower - watercolour and ink by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://farm3.staticflickr.com/2945/15377975435_0a557997f2_z.jpg" alt="Flower - watercolour and ink"></a></p>
+<p><a href="https://www.flickr.com/photos/grange85/15377975435" title="Flower - watercolour and ink by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://media.fullofwishes.co.uk/flickr-downloads/15377975435_0a557997f2_z.jpg" alt="Flower - watercolour and ink"></a></p>
 <p>Another one that slipped through the net...</p>
 <p>Kazuki Tomokowa is, according to his short biog on Discogs, a "Prolific Japanese folk singer, songwriter, poet, essayist, actor, betting tipster and artist". Here's his original of Watashi no Hana (My Flower) - cursory Googling has provided precious little more about the song (in English).<br />
 

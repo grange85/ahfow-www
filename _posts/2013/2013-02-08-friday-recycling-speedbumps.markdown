@@ -20,7 +20,7 @@ recycled:
 For no reason other than it just popped into my head...
 
 
-{% ahfowimage "https://farm7.staticflickr.com/6238/6314288860_9e250a34d0_z.jpg" "Speed bumps ahead! - (cc) rstanek on Flickr" "http://www.flickr.com/photos/rstanek/6314288860/" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/6314288860_9e250a34d0_z.jpg" "Speed bumps ahead! - (cc) rstanek on Flickr" "http://www.flickr.com/photos/rstanek/6314288860/" %}
 
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/Luna_2004-12-17_WXPN_World_Cafe_Philadelphia_PA_USA_01_Speedbumps.mp3",

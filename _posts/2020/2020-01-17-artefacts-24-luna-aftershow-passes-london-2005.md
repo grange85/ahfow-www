@@ -26,7 +26,7 @@ It was a perfect farewell: met up with a bunch of other fans; hung out (briefly)
 
 Off course most farewells aren't farewells any more and [Luna were back in London just over ten years later](/database/luna/shows/2015/2015-07-31-luna-the-garage-london-uk/).
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/3480775/in/album-72157600000883138/" title="Luna (with Sonic Boom) @ ULU, London"><img src="https://live.staticflickr.com/3/3480775_2af57fb2c9_c.jpg" alt="Luna (with Sonic Boom) @ ULU, London"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/3480775/in/album-72157600000883138/" title="Luna (with Sonic Boom) @ ULU, London"><img src="https://media.fullofwishes.co.uk/flickr-downloads/3480775_2af57fb2c9_c.jpg" alt="Luna (with Sonic Boom) @ ULU, London"></a>
 
 You can [download the full show, and see pictures](/database/luna/shows/2005/2005-01-17-luna-ulu-london-uk/) (including fat me ligging with the band), over here.
 

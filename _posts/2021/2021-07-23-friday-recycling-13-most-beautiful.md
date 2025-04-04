@@ -20,8 +20,8 @@ Very cool video of Dean & Britta playing Teenage Lightning at The Warhol in 2012
 {% ahfowvideo "0_QW-O9ZzaQ" "Teenage Lightning / Paul America - The Warhol 2012" %}
 
 A cool set of pictures from their show in Milan in 2009:
-{% ahfowimage "https://live.staticflickr.com/2580/3922723510_0f19502b7e_c.jpg" "Britta in Milan 2009 - (c) MITO SettembreMusica" "https://www.flickr.com/photos/mitosettembremusica/3922723630/in/album-72157622375604588/" %}
-{% ahfowimage "https://live.staticflickr.com/2660/3922723630_9e0d58ea58_c.jpg" "Dean in Milan 2009 (c) MITO SettembreMusica" "https://www.flickr.com/photos/mitosettembremusica/3922723630/in/album-72157622375604588/" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/3922723510_0f19502b7e_c.jpg" "Britta in Milan 2009 - (c) MITO SettembreMusica" "https://www.flickr.com/photos/mitosettembremusica/3922723630/in/album-72157622375604588/" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/3922723630_9e0d58ea58_c.jpg" "Dean in Milan 2009 (c) MITO SettembreMusica" "https://www.flickr.com/photos/mitosettembremusica/3922723630/in/album-72157622375604588/" %}
 
 When the audio of 13 Most Beuatiful was released a couple of the DVD mixes never got released - Britta sent them over to me to share, so...
 

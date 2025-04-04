@@ -32,11 +32,11 @@ As well as Luna you'll also find contributions from _friends of Luna_ Sonic Boom
 
 I was lucky enough to see Suicide in 2010 when they supported Iggy & The Stooges at Hammersmith Odeon, I enjoyed them more than Iggy - here's a crap photo...
 
-{% ahfowimage "https://live.staticflickr.com/3397/4575430539_fe4d5e4dc7_c.jpg" "Suicide @ Hammersmith Apollo" "https://www.flickr.com/photos/grange85/4575430539/in/album-72157627428153567" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/4575430539_fe4d5e4dc7_c.jpg" "Suicide @ Hammersmith Apollo" "https://www.flickr.com/photos/grange85/4575430539/in/album-72157627428153567" %}
 
 ... and Marty Rev when he did a Unseen Warhol show in London with Dean in 2016, which I never took any photos at... even though I got backstage... too self-conscious!
 
-{% ahfowimage "https://live.staticflickr.com/5747/23399076320_f2c27fe5b5_c.jpg" "Unseen Warhol ticket (2016)" "https://www.flickr.com/photos/grange85/23399076320/in/photolist-BDGobm" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/23399076320_f2c27fe5b5_c.jpg" "Unseen Warhol ticket (2016)" "https://www.flickr.com/photos/grange85/23399076320/in/photolist-BDGobm" %}
 
 I'm not too sure where/when I got this copy although suspect it was in the pile of goodies that Dean gave me when [I visited him in NYC back in 2001](/2023/06/01/my-record-collection-039-luna-live-lp/).
 

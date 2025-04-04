@@ -29,4 +29,4 @@ Dean & Britta playing Fourth of July in Sydney<br />
 </p>
 {% ahfowvideo "hwi3qoZhMjw" "" %}
 <p>The last few years I've done a competition... this year I forgot, so if anyone wants a prize I'll give a single or two, or something to my favourite Fourth of July comment posted belore - favourite almost certainly means laughing - but crying or cringing will also probably work.</p>
-<p><a href="http://www.flickr.com/photos/grange85/7503935168/" title="Galaxie 500 - Fourth of July by andyaldridge, on Flickr"><img src="https://farm8.staticflickr.com/7278/7503935168_0f21676820.jpg" class="aligncenter" alt="Galaxie 500 - Fourth of July"></a></p>
+<p><a href="http://www.flickr.com/photos/grange85/7503935168/" title="Galaxie 500 - Fourth of July by andyaldridge, on Flickr"><img src="https://media.fullofwishes.co.uk/flickr-downloads/7503935168_0f21676820.jpg" class="aligncenter" alt="Galaxie 500 - Fourth of July"></a></p>

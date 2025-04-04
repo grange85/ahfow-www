@@ -27,7 +27,7 @@ Tonight I'll be at my seventh consecutive Indietracks Festival - I keep hoping D
 
 [You can download the whole show here (flac)](http://www.mediafire.com/file/yn0acrjwg6soujj/wareham-dean-2014-07-26_-indietracks-festival-derbyshire-uk.zip/file) and read my [gushing review of the day here](https://www.fullofwishes.co.uk/2014/07/27/dean-wareham-indietracks/) 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/14584055108" title="Dean Wareham, band, and delivery boy at Indietracks 2014"><img src="https://live.staticflickr.com/5587/14584055108_4cd1d86d1a_c.jpg" alt="Dean Wareham, band, and delivery boy at Indietracks 2014"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/14584055108" title="Dean Wareham, band, and delivery boy at Indietracks 2014"><img src="https://media.fullofwishes.co.uk/flickr-downloads/14584055108_4cd1d86d1a_c.jpg" alt="Dean Wareham, band, and delivery boy at Indietracks 2014"></a>
 
 ---
 
