@@ -6,7 +6,7 @@ author:
   display_name: Andy Aldridge
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-image: https://farm1.staticflickr.com/3/3480775_2af57fb2c9_b.jpg
+image: https://media.fullofwishes.co.uk/flickr-downloads/3480775_2af57fb2c9_b.jpg
 categories:
  - luna
  - dean & britta

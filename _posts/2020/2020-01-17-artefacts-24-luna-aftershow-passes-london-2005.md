@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2020-01-17
-image: https://live.staticflickr.com/65535/49389645712_6c38cc624f_h.jpg
+image: https://media.fullofwishes.co.uk/flickr-downloads/49389645712_6c38cc624f_h.jpg
 categories:
  - artefacts
  - luna
@@ -18,7 +18,7 @@ tags:
 flickr: true
 longpost: false
 ---
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/49389645712/in/dateposted-public/" title="Luna - Aftershow passes (2005-01-17)"><img src="https://live.staticflickr.com/65535/49389645712_be0e89e87f_c.jpg" alt="Luna - Aftershow passes (2005-01-17)"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/49389645712/in/dateposted-public/" title="Luna - Aftershow passes (2005-01-17)"><img src="https://media.fullofwishes.co.uk/flickr-downloads/49389645712_be0e89e87f_c.jpg" alt="Luna - Aftershow passes (2005-01-17)"></a>
 
 Fifteen years ago tonight Luna played their _last_ London show and today's artefacts are mine and Hazel's aftershow passes. Mine's the better condition one as Hazel's lived stuck inside her jacket for months - not for any close-to-her-heart-fan stuff but because it just was.
 

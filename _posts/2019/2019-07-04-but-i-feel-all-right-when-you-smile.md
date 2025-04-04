@@ -8,14 +8,14 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-07-04
-image: https://live.staticflickr.com/65535/48191587367_a591a6bbd6_c.jpg
+image: https://media.fullofwishes.co.uk/flickr-downloads/48191587367_a591a6bbd6_c.jpg
 categories:
  - galaxie 500
 tags:
  - fourth of july
 flickr: true
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48191587367/in/dateposted/" title="INT. WEST LONDON VICTORIAN TERRACE HOUSE - THURSDAY MORNING - BREAKFAST"><img src="https://live.staticflickr.com/65535/48191587367_a591a6bbd6_c.jpg" alt="INT. WEST LONDON VICTORIAN TERRACE HOUSE - THURSDAY MORNING - BREAKFAST"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48191587367/in/dateposted/" title="INT. WEST LONDON VICTORIAN TERRACE HOUSE - THURSDAY MORNING - BREAKFAST"><img src="https://media.fullofwishes.co.uk/flickr-downloads/48191587367_a591a6bbd6_c.jpg" alt="INT. WEST LONDON VICTORIAN TERRACE HOUSE - THURSDAY MORNING - BREAKFAST"></a>
 <pre>
 <strong>INT. WEST LONDON VICTORIAN TERRACE HOUSE - THURSDAY MORNING - BREAKFAST</strong>
 
@@ -60,4 +60,4 @@ Happy Galaxie 500 day - or whatever else you might choose to celebrate on this d
 
 {% ahfowvideo "J8QDLOpexnw" "Galaxie 500 - Fourth of July" %}
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48191500291/in/dateposted/" title="Galaxie 500 - Fourth of July 12&quot; single"><img src="https://live.staticflickr.com/65535/48191500291_551a333af1_c.jpg" alt="Galaxie 500 - Fourth of July 12&quot; single"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48191500291/in/dateposted/" title="Galaxie 500 - Fourth of July 12&quot; single"><img src="https://media.fullofwishes.co.uk/flickr-downloads/48191500291_551a333af1_c.jpg" alt="Galaxie 500 - Fourth of July 12&quot; single"></a>

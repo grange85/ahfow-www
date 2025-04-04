@@ -16,7 +16,7 @@ tags:
  - tags
 flickr: true
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48279145427/in/dateposted-public/" title="Galaxie 500 Mailing List miniFAQ"><img src="https://live.staticflickr.com/65535/48279145427_594c66e700_c.jpg" alt="Galaxie 500 Mailing List miniFAQ"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48279145427/in/dateposted-public/" title="Galaxie 500 Mailing List miniFAQ"><img src="https://media.fullofwishes.co.uk/flickr-downloads/48279145427_594c66e700_c.jpg" alt="Galaxie 500 Mailing List miniFAQ"></a>
 
 Today's artefact is the first _born digital_ one! 
 

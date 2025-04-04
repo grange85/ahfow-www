@@ -19,7 +19,7 @@ flickr: true
 ---
 Happy birthday Naomi!
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48506259441/in/photostream/" title="Naomi Yang in Angry Women in Rock Volume 1"><img src="https://live.staticflickr.com/65535/48506259441_d6148dfd71_c.jpg" alt="Naomi Yang from Angry Women in Rock Volume 1"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48506259441/in/photostream/" title="Naomi Yang in Angry Women in Rock Volume 1"><img src="https://media.fullofwishes.co.uk/flickr-downloads/48506259441_d6148dfd71_c.jpg" alt="Naomi Yang from Angry Women in Rock Volume 1"></a>
 
 In 1996 Naomi was interviewed by Andrea Juno for this book Angry Women in Rock Volume One. The book was published in New York and I never managed to track down a copy and admit that I stopped looking when another fan sent me a photocopy of Naomi's interview.
 
@@ -61,7 +61,7 @@ Naomi's equipment list (1996)
 
 I finally saw a copy for real when a pal brought a copy over for me to look at, and I realised that I really ought to own a copy - and eBay made that easy. So now I have this gorgeous picture of Naomi with her dad's Rolleiflex TLR which in my photocopy was just a black mess!
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48506433447/in/photostream/" title="Naomi Yang from Angry Women in Rock Volume 1"><img src="https://live.staticflickr.com/65535/48506433447_f3f7e53848_c.jpg" alt="Naomi Yang from Angry Women in Rock Volume 1"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48506433447/in/photostream/" title="Naomi Yang from Angry Women in Rock Volume 1"><img src="https://media.fullofwishes.co.uk/flickr-downloads/48506433447_f3f7e53848_c.jpg" alt="Naomi Yang from Angry Women in Rock Volume 1"></a>
 
 
 You'll find more birthday tributes to Naomi here with lots of photos, videos and mp3 downloads:

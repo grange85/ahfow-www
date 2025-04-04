@@ -38,7 +38,7 @@ This release only made it to the US record shops and so with crazy overseas post
 
 So, on the Monday after RSD 2024, Dean and Britta paid a visit to The National Archives and we sat in the cafe and jawed for a while and Dean handed over the record. My imminent retirement is why Dean inscribed the cover "+ new adventures" when he signed it. I said some foolish things about Luna that I regret because I'm an idiot - there'll be more on that later in the series.
 
-{% ahfowimage "https://live.staticflickr.com/65535/53679284864_b34f0d7b11_c.jpg" "Me, Dean and Britta outside TNA" "https://www.flickr.com/photos/grange85/53679284864/in/dateposted/" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/53679284864_b34f0d7b11_c.jpg" "Me, Dean and Britta outside TNA" "https://www.flickr.com/photos/grange85/53679284864/in/dateposted/" %}
 
 I know I keep saying this but we (the fans) are so lucky that we are fans of such lovely people. Hopefully they'll be over again soon... with their instruments.
 

@@ -53,5 +53,5 @@ Happy Birthday to the lovely Britta Phillips...
 
 {% ahfowvideo "fBdM142eGRA" "Britta Phillips - Drive (San Francisco, 2017)" "" %}
 
-{% ahfowimage "https://live.staticflickr.com/65535/50098169928_de35cddd29_c.jpg" "Britta waves (July, 2020)" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/50098169928_de35cddd29_c.jpg" "Britta waves (July, 2020)" %}
 

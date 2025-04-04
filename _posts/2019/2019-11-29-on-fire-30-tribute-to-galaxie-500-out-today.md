@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-11-29 13:50:00
-image: https://live.staticflickr.com/65535/49141936086_0b47e9a431_c.jpg
+image: https://media.fullofwishes.co.uk/flickr-downloads/49141936086_0b47e9a431_c.jpg
 categories:
  - galaxie 500
  - news
@@ -19,7 +19,7 @@ tags:
 longpost: true
 flickr: true
 ---
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/49141936086/in/dateposted-public/" title="On Fire | 30 - deluxe package"><img src="https://live.staticflickr.com/65535/49141936086_0b47e9a431_c.jpg" alt="On Fire | 30 - deluxe package"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/49141936086/in/dateposted-public/" title="On Fire | 30 - deluxe package"><img src="https://media.fullofwishes.co.uk/flickr-downloads/49141936086_0b47e9a431_c.jpg" alt="On Fire | 30 - deluxe package"></a>
 
 <div class="panel panel-primary row">
   <div class="panel-heading"><h3>On Fire | 30 ~ a tribute to Galaxie 500</h3></div>

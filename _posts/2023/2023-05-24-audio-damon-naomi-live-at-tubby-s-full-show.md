@@ -27,4 +27,4 @@ The always great NYC Taper has just [posted a fine recording of Damon & Naomi's 
 
 I've also come across this [nice set of pics by Irene Trudel](https://www.flickr.com/photos/irene_trudel/albums/72177720308207147) from the following night at Union Pool in Brooklyn.
 
-<a href="https://www.flickr.com/photos/irene_trudel/52888563270/in/album-72177720308207147/" title="Damon &amp; Naomi, Meg Baird w/Charlie Saufley @ Union Pool 2023-05-10"><img src="https://live.staticflickr.com/65535/52888563270_f12d7c3a29_c.jpg" alt="Damon &amp; Naomi, Meg Baird w/Charlie Saufley @ Union Pool 2023-05-10"/></a>
+<a href="https://www.flickr.com/photos/irene_trudel/52888563270/in/album-72177720308207147/" title="Damon &amp; Naomi, Meg Baird w/Charlie Saufley @ Union Pool 2023-05-10"><img src="https://media.fullofwishes.co.uk/flickr-downloads/52888563270_f12d7c3a29_c.jpg" alt="Damon &amp; Naomi, Meg Baird w/Charlie Saufley @ Union Pool 2023-05-10"/></a>

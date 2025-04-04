@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-08-02
-image: https://live.staticflickr.com/65535/48235165157_43a94c689a_h.jpg
+image: https://media.fullofwishes.co.uk/flickr-downloads/48235165157_43a94c689a_h.jpg
 categories:
  - artefacts
  - luna
@@ -18,7 +18,7 @@ tags:
 flickr: true
 ---
 Today is Luna's former drummer Stanley Demeski's birthday, so today's artefact is a photo of Stan with his practice pad that Dean sent me a few months back.
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48235165157/in/dateposted/" title="Stanley Demeski of Luna"><img src="https://live.staticflickr.com/65535/48235165157_43a94c689a_h.jpg" alt="Stanley Demeski of Luna"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48235165157/in/dateposted/" title="Stanley Demeski of Luna"><img src="https://media.fullofwishes.co.uk/flickr-downloads/48235165157_43a94c689a_h.jpg" alt="Stanley Demeski of Luna"></a>
 > Stanley drove into town, and we jammed together in the basement of Byron's apartment... We played "Slash Your Tires" one of the songs we had been playing with Byron. All of a sudden we sounded ten times better. We were no longer an underpowered train, struggling to climb a hill. Stanley was like a judicious metronome, a machine.  
 **Dean Wareham in Black Postcards**
 

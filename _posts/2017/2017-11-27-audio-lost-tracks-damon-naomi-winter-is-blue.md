@@ -8,7 +8,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2017-11-27'
-image: https://farm4.staticflickr.com/3690/12792823653_8c84af8f8c_c.jpg
+image: https://media.fullofwishes.co.uk/flickr-downloads/12792823653_8c84af8f8c_c.jpg
 categories:
  - damon & naomi
  - lost tracks

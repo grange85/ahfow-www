@@ -52,10 +52,10 @@ Five reasons I love xmas - even though I'm not religious!
 {% ahfowvideo "IJPc7esgvsA" "Wizzard - I Wish it Could be Christmas Everyday" %}
 
 #5 - These folk
-{% ahfowimage "https://live.staticflickr.com/65535/54144571826_0b54bb875a_c.jpg" "Christmas 2019" "https://www.flickr.com/photos/grange85/54144571826/in/dateposted/" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/54144571826_0b54bb875a_c.jpg" "Christmas 2019" "https://www.flickr.com/photos/grange85/54144571826/in/dateposted/" %}
 
 ... and since it's been over a year without a Motorhead reference&dagger;
-{% ahfowimage "https://live.staticflickr.com/65535/53437657849_bf2306832a_b.jpg" "Motorhead - Ace of Spades (Christmas)" "https://www.flickr.com/photos/grange85/53437657849/" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/53437657849_bf2306832a_b.jpg" "Motorhead - Ace of Spades (Christmas)" "https://www.flickr.com/photos/grange85/53437657849/" %}
 
 Have a lovely xmas, if you celebrate, and a lovely few days doing whatever makes you happiest if you don't. _My record collection_ is having a week off and will be back on New Year's Eve.
 

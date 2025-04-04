@@ -40,9 +40,9 @@ I chatted to Dean briefly after the set, mostly awkward silences and being photo
 
 My camera misbehaved so all my pictures turned out very red - [you can see a set on Flickr](https://flic.kr/s/aHsiNFBrQn), but here are a couple that have been turned black and white, and _tweaked_ to hide their crappiness!
 
-{% ahfowimage "https://live.staticflickr.com/65535/53492028229_7db6c604cb_c.jpg" "Dean &amp; Britta at The Metro in London - 19th June 2007" "https://www.flickr.com/photos/grange85/53492028229/in/dateposted/" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/53492028229_7db6c604cb_c.jpg" "Dean &amp; Britta at The Metro in London - 19th June 2007" "https://www.flickr.com/photos/grange85/53492028229/in/dateposted/" %}
 
-{% ahfowimage "https://live.staticflickr.com/65535/53491881203_dd49918473_c.jpg" "Dean &amp; Britta at The Metro in London - 19th June 2007" "https://www.flickr.com/photos/grange85/53491881203/in/photostream/" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/53491881203_dd49918473_c.jpg" "Dean &amp; Britta at The Metro in London - 19th June 2007" "https://www.flickr.com/photos/grange85/53491881203/in/photostream/" %}
 
 Andy would usually record all the bands... "just in case" but I thought that this time he had only recorded Dean & Britta's set for limited battery or tape reasons, but I've just popped the tape into my DAT machine and the Asobi Seksu set is on there too, although there are lots of sound drop-outs so not sure if Andy was experimenting. I've ripped what there is but it's hardly worth sharing.
 

@@ -40,7 +40,7 @@ Dean Wareham has been tied up with Sonic Cathedral off/on over the years... here
 
 This box set is in four parts, a disc each of: 'classics', remixes, live recordings, and seasonal/christmas tracks and Dean's appearance is on the third disc, "Reverberate Yourself" and is his cover of Galaxie 500's "When Will You Come Home" from the St Pancras Old Church album. The sleeve claims that it is the track's first appearance on CD but, as you'll find out later in this series, that is not entirely true!
 
-{% ahfowimage "https://live.staticflickr.com/65535/53322432469_8d4114b3ca_c.jpg" "Dean Wareham live at St Pancras Old Church, December 2013" "https://www.flickr.com/photos/grange85/53322432469/in/album-72177720312571151/" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/53322432469_8d4114b3ca_c.jpg" "Dean Wareham live at St Pancras Old Church, December 2013" "https://www.flickr.com/photos/grange85/53322432469/in/album-72177720312571151/" %}
 
 As part of Sonic Cathedral's birthday celebrations there was also, separately released, a "Celebrating Ourselves!" booklet which has some nice live pics of Dean & Britta:
 

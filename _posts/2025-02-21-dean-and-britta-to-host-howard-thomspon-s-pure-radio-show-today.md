@@ -37,7 +37,7 @@ Howard does a show for WKPN every fortnight and they're always worth a listen - 
 
 Nice to hear [En Attendant Ana](https://enattendantana.bandcamp.com/) doing a Pogues cover. Just under a year ago Dean DM-ed me on Twitter saying "you should see this band in Newcastle"... so I did, and wasn't disappointed.
 
-{% ahfowimage "https://live.staticflickr.com/65535/53746510994_a7410f1f0a_c.jpg" "En Attendant Ana at The Cumberland Arms, Newcastle" "https://www.flickr.com/photos/grange85/53746510994/in/album-72177720317299190" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/53746510994_a7410f1f0a_c.jpg" "En Attendant Ana at The Cumberland Arms, Newcastle" "https://www.flickr.com/photos/grange85/53746510994/in/album-72177720317299190" %}
 
 No Pogues cover for me - but they did do [Something Stupid in French](https://www.youtube.com/watch?v=GcQoDv7i9Gk).
 

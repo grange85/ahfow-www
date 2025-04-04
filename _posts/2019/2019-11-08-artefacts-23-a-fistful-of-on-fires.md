@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-11-08
-image: https://live.staticflickr.com/65535/49033619767_80bd2e7a10_b.jpg
+image: https://media.fullofwishes.co.uk/flickr-downloads/49033619767_80bd2e7a10_b.jpg
 categories:
  - artefacts
  - galaxie 500
@@ -21,7 +21,7 @@ flickr: true
 longpost: true
 ---
 Just to reinforce yesterday's On Fire love in the wake of [On Fire \| 30 tribute album](/2019/11/07/on-fire-30-new-galaxie-500-tribute-cd-and-book-from-ahfow/), today's artefact is actually six artefacts: some of my copies of Galaxie 500's masterpiece.
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/49033619767/in/dateposted-public/" title="On Fire"><img src="https://live.staticflickr.com/65535/49033619767_80bd2e7a10_b.jpg" alt="On Fire"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/49033619767/in/dateposted-public/" title="On Fire"><img src="https://media.fullofwishes.co.uk/flickr-downloads/49033619767_80bd2e7a10_b.jpg" alt="On Fire"></a>
 
 The picture is actually already out of date because it's missing the beautiful orange vinyl copy that was released earlier this year (plus another cassette copy I acquired at some point).
 <!--more-->

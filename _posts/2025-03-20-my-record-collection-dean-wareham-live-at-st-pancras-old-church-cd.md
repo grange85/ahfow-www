@@ -28,7 +28,7 @@ The CD contains three Galaxie 500 songs, one Luna one, and two from Dean's most 
 
 Read the previous entries in this series for the story of the concerts that made up this release. I thought I'd use a photo that you can see a bit more of the church in this time, although it does mean that Britta is obscured - it seems to be a [theme of mine to have an obscured view of Britta](/2024/11/18/video-dean-britta-and-cheval-sombre-in-london-in-2009/).
 
-{% ahfowimage "https://live.staticflickr.com/65535/53322541205_eebc652fef_c.jpg" "IMG_1846" "https://www.flickr.com/photos/grange85/53322541205/in/album-72177720312571151/" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/53322541205_eebc652fef_c.jpg" "IMG_1846" "https://www.flickr.com/photos/grange85/53322541205/in/album-72177720312571151/" %}
 
  - *Catalogue Number:* AHFOW 10/089
  - *Artist:* Dean Wareham

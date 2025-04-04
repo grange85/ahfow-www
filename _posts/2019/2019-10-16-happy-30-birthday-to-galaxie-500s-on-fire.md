@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-10-16
-image: https://live.staticflickr.com/65535/48900206851_e08357ac19.jpg
+image: https://media.fullofwishes.co.uk/flickr-downloads/48900206851_e08357ac19.jpg
 categories:
  - news
  - galaxie 500
@@ -18,12 +18,12 @@ tags:
  - ahfow
 ---
 <div class="row">
-<div class="col-md-6"><figure class="aligncenter"><a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/48900206851/in/dateposted-public/" title="Galaxie 500 - On Fire (Rough Trade, 1989)"><img src="https://live.staticflickr.com/65535/48900206851_e08357ac19.jpg" alt="Galaxie 500 - On Fire (Rough Trade, 1989)"></a></figure></div>
+<div class="col-md-6"><figure class="aligncenter"><a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/48900206851/in/dateposted-public/" title="Galaxie 500 - On Fire (Rough Trade, 1989)"><img src="https://media.fullofwishes.co.uk/flickr-downloads/48900206851_e08357ac19.jpg" alt="Galaxie 500 - On Fire (Rough Trade, 1989)"></a></figure></div>
 
-<div class="col-md-6"><figure class="aligncenter"><a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/48900408572/in/dateposted-public/" title="Galaxie 500 - On Fire (Rough Trade, 1989)"><img src="https://live.staticflickr.com/65535/48900408572_c0770df699.jpg" alt="Galaxie 500 - On Fire (Rough Trade, 1989)"></a></figure></div>
+<div class="col-md-6"><figure class="aligncenter"><a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/48900408572/in/dateposted-public/" title="Galaxie 500 - On Fire (Rough Trade, 1989)"><img src="https://media.fullofwishes.co.uk/flickr-downloads/48900408572_c0770df699.jpg" alt="Galaxie 500 - On Fire (Rough Trade, 1989)"></a></figure></div>
 </div>
 
-<figure class="aligncenter"><a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/48900055346/in/dateposted-public/" title="on-fire-presser-1989"><img src="https://live.staticflickr.com/65535/48900055346_21bb29d372_o.jpg" alt="on-fire-presser-1989"></a></figure>
+<figure class="aligncenter"><a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/48900055346/in/dateposted-public/" title="on-fire-presser-1989"><img src="https://media.fullofwishes.co.uk/flickr-downloads/48900055346_21bb29d372_o.jpg" alt="on-fire-presser-1989"></a></figure>
 
 > ‘On Fire’, the new LP, is altogether a more considered - “slower, more lush, and more live” (Damon) affair than Today, proving conclusively there's more to GALAXIE 500 than their amps.    
 > ‘On Fire’ is released on Rough Trade Records on 16th October 1989.  

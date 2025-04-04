@@ -56,7 +56,7 @@ Britta clearly loves playing with tech and makes new and interesting music becus
 
 _I suspect they won't agree, and I don't suppose I'll ever really convince them but Wonderful Christmastime is **right up their alley!**_
 
-{% ahfowimage "https://live.staticflickr.com/65535/54209149847_b99504e08e_c.jpg" "Now playing: Wonderful Christmastime" "https://www.flickr.com/photos/grange85/54209149847/in/dateposted/" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/54209149847_b99504e08e_c.jpg" "Now playing: Wonderful Christmastime" "https://www.flickr.com/photos/grange85/54209149847/in/dateposted/" %}
 
 If I haven't won you around with that heartfelt plea - at least go listen to [McCartney II](https://en.wikipedia.org/wiki/McCartney_II) it might at least help you to understand why I think the way I do!
 

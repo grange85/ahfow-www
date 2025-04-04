@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-08-01
-image: https://live.staticflickr.com/65535/48244507501_015b7db546_c.jpg
+image: https://media.fullofwishes.co.uk/flickr-downloads/48244507501_015b7db546_c.jpg
 categories:
  - artefacts
  - luna
@@ -19,7 +19,7 @@ tags:
  - answerphone
 flickr: true
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48244507501/in/dateposted/" title="TEAC C60 cassette"><img src="https://live.staticflickr.com/65535/48244507501_015b7db546_c.jpg" alt="TEAC C60 cassette"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48244507501/in/dateposted/" title="TEAC C60 cassette"><img src="https://media.fullofwishes.co.uk/flickr-downloads/48244507501_015b7db546_c.jpg" alt="TEAC C60 cassette"></a>
 
 Another bonus artefact this week as it's Dean Wareham's birthday, so today's artefact is this rather innocuous, cheap C60 cassette.
 

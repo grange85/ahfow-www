@@ -22,7 +22,7 @@ flickr: true
 longpost: true
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48100183816/in/dateposted-public/" title="Daniel Land"><img src="https://live.staticflickr.com/65535/48100183816_7047aa402b_c.jpg" alt="Daniel Land"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48100183816/in/dateposted-public/" title="Daniel Land"><img src="https://media.fullofwishes.co.uk/flickr-downloads/48100183816_7047aa402b_c.jpg" alt="Daniel Land"></a>
 
 To celebrate the release of the sixth single in the [Sonic Cathedral singles club](http://www.soniccathedral.co.uk/singlesclub/) the fab London indie put on a celebration of all things Luna and Dean at The Social on Thursday night. Sadly for reasons of geography no members of Luna could make an appearance so it was very much a fan driven endeavor - and Sonic Cathedral managed to put together a wonderful evening.
 
@@ -37,7 +37,7 @@ First up was a presentation of Matthew Buzzell's excellent Tell Me Do You Miss M
 
 Next up was a short but devastatingly beautiful set of Luna numbers by Daniel Land. He took Luna's songs and made them fragile and heartbreaking. The set opened with Lost in Space and followed it with Moon Palace and California (All The Way). A truly beautiful treat and I consider myself very lucky to have been in the room for it.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48100284377/in/dateposted-public/" title="Buffalo Postcard with Ben Phillipson"><img src="https://live.staticflickr.com/65535/48100284377_c7603d85ae_c.jpg" alt="Buffalo Postcard with Ben Phillipson"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48100284377/in/dateposted-public/" title="Buffalo Postcard with Ben Phillipson"><img src="https://media.fullofwishes.co.uk/flickr-downloads/48100284377_c7603d85ae_c.jpg" alt="Buffalo Postcard with Ben Phillipson"></a>
 
 After a short break next up was a collaboration between the excellent Buffalo Postcard (whose single was the first release of the Sonic Cathedral singles club) and Ben Phillipson of the excellent Trimdon Grange Explosion (and previously the also excellent Eighteenth Day of May). This was a complete change from Daniel's set, the band took three Luna songs and three Galaxie 500 songs (sort of) and rock and rolled them perfectly, ornamenting with back-of-the-neck-bristling guitar breaks and clear love of the bands. They opened with a Luna set of Sideshow By The Seashore, Slide and Anesthesia and followed this with a set of Galaxie 500's Tell Me, Parking Lot and a "cover of a cover" of Ceremony.
 

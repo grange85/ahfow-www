@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-07-26
-image: https://live.staticflickr.com/65535/48146530781_9a11d93f3b_b.jpg
+image: https://media.fullofwishes.co.uk/flickr-downloads/48146530781_9a11d93f3b_b.jpg
 categories:
  - artefacts
  - dean wareham
@@ -17,7 +17,7 @@ tags:
  - indietracks
 flickr: true
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48146530781/in/dateposted/" title="Dean Wareham at Indietracks - setlist - 2014"><img src="https://live.staticflickr.com/65535/48146530781_9a11d93f3b_b.jpg" alt="Dean Wareham at Indietracks - setlist - 2014"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48146530781/in/dateposted/" title="Dean Wareham at Indietracks - setlist - 2014"><img src="https://media.fullofwishes.co.uk/flickr-downloads/48146530781_9a11d93f3b_b.jpg" alt="Dean Wareham at Indietracks - setlist - 2014"></a>
 
 So, this time five years ago I was at the always wonderful [Indietracks Festival](https://www.indietracks.co.uk/category/2014/) held at a heritage railway in Derbyshire. This was my second Indietracks and I had tickets long before it was announced that Dean would be playing. In January I had hinted to Nat of Sonic Cathedral that Dean ought to play Indietracks and his appearance was announced in March so I like to imagine that I was partially responsible for it!
 

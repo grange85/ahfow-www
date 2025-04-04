@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image: https://live.staticflickr.com/65535/53632686794_662dfda4c6_c.jpg
+image: https://media.fullofwishes.co.uk/flickr-downloads/53632686794_662dfda4c6_c.jpg
 categories:
 - admin
 - news
@@ -17,7 +17,7 @@ tags:
 - everything's swirling
 date: 2024-04-05 00:00 +0000
 ---
-{% ahfowimage "https://live.staticflickr.com/65535/53632686794_662dfda4c6_c.jpg" "60 albums - part 1" "https://www.flickr.com/photos/78462059@N00/53632686794/" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/53632686794_662dfda4c6_c.jpg" "60 albums - part 1" "https://www.flickr.com/photos/78462059@N00/53632686794/" %}
 
 Apologies for a bit of cross promotion. Next month I'll reach 60 and since the beginning of the year over on my personal blog [Everything's Swirling](https://www.grange85.co.uk/swirling) I've been posting about an album from every year of my life (the series is called [60 albums](https://www.grange85.co.uk/swirling/category/60-albums) but of course, there'll be 61 becuase... artithmetic!
 

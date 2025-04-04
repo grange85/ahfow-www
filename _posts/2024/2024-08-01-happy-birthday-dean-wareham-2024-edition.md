@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image: https://live.staticflickr.com/65535/52791663954_c4775cae0d_b.jpg
+image: https://media.fullofwishes.co.uk/flickr-downloads/52791663954_c4775cae0d_b.jpg
 categories:
 - dean wareham
 - galaxie 500
@@ -57,13 +57,13 @@ I made it along to the soundcheck for that one - here they are playing the same 
 
 ... and some pics:
 
-{% ahfowimage "https://live.staticflickr.com/65535/52791663954_c4775cae0d_z.jpg" "Dean Wareham soundcheck at The Garage, March 2023" "https://www.flickr.com/photos/grange85/52791663954/" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/52791663954_c4775cae0d_z.jpg" "Dean Wareham soundcheck at The Garage, March 2023" "https://www.flickr.com/photos/grange85/52791663954/" %}
 
-{% ahfowimage "https://live.staticflickr.com/65535/52791820895_bea3c5e16d_z.jpg" "Dean Wareham soundcheck at The Garage, March 2023" "https://www.flickr.com/photos/grange85/52791820895/" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/52791820895_bea3c5e16d_z.jpg" "Dean Wareham soundcheck at The Garage, March 2023" "https://www.flickr.com/photos/grange85/52791820895/" %}
 
 I also got a visit from Dean & Britta at work back in April...
 
-{% ahfowimage "https://live.staticflickr.com/65535/53679284864_b34f0d7b11_z.jpg" "Me, Dean and Britta outside TNA" "https://www.flickr.com/photos/grange85/53679284864/" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/53679284864_b34f0d7b11_z.jpg" "Me, Dean and Britta outside TNA" "https://www.flickr.com/photos/grange85/53679284864/" %}
 
 And the things on the horizon are...
 

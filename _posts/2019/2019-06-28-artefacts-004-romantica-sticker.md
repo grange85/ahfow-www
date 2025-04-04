@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2019-06-28
-image: https://live.staticflickr.com/65535/47984559351_6c902bc730_c.jpg
+image: https://media.fullofwishes.co.uk/flickr-downloads/47984559351_6c902bc730_c.jpg
 categories:
  - artefacts
  - luna
@@ -17,7 +17,7 @@ tags:
  - promotional material
 flickr: true
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/47984559351/in/dateposted/" title="Luna Romatica promo stickers"><img src="https://live.staticflickr.com/65535/47984559351_6c902bc730_c.jpg" alt="Luna Romatica promo stickers"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/47984559351/in/dateposted/" title="Luna Romatica promo stickers"><img src="https://media.fullofwishes.co.uk/flickr-downloads/47984559351_6c902bc730_c.jpg" alt="Luna Romatica promo stickers"></a>
 
 When Luna released Romantica Dean sent me a promo CD and a bunch of these stickers - one was inscribed _For Adam love Dean_ - when Romantica came out Adam wasn't even five so wasn't getting his sticker. He still hasn't got it.
 

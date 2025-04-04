@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2020-07-26
-image: https://live.staticflickr.com/65535/50154779017_82fc0028ba_c.jpg
+image: https://media.fullofwishes.co.uk/flickr-downloads/50154779017_82fc0028ba_c.jpg
 categories:
  - dean & britta
  - review
@@ -16,11 +16,11 @@ tags:
  - live stream
 flickr: true
 ---
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/50154779017/in/album-72157715243203528/" title="Britta looks"><img src="https://live.staticflickr.com/65535/50154779017_82fc0028ba_c.jpg" alt="Britta looks"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/50154779017/in/album-72157715243203528/" title="Britta looks"><img src="https://media.fullofwishes.co.uk/flickr-downloads/50154779017_82fc0028ba_c.jpg" alt="Britta looks"></a>
 
 Last night Dean & Britta played their ~~third~~ fourth live streamed concert since lockdown and the first one at a sensible time for European fans. For this one they also roped in Roger Brogan to help with the sound and to play drums.
 
-<div class="col-md-6 float-right"><a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/50154553211/in/album-72157715243203528/" title="Dean calls the helpdesk"><img src="https://live.staticflickr.com/65535/50154553211_b1bbab649e_z.jpg" alt="Dean calls the helpdesk"></a></div>
+<div class="col-md-6 float-right"><a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/50154553211/in/album-72157715243203528/" title="Dean calls the helpdesk"><img src="https://media.fullofwishes.co.uk/flickr-downloads/50154553211_b1bbab649e_z.jpg" alt="Dean calls the helpdesk"></a></div>
 
 The duo have decided to used the Veeps platform for the concerts which consensus seems to suggest was a wise decision as the sound quality is pretty good although for the first ten minutes of last night's performance you wouldn't have known that as the show started without sound. After a couple of minutes of their opener the message that the only people who could hear the show were the three folk in D&B's living room the event ground to a halt. With some knob twiddling and a call to tech support things were finally resolved and the concert restarted with My Rifle, My Pony and Me from [Dean and Cheval Sombre's album of cowboy songs](/database/dean-and-britta/dean-wareham-releases/dean-wareham-vs-cheval-sombre/) from a couple of years back.
 
@@ -32,7 +32,7 @@ Among the Galaxie 500 tracks was a beautiful rendition of Sorry - written by Dam
 
 The show finished with an _encore_ of a cover of Donovan's Sadness and then a perfect Ceremony.
 
-<div class="col-md-6 float-right"><a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/50154544056/in/album-72157715243203528/" title="B-a-a-a-a-b-y"><img src="https://live.staticflickr.com/65535/50154544056_abd8eaa781_z.jpg" alt="B-a-a-a-a-b-y"></a></div>
+<div class="col-md-6 float-right"><a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/50154544056/in/album-72157715243203528/" title="B-a-a-a-a-b-y"><img src="https://media.fullofwishes.co.uk/flickr-downloads/50154544056_abd8eaa781_z.jpg" alt="B-a-a-a-a-b-y"></a></div>
 
 Definitely the best of the three shows so far - and an absolute joy to see them live. The Veeps platform has a _chat_ that was quite active during the show and was nice to have some level of interaction with other fans... lovely to _see_ so many familiar _faces_ in there.
 
@@ -46,9 +46,9 @@ The one thing that was really missed was band/audience and inter-audience feedba
 
 Dean suggested that they may release audio of the shows at some point... so watch this space. He also mentioned [the series of lathe cut singles that would be released soon](https://www.instagram.com/p/CC63d3CjBgM/) - not too much additional information, except that their cover of Donovan's Sadness would be included. Again... watch this space for more details.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/50154544111/in/album-72157715243203528/" title="Dean &amp; Britta"><img src="https://live.staticflickr.com/65535/50154544111_5d87318a37_c.jpg" alt="Dean &amp; Britta"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/50154544111/in/album-72157715243203528/" title="Dean &amp; Britta"><img src="https://media.fullofwishes.co.uk/flickr-downloads/50154544111_5d87318a37_c.jpg" alt="Dean &amp; Britta"></a>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/50153999613/in/album-72157715243203528/" title="Roger"><img src="https://live.staticflickr.com/65535/50153999613_f2a43bbd22_c.jpg" alt="Roger"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/50153999613/in/album-72157715243203528/" title="Roger"><img src="https://media.fullofwishes.co.uk/flickr-downloads/50153999613_f2a43bbd22_c.jpg" alt="Roger"></a>
 
 Full setlist ([posted to Dean's Instagram](https://www.instagram.com/p/CDFEuJlDbbJ/)):
 

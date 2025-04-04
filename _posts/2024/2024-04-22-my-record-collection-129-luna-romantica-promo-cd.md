@@ -43,7 +43,7 @@ From my brief bit of Googling Rene seems to have been an interesting woman, here
 
 Since there haven't been enough cat pics in the series here's our much missed Penny posing with some Romantica promo material
 
-{% ahfowimage "https://live.staticflickr.com/65535/53506183688_e9ab7f2648_c.jpg" "Penny and Romantica" "https://www.flickr.com/photos/grange85/53506183688/in/dateposted/" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/53506183688_e9ab7f2648_c.jpg" "Penny and Romantica" "https://www.flickr.com/photos/grange85/53506183688/in/dateposted/" %}
 
  - *Catalogue Number:* AHFOW 10/055
  - *Artist:* Luna

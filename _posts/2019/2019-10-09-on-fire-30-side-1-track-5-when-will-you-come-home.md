@@ -23,7 +23,7 @@ For research I sat and watched Kojak on my own, on my phone a few weeks back!
 
 Also I did a drawing!
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48825574552/in/datetaken/" title="Watching Kojak on my own"><img src="https://live.staticflickr.com/65535/48825574552_5c6872e9f9_c.jpg" alt="Watching Kojak on my own"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48825574552/in/datetaken/" title="Watching Kojak on my own"><img src="https://media.fullofwishes.co.uk/flickr-downloads/48825574552_5c6872e9f9_c.jpg" alt="Watching Kojak on my own"></a>
 
 {% ahfowvideo "EloWhfc3ANY" "When Will You Come Home - Galaxie 500 (dir: Sergio Huidor)" %}
 

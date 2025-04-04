@@ -10,7 +10,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image: https://live.staticflickr.com/65535/54231180750_e3b39ef632_c.jpg
+image: https://media.fullofwishes.co.uk/flickr-downloads/54231180750_e3b39ef632_c.jpg
 categories:
 - editorial
 tags:
@@ -18,7 +18,7 @@ tags:
 date: 2025-01-01 00:00 +0000
 ---
 Surprised to discover that I haven't done a _review of the year_ since the [2018 one](/2019/01/01/review-of-the-year-2018/), probably because I didin't think they were _that_ interesting - but what else will I be doing in the lull between Xmas and New Year... so, here's the AHFoW review of 2024.
-{% ahfowimage "https://live.staticflickr.com/65535/54231180750_e3b39ef632_c.jpg" "Review of the year - 2024" "https://www.flickr.com/photos/grange85/54231180750/in/dateposted/" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/54231180750_e3b39ef632_c.jpg" "Review of the year - 2024" "https://www.flickr.com/photos/grange85/54231180750/in/dateposted/" %}
 2024 was a quiet year for shows, here are the numbers I have (remembering that some do slip through the net):
  - Luna - six dates, all in the US
  - Damon & Naomi - seven dates, in the US and Japan
@@ -45,7 +45,7 @@ Quiet for them, but not for me
 
  - Dean and Britta were in Portugal with Sonic Boom working on what was to become [A Peace of Us](/2024/12/02/my-record-collection-r11-dean-britta-sonic-boom-a-peace-of-us/).
  - I retired after almost eleven years at The National Archives... and on my last day Dean and Britta turned up with a couple of the Bandbox live LPs, and the RSD L'avventura:
-{% ahfowimage "https://live.staticflickr.com/65535/53679284864_b34f0d7b11_c.jpg" "Britta (with a bag of records), me and Dean at TNA" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/53679284864_b34f0d7b11_c.jpg" "Britta (with a bag of records), me and Dean at TNA" %}
  - Since no one had played, or was going to play, any live shows in the UK this year I was thrilled I still got to see them!
  - Damon & Naomi played a few dates with Kath Bloom
 {% ahfowvideo "DdleDVLqiFo" "Damon & Naomi with Kath Bloom - It's So Hard to Come Home (Institute Library, New Haven - 11th May)" "https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-naomi-kath-bloom-new-haven-2024.jpg" %}
@@ -60,7 +60,7 @@ Quiet for them, but not for me
  - Galaxie 500's [Uncollected Noise New York '88 - '90](/2024/10/08/my-record-collection-recent-acquisition-09-and-10-galaxie-500-uncollected-noise-new-york-88-90/) hits the shops in a myriad of variants, multiple vinyl colours, special editions, test pressings, CD and cassette versions. I buy two vinyl copies!
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-uncollected-handmade-vs-indie.jpg" "Galaxie 500 - Uncollected x2" %}
  - The ex-members of Galaxie 500 [do the rounds](/2024/10/08/more-galaxie-500-uncollected-interviews/) of interviews - and get a decent sized piece in Mojo
-{% ahfowimage "https://live.staticflickr.com/65535/53926182947_94c178bd70_c.jpg" "Mojo - October 2024" "https://www.flickr.com/photos/grange85/53926182947/in/photolist-2qagMqX-2qaoG4i" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/53926182947_94c178bd70_c.jpg" "Mojo - October 2024" "https://www.flickr.com/photos/grange85/53926182947/in/photolist-2qagMqX-2qaoG4i" %}
 
 ### October
  - Dean, Britta, and Sonic Boom's Christmas album is announced.

@@ -17,7 +17,7 @@ tags:
  - penthouse
 flickr: true
 ---
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/50205029348/in/dateposted-public/" title="Luna - Penthouse cassette (Beggars Banquet, 1995)"><img src="https://live.staticflickr.com/65535/50205029348_a74f3ef931_c.jpg" alt="Luna - Penthouse cassette (Beggars Banquet, 1995)"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/50205029348/in/dateposted-public/" title="Luna - Penthouse cassette (Beggars Banquet, 1995)"><img src="https://media.fullofwishes.co.uk/flickr-downloads/50205029348_a74f3ef931_c.jpg" alt="Luna - Penthouse cassette (Beggars Banquet, 1995)"></a>
 
 Happy 25th birthday to Luna's third album, the masterpiece that is Penthouse!
 
@@ -62,7 +62,7 @@ I Hope the band don't mind me popping this up here but this is an early/rough of
   "sourcecap": "Penthouse Rough Mixes and Outtakes"
   } %}
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/50205975722/in/dateposted-public/" title="Penthouse deluxe (2017)"><img src="https://live.staticflickr.com/65535/50205975722_67a02567d6_c.jpg" alt="Penthouse deluxe (2017)"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/50205975722/in/dateposted-public/" title="Penthouse deluxe (2017)"><img src="https://media.fullofwishes.co.uk/flickr-downloads/50205975722_67a02567d6_c.jpg" alt="Penthouse deluxe (2017)"></a>
 
 ... better late than never - happy birthday you beauty!
 
