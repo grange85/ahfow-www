@@ -7,7 +7,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2016-06-20'
-image: https://media.fullofwishes.co.uk/flickr-downloads/8626/16124343647_b453f35d0b_o.jpg
+image: https://media.fullofwishes.co.uk/flickr-downloads/16124343647_b453f35d0b_o.jpg
 categories:
 - damon & naomi
 - news
@@ -20,7 +20,7 @@ longpost: true
 ---
 <p class="lead">Damon & Naomi's tremendous fourth album <a href="https://damonandnaomi.bandcamp.com/album/damon-naomi-with-ghost">Damon & Naomi with Ghost is now available on Bandcamp</a>.</p>
 
-<div class="text-center"><figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/16124343647/" title="The very lovely Damon & Naomi with Ghost #lp #damonandnaomi #withghost #ghost #vinyl #ahfow"><img src="https://media.fullofwishes.co.uk/flickr-downloads/8626/16124343647_b453f35d0b_o.jpg" alt="The very lovely Damon & Naomi with Ghost #lp #damonandnaomi #withghost #ghost #vinyl #ahfow"></a><figcaption>Damon & Naomi with Ghost LP</figcaption></figure></div>
+<div class="text-center"><figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/16124343647/" title="The very lovely Damon & Naomi with Ghost #lp #damonandnaomi #withghost #ghost #vinyl #ahfow"><img src="https://media.fullofwishes.co.uk/flickr-downloads/16124343647_b453f35d0b_o.jpg" alt="The very lovely Damon & Naomi with Ghost #lp #damonandnaomi #withghost #ghost #vinyl #ahfow"></a><figcaption>Damon & Naomi with Ghost LP</figcaption></figure></div>
 
 <p>For those who prefer their beautiful albums in a more tactile form you can also <a href="http://www.20-20-20.com/store/with-ghost">buy the album on CD and vinyl from 20|20|20</a>.</p>
 

@@ -12,7 +12,7 @@ categories:
 - luna
 - originals
 ---
-![Young at heart](https://media.fullofwishes.co.uk/flickr-downloads/4605085808_3212f5052d_z.jpg){:.img-fluid} You see I didn't think this through fully. Back when I started this series and was posting tracks by [Big Star](/2013/03/06/originals-blue-moon-by-big-star-covered-by-damon-naomi/), [Caetono Veloso](/2013/02/07/originals-araca-azul-by-caetano-veloso-covered-by-damon-naomi/), [Joanthan Richman](/2013/02/20/originals-back-in-your-life-by-jonathan-richman-covered-by-galaxie-500/) and [Nancy Sinatra](/2013/03/27/originals-by-the-way-i-still-love-you-by-nancy-sinatra-covered-by-cagney-and-lacee/), it didn't cross my mind that the day would eventually arrive when I'd have to post a Guns N' Roses video to AHFoW. Well, today that day has arrived.
+You see I didn't think this through fully. Back when I started this series and was posting tracks by [Big Star](/2013/03/06/originals-blue-moon-by-big-star-covered-by-damon-naomi/), [Caetono Veloso](/2013/02/07/originals-araca-azul-by-caetano-veloso-covered-by-damon-naomi/), [Joanthan Richman](/2013/02/20/originals-back-in-your-life-by-jonathan-richman-covered-by-galaxie-500/) and [Nancy Sinatra](/2013/03/27/originals-by-the-way-i-still-love-you-by-nancy-sinatra-covered-by-cagney-and-lacee/), it didn't cross my mind that the day would eventually arrive when I'd have to post a Guns N' Roses video to AHFoW. Well, today that day has arrived.
 
 Sweet Child o' Mine was recorded for Guns N' Roses 1987 debut album Appetite for Destruction and was their only US number 1 single
 

@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: '2016-12-09'
-image: https://media.fullofwishes.co.uk/flickr-downloads/1588/24737846235_e316870368_b.jpg
+image: https://media.fullofwishes.co.uk/flickr-downloads/24737846235_e316870368_b.jpg
 categories:
  - galaxie 500
  - favourite galaxie 500 covers
@@ -17,7 +17,7 @@ tags:
  - jason russo
  - cover versions
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/24737846235/in/dateposted/" title="Sorry"><img src="https://media.fullofwishes.co.uk/flickr-downloads/1588/24737846235_e316870368_b.jpg" alt="Sorry"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/24737846235/in/dateposted/" title="Sorry"><img src="https://media.fullofwishes.co.uk/flickr-downloads/24737846235_e316870368_b.jpg" alt="Sorry"></a>
 
 
 <p class="lead">So I kicked off this series without really thinking it through - I set two stupidly arbitrary rules for myself<sup><a href="#footnote-1">[1]</a></sup> ~ the second one was not to over-mine the rich seam that the two tribute albums provided. This meant I had to pick from them for reasons that might seem a little&hellip; unfair.</p>

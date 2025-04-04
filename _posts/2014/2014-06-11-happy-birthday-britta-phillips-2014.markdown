@@ -13,7 +13,6 @@ categories:
 - video
 - audio
 ---
-![Britta Phillips](https://media.fullofwishes.co.uk/flickr-downloads/5896032582_d1a11c5ac3_z.jpg){:.img-fluid}  
 Happy birthday Britta.
 
 So far this year Britta has been Dean's bass player, made a cameo in forthcoming movie of [Jem and the Holograms](http://www.imdb.com/title/tt3614530/combined), and is hopefully wrapping up the album that was delayed by the untimely passing of producer Scott Hardkiss

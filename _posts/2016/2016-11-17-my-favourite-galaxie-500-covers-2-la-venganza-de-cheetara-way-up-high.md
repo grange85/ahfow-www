@@ -8,7 +8,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: '2016-11-17'
-image: https://media.fullofwishes.co.uk/flickr-downloads/2469/3537950777_8dcef52ce5_z.jpg
+image: https://media.fullofwishes.co.uk/flickr-downloads/3537950777_8dcef52ce5_z.jpg
 categories:
  - galaxie 500
  - favourite galaxie 500 covers
@@ -16,7 +16,7 @@ tags:
  - la venganza de cheetara
  - cover versions
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/peterscherub/23916016321/" title="All the fun of the fair 2"><img src="https://media.fullofwishes.co.uk/flickr-downloads/5692/23916016321_baafb949bd_b.jpg" alt="All the fun of the fair 2"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/peterscherub/23916016321/" title="All the fun of the fair 2"><img src="https://media.fullofwishes.co.uk/flickr-downloads/23916016321_baafb949bd_b.jpg" alt="All the fun of the fair 2"></a>
 
 <p>To be honest I only came across La venganza de Cheetara a couple of weeks ago. I know very little about them - here's all of that: They're from Argentina, they're a trio, that's it.</p>
 

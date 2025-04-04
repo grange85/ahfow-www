@@ -7,14 +7,14 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2016-07-11'
-image: https://media.fullofwishes.co.uk/flickr-downloads/5619/20012667640_4797e1025f_b.jpg
+image: https://media.fullofwishes.co.uk/flickr-downloads/20012667640_4797e1025f_b.jpg
 categories:
 - news
 tags:
 description: >
   Luna have added a dates in Manchester and Oxford for their visit to the UK in October. They had previously announced shows in London and Bognor Regis.
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/20012667640/in/datetaken/" title="Luna at last night&#x27;s splendid show in London #ahfow #luna #lunareunion #london #thegarage   Sorry Lee, but if you must sit at the back in the dark …"><img src="https://media.fullofwishes.co.uk/flickr-downloads/5619/20012667640_4797e1025f_b.jpg" alt="Luna at last night&#x27;s splendid show in London #ahfow #luna #lunareunion #london #thegarage   Sorry Lee, but if you must sit at the back in the dark …"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/20012667640/in/datetaken/" title="Luna at last night&#x27;s splendid show in London #ahfow #luna #lunareunion #london #thegarage   Sorry Lee, but if you must sit at the back in the dark …"><img src="https://media.fullofwishes.co.uk/flickr-downloads/20012667640_4797e1025f_b.jpg" alt="Luna at last night&#x27;s splendid show in London #ahfow #luna #lunareunion #london #thegarage   Sorry Lee, but if you must sit at the back in the dark …"></a>
 <p class="lead">Luna have announced a couple more shows in the UK when they visit in October. In addition to the shows already announced in London and Bognor Regis they will be playing in Manchester on the 5th October and Oxford on the 6th.</p>
 <p>For the shows in Manchester and London the band will be playing their 1995 masterpiece Penthouse in Full.</p>
 <table class="table table-striped">

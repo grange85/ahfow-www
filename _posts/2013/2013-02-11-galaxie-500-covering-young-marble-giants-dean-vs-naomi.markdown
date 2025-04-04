@@ -19,4 +19,3 @@ categories:
 <p>Which do you prefer... I, of course, love them both equally!</p>
 <p>And, pre-empting its appearance in my <a href="/category/originals/">Originals</a> posts in a couple of months time... if you've never heard the fantastic original...</p>
 {% ahfowvideo "rB8ymBZwgOE" "" %}
-<p><a href="http://www.flickr.com/photos/oranjh/8458492278/" title="FinalDay_1 by Oranj, on Flickr"><img class="aligncenter" src="https://media.fullofwishes.co.uk/flickr-downloads/8458492278_87959a0b08_z.jpg" alt="FinalDay_1"></a></p>

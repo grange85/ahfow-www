@@ -12,7 +12,6 @@ categories:
 - dean wareham
 - lost tracks
 ---
-<p><a href="http://www.flickr.com/photos/meiandra/7799058126/" title="indian summer by kelsey hannah, on Flickr"><img class="aligncenter" src="https://media.fullofwishes.co.uk/flickr-downloads/7799058126_dc4988fa4c_z.jpg" alt="indian summer"></a></p>
 <p>This cover of Beat Happening's Indian Summer turned up on a 7" single given away with issue #7 of Chemical Imbalance and was recorded while Galaxie 500 were still a going concern. I don't think it gets a mention in Black Postcards (although I don't have a searchable version as yet - a Kindle issue would be nice sometime - particularly as my hardback is falling apart - a good fan would have taken more care of his signed copy!).<br />
 <a id="more"></a><a id="more-3595"></a><br />
 Damon mentioned it in <a href="http://www.terrascope.co.uk/MyBackPages/Damon_and_Naomi.htm">the Ptolemaic Terrascope interview</a> but only in passing...</p>

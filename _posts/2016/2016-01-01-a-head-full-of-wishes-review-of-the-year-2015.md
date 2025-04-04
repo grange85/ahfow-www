@@ -22,7 +22,6 @@ categories:
 
 <p>Also in February the members of <a href="/2015/02/09/another-luna-social-gathering/">Luna got together in Los Angeles for a social event</a> - it was also announced that the first reunion show would happen at The Echo in Los Angeles on the 13 April - tickets sold out almost instantly. It seems folk were ready for the reunion...</p>
 
-<figure class="caption aligncenter">{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/15853656523_8d1d68b80d_b.jpg" "Aquarian Birthday Soiree" "https://www.flickr.com/photos/youdiejoe/15853656523/in/album-72157650694997712/" %}
 
 <p>In <strong>March</strong> Dean dropped a hint that Luna's first five albums will be getting released in a vinyl box set... we're still waiting.</p>
 

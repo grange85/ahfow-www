@@ -12,7 +12,6 @@ categories:
 - video
 - audio
 ---
-<p><a href="https://www.flickr.com/photos/amigomac/4542009280" title="Jonathan Richman en Montevideo by Pablo Ibañez, on Flickr"><img src="https://media.fullofwishes.co.uk/flickr-downloads/4030/4542009280_b24386d35a_z.jpg" alt="Jonathan Richman en Montevideo"></a></p>
 <blockquote cite="http://www.salon.com/2012/06/15/dean_wareham_my_jonathan_richman_romance/"><p>His voice sounds like he has a cold. He sings like he’s singing each line for the first time — the phrasing is striking, you feel like you are standing with him as a particular thought occurs.</p>
 <footer><a href="http://www.salon.com/2012/06/15/dean_wareham_my_jonathan_richman_romance/">Dean Wareham: My Jonathan Richman romance (Salon)</a></footer>
 </blockquote>
@@ -35,7 +34,7 @@ categories:
   "sourcecap": ""
   } %}
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/jasonpersse/7415234934" title="Dean & Britta"><img src="https://media.fullofwishes.co.uk/flickr-downloads/8009/7415234934_d3f692ec0e_o.jpg" alt="Dean & Britta"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/jasonpersse/7415234934" title="Dean & Britta"><img src="https://media.fullofwishes.co.uk/flickr-downloads/7415234934_d3f692ec0e_o.jpg" alt="Dean & Britta"></a>
 
 <p><a href="/2013/02/20/originals-back-in-your-life-by-jonathan-richman-covered-by-galaxie-500/">Originals: Back in Your Life by Jonathan Richman (covered by Galaxie 500)</a><br />
 <a href="/2013/06/19/originals-fly-into-the-mystery-by-jonathan-richman-the-modern-lovers-covered-by-luna/">Originals: Fly Into the Mystery by Jonathan Richman & The Modern Lovers (covered by Luna)</a><br />

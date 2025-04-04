@@ -16,4 +16,4 @@ categories:
 Rough Trade have posted a very lovely clip of Damon & Naomi performing The North Light from their recent performance at London's Rough Trade East. Sadly the video has embedding disabled so you'll have to <a href="https://vimeo.com/126922416">head over to Vimeo to see it</a> - it is very well worth the click though.</p>
 <p>Video: <a href="https://vimeo.com/126922416">Damon & Naomi - The North Light live at Rough Trade East - 9 April 2015</a></p>
 <p><a href="https://www.flickr.com/photos/grange85/sets/72157649532502063">You can see a few of my pictures from the show on Flickr</a>.</p>
-<p><a href="https://www.flickr.com/photos/grange85/16903508769" title="Naomi Yang by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://media.fullofwishes.co.uk/flickr-downloads/7595/16903508769_3da77289d7_z.jpg" alt="Naomi Yang"></a></p>
+<p><a href="https://www.flickr.com/photos/grange85/16903508769" title="Naomi Yang by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://media.fullofwishes.co.uk/flickr-downloads/16903508769_3da77289d7_z.jpg" alt="Naomi Yang"></a></p>

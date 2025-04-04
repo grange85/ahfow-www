@@ -12,7 +12,7 @@ categories:
  - damon & naomi
  - news
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/vixpen/8644722946/in/album-72157633228910787/" title="damon & naomi 10 april 2013"><img src="https://media.fullofwishes.co.uk/flickr-downloads/8531/8644722946_b917335971_b.jpg" alt="damon & naomi 10 april 2013"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/vixpen/8644722946/in/album-72157633228910787/" title="damon & naomi 10 april 2013"><img src="https://media.fullofwishes.co.uk/flickr-downloads/8644722946_b917335971_b.jpg" alt="damon & naomi 10 april 2013"></a>
 
 Happy birthday Naomi Yang Galaxie 500's bassist (and occasional singer) and Damon & Naomi's Naomi.
 

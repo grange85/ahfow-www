@@ -20,7 +20,6 @@ tags:
 {% ahfowvideo "rB8ymBZwgOE" "" %}
 <p>Here's Dean singing it as released on <a href="http://galaxie500.bandcamp.com/album/uncollected">Uncollected</a><br />
 <p>Here's Naomi singing it as recorded for their 1990 <a href="http://galaxie500.bandcamp.com/album/peel-sessions">Peel Session</a><br />
-<p><a href="http://www.flickr.com/photos/oranjh/8458492278/" title="FinalDay_1 by Oranj, on Flickr"><img class="aligncenter" src="https://media.fullofwishes.co.uk/flickr-downloads/8458492278_87959a0b08_z.jpg" alt="FinalDay_1"></a></p>
 <p>Here's Young Marble Giants playing it at the above-mentioned gig in London in February</p>
 {% ahfowvideo "DTRLm9ZOxkQ" "" %}
 <p><strong><a href="/category/originals/" title="List: Originals">See all posts in the Originals series</a></strong></p>
