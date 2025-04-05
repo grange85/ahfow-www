@@ -18,7 +18,7 @@ categories:
 tags:
 - 
 ---
-A few nice clips of Dean's UK shows (so far) have turned up on YouTube here are a few:
+Some nice clips of Dean's UK shows (so far) have turned up on YouTube here are a few:
 
 {% ahfowtrack "When Will You Come Home was" %}, for me, the highlight of the Glasgow show, I never don't get a buzz hearing Galaxie 500 songs live and this was perfect - do love a wigged out finish!
 {% ahfowvideo "X6r_PuHlDSY" "When Will You Come Home (Glasgow)" %}
