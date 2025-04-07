@@ -20,6 +20,6 @@ Back in November Dean & Britta were in the WXPN studios in Philadelphia to recor
 
 Beautiful gentle performances of As Much As It Was Worth from Dean's beautiful recent album [I Have Nothing to Say to The Mayor of L.A.](/database/dean-and-britta/dean-wareham-releases/dean-wareham-i-have-nothing-to-say-to-the-mayor-of-la/) and Luna's Into The Fold (from [Bewitched](https://www.fullofwishes.co.uk/database/luna/releases/luna-bewitched/))
 
-{% ahfowvideo "ebnNt3YT5SY" "As Much As It Was Worth" "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/2021-11-dean-wareham-indie-rock-hit-parade-2.jpg" %}
+{% ahfowvideo "ebnNt3YT5SY" "Just as Much As It Was Worth" "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/2021-11-dean-wareham-indie-rock-hit-parade-2.jpg" %}
 
 {% ahfowvideo "Bv_Ieifw95I" "Into the Fold" "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/2021-11-dean-wareham-indie-rock-hit-parade-3.jpg" %}
