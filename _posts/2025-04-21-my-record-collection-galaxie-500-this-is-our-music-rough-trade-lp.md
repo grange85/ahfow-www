@@ -22,7 +22,7 @@ So, we arrive at the EIGHTH copy of _This Is Our Music_ in [this series](/catego
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-this-is-our-music-rough-trade-uk-2.jpg" "Galaxie 500 - This Is Our Music (Rough Trade LP)" %}
 
-This is actually another copy of the Rough Trade LP, can't actually figure out why I have two copies... well, actually **three** copies since the only difference between this and the CWNW LP is the sticker on the shrinkwrap and the postcards slid into the sleeve. But... two (or three) copies I have.
+This is actually another copy of the Rough Trade LP, can't actually figure out why I have two copies... well, actually **three** copies since the only difference between this and the CWNN LP is the sticker on the shrinkwrap and the postcards slid into the sleeve. But... two (or three) copies I have.
 
 Periodically on the Galaxie 500 mailing list a discussion would kick off suggesting that Luna were better than Galaxie 500 which, as much as I love(d) Luna I was not willing to have any truck with - here's an exchange from 2004
 
