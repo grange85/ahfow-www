@@ -22,9 +22,9 @@ So now I'm back from The Netherlands, and have seen my last Dean Wareham show of
 
 {% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/aa-glasgow-april-2025-01.jpg" "Arrival in Glasgow" %}
 
-Since, disappointingly, Newcastle hadn't made it onto the tour schedule this time (despite there being seven UK shows!), I decided to head to Glasgow for the first date of the tour. Glasgow is a fairly easy journey from home, Metro from Whitley Bay to Newcasltle, then train to Edinburgh, and another to Glasgow.
+Since, disappointingly, Newcastle hadn't made it onto the tour schedule this time (despite there being seven UK shows!), I decided to head to Glasgow for the first date of the tour. Glasgow is a fairly easy journey from home, Metro from Whitley Bay to Newcastle, then a train to Edinburgh, and another to Glasgow.
 
-I arrived in the city by early afternoon and killed a bit of time wandering around before checking into my cheap (in both price and quality) hotel. After a bit of a rest I took the subway and headed west to meet up with Kelly and Kenny, first at their flat, for a cuppa, some chat, and some cat-love. Then to a rather excellent restaurant for some pre-show food - all of this took longer than anticipated so we arrived at the venue shortly before Dean Wareham and band took the stage.
+I arrived in the city by early afternoon and killed a bit of time wandering around before checking into my cheap (in both price and quality) hotel. After a bit of a rest I took the subway and headed west to meet up with Kelly and Kenny, first at their flat, for a cuppa, some chat, and some cat-love. Then to a rather excellent restaurant for some pre-show food - all of this took longer than anticipated so we arrived at the venue only shortly before Dean Wareham and band took the stage.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-glasgow-april-2025-01.jpg" "Dean Wareham - Glasgow, April 2025" %}
 
@@ -32,7 +32,7 @@ The Garage, is a fairly big hall, with a high stage, and some over-enthusuastic 
 
 {% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-glasgow-april-2025-02.jpg" "Dean Wareham and the 'Blue Thunder' band" %}
 
-The band, Dean and Britta with Roger Brogan on drums and Matt Popieluch on guitar/keys, opened with a run of six songs from Dean's new album with all sounded good live, and were well received. Next up was Galaxie 500's {% ahfowtrack "Parking Lot" %}, which seemed to be a little heavier/harder than I was expecting and took me a little qhile to come to terms with - maybe because it was hearing it live after a while, and maybe the venue and the audience required to to be so?
+The band, Dean and Britta with Roger Brogan on drums and Matt Popieluch on guitar/keys, opened with a run of six songs from Dean's new album which all sounded good live, and were well received. Next up was Galaxie 500's {% ahfowtrack "Parking Lot" %}, which seemed to be a little heavier/harder than I was expecting and took me a little while to come to terms with - maybe because it was the first time hearing a Galaxie 500 song live in quite a long time, and maybe the venue and the audience required to to be so?
 
 Galaxie 500's {% ahfowtrack "When Will You Come Home" %} was a personal highlight, although the whole set was fine and showed no sign of the fact that the band had only just arrived in the country.
 
