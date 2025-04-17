@@ -16,7 +16,7 @@ categories:
 - editorial
 tags:
 - glasgow
-date: 2025-04-18 00:00 +0000
+date: 2025-04-17 19:00 +0100
 ---
 So now I'm back from The Netherlands, and have seen my last Dean Wareham show of this tour I thought I'd just scribble down some thoughts/words about the three shows I've been at. This is not going to be any insightful analysis, or detailed review - more just a few half-baked reminscences surrounded by pictures and videos.
 
