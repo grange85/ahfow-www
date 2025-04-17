@@ -36,7 +36,7 @@ Damon & Naomi's track was co-written with the late Hugh Hopper of Soft Machine a
 "sourcecap": "Ptolemaic Terrascope benefit ep."
 } %}
 
-Naomi does use her [sruti box](https://en.wikipedia.org/wiki/Shruti_box) on the song, so it does have some appropriate instrumentation. I do seem to particularly love the songs where she plays the sruti, or her harmonium - see also [Spirit of Love](/2009/05/20/mp3-lost-tracks-5-damon-naomi-spirit-of-love/).
+Naomi does use her [sruti box](https://en.wikipedia.org/wiki/Shruti_box) on the song, so it does have some appropriate instrumentation (although, on second thoughts that might be her harmonium). I do seem to particularly love the songs where she plays the sruti, or her harmonium - see also [Spirit of Love](/2009/05/20/mp3-lost-tracks-5-damon-naomi-spirit-of-love/).
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/14-auspicious-dreams.jpg" "The Fourteen Dreams of Queen Trishala" "https://philamuseum.org/collection/object/62887" %}
 
