@@ -11,7 +11,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/tell-me-do-you-miss-me-region-1-dvd.jpg
 categories:
 - luna
 - my record collection
@@ -20,7 +20,7 @@ tags:
 ---
 This is the US copy of the documentary of Luna's "farewell tour" of 2004/5 and is, obviously, pretty much the same as [the rest of the world copy](/2024/03/07/my-record-collection-116-luna-tell-me-do-you-miss-me-dvd-region-2-3-4-5/) with the exception of the region encoding. Wouldn't life have been easier for everyone if they had made it region free in the first place? It's not like it's hard to bypass region encoding anyway?
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/tell-me-do-you-miss-me-region-1-dvd.jpg" "Tell Me Do You Miss Me (region 1)" %}
 
 This, I think, was sent to me by the director Matthew, or maybe by Dean - I don't think I bought it (but did buy the UK copy). 
 
@@ -34,3 +34,20 @@ Now, I tend to be of the opinion that when a band splits up, for good reasons, t
 ... but, I still stand by that!
 
 So... here I am watching it again - but this time with the commentary track, which I probably haven't listened to since it first arrived...
+
+I'm not sure how enjoyable the commentary is without the accompanying pictures but... I ripped it to an mp3 all the same:
+
+{% ahfowaudio {
+"audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/tmdymm-commentary.mp3",
+"audiocap": "Tell Me Do You Miss Me - audio commentary"
+} %}
+
+ - *Catalogue Number:* AHFOW 13/008
+ - *Artist:* Luna
+ - *Title:* Tell Me Do You Miss Me 
+ - *Notes:* Region 1 DVD
+ - *Format:* DVD
+
+Previously in [my record collection](/category/my-record-collection):
+ - [\[121\] Luna - Tell Me Do You Miss Me (DVD - region 2/3/4/5)](/2024/03/07/my-record-collection-116-luna-tell-me-do-you-miss-me-dvd-region-2-3-4-5/)
+ - [\[168\] Luna - Tell Me Do You Miss Me (LP)](/2024/08/12/my-record-collection-161-luna-tell-me-do-you-miss-me-lp/)

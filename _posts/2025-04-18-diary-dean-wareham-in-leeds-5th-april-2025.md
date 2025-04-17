@@ -76,3 +76,4 @@ Then grabbed some breakfast and headed home to prepare for one more show...
 
 {% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/breakfast-leeds-april-2025-001.jpg" "Leeds breakfast" %}
 
+Here are a [stack more pictures, of varying quality](https://photos.app.goo.gl/evDRWcdkEXfHEMsa6)
