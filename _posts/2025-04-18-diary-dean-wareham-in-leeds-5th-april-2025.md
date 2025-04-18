@@ -54,7 +54,7 @@ Since, at the moment, I'm one of the very few who's seen this live I hope Dean d
 
 {% ahfowvideo "qu50rKTtFKM" "Dean Wareham - Shout You Down (Galaxie 500, Leeds - soundcheck)" "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-leeds-shout-you-down-april-2025.jpg" %}
 
-Soundcheck over, I headed back to my Airbnb for a bit of a rest before heading off to the pub next door to The Brudenell to see if anyone was going to show for the pre-meet. Turns out I was late since Ulrika, Alan, Chris and Sara were already there. We sat around chatting and a few other folk turned up (Andrew, Mike, ...) and then headed into the venue to catch the support act - Cassie Ramone (formerly of The Vivian Girls)- who I'd missed in Glasgow, and played a sweet set of indie folk while sitting on her amp and accompanied by a guitarist standing beside her.
+Soundcheck over, I headed back to my Airbnb for a bit of a rest before heading off to the pub next door to The Brudenell to see if anyone was going to show for the pre-meet. Turns out I was late since Ulrika, Alan, Chris and Sara were already there. We sat around chatting and a few other folk turned up (Andrew, Joakim, ...) and then headed into the venue to catch the support act - Cassie Ramone (formerly of The Vivian Girls)- who I'd missed in Glasgow, and played a sweet set of indie folk while sitting on her amp and accompanied by a guitarist standing beside her.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/cassie-ramone-leeds-april-2025.jpg" "Cassie Ramone" %}
 
