@@ -37,4 +37,4 @@ Here are some more pictures from Galaxie 500 in Sheffield during 1990 thanks aga
 
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-11-10/galaxie-500-sheffield-1990-11-10-dean-03-enhanced-02-scragga.jpg" "Dean and Blackpool - Sheffield (Nov 1990)" "https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-11-10/galaxie-500-sheffield-1990-11-10-dean-03-enhanced-02-scragga.jpg" %}
 
-
+If anyone else has photos of Galaxie 500 I'd love to see and share them - please [get in touch](/about/)!
