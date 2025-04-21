@@ -56,7 +56,8 @@ For specific songs and any anomlies see:
 * [Galaxie 500 titles](#galaxie-500-titles)
 * [Luna titles](#luna-titles)
 * [Damon & Naomi titles](#damon-and-naomi-titles)
-* [Dean & Britta titles](dean-and-britta-titles)
+* [Dean & Britta titles]('dean-and-britta-titles)
+* [Dean Wareham titles]('dean-wareham-titles)
 * [Other titles](#other-titles)
 
 
@@ -122,4 +123,7 @@ You Turned My Head Around
 (Walkin' Thru The) Sleepy City
 : note spelling and parantheses,
 
+<h4 id="dean-wareham titles">Dean Wareham titles</h4>
+Just as Much as It Was Worth
+: the 'just' is part of the title!
 <h4 id="other-titles">Other titles</h4>
