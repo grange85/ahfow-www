@@ -11,7 +11,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-and-britta-back-numbers-cd-zoe.jpg
 categories:
 - dean & britta
 - my record collection
@@ -20,9 +20,9 @@ tags:
 ---
 Assuming no unexpected additions between now and the end of the series this will be the last of three appearances for Dean & Britta's second album Back Numbers, and this is the CD I bought on release in 2007.
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-and-britta-back-numbers-cd-zoe.jpg" "Dean & Britta - Back Numbers (CD)" %}
 
-Back Numbers is the release where _Britta Phillips and Dean Wareham_ became [Dean & Britta]():
+Back Numbers is the release where _Britta Phillips and Dean Wareham_ became [Dean & Britta](/category/dean-britta):
 
 <blockquote>
 <p>"For the last record," explained Dean, "it was Britta Phillips and Dean Wareham. The main problem we ran into with that [is] it was difficult to alphabetize that and our last record got put under 'Phillips', so people who were going to look for the record just didn't know where to look." And the order of names? "I think 'Dean & Britta' rolls off the tongue better."</p>
@@ -33,4 +33,16 @@ Back Numbers is the release where _Britta Phillips and Dean Wareham_ became [Dea
 
 I think we all knew at the time that this was the right decision, the mailing list had been calling them _Dean & Britta_ (or occasionally _Britta & Dean_) pretty much since day one - it made sense - sorry Jack, it may not be a great "band name" but it's a long established and well considered duo naming scheme since the earliest days of pop music - see Nancy & Lee, Sonny & Cher, Peter & Gordon, Mel & Kim, Renée and Renato etc.
 
-I still think this is a better album than L'avventura, or at least has some better songs on it
+During Dean and Britta's run on Patreon they shared a short clip of them in the studio with Tony Visconti which I've salvaged here:
+
+{% ahfowvideo "xuY5wNqdV-g" "Dean and Britta recording Back Numbers" "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/recording-back-numbers.jpg" %}
+
+ - *Catalogue Number:* AHFOW 10/035
+ - *Artist:* Dean & Britta
+ - *Title:* Back Numbers
+ - *Format:* CD
+ - [Buy 'Back Numbers' on Bandcamp](https://deanandbritta.bandcamp.com/album/back-numbers)
+
+ Previously in [my record collection](/category/my-record-collection):
+  - [\[008\] Dean & Britta - Back Numbers (advance CD)](/2023/02/13/my-record-collection-008-dean-britta-back-numbers/)
+  - [\[184\] Dean & Britta - Back Numbers (LP)](/2024/10/07/my-record-collection-177-dean-britta-back-numbers-lp/)
