@@ -32,7 +32,7 @@ For the show in Utrecht I think Matt was poorly/unavailable so the show was play
 
 {% ahfowvideo "X--JQBi7CSE" "Dean Wareham - Listen, The Snow is Falling (Utrecht)" %}
 
-... and Don't Let Our Youth Go to Waste:
+... and Don't Let Our Youth Go to Waste getting an outing!
 
 {% ahfowvideo "uOR8VmwQr9w" "Dean Wareham - Don't Let Our Youth Go to Waste (Utrecht)" %}
 
