@@ -1,0 +1,8 @@
+---
+layout: null
+permalink: word-count.csv
+---
+"series-title","title","url","word-count"
+{% for post in site.posts -%}
+"{%- if post.series-title -%}{{post.series-title}}{%-endif-%}","{{ post.title | replace: '"','""'}}","{{post.url}}",{{post.content|number_of_words}}
+{% endfor %}

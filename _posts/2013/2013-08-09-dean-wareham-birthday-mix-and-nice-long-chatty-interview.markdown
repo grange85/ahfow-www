@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dean Wareham "birthday" mix and nice long, chatty interview
+title: Dean Wareham 'birthday' mix and nice long, chatty interview
 author:
   display_name: Andy
   login: admin

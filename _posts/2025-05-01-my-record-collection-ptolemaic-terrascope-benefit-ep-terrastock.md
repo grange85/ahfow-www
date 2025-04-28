@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " [246] Ptolemaic Terrascope benefit ep. 'Terrastock'"
+title: "[246] Ptolemaic Terrascope benefit ep. 'Terrastock'"
 date: 2025-05-01 00:00 +0000
 sitemap: true
 comments: true
