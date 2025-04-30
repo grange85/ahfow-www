@@ -48,3 +48,4 @@ Recently, however, he has revisited it in the light of the re-release:
 
 You can pre-order The Days of Our Nights on ['orange swirl' or 'cream' coloured vinyl direct from Real Gone Music](https://realgonemusic.com/collections/upcoming/products/luna-the-days-of-our-nights-lp) or on ['powder blue' vinyl from Rough Trade in the UK](https://www.roughtrade.com/gb/product/luna/the-days-of-our-nights-2) - and I suspect is some other variants in your fave record shop!
 
+{% ahfowvideo "dEInrdgPY2Q" "Listening party video" %}
