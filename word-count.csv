@@ -2,7 +2,7 @@
 layout: null
 permalink: word-count.csv
 ---
-"series-title","title","url","word-count"
+"date","series-title","title","url","author","word-count"
 {% for post in site.posts -%}
-"{%- if post.series-title -%}{{post.series-title}}{%-endif-%}","{{ post.title | replace: '"','""'}}","{{post.url}}",{{post.content|number_of_words}}
+{{post.date | slice: 0,10}},"{%- if post.series-title -%}{{post.series-title}}{%-endif-%}","{{ post.title | replace: '"','""'}}","https://www.fullofwishes.co.uk{{site.baseurl}}{{post.url}}","{{post.author.display_name}}",{{post.content|number_of_words}}
 {% endfor %}

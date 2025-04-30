@@ -20,7 +20,7 @@ tags:
 - record store day
 - rsd 2024
 - rsd
-date: 2024-04-26 00:38 +0100
+date: 2024-04-26
 ---
 This is the deluxe edition of Dean & Britta's first album L'avventura that was released for Record Store Day on the 20th April 2024. As well as the album it also contains the tracks Sonic Boom remixed for the [Sonic Souvenirs EP](/2024/03/04/my-record-collection-115-dean-britta-sonic-souvenirs-cd/), and tracks from the _Words You Used to Say_ single, neither of which have had a vinyl release until now.
 
