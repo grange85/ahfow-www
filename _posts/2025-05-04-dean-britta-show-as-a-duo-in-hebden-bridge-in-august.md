@@ -11,7 +11,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/dean-and-britta-promo-2025.jpg
+image: https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2025-08-21/2025-08-21-dean-and-britta-trades-club.jpg
 categories:
 - news
 - dean & britta
@@ -20,6 +20,8 @@ tags:
 - trades club
 ---
 Dean & Britta will be playing at The Trades Club in Hebden Bridge as a duo on the 21st August. This one caught me by surprise, and I know nothing more than [this page](https://thetradesclub.com/events/deanbritta) tells me - I have no idea whether this will be part of a wider tour or is just a one off - obv as soon as I learn more I'll let you know.
+
+{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2025-08-21/2025-08-21-dean-and-britta-trades-club.jpg" "Dean & Britta at The Trades Club poster" %}
 
 In the meantime you can [buy tickets here](https://thetradesclub.com/events/deanbritta) for what is described thus:
 
