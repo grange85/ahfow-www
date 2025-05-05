@@ -84,7 +84,7 @@ The following week Dean & Britta's cover of The Carnival is Over was released as
 <blockquote>
 In 2008, in Jersey City, Britta and I attempted to record the song. We had gone into the studio to try a few covers, including the Cure's "It's Friday, I'm in Love." We finished the Cure song but gave up on "Carnival"—it was probably in the wrong key for Britta's voice. But when the pandemic hit and the world ground to a halt, the titled popped back into my head and I urged Britta to try singing it again. We opened the old ProTools files and discovered we had the percussion (by Anthony LaMarca), electric 12-string guitar, and a mellotron by Britta—all ready to go. Still, it took Britta more than a couple of attempts to figure out how to sing it. Sometimes when tackling a cover it takes time to get the original singer out of your head and deliver it in your own voice.  Sometimes you have to admit that you and the song are not suited to each other at all. But not this time.
 </blockquote>
-<p class="caption"><<a href="https://moistworks.com/home/carnival">The Carnival is Over by Dean Wareham (Moistworks, 18th June 2020)</a></p>
+<p class="caption"><a href="https://moistworks.com/home/carnival">The Carnival is Over by Dean Wareham (Moistworks, 18th June 2020)</a></p>
 
 The song was then sent to Kramer to finish it off - "he came back to me a few days later with a beautiful arrangement and mix".
 
@@ -100,15 +100,40 @@ In June the UK Government had started relaxing restrictions so on the 22nd June 
 
 Dean and Britta were obviously happy enough with the 30th May show that they scheduled another for the 27th June - this was picthed as Dean & Britta performing Luna. They trailled the show beforehand with some noodling that turned into the first airing of their cover of Donovan's {% ahfowtrack "Sadness" %} on Instagram Live (so not a Luna song). 
 
-The show was again scheduled for the early hours of a UK morning and once again I stayed up. Iy was preceded by Sean playing {% ahfowtrack "Broken Chair" %} on Luna's Instagram (the song also put in an appearance during the main set with Britta taking Sean's vocal). 
+The show was again scheduled for the early hours of a UK morning and once again I stayed up. It was preceded by Sean playing {% ahfowtrack "Broken Chair" %} on Luna's Instagram (the song also put in an appearance during the main set with Britta taking Sean's vocal). 
 
 Another lovely set, this time of Luna classics, a couple more poems, and the show finished with a cover of Mercury Rev's {% ahfowtrack "Car Wash Hair" %} which had become a Luna song a few years before on their A Sentimental Education covers album.
 
-On the 15th July my dad turned 80, he had planned on having a big party (possibly even two big parties, he's a very popular person), but COVID restrictions put paid to that, however a lot of the more stringent restrictions had been lifted and outdoor gatherings were permitted and so my sister decided to arrange a surprise meeting with him, in a park near Arundel. Hazel, Adam, and I took the train down and joined the rest of the family near Swanbourne Lake and gave my dad quite a surprise! We had a lovely afternoon wandering around the lake and then headed back to my Dad's house and had a street party of sorts with some other friends and family. It was lovely to see so many faces but felt very strange being in such a big group... big was about 10 to 15 people. A few weeks later, when things started going to crap again a new _rule of six_ was introduced that would have put paid to this.
+On the 15th July my dad turned 80, he had planned on having a big party (possibly even two big parties, he's a very popular person), but COVID restrictions put paid to that, however a lot of the more stringent restrictions had been lifted and outdoor gatherings were permitted and so my sister decided to arrange a surprise meeting with him, in a park near Arundel. 
 
+Hazel, Adam, and I took the train down and joined the rest of the family near Swanbourne Lake and gave my dad quite a surprise - possibly added to by the ridiculous moustache I had acquired by this time! We had a lovely afternoon wandering around the lake. It was lovely to see so many faces but felt very strange being in such a big group... big was about 10 to 15 people. A few weeks later, when things started going to crap again a new _rule of six_ was introduced that would have put paid to this.
 
+{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/live-stream-article/2020-07-15-family-at-swanbourne.jpg" "l-r: Me, Nina, Tommy, Adam, Dad, Helen, Anton" %}
 
+Meanwhile Dean and Britta had announced yet another live streamed show for the end of July, this one being scheduled at a more convenient time for the European fans - "Britta and I have scheduled our next live show – Saturday July 25 at noon Pacific, 3pm EDT, that’s 8pm in the UK and 9pm in Europe. This time we will play a set heavier on Galaxie 500 songs. Hope to see you there!"
 
+For this show Roger Brogan was roped in to help out with drums and tech and an Instagram post before the show gave a little 60 second look behind the scenes of a Dean & Britta live stream:
+
+{% ahfowvideo "C-w-qxlOU-Y" "Behind the scenes" "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/live-stream-article/2025-07-25-britta-soundchecks.jpg" %}
+
+This time the show was subtitled "Leave the Planet" and promised to be a set of "Galaxie 500 and more", however the show didn't start as planned:
+
+<blockquote>
+The duo have decided to used the Veeps platform for the concerts which consensus seems to suggest was a wise decision as the sound quality is pretty good although for the first ten minutes of last night’s performance you wouldn’t have known that as the show started without sound. After a couple of minutes of their opener the message that the only people who could hear the show were the three folk in D&B’s living room the event ground to a halt. With some knob twiddling and a call to tech support things were finally resolved and the concert restarted with My Rifle, My Pony and Me from Dean and Cheval Sombre’s album of cowboy songs from a couple of years back.
+</blockquote>
+<p class="caption"><a href="/2020/07/26/review-dean-and-britta-livestream/">Review: Dean & Britta in their living room</a></p>
+
+This was the first show that offered, for a few extra pennies, a download of the full show, and in this case also meant you finally did get to hear the version of My Rifle, My Pony and Me that previously we had only seen.
+
+In August the living room shows entered the physical realm with the release of The Quarantine Tapes - a lovely, but pricey, set of seven lathe-cut singles with tracks recorded either during their live stream shows, or in their home studio. The overall cost with shipping to the UK rather scared me - and it was… middle of covid and the middle of us trying to sell our house and move. Then I got an email from Dean and he’d noticed I hadn’t bought a box… so sent me one. I honestly get spoiled by these people!
+
+In September the "final shows of the season" were announced - two sets would be played on the 26th of that month, one early for the Europeans, and a later one for everyone else - Dean assured us that the during the shows they would "mostly playing the same songs at both sets, maybe a few variations and a different poem, but not much" and so I didn't need to buy tickets for both, and stay up until the early hours of the morning.
+
+I bought tickets for both, and stayed up until the early hours of the morning.
+
+{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/live-stream-article/2020-09-26-dean-and-britta-late-show.jpg" "Watching the late show" %}
+
+But... was this really going to be "the last show of the season" ... in the post-show chat I suggested that they should do a Christmas show, and Britta said that they were already thinking about that... so, thankfully "season" meant Autumn, and we'd get a winter show... or two.
 
 
 
