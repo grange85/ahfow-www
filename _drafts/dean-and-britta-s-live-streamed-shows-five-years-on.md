@@ -45,6 +45,8 @@ These little add-hoc performances were of course a treat, but never experiencing
 
 ### Live stream #1 - 14th May 2020 - RAA benefit (YouTube)
 
+{% ahfowvideo "iu6Z-qpQ9OY" "Dean & Britta RAA benefit full show" "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/2020-05-14-dean-and-britta-stream-01.png" %}
+
 At the beginning of May the duo agreed to do a full live show as a benefit for the proposed [Rental Affordability Act](https://web.archive.org/web/20200520033831/https://www.rentcontrolnow.org/) an effort to limit rent increases in California (the proposal was defeated in the November 2020 ballot). While they had seemed happy to do the little ad-hoc streams playing one or two shows, they had never intended to do a full live stream:
 
 <blockquote>
@@ -59,8 +61,6 @@ The show was at 7pm Los Angeles time, that is 3am during a British summer... in 
 The show was wonderful, sounded great, the sun in the room caused exposure problems with the video but in retrospect looks better for that and seeing the shadow of the camera on Dean's forehead was quite funny.
 
 They opened the show with {% ahfowtrack "Tugboat " %}and played a lovely balanced mix of Galaxie 500, Luna and Dean & Britta songs and threw in a new cover of The Bee Gees' {% ahfowtrack "Massachusets" %}. Their cover of The Rutles' {% ahfowtrack "Cheese and Onions" %}, was a particular high - mainly thanks to Britta's backing vocals. But the whole show was wonderful and it was great seeing them seemingly fit and healthy and getting on with their life as well as any of us were managing. They finished with a cover of Joy Division's {% ahfowtrack "Ceremony" %} that someone had requested... shouted out for it in YouTube chat!
-
-{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/live-stream-article/2020-05-14-camera-shadow.jpg" "Camera shadow" %}
 
 Dean explained at the end that Britta had engineered the whole shebang and she replied "I wanted to learn it because we'll probably be doing more of this because... we can't go anywhere".
 
