@@ -25,7 +25,7 @@ This is the promo of Damon & Naomi's sixth&dagger; album that Damon sent to me a
 Now, I do love a press release because it involves someone having to write words about things that really need to be listened to - and those words then need to convert into press coverage, and thence to sales. What a ridiculous thing to have to do! It's the exact opposite of reviews or criticism. This PR however has resisted trying to describe the actual songs short of an overview:
 
 <blockquote>
-This release expands their sound and vision of modern pop music. Delicate harmonies and intricate melodic lines dominate the albums rten tracks
+This release expands their sound and vision of modern pop music. Delicate harmonies and intricate melodic lines dominate the albums ten tracks
 </blockquote>
 <p class="caption">The Earth is Blue press release, November 2004</p>
 
