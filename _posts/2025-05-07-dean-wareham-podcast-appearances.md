@@ -41,7 +41,7 @@ The second (of three) parts of Discograffiti's deep dive into Galaxie 500 albums
 
 The free version of Discograffiti is released [on Friday via YouTube](https://www.youtube.com/@discograffitipodcast2872/videos) or your podcast provider of choice.
 
-Dean also appears on [Aquarium Drunkard's Transmissions podcast](https://aquariumdrunkard.com/2025/05/07/transmissions-dean-wareham/) talking to Tyler Wolcox about the new(ish) album and other things - this seems to be behind Aquarium Drunkard's paywall but I did manage to listen to it on the [Talkhouse page](https://www.talkhouse.com/transmissions-dean-wareham/) and it is [also on Spotify](https://open.spotify.com/episode/2fYbb452SMTmFKeqtlTOfE?si=Sedmi14cTQqGc2zcVu6m3w)... and may be available elsewhere.
+Dean also appears on [Aquarium Drunkard's Transmissions podcast](https://aquariumdrunkard.com/2025/05/07/transmissions-dean-wareham/) talking to Jason Woodbury about the new(ish) album and other things - this seems to be behind Aquarium Drunkard's paywall but I did manage to listen to it on the [Talkhouse page](https://www.talkhouse.com/transmissions-dean-wareham/) and it is [also on Spotify](https://open.spotify.com/episode/2fYbb452SMTmFKeqtlTOfE?si=Sedmi14cTQqGc2zcVu6m3w)... and may be available elsewhere.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-aquarium-drunkard-transmissions-2025-05-07.jpg" "Transmissions :: Dean Wareham" %}
 
