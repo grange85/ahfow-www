@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dean and Britta's live streamed shows - five years on
+title: Dean and Britta's live streamed shows - five years on (part 1)
 sitemap: true
 comments: true
 series-title:
@@ -10,7 +10,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/2020-05-14-dean-and-britta-stream-01.jpg
 categories:
 - articles
 - dean & britta
@@ -18,6 +18,8 @@ tags:
 -
 ---
 This week is the fifth anniversary of the first full online show that Dean & Britta played during COVID. This is the first post of a series (of possibly just two!) looking back on 2020.
+
+{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/live-stream-article/2020-05-30-dual-screen-watching.jpg" "Watching a stream in the middle of the night" %}
 
 I started this post as a history of Dean & Britta's live streamed shows during those awful and frightnening times, but the more I jotted down notes the more I found it was about _me and Dean & Britta's live streamed shows_ so apologies as this is turning into a more personal story of how I, and my family, made it through 2020, and how important Dean and Britta's appearances over the course of the year became - not just for the music, but for the opportunity to engage with them and other fans over our shared, but quite varied experiences of dealing with COVID. I'd love to hear if you had similar feelings, or of how the shows had an impact on you, so please leave a comment.
 
@@ -45,7 +47,7 @@ These little add-hoc performances were of course a treat, but never experiencing
 
 ### Live stream #1 - 14th May 2020 - RAA benefit (YouTube)
 
-{% ahfowvideo "iu6Z-qpQ9OY" "Dean & Britta RAA benefit full show" "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/2020-05-14-dean-and-britta-stream-01.png" %}
+{% ahfowvideo "iu6Z-qpQ9OY" "Dean & Britta RAA benefit full show" "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/2020-05-14-dean-and-britta-stream-01.jpg" %}
 
 At the beginning of May the duo agreed to do a full live show as a benefit for the proposed [Rental Affordability Act](https://web.archive.org/web/20200520033831/https://www.rentcontrolnow.org/) an effort to limit rent increases in California (the proposal was defeated in the November 2020 ballot). While they had seemed happy to do the little ad-hoc streams playing one or two shows, they had never intended to do a full live stream:
 
