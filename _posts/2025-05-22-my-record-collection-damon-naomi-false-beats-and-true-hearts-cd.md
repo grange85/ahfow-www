@@ -43,12 +43,16 @@ On Tuesday the duo, accompanied on this tour again by Kurihara, took to the stag
 
 The following night they were in Cafe OTO, which has become their regular haunt when playing in London. Richard Youngs opened the show with Damon drumming for him, the first time he'd been on stage behind a drum kit in London since Magic Hour toured in 1994.
 
+{% ahfowimage "https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2011-05-11/damon-and-naomi-cafe-oto-2011-05-11.jpg" "Damon & Naomi at Cafe Oto (May 2011)" %}
+
 <blockquote>
 Damon & Naomi opened with Shine a Light and played and joked and chatted their way through another lovely evening. They have become very comfortable performers. Nice set, lots of highs including a cover of Galaxie 500's Blue Thunder which was (as always) a treat.
 </blockquote>
 <p class="caption"><a href="/2011/05/13/review-damon-naomi-in-london-may-2011/">Review: Damon & Naomi in London - May 2011</a></p>
 
 I did [video them playing Galaxie 500's Blue Thunder](https://www.youtube.com/watch?v=N4daKca_wO4) but it looks like I did it using a toy camera... the sound's not too bad though.
+
+In between those two shows they also popped into XFM to record a session, which included How Do I Say Goodbye, Nettles and Ivy, and Helsinki! Plus their cover of Shine a Light. You can [download the complete session on AHFoW](/2021/05/11/ten-years-ago-damon-and-naomi-on-xfm/).
 
  - *Catalogue Number:* AHFOW 10/063
  - *Artist:* Damon & Naomi
