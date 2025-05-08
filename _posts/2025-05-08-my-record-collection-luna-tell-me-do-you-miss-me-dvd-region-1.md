@@ -29,7 +29,7 @@ I must admit that it seems odd watching the film now that Luna are once again a 
 <blockquote>
 Now, I tend to be of the opinion that when a band splits up, for good reasons, they should probably stay split up, and if there were good reasons to split up the reasons to get back together tend not to be as good (and are normally financial, which isn’t a good reason at all - although it may be a valid one!) But these days bands get back together all the time, maybe they should just not split up? The word hiatus can be quite a useful one.
 </blockquote>
-<p class="caption"><a href="http://moonshot.local:4040/2024/06/03/my-record-collection-141-luna-a-place-of-greater-safety/">My record collection [148] Luna - A Place of Greater Safety</a></p>
+<p class="caption"><a href="/2024/06/03/my-record-collection-141-luna-a-place-of-greater-safety/">My record collection [148] Luna - A Place of Greater Safety</a></p>
 
 ... but, I still stand by that!
 
