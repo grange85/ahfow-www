@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Luna touring at the end of the year
+title: Luna to play two dates in Texas at the end of the year
 date: 2025-05-08 23:36 +0100
 sitemap: true
 comments: true
