@@ -26,7 +26,7 @@ This is my original CD copy of the Rutles Highway Revisited album - the tribute 
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/rutles-highway-revisited-cd.jpg" "Rutles Highway Revisited (CD)" %}
 
-When I started researching this post it started to get so messy, there's so much I could write about this record, or more specifically my long and loving relationship with the pre-fab four - here's a quick bulleted list of the run up to that...
+When I started researching this post it started to get so messy, there's so much I could write about this record, or more specifically about my long and loving relationship with the pre-fab four - here's a quick bulleted list of the run up to that...
 
  - The Beatles were an important part of our growing up from as early as I can remember. There is, somewhere, a 1/4" reel to reel tape of me and my brother talking while the Twist & Shout EP was playing in the background - we're singing along to _Do You Want To Know a Secret_. I'd guess I was probably five or six at the time so **1969** or **1970**. 
  - We had lots of Beatles records, singles and LPs but the love was truly cemented in **1973** with the release of the [Red](https://en.wikipedia.org/wiki/1962%E2%80%931966) and [Blue](https://en.wikipedia.org/wiki/1967%E2%80%931970) compilation albums.
@@ -50,7 +50,7 @@ The sleeve notes were credited to Neil Innes and supposedly is an interview with
 <blockquote>
 <p>DEBBIE: O.K., here's the first track. It's by GALAXIE 500.</p>
 <p>RON: Another bloody sequel! Which one have they done?</p>
-<p>DEBBIE: "Cheese & Onions."</p>
+<p>DEBBIE: "Cheese and Onions."</p>
 <p>RON: I like the start, I think this lot have got something, probably constipation, they're obviously high on laxatives...yep, they're speeding up...heading for the lavatory...aaaahh...nope! Ah well, back to the laxatives.</p> 
 </blockquote>
 <p class="caption"><a href="https://www.rutlemania.org/RHRnotes.html">Rutles Highway Revisited sleeve notes</a></p>
@@ -81,11 +81,11 @@ told Galaxie 500 that they are not allowed to include my name as a writer's cred
 Neil Innes sadly passed away (far too soon) in 2019 - Dean Wareham wrote about him and Galaxie 500's cover of Cheese and Onions for Rock and Roll Globe in January 2000:
 
 <blockquote>
-Like most boys growing up in the seventies, I worshiped Monty Python and knew many of their routines by heart. I saw All You Need is Cash, probably when it came out in 1978. Flash forward to 1990, we were working on a Galaxie 500 album and our producer Kramer decided to create a tribute album to the Rutles, or perhaps you’d call it a mock tribute to a mock band — Rutles Highway Revisited. We recorded “Cheese & Onions” with Kramer adding the Beatles-esque production, reminiscent of “A Day in the Life.” And I know our “Cheese and Onions” came to the attention of Neil Innes some years later, as he talks about it in an interview on Youtube. When we came to re-release “Cheese and Onions” for the Galaxie 500 box set, our label Rykodisc discovered that Neil Innes had been stripped of his full writing credit on “Cheese and Onions”; it was now credited to Lennon/McCartney and owned by Sony/ATV Music who had sued. Which I find pretty incredible to this day — I mean, yes “Cheese and Onions” sounds vaguely like a Beatles recording and the lyric might remind you of any silly but self-important Beatles lyric, but to my mind it does not plagiarize any particular Beatles song. Someone out there — and I don’t know if it was McCartney or just the publishers — did not appreciate the humor.
+Like most boys growing up in the seventies, I worshiped Monty Python and knew many of their routines by heart. I saw All You Need is Cash, probably when it came out in 1978. Flash forward to 1990, we were working on a Galaxie 500 album and our producer Kramer decided to create a tribute album to the Rutles, or perhaps you’d call it a mock tribute to a mock band — Rutles Highway Revisited. We recorded “Cheese and Onions” with Kramer adding the Beatles-esque production, reminiscent of “A Day in the Life.” And I know our “Cheese and Onions” came to the attention of Neil Innes some years later, as he talks about it in an interview on Youtube. When we came to re-release “Cheese and Onions” for the Galaxie 500 box set, our label Rykodisc discovered that Neil Innes had been stripped of his full writing credit on “Cheese and Onions”; it was now credited to Lennon/McCartney and owned by Sony/ATV Music who had sued. Which I find pretty incredible to this day — I mean, yes “Cheese and Onions” sounds vaguely like a Beatles recording and the lyric might remind you of any silly but self-important Beatles lyric, but to my mind it does not plagiarize any particular Beatles song. Someone out there — and I don’t know if it was McCartney or just the publishers — did not appreciate the humor.
 </blockquote>
 <p class="caption"><a href="https://rockandrollglobe.com/remembrance/rutles-highway-re-revisited/">Rock and Roll Globe: Rutles Highway Re-Revisited: In Memory of Neil Innes</a></p>
 
-Dean & Britta covered it in their first COVID live-streamed show and dedicated it to Neil Innes:
+Dean & Britta covered Cheese and Onions in their first COVID live-streamed show and dedicated it to Neil Innes:
 
 {% ahfowvideo "Ku0IXZAKqE8" "Dean & Britta - I Want Everything / Cheese and Onions" %}
 
