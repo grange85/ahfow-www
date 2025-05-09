@@ -19,6 +19,9 @@ tags:
 -
 ---
 It looks like Luna will be hitting the road again at the end of the year - the first dates are trickling out into now - so far just Austin and Dallas, but keep your eyes peeled (or watch this space) for more.
+
+_ Update: it's just been pointed out that the Austin listing says that "These are the band’s only US shows in 2025" so I guess don't watch this space!_
+
 <table>
       <tbody><tr>
         <th>5th December 2025</th>
