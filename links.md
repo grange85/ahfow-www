@@ -6,6 +6,8 @@ title: Links
 ### Latest posts
 {% include post_list.html limit=3 %}
 
+ - [Read the latest A Head Full of Wishes post on Substack](https://aheadfullofwishes.substack.com/)
+
 ### Other links
 <ul>
   <li><a href="https://aheadfullofwishes.substack.com/">Subscribe on Substack for (free) weekly email newsletters (and more)</a></li>
