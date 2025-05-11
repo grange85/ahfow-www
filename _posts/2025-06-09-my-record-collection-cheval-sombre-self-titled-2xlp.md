@@ -26,7 +26,7 @@ This was released by Fat Elvis Records in 2020 and I haven't been able to figure
 
 Either way Sean at Fat Elvis Records has produced a lovely package deserving of the lovely music it contains (although a double album should always be in a gatefold sleeve).
 
-I was additionally confused by the fact that my green-ish copy didn't seem to be the same as the one described on Discogs as "natural with blue, red, and yellow wisps" but the review on _It's Pschedelic Baby_ seems to explain that:
+I was additionally confused by the fact that my green-ish copy didn't seem to be the same as the one described on Discogs as "natural with blue, red, and yellow wisps" but the review on _It's Psychedelic Baby_ seems to explain that:
 
 <blockquote>
 Due to vinyl manufacturing and the colors involved in the pressing, not all the records pressed look identical to the ones pictured. Some of the records appear milky white with blue, yellow, and red swirls while others have a green-ish tint with blue, yellow, and red swirls.
