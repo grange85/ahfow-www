@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Luna - Going Home (demo)
+title: "[255] Luna - Going Home (demo)"
 date: 2025-06-02 00:00 +0000
 sitemap: true
 comments: true

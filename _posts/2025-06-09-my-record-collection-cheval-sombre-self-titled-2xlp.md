@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cheval Sombre - self titled (2xLP)
+title: "[257] Cheval Sombre - self titled (2xLP)"
 date: 2025-06-09 00:00 +0000
 sitemap: true
 comments: true
