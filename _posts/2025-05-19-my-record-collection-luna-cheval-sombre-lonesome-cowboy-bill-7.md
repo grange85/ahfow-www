@@ -34,19 +34,19 @@ So... we popped the USB stick into the TV and we watched Lonesome.
 {% ahfowvideo "oKBN1xRY6UU" "Lonesome (Paul Fejos, 1928)" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-park-coney-island-lonesome.jpg" %}
 
 What a film! It's a simple and beautiful story of two lonely working people in New York, who have a half-day holiday on the _Fourth of July_ weekend and both end up at the _Luna Park_ amusements in Coney Island where they meet, and fall in love, and then get separated, and of course find each other again - how classic a storyline is that? But it is so beautifully told with some smart and cutting edge methods:
- - the film is mostly silent but has three dialog sequences that were put in at the insistence of the studio - most folk find these awkward and unnecessary but I must admit that I found it a beautiful surprise and it was lovely hearing Mary and Jim talk - even if it was stilted and awkward (like early love should be!)
+ - the film is mostly silent but has three dialogue sequences that were put in at the insistence of the studio - most folk find these awkward and unnecessary but I must admit that I found it a beautiful surprise and it was lovely hearing Mary and Jim talk - even if it was stilted and awkward (like early love should be!)
  - when I say _mostly silent_ it did have a synchronised score, and sound effects - so... not silent at all.
  - the director used so many wonderful tricks to make the film even more special:
    - stencil coloured sequences
    - mounted the camera to amusement park rides
    - overlays and split screens
-   - some lovely disolves
+   - some lovely dissolves
 
 ... it was thrilling, and such a lovely surprise - I still find it astounding that 50+ years being a film fan and I'm still finding things to fall in love with.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-park-coney-island-lonesome-03.jpg" "Mary and Jim in the photobooth (Lonesome, Paul Fejos 1928)" %}
 
-I'd highly reccomend watching Lonesome - there's a [decent copy of it on YouTube](https://www.youtube.com/watch?v=oKBN1xRY6UU) although I'd love to see it on the big screen some time.
+I'd highly reccommend watching Lonesome - there's a [decent copy of it on YouTube](https://www.youtube.com/watch?v=oKBN1xRY6UU) although I'd love to see it on the big screen some time.
 
 Meanwhile, I've pulled _Luna & Cheval Sombre play The Velvet Underground's "Lonesome Cowboy Bill"_ (to give it its full title) off the shelf, and slipped it out of the sleeve - and what do I find on the label (on the **a** side) but a photo of the entrance to Luna Park in Coney Island - at first I thought it might even have been a frame from the film... but I don't think so.
 
