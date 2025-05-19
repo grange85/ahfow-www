@@ -17,5 +17,10 @@ categories:
 Damon mentioned it in <a href="http://www.terrascope.co.uk/MyBackPages/Damon_and_Naomi.htm">the Ptolemaic Terrascope interview</a> but only in passing...</p>
 <blockquote><p>Those other songs you mention ‑‑ ‘Indian Summer’ and ‘Smile’ ‑‑ are things Dean did on his own, before the band broke up. (Like we with our Pierre Etoile project.) ‘Indian Summer’ is by Beat Happening, I can't remember what he did that for, and ‘Smile’ was something Dean did for a Shimmy comp while we were working on the last album</p></blockquote>
 <p>Of course Indian Summer was to become a staple of Luna's set throughout their life - they played it as their first London show in 1992 and was the last song they played in London in 2005 (and the second last song they ever played).</p>
-<p><a href="https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-indian-summer-chemical-imbalance.mp3">Dean Wareham - Indian Summer (mp3)</a></p>
-{% ahfowvideo " http://www.youtube.com" "" %}
+
+{% ahfowaudio {
+"audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-indian-summer-chemical-imbalance.mp3",
+"audiocap": "Dean Wareham - Indian Summer"
+} %}
+
+{% ahfowvideo "7C3zNNqz4HE" "Dean Wareham - Indian Summer" %}

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Selected Galaxie 500
+title: "[263] Selected Galaxie 500"
 date: 2025-06-30 00:00 +0000
 sitemap: true
 comments: true
