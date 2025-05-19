@@ -30,7 +30,7 @@ tags:
 > _[Press release, 1989](https://www.flickr.com/photos/grange85/48900257397/)_
 
 
-Today is the 30th anniversary of the release of Galaxie 500's masterpiece On Fire - there's not much more than I can say that hasn't been said repeatedly on this website over the last 25 years - so, just dig out the LP, or head over to the streaming service of your choice and ride the fiery breeze.
+Today is the 30th anniversary of the release of Galaxie 500's masterpiece On Fire - there's not much more than I can say that hasn't been said repeatedly on this web site over the last 25 years - so, just dig out the LP, or head over to the streaming service of your choice and ride the fiery breeze.
 
 <!--more-->
 

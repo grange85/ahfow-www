@@ -11,7 +11,7 @@ categories:
 - news
 - dean & britta
 ---
-<p>The following dates have just <a href="https://web.archive.org/web/20090416+/http://www.deanandbritta.com/blog/?page_id=218">turned up on Dean & Britta's website</a>, they are flagged as being "13 Most Beautiful" performances but a couple of the venues might imply otherwise so it'll be worth checking (I'll try and get some confirmation). <del datetime="2009-04-19T18:08:03+00:00">I'm also a little dubious of the 8:30 am start for that Brooklyn show but maybe you've got to get up early if you want a free show!</del><ins datetime="2009-04-19T18:08:03+00:00"> the time has been updated to 8pm - much more reasonable!</ins></p>
+<p>The following dates have just <a href="https://web.archive.org/web/20090416+/http://www.deanandbritta.com/blog/?page_id=218">turned up on Dean & Britta's web site</a>, they are flagged as being "13 Most Beautiful" performances but a couple of the venues might imply otherwise so it'll be worth checking (I'll try and get some confirmation). <del datetime="2009-04-19T18:08:03+00:00">I'm also a little dubious of the 8:30 am start for that Brooklyn show but maybe you've got to get up early if you want a free show!</del><ins datetime="2009-04-19T18:08:03+00:00"> the time has been updated to 8pm - much more reasonable!</ins></p>
 <ul>
 <li>2 July 2009 8:00pm  	Ann Arbor Arts Festival, University of Michigan  	Dean & Britta in  Ann Arbor, MI</li>
 <li>1 August 2009 8:30am 	Prospect Park Bandshell 	Dean & Britta in Brooklyn, NY</li>

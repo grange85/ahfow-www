@@ -13,7 +13,7 @@ categories:
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/international-sad-hits-2-letter.jpg" alt="International Sad Hits, volume 2" class /><figcaption class="caption-text"> International Sad Hits, volume 2</figcaption></figure>
 Back in 2006 the third release on Damon & Naomi's <a href="http://www.20-20-20.com/">20-20-20</a> label was <a href="http://www.20-20-20.com/internationalsadhits/">International Sad Hits</a>, Volume 1, a compilation of singer-songwriters whose "music has never left their national or linguistic cultures", since then the duo have been working on getting volume 2 released with the help of Spanish musician Ibon Errazkin. Volume 2 was to have covered the music of the Iberian peninsula but sadly rights issues have meant that after protracted attempts to get a release Damon & Naomi have opted to put out the album as a YouTube playlist.</p>
-<p>You can find out all about the album (actually albums) and listen to it (them) over on the new 20-20-20 website.<br />
+<p>You can find out all about the album (actually albums) and listen to it (them) over on the new 20-20-20 web site.<br />
 <a href="http://www.20-20-20.com/ish02">International Sad Hits, Volume Two: The Iberian Peninsula</a></p>
 
 

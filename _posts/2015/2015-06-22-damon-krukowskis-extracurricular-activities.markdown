@@ -23,4 +23,4 @@ tags:
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">I say let everyone stream free so it doesn&#39;t require massive capital to build alternatives - we have nothing to lose but corporate crumbs</p>
 <p>&mdash; Damon K (@dada_drummer) <a href="https://twitter.com/dada_drummer/status/608632684840124416">June 10, 2015</a></p></blockquote>
 <p>... and <a href="http://internationalsadhits.tumblr.com/">keeping an eye on his blog</a>.</p>
-<p>And for all this and more Damon has <a href="http://www.dadadrummer.com/">a new website - DadaDrummer.com</a>.</p>
+<p>And for all this and more Damon has <a href="http://www.dadadrummer.com/">a new web site - DadaDrummer.com</a>.</p>

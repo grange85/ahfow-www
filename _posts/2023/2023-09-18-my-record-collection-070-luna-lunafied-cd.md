@@ -80,7 +80,7 @@ Hi Dean,
 > the lunafied image is by Abelardo Morell, but perhaps you knew that already.
 > His photos are great.
 
-I was looking at his other photos on his website yesterday - they are great
+I was looking at his other photos on his web site yesterday - they are great
 
 > But there is no CD with that image, not even a promo. Rhino wanted it to be
 > exclusive to the iTunes store. They have said that they might get around to

@@ -22,7 +22,7 @@ Twenty five years ago today Luna played The Garage in London. This isn't just th
 
 In 1995 photography was analog and almost nobody took photos at gigs so I've never seen any of this show. People did record gigs though and a couple of weeks after the show someone (can't remember who, sorry) sent me a recording - you can [download the whole show here](https://www.fullofwishes.co.uk/database/luna/shows/1995/1995-12-16-luna-garage-london-uk/)
 
-A Head Full of Wishes (as a mailing list and website) had been running for about a year by then but this was the first show where I met internet friends in real life. I'm not a particularly social person but somehow in-the-flesh meetings with A Head Full of Wishes friends sort of pulls me out of that shell - and this was the first time I was pulled!
+A Head Full of Wishes (as a mailing list and web site) had been running for about a year by then but this was the first show where I met internet friends in real life. I'm not a particularly social person but somehow in-the-flesh meetings with A Head Full of Wishes friends sort of pulls me out of that shell - and this was the first time I was pulled!
 
 First up Trenton introduced himself to me in the queue outside the venue - I don't think I handled this as well as I ought but, while I knew people I'd interacted with online where going to be there I didn't really expect any to talk to me. So Trenton caught me off guard!
 

@@ -27,7 +27,7 @@ For the twenty weekdays from today (Monday 3rd August) until release day one vid
 
 
 
-The website is here:
+The web site is here:
  - [20 BANDS COVER Galaxie 500, 2020](https://www.20-20-20.com/twentysongs2020)
 
 ... and Rolling Stone has some details and hints at what's upcoming:

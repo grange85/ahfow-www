@@ -16,7 +16,7 @@ tags:
 - never be a punching bag for nobody
 - feature film
 ---
-Back in November, while browsing around I [came across the trailer for Never Be A Punching Bag For Nobody](https://vimeo.com/720377196) on Vimeo and assumed it was something that had slipped past me, and posted it on this website - today Naomi officially announced the film and shared the trailer, so I guess I rather jumped the gun with this one (sorry Naomi!).
+Back in November, while browsing around I [came across the trailer for Never Be A Punching Bag For Nobody](https://vimeo.com/720377196) on Vimeo and assumed it was something that had slipped past me, and posted it on this web site - today Naomi officially announced the film and shared the trailer, so I guess I rather jumped the gun with this one (sorry Naomi!).
 
 {% ahfowvideo "F98BeD0NkTE" "Never Be a Punching Bag for Nobody (trailer, dir: Naomi Yang)" %}
 

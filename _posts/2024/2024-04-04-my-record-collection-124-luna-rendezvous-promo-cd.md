@@ -25,7 +25,7 @@ As promised [a couple of weeks back](/2024/03/21/my-record-collection-120-luna-r
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-rendezvous-promo.jpg" "Luna - Rendezvous (promo CD)" %}
 
-I was quite excited to get a copy of the album and posted as much to the Galaxie 500 Mailing List with a few thoughts. A couple of people took exception to my comments - suggesting that I was somehow posting _spoilers_, that I'd probably ripped and shared the CD to file-sharing websites, and that I wouldn't buy the record now I'd got it for nothing. I apologised but ffs how can you _spoil_ an album (ok... maybe a _concept_ album) - it's not like I'd posted a track-by-track analysis, I'd literally said I'd heard it and that I loved Speedbumps.
+I was quite excited to get a copy of the album and posted as much to the Galaxie 500 Mailing List with a few thoughts. A couple of people took exception to my comments - suggesting that I was somehow posting _spoilers_, that I'd probably ripped and shared the CD to file-sharing web sites, and that I wouldn't buy the record now I'd got it for nothing. I apologised but ffs how can you _spoil_ an album (ok... maybe a _concept_ album) - it's not like I'd posted a track-by-track analysis, I'd literally said I'd heard it and that I loved Speedbumps.
 
 <!--more-->
 

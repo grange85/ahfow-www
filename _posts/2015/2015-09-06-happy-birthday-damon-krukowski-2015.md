@@ -23,7 +23,7 @@ Here's a lovely video of Damon & Naomi playing Turn of the Century in front of a
 
 Damon is currently working on a book about music and technology and it's worth following him on <a href="http://twitter.com/dada_drummer">Twitter (@dada_drummer)</a> and <a href="http://internationalsadhits.tumblr.com/">Tumblr</a> for his ruminations and insights into the subject.
 
-You can also catch up on his work beyond Damon & Naomi on his <a href="http://www.dadadrummer.com/">new website dadadrummer.com</a>.
+You can also catch up on his work beyond Damon & Naomi on his <a href="http://www.dadadrummer.com/">new web site dadadrummer.com</a>.
 
 <blockquote>It’s a book that uses the facts—and not terribly obtuse ones—of music technology, things anyone who has been in a band or been in a studio knows, but others may not. I’m using these things to think through changes in our communication patterns with one another both musical and non-musical ways—essentially, using audio, because it’s what I know best, to think about our social relations and how that has been affected by the shift from analog to digital. It’s not an anti-digital book, and it’s not a pro-digital book. It’s just a look at what some of these changes we’ve experienced might mean.
 	<footer>BOMB — Artists in Conversation - <cite><a href="http://bombmagazine.org/article/8989526/damon-naomi">Damon & Naomi by Tobias Carroll</a></cite></footer>

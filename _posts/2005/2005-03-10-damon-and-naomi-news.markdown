@@ -13,6 +13,6 @@ categories:
 ---
 OK - now that the Luna "thing" has died down I thought I'd remind you that Damon & Naomi...
 
- - Have an excellent new album "The Earth is Blue" out (there are a [bunch of reviews](https://web.archive.org/web/20050310+/http://www.damonandnaomi.com/reviews/theearthisbluereviews.html) on their website to support my assertion)
+ - Have an excellent new album "The Earth is Blue" out (there are a [bunch of reviews](https://web.archive.org/web/20050310+/http://www.damonandnaomi.com/reviews/theearthisbluereviews.html) on their web site to support my assertion)
  - Are taking a jaunt around the US promoting the album
- - [Have a stack of CDs, T-shirts, badges etc. for sale on their website](https://web.archive.org/web/20050310+/http://www.damonandnaomi.com/merchandise/merch.html)
+ - [Have a stack of CDs, T-shirts, badges etc. for sale on their web site](https://web.archive.org/web/20050310+/http://www.damonandnaomi.com/merchandise/merch.html)

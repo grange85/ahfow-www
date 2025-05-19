@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Galaxie 500 Box set promotional website
+title: Galaxie 500 Box set promotional web site
 author:
   display_name: Andy
   login: admin

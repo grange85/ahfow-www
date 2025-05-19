@@ -34,7 +34,7 @@ AA: After the band split and before the re--releases in 1996 where you aware tha
 
 
 <p>
-DW: I knew there was some interest, but it was hard to gauge because Rough Trade and declared bankruptcy and the records were immediately out of print. In retrospect, this was a blessing in disguise; the rights to the albums reverted to the band, and that 5-year period where the records were out of print only made people more excited to get the box set and discover the band for themselves. This was a different time, you couldn’t just get online and download the songs on from some torrent or hear them on Youtube. Of course there was this guy in England running a new thing -- a website devoted to Galaxie 500, and I feel this was almost before any band or musician had their own website. So thanks! 
+DW: I knew there was some interest, but it was hard to gauge because Rough Trade and declared bankruptcy and the records were immediately out of print. In retrospect, this was a blessing in disguise; the rights to the albums reverted to the band, and that 5-year period where the records were out of print only made people more excited to get the box set and discover the band for themselves. This was a different time, you couldn’t just get online and download the songs on from some torrent or hear them on Youtube. Of course there was this guy in England running a new thing -- a web site devoted to Galaxie 500, and I feel this was almost before any band or musician had their own web site. So thanks! 
 </p>
 
 <p>

@@ -13,7 +13,7 @@ categories:
 ---
 [Sonic Boom](https://web.archive.org/web/20061221+/http://www.sonic-boom.info) has remixed last years Dean, Britta
 and Sonic Christmas present [Old Toy Trains](https://web.archive.org/web/20061221+/http://www.sonic-
-boom.info/xmas2006.php). You can get the new remix at his website
+boom.info/xmas2006.php). You can get the new remix at his web site
 
 [Old Toy Trains (2006 remix) - Dean, Britta and Sonic Boom](https://web.archive.org/web/20061221+/http://www.sonic-
 boom.info/xmas2006.php)

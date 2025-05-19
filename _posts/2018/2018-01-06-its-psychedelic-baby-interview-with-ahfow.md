@@ -24,4 +24,4 @@ tags:
 
 <blockquote>The first time I was brave enough to talk to Naomi about Galaxie 500 was after their Terrastock London performance in 1999, and even then I left most of the talking to another fan who didn’t have the anxieties I had. But over the years things became much more relaxed<footer><a href="http://www.psychedelicbabymag.com/2017/12/an-interview-with-andy-aldridge.html">An Interview With Andy Aldridge</a></footer></blockquote>
 
-<p>So if the thought of me wittering on at length about websites, gigs and hobnobbing with heroes then head over to <a href="http://www.psychedelicbabymag.com/2017/12/an-interview-with-andy-aldridge.html">It's Psychedelic Baby for the full interview</a> - I do of course get to mention Mot&ouml;rhead!</p>
+<p>So if the thought of me wittering on at length about web sites, gigs and hobnobbing with heroes then head over to <a href="http://www.psychedelicbabymag.com/2017/12/an-interview-with-andy-aldridge.html">It's Psychedelic Baby for the full interview</a> - I do of course get to mention Mot&ouml;rhead!</p>

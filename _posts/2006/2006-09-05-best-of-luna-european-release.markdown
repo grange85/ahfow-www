@@ -11,7 +11,7 @@ categories:
 - luna
 - news
 ---
-[Dean & Britta's website](https://web.archive.org/web/20060905+/http://www.deanandbritta.com) has a news item
+[Dean & Britta's web site](https://web.archive.org/web/20060905+/http://www.deanandbritta.com) has a news item
 stating that [Beggars Banquet](https://web.archive.org/web/20060905+/http://www.beggars.com) will release the
 European edition of Best of Luna in October
 
@@ -20,7 +20,7 @@ European edition of Best of Luna in October
 Luna catalogue plus a bonus disc containing cover versions that the band
 recorded over the years.
 
-The astonishingly out-of-date Beggars website has no information and the
+The astonishingly out-of-date Beggars web site has no information and the
 release hasn't turned up for pre-order on Amazon as yet...but we should be
 patient as Dean mentioned to me a while back that...
 

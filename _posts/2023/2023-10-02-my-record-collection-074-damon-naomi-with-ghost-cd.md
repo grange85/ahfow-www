@@ -32,7 +32,7 @@ The album was released on CD by Sub Pop in a sweet tri-fold digipack that showed
 
 It's also probably my favourite Damon & Naomi album, although that's a list that changes often. It always frustrated me somewhat that More Sad Hits would routinely get almost all the votes in the annual survey, I suspect mostly because it was the only album that lots of folk had. Not that MSH isn't a great album, but I couldn't help feeling that if more people listened to With Ghost more people would love it.
 
-Back then Sub Pop produced a little With Ghost microsite - it annoyed the archivist in me that when a new album came along the old website was thrown out and replaced. Thnakfully the [Wayback Machine is, as it so often is, our friend](http://web.archive.org/web/20001007144954/http://www.subpop.com/bands/damon+naomi/withghost/home.html), so we can go back and see what the web looked like for D&N back then... and what treats were in store:
+Back then Sub Pop produced a little With Ghost microsite - it annoyed the archivist in me that when a new album came along the old web site was thrown out and replaced. Thnakfully the [Wayback Machine is, as it so often is, our friend](http://web.archive.org/web/20001007144954/http://www.subpop.com/bands/damon+naomi/withghost/home.html), so we can go back and see what the web looked like for D&N back then... and what treats were in store:
 
  - Four desktop wallpapers in GIF format, available in either 800x600 or 1024x768 
    - [Wallpaper 1 - 1024x768](https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-naomi-with-ghost-wallpaper-01-1024x768.gif)

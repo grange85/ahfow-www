@@ -120,4 +120,4 @@ tags:
 {% ahfowvideo "1VplWDxCQ0c" "" %}
 
 
-<p>Thanks as always to everyone who has sent me setlists and corrected the ones that were wrong - I do love hearing from folk so please feel free to get in touch - either on <a href="http://www.facebook.com/fullofwishes">facebook</a>, in the comments boxes on this website, via <a href="http://www.twitter.com">Twitter</a> or in an <a href="/about/">email (or a letter, or a postcard)</a>!</p>
+<p>Thanks as always to everyone who has sent me setlists and corrected the ones that were wrong - I do love hearing from folk so please feel free to get in touch - either on <a href="http://www.facebook.com/fullofwishes">facebook</a>, in the comments boxes on this web site, via <a href="http://www.twitter.com">Twitter</a> or in an <a href="/about/">email (or a letter, or a postcard)</a>!</p>

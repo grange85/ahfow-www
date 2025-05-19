@@ -18,7 +18,7 @@ tags:
 - ahfow
 date: 2024-12-19 00:00 +0000
 ---
-A couple of days ago I casually threw into [a social media post](https://bsky.app/profile/did:plc:3zd24yzhk54uxdb53wvfjidu/post/3ldhiz33c2225) that around now was the 30th birthday of this website. I had intended (like I always do) some sort of grand celebration, but (like it always does) it turned into a hastily rattled out blog post. Welcome to that post!
+A couple of days ago I casually threw into [a social media post](https://bsky.app/profile/did:plc:3zd24yzhk54uxdb53wvfjidu/post/3ldhiz33c2225) that around now was the 30th birthday of this web site. I had intended (like I always do) some sort of grand celebration, but (like it always does) it turned into a hastily rattled out blog post. Welcome to that post!
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image-1280x720-1994-2024.jpg" "A Head Full of Wishes - 1994 to 2024" %}
 

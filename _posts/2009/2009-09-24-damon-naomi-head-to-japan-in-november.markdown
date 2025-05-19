@@ -21,5 +21,5 @@ categories:
 <li>12 November 2009 - Damon & Naomi @ K.D Japon, Nagoya, Japan</li>
 <li>14 November 2009 - Damon & Naomi @ Tsukimiru kimiomofu, Tokyo, Japan</li>
 </ul>
-<p><a href="http://www.damonandnaomi.jp/">Damon & Naomi have a Japanese language website</a>.</p>
+<p><a href="http://www.damonandnaomi.jp/">Damon & Naomi have a Japanese language web site</a>.</p>
 <p>See all upcoming Damon & Naomi shows.</p>

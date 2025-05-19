@@ -16,6 +16,6 @@ Damon & Naomi are setting out on a tour of the US with the Japanese band [Boris]
 
 The tour has been dubbed the Roaring Silence Revue and you can see the [full list of dates here](http://www.grange85.co.uk/galaxie/index.php?a=3).
 
-Damon & Naomi's new album Within These Walls will be released on September 25th - you can hear a preview track, Cruel Queen on their website.
+Damon & Naomi's new album Within These Walls will be released on September 25th - you can hear a preview track, Cruel Queen on their web site.
 
 

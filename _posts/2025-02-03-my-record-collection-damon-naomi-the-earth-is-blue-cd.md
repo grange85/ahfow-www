@@ -26,7 +26,7 @@ In fact I was blown away by _Beautiful Close Double_ from the first listen:
 
 <blockquote>
 I just noticed that D&N have Beautiful Close Double available for a
-download on their website - if you haven't (yet) bought the album - or
+download on their web site - if you haven't (yet) bought the album - or
 if you've constantly dismissed D&N then please PLEASE go and download
 it. <strong>It really is the best thing they've ever done</strong>.
 </blockquote>

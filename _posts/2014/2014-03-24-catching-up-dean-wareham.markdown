@@ -20,7 +20,7 @@ Filter: WHEN THE JOURNALISTS GOT IT RIGHT<br />
 Dean: That I have “impressively voluminous hair.
 </p></blockquote>
 <p><strong><a href="http://www.thevinyldistrict.com/dc/2014/03/dean-wareham-tvd-interview/">The Vinyl District has an Q&A interview with Dean, where he drops a hint about an upcoming release</a> (the italics below are mine)</strong>:</p>
-<blockquote><p>But I am going to do a live cassette from England. I guess I could do it on 8-track. The cassette is just a retro object that comes with a download code. I have 12 tracks down, 4 of which will be given away to people who buy the new album from my website. <em>The UK label wants to do the cassette</em>.</p></blockquote>
+<blockquote><p>But I am going to do a live cassette from England. I guess I could do it on 8-track. The cassette is just a retro object that comes with a download code. I have 12 tracks down, 4 of which will be given away to people who buy the new album from my web site. <em>The UK label wants to do the cassette</em>.</p></blockquote>
 <p>... it also has this lovely exchange...</p>
 <blockquote><p><strong>TVD</strong>: I know this is an impossible question, and that’s why I’m asking it. Does Dean Wareham have a favorite Dean Wareham song?<br />
 <strong>DW</strong>: Wow. I don’t know. I really like the first single I ever released, “Tugboat.” It’s all been downhill from there.</p></blockquote>

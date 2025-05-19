@@ -20,5 +20,5 @@ Dean Wareham appears on the latest issue of the Sound Opinions podcast where he 
 
 Always cool to hear him talk music!
 
-Check out the interview on the [Sound Opinions website](https://www.soundopinions.org/show/864).
+Check out the interview on the [Sound Opinions web site](https://www.soundopinions.org/show/864).
 

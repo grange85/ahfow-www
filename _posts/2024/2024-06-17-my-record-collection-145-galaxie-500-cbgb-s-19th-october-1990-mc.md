@@ -26,7 +26,7 @@ I have long since forgotten how most of the bootlegs (cassettes or CDs) arrived 
 
 {% ahfowvideo "nt6QKWwMfGA" "Galaxie 00 @CBGB's - 19th October 1990" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-cbgbs-mc.jpg" %}
 
-In the very early days of the website and mailing list I started a correspondence with Lauren Axelrod who was in the band Dart. As I've never been an initiator I'll have to assume that she kicked this off. We exchanged mix tapes - the one she sent me was packed with fab obscurities, the one I sent her she pretty much knew everything on it! She also sent me this tape of Galaxie 500 at CBGBs in 1990.
+In the very early days of the web site and mailing list I started a correspondence with Lauren Axelrod who was in the band Dart. As I've never been an initiator I'll have to assume that she kicked this off. We exchanged mix tapes - the one she sent me was packed with fab obscurities, the one I sent her she pretty much knew everything on it! She also sent me this tape of Galaxie 500 at CBGBs in 1990.
 
 I met Lauren once at a Luna show at The Garage in 1995, I don't remember much except the following
  - She knew friends of mine I didn't know she knew.

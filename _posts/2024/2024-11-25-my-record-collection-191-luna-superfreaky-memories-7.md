@@ -23,12 +23,12 @@ Superfreaky Memories was the only _real_&dagger; single from Luna's _problematic
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-superfreaky-memories-7.jpg" "Luna - Superfreaky Memories" %}
 
-This is how Beggars Banquet described the track in a promo piece on their website:
+This is how Beggars Banquet described the track in a promo piece on their web site:
 
 <blockquote>
 Superfreaky Memories features more minds playing tricks on themselves, mired in pharmaceuticals and borne aloft by cellos and radiant guitars. The drumming is noteworthy.
 </blockquote>
-<p class="caption"><a href="https://web.archive.org/web/19991009060404/http://www.beggars.com/artists/luna/luna.html">Beggars Banquet website (archived)</a></p>
+<p class="caption"><a href="https://web.archive.org/web/19991009060404/http://www.beggars.com/artists/luna/luna.html">Beggars Banquet web site (archived)</a></p>
 
 The flip side is the first appearance of Luna's cover of Kraftwerk's _Neon Lights_ that was later released on [Close Cover Before Striking](/2023/01/23/my-record-collection-002-luna-close-cover-before-striking/) a couple of years later, and on Dean & Britta's Quarantine Tapes much later.
 
@@ -84,4 +84,4 @@ everyone.
 
 
 
-_&dagger; Dear Diary was released as a promo single (and Beggars Banquet sold it to on their website so... almost a proper single)_
+_&dagger; Dear Diary was released as a promo single (and Beggars Banquet sold it to on their web site so... almost a proper single)_

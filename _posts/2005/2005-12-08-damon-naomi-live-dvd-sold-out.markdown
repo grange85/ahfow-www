@@ -11,7 +11,7 @@ categories:
 - news
 - damon & naomi
 ---
-I was just on [Damon & Naomi's website](https://web.archive.org/web/20051208+/http://www.damonandnaomi.com)
+I was just on [Damon & Naomi's web site](https://web.archive.org/web/20051208+/http://www.damonandnaomi.com)
 preparing a little news item/plug for their recently released live DVD which
 slapped on my doormat at the weekend, when I discovered the limited edition
 release was already sold out!

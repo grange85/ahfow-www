@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interview with Dean Wareham on the Philly Fringe website
+title: Interview with Dean Wareham on the Philly Fringe web site
 author:
   display_name: Andy
   login: admin
@@ -12,8 +12,8 @@ categories:
 - dean & britta
 - dean wareham
 ---
-<p>There's a nice in-depth Q&A with Dean Wareham at the Philly Fringe website promoting Dean & Britta's 13 Most Beautiful appearances at the festival in September (and their regular show at Johnny Brenda's on Thursday). The interview deals mostly with 13 Most Beautiful covering, amongst other topics, how they selected screen tests...</p>
+<p>There's a nice in-depth Q&A with Dean Wareham at the Philly Fringe web site promoting Dean & Britta's 13 Most Beautiful appearances at the festival in September (and their regular show at Johnny Brenda's on Thursday). The interview deals mostly with 13 Most Beautiful covering, amongst other topics, how they selected screen tests...</p>
 <blockquote><p>The more I read about the Factory I decided I wanted to focus on the people who lived there or were there every day or people who were important in the life of the Factory from '64-'66, rather than just famous.</p></blockquote>
 <p>...and choosing the music...</p>
 <blockquote><p>We would try a lot of different ideas against the picture. You learn when you're working with film that the image tells you when what you're doing is right. You may have one idea but up against the picture it may be boring, or the wrong mood.</p></blockquote>
-<p>Read the full interview at the Philly Fringe website.</p>
+<p>Read the full interview at the Philly Fringe web site.</p>

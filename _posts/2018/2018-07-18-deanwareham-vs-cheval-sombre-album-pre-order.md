@@ -22,7 +22,7 @@ longpost: false
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-vs-cheval-sombre-640.jpg" alt="Dean Wareham vs. Cheval Sombre" /><figcaption class="caption-text">Dean Wareham vs. Cheval Sombre</figcaption></figure>
 
-<p class="lead">Dean Wareham and Cheval Sombre (Christopher Porpora) have released details of their long awaited collaboration LP of cowboy songs - the album will be released on Double Feature records in October and is now <a href="https://deanwareham.com/pre-order-album">available to order in a variety of formats and bundles on Dean Wareham's website</a>.</p>
+<p class="lead">Dean Wareham and Cheval Sombre (Christopher Porpora) have released details of their long awaited collaboration LP of cowboy songs - the album will be released on Double Feature records in October and is now <a href="https://deanwareham.com/pre-order-album">available to order in a variety of formats and bundles on Dean Wareham's web site</a>.</p>
 
 <blockquote>Dean Wareham Vs. Cheval Sombre [is] a collection of western dreampop I made with my friend Chris (aka Cheval Sombre). Chris and I took turns on lead vocals, Jason Quever produced at Palmetto Recording here in L.A. I play the electric guitars, backed by Britta Phillips, Anthony LaMarca, Jason Quever and Will Halsey. Some of these songs (e.g. "Wandering Star") are from old Hollywood movies, others are by songwriters like Bob Dylan and Stephen Merritt.</blockquote>
 

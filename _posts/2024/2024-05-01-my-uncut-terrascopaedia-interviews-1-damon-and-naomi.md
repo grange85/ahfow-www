@@ -49,7 +49,7 @@ DK: As soon as the Rough Trade bankruptcy was settled, I started offering the ri
 
 
 <p>
-DK: Your website played a crucial role, anyway! But the full story of the 96 reissues starts a bit before the web really hit. As I mentioned, none of the labels we knew seemed to have any interest because the band was defunct, so I got the idea to approach Rykodisc, who specialized in defunct bands. Of course they were all much older bands…but anyway I wrote a letter to Don Rose, the head of the label. This was definitely pre-internet cause I remember it was a proper letter with a stamp. I had no introduction to him, I just thought maybe since they were based in Massachusetts they might know of the band and be interested. 
+DK: Your web site played a crucial role, anyway! But the full story of the 96 reissues starts a bit before the web really hit. As I mentioned, none of the labels we knew seemed to have any interest because the band was defunct, so I got the idea to approach Rykodisc, who specialized in defunct bands. Of course they were all much older bands…but anyway I wrote a letter to Don Rose, the head of the label. This was definitely pre-internet cause I remember it was a proper letter with a stamp. I had no introduction to him, I just thought maybe since they were based in Massachusetts they might know of the band and be interested. 
 </p>
 
 <p>
@@ -61,7 +61,7 @@ Here’s where the web – and specifically your site – enters the story. Caus
 </p>
 
 <p>
-But then Jeff hired a young assistant – maybe she was even an intern at first? – named Andrea Troolin, and Andrea found the project in that pile and made it hers. How to rally the company behind finally doing something with it, however? Your website! Andrea pointed to the Galaxie 500 mailing list, and the activity on it, as evidence that there was interest out there in the band and its out-of-print catalogue. Next thing you know…box set!
+But then Jeff hired a young assistant – maybe she was even an intern at first? – named Andrea Troolin, and Andrea found the project in that pile and made it hers. How to rally the company behind finally doing something with it, however? Your web site! Andrea pointed to the Galaxie 500 mailing list, and the activity on it, as evidence that there was interest out there in the band and its out-of-print catalogue. Next thing you know…box set!
 </p>
 
 <p><strong>AA: The 1996 reissues seemed to arrive at a time when the Internet was changing how the industry dealt with the “back catalogue” of bands - do you think that you got lucky with timing?</strong></p>

@@ -12,5 +12,5 @@ categories:
 - dean & britta
 - other people's blogs
 ---
-<p>Dean has <a href="https://web.archive.org/web/20091111+/http://www.deanandbritta.com/blog/?p=390">posted on the deanandbritta.com blog</a> with news about forthcoming gigs in Spain and London; some reminiscences of their recent trip to Australia and a plug for a New Year's Eve show in Brooklyn... <a href="https://web.archive.org/web/20091111+/http://www.deanandbritta.com/blog/?p=390">Check it out on their website</a>.</p>
+<p>Dean has <a href="https://web.archive.org/web/20091111+/http://www.deanandbritta.com/blog/?p=390">posted on the deanandbritta.com blog</a> with news about forthcoming gigs in Spain and London; some reminiscences of their recent trip to Australia and a plug for a New Year's Eve show in Brooklyn... <a href="https://web.archive.org/web/20091111+/http://www.deanandbritta.com/blog/?p=390">Check it out on their web site</a>.</p>
 <p>Britta was a <a href="https://web.archive.org/web/20091111+/http://www.schmooze-blog.com/?p=474">'One Day Guest' curator at Schmooze Blog</a> choosing three favourite videos.</p>

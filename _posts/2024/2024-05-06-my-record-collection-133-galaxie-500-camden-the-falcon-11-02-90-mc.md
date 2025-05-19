@@ -32,7 +32,7 @@ I think one of my fondest memories of being in the band was when we were opening
 </blockquote>
 <p class="caption">Naomi Yang<br>Temperature's Rising: Galaxie 500, an oral and visual history (2010)</p>
 
-The book was reprinted a couple of years back and is [still available from Damon & Naomi's website](https://www.20-20-20.com/store/galaxie500-book).
+The book was reprinted a couple of years back and is [still available from Damon & Naomi's web site](https://www.20-20-20.com/store/galaxie500-book).
 
  - *Catalogue Number:* AHFOW 16/021
  - *Artist:* Galaxie 500

@@ -18,7 +18,7 @@ categories:
 tags:
 - record store day
 ---
-The bootleg edition of Wondrous World was released by Damon & Naomi on their own 20\|20\|20 record label for Record Store Day in 2013 - although, contrary to RSD rules, they also took pre-orders and released it through their own website which, I suspect, earned them a slapped wrist?
+The bootleg edition of Wondrous World was released by Damon & Naomi on their own 20\|20\|20 record label for Record Store Day in 2013 - although, contrary to RSD rules, they also took pre-orders and released it through their own web site which, I suspect, earned them a slapped wrist?
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/the-wondrous-world-of-damon-and-naomi-bootleg-edition.jpg" "The Wondrous World of Damon & Naomi (bootleg edition)" %}
 

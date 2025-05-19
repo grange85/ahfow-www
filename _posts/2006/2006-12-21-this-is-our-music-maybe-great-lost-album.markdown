@@ -17,7 +17,7 @@ Album](https://web.archive.org/web/20061221+/http://www.bbc.co.uk/6music/shows/g
 BBC 6Music show on the 28th of December.
 
 If it turns out to be true you can [visit the
-website](https://web.archive.org/web/20061221+/http://www.bbc.co.uk/6music/shows/gideon_coe/gla.shtml) and pick one
+web site](https://web.archive.org/web/20061221+/http://www.bbc.co.uk/6music/shows/gideon_coe/gla.shtml) and pick one
 of three nominated tracks to get played and discuss the merits of the album.
 
 The item is broadcast between 10 and 11 am GMT ([what time is that where I li

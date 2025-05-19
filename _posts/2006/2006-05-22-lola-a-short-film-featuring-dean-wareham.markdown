@@ -18,7 +18,7 @@ Reynolds](http://www.imdb.com/name/nm1785446/) and [Daniel
 Sauli](http://www.imdb.com/name/nm0784815/). Britta Phillips makes a voice-
 only appearance
 
-You can see a couple of clips on the [website](https://web.archive.org/web/20060522+/http://www.lolafilm.net) and
+You can see a couple of clips on the [web site](https://web.archive.org/web/20060522+/http://www.lolafilm.net) and
 there's also a [MySpace page](https://web.archive.org/web/20060522+/http://www.myspace.com/lolafilm)
 
 

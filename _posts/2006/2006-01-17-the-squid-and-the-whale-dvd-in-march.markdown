@@ -11,7 +11,7 @@ categories:
 - news
 - dean & britta
 ---
-The essential DVD website [DVD Times](http://www.dvdtimes.co.uk/) is reporting
+The essential DVD web site [DVD Times](http://www.dvdtimes.co.uk/) is reporting
 that The Squid and The Whale will be [out on (region 1)
 DVD](http://www.dvdtimes.co.uk/content.php?contentid=59984) on the 26 March.
 The site also has artwork and a list of the DVD extras.

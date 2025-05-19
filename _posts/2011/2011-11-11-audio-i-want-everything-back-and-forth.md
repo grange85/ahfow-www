@@ -14,9 +14,9 @@ categories:
 
 {% ahfowimage "https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1992_c.jpg" "Luna (1992)" %}
 
-When I started this website in 1994 I didn't really know anything about what I was getting into. All I knew about Galaxie 500, Luna and Damon & Naomi was what I read on the back of the record sleeves, or in the occasional interview that turned up in the print media... and subsequently online.
+When I started this web site in 1994 I didn't really know anything about what I was getting into. All I knew about Galaxie 500, Luna and Damon & Naomi was what I read on the back of the record sleeves, or in the occasional interview that turned up in the print media... and subsequently online.
 
-When someone emailed me and told me that two different versions of I Want Everything had turned up on different pressings of Lunapark, I accepted it as fact and published it on the website - although in the back of mind there was almost certainly some "yeah, right" thinking go on so I never bothered trying to track it down (also this was back when downloading a track from the Internet took days!).
+When someone emailed me and told me that two different versions of I Want Everything had turned up on different pressings of Lunapark, I accepted it as fact and published it on the web site - although in the back of mind there was almost certainly some "yeah, right" thinking go on so I never bothered trying to track it down (also this was back when downloading a track from the Internet took days!).
 
 So with this "fact" happily filed away my life of Luna completism happily ticked along unaware that it was actually a _fact_ (without the inverted commas... and in italics!) and that my collection could never be complete... until...
 

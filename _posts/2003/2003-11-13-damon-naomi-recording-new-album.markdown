@@ -13,4 +13,4 @@ categories:
 ---
 OK, so this is snagged pretty much verbatim from [http://www.damonandnaomi.com](https://web.archive.org/web/20031113+/http://www.damonandnaomi.com) 
 
-It appears D&N are in the studio with Kurihara "working on a new album". No information on when it will be released. Also on their website it mentions that they'll be playing a festival in Taiwan in January
+It appears D&N are in the studio with Kurihara "working on a new album". No information on when it will be released. Also on their web site it mentions that they'll be playing a festival in Taiwan in January

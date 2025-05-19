@@ -11,7 +11,7 @@ categories:
 - news
 - dean & britta
 ---
-[Sonic Boom](https://web.archive.org/web/20060811+/http://www.sonic-boom.info/news.php) has just updated his website
+[Sonic Boom](https://web.archive.org/web/20060811+/http://www.sonic-boom.info/news.php) has just updated his web site
 and inlcuded this news snippet...
 
 > Today been finalising a mix of a tune from the new DeanandBritta E.P. that

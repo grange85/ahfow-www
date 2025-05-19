@@ -19,7 +19,7 @@ the course of the next few weeks, in the run up to the film premiere, I'll
 post their replies here.
 
 New Yorker's should head to the [Tribeca Film Festival
-website](https://web.archive.org/web/20060417+/http://www.tribecafilmfestival.org) to buy their tickets to one of
+web site](https://web.archive.org/web/20060417+/http://www.tribecafilmfestival.org) to buy their tickets to one of
 the five screenings the film will receive - the rest of us will have to drum
 our fingers and wait for the [Rhino](https://web.archive.org/web/20060417+/http://www.rhino.com) DVD release in
 June.

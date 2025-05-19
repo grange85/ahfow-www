@@ -18,11 +18,11 @@ tags:
 - cassette
 date: 2023-08-17 00:00 +0000
 ---
-This is a cassette sent to me in the mid 90s by someone from The Galaxie 500 Mailing List in, I'd guess, 1995 since it has some of the tracks that later turned up on the box set... as well as some stuff that didn't. I can't remember who sent this, possibly Matthew (who was very helpful in the early days of the list/website but who I've long lost touch with).
+This is a cassette sent to me in the mid 90s by someone from The Galaxie 500 Mailing List in, I'd guess, 1995 since it has some of the tracks that later turned up on the box set... as well as some stuff that didn't. I can't remember who sent this, possibly Matthew (who was very helpful in the early days of the list/web site but who I've long lost touch with).
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-unreleased-sessions-and-live-mc-insert.jpg" "Cassette insert for unreleased sessions" %}
 
-Most of this has made it out there over time - some on this website - here's a tracklist as it was written on the cassette:
+Most of this has made it out there over time - some on this web site - here's a tracklist as it was written on the cassette:
 
 **A**
  - _July 88_

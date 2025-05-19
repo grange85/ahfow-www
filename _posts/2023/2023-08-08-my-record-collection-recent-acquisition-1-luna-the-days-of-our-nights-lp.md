@@ -100,7 +100,7 @@ In 2006 I revisited the album, and my review of it on the mailing list
 Andy Aldridge, The Galaxie 500 Mailing List, 21st June 2006
 {: .blockquote-footer .caption}
 
-For over 20 years the website/mailing list had an annual survey and The Days of Our Nights was routinely propping up the stack - although periodically Romantica would give it a run for its money.
+For over 20 years the web site/mailing list had an annual survey and The Days of Our Nights was routinely propping up the stack - although periodically Romantica would give it a run for its money.
 
 This copy was bought from Rough Trade and is the limited edition blue vinyl copy and was, frankly, too flipping expensive! Vinyl prices are ridculous at the moment, but this was more ridiculous than most. I'm sort of surprised I bought it!
 

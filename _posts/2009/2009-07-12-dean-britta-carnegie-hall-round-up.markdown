@@ -18,7 +18,7 @@ categories:
 <p><a id="more"></a><a id="more-1436"></a></p>
 <p>Scottish independent music magazine <a href="http://www.isthismusic.com/dean-and-britta-13-most-beautiful">Is This Music? has a review</a> and also a <a href="http://www.flickr.com/photos/isthismusic/sets/72157621232858518/">nice set of pictures on Flickr</a></p>
 <blockquote><p>But is it art? For a casual music fan it’s some great indiepop combining the best bits of Luna / Galaxie 500 that just happens to have a film show as an added bonus. Serious art historians will see it as a display of seminal pop art with a pretty authentic VU-themed score. Either way, everyone wins.</p></blockquote>
-<p>Scottish newspaper <a href="http://news.scotsman.com/entertainment/Gig-review-13-Most-Beautiful.5446969.jp">The Scotsman has a short review</a> on their website...</p>
+<p>Scottish newspaper <a href="http://news.scotsman.com/entertainment/Gig-review-13-Most-Beautiful.5446969.jp">The Scotsman has a short review</a> on their web site...</p>
 <blockquote><p>"Moving portraits" of figures like Reed, Edie Sedgwick and Dennis Hopper, who magnetises the screen with his flickering expressions of pain and rage, they allow us to recognise the individuals by their body language and facial ticks as well as their features.</p></blockquote>
 <p><a href="http://www.myspace.com/murrayramone">Murray Ramone</a> has immortalised the evening in song - check it out at <a href="http://www.myspace.com/murrayramone">his MySpace page</a> and check the <a href="http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=487319610&blogId=499729545">lyrics out on the blog post</a>...</p>
 <blockquote><p>and after the show was over<br />

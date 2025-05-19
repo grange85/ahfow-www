@@ -12,7 +12,7 @@ categories:
 - dean & britta
 - other people's blogs
 ---
-<p>Dean & Britta's week guest editing Magent Magazine's website has now finished and to sum up here's links to all the posts they made over the week...</p>
+<p>Dean & Britta's week guest editing Magent Magazine's web site has now finished and to sum up here's links to all the posts they made over the week...</p>
 <ul>
 <li><a href="http://www.magnetmagazine.com/2009/03/02/qa-with-dean-britta/">Q&A With Dean & Britta</a></li>
 <li><a href="http://www.magnetmagazine.com/2009/03/03/from-the-desk-of-dean-britta-la-blogotheque-the-take-away-shows/">From The Desk Of Dean & Britta: La Blogotheque - The Take Away Shows</a></li>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Piggie website
+title: Piggie web site
 author:
   display_name: Andy
   login: admin
@@ -12,7 +12,7 @@ categories:
 - dean wareham
 ---
 Piggie, Alison Bagnall's movie starring Dean Wareham has [its own
-website](https://web.archive.org/web/20050923+/http://piggiethemovie.com/index.html) with pictures and interviews -
+web site](https://web.archive.org/web/20050923+/http://piggiethemovie.com/index.html) with pictures and interviews -
 still a few bits "coming soon" but worth a visit for the
 [Q&A;](https://web.archive.org/web/20050923+/http://piggiethemovie.com/qa.html) with Dean and to find out if its
 hitting a cinema near you.

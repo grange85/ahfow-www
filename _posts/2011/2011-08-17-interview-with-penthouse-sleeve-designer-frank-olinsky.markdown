@@ -13,4 +13,4 @@ categories:
 ---
 <p>Design blog <a href="http://rockthatfont.com">Rock That Font</a> has a <a href="http://rockthatfont.com/2011/08/15/penthouse/">short interview with designer Frank Olinsky</a> the designer of Luna's Penthouse sleeve, as well as many subsequent <a href="http://frankolinsky.com/luna.html">Luna</a> and Dean & Britta sleeves.</p>
 <blockquote><p>Dean had discovered Ted Croner's magical photos of New York City and knew they were just right for the package. Three pictures were used: the cover photo of the lit-up skyscraper, a group of light-streaked high-rise buildings, and a blurry speeding taxi. (This same taxi photo appeared on the cover of Bob Dylan’s 2006 album, Modern Times.)</p></blockquote>
-<p>See also <a href="http://frankolinsky.com/index2.html">Frank Olinsky's website</a></p>
+<p>See also <a href="http://frankolinsky.com/index2.html">Frank Olinsky's web site</a></p>

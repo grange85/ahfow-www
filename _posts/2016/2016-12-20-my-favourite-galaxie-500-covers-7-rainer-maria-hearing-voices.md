@@ -26,7 +26,7 @@ longpost: true
 <!--more-->
 <p>I nabbed a bit of software that enabled me to download the Flash stream and it lived on my computer for a few years, and then on a post on my blog for a while before it vanished - seemingly lost forever.</p>
 
-<p>In the ten years since it went AWOL Rainer Maria's cover of Hearing Voices started acquiring a sort of mythical status - possibly a great lost track, possibly the greatest of Galaxie 500 covers? Most things turn up on YouTube eventually - but Spin's videos haven't and my periodic searches for it came to nothing - all I could ever find to prove that it ever existed at all was on my own website.</p>
+<p>In the ten years since it went AWOL Rainer Maria's cover of Hearing Voices started acquiring a sort of mythical status - possibly a great lost track, possibly the greatest of Galaxie 500 covers? Most things turn up on YouTube eventually - but Spin's videos haven't and my periodic searches for it came to nothing - all I could ever find to prove that it ever existed at all was on my own web site.</p>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/gatehouseanchor/3347559870/in/album-72157613239973136/" title="Rainer Maria"><img src="https://media.fullofwishes.co.uk/flickr-downloads/3347559870_c732475e54_o.jpg" alt="Rainer Maria"></a>
 
@@ -40,5 +40,5 @@ longpost: true
 
 <p>Maybe absence did make this heart grow fonder, but coming as it did, in the days before YouTube and before Elefant's tribute album, when finding someone who knew Galaxie 500 was a treat, means that Rainer Maria's cover of Hearing Voices is still one of my favourites. It's good to have it back in my life.</p>
 
-<p><a href="https://en.wikipedia.org/wiki/Rainer_Maria">Rainer Maria</a> split for a while but are back playing now - <a href="http://www.rainermaria.com/">check out their website</a>. There's a <a href="https://www.flickr.com/photos/gatehouseanchor/albums/72157613239973136">stack of pics of them from back in the day over here</a>.</p>
+<p><a href="https://en.wikipedia.org/wiki/Rainer_Maria">Rainer Maria</a> split for a while but are back playing now - <a href="http://www.rainermaria.com/">check out their web site</a>. There's a <a href="https://www.flickr.com/photos/gatehouseanchor/albums/72157613239973136">stack of pics of them from back in the day over here</a>.</p>
 

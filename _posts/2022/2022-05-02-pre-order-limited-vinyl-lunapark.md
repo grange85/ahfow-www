@@ -26,6 +26,6 @@ _Dean Wareham_
 
 The Lunapark Deluxe Edition will be available to pre-order until May 31, and a limited number will be available in transparent blue and transparent green vinyl which can be purchased exclusively from Run O)ut Groove while stocks last.
 
-[Head over to the Run Our Grooves website to pre-order](https://shop.runoutgroovevinyl.com/shop/lunapark-deluxe-d2c-edition-lp.html)
+[Head over to the Run Our Grooves web site to pre-order](https://shop.runoutgroovevinyl.com/shop/lunapark-deluxe-d2c-edition-lp.html)
 
 _Note that this is a pre-order and you probably won't get your paws on the finished article until January 2023!_

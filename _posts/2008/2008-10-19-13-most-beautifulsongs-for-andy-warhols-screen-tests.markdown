@@ -17,7 +17,7 @@ categories:
 <p>There's an <a href="http://www.pittsburghcitypaper.ws/gyrobase/Content?oid=oid%3A53755">interview with Dean & Britta about the show in the Pittsburgh City Paper</a>...</p>
 <blockquote><p>And so what Dean & Britta will provide are 13 songs, of four minutes each. Most are new compositions, with a few covers thrown in -- a Bob Dylan song and a lesser-known Velvet Underground tune for the Lou Reed film -- and at least one reworking of a Luna tune. While there are no immediate plans to make an album of just these songs, they say they're sure to re-use at least some of the songs in future releases.</p></blockquote>
 <p>And <a href="http://www.washingtonpost.com/wp-dyn/content/article/2008/10/14/AR2008101402916.html">a brief mention in a piece about the festival in the Washington Post</a>...</p>
-<p>The show gets performed twice at the festival on Friday and Saturday at The Byham Theatre, tickets are available at the festival's website.</p>
+<p>The show gets performed twice at the festival on Friday and Saturday at The Byham Theatre, tickets are available at the festival's web site.</p>
 <p>Next year the show will visit other venues across the US over the next few months and hopefully will get a DVD release in February.</p>
 <p><ins datetime="2008-10-21T08:47:24+00:00">
 <p>Update: There's an <a href="http://www.pittsburghlive.com/x/tribunereview/search/s_593792.html">interview with Dean in the current Pittsburgh Tribune-Review</a>...</p>

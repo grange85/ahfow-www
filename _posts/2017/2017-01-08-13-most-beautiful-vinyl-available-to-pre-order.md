@@ -15,7 +15,7 @@ categories:
  - news
 tags:
 ---
-<p class="lead">The vinyl release of Dean & Britta's 13 Most Beautiful is now <a href="https://ww-records.com/store.ehtml/products/dean-britta.html">available to pre-order from the Wouldn't Waste Records website</a>.</p>
+<p class="lead">The vinyl release of Dean & Britta's 13 Most Beautiful is now <a href="https://ww-records.com/store.ehtml/products/dean-britta.html">available to pre-order from the Wouldn't Waste Records web site</a>.</p>
 <p>The record will cost &euro;23.99 plus &euro;15 postage (to Europe AND the US) and is due to be shipped on the 20th February.</p?
 <p>The album will be released as a double LP with the tracks on three sides and the fourth side blank, and will be limited to 500 numbered copies.</p>
 

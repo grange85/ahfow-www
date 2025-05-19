@@ -31,7 +31,7 @@ We made the record wherever we happened to be, creating music in a fire-ravaged 
 </blockquote>
 <p class="caption">My Magic City sleeve notes</p>
 
-Fortunately the website for the [Skeletal Lightning re-release](https://skeletallightning.com/products/caithlin-de-marrais-my-magic-city) is kind enought to clarify things _"the album also includes a lush stereo guitar solo from Dean Wareham
+Fortunately the web site for the [Skeletal Lightning re-release](https://skeletallightning.com/products/caithlin-de-marrais-my-magic-city) is kind enought to clarify things _"the album also includes a lush stereo guitar solo from Dean Wareham
 (Galaxie 500, Luna, Dean & Britta) on 'Outer Space Is Still Sexy'_. 
 
 Britta also gets an _electric bass_ credit and I suspect her appearance was on the same track. Of course one or both of them could appear on other tracks too. Other names recognisable to followers of AHFoW in the credits are Lara Meyerratken - Luna's sometime fifth member -  and Jason Lawrence who has drummed periodically with Dean & Britta.

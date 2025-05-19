@@ -25,5 +25,5 @@ Dean Wareham has just shared another track from his forthcoming album [I Have No
 
 Just as Much As It Was Worth is the third track from the album following on from [The Past is Our Plaything](https://www.fullofwishes.co.uk/2021/08/17/pre-order-new-dean-wareham-lp/) and [Cashing In](https://www.fullofwishes.co.uk/2021/09/18/dean-wareham-cashing-in-single-video/).
 
-You can [pre-order](https://deanwareham.com/pre-order) the album from Dean's website or from record stores - in the UK it is available to order from [Norman Records](https://www.normanrecords.com/records/189439-dean-wareham-i-have-nothing-to-say). 
+You can [pre-order](https://deanwareham.com/pre-order) the album from Dean's web site or from record stores - in the UK it is available to order from [Norman Records](https://www.normanrecords.com/records/189439-dean-wareham-i-have-nothing-to-say). 
 

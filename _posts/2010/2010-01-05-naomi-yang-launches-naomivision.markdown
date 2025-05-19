@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Naomi launches new photography website 'naomivision'
+title: Naomi launches new photography web site 'naomivision'
 author:
   display_name: Andy
   login: admin

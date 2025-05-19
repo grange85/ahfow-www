@@ -21,7 +21,7 @@ categories:
 <p><a href="http://www.normanrecords.com/records/147340-britta-phillips-dean-wareham-love-fallin-in-love-">Pre-order Britta Phillips & Dean Wareham - Love / Fallin' In Love at Norman Records (UK)</a></p>
 <p></ins><br />
 <a id="more"></a><a id="more-8981"></a></p>
-<p>I've just been tipped off to the imminent release of a <a href="http://www.normanrecords.com/records/147340-britta-phillips-dean-wareham-love-fallin-in-love-">new Dean & Britta 7" single</a> coming out on Taiwanese label Formosa Punk. Currently all the information I have is from UK indie record shop <a href="http://www.normanrecords.com/records/147340-britta-phillips-dean-wareham-love-fallin-in-love-">Norman Records who have a page on their website where you can pre-order the single</a>, it has an estimated release date of 9 May.</p>
+<p>I've just been tipped off to the imminent release of a <a href="http://www.normanrecords.com/records/147340-britta-phillips-dean-wareham-love-fallin-in-love-">new Dean & Britta 7" single</a> coming out on Taiwanese label Formosa Punk. Currently all the information I have is from UK indie record shop <a href="http://www.normanrecords.com/records/147340-britta-phillips-dean-wareham-love-fallin-in-love-">Norman Records who have a page on their web site where you can pre-order the single</a>, it has an estimated release date of 9 May.</p>
 <p>Here's all the information that Norman Records has...</p>
 <blockquote><p>Dean does a cover of a Robyn Hitchcock song, Britta transports a Beach Boys track to the next level.</p></blockquote>
 <p>    <a href="http://www.normanrecords.com/records/147340-britta-phillips-dean-wareham-love-fallin-in-love-">Britta Phillips & Dean Wareham - Love / Fallin' In Love</a><br />

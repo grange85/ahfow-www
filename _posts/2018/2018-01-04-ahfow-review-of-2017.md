@@ -47,7 +47,7 @@ In January Luna played three consecutive nights in San Francisco playing a compl
 <p>Britta headed out on tour supporting Teenage Fanclub here she is (with Dean) playing Drive at the Neptune Theater in Seattle:</p>
 {% ahfowvideo "wbRH3ikQ8rc" "Britta Phillips - Drive, Seattle, Mar 2017" %}
 
-<p>Damon & Naomi's beautiful <a href="https://www.20-20-20.com/store/damon-naomi-wi">Within These Walls gets a belated release on vinyl</a> (and can be had for a bargain $12 on their website!)</p>
+<p>Damon & Naomi's beautiful <a href="https://www.20-20-20.com/store/damon-naomi-wi">Within These Walls gets a belated release on vinyl</a> (and can be had for a bargain $12 on their web site!)</p>
 <blockquote>We looked at our recent vinyl sales, and put it out on CD only. (Cue sad trombone, the one horn we neglected to include.)</blockquote>
 
 

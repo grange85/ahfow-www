@@ -27,7 +27,7 @@ The Jericho CD came in that (mostly) annoying occasional CD addition - the slip 
 
 <!--more-->
 
-I think this release might be the first to have a link to Luna's website fuzzywuzzy.com, the Beggars release didn't. Fuzzywuzzy was subseuqently flogged off and now redirects to fluffywuffy.com from where you can buy fluffy boots. The Beggars release did have a link to beggars.com... which is at least still owned by them. 
+I think this release might be the first to have a link to Luna's web site fuzzywuzzy.com, the Beggars release didn't. Fuzzywuzzy was subseuqently flogged off and now redirects to fluffywuffy.com from where you can buy fluffy boots. The Beggars release did have a link to beggars.com... which is at least still owned by them. 
 
  - *Catalogue Number:* AHFOW 10/064
  - *Artist:* Luna

@@ -42,6 +42,6 @@ tags:
       </tr>
 </tbody></table>
 
-<p>It's also worth checking out <a href="http://www.damonandnaomi.com">Damon & Naomi's website</a> which has had another polish.</p>
+<p>It's also worth checking out <a href="http://www.damonandnaomi.com">Damon & Naomi's web site</a> which has had another polish.</p>
 
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2017-11/2017-11-damon-and-naomi-japan.jpg" class="img-fluid" /><figcaption>Damon & Naomi - Japan, November 2017</figcaption></figure>

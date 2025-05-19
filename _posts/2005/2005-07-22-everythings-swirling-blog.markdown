@@ -10,7 +10,7 @@ date: '2005-07-22'
 categories:
 - news
 ---
-OK - not really appropriate but hey this is my website and if I can't plug my
+OK - not really appropriate but hey this is my web site and if I can't plug my
 own blog on here then where the hell can I do it.
 
 The blog has existed for years but I've finally decided to give myself a right

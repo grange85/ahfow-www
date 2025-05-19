@@ -43,7 +43,7 @@ longpost: true
 
 <h3>1: Penthouse</h3><blockquote>But I feel like Luna, when we made our first album, we weren't there yet and our third album is our best.</blockquote>
 
-<p>&hellip; and as it's my website&hellip;</p>
+<p>&hellip; and as it's my web site&hellip;</p>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/26941678646/in/dateposted/" title="So @deanwareham ranked Luna&#x27;s albums and so did I (before I saw Dean&#x27;s list). To be honest the first and last are right and the rest are a great big tie for second"><img src="https://media.fullofwishes.co.uk/flickr-downloads/26941678646_efa8f30b8b_b.jpg" alt="So @deanwareham ranked Luna&#x27;s albums and so did I (before I saw Dean&#x27;s list). To be honest the first and last are right and the rest are a great big tie for second"></a>
 
 

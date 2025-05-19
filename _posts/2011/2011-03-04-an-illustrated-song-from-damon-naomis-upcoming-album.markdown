@@ -11,7 +11,7 @@ date: '2011-03-04'
 categories:
 - damon & naomi
 ---
-<p><a href="http://www.thewire.co.uk/articles/5946/">The Wire magazine</a> website has published a new song from Damon & Naomi's forthcoming album False Beats and True Hearts the song, And You Are There, can be seen with it's accompanying illustration by multimedia artist <a href="http://en.wikipedia.org/wiki/Chris_Marker">Chris Marker</a>.</p>
+<p><a href="http://www.thewire.co.uk/articles/5946/">The Wire magazine</a> web site has published a new song from Damon & Naomi's forthcoming album False Beats and True Hearts the song, And You Are There, can be seen with it's accompanying illustration by multimedia artist <a href="http://en.wikipedia.org/wiki/Chris_Marker">Chris Marker</a>.</p>
 
 
 <p><a href="https://vimeo.com/20603766">Damon &amp; Naomi with Chris Marker - And You Are There</a> from <a href="https://vimeo.com/thewiremagazine">The Wire Magazine</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

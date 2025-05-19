@@ -25,7 +25,7 @@ Domino's double reissues of Galaxie 500's catalogue in 2010 were lovely, each st
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-today-uncollected-domino.jpg" "Galaxie 500 - Today / Uncollected (CD)" %}
 
-Today was released with _Uncollected_ (the compilation of unreleased tracks and obscurities that first saw the light of day in the 1996 box set) and the essay was by comedian and fan Stewart Lee. You can [read Stewart's essay on his website](https://www.stewartlee.co.uk/written-for-love/dont-let-our-youth-go-to-waste/) (and you should) but here's a couple of extracts if you need convincing:
+Today was released with _Uncollected_ (the compilation of unreleased tracks and obscurities that first saw the light of day in the 1996 box set) and the essay was by comedian and fan Stewart Lee. You can [read Stewart's essay on his web site](https://www.stewartlee.co.uk/written-for-love/dont-let-our-youth-go-to-waste/) (and you should) but here's a couple of extracts if you need convincing:
 
 <blockquote>
 Today, which I took a punt on when its blurred foliage sleeve loomed out from the racks of Avalanche records in Edinburgh’s West Nicholson Street in August 1989, was an amazing record. The opening track, Flowers, deceptively defeats expectations and leaves the listener bewildered and susceptible. The jangly strummed guitar seems predictable enough, but the drums are playing jazzy off-beats, the bass is charting its own wayward path, and then, minutes in, there’s a guitar solo so audacious and unexpected that it’s immediately clear that all bets are off.

@@ -12,5 +12,5 @@ categories:
 - damon & naomi
 - video
 ---
-<p>Damon & Naomi have just posted a clip from their new DVD onto YouTube (and on <a href="http://blog.myspace.com/index.cfm?fuseaction=blog.view&friendID=52968500&blogID=452753618">their MySpace blog</a>). So enjoy the very beautiful Stars Never Fade and then head on over to Damon & Naomi's website and order the DVD.</p>
+<p>Damon & Naomi have just posted a clip from their new DVD onto YouTube (and on <a href="http://blog.myspace.com/index.cfm?fuseaction=blog.view&friendID=52968500&blogID=452753618">their MySpace blog</a>). So enjoy the very beautiful Stars Never Fade and then head on over to Damon & Naomi's web site and order the DVD.</p>
 <p><figure class="caption "><figcaption class="caption-text"></figcaption></figure></p>

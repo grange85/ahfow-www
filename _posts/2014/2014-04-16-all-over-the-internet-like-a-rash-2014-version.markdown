@@ -10,7 +10,7 @@ date: '2014-04-16'
 categories:
 - admin
 ---
-<p>A Head Full of Wishes, as well as being this website, can be found happily chipping away at the coalface in all the usual Internet places - please come and find me in any or all of these places... and tell your friends!!</p>
+<p>A Head Full of Wishes, as well as being this web site, can be found happily chipping away at the coalface in all the usual Internet places - please come and find me in any or all of these places... and tell your friends!!</p>
 <p><strong>Facebook:</strong> <a href="https://www.facebook.com/fullofwishes">A Head Full of Wishes on Facebook</a><br />
 <strong>Twitter: </strong><a href="http://twitter.com/ahfow">@ahfow on Twitter</a><br />
 <strong>Tumblr: </strong><a href="http://oblivious.fullofwishes.co.uk/">Oblivious: A Head Full of Wishes</a><br />

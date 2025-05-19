@@ -29,6 +29,6 @@ Back in 1996, while still a member of Luna, Justin Harwood teamed up with Pete B
 "sourcecap": "Tuatara - East of The Sun (2007) - Discogs"
 } %}
 
-You can listen to the whole album on the [Fast Horse Recordings](http://www.fasthorserecordings.com) website - Dean appears on the tracks "Trouble Rides In" and "Your Ghost Town", other guest vocalists Mark Eitzel, John Wesley Harding and Victoria Williams.
+You can listen to the whole album on the [Fast Horse Recordings](http://www.fasthorserecordings.com) web site - Dean appears on the tracks "Trouble Rides In" and "Your Ghost Town", other guest vocalists Mark Eitzel, John Wesley Harding and Victoria Williams.
 
 

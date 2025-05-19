@@ -25,7 +25,7 @@ As [mentioned previously](/2023/11/20/my-record-collection-088-damon-naomi-a-sky
 
 The CD booklet had the song lyrics in English, but tucked inside was also a folded sheet with the lyrics in Japanese. 
 
-Damon & Naomi popped some copies of the CD on their website in may 2022 and I bought my copy then for $20 ... and just to make the shipping seem less outrageous I also bought a "A Sky Record" T-shirt at the same time. The T-shirt was white, I (almost) never wear anything white because ... well, it's not black! Also, owning almost nothing that is white means I don't have the skills required to wash white things without them going grey. So, I now have a grey Damon & Naomi T-shirt.
+Damon & Naomi popped some copies of the CD on their web site in may 2022 and I bought my copy then for $20 ... and just to make the shipping seem less outrageous I also bought a "A Sky Record" T-shirt at the same time. The T-shirt was white, I (almost) never wear anything white because ... well, it's not black! Also, owning almost nothing that is white means I don't have the skills required to wash white things without them going grey. So, I now have a grey Damon & Naomi T-shirt.
 
 <!--more-->
 

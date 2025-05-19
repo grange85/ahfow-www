@@ -19,6 +19,6 @@ longpost: false
 
 ### Dean & Britta's second album Back Numbers is getting a long-overdue vinyl release thanks to Danish label Wouldn't Waste Records 
 
-The album is now [available to pre-order on WWR's website](https://ww-records.com/store.html) in both black and limnited coloured vinyl and should be hitting doormats in early June. 
+The album is now [available to pre-order on WWR's web site](https://ww-records.com/store.html) in both black and limnited coloured vinyl and should be hitting doormats in early June. 
 
 

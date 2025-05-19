@@ -55,7 +55,7 @@ Anyway after bemoaning the fact that D&N rarely play Beautiful Close Double live
  - *Notes:* Japanese only CD release
  - *Packaging:* Jewel case with obi strip
  - *Format:* CD
- - Bought direct from Damon & Naomi's website back then
+ - Bought direct from Damon & Naomi's web site back then
  - [Buy 'Everything Quieter Than Everything Else' on Bandcamp](https://damonandnaomi.bandcamp.com/album/everything-quieter-than-everything-else-live-in-japan)
 
 Previously in [my record collection](/category/my-record-collection):

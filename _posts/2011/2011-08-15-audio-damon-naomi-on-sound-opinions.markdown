@@ -15,6 +15,6 @@ categories:
 <p>Naomi:</p>
 <blockquote><p> "I can't imagine ever doing that... the idea now of playing those songs, and even more of playing them with Dean... it just doesn't seem like it would be a very artistically gratifying experience"</p></blockquote>
 <p>Songs performed live were How Do I Say Goodbye, Turn of the Century, Helsinki and A Second Life.</p>
-<p>You can <a href="http://www.soundopinions.org/shownotes/2011/081211/shownotes.html">hear (or download) the complete show</a> or just the music from the Sound Opinions website</p>
+<p>You can <a href="http://www.soundopinions.org/shownotes/2011/081211/shownotes.html">hear (or download) the complete show</a> or just the music from the Sound Opinions web site</p>
 <p><figure class="caption "><figcaption class="caption-text"></figcaption></figure>
 <p><a href="http://vimeo.com/27600990">Damon & Naomi perform 'A Second Life' on Sound Opinions</a> from <a href="http://vimeo.com/wbez">WBEZ</a> on <a href="http://vimeo.com">Vimeo</a>.</p>

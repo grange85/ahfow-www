@@ -15,7 +15,7 @@ categories:
 <p>Get the album:<br />
 Download from: <a href="http://itunes.apple.com/us/album/false-beats-and-true-hearts/id432242862">iTunes</a>, <a href="http://www.amazon.com/gp/product/B004XOH8HM/ref=as_li_ss_tl?ie=UTF8&tag=aheadfullofwi-20&linkCode=as2&camp=217145&creative=399349&creativeASIN=B004XOH8HM">Amazon.com</a></p>
 <p>CD from: Damon & Naomi's web site, <a href="http://www.amazon.com/gp/product/B004QPG1AI/ref=as_li_ss_tl?ie=UTF8&tag=aheadfullofwi-20&linkCode=as2&camp=217145&creative=399349&creativeASIN=B004QPG1AI">Amazon.com</a></p>
-<p>LP from: Damon & Naomi's website</p>
+<p>LP from: Damon & Naomi's web site</p>
 <p><a href="http://www.wbur.org/2011/05/17/galaxie-500">Damon & Naomi are interviewed om WBUR about their time with Galaxie 500</a></p>
 <p><a href="http://music.aol.com/new-releases-full-cds/spinner#/20">You can preview the whole album on Spinner</a></p>
 <p><figure class="caption aligncenter"><figcaption class="caption-text">False Beats and True Hearts by Damon & Naomi</figcaption></figure></p>

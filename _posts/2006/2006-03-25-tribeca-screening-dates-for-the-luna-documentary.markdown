@@ -23,7 +23,7 @@ Film festival](https://web.archive.org/web/20060325+/http://www.tribecafilmfesti
 The director Matthew Buzzell also has another film showing as part of the
 festival - Putting the River in Reverse.
 
-Visit the festival website for more details and information about getting
+Visit the festival web site for more details and information about getting
 tickets.
 
 

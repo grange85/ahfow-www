@@ -28,10 +28,10 @@ Some FAQs where huge, rambling, overblown, and over-detailed things. Mine wasn't
 
 This is the earliest copy I still have, dating from June 1996, but it's version 1.2 so it had been running a while before this.
 
-This next bit is probably only of interest to me but... it's my website!!
+This next bit is probably only of interest to me but... it's my web site!!
 
 - Ryko had just announced the Galaxie 500 box set - release was still three months away.
-- The FAQ dates from before my ISP, Demon, gave us free webspace so the website was transitioning from the Turnpike URL (as all freebie Turnpike accounts were being closed) to some space provided by a fan, Matt (on his work server).
+- The FAQ dates from before my ISP, Demon, gave us free webspace so the web site was transitioning from the Turnpike URL (as all freebie Turnpike accounts were being closed) to some space provided by a fan, Matt (on his work server).
 - The mailing list was still being run from some software I'd written in [Arexx](https://en.wikipedia.org/wiki/ARexx) on my Amiga and using my dial-up internet connection - I might have got a 14.4K modem by then! This meant the list only ran when I connected to the internet - briefly in the morning before I went to work and for a few short periods in the evenings. If I went on holiday discussion stopped for a week!
 - As well as a mailing list I also ran an automated email fileserver where you could request "all sorts of Galaxie 500 product" - I'm pretty sure this was just pictures and text documents.
 - Luna had no web presence at all - this was before triangle23 pinched my content for their official Luna page, and long before fuzzywuzzy.

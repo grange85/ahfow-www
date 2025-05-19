@@ -27,7 +27,7 @@ In July 2008 news of Dean & Britta's _13 Most Beautiful..._ project first leaked
 
 The DVD was announced around the time of those first presenations and was available as a standard edition for $30 or a "limited deluxe edition" for $250 that had special packaging, a poster, and an 8x10 archival print. This copy is the standard edition that was sent to me by Dean just ahead of release. With a signed Bewitched postcard.
 
-The DVD is a lovely package, lovely enough that I'm not too bothered that I don't own the deluxe edition (you can see a [pic of that on Dean's website](https://deanwareham.com/product/266960)). It comes in a slip case with a hardback book that contains a full page photo and a page of words for each of the 13, and a couple of short essays, one by Dean on the process of scoring the Screen Tests. The disc itself is in a cardboard pocket at the back of the booklet, one of those pockets that makes it really difficult to get the disc out!
+The DVD is a lovely package, lovely enough that I'm not too bothered that I don't own the deluxe edition (you can see a [pic of that on Dean's web site](https://deanwareham.com/product/266960)). It comes in a slip case with a hardback book that contains a full page photo and a page of words for each of the 13, and a couple of short essays, one by Dean on the process of scoring the Screen Tests. The disc itself is in a cardboard pocket at the back of the booklet, one of those pockets that makes it really difficult to get the disc out!
 
 As well as the 13 Screen Tests the DVD also has a 10 minute black and white film containing footage of Dean & Britta recording the soundtrack, with some chatty little bits in between. After 16 years I'm hoping no one will mind me popping it on YouTube:
 

@@ -38,22 +38,22 @@ This was followed by some Googling on my part at which point I turned it into a 
 
 <blockquote>
 Dean is currently in North Carolina producing an album for Jule Brown which is Mark Holland of Jennyanykind’s side project.  
-More details at the official and frighteningly ugly Jule Brown [website] and the thankfully much prettier Sonicbids EPK site.
+More details at the official and frighteningly ugly Jule Brown [web site] and the thankfully much prettier Sonicbids EPK site.
 </blockquote>
 <p class="caption"><a href="/2005/09/08/dean-wareham-puts-on-his-producers-hat/">Dean Wareham puts on his producers hat</a> - 8th September 2005</p>
 
-A while later Mark Holland came across my post and its rather brutal analysis of his Jule Brown website:
+A while later Mark Holland came across my post and its rather brutal analysis of his Jule Brown web site:
 
 <blockquote>
-Dean and I laughed (actually Dean laughed at first and then me later) when he told me about the comment regarding my website (which is now gone and has relocated to www.myspace.com/julebrown)... we both agreed with you.
+Dean and I laughed (actually Dean laughed at first and then me later) when he told me about the comment regarding my web site (which is now gone and has relocated to www.myspace.com/julebrown)... we both agreed with you.
 </blockquote>
 <p class="caption">Mark Holland comment on AHFoW - 27th July 2008</p>
 
 ... although, in retrospect, I think [I was a bit harsh](https://web.archive.org/web/20050913105501/http://www.julebrown.org/) - not really _frighteningly ugly_ but rather... old fashioned for 2005, and now looking rather quaint! I suspect it was the 'letter-spacing: -1pt;' rule on the link hover that bothered me most. I must admit that I hate the idea that my idle opinion pushed Mark into the arms of MySpace (although back then that's where everyone was headed).
 
-I like the album much more than I liked that website back in 2005.
+I like the album much more than I liked that web site back in 2005.
 
-It was nice coming across Mark's comment (it was in my email ... and [in the Wayback Machine](https://web.archive.org/web/20131217151145/http://www.fullofwishes.co.uk/2005/09/08/dean-wareham-puts-on-his-producers-hat/) - I do miss website commenting.
+It was nice coming across Mark's comment (it was in my email ... and [in the Wayback Machine](https://web.archive.org/web/20131217151145/http://www.fullofwishes.co.uk/2005/09/08/dean-wareham-puts-on-his-producers-hat/) - I do miss web site commenting.
 
  - *Catalogue Number:* AHFOW 10/140
  - *Artist:* Jule Brown

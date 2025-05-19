@@ -42,7 +42,7 @@ Here's the track Dean guests on...
 
 {% ahfowvideo "XLv_MuzY6NI" "The Bartlebees - In My Box" %}
 
-This was rather late coming into my collection. I was made aware of it in early 2000, added it to the website in January 2001, and bought myself a copy on Discogs in December 2017!
+This was rather late coming into my collection. I was made aware of it in early 2000, added it to the web site in January 2001, and bought myself a copy on Discogs in December 2017!
 
  - *Catalogue Number:* AHFOW 11/061
  - *Artist:* The Bartlebees

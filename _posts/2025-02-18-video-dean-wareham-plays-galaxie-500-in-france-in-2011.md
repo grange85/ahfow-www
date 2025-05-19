@@ -20,7 +20,7 @@ tags:
 - festival
 - on this day
 ---
-While tinkering with my website I came across this video that might have gone AWOL from the internet since it was posted by ARTE.tv back in 2011. It's Dean & Britta playing one of their earlier _Dean Wareham plays Galaxie 500_ at the Route du rock festival in St. Malo on this day in 2011.
+While tinkering with my web site I came across this video that might have gone AWOL from the internet since it was posted by ARTE.tv back in 2011. It's Dean & Britta playing one of their earlier _Dean Wareham plays Galaxie 500_ at the Route du rock festival in St. Malo on this day in 2011.
 
 {% ahfowvideo "M43XpPzcsYs" "Dean Wareham plays Galaxie 500 (France, 2011)" "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/2011-02-18-dw-route-du-rock-video.jpg" %}
 

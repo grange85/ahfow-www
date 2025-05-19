@@ -40,7 +40,7 @@ categories:
 
 
 <h2>A solicitation</h2>
-If anyone fancies writing up their LUNA US tour experiences for this website please get in touch - I can offer you nothing but thanks in return - but it's always nice to have other voices on this blog! <a href="/about/">Please get in touch if you're interested</a>!
+If anyone fancies writing up their LUNA US tour experiences for this web site please get in touch - I can offer you nothing but thanks in return - but it's always nice to have other voices on this blog! <a href="/about/">Please get in touch if you're interested</a>!
 
 
 

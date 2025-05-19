@@ -12,7 +12,7 @@ categories:
 - dean wareham
 ---
 
-No mention of the article on the [Guitar Player website](http://www.guitarplayer.com/) but apparently Dean Wareham is featured in a list of "The Top 40 Underrated guitarists" in the December 2007 issue. He shares the list with Robbie Krieger of The Doors and Mick Ronson which is decent enough company.
+No mention of the article on the [Guitar Player web site](http://www.guitarplayer.com/) but apparently Dean Wareham is featured in a list of "The Top 40 Underrated guitarists" in the December 2007 issue. He shares the list with Robbie Krieger of The Doors and Mick Ronson which is decent enough company.
 
 Any guitarists who have a copy feel free to email me a scan!
 

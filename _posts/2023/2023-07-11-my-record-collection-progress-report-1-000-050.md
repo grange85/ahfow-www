@@ -38,7 +38,7 @@ So far:
     - 1 Pee Shy
     - 1 Angel Corpus Christi
 
-Most visited on my website:
+Most visited on my web site:
  1. [#025: Luna - Bewitched LP](/2023/04/13/my-record-collection-025-luna-bewitched-lp/)
  1. [#002: Luna - Close Cover Before Striking](/2023/01/23/my-record-collection-002-luna-close-cover-before-striking/)
  1. [#018: Luna - Penthouse (Deluxe)](/2023/03/20/my-record-collection-018-luna-penthouse-deluxe-2xlp/)

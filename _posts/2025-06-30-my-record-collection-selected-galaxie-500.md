@@ -49,7 +49,7 @@ Selected did get an official release in Japan as "Melt Away" but I don't own a c
 When I interviewed Damon for the Terrascopaedia interview a couple of years ago he explained how Andrea had used my web site, and the Galaxie 500 Mailing List, to help convince Ryko to release the box set - my heart swelled with pride:
 
 <blockquote>
-But then Jeff hired a young assistant – maybe she was even an intern at first? – named Andrea Troolin, and Andrea found the project in that pile and made it hers. How to rally the company behind finally doing something with it, however? Your website! Andrea pointed to the Galaxie 500 mailing list, and the activity on it, as evidence that there was interest out there in the band and its out-of-print catalogue. Next thing you know... box set! 
+But then Jeff hired a young assistant – maybe she was even an intern at first? – named Andrea Troolin, and Andrea found the project in that pile and made it hers. How to rally the company behind finally doing something with it, however? Your web site! Andrea pointed to the Galaxie 500 mailing list, and the activity on it, as evidence that there was interest out there in the band and its out-of-print catalogue. Next thing you know... box set! 
 </blockquote>
 <p class="caption"><a href="/2024/05/01/my-uncut-terrascopaedia-interviews-1-damon-and-naomi/">My uncut Terrascopaedia interviews: #1 Damon and Naomi</a></p>
 

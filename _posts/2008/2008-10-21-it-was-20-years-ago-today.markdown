@@ -46,6 +46,6 @@ Dean Wareham - Galaxie 500 1987 - 1991, p23-25
 <p><figure class="caption "><figcaption class="caption-text"></figcaption></figure></p>
 <p>...and go dig out Today - it is, after all, one of the greatest albums ever made...</p>
 <blockquote><p>Melody Maker called the LP "an astonishing debut by anybody's standards," and indeed it is. The incredible, supple beauty that Galaxie spun like straw was so sweetly melancholic that it all but smothered you. Damon's drums drift with the simmering presence of jazz classicism, Naomi's bass is rich with dreamy emotional content, Dean's guitar completes the aural landscapes begun by '69-era Sterling Morrison, and the vocals emerge from the Ouija board of eternity. A highlight of Today is the incredible primal-drone-hunch treatment the band gives to Jonathan Richman's "Don't Let Our Youth Go to Waste."</p>
-<p><em>Byron Coley - <a href="https://static.fullofwishes.co.uk/galaxie500box/pr2.html">Box Set website 1997</a></em></p>
+<p><em>Byron Coley - <a href="https://static.fullofwishes.co.uk/galaxie500box/pr2.html">Box Set web site 1997</a></em></p>
 </blockquote>
 <p>Previously: <a href="/2007/08/28/on-the-20th-anniversary-of-galaxie-500/">On the 20th anniversary of Galaxie 500</a>.</p>

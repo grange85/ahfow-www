@@ -19,7 +19,7 @@ tags:
 - strap boy
 date: 2023-08-14 00:00 +0000
 ---
-Dean doesn't often venture into production - this was an early outing, I think it was recorded at the same time as Pee Shy's _Who Let All The Monkeys Out_ album (which will turn up later in this series) and released before the album on Tampa, FL indie Screw Music Forever - [although they weirdly don't seem to admit it on their (admittedly rather broken) website](http://www.screwmusicforever.com/).
+Dean doesn't often venture into production - this was an early outing, I think it was recorded at the same time as Pee Shy's _Who Let All The Monkeys Out_ album (which will turn up later in this series) and released before the album on Tampa, FL indie Screw Music Forever - [although they weirdly don't seem to admit it on their (admittedly rather broken) web site](http://www.screwmusicforever.com/).
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/pee-shy-yellow-race-car.jpg" "" %}
 

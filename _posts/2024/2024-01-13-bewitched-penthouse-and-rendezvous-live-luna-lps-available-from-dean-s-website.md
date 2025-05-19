@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bewitched, Penthouse and Rendezvous live Luna LPs available from Dean's website
+title: Bewitched, Penthouse and Rendezvous live Luna LPs available from Dean's web site
 sitemap: true
 series-title:
 github-comments-issueid:
@@ -20,7 +20,7 @@ tags:
 - rendezvous
 date: 2024-01-13 13:43 +0000
 ---
-Dean Wareham has a few of the limited edition live Luna LPs released by Bandbox last year for sale on his website. The double LPs will cost $31.99 each, but better be quick since Bandbox have already sold out of the Bewitched and Rendezvous ones so [head to Dean's website](https://deanwareham.com/luna-items) if you missed out!
+Dean Wareham has a few of the limited edition live Luna LPs released by Bandbox last year for sale on his web site. The double LPs will cost $31.99 each, but better be quick since Bandbox have already sold out of the Bewitched and Rendezvous ones so [head to Dean's web site](https://deanwareham.com/luna-items) if you missed out!
 
 {% ahfowimage "https://media.fullofwishes.co.uk/02-luna/sleeves/luna-live-all-three.jpg" "Luna live LPs" %}
 

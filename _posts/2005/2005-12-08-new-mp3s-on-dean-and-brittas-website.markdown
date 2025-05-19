@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New mp3s on Dean & Britta's website
+title: New mp3s on Dean & Britta's web site
 author:
   display_name: Andy
   login: admin
@@ -11,7 +11,7 @@ categories:
 - news
 - dean & britta
 ---
-The official [Dean & Britta website](https://web.archive.org/web/20051208+/http://www.deanandbritta.com) has just
+The official [Dean & Britta web site](https://web.archive.org/web/20051208+/http://www.deanandbritta.com) has just
 put up a couple of mp3s for download. The tracks are "Family Conference",
 taken from the soundtrack of the Noah Baumbach film "The Squid and The Whale",
 and "Song of You" which is Britta's contribution to an ESPOUS magazine

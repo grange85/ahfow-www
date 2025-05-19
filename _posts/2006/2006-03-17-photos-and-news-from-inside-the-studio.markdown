@@ -12,7 +12,7 @@ categories:
 - dean & britta
 ---
 Producer [Tony Visconti](https://web.archive.org/web/20060317+/http://www.tonyvisconti.com) has posted a little
-piece on his website (and a couple of pictures) about the first week of work
+piece on his web site (and a couple of pictures) about the first week of work
 on the new [Dean & Britta](https://web.archive.org/web/20060317+/http://www.deanandbritta.com) album (you'll need to
 scroll halfway down the page).
 
@@ -20,6 +20,6 @@ scroll halfway down the page).
 little dewy -- but it's just a physiological thing, nothing to worry about)
 
 There are also a [few pictures](https://web.archive.org/web/20060317+/http://www.deanandbritta.com/photos.php) on
-[Dean & Britta's](https://web.archive.org/web/20060317+/http://www.deanandbritta.com) website  
+[Dean & Britta's](https://web.archive.org/web/20060317+/http://www.deanandbritta.com) web site  
 
 

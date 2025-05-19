@@ -20,4 +20,4 @@ Dean has given an <a href="http://www.rollingstone.com/music/features/inside-lun
 <p>He also drops a hint that the first five Luna albums may be getting a release on vinyl:</p>
 <blockquote><p>Although Wareham does not want to give specifics, he says he's been in talks to license the first five Luna records for vinyl release, though the deal has so far proven complex. "I'll believe it when the papers are signed," he says. He also says compilations of songs from the band's vaults could also be a possibility, but that, too, is a complicated situation since the group doesn't own the records.
 </p></blockquote>
-<p><a href="http://www.rollingstone.com/music/features/inside-lunas-surprise-reunion-with-dean-wareham-20141029">Read more on Rolling Stone's website</a>.</p>
+<p><a href="http://www.rollingstone.com/music/features/inside-lunas-surprise-reunion-with-dean-wareham-20141029">Read more on Rolling Stone's web site</a>.</p>

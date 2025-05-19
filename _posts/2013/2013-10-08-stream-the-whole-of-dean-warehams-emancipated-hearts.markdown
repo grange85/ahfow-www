@@ -13,4 +13,4 @@ categories:
 ---
 <p>SPIN has a stream of the whole of Dean Wareham's upcoming mini-album Emancipated Hearts.</p>
 <p>Stream: <a href="http://www.spin.com/articles/galaxie-500-dean-wareham-solo-emancipated-hearts-album-stream/">Emancipated Hearts by Dean Wareham (via Spin)</a></p>
-<p>The album is released in the US next week - you can <a href="http://elevenspot.11spot.com/deanwareham.html">pre-order the 10" vinyl and the CD over at Dean's website</a>.</p>
+<p>The album is released in the US next week - you can <a href="http://elevenspot.11spot.com/deanwareham.html">pre-order the 10" vinyl and the CD over at Dean's web site</a>.</p>

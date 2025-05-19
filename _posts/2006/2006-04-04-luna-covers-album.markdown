@@ -12,7 +12,7 @@ categories:
 - news
 ---
 I know nothing more about this except the snippet leaked by Britta on the Dean
-& Britta website forums
+& Britta web site forums
 
 > There will be be a covers album released by Beggar's Banquet at some
 point.This may include some unreleased material, but it is all covers, of

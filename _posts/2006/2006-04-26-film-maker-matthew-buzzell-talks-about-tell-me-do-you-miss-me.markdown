@@ -24,7 +24,7 @@ he also has a short film showing at the festival - Putting the River in Reverse
 features Elvis Costello and Allen Toussaint.
 
 New Yorker's should head to the [Tribeca Film Festival
-website](http://www.tribecafilmfestival.org) to buy their tickets to one of
+web site](http://www.tribecafilmfestival.org) to buy their tickets to one of
 the five screenings the film will receive - the rest of us will have to drum
 our fingers and wait for the [Rhino](http://www.rhino.com) DVD release on the
 20th of June.

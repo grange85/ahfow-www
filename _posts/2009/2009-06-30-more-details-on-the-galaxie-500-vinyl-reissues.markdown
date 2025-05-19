@@ -19,7 +19,7 @@ categories:
 <p>Vinyl editions are remastered by Alan Douches and Kramer at West West Side Music, cut by Kevin Gray at AcousTech, pressed to virgin vinyl at RTI, and packaged in old-fashioned tip-on style jackets at Stoughton. T-shirts are Fruit of the Loom. In the 80s, that's all there was.</p>
 <p></ins></p>
 <p>The albums are avaialble in the following ways...</p>
-<p>Individual LPs are available from Damon & Naomi's website for $15 per album + shipping.</p>
+<p>Individual LPs are available from Damon & Naomi's web site for $15 per album + shipping.</p>
 <p>You can also buy packages containing the vinyl and including downloads either as mp3 or Apple lossless. These packages can be bought from <a href="http://www.fierybreeze.com">the Galaxie 500 online store</a>...</p>
 <ul>
 <li>$9.99 for digital download only</li>

@@ -11,7 +11,7 @@ categories:
 - news
 - dean wareham
 ---
-<p>US folk are now able to pre-order Dean Wareham's new album on either CD or 10" vinyl from his <a href="http://deanwareham.com/">website</a> store. The album will be released on the 15 October.</p>
+<p>US folk are now able to pre-order Dean Wareham's new album on either CD or 10" vinyl from his <a href="http://deanwareham.com/">web site</a> store. The album will be released on the 15 October.</p>
 <p><strong>Pre-order</strong>: <a href="http://elevenspot.11spot.com/deanwareham/dean-wareham-emancipated-hearts-pre-order-10-15.html">CD or LP from deanwareham.com online store</a><br />
 <strong>Pre-order</strong>: CD or LP bundle including a T-shirt</p>
 <p>The album was recorded with Jason Quever of <a href="http://www.subpop.com/artists/papercuts">Papercuts</a> at <a href="http://www.tinytelephone.com/">Tiny Telephone Studios</a> in San Francisco and as well as Britta, features Anthony LaMarca and <a href="http://www.gillianrivers.com/">Gillian Rivers</a>.</p>

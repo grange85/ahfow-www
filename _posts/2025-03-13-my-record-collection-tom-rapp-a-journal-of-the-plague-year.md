@@ -39,7 +39,7 @@ Damon recently, behind his Substack paywall, reprinted an interview that he and 
 </blockquote>
 <p class="caption"><a href="https://dadadrummer.substack.com/p/interview-with-tom-rapp-of-pearls">Damon Krukowski - Interview with Tom Rapp of Pearls Before Swine (paywalled article)</a></p>
 
-I wrote about [Tom in an obituary of sorts](https://www.fullofwishes.co.uk/2018/02/12/tom-rapp-1947-2018/) for this website when he sadly passed away in 2018.
+I wrote about [Tom in an obituary of sorts](https://www.fullofwishes.co.uk/2018/02/12/tom-rapp-1947-2018/) for this web site when he sadly passed away in 2018.
 
 At the end of the album is a short _hidden_ track which is Tom relating some classic 60s drugs stories from the stage at Terrastock II in April 1998 ... "he came in one day and he said 'Man you've got to try this, they put dogs to sleep with it.'"
 

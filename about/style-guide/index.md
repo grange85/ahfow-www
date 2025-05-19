@@ -20,6 +20,9 @@ Dates
 & or and
 : Always _and_ unless Damon & Naomi or Dean & Britta
 
+Compound words
+: _live stream_ and _web site_ are two words... there may be others.
+
 Damon & Naomi
 : Always with an ampersand when talking about the band, if talking about the members then use _and_ so: _Damon & Naomi played a show_ but _Damon and Naomi hung around afterwards to sign things_
 
@@ -28,7 +31,6 @@ Dean & Britta
 
 Britta Phillps and Dean Wareham
 : Treat as two individuals rather than a band so always _and_ not _&_
-
 
 British English vs American English spelling
 : *Always* use British English spelling so _rumour_ not _rumor_ and _analogue_ not _analog_ except when they are used in titles, so: _released on analogue formats_ but _The New Analog_

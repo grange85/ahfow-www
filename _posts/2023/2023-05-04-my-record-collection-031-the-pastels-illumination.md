@@ -42,7 +42,7 @@ can’t you see I’m trying to tell you? / We’ve paid our dues_
 Soul Kitchen: Illumination, la toile de maître des Pastels
 {: .blockquote-footer .caption}
 
-There's a lovely pic of all the album's collaborators which lived on Jonathan Kilgour's near-official website back in the day! 
+There's a lovely pic of all the album's collaborators which lived on Jonathan Kilgour's near-official web site back in the day! 
 
 {% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/pastelsgroop.jpg" "Illumination collabs (photo: Will Bradley)" %}
 

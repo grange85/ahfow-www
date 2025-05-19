@@ -11,4 +11,4 @@ categories:
 - news
 - dean & britta
 ---
-<p><a href="http://www.newburycomics.com/rel/v2_home.php?storenr=103&deptnr=356">The Newbury Comics website</a> has signed copies of the L'avventura re-release available to pre-order.</p>
+<p><a href="http://www.newburycomics.com/rel/v2_home.php?storenr=103&deptnr=356">The Newbury Comics web site</a> has signed copies of the L'avventura re-release available to pre-order.</p>

@@ -29,7 +29,7 @@ I didn't really talk _about_ the album last time so here's a quick track-by-trac
 
 <!--more-->
 
- - __Daydream__ is a track that pre-dates Britta's time with Luna, or perhaps from her early days with Luna, since she had a demo posted on her website in 2000:
+ - __Daydream__ is a track that pre-dates Britta's time with Luna, or perhaps from her early days with Luna, since she had a demo posted on her web site in 2000:
 {% ahfowaudio {
 "audiourl": "https://media.fullofwishes.co.uk/07-dean_and_britta/audio/britta-phillips-00-daydream-demo.mp3",
 "audiocap": "Britta Phillips - Daydream (demo, 2000)"

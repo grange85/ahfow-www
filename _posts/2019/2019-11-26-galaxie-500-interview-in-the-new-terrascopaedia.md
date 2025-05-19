@@ -25,4 +25,4 @@ Terrascopaedia is descended from the Ptolemaic Terrascope which during its run f
 > ​  
 > 125 copies produced. Each copy is entirely hand made from cover to cover, typeset in 12pt Caslon Old Face type, letter by letter and word by word. It's lovingly printed in full colour on unbleached, hand cut 7" square paper on a fully restored 1926 vintage, 10cwt Arab Foolscap Folio treadle press.
 
-As the run is so small, and sells out fast, I'd suggest not hanging around if you want a copy - you can [order one from the Ptolemaic Press website](https://www.ptolemaic.co.uk/terrascopaedia.html) for £9 incl postage to the UK, £10 to the EU, or £12 anywhere else.
+As the run is so small, and sells out fast, I'd suggest not hanging around if you want a copy - you can [order one from the Ptolemaic Press web site](https://www.ptolemaic.co.uk/terrascopaedia.html) for £9 incl postage to the UK, £10 to the EU, or £12 anywhere else.

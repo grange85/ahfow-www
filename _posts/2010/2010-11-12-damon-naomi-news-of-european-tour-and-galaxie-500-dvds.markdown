@@ -11,7 +11,7 @@ categories:
 - damon & naomi
 - galaxie 500
 ---
-<p>Damon & Naomi's website has just published their November update with the following news:</p>
+<p>Damon & Naomi's web site has just published their November update with the following news:</p>
 <p>Recording of the new album is ongoing and recent contributors include Ghost's Masaki Batoh and Bhob Rainey and Greg Kelley of nmperign.</p>
 <p>The duo are heading off on a European tour in December with dates in Spain, France and England - full details on the upcoming shows page.</p>
 <p>Some copies of the very excellent Galaxie 500 DVD "Don't Let Our Youth Go to Waste" have come to light and are available to order from the online store for a bargain $12.</p>

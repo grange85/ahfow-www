@@ -16,9 +16,9 @@ tags:
  - the slow song
  - toronto
 ---
-This mp3 was posted on Luna's official website, FuzzyWuzzy, way back - the site now sells furry boots. 
+This mp3 was posted on Luna's official web site, FuzzyWuzzy, way back - the site now sells furry boots. 
 
-Remember when Luna had a website! I know there's [Lunamusic](http://lunamusic.com) but it doesn't have the home-made charm that FuzzyWuzzy had - luckily - the Internet Archive Wayback Machine has us (partially) covered!
+Remember when Luna had a web site! I know there's [Lunamusic](http://lunamusic.com) but it doesn't have the home-made charm that FuzzyWuzzy had - luckily - the Internet Archive Wayback Machine has us (partially) covered!
 
 [FuzzyWuzzy in the Wayback Machine](https://web.archive.org/web/*/http://www.fuzzywuzzy.com/) - pick from the earlier years for more fun such as the legendary columns [Ask Lee, He Knows](https://web.archive.org/web/20000229162500/http://www.fuzzywuzzy.com/lee.html), [Justin's Ass](https://web.archive.org/web/19990128175802/http://www.fuzzywuzzy.com/ass/ass.html) or [Dean's Deep Thoughts](https://web.archive.org/web/19990203092732/http://www.fuzzywuzzy.com/red/red.html).
 

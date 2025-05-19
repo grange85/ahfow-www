@@ -25,7 +25,7 @@ The last time I saw Galaxie 500 was a [beautiful show at ULU](/database/galaxie-
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-ulu-vhs-tape.jpg" "Galaxie 500 - Live in London VHS" %}
 
-Back in 2003 Damon got in touch with me asking if I had any videos of Galaxie 500 and if I could put out a call on the website and mailing list to see if anyone had any... I sent in this one, and a few other list members sent in tapes as well. In May 2004 a very lovely [2xDVD set of Galaxie 500 videos](/database/galaxie-500/releases/miscellaneous/#don-t-let-our-youth-go-to-waste) was released that included this show - I suspect it wasn't lifted from my VHS, although I don't currently have a VCR hooked up at the moment so I can't remind myself of the quality.
+Back in 2003 Damon got in touch with me asking if I had any videos of Galaxie 500 and if I could put out a call on the web site and mailing list to see if anyone had any... I sent in this one, and a few other list members sent in tapes as well. In May 2004 a very lovely [2xDVD set of Galaxie 500 videos](/database/galaxie-500/releases/miscellaneous/#don-t-let-our-youth-go-to-waste) was released that included this show - I suspect it wasn't lifted from my VHS, although I don't currently have a VCR hooked up at the moment so I can't remind myself of the quality.
 
 Damon eventually returned the VHS - the label now read:
 

@@ -15,4 +15,4 @@ You too can now be the proud owner of an "original" Galaxie 500 T-shirt. The shi
 
 Get them here... [http://www.kungfunation.com/index.asp?PageAction=VIEWCATS&Category=113](https://web.archive.org/web/20050105+/http://www.kungfunation.com/index.asp?PageAction=VIEWCATS&Category=113)
 
-[apologies for the ropy looking image - I'll try and track down a better one but in the meantime you'll have to live with this grab from the Kung Fu Nation website]
+[apologies for the ropy looking image - I'll try and track down a better one but in the meantime you'll have to live with this grab from the Kung Fu Nation web site]

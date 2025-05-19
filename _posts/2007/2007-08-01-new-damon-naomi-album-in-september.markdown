@@ -11,7 +11,7 @@ categories:
 - news
 - damon & naomi
 ---
-Damon & Naomi have announced details of their new album on their website.
+Damon & Naomi have announced details of their new album on their web site.
 
 The album called Within These Walls will be released on 20|20|20 records on 25 September. It will feature contributions from Kurihara, the Espers strings and Greg Kelley and Bhob Rainey.
 

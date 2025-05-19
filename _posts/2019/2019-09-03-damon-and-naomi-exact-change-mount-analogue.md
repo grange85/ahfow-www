@@ -19,7 +19,7 @@ Damon & Naomi's small press imprint Exact Change has burst back into life after 
 
 > A touchstone of Surrealism, Pataphysics, and Gurdjieffian mysticism, Mount Analogue tells the story of an expedition to a mountain whose existence can only be deduced, not observed. Left unfinished (mid-sentence) at the author's early death from tuberculosis in 1944 and first published posthumously in French in 1952, the book has inspired seekers of art and wisdom ever since - Alejandro Jodorowsky's 1973 film The Holy Mountain is a loose adaptation.
 
-The <a href="https://exactchange.com/">Exact Change website</a> has also had a lick of paint and there are plenty of other selections from the catalogue available to buy.
+The <a href="https://exactchange.com/">Exact Change web site</a> has also had a lick of paint and there are plenty of other selections from the catalogue available to buy.
 
 You can also <a href="https://exactchange.com/about">download a PDF of the lovely 20th anniversary catalogue</a> from 2009
 

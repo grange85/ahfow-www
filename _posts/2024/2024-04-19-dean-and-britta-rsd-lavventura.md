@@ -26,6 +26,6 @@ The album was produced by Tony Visconti and the RSD release will also include th
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/survey-pictures/dean-and-britta-lavventura.jpg" "Dean & Britta - L'avventura" %}
 
-The album will be avilable only through record shops on Record Store Day, which this year will be on 20th April. The RSD website has a [list of participating shops](https://recordstoreday.com/Stores) it will probably be worthwhile getting in touch with your retailer of choice to ensure they'll be getting a copy.
+The album will be avilable only through record shops on Record Store Day, which this year will be on 20th April. The RSD web site has a [list of participating shops](https://recordstoreday.com/Stores) it will probably be worthwhile getting in touch with your retailer of choice to ensure they'll be getting a copy.
 
-Details of the release and a full tracklisting can be found [on the RSD website](https://recordstoreday.com/SpecialRelease/16594).
+Details of the release and a full tracklisting can be found [on the RSD web site](https://recordstoreday.com/SpecialRelease/16594).

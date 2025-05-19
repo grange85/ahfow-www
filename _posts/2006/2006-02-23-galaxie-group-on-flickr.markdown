@@ -11,7 +11,7 @@ categories:
 - news
 ---
 After the horrors of MySpace it's nice to be able to write a news item about a
-"community" website that has got things so right
+"community" web site that has got things so right
 
 There's a [Galaxie group](http://www.flickr.com/groups/92643213@N00/) recently
 set up on the very wonderful [Flickr](http://www.flickr.com) \- the group is

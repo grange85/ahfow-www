@@ -28,7 +28,7 @@ Dean Wareham sent me this CDR to share on A Head Full of Wishes in early 2004 an
 
 <!--more-->
 
-I didn't get too many exclusives for AHFoW so this was quite exciting - and was the most downloaded mp3 I ever shared as part of my [Track of the month](https://web.archive.org/web/20050207170729/http://www.fullofwishes.info/galaxie/index.php?article_id=-1&type=2) series - _that's a link to the Wayback Machine so you can see how lovely my website was back in the early years of the century!_
+I didn't get too many exclusives for AHFoW so this was quite exciting - and was the most downloaded mp3 I ever shared as part of my [Track of the month](https://web.archive.org/web/20050207170729/http://www.fullofwishes.info/galaxie/index.php?article_id=-1&type=2) series - _that's a link to the Wayback Machine so you can see how lovely my web site was back in the early years of the century!_
 
 That's Dean's handwriting on the CDR and it clearly says that it was live in Boston 1996 but this is the same recording as the one on Soundcloud that claims to be from the following night's show in NYC. Unless Dean wants to clarify I'm going to assume he was right when he wrote it on the CDR in 2004.
 

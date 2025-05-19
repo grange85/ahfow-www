@@ -16,7 +16,7 @@ categories:
 <p>Nobody chose to argue with me at the time although Dean subsequently undercut me a little in Black Postcards a year later...</p>
 <blockquote><p>Galaxie 500 was born the day that Naomi volunteered to play the bass guitar [...] we had our first rehearsal on May 27, 1987</p></blockquote>
 <p>so I may have to concede that I should have put this post together three months ago.</p>
-<p>However, while my argument that "it’s when you invite others to judge you that defines when a band is truly born" might be nonsense it is <em>my nonsesne</em> and I can publish it on <em>my website</em> with a fair amount of impunity. </p>
+<p>However, while my argument that "it’s when you invite others to judge you that defines when a band is truly born" might be nonsense it is <em>my nonsesne</em> and I can publish it on <em>my web site</em> with a fair amount of impunity. </p>
 <p>Having made my declaration five years ago - I'll stand by it... for now.</p>
 <blockquote><p>The first ever Galaxie 500 show was during the summer of 1987 at my apartment on Front St. in Manhattan. We played 4 or 5 songs, I can’t remember what they were, but I remember being pleased that I didn’t break any strings. I was working in the Elmer Holmes Bobst Memorial Library at N.Y.U. Damon & Naomi were in town for the summer, and Naomi had decided to pick up the bass guitar – I guess that’s when the band was born for real.<br />
 <em>(Dean Wareham – Box set booklet)</em></p></blockquote>

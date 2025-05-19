@@ -30,7 +30,7 @@ Meanwhile Damon & Naomi started preparing for a European tour with Thalia Zedek 
 {% ahfowvideo "YM37nOEZh5k" "Damon, Naomi and Thalia Zedek - Dance Me To The End of Love" %}
 
 
-I got [interviewed about the website](/2018/01/07/its-psychedelic-baby-interview-with-ahfow/) and being a fan, for online magazine It's Psychedlic Baby:
+I got [interviewed about the web site](/2018/01/07/its-psychedelic-baby-interview-with-ahfow/) and being a fan, for online magazine It's Psychedlic Baby:
 
 > Between Galaxie 500 splitting up in 1991 and me receiving my first email from a Galaxie 500 fan in 1994 or ’95, I thought I was the only Galaxie 500 fan in the world. My friends who’d come to the gigs with me didn’t seem to love them the way I did. Discovering that there were people who missed them as much as I did was a revelation, the Internet opened up to me doorways I could never have imagined, and the key to those doors was Galaxie 500.
 - [It's Psychedelic Baby (Jan 2018)](http://www.psychedelicbabymag.com/2017/12/an-interview-with-andy-aldridge.html)
