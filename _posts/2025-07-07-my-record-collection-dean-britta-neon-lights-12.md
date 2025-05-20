@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dean & Britta - Neon Lights (12")
+title: "[265] Dean & Britta - Neon Lights (12\")"
 date: 2025-07-07 00:00 +0000
 sitemap: true
 comments: true
