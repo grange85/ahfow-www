@@ -26,7 +26,7 @@ The Shield Around The K is a documentary about K Records, and to be honest Dean'
 
 Dean calls Indian Summer the "Knocking on Heaven's Door of indie rock, everybody has to do it", he also says he prefers Beat Happening's version over his own (solo) cover. Sonic Boom disagrees, he says that Spectrum covered it because of Dean Wareham's version and that he didn't really like Beat Happening's original! 
 
-He's wrong though... it's an effing masterpiece!
+He's wrong though... 
 
 {% ahfowvideo "Eaw-zW7RVus" "Beat Happening Indian Summer" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/beat-happening-indian-summer-vidcap.jpg" %}
 
