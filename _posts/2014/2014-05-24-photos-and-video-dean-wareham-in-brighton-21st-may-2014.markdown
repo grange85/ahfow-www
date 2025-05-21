@@ -21,7 +21,7 @@ On a whim, and thanks to Hertz doing a £12 a day rental promotion, I headed dow
 <p><strong>Database</strong>: 21 May 2014 - Dean Wareham at The Prince Albert, Brighton, UK</p>
 <p><strong>Video</strong>: Dean Wareham - Tugboat<br />
 
-{% ahfowvideo "lSgdEVBsg9s" "" %}
+{% ahfowvideo "Z3WB1TwuH6k" "Dean Wareham - Tugboat (Brighton, 2014)" %}
 
 <p><strong>Photos</strong>:<br />
 <a href="https://www.flickr.com/photos/grange85/14054590407" title="Dean Wareham at The Prince Albert in Brighton by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://media.fullofwishes.co.uk/flickr-downloads/14054590407_ef619e1d26_z.jpg" alt="Dean Wareham at The Prince Albert in Brighton"></a><br />
