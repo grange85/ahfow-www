@@ -31,7 +31,7 @@ Here's a quick collection of videos from Luna's current US tour.
 
 ### Space Ballroom, Hamden - 3rd October
 
-{% ahfowvideo "OmidlA1Q-yI" "Luna - Season of The Witch (Space Ballroom, Hamden)" %}
+{% ahfowvideo "OmidlA1Q-yI" "Luna - Season of the Witch (Space Ballroom, Hamden)" %}
 
 ### Union Transfer, Philadelphia - 4th October
 

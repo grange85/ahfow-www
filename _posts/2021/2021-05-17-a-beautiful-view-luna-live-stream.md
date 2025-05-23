@@ -38,7 +38,7 @@ Then, a treat, the first Luna original with lyrics for over 17 years - Corridors
 
 No applause. Except then, Dean solicits some, and the production crew provide a nice spattering of appreciation.
 
-Lost In Space, a beautifully loose 23 Minutes, an absolutely storming Season of The Witch, possibly the high point of an evening of highs. No applause. Phone checking. Banter.
+Lost In Space, a beautifully loose 23 Minutes, an absolutely storming Season of the Witch, possibly the high point of an evening of highs. No applause. Phone checking. Banter.
 
 ... and finishing with Sweet Child o' Mine apparently played in the same complex as Axl Rose's previous band Hollywood Rose rehearsed. 
 
