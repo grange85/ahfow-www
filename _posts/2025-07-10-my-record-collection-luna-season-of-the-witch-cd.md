@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Luna - Season of the Witch (CD)
+title: "[266] Luna - Season of the Witch (CD)"
 date: 2025-07-10 00:00 +0000
 sitemap: true
 comments: true
