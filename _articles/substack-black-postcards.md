@@ -2,7 +2,7 @@
 layout: post
 published: false
 date: 2025-06-03
-title: What should a fan's copy of a book look like?
+title: "Substack: What should a fan's copy of a book look like?"
 author:
   display_name: Andy Aldridge
 source:
