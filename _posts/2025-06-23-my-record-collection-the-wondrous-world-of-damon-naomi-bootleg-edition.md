@@ -30,7 +30,7 @@ I loved Wondrous World back in 1995, and honestly am not sure that it needed thi
 
 I do worry that I sound like some old fart unwilling to accept change when I write things like that... and maybe that is what I am. But having just done a side-by-side listen I'm standing firm to my opinion that this is the second best version of _Wondrous World..._. While the original isn't on D&N's Bandcamp I think you can find it on most streaming platforms, and you can probably get a CD of it for pennies on Discogs!
 
-Since I don't do Record Store Day I'll assume I pre-ordered this from D&N but can't find an email to confirm that.
+Since I don't do Record Store Day I pre-ordered this from D&N in March 2013 for $15, plus postage, but I off-set the postage somewhat by buying LPs of The Earth is Blue and False Beats... at the same time.
 
  - *Catalogue Number:* AHFOW 12/006
  - *Artist:* Damon & Naomi
