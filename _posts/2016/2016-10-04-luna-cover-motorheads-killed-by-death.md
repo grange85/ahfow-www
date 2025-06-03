@@ -19,7 +19,8 @@ tags:
  - killed by death
  - video
 ---
-<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/luna-killed-by-death-grab-02.jpg" alt="Luna covering Killed by Death" /><figcaption class="caption-text">Luna covering Killed by Death</figcaption></figure>
+{% ahfowvideo "hIh-NxfykX8" "Luna covering Killed by Death" "https://media.fullofwishes.co.uk/02-luna/pictures/luna-killed-by-death-grab-02.jpg" %}
+
 <p class="lead">Luna have covered the Motorhead track "Killed by Death" for the <a href="http://www.avclub.com/video/luna-covers-motorheads-killed-death-243640">AV Club's AV Undercover series</a>.</p>
 <p>For a few years now the AV Club have been inviting bands to pick a track from an ever-dwindling list of options and Luna had their go recently and picked Motorhead's Killed by Death (over an Erasure track)</p>
 <blockquote>

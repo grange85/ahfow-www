@@ -37,6 +37,5 @@ The name of the band, and the names of both albums, were apparently chosen becua
  - *Title:* Wasps' Nest
  - *Format:* CD
  - Bought on release, no idea where.
- - [Buy '' on Bandcamp]()
 
 
