@@ -5,7 +5,7 @@ date: 2025-07-28 00:00 +0000
 sitemap: true
 comments: true
 series-title: My record collection
-catno:
+catno: 10/097
 author:
   display_name: Andy
   login: admin
