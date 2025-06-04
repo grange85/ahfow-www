@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[051] Dean Wareham - Anesthesia"
+title: "[051] Dean Wareham - Anesthesia (CD)"
 sitemap: true
 series-title: My record collection
 author:
