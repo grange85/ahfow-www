@@ -14,7 +14,7 @@ tags:
 ---
 Given that I'm inevitably going to run short of things to post about before I start repeating things I thought I'd slightly stretch the remit of the _Tuesday posts_ to include other, music-related things that pop cross my path, although where possible I'll try and sneak in a connection to AHFoW - which for today's post is two thirds fairly easy, and one third a stretch! If anyone objects I can either not do this in the future, or pull it into a separate subscription. Please let me know!
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/misc/shonen-knife-pop-recs/shonen-knife-pop-recs-05.jpg" "Shonen Knife at Pop Recs in Sunderland" %}
 
 On Sunday afternoon Shonen Knife made their long-promised visit to Sunderland, a city on the Tyne & Wear Metro and therefore fairly easy to get to, and since it was a matinee show, nice and easy to get home from at a sensible time.
 
@@ -25,6 +25,8 @@ Shockingly, for a band as long-established as Shonen Knife this was to be my fir
 The show was to start at 1:30pm which meant leaving home shortly before 12... although since we arrived just after 1, just as the rain started coming down. We could have left it later but did mean that, we didn't get too wet,  we got a prime spot close to the stage, and had some wall to lean on - the last two were fairly important: one, for a good view and two, because we'd have more than three hours on our feet. Beers were bought and we waited for the first of the two support acts.
 
 ### The Cords
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/misc/shonen-knife-pop-recs/the-cords-pop-recs-01.jpg" "The Cords - Pop Recs, Sunderland" %}
 
 The Cords are, according to their Bandcamp profile: "a Scottish, jangle, DIY indie pop sister duo who channel classic C86 straight from the heart" which is as neat and accurate a one-sentence summation as you could possibly get. Eva does the singing, guitaring, and song intro-ing, while Grace does the drumming. Nothing else required. Recently they have been turning up on my radar with quite alarming regularity so finidng out that they would be playing at a gig I was going to anyway was a nice surprise. They played a 40 minute set of punchy indie pop that - more than any time in the last six years - had me missing Indietracks - even down to playing in daylight, and getting rained on!
 
@@ -39,7 +41,11 @@ _AHFoW CONNECTION:_ Ok, this is the one that's a bit of a stretch,,, and took a 
 
 ### BMX Bandits
 
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/misc/shonen-knife-pop-recs/bmx-bandits-pop-recs-01.jpg" "BMX Bandits - Pop Recs, Sunderland" %}
+
 Next up were BMX Bandits, who I have seen on quite a few occasions over the years, last time at Glas Goes Pop last year. This time they were playing as a duo, just Duglas singing (and kazooing) and Andrew doing everything else, including pressing the buttons to start the backing tracks that were making up for the missing band members. Duglas is such an adorably charming performer - sweet and funny and open and honest, and the two played 40 minutes leaning fairly heavily on last year's [Dreamers on the Run](https://bmxbandits.bandcamp.com/album/dreamers-on-the-run) record. A lovely, and occasionally heartbreaking set.
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/misc/shonen-knife-pop-recs/bmx-bandits-pop-recs-02.jpg" "Duglas - Pop Recs, Sunderland" %}
 
 _AHFoW CONNECTION:_ BMX Bandits covered Galaxie 500's Tugboat, with help from Angel Corpus Christi, for Elefant Records fantastic [Snowstorm: A Tribute to Galaxie 500](https://elefantrecords.bandcamp.com/album/snowstorm-a-tribute-to-galaxie-500) album back in 2001.
 
@@ -47,12 +53,20 @@ _AHFoW CONNECTION:_ BMX Bandits covered Galaxie 500's Tugboat, with help from An
 
 ### Shonen Knife
 
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/misc/shonen-knife-pop-recs/shonen-knife-pop-recs-03.jpg" "Shonen Knife - Pop Recs, Sunderland" %}
+
 I can honestly say that I have never seen a band enjoy themselves as much as Shonen Knife seem to. They've been on this tour for months, and are still the smiley-est band I've ever seen... they also rock, much harder than I expected. I mean they were, at times, so close to a metal band that I started to regret my lack of hair. They threw poses, they did the sign of the horns, they came to the front of the stage and head-banged. OK... Raven and The Tygers didn't sing songs about Banana Chips, or Cookie Day, or the power of sweet candy and were rarely this smiley - but the way it made me feel was the same!
 
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/misc/shonen-knife-pop-recs/shonen-knife-pop-recs-04.jpg" "Shonen Knife - horns - Pop Recs, Sunderland" %}
+
 They played an hour or so of this beautiful, relentless, power-pop-punk-metal, finished with their lovely cover of The Carpenters Top of the World and left us to go and smile on Glasgow.
+
+Now, they were all so smiley ... but not equally so... Risa, played an hour of full-on rock drumming, including occasionally on her feet, sang a couple of songs, and never stopped looking like she couldn't believe how wonderful everything is!
 
 _AHFoW CONNECTION:_ Dean Wareham added guest backing vocals to Under My Pillow on their 2006 album Genki Shock, this was recorded in Osaka while Luna were on their farewell tour in 2005 - a short clip of the session was released as a _deleted scene_ on the DVD of Tell Me Do You Miss Me;
 
 {% ahfowvideo "t0E6rSi4hEE" "Shonen Knife recording session" "https://media.fullofwishes.co.uk/00-misc/misc/shonen-knife-under-my-pillow-session.jpg" %}
 
+So, gig over, we headed out back into the rain, back on to the Metro to Whitley Bay, and a walk along the beach home. That was a pretty good Sunday.
 
+I must admit to being quite selective of my gigs these days so rarely go to a show I don't enjoy, but there are very few that I've _enjoyed_ as much as I enjoyed my Sunday afternoon with Shonen Knife, BMX Bandits, and The Cords - and, let's be honest here, being able to get home while it was still daylight has become something I appreciate more as I get older.
