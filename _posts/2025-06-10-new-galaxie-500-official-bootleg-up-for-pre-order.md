@@ -42,6 +42,8 @@ It is available as:
 
 All are avalable to pre-order now from the [Galaxie 500 bandcamp](https://galaxie500.bandcamp.com/album/cbgb-121388).
 
+For UK folk [Monorail now has it for pre-order](https://monorailmusic.com/product/cbgb-12-13-88/?mc_cid=77807857dc) on cassette, CD, black vinyl, or indies exclusive 'milky white' vinyl - but no bonus 7".
+
 ---
 
 _&dagger; that chosen date format will never get posted on my web site without me saying that it makes no sense to have a date format in such an illogical and misleading form - you either go from largest unit (Y) to smallest unit (D), so 88.12.13 or from smallest unit (D) to largest unit (Y). so 13.12.88 - whatever you do you NEVER should go from the medium sized unit (M) DOWN to the smallest unit (D) and then BACK UP to the largest unit (Y) so 12.13.88 is just silly. Sorry - off my high horse now!_
