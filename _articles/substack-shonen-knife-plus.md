@@ -16,7 +16,7 @@ Given that I'm inevitably going to run short of things to post about before I st
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/misc/shonen-knife-pop-recs/shonen-knife-pop-recs-05.jpg" "Shonen Knife at Pop Recs in Sunderland" %}
 
-On Sunday afternoon Shonen Knife made their long-promised visit to Sunderland, a city on the Tyne & Wear Metro and therefore fairly easy to get to, and since it was a matinee show, nice and easy to get home from at a sensible time.
+On Saturday afternoon Shonen Knife made their long-promised visit to Sunderland, a city on the Tyne & Wear Metro and therefore fairly easy to get to, and since it was a matinee show, nice and easy to get home from at a sensible time.
 
 I mentioned to Hazel that I was planning to go to this show a while back and she surprised me by saying that she'd like to come along - in retrospect I guess not really that much of a surprise because there's nothing not to love about Shonen Knife, but she doesn't say "yes" that often!
 
@@ -67,6 +67,6 @@ _AHFoW CONNECTION:_ Dean Wareham added guest backing vocals to Under My Pillow o
 
 {% ahfowvideo "t0E6rSi4hEE" "Shonen Knife recording session" "https://media.fullofwishes.co.uk/00-misc/misc/shonen-knife-under-my-pillow-session.jpg" %}
 
-So, gig over, we headed out back into the rain, back on to the Metro to Whitley Bay, and a walk along the beach home. That was a pretty good Sunday.
+So, gig over, we headed out back into the rain, back on to the Metro to Whitley Bay, and a walk along the beach home. That was a pretty good Saturday.
 
-I must admit to being quite selective of my gigs these days so rarely go to a show I don't enjoy, but there are very few that I've _enjoyed_ as much as I enjoyed my Sunday afternoon with Shonen Knife, BMX Bandits, and The Cords - and, let's be honest here, being able to get home while it was still daylight has become something I appreciate more as I get older.
+I must admit to being quite selective of my gigs these days so rarely go to a show I don't enjoy, but there are very few that I've _enjoyed_ as much as I enjoyed my Saturday afternoon with Shonen Knife, BMX Bandits, and The Cords - and, let's be honest here, being able to get home while it was still daylight has become something I appreciate more as I get older.

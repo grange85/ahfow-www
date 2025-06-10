@@ -24,6 +24,8 @@ This is the 10th anniversary double LP version of Cheval Sombre's beautiful debu
 
 This was released by Fat Elvis Records in 2020 and I haven't been able to figure out how I got it - apparently this edition was limited to 300 copies and sold through Norman Records in the UK, or direct from Fat Elvis - I'd assumed I'd have bought it from Norman, but it's not in my order history - it seems unlikely I'd have bought it anywhere else? Did I buy it from Sean at Fat Elvis, or did he send it to me?? It's odd for something just five years old that I can't find any evidence of it in my email. Inside the sleeve are a couple of Fat Elvis stickers... is that a clue?
 
+_Update: Sean/Fat Elvis got in touch and cleared things up it seems I bought this direct from him with the arrangement happening on Facebook (where I never thought to look)._
+
 Either way Sean at Fat Elvis Records has produced a lovely package deserving of the lovely music it contains (although a double album should always be in a gatefold sleeve).
 
 I was additionally confused by the fact that my green-ish copy didn't seem to be the same as the one described on Discogs as "natural with blue, red, and yellow wisps" but the review on _It's Psychedelic Baby_ seems to explain that:
@@ -44,6 +46,7 @@ Dean Wareham plays guitar on three tracks {% ahfowtrack "I Found it Not So" %}, 
  - *Title:* Cheval Sombre
  - *Packaging:* Not a gatefold sleeve
  - *Format:* 2xLP
+ - Bought direct from Sean/Fat Elvis for $42 (incl. postage).
 
 Previously in [my record collection](/category/my-record-collection):
  - [[047] Cheval Sombre - self-titled](/2023/06/29/my-record-collection-047-cheval-sombre-self-titled/)
