@@ -1,5 +1,5 @@
 ---
-title: 404 - page not found"
+title: 404 - page not found
 layout: page
 sitemap: false
 ---

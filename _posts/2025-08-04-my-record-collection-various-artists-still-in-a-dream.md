@@ -11,7 +11,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/various-artists-still-in-a-dream.jpg
 categories:
 - galaxie 500
 - luna
@@ -22,6 +22,7 @@ tags:
 ---
 Cherry Red Records have been trotting out these extensive compilations for a number of years (as have some other reissue/legacy labels like Ace and Two Piers and Rough Trade) and I suspect AHFoW related acts have been sprinkled around many similar collections. Both Galaxie 500 and Luna turn up on this one, which is subtitled _1988-1995 A Story of Shoegaze_. I'll spare you a discussion on my opinions of music pigeinholing - but imagine me rolling my eyes!
 
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/various-artists-still-in-a-dream.jpg" "Still in a Dream (CD)" %}
 
 I guess I bought this comp, and none of the others because:
  1. It has a pretty good tracklisting across its five CDs
@@ -29,7 +30,7 @@ I guess I bought this comp, and none of the others because:
 
 Obviously Galaxie 500's and Luna's contributions aren't anything I don't already have... multiple times. So I guess reason #1 is the best reason to have this collection.
 
-The collection is packaged as a book and had a lengthy essay on shoegaze (that doesn't mention Galaxie 500) by Neil Taylor - and little puff pieces on each track.
+The collection is packaged as a book and had a lengthy essay on shoegaze (that doesn't mention Galaxie 500) by Neil Taylor - and little puff pieces on each track, neither the Galaxie 500 or Luna ones have anything insightful to say so are not worth me copying them down!
 
 So... just because - I'm going to pick my three favourite tracks from each of the five discs&dagger;!
 
@@ -76,5 +77,14 @@ _OK I picked this video (which does have In Hollow towards the end), for other r
 
 _Plainsong is from Seefeel's masterpiece **Quique** and is the best track on this album (with the obvious exception(s))_
 
+Here's a [Spotify playlist of my picks](https://open.spotify.com/playlist/0RJiPkZMrrFmF27yQYxV0X)
+
+ - *Catalogue Number:* AHFOW 10/169
+ - *Artist:* Various artists
+ - *Title:* Still in a Dream
+ - *Packaging:* Hardbacked book
+ - *Format:* 5xCD
+ - Bought from Amazon for £ £35.99
+
 ---
-_&dagger; Restricting myself to three per disc means no room for som many great bands - also I could easily have picked different tracks on each run through - I haven't though to hard about this!_
+_&dagger; Restricting myself to three per disc means no room for so many great bands - also I could easily have picked different tracks on each run through - I haven't though too hard about this!_
