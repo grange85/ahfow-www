@@ -20,7 +20,7 @@ tags:
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-09-26/19890926_dean1_lori.jpg" "Dean Wareham of Galaxie 500 at the ICA in London 1989 (photo: Lori)" %}
 
 
-So... today I was supposed to be at The Islington Assembly Hall watching Dean Wareham playing Galaxie 500 songs - he's in LA - I'm at home in West London, and the show has been rescheduled to 2021!
+So... today I was supposed to be at The Islington Assembly Hall watching Dean Wareham playing Galaxie 500 songs - he's in LA - I'm at home in west London, and the show has been rescheduled to 2021!
 
 So, to fill the gap here's a selection of live performances of Dean playing Galaxie 500 songs in London with Galaxie 500, Luna, Dean & Britta and solo (well that's Dean & Britta really!).
 
