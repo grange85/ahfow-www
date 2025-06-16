@@ -84,7 +84,7 @@ Here's a [Spotify playlist of my picks](https://open.spotify.com/playlist/0RJiPk
  - *Title:* Still in a Dream
  - *Packaging:* Hardbacked book
  - *Format:* 5xCD
- - Bought from Amazon for £ £35.99
+ - Bought from Amazon for £35.99
 
 ---
 _&dagger; Restricting myself to three per disc means no room for so many great bands - also I could easily have picked different tracks on each run through - I haven't though too hard about this!_
