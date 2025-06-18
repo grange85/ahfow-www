@@ -27,7 +27,7 @@ tags:
 
 This single was part of a limited edition version of the Temperature's Rising oral history book that could only be ordered directly from the publishers and as well as the single contained a print of one of Macioce's photographs, signed on the back by the photographer. It was limited to 275 numbered copies (mine is number 96).
 
-I'm guessing that there must have been more than 275 copies pressed since six months later Damon & Naomi were selling copies of the single separately on their web site for $10 - long since sold out of course so you'll have to spend much £30+ on Discogs for a copy now.
+I'm guessing that there must have been more than 275 copies pressed since six months later Damon & Naomi were selling copies of the single separately on their web site for $10 - long since sold out of course so you'll have to spend £30+ on Discogs for a copy now.
 
 The single's sleeve was designed by Claire Dain (about whom I know nothing) and (then) Rookie magazine editor Tavi Gevinson who was 15 or 16 at the time. In that year's AHFoW survey nobody was under 20, and 90% were over 30... so, it was quite thrilling hearing of someone so young being a fan... and, a look through the Rookie archives, or searching online, does make it clear that she was definitely a fan:
 
