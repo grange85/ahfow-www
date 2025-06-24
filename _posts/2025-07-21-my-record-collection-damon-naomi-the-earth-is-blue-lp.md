@@ -22,7 +22,7 @@ This is the LP of The Earth is Blue that last time out I declared it as "certain
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-the-earth-is-blue-lp.jpg" "Damon & Naomi - The Earth is Blue (LP)" %}
 
-Of course, it is even more beautiful on LP, not because of any of that nonsense about "analog warmth" or "dynamic range" - no, it's more beuatiful on LP because it comes in a 12" square package and therefore has a lovely big version of Naomi's lovely picture on the front... although I do have to say that this meant I noticed two things I hadn't really noticed before:
+Of course, it is even more beautiful on LP, not because of any of that nonsense about "analog warmth" or "dynamic range" - no, it's more beautiful on LP because it comes in a 12" square package and therefore has a lovely big version of Naomi's lovely picture on the front... although I do have to say that this meant I noticed two things I hadn't really noticed before:
 
 1. The picture is horizontally flipped and repeated across its two sides... this was the same as on the CD but I never really clicked that this wasn't a lovely wide panorama - nope it's the same picture twice (on the digipack CD it's the same picture two and a bit times).
 2. The picture suffered somewhat being blown up to 12" square (twice) and is a little less sharp becuase of that - I guess because it maybe wasn't shot in high enough resolution in the first place? Or maybe the printing let it down slightly.
@@ -37,7 +37,7 @@ I bought the LP direct from Damon & Naomi in 2013 at the same time as I pre-orde
  - *Artist:* Damon & Naomi
  - *Title:* The Earth is Blue
  - *Format:* LP
- - *Uses of the word 'beautiful' in this post*: 4
+ - *Uses of the word 'beautiful' in this post*: 5
  - [Buy 'The Earth is Blue' on Bandcamp](https://damonandnaomi.bandcamp.com/album/the-earth-is-blue)
 
 Previously in [my record collection](/category/my-record-collection):
