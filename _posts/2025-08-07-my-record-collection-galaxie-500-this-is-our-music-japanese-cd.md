@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Galaxie 500 - This Is Our Music (Video Arts Japan CD)"
+title: "[274] Galaxie 500 - This Is Our Music (Video Arts Japan CD)"
 date: 2025-08-07 00:00 +0000
 sitemap: true
 comments: true
