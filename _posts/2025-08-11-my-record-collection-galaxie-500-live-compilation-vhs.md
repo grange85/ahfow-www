@@ -31,7 +31,7 @@ As listed on the photocopied sleeve the three shows are:
 
 This was such _superb quality_ that it got officially released on the [Don't Let Our Youth Go to Waste DVD](/2024/11/11/my-record-collection-187-don-t-let-our-youth-go-to-waste-dvd/) a few years back. It also might have [put in an appearance in this series on a VHS](/2025/01/30/my-record-collection-galaxie-500-university-of-london-6-3-90/) before, but no VHS player meant I couldn't be sure. I was at this gig... there was [no booing](/2025/08/07/my-record-collection-galaxie-500-this-is-our-music-japanese-cd/)!
 
-{% ahfowvideo "youtubeid" "Galaxie 500 - ULU - 15th November 1990" "thumbnail" %}
+{% ahfowvideo "OyE2yVDq_f0" "Galaxie 500 - ULU - 15th November 1990" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-ulu-dvd-cap.jpg" %}
 
 ---
 
@@ -39,13 +39,13 @@ This was such _superb quality_ that it got officially released on the [Don't Let
 
 This was actually supporting The Sundays, it seems Birdland played the same venue the following night so that may be where the confusion lies. This was shared again a couple of years ago described as _unknown date and unknown venue_ which was briefly quite exciting until it was identified as a boot that had been doing the rounds for many years!
 
-{% ahfowvideo "f_RDoNcjbYQ" "Galaxie 500 - Leicester University - 6th February 1990" "thumbnail" %}
+{% ahfowvideo "f_RDoNcjbYQ" "Galaxie 500 - Leicester University - 6th February 1990" "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-leicester-1990-vidgrab00004.png" %}
 
 ---
 
     Live at Subteranea, London 27.6.90, Full concert 70 minutes.
 
-Another show I was at and [wrote up for my Substack a couple of months back](https://open.substack.com/pub/aheadfullofwishes/p/galaxie-500-at-the-subterania-27th?r=2bfyn9&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) about how it changed my life!
+Another show I was at and [wrote up for my Substack a couple of months back](https://aheadfullofwishes.substack.com/p/galaxie-500-at-the-subterania-27th) about how it changed my life!
 
 <blockquote>
 <p>The Subterania was a club located underneath the Westway in west London. Most gigs around then were happening in north London or the West End so it was nice having a venue a little closer to home so we saw quite a few gigs there over the years (although I somehow managed to not see Galaxie 500’s first gig there the previous year).</p>
@@ -54,7 +54,11 @@ Another show I was at and [wrote up for my Substack a couple of months back](htt
 </blockquote>
 <p class="caption"><a href="https://aheadfullofwishes.substack.com/p/d50ef4d1-9349-46eb-8b23-b252d075ac6b">SUBSTACK: Galaxie 500 at The Subterania - 27th June 1990</a></p>
 
-{% ahfowvideo "youtubeid" "Galaxie 500 - Subterania - 27th June 1990" "thumbnail" %}
+Since I don't have a VHS player I can't check this out - the video on YouTube that claims to be from the Subterania show is actually from the Manchester show the night before - so I suspect that this might be that - although... that video is incomplete and only 50 minutes long and this claims to be 70 minutes long. 
+
+Now, The Subterania had a balcony that wasn't often open (in my experience) but at one gig - and I _think_ it was this one - Ken and I managed to get upstairs even though we shouldn't have, and there were a couple of lads setting up a video recorder so I suspect that there is a recording of that gig somewhere - we were ushered down pretty quickly. I also remember being at Camden Market not long after this gig and seeing, but crazily not buying, a Galaxie 500 bootleg video (although it could easily have been the Manchester show).
+
+Maybe the elusive video of Galaxie 500 at The Subterania is the one on this tape!? I suspect not.
 
 ---
 
