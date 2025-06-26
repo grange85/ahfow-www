@@ -26,7 +26,11 @@ The compilation is packed with the usual Shimmy Disc faces, and compiled with th
 
 Galaxie 500's contribution is Sergio Huidor's video for {% ahfowtrack "Tugboat" %}.
 
-There were two more Shimmy Disc video comps - Volume 2, which I don't have (but am on the lookout for), had the video for {% ahfowtrack "When Will You Come Home" %}, and Volume 3 had no contribution from Galaxie 500 at all. I bought this on eBay in 2014 although not sure for how much.
+{% ahfowvideo "aULilR7TS6c" "Shimmy Disc Video Compilation Volume 1" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/shimmy-disc-volume-one-screengrab.jpg" %}
+
+There were two more Shimmy Disc video comps - Volume 2, which I don't have (but am on the lookout for), had the video for {% ahfowtrack "When Will You Come Home" %}, and Volume 3 had no contribution from Galaxie 500 at all. 
+
+I bought this on eBay in 2014 although not sure for how much.
 
  - *Catalogue Number:* AHFOW 13/012
  - *Artist:* Various artists
