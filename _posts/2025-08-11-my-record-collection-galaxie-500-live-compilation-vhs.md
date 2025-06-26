@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Galaxie 500 live compilation (VHS)
+title: "[275] Galaxie 500 live compilation (VHS)"
 date: 2025-08-11 00:00 +0000
 sitemap: true
 comments: true

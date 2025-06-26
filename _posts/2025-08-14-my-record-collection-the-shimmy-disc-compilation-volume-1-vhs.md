@@ -1,11 +1,11 @@
 ---
 layout: post
-title: The Shimmy Disc Compilation Volume 1 (VHS)
+title: "[276] The Shimmy Disc Compilation Volume 1 (VHS)"
 date: 2025-08-14 00:00 +0000
 sitemap: true
 comments: true
 series-title: My record collection
-catno:
+catno: 13/012
 author:
   display_name: Andy
   login: admin
