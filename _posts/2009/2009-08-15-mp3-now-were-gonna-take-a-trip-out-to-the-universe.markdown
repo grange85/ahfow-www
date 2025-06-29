@@ -7,6 +7,7 @@ author:
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
 date: '2009-08-15'
+image: https://www.fullofwishes.co.uk/2009/08/15/mp3-now-were-gonna-take-a-trip-out-to-the-universe/
 categories:
 - galaxie 500
 - audio
