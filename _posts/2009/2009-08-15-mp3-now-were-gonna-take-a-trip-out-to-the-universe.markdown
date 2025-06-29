@@ -19,9 +19,9 @@ I've just been re-reading *Black Postcards* and Galaxie 500 are breaking up agai
 
 So just to prove how pointless and hateful festivals are here's an excellent recording of Galaxie 500's performance at the 1990 Roskilde Festival. Bah! Glad I wasn't there.
 
-{% ahfowvideo "6uiZ88s1WTA" "Galaxie 500 live at Roskilde, June 1990" %}
+{% ahfowvideo "6uiZ88s1WTA" "Galaxie 500 live at Roskilde, June 1990" "https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-06-29/1990-06-29-edited-poster-.jpg" %}
 
 [Download Galaxie 500 at The Roskilde Festival - 1990](http://www.mediafire.com/file/emi5m1mgwjm/1990-06-29_Galaxie_500-Roskilde_Festival.zip) - (68MB via Mediafire)
 
-_OK - the picture was taken at The Bizarre Festival in Lorelei, Germany the week before Roskilde, but it's the closest I can manage. Dean mentions this festival in the book as well and how despite the beautiful setting The Ramones chose to stay in their trailer and eat pizza rather than be outside enjoying "the mountain, the cliff, the sunshine, the barbecue [... because] punk is a celebration of ugly, how can punk rockers enjoy the beautiful Rhine Valley?"
+_OK - the picture was taken at The Bizarre Festival in Lorelei, Germany the week before Roskilde, but it's the closest I can manage. Dean mentions this festival in the book as well and how despite the beautiful setting The Ramones chose to stay in their trailer and eat pizza rather than be outside enjoying "the mountain, the cliff, the sunshine, the barbecue [... because] punk is a celebration of ugly, how can punk rockers enjoy the beautiful Rhine Valley?"_
 
