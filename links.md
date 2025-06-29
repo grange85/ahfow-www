@@ -7,7 +7,7 @@ title: Links
 {% include post_list.html limit=3 %}
 
  - [Read the latest A Head Full of Wishes post on Substack](https://aheadfullofwishes.substack.com/)
- - [Dean Wareham's Luna / Velvet Underground tour diary](https://www.fullofwishes.co.uk/category/velvet-underground-tour-diary)
+ - [Now we're gonna take a trip out to the universe - Galaxie 500 - Roskilde 90](https://www.fullofwishes.co.uk/2009/08/15/mp3-now-were-gonna-take-a-trip-out-to-the-universe/)
 
 ### Other links
 <ul>
