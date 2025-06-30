@@ -25,7 +25,5 @@ If you look back through the [morkygorky's earlier videos](http://www.youtube.co
 
 Previously:  
 
-
-  * [MP3: Dean & Britta with Nikolaj Nørlund play Ceremony](/2008/04/23/mp3-dean-britta-with-nikolaj-norlund-play-ceremony/)
   * [Review: Dean & Britta in Copenhagen](/2007/12/02/review-dean-britta-in-copenhagen/)
 

@@ -16,6 +16,6 @@ Video of Dean & Britta performing Galaxie 500's Tugboat at their recent show in 
 > Tugboat live at the Meseum of Fine Arts on March 9th (our 2nd show). This version is with vibes and keyboards. After this, Lara switched to guitar and it got more "rockin'" but I think I prefer the pretty keyboards......
 _Britta_
 
-{% ahfowimage "MC-3hc0a8NY" "Dean and Britta - Tugboat live in Boston 9th March 2007" %}
+{% ahfowvideo "MC-3hc0a8NY" "Dean and Britta - Tugboat live in Boston 9th March 2007" %}
 
 

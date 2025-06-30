@@ -11,7 +11,7 @@ categories:
 - news
 ---
 <p>In December 2005 we arrived at a new year's eve which didn't involve Luna playing live, until then Luna's new year's show was a tradition (sadly one I never experienced in the flesh), and part of that tradition involved pulling out a cover version of George McRae's disco classic Rock Your Baby. </p>
-<p>So in December 2005 <a href="/2005/12/01/audio-roll-your-own-luna-new-year/">I threw together the "Roll Your Own Luna New Year" page</a> which collected new years performances of the track... this post is just a recycle of that post... with a bit of added video from Matthew Buzzell's <a href="https://www.facebook.com/pages/Tell-Me-Do-You-Miss-Me-a-film-about-LUNA-by-Matthew-Buzzell/122077917842911?ref=ts&fref=ts">Tell Me Do You Miss Me</a> the film of Luna's last tour:</p>
+<p>So in December 2005 I threw together the "Roll Your Own Luna New Year" page which collected new years performances of the track... this post is just a recycle of that post... with a bit of added video from Matthew Buzzell's <a href="https://www.facebook.com/pages/Tell-Me-Do-You-Miss-Me-a-film-about-LUNA-by-Matthew-Buzzell/122077917842911?ref=ts&fref=ts">Tell Me Do You Miss Me</a> the film of Luna's last tour:</p>
 {% ahfowvideo "D-0Ey7_pcuE" "" %}
 
 

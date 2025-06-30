@@ -19,4 +19,4 @@ tags:
 <p>... and <a href="https://www.facebook.com/damonandnaomi">said this about it on Facebook</a></p>
 <blockquote><p>Beck played an obscure cover in Boston last night. Other surprises included Billie Jean (complete with moves), and some beautiful tunes from his own Song Reader. That's our pal Smokey Hormel stage right, he tore it up all night on a series of incredible-sounding and -looking stringed instruments</p></blockquote>
 <p>Beck chose the Galaxie 500 song to cover that pretty much everyone chooses - you can check out a few more here:</p>
-<p><a href="/2010/06/15/audio-a-fleet-of-tugboats/" title="Audio: A fleet of Tugboats">Audio: A fleet of Tugboats</a></p>
+<p><a href="https://www.fullofwishes.co.uk/articles/a-fleet-of-tugboats/" title="Audio: A fleet of Tugboats">Audio: A fleet of Tugboats</a></p>

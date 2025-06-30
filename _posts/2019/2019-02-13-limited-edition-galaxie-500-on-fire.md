@@ -16,7 +16,7 @@ tags:
 flickr: false
 longpost: false
 ---
-<div class="col-md-6 float-right"><figure><img src="{{site.baseurl}}/images/on-fire-orange-vinyl.jpg" class="img-fluid" /><figcaption>Orange vinyl On Fire</figcaption></figure></div>
+<div class="col-md-6 float-right"><figure><img src="https://media.fullofwishes.co.uk/images/on-fire-orange-vinyl.jpg" class="img-fluid" /><figcaption>Orange vinyl On Fire</figcaption></figure></div>
 <p class="lead">Galaxie 500's second album is getting a limited edition re-release on orange vinyl <a href="https://www.newburycomics.com/collections/exclusive-vinyl/products/galaxie_500-on_fire_exclusive_lp?variant=21542779191401">exclusively through Newbury Comics</a>.</p>
 
 <blockquote>

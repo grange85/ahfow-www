@@ -38,7 +38,7 @@ The video isn't too bad but the sound is a little ropey. In more recent times we
 <blockquote>
 This was my first time seeing Luna and I was thrilled. They were opening up for Screaming Trees on this tour. My battery pack died before the end of their set, which was unexpected and a total bummer.. so this is incomplete.
 </blockquote>
-<p class="caption"><a href="@sacramentomusicarchive">@sacramentomusicarchive</a> - YouTube</p>
+<p class="caption"><a href="https://www.youtube.com/@sacramentomusicarchive">@sacramentomusicarchive</a> - YouTube</p>
 
 {% ahfowvideo "9R7yfWu3GWA" "Hi8 master with camera audio (43 minutes)" %}
 

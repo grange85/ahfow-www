@@ -31,8 +31,6 @@ The opening track of On Fire is one that Galaxie 500 and all post-Galaxie 500 co
   "sourcecap": "29th November 1989 - Galaxie 500 - Schwimmbad, Heidelberg, Germany"
   } %}
 
-See also:
- - <a href="/2008/05/24/mp3-galaxie-500-soundcheck-blue-thunder/">MP3: Galaxie 500 soundcheck Blue Thunder</a>
 
 {% ahfowvideo "lc3kxjy2GNk" "Galaxie 500 - Blue Thunder (video)" %}
 

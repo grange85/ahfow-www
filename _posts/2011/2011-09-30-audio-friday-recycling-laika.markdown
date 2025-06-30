@@ -18,7 +18,7 @@ recycled:
 ---
 {% ahfowimage "https://media.fullofwishes.co.uk/ahfow/uploads/2011/09/laika.jpg" "Laika" %}
 
-[Laika](http://damonandnaomi.bandcamp.com/track/laika) first appeared on Damon & Naomi's first album [More Sad Hits](/database/damon-and-naomi/releases/damon-and-naomi-more-sad-hits/) but had been recorded earlier for the [short lived outfit Magnetophone](/2006/03/02/audio-magnetophone-laika/).
+[Laika](http://damonandnaomi.bandcamp.com/track/laika) first appeared on Damon & Naomi's first album [More Sad Hits](/database/damon-and-naomi/releases/damon-and-naomi-more-sad-hits/) but had been recorded earlier for the short lived outfit Magnetophone.
 
 {% ahfowaudio {
 "audiourl": "https://media.fullofwishes.co.uk/03-damon_and_naomi/audio/magnetophone-laika-speed-corrected.mp3",

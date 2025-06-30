@@ -34,7 +34,7 @@ As always On Fire topped the poll, This Is Our Music rallied to tie with Today f
 
 {% ahfowtrack "Fourth of July" %} topped the tracks with {% ahfowtrack "Blue Thunder" %} and {% ahfowtrack "Ceremony" %} following in its wake.
 
-<figure><img src="{{site.baseurl}}/images/survey-2020/survey-2020-galaxie-500.png" class="img-fluid" /><figcaption>Galaxie 500 survey results 2020</figcaption></figure>
+<figure><img src="https://media.fullofwishes.co.uk/images/survey-2020/survey-2020-galaxie-500.png" class="img-fluid" /><figcaption>Galaxie 500 survey results 2020</figcaption></figure>
 
 > Because it starts magnificently and then keeps getting better.
 
@@ -45,7 +45,7 @@ As always On Fire topped the poll, This Is Our Music rallied to tie with Today f
 
 Luna's first three albums take the vast majority of the votes again with Penthouse, as ever, winning out. {% ahfowtrack "23 Minutes in Brussels" %} is top track, as it pretty much always has been in recent years!
 
-<figure><img src="{{site.baseurl}}/images/survey-2020/survey-2020-luna.png" class="img-fluid" /><figcaption>Luna survey results 2020</figcaption></figure>
+<figure><img src="https://media.fullofwishes.co.uk/images/survey-2020/survey-2020-luna.png" class="img-fluid" /><figcaption>Luna survey results 2020</figcaption></figure>
 
 > It was my intro to Luna/Wareham - and it turned out to be a great place to start. Tied with so many great memories of the time and the music.
 
@@ -55,7 +55,7 @@ Luna's first three albums take the vast majority of the votes again with Penthou
 
 More Sad Hits topped the album poll as always - this year leaving the rest of the pack quite far behind. {% ahfowtrack "This Car Climbed Mt. Washington" %} topped the track poll, as it always does - with {% ahfowtrack "E.T.A." %} pushing up behind.
 
-<figure><img src="{{site.baseurl}}/images/survey-2020/survey-2020-damon-and-naomi.png" class="img-fluid" /><figcaption>Damon & Naomi survey results 2020</figcaption></figure>
+<figure><img src="https://media.fullofwishes.co.uk/images/survey-2020/survey-2020-damon-and-naomi.png" class="img-fluid" /><figcaption>Damon & Naomi survey results 2020</figcaption></figure>
 
 > Took the Galaxie 500 baton and dreamily meandered with it!
 

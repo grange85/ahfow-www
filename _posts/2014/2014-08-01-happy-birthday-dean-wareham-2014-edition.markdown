@@ -40,4 +40,3 @@ categories:
 - [Happy Birthday Dean Wareham (2010)](/2010/08/01/happy-birthday-dean-wareham-2/)
 - [Happy Birthday Dean Wareham (2009)](/2009/08/01/happy-birthday-dean-wareham/)
 - [Happy Birthday Dean Wareham (2008)](/2008/08/01/happy-birthday-dean-2/)
-- [Happy Birthday Dean Wareham (2007)](/2007/08/01/happy-birthday-dean/)

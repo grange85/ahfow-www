@@ -27,7 +27,7 @@ That's Dean's handwriting on the CDR and it clearly says that it was _live in Bo
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/luna-ride-into-the-sun-feat-lou-reed-1994-03-30.mp3",
   "audiocap": "Lou Reed with Luna - Ride Into The Sun",
-  "sourceurl": "https://www.fullofwishes.co.uk/database/luna/shows/1996/1996-03-30-luna-orpheum-theatre-boston-ma-usa/",
+  "sourceurl": "/database/luna/shows/1996/1996-03-30-luna-orpheum-theatre-boston-ma-usa/",
   "sourcecap": "30th March 1996 - Luna - Orpheum Theatre, Boston MA, USA"
   } %}
 
@@ -35,7 +35,7 @@ That's Dean's handwriting on the CDR and it clearly says that it was _live in Bo
 
 I didn't get too many exclusives for AHFoW so this was quite exciting - and was, for many years the most downloaded mp3 I ever shared and still periodically gets folk happening upon it.
 
-You can [download the recording over here in both mp3 and flac formats](https://www.fullofwishes.co.uk/2011/08/26/audio-luna-play-ride-into-the-sun-with-lou-reed/) - or you can [stream the Soundcloud version](https://soundcloud.com/deanwareham/ride-into-the-sun-lou-reed) which has a few seconds before, and after the track you get to hear Lou thanking Dean and Luna.
+You can [download the recording over here in both mp3 and flac formats](/2011/08/26/audio-luna-play-ride-into-the-sun-with-lou-reed/) - or you can [stream the Soundcloud version](https://soundcloud.com/deanwareham/ride-into-the-sun-lou-reed) which has a few seconds before, and after the track you get to hear Lou thanking Dean and Luna.
 
 ---
 

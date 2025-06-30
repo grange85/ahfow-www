@@ -16,7 +16,7 @@ tags:
  - fizz
  - interview
 ---
-<div class="col-md-6 float-right"><figure class="caption aligncenter"><img src="{{site.baseurl}}/images/fizz-logo.jpg" class="img-fluid" /><figcaption>Fizz magazine</figcaption></figure></div>
+<div class="col-md-6 float-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/images/fizz-logo.jpg" class="img-fluid" /><figcaption>Fizz magazine</figcaption></figure></div>
 <p class="lead">Back in July Josh was kind enough to send me his lovely <a href="/2017/07/17/a-rolling-and-rollicking-dream-luna-gold-diggers/">review of Luna's Golddiggers video shoot</a> show. At the same time he sent me this interview with the band he carried out for Fizz magazine in 1996.</p>
 <p><em>This interview originally appeared in Fizz, 1996. Reprinted by permission of Cathy Rundell</em></p>
 

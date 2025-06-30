@@ -76,16 +76,16 @@ In January Luna played three consecutive nights in San Francisco playing a compl
 
 <p>To commemorate Galaxie 500's thirtieth anniversary A Head Full of Wishes published Everything's Swirling a fans-eye celebration of the band - the initial run of 100 copies sold out in a heartbeat so I was off to the photocopiers to run off another fifty copies. I sent the band members a copy each which led to Naomi posting this amazing picture - my fanzine... on that bass!</p>
 
-<figure><img src="{{site.baseurl}}/images/that-bass-and-that-fanzine.jpg" class="img-fluid" /><figcaption>My fanzine and that bass! (photo: Naomi Yang)</figcaption></figure>
+<figure><img src="https://media.fullofwishes.co.uk/images/that-bass-and-that-fanzine.jpg" class="img-fluid" /><figcaption>My fanzine and that bass! (photo: Naomi Yang)</figcaption></figure>
 
 <h3>September</h3>
 <p>Joakim and Ulrika's wonderful book A Strange Fascination is published - a collection of travel diaries documenting 29 Luna concerts from around the world - it's also packed with loads of great photos. <a href="http://www.seriesofdreams.se/">Grab a copy if you haven't already</a>!</p>
 
-<figure><img src="{{site.baseurl}}/images/britta-a-strange-fascination.jpg" class="img-fluid" /><figcaption>Britta behind the merch table in San Sebastian (photo: Kelly Kyle)</figcaption></figure>
+<figure><img src="https://media.fullofwishes.co.uk/images/britta-a-strange-fascination.jpg" class="img-fluid" /><figcaption>Britta behind the merch table in San Sebastian (photo: Kelly Kyle)</figcaption></figure>
 
 <p>Two great new Luna singles got released on Feral Child</p>
 
-<figure><img src="{{site.baseurl}}/images/luna-feral-child-singles-mosaic.jpg" class="img-fluid" /><figcaption>Luna singles on Feral Child</figcaption></figure>
+<figure><img src="https://media.fullofwishes.co.uk/images/luna-feral-child-singles-mosaic.jpg" class="img-fluid" /><figcaption>Luna singles on Feral Child</figcaption></figure>
 
 <h3>October</h3>
 <p>Luna headed out on an extensive tour of Spain:</p>

@@ -15,7 +15,7 @@ categories:
 tags:
  - a head full of wishes
 ---
-<figure><img src="{{site.baseurl}}/images/its-all-about-me.jpg" class="img-fluid" /><figcaption>It's all about me</figcaption></figure>
+<figure><img src="https://media.fullofwishes.co.uk/images/its-all-about-me.jpg" class="img-fluid" /><figcaption>It's all about me</figcaption></figure>
 
 <p class="lead">Last month <a href="http://www.psychedelicbabymag.com/2017/12/an-interview-with-andy-aldridge.html">Jenell from It's Psychedelic Baby and myself sat down for a chat</a> about all things A Head Full of Wishes. As much as I love to talk about AHFoW it did seem rather odd the idea of me being interesting enough to be interviewed but Jenell was a good interviewer and was happy to let me ramble on.</p>
 

@@ -16,7 +16,7 @@ tags:
 flickr: false
 longpost: false
 ---
-<div class="col-md-6 float-right"><figure><img src="{{site.baseurl}}/images/today-maroon-swirl-vinyl.jpg" class="img-fluid" /><figcaption>Maroon/black swirl Today</figcaption></figure></div>
+<div class="col-md-6 float-right"><figure><img src="https://media.fullofwishes.co.uk/images/today-maroon-swirl-vinyl.jpg" class="img-fluid" /><figcaption>Maroon/black swirl Today</figcaption></figure></div>
 
 Galaxie 500's debut album Today is the final studio album to get an exclusive Newbury Comics coloured vinyl release after This Is Our Music and On Fire earlier in the year.
 

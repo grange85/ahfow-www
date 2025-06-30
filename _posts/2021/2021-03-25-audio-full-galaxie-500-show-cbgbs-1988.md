@@ -24,7 +24,7 @@ The always excellent blog [Doom & Gloom From The Tomb](https://doomandgloomfromt
 
 <!--more-->
 
-The download has a couple of early studio recordings tagged on the end - including the [fast version of Ceremony that I shared previously](/2007/12/06/mp3-galaxie-500-ceremony-demo/).
+The download has a couple of early studio recordings tagged on the end - including the fast version of Ceremony that I shared previously.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1988-12-13/1988-12-13-galaxie-500-cbgb-print-ad.jpg" "Print ad for the Galaxie 500 show" %}
 
