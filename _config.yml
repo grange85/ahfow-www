@@ -46,6 +46,9 @@ collections:
   articles:
     output: true
     permalink: /:collection/:name/
+  substack:
+    output: true
+    permalink: /:collection/:name/
   share:
     output: true
     permalink: /:collection/:name/
@@ -68,8 +71,6 @@ jekyll_compose:
   default_front_matter:
     drafts:
       layout: post
-      sitemap: true
-      comments: true
       series-title: 
       catno: 
       author: 
@@ -84,8 +85,6 @@ jekyll_compose:
        - 
     posts:
       layout: post
-      sitemap: true
-      comments: true
       series-title: 
       catno: 
       author:
@@ -97,6 +96,31 @@ jekyll_compose:
       categories:
        - 
       tags:
+       - 
+    articles:
+      layout: post
+      author: 
+        display_name: Andy
+        login: admin
+        email: andy@grange85.co.uk
+        url: https://www.grange85.co.uk
+      image:
+      categories:
+       - 
+      tags: 
+       - 
+    substack:
+      layout: post
+      series-title: Substack
+      author: 
+        display_name: Andy
+        login: admin
+        email: andy@grange85.co.uk
+        url: https://www.grange85.co.uk
+      image:
+      categories:
+       - 
+      tags: 
        - 
 jekyll-archives:
   enabled:
