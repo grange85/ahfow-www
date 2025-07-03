@@ -130,7 +130,7 @@ This seems to be the AWOL live at The Subterania show - I guess it was decided t
 
 {% ahfowvideo "p6ZB4EYaMs0" "Galaxie 500 at The Subterania, London - 27th June 1990" "https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-06-27/galaxie-500-subterania-1990-06-27-video-05.jpg" %}
 
-Either way - this video rather surprisinly doesn't currently seem to be online (unless I just can't find it), so I've digitised it and made it available, It isn't the complete show, it's missing the beginning, and the end... you can hear them just about to go into Don't Let Our Youth Go to Waste when it cuts out. The angle is great because you get a much better view of Damon than is usual!
+Either way - this video rather surprisingly doesn't currently seem to be online (unless I just can't find it), so I've digitised it and made it available, It isn't the complete show, it's missing the beginning, and the end... you can hear them just about to go into Don't Let Our Youth Go to Waste when it cuts out. The angle is great because you get a much better view of Damon than is usual!
 
 I can't **categorically** prove that it's the Subterania show, although I'm pretty confident that it's not any of their other London shows, but I guess it may not be London at all? If anyone has any insights I'd love to hear them.
 
