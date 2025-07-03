@@ -106,7 +106,7 @@ Someone has kindly popped the whole film on YouTube:
 
 ---
 
-### This week in History
+### This week in history
 
 #### 29th June 1990
 Galaxie 500 played at the Roskilde festival in Denmark - you can [stream the whole show here](https://www.fullofwishes.co.uk/2009/08/15/mp3-now-were-gonna-take-a-trip-out-to-the-universe/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20250704).
@@ -119,7 +119,7 @@ On this day 30 years ago I sent out the first post to the Galaxie 500 Mailing Li
 
 ---
 
-### This weeks discoveries and rediscoveries
+### This week's discoveries and rediscoveries
 
  - Dean will be playing a [show at Zebulon in Los Angeles](https://www.fullofwishes.co.uk/database/dean-and-britta/shows/dean-wareham-2025-12-16-zebulon-los-angeles-ca-usa/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20250704) - tickets are on sale now.
  - Dean & Britta will be playing at [Going Electric: An evening of Dylan songs circa '65](https://bobdylancenter.com/event/going-electric/) in Tulsa OK, there are two shows one early one with seats (for the old folk) and a later standing show.
