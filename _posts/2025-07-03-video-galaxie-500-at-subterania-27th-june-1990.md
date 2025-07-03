@@ -26,7 +26,7 @@ This was, I hope, going to clear up some confusions and uncertainties caused by 
 
  - The Manchester show (26th June 1990) had been shared incorrectly as the Subterania show from the following night.
  - I knew the Subterania had been videoed because I had failed to by a copy at Camden Market the following weekend!
- - The Subterania show had been shared on YouTube but incorrectly claimed it was from the Camden Falcon in February - this was obviously wrong for two reasons:
+ - The Subterania show had been shared on YouTube but incorrectly claimed it was from the Camden Falcon in February - this was obviously wrong for three reasons:
    - It contained songs from This Is Our Music that I don't believe were being played by the band as early as February,
    - It was filmed from a balcony which the Falcon (to my memory) didn't have - being a pub back room!
    - It's virtually, or exactly, the same setlist as the Manchester show from June.
