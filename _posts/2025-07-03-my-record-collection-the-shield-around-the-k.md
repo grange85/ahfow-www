@@ -30,8 +30,6 @@ He's wrong though...
 
 {% ahfowvideo "Eaw-zW7RVus" "Beat Happening Indian Summer" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/beat-happening-indian-summer-vidcap.jpg" %}
 
-So is [Dean's cover](/2013/01/18/audio-lost-tracks-dean-wareham-indian-summer/), and of course [Luna's cover](/2023/11/02/my-record-collection-083-luna-indian-summer-12/)
-
 Someone has kindly popped the whole film on YouTube:
 {% ahfowvideo "fUajdEeQOTs" "The Shield Around The K" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/the-shield-around-the-k-title.jpg" %}
 
