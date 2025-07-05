@@ -10,9 +10,11 @@ author:
   url: https://www.grange85.co.uk
 image:
 categories:
--
+- galaxie 500
 tags:
--
+- substack
+- advertising
+- commercials
 ---
 _tl;dr yes, of course he should!_
 
@@ -115,12 +117,13 @@ It can completely ruin a song for you. I grew up hating it, but everyone's doing
 
 ### Commercial break
 
-Galaxie 500's Instrumental in this 1999 car advert.
+Galaxie 500's Instrumental was used in this 1999 car advert. I do actually quite like how it has been used in this one.
 {% ahfowvideo "J_l-OIB0jBc" "Acura - Engineering Passion (1999)" "https://media.fullofwishes.co.uk/00-misc/substack/acura-engineering-is-our-art.jpg" %}
 
-Luna's California (All The Way) advertising a perfume for frighteningly skinny people (you have to wait go to the last few seconds to hear Luna).
+Luna's California (All The Way) advertising a perfume for frighteningly skinny people (you have to wait until the last few seconds to hear Luna).
 {% ahfowvideo "gtE0-7wDjM0" "CK One - 1994" "https://media.fullofwishes.co.uk/00-misc/substack/ck-one.jpg" %}
 
+California (All The Way) was also used for an American Express ad in the UK in the late 90s, and Drunken Whistler, also for American Express in the early 2000s. I suspect there are other examples I haven't heard about.
 
 ---
 
