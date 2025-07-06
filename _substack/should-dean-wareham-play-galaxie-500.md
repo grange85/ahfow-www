@@ -83,7 +83,7 @@ I love Dean & Britta and I love that they're doing Galaxie 500 numbers, and I ev
     <li>I am no doubt being irrational - I described myself to a friend as feeling like the child of divorced parents - trying to love them both when they don't love each other...</li>
 </ul>
 </blockquote>
-<p class="caption">Andy Aldrigde - Galaxie 500 Mailing List (17th November 2010)</p>
+<p class="caption">Andy Aldridge - Galaxie 500 Mailing List (17th November 2010)</p>
 
 Of course, all of that is just plain stupid. I've since heard both _Snowstorm_ and _Listen, The Snow is Falling_ live on many occasions and can honestly say that I've never been disappointed, not once! I've also seen Damon & Naomi play _Listen..._ which _did_ have Naomi's voice, but didn't have Dean's guitar... and I wasn't disappointed with that either!
 
@@ -99,7 +99,7 @@ At a show in London in 2011 Dean announced that his show that summer at Truck Fe
 
 Similar conversations have been had over the use of the music we love in commercials. In 1999 Galaxie 500's Instrumental appeared on an advert for Acura in the US, this prompted a lot of discussion on the Galaxie 500 Mailing List that covered not only Galaxie 500 and Luna but also Stereolab, Spiritualized and Nick Drake, all of whose music had recently been turning up in TV ads.
 
-Once again this turned into a discussion about how we, as fans, can sometimes feel that we are inverstors in the music we love. I'll post a few snippets from the discussion on the list but this, from a 2002 interview that Dean gave Billboard should possibly come first:
+Once again this turned into a discussion about how we, as fans, can sometimes feel that we are investors in the music we love. I'll post a few snippets from the discussion on the list but this, from a 2002 interview that Dean gave Billboard should possibly come first:
 
 <blockquote>
 There was a Galaxie 500 instrumental piece used in an Acura ad last year or the year before, and it totally saved me, financially. In times when you're wondering where you're possibly gonna get your next bit of money from and something like that drops out of the sky, it's very nice.
@@ -193,3 +193,4 @@ Here are a selection of responses which in the main were supportive, in fact I c
  - _"To hell with Acura, it's about time Galaxie 500 got paid. They need to pay bills as well, and there is no way Galaxie 500 made any money when they were in full swing."_  
  __Bob__
 
+While cars are unquestionably contributing to the destruction of our planet (and our local environments), and I would be unsurprised to find that Calvin Klein test their perfumes for skinny people on animals, I still like to think that Dean, Damon, and Naomi do have lines that they're unwilling to cross... and I suspect those lines are similar to my own ones.
