@@ -6,7 +6,7 @@ author:
   login: admin
   email: andy@fullofwishes.co.uk
   url: http://www.grange85.co.uk
-date: 2025-07-07 20:50:00
+date: 2025-07-07 20:50:00 +0100
 image: https://media.fullofwishes.co.uk/00-misc/misc/seasons-blexbolex-enchanted-lion.jpg
 categories:
 - luna
