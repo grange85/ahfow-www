@@ -20,7 +20,7 @@ tags:
 - still in a dream
 - compilation
 ---
-Cherry Red Records have been trotting out these extensive compilations for a number of years (as have some other reissue/legacy labels like Ace and Two Piers and Rough Trade) and I suspect AHFoW related acts have been sprinkled around many similar collections. Both Galaxie 500 and Luna turn up on this one, which is subtitled _1988-1995 A Story of Shoegaze_. I'll spare you a discussion on my opinions of music pigeinholing - but imagine me rolling my eyes!
+Cherry Red Records have been trotting out these extensive compilations for a number of years (as have some other reissue/legacy labels like Ace and Two Piers and Rough Trade) and I suspect AHFoW related acts have been sprinkled around many similar collections. Both Galaxie 500 and Luna turn up on this one, which is subtitled _1988-1995 A Story of Shoegaze_. I'll spare you a discussion on my opinions of music pigeonholing - but imagine me rolling my eyes!
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/various-artists-still-in-a-dream.jpg" "Still in a Dream (CD)" %}
 

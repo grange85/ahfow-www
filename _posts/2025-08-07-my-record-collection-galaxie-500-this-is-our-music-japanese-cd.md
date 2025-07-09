@@ -34,12 +34,12 @@ The sleeve notes were once again written by Ryuichi Kanagawa and tells this stor
 
 I only saw Galaxie 500 play the song once, at ULU in 1990, and I can assure you that nobody there booed the song, I also have a recording of them playing it in Glasgow earlier that month, and... nobody booed the song there either. I do find it genuinely hard to believe that people in the UK booed the song - and if they did it was likely just one or two drunkards and not any reflction on the wider audience. The evidence of recordings of two shows is obviously far from conclusive, but I'll throw in a couple of my own suppositions:
 
- - Most Galaxie 500 fans were probably, like me, only six or seven when The Beatles broke up so unlikely to have particularly strong negative opinions about Yoko Ono.
+ - Most Galaxie 500 fans were probably, like me, only six or seven when The Beatles broke up so, like me, were unlikely to have particularly strong negative opinions about Yoko Ono.
  - This Is Our Music had been well reviewed in the UK inkies, and _Listen, The Snow is Falling_ was picked out as a highlight - "Naomi's celestial voice and the crackle of Damon sifting sea-shells through his fingers" (SELECT, November 1990)
  - John Peel had played _Listen, The Snow is Falling_ on his show.
  - Galaxie 500 were headlining the tour, people knew the band, knew the album. and knew what to expect.
 
-Here they are playing it at that ULU show in November 1990 - no booing, just some applause, and encouragement, and some very enthusiastic cheering at the end. This was at the end of Galaxie 500's last UK tour, so I'd have hoped Naomi would have left the country with a better impression of us!?
+Here they are playing it at that ULU show in November 1990 - no booing, just some applause, and encouragement, and some very enthusiastic cheering at the end. This was at the end of Galaxie 500's last UK tour, so I hope by then that Naomi left the country with a better impression of us.
 
 {% ahfowvideo "RuFD-gh7FbE" "Galaxie 500 - Listen, The Snow is Falling (London, 1990)" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/1990-11-ulu-listen-screencap.jpg" %}
 
