@@ -23,7 +23,7 @@ This Music Is Ours was the second (and so far last) tribute album put out by A H
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/this-music-is-ours-cd-booklet-etc.jpg" "This Music Is Ours - CD/booklet/etc." %}
 
-The tribute album for On Fire, [On Fire \| 30](https://www.fullofwishes.co.uk/2024/07/22/my-record-collection-155-on-fire-30/) in 2019 had turned out better than I thought possible, and that was almost entirely down to other people who I leaned on rather heavily to get it done, in particular Hannah, who basically project-managed the physical product, and John who took everything I threw at him and handed back the lovely book and sleeve that the release came in.
+The tribute album for On Fire, [On Fire \| 30](/2024/07/22/my-record-collection-155-on-fire-30/) in 2019 had turned out better than I thought possible, and that was almost entirely down to other people who I leaned on rather heavily to get it done, in particular Hannah, who basically project-managed the physical product, and John who took everything I threw at him and handed back the lovely book and sleeve that the release came in.
 
 I was reluctant to throw more work their way so I wasn't going to bother with a This Is Our Music tribute... but then COVID and the shit-show of 2020 wore me down and so in August I decided to go for it. Both Hannah and John got back in touch as soon as I put out the call and offered their services again - and one of the key reasons that This Music Is Ours exists is down to them.
 
@@ -67,7 +67,7 @@ The album got its final name from the last sentence of the introduction to the b
  - Dean showed off the copy I sent to him during one of their COVID live streams.
  {% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/dean-with-this-music-is-ours.jpg" "Dean with This Music Is Ours" %}
 
- - It's a fantastic album - and you can [get it for pay what you like](https://aheadfullofwishes.bandcamp.com/album/this-music-is-ours) on Bandcamp. Unlike _On Fire 30_ I didn't make the mistake of producing too many physical copies of the CD, so they all sold out. If anyone however does want a CD copy of the also brilliant _On Fire | 30_ [give me a shout](/contact/) because I still have quite a few of them!
+ - It's a fantastic album - and you can [get it for pay what you like](https://aheadfullofwishes.bandcamp.com/album/this-music-is-ours) on Bandcamp. Unlike _On Fire \| 30_ I didn't make the mistake of producing too many physical copies of the CD, so they all sold out. If anyone however does want a CD copy of the also brilliant _On Fire \| 30_ [give me a shout](/contact/) because I still have quite a few of them!
 
  - *Catalogue Number:* AHFOW 10/159
  - *Artist:* Various artists
@@ -76,3 +76,6 @@ The album got its final name from the last sentence of the introduction to the b
  - *Packaging:* CDr / booklet / postcards / badges / stickers
  - *Format:* CD
  - [Buy 'This Music Is Ours' on Bandcamp](https://aheadfullofwishes.bandcamp.com/album/this-music-is-ours)
+
+Previously in [my record collection](/category/my-record-collection):
+ - [[162] On Fire \| 30](/2024/07/22/my-record-collection-155-on-fire-30/)
