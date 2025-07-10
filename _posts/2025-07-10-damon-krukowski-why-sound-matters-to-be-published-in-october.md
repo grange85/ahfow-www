@@ -22,7 +22,7 @@ Damon's next book - Why Sound Matters will be published on the 21st October 2025
 
 {% ahfowimage "https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-krukowski-why-sound-matters.jpg" "Damon Krukowski - Why Sound Matters" %}
 
-Following on from [The New Analog]() in 2017 and his book of the podcast [Ways of Hearing]() _Why Sound Matters_ carries on his analysis of sound and music in the digital age.
+Following on from [The New Analog](/2017/04/18/damon-krukowsk-the-new-analog-out-now/) in 2017 and his book of the podcast [Ways of Hearing](https://www.fullofwishes.co.uk/2018/12/01/ways-of-hearing-on-bandcamp-and-book/) _Why Sound Matters_ carries on his analysis of sound and music in the digital age.
 
 <blockquote>
 From the joyous communal connections fostered through shared auditory experience to the devastating impact of noise pollution in the deep sea, musician and author Damon Krukowski urges readers to reconsider the significance of sound and its role in both our personal and collective well-being. He looks despairingly at how the multipronged efforts of urban dwellers to mitigate city noise have led to increased isolation, loss of community, and a sense of physical detachment from one’s surroundings. He considers the consequences of the commodification of sound in the digital era. And he looks at what’s at stake in trying to preserve the world’s dwindling quiet places.
