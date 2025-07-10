@@ -40,9 +40,9 @@ Over the last few years AHFoW entered the physical realm with a series of fanzin
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/docs/that-bass-naomivision-insta-2017.jpg" "That bass, with Damon & Naomi's copy of Everything's Swirling #1" %}
 
  - ['On Fire \| 30' tribute album](https://aheadfullofwishes.bandcamp.com/album/on-fire-30)
- - ['This Music is Ours' tribute album](https://aheadfullofwishes.bandcamp.com/album/this-music-is-ours)
+ - ['This Music Is Ours' tribute album](https://aheadfullofwishes.bandcamp.com/album/this-music-is-ours)
 
-{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/dean-with-this-music-is-ours.jpg" "Dean with his copy of This Music is Ours" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/dean-with-this-music-is-ours.jpg" "Dean with his copy of This Music Is Ours" %}
 
 
 ### 22: Terrascopaedia #11
