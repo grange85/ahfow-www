@@ -18,7 +18,7 @@ categories:
 tags:
 - shimmy disc
 ---
-The second VHS in a row, so the second entry that I can't actually watch - although, of course I can because someone has been kind enough to digitise the whole thing and [pop it onto YouTube](https://www.youtube.com/watch?v=aULilR7TS6c) (or, to [download from The Internet Archive](https://archive.org/details/ShimmyDisc) if you prefer).
+The second VHS in a row, and now that I [actually have a VHS player](/2025/07/03/video-galaxie-500-at-subterania-27th-june-1990/) I can sit down and watch... although, of course because someone has been kind enough to digitise the whole thing and [pop it onto YouTube](https://www.youtube.com/watch?v=aULilR7TS6c) - it's easier to do that.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/shimmy-disc-video-compilation-vol-1-vhs.jpg" "The Shimmy Disc Compilation Volume 1 (VHS)" %}
 

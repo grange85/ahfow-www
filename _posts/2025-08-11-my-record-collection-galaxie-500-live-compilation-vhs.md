@@ -23,13 +23,13 @@ Back in January 2024 Andrew mentioned that a friend of his was looking to off-lo
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-video-compilation-vhs.jpg" "Galaxie 500 video compilation VHS" %}
 
-As I've mentioned before I am currently without a VHS machine and so have been unable to watch them when they turn up in this series - I will maybe revisit them when I find a decent and cheap charity shop player. Fortunately this has nothing that hasn't already found it into the digital realm.
+I have to admit that I sometimes get these posts ready ahead of time... and  had started to write this one before I'd bought that [charity shop VHS player](/2025/07/03/video-galaxie-500-at-subterania-27th-june-1990/) and so am now having to re-write this one... while sitting and actually watching it - so I can now accurately report what is on the tape.
 
 As listed on the photocopied sleeve the three shows are:
 
     Live at the University of london (U. L. U.) 13.6.90. Superb Quality - Full concert 70m.
 
-This was such _superb quality_ that it got officially released on the [Don't Let Our Youth Go to Waste DVD](/2024/11/11/my-record-collection-187-don-t-let-our-youth-go-to-waste-dvd/) a few years back. It also might have [put in an appearance in this series on a VHS](/2025/01/30/my-record-collection-galaxie-500-university-of-london-6-3-90/) before, but no VHS player meant I couldn't be sure. I was at this gig... there was [no booing](/2025/08/07/my-record-collection-galaxie-500-this-is-our-music-japanese-cd/)!
+This was such _superb quality_ that it got officially released on the [Don't Let Our Youth Go to Waste DVD](/2024/11/11/my-record-collection-187-don-t-let-our-youth-go-to-waste-dvd/) a few years back. It also might have [put in an appearance in this series on a VHS](/2025/01/30/my-record-collection-galaxie-500-university-of-london-6-3-90/) before, but no VHS player when I wrote that meant I couldn't be sure. I was at this gig... there was [no booing](/2025/08/07/my-record-collection-galaxie-500-this-is-our-music-japanese-cd/)!
 
 {% ahfowvideo "OyE2yVDq_f0" "Galaxie 500 - ULU - 15th November 1990" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-ulu-dvd-cap.jpg" %}
 
@@ -45,22 +45,7 @@ This was actually supporting The Sundays, it seems Birdland played the same venu
 
     Live at Subteranea, London 27.6.90, Full concert 70 minutes.
 
-Another show I was at and [wrote up for my Substack a couple of months back](https://aheadfullofwishes.substack.com/p/galaxie-500-at-the-subterania-27th) about how it changed my life!
-
-<blockquote>
-<p>The Subterania was a club located underneath the Westway in west London. Most gigs around then were happening in north London or the West End so it was nice having a venue a little closer to home so we saw quite a few gigs there over the years (although I somehow managed to not see Galaxie 500’s first gig there the previous year).</p>
-
-<p>To be honest I can’t really remember the specifics of Galaxie 500’s set, but, main set over, at approx 22:30 Galaxie 500 returned to the stage for an encore, they were joined by Kramer and played Ceremony, followed by Don’t Let Our Youth Go To Waste. I was mesmerised.</p>
-</blockquote>
-<p class="caption"><a href="https://aheadfullofwishes.substack.com/p/d50ef4d1-9349-46eb-8b23-b252d075ac6b">SUBSTACK: Galaxie 500 at The Subterania - 27th June 1990</a></p>
-
-Since I don't have a VHS player I can't check this out - the video on YouTube that claims to be from the Subterania show is actually from the Manchester show the night before - so I suspect that this might be that - although... that video is incomplete and only 50 minutes long and this claims to be 70 minutes long. 
-
-Now, The Subterania had a balcony that wasn't often open (in my experience) but at one gig - and I _think_ it was this one - Ken and I managed to get upstairs even though we shouldn't have, and there were a couple of lads setting up a video recorder so I suspect that there is a recording of that gig somewhere - we were ushered down pretty quickly. I also remember being at Camden Market not long after this gig and seeing, but crazily not buying, a Galaxie 500 bootleg video (although it could easily have been the Manchester show).
-
-Maybe the elusive video of Galaxie 500 at The Subterania is the one on this tape!? I suspect not.
-
----
+This is actually the Manchester show that has been shared incorrectly as the London one before - I posted what is probably/hopefully the [actual Subterania show](/2025/07/03/video-galaxie-500-at-subterania-27th-june-1990/) a couple of months back.
 
  - *Catalogue Number:* AHFOW 13/021
  - *Artist:* Galaxie 500
@@ -70,5 +55,5 @@ Maybe the elusive video of Galaxie 500 at The Subterania is the one on this tape
  - *Format:* VHS
 
 Previously in [my record collection](/category/my-record-collection):
- - [[182] Galaxie 500 live in London 1990 (VHS)](http://moonshot.local:4040/2024/09/30/my-record-collection-175-galaxie-500-at-ulu-vhs/)
+ - [[182] Galaxie 500 live in London 1990 (VHS)](/2024/09/30/my-record-collection-175-galaxie-500-at-ulu-vhs/)
 
