@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/radio-free-steve-dvd.jpg
 categories:
 - luna
 - my record collection
@@ -18,7 +18,7 @@ tags:
 ---
 In 2008 I came across a post on "mixtape sharing" website Mixwit that offered a Luna "starting point" and as well as lots of the familiar and the expected was listed a song called Westbound and Down that meant nothing to me. My first thought was that it was not going to be _our_ Luna, but no - that was clearly Dean's voice there.
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/radio-free-steve-dvd.jpg" "'Radio Free Steve' DVD" %}
 
 I posted to the mailing list to see what I could find out and a couple of folk recognised the song as a re-working of [Eastbound and Down from Smokey and The Bandit](https://www.youtube.com/watch?v=U1wvnJ22V1Q). Sean then got in touch with me to fill in some details:
 
@@ -37,3 +37,16 @@ My copy arrived and, because I trusted people it remained in its cellophane wrap
 "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/luna-westbound-and-down.mp3",
 "audiocap": "Luna - Westbound and Down"
 } %}
+
+... OK, I think watching twelve minutes of this juvenile nonsesne is as much as I'm willing to give to this series. It looks awful, it sounds awful, and even after twelve minutes I could see that it was a bloody mess and going nowhere. I skipped to the end, briefly heard Luna's contribution and it is now back in its box just another _artefact_ in my AHFoW collection.
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-westbound-and-down-credit-radio-free-steve.jpg" "Luna credit on 'Radio Free Steve'" %}
+
+I know I ignored some very trustworthy people and decided to try and watch this film but now I'll add my voice to theirs. If you get the chance to see this... find something else to do... anything else.
+
+ - *Catalogue Number:* AHFOW 13/019
+ - *Title:* Radio Free Steve
+ - *Notes:* Feature film
+ - *Packaging:* DVD case
+ - *Format:* DVD
+ - Sent to me as a 'gift'.
