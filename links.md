@@ -7,7 +7,12 @@ title: Links
 {% include post_list.html limit=3 %}
 
  - [Read the latest A Head Full of Wishes post on Substack](https://aheadfullofwishes.substack.com/)
- - [Now we're gonna take a trip out to the universe - Galaxie 500 - Roskilde 90](https://www.fullofwishes.co.uk/2009/08/15/mp3-now-were-gonna-take-a-trip-out-to-the-universe/)
+
+### This week in the past
+ - 22nd July 2010 - [Video: Dean & Britta play two of their 13 Most Beautiful](https://www.fullofwishes.co.uk/2021/06/16/video-dean-and-britta-13mb/)
+ - 23rd July 2022 - [Review: Dean Wareham in London, Worthing and Newcastle](https://www.fullofwishes.co.uk/2022/07/30/dean-wareham-in-london-worthing-and-newcastle/)
+ - 24th July 2011 - [Dean Wareham plays Galaxie 500 at Truck Festival](https://www.fullofwishes.co.uk/2011/07/26/dean-wareham-plays-galaxie-500-at-truck-festival/)
+ - 25th July 2020 - [Review: Dean & Britta in their living room](https://www.fullofwishes.co.uk/2020/07/26/review-dean-and-britta-livestream/)
 
 ### Other links
 <ul>
