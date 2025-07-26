@@ -9,10 +9,10 @@ title: Links
  - [Read the latest A Head Full of Wishes post on Substack](https://aheadfullofwishes.substack.com/)
 
 ### This week in the past
- - 22nd July 2010 - [Video: Dean & Britta play two of their 13 Most Beautiful](https://www.fullofwishes.co.uk/2021/06/16/video-dean-and-britta-13mb/)
- - 23rd July 2022 - [Review: Dean Wareham in London, Worthing and Newcastle](https://www.fullofwishes.co.uk/2022/07/30/dean-wareham-in-london-worthing-and-newcastle/)
- - 24th July 2011 - [Dean Wareham plays Galaxie 500 at Truck Festival](https://www.fullofwishes.co.uk/2011/07/26/dean-wareham-plays-galaxie-500-at-truck-festival/)
  - 25th July 2020 - [Review: Dean & Britta in their living room](https://www.fullofwishes.co.uk/2020/07/26/review-dean-and-britta-livestream/)
+ - 26th July 2014 - [Dean Wareham at Indietracks](https://www.fullofwishes.co.uk/2014/07/30/dean-wareham-indietracks-round/)
+ - 28th July 2022 - [Dean Wareham in Newcastle](https://www.fullofwishes.co.uk/2022/07/30/dean-wareham-in-london-worthing-and-newcastle/)
+ - 30th July 2015 - [Luna in Brighton](https://www.fullofwishes.co.uk/2015/07/31/luna-and-flowers-at-sticky-mikes-in-brighton/)
 
 ### Other links
 <ul>

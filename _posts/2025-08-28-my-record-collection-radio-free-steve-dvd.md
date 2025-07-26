@@ -29,7 +29,7 @@ I posted to the mailing list to see what I could find out and a couple of folk r
 </blockquote>
 <p class="caption">Email from Sean Eden, 18th August 2008</p>
 
-A year later Elaine got in touch and said that Kiek had bought a copy for himself and one for me. It was duly sent over but with the advice that I really shouldn't watch it since it was particularly bad. Around the same time someone else got in touch to say that they had seen the film and also advised that I shouldn't watch it!
+A year later Elaine got in touch and said that Kiek had bought a copy of the film on DVD for himself, and one for me. It was duly sent over but with the advice that I really shouldn't watch it since it was particularly bad. Around the same time someone else got in touch to say that they had seen the film and also advised that I shouldn't watch it!
 
 My copy arrived and, because I trusted people it remained in its cellophane wrapper unwatched... for sixteen years! But now, because I said I'd listen to (and watch) everything while doing this series it's about to come out of its wrapper... I'll see you on the other side! In the meantime you can at least listen to Luna's Westbound and Down...
 
