@@ -89,5 +89,13 @@ We had five more Indietracks before the festival fell victim to COVID, never to 
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/hazel-and-adam-enjoying-indietracks-2015.jpg" "We loved every minute! (Adam and Hazel, Indietracks 2015)" %}
 
+I'd invariably take my sketchbook to Indietracks and scribble postcards of varying quality, here are a few of my better watercolour postcard sketches from the last festival in 2019 - as you can see this year we had the weather that we'd become more accustomed to over the years.
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/the-end-of-indietracks-2019.jpg" "The end of Indietracks (watercolour sketch 2019)" %}
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/les-parapluies-d-indietracks.jpg" "Les parapluies d'Indietracks (watercolour sketch 2019)" %}
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/indietracks-2019-postcards.jpg" "Indietracks postcards (watercolour skectches 2019)" %}
+
 In a few weeks time Dean & Britta are playing at Sea Power's Krankenhaus Festival in Cumbria. It's a festival I've often thought might fill the Indietrakcs-sized whole in our life ~ this year we're going to find out.
 
