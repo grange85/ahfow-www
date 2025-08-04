@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "[274] Galaxie 500 - This Is Our Music (Video Arts Japan CD)"
-date: 2025-08-07 00:00 +0000
+title: "[282] Galaxie 500 - This Is Our Music (Video Arts Japan CD)"
 sitemap: true
 comments: true
 series-title: My record collection
@@ -18,6 +17,7 @@ categories:
 tags:
 - this is our music
 - video arts japan
+date: 2025-09-04 00:00 +0000
 ---
 And so to the NINTH copy of Galaxie 500's _This Is Our Music_, this is the last in the set of four CDs released by Video Arts Japan in 2008 in lovely card sleeves.
 
