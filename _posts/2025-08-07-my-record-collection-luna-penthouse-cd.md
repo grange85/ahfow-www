@@ -17,7 +17,7 @@ tags:
 - penthouse
 - on this day
 ---
-Luna's masterpiece 3rd LP Penthouse was released in the US on the 8th August 1995 which means that this week is its 30th anniversary... it surely can't be that long! This is my CD copy of the album that was the first copy I owned and therefore got an awful lot of play!
+Luna's masterpiece 3rd LP Penthouse was released in the US&dagger; on the 8th August 1995 which means that this week is its 30th anniversary... it surely can't be that long! This is my CD copy of the album that was the first copy I owned and therefore got an awful lot of play!
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-penthouse-cd-1995.jpg" "Luna - Penthouse (CD)" %}
 
@@ -61,3 +61,4 @@ The album, famously, turns up in [Rolling Stone's 100 best albums of the 90s](ht
 Previously in [my record collection](/category/my-record-collection):
  - [[018] Luna - Penthouse (deluxe 2xLP)](/2023/03/20/my-record-collection-018-luna-penthouse-deluxe-2xlp/)
 
+_&dagger; - While back then US albums were released on Tuesdays, albums in the UK were always released on a Monday so it's likely that Penthouse was released on either the 7th or the 14th August - the fact that the two reviews from the UK inkies were in editions dated 12th August (and therefore published on the 9th) I'd be inclined to guess the 7th (so they were already in the shops when the reviews came out)._
