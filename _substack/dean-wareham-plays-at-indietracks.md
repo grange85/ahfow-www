@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dean Wareham plays at Indietracks
+title: Substack / 29th July 2025 / Dean Wareham plays at Indietracks
 date: 2025-07-29 00:00 +0000
 series-title: Substack
 author:

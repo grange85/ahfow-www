@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On pre-order
+title: Substack / 5th August 2025 / On pre-order
 date: 2025-08-05 00:00 +0000
 series-title: Substack
 author:

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Travelling to see bands
-date: 2026-07-18 00:00 +0000
+title:  Substack / / Travelling to see bands
+draft: true
+date: 
 series-title: Substack
 author:
   display_name: Andy

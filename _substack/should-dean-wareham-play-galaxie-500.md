@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Should Dean Wareham play Galaxie 500?
-date: 2025-09-11 00:00 +0000
+title: Substack / 15th July 2025 / Should Dean Wareham play Galaxie 500?
+date: 2025-07-15 00:00 +0000
 series-title: Substack
 author:
   display_name: Andy
