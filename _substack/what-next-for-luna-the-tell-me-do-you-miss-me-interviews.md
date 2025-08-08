@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What next for the members of Luna?
+title: Substack / / What next for the members of Luna?
 published: false
 date: 2100-01-01
 series-title: Substack
