@@ -23,13 +23,13 @@ Back in January 2024 Andrew mentioned that a friend of his was looking to off-lo
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-video-compilation-vhs.jpg" "Galaxie 500 video compilation VHS" %}
 
-I have to admit that I sometimes get these posts ready ahead of time... and  had started to write this one before I'd bought that [charity shop VHS player](/2025/07/03/video-galaxie-500-at-subterania-27th-june-1990/) and so am now having to re-write this one... while sitting and actually watching it - so I can now accurately report what is on the tape.
+I have to admit that I sometimes get these posts ready ahead of time... and  had started to write this one before I'd bought that [charity shop VHS player](/2025/07/03/video-galaxie-500-at-subterania-27th-june-1990/) and so am now having to re-write it... while sitting and actually watching it - so I can now accurately report what is on the tape.
 
 As listed on the photocopied sleeve the three shows are:
 
     Live at the University of london (U. L. U.) 13.6.90. Superb Quality - Full concert 70m.
 
-This was such _superb quality_ that it got officially released on the [Don't Let Our Youth Go to Waste DVD](/2024/11/11/my-record-collection-187-don-t-let-our-youth-go-to-waste-dvd/) a few years back. It also might have [put in an appearance in this series on a VHS](/2025/01/30/my-record-collection-galaxie-500-university-of-london-6-3-90/) before, but no VHS player when I wrote that meant I couldn't be sure. I was at this gig... there was [no booing](/2025/08/07/my-record-collection-galaxie-500-this-is-our-music-japanese-cd/)!
+This was such _superb quality_ that it got officially released on the [Don't Let Our Youth Go to Waste DVD](/2024/11/11/my-record-collection-187-don-t-let-our-youth-go-to-waste-dvd/) a few years back. It also might have [put in an appearance in this series on a VHS](/2025/01/30/my-record-collection-galaxie-500-university-of-london-6-3-90/) before, but no VHS player when I wrote that meant I couldn't be sure. I was at this gig.
 
 {% ahfowvideo "OyE2yVDq_f0" "Galaxie 500 - ULU - 15th November 1990" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-ulu-dvd-cap.jpg" %}
 
