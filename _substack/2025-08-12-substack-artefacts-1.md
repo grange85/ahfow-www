@@ -18,25 +18,19 @@ A few years ago I posted a series looking at some of the memorabilia I had accum
 
 ---
 
-## Letter from Naomi, July 1997
+## Damon & Naomi tenugui
 
-{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/48140164382_c699fcf600_b.jpg" "Letter from Naomi Yang - July 1997" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/47984555773_4cdd4692c5_c.jpg" "Damon &amp; Naomi tenugui" %}
 
-Back in 1997, in the wake of [the heartbreaking Ptolemaic Terrascope interview](http://www.terrascope.co.uk/MyBackPages/Damon_and_Naomi.htm), I wrote a fan letter to Damon & Naomi. To be honest I can't remember if this was a real letter or an email. In my head it was a real letter with a stamp and everything. But that maybe the romantic in me trying to convince myself that I'd written a proper, old fashioned fan letter.
+These very limited Damon & Naomi tenugui were sold on their _Lost Gaijin tour_ of Japan at the tail of 2009 - I was lucky enough to have been sent one by Naomi that for a while looked like it had gone astray in the postal system. It arrived in February 2010 - I tried it out but I looked a bit <a href="https://flic.kr/p/7Ah21G">too much like a biker</a> for it to get regular use! 
 
-For the sake of argument let's assume that it was real.
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/47988799176_5e59d42926_h.jpg" "Damon &amp; Naomi Lost Gaijin Tour flyer (2009)" %}
 
-This was, I'm fairly certain, the first fan letter I'd written to anyone. I had previously joined the Motorheadbangers fan club but don't remember ever sending Lemmy a gushing letter.
+The tenugui did briefly get called into use as a face mask during COVID.
 
-The response I got was this lovely, and very real, letter from Naomi where she touches on the PT interview, and the first Terrastock festival.
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/damon-and-naomi-tenugui.jpg" "Damon &amp; Naomi tenugui (unfolded)" %}
 
-There's more beneath the envelope but... I need some secrets. 
-
-The last line read:
-
-> Congratulations on your new baby
-
-That new baby graduated from university in 2019.
+I'm rather puzzled how faded it has become since it has spent most of its life in its paper wrapper in a folder... I guess I must have left it out for a while?
 
 ---
 
@@ -59,7 +53,7 @@ I made my excuses as soon as I felt it was polite, and left.
 
 ---
 
-## Kitten Frenzy no.2"
+## Kitten Frenzy no.2
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/kitten-frenzy-fanzine.jpg" "Kitten Frenzy no.2 cover" %}
 
