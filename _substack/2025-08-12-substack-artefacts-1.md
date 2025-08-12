@@ -72,5 +72,5 @@ I'm not sure how this came into my collection (I certainly didn't buy it at the 
 
 I took the opportunity of reprinting (with permission) these in the Everything's Swirling 'zine in 2017.
 
-{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/36478301371_f2a2545416_c.jpg" "Everything's Swirling - 2017" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/everythings-swirling-1-kitten-frenzy.jpg" "Everything's Swirling - 2017" %}
 
