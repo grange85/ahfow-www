@@ -28,7 +28,7 @@ So, for a long time I never really gave much thought to _Eugene Atget_. Things l
 
 Eugene Atget was a pioneer of photography who worked in the late 19th and early 20th century in Paris and was dead long before he could be commissioned to photograph for album covers. He took thousands of photographs of Paris and was considered a _documentary photographer_ - taking photographs to provide an archive of the architecture and life of Paris, and also would suuply photographs for artists such as painters and stage designers. As such his work only became recognised as _art_ after his death in 1927.
 
-There is a lot of Eugene Atget's photographs online - [MoMA has 2,914 of his photos online](https://www.moma.org/artists/229-eugene-atget) and, after a little digging around I managed to track down the one that Naomi picked to use on Today:
+There is a lot of Eugene Atget's photographs available - [MoMA has 2,914 of his photos online](https://www.moma.org/artists/229-eugene-atget) and, after a little digging around I managed to track down the one that Naomi picked to use on Today:
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/eugene-atget-bagatelle-roseraie-1921.jpg" "Eugene Atget - Bagatelle, roseraie. 1921" "https://www.moma.org/collection/works/43369" %}
 
