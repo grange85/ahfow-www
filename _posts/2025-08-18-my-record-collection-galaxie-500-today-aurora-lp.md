@@ -22,7 +22,7 @@ The last credit on the back of Galaxie 500's debut album Today reads "Photograph
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-aurora-lp.jpg" "Galaxie 500 - Today (Aurora LP)" %}
 
-So, for a long time I never really gave much thought to _Eugene Atget_. Things like _was he a friend of the band?_ or _what other albums covers he might have taken photos for?_ just didn't cross my mind. But that all changed with the coming of the Internet, suddenly the urge to know everything can be satisfied - and those questions can now fairly easily be answered - for those two the answers are "no" and "none, because he didn't even take the photo _for_ this album".
+So, for a long time I never really gave much thought to _Eugene Atget_. Things like _was he a friend of the band?_ or _what other albums covers he might have taken photos for?_ just didn't cross my mind. But that all changed with the coming of the Internet, suddenly the urge to know everything can be satisfied - and those questions can now fairly easily be answered - for those two the answers are "no" and "none", because he didn't even take the photo _for_ this album".
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-aurora-lp-credits.jpg" "Today credits" %}
 
