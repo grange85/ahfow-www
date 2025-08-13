@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dean Wareham - I Have Nothing to Say to The Mayor of LA
+title: "[279] Dean Wareham - I Have Nothing to Say to The Mayor of LA"
 date: 2025-08-25 00:00 +0000
 series-title: My record collection
 catno: 12/086

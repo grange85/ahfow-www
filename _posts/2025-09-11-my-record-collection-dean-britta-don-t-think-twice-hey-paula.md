@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dean / Britta - Don''t Think Twice... / Hey Paula'
+title: '[284] Dean / Britta - Don''t Think Twice... / Hey Paula'
 series-title: My record collection
 catno: 11/059
 author:

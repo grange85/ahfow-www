@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dean Wareham - Love is Colder Than Death (7" test pressing)'
+title: '[281] Dean Wareham - Love is Colder Than Death (7" test pressing)'
 date: 2025-09-01 00:00 +0000
 series-title: My record collection
 catno: 11/041

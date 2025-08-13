@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This Music Is Ours (CDr & booklet)
+title: "[278] This Music Is Ours (CDr & booklet)"
 date: 2025-08-21 00:00 +0000
 sitemap: true
 comments: true

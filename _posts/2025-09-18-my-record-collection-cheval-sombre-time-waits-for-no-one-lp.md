@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cheval Sombre - Time Waits For No One (LP)'
+title: '[286] Cheval Sombre - Time Waits For No One (LP)'
 date: 2025-09-18 00:00 +0000
 series-title: My record collection
 catno: 12/090

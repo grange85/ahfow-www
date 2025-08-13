@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Luna - A Sentimental Education (LP)'
+title: '[285] Luna - A Sentimental Education (LP)'
 date: 2025-09-15 00:00 +0000
 series-title: My record collection
 catno: 12/059

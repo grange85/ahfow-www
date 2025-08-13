@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Radio Free Steve (DVD)
+title: "[280] Radio Free Steve (DVD)"
 date: 2025-08-28 00:00 +0000
 series-title: My record collection
 catno:

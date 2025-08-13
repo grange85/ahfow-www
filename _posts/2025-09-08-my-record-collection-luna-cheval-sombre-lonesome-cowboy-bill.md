@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Luna / Cheval Sombre - Lonesome Cowboy Bill'
+title: '[283] Luna / Cheval Sombre - Lonesome Cowboy Bill'
 date: 2025-09-08 00:00 +0000
 series-title: My record collection
 catno: 11/070

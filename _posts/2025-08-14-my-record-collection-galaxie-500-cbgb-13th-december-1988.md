@@ -37,11 +37,11 @@ My copy is described as having "ultra clear and black 'cloudy' vinyl" - it is ac
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-cbgb-13th-december-1988-vinyl-mess.jpg" "Vinyl close-up" %}
 
-The album is however fantastic. I've had a bootleg of this show for quite a long time - taken from this source - but this sounds so much clearer, and it is a treat to hear the band so early in their career (this is to my knowledge one of only two shows from 1988 available - the other from [Boston a few days later](/2023/08/17/my-record-collection-061-galaxie-500-unreleased-sessions-and-live-at-the-rat/).
+The album is however fantastic. I've had a bootleg of this show for quite a long time - taken from this source - but this sounds far, far superior and it is a treat to hear the band so early in their career - this is to my knowledge one of only two shows from 1988 available - the other from [Boston a few days later](/2023/08/17/my-record-collection-061-galaxie-500-unreleased-sessions-and-live-at-the-rat/).
 
 You may have noticed how I'm obsessively mis-naming this album, in titles and in filenames. I'm sorry but I can't bring myself to use the ridiculous date scheme that's been chosen - if you want more details there's a [footnote on an earlier post](/2025/06/10/new-galaxie-500-official-bootleg-up-for-pre-order/) that explains why. I have conceded (although through gritted teeth) and given it the _official_ title [in the discography](/database/galaxie-500/releases/cbgb-12-13-88/).
 
-Thanks so much to Ethan at Silver Current Records for convincing the band to release this, and for doing it in such a nice package (except for the vinyl colour), and I look forward to whatever is found next down the back of the Galaxie 500 sofa!
+When I thanked Naomi for putting it out she said I should thanks Ethan at Silver Current Records so... thank you Ethan for convincing the band to let you release this, and for doing it in such a nice package (except for the vinyl colour), and I look forward to whatever is found next down the back of the Galaxie 500 sofa!
 
  - *Catalogue Number:* AHFOW 12/111
  - *Artist:* Galaxie 500
