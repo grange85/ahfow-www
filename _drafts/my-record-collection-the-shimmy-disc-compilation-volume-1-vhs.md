@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "[276] The Shimmy Disc Compilation Volume 1 (VHS)"
-date: 2025-08-14 00:00 +0000
+title: "[287] The Shimmy Disc Compilation Volume 1 (VHS)"
 sitemap: true
 comments: true
 series-title: My record collection
@@ -18,7 +17,7 @@ categories:
 tags:
 - shimmy disc
 ---
-The second VHS in a row, and now that I [actually have a VHS player](/2025/07/03/video-galaxie-500-at-subterania-27th-june-1990/) I can sit down and watch... although, of course because someone has been kind enough to digitise the whole thing and [pop it onto YouTube](https://www.youtube.com/watch?v=aULilR7TS6c) - it's easier to do that.
+Another VHS, and now that I [actually have a VHS player](/2025/07/03/video-galaxie-500-at-subterania-27th-june-1990/) one I can actually sit down and watch... although, of course because someone has been kind enough to digitise the whole thing and [pop it onto YouTube](https://www.youtube.com/watch?v=aULilR7TS6c) - it's easier to do that.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/shimmy-disc-video-compilation-vol-1-vhs.jpg" "The Shimmy Disc Compilation Volume 1 (VHS)" %}
 
