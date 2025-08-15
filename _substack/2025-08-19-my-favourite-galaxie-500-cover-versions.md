@@ -16,11 +16,13 @@ tags:
 ---
 Tomorrow evening Dean Wareham will be playing a show supporting Sea Power and billed as "Dean Wareham and Sea Power play songs of Galaxie 500" - this is a warm up for their set at Sea Power's [Krankenhaus Festival](https://krankenhausfestival.com/) which is taking place this weekend at a castle in Cumbria.
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/misc/krankenhaus-festival-2025.jpg" "Krankenhaus 2025 lineup" %}
 
 Back in 2003 Sea Power, then known as British Sea Power, released a cover of Galaxie 500's Tugboat for a Rough Trade compilation album, and have periodically been throwing it into their sets ever since - they also released a cover of Strange on the extended deluxe edition of their first album [The Decline of British Sea Power](https://en.wikipedia.org/wiki/The_Decline_of_British_Sea_Power) so, while it was a lovely surprise to hear that this was happening, it was perhaps not _that much of a surprise_!
 
-Sea Power's Tugboat is beautiful and, since I've loved Sea Power from back when they were 'British', I am really looking forward to tomorrow night, and to seeing them do it again at the festival on Saturday!
+Sea Power's Tugboat is beautiful and, since I've loved Sea Power from back when they were 'British', I am really looking forward to tomorrow night, and to seeing them do it again at the festival on Friday!
+
+https://www.youtube.com/watch?v=PM9fqFOMWt8
 
 Back in the run up to Christmas 2016 I made a series of posts called _My favourite Galaxie 500 covers_ - these weren't _really_ my favourites, I didn't spend any time analysing, and one made it into the list because the artist fished for a place! :-).
 
@@ -29,9 +31,9 @@ Here's how I explained my reasoning:
 <blockquote>
 For a little idleness in the run up to the end of the year I thought I'd just post some of my favourite cover versions of Galaxie 500 songs. Now, I love covers of Galaxie 500 songs - I pretty much love them all, even when they're not that great, because a band choosing to cover Galaxie 500 already endears me to them. The ones in this series might not be the best, and I'll certainly leave out covers I love more, but they are generally ones that when I hear them they make me feel good for all sorts of reasons.
 </blockquote>
-<p class="caption"><a href="https://www.fullofwishes.co.uk/2016/11/11/my-favourite-galaxie-500-covers-1-hefner-oblivious/">My favourite Galaxie 500 covers #1</a></p>
+<p class="caption"><a href="https://www.fullofwishes.co.uk/2016/11/11/my-favourite-galaxie-500-covers-1-hefner-oblivious/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20250819">My favourite Galaxie 500 covers #1</a></p>
 
-So, ahead of tomorrow's show I thought I'd revisit my "favourites" and maybe throw in one or two more... depeding how long this post gets! There is no order to this and I'm certain to miss things out that I'll regret omitting the minute I hit "publish". It's worth noting that my posts were made before the [20+ covers project](https://www.fullofwishes.co.uk/2020/08/03/twenty-galaxie-500-covers-for-2020/) that accompanied Galaxie 500's RSD Copenhagen release. I'd be interested to know what you think I might have missed out!
+So, ahead of tomorrow's show I thought I'd revisit my "favourites" and maybe throw in one or two more... depending how long this post gets! There is no order to this and I'm certain to miss things out that I'll regret omitting the minute I hit "publish". It's worth noting that my posts were made before the [20+ covers project](https://www.fullofwishes.co.uk/2020/08/03/twenty-galaxie-500-covers-for-2020/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20250819) that accompanied Galaxie 500's RSD Copenhagen release. I'd be interested to know what you think I might have missed out!
 
 ## Hefner - Oblivious
 
@@ -41,9 +43,11 @@ Hefner were a band I sort of missed at the time - I knew of them, but somehow ma
 
 Their cover of Oblivious is a sort of reminder of my carelessness - it's a beautiful cover, and with Darren's voice berating me for just how ridiculously misguided I was to ignore them. And, as if it hasn't sucked me in enough it has a gorgeous Formbyesque uke strum&dagger; in the close out.
 
-Hefner split up shortly after I discovered that they weren't the band I thought they were but Darren has never stopped making reocrds, and is tirelessly imaginitive in his inspiration - from outdoor swimming pools, to dogs in space, from London's failed Eiffel Tower to Thankful Villages. All worth a listen and a few quid! As is [so much of the stuff he has on Bandcamp](https://darrenhayman.bandcamp.com/).
+Hefner split up shortly after I discovered that they weren't the band I thought they were but Darren has never stopped making records, and is tirelessly imaginative in his inspiration - from outdoor swimming pools, to dogs in space, from London's failed Eiffel Tower to Thankful Villages. All worth a listen and a few quid! As is [so much of the stuff he has on Bandcamp](https://darrenhayman.bandcamp.com/).
 
 The cover of Oblivious first appeared on [Elefant's Snowstorm: A Tribute to Galaxie 500](https://elefantrecords.bandcamp.com/album/snowstorm-a-tribute-to-galaxie-500) - a splendid double CD tribute album that appeared in 2001 and was more recently released on the [expanded edition of Hefner's debut album Breaking God's Heart](https://darrenhayman.bandcamp.com/album/breaking-gods-heart-expanded-edition) - which can be had for just a tenner - forty songs, including this one for £9.99!
+
+_&dagger; -  All uke strumming is Formbyesque btw - no matter how contemporary you try and make it all I see is [sweet George strumming and gurning](https://youtu.be/VypRHitKnWk)._
 
 ---
 
@@ -118,7 +122,7 @@ A few hours later I came across the page still waiting patiently in my browser t
 
 There are a few clips of them doing the cover live, including this sweet acoustic version as a duo:
 
-{% ahfowvideo "ycIxWf-v8N0" "Las Ligas Menores - Fotos" %}
+https://www.youtube.com/watch?v=ycIxWf-v8N0
 
 ---
 
@@ -132,7 +136,7 @@ That anyone should choose a Galaxie 500 cover was a treat and being able to see 
 
 I nabbed a bit of software that enabled me to download the Flash stream and it lived on my computer for a few years, and then on a post on my blog for a while before it vanished - seemingly lost forever.
 
-In the ten years since it went AWOL Rainer Maria's cover of Hearing Voices started acquiring a sort of mythical status - possibly a great lost track, possibly the greatest of Galaxie 500 covers? Most things turn up on YouTube eventually - but Spin's videos haven't and my periodic searches for it came to nothing - all I could ever find to prove that it ever existed at all was on my own web site.
+In the ten years since it went AWOL Rainer Maria's cover of Hearing Voices started acquiring a sort of mythical status in my head - possibly a great lost track, possibly the greatest of Galaxie 500 covers? Most things turn up on YouTube eventually - but Spin's videos haven't and my periodic searches for it came to nothing - all I could ever find to prove that it ever existed at all was on my own web site.
 
 The Internet Archive/Wayback Machine - is a remarkable thing doing an amazing job - it's preserving our modern history when others (like myself) aren't doing it as well as they should. A bit of digging and I came across it - my hunt was hampered slightly by the fact that at some point I'd wrongly named the file as a cover of Plastic Bird.
 
@@ -144,7 +148,7 @@ Maybe absence did make this heart grow fonder, but coming as it did, in the days
 
 _And, that's where my original series ended, but here are a few other covers I love, although, like I said above I do pretty much love all Galaxie 500 covers!_
 
-_Now, Tugboat is very popular, so much so that I have a post which collects [over twenty covers](https://www.fullofwishes.co.uk/articles/a-fleet-of-tugboats/) and since the first of the arbitrary rules in my 2016 series I mentioned above was **no Tugboats** I'm going to make amends and pick a couple here,_
+_Now, Tugboat is very popular, so much so that I have a post which collects [over twenty covers](https://www.fullofwishes.co.uk/articles/a-fleet-of-tugboats/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20250819) and since the first of the arbitrary rules in my 2016 series I mentioned above was **no Tugboats** I'm going to make amends and pick a couple here,_
 
 
 ## Joanna Gruesome - Tugboat
@@ -152,6 +156,8 @@ _Now, Tugboat is very popular, so much so that I have a post which collects [ove
 https://indietracks.bandcamp.com/track/tugboat
 
 Joanna Gruesome's cover is still one of my favourites. Before it turned up on the flip of their [Sugarcrush single](https://www.discogs.com/release/5015094-Joanna-Gruesome-Sugarcrush) there had been live versions turning up quite regularly on YouTube. Damon even expressed his pleasure ["I think they got our primitivism - Thank you @JOANNAGRUESOME"](https://x.com/dada_drummer/status/400720336989483008). And, as I mentioned in [a Substack post a few weeks back](https://aheadfullofwishes.substack.com/p/from-the-archive-dean-wareham-at) Dean joined them on-stage at Indietracks to sing it with them.
+
+https://www.youtube.com/watch?v=1bnSlMPFLzs
 
 ## BMX Bandits with Angel Corpus Christi - Tugboat
 
