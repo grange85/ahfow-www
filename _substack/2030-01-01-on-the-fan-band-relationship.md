@@ -122,11 +122,11 @@ Of course it has marketing and PR benefits - I have no idea, and no way of measu
 A while back I got into a discussion with Justin Harwood (LUNA’s first bassist) about how the industry has changed and he said that what has changed is that music became easy to get - that in the past fans had to “pan for gold” and the artist could see and appreciate the effort that a fan makes:
 
 <blockquote>
-In “the old days” intrinsic value was added to music because it was like panning for gold. You would stay up and listen to Peel, or you would go to the store every tuesday morning and read what Everett True thought was worthy of his ears, or you had to wait until your brother was out to play his vinyl. Or you would go to Other Music, or Reckless Records with $50 in your pocket and have to make a decision.
+<p>In “the old days” intrinsic value was added to music because it was like panning for gold. You would stay up and listen to Peel, or you would go to the store every tuesday morning and read what Everett True thought was worthy of his ears, or you had to wait until your brother was out to play his vinyl. Or you would go to Other Music, or Reckless Records with $50 in your pocket and have to make a decision.</p>
+
+<p>That effort, that decision, that ownership, made the music a valuable commodity.</p>
 </blockquote>
 <p class="caption">Justin Harwood (200?)</p>
-
-That effort, that decision, that ownership, made the music a valuable commodity.
 My response was that fans still did that, in different ways, and that the “gold” might be different - but fans are still there and still making the effort.
 
 I'm not smart enough to go into any great detailed analysis of the fan/artist relationship but fortunately that has been well done by Nancy Baym in here book [Playing to The Crowd](https://nyupress.org/9781479821587/playing-to-the-crowd/) although the book is very much discussing the artists perspective on that relationship (which of course is something I have no insight into).
@@ -146,26 +146,29 @@ When AHFoW launched there was no _official_ resource on the web for Galaxie 500 
 </blockquote>
 <p class="caption"><a href="https://www.fullofwishes.co.uk/2024/05/01/my-uncut-terrascopaedia-interviews-1-damon-and-naomi/">Damon Krukowski - Terrascopaedia #13</a></p>
 
-But they never actively tried to "terratorialize" and for the most part were (and still are) happy to just let it run it's own course. They did of course start to keep me "in the loop" - sending me tour dates, news of upcoming releases, and sometimes promo material. But they never really tried to wrest control of it, and only once in my memory was I asked to change anything.
-
 Obviously once the artists started having _official_ websites the relationship changed, but barely.
 
-Luna first launched an _official_ website in February 1997 although it never really got going - the web developers literally lifted the code from my site and plopped it into theirs, without asking and without any credit. When I pointed this out to them I was assured that they "intend to give you full credit when the site is officially launched and no longer under construction" - the site never got beyond "under construction" and quietly disappeared. To be replaced by the wonderful, and much missed FuzzyWuzzy which launched in 1998.
+**Galaxie 500**'s first _official_ website was the [one created by Jen Matson for the Box Set release in 1996](https://static.fullofwishes.co.uk/galaxie500box/).
+
+**Luna** first launched an _official_ website in February 1997 although it never really got going - the web developers literally lifted the code from my site and plopped it into theirs, without asking and without any credit. When I pointed this out to them I was assured that they "intend to give you full credit when the site is officially launched and no longer under construction" - the site never got beyond "under construction" and quietly disappeared. To be replaced by the wonderful, and much missed FuzzyWuzzy which launched in 1998.
 
 FuzzyWuzzy was Justin Harwood's baby and was gloriously irreverant, and beautifully amateurish. 
 
-For the first time the band was using the web to try and build a relationship with the fans - they invited fans to engage with them ("ask Lee, he knows") and kept the fans up-to-date with tour dates and release news. They also provided a link from their site to mine!
+For the first time the band was using the web to try and build a relationship with the fans - they invited fans to engage with them ("ask Lee, he knows") and kept the fans up-to-date with tour dates and release news. More crucially though this was the band doing it so it felt more like a genuine attempt at engagement with the fans as people rather than as a revenue stream.
 
+They also provided a link from their site to mine!
+
+**Damon & Naomi**'s first web sites were launched, via SubPop, to promote releases - a new one for each release starting with _Wondrous World..._ in 1997.
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/luna-fuzzywuzzy-links-2000.jpg" "Fuzzywuzzy (October 2000)" %}
 
-Of course this was an overlap with what I was doing, although my remit was wider. In his book [Net, Blogs, and Rock & Roll](https://www.netblogsrocknroll.com/about.html) David Jennings touched on this:
+Of course this was an overlap with what I was doing, although my remit was wider. In his book [Net, Blogs and Rock 'n' Roll](https://www.netblogsrocknroll.com/about.html) David Jennings touched on this:
 
 <blockquote>
 In future, if they’re not already, fan communities will quickly become the most authoritative archivists for the artists they follow. They collect memorabilia and ephemera — from ticket stubs to magazine interviews and amateur bootleg recordings — that most people would dismiss as tat… As well as memorabilia, these items will include what are currently rare and hard-to-find audio and video recordings, which will be collected by both human foraging and automated 'sweeping' of the Net. Expert fans will catalogue them and record their digital fingerprints, to help identify whether further discoveries are duplicates or new additions to the archive.
 </blockquote>
 <p class="caption">David Jennings - Net, Blogs and Rock 'n' Roll (2007)</p>
 
-The artist/fan relationship changed once again with the rise of social media. Suddenly it was practically _expected_ that an artist would be on these platforms and engaging with their fans, some found this easier than others - as I mentioned above, Britta was, and still is, wonderful at engaging with the fans (and has more recently broadened that into the other fandom she is involved in).
+The artist/fan relationship changed once again with the rise of social media. Suddenly it was practically _expected_ that an artist would be on these platforms and engaging with their fans, some found this easier than others. This did however add another "job" to an artist's already busy schedule and one that was probably quite difficult to measure the value of. 
 
 
 
