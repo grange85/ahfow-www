@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '26th August 2025 / Substack / Damon & Naomi in London in 1999'
+title: 'Substack / 26th August 2025 / Damon & Naomi in London in 1999'
 date: 2025-08-26 00:00 +0000
 series-title: Substack
 author:

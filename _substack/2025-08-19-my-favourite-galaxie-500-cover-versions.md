@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '19th August 2025 / Substack / My favourite Galaxie 500 cover versions'
+title: 'Substack / 19th August 2025 / My favourite Galaxie 500 cover versions'
 date: 2025-08-19 00:00 +0000
 series-title: Substack
 author:

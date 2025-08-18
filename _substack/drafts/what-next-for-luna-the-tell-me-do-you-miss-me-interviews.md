@@ -1,21 +1,3 @@
----
-layout: post
-title: Substack / / What next for the members of Luna?
-published: false
-date: 2100-01-01
-series-title: Substack
-author:
-  display_name: Andy
-  login: admin
-  email: andy@grange85.co.uk
-  url: https://www.grange85.co.uk
-image:
-categories:
-- luna
-tags:
-- tell me do you miss me
-- matthew buzzell
----
 _I guess for this post you sort of need to pretend it's 2006 again, and that we're facing a world without Luna. In April 2006 the feature film 'rockumentary' of their last tour was premeired at the Tribeca Film Festival and ahead of that I rattled off questionaires to each of the band members and to the film-maker Matthew Buzzell. While it was fairly easy to imagine what the future would hold for Dean and Britta since **Dean & Britta** had already released an album and were in the middle of recording their second. But Lee and Sean's futures were still a little uncertain..._
 
 So here are the five responses. To be honest my questions were far from insightful, and more about the film than about their futures, so my apologies for not getting into the nitty-gritty of their plans - but... it might be quite fun to see what they said 10 years ago.

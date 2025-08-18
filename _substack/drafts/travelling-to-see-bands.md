@@ -1,20 +1,3 @@
----
-layout: post
-title:  Substack / / Travelling to see bands
-date: 2100-01-01
-published: false
-series-title: Substack
-author:
-  display_name: Andy
-  login: admin
-  email: andy@grange85.co.uk
-  url: https://www.grange85.co.uk
-image:
-categories:
--
-tags:
--
----
 Once upon a time I'd go and see the bands I loved when they came through town... it helped that my "town" was London, and pretty much everyone did come through. But I'd very rarely go see bands elsewhere. I was content to see the band once and then wait until the next time they passed through.
 
 Something then changed, and I'm not so sure why or when. but suspect that it may have coincided with [The Galaxie 500 Mailing List]() in the late 90s and suddenly I was seeing these bands in other places. Hazel, my partner, wrote a piece for the first [Everything's Swirling fanzine]() about this:
