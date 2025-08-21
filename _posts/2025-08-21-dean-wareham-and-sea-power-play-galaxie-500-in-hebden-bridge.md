@@ -28,7 +28,7 @@ Wednesday we planned to do more local exploring and after a late start we found 
 
 Having thoroughly exhausted ourselves with a climb up the very steep path to Heptonstall, and back down again a shorter, but even steeper, way we rested and headed off to the Trades Club for the show around 7:30.
 
-The Trades Club is a lovely, small venue - around 200 capacity - and was sold out for the Sea Power show. Dean was supporting backed by Sea Power, playing a set of Galaxie 500 songs.Britta had a night off and watched perched at the back by the merch table.
+The Trades Club is a lovely, small venue - around 200 capacity - and was sold out for the Sea Power show. Dean was supporting backed by Sea Power, playing a set of Galaxie 500 songs. Britta had a night off and watched perched at the back by the merch table.
 
 The stage was crammed with gear leaving precious little room for the seven piece band who would be playing. At about 8:10 the seven of them wandered out and squeezed themselves into the available space and, after a false start, opened with Blue Thunder and settled into the show without any clues that they had had just one rehearsal. As well as Dean there were:
 
@@ -47,11 +47,11 @@ The stage was crammed with gear leaving precious little room for the seven piece
 
 The set continued with Strange, Temperature's Rising, Fourth of July, When Will You Come Home, and, apparently not played on stage since 1991, Spook (Dean said that Martin from Sea Power had to teach him the chrods).
 
-The set finished with an absolutley sensational, six minute version of Tugboat - with Dean sharing vocals with Sea Power's Hamilton.
+The set finished with an absolutely sensational six minute version of Tugboat - with Dean sharing vocals with Sea Power's Hamilton.
 
 {% ahfowvideo "YChAe16xiq0" "Dean Wareham and Sea Power - Tugboat" %}
 
-I was by now, quite overcome, so retreated from the front and took at the back for Sea Power's set which followed and was excellent.
+I was by now quite overcome, so retreated from the front and stood at the back for Sea Power's set which followed and was excellent.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/august-2025/sea-power.jpg" "Sea Power" %}
 
