@@ -33,7 +33,7 @@ Dean & Britta positioned themselves on the stage and opened, as they had at the 
 
 {% ahfowvideo "nDuH5WrrZTU" "Dean & Britta - Tugboat (Galaxie 500)" %}
 
-They then retired backstage (or into the street outside the which is where backstage is in The Holy GrAle) before being summoned back for an encore of Bonnie & Clyde and Strange.
+They then retired backstage (or into the street outside the pub, which is where backstage is in The Holy GrAle) before being summoned back for an encore of Bonnie & Clyde and Strange.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/august-2025/dean-and-britta-durham-06.jpg" "Dean & Britta - The Holy GrAle, Durham" %}
 
@@ -76,4 +76,4 @@ Once again we hung around afterwards chatting to whoever wanted to chat, and jus
 
 I then said my goodbyes and made my way to Tynemouth station and waited for the next Metro to take me the two stops to Whitley Bay, and home.
 
-{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/august-2025/tynemouth-station.jpg" "Tynemouth station - 11:00 - 26th August 2025" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/august-2025/tynemouth-station.jpg" "Tynemouth station - 23:00 - 26th August 2025" %}
