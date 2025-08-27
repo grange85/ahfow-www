@@ -14,11 +14,13 @@ categories:
 tags:
 -
 ---
+_My Tuesday post is a Wednesday post this week since I've been a bit busy - probably best to [see my Instagram](https://www.instagram.com/fullofwishes/) or [my YouTube channel](https://www.youtube.com/@ahfow) to find out why!_
+
 26 years ago this week Damon & Naomi were in the UK for the third Terrastock Festival that was held at ULU in London between the 27th and 29th August. While they were in the country I managed to catch them three times so here are some of those memories... sadly none of which are accompanied by pictures or videos since... 1999 and phones didn't have cameras (and I only rarely took a proper camera to gigs). So... this is probably as visually exciting as this post will get!
 
 {% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/48278977911_c83d29cd2e_h.jpg" "Terrastock 3 laminate" %}
 
-Luckily for you I did write about each show for the [Galaxie 500 Mailing List]().
+Luckily for you I did write about each show for the [Galaxie 500 Mailing List](https://aheadfullofwishes.substack.com/p/the-galaxie-500-mailing-list-est?r=2bfyn9).
 
 ## 26th August 1999 - Damon & Naomi at The Lift, Brighton
 
@@ -71,12 +73,12 @@ worth the ticket price on its own).</p>
 </blockquote>
 <p class="caption">Andy Aldridge - The Galaxie 500 Mailing List - 29th August 1999 00:10</p>
 
-What I weirdly didn't write about on the mailing list was chatting with Naomi and Tom Rapp in the bar after the show - you'd have think I'd have wanted to boast about hobnobbing with the stars but... it seems not. I did however write about it for a [post after Tom died in 2018](https://www.fullofwishes.co.uk/2018/02/12/tom-rapp-1947-2018/):
+What I weirdly didn't write about on the mailing list was chatting with Naomi and Tom Rapp in the bar after the show - you'd have think I'd have wanted to boast about hobnobbing with the stars but... it seems not. I did however write about it for a [post after Tom died in 2018](https://www.fullofwishes.co.uk/2018/02/12/tom-rapp-1947-2018/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20250827):
 
 <blockquote>
 In 1999 Terrastock came to London - a last minute sceheduling change and childcare responsibilities conspired to mean that I missed Tom's performance and barely arrived in time to catch Damon & Naomi's set! But after the show was over Tom and I got chatting. I can't remember how, I think I'd been loitering around probably trying to catch Naomi's eye when Tom came over.
 </blockquote>
-<p class="caption"><a href="https://www.fullofwishes.co.uk/2018/02/12/tom-rapp-1947-2018/">Tom Rapp (1947 - 2018)</a></p>
+<p class="caption"><a href="https://www.fullofwishes.co.uk/2018/02/12/tom-rapp-1947-2018/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20250827">Tom Rapp (1947 - 2018)</a></p>
 
 I was hoping to find some reviews or comments about Damon & Naomi's set at the London Terrastock, but there's precious little at all about the show. But I found this from Terrascope founder Phil McMullen that might go some way of explaining why there's so little of Terrastock 3 out there:
 
