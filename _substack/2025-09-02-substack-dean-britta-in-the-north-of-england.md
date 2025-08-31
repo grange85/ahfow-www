@@ -142,5 +142,59 @@ Dean and Britta headed on as DaemöniK Fonce played their set that was reminisce
 We stuck around for The Moonlandingz who were closing up things in The Barn on day one, but lasted only about 10 minutes of their dreadful racket and headed back to the car and then the hotel.
 
 ## 23rd August 2025
-### The Ravenglass and Eskdale Railway
+### The Ravenglass and Eskdale Railway / Muncaster Castle / Krankenhaus
+
+On the Saturday we grabbed breakfast on the way to the festival at [Déjà Brew](https://dejabrew.touchtakeaway.net/menu) in Egremont and ate it overlooking Nethertown station which is a barely used station seemingly in the middle of nowhere but right next to the sea. Sadly we didn't have too much time to enjoy the scenery since we'd decided to take advantage of the Krankenhaus discount on trips on the Ravenglass and Eskdale Railway, a narrow gauge railway that takes a 40 minute journey through the beautiful West Cumbrian countryside from Ravenglass to Dalegarth. We had half an hour to fill at the halfway point before our 40 minute journey back. We walked almost to the nearby church and then looped back around to the station, eating blackberries.
+
+{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/august-2025/dalegarth-church.jpg" "St Catherine's Church, Dalegarth" %}
+
+Back in Ravenglass we walked back to the festival site, past the remains of a roman bathhouse and rather than go to the festival we carried on to the castle to watch a falcon flying display and to walk around the castle grounds. There was so much to do we seemed to be doing rather little of what we had come here for!
+
+Saturday was the day we weren't going to see Dean and Britta, although as we walked through the castle grounds we bumped into them, and walked back to the festival with them, stopping to chat to Stewart Lee on the way, well they chatted... we just smiled and said hello. As we moved on Britta asked me if I was a fan, I replied that I liked him because he was a Galaxie 500 fan!
+
+We left Dean & Britta and headed into The Barn to catch some of Rich(ard) Dawson's set - which was OK, but after about half of it decided we'd had enough and headed out to grab some food.
+
+Jane Weaver's set started just before nine, after some long technical delays - which meant she rattled through her lovely set with perhaps a little less of her enjoyable banter:
+
+{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/august-2025/jane-weaver-krankjenhaus-02.jpg" "Jane Weaver and band" %}
+
+Headlining day two were, obviously, Sea Power who played a considerably different, and considerably more familiar set than they had in Hebden Bridge, I couldn't help but loving the songs I was more familiar with so enjoyed this show more.
+
+{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/august-2025/sea-power-krankjenhaus-02.jpg" "Sea Power closing out day two of Krankenhaus" %}
+
+We headed back to the hotel and tried to sleep.
+
+## 24th August 2025
+### Muncaster Castle Owls and some actual festival things!
+Once again we grabbed breakfast at Déjà Brew and this time ate it in a car park overlooking Sellafield Nuclear Power Station, and then headed to Muncaster and to the castle's Hawk and Owl Centre to catch a display of flying owls where we, yet again, bumped into Dean and Britta. I then watched most of the Sea Power soundtracked [From The Sea to The Land Beyond](https://en.wikipedia.org/wiki/From_the_Sea_to_the_Land_Beyond) (although it wasn't live soundtracked) before heading out for ice cream and more flying birds of prey!
+
+Back to the festival and caught a little of Kathryn Joseph, and the whole of [La Sécurité](https://www.mothland.com/la-securite) who made a very enjoyable racket:
+
+{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/august-2025/la-securite-krankenhaus-01.jpg" "La Sécurité at Krankenhaus" %}
+
+### Dean & Britta at Krankenhaus
+Sunday’s set saw Dean & Britta performing once again as a duo, this time standing up! 
+
+{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/august-2025/dean-and-britta-krankenhaus-02.jpg" "Dean & Britta at Krankenhaus" %}
+
+The setlist was different from the one they had played in Hebden on Thursday… I didn’t make notes so this is from memory, so may not be in the right order and may have ommisions.
+
+ - I’m So Bored With The USA
+ - The Cloud Is Coming
+ - I’ll Keep It With Mine
+ - Snowstorm
+ - Drive
+ - Ceremony
+ - Don’t Let Our Youth Go To Waste
+ - 23 Minutes in Brussels
+
+https://www.youtube.com/watch?v=Dw4-Ou70iCY
+
+A beautiful short set - Don't Let Our Youth Go to Waste was truncated because of time - but perfect despite that (and that would be fixed later in the week).
+
+At this point we decided to end our festival - we'd have loved to have stayed for Throwing Muses but if we had we'd have been getting home at about 3am and we were both already pretty worn out so opted to finish the weekend on a perfect Dean & Britta high! We said goodbye to Britta as she headed to the merch table and headed homeward.
+
+Since we were heading east the beautiful sunset was all in our mirrors so we decided to stop near Hadrian's Wall for a rest and to take it in although the best of it was after the sun had gone down.
+
+{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/august-2025/sunset-near-hadrians-wall.jpg" "Sunset near Hadrian's Wall" %}
 
