@@ -48,7 +48,7 @@ We chatted for a while before Dean and Britta headed off and we did a bit more c
 
 Exhausted, we relaxed in the house and ate rubbish pasta before the gig.
 
-### _Show 1/6_ - Dean Wareham and Sea Power play Galaxie 500, The Trades Hall
+### _Show 1/6_ - Dean Wareham and Sea Power play Galaxie 500, The Trades Club
 We bumped into a couple of pals on the walk to the venue, the upstairs room of a lovely hall, capacity ~200, and arrived shortly before the doors opened went in and positioned ourselves near the front, and to the left, of the stage.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/august-2025/dean-wareham-sea-power-02.jpg" "Dean Wareham and Sea Power" %}
@@ -58,6 +58,15 @@ The stage was crammed with so much kit it was hard to imagine how Dean, and the 
 The set finished with an absolutely sensational six minute version of Tugboat - with Dean sharing vocals with Sea Power’s Hamilton.
 
 https://www.youtube.com/watch?v=YChAe16xiq0
+
+Setlist:
+ - Blue Thunder
+ - Strange
+ - Temperature's Rising
+ - Fourth of July
+ - When Will You Come Home
+ - Spook
+ - Tugboat
 
 I was quite overcome by the end of the show and retired to the back to watch Sea Power's set of songs mostly unfamiliar to me. For reasons I'm not entirely sure of I had stopped buying Sea Power records after The Man of Aran in 2009. Show over, we said our goodbyes to a few friends (old and new) and headed back to the house.
 
@@ -77,4 +86,43 @@ We walked to Halifax Minster and arrived in time to catch the end of an organ re
 
 We wandered through Halifax's famous Piece Hall, which was being prepped for the latest in a series of concerts, and then through the more [Borough Market](https://new.calderdale.gov.uk/communities/calderdale-markets/market-halls/halifax) where we grabbed a lovely kimchi and cheese toastie at the splendid Temperance Movement, and then headed back to the station for the trip home and another rest before that evening's Dean & Britta show.
 
-### _Show 2/6_  Dean & Britta, The Trades Hall
+### _Show 2/6_  Dean & Britta, The Trades Club
+Arrived at the Trades Club early (again) and bumped into Joe who I hadn't seen for ages. For this show the front half of the hall had been laid out with rows of chairs and when the doors opened we positioned ourselves in the front row.
+
+First up were Deary who have been releasing lots of lovely records on Sonic Cathedral over the last couple of years although this was my first time seeing them. They were a four piece (this evening) and played a gorgeous 30 minute set of dreamy guitar wash in a dry ice cloud - beautiful.
+
+{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/august-2025/deary-hebden-bridge-02.jpg" "Deary - The Trades Club, Hebden Bridge" %}
+
+The stage for Dean & Britta had been set with three high stools, one each for Dean & Britta, and one for Britta's box of drum beats, drones, and other sonic augmentations. They opened the set with their cover of The Clash's _I'm So Bored with The USA_ that first debuted during their COVID livestreams and continuted through a set that took in most of the phases of Dean's career - solo, with Britta, with Luna, and with Galaxie 500.
+
+Setlist:
+ - I’m So Bored With The USA
+ - The Cloud is Coming
+ - Night Nurse
+ - Love is Colder Than Death
+ - I’ll Keep it With Mine
+ - Mystery Guest
+ - Snowstorm
+ - Tracy I Love You
+ - Knives from Bavaria
+ - Yesterday’s Hero
+ - 23 Minutes in Brussels
+ - Blue Thunder
+
+They returned to the stage and were about to play Strange when someone in the audience shouted for Bonnie and Clyde and, after a bit of discussion and a false-start or two they made a brave, unrehearsed attempt at it before it beautifully fell apart after a couple of minutes. 
+
+And then... Strange.
+
+Show over, some chatting, some beer, and a walk back to the house.
+
+## 22nd August 2025
+### The drive to Whitehaven
+We were obliged to be out of the house quite early so the car was packed up and we wandered into Hebden for breakfast at Leila's Kitchen before heading off on the drive first to our hotel in Whitehaven and then on to Muncaster Castle for day one of Krankenhaus.
+
+We decided to take the scenic route through the Lake District which was, of course, very beautiful but also very full of cars and people - we bought some bread and cheese and chocolate milk, and parked up near Windermere to eat and enjoy the views:
+
+{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/august-2025/windermere.jpg" "Lunch on a bench by Lake Windermere" %}
+
+The drive ended up being longer than we expected and we arrived at our (awful) hotel in Whitehaven, rested for a bit and then drove the 30 minutes to Muncaster Castle, picked up our wristbands, and a programme, and a grabbed a coffee from the [Northumberland Coffee cart](https://northumberlandcoffee.com/) that was thankfully in place for the whole weekend and provided much needed hits over the whole weekend.
+
+I checked out The Lovely Eggs, who were just finishing their set in The Barn, but what seemed charming at Indietracks a few years back, was just annoying now - so I headed back outside to wait for Dean's set with Sea Power that was up next.
