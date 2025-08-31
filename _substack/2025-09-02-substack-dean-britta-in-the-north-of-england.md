@@ -24,23 +24,23 @@ While in recent years I've been happy to travel to get in more shows rather than
 
 Shortly after Dean went home after his tour in April I came across a post informing me that Dean & Britta would be playing in Hebden Bridge. Hazel was always keen for us to spend a few days there anyway so we booked three nights with Dean & Britta's show at the end _(show 1/6)_. A couple of days later another show was announced in Durham, too close to where I lived to ignore _(show 5/6)_.
 
-In the middle of May the bill for the Krankenhaus Festival was announced and Dean & Britta booked to play _(show 3/6)_, and also that Dean would play a set of Galaxie 500 shows backed by Sea Power _(show 2/6)_. As a warm-up/rehearsal for this Dean was then added as support to a Sea Power show in Hebden Bridge, the night before Dean & Britta's show _(show 2/6)_ - I must admit that I didn't think Hazel would be up for Krankenhaus but Indietracks-withdrawl meant she was actually quite keen.
+In the middle of May the bill for the [Krankenhaus Festival](https://krankenhausfestival.com/) was announced and Dean & Britta booked to play _(show 3/6)_, and also that Dean would play a set of Galaxie 500 shows backed by Sea Power _(show 2/6)_. As a warm-up/rehearsal for this Dean was then added as support to a Sea Power show in Hebden Bridge, the night before Dean & Britta's show _(show 2/6)_ - I must admit that I didn't think Hazel would be up for Krankenhaus but Indietracks-withdrawl meant she was actually quite keen.
 
 Durham is pretty close to where we live, door to door I could be there - via foot, metro, and train - in about an hour but at the end of May yet another show was announced in North Shields _(show 6/6)_ - this one I could get to in just over 20 minutes!
 
 ## Tuesday 19th August 2025 - Whitley Bay to Hebden Bridge
-After some shenanigans with the car rental that led to an unscheduled trip to Newcastle airport to collect a car, we finally left Whitley Bay a few hours behind schedule, shortly after lunch. We stopped in Ripon, put an hour on the parking and grabbed a nice lunch at Oliver's Pantry and then zipped round the very impressive cathedral! Made a note that we must return for a more leisurely visit at some point!
+After some shenanigans with the car rental that led to an unscheduled trip to Newcastle airport to collect a car, we finally left Whitley Bay a few hours behind schedule, shortly after lunch. We stopped in Ripon, put an hour on the parking and grabbed a nice lunch at [Oliver's Pantry](https://oliverspantry.com/) and then zipped round the very [impressive cathedral](https://riponcathedral.org.uk/)! Made a note that we must return for a more leisurely visit at some point!
 {% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/august-2025/ripon-cathedral.jpg" "Ripon Cathedral" %}
 
 We finally arrived in Hebden just after 6, and after we settled into our digs (a lovely, tiny back-to-back terrace) we took a stroll around the town, checked out the location of the venue, and walked briefly along the Rochdale Canal. The North East of England has no canals - I really miss canals!
 {% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/august-2025/rochdale-canal.jpg" "The Rochdale Canal at Hebden Bridge" %}
 
-We ate too much lovely food in Nelson's Wine Bar.
+We ate too much lovely food in [Nelson's Wine Bar](https://nelsonswinebar.co.uk/).
 {% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/august-2025/nelsons-wine-bar.jpg" "Hazel tucking in" %}
 
 ## Wednesday 20th August 2025
 ### Hebden Bridge and Heptonstall
-Spent the morning wandering around Hebden some more, and then stopped for a sandwich and a coffee in Squeeze - we sat down and were waiting for the food to arrive when in walked a couple of folk we knew, who'd spotted us sitting in the window.
+Spent the morning wandering around Hebden some more, and then stopped for a sandwich and a coffee in [Squeeze](https://www.squeezehebden.co.uk/) - we sat down and were waiting for the food to arrive when in walked a couple of folk we knew, who'd spotted us sitting in the window.
 {% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/august-2025/ah-db-hebden-bridge.jpg" "Dean and me / Hazel and Britta" %}
 
 We chatted for a while before Dean and Britta headed off and we did a bit more canal walking and then hiked up the steep, steep hill to Heptonstall, walked around the church and then back down that steep, steep hill.
@@ -117,7 +117,7 @@ Show over, some chatting, some beer, and a walk back to the house.
 
 ## 22nd August 2025
 ### The drive to Whitehaven
-We were obliged to be out of the house quite early so the car was packed up and we wandered into Hebden for breakfast at Leila's Kitchen before heading off on the drive first to our hotel in Whitehaven and then on to Muncaster Castle for day one of Krankenhaus.
+We were obliged to be out of the house quite early so the car was packed up and we wandered into Hebden for breakfast at [Leila's Kitchen](https://leilaskitchen.co.uk/) before heading off on the drive first to our hotel in Whitehaven and then on to Muncaster Castle for day one of Krankenhaus.
 
 We decided to take the scenic route through the Lake District which was, of course, very beautiful but also very full of cars and people - we bought some bread and cheese and chocolate milk, and parked up near Windermere to eat and enjoy the views:
 
@@ -126,3 +126,5 @@ We decided to take the scenic route through the Lake District which was, of cour
 The drive ended up being longer than we expected and we arrived at our (awful) hotel in Whitehaven, rested for a bit and then drove the 30 minutes to Muncaster Castle, picked up our wristbands, and a programme, and a grabbed a coffee from the [Northumberland Coffee cart](https://northumberlandcoffee.com/) that was thankfully in place for the whole weekend and provided much needed hits over the whole weekend.
 
 I checked out The Lovely Eggs, who were just finishing their set in The Barn, but what seemed charming at Indietracks a few years back, was just annoying now - so I headed back outside to wait for Dean's set with Sea Power that was up next.
+
+### Show 3/6 - Dean Wareham and Sea Power play Galaxie 500
