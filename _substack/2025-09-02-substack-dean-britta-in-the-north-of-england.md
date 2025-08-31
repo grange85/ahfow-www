@@ -128,3 +128,19 @@ The drive ended up being longer than we expected and we arrived at our (awful) h
 I checked out The Lovely Eggs, who were just finishing their set in The Barn, but what seemed charming at Indietracks a few years back, was just annoying now - so I headed back outside to wait for Dean's set with Sea Power that was up next.
 
 ### Show 3/6 - Dean Wareham and Sea Power play Galaxie 500
+After The Lovely Eggs and The Barn had emptied somewhat I positioned myself at the front of the stage, conincidentally next to old pal Ivan who I hadn't seen since a Miracle Legion gig nine years earlier. There was more room on the Krankenhaus stage than there had been at Hebden Bridge so there was now an extra mic set up so that Britta, who had stood at the back and watched at the previous show, could join in occationally adding some vocal depth,
+
+{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/august-2025/dean-and-sea-power-krankenhaus-02.jpg" "Dean and Britta with Sea Power at Krankenhaus" %}
+The band arrived on stage shortly after eight and played through the same set they had in Hebden Bridge although it felt more relaxed, perhaps the reassurance of having done it without any problems a few nights previously, coupled with the festival _atmosphere_ made it that way (or seem that way). While the band played a couple of camera operators weaved in amongst, and in front of, the band so hopefully we'll see some top quality clips from the show at some point.
+
+The show once again finished with a storming Tugboat and then it was over. The Barn emptied.
+
+Hazel and I headed out and grabbed some food and sat by the second stage, The Glade, eating. As we did Dean and Britta passed by and stopped and sat and chatted for a while. Meanwhile DaemöniK Fonce were setting up and soundchecking on the small stage. They were described in the programme as "Pam Ayers home schooling The Cockney Rejects" - I asked Dean if he'd heard of Pam, he sadly hadn't - "why would he?" asked Hazel... but, why wouldn't he. I'm not sure he'd had the dubious joy of knowing The Cockney Rejects either.
+
+Dean and Britta headed on as DaemöniK Fonce played their set that was reminiscent of neither Pam Ayers or The Cockney Rejects, but was an enjoyable and fun set of punky-pop, or poppy-punk.
+{% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/august-2025/daemonik-fonce-krankenhaus.jpg" "DaemöniK Fonce on The Glade stage at Krankenhaus" %}
+We stuck around for The Moonlandingz who were closing up things in The Barn on day one, but lasted only about 10 minutes of their dreadful racket and headed back to the car and then the hotel.
+
+## 23rd August 2025
+### The Ravenglass and Eskdale Railway
+
