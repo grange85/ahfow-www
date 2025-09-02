@@ -16,7 +16,7 @@ categories:
 tags:
 - a sentimental education
 ---
-Anyone reading _between the lines_ of my post about [A Place of Greater Safety](/2024/06/03/my-record-collection-141-luna-a-place-of-greater-safety/) might have noticed that I was a little cool on the post reunion Luna releases. Actually you don't really need to read beweeen the lines, I think "I did have reservations - particularly with regard to these releases" is fairly explicit.
+Anyone reading _between the lines_ of my post about [A Place of Greater Safety](/2024/06/03/my-record-collection-141-luna-a-place-of-greater-safety/) might have noticed that I was a little cool on the post reunion Luna releases. Actually you don't really need to read between the lines, I think "I did have reservations - particularly with regard to these releases" is fairly explicit.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-a-sentimental-education-lp.jpg" "Luna - A Sentimental Education (LP)" %}
 
