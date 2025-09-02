@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[288] Galaxie 500 - The Pastels - Illumination (CD)'
+title: '[288] The Pastels - Illumination (CD)'
 date: 2025-09-25 00:00 +0000
 series-title: My record collection
 catno: 10/139
