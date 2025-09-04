@@ -16,6 +16,8 @@ tags:
 ---
 Dean Wareham, it seems, has always been inclined to have his finger in many pies - he's released with Galaxie 500 and Luna, with Britta, with Cheval Sombre and solo - and of course has recorded guest spots with many other acts. Perhaps the least well known of his projects was the fairly short lived Cagney & Lacee, which was a duo with his then wife Claudia, that released an album of covers, and a couple of singles in the 1990s.
 
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/cagney-and-lacee-photo-six-feet.jpg" "Lacee and Cagney from the sleeve of Six Feet of Chain" %}
+
 This post isn't really a history since I don't really know a great deal beyond what I can glean from the web. or from the record sleeves. This will be more of an outpouring of thoughts, and a rehash of various posts about them that I have made over the years. It also won't have many pictures since I never saw them live, and I'm not even sure if they ever played live!
 
 However, in the Matthew Buzzell short film Psyhcobabble, Dean can be seen wearing a polo shirt with a _Cagney_ monogram - I assume Claudia had one with _Lacee_ monogrammed on it? I also thought I'd seen a _Cagney_ guitar strap but I'm thinking that is wrong. So... promo material existed.
@@ -35,7 +37,7 @@ Back in 2014 I had a series on the website where I tracked down all the original
 
 ## Cagney & Lacee - Time / By The Way (I Still Love You) - No.6 Records, 1995
 
-_[Posted about in the **my record collection** series in April 2023](https://www.fullofwishes.co.uk/2023/04/06/my-record-collection-023-cagney-lacee-time-by-the-way/)_.
+_[Posted about in the **my record collection** series in April 2023](https://www.fullofwishes.co.uk/2023/04/06/my-record-collection-023-cagney-lacee-time-by-the-way/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20250909)_.
 
 This was the first single by Dean Wareham's side project with his then wife Claudia, Cagney & Lacee. The sticker on the sleeve shows that I paid £3.50 for this at the Talbot Road Rough Trade Shop (now Rough Trade West) - the phone number on the sticker shows that it was before 2000.
 
@@ -63,9 +65,9 @@ https://www.youtube.com/watch?v=pK0SkGu4O-Q
 
 ## Cagney & Lacee - Six Feet of Chain - No.6 Records, 1997
 
-_[Posted about in the **my record collection** series in January 2024](https://www.fullofwishes.co.uk/2024/01/04/my-record-collection-098-cagney-lacee-six-feet-of-chain/)_.
+_[Posted about in the **my record collection** series in January 2024](https://www.fullofwishes.co.uk/2024/01/04/my-record-collection-098-cagney-lacee-six-feet-of-chain/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20250909)_.
 
-Cagney & Lacee was Dean Wareham's first foray into releasing a record full of covers with his wife (ok... so his next foray, with a different wife, was only _half_ full of covers). Like with the [first Cagney & Lacee release](/2023/04/06/my-record-collection-023-cagney-lacee-time-by-the-way/) it doesn't bother mentioning on the sleeve who Cagney or Lacee is.
+Cagney & Lacee was Dean Wareham's first foray into releasing a record full of covers with his wife (ok... so his next foray, with a different wife, was only _half_ full of covers). Like with the [first Cagney & Lacee release](https://www.fullofwishes.co.uk/2023/04/06/my-record-collection-023-cagney-lacee-time-by-the-way/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20250909) it doesn't bother mentioning on the sleeve who Cagney or Lacee is.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/cagney-and-lacee-six-feet.jpg" "Cagney & Lacee - Six Feet of Chain" %}
 
@@ -77,13 +79,13 @@ The sleeve was designed by Laurie Henzel and has some uncredited comic art that 
 
 ### Be Mine (Martin Rev) _actually not!_
 
-The opening track on Cagney & Lacee's only album Six Feet of Chain is called "Be Mine" and is credited to [Martin Rev](https://www.fullofwishes.co.uk/2024/01/04/my-record-collection-098-cagney-lacee-six-feet-of-chain/). Now Mr Rev, of fab noisy electronic duo Suicide, did indeed [release a track called Be Mine](https://www.youtube.com/watch?v=og6Xxn0ANxw), it was on his album "See Me Ridin'" from 1996 - but the track "Be Mine" on Cagney & Lacee's 1997 album isn't a cover of that! No, Cagney & Lacee's "Be Mine" is actually a cover of "Yours Tonight" another track on "See Me Ridin'"
+The opening track on Cagney & Lacee's only album Six Feet of Chain is called "Be Mine" and is credited to [Martin Rev](https://www.fullofwishes.co.uk/2024/01/04/my-record-collection-098-cagney-lacee-six-feet-of-chain/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20250909). Now Mr Rev, of fab noisy electronic duo Suicide, did indeed [release a track called Be Mine](https://www.youtube.com/watch?v=og6Xxn0ANxw), it was on his album "See Me Ridin'" from 1996 - but the track "Be Mine" on Cagney & Lacee's 1997 album isn't a cover of that! No, Cagney & Lacee's "Be Mine" is actually a cover of "Yours Tonight" another track on "See Me Ridin'"
 
 https://www.youtube.com/watch?v=mDog0EBNpYo
 
 Not sure whether this was a mistake or intentional - I've decided it was a test for fans, one that I failed utterly completely by not discovering it until 15 years after Six Feet of Chain was released!
 
-### Lovin' You (Ripperton / Rudolph)
+### Lovin' You (Riperton / Rudolph)
 
 Before this solo gem, Minnie Riperton had been in the fantastic Rotary Connection, and before that had been a receptionist at Chess Records. Lovin' You was released in 1975 and became the 400th #1 hit on the Billboard Hot 100. And possibly more important than that there is no song that is more brilliant to sing out loud when no one can hear you (or is that just me?)
 
@@ -137,7 +139,7 @@ https://www.youtube.com/watch?v=HBr9_Mh4Kwo
 
 ## Cagney & Lacee - Borderline / Orange
 
-_[Posted about in the **my record collection** series in November 2024](https://www.fullofwishes.co.uk/2024/11/14/my-record-collection-188-cagney-lacee-borderline-orange/)_.
+_[Posted about in the **my record collection** series in November 2024](https://www.fullofwishes.co.uk/2024/11/14/my-record-collection-188-cagney-lacee-borderline-orange/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20250909)_.
 
 This is the third, and final, Cagney & Lacee release, put out by Earworm in late 1998. It contains a cover of Madonna's Borderline and the only released original by "Silver / Wareham".
 
@@ -152,7 +154,7 @@ The single is on white vinyl, with a white, unprinted label, it came in a poly b
 
 ### Borderline (Lucas)
 
-The first of two appearances for Madonna in this series is her early single Borderline that Dean Wareham covered as part of his side project Cagney & Lacee with his then wife Claudia Silver. Madonna's original was released in 1984
+The first of two appearances for Madonna in the originals series is her early single Borderline that Dean Wareham covered as part of his side project Cagney & Lacee with his then wife Claudia Silver. Madonna's original was released in 1984 and written by Reggie Lucas.
 
 https://www.youtube.com/watch?v=rSaC-YbSDpo
 
@@ -164,6 +166,17 @@ https://www.youtube.com/watch?v=ylBIH1h3WKE
 
 ---
 
-And that was it for Cagney & Lacee - the tracks from their first single turned up on the No.6 retrospective [Speed Dating](https://www.fullofwishes.co.uk/2024/08/22/my-record-collection-164-various-artists-speed-dating/) in 2009.
+And that was it for Cagney & Lacee - the tracks from their first single turned up on the No.6 retrospective [Speed Dating](https://www.fullofwishes.co.uk/2024/08/22/my-record-collection-164-various-artists-speed-dating/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20250909) in 2009.
 
-I think _On The Sofa_, one of the unreleased tracks from Galaxie 500's first session might be considered a proto-Cagney & Lacee release since I believe that is Claudia singing on it - you can hear that [on this post from 2011](https://www.fullofwishes.co.uk/2011/09/23/audio-friday-recycling-galaxie-500-the-extended-demo-tape/)
+The late Terry Tolkin was asked about Cagney & Lacee in an interview for Warped Reality around the time of the release of Speed Dating:
+
+<blockquote>
+I did a full length CD with Cagney and Lacee. It’s called Six Feet Of Chain and is brilliant. They also appeared on No. 6’s last release The Lives Of Charles Douglas by Alex McCauley. Moe Tucker plays drums on that record too. It was produced by Kurt Ralske and is my single favorite release on No. 6.
+</blockquote>
+<p class="caption"><a href="https://warpedrealitymagazine.com/2009/05/the-mysteries-of-no-6-an-interview-with-terry-tolkin.html">The Mysteries of No. 6 | An Interview with Terry Tolkin / Warped Reality 2009</a></p>
+
+My copy of The Lives of Charles Douglas (the Broken Horse reissue from 2011) contradicts Terry somewhat. It says that the album was actually produced by Moe, and engineered by Kurt and while Claudia does get a _backing vocals_ credit, Dean doesn't seem to be credited at all, although in the essay on the making of the album it does say that during the mixing of the record "Dean Wareham came in at one point to help".
+
+I think _On The Sofa_, one of the unreleased tracks from Galaxie 500's first session might be considered a proto-Cagney & Lacee release since I believe that is Claudia singing on it - you can hear that [on this post from 2011](https://www.fullofwishes.co.uk/2011/09/23/audio-friday-recycling-galaxie-500-the-extended-demo-tape/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20250909).
+
+I think I've pretty much shared all of Cagney & Lacee's output on A Head Full of Wishes either in the [originals series](https://www.fullofwishes.co.uk/category/originalsutm_source=substack&utm_medium=social&utm_campaign=newsletter+20250909) or as a [lost track](https://www.fullofwishes.co.uk/category/lost-tracks/utm_source=substack&utm_medium=social&utm_campaign=newsletter+20250909) so, hunt them down.
