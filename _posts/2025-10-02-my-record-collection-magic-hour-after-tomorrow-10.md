@@ -13,7 +13,6 @@ image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/magic-hour-
 categories:
 - damon & naomi
 - my record collection
-- originals
 tags:
 - magic hour
 ---
