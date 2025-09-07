@@ -25,11 +25,7 @@ I managed to miss out on Permanent Green Light on my [originals series](/categor
 
 In 2016 Magic Hour released a digital only compilation of non-album tracks which is where I was alerted to the omission as the Bandcamp page clearly stated "'Permanent Green Light by the Godz'". The Godz original was just four minutes long but I could imagine it being stretched live, and Magic Hour's version is exactly how I'd imagine it to sound if it were, Lots of noise, lots of feedback, and a motorik relentlessness. It hits my psych-rock buttons that normally end up in me digging out Hawkwind LPs.
 
-Here's The Godz four minute original:
-
-{% ahfowvideo "E98i34YxqnM" "The Godz - Permanent Green Light" %}
-
-... and you can [listen to, and buy, the Magic Hour version on Bandcamp](https://magic-hour.bandcamp.com/track/permanent-green-light) for a dollar!
+You can hear the [original four minute version by The Godz on YouTube](https://www.youtube.com/watch?v=E98i34YxqnM), and you can [listen to, and buy, the Magic Hour version on Bandcamp](https://magic-hour.bandcamp.com/track/permanent-green-light) for a dollar!
 
 The randomness of my method of selection has been particularly odd with Magic Hour who turned up seven times in the first 100 posts and only twice in the almost 200 since then, and this is the first Magic Hour entry since in eighteen months - and there are (currently) only two more after this one.
 
