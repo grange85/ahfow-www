@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[290] Magic Hour - After Tomorrow (10")'
+title: '[289] Magic Hour - After Tomorrow (10")'
 date: 2025-10-02 00:00 +0000
 series-title: My record collection
 catno: 12/068
