@@ -18,27 +18,56 @@ In Summer 1997 I had this half-baked idea to release a kind of [Beatles Fan Club
 
 In October 1997 I spoke to Dean Wareham after Luna's show at the LA2 in London, it was little more than a "hi you were great... would you sign my ticket" but it was the ice-breaker. Later that week he called and [left a phone message for me](https://www.fullofwishes.co.uk/2024/06/06/my-record-collection-142-dean-wareham-answerphone-message-mc/) and that lit the fire under my plans again... after all... we were mates now!
 
-The idea cooked away for a year (nothing moves particularly fast in my world) and in the spring of 1999 I emailed Dean and asked if I could put out a Luna single. He emailed back saying yes and suggested that he'll talk with the band and pull out a demo I could release.
+The idea cooked away for a year (nothing moves particularly fast in my world) and in the spring of 1999 I emailed Dean and asked if I could put out a Luna single. He emailed back saying yes and suggested that he'll talk with the band and pull out a demo that I could release.
 
 A couple of months later a package arrived at the door with a DAT and details of the tracks that I should put on the single. No demos or live tracks for me... these were genuine... unreleased... luna rarities. The a-side track Dear Paulina was taken from the (cult but actually pretty unpleasant) film [Thursday](http://en.wikipedia.org/wiki/Thursday_(1998_film)) and featured during a scene in which Dallas (played by Paulina Porizkova) rapes Casey. The b-side, Seven-Eleven was some near-instrumental music also from the film.
 
 So I had some music but absolutely no idea at all what I was supposed to do now... so I got in touch out of the blue with Dom from the London indie [Earworm records](http://www.myspace.com/earwormrecords) who had been putting out lots of lovely singles... he in turn pointed me towards a company that would arrange the cut and press the single, [Key Production](http://www.keyproduction.co.uk/), and another that would print the artwork.
 
-On the 9th of August Hazel and I went to [Abbey Road Studios](http://www.abbeyroad.co.uk/) (yes that [Abbey Road](http://en.wikipedia.org/wiki/Abbey_Road_(album))) to oversee the cutting of the masters - of course we knew nothing and just went along for the ride with little more than Dom's advice which was something along the lines of "don't let them mess with it."
+On the 9th of August Hazel and I went to [Abbey Road Studios](http://en.wikipedia.org/wiki/Abbey_Road_(album)) to oversee the cutting of the masters - of course we knew nothing and just went along for the ride with little more than Dom's advice which was something along the lines of "don't let them mess with it", But there we were sitting on a couch in Abbey Road Studios, trying not to look like we knew nothing!
 
 I knew nothing about the film and had no idea who [Paulina](http://en.wikipedia.org/wiki/Paulina_Porizkova) might be so for the sleeve art I threw together with my very limited Photoshop skills a picture of Hazel overlayed with a what was supposed to be the reflection of a computer monitor showing an email being written. A reference to the Galaxie 500 Mailing List... and you know... "Dear Paulina" sounded like a greeting at the beginning of an email. I'm no designer or artist so I didn't expect great things and all I really intended was that it would be better than a [cat nailed to a board](https://www.fullofwishes.co.uk/2023/08/21/my-record-collection-062-luna-outdoor-miner/). I had help from my designer friend Julian preparing it for print and sent it off.
 
-Over the next few weeks everything but the singles turned up at my house. It was odd having 500 sleeves, 500 plastic covers, 500 mailing envelopes and a strange nagging doubt that the record was a bizarre dream. In mid September I finally received a batch of test pressings. While they were good to hear they were also worryingly not perfect. Key reassured me that the production run would be just fine... and not having anyone else to trust I chose to trust them.
+The label design I also knocked up in Photoshop having decided that I wanted something that would look interesting while spinning round, you can blame Black Sabbath for that. Since my design skills were limited I stuck with a simple spiral. This design was carried onto the insert, that was printed at work.
 
-On the 27 September I took delivery of 546 seven inch singles - I'm still not entirely sure why 546, 46 more than I had printed sleeves for. Over the next few weeks I mailed out 250 or so of these. In the days before Paypal, taking orders over the Internet was a headache and the singles were sold for a "carefully concealed 5 dollar bill." I eventually sold quite a lot of them but nowhere near enough to cover the costs. 
+Over the next few weeks everything but the singles turned up at my house. It was odd having 500 sleeves, 500 plastic covers, 500 mailing envelopes and a strange nagging doubt that the record was a bizarre dream. In mid September I finally received a batch of test pressings. 
 
-The single got the Tower Records Single of the Fortnight in Irish paper [Hot Press](http://www.hotpress.com/), which led to Tower Records desperately getting in touch with me to get some copies into their shops (which the bastards NEVER paid me for). I paid Luna in singles which they sold at their shows or put into shops in NYC. In February 2000 Hazel and I went to New York City to see Luna and gave them most of the copies that I had left - they had more chance of selling them than I did. Although I did recently recover a few copies.
+The paperwork that came with the test pressings pointed out that there was “a light tick beginning A-side new stamper grown will not be on production run”. The positive comments box just had the work “OK” - what was that… the first review!?
+
+Apart from that slight tick they sounded OK, to my ears, but they weren’t flat like I expected them to be and weren’t perfect. Were they supposed to be? I had no idea, was I just supposed to be listening or should I be worried about the thing!? I rang Key Production and asked them, Heather at Key was very reassuring, although she would be I suppose? I agreed that they could go ahead with the run of 500 copies.
+
+I sent a few copies of the test pressing to folk who’d helped out. I sent one to Dom at Earworm, who had pretty much pointed me in all the right directions when I didn’t have a clue what I was doing. I gave one to Martin, who had taken the photo of Hazel that I used on the sleeve. I gave one to Julian who had helped with the sleeve layout and all the technical printing stuff. And, I gave one to Bob from The Galaxie 500 Mailing List who just happened to be in town at the time! I think (my son) Adam might have one too. I can’t remember how many I was sent, but that makes five I gave away, and I still have five… and ten seems a sensible/logical number.
+
+I announced the release first on the Galaxie 500 Mailing List on 8th September 1999
+
+<blockquote>
+<p>About 6 months ago I emailed Luna about possibly putting out a sort of "fan-club" single - after a short exchange of emails a couple of tapes landed on my door mat. A trip to Abbey Road to cut, a lot of help from various friends, a great deal of tolerance from my partner (the bank account looks a little bleak at the moment!) and I'm now in a position to make an announcement.</p>
+
+THE RECORDING  
+<ul>
+    <li>Luna - Dear Paulina / Seven-Eleven</li>
+    <li>7" single / 500 copies / black vinyl / picture sleeve</li>
+    <li>Written by LUNA recorded and mixed by Gary Maurer</li>
+</ul>
+<p>In case I get over-subscribed mailing list members (as of 8th September) will receive priority (and I won't make announcements outside of the mailing list/web page for a week or so).</p>
+<p>The record is at the pressing plant and the sleeve is at the printers so it'll be a couple of weeks before I have the finished article. I know I'm biased but this is a cracking little single that you really should own (I've been listening to it non stop for months (my two year old knows all the words!).</p>
+</blockquote>
+<p class="caption">Andy Aldridge - Galaxie 500 Mailing List - 8th September 1999</p>
+
+I set the release date for the 21st September, I'm not sure how/when I picked that date, and started taking orders, although by the date of "release" I still only had the sleeves!
+
+The announcement was followed with lots of discussion about whether there were enough copies to go around. There were, at the time, just shy of 400 people on the mailing list so I asssured everyone that they were guaranteed at least one copy. It turns out that while there were a few who wanted multiple copies there were also, oddly, people who didn't seem to want a copy at all. So everyone who wanted a copy got one, anyone who wanted more than one copy got as many as they wanted (within reason), and I still had quite a few left over.
+
+In the days before Paypal, taking orders over the Internet was a headache and the singles were sold for a "carefully concealed 5 dollar bill".
+
+On the 27 September I took delivery of 546 seven inch singles - I'm still not entirely sure why 546, 46 more than I had printed sleeves for. Over the next few weeks I mailed out 250 or so of these. My budget and pricing was set so that I would just break even if I sold at least 400 copies, the extras were to "pay" Luna (which I did in copies of the single), and for a little elbow room for uncertainties.
+
+The single got the Tower Records Single of the Fortnight in Irish paper [Hot Press](http://www.hotpress.com/), which led to Tower Records desperately getting in touch with me to get some copies into their shops. I paid Luna in singles which they sold at their shows or put into shops in NYC. In February 2000 Hazel and I went to New York City to see Luna and gave them most of the copies that I had left - they had more chance of selling them than I did. 
 
 Trivia:
 
-- The run out groove on the a-side has the old URL of A Head Full of Wishes - it doesn't work any more
-- I gave away some of the test pressings to people who helped out with the single - I still have a few and periodically wonder if test pressings have any value. Don't think I'll sell though
-- Just before the single was released I saw Luna in London and asked Dean if he wanted to approve the sleeve art before I released the single - he said "don't worry... as long as it's not a cat nailed to a board" (or something along those lines)
+- The run out groove on the a-side has the old URL of A Head Full of Wishes - it doesn't work any more.
+- Just before the single was released I saw Luna in London and asked Dean if he wanted to approve the sleeve art before I released the single - he said "don't worry... as long as it's not a cat nailed to a board" (or something along those lines).
 - It is the only release (so far) on GRANGE85RECORDS - so named because at the time I lived at **85** Studley **Grange** Road - I don't live there any more... so, don't write to me there.
 - The run out groove has the URL **www.aald.demon.co.uk/galaxie/** inscribed in there - the domain doesn't exist any more... so, don't bother visiting it... except in the [Wayback Machine](http://web.archive.org/web/19990129013042/http://www.aald.demon.co.uk/galaxie/).
 - The insert included the URL above and an email address that also no longer exists.
@@ -56,9 +85,6 @@ Trivia:
 
  - [A-side: Luna - Dear Paulina](http://www.box.net/shared/uig6ka6cl6)
  - [B-side: Luna - Seven-Eleven](http://www.box.net/shared/1qqgag7ezp)
-
-
-
 
 
 
