@@ -36,7 +36,7 @@ Dean shared the track on his newsletter a year after the single came out so... I
 "sourcecap": "Lonesome Cowboy Bill (Feral Child, 2017)"
 } %}
 
-In December 2018 Dean and Britta and Cheval Sombre played three shows in support of the _Dean vs Cheval Sombre_ release and the New York show as Le Poisson Rouge was recorded and in 2022 a few recordings from the show were released on D&B's Patreon,,, including this lovely take on Lonesome Cowboy Bill:
+In December 2018 Dean and Britta and Cheval Sombre played three shows in support of the _Dean vs Cheval Sombre_ release and the New York show as Le Poisson Rouge was recorded and in 2022 a few recordings from the show were released on D&B's Patreon... including this lovely take on Lonesome Cowboy Bill:
 
 {% ahfowaudio {
 "audiourl": "https://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-vs-cheval-sombre-lonesome.mp3",
@@ -45,7 +45,7 @@ In December 2018 Dean and Britta and Cheval Sombre played three shows in support
 "sourcecap": "Dean Wareham vs. Cheval Sombre - 7th December 2018 Le Poisson Rouge, New York, NY, USA"
 } %}
 
-Mike was at the show and shared this clip on them performing the song:
+Mike was at the show and shared this clip of them performing the song:
 
 {% ahfowvideo "dkzNvmpc_pY" "Dean Wareham vs Cheval Sombre - Lonesome Cowboy Bill (live at Le Poisson Rouge)" %}
 
