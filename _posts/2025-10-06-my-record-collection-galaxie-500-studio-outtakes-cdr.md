@@ -22,7 +22,7 @@ This is a CD that came with the [VHS I posted about earlier](/2025/08/11/my-reco
 
 There is a live version of It's Getting Late tagged on the end but even that has now had an official release, it being from the [CBGBs show that recently got released](/2025/08/14/my-record-collection-galaxie-500-cbgb-13th-december-1988/).
 
-The one, as yet still unreleased, gem is the fast version of Ceremony that I have shared before, but always nice to hear it again. I think this was recorded when they went into Noise New York to record demos for Slash Records... I know somewhere Dean mentions the fast version but I haven't tracked that down yet.
+The one, as yet still unreleased, gem is the fast version of Ceremony that I have shared before, but always nice to hear it again. I think this was recorded when they went into Noise New York to record demos for Slash Records... I know somewhere Dean mentions the fast version but I haven't tracked that interview down yet.
 
 {% ahfowaudio {
 "audiourl": "https://media.fullofwishes.co.uk/01-galaxie_500/audio/1989-02_Galaxie-500_Slash-demos_Ceremony_-demo-.mp3",
