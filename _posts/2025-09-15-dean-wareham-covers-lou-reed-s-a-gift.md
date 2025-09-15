@@ -24,4 +24,4 @@ The track was produced by Kramer and mixed (and has additional vocals) by Britta
 
 A demo version of the track had previously been released on a [Patreon only single by PIAPTK](/2025/04/25/new-dean-britta-single-but/) back in April, but Dean points out that he "re-recorded my vocal (with a better microphone and better attitude) and Britta did this re-mix".
 
-It doesn't seem to be available to buy on Dean's Patreon but... [keep checking](https://deanwareham.bandcamp.com/music).
+It doesn't seem to be available to buy on Dean's Bandcamp but... [keep checking](https://deanwareham.bandcamp.com/music).
