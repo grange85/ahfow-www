@@ -121,6 +121,10 @@ Dean
 
 The CDR arrived a week or so later - with a postcard dated 4th of July - so... all in one day. It contained the 17 track Beggars Banquet version of Lunafied so the extra tracks Dean mentions, plus Neon Lights, but is missing Fly Into The Mystery and Happy New Year from the Rhino/iTunes version.
 
+Lunafied eventually got a proper, physical release on vinyl so that beautiful [Abelardo Morell camera obscura](https://www.abelardomorell.net/selectedworks/camera-obscura) photo got put on the front of a lovely 12” package (and more on the back and inside the gatefold) and pretty much all of Luna’s Lunafied covers are on there!
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/luna-lunafied-lp-collage.jpg" "Luna - Lunafied (LP)" %}
+
 _You can see a load of [my pinhole camera photographs on Flickr](https://www.flickr.com/photos/grange85/albums/260543) - including quite a few of the Victorian terrace I mentioned (and far too many unflattering self-portraits)._
 
 ---
@@ -155,6 +159,6 @@ An original 1989/1990 shirt, designed by Tess Kramer with a photo by Macioce on 
 
 ### Damon & Naomi posters
 
-A snap of the Damon & Naomi wall in the museum (this is in my bedroom), containing five beautiful posters - two signed, but only one for a show I was actually at.
+A snap of the Damon & Naomi wall in the museum (or my bedroom), containing five beautiful posters - two signed, but only one for a show I was actually at.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/damon-and-naomi-poster-gallery.jpg" "Damon & Naomi posters" %}
