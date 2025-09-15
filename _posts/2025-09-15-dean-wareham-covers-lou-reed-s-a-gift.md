@@ -22,6 +22,6 @@ Dean Wareham has just released a cover of Lou Reed's 'A Gift' as a (digital only
 
 The track was produced by Kramer and mixed (and has additional vocals) by Britta.
 
-The track had previously been released on a [Patreon only single by PIAPTK](/2025/04/25/new-dean-britta-single-but/) back in April, and an early version was gifted to Dean & Britta's Patreon supporters back in 2023.
+A demo version of the track had previously been released on a [Patreon only single by PIAPTK](/2025/04/25/new-dean-britta-single-but/) back in April, but Dean points out that he "re-recorded my vocal (with a better microphone and better attitude) and Britta did this re-mix".
 
 It doesn't seem to be available to buy on Dean's Patreon but... [keep checking](https://deanwareham.bandcamp.com/music).
