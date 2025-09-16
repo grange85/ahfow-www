@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Squid and the Whale (DVD)'
+title: '[293] The Squid and the Whale (DVD)'
 date: 2025-10-13 00:00 +0000
 series-title: My record collection
 catno: 13/018
