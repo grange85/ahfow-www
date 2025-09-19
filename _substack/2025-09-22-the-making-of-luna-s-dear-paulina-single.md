@@ -14,11 +14,11 @@ categories:
 tags:
 -
 ---
-_Just to clarify this is about the making of the physical object, not the music on it - the making of which I know very little!_
+_Just to clarify this is about the making of the physical object, not the music on it - about the making of which I know very little!_
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-dear-paulina.jpg" "Luna - Dear Paulina" %}
 
-In Summer 1997 I had this half-baked idea to release a kind of [Beatles Fan Club single](http://en.wikipedia.org/wiki/The_Beatles%27_Christmas_Album#1963:_The_Beatles_Christmas_Record) only with Galaxie 500 rather than The Beatles. I had no idea, when I kicked off, just what I thought it might be like. So... I wrote (on paper with stamps and things) to [Damon & Naomi](http://www.damonandnaomi.com) just to test the ground. I got a lovely letter back from Naomi saying that they'd rather not get involved as Damon & Naomi, and that apart from The Peel Sessions they didn't have any Galaxie 500 unreleased material that they wanted to release "we were never that prolific" so, with that knockback I forgot about it. [footnote-1]
+In Summer 1997 I had this half-baked idea to release a kind of [Beatles Fan Club single](http://en.wikipedia.org/wiki/The_Beatles%27_Christmas_Album#1963:_The_Beatles_Christmas_Record) only with Galaxie 500 rather than The Beatles. I had no idea, when I kicked off, just what I thought it might be like. So... I wrote (on paper with stamps and things) to [Damon & Naomi](http://www.damonandnaomi.com) just to test the ground. I got a lovely letter back from Naomi saying that they'd rather not get involved as Damon & Naomi, and that apart from The Peel Sessions they didn't have any Galaxie 500 unreleased material that they wanted to release "we were never that prolific" so, with that knock-back I forgot about it. [footnote-1]
 
 In October 1997 I spoke to Dean Wareham after Luna's show at the LA2 in London, it was little more than a "hi you were great... would you sign my ticket" but it was the ice-breaker. Later that week he called and [left a phone message for me](https://www.fullofwishes.co.uk/2024/06/06/my-record-collection-142-dean-wareham-answerphone-message-mc/) and that lit the fire under my plans again... after all... we were mates now!
 
@@ -38,7 +38,7 @@ This was my second visit to Abbey Road, the first time was to "supervise" the cu
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/in-the-garden-at-abbey-road-2011.jpg" "In the garden at Abbey Road (2011) - Photo: Hazel" %}
 
-I knew nothing about the film and had no idea who [Paulina](http://en.wikipedia.org/wiki/Paulina_Porizkova) might be so for the sleeve art I threw together with my very limited Photoshop skills a picture of Hazel overlayed with a what was supposed to be the reflection of a computer monitor showing an email being written. A reference to the Galaxie 500 Mailing List... and you know... "Dear Paulina" sounded like a greeting at the beginning of an email. I'm no designer or artist so I didn't expect great things and all I really intended was that it would be better than a [cat nailed to a board](https://www.fullofwishes.co.uk/2023/08/21/my-record-collection-062-luna-outdoor-miner/). I had help from my designer friend Julian preparing it for print and sent it off.
+I knew nothing about the film and had no idea who [Paulina](http://en.wikipedia.org/wiki/Paulina_Porizkova) might be so for the sleeve art I threw together with my very limited Photoshop skills a picture of Hazel overlaid with a what was supposed to be the reflection of a computer monitor showing an email being written. A reference to the Galaxie 500 Mailing List... and you know... "Dear Paulina" sounded like a greeting at the beginning of an email. I'm no designer or artist so I didn't expect great things and all I really intended was that it would be better than a [cat nailed to a board](https://www.fullofwishes.co.uk/2023/08/21/my-record-collection-062-luna-outdoor-miner/). I had help from my designer friend Julian preparing it for print and sent it off.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/dear-paulina-memorabilia.jpg" "Dear Paulina memorabilia" %}
 
@@ -76,7 +76,7 @@ THE RECORDING
 
 I set the release date for the 21st September, I'm not sure how/when I picked that date, and started taking orders, although by the date of "release" I still only had the sleeves!
 
-The announcement was followed with lots of discussion about whether there were enough copies to go around. There were, at the time, just shy of 400 people on the mailing list so I asssured everyone that they were guaranteed at least one copy. It turns out that while there were a few who wanted multiple copies there were also, oddly, people who didn't seem to want a copy at all. So everyone who wanted a copy got one, anyone who wanted more than one copy got as many as they wanted (within reason), and I still had quite a few left over.
+The announcement was followed with lots of discussion about whether there were enough copies to go around. There were, at the time, just shy of 400 people on the mailing list so I assured everyone that they were guaranteed at least one copy. It turns out that while there were a few who wanted multiple copies there were also, oddly, people who didn't seem to want a copy at all. So everyone who wanted a copy got one, anyone who wanted more than one copy got as many as they wanted (within reason), and I still had quite a few left over.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dear-paulina-promo-website-1999.jpg" "Website to sell the single" %}
 
@@ -99,7 +99,7 @@ Trivia:
 - The single is probably technically a _bootleg_ since I don't think Dean should have given it to me since it _belonged_ to the makers of [the film that it was used in](https://en.wikipedia.org/wiki/Thursday_(film)). Although he was quite confident that a small run on a UK indie wouldn't come to their attention.
 - In the film, "Dallas", played by Paulina Porizkova, chooses to play 'Dear Paulina' while torturing/raping "Casey" - she plays a CD of it.
 - The track has never been released on CD.
-- Dear Paulina eventually turned up on the _Rarities_ LP as part of the [Long Players 92-99](/database/luna/releases/long-players-92-99/) box set - although, disappointingly, the sleeve wasn't included in the "a collection of singles and EPs" picture in the booklet.
+- Dear Paulina eventually turned up on the _Rarities_ LP as part of the [Long Players 92-99](https://www.fullofwishes.co.uk/database/luna/releases/long-players-92-99/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20250923) box set - although, disappointingly, the sleeve wasn't included in the "a collection of singles and EPs" picture in the booklet.
 - The British Library has a copy of the single - here is [the BL catalogue entry](https://sami.bl.uk/uhtbin/cgisirsi/?ps=GenpJ51cLn/WORKS-FILE/X/9).
 - The single got a couple of accolades in the Irish press
     - [Hot Press Single of the Fortnight (November 1999)](http://oblivious.fullofwishes.co.uk/post/24603014328/dear-paulina-gets-single-of-the-fortnight-in)<br />
@@ -112,4 +112,4 @@ Someone has popped the song on YouTube with some clips from the film - personall
 
 ---
 
-1. Although clearly what was not considered worthy of release in 1997 had become so by 2024 with the release of the [Uncollected Noise New York]().
+1. Although clearly what was not considered worthy of release in 1997 had become so by 2024 with the release of the [Uncollected Noise New York](https://www.fullofwishes.co.uk/2024/10/08/my-record-collection-recent-acquisition-09-and-10-galaxie-500-uncollected-noise-new-york-88-90/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20250923).
