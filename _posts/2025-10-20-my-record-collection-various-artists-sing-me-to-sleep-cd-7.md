@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Various artists - Sing Me to Sleep / Cinnamon Girl'
+title: '[295] Various artists - Sing Me to Sleep / Cinnamon Girl'
 date: 2025-10-20 00:00 +0000
 series-title: My record collection
 catno: 
