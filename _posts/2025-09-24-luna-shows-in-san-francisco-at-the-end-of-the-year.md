@@ -18,10 +18,10 @@ categories:
 tags:
 -
 ---
-Luna will be playing three shows with Yo La Twngo in San Francisco at the end of the year.
+Luna will be playing three shows with Yo La Tengo in San Francisco at the end of the year.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/02-luna/show_assets/luna-yo-la-tengo-dec-2025-poster.jpg" "Luna + Yo La Tengo poster" %}
 
-The shows will be at The Fillmore on the 28th and 29th of December and also on New Year's Eve (31st).
+The shows will be at The Fillmore on the 28th and 29th of December and also on New Year's Eve (31st December).
 
 [Tickets go on sale](https://www.ticketmaster.com/artist/733769?venueId=229424) at 10:00 Pacific time on the 25th September (tomorrow).
