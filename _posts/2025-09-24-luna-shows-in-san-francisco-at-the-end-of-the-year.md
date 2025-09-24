@@ -24,4 +24,6 @@ Luna will be playing three shows with Yo La Tengo in San Francisco at the end of
 
 The shows will be at The Fillmore on the 28th and 29th of December and also on New Year's Eve (31st December).
 
-[Tickets go on sale](https://www.ticketmaster.com/artist/733769?venueId=229424) at 10:00 Pacific time on the 25th September (tomorrow).
+[Tickets go on pre-sale](https://www.ticketmaster.com/artist/733769?venueId=229424) at 10:00 Pacific time on the 25th September (tomorrow), use the password 'fuzzywuzzy'.
+
+General sale will be on Friday.
