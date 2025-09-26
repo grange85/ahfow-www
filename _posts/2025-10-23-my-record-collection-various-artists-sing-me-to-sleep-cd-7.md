@@ -18,6 +18,7 @@ tags:
 - american laundromat
 - sing me to sleep
 - cinnamon girl
+date: 2025-10-23 00:00 +0000
 ---
 American Laundromat is a label that pretty much specialises in tribute albums and this is was the second one that Dean & Britta contributed to, the first being the tribute to The Cure [Just Like Heaven](/2023/04/24/my-record-collection-028-just-like-heaven/) that I wrote about quite early in the series.
 
