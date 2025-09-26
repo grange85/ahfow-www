@@ -1,8 +1,7 @@
 ---
 layout: post
-title: '[290] Galaxie 500 - Studio outtakes (CDR)'
-date: 2025-10-06 00:00 +0000
-series-title: My record collection 
+title: "[292] Galaxie 500 - Studio outtakes (CDR)"
+series-title: My record collection
 catno: 10/170
 author:
   display_name: Andy
@@ -15,6 +14,7 @@ categories:
 - my record collection
 tags:
 -
+date: 2025-10-09 00:00 +0000
 ---
 This is a CD that came with the [VHS I posted about earlier](/2025/08/11/my-record-collection-galaxie-500-live-compilation-vhs/) and a couple of posters. It contains studio outtakes, or unedited studio takes most of which has now been released, either on the first [Uncollected](/database/galaxie-500/releases/uncollected/#uncollected) or the more recent [Uncollected Noise New York](/2024/10/08/my-record-collection-recent-acquisition-09-and-10-galaxie-500-uncollected-noise-new-york-88-90/) releases. Previously I had most/all of this [on a cassette](/2023/08/17/my-record-collection-061-galaxie-500-unreleased-sessions-and-live-at-the-rat/).
 

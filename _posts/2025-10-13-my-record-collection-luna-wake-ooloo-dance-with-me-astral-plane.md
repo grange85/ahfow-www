@@ -1,7 +1,6 @@
 ---
 layout: post
-title: '[291] Luna / Wake Ooloo - Dance With Me / Astral Plane'
-date: 2025-10-09 00:00 +0000
+title: "[293] Luna / Wake Ooloo - Dance With Me / Astral Plane"
 series-title: My record collection
 catno: 11/001
 author:
@@ -17,6 +16,7 @@ tags:
 - wake ooloo
 - the feelies
 - jonathan richman
+date: 2025-10-13 00:00 +0000
 ---
 This split single was released as being a tribute to Jonathan Richman and had Luna doing a cover of Dance With Me on one side and post-Feelies band Wake Ooloo covering Astral Plane on the flip.
 

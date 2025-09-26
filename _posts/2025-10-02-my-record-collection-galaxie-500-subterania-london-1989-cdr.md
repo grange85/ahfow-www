@@ -1,7 +1,6 @@
 ---
 layout: post
-title: '[289] Galaxie 500 - Subterania, London - 1989 (CDR)'
-date: 2025-09-29 00:00 +0000
+title: "[290] Galaxie 500 - Subterania, London - 1989 (CDR)"
 series-title: My record collection
 catno:
 author:
@@ -14,6 +13,7 @@ categories:
 -
 tags:
 -
+date: 2025-10-02 00:00 +0000
 ---
 Back in 2012, Lori got in touch with me and over the course of a few weeks sent me some absolutely lovely Galaxie 500 _stuff_ - some of which I wrote about in [a previous post](/2023/03/23/my-record-collection-019-galaxie-500-winkles-bedford-soundcheck-december-1989-cdr/) in this series. A few weeks later this CDR of Galaxie 500's show at Subterania in London in 1989 arrived.
 

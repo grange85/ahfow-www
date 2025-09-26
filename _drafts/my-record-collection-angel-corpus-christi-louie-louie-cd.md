@@ -1,7 +1,6 @@
 ---
 layout: post
-title: '[296] Angel Corpus Christi - Louie Louie (CD)'
-date: 2025-10-23 00:00 +0000
+title: "[297] Angel Corpus Christi - Louie Louie (CD)"
 series-title: My record collection
 catno: 10/145
 author:

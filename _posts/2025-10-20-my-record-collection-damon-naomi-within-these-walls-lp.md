@@ -1,8 +1,7 @@
 ---
 layout: post
-title: '[294] Damon & Naomi - Within These Walls (LP)'
-date: 2025-10-16 00:00 +0000
-series-title: My record collection 
+title: "[295] Damon & Naomi - Within These Walls (LP)"
+series-title: My record collection
 catno: 12/013
 author:
   display_name: Andy
@@ -15,7 +14,7 @@ categories:
 - my record collection
 tags:
 - within these walls
-
+date: 2025-10-20 00:00 +0000
 ---
 Within These Walls was Damon & Naomi's sixth/seventh studio album released in 2007, but only on CD. It finally got an LP release ten years later.
 

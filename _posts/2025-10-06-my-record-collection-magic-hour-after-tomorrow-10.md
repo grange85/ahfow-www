@@ -1,7 +1,6 @@
 ---
 layout: post
-title: '[289] Magic Hour - After Tomorrow (10")'
-date: 2025-10-02 00:00 +0000
+title: '[291] Magic Hour - After Tomorrow (10")'
 series-title: My record collection
 catno: 12/068
 author:
@@ -15,6 +14,7 @@ categories:
 - my record collection
 tags:
 - magic hour
+date: 2025-10-06 00:00 +0000
 ---
 Magic Hour's second release, just ahead of their first album, came out on Ché Records in 1994 and contained, on the a-side, a couple of tracks from Magic Hour's first albun [No Excess is Absurd](/2024/04/25/my-record-collection-130-magic-hour-no-excess-is-absurd-lp/) After Tomorrow and World of One, which was only on the CD versions of the album. On the b-side is a fifteen minute version of Permanent Green Light, originally released by NY psych-rock band The Godz on their second album.
 

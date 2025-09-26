@@ -1,7 +1,6 @@
 ---
 layout: post
-title: '[293] The Squid and the Whale (DVD)'
-date: 2025-10-13 00:00 +0000
+title: "[294] The Squid and the Whale (DVD)"
 series-title: My record collection
 catno: 13/018
 author:
@@ -16,6 +15,7 @@ categories:
 tags:
 - the squid and the whale
 - noah baumbach
+date: 2025-10-16 00:00 +0000
 ---
 I already posted about the [CD release of the soundtrack of The Squid and the Whale](/2023/08/28/my-record-collection-064-the-squid-and-the-whale/) a couple of years ago and might have considered the film covered by that except that while writing that post I commented on how little actual Dean and Britta was on it. Britta, on the mailing list in 2005, assured us that there was more of their music in the film:
 

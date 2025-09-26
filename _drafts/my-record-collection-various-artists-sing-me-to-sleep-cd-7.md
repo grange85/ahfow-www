@@ -1,12 +1,11 @@
 ---
 layout: post
-title: '[295] Various artists - Sing Me to Sleep / Cinnamon Girl'
-date: 2025-10-20 00:00 +0000
+title: "[296] Various artists - Sing Me to Sleep / Cinnamon Girl"
 series-title: My record collection
-catno: 
- - 10/070
- - 10/035
-author: 
+catno:
+- 10/070
+- 10/035
+author:
   display_name: Andy
   login: admin
   email: andy@grange85.co.uk
