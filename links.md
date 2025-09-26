@@ -7,6 +7,7 @@ title: Links
 {% include post_list.html limit=3 %}
 
  - [Read the latest A Head Full of Wishes post on Substack](https://aheadfullofwishes.substack.com/)
+ - [Photos and audio: Galaxie 500 in London in 1989](https://www.fullofwishes.co.uk/2012/07/19/photos-and-audio-galaxie-500-in-london-in-1989/)
 
 ### Other links
 <ul>
@@ -17,7 +18,7 @@ title: Links
 </ul>
 
 ### Video
- - [Luna US Out Of My Pants at The Embassy Rooms, London - 8th September 1999](https://www.youtube.com/watch?v=_KQAsVN65Bw)
+ - Five years ago - [Dean & Britta - Homeward Bound - September 2020](https://www.youtube.com/watch?v=LafGLcsc0Ok)
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-youtube.jpg" "A Head Full of Wishes on YouTube" "https://www.youtube.com/@ahfow" %}
 
