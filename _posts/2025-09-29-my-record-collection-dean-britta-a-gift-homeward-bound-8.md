@@ -24,7 +24,7 @@ This lovely lathe cut 8" single by Dean & Britta was released as a gift to PIAPT
 
 The single is a square of white plastic with both tracks cut onto one side, the sleeve is a beautiful picture of Britta and a drum kit, printed onto a transparent piece of plastic - it is lovely, and means that I can make it look like a tiny Britta is standing on my record player while I'm playing it.
 
-A Gift is a cover of the Lou Reed track that was released on his 1975 LP [Coney Island Baby](https://en.wikipedia.org/wiki/Coney_Island_Baby), this is was later released with a re-recorded vocal, re-mixed (by Britta) and mastered by Kramer, and credited just to _Dean Wareham_, but this is the _Dean & Britta_ demo version.
+A Gift is a cover of the Lou Reed track that was released on his 1975 LP [Coney Island Baby](https://en.wikipedia.org/wiki/Coney_Island_Baby), this was [later released](/2025/09/15/dean-wareham-covers-lou-reed-s-a-gift/) with a re-recorded vocal, re-mixed (by Britta) and mastered by Kramer, and credited just to _Dean Wareham_, but this is the _Dean & Britta_ demo version.
 
 Homeward Bound was first performed by Dean & Britta way back in 2010 at a pricey benefit show on the Central Park Summerstage - the event was a star spangled event with all the artists covering songs by Simon & Garfunkel. A [short piece in the New Yorker](https://www.newyorker.com/magazine/2010/07/05/hello-lamppost) mentions the rehearsals for the show that were at the City Winery in New York...
 
