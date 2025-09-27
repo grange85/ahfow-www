@@ -44,7 +44,11 @@ The album closes with Cruel Queen, which I feel owes more to British folk ballad
 
 {% ahfowvideo "wyeUwOGPIuo" "Damon & Naomi Cruel Queen (Thing In The Spring 2008)" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-naomi-cruel-queen-vidcap.jpg" %}
 
-Damon & Naomi acknowledge the song's roots on the sleeve "Cruel Queen is based on the traditional song _The Trees They Do Grow High_" - I knew the song thanks to Pentangle's version on their beautiful half-live double album [Sweet Child](https://en.wikipedia.org/wiki/Sweet_Child), but it is a folk standard so Damon & Naomi's knowledge may stem from elsewhere. Here's Pentangle's version:
+Damon & Naomi acknowledge the song's roots on the sleeve "Cruel Queen is based on the traditional song _The Trees They Do Grow High_" - I knew the song thanks to Pentangle's version on their beautiful half-live double album [Sweet Child](https://en.wikipedia.org/wiki/Sweet_Child), but it is a folk standard so Damon & Naomi's knowledge may stem from elsewhere. 
+
+Sadly Pentnagle's original bass player the great Danny Thompson left us a few weeks ago, if you're unfamiliar go and check out the many great tributes that have been posted since his death and discover all the great music you probably already know and love that he was involved in.
+
+Here's Pentangle's version of The Trees They Do Grow High:
 
 {% ahfowvideo "g4vjjDe7cR8" "Pentangle - The Trees They Do Grow High (Sweet Child, 1968)" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/pentangle-1969.jpg" %}
 
