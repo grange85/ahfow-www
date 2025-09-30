@@ -68,3 +68,13 @@ Luna recorded the track for Noah Baumbach’s 1997 film Mr Jealousy - here's a p
 https://www.youtube.com/watch?v=4JAyONBVOhE
 
 ### Happy Xmas (War is Over)
+
+John Lennon first released Happy Xmas (War is Over) as a single for Christmas 1971 in the US (and released a year later for the following Christmas in the UK).
+
+https://www.youtube.com/watch?v=yN4Uu0OlmTg
+
+Dean & Britta debuted their cover of the song in their 2020 livestreamed show on the 19th December and later re-recorded it with Sonic Boom for their 2024 Christmas album [A Peace of Us]().
+
+https://deanandbritta.bandcamp.com/track/happy-xmas-war-is-over
+
+The single
