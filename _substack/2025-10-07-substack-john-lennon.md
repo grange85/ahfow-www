@@ -16,11 +16,11 @@ tags:
 ---
 This week John Lennon should have reached his 85th birthday so let's have a look at where he has touched A Head Full of Wishes...
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/postcard-dw-to-ny-dk.jpg" "Postcard of The Beatles sent to Damon and Naomi by Dean, 1989" %}
 
 ### Rain
 
-Rain was written by John (credited as with all their songs to Lennon-McCartney) and recorded by The Beatles in April 1966. In [Revolution in The Head]() Ian McDonald says that it "expresses the vibrant lucidity of a benign LSD experience" (something that Dean did later with Decomposing Trees?). The Beatles released it as the b-side to Paperback Writer and is I guess the most notable b-side in the band's canon.
+Rain was written by John (credited as with all their Beatles songs to Lennon-McCartney) and recorded by The Beatles in April 1966. In [Revolution in The Head]() Ian McDonald says that it "expresses the vibrant lucidity of a benign LSD experience", something that Dean did later with Decomposing Trees. The Beatles released it as the b-side to Paperback Writer and is I guess the most notable b-side in the band's canon.
 
 It is very much a product of the studio, and George Martin's, studio experimentation, with varied speeds, and reversed tapes make George M very much the fifth Beatle (or The Beatles' Kramer) on this (and so many of their more experimental songs).
 
@@ -48,9 +48,9 @@ John Lennon - Hold On (play on YouTube)
 <blockquote>
 I'm saying 'hold on John' because I don't want to die...I don't want to be hurt and please don't hit me...Hold on now, we might have a cup of tea, we might get a moment's happiness any minute now. So that's what it's about, just moment by moment. That's how we're living now, but really living like that and cherishing each day, and dreading it too. It might be your last.
 </blockquote>
-<p class="caption">Quoted on Wikipedia from [The Complete Guide to the Music of John Lennon by Johnny Rogan, 1997](https://en.wikipedia.org/wiki/Hold_On_%28John_Lennon_song%29#cite_note-complete-6)</p>
+<p class="caption">Quoted on Wikipedia from <a href="https://en.wikipedia.org/wiki/Hold_On_%28John_Lennon_song%29#cite_note-complete-6">The Complete Guide to the Music of John Lennon by Johnny Rogan, 1997</a></p>
 
-Luna never released a version of the track but covered it quite frequently in 1994, [this post](https://www.fullofwishes.co.uk/2013/08/14/originals-hold-on-by-john-lennon-covered-by-luna/) has an mp3 of a live radio recording made for KCRW on the 4th April.
+Luna never released a version of the track but covered it quite frequently in 1994, [this post](https://www.fullofwishes.co.uk/2013/08/14/originals-hold-on-by-john-lennon-covered-by-luna/) has an mp3 of a live radio recording made for KCRW on the 4th April, and during a live show in London.
 
 ### Jealous Guy
 
@@ -77,4 +77,10 @@ Dean & Britta debuted their cover of the song in their 2020 livestreamed show on
 
 https://deanandbritta.bandcamp.com/track/happy-xmas-war-is-over
 
-The single
+The Lennon single of Happy Xmas (War is Over) had a Yoko track on the flip and since John played guitar of that...
+
+### Listen, the Snow is Falling
+
+Here're are Dean & Britta doing both sides of that single during that Christmas live streamed show in 2020:
+
+https://www.youtube.com/watch?v=nKzbZ3KcuuI
