@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Dean on Krankenhaus, Stewart Lee, Sea Power, and the single edition 13 Most Beautiful
-  platforms
 date: 2025-10-03 20:31 +0100
 series-title:
 catno:
