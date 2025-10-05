@@ -30,7 +30,7 @@ Dean's [latest newsletter](https://deanwareham.com/campaigns/1075458) covers an 
 <blockquote>
 we are finally releasing the single-disc edition of 13 Most Beautiful: Songs for Andy Warhol’s Screen Tests at streaming services. This sequence of the album follows the live show we performed, without the extra remixes, and it flows better this way. We are not sure if it’s the algorithm, but one song from this album, “Herringbone Tweed,” has recently become our most streamed song on Apple Music.
 </blockquote>
-<p class="caption">footer</p>
+<p class="caption">Dean Wareham newsletter (3rd October 2025)</p>
 
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-and-britta-13mb-pink-cd.jpg" "Single disc 13 Most Beautiful" %}
