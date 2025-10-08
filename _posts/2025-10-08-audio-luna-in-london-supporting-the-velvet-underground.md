@@ -37,7 +37,7 @@ Dean wrote about the show in his tour diary:
 <blockquote>
 Tonight’s show is at the Forum in London, capacity of about 1800. Lots of celebrities, like Chrissie Hynde and Peter Gabriel. Wow. I was hoping for Mick Ronson. The Velvets do a killer version of “Hey Mr. Rain” which must be about twelve minutes long. They’re also doing a new song in the encores, “Coyote.” After the show, we go back to the Columbia Hotel and sit in the bar.
 </blockquote>
-<p class="caption"><a href="/2013/06/05/luna-vu-tour-diary-5th-june-1993/">Luna / VU tour diary – 5 June 1993"</a></p>
+<p class="caption"><a href="/2013/06/05/luna-vu-tour-diary-5th-june-1993/">Luna / VU tour diary – 5 June 1993</a></p>
 
 I'll be writing about the tape, and I guess the show, in the series in a few weeks time and will share it again then, in the meantime, go grab it from DIME.
 
