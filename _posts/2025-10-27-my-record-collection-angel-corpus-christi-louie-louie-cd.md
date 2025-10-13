@@ -35,7 +35,7 @@ It is a very, very beautiful version... prepare to be swept off your feet!
 
 {% ahfowvideo "6qrRmdB_5Uk" "Angel Corpus Christ - Femme Fatale" %}
 
-I bought this CD, along with Accordion Pop, via mail order from Glasgow shop Volcanic Tongue in 2005. Volcanic Yongue was run by David Keenan and his wife Heather Leigh and when I bought the CDs Heather wrote "these CDs are so great, we're big Angel fans here". 
+I bought this CD, along with Accordion Pop, via mail order from Glasgow shop Volcanic Tongue in 2005. Volcanic Tongue was run by David Keenan and his wife Heather Leigh and when I bought the CDs Heather wrote "these CDs are so great, we're big Angel fans here". 
 
 I have recently been reading my way through a collection of David Keenan's writings, also called Volcanic Tongue, which is a really good read, I've not read any of his fiction but do also own the soundtrack to the play of his novel Memorial Device which was by Stephen Pastel and Gavin Thompson. I'll get round to reading Memorial Device some time!
 
