@@ -14,7 +14,7 @@ categories:
 tags:
 -
 ---
-_I'm not sure that I have enough content to warrant this post, but since it's 35 years since I last saw Galaxie 50Galaxie 500 it seemed odd not to commemorate it in some way, so... here goes..._
+_I'm not sure that I have enough content to warrant this post, but since it's 35 years since I last saw Galaxie 500 it seemed odd not to commemorate it in some way, so... here goes..._
 
 On the 1st November 1990, 35 years ago this week, Galaxie 500 started their final UK tour, over the next two weeks they played twelve shows around the country finishing up at ULU in London where I saw the band for the last time.
 
@@ -25,7 +25,7 @@ On the 1st November 1990, 35 years ago this week, Galaxie 500 started their fina
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-11-01/1990-11-01-galaxie-500-newcastle-poster.jpg" "Signed poster (photo: Steve Johnson)" "https://www.facebook.com/photo/?fbid=2559088284327827&set=gm.10157399996354017" %}
 
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-11-01/1990-11-01-galaxie-500-newcastle-setlist.jpg" "Setlist (photo: Sean Sullivan)" "https://www.facebook.com/photo.php?fbid=10157973156814919&set=p.10157973156814919&type=3" %}
-The tour started at the Riverside in Newcastle (in the North East of England) - I moved to the NE in 2021 by which time The Riverside had been long closed - although I did a sort of pilgrimage, there was a plaque:
+The tour started at the Riverside in Newcastle (in the North East of England) - I moved to the NE in 2021 by which time The Riverside had been long closed - although I did a sort of pilgrimage, there was a plaque - it didn't mention Galaxie 500!
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/newcastle-riverside-plaque.jpg" "Plaque on the Riverside, Newcastle" %}
 
@@ -44,7 +44,7 @@ There are a couple of recordings of this show doing the rounds here's their seco
 {% ahfowaudio {
 "audiourl": "https://media.fullofwishes.co.uk/01-galaxie_500/audio/1990-11-03-galaxie-500-glasgow-dloygtw.mp3",
 "audiocap": "Galaxie 500 - Don't Let Our Youth Go to Waste (live)",
-"sourceurl": "https://www.fullofwishes.co.uk/database/galaxie-500/shows/galaxie-500-1990-11-03-college-of-building-and-printing-glasgow-uk/",
+"sourceurl": "/database/galaxie-500/shows/galaxie-500-1990-11-03-college-of-building-and-printing-glasgow-uk/",
 "sourcecap": "Galaxie 500 - 3rd November 1990 / College of Building and Printing, Glasgow, UK"
 } %}
 
@@ -74,11 +74,9 @@ God, I miss being able to read prose like that week in and week out! There's a p
 
 ### 7th November 1990 - Leicester University
 
-I have nothing for this show either, so... I'll cheat! They did play at the same venue 9 months earlier supporting The Sundays, that show was caught on video.
+Greg took this photo of Dean at the show at Leicester
 
-https://www.youtube.com/watch?v=f_RDoNcjbYQ
-
-Kramer joins them for the encore, he was with them for the tour in November but I think mostly kept to his place at the soundboard.
+{% ahfowimage "https://live.staticflickr.com/2832/12709886835_28a8d8a48b_b.jpg" "Galaxie 500 at Leicester University (photo: Greg Neate)" "https://www.flickr.com/photos/neate_photos/12709886835/" %}
 
 ### 9th November 1990 - Waterfront, Norwich
 
@@ -98,13 +96,69 @@ A while later a fat envelope turned up with prints so... they're now in "the mus
 
 You can see more pictures from Sheffield in a couple of earlier posts:
 
- - [Photos: Galaxie 500 in Sheffield in November 1990](https://www.fullofwishes.co.uk/2025/04/22/photos-galaxie-500-in-sheffield-in-november-1990/)
- - [Photos: Galaxie 500 in Sheffield in 1990 (part 2)](https://www.fullofwishes.co.uk/2025/04/25/photos-galaxie-500-in-sheffield-in-1990-part-2/)
+ - [Photos: Galaxie 500 in Sheffield in November 1990](https://www.fullofwishes.co.uk/2025/04/22/photos-galaxie-500-in-sheffield-in-november-1990/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20251028)
+ - [Photos: Galaxie 500 in Sheffield in 1990 (part 2)](https://www.fullofwishes.co.uk/2025/04/25/photos-galaxie-500-in-sheffield-in-1990-part-2/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20251028)
 
 ### 11th November 1990 - Bierkeller, Bristol
 
-Nothing from this show but here's Dean and Damon playing The Bierkeller in February 1990 supporting The Sundays:
+While Galaxie 500 were in Bristol on this tour Phil McMullen interviewed them for Terrascope, he talked about the interview for the [Temperature's Rising oral history](https://www.fullofwishes.co.uk/2022/09/22/temperatures-rising-oral-history-book-reissued/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20251028):
 
-{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-02-07/19900207-g500-bristol-01.jpg" "Galaxie 500 - Bierkellar, Bristol - February 1990 (photo: Stephen Blake)" %}
+<blockquote>
+<p>What I hadn't realized when I walked into the dingy little dressing room the band had been allocated, was that here was a band at crisis point. They were barely talking to one another, let alone to journalists.</p>
+<p>"How would you describe your music?" I asked. "It's bollocks," replied Dean. Thanks, Dean. Naomi was more circumspect, and came out with what I felt was the most telling remark of the whole evening. "People always ask me why I don't smile on stage. Why should I, though? There's nothing especially cheerful going on up there..."</p>
+</blockquote>
+<p class="caption">Phil McMullen quotes in Temperature's Rising (Yeti, 2012)</p>
+
+The interview, in the Winter 1990/91 issue of Terrascope didn't give (m)any clues to the state of the band. I'm not sure if the photo used in the magazine was from Bristol, but they're all smiling... off-stage!?
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/galaxie-500-terrascope-winter-1990-1.jpg" "Galaxie 500 in the Winter 1990-91 issue of Terrascope (photo: Mike Ware)" %}
+
+Phil opened the Terrascope piece with a review of sorts of the Bristol show:
+
+<blockquote>
+Nine dates into their November '90 UK tour, Galaxie 500 glided into Bristol, settled gently on the piss-stained floor of the chosen dungeon of a venue, and proceeded to hold the audience spellbound with their convoluted melodies and textured guitar tones. I trust they were spellbound anyway; most were silent, some stood and swayed and others just sat and hugged each other. It's ideal music for that sort of activity. And then Galaxie 500 would suddenly burst open at you like the unfurling of a flower in Spring, showering heads in colour and pollen and inviting them to step inside before devouring them completely with noise. And all the time the three of them just stood there, aloof and unsmiling, creating a fervour that sat shimmering in front of the stage, just out of reach of those who were tuned in and invisible to those who had dropped off.
+</blockquote>
+<p class="caption">Phil McMullen - Ptolemaic Terrascope (Winter 1990/91)</p>
+
+More _ridiculously_ beautiful prose!
 
 ### 13th November 1990 - Goldwyns, Birmingham
+
+I have nothing... I'm sure it was great... move along
+
+### 14th November 1990 - International 1, Manchester
+
+Wow! Nothing from Manchester either, two big cities letting me down. Galaxie 500 had headlined the same venue in June with Teenage Fanclub supporting, so, I guess you can watch that...
+
+https://www.youtube.com/watch?v=vnZjs7Zq-rY
+
+### 15th November 1990 - ULU, London
+
+<blockquote>
+Our very last English show was at the University of London Union (ULU), the biggest venue we ever headlined. Kramer slathered us in reverb and delay, and we sounded huge. The next day we set off for Rennes.
+</blockquote>
+<p class="caption">Dean Wareham - Black Postcards (Penguin, 2008 - p95)</p>
+
+And so we come to the gig I was at, the second, and last time I saw Galaxie 500 - sadly I can remember very little of the show...
+
+ - I was there with Ken and Graham... pretty sure Nino was there too (I haven't seen Graham or Nino for years so can't confirm) - I suspect there were others I'd talked into coming along.
+ - I might have bought a T-shirt at the gig (although I might have bought that at the Subterania gig).
+ - It was pretty crowded, we arrived too late to get too good a spot so I was more than half-way back.
+ - Someone in front of us shouted for "Submission" between every song. The Galaxie 500 Peel session with "Submission" had been broadcast a just over a week before the gig. They didn't play it.
+
+There was a bootleg VHS of this show doing the rounds for years that eventually got an official release on the [Don't Let Our Youth Go to Waste 2xDVD](https://www.fullofwishes.co.uk/2024/11/11/my-record-collection-187-don-t-let-our-youth-go-to-waste-dvd/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20251028) - here's {% ahfowtrack "Listen, The Snow is Falling" %} from that show:
+
+https://www.youtube.com/watch?v=RuFD-gh7FbE
+
+The one other thing I know about this show is that Tracey Thorn and Ben Watt of Everything But The Girl were at the show. Tracey writes about it in her fab memoir [Bedsit Disco Queen](https://en.wikipedia.org/wiki/Bedsit_Disco_Queen):
+
+<blockquote>
+<p>After 'I Don't Want To Talk About It' was a hit, Ben and I went to a gig at ULU (the University of London Union) one night, to see Galaxie 500. A couple of studenty Beavis and Butthead types recognised us and nudged each other.</p>
+
+<p>'Look, I-don't-wanna-talk-about-it, chuckled one, and his mate quipped back, 'I-don't-wanna-hear-about-it, and they both snickered, right there in front of us.</p>
+
+<p>Had we suddenly become people who were not supposed to be at a Galaxie 500 gig? Who didn't fit in there any more? Jesus, were we the enemy now? This hadn't been the point. How on earth had THIS happened? There were moments when I found myself wondering, 'Was this really what we meant when we said we opposed all rock 'n' roll?'</p>
+</blockquote>
+<p class="caption">Bedsit Disco Queen - Tracey Thorn (Virago, 2013 - p208)</p>
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/instagram-fullofwishes/2023-10-22_13-58-35_UTC_5.jpg" "ULU sketch from Everything's Swirling #2 (April 2021)" "/2023/04/05/artefacts-035-everything-s-swirling-2-fanzine-to-download/" %}
