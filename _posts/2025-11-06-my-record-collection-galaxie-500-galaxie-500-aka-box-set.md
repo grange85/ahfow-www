@@ -43,34 +43,40 @@ That's true, Ryko was extremely cautious with the press run, and consequently so
 </blockquote>
 <p class="caption">Damon Krukowski (Ptolemaic Terrascope #23)</p>
 
-So... I waited and there was still no sign of my box set arriving. The weekend after release day I was in the West End and while browsing the stacks of the HMV I saw a copy of the box set had made it there and, despite already having one on order, I bought the box (my memory is that it was £42).
+So... I waited and there was still no sign of my box set arriving. The weekend after release day I was in the West End and while browsing the stacks of the Virgin Megastore I saw a copy of the box set had made it there and, despite already having one on order, I bought the box (my memory is that it was £42).
 
-This is the box set that I played, and played relentlessly. I even tried to play the videos one of which was included on each of the discs - although my Amiga wasn't really geared up for it. Although, it turns out problems playing the videos wasn't strictly an Amiga issue, lots of people were having problems to the point that Lars from Rykodisc emailed me to explain...
+Eventually my order from the US arrived, I had to cycle out to the Royal Mail depot in Park Royal and pay the customs duty and VAT on it - but that explains why I also have an [unopened copy of the box set](/2024/04/29/my-record-collection-131-galaxie-500-galaxie-500-aka-box-set/).
 
-<blockquote>
-<p>Amazing how the various myths about the videos persist.</p>
+The copy of the box set that I played therefore is the one I bought in the Virgin Megastore on the corner of Oxford Street and Tottenham Court Road. 
 
-<p>If anybody is running a G500 FAQ, please include a bit about the
-Rykodisc Enhanced CD page
-(http://www.rykodisc.com/3/central/enhanced.html) All of the existing
-answers are there.</p>
+Despite already having all three albums this was my first CD copy of Today, since until then I only had it on the [Shimmy Disc Europe LP](/2025/04/10/my-record-collection-galaxie-500-today-shimmy-disc-europe-lp/). I tried to play the videos one of which was included on each of the discs - although my Amiga wasn't really geared up for it. Although, it turns out problems playing the videos wasn't strictly an Amiga issue, lots of people were having problems to the point that Lars from Rykodisc sent a rather terse email to explain...
 
-<p>To debunk some recent misleading info:</p>
+    Date: Wed, 2 Apr 1997 14:45:00 -0600
+    From: Lars Murray <lmurray@rykodisc.mhub.com>
+    Subject: Videos--One More Time
 
-<p>1) The videos are NOT Mac-only. They will play on a
-properly-configured PC (see web page for details).</p>
+    Amazing how the various myths about the videos persist.
 
-<p>2) NET TOOB may display the videos, but it is not a substitute for
-the proper CD-ROM drivers, without which you will not see them. Nor
-is it necessary to use NET TOOB to view them.</p>
+    If anybody is running a G500 FAQ, please include a bit about the
+    Rykodisc Enhanced CD page
+    (http://www.rykodisc.com/3/central/enhanced.html) All of the existing
+    answers are there.
 
-<p>3) The videos are QuickTime, not some proprietary format.</p>
+    To debunk some recent misleading info:
 
-<p>Enjoy,<br>
-Lars Murray<br>
-Rykodisc
-</p>
-</blockquote>
+    1) The videos are NOT Mac-only. They will play on a
+    properly-configured PC (see web page for details).
+
+    2) NET TOOB may display the videos, but it is not a substitute for
+    the proper CD-ROM drivers, without which you will not see them. Nor
+    is it necessary to use NET TOOB to view them.
+
+    3) The videos are QuickTime, not some proprietary format.
+    
+    Enjoy,
+    Lars Murray
+    Rykodisc
+
 <p class="caption">Email from Lars at Rykodisc - 2nd April 1997</p>
 
 Obviously point 3 is a nonsense because Quicktime *is* a proprietary format! But... 
@@ -93,7 +99,7 @@ These days I'll either listen to Galaxie 500 on LP or streamed but... time to di
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-box-set-today-cd.jpg" "Box set - Today" %}
 
-Bonus track: King of Spain
+Bonus track: King of Spain  
 Video: [Tugboat](https://www.youtube.com/watch?v=Xe_21Z7wKQU)
 
 
@@ -101,14 +107,14 @@ Video: [Tugboat](https://www.youtube.com/watch?v=Xe_21Z7wKQU)
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-box-set-on-fire-cd.jpg" "Box set - On Fire" %}
 
-Bonus tracks: Victory Garden, Ceremony and Cold Night
+Bonus tracks: Victory Garden, Ceremony and Cold Night  
 Video: [When Will You Come Home](https://www.youtube.com/watch?v=o5R_bYZffQI)
 
 ### Disc Three - This Is Our Music
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-box-set-this-is-our-music-cd.jpg" "Box set - This Is Our Music" %}
 
-Bonus track: Here She Comes Now
+Bonus track: Here She Comes Now  
 Video: [Fourth of July](https://www.youtube.com/watch?v=ct3QKlEgwbk)
 
 ### Disc Four - Uncollected
@@ -116,3 +122,24 @@ Video: [Fourth of July](https://www.youtube.com/watch?v=ct3QKlEgwbk)
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-box-set-uncollected-cd.jpg" "Box set - Uncollected" %}
 
 Video: [Blue Thunder](https://www.youtube.com/watch?v=XYWC_U4rsEc)
+
+---
+
+I'm not sure when I last sat down and listened to all four discs in a sitting, I'd imagine not too long after I bought them, although obviously I've listened to them quite a lot individually since then, as my top albums on last.fm can testify
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/last-fm-top-10-albums-all-time.jpg" "My top ten albums on last.fm (November 2004 to October 2025)" %}
+
+I guess because of the long-term impact of Galaxie 500 on my life, listening to them even now gives me the sort of emotional hit that not much is capable of doing it. Last.fm suggests I've listened to Snowstorm over 300 times since November 2004 - that's more than once a month - and doesn't include the many LP plays that haven't been scrobbled, and quite a few live performances! But, despite that it still affects me as it did on first listen in on a pre-UK-release cassette in autumn 1989 - and when I saw them play it on Snub in January 1990:
+
+{% ahfowvideo "zcy8VQLMlTA" "Galaxie 500 - interview & Snowstorm (Snub TV, January 1990)" "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/screenshot-galaxie-500-snowstorm-snub.jpg" %}
+
+Obviously the Uncollected disc was the most exciting addition, this was where the _new_ (to us) music was appearing, although I already had a few of the tracks either on releases or bootlegs - but there was still some beautiful surprises on there. 
+
+I genuinely don't think I've had the same level of excitement for a release as I had for the Galaxie 500 box set, of course that was because the weeks before and after the release were spent in the online-company of a large number of people with the same feelings as I had. I know I keep saying this, but the late 90s - in the days before "social media" - were the most gloriously social time the Internet ever achieved - check out my post on [The Galaxie 500 Mailing List on Substack](https://aheadfullofwishes.substack.com/p/the-galaxie-500-mailing-list-est):
+
+<blockquote>
+I really miss the camaraderie we had back then, it was a small community but active and (for the most part) fun and friendly - the list was as much a general music list as a Galaxie 500 / Luna / Damon & Naomi one - and was all the better for that - I discovered so many bands I still love to this day thanks to the mailing list. Modern social networks have nothing on what we had back then. I know this makes me sound like the old, old, man I have become but DAMN! I MISS THOSE DAYS SO MUCH!
+</blockquote>
+<p class="caption"><a href="https://aheadfullofwishes.substack.com/p/the-galaxie-500-mailing-list-est">The Galaxie 500 Mailing List (Est. July 1995)</a></p>
+
+
