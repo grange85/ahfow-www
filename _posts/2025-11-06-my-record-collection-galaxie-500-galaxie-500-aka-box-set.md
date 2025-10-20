@@ -83,7 +83,7 @@ Obviously point 3 is a nonsense because Quicktime *is* a proprietary format! But
 
 I did eventually manage to see the videos. although possibly by taking the discs into work and using one of their Windows machines.
 
-I remember us being so excited at the enhanced CD with the videos... this is the size of that video playing on my laptop today...
+I remember us being so excited at the enhanced CD with the videos... this is the size of one of those videos playing on my laptop today...
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-tugboat-video-playing.jpg" "Playing the Tugboat video" %}
 
@@ -129,7 +129,7 @@ I'm not sure when I last sat down and listened to all four discs in a sitting, I
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/last-fm-top-10-albums-all-time.jpg" "My top ten albums on last.fm (November 2004 to October 2025)" %}
 
-I guess because of the long-term impact of Galaxie 500 on my life, listening to them even now gives me the sort of emotional hit that not much is capable of doing it. Last.fm suggests I've listened to Snowstorm over 300 times since November 2004 - that's more than once a month - and doesn't include the many LP plays that haven't been scrobbled, and quite a few live performances! But, despite that it still affects me as it did on first listen in on a pre-UK-release cassette in autumn 1989 - and when I saw them play it on Snub in January 1990:
+I guess because of the long-term impact of Galaxie 500 on my life, listening to them even now gives me the sort of emotional hit that not much else is capable of doing. Last.fm suggests I've listened to Snowstorm over 300 times since November 2004 - that's more than once a month - and doesn't include the many LP plays that haven't been scrobbled, and quite a few live performances! But, despite that it still affects me as it did on first listen, on a pre-UK-release cassette in autumn 1989, and later when I saw them play it on Snub in January 1990:
 
 {% ahfowvideo "zcy8VQLMlTA" "Galaxie 500 - interview & Snowstorm (Snub TV, January 1990)" "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/screenshot-galaxie-500-snowstorm-snub.jpg" %}
 
@@ -142,4 +142,4 @@ I really miss the camaraderie we had back then, it was a small community but act
 </blockquote>
 <p class="caption"><a href="https://aheadfullofwishes.substack.com/p/the-galaxie-500-mailing-list-est">The Galaxie 500 Mailing List (Est. July 1995)</a></p>
 
-
+As this series has proved I already have many, many copies of all teh Galaxie 500 albums and probably don't need another... but, I have the money waiting for a 4xLP version of this box set (or maybe a 6xLP extended version with Copenhagen and Peel Sessions included)! I'd love Naomi's beautiful artwork on (and in) a 12" box! Dean, Damon, and Naomi - next September will be the 30th anniversary of the release of the box set... I think that would be a good time to revisit it!?
