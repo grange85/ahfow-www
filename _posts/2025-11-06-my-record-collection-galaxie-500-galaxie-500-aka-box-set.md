@@ -123,9 +123,28 @@ Video: [Fourth of July](https://www.youtube.com/watch?v=ct3QKlEgwbk)
 
 Video: [Blue Thunder](https://www.youtube.com/watch?v=XYWC_U4rsEc)
 
+### The booklet
+
+Probably as important as all that music, most of which I already had, was the booklet containing essays by all three band members. This was the first look we had at the _story_ of the band as told by its protagonists. In the three essays we got some of the band's history, although not the _full story_.
+
+<blockquote>
+We were delighted with the recording and decided to press a 7" single of "Tugboat" and "King of Spain" - this was still our goal, to have a 7" single that would end up in some future bargain bin,
+</blockquote>
+<p class="caption">Damon - Box set booklet</p>
+
+<blockquote>
+In October [1989] we went off to Europe for six weeks. We finished the tour in London at Subterranea [sic]. Everett True was there. "Play slower, quieter" he yelled.
+</blockquote>
+<p class="caption">Dean - Box set booklet</p>
+
+<blockquote>
+But if I remember one of the happiest moments, it must have been the night after we finished On Fire. I remember so clearly being in my room at my parents' house in New York listening to the dub of the final mixes while lying in bed in the dark room [...] I was so happy and proud of what we had done.
+</blockquote>
+<p class="caption">Naomi - Box set booklet</p>
+
 ---
 
-I'm not sure when I last sat down and listened to all four discs in a sitting, I'd imagine not too long after I bought them, although obviously I've listened to them quite a lot individually since then, as my top albums on last.fm can testify
+I'm not sure when I last sat down and listened to all four discs in a sitting, I'd imagine not too long after I bought them, although obviously I've listened to them quite a lot individually since then, as my top albums on [last.fm can testify](https://www.last.fm/user/grange85/library/music/Galaxie+500/+albums).
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/last-fm-top-10-albums-all-time.jpg" "My top ten albums on last.fm (November 2004 to October 2025)" %}
 
