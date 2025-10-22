@@ -44,4 +44,6 @@ Entries related to...
 - Luna: 81 (+10)
 - none of the above: 4 (+1)
 
-The estimated total number of posts is (currently) 387 which means the estimated completion date is now 17th September 2026 - a total of three years, seven months and 29 days.
+The total number of posts is (currently) 387 which means we're 78% complete and the estimated finishing date is now 17th September 2026 - which will be a total of three years, seven months and 29 days.
+
+
