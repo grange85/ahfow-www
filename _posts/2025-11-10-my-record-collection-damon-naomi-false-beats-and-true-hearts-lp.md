@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Damon & Naomi - False Beats and True Hearts (LP)'
+title: '[301] Damon & Naomi - False Beats and True Hearts (LP)'
 date: 2025-11-10 00:00 +0000
 series-title: My record collection
 catno: 12/009
