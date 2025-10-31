@@ -19,7 +19,7 @@ tags:
 - bootleg
 date: 2024-07-01 00:00 +0000
 ---
-This is a DVD of a Luna show from 11th November 1992 that was doing the rounds for a long time - sometimes with the date wrong (it sometimes gets shared as 11th April 1992 because of Americans and their bizarre MM/DD/YYYY dating system - why go medium/small/big, it makes no sense?). I think I got sent this in the early 2000s, but it was also being shared on bittorrent sites not long after that.
+This is a DVD of a Luna show from 4th November 1992 that was doing the rounds for a long time - sometimes with the date wrong (it sometimes gets shared as 11th April 1992 because of Americans and their bizarre MM/DD/YYYY dating system - why go medium/small/big, it makes no sense?). I think I got sent this in the early 2000s, but it was also being shared on bittorrent sites not long after that.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-coach-house-1992-dvd.jpg" "Luna at The Coach House, San Juan Capistrano, CA, USA" %}
 
