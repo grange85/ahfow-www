@@ -23,9 +23,9 @@ So... another milestone reached and another post full of numbers.
 - Total word count: 122,658 - which means it's overtaken:
   - Gulliver's Travels - Jonathan Swift
   - Wuthering Heights - Emily Brontë
-  - Sense and Sensibility - Jane Austin
+  - Sense and Sensibility - Jane Austen
 - ... and is heading for 
-  - The Return of the King - J. R. R. Tolkein
+  - The Return of the King - J. R. R. Tolkien
   - A Tale of Two Cities - Charles Dickens
   - 20,000 Leagues Under The Sea - Jules Verne
 

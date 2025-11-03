@@ -68,6 +68,8 @@ The book has interviews with other musicians, possibly more angry than Naomi, su
 
 ### Dean Wareham - Postales Negras / Damon Krukowski - The New Analog
 
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/postales-negras-the-new-analog-spanish.jpg" "Postales Negras / The New Analog" %}
+
 A few months ago I posted about the copy of Black Postcards that Dean sent to me on publication, and the sorry state it was in:
 
 https://aheadfullofwishes.substack.com/p/my-copy-of-dean-warehams-black-postcards
@@ -79,16 +81,51 @@ But I do have a copy that is in absolutely mint condition, it even still has a l
 
 I didn't notice when I checked those things that this edition also has an epilogue written in 2012 that isn't in my English paperback edition - I wonder if there was an English edition with the epilogue? It also has a prologue written by Spanish journalist, and friend of the band Ignacio Juliá. I'm going to get Google Translate to work on those bits!
 
-I bought this from Amazon in Spain and at the same time, bought the Spanish edition of Damon's _The New Analog_ which, slightly disappointingly is called "The New Analog" in Spanish - although the subtitle is translated "CÓMO ESCUCHAR Y RECONECTARNOS EN EL MUNDO DIGITAL".
+In the epilogue Dean talks about events that followed the break-up of Luna and talks about a tour of Australia and New Zealand.
+
+<blockquote>
+<p>In Auckland, we paid a visit to Justin Harwood. He lived in a house on the mountain, overlooking Piha Beach and the Pacific. He cooked us a lobster and a roast leg of lamb. Afterward, he told Britta stories about Luna's early days.</p>
+<p>Justin doesn't make music anymore.</p>
+<p>"People ask me to play in their bands," he says. "But I tell them I've already done that."</p>
+<p>Some people find it sad when a musician puts their instrument away in the closet and leaves it there forever. But I don't think Justin misses it much. When our 1999 tour ended, he left New York practically broke after so many years in Luna. Lisa, his wife, bought him a camera, and Justin started shooting and editing videos to keep himself entertained. Now he produces TV commercials, has a daughter named Coco, a little boy named Sonny Bill, a nice downtown office, paid staff, and a house on the beach. He tells me I don't need to send him royalties.</p>
+<p>At least I convinced Justin to bring his Fender Jazz bass to our Auckland gig and join us on stage for the encore, "23 Minutes in Brussels." I shared that moment with two of my favorite bass players, who were also two pillars of my life.</p>
+</blockquote>
+<p class="caption">Epilogue from Postales Negras translated by Google Translate</p>
+
+He also convinced Justin to play with Luna in 2015, here they are rehearsing Friendly Advice in Los Angeles, and a short clip of them playing it in Wellington, NZ.
+
+https://www.youtube.com/watch?v=ddjl5kZ1jl4
+
+I bought Postales Negras from Amazon in Spain and at the same time, bought the Spanish edition of Damon's _The New Analog_ which, slightly disappointingly is called "The New Analog" in Spanish - although the subtitle is translated "Cómo escuchar y reconectarnos en el mundo digital".
+
+The New Analog was also translated into Italian... including the title "Ascoltare il rumore" - sadly I don't have a copy of that... although, I can't read Italian either!
 
 ---
 
 ### I Hope This Finds You Well - edited by Dan Stafford
 
-Way back in 2007 Dan, a friend of AHFoW and long-standing Galaxie 500 Mailing List member, carried out a series of interviews with various artists using the old fashioned method of writing on bits of paper and posting them off, and getting the replies, on bits of paper, posted back to him. He interviewed Dean and Britta in this way and published it on his web site, along with a lot more interviews.
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/i-hope-this-finds-you-well-cover.jpg" "I Hope This Finds You Well - Edited by Dan Stafford" %}
 
-It is a fantastic book because it was such a good idea, you can glean so much about people not just from what they write, but the way they write it, and so makes a fascinating and insightful read... and, since Dan's in the business of comics, it's also often more than just words!
+Way back in 2007 Dan, a friend of AHFoW and long-standing Galaxie 500 Mailing List member, started carrying out a series of interviews with various artists using the old fashioned method of writing on bits of paper and posting them off, and getting the replies, handwritten on bits of paper, posted back to him. He interviewed Dean and Britta in this way and published it on his web site, along with a lot more interviews.
 
+In 2014 these interviews were compiled into a lovely little book that Dean sent me a copy of - this is Dan's intro to the interview:
 
+<blockquote>
+When it comes to Dean Wareham. I'm a total fanboy. The first song I learned on guitar was "Decomposing Trees" by Galaxie 500 & I've seen his various bands a gazillion times. I couldn't believe he & Britta did the interview. I read somewhere that nobody had really asked about a Galaxie 500 reunion, so I did now I'm a little embarrassed by it. In this inter-view, i think Britta kills it. the X-mas 7" she references is so good, by the way.
+</blockquote>
+<p class="caption">Dan Stafford - intro to Dean & Britta interview in "I Hope This Finds You Well"</p>
 
-In 2014 these interviews were compiled into a lovely little book that Dean sent me a copy of.
+{% ahfowimage "https://media.fullofwishes.co.uk/ahfow/uploads/2007/11/deanbritta4_scale.jpg" "'... who would it be?'" %}
+
+It is a fantastic book because it was such a good idea, you can glean so much about people not just from what they write, but the way they write it, and so makes a fascinating and insightful read... and, since Dan's in the business of comics, some of his interviewees answered with more than just words!
+
+In the interview Britta mentions that they had "just finished the b-side for our Christmas vinyl single":
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/i-hope-this-finds-you-well-christmas-single.jpg" "'What are you currently working on?" %}
+
+I think that we're close enough to Christmas that we can hear that Christmas single b-side:
+
+https://www.youtube.com/watch?v=Ubfxber2bDA
+
+Old Toy Trains was later released on Dean, Britta, and Sonic's Christmas LP A Peace of Us, last year that has just been [repressed in red vinyl](https://deanandbritta.bandcamp.com/album/a-peace-of-us)... so with last year's green copy you can have it in both Christmas colours!
+
