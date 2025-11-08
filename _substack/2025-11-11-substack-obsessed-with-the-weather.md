@@ -77,7 +77,9 @@ There's an interview somewhere (that I haven't tracked down yet) where Justin (H
     And they got nothin else to think of<br/>
     And they're letting me go home
    </blockquote>
-   <p class="caption">Snowstorm (lyrics by Dean Wareham)</p>
+   <p class="caption">Snowstorm (lyrics by Dean Wareham)</p>  
+   https://www.youtube.com/watch?v=NfWWY_Z1bO
+
 
  - Sorry - Galaxie 500
    <blockquote>
@@ -100,4 +102,39 @@ There's an interview somewhere (that I haven't tracked down yet) where Justin (H
 
 ### Exhibit C - Luna
 
+ - Sideshow by the Seashore - Luna _"an electrical storm has caught us in a trap"_.  
+   https://www.youtube.com/watch?v=MugwxCqCRO4
+
  - Speedbumps - Luna _"It's raining rain, it's raining snow"_.
+ - Romantica - Luna _"It's cold in the autumn, It's warm in the freezer"_.
+ - Motel Bambi - Luna _"Where has all the sunshine gone?"_.
+
+### Exhibit D - Dean & Britta
+
+ - The Sun is Still Sunny - Dean & Britta _"Your daddy is drinking a toast to the rain"_.  
+   https://www.youtube.com/watch?v=Yk-2nSieKr4
+
+
+### Exhibit E - Dean Wareham
+
+ - Love Is Not a Roof Against the Rain - Dean Wareham
+ - The Cloud is Coming - Dean Wareham  
+   https://www.youtube.com/watch?v=MQ-8R29UffU
+
+
+---
+
+So the evidence seems to suggest that Dean may indeed be "obsessed with the weather" - although the weather isn't always nice to him. At the 1997 Benicassim Festival in Spain the weather turned against its biggest fan...
+
+<blockquote>
+<p>It was a warm and muggy afternoon, and it rained for a while, but then the rain abruptly stopped.</p>
+
+<p>This was the proverbial calm before the storm, a storm that roared in off the Mediterranean. I was standing at the back of the stage, starting to take my guitar out of its case and get my pedals ready, when I noticed the extraordinary wind. I looked up at the huge metal scaffolding that held the lights above the stage, and the big canvas sign with all the sponsors' names on it blowing in the wind. It didn't look quite right to me. I thought of Curtis Mayfield, who was paralyzed in 1990 when a lighting rig fell on him at an outdoor gig in Brooklyn.</p>
+
+<p>Then came the rain. It came in horizontally, and Urusei Yatsura's drum kit started to move. Those brave/stupid Scottish kids kept playing their song even as the wind blew the drum kit clean off the stage. Ten seconds later I saw the entire scaffolding come crashing down, and the stage col-lapsed and everyone was running and screaming.</p>
+</blockquote>
+<p class="caption">Dean Wareham - Black Postcards</p>
+
+Here's a clip of those "brave/stupod Scottish kids"
+
+https://www.youtube.com/watch?v=OOvBUGHcaHM
