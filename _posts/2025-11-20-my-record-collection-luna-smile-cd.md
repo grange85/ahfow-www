@@ -16,7 +16,7 @@ categories:
 tags:
 - smile
 ---
-This is the CD version of Smile, I've already written about the [12" single](/2024/12/05/my-record-collection-194-luna-smile-ep/), and is because of that one of my earliest Luna acquisitions, after Lunapark. It was released in 1993, one of three exceptional EPs the band released between Lunapark and Bewitched (although one of them I don't own and was an amalgam of the other two).
+This is the CD version of Smile, and is because of that one of my earliest Luna acquisitions, after Lunapark. It was released in 1993, one of three exceptional EPs the band released between Lunapark and Bewitched (although one of them I don't own and was an amalgam of the other two). I've already written about the [12" single](/2024/12/05/my-record-collection-194-luna-smile-ep/).
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-smile-ep-1993-rough-trade.jpg" "Luna - Smile (CD)" %}
 
