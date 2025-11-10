@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dean Wareham - Love is Colder Than Death (7")'
+title: '[306] Dean Wareham - Love is Colder Than Death (7")'
 date: 2025-11-27 00:00 +0000
 series-title: My record collection
 catno: 11/043
