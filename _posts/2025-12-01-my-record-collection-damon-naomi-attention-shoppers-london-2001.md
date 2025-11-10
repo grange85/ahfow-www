@@ -35,7 +35,7 @@ Listening back now I'm rather taken with how much more boisterous the audience s
 
 Some video from this show turned up on the DVD that was released with Song to The Siren in 2002:
 
-{% ahfowvideo "youtubeid" "caption" "thumbnail" %}
+{% ahfowvideo "aqfzVPcQlwQ" "Damon & Naomi in London 2001 (tour diary DVD)" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-song-to-the-siren-screengrab-01.jpg" %}
 
  - *Catalogue Number:* AHFOW 10/062
  - *Artist:* Damon & Naomi
