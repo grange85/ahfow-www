@@ -14,7 +14,9 @@ categories:
 tags:
 -
 ---
-Tugboat was Galaxie 500's first single, recorded in February 1988 at Noise New York by Kramer and released as a 7” single on Aurora Records. Twenty or so year ago, when I started collecting, if some other band or artist decided to cover a Galaxie 500 song Tugboat is the one they would invariably reach for. More recently Stange is getting it's fair share of covers, but still Tugboat covers keep turning up.
+Tugboat was Galaxie 500's first single, recorded in February 1988 at Noise New York by Kramer and released as a 7” single on Aurora Records. 
+
+Twenty or so year ago, when I started noticing, if some other band or artist decided to cover a Galaxie 500 song Tugboat is the one they would invariably reach for. More recently Stange is getting it's fair share of covers, but still Tugboat covers regularly turn up.
 
 For a while I kept [a post collecting these covers](https://www.fullofwishes.co.uk/articles/a-fleet-of-tugboats/) up to date but it's been neglected for a few years, but there are still lots of gems to be found there. 
 
@@ -59,6 +61,41 @@ https://aheadfullofwishes.substack.com/p/dean-and-dean-and-britta-in-the-north
 BMX Bandits lovely cover was released on the fantastic [Elefant Records comp Snowstorm](https://elefantrecords.bandcamp.com/album/snowstorm-a-tribute-to-galaxie-500) back in 2001, an album loaded with lovely Galaxie 500 covers (it also had another Tugboat cover by Portastatic). It was later also released on a [BMX Bandits retrospective](https://bmxbanditsmusic.bandcamp.com/album/the-rise-fall-of-bmx-bandits).
 
 
+https://bmxbanditsmusic.bandcamp.com/track/tugboat-with-angel-corpus-christi
+
+### Joanna Gruesome
+
+Joanna Gruesome's cover is so gloriously punchy. It was released on a single by Fortuna Pop! in 2013. Damon commented on Twitter when it was posted by Pitchfork:
+
+<blockquote>
+I think they got our primitivism - thank you @JOANNAGRUESOME
+</blockquote>
+<p class="caption"><a href="https://x.com/dada_drummer/status/400720336989483008">@dada_drummer on Twitter</a> (13th November 2013)</p>
+
+https://indietracks.bandcamp.com/track/tugboat
+
+It became a regular, and invariably awesome part of their live set. There are [plenty of clips on YouTube](https://www.youtube.com/results?search_query=joanna+gruesome+tugboat+live) and all a pretty breathtaking... here's one:
+
+https://www.youtube.com/watch?v=DvQG_gmbGAA
+
+The summer after it was released Joanna Gruesome and Dean Wareham were both scehduled on the same day at Indietracks and Dean joined them on-stage to perform it. It's perhaps not as breathtaking as the performances above partly, I think, because Joanna Gruesome's set up until this point had been plagued by sound problems and add to the unrehearsed appearance of Dean was perhaps a little... distracting. Still... pretty special anyway.
+
+https://www.youtube.com/watch?v=1bnSlMPFLzs
+
+### Submarine
+
+I don't really know a great deal about Submarine, although I have vague memories of seeing them in the early 90s... maybe supporting someone... and maybe in Brighton? Although that being 30+ years ago there's a fair chance that I'm thinking of someone else! 
+
+
+They released their cover of Tugboat on the b-side of a mail-order only singles club release. They also recorded it for a Peel Session on 23rd March 1993 which was broadcast a month later. Both the single version, and the Peel Session featured contribution from Claire Lemmon of Sidi Bou Said.
+
+Here's the single version:
+
+https://www.youtube.com/watch?v=mdyLTDKVSkc
+
+And here's the Peel Session complete with John's intro and outro:
+
+https://www.youtube.com/watch?v=tdUTZv0AZX0
 
 
 
