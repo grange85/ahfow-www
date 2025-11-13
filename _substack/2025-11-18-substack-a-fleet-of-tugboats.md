@@ -106,9 +106,28 @@ https://www.youtube.com/watch?v=m8hJboQCEaY
 
 ### The Jazz Butcher Conspiracy
 
-This was one of the earliest Galaxie 500 covers, I was sent this on a cassette back in the early 90s. According to the very excellent [Jazz Butcher website](https://v1.jazzbutcher.com/) the band played Tugboat live a few times during 1992 and this version was released on a live album in 1993.
+This was one of the earliest Galaxie 500 covers, I was sent this on a cassette back in the early 90s. According to the very excellent [Jazz Butcher website](https://v1.jazzbutcher.com/) the band played Tugboat live a few times during 1992 and this version was released on a live album, as "Tugboat Captain", in 1992. I think I mostly love this because Jazz Buthcer were covering this so soon after Galaxie 500's break-up. While researching this I came across this [Western Family DAT pre-master](https://jazzbutcher.com/western_dat)...
 
+<blockquote>
+<p>This release was made entirely from live to-DAT recordings I made as I followed the merry Conspiracy through the USA and Canada. During the tour, it had not yet been decided ifa live recording was actually being made - I was simply doing what I love to do; preserving the moment for my own amusement.</p>
 
+<p>As it happened, Pat decided to go ahead and construct a live release from my master tapes. After the tour, Pat and Martin Stebbing (Rev. Botus Whiteblood Fleming) went into Battery Studio in Chicago and worked my tapes over.</p>
+
+<p>Somewhere in the process, my master tapes were lost and what was sent to Creation Records for the pressing was worked over further by minions unknown, and the final release sounds, basically, rather poor.</p>
+
+<p>I had resigned myself to this let-down until a sort-of miracle occurred:a pre-master for Western Family has surfaced - tunes from beyond the grave.</p>
+</blockquote>
+<p class="caption"><a href="https://jazzbutcher.com/western_dat">David Whittemore - jazzbutcher.com</a></p>
+
+... so I guess you should go listen to it there.
+
+Pat Fish (who was The Jazz Butcher) revisited Tugboat at [this live show in 2006](https://v1.jazzbutcher.com/gigs/2006/Oct1.html).
+
+He also covered Dean & Britta's The Sun is Still Sunny for a Covid-era live stream. [Go to Fishy Mansions #8](https://jazzbutcher.com/fishy_mansions) and skip to 1:07:55 to hear this lovely version.
+
+Sadly Pat passed away a couple of years ago, he was such a legend and is still much missed.
+
+### 
 <!--more-->
 <p>So many... time to do an index:</p>
 <h3>The index</h3>
