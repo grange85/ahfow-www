@@ -16,7 +16,7 @@ tags:
 ---
 Tugboat was Galaxie 500's first single, recorded in February 1988 at Noise New York by Kramer and released as a 7” single on Aurora Records. 
 
-Twenty or so year ago, when I started noticing, if some other band or artist decided to cover a Galaxie 500 song Tugboat is the one they would invariably reach for. More recently Stange is getting it's fair share of covers, but still Tugboat covers regularly turn up.
+A good few years ago I started noticing that if some other band or artist decided to cover a Galaxie 500 song Tugboat is the one they would invariably reach for. More recently Stange is getting its fair share of covers, but still Tugboat covers regularly turn up.
 
 For a while I kept [a post collecting these covers](https://www.fullofwishes.co.uk/articles/a-fleet-of-tugboats/) up to date but it's been neglected for a few years, but there are still lots of gems to be found there. 
 
@@ -48,7 +48,7 @@ Sea Power's cover of Galaxie 500's Tugboat (back when they were British Sea Powe
 
 https://www.youtube.com/watch?v=9PPvD793jgU
 
-Earlier this year Dean Wareham performed two Galaxie 500 sets with Sea Power and both finished with an absolutely storming version of Tugboat, with Dean sharing vocals with Hamilton from the band.
+Earlier this year Dean Wareham performed two Galaxie 500 sets with Sea Power and both finished with an absolutely storming version of Tugboat, with Dean sharing vocals with Hamilton from the band. This is them playing it at Hebden Bridge:
 
 https://www.youtube.com/watch?v=YChAe16xiq0
 
@@ -58,7 +58,7 @@ https://aheadfullofwishes.substack.com/p/dean-and-dean-and-britta-in-the-north
 
 ### BMX Bandits featuring Angel Corpus Christi
 
-BMX Bandits lovely cover was released on the fantastic [Elefant Records comp Snowstorm](https://elefantrecords.bandcamp.com/album/snowstorm-a-tribute-to-galaxie-500) back in 2001, an album loaded with lovely Galaxie 500 covers (it also had another Tugboat cover by Portastatic). It was later also released on a [BMX Bandits retrospective](https://bmxbanditsmusic.bandcamp.com/album/the-rise-fall-of-bmx-bandits).
+BMX Bandits lovely cover was released on the fantastic [Elefant Records comp Snowstorm](https://elefantrecords.bandcamp.com/album/snowstorm-a-tribute-to-galaxie-500) back in 2001 and features some lovely phoned-in(?) vocal augmentations from Angel Corpus Christi. It's an album loaded with lovely Galaxie 500 covers (it also had another Tugboat cover by Portastatic). Tugboat was later also released on a [BMX Bandits retrospective](https://bmxbanditsmusic.bandcamp.com/album/the-rise-fall-of-bmx-bandits).
 
 
 https://bmxbanditsmusic.bandcamp.com/track/tugboat-with-angel-corpus-christi
@@ -78,7 +78,7 @@ It became a regular, and invariably awesome part of their live set. There are [p
 
 https://www.youtube.com/watch?v=DvQG_gmbGAA
 
-The summer after it was released Joanna Gruesome and Dean Wareham were both scehduled on the same day at Indietracks and Dean joined them on-stage to perform it. It's perhaps not as breathtaking as the performances above partly, I think, because Joanna Gruesome's set up until this point had been plagued by sound problems and add to the unrehearsed appearance of Dean was perhaps a little... distracting. Still... pretty special anyway.
+The summer after it was released Joanna Gruesome and Dean Wareham were both scehduled on the same day at Indietracks and Dean joined them on-stage to perform it. It's perhaps not as breathtaking as the performances above partly, I think, because Joanna Gruesome's set up until this point had been plagued by sound problems and they had perhaps lost some of the Indietracks spirit. Add to the unrehearsed appearance of Dean was perhaps a little... distracting. Still... pretty special anyway.
 
 https://www.youtube.com/watch?v=1bnSlMPFLzs
 
@@ -86,17 +86,27 @@ https://www.youtube.com/watch?v=1bnSlMPFLzs
 
 I don't really know a great deal about Submarine, although I have vague memories of seeing them in the early 90s... maybe supporting someone... and maybe in Brighton? Although that being 30+ years ago there's a fair chance that I'm thinking of someone else! 
 
+They released their cover of Tugboat on the b-side of a mail-order only singles club release. They also recorded it for a Peel Session on 23rd March 1993 which was broadcast a month later. Both the single version, and the Peel Session featured contribution from Claire Lemmon of Sidi Bou Said whos album from around that time, [Brooch](https://www.youtube.com/watch?v=a25wBVpytBI) is worth spending some time with.
 
-They released their cover of Tugboat on the b-side of a mail-order only singles club release. They also recorded it for a Peel Session on 23rd March 1993 which was broadcast a month later. Both the single version, and the Peel Session featured contribution from Claire Lemmon of Sidi Bou Said.
+Here's the single version of Tugboat:
 
-Here's the single version:
-
-https://www.youtube.com/watch?v=mdyLTDKVSkc
+https://www.youtube.com/watch?v=yIhCBsx4h_w
 
 And here's the Peel Session complete with John's intro and outro:
 
 https://www.youtube.com/watch?v=tdUTZv0AZX0
 
+### "Mittenfingers" and "Jecks"
+
+Know nothing about this but... look these sweet young (so young!) kids sitting on their couch doing a lovely Tugboat cover
+
+https://www.youtube.com/watch?v=m8hJboQCEaY
+
+... it's from eight years ago so they'll be grown ups now. There's more, and more recent. music on [the YouTube channel](https://www.youtube.com/@mittenfingers3321).
+
+### The Jazz Butcher Conspiracy
+
+This was one of the earliest Galaxie 500 covers, I was sent this on a cassette back in the early 90s. According to the very excellent [Jazz Butcher website](https://v1.jazzbutcher.com/) the band played Tugboat live a few times during 1992 and this version was released on a live album in 1993.
 
 
 <!--more-->
