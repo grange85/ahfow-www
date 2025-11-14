@@ -14,11 +14,13 @@ categories:
 tags:
 -
 ---
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/tugboat-tugboat-sketch-02.jpg" "Tugboat single with added tugboat" %}
+
 Tugboat was Galaxie 500's first single, recorded in February 1988 at Noise New York by Kramer and released as a 7” single on Aurora Records. 
 
-A good few years ago I started noticing that if some other band or artist decided to cover a Galaxie 500 song Tugboat is the one they would invariably reach for. More recently Stange is getting its fair share of covers, but still Tugboat covers regularly turn up.
+A good few years ago I started noticing that if some other band or artist decided to cover a Galaxie 500 song Tugboat is the one they would invariably reach for. More recently Strange is getting its fair share of covers, but still Tugboat covers regularly turn up.
 
-For a while I kept [a post collecting these covers](https://www.fullofwishes.co.uk/articles/a-fleet-of-tugboats/) up to date but it's been neglected for a few years, but there are still lots of gems to be found there. 
+For a while I kept [a post collecting these covers](https://www.fullofwishes.co.uk/articles/a-fleet-of-tugboats/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20250718) up to date but it's been neglected for a few years, but there are still lots of gems to be found there. 
 
 Now, I love _all Galaxie 500 covers_! Mostly because just the simple fact of choosing to cover Galaxie 500 is likely to endear me to you as an artist... but obviously I have favourites, and this post will collect some of those together... but, before that, I guess we should start with the original... and best!
 
@@ -92,7 +94,7 @@ It became a regular, and invariably awesome part of their live set. There are [p
 
 https://www.youtube.com/watch?v=DvQG_gmbGAA
 
-The summer after it was released Joanna Gruesome and Dean Wareham were both scehduled on the same day at Indietracks and Dean joined them on-stage to perform it. It's perhaps not as breathtaking as the performances above partly, I think, because Joanna Gruesome's set up until this point had been plagued by sound problems and they had perhaps lost some of the Indietracks spirit. Add to the unrehearsed appearance of Dean was perhaps a little... distracting. Still... pretty special anyway.
+The summer after it was released Joanna Gruesome and Dean Wareham were both scheduled on the same day at Indietracks and Dean joined them on-stage to perform it. It's perhaps not as breathtaking as the performances above partly, I think, because Joanna Gruesome's set up until this point had been plagued by sound problems and they had perhaps lost some of the Indietracks spirit. Add to the unrehearsed appearance of Dean was perhaps a little... distracting. Still... pretty special anyway.
 
 https://www.youtube.com/watch?v=1bnSlMPFLzs
 
@@ -151,5 +153,7 @@ There are a couple of lovely clips of the band performing Tugboat live
 
 https://www.youtube.com/watch?v=mca4J5ymXvc
 
+---
 
+So, as you can see Tugboat has been well served with cover versions over the years, and there are so many I've missed out, and no doubt someone, somewhere in the world is right no recording themselves playing Tugboat ready to upload to YouTube - [go and enjoy some of those](https://www.youtube.com/results?search_query=tugboat+galaxie+500+cover).
 
