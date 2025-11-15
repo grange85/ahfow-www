@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dean Wareham live at St Pancras Old Church'
+title: '2025-12-02: Dean Wareham live at St Pancras Old Church'
 date: 2025-12-02 00:00 +0000
 series-title: Substack
 author:
@@ -15,7 +15,7 @@ tags:
 -
 ---
 
-In December 2013 Dean Wareham was scheduled to play two shows at the lovely St. Pancras Old Church in London, the show was later released as a live album by the wonderful Sonic Cathedral - first on cassette, and then later as a beautiful 1.5 x LP release. This article starts with the posts I made to AHFoW shortly after each show and will then go on to look at the various released of the live show.
+In December 2013 Dean Wareham played two shows at the lovely St. Pancras Old Church in London, the show was later released as a live album by the wonderful Sonic Cathedral - first on cassette, and then later as a beautiful 1.5 x LP release. This article starts with the posts I made to AHFoW shortly after each show and will then go on to look at the various releases of the live show.
 
 ### Dean Wareham in London #1 (5th December 2013)
 
@@ -24,15 +24,15 @@ _posted to AHFoW in the early hours of 6th December. I apparently wrote it on my
 I was at work yesterday afternoon counting down the seconds to Dean Wareham's first London show for two and a half years when an email arrived 
 
 <blockquote>
-Might not make it to London today. Our train has been sitting on the tracks for 2 hours and we are just outside Manchester.
+<p>Might not make it to London today. Our train has been sitting on the tracks for 2 hours and we are just outside Manchester.</p>
 
-Apparently there is a tree on the tracks, but also further problems down the line
-</blockquote>
+<p>Apparently there is a tree on the tracks, but also further problems down the line.
+</p></blockquote>
 <p class="caption">Email from Dean - 5th December 2013 15:03</p>
 
 This was followed by flurries of tweets and email and Facebook posts as good folk tried to work out how to get the band to London, ultimately the best advice was probably sit tight and eventually the train started moving.
 
-The band arrived late, but arrived, and with a later start than scheduled, Jason Quever of Papercuts rushed though a short and sweet support set, joined for the last couple of songs by Britta and (drummer) Anthony.
+The band arrived late, but arrived, Jason Quever of Papercuts rushed though a short and sweet support set, joined for the last couple of songs by Britta and (drummer) Anthony.
 
 Dean arrived onstage with Britta, Anthony and Jason making up the band and opened with Love Is Colder Than Death and followed it with a very wonderful set of new and old, the old including Galaxie 500s Tell Me, When Will You Come Home, and of course Tugboat & Luna's Moon Palace and Lost in Space.
 
@@ -46,6 +46,8 @@ This post has been written on my phone I'll jazz it up at the weekend just wante
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/2013-12-05-dean-st-pancras.jpg" "Dean Wareham at St Pancras Old Church (5th December 2013)" %}
 
+_I don't think I did "jazz up" the post - it could probably have used it!_
+
 ---
 
 ### Dean Wareham in London #2 (6th December 2013)
@@ -54,7 +56,7 @@ So on to Friday, managed to not make the mailing list pub meet-up (again) but fa
 
 Jason Quever of Papercuts opened with a much more relaxed set than the night before, he took longer to tune between songs. The first half of the set was on an acoustic guitar before he was joined (again) by Britta and Anthony and things stepped up a gear.
 
-Dean was again accompanied by Britta, Anthony and Jason and the set was similar to the previous evening, just more relaxed and perhaps a little rockier, the new songs sounded great live, and it's always a treat to hear the old one. Encore tonight was Ride Into the Sun followed by a barnstorming Don't Let Our Youth Go to Waste. The crowd should have been baying for a second encore but they gave up too soon and left just me clapping alone as they headed into the cold for trains and tubes home.
+Dean was again accompanied by Britta, Anthony and Jason and the set was similar to the previous evening, just more relaxed and perhaps a little rockier, the new songs sounded great live, and it's always a treat to hear the old ones. Encore tonight was Ride Into the Sun followed by a barnstorming Don't Let Our Youth Go to Waste. The crowd should have been baying for a second encore but they gave up too soon and left just me clapping alone as they headed into the cold for trains and tubes home.
 
 Nice to meet a mailing list member, just the one tonight, and while we were chatting Britta came over and invited us backstage. Backstage for priests is called the vestry, so we stood amongst bibles and crucifixes and pictures of the pope, with Dean & Britta and Sonic Boom! I had a beer because in such illustrious company I felt the need to do something with my hands. After some chat, getting Dean to sign my Esopus 20 lyric book, and taking a couple of photos for some Spanish fans, the party moved outside for ciggies and Adam and I made our excuses and left.
 
@@ -63,8 +65,6 @@ Highs: The show, the after show
 Lows: That I never took some snaps backstage
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/2013-12-06-dean-st-pancras.jpg" "Dean Wareham at St Pancras Old Church (6th December 2013)" %}
-
-Oh, the whole of last night's show is already on YouTube.
 
 ---
 
@@ -106,13 +106,11 @@ The always fab Sonic Cathedral have just released Dean Wareham's Live at St Panc
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-wareham-live-at-st-pancras-x-3.jpg" "Dean Wareham live at St Pancras Old Church x 3" %}
 
-This entry will cover three rows in my collection spreadsheet becuase I've [already written about one cassette version](https://www.fullofwishes.co.uk/2023/02/23/my-record-collection-011-dean-wareham-live-at-st-pancras-old-church-red-cassette/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20251202) and have another one at some point in the future. Since I have three copies of the LP recently acquired it would be a bit hard on you (and me) to cover them three times!
+This entry will cover three rows in my collection spreadsheet because I've [already written about one cassette version](https://www.fullofwishes.co.uk/2023/02/23/my-record-collection-011-dean-wareham-live-at-st-pancras-old-church-red-cassette/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20251202) and have another one at some point in the future. Since I have three copies of the LP recently acquired it would be a bit hard on you (and me) to cover them three times!
 
 "Three copies!?" I hear you say, "is he mad!?"
 
 Well, "yes" is probably the answer, but, I'd better explain - so here are some bullet point facts to try and explain my madness.
-
-<!--more-->
 
 - I was at the shows that make up this live album, so you can hear me cheering. Well you would if I ever actually cheered at gigs. You can probably hear me applauding enthusiastically!
 - They were a couple of my favourite shows, the venue was great, the circumstances were unique.
@@ -150,7 +148,7 @@ The CD contains three Galaxie 500 songs, one Luna one, and two from Dean's most 
 
 Read the previous entries in this series for the story of the concerts that made up this release. I thought I'd use a photo that you can see a bit more of the church in this time, although it does mean that Britta is obscured - it seems to be a [theme of mine to have an obscured view of Britta](https://www.fullofwishes.co.uk/2024/11/18/video-dean-britta-and-cheval-sombre-in-london-in-2009/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20251202).
 
-{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/53322541205_eebc652fef_c.jpg" "IMG_1846" "https://www.flickr.com/photos/grange85/53322541205/in/album-72177720312571151/" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/53322541205_eebc652fef_c.jpg" "Dean Wareham at St. Pancras Old Church" "https://www.flickr.com/photos/grange85/53322541205/in/album-72177720312571151/" %}
 
  - *Catalogue Number:* AHFOW 10/089
  - *Artist:* Dean Wareham
@@ -159,4 +157,12 @@ Read the previous entries in this series for the story of the concerts that made
  - *Packaging:* Hand stampled card envelope
  - *Format:* CD
  - [Buy 'Dean Wareham Live at St Pancras Old Church' on Bandcamp](https://deanwareham.bandcamp.com/album/live-at-st-pancras-old-church-london-december-2013?label=119859815&tab=music&filter_band=3194026583)
+
+---
+
+There is another cassette copy in my collection that hasn't turned up in the series as yet... I suspect that'll be a short post since I must have exhausted what I can say about the shows and the releases of them.
+
+I've had many great _Dean Wareham experiences_ over the years but this is still one of my fondest memories. I didn't mention in my post on that first night that while we were killing time before we were allowed into the church I gave an impromptu talk to a few fans about the [Hardy Tree](https://www.atlasobscura.com/places/the-hardy-tree-london-england) that, at the time, stood in the churchyard! Sorry...!
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/hardy-tree-sketch-and-photo.jpg" "The Hardy Tree - St Pancras Old Church" %}
 
