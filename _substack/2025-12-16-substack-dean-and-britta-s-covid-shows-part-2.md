@@ -93,7 +93,7 @@ On the 14th August the previously teased lathe-cut single was decalred to be par
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/quarantine-tapes-box.jpg" "Quarantine Tapes box set (August 2020)" %}
 
----
+On the 22nd August I decided that what the COVID shitshow needed, or at least what _I_ needed during it, was another AHFoW tribute album so I put out a call for contributions to an album and booklet commemorarting the 30th anniversary of the release of Galaxie 500's last album. Given the short notice and ridiculous ambition I didn't really expect it to come to anything - but it turns out there were other folk hoping for a distraction, and contributions soon started arriving.
 
 At the end of the month I cycled into work for the first time since the shit-show started... although it wasn't really _work_ we just sat in the TNA pocket park eating, and catching up - it was nice to be among my work colleagues again... although, clearly we were all keeping our distance. I assume that things had started to go bad again!
 
@@ -103,9 +103,13 @@ At the end of the month I cycled into work for the first time since the shit-sho
 
 On the 7th September Dean & Britta announced a couple more live stream shows for the end of the month.
 
-Before COVID messed things up Hazel and I had been planning to sell up and move out of London, most likely to the North East of England,,, by September things seemed like things might be getting better so we planned a few days in Tynemouth to see the lay of the land. On the 17th September we masked up and took the East Coast line to Newcastle and the metro to Tynemouth,
+Before COVID messed things up Hazel and I had been planning to sell up and move out of London, most likely to the North East of England... by September things seemed like things might be getting better so we planned a few days in Tynemouth to see the lay of the land. On the 17th September we masked up and took the train out of London. 
 
+We had a lovely few days of wandering around and getting the feel for the place, walking along the beaches, drinking coffee and eating chips - we even got up stupidly early to watch a sunrise. We even managed to go and see a football match (Whitley Bay 1 Newcastle Uni 4 - attendance 254) it was the most normal thing we'd done...
 
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/whitley-bay-vs-newcastle-uni-2020-09.jpg" "Whitley Bay vs Newcastle Uni (19th September 2020)" %}
+
+... and then back to London and back to the _new normal_.
 
 
 ### Live stream #5 and #6 - 26th September 2020 - Veeps
@@ -179,3 +183,24 @@ Britta seemed up for it...
 
 {% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2020-09-26/2020-09-26-dean-and-britta-veeps-17.jpg" "And we're done" %}
 
+---
+
+On 5th October I went into work... I can't really remember why, probably just because I could, although the pictures that I took suggest that very few people were coming in to work so being at work to see people wasn't really a success.
+
+Less than three months after putting out a call for submissions for a tribute album/booklet This Music Is Ours was released in early November
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/this-music-is-ours-package.jpg" "This Music is Ours" %}
+
+https://aheadfullofwishes.bandcamp.com/album/this-music-is-ours
+
+Early in December Dean & Britta announced that they would indeed be having alive streamed "holiday party from their living room" - now, I don't want to take the credit for this... but, I'll repeat this snippet from the September stream chat...
+
+> Andy: Sad this'll be the last one of the "season" - you should do a xmas one! Start rehearsing Wonderful Christmastime now and you might have perfected it by December :) - thanks Dean & Britta!
+>  
+> Britta: Hi Andy! Already thinking about xmas songs we can play for a xmas time show.
+
+... make of that what you will.
+
+So, in the early hours of the 20th December...
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/watching-the-xmas-live-stream.jpg" "Waiting for the show to start" %}
