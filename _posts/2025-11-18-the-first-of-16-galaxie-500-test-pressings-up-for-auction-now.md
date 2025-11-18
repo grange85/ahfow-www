@@ -49,3 +49,7 @@ The other items in the series will be auctioned over the coming weeks and are:
 - 14 This Is Our Music (Rough Trade US, 1990)
 - 15 This Is Our Music (20\|20\|20, 2009)
 - 16 Fourth of July (Rough Trade UK, 1990)
+
+{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-test-pressings-01.jpg" "Test pressings 01 to 06" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-test-pressings-02.jpg" "Test pressings 07 to 12" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-test-pressings-03.jpg" "Test pressings 13 to 16" %}
