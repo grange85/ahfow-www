@@ -193,6 +193,8 @@ Less than three months after putting out a call for submissions for a tribute al
 
 https://aheadfullofwishes.bandcamp.com/album/this-music-is-ours
 
+During November COVID was back on the rise, with a new variant causing more lockdowns... and more people dying - it seems we were a long way from being out of this nightmare.
+
 Early in December Dean & Britta announced that they would indeed be having alive streamed "holiday party from their living room" - now, I don't want to take the credit for this... but, I'll repeat this snippet from the September stream chat...
 
 > Andy: Sad this'll be the last one of the "season" - you should do a xmas one! Start rehearsing Wonderful Christmastime now and you might have perfected it by December :) - thanks Dean & Britta!
@@ -204,3 +206,33 @@ Early in December Dean & Britta announced that they would indeed be having alive
 So, in the early hours of the 20th December...
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/watching-the-xmas-live-stream.jpg" "Waiting for the show to start" %}
+
+### Live stream #7 - 19th December 2020
+
+It looks like I never wrote a post/diary about the last show so... I've just re-watched it - and I imagine this is what I would have written if I had!
+
+The show started, once again, in silence and just as Dean was about to get on the phone to tech support Britta noticed that she'd forgotten to unmute! Dean and Britta were once again standing for this show, and once again Roger was helping out from behind the camera. A small Christmas tree was set up behind the sofa and Dean and Britta were dressed in seasonal black polo necks! They opened the show covering John Lennon's Happy Xmas (War is Over) and then into Silent Night.
+
+Next up was Britta singing Do You Know How Christmas Trees Are Grown, a song from the Bond film [On Her Majesty's Secret Service](https://en.wikipedia.org/wiki/On_Her_Majesty%27s_Secret_Service_(film)) which Dean describes as "not the best Bond movie but the best soundtrack" - although, not particularly being a fan of Bond films I'd have to say that it **is** the best Bond movie **because** it sas the best soundtrack... and it has Diana Rigg, also, it's the only Bond film that'll make you cry at the end! Lazenby is however a complete plank!
+
+https://www.youtube.com/watch?v=w1EdMwyj8cM
+
+I think this might have been the show highlight... although it was all pretty special!
+
+The show continues with more songs, some banter, some Qs getting Ad so we know that Dean's favourite childhood Christmas memory involved the stormy waves and a bicycle and that Britta's favourite food if her Nana's sugar cookies.
+
+The show finished with a run of Snow songs and then Happy New Year and for the last time of the year we have the absolute joy of Dean or Britta (or both of them) trying to end the stream!
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/turning-off-the-xmas-live-stream.jpg" "Where's the 'stop' button!?" %}
+
+We then retired to the chat room, and then to bed!
+
+There was one more live streamed treat - an ad-hoc live Instagram appearance singing Do You Know How Christmas Trees Are Grown:
+
+https://www.youtube.com/watch?v=_mgMlLoxcU0
+
+---
+
+And so COVID year 1 came to an end but without an end in sight - but we made it through pretty much unscathed and Dean & Britta's scheduled and unscheduled appearances helped to make things better!
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/my-2020-in-scribbles.jpg" "My 2020" %}
