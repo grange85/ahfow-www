@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Best of Luna - UK 2xCD edition'
+title: '[309] Best of Luna - UK 2xCD edition'
 date: 2025-12-08 00:00 +0000
 series-title: My record collection
 catno: 10/023
