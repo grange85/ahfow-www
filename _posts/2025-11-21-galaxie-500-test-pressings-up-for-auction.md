@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The first of 16 Galaxie 500 test pressings up for auction now
-date: 2025-11-18 22:11 +0000
+title: Galaxie 500 test pressings up for auction
+date: 2025-11-21 22:11 +0000
 series-title:
 catno:
 author:
@@ -15,7 +15,24 @@ categories:
 - news
 tags:
 - today
+- on fire
 ---
+**Update 21st November 2025**
+
+The second test pressing has now been popped up for auction on eBay - this is No. 5 in the list and is the UK Rough Trade edition of Galaxie 500's second album On Fire.
+
+Once again this is in a unique sleeve hand-made and signed by Naomi:
+
+{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/2025-test-pressings/05-on-fire-rough-trade-uk.jpg" "On Fire - Rough Trade UK" %}
+
+ - [Galaxie 500 On Fire (1989) TEST PRESSING in HANDMADE SLEEVE SIGNED BY NAOMI YANG](https://ebay.us/m/4sFZay) - the auction runs until Friday 28th November
+
+The first test pressing auction is still live
+
+ - [Galaxie 500 Today (1988) TEST PRESSING in HANDMADE SLEEVE SIGNED BY NAOMI YANG](https://ebay.us/m/1kdPmz) - the auction runs until Tuesday 25th November
+
+---
+
 A test pressing of Galaxie 500's debut album is now being auctioned. The test pressing is the first of sixteen test pressings that will be made available via auction and all will come in unique one-of-a-kind sleeves hand-made and signed by Naomi Yang.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxxie-500-today-aurora-test-pressing-auction.jpg" "Today test pressing" %}
@@ -50,6 +67,3 @@ The other items in the series will be auctioned over the coming weeks and are:
 - 15 This Is Our Music (20\|20\|20, 2009)
 - 16 Fourth of July (Rough Trade UK, 1990)
 
-{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-test-pressings-01.jpg" "Test pressings 01 to 06" %}
-{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-test-pressings-02.jpg" "Test pressings 07 to 12" %}
-{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-test-pressings-03.jpg" "Test pressings 13 to 16" %}
