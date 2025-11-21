@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxxie-500-today-aurora-test-pressing-auction.jpg
+image: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/2025-test-pressings/05-on-fire-rough-trade-uk.jpg
 categories:
 - galaxie 500
 - news
