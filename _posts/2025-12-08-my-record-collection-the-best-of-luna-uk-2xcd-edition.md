@@ -21,7 +21,7 @@ While the US got a single disc Best of Luna and Lunafied as a download, the band
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/best-of-luna-uk-cd-playing.jpg" "Best of Luna (UK)" %}
 
-The discs were named "Best of Luna" and "Lunafied" although this led to the awkwardness of having a "Best of Luna" disc without any cover versions - this could almost be fixed by the fact that the whole package was called "Best of Luna" but then... should a "Best of Luna" package have "Only Women Bleed" or "In The FLesh"?
+The discs were named "Best of Luna" and "Lunafied" although this led to the awkwardness of having a "Best of Luna" disc without any cover versions - this could almost be fixed by the fact that the whole package was called "Best of Luna" but then... should a "Best of Luna" package have "Only Women Bleed" or "In The Flesh"?
 
 When I covered the US "Best of Luna" I created a table stating the album origins of each of the tracks... so, lets revisit and compare:
 
