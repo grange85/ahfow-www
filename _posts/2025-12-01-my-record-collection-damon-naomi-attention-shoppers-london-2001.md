@@ -21,7 +21,7 @@ I don't have many recordings of Damon & Naomi but this recording was made by my 
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-attention-shoppers-cdr.jpg" "Damon & Naomi - Attention Shoppers" %}
 
-This was a great show, support had come from The Clientele (first or second time I'd seen them) and The Trembling Blue Stars (sadly neither of their sets were taped). Damon & Naomi were over with Michio Kurihara on the tour that would end with the "Live in San Sebasitan" deception (go read your Sub Pop Years liner notes).
+This was a great show, support had come from The Clientele (first or second time I'd seen them) and The Trembling Blue Stars (sadly neither of their sets were taped). Damon & Naomi were over with Michio Kurihara on the tour that would end with the "Live in San Sebastian" deception (go read your Sub Pop Years liner notes).
 
 I didn't often bother making sleeves for the recordings I have, but I did for this one. The show dates from a good ten years before my first phone with a camera and since I rarely took a _proper_ camera to shows the picture I used for the cover was not one of mine. A couple of weeks after the London show D&N played in Utrecht in Holland and the pictures from that show by the photographer Stefan Claudius were sent to me to include on AHFoW. I didn't get permission to bung it on my CD sleeve but then it was never meant for sharing. Stefan's photos also turned up in the "Song to the Siren" CD booklet.
 
