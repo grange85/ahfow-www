@@ -16,7 +16,7 @@ categories:
 tags:
 - 13 most beautiful
 ---
-This is the sixth and (so far) final apparace of Dean & Britta's 13 Most Beautiful which probably wins for the most different formats in this series... this one is the LP version that was released by Danish indie Wouldn't Waste Records in 2017.
+This is the sixth and (so far) final appearance of Dean & Britta's 13 Most Beautiful which probably wins for the most different formats in this series... this one is the LP version that was released by Danish indie Wouldn't Waste Records in 2017.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-and-britta-13-most-beautiful-lp.jpg" "13 Most Beautiful LP" %}
 
