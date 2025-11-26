@@ -44,13 +44,13 @@ Last night Dean & Britta played their ~~third~~ fourth live streamed concert sin
 
 <div class="col-md-6 float-right"><a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/50154553211/in/album-72157715243203528/" title="Dean calls the helpdesk"><img src="https://media.fullofwishes.co.uk/flickr-downloads/50154553211_b1bbab649e_z.jpg" alt="Dean calls the helpdesk"></a></div>
 
-The duo have decided to use the Veeps platform for the concerts which consensus seems to suggest was a wise decision as the sound quality is pretty good although for the first ten minutes of last night's performance you wouldn't have known that as the show started without sound. After a couple of minutes of their opener the message that the only people who could hear the show were the three folk in D&B's living room the event ground to a halt. With some knob twiddling and a call to tech support things were finally resolved and the concert restarted with My Rifle, My Pony and Me from [Dean and Cheval Sombre's album of cowboy songs](/database/dean-and-britta/dean-wareham-releases/dean-wareham-vs-cheval-sombre/) from a couple of years back.
+The duo have decided to use the Veeps platform for the concerts which consensus seems to suggest was a wise decision as the sound quality is pretty good although for the first ten minutes of last night's performance you wouldn't have known that as the show started without sound. After a couple of minutes of their opener the message that the only people who could hear the show were the three folk in D&B's living room the event ground to a halt. With some knob twiddling and a call to tech support things were finally resolved and the concert restarted with My Rifle, My Pony and Me from [Dean and Cheval Sombre's album of cowboy songs](https://www.fullofwishes.co.uk/database/dean-and-britta/dean-wareham-releases/dean-wareham-vs-cheval-sombre/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20251216) from a couple of years back.
 
 Once the sound was restored it became clear that this show was a step-up from previous ones, the addition of drums and Roger's hand at the engineering wheel was certainly making a difference - next up was Galaxie 500's Leave The Planet followed by Opal's Hear The Wind Blow.
 
 The set continued with a run of Galaxie 500 tracks with Dean & Britta's You Turned My Head Around slotted in the middle (always a joy to hear and see Britta during that one). Dean also gave a couple of poetry readings and threw in some banter and told some stories.
 
-Among the Galaxie 500 tracks was a beautiful rendition of Sorry - written by Damon and a heartbreaking insight into a band crumbling - "Seems it doesn't make a difference,  and were sorry all the time" - it was beautiful to hear and probably hasn't been performed live by any former Galaxie 500 members since their last tour in 1991 - the late [Tom Rapp covered it at a Terrastock show back in 1998](https://www.fullofwishes.co.uk/2018/02/12/tom-rapp-1947-2018/).
+Among the Galaxie 500 tracks was a beautiful rendition of Sorry - written by Damon and a heartbreaking insight into a band crumbling - "Seems it doesn't make a difference,  and were sorry all the time" - it was beautiful to hear and probably hasn't been performed live by any former Galaxie 500 members since their last tour in 1991 - the late [Tom Rapp covered it at a Terrastock show back in 1998](https://www.fullofwishes.co.uk/2018/02/12/tom-rapp-1947-2018/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20251216).
 
 The show finished with an _encore_ of a cover of Donovan's Sadness and then a perfect Ceremony.
 
@@ -233,6 +233,6 @@ https://www.youtube.com/watch?v=_mgMlLoxcU0
 
 ---
 
-And so COVID year 1 came to an end but without an end in sight - but we made it through pretty much unscathed and Dean & Britta's scheduled and unscheduled appearances helped to make things better!
+And so COVID year 1 came to an end but without an end in sight - but Hazel, Adam, and I (and all my family) made it through pretty much unscathed and Dean & Britta's scheduled and unscheduled appearances helped to make things better!
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/my-2020-in-scribbles.jpg" "My 2020" %}
