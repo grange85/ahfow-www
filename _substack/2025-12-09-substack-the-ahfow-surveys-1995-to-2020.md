@@ -14,3 +14,6 @@ categories:
 tags:
 -
 ---
+For 25 years AHFoW surveyed the website and mailing list's users it was all very innocent and was fun. I'd ask users for their favourite tracks and albums, I'd try to find out how old they were, and what country they lived in. Survey's these days are rarely that innocent - every phone call to any service is followed by a survey, every list you sign up to want to find out more about you - people are surely getting survey-ed out, I know I am. I like to think that this is the reason that voters tailed off towards the end of the AHFoW survey's run.
+
+In December 1995, a year after the birth of the website, and six months after the Galaxie 500 Mailing List came into being I held the first survey. I asked folk to email their responses in and spent hours compiling them into a readable form

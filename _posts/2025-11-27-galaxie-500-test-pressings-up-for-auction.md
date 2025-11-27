@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Galaxie 500 test pressings up for auction
-date: 2025-11-21 22:11 +0000
+title: Third Galaxie 500 test pressing up for auction
+date: 2025-11-27 09:11 +0000
 series-title:
 catno:
 author:
@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/2025-test-pressings/05-on-fire-rough-trade-uk.jpg
+image: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/2025-test-pressings/10-blue-thunder-rough-trade-uk.jpg
 categories:
 - galaxie 500
 - news
@@ -17,6 +17,26 @@ tags:
 - today
 - on fire
 ---
+**Update 27th November 2025**
+
+The third of the test pressings in unique, handmade sleeves is now up for auction on eBay - this time it's a copy of the Blue Thunder EP, released on Rough Trade in 1990.
+
+The auction runs until Wednesday 3rd December.
+
+{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/2025-test-pressings/10-blue-thunder-rough-trade-uk.jpg" "caption" %}
+
+ - [Galaxie 500 Blue Thunder EP (1990) TEST PRESSING w HANDMADE SLEEVE BY NAOMI YANG](https://ebay.us/m/mEN7Yp)
+
+The second auction for a copy of On Fire is still live:
+
+{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/2025-test-pressings/05-on-fire-rough-trade-uk.jpg" "On Fire - Rough Trade UK" %}
+
+ - [Galaxie 500 On Fire (1989) TEST PRESSING in HANDMADE SLEEVE SIGNED BY NAOMI YANG](https://ebay.us/m/4sFZay) - the auction runs until Friday 28th November
+
+The first test pressing auction ended and the copy of Today sold for $985
+
+---
+
 **Update 21st November 2025**
 
 The second test pressing has now been popped up for auction on eBay - this is No. 5 in the list and is the UK Rough Trade edition of Galaxie 500's second album On Fire.
