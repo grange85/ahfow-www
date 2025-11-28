@@ -18,5 +18,5 @@ The film was made in 2007 by Max Finneran and is...
 
 > a short coming-of-age horror film about sons, fathers and the roles they play and imagine for one another.  Abandoned by his father at a highway-side pumpkin patch, an eleven year-old boy spends a peculiar and life changing night with the misfit proprietor of the patch.
 
-{% ahfowvideo "G09csbVdcsw" "Pumpkin Hell" %}
+{% ahfowvideo "G09csbVdcsw" "Pumpkin Hell" "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/pumpkin-hell/pumpkin-hell-deanandtolan-01.jpg"  %}
 
