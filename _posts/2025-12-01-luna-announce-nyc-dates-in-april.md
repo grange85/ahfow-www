@@ -17,7 +17,7 @@ tags:
 - bowery ballroom
 - new york
 ---
-Luna have announced that they will be playing three shows at The Bopwery Ballroom in New York in April. Tickets go on sale on Friday 5th December but there is a code for a pre-sale that starts on Tuesday 2nd December (tomorrow).
+Luna have announced that they will be playing three shows at The Bowery Ballroom in New York in April. Tickets go on sale on Friday 5th December but there is a code for a pre-sale that starts on Tuesday 2nd December (tomorrow).
 
 <blockquote>
 We have just announced three Luna shows next year at our favorite venue, New York City's Bowery Ballroom, April 2-3-4. Tickets go on sale to the general public this Friday at 10 a.m. Eastern. These shows tend to sell out very quickly, and the folks at Bowery Ballroom have set up an artist pre-sale with code LUNA25 that starts this Tuesday at 10 a.m. and lasts till Thursday 10pm.
