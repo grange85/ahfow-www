@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Third Galaxie 500 test pressing up for auction
-date: 2025-11-27 09:11 +0000
+title: Fourth Galaxie 500 test pressing up for auction
+date: 2025-12-03 09:11 +0000
 series-title:
 catno:
 author:
@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/2025-test-pressings/10-blue-thunder-rough-trade-uk.jpg
+image: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/2025-test-pressings/13-this-is-our-music-rough-trade-uk.jpg
 categories:
 - galaxie 500
 - news
@@ -17,19 +17,35 @@ tags:
 - today
 - on fire
 ---
+**Update 3rd December 2025**
+The fourth in the series of Galaxie 500 test pressings is now up for auction. This one is a copy of the Rough Trade UK pressing of the band's last album This Is Our Music.
+
+{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/2025-test-pressings/13-this-is-our-music-rough-trade-uk.jpg" "This Is Our Music - Rough Trade UK" %}
+
+As with the previous editions in the series it comes in a unique sleeve, handmade and signed by Naomi Yang. The auction ends on Monday 8th December and has a starting price of $500.
+
+ - 13 of 16: [Galaxie 500 This Is Our Music (1990) TEST PRESSING/HANDMADE SLEEVE BY NAOMI YANG](https://ebay.us/m/Q99N8B)
+
+The previous auction for a copy of Blue Thunder ends this evening (10pm GMT)
+
+ - 10 of 16: [Galaxie 500 Blue Thunder EP (1990) TEST PRESSING w HANDMADE SLEEVE BY NAOMI YANG](https://ebay.us/m/mEN7Yp)
+
+The first two auctions are now over:
+
+ - 1 of 16: Galaxie 500 Today (1988) TEST PRESSING in HANDMADE SLEEVE SIGNED BY NAOMI YANG - sold for **$985**
+ - 5 of 16: Galaxie 500 On Fire (1989) TEST PRESSING in HANDMADE SLEEVE SIGNED BY NAOMI YANG - sold for **$1,130.00**
+
+---
+
 **Update 27th November 2025**
 
 The third of the test pressings in unique, handmade sleeves is now up for auction on eBay - this time it's a copy of the Blue Thunder EP, released on Rough Trade in 1990.
 
 The auction runs until Wednesday 3rd December.
 
-{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/2025-test-pressings/10-blue-thunder-rough-trade-uk.jpg" "caption" %}
-
  - [Galaxie 500 Blue Thunder EP (1990) TEST PRESSING w HANDMADE SLEEVE BY NAOMI YANG](https://ebay.us/m/mEN7Yp)
 
 The second auction for a copy of On Fire is still live:
-
-{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/2025-test-pressings/05-on-fire-rough-trade-uk.jpg" "On Fire - Rough Trade UK" %}
 
  - [Galaxie 500 On Fire (1989) TEST PRESSING in HANDMADE SLEEVE SIGNED BY NAOMI YANG](https://ebay.us/m/4sFZay) - the auction runs until Friday 28th November
 
@@ -43,8 +59,6 @@ The second test pressing has now been popped up for auction on eBay - this is No
 
 Once again this is in a unique sleeve hand-made and signed by Naomi:
 
-{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/2025-test-pressings/05-on-fire-rough-trade-uk.jpg" "On Fire - Rough Trade UK" %}
-
  - [Galaxie 500 On Fire (1989) TEST PRESSING in HANDMADE SLEEVE SIGNED BY NAOMI YANG](https://ebay.us/m/4sFZay) - the auction runs until Friday 28th November
 
 The first test pressing auction is still live
@@ -54,8 +68,6 @@ The first test pressing auction is still live
 ---
 
 A test pressing of Galaxie 500's debut album is now being auctioned. The test pressing is the first of sixteen test pressings that will be made available via auction and all will come in unique one-of-a-kind sleeves hand-made and signed by Naomi Yang.
-
-{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxxie-500-today-aurora-test-pressing-auction.jpg" "Today test pressing" %}
 
 The test pressing is from the first issue of the LP on Aurora records in 1988.
 

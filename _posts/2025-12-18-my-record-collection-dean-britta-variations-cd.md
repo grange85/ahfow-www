@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dean & Britta - Variations (CD)'
+title: '[312] Dean & Britta - Variations (CD)'
 date: 2025-12-18 00:00 +0000
 series-title: My record collection
 catno: 10/009
@@ -39,3 +39,17 @@ The sleeve of the EP was a photo of Dean and Britta taken by Michael Lavine and 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/antonioni-blow-up-posters.jpg" "Antonioni Blow-Up posters" %}
 
 Mubi did a [blog post about the posters for Blow-Up](https://mubi.com/en/notebook/posts/movie-poster-of-the-week-michelangelo-antonioni-s-blow-up) a few years back (where I lifted that image from!).
+
+ - *Catalogue Number:* AHFOW 10/009
+ - *Artist:* Dean & Britta
+ - *Title:* Variations
+ - *Notes:* Signed by Dean
+ - *Packaging:* Digipack
+ - *Format:* CD
+
+Previously in [my record collection](/category/my-record-collection) - _Christmas edition_:
+ - [[100] Luna - Time / Egg Nog (red vinyl)](/2023/12/18/my-record-collection-096-luna-time-egg-nog-red-vinyl/)
+ - [[101] Old Toy Trains / He's Coming Home - Dean & Britta (blue vinyl)](/2023/12/21/my-record-collection-097-old-toy-trains-hes-coming-home/)
+ - [[202] Dean & Britta & Sonic Boom - A Peace of Us](/2024/12/02/my-record-collection-r11-dean-britta-sonic-boom-a-peace-of-us/)
+ - [[208] White Christmas - Damon & Naomi](/2024/12/19/my-record-collection-198-white-christmas-damon-naomi/)
+ - [[209] Dean & Britta with Sonic Boom- He's Coming Home / Old Toy Trains](/2024/12/23/my-record-collection-199-dean-britta-he-s-coming-home-old-toy-trains/)
