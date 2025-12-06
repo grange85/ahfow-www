@@ -21,7 +21,7 @@ This is my second copy of Luna's promo/christmas 7" from 1992, this is the green
 
 {% ahfowimage "url" "caption" %}
 
-Last time out, for the [red vinyl version](http://moonshot.local:4040/2023/12/18/my-record-collection-096-luna-time-egg-nog-red-vinyl/) of Luna's Christmas single from 1992 I debated whether or not it really was a Christmas single - I don't think I came to a firm decision either way but one piece of evidence I missed was what Dean wrote about Egg Nog in the sleeve notes for [Best of Luna](http://moonshot.local:4040/2006/09/05/best-of-luna-european-release/).
+Last time out, for the [red vinyl version](/2023/12/18/my-record-collection-096-luna-time-egg-nog-red-vinyl/) of Luna's Christmas single from 1992 I debated whether or not it really was a Christmas single - I don't think I came to a firm decision either way but one piece of evidence I missed was what Dean wrote about Egg Nog in the sleeve notes for [Best of Luna](/2006/09/05/best-of-luna-european-release/).
 
 <blockquote>
 Elektra asked us to record a Christmas single in 1992. Justin had written a little instrumental that he thought might work - all we had to do was add sleigh bells and give it a Christmas-y title. This was our first recording session as a quartet, Sean having joined the band about a month earlier. These sessions took place at Mixolydian Studios in Boonton, New Jersey, with Feelies' engineer Don Sternecker recording and mixing. Over the course of two days we recorded "Indian Summer", "Ride Into the Sun", "That's What You Always Say" and "Egg Nog". Sean's playing was stellar, and for the first time Luna felt like a band.
@@ -38,3 +38,14 @@ Back in 2017 I decided to make an Egg Nog and made the mistake of handing my pho
 
 It became a bit of a tradition, you can watch the [2019 #eggnoglive over here](https://www.instagram.com/stories/highlights/17857527670713967/) - the look on my face as I took a sip shows that I'm clearly not a drinker!
 
+While I can't remember how the red copy came into my possession, this copy was definitely an eBay purchase since it has a nice hand-written note from the seller tucked into the sleeve.
+
+ - *Catalogue Number:* AHFOW 11/004
+ - *Artist:* Luna
+ - *Title:* Time / Egg Nog
+ - *Notes:* Green vinyl
+ - *Packaging:* Elektra sleeve
+ - *Format:* 7" single
+
+Previously in [my record collection](/category/my-record-collection):
+ - [[100] Luna - Time / Egg Nog (red vinyl)](/2023/12/18/my-record-collection-096-luna-time-egg-nog-red-vinyl/)
