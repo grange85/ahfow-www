@@ -42,13 +42,6 @@ I tried to think of the 18 songs I'd put on **my** Best of Luna but I'm damned i
 
 The liner notes for Best of Luna had short little pen portraits of each song on the album... although they're often only superficially about the song... here are a couple of my favourites.
 
-Since it's almost Christmas...
-
-<blockquote>
-Elektra asked us to record a Christmas single in 1992. Justin had written a little instrumental that he thought might work all we had to do was add sleigh bells and give it a Christmas-y title. This was our first recording session as a quartet, Sean having joined the band about a month earlier. These sessions took place at Mixolydian Studios in Boonton, New Jersey, with Feelies' engineer Don Sternecker recording and mixing. Over the course of two days we recorded "Indian Summer", "Ride Into the Sun", "That's What You Always Say" and "Egg Nog". Sean's playing was stellar, and for the first time Luna felt like a band.
-</blockquote>
-<p class="caption">Egg Nog (Dean Wareham - Best of Luna sleeve notes)</p>
-
 <blockquote>
 On Saturday afternoons, Channel 55 used to show re-runs of Columbo. One of my favorite episodes, Étude in Black, stars John Cassavetes as a maestro who murders his pianist girlfriend. He carefully stages the murder so it will look like a suicide, turning on the gas, and putting her head in the oven. Columbo doesn't buy it. "Murder is bad," he says, "but suicide is sad. Why would a girl like that put her head in the oven?"
 </blockquote>
