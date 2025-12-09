@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Fourth Galaxie 500 test pressing up for auction
-date: 2025-12-03 09:11 +0000
+title: Galaxie 500 test pressings for sale on 20-20-20.com
+date: 2025-12-09 19:11 +0000
 series-title:
 catno:
 author:
@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/2025-test-pressings/13-this-is-our-music-rough-trade-uk.jpg
+image: https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-test-pressings-01.jpg
 categories:
 - galaxie 500
 - news
@@ -17,6 +17,42 @@ tags:
 - today
 - on fire
 ---
+**Update 9th December 2025**
+Some more of the unique Galaxie 500 test pressings are now for sale at a fixed price on Damon & Naomi's [20\|20\|20 website](). The test pressings are, like all in the series, are being sold in beautiful hand-made sleeves:
+
+<blockquote>
+<p>The sleeves feature images from Naomi’s archive of sketches and mechanicals used in creating the final commercial cover art for each Galaxie 500 release - in the same way that a test pressing is needed to make a final album, these sketches and mechanicals were used to create the final artwork for the original covers. </p>
+<p>These images are then collaged onto an piece of Pantone color paper from the late 80’s, also from Naomi’s archive. These color papers were crucial to the pre-digital design work that Naomi employed on all the original Galaxie 500 releases. Each test pressing uses a different Pantone color, there are no two the same.</p>
+</blockquote>
+<p class="caption"><a href="https://www.20-20-20.com/testpressings">Test pressings on 20\|20\|20</a></p>
+
+The following are currently available:
+
+ - 02 of 16 [Today - 1988 - Aurora / Pantone 464](https://www.20-20-20.com/store/p/galaxie-500-today-464) - $1,000
+ - 04 of 16 [Today - 2009 - 20\|20\|20 / Pantone 128](https://www.20-20-20.com/store/p/galaxie-500-today-128) - $750
+ - 07 of 16 [On Fire - 1989 - Rough Trade US / Pantone 115](https://www.20-20-20.com/store/p/galaxie-500-onfire-115) - $1,000
+ - 08 of 16 [On Fire - 1989 - Rough Trade US / Pantone 1785](https://www.20-20-20.com/store/p/galaxie-500-onfire-1785) - $1,000
+ - 09 of 16 [On Fire - 2009 - 20\|20\|20 / Pantone 552](https://www.20-20-20.com/store/p/galaxie-500-onfire-552) - $750
+ - 11 of 16 [Blue Thunder - 1990 - Rough Trade UK / Pantone 251](https://www.20-20-20.com/store/p/galaxie-500-bluethunder-251) - $500
+ - 15 of 16 [This Is Our Music - 2009 - 20\|20\|20 / Pantone 349](https://www.20-20-20.com/store/p/galaxie-500-thisisourmusic-349) - $750
+
+The ones that were sold on eBay were:
+
+ - 01 of 16: Galaxie 500 Today (1988) TEST PRESSING in HANDMADE SLEEVE SIGNED BY NAOMI YANG - sold for **$985**
+ - 05 of 16: Galaxie 500 On Fire (1989) TEST PRESSING in HANDMADE SLEEVE SIGNED BY NAOMI YANG - sold for **$1,130.00**
+ - 10 of 16: Galaxie 500 Blue Thunder EP (1990) TEST PRESSING w HANDMADE SLEEVE BY NAOMI YANG - sold for **$480**
+ - 13 of 16: Galaxie 500 This Is Our Music (1990) TEST PRESSING/HANDMADE SLEEVE BY NAOMI YANG - sold for **$510**
+
+... and the following I guess will turn up later...
+
+ - 03 of 16: Today - 1991 - Rough Trade UK (R266) / Pantone 176
+ - 06 of 16: On Fire - 1989 - Rough Trade US / Pantone 877
+ - 12 of 16: Blue Thunder - 1990 - Rough Trade / Pantone 578
+ - 14 of 16: This Is Our Music - 1990 - Rough Trade US / Pantone 3272
+ - 16 of 16: Fourth of July - 1990 - Rough Trade UK / Pantone 337
+
+---
+
 **Update 3rd December 2025**
 The fourth in the series of Galaxie 500 test pressings is now up for auction. This one is a copy of the Rough Trade UK pressing of the band's last album This Is Our Music.
 
