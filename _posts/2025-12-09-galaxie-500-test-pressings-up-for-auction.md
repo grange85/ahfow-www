@@ -24,7 +24,7 @@ Some more of the unique Galaxie 500 test pressings are now for sale at a fixed p
 <p>The sleeves feature images from Naomi’s archive of sketches and mechanicals used in creating the final commercial cover art for each Galaxie 500 release - in the same way that a test pressing is needed to make a final album, these sketches and mechanicals were used to create the final artwork for the original covers. </p>
 <p>These images are then collaged onto an piece of Pantone color paper from the late 80’s, also from Naomi’s archive. These color papers were crucial to the pre-digital design work that Naomi employed on all the original Galaxie 500 releases. Each test pressing uses a different Pantone color, there are no two the same.</p>
 </blockquote>
-<p class="caption"><a href="https://www.20-20-20.com/testpressings">Test pressings on 20\|20\|20</a></p>
+<p class="caption"><a href="https://www.20-20-20.com/testpressings">Test pressings on 20|20|20</a></p>
 
 The following are currently available:
 
