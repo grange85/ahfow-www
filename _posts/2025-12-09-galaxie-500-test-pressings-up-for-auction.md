@@ -18,7 +18,7 @@ tags:
 - on fire
 ---
 **Update 9th December 2025**
-Some more of the unique Galaxie 500 test pressings are now for sale at a fixed price on Damon & Naomi's [20\|20\|20 website](). The test pressings are, like all in the series, are being sold in beautiful hand-made sleeves:
+Some more of the unique Galaxie 500 test pressings are now for sale at a fixed price on Damon & Naomi's [20\|20\|20 website](https://www.20-20-20.com/testpressings). The test pressings are, like all in the series, are being sold in beautiful hand-made sleeves:
 
 <blockquote>
 <p>The sleeves feature images from Naomi’s archive of sketches and mechanicals used in creating the final commercial cover art for each Galaxie 500 release - in the same way that a test pressing is needed to make a final album, these sketches and mechanicals were used to create the final artwork for the original covers. </p>
