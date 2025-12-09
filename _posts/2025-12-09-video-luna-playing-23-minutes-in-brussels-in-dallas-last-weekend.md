@@ -20,5 +20,5 @@ I miss the days when you'd find a stack of videos on YouTube the day after a sho
 
 {% ahfowvideo "MocvRZA_EUw" "Luna - 23 Minutes in Brussels - Dallas (December 2025)" %}
 
-Hopefully more clips will turn up at some point... and hopefully some of their end of year shows with Yo La Tengo.
+Hopefully more clips will turn up at some point... and with any luck some of their end of year shows with Yo La Tengo.
 
