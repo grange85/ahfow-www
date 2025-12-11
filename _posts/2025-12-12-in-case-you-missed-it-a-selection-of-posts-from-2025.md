@@ -13,6 +13,7 @@ categories:
 - editorial
 tags:
 - substack
+date: 2025-12-12 00:00 +0000
 ---
 As well as posting to this website, since April I have been posting weekly pieces on the A Head Full of Wishes Substack - the intention was just to re-hash some old posts but over time it turned into more than that. They were, of course, of varying quality so I've picked a few of the ones I think were more interesting and am posting them here in case you missed them.
 
