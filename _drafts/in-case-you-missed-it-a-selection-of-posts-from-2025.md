@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In case you missed it - a selection of posts from 2025
+title: In case you missed it - a selection of posts from 2025 (1)
 series-title:
 catno:
 author:
@@ -10,9 +10,9 @@ author:
   url: https://www.grange85.co.uk
 image:
 categories:
--
+- editorial
 tags:
--
+- substack
 ---
 As well as posting to this website, since April I have been posting weekly pieces on the A Head Full of Wishes Substack - the intention was just to re-hash some old posts but over time it turned into more than that. They were, of course, of varying quality so I've picked a few of the ones I think were more interesting and am posting them here in case you missed them.
 
@@ -57,3 +57,17 @@ Bob, famously the Galaxie 500 Mailing Lists oldest member, was in town for Terra
 <blockquote>
 On the 9th of August Hazel and I went to Abbey Road Studios to oversee the cutting of the masters - of course we knew nothing and just went along for the ride with little more than Dom’s advice which was something along the lines of “don’t let them mess with it”, But there we were sitting on a couch in Abbey Road Studios, trying not to look like we knew nothing!
 </blockquote>
+
+### [Galaxie 500 at The Subterania - 27th June 1990](https://aheadfullofwishes.substack.com/p/galaxie-500-at-the-subterania-27th)
+
+_Substack: 24th June 2025_
+
+This is less a post about the show and more about the effect that the show had on my life.
+
+{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-06-27/1990-06-27_galaxie_500-ticket.jpg" "Ticket for Galaxie 500 at The Subterania (sadly... not mine)" %}
+
+<blockquote>
+<p>The Subterania was a club located underneath the Westway in west London. Most gigs around then were happening in North London or the West End so it was nice having a venue a little closer to home so we saw quite a few gigs there over the years (although I somehow managed to not see Galaxie 500’s first gig there the previous year).</p>
+<p>To be honest I can’t really remember the specifics of Galaxie 500’s set, but, main set over, at approx 22:30 Galaxie 500 returned to the stage for an encore, they were joined by Kramer and played Ceremony, followed by Don’t Let Our Youth Go To Waste. I was mesmerised.
+</p></blockquote>
+
