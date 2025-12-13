@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Galaxie 500 test pressings for sale on 20-20-20.com
+title: The last of the Galaxie 500 test pressings are now up for sale on 20-20-20.com
 date: 2025-12-13 19:11 +0000
 series-title:
 catno:
@@ -17,7 +17,7 @@ tags:
 - today
 - on fire
 ---
-**Update 13th December 2025**
+**Update 13th December 2025**  
 The last of the lovely Galaxie 500 test pressings have now been put up for sale on the [20\|20\|20 website](https://www.20-20-20.com/testpressings) - the last tranche contain one each of the bands releases and all are in beautiful hand-made sleeves - I've been a bit slow updating this page so some have already sold!
 
 
