@@ -3,7 +3,7 @@ layout: post
 title: '[313] Luna - Time / Egg Nog (green vinyl)'
 date: 2025-12-22 00:00 +0000
 series-title: My record collection
-catno: AHFOW 11/004
+catno: 11/004
 author:
   display_name: Andy
   login: admin
