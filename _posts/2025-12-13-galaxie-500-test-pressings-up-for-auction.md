@@ -17,6 +17,24 @@ tags:
 - today
 - on fire
 ---
+**Update 13th December 2025**
+The last of the Galaxie 500 test pressings have now been put up for sale on the [20\|20\|20 website](https://www.20-20-20.com/testpressings) - the last tranche contain one each of the bands releases and all are in beautiful hand-made sleeves - I've been a bit slow updating this page so some have already sold!
+
+
+ - 03 of 16: Today - 1991 - Rough Trade UK (R266) / Pantone 176 **SOLD**
+ - 06 of 16: On Fire - 1989 - Rough Trade US / Pantone 877 **SOLD**
+ - 12 of 16: [Blue Thunder - 1990 - Rough Trade / Pantone 578](https://www.20-20-20.com/store/p/galaxie-500-bluethunder-578) - $500
+ - 14 of 16: [This Is Our Music - 1990 - Rough Trade US / Pantone 3272](https://www.20-20-20.com/store/p/galaxie-500-thisisourmusic-3272) - $1000
+ - 16 of 16: Fourth of July - 1990 - Rough Trade UK / Pantone 337 **SOLD**
+
+A few of the earlier ones are still available
+
+ - 04 of 16 [Today - 2009 - 20\|20\|20 / Pantone 128](https://www.20-20-20.com/store/p/galaxie-500-today-128) - $750
+ - 09 of 16 [On Fire - 2009 - 20\|20\|20 / Pantone 552](https://www.20-20-20.com/store/p/galaxie-500-onfire-552) - $750
+ - 15 of 16 [This Is Our Music - 2009 - 20\|20\|20 / Pantone 349](https://www.20-20-20.com/store/p/galaxie-500-thisisourmusic-349) - $750
+
+---
+
 **Update 9th December 2025**
 Some more of the unique Galaxie 500 test pressings are now for sale at a fixed price on Damon & Naomi's [20\|20\|20 website](https://www.20-20-20.com/testpressings). The test pressings are, like all in the series, are being sold in beautiful hand-made sleeves:
 
