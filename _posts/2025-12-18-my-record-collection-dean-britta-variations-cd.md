@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[312] Dean & Britta - Variations (CD)'
+title: '[313] Dean & Britta - Variations (CD)'
 date: 2025-12-18 00:00 +0000
 series-title: My record collection
 catno: 10/009

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[313] Luna - Time / Egg Nog (green vinyl)'
+title: '[314] Luna - Time / Egg Nog (green vinyl)'
 date: 2025-12-22 00:00 +0000
 series-title: My record collection
 catno: 11/004

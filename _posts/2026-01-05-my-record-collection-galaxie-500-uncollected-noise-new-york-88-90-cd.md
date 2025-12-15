@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[314] Galaxie 500 - Uncollected Noise New York ''88-''90 (CD)'
+title: '[315] Galaxie 500 - Uncollected Noise New York ''88-''90 (CD)'
 date: 2026-01-05 00:00 +0000
 series-title: My record collection
 catno: 10/173
