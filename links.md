@@ -7,7 +7,7 @@ title: Links
 {% include post_list.html limit=3 %}
 
  - [Read the latest A Head Full of Wishes post on Substack](https://aheadfullofwishes.substack.com/)
- - [Photos and audio: Galaxie 500 in London in 1989](https://www.fullofwishes.co.uk/2012/07/19/photos-and-audio-galaxie-500-in-london-in-1989/)
+ - [Unofficial Dean & Britta Lockdown Christmas rewatch](https://www.facebook.com/share/1Zoy6dxAdE/)
 
 ### Other links
 <ul>
