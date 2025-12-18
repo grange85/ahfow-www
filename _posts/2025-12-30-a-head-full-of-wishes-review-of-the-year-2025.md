@@ -48,13 +48,13 @@ Things were pretty quiet from Damon & Naomi, particularly during the first part 
 
 ### February
 
- - The second track from Dean's album is released with another video  
+ - The second track from Dean's album was released with another video  
    <blockquote>
    We filmed this over the holidays in and around Echo Park. Matthew and I thought for this romantic but contemplative song it would be fun to shoot me doing some romantic activities but all my myself, so here I am, shopping for books, taking a paddle boat ride in the Echo Park lake, eating a cheeseburger.
    </blockquote>
    <p class="caption"><a href="/2025/02/06/listen-to-the-title-track-from-dean-wareham-s-upcoming-album/">Listen to the title track from Dean Wareham's upcoming album</a> (AHFoW)</p>
 
- - Dean and Britta sat in for Howard Thompson on his PURE WKPN show - you can listen to the whole show - [Dean Wareham and Britta Phillips on PURE WKPN - 21st February 2025](/articles/dean-and-britta-on-pure-wkpn/)
+ - Dean and Britta sat in for Howard Thompson on his PURE WKPN show - you can listen to the whole show - [Dean Wareham and Britta Phillips on PURE WKPN - 21st February 2025](/articles/dean-and-britta-on-pure-wkpn/).
 
 ### March
 
@@ -64,7 +64,7 @@ Things were pretty quiet from Damon & Naomi, particularly during the first part 
 
 ### April
 
- - Dean and his band arrived in Glasgow on the 1st of April... as did I - [Diary: Dean Wareham in Glasgow - 1st April 2025](/2025/04/17/diary-dean-wareham-in-glasgow-1st-april-2025/)
+ - Dean and his band arrived in Glasgow on the 1st of April... as did I - [Diary: Dean Wareham in Glasgow - 1st April 2025](/2025/04/17/diary-dean-wareham-in-glasgow-1st-april-2025/).
  {% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-glasgow-april-2025-01.jpg" "Dean Wareham in Glasgow" %}
  - A few days later and the band were in Leeds, and so was I! - [Diary: Dean Wareham in Leeds - 5th April 2025](/2025/04/18/diary-dean-wareham-in-leeds-5th-april-2025/).  
    I invited myself along to the soundcheck - during which the band played the Galaxie 500 obscurity Shout You Down, as far as I know one of the only times it got a live outing... and I was pretty much the only person in the room!
@@ -105,7 +105,7 @@ Captured here in a raw but inspired board mix by Kramer and restored and mastere
 ### July
 
  - John Peel's copy of Galaxie 500's Today sells for £340 at auction.
- - Damon's new book Why Sound Matters is announced with a release scheduled for October.
+ - Damon's new book Why Sound Matters was announced with a release scheduled for October.
 
 ### August
 
@@ -143,19 +143,19 @@ OK, so August was a bit special and the best place to read about it in one place
 
 ### September
 
- - Dean released a [digital single of his cover of Lou Reed's The Gift](https://www.youtube.com/watch?v=fxGkLmxEvzk) - a different version than the one released on a single earlier in the year - a new vocal with "a better microphone and a better attitude"
+ - Dean released a [digital single of his cover of Lou Reed's The Gift](https://www.youtube.com/watch?v=fxGkLmxEvzk) - a different version than the one released on a single earlier in the year - a new vocal with "a better microphone and a better attitude".
  - Luna announce some shows for the end of the year playing with Yo La Tengo at The Fillmore in San Francisco.
 
 ### October
 
- - Dean's newsletter reminisces about an early Galaxie 500 trip to the UK and his recent tour of the North of England
- - I come across a recording of [Luna supporting The Velvet Underground in London in 1993](/2025/10/08/audio-luna-in-london-supporting-the-velvet-underground/) that doesn't appear to have arrived online... so I change that. 
+ - Dean's newsletter reminisces about an early Galaxie 500 trip to the UK and his recent tour of the North of England.
+ - I come across a recording of [Luna supporting The Velvet Underground in London in 1993](/2025/10/08/audio-luna-in-london-supporting-the-velvet-underground/) that doesn't appear to have arrived online... so I changed that. 
  - Dean mentions in an email that the long Bandbox orders from a couple of years ago that vanished into bankruptcy oblivion are finally being honoured - for a small postage fee you can finally get your records! Some have arrived... I'm still waiting although the company doing the _honouring_ are ignoring (rather unhonourably) my emails :(
 
 ### November
 
  - The _my record collection_ series of posts reaches #300 so I celebrate by posting [a ridiculously long post about the wonderful 1996 Galaxie 500 box set](/2025/11/06/my-record-collection-galaxie-500-galaxie-500-aka-box-set/).
- - Damon and Naomi start selling some a series of Galaxie 500 test pressings all in beautiful hand-made sleeves - the first few are auctioned on eBay but later copies are sold for a fixed price on their website. They are very beautiful but sadly beyond my budget!
+ - Damon and Naomi start selling a series of Galaxie 500 test pressings all in beautiful hand-made sleeves - the first few are auctioned on eBay but later copies are sold for a fixed price on their website. They are very beautiful but sadly beyond my budget!
  - Damon and Naomi also announce three dates at Cafe Oto in London for the beginning of January - I've bought my tickets and booked my train and hotel so I'll see you there next week!
 
 ### December
