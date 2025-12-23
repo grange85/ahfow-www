@@ -32,7 +32,6 @@ https://www.youtube.com/watch?v=K0PiVpHvXd0
  - **23** - This Time Around (85)
  - **22** - Bobby Peru (85)
  - **21** - Freakin' and Peakin' (86)
-
  - **20** - Still at Home (94)
  - **19** - Lovedust (98)
  - **18** - Anesthesia (105)
@@ -46,7 +45,7 @@ https://www.youtube.com/watch?v=K0PiVpHvXd0
 
 ... and now, the top 10...
 
-#### 10 - California (All the Way) (208)
+#### 10 - California (All the Way) (played 208 times)
 
 Despite the band's occasional reluctance to play _California_ it is one of Luna's most popular songs and they're nothing if not crowd pleasers! Here's a clip of them reluctantly playing it for the World Cafe in 1997:
 
@@ -57,15 +56,29 @@ Despite the band's occasional reluctance to play _California_ it is one of Luna'
 "sourcecap": "Luna - 9th September 1997 - World Cafe, Philadelphia, PA, USA"
 } %}
 
+ - [Lost tracks Luna - California (live)](https://www.fullofwishes.co.uk/2012/03/23/audio-lost-tracks-california-live-luna/).
 
 
+#### 9 - Pup Tent (played 214 times)
 
-Pup Tent	214
-Bewitched	223
-Lost in Space	231
-Tiger Lily	235
-Moon Palace	254
-Chinatown	279
-Sideshow by the Seashore	292
-Friendly Advice	308
-23 Minutes in Brussels	367
+ - [Video: Luna playing Pup Tent in 2000](https://www.fullofwishes.co.uk/2008/10/18/video-luna-playing-pup-tent-in-2000/) - this is a low-res video but contains a very early appearance of Britta with the band.
+
+#### 8 - Bewitched (played 223 times)
+
+
+#### 7 - Lost in Space (played 231 times)
+
+While I do realise that the top of this countdown is getting quite Penthouse heavy I was perhaps a little surprised at Lost in Space being this high up - although since it does quite often pair with _23 Minutes_ I probably shouldn't have been!
+
+#### 6 - Tiger Lily	(played 235 times)
+
+
+#### 5 - Moon Palace (played 254 times)
+
+#### 4 - Chinatown (played 279 times)
+
+#### 3 - Sideshow by the Seashore (played 292 times)
+
+#### 2 - Friendly Advice (played 308 times)
+
+#### 1 - 23 Minutes in Brussels (played 367 times)
