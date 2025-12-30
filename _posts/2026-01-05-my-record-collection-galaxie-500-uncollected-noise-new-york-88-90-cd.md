@@ -17,7 +17,7 @@ tags:
 - uncollected
 - noise ny
 ---
-This is a CD version of the expanded Uncollected that was released a couple of years back and was bought as a collection filler direct from Damon & Naomi a couple of months after the release of the LP versions - I've already [written about the two copies of that](/2024/10/08/my-record-collection-recent-acquisition-09-and-10-galaxie-500-uncollected-noise-new-york-88-90/)
+This is a CD version of the expanded Uncollected that was released a couple of years back and was bought as a collection filler direct from Damon & Naomi a couple of months after the release of the LP versions - I've already [written about the two copies of that](/2024/10/08/my-record-collection-recent-acquisition-09-and-10-galaxie-500-uncollected-noise-new-york-88-90/).
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-uncollected-nny-88-90-cd.jpg" "Uncollected Noise New York (CD)" %}
 
