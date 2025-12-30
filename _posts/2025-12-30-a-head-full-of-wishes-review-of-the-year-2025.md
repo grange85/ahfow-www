@@ -89,12 +89,12 @@ Things were pretty quiet from Damon & Naomi, particularly during the first part 
 
 ### June
 
- - For most of May and June Dean was touring the US in support of That's The Price of Loving Me - here they are in Washington CD playing New World Julie
+ - For most of May and June Dean was touring the US in support of That's The Price of Loving Me - here they are in Washington DC playing New World Julie
 {% ahfowvideo "Rx5MO1QmJz0" "Dean Wareham - New World Julie - Songbyrd, Washington, DC" %}
  - ... and here's the lovely lounge-y cover of Luna's Friendly Advice played in St. Paul a week later
 {% ahfowvideo "fvWCiu0rNMg" "Dean Wareham • Friendly Advice • Turf Club • St. Paul " %}
 
- - An official release of the long-bootlegged [live show of Galaxie 500 at CBGB in NYC in December 1988](/2025/06/10/new-galaxie-500-official-bootleg-up-for-pre-order/) - with the release set for 8th August.
+ - An official release of the long-bootlegged [live show of Galaxie 500 at CBGB in NYC in December 1988](/2025/06/10/new-galaxie-500-official-bootleg-up-for-pre-order/) was announced - with the release set for 8th August.
 <blockquote>
 Captured here in a raw but inspired board mix by Kramer and restored and mastered from the analog source by Alan Douches at West West Side Music, CBGB 12.13.88 is a live snapshot of a Galaxie fully formed, punctuating the end of their first chapter while poised to step into their next with On Fire the following year. 
 </blockquote>
