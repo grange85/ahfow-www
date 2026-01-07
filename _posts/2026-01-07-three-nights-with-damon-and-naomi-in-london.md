@@ -17,6 +17,7 @@ categories:
 - editorial
 tags:
 - cafe oto
+date: 2026-01-07 22:21 +0000
 ---
 _I'm just home from an amazing few days in London - this isn't a review, it's just a hastily scrawled gush and a few pictures and videos - there are [more videos on YouTube](https://www.youtube.com/@ahfow) and [more pictures on Instagram](https://www.instagram.com/fullofwishes/) and maybe when I've calmed down a bit I can get a more coherent post together - but until then..._
 
