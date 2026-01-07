@@ -48,11 +48,11 @@ The show once again opened with a short routine (almost the same routine) from S
 
 Followed by a short interval during which I relocated, standing behind the rows of seats and therefore having a better view. Naomi handed me another "secret setlist".
 
-Damon & Naomi played another career-spanning set before being joined ny Richard Youngs for a couple of Galaxie 500 numbers - Spook and Decomposing Trees - colder, more melancholic interpretations than the previous night's - and with Richards, sometimes discordant guitar accompaniment. Different, but also beaitiful!
+Damon & Naomi played another career-spanning set before being joined ny Richard Youngs for a couple of Galaxie 500 numbers - Spook and Decomposing Trees - colder, more melancholic interpretations than the previous night's - and with Richard's, sometimes discordant guitar accompaniment. Different, but also beaitiful!
 
-The band were then joined by Jess from Still House Plants who added her beuatiful and unique voice to a mesmerising rendition of Don't Let Our Youth Go to Waste.
+The band were then joined by Jess from Still House Plants who added a beuatiful and unique voice to a mesmerising rendition of Don't Let Our Youth Go to Waste.
 
-I bought myself a copy of Damon's book and got it signed and acquired a black-vinyl copy of the live Galaxie 500 CBGBs recording since the limited edition "Ultra Clear And Black Cloudy" version was hirrid - it looked like a five year old had scribbled it with a marker pen! Also a Galaxie 500 patch - apparently from a "failed beanie" idea.
+I bought myself a copy of Damon's book and got it signed and acquired a black-vinyl copy of the live Galaxie 500 CBGBs recording since the limited edition "Ultra Clear And Black Cloudy" version was horrid - it looked like a five year old had scribbled it with a marker pen! Also a Galaxie 500 patch - apparently from a "failed beanie" idea.
 
 ### Day three
 
