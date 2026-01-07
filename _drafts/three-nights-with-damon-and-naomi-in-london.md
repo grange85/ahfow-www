@@ -26,9 +26,27 @@ I'd booked myself into the Premier Inn just around the corner from Cafe Oto and 
 
 ### Day 1
 
+Before the show Naomi came over and handed me a folded up bit of paper and made me promise not to look at it until the show was over.
+
 Opening the show was comedian Stewart Lee (last seen at Krankenhaus with Dean & Britta) who did a short and enjoyable (enjoyably short?) routine to warm the crowd before introducing Laetitia Sadier (of Stereolab) to the stage. Laetitia was playing solo - just her, a guitar, an electronic box-of-tricker ("my band") and a trombone. A lovely varied and humorous set ensued with a bit of mime thrown in for good measure.
 
 In the interval I repositioned myself to the left of the stage, where it was cooler.
 
-Stewart Lee did another short routine and introduced Damon & Naomi
+Stewart Lee did another short routine and introduced Damon & Naomi who performed a set of songs from accross the years before being joined by Laetita Sadier and Pulp's Mark Webber for an astounding and all too short set of Galaxie 500 classics - all with Laetitia on vocals (and trombone - which worked perfectly) FIrst up Flowers, and then When Will You Come Home ... "we don't have a word for 'home' in French... it's 'a la maison' [...] incroyable", and finishing with Tugboat - I honestly can't even begin to express the joy of seeing this collision of my two absolute favourite bands from the late 80s/early 90s. Add to that Mark Webber's beautiful guitar augmentations. Perfect!
+
+Now, some folk might want a Galaxie 500 reunion - I don't - but I do want to see this line-up doing a "plays Galaxie 500" tour"!
+
+Show over, I unfolded the note from Naomi which was the set-list, which I then got Damon and Naomi to sign and then headed back to the hotel.
+
+### Day 2
+
+Up fairly early and walked to have breakfast at Hash E8 - a very lovely Eggs FLorentine with added slabs of goats cheese, and then decided to take the bus to Abney Park Cemetry to kill an hour or so - I've been before but was inspired by Naomi mentioning it the previous night. I then took the Overground to Hampstead to meet some old work friends for lunch and spent a happy couple of hours drinking coffee and nattering. Then back to the hotel to recharge both my phone and my self.
+
+I arrived at Cafe Oto slightly earlier, and therefore to a slightly shorter queue and so this time managed to find a chair although with the intention of giving it up and standing for Damon & Naomi's set.
+
+The show once again opened with a short routine (almost the same routine) from Stewart Lee and then a short, near-comedy set from Richard Youngs that finished with Stewart Lee reading cards of computer code... "type BASIC"... "input 'enter amount'"...  etc., accompanied by Richard playing guitar and occasionally adding wordless singing.
+
+Followed by a short interval during which I relocated, standing behind the rows of seats and therefore having a better view. Naomi handed me another "secret setlist".
+
+
 
