@@ -24,7 +24,7 @@ On the morning of the first show I awoke in Whitley Bay to a layer of snow and n
 
 I'd booked myself into the Premier Inn just around the corner from Cafe Oto and so was able to wander to the venue a few minutes before doors... and arrived to find a lengthy queue. Once inside I positioned myself to the right of the stage and waited for the show to start...
 
-### Day 1
+### Day one
 
 Before the show Naomi came over and handed me a folded up bit of paper and made me promise not to look at it until the show was over.
 
@@ -38,7 +38,7 @@ Now, some folk might want a Galaxie 500 reunion - I don't - but I do want to see
 
 Show over, I unfolded the note from Naomi which was the set-list, which I then got Damon and Naomi to sign and then headed back to the hotel.
 
-### Day 2
+### Day two
 
 Up fairly early and walked to have breakfast at Hash E8 - a very lovely Eggs FLorentine with added slabs of goats cheese, and then decided to take the bus to Abney Park Cemetry to kill an hour or so - I've been before but was inspired by Naomi mentioning it the previous night. I then took the Overground to Hampstead to meet some old work friends for lunch and spent a happy couple of hours drinking coffee and nattering. Then back to the hotel to recharge both my phone and my self.
 
@@ -48,5 +48,11 @@ The show once again opened with a short routine (almost the same routine) from S
 
 Followed by a short interval during which I relocated, standing behind the rows of seats and therefore having a better view. Naomi handed me another "secret setlist".
 
+Damon & Naomi played another career-spanning set before being joined ny Richard Youngs for a couple of Galaxie 500 numbers - Spook and Decomposing Trees - colder, more melancholic interpretations than the previous night's - and with Richards, sometimes discordant guitar accompaniment. Different, but also beaitiful!
 
+The band were then joined by Jess from Still House Plants who added her beuatiful and unique voice to a mesmerising rendition of Don't Let Our Youth Go to Waste.
+
+I bought myself a copy of Damon's book and got it signed and acquired a black-vinyl copy of the live Galaxie 500 CBGBs recording since the limited edition "Ultra Clear And Black Cloudy" version was hirrid - it looked like a five year old had scribbled it with a marker pen! Also a Galaxie 500 patch - apparently from a "failed beanie" idea.
+
+### Day three
 
