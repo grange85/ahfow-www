@@ -14,7 +14,7 @@ categories:
 tags:
 -
 ---
-Not long after I started the web site in late 1994 fans started sending me lists of songs that Luna were playing on their tours and added to that I have quite a few recordings of shows so over the years I have built up quite a collection (there're more Luna shows in my db than Setlist.fm have because they started later!). I have full or partial set-lists from 472 shows from 1992 to 2025.
+Not long after I started the web site in late 1994 fans started sending me lists of songs that Luna were playing on their tours and added to that I have quite a few recordings of shows so over the years I have built up quite a collection. I have full or partial set-lists from 472 shows from 1992 to 2025.
 
 There are however gaps - lots of missing shows, and plenty of missing set-lists. If anyone can help fill any of those gaps please get in touch! I have more set-lists post 1995, and considerably more from the 21st Century, so the data is rather skewed to more recent times - so... obviously what follows should be taken with a hefty pinch of salt!
 
