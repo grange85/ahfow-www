@@ -22,7 +22,7 @@ Oddly there are two CDs that I swear I had in my collection but can't actually f
 
 If someone asked me to pick twelve Galaxie 500 tracks for a comp it could easily have been the twelve on this one. Actually [someone did ask me once to pick ten](https://poeticjusticemagazine.com/2022/10/04/a-head-full-of-wishes-top-10-galaxie-500-songs/) and six tracks from The Portable were in my list - plus the studio version of Summertime ... so pretty much 7/10 which means I was fairly close to this. Although I was asked to pick my "Top 10" which is very different from picking for a compilation.
 
-I think what's possibly more interesting than what's on it is what's not on it - most notably Strange which, in recent years has become the band's most popular song on streamed platforms but around the time of this compilation's release, and even in the early days of streaming, it probably wasn't in the band's top five tracks. Damon commented on this in a blog post in 2018:
+One of the tracks that I didn't pick for my list that did make it onto this comp was Strange which seems to have overtaken {% ahfowtrack "Tugboat" %} as the Galaxie 500 song of choice - Damon collened on this in a post:
 
 <blockquote>
 <p>“Strange,” a track off our album On Fire, is streaming far more than any of our other songs - roughly ten times as often as the songs that surround it in its original sequence on the album (”Snowstorm” and “When Will You Come Home”).</p> 
@@ -38,11 +38,11 @@ I mention that the most popular Galaxie 500 song on Spotify is “Strange” and
 </blockquote>
 <p class="caption"><a href="https://deanwareham.com/campaigns/1075458">Dean Wareham newsletter October 2025</a></p>
 
-I'm inclined to agree with Damon however, possibly because Strange isn't one of my favourite Galaxie 500 tracks and it doesn't make a jot of sense to me that it would get streamed "roughly ten times as often" as Snowstorm or When Will You Come Home which are to my mind the most _Galaxie 500_ of all songs! Taking the accumulated votes of the last five years of the [Galaxie 500 Mailing list survey](https://aheadfullofwishes.substack.com/p/a-history-of-the-annual-ahfow-survey) (from 2016 to 2020) Strange came in only fifth and actually had tailed off a bit in the last couple of years.
+I'm inclined to agree with Damon however, possibly because Strange isn't one of my favourite Galaxie 500 tracks and it doesn't make a jot of sense to me that it would get streamed "roughly ten times as often" as {% ahfowtrack "Snowstorm" %} or {% ahfowtrack "When Will You Come Home" %} which are to my mind the most _Galaxie 500_ of all songs! Taking the accumulated votes of the last five years of the [Galaxie 500 Mailing list survey](https://aheadfullofwishes.substack.com/p/a-history-of-the-annual-ahfow-survey) (from 2016 to 2020) Strange came in only fifth and actually had tailed off a bit in the last couple of years.
 
 I'm inclined to think that Spotify _listeners_ listen to only Strange but _Galaxie 500 fans_ are just as likely to listen to something else!
 
-The photo on the front of the album is of the weather vane on the top of the (early 20th century) restaurant on Brighton's Palace Pier taken by Naomi in 1989.
+The photo on the front of the album is of the weather vane on the top of the restaurant on Brighton's Palace Pier taken by Naomi in 1989. I took a the same photo a few years ago but sadly haven't managed to track it down!
 
  - *Catalogue Number:* AHFOW 10/174
  - *Artist:* Galaxie 500
