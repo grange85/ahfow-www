@@ -49,4 +49,6 @@ The accompanying book(let) was a lovely piece of work containing#
  - a "collection of posters and flyers" from Dean's collection - just a single page photo, annotated separately.
  - a "collection of singles and EPs" from Dean's collection - also a single page photo annotated separately but sadly this didn't have a copy of Dear Paulina, I was a little heartbroken at this ommision!
 
+There was also a lovely poster by John Conley (who helped me a lot in the making of [On Fire | 30]() and [This Music is Ours]().
 
+All in all a lovely package. 
