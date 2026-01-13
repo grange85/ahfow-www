@@ -25,30 +25,32 @@ There are however gaps - lots of missing shows, and plenty of missing set-lists.
 
 https://www.youtube.com/watch?v=K0PiVpHvXd0
 
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/luna-countdown-substack.jpg" "Luna countdown" %}
+
  - **30** - {% ahfowtrack "Dear Diary" %} (73 times)
  - **29** - {% ahfowtrack "Weird and Woozy" %} (76)
  - **28** - {% ahfowtrack "Slash Your Tires" %} (77)
- - **27** - {% ahfowtrack "Superfreaky Memories" %} (78)
+ - **27** - {% ahfowtrack "Superfreaky Memories" %} (79)
  - **26** - {% ahfowtrack "Four Thousand Days" %} (79)
- - **25** - {% ahfowtrack "Fuzzy Wuzzy" %} (83)
- - **24** - {% ahfowtrack "Speedbumps" %} (84)
+ - **25** - {% ahfowtrack "Fuzzy Wuzzy" %} (84)
+ - **24** - {% ahfowtrack "Speedbumps" %} (85)
  - **23** - {% ahfowtrack "This Time Around" %} (85)
  - **22** - {% ahfowtrack "Bobby Peru" %} (85)
- - **21** - {% ahfowtrack "Freakin' and Peakin'" %} (86)
- - **20** - {% ahfowtrack "Still at Home" %} (94)
+ - **21** - {% ahfowtrack "Freakin' and Peakin'" %} (87)
+ - **20** - {% ahfowtrack "Still at Home" %} (95)
  - **19** - {% ahfowtrack "Lovedust" %} (98)
  - **18** - {% ahfowtrack "Anesthesia" %} (105)
  - **17** - {% ahfowtrack "Black Postcards" %} (117)
  - **16** - {% ahfowtrack "Time To Quit" %} (132)
  - **15** - {% ahfowtrack "Slide" %} (135)
- - **14** - {% ahfowtrack "Bonnie and Clyde" %} (147)
- - **13** - {% ahfowtrack "Indian Summer" %} (193)
- - **12** - {% ahfowtrack "Tracy I Love You" %} (199)
- - **11** - {% ahfowtrack "Malibu Love Nest" %} (202)
+ - **14** - {% ahfowtrack "Bonnie and Clyde" %} (148)
+ - **13** - {% ahfowtrack "Indian Summer" %} (194)
+ - **12** - {% ahfowtrack "Tracy I Love You" %} (200)
+ - **11** - {% ahfowtrack "Malibu Love Nest" %} (203)
 
 ... and now, the top 10...
 
-#### 10 - {% ahfowtrack "California (All the Way)" %} (played 208 times)
+#### 10 - {% ahfowtrack "California (All the Way)" %} (played 209 times)
 
 Despite the band's occasional reluctance to play _California_ it is one of Luna's most popular songs and they're nothing if not crowd pleasers! Here's a clip of them reluctantly playing it for the World Cafe in 1997:
 
@@ -61,53 +63,53 @@ Despite the band's occasional reluctance to play _California_ it is one of Luna'
 
  - [Lost tracks Luna - California (live)](https://www.fullofwishes.co.uk/2012/03/23/audio-lost-tracks-california-live-luna/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20260113).
 
-#### 9 - {% ahfowtrack "Pup Tent" %} (played 214 times)
+#### 9 - {% ahfowtrack "Pup Tent" %} (played 215 times)
 
  - [Video: Luna playing Pup Tent in 2000](https://www.fullofwishes.co.uk/2008/10/18/video-luna-playing-pup-tent-in-2000/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20260113) - this is a low-res video but contains a very early appearance of Britta with the band.
 
-#### 8 - {% ahfowtrack "Bewitched" %} (played 223 times)
+#### 8 - {% ahfowtrack "Bewitched" %} (played 224 times)
 
 https://www.youtube.com/watch?v=lGLgbp-B4-U
 
  - [Bewitched by Bewitched with Kelly on trumpet](https://www.fullofwishes.co.uk/2017/01/27/bewitched-by-bewitched-with-kelly/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20260113).
 
-#### 7 - {% ahfowtrack "Lost in Space" %} (played 231 times)
+#### 7 - {% ahfowtrack "Lost in Space" %} (played 232 times)
 
 While I do realise that the top of this countdown is getting quite Penthouse heavy I was perhaps a little surprised at Lost in Space being this high up - although since it does quite often pair with _23 Minutes_ I probably shouldn't have been!
 
-#### 6 - {% ahfowtrack "Tiger Lily" %}	(played 235 times)
+#### 6 - {% ahfowtrack "Tiger Lily" %}	(played 236 times)
 
 https://www.youtube.com/watch?v=_ry7HCGU4eE
 
-#### 5 - {% ahfowtrack "Moon Palace" %} (played 254 times)
+#### 5 - {% ahfowtrack "Moon Palace" %} (played 255 times)
 
 https://www.youtube.com/watch?v=MXki8W6mlcI
 
-#### 4 - {% ahfowtrack "Chinatown" %} (played 279 times)
+#### 4 - {% ahfowtrack "Chinatown" %} (played 280 times)
 
 https://www.youtube.com/watch?v=SK-_wFhnPGo
 
-#### 3 - {% ahfowtrack "Sideshow by the Seashore" %} (played 292 times)
+#### 3 - {% ahfowtrack "Sideshow by the Seashore" %} (played 293 times)
 
 https://www.youtube.com/watch?v=MugwxCqCRO4
 
-#### 2 - {% ahfowtrack "Friendly Advice" %} (played 308 times)
+#### 2 - {% ahfowtrack "Friendly Advice" %} (played 309 times)
 
 https://www.youtube.com/watch?v=E2IWRMB0c2M
 
-#### 1 - {% ahfowtrack "23 Minutes in Brussels" %} (played 367 times)
-
-I guess it's not really a surprise that the song that the fans love most is the song that gets played the most - the first few times it was played it ptobably wasn't called 23 Minutes in Brussels
+#### 1 - {% ahfowtrack "23 Minutes in Brussels" %} (played 368 times)
 
 https://www.youtube.com/watch?v=oiEjkmmoe_g
+
+I guess it's not really a surprise that the song that the fans love most is the song that gets played the most - the first few times it was played it ptobably wasn't called 23 Minutes in Brussels
 
 I put in a fleeting appearance in that video chatting to Lee and wearing a fab Sonic Cathedral T that sadly got so much use it wore out!
 
 {% ahfowaudio {
 "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/luna-23-minutes-1994-11-18-nyc.mp3",
 "audiocap": "Luna ",
-"sourceurl": "sourceurl",
-"sourcecap": "sourcecaption"
+"sourceurl": "https://www.fullofwishes.co.uk/database/luna/shows/luna-1994-11-18-tramps-new-york-ny-usa/",
+"sourcecap": "Luna - 18th November 1994 - Tramps, New York, NY, USA"
 } %}
 ---
 
