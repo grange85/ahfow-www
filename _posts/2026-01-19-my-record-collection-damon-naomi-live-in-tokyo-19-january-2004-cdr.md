@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '[319] Damon & Naomi - Live in Tokyo, 19 January 2004 (CDR)'
-date: 2026-01-22 00:00 +0000
+date: 2026-01-19 00:00 +0000
 series-title: My record collection
 catno: 10/030
 author:
