@@ -39,7 +39,7 @@ But that was just Brighton, hardly any distance at all really. I don't think I'd
 
 In 2001 Luna played a series of shows in various venues in/around NYC and I somehow convinced Hazel that a holiday in New York, in February, might be a good idea. So off we went. That weekend Luna played two shows at The Knitting Factory. We were put up by Bob in a fantastic apartment high up in the city and walked too much and saw two Luna gigs... well I saw two, Hazel bailed on the second. This was also the trip that featured me melting in Dean's apartment, a story I've told too many times.
 
-February in NYC also meant snow which meant hours on the tarmac at JFK eating tiny bags of peanuts and hoping we'd make it home at some point! Sure there were two great Luna shows but it was all pretty exhausting for a naturally lazy person like me. So, the next few years were pretty much just London shows.
+February in NYC also meant snow which meant hours on the tarmac at JFK eating tiny bags of peanuts and hoping we'd make it home at some point! Sure there were two great Luna shows but it was all pretty exhausting for a naturally lazy person like me. So, the next few years were pretty much back to just London shows.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/substack-2001-new-york-city.jpg" "New York City - 2001" %}
 
@@ -53,7 +53,7 @@ In 2005 Luna split... in 2015 they reformed and came to Europe... but not to the
 <p>The band have been mixing up their setlists quite a lot on this tour - the set was splendid but was tinged with concerns about what I never got to hear - of course if they'd played everything I wanted to hear the show would have been hours longer! Friendly Advice was a treat, and 23 Minutes was astounding... and the rest of the set was faultless - Bobby Peru, Pup Tent, Chinatown, Anesthesia, Still at Home etc.</p>
 <p>They finished with Bonnie and Clyde... not Indian Summer... I think I missed Indian Summer most - off the top of my head I'm not sure that until Sunday I'd ever seen a Luna show that didn't include Indian Summer.</p>
 </blockquote>
-<p class="caption"><a href="/2015/04/29/luna-at-casa-da-musica-in-porto/">Luna at Casa da Música in Porto</a></p>
+<p class="caption"><a href="https://www.fullofwishes.co.uk/2015/04/29/luna-at-casa-da-musica-in-porto/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+yyyymmdd">Luna at Casa da Música in Porto</a></p>
 
 We had a lovely week in Porto, did a lot of walking, ate lots of great food, saw a great Luna show, met some lovely Luna fans... and came home. Maybe this wasn't such a bad idea after all.
 
@@ -61,7 +61,7 @@ We had a lovely week in Porto, did a lot of walking, ate lots of great food, saw
 
 ### Berlin - April 2016
 
-The following year we decided to go to Berlin to see Damon & Naomi, although this was the tour during which Damon fell down some stairs and wound up found in a hospital in London when he was meant to be playing at Cafe Oto and just days before the Berlin show so it did look like he might not make it. I got an email from Naomi at three in the morning after the accident assuring us that Damon had been given the go ahead to travel and that Berlin was on. This time as well as Hazel, I dragged the boy along.
+The following year we decided to go to Berlin to see Damon & Naomi, although this was the tour during which Damon fell down some stairs and wound up in a hospital in London when he was meant to be playing at Cafe Oto, all this was just days before the Berlin show so it did look like he might not get to see them, although we already had our tickets and room booked so we'd get to see Berlin. I got an email from Naomi at three in the morning after the accident assuring us that Damon had been given the go ahead to travel and that Berlin was on. This time as well as Hazel, I dragged the boy along.
 
 https://www.youtube.com/watch?v=cpcM2DHfOK8
 
@@ -70,7 +70,7 @@ https://www.youtube.com/watch?v=cpcM2DHfOK8
 <p>Then they played through Fortune - it was my third screening of Fortune and the film is still beautiful (and baffling) and the songs are gorgeous - the album stands beautifully on its own and The North Light is right up there with my favourite Damon & Naomi songs.</p>
 <p>We were then treated to an epilogue of covers - firstly a blissful Listen, the Snow Is Falling and closing out the set with a divine cover of Sandy Denny’s No More Sad Refrains.</p>
 </blockquote>
-<p class="caption"><a href="/2016/04/24/damon-and-naomi-in-london-and-berlin/">Damon & Naomi in London and Berlin</a></p>
+<p class="caption"><a href="https://www.fullofwishes.co.uk/2016/04/24/damon-and-naomi-in-london-and-berlin/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+yyyymmdd">Damon & Naomi in London and Berlin</a></p>
 
 We had a lovely few days in Berlin, did lots of walking, ate lots of food, saw Damon's bruises and saw a great Damon & Naomi show.
 
@@ -93,7 +93,7 @@ https://www.youtube.com/watch?v=dB2nDj-hZbM
 
 <p>Another splendid Penthouse set was followed by a couple of sizeable encores including Sean doing Still at Home, plus Malibu Love Nest, Bewitched, Tiger Lily, Ceremony and Indian Summer.</p>
 </blockquote>
-<p class="caption"><a href="/2016/10/16/luna-at-petit-bain-paris/">Luna at Petit Bain in Paris</a></p>
+<p class="caption"><a href="https://www.fullofwishes.co.uk/2016/10/16/luna-at-petit-bain-paris/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+yyyymmdd">Luna at Petit Bain in Paris</a></p>
 
 Of course Paris was beautiful and, despite having been a few times before, we still did all the trad touristy things, saw the Mona Lisa from a distance, stood under the Eiffel Tower because we couldn't be bothered queuing to go up, and walked lots and ate plenty including at one point with these two...
 
@@ -123,7 +123,7 @@ In 2018 we decided to follow Luna on the Scandinavian leg of their tour - the or
 <p>We arrived at the venue while The Telenovelas were rattling through a sweet and faithful cover of The Go-Betweens Right Here. The stage was low and the room was spacious and airy. It was more comfortable than London which made for a more relaxed feeling show.</p>
 <p>Aarhus's surprise was a fantastic Black Postcards, a song that took on a life on Luna's farewell tour of 2004/5 but had pretty much slipped out of the repertoire since their 2015 reunion. "It's never the same twice".</p>
 </blockquote>
-<p class="caption"><a href="/2018/09/18/luna-europe-2018-aarhus-ahfow/">Luna in Aarhus - September 2018 (AHFoW)</a></p>
+<p class="caption"><a href="https://www.fullofwishes.co.uk/2018/09/18/luna-europe-2018-aarhus-ahfow/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+yyyymmdd">Luna in Aarhus - September 2018 (AHFoW)</a></p>
 
 Aarhus was ... wet!
 
@@ -142,7 +142,7 @@ https://www.youtube.com/watch?v=QYK_L4Qiim0
 
 <p>The band were tight and the crowd were fans - Chinatown almost drifted into sing-a-long territory. It was a good show - but the heat and the crowds meant when the ending arrived it came as a bit of a relief.</p>
 </blockquote>
-<p class="caption"><a href="/2018/09/19/luna-europe-2018-copenhagen-ahfow/">Luna in Copenhagen - September 2018 (AHFoW)</a></p>
+<p class="caption"><a href="https://www.fullofwishes.co.uk/2018/09/19/luna-europe-2018-copenhagen-ahfow/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+yyyymmdd">Luna in Copenhagen - September 2018 (AHFoW)</a></p>
 
 We were only getting a day in each city, which was quite exhausting since we were trying to see _everything_. We failed but saw plenty.
 
@@ -154,7 +154,7 @@ We were only getting a day in each city, which was quite exhausting since we wer
 <p>Debaser was on the waterfront, it didn't have the character of Copenhagen's venue but it had air and space, it had high ceilings and a high stage. Also, when I arrived, it had almost no punters.</p>
 <p>The venue slowly started to fill but it didn't seem like the show was going to pull a crowd. Then, all of a sudden it had. The audience was suddenly decent and enthusuastic and Luna made it worth their while. Tonights surprises was the first live outing for Luna's cover of Roy Orbison's California Blue; and a blinding Fuzzy Wuzzy to close the show (thanks to Mike's efforts)</p>.
 </blockquote>
-<p class="caption"><a href="/2018/09/20/luna-europe-2018-stockholm-ahfow/">Luna in Stockholm - September 2018 (AHFoW)</a></p>
+<p class="caption"><a href="https://www.fullofwishes.co.uk/2018/09/20/luna-europe-2018-stockholm-ahfow/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+yyyymmdd">Luna in Stockholm - September 2018 (AHFoW)</a></p>
 
 {% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/43774684155_5a87b1634d_c.jpg" "Luna in Stockholm - 2018" %}
 
@@ -164,9 +164,9 @@ Since we didn't have another Luna show to rush off to we spent a little longer i
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/substack-stockholm-garbo.jpg" "Greta Garbo's grave - Stockholm 2018" %}
 
-Then 2020 happened and COVID killed travel, and our reasons to travel and we didn't see a show overseas again until we saw [Dean in Groningen last year](https://www.fullofwishes.co.uk/2025/04/19/diary-dean-wareham-in-groningen-12th-april-2025/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20260120) - maybe 2026 will see us getting back into the swing of things.
+Then 2020 happened and COVID killed travel, and our reasons to travel, and we didn't see a show overseas again until we saw [Dean in Groningen last year](https://www.fullofwishes.co.uk/2025/04/19/diary-dean-wareham-in-groningen-12th-april-2025/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20260120) - maybe 2026 will see us getting back into the swing of things.
 
-When I was struggling to fill up a fanzine a few years back Hazel offered up a little piece explaining how much she loved the opportunities of travel my Galaxie 500 fandon provided:
+When I was struggling to fill up a fanzine a few years back Hazel offered up a little piece explaining how much she loved the opportunities of travel my Galaxie 500 fandom provided:
 
 <blockquote>
 <p>If Andy hadn’t been a Galaxie 500 fan, I’d never have been to gigs in New York,
@@ -175,7 +175,7 @@ never have been to Abbey Road Studios and appeared on the cover of a single.</p>
 <p>I’m not a fan though. I don’t see why I should be either. I like some of their songs
 but Andy and I have never shared a bond over the band unlike I suspect he has
 with a great number of non-family members. I see it like the relationship that
-you have with a partner who keeps an allotment or works on steam engines.You
+you have with a partner who keeps an allotment or works on steam engines. You
 like the fruit and veg and the occasional trip out but generally you can leave the
 obsessive to it.</p>
 </blockquote>
