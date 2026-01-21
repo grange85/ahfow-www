@@ -22,7 +22,7 @@ This box set of Luna's first five albums, plus an album of extras, was announced
 
 In order to save on postage costs I had my copy sent to Mike in the US in the hope that someone would mule it over at some point in the future... that someone was Joakim and that point in the future was before Luna's show in Oxford in October. 
 
-Of course, there was nothing in this box that I didn't already own, probably multiple times, already so I'm not 100% certain that any of these have actually been played before, but happy to give them a spin now - but I'll spare you a blow-by-blow account - I suspect by now you're well aware of my love to Luna and my complete lack of any real objectivity or any real ability to describe what I'm listening to.
+Of course, there was almost nothing in this box that I didn't already own, probably multiple times, already so I'm not 100% certain that any of these have actually been played before, but happy to give them a spin now - but I'll spare you a blow-by-blow account - I suspect by now you're well aware of my love to Luna and my complete lack of any real objectivity or any real ability to describe what I'm listening to.
 
 What I didn't have of course are the following items:
 
@@ -40,7 +40,7 @@ Rarities was a collection of singles/b-sides and possibly only had maybe two or 
 
 ... and [Dear Paulina](https://aheadfullofwishes.substack.com/p/the-making-of-lunas-dear-paulina) - previously only released on a mail-order only 7" single in 1999 - it was lovely seeing this turn up on this box set although the loveliness was somewhat tempered as the sleeve of the single never made it into the booklet.
 
-### Luna - Long Platers 92-99 (48 page booklet)
+### Luna - Long Players 92-99 (48 page booklet)
 
 The accompanying booklet, despite the above mentioned omission, was a lovely piece of work containing:
 
