@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2026-01-27: Substack - Luna''s sleeve art (LP edition)'
+title: '2026-01-27: Substack - Luna''s sleeve art (LP edition, part 1)'
 date: 2026-01-27 00:00 +0000
 series-title: Substack
 author:
@@ -14,7 +14,11 @@ categories:
 tags:
 -
 ---
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/substack-luna-gallery.jpg" "Dean at the art gallery" %}
+
 Luna over the years have curated quite an art gallery on the sleeves of their LPs in this post I'll do a little run through. I don't really know a great deal about the artists, or how or why any particular art or artist was chosen so this is mostly what I think I know, and what the Internet thinks it knows.
+
+When I started this my intention was to cover all of Luna's albums but since it has become quite lengthy I'll stop at The Days of Our Nights and revisit Luna's "Britta-era" albums later.
 
 ### Lunapark (1992)
 
@@ -92,4 +96,68 @@ Dylan declined to comment, but his album’s designer, Geoff Gans, told EW in an
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-penthouse-deluxe-lp.jpg" "Luna - Penthouse (2xLP)" %}
 
-Sleeve designed by [Frank Olinsky](https://frankolinsky.com/bio1.html), photos by [Ted Croner](https://www.moma.org/artists/1312-ted-croner) (NYC) and [Nitin Vadakul](https://www.artnet.com/artists/nitin-vadukul/) (band).
+Sleeve designed by [Frank Olinsky](https://frankolinsky.com/bio1.html), New Your City photos by [Ted Croner](https://www.moma.org/artists/1312-ted-croner) and band photo by [Nitin Vadakul](https://www.artnet.com/artists/nitin-vadukul/).
+
+---
+
+### Pup Tent (1997)
+
+The photos used on Pup Tent and its associated singles were taken by photographer [David Levinthal](https://davidlevinthal.com/) as part of his series [Wild West, 1987-1989](https://davidlevinthal.com/artwork/ww-87-89.html) and a number of different photos from the series were used. 
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/substack-luna-pup-tent-levinthal-art.jpg" "Luna - Pup Tent (and associated singles)" %}
+
+The front cover is a cowboy entering a saloon and the inner sleeve has a cowboy (not the same one) riding and shooting - this one was also used for the [Bobby Peru single](https://www.fullofwishes.co.uk/2023/11/16/my-record-collection-087-luna-bobby-peru-7/). The [Beautiful View single](https://www.fullofwishes.co.uk/2025/03/06/my-record-collection-luna-beaautiful-view-cd-single/) has the cowboy who entered the saloon, leaving it again, I guess after his business was concluded. I assume the cover of the [IHOP single](https://www.fullofwishes.co.uk/2025/02/20/my-record-collection-luna-ihop/) was also from this series but I've never managed to figure out what I was looking at.
+
+Sleeve designed by [Frank Olinsky](https://frankolinsky.com/bio1.html), cowboy photos by [David Levinthal](https://davidlevinthal.com/), band photo by [Jill Greenberg](https://www.jillgreenberg.com/news).
+
+---
+
+### The Days of Our Nights (1999)
+
+The painting on the front of The Days of Our Nights is called "Horizontal Blonde" and is by American artist Richard Phillips and dates from 1996. The album sleeve declares that the painting was from "the collection of Howard Rachofsky". I suspect that is no longer the case.
+
+The painting was sold by Christies in November 2004 for $119,500, I wonder if that was a loaded Luna fan?
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/substack-christies-horizontal-blonde.jpg" "'Horizontal Blonde' auction details" %}
+
+Christies had some (questionable) insight into the painting in a "lot essay" on the [auction page](https://www.christies.com/en/lot/lot-4382504):
+
+<blockquote>
+In <em>Horizontal Blonde</em>, one of the artist's most celebrated works, a lucious Marilyn Monroe-like woman is staring out at us, eyes half open, slack-jawed. She is lovely but suffering some, a stance that has come to symbolize the archetypal tortured beauty. Are we seeing her the morning after a rough night of partying? Along with Marilyn, she calls to mind the rock-and-roll women of the 1970s-Deborah Harry, Pat Benatar, Anne Wilson and Stevie Nicks. As the title indicates, she is laying down (implying sex), a night of partying (drugs) or dancing esctatically (rock-and-roll).
+</blockquote>
+
+I say "questionable" because the next paragraph is this...
+
+<blockquote>
+In a synergy of contemporary painting and music, <em>Horizontal Blonde</em> is featured on the cover of an album entitled "The Days of Our Nights" by Luna a British rock band that owes a debt to the now classic sounds 1970s American rock-and-roll, but tinged with the British Mod sound of the 1990s.
+</blockquote>
+
+I wasn't even aware that there was a "British Mod sound" in the 1990s... but then what do I know?
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/substack-luna-the-days-horizontal-blonde.jpg" "Luna - The Days of Our Nights" %}
+
+This is probably my least favourite Luna album cover, I think my natural prudishness finds it a little too much. In the Dean Wareham / Noah Baumbach interview with Salong from 2016 Dean drops something into the discussion that suggests that I may not be alone?
+
+<blockquote>
+<p><strong>Noah:</strong> Sometimes, people are very wrong about their own stuff; they can’t see it clearly.</p>
+
+<p><strong>Dean:</strong> True. The members of New Order don’t like “Movement,” which is an album I love. Nico didn’t like “Chelsea Girls.” <em>I love the cover image for “The Days of Our Nights”: the painting “Horizontal Blonde,” by Richard Phillips</em>.</p>
+</blockquote>
+
+When Days was re-released on vinyl in 2023 Dean discussed the sleeve in a [H.I. Art on the Edge listening party](https://www.youtube.com/watch?v=dEInrdgPY2Q):
+
+<blockquote>
+<p>Well you know that painting was hanging at the Whitney during the biennial and it was Laurie Henzel who designed the art, she had been to see it but I think actually I had also bought the postcard when I saw it there, but anyway she knew Richard Phillips and suggested that as a as a cover. It's a pretty great painting.</p>
+
+<p>I think that painting sold for a whole lot of money of which he didn't receive any you know how this because sometimes that artist makes this great painting early on and they sell it pretty cheap and then like five years later they're always a whole lot more. There's a movement among artists to try and do something about that to try and have some kind of tax so that when a dealer later sells your work for 30 million dollars maybe you get a cut too.</p>
+</blockquote>
+
+Horizontal Blonde also made it onto the front of the Luna 2000 calendar. Now, you know that you can re-use calendars every few years? Unfortunately because Luna's _only_ calendar was from the freak year that was a millennium change and a leap year it means that it is hardly ever re-usable! It's first re-use year will be 2028, and the one after that 2056! I've been patiently waiting... I hope I don't forget when it comes around!
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/substack-luna-2000-calendar.jpg" "Luna 2000 calendar" %}
+
+I've put in a reminder...
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/substack-luna-2000-calendar-reminder.jpg" "Reminder" %}
+
+Art direction by [Laurie Henzel](https://www.lauriehenzel.com/about), cover image by Richard Phillips, band photographs by [Michael Lavine](https://michaellavine.com/LINKS/CONTACT/1)
