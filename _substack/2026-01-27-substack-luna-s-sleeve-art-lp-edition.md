@@ -33,7 +33,7 @@ The sleeve of Lunapark has a picture of a pencil sharpener, I know that now, and
  - "SON OF A BITCH. It all makes sense now."
  - "Enlightened"
 
-The pencil sharpener was designed by reknowned industrial designer Raymond Loewy who's designs ranged from a pencil sharpener to ["the largest passenger locomotive ever constructed"](https://en.wikipedia.org/wiki/Pennsylvania_Railroad_class_S1).
+The pencil sharpener was designed by reknowned industrial designer Raymond Loewy whose designs ranged from a pencil sharpener to ["the largest passenger locomotive ever constructed"](https://en.wikipedia.org/wiki/Pennsylvania_Railroad_class_S1).
 
 Also to be found on the Lunapark sleeves are little bits of Kim Novak's face who can be seen in full on the cover of the Smile EP.
 
@@ -136,7 +136,7 @@ I wasn't even aware that there was a "British Mod sound" in the 1990s... but the
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/substack-luna-the-days-horizontal-blonde.jpg" "Luna - The Days of Our Nights" %}
 
-This is probably my least favourite Luna album cover, I think my natural prudishness finds it a little too much. In the Dean Wareham / Noah Baumbach interview with Salong from 2016 Dean drops something into the discussion that suggests that I may not be alone?
+This is probably my least favourite Luna album cover, I think my natural prudishness finds it a little too much. In the Dean Wareham / Noah Baumbach interview with Salon from 2016 Dean drops something into the discussion that suggests that I may not be alone?
 
 <blockquote>
 <p><strong>Noah:</strong> Sometimes, people are very wrong about their own stuff; they can’t see it clearly.</p>
