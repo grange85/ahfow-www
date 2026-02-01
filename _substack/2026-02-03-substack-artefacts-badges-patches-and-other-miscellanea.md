@@ -16,7 +16,7 @@ tags:
 ---
 Another look at some of the memorabilia I've collected over the years although qhite a lot of this is _unofficial_ and some is my own handiwork so apologies.
 
-I am particularly fond of fan-made memorabilia (which is I guess why I periodically go in for it) as well as the badges I have a few fan-made T-shirts that might put in an appearance at some point next time I'm struggling for a Substack post!
+I am particularly fond of fan-made memorabilia (which is I guess why I periodically go in for it) as well as the badges I have a few fan-made T-shirts that might put in an appearance at some point next time I'm struggling for a Substack post! 
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/badges-patches-etc.jpg" "Badges, patches, etc." %}
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/badges-patches-etc-key.jpg" "Badges, patches, etc. (key)" %}
