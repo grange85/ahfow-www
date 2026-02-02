@@ -3,13 +3,13 @@ layout: post
 title: '[326] Damon & Naomi - 1001 Nights'
 date: 2026-02-12 00:00 +0000
 series-title: My record collection 
-catno:
+catno: 12/005
 author:
   display_name: Andy
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-1001-nights.jpg
 categories:
 - damon & naomi
 - my record collection
@@ -19,7 +19,7 @@ tags:
 ---
 1001 Nights was a DVD released by Damon & Naomi in 2009 and was a collection of films, the first run was packaged with the first vinyl release of the fake live album previously only released on CD in 2002. My copy is, of course, the version with the LP.
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-1001-nights.jpg" "Damon & Naomi - 1001 Nights" %}
 
 The films on the DVD are
  - Song to the Siren - Naomi's video diary of their 2001 European tour previously released in 2002 on the Song to the Siren / Live in San Sebastian release.
@@ -49,7 +49,7 @@ The films on the DVD are
 
 The LP is white vinyl... now, I must admit that I do still feel a little... cheated by the deception behind Song to the Siren and tend not to listen to it that often because of that - not that it's not lovely it's just that it's not what it was meant to be.
 
-In case you don't know the story is behind the album is that, while on their 2001 tour of Spain a dispute with the promoter led to the tour being cancelled - here's how D&N described it in the liner notes to [The Sub Pop Years](https://www.fullofwishes.co.uk/2023/10/30/my-record-collection-082-damon-naomi-the-sub-pop-years/) in 2009:
+In case you don't know the story behind the album, while on their 2001 tour of Spain, a dispute with the promoter led to the tour being cancelled - here's how D&N described it in the liner notes to [The Sub Pop Years](https://www.fullofwishes.co.uk/2023/10/30/my-record-collection-082-damon-naomi-the-sub-pop-years/) in 2009:
 
 <blockquote>
 <p>Naomi chronicled the trio's first adventures in Europe with a video tour diary. That trip finished in Spain, on a somewhat disastrous note: after consulting with our record label there, Elefant, we cancelled a gig in San Sebastian in favor of a promotional appearance on television. Angered by the loss of income from San Sebastian - or maybe it was a loss of face -  the tour promoter cancelled all our subsequent shows in Spain, and withheld the money earned from those we'd already played.</p>
@@ -80,3 +80,4 @@ Wow, that all sounds like me being very negative about this release but I don't 
  - *Format:* LP/DVD
  - Bought direct from Factory25
  - [Buy 'Song to the Siren (Live in San Sebastian)' on Bandcamp](https://damonandnaomi.bandcamp.com/album/song-to-the-siren-live-in-san-sebastian)
+
