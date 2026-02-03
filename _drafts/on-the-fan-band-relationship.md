@@ -1,7 +1,6 @@
 ---
 layout: post
 title: '2030-01-01: On the fan/band relationship'
-date: 2030-01-01 00:00 +0000
 series-title: Substack
 author:
   display_name: Andy
