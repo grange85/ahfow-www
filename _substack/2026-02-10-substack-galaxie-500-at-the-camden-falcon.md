@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Galaxie 500 at The Camden Falcon
+title: '2026-02-10: Galaxie 500 at The Camden Falcon'
 series-title:
 catno:
 author:
@@ -13,6 +13,7 @@ categories:
 -
 tags:
 -
+date: 2026-02-10 00:00 +0000
 ---
 Thirty six years ago this week Galaxie 500 were on a tour of the UK supporting The Sundays that started in Newcastle on the 1st February and then worked a number of cities around the country with the tour scheduled to end on the 11th February at The Town and Country Club in London.
 
@@ -27,7 +28,7 @@ So are Galaxie 500 connected in some way with a laid back, drug-induced psychede
 
 I've left more reviews in that clipping because the one at top left ought to make me feel a bit better about what transpires further down the page! It doesn't!
 
-On the 3rd of Feb they were at the Leadmill in Sheffield and [some pics from that show were shared with me last year](https://www.fullofwishes.co.uk/2025/04/25/photos-galaxie-500-in-sheffield-in-1990-part-2/):
+On the 3rd of Feb they were at the Leadmill in Sheffield and [some pics from that show were shared with me last year](https://www.fullofwishes.co.uk/2025/04/25/photos-galaxie-500-in-sheffield-in-1990-part-2/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20260210):
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-02-03/1990-02-03-galaxie-500-sheffield-01.jpg" "Galaxie 500 in Sheffield Feb 1990 (photo: Scragga)" %}
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-02-03/1990-02-03-galaxie-500-sheffield-02.jpg" "Galaxie 500 in Sheffield Feb 1990 (photo: Scragga)" %}
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-02-03/1990-02-03-galaxie-500-sheffield-03.jpg" "Galaxie 500 in Sheffield Feb 1990 (photo: Scragga)" %}
@@ -36,14 +37,14 @@ On the 6th they were at Leicester University - you can see the whole of their se
 
 https://www.youtube.com/watch?v=f_RDoNcjbYQ
 
-On the 7th they were at The Bierkeller in Bristol and [Stephen sent me the photos he took of that show a few years ago](https://www.fullofwishes.co.uk/2014/05/15/photos-galaxie-500-in-bristol-in-1990/):
+On the 7th they were at The Bierkeller in Bristol and [Stephen sent me the photos he took of that show a few years ago](https://www.fullofwishes.co.uk/2014/05/15/photos-galaxie-500-in-bristol-in-1990/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20260210):
 
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-02-07/19900207-g500-bristol-01.jpg" "Galaxie 500 in Briston Feb 1990 (photo: Stephen Blake)" %}
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-02-07/19900207-g500-bristol-02.jpg" "Galaxie 500 in Briston Feb 1990 (photo: Stephen Blake)" %}
 
 On the 10th they arrived at the Trent Poly in Nottingham and played their set and then, three songs into The Sundays set Harriet Wheeler's voice packed up and the show was over and, in the wake of this, the following night's sold out show in London was cancelled.
 
-On the night of the 11th February 1990 Ken and I arrived at The Town and Country club to find pieces of A4 paper sellotaped to the doors informing is that the show was cancelled. Rough Trade, the band's label, hastily arranged a headline show at the nearby Camden Falcon. Unfortunately we never found out about this until the following weeks NME mentioned the show. We stood outside the Town & Country scouring a Time Out for alternative entertainment, could find nothing of interest and drove back to the Mean Fiddler (driving past the Falcon in the process) to see Northern Irish singer-songwriter Andy White.
+On the night of the 11th February 1990 Ken and I arrived at The Town and Country club to find pieces of A4 paper sellotaped to the doors informing is that the show was cancelled. Rough Trade, the band's label, hastily arranged a headline show for Galaxie 500 at the nearby Camden Falcon. Unfortunately we never found out about this until the following weeks NME mentioned it. We stood outside the Town & Country scouring a Time Out for alternative entertainment, could find nothing of interest and drove back to the Mean Fiddler (driving past the Falcon in the process) to see Northern Irish singer-songwriter Andy White.
 
 The Sundays rescheduled for later in the month but sadly Galaxie 500 where no longer available to provide support.
 
@@ -65,6 +66,16 @@ Instead we played a semisecret last minute show at the Falcon, a little pub in C
 </blockquote>
 <p class="caption">Dean Wareham - Black Postcards (2008)</p>
 
-So, thirty six years on I guess I've got over this? Missing a gig that was one of Naomi's "fondest memories" and an "absolute... highlight"! No I bloody haven't.
+The Sundays show was rescheduled for a couple of weeks later, but Galaxie 500 were back in the US by then. I went along of course and The Sundays were fine - support was from The Band of Holy Joy, I have no memory at all of them, in fact I thought it was the Boo Radleys who had supported - I guess I must have seen them supporting someone else.
 
-Enjoy the show... I still find it hard to listen to!
+I recorded the show on my Walkman and I've just popped it on YouTube, Before the first number Harriet apologises for the postponement and a fan shouts in reply "it don't fucking matter"... maybe not to him!
+
+https://www.youtube.com/watch?v=FSgQPILuSso
+
+So, thirty six years on I guess I've got over this? Missing a gig that was one of Naomi's "fondest memories" and an "absolute... highlight" of Dean's time with the band?! No I bloody haven't!
+
+Enjoy the show... I'm afraid I still find it hard to listen to!
+
+
+
+
