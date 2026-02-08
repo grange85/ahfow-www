@@ -22,7 +22,7 @@ This was the first of two EPs released by Luna that were both called "EP", this 
 
 The opening track however is the Penthouse version of {% ahfowtrack "Seaside by the Seashore" %}, and the second track is Luna's cover of Talking Heads' {% ahfowtrack "Thank You For Sending Me an Angel" %}, that had been released the previous year on the Bonnie and Clyde single.
 
-The next two tracks were only ever released on this EP and are both Luna rockers! I must admit it's been a while since I've listened to this EP but both of these tracks were reallly familiar - The Moviegoer has a similar feel to Rollercoaster, a song [I've dissed on a number of occasions over the years](/2012/07/25/audio-lost-tracks-lunas-rollercoaster/), I'm slowly coming round to it, but would say that The Moviegoer is better!
+The next two tracks were only ever released on this EP and are both Luna rockers! I must admit it's been a while since I've listened to this EP but both of these tracks were really familiar - The Moviegoer has a similar feel to Rollercoaster, a song [I've dissed on a number of occasions over the years](/2012/07/25/audio-lost-tracks-lunas-rollercoaster/), I'm slowly coming round to it, but would say that The Moviegoer is better!
 
 {% ahfowvideo "tPvmS2CSyj8" "Luna - The Moviegoer" "https://media.fullofwishes.co.uk/02-luna/sleeves/luna_no6ep.jpg" %}
 

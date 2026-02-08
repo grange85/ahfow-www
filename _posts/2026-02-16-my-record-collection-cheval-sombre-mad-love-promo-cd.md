@@ -17,11 +17,11 @@ tags:
 - cheval sombre
 - mad love
 ---
-This is the third copy of Cheval Sombre's second album Mad Love, this time a promo CD in a plastic wallet with a plain balck and white insert.
+This is the third copy of Cheval Sombre's second album Mad Love, this time a promo CD in a plastic wallet with a plain black and white insert.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/cheval-sombre-mad-love-promo.jpg" "Cheval Sombre - Mad Love (promo CD)" %}
 
-I can't actually remember but I think this must have been sent to me by Nat at Somic Cathedral ahead of the album's release. I'm not sure there's too much more I can add so let's look at what other folk had to say...
+I can't actually remember but I think this must have been sent to me by Nat at Sonic Cathedral ahead of the album's release. I'm not sure there's too much more I can add so let's look at what other folk had to say...
 
 <blockquote>
 Although Kember's trademark floaty production sound is omnipresent at the forefront throughout, its Porpora's disconsolate vocal performance that steals the show. Even when Mad Love gathers an upbeat momentum, as on the terse rhapsody 'I Fell In Love', a crescendo of weeping violins steal the pleasantries before a lonely voice declares insidiously "Don't matter to me if she stays".
