@@ -9,16 +9,16 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-playback-singers.jpg
 categories:
 - damon & naomi
 - my record collection
 tags:
 - playback singers
 ---
-Playback Singers was Damon & Naomi's third album, released on Sub Pop in the US and Rykodisc in Europe. This is a rarity in the series (possibly unique) in being a studio album by one of the main acts that only appears once. That is because sadly, Playback Singers has never had a vinyl release (and I never got sent, or bought, a promo - although there is one on Discogs atm...
+Playback Singers was Damon & Naomi's third album, released on Sub Pop in the US and Rykodisc in Europe. This is a rarity in the series (possibly unique) in being a studio album by one of the main acts that only appears once. That is because sadly, Playback Singers has never had a vinyl release (and I never got sent, or bought, a promo - although there is one on Discogs atm...).
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-playback-singers.jpg" "Damon & Naomi - Playback Singers" %}
 
 Playback Singers was the first album Damon and Naomi recorded without Kramer at the helm, it was recorded in their home studio - they had initially been uncertain about the feasibility of that:
 
@@ -29,7 +29,9 @@ Playback Singers was the first album Damon and Naomi recorded without Kramer at 
 
 Everything on Playback Singers was played and recorded by Damon and/or Naomi in their living room "for an audience consisting solely of their cat (and even she mysteriously disappeared during the recording of the drum tracks)".
 
-The album's title Playback Singers is a reference to the artists who perform the soundtrack in Indian cinema - they are never seen on the screen, having the actors lip-sync to the songs - but, unlike in western cinema, they are always credited which means that they are as much stars and household names as the on-screen talent.
+The album has a new recording of {% ahfowtrack "In The Sun" %} that had first appeared on their first post-Galaxie release [Pierre Etoile](/2023/01/20/my-record-collection-01-pierre-etoile/) although this time Naomi sings. It also has a cover of Ghost's {% ahfowtrack "Awake in a Muddle" %} and Tom Rapp's {% ahfowtrack "Translucent Carriages" %} the first encounters we have with acts that would play a significant part in Damon & Naomi's progression, 
+
+The album's title Playback Singers is a reference to the artists who perform the soundtrack in Indian cinema - they are never seen on the screen, having the actors lip-synch to the songs - but, unlike in western cinema, they are always credited which means that they are as much stars and household names as the on-screen talent.
 
 On the promo website for the album Damon & Naomi wrote about listening to Indian music while making the album:
 
@@ -40,15 +42,19 @@ As our new album title might indicate, we have been listening to a lot of Indian
 
 Here's Mahendra Kapoor and Asha Bhosle singing while Sunil Dutt and Mala Sinha are on screen:
 
-https://www.youtube.com/watch?v=uD6zY9NqG9U
+{% ahfowvideo "uD6zY9NqG9U" "Aa Ja Aa Ja Re - Mahendra Kapoor / Asha Bhosle" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/playback-singers-gumrah-1963.jpg" %}
 
 I have grown up watching Indian cinema, my mum was Anglo-Indian and raised in Calcutta/Kolkata until she moved to the UK when she was 20... although I must admit to only gaining an appreciation of it in my later adulthood.
 
-Despite the many years of exposure I haven't actually seen too much, but here's one of my fave songs/performances from Indian cinema this from the cracking 1956 crime thriller C.I.D. - it features actor Johnny Walker lip-synching to Mohammed Rafi and Kumkum lip-synching to Geeta Dutt
+Despite the many years of exposure I have barely scratched the surface of Indian cinema, but here's one of my fave songs/performances, this is from the cracking 1956 crime thriller C.I.D. - it features actor Johnny Walker lip-synching to Mohammed Rafi and Kumkum lip-synching to Geeta Dutt
 
 {% ahfowvideo "m9U9A9cfaJU" "Yeh Hai Bombay Meri Jaan - Mohammed Rafi and Geeta Dutt" %}
 
-I'm not sure there is a great deal of Indian classical music influence on Playback Singers... except perhaps Naomi's use of the [Sruti box]():
+I'm not sure there is a great deal of Indian classical music influence on Playback Singers... except perhaps Naomi's use of the [Sruti box](https://en.wikipedia.org/wiki/Shruti_box) and [Harmonium](https://en.wikipedia.org/wiki/Indian_harmonium) - I think when they played the 12 Bar in March 1997 Naomi brought her Sruti box, she then started bringing the Harmonium until that got replaced by the Nord keyboard.
 
-
+ - *Catalogue Number:* AHFOW 10/116
+ - *Artist:* Damon & Naomi
+ - *Title:* Playback Singers
+ - *Format:* CD
+ - [Buy 'Playback Singers' on Bandcamp](https://damonandnaomi.bandcamp.com/album/playback-singers)
 
