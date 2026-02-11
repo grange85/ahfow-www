@@ -44,7 +44,7 @@ Here are Galaxie 500 playing Here She Comes Now for UK TV in 1990:
 
 {% ahfowvideo "_auZXXJkhTo" "Galaxie 500 - Here She Comes Now" %}
 
-In 2013 Esopus magazine had a lovely "Special Collections" edition which included a booklet with scans from Dean's "early drafts" including a proto-Fourth of July (that has crashed into Luna's Crazy People);
+In 2013 Esopus magazine had a lovely "Special Collections" edition which included a booklet with scans from Dean's "early drafts" including a proto-Fourth of July (that has crashed into Luna's Crazy People):
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/esopus-dean-wareham-lyrics.jpg" "Esopus: Dean Wareham's notebooks 2013" %}
 
@@ -89,4 +89,8 @@ Way back in the mists of time I used to run a Fourth of July competition on the 
 
 {% ahfowimage "https://media.fullofwishes.co.uk/ahfow/uploads/2009/07/photo.jpg" "no bigger than a nickel (Photo: Ro)" %}
 
-
+ - *Catalogue Number:* AHFOW 12/041
+ - *Artist:* Galaxie 500
+ - *Title:* Fourth of July / Here She Comes Now
+ - *Format:* 12"
+ - Bought from HMV for £3.49 in 1990
