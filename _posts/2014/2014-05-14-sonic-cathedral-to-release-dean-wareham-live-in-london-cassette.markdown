@@ -12,7 +12,7 @@ categories:
 - dean wareham
 ---
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-live-at-st-pancras-cassettes.jpg" class /><figcaption class="caption-text"> Pic lifted from @soniccathedral's Instagram</figcaption></figure>
-<p>Sonic Cathedral will be releasing a recording of Dean Wareham's shows at St Pancras Old Church in London in December of last year. The show will be released on casette and will be available at the upcoming UK shows in Bristol, Brighton, Leamington Spa and London.</p>
+<p>Sonic Cathedral will be releasing a recording of Dean Wareham's shows at St. Pancras Old Church in London in December of last year. The show will be released on casette and will be available at the upcoming UK shows in Bristol, Brighton, Leamington Spa and London.</p>
 <p>The show featured Dean, Britta, Anthony LaMarca (shortly before he decamped to The War on Drugs) and Jason Quever (Papercuts, who produced Dean's mini-LP Emancipated Hearts). The album includes Galaxie 500 and Luna tracks as well as tracks from Emancipated Hearts and covers of The Velvet Underground's Ride Into the Sun and Joy Division's Ceremony</p>
 <p>The album will also be released for digital download on bandcamp (link to follow).<br />
 More details in the AHFoW discography.</p>

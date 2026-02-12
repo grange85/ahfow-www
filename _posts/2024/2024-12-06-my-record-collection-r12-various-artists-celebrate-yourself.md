@@ -30,7 +30,7 @@ Dean Wareham has been tied up with Sonic Cathedral off/on over the years... here
 - Nat (for he *is* Sonic Cathedral) has promoted quite a few of Dean & Britta's London shows, and even if he's not promoting he's probably playing the records before the show.
 - Sonic Cathedral released Dean's [Emancipated Hearts (2013)](/2024/03/14/my-record-collection-118-dean-wareham-emancipated-hearts-test-pressing/) and [Dean Wareham (2014)](/2024/10/21/my-record-collection-181-dean-wareham-dean-wareham-cd/) LPs
 - Sonic Cathedral have also long championed Cheval Sombre and Dean has of course been turning up on those releases too
-- In 2013 Sonic Cathedral put on two fantastic Dean Wareham shows at St Pancras Old Church...
+- In 2013 Sonic Cathedral put on two fantastic Dean Wareham shows at St. Pancras Old Church...
 - ... and recorded them...
 - ... and [released them on cassette](/2023/02/23/my-record-collection-011-dean-wareham-live-at-st-pancras-old-church-red-cassette/)...
 - ... and then as a [lovely 1.5xLP edition](/2023/12/16/my-record-collection-recent-acquisition-04-dean-wareham-live-at-st-pancras-old-church-december-2013/).
@@ -38,9 +38,9 @@ Dean Wareham has been tied up with Sonic Cathedral off/on over the years... here
 - ... and had a launch party for it, and screened Tell Me Do You Miss Me
 - _there are undoubtedly many more_
 
-This box set is in four parts, a disc each of: 'classics', remixes, live recordings, and seasonal/christmas tracks and Dean's appearance is on the third disc, "Reverberate Yourself" and is his cover of Galaxie 500's "When Will You Come Home" from the St Pancras Old Church album. The sleeve claims that it is the track's first appearance on CD but, as you'll find out later in this series, that is not entirely true!
+This box set is in four parts, a disc each of: 'classics', remixes, live recordings, and seasonal/christmas tracks and Dean's appearance is on the third disc, "Reverberate Yourself" and is his cover of Galaxie 500's "When Will You Come Home" from the St. Pancras Old Church album. The sleeve claims that it is the track's first appearance on CD but, as you'll find out later in this series, that is not entirely true!
 
-{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/53322432469_8d4114b3ca_c.jpg" "Dean Wareham live at St Pancras Old Church, December 2013" "https://www.flickr.com/photos/grange85/53322432469/in/album-72177720312571151/" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/flickr-downloads/53322432469_8d4114b3ca_c.jpg" "Dean Wareham live at St. Pancras Old Church, December 2013" "https://www.flickr.com/photos/grange85/53322432469/in/album-72177720312571151/" %}
 
 As part of Sonic Cathedral's birthday celebrations there was also, separately released, a "Celebrating Ourselves!" booklet which has some nice live pics of Dean & Britta:
 

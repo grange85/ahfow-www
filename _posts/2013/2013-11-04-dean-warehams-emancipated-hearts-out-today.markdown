@@ -23,8 +23,8 @@ Here are some of the rather lovely reviews that Emancipated Hearts has been gett
 <p>Dean will be over for a few dates in the UK and Paris next month:</p>
 <ul>
 <li>Wednesday, December 4 - Manchester, Ruby Lounge - Buy tickets</li>
-<li>Thursday, December 5 - London, St Pancras Old Church - <a href="http://www.wegottickets.com/event/240926">Buy tickets</a></li>
-<li>Friday, December 6 - London, St Pancras Old Church - Sold out</li>
+<li>Thursday, December 5 - London, St. Pancras Old Church - <a href="http://www.wegottickets.com/event/240926">Buy tickets</a></li>
+<li>Friday, December 6 - London, St. Pancras Old Church - Sold out</li>
 <li>Saturday, December 7 - Paris, Point Ephémère - Buy tickets</li>
 </ul>
 {% ahfowvideo "LC-4aPVH4cQ" "" %}

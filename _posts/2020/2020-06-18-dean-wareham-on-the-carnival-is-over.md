@@ -26,7 +26,7 @@ In the article he discusses the original song and how their cover took a while t
 
 He also discusses making the video:
 
-> The video I made myself in iMovie, which is a first for me, but it seems we are all learning how  to do things at home. I had some clips of Britta dancing (which I ran through a particular iPhone app) and another of Anthony LaMarca playing the drums at St Pancras Church, in London. Meanwhile, I had sent the song to a friend and fellow Seekers fan in Australia, who told me the song made him think of the final scene from Paths of Glory where Christiane Kubrick (the director’s wife!) sings to French soldiers who at first jeer and laugh at her, but are soon moved to tears. I tried the song against that clip and it was immediately very affecting.
+> The video I made myself in iMovie, which is a first for me, but it seems we are all learning how  to do things at home. I had some clips of Britta dancing (which I ran through a particular iPhone app) and another of Anthony LaMarca playing the drums at St. Pancras Church, in London. Meanwhile, I had sent the song to a friend and fellow Seekers fan in Australia, who told me the song made him think of the final scene from Paths of Glory where Christiane Kubrick (the director’s wife!) sings to French soldiers who at first jeer and laugh at her, but are soon moved to tears. I tried the song against that clip and it was immediately very affecting.
 
 [The Carnival is Over (Dean Wareham, M&ouml;istworks June 2020)](https://moistworks.com/home/carnival)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[099] Dean Wareham - Live at St Pancras Old Church December
+title: '[099] Dean Wareham - Live at St. Pancras Old Church December
   2013'
 sitemap: true
 series-title: My record collection
@@ -24,9 +24,9 @@ tags:
 - sonic cathedral
 date: 2023-12-16 23:09 +0000
 ---
-The always fab Sonic Cathedral have just released Dean Wareham's Live at St Pancras Old Church on vinyl, having previously released it in 2014 on cassette.
+The always fab Sonic Cathedral have just released Dean Wareham's Live at St. Pancras Old Church on vinyl, having previously released it in 2014 on cassette.
 
-{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-wareham-live-at-st-pancras-x-3.jpg" "Dean Wareham live at St Pancras Old Church x 3" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-wareham-live-at-st-pancras-x-3.jpg" "Dean Wareham live at St. Pancras Old Church x 3" %}
 
 This entry will cover three rows in my collection spreadsheet becuase I've [already written about one cassette version](/2023/02/23/my-record-collection-011-dean-wareham-live-at-st-pancras-old-church-red-cassette/) and have another one at some point in the future. Since I have three copies of the LP recently acquired it would be a bit hard on you (and me) to cover them three times!
 
@@ -49,14 +49,14 @@ So, I have three copies on vinyl, and two on cassette. So just five copies (so f
 
  - *Catalogue Number:* AHFOW 12/095-0097
  - *Artist:* Dean Wareham
- - *Title:* Live at St Pancras Old Church December 2013
+ - *Title:* Live at St. Pancras Old Church December 2013
  - *Notes:* Test pressing, gold vinyl, red/green vinyl
- - *Format:* 2xLP - well, one and a half times vinyl and the unneeded side four has a lovely old map of St Pancras (except on the test pressing).
+ - *Format:* 2xLP - well, one and a half times vinyl and the unneeded side four has a lovely old map of St. Pancras (except on the test pressing).
  - Bought
    - Test pressing sent to me by Nat
    - Gold vinyl from Bandcamp for £35
    - Red/green vinyl from Norman Records for £29.99
- - [Buy 'Live at St Pancras Old Church December 2013' on Bandcamp](https://deanwareham.bandcamp.com/album/live-at-st-pancras-old-church-london-december-2013)
+ - [Buy 'Live at St. Pancras Old Church December 2013' on Bandcamp](https://deanwareham.bandcamp.com/album/live-at-st-pancras-old-church-london-december-2013)
 
 Previously in [my record collection](/category/my-record-collection):
- - [[011] Dean Wareham Live at St Pancras Old Church (red cassette)](/2023/02/23/my-record-collection-011-dean-wareham-live-at-st-pancras-old-church-red-cassette/)
+ - [[011] Dean Wareham Live at St. Pancras Old Church (red cassette)](/2023/02/23/my-record-collection-011-dean-wareham-live-at-st-pancras-old-church-red-cassette/)

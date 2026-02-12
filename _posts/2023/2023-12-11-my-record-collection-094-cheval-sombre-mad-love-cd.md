@@ -21,9 +21,9 @@ date: 2023-12-11 00:00 +0000
 ---
 This is the CD version of Cheval Sombre's second album _Mad Love_ that was released in 2012. I bought this copy in 2015 when Sonic Cathedral were having a crazy sale of CDs most for £2.50 some even cheaper. My copy is still sealed... because [I already had this lovely album on LP](/2023/03/02/my-record-collection-013-cheval-sombre-mad-love-lp/).
 
-{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/cheval-sombre-mad-love-cd-live-cass.jpg" "Cheval Sombre - Mad Love (CD) and Live at St Pancras Old Church (MC)" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/cheval-sombre-mad-love-cd-live-cass.jpg" "Cheval Sombre - Mad Love (CD) and Live at St. Pancras Old Church (MC)" %}
 
-Shortly after the release of this album Cheval Sombre played a lovely show at St Pancras Old Church with Sonic Boom accompanying (and the lovely The Left Outsides supporting) - I arrived, as I invariably do at this venue, very early and took up an unfamiliar front row seat - I normally prefer to stand at the back, but for some reason I decided that Cheval Sombre might be enjoyed sitting down. I had a lovely view of The Left Outsides... but then...
+Shortly after the release of this album Cheval Sombre played a lovely show at St. Pancras Old Church with Sonic Boom accompanying (and the lovely The Left Outsides supporting) - I arrived, as I invariably do at this venue, very early and took up an unfamiliar front row seat - I normally prefer to stand at the back, but for some reason I decided that Cheval Sombre might be enjoyed sitting down. I had a lovely view of The Left Outsides... but then...
 
 <!--more-->
 

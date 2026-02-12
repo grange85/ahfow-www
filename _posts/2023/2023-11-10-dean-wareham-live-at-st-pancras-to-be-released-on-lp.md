@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dean Wareham live at St Pancras to be released on LP
+title: Dean Wareham live at St. Pancras to be released on LP
 date: 2023-11-10 11:45 +0000
 series-title:
 github-comments-issueid: 1
@@ -17,9 +17,9 @@ categories:
 tags:
 - live at st pancras
 ---
-Ten years ago Dean Wareham played two exceptional nights at St Pancras Old Church in London, the shows were recorded and released on cassette. Now on the 10th anniversary of those shows the always fabulous [Sonic Cathedral is releasing the show on limited edition vinyl](https://linktr.ee/dwspoc) for the first time.
+Ten years ago Dean Wareham played two exceptional nights at St. Pancras Old Church in London, the shows were recorded and released on cassette. Now on the 10th anniversary of those shows the always fabulous [Sonic Cathedral is releasing the show on limited edition vinyl](https://linktr.ee/dwspoc) for the first time.
 
-{% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/scr276lp_v2_deanwareham_live_bc_expanded.jpg" "Dean Wareham live at St Pancras Old Church (Bandcamp edition)" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/scr276lp_v2_deanwareham_live_bc_expanded.jpg" "Dean Wareham live at St. Pancras Old Church (Bandcamp edition)" %}
 
 The album will be released on 15th December and will come in two versions:
 

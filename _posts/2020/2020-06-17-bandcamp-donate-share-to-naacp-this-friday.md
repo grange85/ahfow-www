@@ -80,7 +80,7 @@ Britta's lovely solo album is there too
 - [Luck or Magic - Britta Phillips](https://brittaphillips.bandcamp.com/album/luck-or-magic)
 
 Dean Wareham
-- [Live at St Pancras Old Church London December 2013 - Dean Wareham](https://shop.soniccathedral.co.uk/album/live-at-st-pancras-old-church-london-december-2013-2)
+- [Live at St. Pancras Old Church London December 2013 - Dean Wareham](https://shop.soniccathedral.co.uk/album/live-at-st-pancras-old-church-london-december-2013-2)
 
 
 ### And some other stuff

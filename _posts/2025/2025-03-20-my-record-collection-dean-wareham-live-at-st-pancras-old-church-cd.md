@@ -18,9 +18,9 @@ categories:
 tags:
 - live at st. pancras old church
 ---
-This is a CD containing six tracks recorded at St Pancras Old Church in December 2013 - a fuller version of this recording was released firstly [on cassette](/2023/02/23/my-record-collection-011-dean-wareham-live-at-st-pancras-old-church-red-cassette/) in 2014 and then on [1.5xLPs](/2023/12/16/my-record-collection-recent-acquisition-04-dean-wareham-live-at-st-pancras-old-church-december-2013/) on the show's 10th anniversary in December 2023.
+This is a CD containing six tracks recorded at St. Pancras Old Church in December 2013 - a fuller version of this recording was released firstly [on cassette](/2023/02/23/my-record-collection-011-dean-wareham-live-at-st-pancras-old-church-red-cassette/) in 2014 and then on [1.5xLPs](/2023/12/16/my-record-collection-recent-acquisition-04-dean-wareham-live-at-st-pancras-old-church-december-2013/) on the show's 10th anniversary in December 2023.
 
-{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-wareham-live-at-st-pancras-promo-cd.jpg" "Dean Wareham - Live at St Pancras Old Church (CD)" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-wareham-live-at-st-pancras-promo-cd.jpg" "Dean Wareham - Live at St. Pancras Old Church (CD)" %}
 
 I mentioned in the post on the lovely [Sonic Cathedral - Celebrate Yourself! release](/2024/12/06/my-record-collection-r12-various-artists-celebrate-yourself/) that when the booklet claimed that the version of "When Will You Come Home" on it was the track's first appearance on CD it wasn't entirely true.  This promo CD that was given away with early copies of Dean's eponymous solo album in March 2014, is the reason why.
 
@@ -36,8 +36,8 @@ Read the previous entries in this series for the story of the concerts that made
  - *Notes:* Promo
  - *Packaging:* Hand stampled card envelope
  - *Format:* CD
- - [Buy 'Dean Wareham Live at St Pancras Old Church' on Bandcamp](https://deanwareham.bandcamp.com/album/live-at-st-pancras-old-church-london-december-2013?label=119859815&tab=music&filter_band=3194026583)
+ - [Buy 'Dean Wareham Live at St. Pancras Old Church' on Bandcamp](https://deanwareham.bandcamp.com/album/live-at-st-pancras-old-church-london-december-2013?label=119859815&tab=music&filter_band=3194026583)
 
 Previously in [my record collection](/category/my-record-collection):
- - [\[011\] Dean Wareham Live at St Pancras Old Church (red cassette)](/2023/02/23/my-record-collection-011-dean-wareham-live-at-st-pancras-old-church-red-cassette/)
- - [\[099\] Dean Wareham - Live at St Pancras Old Church December 2013](/2023/12/16/my-record-collection-recent-acquisition-04-dean-wareham-live-at-st-pancras-old-church-december-2013/)
+ - [\[011\] Dean Wareham Live at St. Pancras Old Church (red cassette)](/2023/02/23/my-record-collection-011-dean-wareham-live-at-st-pancras-old-church-red-cassette/)
+ - [\[099\] Dean Wareham - Live at St. Pancras Old Church December 2013](/2023/12/16/my-record-collection-recent-acquisition-04-dean-wareham-live-at-st-pancras-old-church-december-2013/)
