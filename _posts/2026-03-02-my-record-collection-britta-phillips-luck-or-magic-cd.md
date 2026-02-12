@@ -3,7 +3,7 @@ layout: post
 title: '[331] Britta Phillips - Luck or Magic (CD)'
 date: 2026-03-02 00:00 +0000
 series-title: My record collection 
-catno: AHFOW 10/129
+catno: 10/129
 author:
   display_name: Andy
   login: admin
