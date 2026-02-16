@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2026-02-03: Substack - The end of Luna, 2005'
+title: '2026-02-24: Substack - The end of Luna, 2005'
 date: 2026-02-24 00:00 +0000
 series-title: Substack
 author:
@@ -307,37 +307,37 @@ Of course, ten years later and the band were no longer an ex-band and continue t
 <table>
       <tbody><tr>
         <th>2nd April 2026</th>
-        <td><a href="/database/luna/shows/luna-2026-04-02-the-bowery-ballroom-new-york-ny-usa/">The Bowery Ballroom,&nbsp;New York,&nbsp;NY,&nbsp;USA</a><br>
+        <td><a href="https://www.fullofwishes.co.uk/database/luna/shows/luna-2026-04-02-the-bowery-ballroom-new-york-ny-usa/">The Bowery Ballroom,&nbsp;New York,&nbsp;NY,&nbsp;USA</a><br>
           <span class="show-details">Luna</span>
         </td>
       </tr>
       <tr>
         <th>3rd April 2026</th>
-        <td><a href="/database/luna/shows/luna-2026-04-03-the-bowery-ballroom-new-york-ny-usa/">The Bowery Ballroom,&nbsp;New York,&nbsp;NY,&nbsp;USA</a><br>
+        <td><a href="https://www.fullofwishes.co.uk/database/luna/shows/luna-2026-04-03-the-bowery-ballroom-new-york-ny-usa/">The Bowery Ballroom,&nbsp;New York,&nbsp;NY,&nbsp;USA</a><br>
           <span class="show-details">Luna</span>
         </td>
       </tr>
       <tr>
         <th>4th April 2026</th>
-        <td><a href="/database/luna/shows/luna-2026-04-04-the-bowery-ballroom-new-york-ny-usa/">The Bowery Ballroom,&nbsp;New York,&nbsp;NY,&nbsp;USA</a><br>
+        <td><a href="https://www.fullofwishes.co.uk/database/luna/shows/luna-2026-04-04-the-bowery-ballroom-new-york-ny-usa/">The Bowery Ballroom,&nbsp;New York,&nbsp;NY,&nbsp;USA</a><br>
           <span class="show-details">Luna</span>
         </td>
       </tr>
       <tr>
         <th>5th April 2026</th>
-        <td><a href="/database/luna/shows/luna-2026-04-05-assembly-kingston-ny-usa/">Assembly,&nbsp;Kingston,&nbsp;NY,&nbsp;USA</a><br>
+        <td><a href="https://www.fullofwishes.co.uk/database/luna/shows/luna-2026-04-05-assembly-kingston-ny-usa/">Assembly,&nbsp;Kingston,&nbsp;NY,&nbsp;USA</a><br>
           <span class="show-details">Luna</span>
         </td>
       </tr>
       <tr>
         <th>7th April 2026</th>
-        <td><a href="/database/luna/shows/luna-2026-04-07-union-transfer-philadelphia-pa-usa/">Union Transfer,&nbsp;Philadelphia,&nbsp;PA,&nbsp;USA</a><br>
+        <td><a href="https://www.fullofwishes.co.uk/database/luna/shows/luna-2026-04-07-union-transfer-philadelphia-pa-usa/">Union Transfer,&nbsp;Philadelphia,&nbsp;PA,&nbsp;USA</a><br>
           <span class="show-details">Luna</span>
         </td>
       </tr>
       <tr>
         <th>8th April 2026</th>
-        <td><a href="/database/luna/shows/luna-2026-04-08-the-birchmere-music-hall-alexandria-va-usa/">The Birchmere Music Hall,&nbsp;Alexandria,&nbsp;VA,&nbsp;USA</a><br>
+        <td><a href="https://www.fullofwishes.co.uk/database/luna/shows/luna-2026-04-08-the-birchmere-music-hall-alexandria-va-usa/">The Birchmere Music Hall,&nbsp;Alexandria,&nbsp;VA,&nbsp;USA</a><br>
           <span class="show-details">Luna</span>
         </td>
       </tr>
