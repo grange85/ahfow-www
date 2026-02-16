@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dean Wareham - Live at St. Pancras Old Church (green cassette)'
+title: '[336] Dean Wareham - Live at St. Pancras Old Church (green cassette)'
 date: 2026-03-19 00:00 +0000
 series-title: My record collection 
 catno: 16/006
