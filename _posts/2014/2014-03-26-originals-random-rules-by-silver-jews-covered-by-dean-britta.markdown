@@ -32,7 +32,7 @@ tags:
 <p>Here's an mp3 of them performing it at The Village Underground in NYC in 2003</p>
 
  {% ahfowaudio {
-  "audiourl": "https://media.fullofwishes.co.uk/07-dean_and_britta/audio/20030624-dean-and-britta-random-rules.mp3",
+  "audiourl": "https://media.fullofwishes.co.uk/07-dean_and_britta/audio/2003-06-24-dean-and-britta-random-rules.mp3",
   "audiocap": "Dean & Britta - Random Rules (live)",
   "sourceurl": "",
   "sourcecap": ""
