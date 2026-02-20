@@ -51,7 +51,7 @@ In October 2019 Luna played three albums over three nights at The Bowery Ballroo
 The album, famously, turns up in [Rolling Stone's 100 best albums of the 90s](https://www.rollingstone.com/music/music-lists/100-best-albums-of-the-90s-152425/luna-penthouse-90044/)
 > Dean Wareham made his name with the Eighties dream-pop trio Galaxie 500, but he really found his muse in these scandalously beautiful guitar ballads. His foxy voice slinks along the languid guitars as he plumbs his foolish heart in the back of a New York cab, going home alone after another night of fancy drinks and lucky toasts. Wareham purrs some sly one-liners ("It's no fun reading fortune cookies to yourself") but the music celebrates the pleasures of being too young, too rich, too pretty and too single, shopping for true love while getting lost in Chinatown.
 
-Back in 2017 a [double LP deluxe edition of Penthouse was released for Record Store Day](https://www.fullofwishes.co.uk/2017/03/21/deluxe-double-lp-edition-of-luna-penthouse-record-store-day/) - I think some Spotify regions might have it to listen to - but if not it's worth hunting down - you can [stream/download it from Amazon](https://amzn.to/3im27L8).
+Back in 2017 a [double LP deluxe edition of Penthouse was released for Record Store Day](https://www.fullofwishes.co.uk/2017/03/21/deluxe-double-lp-edition-of-luna-penthouse-record-store-day/) - I think some Spotify regions might have it to listen to - but if not it's worth hunting down - you can.
 
 I Hope the band don't mind me popping this up here but this is an early/rough of Moon Palace from the Penthouse sessions:
 

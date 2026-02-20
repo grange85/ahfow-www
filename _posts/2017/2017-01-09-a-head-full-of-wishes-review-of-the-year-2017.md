@@ -53,7 +53,7 @@ longpost: true
 {% ahfowvideo "BRJWjIVLaOk" "Luna cover Suicide's Dream Baby Dream" %}
 <h2>August</h2>
 <p>Damon presented <a href="/2016/08/08/damon-krukowski-the-new-analog-talk-in-boston/">a talk "presenting ideas" from his forthcoming book The New Analog</a> at The Podcast Garage in Boston. Sadly despite the venue name the presentation it seems never reached a podcast - maybe appropriately given its subject matter?</p>
-<p><a href="http://thenewpress.com/books/new-analog">The book</a> will be released in April (on Record Store Day!) and is available to <a href="http://amzn.to/2j6Po0S">pre-order from Amazon</a>.
+<p><a href="http://thenewpress.com/books/new-analog">The book</a> will be released in April (on Record Store Day!) and is available to pre-order from Amazon.
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-krukowski-the-new-analog.jpg" alt="Damon Krukowski - The New Analog" /><figcaption class="caption-text">Damon Krukowski - The New Analog</figcaption></figure>
 <h2>September</h2>
 <p>Luna were back on the road in the US and Joakim was of course there for most of the shows - read about his <a href="/2016/10/29/luna-in-the-usa-and-uk-1-alexandria/">adventures in Alexandria</a>.</p>

@@ -20,7 +20,7 @@ longpost: true
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48010575453/in/album-72157708992712557/" title="Damon &amp; Naomi"><img src="https://media.fullofwishes.co.uk/flickr-downloads/48010575453_f357acf870_c.jpg" alt="Damon &amp; Naomi"></a>
 
-Damon & Naomi arrived in the UK after a short tour of Italy promoting the Italian translation of Damon's The New Analog. Their first show was in York and this was followed by two London dates. The first, at Rough Trade West was just Damon, promoting the excellent [Ways of Hearing](https://amzn.to/2MAnHAq) book of [the podcast](https://www.radiotopia.fm/showcase/ways-of-hearing). The second, hosted by the [Walthamstow Rock N Roll Book Club](https://www.facebook.com/E17rockbookclub/), was another talk, followed by a Damon & Naomi set. I decided to go to both. Obviously.
+Damon & Naomi arrived in the UK after a short tour of Italy promoting the Italian translation of Damon's The New Analog. Their first show was in York and this was followed by two London dates. The first, at Rough Trade West was just Damon, promoting the excellent book of [the podcast](https://www.radiotopia.fm/showcase/ways-of-hearing). The second, hosted by the [Walthamstow Rock N Roll Book Club](https://www.facebook.com/E17rockbookclub/), was another talk, followed by a Damon & Naomi set. I decided to go to both. Obviously.
 <!--more-->
 ## Day one
 <div class="col-md-6 float-right"><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/48003551916/in/dateposted/" title="Damon Krukowski at Rough Trade West"><img src="https://media.fullofwishes.co.uk/flickr-downloads/48003551916_d2c3537bd8.jpg" alt="Damon Krukowski at Rough Trade West"></a></div>

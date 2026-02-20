@@ -18,7 +18,7 @@ longpost: true
 ---
 <figure><a data-flickr-embed="true"  href="https://www.flickr.com/photos/grange85/20006421039/" title="Luna"><img src="https://media.fullofwishes.co.uk/flickr-downloads/20006421039_69bbcfed6f_b.jpg" alt="Luna"></a><figcaption>Britta Phillips</figcaption></figure>
 
-<p class="lead">Happy birthday to the lovely Britta Phillips who'll be celebrating on the back of the wonderful solo album she released a couple of months back - <a href="http://amzn.to/22Zm2Ci">go buy it</a> (<a href="https://open.spotify.com/album/43brGW2fA599FbPHk5Zxdj">or stream it</a>) if you haven't already!</p>
+<p class="lead">Happy birthday to the lovely Britta Phillips who'll be celebrating on the back of the wonderful solo album she released a couple of months back - go buy it (<a href="https://open.spotify.com/album/43brGW2fA599FbPHk5Zxdj">or stream it</a>) if you haven't already!</p>
 
 <p>On that aforementioned "wonderful solo album" she covers The Cars track {% ahfowtrack "Drive" %}... and surprisingly she makes me fall in love with a song I have never loved - here's a sweet video of her playing it live in Texas last month:</p>
 {% ahfowvideo "CVFUMbISiC4" "Britta Phillips - Drive at The Granada Theater" %}

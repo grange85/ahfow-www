@@ -27,9 +27,6 @@ tags:
 <p>Pre-order Luck of Magic &hellip;
 <ul>
 	<li><a href="http://pledgemusic.com/brittaphillips/">Order Luck of Magic on Pledgemusic</a> &hellip; available with lots of bonus exclusive stuff</li>
-	<li><a href="http://amzn.to/1QxjNxd">Order Luck or Magic from Amazon (US)</a> - digital/CD/vinyl</li>
-	<li><a href="http://amzn.to/1SJeOkO">Order Luck or Magic from Amazon (UK)</a> - digital/CD/vinyl</li>
-	<li><a href="https://itunes.apple.com/us/album/luck-or-magic/id1072803111">Pre-order on iTunes</a></li>
 </ul>
 
 {% ahfowvideo "mrOpkUxhntE" "Britta Phillips - One Fine Summer Morning" %}

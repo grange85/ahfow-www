@@ -23,7 +23,7 @@ categories:
 <blockquote>
 	<p>We were scheduled to go on at nine that night, but the opening band played for an hour and a half while we waited in the green room that the students had set up for us. [&hellip;] We sat in that green room getting more and more irritated. And that was our final show. An annoying evening at Bowdoin College.</p>
 	<p>I made it through the set, loaded my amplifier and guitar into the back of my blue '75 Dodge Dart and drove all the way home to New York City.</p>
-	<footer>Dean Wareham. <a href="http://amzn.to/1RAuO6h" target="_blank">Black Postcards (Penguin, 2008)</a></footer>
+	<footer>Dean Wareham. Black Postcards (Penguin, 2008)</footer>
 </blockquote>
 
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1991-04-05/19910405-galaxie-500-bowdoin-college-04.jpg" alt="Naomi at Galaxie 500's last show (Photo: Dan Pearson)" /><figcaption class="caption-text">Naomi at Galaxie 500's last show (Photo: Dan Pearson)</figcaption></figure>
@@ -36,7 +36,7 @@ categories:
 	<p>Damon called me first that morning - to book plane tickets for a Japanese tour. I said I didn't want to go. Isn't that how people often leave a band? Someone is informed about an upcoming gig and they say, you know what, I'm not going</p>
 	<p>[&hellip;]</p>
 	<p>I regret it ended badly - but that's how things often end.</p>
-	<footer>Dean Wareham. <a href="http://amzn.to/1RY3ukt" target="_blank">Temperature's Rising (Yeti, 2012)</a></footer>
+	<footer>Dean Wareham. Temperature's Rising (Yeti, 2012)</footer>
 </blockquote>
 
 <blockquote>
@@ -46,7 +46,7 @@ categories:
 
 <blockquote>
 	<p>Damon called Dean to say he was going to buy our plane tickets to Japan for the tour we had booked there, and Dean said he quit.Damon asked why and Dean said he had nothing more to say to us. I couldn't believe Dean could just throw everything away so carelessly and not even want to discuss it. I got on the phone and did something I had never done before: I yelled at him and told him he was lazy and a selfish coward. Then I hung up.</p>
-	<footer>Naomi Yang. <a href="http://amzn.to/1RY3ukt" target="_blank">Temperature's Rising (Yeti, 2012)</a></footer>
+	<footer>Naomi Yang. Temperature's Rising (Yeti, 2012)</footer>
 </blockquote>
 
 <p>And on that heartbreakingly sad note Galaxie 500 came to an end. A tiny news item <a href="/articles/1991-05-04-galaxie-500-split/">appeared in the Melody Maker</a> a month later and we were left with three perfect albums and the memories.</p>

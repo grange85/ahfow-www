@@ -23,7 +23,7 @@ Dean & Britta had a lovely long radio interview with Ioan Dyer about scoring for
 You can hear the full interview (without the music) over on Soundcloud:
 
 
-The soundtrack album is now available as a CD or a digital download in all the usual places including iTunes, [Amazon](http://amzn.to/1JjMxr3). It's also available to stream on Spotify (and possibly the other streamimg services). You can also hear [a few of the tracks on Soundcloud](https://soundcloud.com/editions-milan-music/sets/mistress-america-dean-wareham).
+The soundtrack album is now available as a CD or a digital download in all the usual places including iTunes. It's also available to stream on Spotify (and possibly the other streamimg services). You can also hear [a few of the tracks on Soundcloud](https://soundcloud.com/editions-milan-music/sets/mistress-america-dean-wareham).
 
 There's a [nice interview over at Noisy](https://soundcloud.com/editions-milan-music/sets/mistress-america-dean-wareham):
 

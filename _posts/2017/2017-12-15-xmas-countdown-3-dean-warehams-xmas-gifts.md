@@ -62,9 +62,7 @@ tags:
 
  {% ahfowaudio {
   "audiourl": "https://media.fullofwishes.co.uk/07-dean_and_britta/audio/01-dean-and-britta-with-sonic-boom-little-altar-boy.mp3",
-  "audiocap": "Dean and Britta with Sonic Boom",
-  "sourceurl": "https://amzn.to/2PMdKOR",
-  "sourcecap": "Amazon Originals: Little Altar Boy"
+  "audiocap": "Dean and Britta with Sonic Boom"
   } %}
 
 <h3 class="text-muted">Still no #SHAWC - fingers crossed for 2018! Or, maybe not&hellip;</h3>

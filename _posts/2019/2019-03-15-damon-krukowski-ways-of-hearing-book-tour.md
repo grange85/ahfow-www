@@ -1,4 +1,4 @@
----
+--
 layout: post
 draft: false
 title: Damon Krukowski Ways of Hearing book tour
@@ -216,6 +216,6 @@ longpost: false
 
 <p>If you haven't yet checked out the podcast head over to Radiotopia where you can <a href="https://www.radiotopia.fm/showcase/ways-of-hearing">hear the whole show for free</a> or, if you prefer, you can <a href="https://waysofhearing.bandcamp.com/">buy a lossless and advertless download from bandcamp</a>.</p>
 
-<p>The book will be in the shops soon and is probably available to pre-order from your <a href="https://amzn.to/2HBDqv1">on-line retailer of choice</a>.</p>
+<p>The book will be in the shops soon and is probably available to pre-order from your on-line retailer of choice.</p>
 
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/ways-of-hearing-tour.jpg" alt="Ways of Hearing book tour poster" /><figcaption class="caption-text">Ways of Hearing book tour poster</figcaption></figure>
