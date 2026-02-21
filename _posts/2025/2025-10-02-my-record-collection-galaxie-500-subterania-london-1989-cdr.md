@@ -2,7 +2,7 @@
 layout: post
 title: "[290] Galaxie 500 - Subterania, London - 1989 (CDR)"
 series-title: My record collection
-catno:
+catno: 10/155
 author:
   display_name: Andy
   login: admin
@@ -10,7 +10,8 @@ author:
   url: https://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-subterania-1989-cdr.jpg
 categories:
--
+- galaxie 500
+- my record collection
 tags:
 -
 date: 2025-10-02 00:00 +0000
