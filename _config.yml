@@ -2,6 +2,7 @@
 title: 'A Head Full of Wishes'
 subtitle: 'Galaxie 500, Luna, Damon & Naomi, Dean & Britta &hellip;'
 author: Andy Aldridge
+og_image: https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image-1280x720.jpg
 email: andy@fullofwishes.co.uk
 baseurl:
 url: https://www.fullofwishes.co.uk
@@ -159,5 +160,4 @@ exclude:
 
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-archives
