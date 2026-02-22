@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'POT 31 - Get Yer Pots Out (CD)'
+title: '[338] POT 31 - Get Yer Pots Out (CD)'
 date: 2026-03-26 00:00 +0000
 series-title: My record collection 
 catno: 05/032
