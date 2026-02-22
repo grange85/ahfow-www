@@ -11,9 +11,10 @@ author:
   url: https://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/magic-hour-no-excess-is-absurd-tv-box.jpg
 categories:
--
+- damon & naomi
+- my record collection
 tags:
--
+- magic hour
 ---
 This is the fourth and last copy of Magic Hour's first album No Excess is Absurd, and is also the tenth and last appearance by Magic Hour in this series.
 
