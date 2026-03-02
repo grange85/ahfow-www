@@ -40,4 +40,4 @@ I love the photo by [Macioce](https://www.instagram.com/maciocephotography/) use
 Previously in [my record collection](/category/my-record-collection):
  - [[276] Galaxie 500 - CBGB - 13th December 1988](/2025/08/14/my-record-collection-galaxie-500-cbgb-13th-december-1988/)
 
-_&dagger; - to be honest too many of these mixed colour, splatter, splash, burst, vinyl releases are horrible... it's time to stop and stick to single colour vinyl... and maybe more in black... I mean. when did black stop being the coolest colour?_
+_&dagger; - to be honest too many of these mixed colour, splatter, splash, burst, swirl, vinyl releases are horrible... it's time to stop and stick to single colour vinyl... and maybe more in black... I mean. when did black stop being the coolest colour?_
