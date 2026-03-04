@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Video: Luna live in Barcelona in 1997'
-date: 2026-03-04 00:00 +0000
 series-title:
 catno:
 author:
@@ -9,8 +8,8 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image: https://media.fullofwishes.co.uk/02-luna/pictures/luna-btv-bikini-1997.jpg 
-categories: 
+image: https://media.fullofwishes.co.uk/02-luna/pictures/luna-btv-bikini-1997.jpg
+categories:
 - luna
 - video
 tags:
@@ -26,6 +25,10 @@ It's a lovely record of Luna around the time of the release of Pup Tent and alwa
 
 {% ahfowvideo "2-V4NADSJ7g" "Luna - live in Barcelona 14th November 1997 (BTV)" "https://media.fullofwishes.co.uk/02-luna/pictures/luna-btv-bikini-1997.jpg" %}
 
-I had to clip out a 40 second clip of the Bobby Peru video since it was causing the whole video to be blocked in certain regions but otherwise the show is complete.
+I had to clip out a 40 second clip of the Bobby Peru video since it was causing the whole video to be blocked in certain regions (including Europe and the US!?) but otherwise the show is complete.
+
+I excerpted an amazing version of Time to Quit if you fancy a taster:
+
+{% ahfowvideo "ZZsE4zZeld0" "Luna - Time to Quit - Barcelona 1997" %}
 
 
