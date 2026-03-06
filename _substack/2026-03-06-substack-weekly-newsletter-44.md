@@ -75,6 +75,23 @@ I excerpted an amazing version of Time to Quit if you fancy a taster:
 
 I've spent a bit of time (with the help of AI) organising the Galaxie 500 Mailing List archives which have been chaotically living spread across multiple mailboxes (and in various online repos). What I always knew was that there was as significant gap in my archive most notably between the list's launch in July 1995 to 1998 - there was some cross-posting to ```alt.music.galaxie-500``` usenet group so I have managed to salvage some but if anyone has any old, old mailboxes that might have anything from the mailing list from those years please [get in touch](https://www.fullofwishes.co.uk/contact/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+2026-03-06). I suspect there are gaps right up to August 2004 when I moved to GMail - if you have anything please shout!
 
+Just to give this a bit of content here's a post from (just over) 25 years ago:
+
+    Date: Mon 29 Jan 2001 16:47 
+    From: Andy Aldridge
+    Subject: g500 cover
+
+    I'm still flicking around the spin site and came accross a band by the name of 
+    Rainer Maria who do a live performance of "Hearing Voices".
+
+    if not wonderful still nice to hear...
+    http://www.spin.com/new/features/spinlive/index0103.html
+    http://www.grange85.co.uk
+
+Still nice to hear:
+
+https://www.youtube.com/watch?v=tlftyuOZmS4
+
 ---
 
 ### My record collection [331] Britta Phillips - Luck or Magic (CD)
