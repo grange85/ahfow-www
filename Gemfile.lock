@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/grange85/no-style-please
-  revision: 4eaf6b02ef5a99a1ed7be7ca1bc10273404fac41
+  revision: 96c9a34154b3238671374b6bccda28f680700dda
   specs:
     no-style-please (0.4.7)
       jekyll (~> 4.3.3)
@@ -10,7 +10,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.8.8)
+    addressable (2.8.9)
       public_suffix (>= 2.0.2, < 8.0)
     base64 (0.2.0)
     bigdecimal (3.3.1)
@@ -33,33 +33,33 @@ GEM
     ffi (1.17.3-x86_64-linux-gnu)
     ffi (1.17.3-x86_64-linux-musl)
     forwardable-extended (2.6.0)
-    google-protobuf (4.33.5)
+    google-protobuf (4.34.0)
       bigdecimal
-      rake (>= 13)
-    google-protobuf (4.33.5-aarch64-linux-gnu)
+      rake (~> 13.3)
+    google-protobuf (4.34.0-aarch64-linux-gnu)
       bigdecimal
-      rake (>= 13)
-    google-protobuf (4.33.5-aarch64-linux-musl)
+      rake (~> 13.3)
+    google-protobuf (4.34.0-aarch64-linux-musl)
       bigdecimal
-      rake (>= 13)
-    google-protobuf (4.33.5-arm64-darwin)
+      rake (~> 13.3)
+    google-protobuf (4.34.0-arm64-darwin)
       bigdecimal
-      rake (>= 13)
-    google-protobuf (4.33.5-x86-linux-gnu)
+      rake (~> 13.3)
+    google-protobuf (4.34.0-x86-linux-gnu)
       bigdecimal
-      rake (>= 13)
-    google-protobuf (4.33.5-x86-linux-musl)
+      rake (~> 13.3)
+    google-protobuf (4.34.0-x86-linux-musl)
       bigdecimal
-      rake (>= 13)
-    google-protobuf (4.33.5-x86_64-darwin)
+      rake (~> 13.3)
+    google-protobuf (4.34.0-x86_64-darwin)
       bigdecimal
-      rake (>= 13)
-    google-protobuf (4.33.5-x86_64-linux-gnu)
+      rake (~> 13.3)
+    google-protobuf (4.34.0-x86_64-linux-gnu)
       bigdecimal
-      rake (>= 13)
-    google-protobuf (4.33.5-x86_64-linux-musl)
+      rake (~> 13.3)
+    google-protobuf (4.34.0-x86_64-linux-musl)
       bigdecimal
-      rake (>= 13)
+      rake (~> 13.3)
     http_parser.rb (0.8.1)
     i18n (1.14.8)
       concurrent-ruby (~> 1.0)
@@ -104,7 +104,7 @@ GEM
     mercenary (0.4.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (7.0.2)
+    public_suffix (7.0.5)
     rake (13.3.1)
     rb-fsevent (0.11.2)
     rb-inotify (0.11.1)
