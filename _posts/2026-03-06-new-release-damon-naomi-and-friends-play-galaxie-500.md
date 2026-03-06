@@ -17,7 +17,7 @@ categories:
 tags:
 - cafe oto
 ---
-Back at the beginning of the year Damon & Naomi played three shows at Cafe Oto in London, each of these shows ended with an encore that saw them joined on stage by various guests to play from the Galaxie 500 songbook. Today they have released a (download-only) album of those encores onto YouTube. [What's Past is Prologue](https://damonandnaomi.bandcamp.com/album/whats-past-is-prologue-live-at-caf-oto) is now available for _pay-what-you-want_ on Bandcamp and, since it's \#BandcampFriday whatever you choose to pay all reaches them.
+Back at the beginning of the year Damon & Naomi played three shows at Cafe Oto in London, each of these shows ended with an encore that saw them joined on stage by various guests to play from the Galaxie 500 songbook. Today they have released a (download-only) album of those encores onto Bandcamp. [What's Past is Prologue](https://damonandnaomi.bandcamp.com/album/whats-past-is-prologue-live-at-caf-oto) is now available for _pay-what-you-want_ on Bandcamp and, since it's \#BandcampFriday whatever you choose to pay all reaches them.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-whats-past-is-prologue.jpg" "Damon & Naomi - What's Past is Prologue" "https://damonandnaomi.bandcamp.com/album/whats-past-is-prologue-live-at-caf-oto" %}
 
