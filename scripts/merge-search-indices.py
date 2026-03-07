@@ -2,16 +2,29 @@
 """
 Merge search indices from main site and database repo.
 Runs after both repos have deployed to S3.
+Uses AWS CLI (pre-installed in GitHub Actions).
 """
 
 import json
-import boto3
+import subprocess
 import sys
-from datetime import datetime
+import os
+
+def run_command(cmd):
+    """Run shell command and return output or None if it fails"""
+    try:
+        result = subprocess.run(cmd, capture_output=True, text=True, shell=True, check=False)
+        if result.returncode != 0:
+            return None
+        return result.stdout.strip()
+    except Exception as e:
+        print(f"Error running command: {e}")
+        return None
 
 def merge_search_indices(bucket_name, main_site_key, database_key, output_key):
     """
     Fetch search indices from S3, merge them, and upload the result.
+    Uses AWS CLI which is pre-installed in GitHub Actions runners.
 
     Args:
         bucket_name: S3 bucket name
@@ -19,55 +32,60 @@ def merge_search_indices(bucket_name, main_site_key, database_key, output_key):
         database_key: S3 key for database search index (e.g., 'database/search-min.json')
         output_key: S3 key for merged output (e.g., 'search-min.json')
     """
-    s3 = boto3.client('s3')
 
-    try:
-        # Fetch main site search index
-        print(f"Fetching main site search index from s3://{bucket_name}/{main_site_key}")
-        response = s3.get_object(Bucket=bucket_name, Key=main_site_key)
-        main_search = json.loads(response['Body'].read())
-        print(f"  Found {len(main_search)} main site entries")
+    # Download main site search index
+    print(f"Fetching main site search index from s3://{bucket_name}/{main_site_key}")
+    main_output = run_command(f"aws s3 cp s3://{bucket_name}/{main_site_key} - 2>/dev/null")
 
-    except s3.exceptions.NoSuchKey:
-        print(f"Warning: Main site search index not found at {main_site_key}")
+    if main_output:
+        try:
+            main_search = json.loads(main_output)
+            print(f"  ✓ Found {len(main_search)} main site entries")
+        except json.JSONDecodeError as e:
+            print(f"  ✗ Invalid JSON: {e}")
+            main_search = []
+    else:
+        print(f"  ⚠ Warning: Main site search index not found")
         main_search = []
-    except Exception as e:
-        print(f"Error fetching main site search index: {e}")
-        return False
 
-    try:
-        # Fetch database search index
-        print(f"Fetching database search index from s3://{bucket_name}/{database_key}")
-        response = s3.get_object(Bucket=bucket_name, Key=database_key)
-        database_search = json.loads(response['Body'].read())
-        print(f"  Found {len(database_search)} database entries")
+    # Download database search index
+    print(f"Fetching database search index from s3://{bucket_name}/{database_key}")
+    db_output = run_command(f"aws s3 cp s3://{bucket_name}/{database_key} - 2>/dev/null")
 
-    except s3.exceptions.NoSuchKey:
-        print(f"Warning: Database search index not found at {database_key}")
-        database_search = []
-    except Exception as e:
-        print(f"Error fetching database search index: {e}")
+    if db_output:
+        try:
+            database_search = json.loads(db_output)
+            print(f"  ✓ Found {len(database_search)} database entries")
+        except json.JSONDecodeError as e:
+            print(f"  ✗ Invalid JSON: {e}")
+            database_search = []
+    else:
+        print(f"  ⚠ Warning: Database search index not found")
         database_search = []
 
     # Merge indices
     merged = main_search + database_search
-    print(f"\nMerged total: {len(merged)} entries")
+    print(f"\n✓ Merged total: {len(merged)} entries ({len(main_search)} posts + {len(database_search)} database)")
 
-    # Upload merged index
+    # Write to temp file and upload
     try:
+        temp_file = '/tmp/search-merged.json'
+        with open(temp_file, 'w') as f:
+            json.dump(merged, f)
+
         print(f"Uploading merged search index to s3://{bucket_name}/{output_key}")
-        s3.put_object(
-            Bucket=bucket_name,
-            Key=output_key,
-            Body=json.dumps(merged),
-            ContentType='application/json',
-            CacheControl='max-age=3600'
-        )
-        print("Upload successful")
-        return True
+        cmd = f"aws s3 cp {temp_file} s3://{bucket_name}/{output_key} --content-type application/json --cache-control max-age=3600"
+        result = subprocess.run(cmd, shell=True, capture_output=True, text=True)
+
+        if result.returncode == 0:
+            print("  ✓ Upload successful")
+            return True
+        else:
+            print(f"  ✗ Upload failed: {result.stderr}")
+            return False
 
     except Exception as e:
-        print(f"Error uploading merged search index: {e}")
+        print(f"  ✗ Error: {e}")
         return False
 
 
