@@ -63,8 +63,19 @@ def merge_search_indices(bucket_name, main_site_key, database_key, output_key):
         print(f"  ⚠ Warning: Database search index not found")
         database_search = []
 
-    # Merge indices
-    merged = main_search + database_search
+    # Normalize all items to have consistent fields
+    def normalize_item(item):
+        return {
+            'title': item.get('title', ''),
+            'category': item.get('category', ''),
+            'url': item.get('url', ''),
+            'date': item.get('date', ''),
+            'series-title': item.get('series-title', ''),
+            'tags': item.get('tags', '')
+        }
+
+    # Merge and normalize indices
+    merged = [normalize_item(item) for item in main_search + database_search]
     print(f"\n✓ Merged total: {len(merged)} entries ({len(main_search)} posts + {len(database_search)} database)")
 
     # Write to temp file and upload
