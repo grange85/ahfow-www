@@ -39,7 +39,7 @@ He enjoyed his new life. He drank and partied and showed up late to work most da
  - **Hedgehog** was picked to be a (radio) single and a one-track CD single was made as a radio promo... I don't have a copy... but it was also coupled with 23 Minutes in Brussels for the _proper_ single on Beggars Banquet.
  - **Freakin' and Peakin'** is a great finish to the album... but most people probably didn't hear it as a finish since the CD has a bonus track... but since I'm listening to the cassette this is where I'll finish!
 
-Here's Luna playing Freakin' and Peakin' in Atlanta in 2015
+Here's Luna playing Freakin' and Peakin' in Atlanta in 2015:
 
 {% ahfowvideo "PR3iPRS4c2Y" "Luna - Freakin' and Peakin' 2015 10 02 Atlanta GA" %}
 
