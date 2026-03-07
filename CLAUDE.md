@@ -4,7 +4,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**A Head Full of Wishes** is a Jekyll-based static site about Galaxie 500, Luna, Damon & Naomi, Dean & Britta, and Dean Wareham. It includes news, articles, discography/gigography database references, record collection posts, and category-based content.
+**A Head Full of Wishes** is a Jekyll-based static site about Galaxie 500, Luna, Damon & Naomi, Dean & Britta, and Dean Wareham. It includes news, articles, record collection posts, and category-based content.
+
+**Architecture:** This repository builds the main site (`/`). A separate repository (`../ahfow-database/`) generates the discography/gigography database (`/database/` subpath) using data-driven page generation. Both build independently and deploy to the same S3 bucket.
 
 **Tech Stack:**
 - Jekyll 4.3.3 (static site generator)
@@ -12,7 +14,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - Custom Ruby plugins for Liquid template tags
 - Theme: no-style-please (custom fork)
 - AWS S3 + CloudFront for hosting and CDN
-- GitHub Actions for CI/CD
+- GitHub Actions for separate CI/CD workflows
 
 ## Development Setup
 
@@ -150,8 +152,34 @@ JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config_prod
 ### Search Index
 The site generates a `search.json` file from all posts. During deployment, this is minified to `search-min.json` for frontend use.
 
+## Related Repository: ahfow-database
+
+The `../ahfow-database/` repository generates the `/database/` section containing:
+- **Discography**: Multi-collection setup with releases for each artist (galaxie-500-releases, luna-releases, damon-and-naomi-releases, dean-and-britta-releases, dean-wareham-releases)
+- **Gigography**: Dynamic page generation from YAML show data using jekyll-datapage-generator
+- **Tracks**: Database of all recorded tracks with links
+
+**Key differences from main site:**
+- Port 4000 (development)
+- Uses `jekyll-datapage-generator` plugin for data-driven pages
+- Collections stored in `collections/` directory
+- Separate GitHub Actions workflows (autodeploy-workflow.yml)
+- Deploys to `s3://bucket/database/` subdirectory
+- `baseurl: "/database"` in config
+
+**Local development:**
+```bash
+cd ../ahfow-database
+bundle install
+bundle exec jekyll serve --config _config.yml,_config_development.yml
+# Runs on port 4000
+```
+
+Both sites are independent but designed to work together as a single unified site at `fullofwishes.co.uk` (main) and `fullofwishes.co.uk/database/` (database).
+
 ## Important Notes
 
+- **Deployment separation**: The `_deploy` sync excludes `database/*` when doing full syncs since that directory is managed by the ahfow-database repo's separate deployment.
 - **Post dates and future scheduling**: Set `future: false` in config (production) to hide future-dated posts. The GitHub Actions scheduler allows scheduled post publication.
 - **Media hosting**: All media (images, audio, video) is hosted on a separate media server (`media.fullofwishes.co.uk`). Don't embed local assets.
 - **Theme customization**: The site uses a custom fork of the "no-style-please" theme. Custom styles in `_sass/` override or extend theme styles.
