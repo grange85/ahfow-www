@@ -7,6 +7,8 @@ on:
   schedule:
     # Schedule to post every day
     - cron: '37 6,9,12,15,18 * * *'
+  workflow_dispatch:
+    # Allow manual triggering
 
 jobs:
 # =====================
