@@ -6,7 +6,7 @@ custom_js:
 ---
 <form>
   <div class="form-group">
-    <label for="searchInput"><h3>Search (posts only)</h3></label>
+    <label for="searchInput"><h3>Search</h3></label>
     <small id="searchHelp" class="form-text text-muted">just type in the box and the results will be shown below.</small>
 <div class="input-group mb-3">
   <span class="input-group-text" id="basic-addon1"><i class="bi bi-search"></i></span>
