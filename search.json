@@ -11,6 +11,17 @@ layout: none
       "date"     : "{{ post.date }}",
 	  "section"	 : "post"
 
+    }{% if forloop.last == false or site.articles.size > 0 %},{% endif %}
+  {% endfor %}
+  {% for article in site.articles %}
+    {
+      "title"    : "{{ article.title | escape }}",
+      "category" : "{{ article.categories | join: ', ' }}",
+      "tags"     : "{{ article.tags | join: ', ' }}",
+      "url"      : "{{ site.baseurl }}{{ article.url }}",
+      "date"     : "{{ article.date }}",
+      "section"  : "article"
+
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]

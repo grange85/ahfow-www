@@ -71,7 +71,8 @@ def merge_search_indices(bucket_name, main_site_key, database_key, output_key):
             'url': item.get('url', ''),
             'date': item.get('date', ''),
             'series-title': item.get('series-title', ''),
-            'tags': item.get('tags', '')
+            'tags': item.get('tags', ''),
+            'section': item.get('section', '')
         }
 
     # Merge and normalize indices
