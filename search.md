@@ -41,5 +41,4 @@ custom_js:
   </div>
 </form>
 
-<script src="/js/simple-jekyll-search.min.js?202312240956"></script>
 <script src="/assets/js/search.js"></script>

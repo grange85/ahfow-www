@@ -1,4 +1,3 @@
-let allResults = [];
 let searchData = [];
 
 // Load search data
@@ -8,8 +7,8 @@ fetch('/search-min.json')
     searchData = data;
   });
 
-function filterAndDisplay() {
-  const searchTerm = document.getElementById('searchInput').value;
+function performSearch() {
+  const searchTerm = document.getElementById('searchInput').value.toLowerCase();
   const selectedSection = document.getElementById('sectionFilter').value;
   const resultsContainer = document.getElementById('searchResults');
 
@@ -18,44 +17,29 @@ function filterAndDisplay() {
     return;
   }
 
-  // Filter results by section if a section is selected
-  let filtered = allResults;
+  // Search across title, category, and tags
+  let results = searchData.filter(item => {
+    const searchFields = (item.title + ' ' + item.category + ' ' + item.tags).toLowerCase();
+    return searchFields.includes(searchTerm);
+  });
+
+  // Filter by section if selected
   if (selectedSection) {
-    filtered = allResults.filter(item => item.section === selectedSection);
+    results = results.filter(item => item.section === selectedSection);
   }
 
+  // Display results
   resultsContainer.innerHTML = '';
-  if (filtered.length === 0) {
+  if (results.length === 0) {
     resultsContainer.innerHTML = '<li class="list-group-item">No results found</li>';
     return;
   }
 
-  filtered.forEach(item => {
+  results.slice(0, 30).forEach(item => {
     resultsContainer.innerHTML += '<li class="list-group-item"><a href="https://www.fullofwishes.co.uk' + item.url + '">' + item.title + '</a></li>';
   });
 }
 
-var sjs = SimpleJekyllSearch({
-  searchInput: document.getElementById('searchInput'),
-  resultsContainer: document.getElementById('searchResults'),
-  json: '/search-min.json',
-  searchResultTemplate: '<li class="list-group-item"><a href="https://www.fullofwishes.co.uk{url}">{title}</a></li>',
-  limit: 30,
-  success: function() {
-    // Override the search method to store results
-    const originalSearch = this.search;
-    this.search = function(query) {
-      if (!query) {
-        allResults = [];
-      } else {
-        allResults = searchData.filter(item => {
-          const searchFields = item.title + ' ' + item.category + ' ' + item.tags;
-          return searchFields.toLowerCase().includes(query.toLowerCase());
-        });
-      }
-      filterAndDisplay();
-    };
-  }
-});
-
-document.getElementById('sectionFilter').addEventListener('change', filterAndDisplay);
+// Set up event listeners
+document.getElementById('searchInput').addEventListener('input', performSearch);
+document.getElementById('sectionFilter').addEventListener('change', performSearch);
