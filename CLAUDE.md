@@ -184,4 +184,3 @@ Both sites are independent but designed to work together as a single unified sit
 - **Media hosting**: All media (images, audio, video) is hosted on a separate media server (`media.fullofwishes.co.uk`). Don't embed local assets.
 - **Theme customization**: The site uses a custom fork of the "no-style-please" theme. Custom styles in `_sass/` override or extend theme styles.
 - **Analytics**: GoatCounter tracking is configured for analytics and download/play event tracking.
-- **Comments**: GitHub issues are used for comments (via separate repo `ahfow-www-comments`).
