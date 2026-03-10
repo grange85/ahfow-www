@@ -34,6 +34,8 @@ Doors, Buffy St. Marie, Opal and Angel Corpus Christi.
 </blockquote>
 <p class="caption">Post on Fuzzywuzzy (January 2003)</p>
 
+_This next bit is a re-hash/repeat of some of the things I wrote for the AHFoW Substack a couple of months back - I apologise!_
+
 I've recently started trying to get the Galaxie 500 Mailing List archive into some sort of order so that I can start doing some more in depth looking at how releases were received and discussed on the list. Since 2003 is fairly well represented, and in moderately good order, my first test was with L'avventura. So, here are a few insights I've managed to pull from the data. 
 
 The album was released in early June of 2003 although it seems that Jetset had distribution problems so there was quite a lot of on-list discussion of members struggling to get a copy. This was somewhat exacerbated by the uncertainty of just where to look in the racks. Since the album was by **Britta Phillips and Dean Wareham** would it be in the **P**s, or the **W**s or, since we all called them Dean & Britta (even their own website) would it be in the **D**s?
