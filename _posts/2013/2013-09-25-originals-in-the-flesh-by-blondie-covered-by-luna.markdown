@@ -14,7 +14,7 @@ categories:
 ---
 <p>Blondie - In The Flesh (1976)<br />
 </p>
-{% ahfowvideo "6h-uF3-JyIE" "" %}
+{% ahfowvideo "kmONePejIIA" "Blondie - In The Flesh" %}
 <p><a href="http://en.wikipedia.org/wiki/In_the_Flesh_%28Blondie_song%29">Blondie's In The Flesh</a> was their second single released in October 1976. It reached number 2 in the Australian charts making it Blondie's first hit record.</p>
 <p>Luna's version was released as a 7" single on Trade2 Records, and later on the CD single of Bobby Peru.</p>
 
