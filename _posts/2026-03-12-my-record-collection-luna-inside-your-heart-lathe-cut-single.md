@@ -22,7 +22,7 @@ Inside Your Heart was recorded by Luna in the sessions for A Sentimental Educati
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-inside-your-heart-piaptk-lathe-2.jpg" "Luna - Inside Your Heart" %}
 
-The single is a cover of a song by The Monochrome Set and is another example of Dean digging deep for his choice of covers - the song only really surfaced in 2010 on an LP of early recordings, and possibly dates from before they were actually called The Monochrome Set. Here's a clip of them playing it in London last year:
+The single is a cover of a song by The Monochrome Set and is another example of Dean digging deep for his choice of covers - the song only really surfaced in <del>2010</del> <ins>1995 (thanks Vincent for pointing this out)</ins>  on an LP of early recordings, and possibly dates from before they were actually called The Monochrome Set. Here's a clip of them playing it in London last year:
 
 {% ahfowvideo "NO1gCJ0ANu8" "The Monochrome Set - Inside Your Heart (London, 2025)" %}
 
@@ -44,7 +44,7 @@ It also helps that for a fiver you can [buy a digital release of Inside Your Hea
 
 While Luna were making [A Sentimental Education](/2025/09/15/my-record-collection-luna-a-sentimental-education-lp/) they released a number of videos as part of the "campaign" including a clip of them in the studio recording Inside Your Heart:
 
-{% ahfowvideo "go3mVnjUhPk" "Luna - recording Inside Your Heart" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-inside-your-heart-video.jpg" %}
+{% ahfowvideo "ggJyoTCVsSM" "Luna - recording Inside Your Heart" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-inside-your-heart-video.jpg" %}
 
  - *Catalogue Number:* AHFOW 11/074
  - *Artist:* Luna
