@@ -15,8 +15,8 @@ image: https://media.fullofwishes.co.uk/00-misc/substack/substack-from-the-archi
 categories:
 - damon & naomi
 - news
-tags:
 - substack
+tags:
 - london
 - live music
 ---

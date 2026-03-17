@@ -15,8 +15,8 @@ image: https://media.fullofwishes.co.uk/00-misc/substack/substack-from-the-archi
 categories:
 - luna
 - news
-tags:
 - substack
+tags:
 - borderline
 ---
 In to-day's 'from the archive' post on Substack I almost remember Luna's show at The Borderline in London 30 years ago this week. [Head over to the AHFoW Substack](https://aheadfullofwishes.substack.com/) to read it - and /or subscribe.

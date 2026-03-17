@@ -15,8 +15,8 @@ image: https://media.fullofwishes.co.uk/00-misc/substack/substack-from-the-archi
 categories:
 - dean & britta
 - news
-tags:
 - substack
+tags:
 - covid
 - lockdown
 ---

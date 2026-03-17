@@ -11,8 +11,8 @@ author:
 image:
 categories:
 - editorial
-tags:
 - substack
+tags:
 date: 2025-12-17 00:00 +0000
 ---
 A few more selections from my Substack posts over the year.
