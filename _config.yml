@@ -24,22 +24,23 @@ defaults:
       image: https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image-1280x720.jpg
 
 main_categories:
-  - news
+  - 13 most beautiful
   - admin
-  - editorial
-  - galaxie 500
-  - luna
+  - artefacts
   - damon & naomi
   - dean & britta
   - dean wareham
+  - editorial
+  - galaxie 500
+  - lost tracks
+  - luna
   - my record collection
-  - 13 most beautiful
-  - artefacts
+  - news
   - originals
   - pictures
-  - video
+  - substack
   - velvet underground tour diary
-  - lost tracks
+  - video
 
 collections: 
   articles:
