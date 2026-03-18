@@ -10,9 +10,11 @@ author:
   url: https://www.grange85.co.uk
 image:
 categories:
--
+- luna
+- substack
+- damon & naomi
 tags:
--
+- stereolab
 ---
 Back in January Damon & Naomi played three nights at Cafe Oto in London and on two of those nights they were joined on-stage by Stereolab's Laetitia Sadier, and since Laetitia has a bit of AHFoW-previous and a fair bit of personal-previous I thought I might see if I can squeeze a post out of that.
 
@@ -43,4 +45,61 @@ And then it just turned - I'll admit that it was something special from the past
 </blockquote>
 <p class="caption">The only band that can still make me dance (Everything's Swirling - 25th August 2004)</p>
 
+... and that was the last time I saw Stereolab. I have seen Laetitia a few times since, notably in the pouring rain at Indietracks in 2015 and more recently at The Cluny after we had moved to the NE in 2021.
+
 So... onto the _connections_.
+
+In the early 90s it was quite common for bands on indie labels in the UK to sign to majors in the US and Stereolab who released records through their own Duophonic in the UK signed to Elektra - Terry wrote (in his own unique style) about the signing of Stereolab on Facebook... and Discogs (where you can [still read it](https://www.discogs.com/user/terryelliotttolkin)).
+
+<blockquote>
+After I called Timothy, Laeticia, Mother Mary and Sir M.Pikey ( their manager. still is btw) to tell all of them all all about the Great News, that the legal teams on both sides of the Pond had come to a mutually beneficial and binding agreement and that Stereolab (#hereintoreferredtoas: "The Groop") would become the Second band that I would sign at the Elektra Entertainment Groop (#hereintoreferredtoas: "EE"). The Terms were VERY generous for our little Groop. Mainly because I was intimately involved in granting them whatever they and I could think up in conference calls from my office. The Groops barristers would then phone our crazy proposals to Elektras lawyers on the floor below me who would then call me in my office to me to ask if I was willing to accept our own demands or not. 
+</blockquote>
+<p class="caption">Terry Tolkin - 30th July 2019</p>
+
+I believe that as Stereolab were the second band Terry signed to Elektra then Luna were the first.
+
+Since Terry had both Luna and Stereolab under his wing he suggested that a duet might be in order...
+
+<blockquote>
+<p>
+    Terry Tolkin had recently signed Stereolab to Elektra. He suggested that Laetitia Sadier and I sing a duet together-something by Serge Gainsbourg. Laetitia picked "Bonnie and Clyde," and helped me with my French pronun-ciation. Jane Scarpantoni came in to add some frantic cello parts. We played the song fast, and we played it slow, and it worked both ways.
+</p>
+
+<p>
+    Not only that, it seemed to help our profile in England, where we released an EP containing "Chinatown," the two very different recordings of "Bonnie and Clyde," and Talking Heads' "Thank You for Sending Me an Angel." All of a sudden, we started getting good reviews in England. Melody Maker called the EP the single of the week.
+</p>
+</blockquote>
+<p class="caption">Dean Wareham - Black Postcards (2008)</p>
+
+This was the only time Luna got a Single of the Week in one of the major uk music inkies. My clipping of the review doesn't include the reviewers name and I haven't managed to track it down but they make it quite clear that a major influence on the EP getting SOTW was because of the Stereolab connection as the review states that the reviewer had been "supremely disappointed with Luna" and that “every Stereolab single to date has been an MM SOTW”.
+
+<blockquote>
+<p>
+    TALK about symmetry, eh? This collaboration between thoughtful Yank types Luna and Stereolab's Laetitia Sadier is the sound of angels on Phyceptone, and therefore I pronounce it the near-perfect and accompaniment to "Sour Times".
+</p>
+
+<p>
+    It starts with a guitar shimmering softly in a corner somewhere-maybe a bar in Texas. Then Dean Warnham's voice, a faded and dispassionate American drawl, murmurs, "Vouz-avez l'histoire de Jesse James..." and that's that! He sings in French!
+</p>
+
+<p>
+    No contest, SOTW 2.
+</p>
+
+<p>
+    Having always been a Galaxie 500 fan, but supremely disappointed with Luna, it's heartening to know ol' Dean's still got it in him to do the job, and he and Laetitia gently croon their way through this downbeat, effortlessly evocative Serge Gainsbourg tune. Seedy, dust-blown, lazy, drunk and utterly exquisite. There's violins and mandolins, too, if further incentives are needed. One final point worth mentioning: every Stereolab single to date has been an MM SOTW, and this carries on that noble traditional.
+</p>
+<p>
+The best Franco/American teaming this side of Paris, Texas.
+</p>
+</blockquote>
+<p class="caption">Melody Maker singles review - April 1995 (or thereabouts)</p>
+
+To my knowledge Luna only ever played the song once live with Laetitia and that was at The Borderline in 1995, I was at the show and for a while I started to worry that I'd dreamed that duet - to the point that I even asked Dean once if it had actually happened! A few years ago I was chatting to Joe about the show and he mentioned that he had recorded it:
+
+{% ahfowaudio {
+"audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/luna-laetitia-bonnie-and-clyde-1995-05-10.mp3",
+"audiocap": "Luna with Laetitia Sadier - The Borderline, London - 10th May 1995",
+"sourceurl": "https://www.fullofwishes.co.uk/database/luna/shows/luna-1995-05-10-borderline-london-uk/",
+"sourcecap": "Luna - 10th May 1995 Borderline, London, UK"
+} %}
