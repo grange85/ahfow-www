@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Substack: Magic Hour in My record collection'
-series-title:
+title: Damon and Naomi's tenure in Magic Hour (1993 to 1997)
+series-title: Substack
 catno:
 author:
   display_name: Andy

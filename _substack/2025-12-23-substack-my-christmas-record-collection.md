@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2025-12-23: Substack - My Christmas record collection'
+title: 'My Christmas record collection'
 date: 2025-12-23 00:00 +0000
 series-title: Substack
 author:
@@ -10,9 +10,10 @@ author:
   url: https://www.grange85.co.uk
 image:
 categories:
--
+- substack
 tags:
--
+- christmas
+- xmas
 ---
 Since there was no Substack during the previous Christmases during my time writing about [my record collection](https://www.fullofwishes.co.uk/category/my-record-collection/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+20251223) this weeks lazy last-minute post looks back at the posts to AHFoW I made during Xmas 2023, 2024 and this year.
 

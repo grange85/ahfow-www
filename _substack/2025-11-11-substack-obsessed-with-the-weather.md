@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2025-11-11: Substack - Obsessed with the weather?'
+title: 'Obsessed with the weather?'
 date: 2025-11-11 00:00 +0000
 series-title: Substack
 author:
@@ -10,7 +10,8 @@ author:
   url: https://www.grange85.co.uk
 image:
 categories:
--
+- substack
+- dean wareham
 tags:
 -
 ---

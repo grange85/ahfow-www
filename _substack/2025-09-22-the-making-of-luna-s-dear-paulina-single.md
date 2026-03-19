@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2025-09-22: The making of Luna''s Dear Paulina single'
+title: 'The making of Luna''s Dear Paulina single'
 date: 2025-09-22 00:00 +0000
 series-title: Substack
 author:
@@ -10,7 +10,7 @@ author:
   url: https://www.grange85.co.uk
 image:
 categories:
--
+- substack
 tags:
 -
 ---

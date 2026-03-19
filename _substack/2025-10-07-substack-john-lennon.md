@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2025-10-07: Substack - John Lennon'
+title: 'Celebrating what should have been John Lennon''s 85th birthday'
 date: 2025-10-07 00:00 +0000
 series-title: Substack
 author:
@@ -10,9 +10,9 @@ author:
   url: https://www.grange85.co.uk
 image:
 categories:
--
+- substack
 tags:
--
+- john lennon
 ---
 This week John Lennon should have reached his 85th birthday so let's have a look at where he has touched A Head Full of Wishes...
 

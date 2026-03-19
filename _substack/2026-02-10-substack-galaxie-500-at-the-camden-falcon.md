@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2026-02-10: Galaxie 500 at The Camden Falcon'
+title: Galaxie 500 on tour with The Sundays in February 1990
 series-title:
 catno:
 author:
@@ -10,7 +10,7 @@ author:
   url: https://www.grange85.co.uk
 image:
 categories:
--
+- substack
 tags:
 -
 date: 2026-02-10 00:00 +0000

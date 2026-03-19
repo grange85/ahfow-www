@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2025-11-04: Substack - Artefacts #3'
+title: 'Artefacts #3 - some picks from my bookshelf'
 date: 2025-11-04 00:00 +0000
 series-title: Substack
 author:

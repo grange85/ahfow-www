@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2025-09-16: Substack - Artefacts #2'
+title: "Artefacts #2 - some more picks from my collection"
 date: 2025-09-16 00:00 +0000
 series-title: Substack
 author:
@@ -10,9 +10,8 @@ author:
   url: https://www.grange85.co.uk
 image:
 categories:
--
+- substack
 tags:
--
 ---
 This is the second post where I revisit some of the memorabilia I've accumulated over the 35 years of fandom.
 

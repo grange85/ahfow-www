@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2026-01-13: Substack - Luna''s most played songs... a coundown'
+title: 'Luna''s most played live songs - a countdown'
 date: 2026-01-13 00:00 +0000
 series-title: Substack
 author:
@@ -10,7 +10,7 @@ author:
   url: https://www.grange85.co.uk
 image:
 categories:
--
+- substack
 tags:
 -
 ---

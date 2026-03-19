@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2025-09-30: Substack - Femme Fatale'
+title: 'The Velvet Underground''s Femme Fatale as covered by Damon, Naomi, and Dean'
 date: 2025-09-30 00:00 +0000
 series-title: Substack
 author:
@@ -10,7 +10,7 @@ author:
   url: https://www.grange85.co.uk
 image:
 categories:
--
+- substack
 tags:
 -
 ---

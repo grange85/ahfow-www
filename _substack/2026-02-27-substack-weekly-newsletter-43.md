@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Substack: weekly newsletter #43'
-series-title:
+title: 'A Head Full of Wishes newsletter #43'
+series-title: Substack
 catno:
 author:
   display_name: Andy

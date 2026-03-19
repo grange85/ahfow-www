@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2025-09-02: Substack - Dean & Britta in the north of England'
+title: Dean & Britta in the north of England
 date: 2025-09-02 00:00 +0000
 series-title: Substack
 author:
@@ -10,9 +10,12 @@ author:
   url: https://www.grange85.co.uk
 image:
 categories:
--
+- substack
+- dean & britta
+- dean wareham
 tags:
--
+- sea power
+- krankenhaus
 ---
 {% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/august-2025/britta-andy-dean-on-the-beach.jpg" "Britta, me, and Dean on the beach at Whitley Bay (Photo: Hazel)" %}
 

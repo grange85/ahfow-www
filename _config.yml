@@ -119,7 +119,7 @@ jekyll_compose:
         url: https://www.grange85.co.uk
       image:
       categories:
-       - 
+       - substack
       tags: 
        - 
 jekyll-archives:

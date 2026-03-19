@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2025-09-09: Substack - Cagney & Lacee'
+title: Cagney & Lacee
 date: 2025-09-09 00:00 +0000
 series-title: Substack
 author:
@@ -11,6 +11,7 @@ author:
 image:
 categories:
 - dean wareham
+- substack
 tags:
 - cagney & lacee
 ---

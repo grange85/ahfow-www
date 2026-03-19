@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2026-02-24: Substack - The end of Luna, 2005'
+title: 'The end of Luna, 2005'
 date: 2026-02-24 00:00 +0000
 series-title: Substack
 author:
@@ -10,7 +10,7 @@ author:
   url: https://www.grange85.co.uk
 image:
 categories:
--
+- substack
 tags:
 -
 ---

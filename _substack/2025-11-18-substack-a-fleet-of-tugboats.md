@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2025-11-18: Substack - A fleet of Tugboats'
+title: 'A fleet of Tugboats'
 date: 2025-11-18 00:00 +0000
 series-title: Substack
 author:
@@ -10,7 +10,7 @@ author:
   url: https://www.grange85.co.uk
 image:
 categories:
--
+- substack
 tags:
 -
 ---

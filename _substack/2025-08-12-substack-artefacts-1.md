@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Substack / 12th August 2025 / Artefacts #1'
+title: "Artefacts #1 - a piece of headgear, a backstage pass, and a fanzine"
 date: 2025-08-12 00:00 +0000
 series-title: Substack
 author:
@@ -10,9 +10,10 @@ author:
   url: https://www.grange85.co.uk
 image:
 categories:
--
+- substack
+- artefacts
 tags:
--
+- 
 ---
 A few years ago I posted a series looking at some of the memorabilia I had accumulated over the years... this is the first post where I'll rehash a few of those posts. Consider it a wander around the AHFoW museum!
 

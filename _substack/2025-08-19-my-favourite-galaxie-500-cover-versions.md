@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Substack / 19th August 2025 / My favourite Galaxie 500 cover versions'
+title: My favourite covers of Galaxie 500 songs
 date: 2025-08-19 00:00 +0000
 series-title: Substack
 author:
@@ -10,7 +10,8 @@ author:
   url: https://www.grange85.co.uk
 image:
 categories:
--
+- substack
+- galaxie 500
 tags:
 -
 ---

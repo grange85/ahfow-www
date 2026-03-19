@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2025-12-02: Dean Wareham live at St Pancras Old Church'
+title: 'Dean Wareham live at St Pancras Old Church'
 date: 2025-12-02 00:00 +0000
 series-title: Substack
 author:
@@ -10,7 +10,7 @@ author:
   url: https://www.grange85.co.uk
 image:
 categories:
--
+- substack
 tags:
 -
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2025-11-25: Substack - Covers by Damon & Naomi'
+title: 'Covers by Damon & Naomi'
 date: 2025-11-25 00:00 +0000
 series-title: Substack
 author:
@@ -10,8 +10,8 @@ author:
   url: https://www.grange85.co.uk
 image:
 categories:
--
-tags:
+- substack
+tags: 
 -
 ---
 Perhaps because Damon & Naomi don't do covers quite as frequently as Dean it might be easy to think that they aren't just as smart at selecting and interpreting others songs for their own releases but you'd be very wrong. 

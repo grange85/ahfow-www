@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Substack / 15th July 2025 / Should Dean Wareham play Galaxie 500?
+title: Should Dean Wareham play Galaxie 500?
 date: 2025-07-15 00:00 +0000
 series-title: Substack
 author:
@@ -11,8 +11,9 @@ author:
 image:
 categories:
 - galaxie 500
-tags:
 - substack
+- dean wareham
+tags:
 - advertising
 - commercials
 ---

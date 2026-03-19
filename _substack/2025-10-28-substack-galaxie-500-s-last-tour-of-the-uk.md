@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2025-10-28: Substack - Galaxie 500''s last tour of the UK'
+title: 'Galaxie 500''s last tour of the UK'
 date: 2025-10-28 00:00 +0000
 series-title: Substack
 author:
@@ -10,7 +10,7 @@ author:
   url: https://www.grange85.co.uk
 image:
 categories:
--
+- substack
 tags:
 -
 ---

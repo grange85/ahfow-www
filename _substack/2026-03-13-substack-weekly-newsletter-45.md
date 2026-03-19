@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Substack: weekly newsletter #45'
-series-title:
+title: 'A Head Full of Wishes newsletter #45'
+series-title: Substack
 catno:
 author:
   display_name: Andy
@@ -10,7 +10,7 @@ author:
   url: https://www.grange85.co.uk
 image:
 categories:
--
+- substack
 tags:
 -
 date: 2026-03-13 23:03 +0000

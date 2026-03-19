@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2026-01-27: Substack - Luna''s sleeve art (LP edition, part 1)'
+title: The Luna record sleeve art gallery (part one)
 date: 2026-01-27 00:00 +0000
 series-title: Substack
 author:
@@ -10,7 +10,7 @@ author:
   url: https://www.grange85.co.uk
 image:
 categories:
--
+- substack
 tags:
 -
 ---

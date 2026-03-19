@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2025-12-30: Substack - review of the year'
+title: 'The ''A Head Full of Wishes'' review of the year'
 date: 2025-12-30 00:00 +0000
 series-title: Substack
 author:
@@ -10,7 +10,7 @@ author:
   url: https://www.grange85.co.uk
 image:
 categories:
--
+- substack
 tags:
 -
 ---

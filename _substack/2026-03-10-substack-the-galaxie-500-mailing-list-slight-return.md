@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Substack: The Galaxie 500 mailing list (slight return)'
-series-title:
+title: 'The Galaxie 500 mailing list (slight return)'
+series-title: Substack
 catno:
 author:
   display_name: Andy
@@ -10,7 +10,7 @@ author:
   url: https://www.grange85.co.uk
 image:
 categories:
--
+- substack
 tags:
 -
 date: 2026-03-10 00:01 +0000
