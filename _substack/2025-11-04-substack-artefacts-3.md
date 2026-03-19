@@ -10,7 +10,8 @@ author:
   url: https://www.grange85.co.uk
 image:
 categories:
--
+- substack
+- artefacts
 tags:
 -
 ---

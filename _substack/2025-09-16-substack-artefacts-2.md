@@ -11,6 +11,7 @@ author:
 image:
 categories:
 - substack
+- artefacts
 tags:
 ---
 This is the second post where I revisit some of the memorabilia I've accumulated over the 35 years of fandom.
