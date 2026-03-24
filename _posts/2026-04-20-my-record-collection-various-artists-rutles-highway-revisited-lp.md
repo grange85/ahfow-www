@@ -42,8 +42,6 @@ OK, maybe that's not conventionally _sweet_ but it's effing Shonen Knife so... i
 
 {% ahfowvideo "ocUJHKM0ycY" "Shonen Knife - Goose Step Mama + Burning Farm (Live @ Dingwalls, London, 29/09/13)" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/shonen-knife-live-2013-cap.jpg" %}
 
----
-
 I bought the LP in 2018 as a collection filler having had the CD since release.
 
  - *Catalogue Number:* AHFOW 12/080

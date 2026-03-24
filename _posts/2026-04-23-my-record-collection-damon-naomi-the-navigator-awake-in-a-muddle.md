@@ -17,7 +17,7 @@ tags:
 - earworm
 - ghost
 ---
-This is a lovely seven inch single released by Earworm Records in April 1997 and contains two Damon & Naomi tracks that would later appear on [Playback Singers](), there own {% ahfowtrack "The Navigator" %} and their cover of Ghost's {% ahfowtrack "Awake in a Muddle" %}.
+This is a lovely seven inch single released by Earworm Records in April 1997 and contains two Damon & Naomi tracks that would later appear on [Playback Singers](), their own {% ahfowtrack "The Navigator" %} and their cover of Ghost's {% ahfowtrack "Awake in a Muddle" %}.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-and-naomi-the-navigator-earworm-3.jpg" "Damon & Naomi - The Navigator (Earworm, 1997)" %}
 
