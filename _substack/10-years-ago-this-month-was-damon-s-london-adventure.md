@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 10 years ago this month was Damon's London 'adventure'
-date: 2026-04-14 00:00 +0000
+date: 2026-04-21 00:00 +0000
 series-title: Substack
 author:
   display_name: Andy
