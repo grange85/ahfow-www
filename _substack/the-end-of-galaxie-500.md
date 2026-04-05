@@ -15,6 +15,14 @@ categories:
 tags:
 -
 ---
+### Antescript
+
+As well as the writings of Damon, Naomi, and Dean one of the primary source (actually the _most_ primary of sources) for this piece was the reminiscences of Dan Pearson who booked Galaxie 500 to play their final show at Bowdoin College. In late 2003 Dan wrote to me a lovely long letter containing his memories of the show and the pictures of the show included in this post, as well as the poster/flyer (plus a stack of photocopies of other Galaxie 500 press). I last had contact with Dan when I was compiling the 30th anniversary fanzine mentioned and linked below.
+
+I learned this week that Dan sadly died earlier this year after a prolonged illness, and far too young. This post is dedicated to him without whom it would have been so much less.
+
+---
+
 {% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-split-melody-maker-headline.jpg" "News item on Galaxie 500's end" %}
 
 <blockquote>
@@ -27,12 +35,10 @@ tags:
 </p>
 
 <p>
-    Drummer Damon Krukowski told the Maker, “One day we were planning for a tour of Japan, and the next day he just quit. twas a big surprise for me and Naomi”. Galaxie 500 Split - Melody Maker (4th May 1991)
+    Drummer Damon Krukowski told the Maker, “One day we were planning for a tour of Japan, and the next day he just quit. It was a big surprise for me and Naomi”. Galaxie 500 Split - Melody Maker (4th May 1991)
 </p>
 </blockquote>
 <p class="caption">Galaxie 500 Split - Melody Maker (4th May 1991)</p>
-
-
 
 Thirty five years ago this week Galaxie 500 played their last show, three days later the band was no more. 
 
@@ -172,4 +178,6 @@ Five years ago, for the 30th aniversary I published the second [Everything's Swi
 
 You can download the whole of [Everything's Swirling #2](https://www.fullofwishes.co.uk/2021/03/30/fanzine-everythings-swirling-2-the-end-of-galaxie-500/?utm_source=substack&utm_medium=social&utm_campaign=newsletter+2026-04-07) as a PDF.
 
+You can see the earlier versions of this post from [2016](https://www.fullofwishes.co.uk/2016/04/05/25-years-ago-the-end-of-galaxie-500/) and [2021](https://www.fullofwishes.co.uk/2021/04/05/the-end-of-galaxie-500-30-years-on/) which may be slightly different!
 
+Back in 2014 John from the Bowdoin Orient got in touch with me about the last show and I pointed him towards Dan, and out of that came [this article](https://bowdoinorient.com/bonus/article/9447/) that includes some of the memories that Dan included in his letter to me.
