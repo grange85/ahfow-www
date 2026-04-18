@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Damon & Naomi - Song to the Siren (CD/DVD)'
+title: '[350] Damon & Naomi - Song to the Siren (CD/DVD)'
 date: 2026-05-07 00:00 +0000
 series-title: My record collection 
 catno: 10/028
@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://media.fullofwishes.co.uk/00-misc/substack/substack-damon-naomi-song-to-the-siren-tv.jpg
 categories:
 - damon & naomi
 - my record collection
@@ -18,7 +18,7 @@ tags:
 ---
 This is the first release of Damon & Naomi's fraudulent live album and I think I have moaned about that enough over the last few months so it's time to talk some more about the other disc in this double disc set.
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/substack-damon-naomi-song-to-the-siren-tv.jpg" "Damon & Naomi - Song of the Siren (DVD)" %}
 
 I must admit that when I talked about [1001 Nights](/2026/02/12/my-record-collection-damon-naomi-1001-nights/) back in February while I dipped into the videos included I never sat through them all... I had other things on my mind.
 
@@ -37,8 +37,24 @@ A few random notes based on this viewing:
 
 Here's Carsten being interviewed and Damon & Naomi playing Song to the Siren:
 
-{% ahfowvideo "youtubeid" "caption" "thumbnail" %}
+{% ahfowvideo "yjDivKAIQBE" "Damon & Naomi - Song to the Siren" %}
 
 The camera had been handed to photographer Stefan Claudius, whose gorgeous photos taken in Utrecht were used in the CD/DVD packaging and had also been sent to me to post on AHFoW by Carsten:
 
 {% ahfowimage "https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2001-05-24-d_n_stefan-claudius.jpg" "Damon & Naomi in Utrecht - photos by Stefan Claudius" %}
+
+The tour then reaches spain and the DVD includes a clip from the Spansih TV show that likely caused all the problems that led to the (not-) live album. Damon & Naomi with Kurihara play four songs and the presenter's intro is hilariously sweet. You can see the whole show on YouTube:
+
+{% ahfowvideo "GrZgW3dKdqc" "DAMON & NAOMI feat. MICHIO KURIHARA - Live Radio3" "https://media.fullofwishes.co.uk/00-misc/substack/substack-damon-naomi-radio3-tve.jpg" %}
+
+The film ends in Barcelona with frolicking on the beach and sunset in Parc Guell.
+
+There's no footage from the show in San Sebastian!
+
+ - *Catalogue Number:* 10/028
+ - *Artist:* Damon & Naomi
+ - *Title:* Song to the Siren
+ - *Notes:* Contains a CD and a DVD of tour diary.
+ - *Format:* 1xCD / 1xDVD
+ - Bought from wherever I bought records when it was released.
+ - [Buy 'Song to the Siren' on Bandcamp](https://damonandnaomi.bandcamp.com/album/song-to-the-siren-live-in-san-sebastian)
