@@ -69,6 +69,7 @@ jobs:
         python3 scripts/merge-search-indices.py ${{ vars.S3_BUCKET }}
 
     - name: Invalidate Cloudfront
+      continue-on-error: true
       run: |
         aws cloudfront create-invalidation --no-cli-pager --distribution-id ${{ secrets.FULLOFWISHES_WWW_DISTRIBUTION_ID }} --paths "/*"
         aws cloudfront create-invalidation --no-cli-pager --distribution-id ${{ secrets.FULLOFWISHES_CDN_DISTRIBUTION_ID }} --paths "/*"
