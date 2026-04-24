@@ -4,5 +4,5 @@ permalink: word-count.csv
 ---
 "date","series-title","title","url","author","word-count"
 {% for post in site.posts -%}
-{{post.date | slice: 0,10}},"{%- if post.series-title -%}{{post.series-title}}{%-endif-%}","{{ post.title | replace: '"','""'}}","https://www.fullofwishes.co.uk{{site.baseurl}}{{post.url}}","{{post.author.display_name}}",{{post.content|number_of_words}}
+{{post.date | slice: 0,10}},"{%- if post.series-title -%}{{post.series-title}}{%-endif-%}","{{ post.title | replace: '"','""'}}","https://www.fullofwishes.co.uk{{site.baseurl}}{{post.url}}","{{post.author.display_name}}",{{post.content|strip_html|number_of_words}}
 {% endfor %}
