@@ -18,7 +18,7 @@ Now, I have been known to [travel to see the bands I love]() but must admit that
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/substack-luna-press-conference-brazil.jpg" "Luna at a press conference in Brazil, 2001" %}
 
-In August 2001 Luna announced that they had planned a tour of South America starting with a date in São Paolo on the 18th September. A week before that first show the world changed (see [20 years ago in New York City](https://www.fullofwishes.co.uk/2021/09/11/20-years-ago-in-new-york-city/) for a round-up of how the events of 11th September 2001 played out on the Galaxie 500 Mailing List). This seemed for a while as if it might have an impact on Luna's travel plans but the day before that first show...
+In August 2001 Luna announced that they had planned a tour of South America starting with a date in São Paulo on the 18th September. A week before that first show the world changed (see [20 years ago in New York City](https://www.fullofwishes.co.uk/2021/09/11/20-years-ago-in-new-york-city/) for a round-up of how the events of 11th September 2001 played out on the Galaxie 500 Mailing List). This seemed for a while as if it might have an impact on Luna's travel plans but the day before that first show...
 
 <blockquote>
 The Brazilian Consulate in New York, closed since September 11, had finally opened for business, and Lee picked up the work visas for our South American tour. Expecting long lines and extratight security, the four of us headed out to JFK a good four hours before departure time, but check-in took a mere ten minutes.
@@ -33,10 +33,10 @@ As 2001 was before YouTube and social media the mailing list, and Luna and Britt
 
 Dean wrote in quite a bit of detail about the tour in Black Postcards... I'll try not to raid that too heavily but as it's pretty much my only primary source...
 
-The first two shows of the tour were in São Paolo:
+The first two shows of the tour were in São Paulo:
 
 <blockquote>
-<p>Five hundred people came to see our first show in São Paolo, which was a nice surprise.</p>
+<p>Five hundred people came to see our first show in São Paulo, which was a nice surprise.</p>
 <p>[...]</p>
 <p>Eight hundred beautifuk people came to the second show. We were stunned. I was also stunned by the small jolts of electricity from the microphone. They didn't seem to have the grounded three-prong plug there in Brazil, just the two prongs.</p>
 </blockquote>
@@ -44,7 +44,7 @@ The first two shows of the tour were in São Paolo:
 
 One of the "beautiful people" at that second show  was Carla who sent me these photos... remember this is 2001 when our tiny screens and dial-up internet meant that 400 x 262 was an acceptable size for photos on a website!
 
-{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/substack-luna-sao-paolo-2001-09-19.jpg" "Luna in São Paolo (photos: Carla)" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/substack-luna-sao-paolo-2001-09-19.jpg" "Luna in São Paulo (photos: Carla)" %}
 
 Next on to Belo Horizonte, these pictures were sent to me by Pedro:
 
