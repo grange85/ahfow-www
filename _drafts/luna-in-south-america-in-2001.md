@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Luna in South America in 2001
-date: 2026-04-28 00:00 +0000
 series-title: Substack
 author:
   display_name: Andy
