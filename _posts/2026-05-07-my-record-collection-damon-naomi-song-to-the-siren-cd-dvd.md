@@ -18,7 +18,7 @@ tags:
 ---
 This is the first release of Damon & Naomi's fraudulent live album and I think I have moaned about that enough over the last few months so it's time to talk some more about the other disc in this double disc set.
 
-{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/substack-damon-naomi-song-to-the-siren-tv.jpg" "Damon & Naomi - Song of the Siren (DVD)" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-naomi-song-to-the-siren-tv.jpg" "Damon & Naomi - Song of the Siren (DVD)" %}
 
 I must admit that when I talked about [1001 Nights](/2026/02/12/my-record-collection-damon-naomi-1001-nights/) back in February while I dipped into the videos included I never sat through them all... I had other things on my mind.
 
