@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-copenhagen-cd-1.jpg
 categories:
 - galaxie 500
 - my record collection
