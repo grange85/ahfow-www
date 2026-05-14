@@ -35,7 +35,7 @@ The release date is written in (a different coloured) felt tip pen, and below is
 
 I must admit that I haven’t thought about Salad for years but did have their first couple of albums (although I can’t find them) and a few CD singles/EPs (the one of which I can find that I apparently paid 30p for). A surprisingly annoying amount of my records and CDs seemed to go AWOL on our move from London to Whitley Bay… I don’t think it was anything sinister, I suspect some of the wrong boxes went to a charity shop, and I’m still convinced that there must be a box (or more) that my sister stored for us still in a garage somewhere!
 
-Anyway... since most of what I know of this single was [covered when I wrote about my _proper_ copy](/2024/07/18/my-record-collection-154-luna-in-the-flesh/), and what I know of the original in my ['originals' post about In The Flesh](/2013/09/25/originals-in-the-flesh-by-blondie-covered-by-luna/), here's Salad's Motorbike to Heaven:
+Anyway... since most of what I know of this single was [covered when I wrote about my _proper_ copy](https://www.fullofwishes.co.uk/2024/07/18/my-record-collection-154-luna-in-the-flesh/?utm_medium=social&utm_source=substack&utm_campaign=newsletter+20260508), and what I know of the original in my ['originals' post about In The Flesh](https://www.fullofwishes.co.uk/2013/09/25/originals-in-the-flesh-by-blondie-covered-by-luna/?utm_medium=social&utm_source=substack&utm_campaign=newsletter+20260508), here's Salad's Motorbike to Heaven:
 
 {% ahfowvideo "gXq8xxn8n_0" "Salad - Motorbike to Heaven" %}
 
@@ -46,8 +46,8 @@ Anyway... since most of what I know of this single was [covered when I wrote abo
  - *Packaging:* Card sleeve
  - *Format:* 7"
 
-Previously in [my record collection](/category/my-record-collection):
- - [[161] Luna - In The Flesh](https://www.fullofwishes.co.uk/2024/07/18/my-record-collection-154-luna-in-the-flesh/)
+Previously in [my record collection](https://www.fullofwishes.co.uk/category/my-record-collection?utm_medium=social&utm_source=substack&utm_campaign=newsletter+20260508):
+ - [[161] Luna - In The Flesh](https://www.fullofwishes.co.uk/2024/07/18/my-record-collection-154-luna-in-the-flesh/?utm_medium=social&utm_source=substack&utm_campaign=newsletter+20260508)
  
 ---
 
@@ -57,7 +57,7 @@ This is the first release of Damon & Naomi's fraudulent live album and I think I
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/damon-naomi-song-to-the-siren-tv.jpg" "Damon & Naomi - Song of the Siren (DVD)" %}
 
-I must admit that when I talked about [1001 Nights](/2026/02/12/my-record-collection-damon-naomi-1001-nights/) back in February while I dipped into the videos included I never sat through them all... I had other things on my mind.
+I must admit that when I talked about [1001 Nights](https://www.fullofwishes.co.uk/2026/02/12/my-record-collection-damon-naomi-1001-nights/?utm_medium=social&utm_source=substack&utm_campaign=newsletter+20260508) back in February while I dipped into the videos included I never sat through them all... I had other things on my mind.
 
 To be honest I'm not sure when the last time I sat down and watched Song to the Siren all the way through and I decided to do it this time with Damon & Naomi's commentary which I guess I probably did when the release first arrived in 2002 but certainly haven't done since.
 
@@ -95,5 +95,97 @@ There's no footage from the show in San Sebastian!
  - *Format:* 1xCD / 1xDVD
  - Bought from wherever I bought records when it was released.
  - [Buy 'Song to the Siren' on Bandcamp](https://damonandnaomi.bandcamp.com/album/song-to-the-siren-live-in-san-sebastian)
+
+---
+
+### Progress report #7 (301 - 350)
+
+This will most likely be the last _progress report_ since the current estimates for the series are:
+ - Total posts: 387
+ - Current predicted end date: 14th September 2026
+
+... although I still expect that to change!
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/progress-report-7.jpg" "Entries 301 to 350" %}
+
+- Total number of posts: 330
+- Total word count: 134,515 this is up 21,467 since post 300 - I have changed the way I count words so this is more accurate which is why it's only 11,857 higher than the count in [progress report #6](https://www.fullofwishes.co.uk/2025/11/07/my-record-collection-progress-report-6-251-300/?utm_medium=social&utm_source=substack&utm_campaign=newsletter+20260508). This does however mean that it's overtaken
+    - Tales from Earthsea - Ursula K. Le Guin
+    - Atonement - Ian McEwan
+    - The Silmarillion - J. R. R. Tolkien
+
+- … and is *still* heading for
+    - The Return of the King - J. R. R. Tolkien
+    - A Tale of Two Cities - Charles Dickens
+    - 20,000 Leagues Under The Sea - Jules Verne
+
+It seems that Damon & Naomi have been punching above their weight during the last 50 posts, being the primary artist in 15 of them - so 30% of the posts, whereas over the whole 350 they are closer to 17% of total posts.
+
+|Primary act|% of 301 to 350|% of 1 to 350|
+|-----------|---------------|-------------|
+|Damon & Naomi| 30|17.7|
+|Dean & Britta| 10|12.6|
+|Dean Wareham| 20|23.1|
+|Galaxie 500| 14|18.6|
+|Luna| 24|26.6|
+|n/a| 2|1.4|
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/my-record-collection-primary-artits-301-350.jpg" "Primary artists 301 to 350" %}
+
+The "n/a" are the posts that _technically_ shouldn't be in the series if I followed my rules. But... **my** rules!
+
+Those five are:
+
+ - [Angel Corpus Christi - Bewitched: A Tribute to Luna](https://www.fullofwishes.co.uk/2023/06/12/my-record-collection-042-angel-corpus-christi-bewitched-a-tribute-to-luna/?utm_medium=social&utm_source=substack&utm_campaign=newsletter+20260508)
+ - [Britta Phillips & Kramer - Nocturnes](https://www.fullofwishes.co.uk/2023/08/15/my-record-collection-recent-acquisition-2-britta-phillips-kramer-nocturnes/?utm_medium=social&utm_source=substack&utm_campaign=newsletter+20260508)
+ - [Various - On Fire 30](https://www.fullofwishes.co.uk/2024/07/22/my-record-collection-155-on-fire-30/?utm_medium=social&utm_source=substack&utm_campaign=newsletter+20260508)
+ - [Various - This Music Is Ours](https://www.fullofwishes.co.uk/2025/08/21/my-record-collection-this-music-is-ours-cdr-booklet/?utm_medium=social&utm_source=substack&utm_campaign=newsletter+20260508)
+ - [Various - Decomposing: The Songs of Galaxie 500 and Luna](https://www.fullofwishes.co.uk/2026/04/16/my-record-collection-decomposing-the-songs-of-galaxie-500-and-luna/?utm_medium=social&utm_source=substack&utm_campaign=newsletter+20260508)
+
+Since I started the series there at the beginning of 2023 there have been 543 posts to AHFoW. 360 have been related to the [My record collection](https://www.fullofwishes.co.uk/category/my-record-collection?utm_medium=social&utm_source=substack&utm_campaign=newsletter+20260508) series which means there have only been 183 _regular_ posts which I guess brings up the question... what will I do with all the time I have after September!?
+
+---
+
+### Luna in South America in 2001
+
+Earlier in the week I posted an article about Luna's trip to South America in September 2011.
+
+https://aheadfullofwishes.substack.com/p/luna-in-south-america-in-2001
+
+Shortly afterwards Rony shared [a recording of the band's show in Montevideo](https://afueradeldial.wordpress.com/2021/09/29/luna-teatro-del-circulo-montevideo-uy-2001-09-29/) in audio and video form:
+
+https://www.youtube.com/watch?v=zYaTatZ41SE
+
+---
+
+### This week in history
+
+#### 10th May 1995 - Luna at The Borderline, London
+
+Thirty one years ago tonight Luna headlined a show at The Borderline in London. My memories of the show are hazy - 26 years is a long time - I was at the show with my pals Jackie and Stuart (and maybe Ken?). The thing that stuck in my head was that this was the show that Laetitia Sadier of Stereolab joined the band to perform their cover of Bonnie and Clyde - I’m not sure but this might have been the only time this was performed live with Laetitia (feel free to correct me if I’m wrong).
+
+ - [Audio: Full show - Luna at The Borderline in London 1995](https://www.fullofwishes.co.uk/2021/05/10/audio-full-show-luna-borderline/?utm_medium=social&utm_source=substack&utm_campaign=newsletter+20260508)   
+
+I wrote about this show, and the AHFoW connection with Stereolab in a recent Substack post
+
+https://aheadfullofwishes.substack.com/p/ahfow-connections-1-stereolab-laetitia
+
+#### 11th May 2011 - Damon & Naomi at Cafe Oto, London
+
+Damon & Naomi played a fan show at Cafe Oto. Damon drummed for support act Richard Youngs, and Michio Kurihara played with Damon & Naomi
+
+{% ahfowimage "https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2011-05-11/damon-and-naomi-cafe-oto-2011-05-11.jpg" "Damon & Naomi, London 2011" %}
+
+Damon & Naomi seem to visit London quite often during May (although sadly not during _this_ May) - I wrote about some of their other visits last year
+
+https://aheadfullofwishes.substack.com/p/damon-and-naomi-in-london-in-mays?utm_source=publication-search
+
+#### 14th May 2020 - Dean & Britta's first full COVID live-stream
+
+https://www.youtube.com/watch?v=iu6Z-qpQ9OY
+
+https://aheadfullofwishes.substack.com/p/from-the-archive-dean-and-brittas
+
+https://aheadfullofwishes.substack.com/p/dean-and-brittas-covid-shows-part
 
 
