@@ -27,7 +27,7 @@ Most are OK, some are just annoying and there are some gems in there but I'd hav
 
 The Stereolab remix of One Wild Moment however is so gloriously _Stereolab_ that makes it probably my favourite track on the album:
 
-{% ahfowimage "izbmHe60lEg" "The Pastels - One Wild Moment (Stereolab remix)" %}
+{% ahfowvideo "izbmHe60lEg" "The Pastels - One Wild Moment (Stereolab remix)" %}
 
 The Future Pilot AKA remix of Rough Riders is another favourite (but maybe because it's one of my fave tracks on Illumination).
 
