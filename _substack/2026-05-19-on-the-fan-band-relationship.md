@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2030-01-01: On the fan/band relationship'
+title: On the fan/band relationship
 series-title: Substack
 author:
   display_name: Andy
@@ -9,13 +9,16 @@ author:
   url: https://www.grange85.co.uk
 image:
 categories:
--
+- substack
 tags:
 -
+date: 2026-05-19 15:58 +0100
 ---
-I just found this half written article from July 2016, I think it may have been intended to be the third "podcast" but I decided after the second one that nobody really wanted to hear my idle ramblings so it got ditched half-finished.
+I just found this half written article from July 2016, I think it may have been intended to be the third "podcast" but I decided after the second one that nobody really wanted to hear my idle ramblings so it got ditched half-finished. mostly I think because it lost focus, was it really about the fan/band relationship or about fandom more broadly?
 
-Today... it seems that you're going to get the chance to at least _read_ my idle ramblings. I've included the text of the earlier podcast (part 1) to so that it all makes a bit more sense.
+Today... it seems that you're going to get the chance to at least _read_ my idle ramblings. I've included the text of the earlier podcast (part 1) to so that it all makes a bit more sense, although it is still a disjointed mess where I shoot off at barely related tangents.
+
+
 
 ---
 
@@ -115,11 +118,56 @@ So what I was doing was on the band’s radar - but what I was doing was never *
 
 I think in both cases it would be hard not to think that there wasn't an impact. Obviously the web site was rarely very critical but I don't doubt that once I knew that the band members were aware of it I was more considered in my language and my content, although subconsciously. However, on the mailing list I suspect it was more noticeable.
 
-Shortly after joining the band in 2000 Britta signed up to the mailing list and became a moderately active member of the list - giving us insights and insider knowledge. She often also felt a bit like a fan - she was sort of one of us. But as a member of one of the bands we discussed did that change the dynamic? Did we tone down for fear of offence? Did we hold back?
-
 When Lee joined the band in 1997 there was a bit of negativity - based, in retrospect, not because of any deficiency on Lee’s part, but purely because he wasn’t Stan. But some fans vented. But as fans, that’s what the community was for - would it have happened if a band member had been on the list (or I guess rather, if we KNEW that a band member was on the list?)
 
 I remember - and am slightly embarrassed at this - taking a particularly hard-line in a discussion not because I believed what I was saying but because I didn’t like the idea that these things shouldn’t be said for fear of offending the band. In my head I offended the band - in reality I imagine no one noticed. I still wince at the thought.
 
+Shortly after joining the band in 2000 Britta signed up to the mailing list and became a moderately active member of the list - giving us insights and insider knowledge. She often also felt a bit like a fan - she was sort of one of us. But as a member of one of the bands we discussed did that change the dynamic? Did we tone down for fear of offence? Did we hold back?
+
 By the time Luna split in 2005, Britta’s place on the mailing list was accepted - the list dynamic may have changed, but it had settled into what it was - it had become a prototype of fan-artist relationship in the age of social media, but that is a whole can of worms I don't think I'm knowledgeable, or articulate enough to open - luckily it has been well analysed, albeit mostly from an artists perspective, in Nancy Baym's [Playing to The Crowd](https://nyupress.org/9781479821587/playing-to-the-crowd/).
 
+Obviously any relationship is two-way and the fan now can't avoid being a more significant part of a band's existence - what was "word of mouth" in the olden days has inevtably become a more important part of promotion now that the "mouth" reaches further than a few folk around a pub table.
+
+---
+
+## Part 3 - breaking down barriers
+
+By 2006 MySpace had become more than a social network, but an integral part of an artist's promotional merry-go-round - it was hard to ignore when the likes of Lily Allen and The Arctic Monkeys had found the value of connecting more directly with the fans. In early 2006 Naomi set up a MySpace page for Damon & Naomi which inspired me to write a blog post:
+
+<blockquote>
+<p>
+    So Damon & Naomi have signed up with MySpace - it seems an intevitability of modern music that any (indie) band worth their salt (and a billion others not worth the time of day) have to have a page on the social networking nightmare. The site is built on false and forced friendships that would be better established in more apprpriate fora. Sign up and wait for the "girls" to invite you to look at their webcams. Enjoy the poorly laid out and ugly pages. Keep having complete strangers ask to be your "friend" without any introduction or relationship build-up.
+</p>
+
+<p>
+    Maybe it is a valuable tool for the struggling indie or a way to communicate with the fans for those feeling out-of-touch but I can't help feeling that this sort of fake social community built on imaginary relationships is a sad way for the Internet to be going.
+</p>
+</blockquote>
+<p class="caption"><a href="https://www.grange85.co.uk/swirling/2006/02/06/i-despise-myspace/">I despise MySpace - Everything's Swirling, 6th February 2006</a></p>
+
+It was then decided that it would make sense to have an _official_ Galaxie 500 one presence, since there were already a number of fake/unofficial ones. 
+
+Damon however had clearly not seen the rant when he emailed me "do you want to run an official [MySpace page]? Basically, we feel you have a 'right of first refusal,' as #1 fan!" (Hazel found the #1 fan comment hilarious, making references to [The King of Comedy](https://en.wikipedia.org/wiki/The_King_of_Comedy_(film)).
+
+
+Since I had the "right of first refusal" I, sort of refused, linking to the above blog post and suggesting that I was maybe not best suited to the job.
+
+<blockquote>
+I think if you don't have any problems with the current unofficial page
+(which I haven't managed to track down as yet) then maybe they'd do a
+better job of running it anyway as they have probably embraced the
+whole MySpace thing.
+</blockquote>
+<p class="caption">Email to Damon - 7th February 2006</p>
+
+Although it wasn't just not liking MySpace there was also the crossover from being a _fan_ which I was good at, to being an _official representative of the band_ which was something I had no idea about.
+
+But Damon persisted "That blog entry about MySpace is funny and not inaccurate -- at the same time, it *does* mention that you are already a member... Sure you don't want to take us up on the offer?"
+
+And eventually I conceded and for a while I was Galaxie 500 on MySpace. It was a strange and mostly thankless task - there was no community, mostly users promoting themselves and rarely had any connection or knowledge of the band... but I accepted every friend request because... who was I to decide who was genuine and who wasn't - and did I have the time (or inclination) to investigate. I was also completely reactive - there was no sign of me going out there and _selling_ Galaxie 500. I'd reply when I could, pass on or ignore when I couldn't.
+
+To be honest the home page became just another outlet for A Head Full of Wishes. I'm not entirely sure what happened next - after a few years I think a MySpace redesign made it harder, and easier not to care about. Maybe I'm still officially Galaxie 500 on MySpace... but who cares about MySpace any more.
+
+---
+
+Since this is already far too long, and is rather chaotic I'd best leave it there for now. This isn't really ready but I@m going to post it anyway.
