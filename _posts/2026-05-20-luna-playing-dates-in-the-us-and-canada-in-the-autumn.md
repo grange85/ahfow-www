@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image: https://media.fullofwishes.co.uk/02-luna/pictures/luna-promo-2026.jpg
+image: https://media.fullofwishes.co.uk/02-luna/pictures/luna-promo-2026-b.jpg
 categories:
 - luna
 - news
@@ -18,7 +18,7 @@ tags:
 ---
 Luna have announced a tour of "Select towns in the Midwest, Canada, East Coast and Southeast" in September and October - tickets go on sale this week and some have pre-sale codes. Ticket links and codes, if there are any, can be found if you follow the links below.
 
-{% ahfowimage "https://media.fullofwishes.co.uk/02-luna/pictures/luna-promo-2026.jpg" "Luna" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/02-luna/pictures/luna-promo-2026-b.jpg" "Luna" %}
 
 <table>
       <tbody><tr>
