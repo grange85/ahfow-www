@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-rendezvous-signed-pledge-lp.jpg
 categories:
 - luna
 - rendezvous
@@ -18,7 +18,7 @@ tags:
 ---
 Luna's final album Rendezvous had originally only been released on CD, it got a RSD release in 2012, and then was reissued as part of a Pledgemusic deal along with Romantica in 2016. This is my Pledgemusic copy and has been signed by the band.
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-rendezvous-signed-pledge-lp.jpg" "Luna - Rendezvous (LP)" %}
 
 The first announcement about the release of Luna's final album was in January 2004 when Luna's emailing list kicked briefly into life:
 
