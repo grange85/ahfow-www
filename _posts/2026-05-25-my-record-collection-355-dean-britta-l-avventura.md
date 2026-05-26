@@ -42,7 +42,7 @@ Anyway... still a lovely video!
 
 {% ahfowvideo "KmbFrJ8Ra8M" "Dean & Britta - Knives from Bavaria (La blogotheque)" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-and-britta-knives-from-bavaria-blogotheque.jpg" %}
 
-One other thing about L'avventura - as someone trying to maintain a database of recordings and performances the decision to record a somg called Indian Summer that wasn't _that_ Indian Summer was a headache I could have done without :)
+One other thing about L'avventura - as someone trying to maintain a database of recordings and performances the decision to record a song called Indian Summer that wasn't _that_ Indian Summer was a headache I could have done without.
 
  - *Catalogue Number:* AHFO 10/068
  - *Artist:* Dean & Britta
