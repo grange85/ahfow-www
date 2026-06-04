@@ -47,7 +47,7 @@ photos:
         {
         thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-frank-006.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/2016-10-01-rough-trade-ny-frank-006.jpg',
-        title: 'Setlist (Photo: Frank Silvestry)'
+        title: 'Set-list (Photo: Frank Silvestry)'
         },
         {
         thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-01/thumbs/2016-10-01-rough-trade-ny-frank-007.jpg',

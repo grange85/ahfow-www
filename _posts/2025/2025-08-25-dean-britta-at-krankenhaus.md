@@ -64,7 +64,7 @@ Back to the festival for food and to catch a bit of Kathryn Joseph, all of La SÃ
 
 {% ahfowimage "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/august-2025/dean-and-britta-krankenhaus-05.jpg" "Dean & Britta at Krankenhaus" %}
 
-Sunday's set saw Dean & Britta performing once again as a duo, the setlist was different from the one they had [played in Hebden on Thursday](https://www.fullofwishes.co.uk/2025/08/22/dean-britta-in-hebden-bridge/)... I didn't make notes so this is from memory, so may not be in the right order and may have ommisions:
+Sunday's set saw Dean & Britta performing once again as a duo, the set-list was different from the one they had [played in Hebden on Thursday](https://www.fullofwishes.co.uk/2025/08/22/dean-britta-in-hebden-bridge/)... I didn't make notes so this is from memory, so may not be in the right order and may have ommisions:
 
  - I'm So Bored With The USA
  - The Cloud Is Coming

@@ -28,7 +28,7 @@ _[David Rose's Gig Diaries](https://gigbook.blogspot.com/2010/11/294-luna-pram-l
 
 <!--more-->
 
-David also has a pic and the setlist scan which I've nabbed for this post.
+David also has a pic and the set-list scan which I've nabbed for this post.
 
 I was then discussing the show with Joe a couple of years back and he mentioned that he had recorded the show so, for your delectation here's the full show:
 
@@ -36,4 +36,4 @@ I was then discussing the show with Joe a couple of years back and he mentioned 
 
 Thanks David for the pics and Joe for the recording - and for confirming that it wasn't a dream.
 
-{% ahfowimage "https://media.fullofwishes.co.uk/02-luna/show_assets/1995-05-10/1995-05-10-luna-borderline-david-rose-gig-diaries-setlist.jpg" "Luna at The Bordeline setlist (c) David Rose" "https://gigbook.blogspot.com/2010/11/294-luna-pram-london-wc2-borderline.html" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/02-luna/show_assets/1995-05-10/1995-05-10-luna-borderline-david-rose-gig-diaries-set-list.jpg" "Luna at The Bordeline set-list (c) David Rose" "https://gigbook.blogspot.com/2010/11/294-luna-pram-london-wc2-borderline.html" %}

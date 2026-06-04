@@ -16,7 +16,7 @@ image: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-08/2015-10-0
 
 <p>Opener Diane Coffee took to the stage around 9 with their infectious and original mash up of psychedelic glam rock and grooving Motown soul revue. Shades of T-Rex, NY Dolls, Bowie, Meatloaf, and even Queen were evidence as Shaun and his band made even more new fans, perhaps in spite of the obvious differences between the drama of their music and that of Luna.</p>
 
-<p>Luna took the stage around 10pm seeming to be the band that time forgot. Looking (and performing) as if they had not aged at all during their 10 year hiatus, they fittingly begun with {% ahfowtrack "Slide" %} to the cheers of the savvy and appreciative NYC crowd. The took us through beloved tour staples of most of their catalogue such as {% ahfowtrack "Chinatown" %}, {% ahfowtrack "Tracy I Love You" %}, {% ahfowtrack "Speedbumps" %} and {% ahfowtrack "Bewitched" %}, adding a stunningly gorgeous version of {% ahfowtrack "Kalamazoo" %}.  Only albums "Romantica" and "The Days of Our Nights" were not represented in the setlist.</p>
+<p>Luna took the stage around 10pm seeming to be the band that time forgot. Looking (and performing) as if they had not aged at all during their 10 year hiatus, they fittingly begun with {% ahfowtrack "Slide" %} to the cheers of the savvy and appreciative NYC crowd. The took us through beloved tour staples of most of their catalogue such as {% ahfowtrack "Chinatown" %}, {% ahfowtrack "Tracy I Love You" %}, {% ahfowtrack "Speedbumps" %} and {% ahfowtrack "Bewitched" %}, adding a stunningly gorgeous version of {% ahfowtrack "Kalamazoo" %}.  Only albums "Romantica" and "The Days of Our Nights" were not represented in the set-list.</p>
 
 
 {% ahfowvideo "sAUEnx1dj0k" "" %}

@@ -22,7 +22,7 @@ This video of Damon & Naomi's full set from their show in Barcelona in 2018 has 
 
 They are always a joy to watch.
 
-Setlist:
+Set-list:
 
  - How Do I Say Goodbye
  - Judah and The Maccabees

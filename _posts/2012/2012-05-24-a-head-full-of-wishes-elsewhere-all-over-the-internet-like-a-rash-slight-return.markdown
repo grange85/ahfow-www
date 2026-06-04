@@ -18,7 +18,7 @@ categories:
 <p>There are a few releavant groups on Flickr:<br />
 The main one <a href="http://www.flickr.com/groups/aheadfullofwishes/">called (surprisingly) A Head Full of Wishes</a> has close to 700 pictures in its pool and is growing constantly.<br />
 There's my failed <a href="http://www.flickr.com/groups/1109080@N20/">A Fashion Parade of Wishes</a> - where folk (mostly me) can share pictures of them in their AHFoW related fashion (T-shirts) - just 19 pictures.<br />
-There's also <a href="http://www.flickr.com/groups/677374@N21/">You Turned My Head Around</a> which catches pictures of Britta at a certain moment in a certain song - 38 pictures, but it's been out of the setlist for a while.<br />
+There's also <a href="http://www.flickr.com/groups/677374@N21/">You Turned My Head Around</a> which catches pictures of Britta at a certain moment in a certain song - 38 pictures, but it's been out of the set-list for a while.<br />
 The <a href="http://www.flickr.com/groups/92643213@N00/">Galaxie</a> group - that wasn't set up by me but was set up for "any excuse to name a photo after a Galaxie 500 song, or for that matter Luna and similar/related music" finally succumbed almost entirely to photos of cars... except when I belligerently post a picture!</p>
 <p>I've also set up a <a href="http://pinterest.com/grange85/a-head-full-of-wishes/">Pinterest board</a> to post some of the more quirky (or plain awesome) pictures I find.</p>
 <p>I also run the <a href="http://www.myspace.com/galaxie500official">official Galaxie 500 page on MySpace</a> but have to admit that I mostly don't - but I let myself off because Damon & Naomi asked me to run it but they've not been updating their MySpace page either!</p>

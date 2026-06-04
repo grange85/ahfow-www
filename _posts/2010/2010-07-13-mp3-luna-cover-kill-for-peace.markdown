@@ -21,19 +21,19 @@ I heard today that Tuli Kupferberg of The Fugs died earlier this week. On 20 Mar
   "sourcecap": "21st March 2003 - Luna - Knitting Factory, New York NY, USA"
   } %}
 
-You can hear Tuli doing an <a href="http://www.vietnamsongbook.org/setlist_jp.htm">unaccompanied performance of Kill for Peace at the Vietnam Songbook show earlier that month</a> (also check out <a href="http://www.vietnamsongbook.org/mp3/05%20-%20Dean%20Wareham-%20No%20Train%20To%20Stockholm%20.mp3">Dean Wareham doing No Train to Stockholm</a> while you&#039;re there).
+You can hear Tuli doing an <a href="http://www.vietnamsongbook.org/set-list_jp.htm">unaccompanied performance of Kill for Peace at the Vietnam Songbook show earlier that month</a> (also check out <a href="http://www.vietnamsongbook.org/mp3/05%20-%20Dean%20Wareham-%20No%20Train%20To%20Stockholm%20.mp3">Dean Wareham doing No Train to Stockholm</a> while you&#039;re there).
 
  {% ahfowaudio {
   "audiourl": "http://www.vietnamsongbook.org/mp3/14%20-%20Tuli%20Kupferberg-%20Kill%20For%20Peace.mp3",
   "audiocap": "Tuli Kupferberg - Kill For Peace",
-  "sourceurl": "http://www.vietnamsongbook.org/setlist_jp.htm",
+  "sourceurl": "http://www.vietnamsongbook.org/set-list_jp.htm",
   "sourcecap": "The Vietnam Songbook - Joe's Pub - 1st March 2003"
   } %}
 
  {% ahfowaudio {
   "audiourl": "http://www.vietnamsongbook.org/mp3/05%20-%20Dean%20Wareham-%20No%20Train%20To%20Stockholm%20.mp3",
   "audiocap": "Dean Wareham - Train to Stockholm",
-  "sourceurl": "http://www.vietnamsongbook.org/setlist_jp.htm",
+  "sourceurl": "http://www.vietnamsongbook.org/set-list_jp.htm",
   "sourcecap": "The Vietnam Songbook - Joe's Pub - 1st March 2003"
   } %}
 

@@ -37,7 +37,7 @@ Before their split in 2005 it had become a tradition for Luna to play in NYC (or
 
 ... sometimes two shows a night.
 
-At all of the shows I have a setlist for, they played their cover of George McRae's Rock Your Baby during the night (I don't have setlists for 1996, 1998 or 2003 but have no reason to think they didn't play it at those shows as well). It became such a part of New Year's Eve that in 2005 I felt the need to post a [Roll Your Own Luna new year](/2012/12/31/roll-your-own-luna-new-year-2013-version/) _(this is a repost from 2013)_ collecting together as many recordings of _Rock Your Baby_ as I could find
+At all of the shows I have a set-list for, they played their cover of George McRae's Rock Your Baby during the night (I don't have set-lists for 1996, 1998 or 2003 but have no reason to think they didn't play it at those shows as well). It became such a part of New Year's Eve that in 2005 I felt the need to post a [Roll Your Own Luna new year](/2012/12/31/roll-your-own-luna-new-year-2013-version/) _(this is a repost from 2013)_ collecting together as many recordings of _Rock Your Baby_ as I could find
 
 Dean & Britta looked like they might carry on the tradition when they played a show (and played Rock Your Baby) in 2007
 
@@ -69,6 +69,6 @@ Here's to 2025 - I hope it's good for you all, and that I get to see some of you
  - *Format:* 7"
  - Bought from Great Pop Supplement for £14&Dagger; for this and the other single released by Feral Child at the same time - The Lonesome Cowboy Bill split with Cheval Sombre.
 
-&dagger; _Not entirely sure why Luna have decided to call the  track Rock **Yr** Baby - apart from legacy setlist laziness that made it onto this release. It got called Rock **Your** Baby on the TMDYMM LP._
+&dagger; _Not entirely sure why Luna have decided to call the  track Rock **Yr** Baby - apart from legacy set-list laziness that made it onto this release. It got called Rock **Your** Baby on the TMDYMM LP._
 
 &Dagger; _I then asked if I could buy a second copy of each - one for show and one for blow - so ... expect this to turn up again... maybe next year! Perhaps I can talk about the A-side then, and most probably the sleeve!_

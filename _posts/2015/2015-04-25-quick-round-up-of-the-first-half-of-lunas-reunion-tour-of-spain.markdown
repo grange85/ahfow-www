@@ -17,21 +17,21 @@ categories:
 <h3>17 April 2015: Luna – Gijon Sound Festival, Gijon</h3>
 
 {% ahfowvideo "x_XK0nyRLr0" "Luna playing Pup Tent" %}
-<p>Setlist</p>
+<p>Set-list</p>
 <h3>18 April 2015: Luna – Escenario Santander, Santander</h3>
 <p><a href="https://www.flickr.com/photos/city_kitty/17167048956" title="Night 2. #lunareunion by city kitty, on Flickr"><img src="https://media.fullofwishes.co.uk/flickr-downloads/17167048956_a5b1304ea6_z.jpg" alt="Night 2. #lunareunion"></a><br />
-Setlist</p>
+Set-list</p>
 <h3>19 April 2015: Luna – Teatre de Lloseta, Lloseta, Mallorca</h3>
 {% ahfowvideo "sxDeNNgSFlE" "" %}
-<p>Setlist</p>
+<p>Set-list</p>
 <h3>20 April 2015: Luna – Teatro Lara, Madrid</h3>
 <p><a href="https://www.flickr.com/photos/-christoph-/16612647523" title="Luna live... by Christoph!, on Flickr"><img src="https://media.fullofwishes.co.uk/flickr-downloads/16612647523_57d1c59ca2_z.jpg" alt="Luna live..."></a><br />
-Setlist</p>
+Set-list</p>
 <h3>21 April 2015: Luna – Teatro Lara, Madrid</h3>
-Setlist</p>
+Set-list</p>
 <h3>22 April 2015: Luna – La Cambra, Valencia</h3>
 {% ahfowvideo "h-Unt4tIsgk" "" %}
-<p>Setlist</p>
+<p>Set-list</p>
 <h3>23 April 2015: Luna – Bikini, Barcelona</h3>
 {% ahfowvideo "8qRVaT4uVCE" "" %}
-<p>Setlist</p>
+<p>Set-list</p>

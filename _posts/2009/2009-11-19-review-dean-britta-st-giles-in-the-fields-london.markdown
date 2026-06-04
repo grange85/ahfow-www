@@ -19,7 +19,7 @@ categories:
 <p><a href="http://www.flickr.com/photos/grange85/4116448672/in/set-72157622708403307/"><img alt="" src="https://farm3.static.flickr.com/2555/4116448672_dd2811469f.jpg" title="Dean smiles" class="aligncenter" /></a>
 <p>For Dean & Britta I decided to stand up against a pillar at the side of the church, this meant I couldn't see Britta at all but at least I could see the rest of the band. They launched straight into Tugboat and proceeded through a nice mix of Galaxie 500, Luna and Dean & Britta songs. Highlights were the Galaxie 500 songs, because, once I accept that Dean & Britta are not Galaxie 500, then Hearing Voices was lovely and even Snowstorm (which was previously on the <a href="http://www.grange85.co.uk/swirling/2009/06/20/dean-britta-cover-snowstorm-a-sacrilegious-opinion/">receiving end of a sacrilegious rant</a>) was beautiful. The keyboards were less intrusive and the drums seemed better suited.</p>
 <p>They encored with Night Nurse and a fantastic Ceremony and it was all done in little over an hour. Two and a half years wait and it all seemed over so quickly. I went and shared an uncomfortable few minutes with Dean & Britta and then spent the journey home thinking of all the clever/insightful/interesting things I could have said. I wish I was better with people... particularly people as nice as Dean & Britta - they deserve better.</p>
-<p>Here's a shot at the setlist - the order is almost certainly not right and there maybe some tracks missing. Please feel free to correct any mistakes/omissions.</p>
+<p>Here's a shot at the set-list - the order is almost certainly not right and there maybe some tracks missing. Please feel free to correct any mistakes/omissions.</p>
 <ul>
 <li>Tugboat</li>
 <li>Singer Sing</li>

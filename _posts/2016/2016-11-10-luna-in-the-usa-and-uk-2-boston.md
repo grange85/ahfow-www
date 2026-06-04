@@ -111,8 +111,8 @@ photos:
         title: 'Dean Wareham (Photo: Joakim)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-boston/thumbs/ulrika-luna-setlist-2016-09-29.jpg',
-        image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-boston/ulrika-luna-setlist-2016-09-29.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-boston/thumbs/ulrika-luna-set-list-2016-09-29.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/photos/joakim-boston/ulrika-luna-set-list-2016-09-29.jpg',
         title: 'Dean Wareham (Photo: Joakim)'
         }
       ]
@@ -165,7 +165,7 @@ longpost: true
 <p>It's a good sounding show. {% ahfowtrack "Sideshow by the Seashore" %} is a place in Coney Island, next to Luna Park. Sideshows are originally a secondary circus attraction, like freak shows, strange objects on display like Bonnie and Clyde's death car. There's hoochie-coochie strip shows and things like that. The place still exists. "The girls are dressed as mermaids." I might go there someday.</p>
 
 <p>There are long pauses between the songs, sometimes it even feels like everything is falling apart. But watching Luna is always amusing, and we are in the front like always.</p>
-<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-boston/ulrika-luna-setlist-2016-09-29.jpg" alt="Setlist (Photo: Ulrika)" /><figcaption class="caption-text">Setlist (Photo: Ulrika)</figcaption></figure>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/photos/joakim-boston/ulrika-luna-set-list-2016-09-29.jpg" alt="Set-list (Photo: Ulrika)" /><figcaption class="caption-text">Set-list (Photo: Ulrika)</figcaption></figure>
 
 <p>They play {% ahfowtrack "Kalamazoo" %}. It's a brilliant song musically. Moody, with layers of sound, great intensity, from slow to fast, that's what they are so good at. Friendly Advice is a pure joy, it's just a big smile, the solos are crazy and wonderful. After the encore break, there's a massive echo and reverb on Dean's voice, on {% ahfowtrack "Anesthesia" %} and {% ahfowtrack "Blue Thunder" %}. It's fitting. It's a diffuse concert, occasionally brilliant. But diffuse, that's how I would describe it. And medium funny, not to forget.</p>
 

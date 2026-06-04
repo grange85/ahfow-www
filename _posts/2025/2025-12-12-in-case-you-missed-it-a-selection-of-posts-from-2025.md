@@ -31,9 +31,9 @@ This was the second time that I saw Luna at The Borderline, a smallish basement 
 ### [Handwritten set-lists](https://aheadfullofwishes.substack.com/p/handwritten-set-lists)  
   _Substack: 21st October 2025_
 
-A collection of snaps and scans of hand-written setlists
+A collection of snaps and scans of hand-written set-lists
 
-{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/galaxie-500-cactus-club-setlist-1990-03-25.jpg" "Galaxie 500 set-list (photo: ibison4 on Flickr)" "https://flic.kr/p/4tkkjc" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/substack/galaxie-500-cactus-club-set-list-1990-03-25.jpg" "Galaxie 500 set-list (photo: ibison4 on Flickr)" "https://flic.kr/p/4tkkjc" %}
 
 <blockquote>
 A band’s handwritten set-lists seem to have become quite the collectors item of late, so much so that Dean reported that at his Bristol show back in April “a couple of fans fought over a paper set-list” … which is a bit sad. I’ve never really been one to jump onto the stage and grab a set-list although I have acquired a few over time...

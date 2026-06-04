@@ -14,7 +14,7 @@ categories:
 <p>Some of you may have noticed that A Head Full of Wishes has had a new coat of paint. It might not be very beautiful, but then I'm not an artist (not for want of trying). </p>
 <p>There are also changes afoot in the backroom as well. For most of the last 15 years of this web site a hand-crafted and lovingly-updated database has tried to keep tracks of the records and shows that Galaxie 500, and all the other acts that they spawned, made and played. But it was all getting a little creaky, and half-finished changes from a few years back were making it tricky to maintain.</p>
 <p>Today I (sort of) completed the first stage of the migration of all that lovely data, slowly integrating it into the rest of the site.</p>
-<p>This includes a record of over 1300 gigs played. Each gig has its own page with the setlist, if I have one, and any other information I have acquired. It also has room for you to leave any comments you may have about the show. Over the next few weeks I'll be adding any photographs and posters I have.</p>
+<p>This includes a record of over 1300 gigs played. Each gig has its own page with the set-list, if I have one, and any other information I have acquired. It also has room for you to leave any comments you may have about the show. Over the next few weeks I'll be adding any photographs and posters I have.</p>
 <p>Here are a few examples but please have a dig around, leave comments and <a href="/about/" title="Contact me">tell me when it's broken</a>!</p>
 <p>29 August 1987 - Galaxie 500 at 248 Front St, New York NY, USA - Galaxie 500's first show</p>
 <p>17 January 2005 - Luna at ULU, London, UK - the last time I saw Luna</p>

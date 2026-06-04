@@ -29,7 +29,7 @@ categories:
 <ul></ins></p>
 <p>And last night at The Ruby Lounge in Manchester:</p>
 <ul>
-<li>Folly of Youth has a <a href="http://follyfollyfolly.blogspot.com/2011/02/dean-wareham-plays-galaxie-500-ruby.html">bittersweet review</a> along with some videos (<a href="http://www.youtube.com/watch?v=tQ1-E6DbTt8&feature=mfu_in_order&list=UL">Strange</a> and <a href="http://www.youtube.com/watch?v=QYmF0y1phDI&feature=player_embedded">Tugboat</a>), pictures and a <a href="http://3.bp.blogspot.com/-eF8eqGDuqsw/TVnDRD-vB5I/AAAAAAAADCA/f4DtDAI1-QI/s1600/Dean%2BWareham%2Bplays%2BGalaxie%2B500%2B039.JPG" class="flower_imagebox">snap of the setlist</a>.</li>
+<li>Folly of Youth has a <a href="http://follyfollyfolly.blogspot.com/2011/02/dean-wareham-plays-galaxie-500-ruby.html">bittersweet review</a> along with some videos (<a href="http://www.youtube.com/watch?v=tQ1-E6DbTt8&feature=mfu_in_order&list=UL">Strange</a> and <a href="http://www.youtube.com/watch?v=QYmF0y1phDI&feature=player_embedded">Tugboat</a>), pictures and a <a href="http://3.bp.blogspot.com/-eF8eqGDuqsw/TVnDRD-vB5I/AAAAAAAADCA/f4DtDAI1-QI/s1600/Dean%2BWareham%2Bplays%2BGalaxie%2B500%2B039.JPG" class="flower_imagebox">snap of the set-list</a>.</li>
 <li>mrjaytaylor tweeted a couple of live audio clips from the venue - <a href="http://audioboo.fm/boos/278176-the-inimitable-dean-wareham-playing-galaxie-500-the-ruby-lounge">Snowstorm</a> and <a href="http://audioboo.fm/boos/278195-more-dean-wareham-playing-galaxie-500-therubylounge">Tugboat</a></li>
 </ul>
 <p>I'm off to Brighton tomorrow so expect more. If anyone has (or comes across) anything to add to this post either leave a comment or <a href="mailto:andy@grange85.co.uk">email me</a>.</p>

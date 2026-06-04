@@ -29,7 +29,7 @@ This was, I hope, going to clear up some confusions and uncertainties caused by 
  - The Subterania show had been shared on YouTube but incorrectly claimed it was from the Camden Falcon in February - this was obviously wrong for three reasons:
    - It contained songs from This Is Our Music that I don't believe were being played by the band as early as February,
    - It was filmed from a balcony which the Falcon (to my memory) didn't have - being a pub back room!
-   - It's virtually, or exactly, the same setlist as the Manchester show from June.
+   - It's virtually, or exactly, the same set-list as the Manchester show from June.
  - This video then went AWOL.
 
 So, with my shiny new Hitachi I started going through the VHSs - I had one that was labelled "Galaxie 500 - Live in London" and I wrote about it in the series [back in September of last year](/2024/09/30/my-record-collection-175-galaxie-500-at-ulu-vhs/) - this was one of the tapes I'd sent to Damon when they were looking for material for the DVD release. It was returned with the words "Same as Rough Trade tape" scrawled on the label. This led me to believe that it was the ULU show that eventually turned up on the DVD. But it wasn't.

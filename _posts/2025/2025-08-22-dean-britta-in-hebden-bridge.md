@@ -36,7 +36,7 @@ I returned to my seat and at precisely 9pm Dean & Britta took up position. The s
 
 They opened with a cover of The Clash's _I'm So Bored With The USA_ and then played through a set pulling from all phases of Dean's career.
 
-Setlist:
+Set-list:
  - I'm So Bored With The USA
  - The Cloud is Coming
  - Night Nurse

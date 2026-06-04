@@ -24,7 +24,7 @@ While tinkering with my web site I came across this video that might have gone A
 
 {% ahfowvideo "M43XpPzcsYs" "Dean Wareham plays Galaxie 500 (France, 2011)" "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/2011-02-18-dw-route-du-rock-video.jpg" %}
 
-Setlist:
+Set-list:
  - Flowers
  - Snowstorm
  - Temperature's Rising

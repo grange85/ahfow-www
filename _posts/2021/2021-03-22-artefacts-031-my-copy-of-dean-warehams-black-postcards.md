@@ -38,9 +38,9 @@ The other important (well important to me) difference between the two editions i
 
 When the paperback was being prepared Dean emailed me...
 
-> was just thinking, before I go ahead and make this change in the book, did you have a recording of the final show that shows it's "23 Minutes" after "Indian Summer"? Or did someone a setlist? I went back to my original diary and I have us playing a 4-song encore with "Indian Summer" at the end, which would have been taken from a computer file on my computer..
+> was just thinking, before I go ahead and make this change in the book, did you have a recording of the final show that shows it's "23 Minutes" after "Indian Summer"? Or did someone a set-list? I went back to my original diary and I have us playing a 4-song encore with "Indian Summer" at the end, which would have been taken from a computer file on my computer..
 
-I did have a scan of a setlist... but [that didn't help](https://media.fullofwishes.co.uk/02-luna/show_assets/2005-02-28/2005-02-28-luna-setlist-sean.jpg). Luckily I also had access to a recording that confirmed that there had been a last minute decision to switch the last two songs.
+I did have a scan of a set-list... but [that didn't help](https://media.fullofwishes.co.uk/02-luna/show_assets/2005-02-28/2005-02-28-luna-set-list-sean.jpg). Luckily I also had access to a recording that confirmed that there had been a last minute decision to switch the last two songs.
 
 So, the paperback edition is correct. I suspect there may be other changes in there but that's the only one I've spotted.
 

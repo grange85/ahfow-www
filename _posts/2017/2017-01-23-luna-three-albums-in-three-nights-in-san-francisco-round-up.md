@@ -32,19 +32,19 @@ longpost: true
 
 <h3>Thursday: Bewitched</h3>
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-19/2017-01-19-chapel-sf-harrison-price-010.jpg" alt="Bewitched (photo: Harrison Price)" /><figcaption class="caption-text">Bewitched (photo: Harrison Price)</figcaption></figure>
-<p><a href="/database/luna/shows/2017/2017-01-19-luna-the-chapel-san-francisco-ca-usa/">Setlist¸ poster, videos and pictures from the Bewitched show on AHFoW</a></p>
+<p><a href="/database/luna/shows/2017/2017-01-19-luna-the-chapel-san-francisco-ca-usa/">Set-list¸ poster, videos and pictures from the Bewitched show on AHFoW</a></p>
 <p><a href="http://www.dimeadozen.org/torrents-details.php?id=582599">Full Bewitched set to download from bittorrent site Dimeadozen</a></p>
 <p><a href="http://www.dimeadozen.org/torrents-details.php?id=582598">Full Britta support set to download from bittorrent site Dimeadozen</a></p>
 {% ahfowvideo "LtH2addmMdo" "Kelly's beautioful trumpet solo on Bewitched" %}
 
 <h3>Friday: Penthouse</h3>
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-chapel-sf-kevin-hudson-004.jpg" alt="Penthouse (photo: Keviun Hudson)" /><figcaption class="caption-text">Penthouse (photo: Keviun Hudson)</figcaption></figure>
-<p><a href="/database/luna/shows/2017/2017-01-20-luna-the-chapel-san-francisco-ca-usa/">Setlist¸ poster, videos and pictures from the Penthouse show on AHFoW</a></p>
+<p><a href="/database/luna/shows/2017/2017-01-20-luna-the-chapel-san-francisco-ca-usa/">Set-list¸ poster, videos and pictures from the Penthouse show on AHFoW</a></p>
 <p><a href="http://www.dimeadozen.org/torrents-details.php?id=582681">Full Penthouse set to download from bittorrent site Dimeadozen</a></p>
 {% ahfowvideo "MdflAFjFlWE" "Luna playing Double Feature" %}
 
 <h3>Saturday: Rendezvous</h3>
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/2017-01-21-chapel-sf-harrison-price-005.jpg" alt="Rendezvous (photo: Harrison Price)" /><figcaption class="caption-text">Rendezvous (photo: Harrison Price)</figcaption></figure>
-<p><a href="/database/luna/shows/2017/2017-01-21-luna-the-chapel-san-francisco-ca-usa/">Setlist¸ poster, videos and pictures from the Rendezvous show on AHFoW</a></p>
+<p><a href="/database/luna/shows/2017/2017-01-21-luna-the-chapel-san-francisco-ca-usa/">Set-list¸ poster, videos and pictures from the Rendezvous show on AHFoW</a></p>
 <p><a href="http://www.dimeadozen.org/torrents-details.php?id=582715">Full Rendezvous set to download from bittorrent site Dimeadozen</a></p>
 {% ahfowvideo "PwSQYrGODEw" "Luna playing Star Spangled Man with topical lyrics" %}

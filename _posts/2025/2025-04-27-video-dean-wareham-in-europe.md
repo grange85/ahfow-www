@@ -28,7 +28,7 @@ I think Dean saved singing in German until he was in Germany:
 
 {% ahfowvideo "7us591Bv-KM" "Dean Wareham - We're Not Finished Yet (Utrecht)" %}
 
-For the show in Utrecht I think Matt was poorly/unavailable so the show was played as a three piece, with a changed setlist because of that... including Britta getting to lead on {% ahfowtrack "Listen, The Snow is Falling" %}:
+For the show in Utrecht I think Matt was poorly/unavailable so the show was played as a three piece, with a changed set-list because of that... including Britta getting to lead on {% ahfowtrack "Listen, The Snow is Falling" %}:
 
 {% ahfowvideo "X--JQBi7CSE" "Dean Wareham - Listen, The Snow is Falling (Utrecht)" %}
 

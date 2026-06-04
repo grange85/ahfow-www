@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Luna in Japan (pictures and setlists)
+title: Luna in Japan (pictures and set-lists)
 author:
   display_name: Andy
   login: admin
@@ -11,9 +11,9 @@ categories:
 - luna
 - news
 ---
-Finally some "substance" added to the site. Buried in this site somewhere you will be able to find setlists and pictures from Luna's recent trek to Japan...Ok - to save you hunting here's where to find the latest additions...Pictures from Borofest: [http://www.fullofwishes.info/galaxie/showpic.php?type=1&id=390](https://web.archive.org/web/20041018+/http://www.fullofwishes.info/galaxie/showpic.php?type=1&id=390)
+Finally some "substance" added to the site. Buried in this site somewhere you will be able to find set-lists and pictures from Luna's recent trek to Japan...Ok - to save you hunting here's where to find the latest additions...Pictures from Borofest: [http://www.fullofwishes.info/galaxie/showpic.php?type=1&id=390](https://web.archive.org/web/20041018+/http://www.fullofwishes.info/galaxie/showpic.php?type=1&id=390)
 
-Setlists: [http://www.fullofwishes.info/galaxie/index.php?artist_id=2&shows=yes&year=2004](https://web.archive.org/web/20041018+/http://www.fullofwishes.info/galaxie/index.php?artist_id=2&shows=yes&year=2004)
+Set-lists: [http://www.fullofwishes.info/galaxie/index.php?artist_id=2&shows=yes&year=2004](https://web.archive.org/web/20041018+/http://www.fullofwishes.info/galaxie/index.php?artist_id=2&shows=yes&year=2004)
 
 Another picture... [http://www.fullofwishes.info/galaxie/showpic.php?type=2&id=389](https://web.archive.org/web/20041018+/http://www.fullofwishes.info/galaxie/showpic.php?type=2&id=389)
 

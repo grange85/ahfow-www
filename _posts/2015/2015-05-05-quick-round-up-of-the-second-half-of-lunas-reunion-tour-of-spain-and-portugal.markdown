@@ -17,10 +17,10 @@ categories:
 So here's a quick round-up of the second half of Luna's tour of Span and Portugal, I posted the <a href="/2015/04/25/quick-round-up-of-the-first-half-of-lunas-reunion-tour-of-spain/" title="Quick round-up of the first half of Luna’s reunion tour of Spain">first half last week</a>.</p>
 <h3>24 April 2015: Luna – Centro de Las Armas, Zaragoza</h3>
 <p>https://youtu.be/LugC6NcvE4M<br />
-Setlist</p>
+Set-list</p>
 <h3>25 April 2015: Luna – Intxaurrondo, San Sebastián</h3>
 <p>https://vimeo.com/126186522<br />
-Setlist</p>
+Set-list</p>
 <h3>26 April 2015: Luna – Casa Da Musica, Porto, Portugal</h3>
 <p>Obviously Porto has been <a href="/2015/04/29/luna-at-casa-da-musica-in-porto/" title="Luna at Casa da Música in Porto">well covered elsewhere on AHFoW</a>...<br />
 <a href="https://www.flickr.com/photos/grange85/17127591408" title="Luna by Andy Aldridge, on Flickr"><img src="https://media.fullofwishes.co.uk/flickr-downloads/17127591408_9b31fdc6d7_z.jpg" class="aligncenter" alt="Luna"></a></p>
@@ -33,10 +33,10 @@ http://instagram.com/p/2Dg5QXAwSx</p>
 
 <h3>30 April 2015: Luna – Planta Baja, Granada</h3>
 <p>http://instagram.com/p/2IEIutD_cR/<br />
-Setlist</p>
+Set-list</p>
 <h3>1 May 2015: Luna – SOS Festival, Murcia, Spain</h3>
 <p>http://instagram.com/p/2LG2HVgwQ1</p>
 <h3>2 May 2015: Luna - Insomni, Girona</h3>
 <p>http://instagram.com/p/2OJKs3jMNL/<br />
-Setlist</p>
+Set-list</p>
 <p>... and it was all over - and ready to start again in the UK in the summer and US in the autumn. Sit tight!</p>

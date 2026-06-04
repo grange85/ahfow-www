@@ -64,7 +64,7 @@ The show once again opened with a short routine (almost the same routine) from S
 
 {% ahfowimage "https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2026-01-cafe-oto/2026-01-04-stewart-lee-richard-youngs.jpg" "Stewart Lee and RIchard Youngs at Cafe Oto - 4th January 2026" %}
 
-Followed by a short interval during which I relocated, standing behind the rows of seats and therefore having a better view. Naomi handed me another "secret setlist".
+Followed by a short interval during which I relocated, standing behind the rows of seats and therefore having a better view. Naomi handed me another "secret set-list".
 
 Damon & Naomi played another career-spanning set before being joined ny Richard Youngs for a couple of Galaxie 500 numbers - Spook and Decomposing Trees - colder, more melancholic interpretations than the previous night's - and with Richard's, sometimes discordant guitar accompaniment. Different, but also beaitiful!
 
@@ -92,6 +92,6 @@ First they were joined (once again) by Mark Webber and by saxophonist [Alabaster
 
 And then it was over. 
 
-Naomi handed me the setlist which revealed that New York City had been dropped from the set, I think because things were going on too long... but surely never to long for New York City? But, of course I can't complain (although I guess I sort of did) after an absolutely thrilling three days - three sets, not a song repeated, nine Galaxie 500 covers, Damon & Naomi pulling songs from across their catalogue. And Laetitia... and her trombone!
+Naomi handed me the set-list which revealed that New York City had been dropped from the set, I think because things were going on too long... but surely never to long for New York City? But, of course I can't complain (although I guess I sort of did) after an absolutely thrilling three days - three sets, not a song repeated, nine Galaxie 500 covers, Damon & Naomi pulling songs from across their catalogue. And Laetitia... and her trombone!
 
 {% ahfowvideo "d6nhLDEWscc" "Laetitia Sadier, Mark Webber, and Damon & Naomi - Tugboat" %}

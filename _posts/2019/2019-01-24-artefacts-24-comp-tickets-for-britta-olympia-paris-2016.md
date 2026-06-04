@@ -30,7 +30,7 @@ I had actually already bought tickets for the show which is why [my pics](https:
 
 <figure class="caption aligncenter"><a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/49433721433/in/dateposted-public/" title="e-tickets for Britta at L&#x27;Olympia 2016"><img src="https://media.fullofwishes.co.uk/flickr-downloads/49433721433_70b1838b18_c.jpg" alt="e-tickets for Britta at L&#x27;Olympia 2016"></a><figcaption class="caption-text">eTickets for the show</figcaption></figure>
 
-<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/09-britta-phillips/pictures/britta-getting-nervous-2016-10-15.jpg" alt="Britta with her setlist before the show" /><figcaption class="caption-text">Britta with her setlist before the show</figcaption></figure>
+<figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/09-britta-phillips/pictures/britta-getting-nervous-2016-10-15.jpg" alt="Britta with her set-list before the show" /><figcaption class="caption-text">Britta with her set-list before the show</figcaption></figure>
 
 <figure class="caption aligncenter"><a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/29764173474/in/album-72157675250349246/" title="Britta"><img src="https://media.fullofwishes.co.uk/flickr-downloads/29764173474_49433864b9_b.jpg" alt="Britta"></a><figcaption class="caption-text">Britta on stage at L'Olympia Paris, 2016</figcaption></figure>
 

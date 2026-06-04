@@ -36,7 +36,7 @@ Now, I understand that for the band the _soundcheck_ is a technical process, but
 
 {% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-leeds-april-2025-soundcheck-01.jpg" "My personal show" %}
 
-So... here's the setlist from my personal afternoon show at The Brudenell Social Club in Leeds
+So... here's the set-list from my personal afternoon show at The Brudenell Social Club in Leeds
 
  - The Cloud is Coming
  - That's The Price of Loving Me

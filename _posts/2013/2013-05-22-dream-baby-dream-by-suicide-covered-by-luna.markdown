@@ -22,7 +22,7 @@ categories:
 <p>Luna - Dream Baby Dream</p>
 {% ahfowvideo "iSIBpC4xRV4" "" %}
 <p><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dw_angel_vega_ht.jpg" class /><figcaption class="caption-text"> Dean with Angel Corpus Christi and Suicide's Alan Vega (photo ht)</figcaption></figure>
-<p>Luna never often played this live, my database has only one known performance (although I don't have too many setlists from the 90s). So here are Luna playing Dream Baby Dream at the Mercury Lounge in NYC in 1996<br />
+<p>Luna never often played this live, my database has only one known performance (although I don't have too many set-lists from the 90s). So here are Luna playing Dream Baby Dream at the Mercury Lounge in NYC in 1996<br />
 MP3: <a href="https://media.fullofwishes.co.uk/02-luna/audio/Luna_1996-07-21_14_Dream-Baby-Dream.mp3">Luna - Dream Baby Dream (live 1996-07-21 - Mercury Lounge)</a><br />
 <audio src="https://media.fullofwishes.co.uk/02-luna/audio/Luna_1996-07-21_14_Dream-Baby-Dream.mp3" preload="none" controls /></p>
 <p>Here's another Luna connection...<br />

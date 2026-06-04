@@ -50,7 +50,7 @@ Dean suggested that they may release audio of the shows at some point... so watc
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/50153999613/in/album-72157715243203528/" title="Roger"><img src="https://media.fullofwishes.co.uk/flickr-downloads/50153999613_f2a43bbd22_c.jpg" alt="Roger"></a>
 
-Full setlist ([posted to Dean's Instagram](https://www.instagram.com/p/CDFEuJlDbbJ/)):
+Full set-list ([posted to Dean's Instagram](https://www.instagram.com/p/CDFEuJlDbbJ/)):
 
 - My Rifle, My Pony and Me
 - Leave The Planet

@@ -22,4 +22,4 @@ tags:
 <p>Here's a video of them playing the track at The Bell House in Brooklyn on Friday.</p>
 {% ahfowvideo "oyj8VSaFpzI" "Luna playing The Cure's Fire in Cairo" %}
 
-<p>You can <a href="/database/luna/shows/2016/2016-05-27-luna-the-bell-house-brooklyn-new-york-ny-usa/">see the setlist and more videos from the show over here</a>.</p>
+<p>You can <a href="/database/luna/shows/2016/2016-05-27-luna-the-bell-house-brooklyn-new-york-ny-usa/">see the set-list and more videos from the show over here</a>.</p>

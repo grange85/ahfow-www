@@ -16,5 +16,5 @@ categories:
 <p>They open with {% ahfowtrack "Egg Nog" %}, and follow it with {% ahfowtrack "California (All the Way)" %}
 
 {% ahfowvideo "Bu7fwDhXogI" "Luna - New Year's Eve 2015" %}
-<p>If any one has any more clips, photos... or even a full setlist, <a href="/about/">please get in touch</a>.</p>
+<p>If any one has any more clips, photos... or even a full set-list, <a href="/about/">please get in touch</a>.</p>
 

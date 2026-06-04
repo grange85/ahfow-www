@@ -30,7 +30,7 @@ Of course one of the quirks of the live album is that what you're listening to o
 
 The banter happens after _Superfreaky Memories_ and before _Tiger Lily_, and there's a bit more French Revolution banter after Moon Palace
 
-Here's the full setlist from the show:
+Here's the full set-list from the show:
 
  - Chinatown
  - Four Thousand Days

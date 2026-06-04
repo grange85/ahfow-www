@@ -18,7 +18,7 @@ categories:
 <p><a href="https://www.flickr.com/photos/grange85/3199696789" title="Alasdair by Andy Aldridge, on Flickr"><img class="aligncenter" src="https://media.fullofwishes.co.uk/flickr-downloads/3199696789_185fcbfa4c_z.jpg" alt="Alasdair"></a>
 <p>Alasdair MacLean of <a href="http://www.theclientele.co.uk/">The Clientele</a>, added his very distinctive guitar to set closer Cruel Queen (and made me regret the laziness that kept me at home when they played the same venue last week). For the encore Damon & Naomi pulled out a track from More Sad Hits, which only seemed fair given the amount of very good press the re-release has had over here (that I'm sure contributed to the size of the crowd), they chose "Memories" and followed it with "In The Sun" (with Naomi singing, so more Playback Singers than Pierre Etoile version).</p>
 <p>And then it was over. I chatted very briefly to Naomi after the show, she introduced me to <a href="http://www.terrascope.co.uk/Home/History.htm">Phil McMullen</a> (former editor of <a href="http://www.terrascope.co.uk">Ptolemaic Terrascope</a>), a more social person than I would have made more of a treat like that but I just shook hands and smiled inanely, and then we bolted for the train home.</p>
-<p>Here's the setlist, not in order (except first three and last three), I think this is all there was...</p>
+<p>Here's the set-list, not in order (except first three and last three), I think this is all there was...</p>
 <ul>
 <li>Song to the Siren (Tim Buckley)</li>
 <li>Eye of the Storm</li>

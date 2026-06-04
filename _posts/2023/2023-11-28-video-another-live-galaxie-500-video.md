@@ -27,7 +27,7 @@ Here's my half-baked analysis.
 
 <!--more-->
 
-- Short setlist and Dean mentions that Kramer is coming on stage at 8:59 -  which is early so probably a support slot?
+- Short set-list and Dean mentions that Kramer is coming on stage at 8:59 -  which is early so probably a support slot?
 - No songs from This Is Our Music - so probably early 1990 at the latest?
 - Kramer joins them on stage for the last two songs - Victory Garden and Ceremony.
 - I know that Kramer was on the tour supporting The Sundays in early 1990, and he was joining them on-stage for Ceremony.

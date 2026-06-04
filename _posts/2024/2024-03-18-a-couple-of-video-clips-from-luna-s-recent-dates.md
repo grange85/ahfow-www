@@ -20,7 +20,7 @@ tags:
 ---
 Luna have just played a few dates in the US ~ here are some clips.
 
-Dear Diary has only recently started reappearing in their setlists after a 20+ year absence, here's a nice clip of them playing it in Minneapolis:
+Dear Diary has only recently started reappearing in their set-lists after a 20+ year absence, here's a nice clip of them playing it in Minneapolis:
 
 {% ahfowvideo "QoxCRKhnX-c" "Luna - Dear Diary - Fine Line - Minneapolis - 13th March 2024" "https://media.fullofwishes.co.uk/02-luna/pictures/luna-2024-03-13-minneapolis-vidcap.jpg" %}
 

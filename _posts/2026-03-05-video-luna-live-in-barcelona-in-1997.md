@@ -34,4 +34,4 @@ I excerpted an amazing version of Time to Quit if you fancy a taster:
 
 {% ahfowvideo "ZZsE4zZeld0" "Luna - Time to Quit - Barcelona 1997" %}
 
-[Show details and setlist](https://www.fullofwishes.co.uk/database/luna/shows/luna-1997-11-14-bikini-barcelona-spain/).
+[Show details and set-list](https://www.fullofwishes.co.uk/database/luna/shows/luna-1997-11-14-bikini-barcelona-spain/).

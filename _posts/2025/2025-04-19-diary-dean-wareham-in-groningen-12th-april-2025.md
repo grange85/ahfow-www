@@ -44,7 +44,7 @@ Der Aa Theatre is a nice small space with a high stage, and a bar on the right a
 
 {% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/groningen-007-april-2025.jpg" "Dean Wareham and band in Groningen (photo: Hazel)" %}
 
-The show seemed to be much more relaxed and gentler this time, it's interesting to see how the venue and the audience influence the show, so much more than you might imagine. The setlist was similar to the other shows, starting again with a slew of songs from Dean's new album. A couple of shouted requests saw two extra Galaxie 500 songs added to the list the band had on the floor in front of them and it started to feel like we might get the band to play even longer - they seemed to be enjoying themselves.
+The show seemed to be much more relaxed and gentler this time, it's interesting to see how the venue and the audience influence the show, so much more than you might imagine. The set-list was similar to the other shows, starting again with a slew of songs from Dean's new album. A couple of shouted requests saw two extra Galaxie 500 songs added to the list the band had on the floor in front of them and it started to feel like we might get the band to play even longer - they seemed to be enjoying themselves.
 
 Sadly the show came to an end with an encore of {% ahfowtrack "Temperature's Rising" %}, {% ahfowtrack "Blue Thunder" %} and {% ahfowtrack "Strange" %}.
 
