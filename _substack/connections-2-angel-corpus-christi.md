@@ -14,7 +14,7 @@ categories:
 tags:
 -
 ---
-Since yesterday I posted on AHFoW what will probably be the last Angel Corpus Christi post in the [my record collection](/category/my-record-collection/) series it seemed an opportune time to look back at her prvious appearances...
+Since yesterday I posted on AHFoW what will probably be the last Angel Corpus Christi post in the [my record collection](https://www.fullofwishes.co.uk/category/my-record-collection/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20260609) series it seemed an opportune time to look back at her prvious appearances...
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/pictures/angel-corpus-christi-ht.jpg" "Photo by Howard Thompson (and used without permission)" %}
 
@@ -24,7 +24,7 @@ Angel Corpus Christi and Dean Wareham cover Serge Gainsbourg and Lou Reed - what
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/acc-dw-je-taime-spinning.jpg" "Angel Corpus Christi with Dean Wareham" %}
 
-I did declare in the [introduction to this series](/2023/01/18/my-record-collection-introduction/) that I was being selective about what from my AHFoW collection would be included, but deciding what to include and what to leave out was becoming far too difficult - for instance, there was no way I'd be leaving out this absolute gem... but why include this and not, for example, Dean guesting on Ivy's Apartment Life, or Damon & Naomi's contributions to the Pearls Before Swine Constructive Melancholy compilation. So... everything is going in. Or at least everything that I know of! So my spreadsheet now has 347 rows and weekly posts would take me well into 2029! So... I'm trying to post more frequently!
+I did declare in the [introduction to this series](https://www.fullofwishes.co.uk/2023/01/18/my-record-collection-introduction/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20260609) that I was being selective about what from my AHFoW collection would be included, but deciding what to include and what to leave out was becoming far too difficult - for instance, there was no way I'd be leaving out this absolute gem... but why include this and not, for example, Dean guesting on Ivy's Apartment Life, or Damon & Naomi's contributions to the Pearls Before Swine Constructive Melancholy compilation. So... everything is going in. Or at least everything that I know of! So my spreadsheet now has 347 rows and weekly posts would take me well into 2029! So... I'm trying to post more frequently!
 
 So, back to _Je t'aime / I Wanna Boogie With You_ ... I didn't buy this at the time of release (1997), but had an mp3 that Angel had put on her "official, unauthorized web site". I then got it on CD when it was released on ACC's Louis Louis LP. 
 
@@ -74,7 +74,7 @@ The whole collection is wonderful, filled as it is with Angel's quirky delivery,
 - **23 Minutes in Brussels**  
   There's so much to love about this, partly because there seems to be so much squeezed into the three and a half minutes. I keep listening to this and finding different things that I _love most_ about it - the first minute is a tease of almost conventionality but then... bells and burbles, squeaks and pops, and a solo, and Angel singing with herself. Perfect.
 - **I Want Everything**  
-  This was originally released on a single back in 2001. _I Want Everything_ is sometimes, often, my favourite Luna song and a lot of that is about this cover (and [IWEG](/2009/09/02/mp3-luna-live-in-london-in-1993/)), maybe it's the 20+ years of familiarity, but this sounds like _archetypal_ ACC. That's a good thing.
+  This was originally released on a single back in 2001. _I Want Everything_ is sometimes, often, my favourite Luna song and a lot of that is about this cover (and [IWEG](https://www.fullofwishes.co.uk/2009/09/02/mp3-luna-live-in-london-in-1993/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20260609)), maybe it's the 20+ years of familiarity, but this sounds like _archetypal_ ACC. That's a good thing.
 - **Tiger Lily**  
   Hazel is unaware that Tiger Lily is the Luna song that makes me think of her, she's not really a Luna fan, so won't remember us together watching Luna play this in NYC back 2001, but I do. I suspect she likes Angel's version more than Luna's - that cool, almost jazzy, almost bossa-nova, feel - and a flute! Maybe I do too?
 - **Slide**  
@@ -91,15 +91,15 @@ With things being a bit quiet on the _new_ for AHFoW, Angel Corpus Christi's Lun
  - Sent to me by ACC
  - [Buy 'Bewitched: A Tribute to Luna' on Bandcamp](https://angelcorpuschristi.bandcamp.com/album/bewitched-a-tribute-to-luna) - there are still vinyl copies left - you should buy one!
 
-Previously on [my record collection](/category/my-record-collection)
-- [#006: Angel Corpus Christi with Dean Wareham - Je t'aime / I Wanna Boogie With You (7")](/2023/02/06/my-record-collection-006-angel-corpus-christi-dean-wareham-je-t-aime/)
+Previously on [my record collection](https://www.fullofwishes.co.uk/category/my-record-collection?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20260609)
+- [#006: Angel Corpus Christi with Dean Wareham - Je t'aime / I Wanna Boogie With You (7")](https://www.fullofwishes.co.uk/2023/02/06/my-record-collection-006-angel-corpus-christi-dean-wareham-je-t-aime/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20260609)
  - Bought from Discogs for £10 + postage
 
 ---
 
 ### #087 therealangelcorpuschristi
 
-Unlike Angel Corpus Christi's [lovely Luna tribute album](/2023/06/12/my-record-collection-042-angel-corpus-christi-bewitched-a-tribute-to-luna/) I don't have to bend the rules to include _therealangelcorpuschristi_ since Dean plays guitar (and Britta bass) on a Velvet Underground cover.
+Unlike Angel Corpus Christi's [lovely Luna tribute album](https://www.fullofwishes.co.uk/2023/06/12/my-record-collection-042-angel-corpus-christi-bewitched-a-tribute-to-luna/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20260609) I don't have to bend the rules to include _therealangelcorpuschristi_ since Dean plays guitar (and Britta bass) on a Velvet Underground cover.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/therealangelcorpuschristi-lp.jpg" "Angel Corpus Christi - therealangelcorpuschristi (LP)" %}
 
@@ -118,9 +118,9 @@ The whole album is amazing and worth hunting down - not sure it ever got a digit
  - *Format:* LP
  - Bought from Amazon for £22.99 (incl postage)
 
- Previously in [my record collection](/category/my-record-collection):
- - [[006] Angel Corpus Christi with Dean Wareham - Je t'aime / I Wanna Boogie With You (7")](/2023/02/06/my-record-collection-006-angel-corpus-christi-dean-wareham-je-t-aime/)
- - [[042] Angel Corpus Christi - Bewitched: A Tribute to Luna](/2023/06/12/my-record-collection-042-angel-corpus-christi-bewitched-a-tribute-to-luna/)
+ Previously in [my record collection](https://www.fullofwishes.co.uk/category/my-record-collection?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20260609):
+ - [[006] Angel Corpus Christi with Dean Wareham - Je t'aime / I Wanna Boogie With You (7")](https://www.fullofwishes.co.uk/2023/02/06/my-record-collection-006-angel-corpus-christi-dean-wareham-je-t-aime/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20260609)
+ - [[042] Angel Corpus Christi - Bewitched: A Tribute to Luna](https://www.fullofwishes.co.uk/2023/06/12/my-record-collection-042-angel-corpus-christi-bewitched-a-tribute-to-luna/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20260609)
 
  &dagger; _I had catalogued my memorabilia (clippings, photos, etc.) for years but only started giving my cd and vinyl catalogue numbers a few years ago which is how an album so late in my collection (but so early in the alphabet) has this number._
 
@@ -159,10 +159,10 @@ This is Angel's fourth entry in this series, and there is (currently) still one 
  - Bought from Volcanic Toungue with Accordion Pop for £15.98 (incl postage).
  - [Buy 'Louie Louie' on Bandcamp](https://angelcorpuschristi.bandcamp.com/album/louie-louie)
 
-Previously in [my record collection](/category/my-record-collection):
- - [[006] Angel Corpus Christi with Dean Wareham - Je t'aime / I Wanna Boogie With You (7")](/2023/02/06/my-record-collection-006-angel-corpus-christi-dean-wareham-je-t-aime/)
- - [[042] Angel Corpus Christi - Bewitched: A Tribute to Luna](/2023/06/12/my-record-collection-042-angel-corpus-christi-bewitched-a-tribute-to-luna/)
- - [[087] therealangelcorpuschristi](/2023/11/06/my-record-collection-084-therealangelcorpuschristi/)
+Previously in [my record collection](https://www.fullofwishes.co.uk/category/my-record-collection?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20260609):
+ - [[006] Angel Corpus Christi with Dean Wareham - Je t'aime / I Wanna Boogie With You (7")](https://www.fullofwishes.co.uk/2023/02/06/my-record-collection-006-angel-corpus-christi-dean-wareham-je-t-aime/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20260609)
+ - [[042] Angel Corpus Christi - Bewitched: A Tribute to Luna](https://www.fullofwishes.co.uk/2023/06/12/my-record-collection-042-angel-corpus-christi-bewitched-a-tribute-to-luna/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20260609)
+ - [[087] therealangelcorpuschristi](https://www.fullofwishes.co.uk/2023/11/06/my-record-collection-084-therealangelcorpuschristi/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20260609)
 
 ---
 
@@ -174,7 +174,7 @@ Another beautiful little 7" gem - this one is a lovely red vinyl affair with Dea
 
 Having gushed a couple of weeks ago about [my absolute favourite 7" single in the series]() we come across a contender for that crown!
 
-You has guitar by Dean and he's also credited as having mixed it (something that he leaves entirely to Britta these days). Dean isn't on the b-side but that doesn't make it any less perfect. The cover of I Want Everything turned up on Angel's [Bewitched: A Tribute to Luna](/2023/06/12/my-record-collection-042-angel-corpus-christi-bewitched-a-tribute-to-luna/) a couple of years back - and def worth tracking down if you can't find a copy of this beauty.
+You has guitar by Dean and he's also credited as having mixed it (something that he leaves entirely to Britta these days). Dean isn't on the b-side but that doesn't make it any less perfect. The cover of I Want Everything turned up on Angel's [Bewitched: A Tribute to Luna](https://www.fullofwishes.co.uk/2023/06/12/my-record-collection-042-angel-corpus-christi-bewitched-a-tribute-to-luna/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20260609) a couple of years back - and def worth tracking down if you can't find a copy of this beauty.
 
 The single was released on Manchester indie Emma's House Recordings which had a short run in the early part of the century. I bought the single direct and bought a couple of other releases at the same time... maybe there was an offer?
 
@@ -199,11 +199,11 @@ I was lucky enough to see Deerful doing a beautiful cover of Emma's House in the
  - *Format:* 7"
  - Bought direct from Emma's House for whatever three singles cost back then.
 
-Previously in [my record collection](/category/my-record-collection):
- - [[006] Angel Corpus Christi with Dean Wareham - Je t'aime / I Wanna Boogie With You (7")](/2023/02/06/my-record-collection-006-angel-corpus-christi-dean-wareham-je-t-aime/)
- - [[042] Angel Corpus Christi - Bewitched: A Tribute to Luna](/2023/06/12/my-record-collection-042-angel-corpus-christi-bewitched-a-tribute-to-luna/)
- - [[087] therealangelcorpuschristi](/2023/11/06/my-record-collection-084-therealangelcorpuschristi/)
- - [[297] Angel Corpus Christi - Louie Louie (CD)](/2025/10/27/my-record-collection-angel-corpus-christi-louie-louie-cd/)
+Previously in [my record collection](https://www.fullofwishes.co.uk/category/my-record-collection?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20260609):
+ - [[006] Angel Corpus Christi with Dean Wareham - Je t'aime / I Wanna Boogie With You (7")](https://www.fullofwishes.co.uk/2023/02/06/my-record-collection-006-angel-corpus-christi-dean-wareham-je-t-aime/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20260609)
+ - [[042] Angel Corpus Christi - Bewitched: A Tribute to Luna](https://www.fullofwishes.co.uk/2023/06/12/my-record-collection-042-angel-corpus-christi-bewitched-a-tribute-to-luna/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20260609)
+ - [[087] therealangelcorpuschristi](https://www.fullofwishes.co.uk/2023/11/06/my-record-collection-084-therealangelcorpuschristi/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20260609)
+ - [[297] Angel Corpus Christi - Louie Louie (CD)](https://www.fullofwishes.co.uk/2025/10/27/my-record-collection-angel-corpus-christi-louie-louie-cd/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20260609)
 
 ---
 
