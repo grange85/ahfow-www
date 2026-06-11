@@ -50,7 +50,8 @@ _A guest post by Joe Belk -first published on AHFoW on 27th April 2017_
 <p>Even though the first two albums featured numerous moments of greatness, they hit their stride with Penthouse. A big part is the production, suited to their style like no recording before or since. The midpoint {% ahfowtrack "23 Minutes in Brussels" %} and capper {% ahfowtrack "Bonnie and Clyde" %} really tie the room together, and allusions to Nixon, Tolstoy, Terry Tolkin, and the guy from The Falcon and the Snowman keep things riveting.</p>
 
 <p>The engineering of the follow-up, Pup Tent, did not fit as well, but it's still loaded with good songs. Side one is a knockout, and it shows how deep their catalogue is with several gems they never/rarely play live: IHOP, Beautiful View, Bobby Peru, and Beggar's Bliss (in addition to the terrific title song, which is on semi-regular rotation). Side two is bookended by one of their catchiest rockers ({% ahfowtrack "Tracy I Love You" %}) and one of their most successful experiments ({% ahfowtrack "Fuzzy Wuzzy" %}).</p>
-{% ahfowimage "https://media.fullofwishes.co.uk/02-luna/pictures/luna-painting-by-annabel-wright.jpg "The dreamy New York City quartet Luna (Annabel Wright) %}
+
+{% ahfowimage "https://media.fullofwishes.co.uk/02-luna/pictures/luna-painting-by-annabel-wright.jpg "The dreamy New York City quartet Luna (Annabel Wright)" %}
 
 <p>The last major label release Days of Our Nights and the independent debut Romantica suffer by comparison, but they both have some nice tracks and on a recent listen following their vinyl re-releases held up better than I remembered. Then, out of nowhere came a near-perfect EP, Close Cover Before Striking. It's got two form-fitting covers of the Rolling Stones and Kraftwerk, yet the best songs on the album belong to Luna: especially Teenage Lightning, with Astronaut and The Alibi close behind on the medal stand.</p>
 
