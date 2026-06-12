@@ -58,4 +58,13 @@ Anyway... I've been listening to A Peace of Us and right now Dean is singing tha
 
 {% ahfowvideo "9EhGFU-BECw" "Dean & Britta - Christmas Can't be Far Away (Echo Park, December 2020)" %}
 
+ - *Catalogue Number:* AHFOW 12/013
+ - *Artist:* Dean & Britta & Sonic Boom
+ - *Title:* A Peace of Us
+ - *Notes:* Cherry Eco Mix vinyl
+ - *Format:* LP
+ - Bought from Rough Trade for £16.20
+ - [Buy 'A Peace of Us' on Bandcamp](https://deanandbritta.bandcamp.com/album/a-peace-of-us)
 
+Previously in [my record collection](/category/my-record-collection):
+ - [[202] Dean & Britta & Sonic Boom - A Peace of Us](/2024/12/02/my-record-collection-r11-dean-britta-sonic-boom-a-peace-of-us/)
