@@ -26,7 +26,7 @@ The second show was at the Lounge Ax in October 1990.
 
 [Galaxie 500 Live at Lounge Ax on 1990-10-12 ](https://archive.org/details/ajc03516_galaxie500_1990-10-12)
 
-The recordings are part of a collection of thousands of shows recorded around Chicago by Aadam Jacobs from the mid 1980s well into the 21st Century and the Live Music Archive is in the process of digitising and presenting them for download (ror stremaing) via the Internet Archive. 
+The recordings are part of a collection of thousands of shows recorded around Chicago by Aadam Jacobs from the mid 1980s well into the 21st Century and the Live Music Archive is in the process of digitising and presenting them for download (or stremaing) via the Internet Archive. 
 
 It's well worth wading through... if you have too many hours to kill!
 
