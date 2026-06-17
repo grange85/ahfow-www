@@ -128,19 +128,40 @@ The b-side of this single has a cover of The Supremes' Where Did Our Love Go whi
  - *Format:* 7"
  - Bought direct from Static Caravan for £4 plus postage.
 
-Previously in [my record collection](/category/my-record-collection):
- - [[013] Cheval Sombre - Mad Love (LP)](/2023/03/02/my-record-collection-013-cheval-sombre-mad-love-lp/)
- - [[021] Dean Wareham and Cheval Sombre - Along The Santa Fe Trail](/2023/03/30/my-record-collection-021-dean-wareham-and-cheval-sombre-along-the-santa-fe-trail/)
- - [[037] Dean Wareham vs Cheval Sombre](/2023/05/25/my-record-collection-037-dean-wareham-vs-cheval-sombre/)
- - [[047] Cheval Sombre - self-titled](/2023/06/29/my-record-collection-047-cheval-sombre-self-titled/)
- - [[097] Cheval Sombre - Mad Love (CD)](/2023/12/11/my-record-collection-094-cheval-sombre-mad-love-cd/)
- - [[145] Dean Wareham and Cheval Sombre - Along The Santa Fe Trail](/2024/05/23/my-record-collection-138-dean-wareham-and-cheval-sombre-along-the-santa-fe-trail/)
+Previously in [my record collection](https://www.fullofwishes.co.uk/category/my-record-collection?utm_source=social&utm_medium=substack&utm_campaign=newsletter+202606019):
+ - [[013] Cheval Sombre - Mad Love (LP)](https://www.fullofwishes.co.uk/2023/03/02/my-record-collection-013-cheval-sombre-mad-love-lp/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+202606019)
+ - [[021] Dean Wareham and Cheval Sombre - Along The Santa Fe Trail](https://www.fullofwishes.co.uk/2023/03/30/my-record-collection-021-dean-wareham-and-cheval-sombre-along-the-santa-fe-trail/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+202606019)
+ - [[037] Dean Wareham vs Cheval Sombre](https://www.fullofwishes.co.uk/2023/05/25/my-record-collection-037-dean-wareham-vs-cheval-sombre/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+202606019)
+ - [[047] Cheval Sombre - self-titled](https://www.fullofwishes.co.uk/2023/06/29/my-record-collection-047-cheval-sombre-self-titled/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+202606019)
+ - [[097] Cheval Sombre - Mad Love (CD)](https://www.fullofwishes.co.uk/2023/12/11/my-record-collection-094-cheval-sombre-mad-love-cd/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+202606019)
+ - [[145] Dean Wareham and Cheval Sombre - Along The Santa Fe Trail](https://www.fullofwishes.co.uk/2024/05/23/my-record-collection-138-dean-wareham-and-cheval-sombre-along-the-santa-fe-trail/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+202606019)
  - [[158] Cheval Sombre - Days Go By]([158] Cheval Sombre - Days Go By)
- - [[251] Luna / Cheval Sombre - Lonesome Cowboy Bill](/2025/05/19/my-record-collection-luna-cheval-sombre-lonesome-cowboy-bill-7/)
- - [[257] Cheval Sombre - self titled (2xLP)](/2025/06/09/my-record-collection-cheval-sombre-self-titled-2xlp/)
- - [[283] Luna / Cheval Sombre - Lonesome Cowboy Bill](/2025/09/08/my-record-collection-luna-cheval-sombre-lonesome-cowboy-bill/)
- - [[286] Cheval Sombre - Time Waits For No One (LP)](/2025/09/18/my-record-collection-cheval-sombre-time-waits-for-no-one-lp/)
- - [[303] Cheval Sombre - Althea 10"](/2025/11/17/my-record-collection-cheval-sombre-althea/)
- - [[327] Cheval Sombre - Mad Love (promo CD)](/2026/02/16/my-record-collection-cheval-sombre-mad-love-promo-cd/)
+ - [[251] Luna / Cheval Sombre - Lonesome Cowboy Bill](https://www.fullofwishes.co.uk/2025/05/19/my-record-collection-luna-cheval-sombre-lonesome-cowboy-bill-7/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+202606019)
+ - [[257] Cheval Sombre - self titled (2xLP)](https://www.fullofwishes.co.uk/2025/06/09/my-record-collection-cheval-sombre-self-titled-2xlp/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+202606019)
+ - [[283] Luna / Cheval Sombre - Lonesome Cowboy Bill](https://www.fullofwishes.co.uk/2025/09/08/my-record-collection-luna-cheval-sombre-lonesome-cowboy-bill/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+202606019)
+ - [[286] Cheval Sombre - Time Waits For No One (LP)](https://www.fullofwishes.co.uk/2025/09/18/my-record-collection-cheval-sombre-time-waits-for-no-one-lp/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+202606019)
+ - [[303] Cheval Sombre - Althea 10"](https://www.fullofwishes.co.uk/2025/11/17/my-record-collection-cheval-sombre-althea/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+202606019)
+ - [[327] Cheval Sombre - Mad Love (promo CD)](https://www.fullofwishes.co.uk/2026/02/16/my-record-collection-cheval-sombre-mad-love-promo-cd/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+202606019)
 
+---
+
+### Upcoming anniversaries
+
+#### 20th June 2019 - Luna release Something in the Air
+
+Luna's cover of Thunderclap Newman's Something in the Air was released today in 2019 with a show at The Social in London with a "special guest DJ" but no memebers of Luna. But a lovely if rather sparsely attended show.
+
+{% ahfowimage "https://media.fullofwishes.co.uk/images/scsc/2019-06-20-luna-tribute.jpg" "A Tribute to Luna - 2019" %}
+
+#### 22nd June 1990 - Galaxie 500 at Glastonbury
+
+{% ahfowimage "https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-06-22/1990-06-22-galaxie-500-glastonbury-robert-richard-flickr-cc.jpg" "Galaxie 500 at Glastonbury (photo: Robert Richards (creative commons)" "https://www.flickr.com/photos/74825135@N00/3354266928/" %}
+
+<blockquote>
+<p>That Summer we were invited to play some festivals in Europe. First up was Glastonbury. It rained all week leading up to the Glastonbury Festival and the field turned to mud. Our shoes were hosed down before we went on, to clean off the mud we had picked up backstage, where the Happy Mondays were kicking a football around. I looked out at people wearing plastic bags on their feet [...]. We were the first band on the big stage on day one, playing at noon to thirty thousand people. I should have been terrified, but I wasn't. The people were so far away, and I didn't know any of them personally, except for Kramer who was out at the mixing board [...].</p>
+<p>Kramer wanted to join us for a few songs, like he had done on the last European tour. But Damon & Naomi didn't want him onstage anymore. They now thought it was a bit strange to have the producer jump onstage with us, and maybe they were right. I said I didn't mind if he played a few songs, but they had made their minds up [...]. In the middle of our third song I heard a sound behind me - it sounded like someone else was playing guitar. Kramer. He had given the house sound engineer some pointers and had quickly made his way through the crowd to the stage, where he found my spare guitar and a spare amplifier. He couldn't resist - he was Kramer. He wanted to play on the big stage at Glastonbury.</p>
+</blockquote>
+<p class="caption">Dean Wareham - Black Postcards</p>
+
+{% ahfowvideo "NgJ4LCCSbjs" "Galaxie 500 - Decomposing Trees / Melt Away / Snowstorm / Ceremony - Glastonbudy 1990" "https://media.fullofwishes.co.uk/ahfow/uploads/2012/01/g500-glastonbury-1990.jpg" %}
 
