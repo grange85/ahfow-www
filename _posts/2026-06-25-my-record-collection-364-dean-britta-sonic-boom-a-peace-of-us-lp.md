@@ -17,7 +17,7 @@ tags:
 - sonic boom
 date: 2026-06-25 00:00 +0000
 ---
-So, despite my finest efforts to post all my Christmas releases around Christmas here we have a massive failure on that front getting posted as far from Christmas as it's posssible to be. But... a Dean & Britta album is for life, not just for Christmas.
+So, despite my finest efforts to post all my Christmas releases around Christmas here we have a massive failure on that front getting posted as far from Christmas as it's possible to be. But... a Dean & Britta album is for life, not just for Christmas.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/dean-britta-sonic-a-peace-of-us-ecomix.jpg" "Dean & Britta & Sonic Boo, - A Peace of Us" %}
 
