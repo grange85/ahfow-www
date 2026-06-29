@@ -16,11 +16,11 @@ categories:
 tags:
 - magic hour
 ---
-Back in February I posted what I claimed then would be Magic Hour's last appearance in the series but, as you can see, that turned out not to be true since a couple of weeks back I came across a UK based seller on Discogs with a copy... which is now mine.
+Back in February I posted what I claimed then would be Magic Hour's last appearance in the series but, as you can see, that turned out not to be true since a couple of weeks back I came across a UK based seller on Discogs with a copy of Secession96... which is now mine.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/magic-hour-secession96-cd.jpg" "Magic Hour - Secession96" %}
 
-Secession96 was the last of three Magic Hour albums and while the first two albums were released on Ché in the UK as well as Twisted Village in the UK, this album never got a release outside the US which is why I never got around to getting a copy.
+Secession96 was the last of three Magic Hour albums and while the first two albums were released on Ché in the UK as well as Twisted Village in the US, this album never got a release outside the US which is why I never got around to getting a copy.
 
 While the first two albums had songs, this album just contains four instrumental work-outs, which I guess may have discouraged Ché from releasing it? I suspect it's also the reason I didn't try too hard to get a copy. I had a download, not sure where from - I assume I bought it somewhere - maybe eMusic back in the day? I'll have to admit that, while I'm partial to a _work out_ I'm often more partial to a _song_, so haven't listened to Secession96 that often. 
 
