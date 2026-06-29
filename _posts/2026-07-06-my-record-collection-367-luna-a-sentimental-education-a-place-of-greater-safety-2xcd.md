@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-sentimental-safety-2cd.jpg
 categories:
 - luna
 - my record collection
@@ -19,7 +19,7 @@ tags:
 ---
 In 2017 the reformed Luna released an album of covers and an EP of instrumentals. For the records they were treated as two separate releases but they were packaged together for the CD and this is that release.
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-sentimental-safety-2cd.jpg" "Luna - A Sentimental Education / A Place of Greater Safety" %}
 
 If you read my previous posts on the separate vinyl releases you'll have noticed that I was a little... cool on them (I even, rather shamefully in retrospect, expressed that coolness to Dean face-to-face when he and Britta visited me at The National Archives.
 
@@ -47,4 +47,18 @@ The second is a sweet video of schoolyard love shot by Matthew Buzzell... which 
 
 The album used Pledgemusic shortly before they went under. I understand that bands and the industry were trying to find their feet in an age where people didn't have to buy records any more but I'm not sure that crowd-funding, and bonus socks was really the way to do that. Although, it was quite nice to see the album taking shape through videos and photos.
 
-{% ahfowvideo "-9mhU2D1BUY" "Luna recording A Sentimental Education, 2017" %}
+{% ahfowvideo "-9mhU2D1BUY" "Luna recording A Sentimental Education, 2017" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-recording-a-sentimental-education.png" %}
+
+The discs came in a lovely tri-fold package and was signed by all four members since it was part of my deluxe Pledgemusic package.
+
+ - *Catalogue Number:* AHFOW 10/149
+ - *Artist:* Luna
+ - *Title:* A Sentimental Education / A Place of Greater Safety
+ - *Format:* 2xCD
+ - Bought as part of the "Deluxe bundle" for $105 (!)
+ - [Buy 'A Sentimental Education' on Bandcamp](https://luna.bandcamp.com/album/a-sentimental-education)
+ - [Buy 'A Place of Greater Safety' on Bandcamp](https://luna.bandcamp.com/album/a-place-of-greater-safety)
+
+Previously in [my record collection](/category/my-record-collection):
+ - [[285] Luna - A Sentimental Education (LP)](/2025/09/15/my-record-collection-luna-a-sentimental-education-lp/)
+ - [[148] Luna - A Place of Greater Safety](/2024/06/03/my-record-collection-141-luna-a-place-of-greater-safety/)
