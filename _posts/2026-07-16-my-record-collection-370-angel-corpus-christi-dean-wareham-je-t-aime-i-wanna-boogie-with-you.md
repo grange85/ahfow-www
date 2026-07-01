@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/angel-plus-dean-je-t-aime-munster.jpg
 categories:
 - dean wareham
 - my record collection
@@ -18,7 +18,7 @@ tags:
 ---
 Angel and Dean's Je t'aime (I Wanna Boogie With You) was released on two seven inch singles, this was the second put out by Spanish label Munster in 1998.
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/angel-plus-dean-je-t-aime-munster.jpg" "Angel + Dean - Je t'aime (I Wanna Boogie With You)" %}
 
 This is a single I'd resigned myself to not having, it's been in my Discogs wishlist for a while but I was always too mean to pay the shipping costs which means I feel a little bit guilty about how it came into my possession, basically letting someone else suck up those postage costs (and indeed the record costs).
 
@@ -53,7 +53,25 @@ Dean also mentioned the single during a Radio 1 interview in 1995:
 <blockquote>
 Actually we were supposed to do a Serge Gainsbourg song, Je t'aime, but she couldn't find one of the chords on her accordion so she decided to do I Wanna Boogie With You which is this obscure Lou Reed track, and so she sang that and I sang Je t'aime and it's a bit of a mess.
 </blockquote>
-<p class="caption"><a href="https://www.fullofwishes.co.uk/2017/12/13/xmas-countdown-4-luna-bbc-radio-1-1995/">Xmas countdown 4: Luna on Radio 1 in 1995</a></p>
+<p class="caption"><a href="/2017/12/13/xmas-countdown-4-luna-bbc-radio-1-1995/">Xmas countdown 4: Luna on Radio 1 in 1995</a></p>
+
+I have to disagree with Dean about the "bit of a mess" comment - it is remarkable how well these two muddle together.
+
 The b-side doesn't involve Dean and is an ACC instrumental original called Wild Bill.
 
+Thank you so much Angel for the beautiful surprise. 
 
+I wrote about [Angel's AHFoW connections on Substack](https://aheadfullofwishes.substack.com/p/connections-2-angel-corpus-christi) a couple of weeks ago - when I thought we'd seen the last of ACC in this series.
+
+ - *Catalogue Number:* AHFOW 11/084
+ - *Artist:* Angel + Dean
+ - *Title:* Je t'aime (I Wanna Boogie With You)
+ - *Notes:* Munster release
+ - *Format:* 7"
+
+Previously in [my record collection](/category/my-record-collection):
+ - [[006] Angel Corpus Christi with Dean Wareham - Je t'aime / I Wanna Boogie With You (7")](/2023/02/06/my-record-collection-006-angel-corpus-christi-dean-wareham-je-t-aime/)
+ - [[042] Angel Corpus Christi - Bewitched: A Tribute to Luna](/2023/06/12/my-record-collection-042-angel-corpus-christi-bewitched-a-tribute-to-luna/)
+ - [[087] therealangelcorpuschristi](/2023/11/06/my-record-collection-084-therealangelcorpuschristi/)
+ - [[297] Angel Corpus Christi - Louie Louie (CD)](/2025/10/27/my-record-collection-angel-corpus-christi-louie-louie-cd/)
+ - [[359] - Angel Corpus Christi with Dean Wareham - You / I Want Everything](/2026/06/08/my-record-collection-359-angel-corpus-christi-with-dean-wareham-you-i-want-everything/)
