@@ -9,18 +9,26 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-tiger-lily-promo-cd.jpg
 categories:
 - my record collection
 - luna
+- lost tracks
 tags:
 - tiger lily
 ---
 This is a radio promo CD of Luna's Tiger Lily that I picked up on Discogs a few months back as a collection filler. Although technically it does contain something I never had before, or maybe more accurately one of the tracks doesn't contains something I did have before.
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-tiger-lily-promo-cd.jpg" "Luna - Tiger Lily (radio promo CD)" %}
 
 There are two versions of Tiger Lily on the disc the LP version and a _single edit_ which chops off the intro, chops out a bit of the solo, and fades early - basically lopping 39 seconds out of the song to supposedly make it more attractive for radio play, although I'm a little puzzled at how much more attractive that would make it? The single edit is still over four minutes long so I do wonder how attractive that made it for the radio.
+
+{% ahfowaudio {
+"audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/01-luna-tiger-lily-single-edit.mp3",
+"audiocap": "Luna - Tiger Lily (single edit)",
+"sourceurl": "https://www.fullofwishes.co.uk/database/luna/releases/singles/#tiger-lilyprcd-8884-2",
+"sourcecap": "Tiger Lily (Elektra, 1994)"
+} %}
 
 Since this was from Bewitched it was only a "single" in the US and I wonder how much radio play it got and whether the 39 seconds helped with that.
 
@@ -41,3 +49,10 @@ There's also a nice clip of Luna rehearsing for their lockdown show back in 2021
 
 You can also [watch Stanley playing Tiger Lily in his practice room](https://www.youtube.com/watch?v=__vekeQPCVw) back in 2010.
 
+ - *Catalogue Number:* AHFOW 10/179
+ - *Artist:* Luna
+ - *Title:* Tiger Lily
+ - *Notes:* Radio promo
+ - *Packaging:* Jewel case
+ - *Format:* CD
+ - Bought from a Discogs seller for £3
