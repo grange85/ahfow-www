@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-dvd-opened.jpg
 categories:
 - galaxie 500
 - my record collection
@@ -18,15 +18,15 @@ tags:
 ---
 The previous copy of [Galaxie 500's 2004 DVD release in this series](/2024/11/11/my-record-collection-187-don-t-let-our-youth-go-to-waste-dvd/) was still in it's wrap so this is the first look at the actual content.
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-dvd-opened.jpg" "Galaxie 500 - Don't Let Our Youth Go to Waste (DVD)" %}
 
 ### Disc 1
 
 Disc one opens with the four videos made for the band by Sergio Huidor. These had previously been available as tiny Quicktime videos on the box set discs (and subsequent CD releases) but it was good to finally have them in decent quality.
 
  - __Tugboat__ is packed with explosions and crashes and other violent imagery - intercut with occasional shots of the band. The film is dusty and scratches and the cutting is quick and repetitive and ends up being hypnotic, as well as disturbing. Naomi's wearig her spiral earrings. - ([Watch Tugboat on YouTube](https://youtu.be/Xe_21Z7wKQU)).
- - __When Will You Come Home__ opens with actual shots of the band, in colour, which is probably why it's my favourite of the four. Dean's wearing a Shimmy Disc T-shirt, Naomi has no earrings on. It's intercut with other random shots, some with the camera pointed at the TV - ([Watch When Will You Come Home on YouTube](https://youtu.be/o5R_bYZffQI)).
- - __Blue Thunder__ is completely colour inverted, someone a while back "fixed" the colour and popped it on YouTube but the band had the video taken down since it (literally?) contradicted the film-makers vision - it was nice to see the band like that though. It is the w/sax version. Lots of car crashes in this one. Dean's wearing a _proper_ shirt, Naomi's wearing large hoop earrings - ([Watch Blue Thunder on YouTube](https://youtu.be/XYWC_U4rsEc)).
+ - __When Will You Come Home__ opens with actual shots of the band, in colour, which is probably why it's my favourite of the four. Dean's wearing a Shimmy Disc T-shirt, It is intercut with other random shots, some with the camera pointed at the TV - ([Watch When Will You Come Home on YouTube](https://youtu.be/o5R_bYZffQI)).
+ - __Blue Thunder__ is completely colour inverted, someone a while back "fixed" the colour and popped it on YouTube but the band had the video taken down since it (literally?) contradicted the film-makers vision - it was nice to see the band like that though. It is the w/sax version. Lots of car crashes in this one - ([Watch Blue Thunder on YouTube](https://youtu.be/XYWC_U4rsEc)).
  - __Fourth of July__ is the one with sparklers and a gorilla and Naomi as an angel, which makes it the most fun of the three - although... more explosions and I guess literal Fourth of July references. Quite a few costume changes in this one - I think Dean wears at least three different shirts, maybe more - ([Watch Fourth of July on YouTube](https://youtu.be/ct3QKlEgwbk))
 
 Next up five live performances billed as a **live archive**:
@@ -38,8 +38,6 @@ An afternoon show supporting Beat Happening
  - "the truth is we were just learning to be a band" (Dean)
 
 It has two songs that were never released - a cover of Jonathan Richman's "Back in Your Life" and an original called "Buzz In My Head".
-
-Naomi has dangly hoop earrings that I'm not sure I've seen elsewhere.   
 
 It's sweet to see the band at this early stage.
 
@@ -108,7 +106,7 @@ The one other thing I know about this show is that Tracey Thorn and Ben Watt of 
 
 ### The booklet
 
-The booklet has an interview with Dean, and Damon and Naomi by James McNew - it actually reads like it was meant to be a commentary, which would have been nice, but ends up as a written commentary - it's a nice read and you can hardly notice that it was obviously two interviews.
+The booklet has an interview with Dean, and Damon and Naomi by James McNew of Yo La Tengo - it actually reads like it was meant to be an audio commentary which would have been nice, but ends up as a written commentary. It is a nice read and you can hardly notice that it was obviously two interviews. It's nicand casual and sometimes quite funny.
 
 The booklet also has some photos of memorabilia that later turned up in the oral history book. The other significant bit of the booklet is on the back page...
 
