@@ -8,7 +8,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://media.fullofwishes.co.uk/00-misc/substack/the-children-of-hydras-teeth.jpg
 categories:
 - substack
 tags:
@@ -59,7 +59,7 @@ the one I found humming to myself around Sainsbury's this morning.
 </blockquote>
 <p class="caption">Thu 15 Apr 1999 17:27 ✉ Andy Aldridge</p>
 
-And listening to it right now I can't help but thinking that I hadn't back-pedalled enough. The Bad Vibe Merchant is certainly one of the best of Luna's [lost tracks](/category/lost-tracks/). 
+And listening to it right now I can't help but thinking that I hadn't back-pedalled enough. The Bad Vibe Merchant is certainly one of the best of Luna's [lost tracks](https://www.fullofwishes.co.uk/category/lost-tracks/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+yyyymmdd). 
 
 Since Beggars Banquet [rather messed up the upload of the track to YouTube](https://www.youtube.com/watch?v=m-Dkdo6bkkQ) I've just uploaded a correction:
 
@@ -74,8 +74,8 @@ Superfreaky Memories is of course actually the best track on Days....
  - *Format:* CD
  - Bought in April 1999, not sure where.
 
-Previously in [my record collection](/category/my-record-collection):
- - [[199] Luna - Superfreaky Memories (7")](/2024/11/25/my-record-collection-191-luna-superfreaky-memories-7/)
+Previously in [my record collection](https://www.fullofwishes.co.uk/category/my-record-collection?utm_source=social&utm_medium=substack&utm_campaign=newsletter+yyyymmdd):
+ - [[199] Luna - Superfreaky Memories (7")](https://www.fullofwishes.co.uk/2024/11/25/my-record-collection-191-luna-superfreaky-memories-7/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+yyyymmdd)
 
 ---
 
@@ -94,7 +94,7 @@ Amor de Días toured with Damon & Naomi quite a lot during around the time of th
 <blockquote>
 Amor de Dias is the new project of Alasdair MacLean of The Clientle and Lupe Núñez-Fernández of Pipas. They played a short but very beautiful set of tropic-tinged folk guitar music accompanied on a couple of tracks by "Anne" on a huge recorder. Alasdair introduced the first track as "someone born in Aberdeen trying to play guitar like Caetano Veloso." I think a couple of the numbers were tracks from Bonfires on the Heath, the new album by The Clientele coming out next month.
 </blockquote>
-<p class="caption"><a href="/2009/09/05/review-damon-naomi-cafe-oto-london/">Review: Damon & Naomi @ Cafe OTO, London</a></p>
+<p class="caption"><a href="https://www.fullofwishes.co.uk/2009/09/05/review-damon-naomi-cafe-oto-london/">Review: Damon & Naomi @ Cafe OTO, London</a></p>
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/amor-de-dias-cafe-oto-2009.jpg" "Amor de Días at Cafe Oto, 2009" %}
 
@@ -142,7 +142,7 @@ https://www.youtube.com/watch?v=A3cnN8q8gBE
     The band returned to the stage for an encore of Galaxie 500's Strange and then, all too soon, it was all over. Hopefully they'll be back at the end of the year for a whole evening of Galaxie 500. 
 </p>
 </blockquote>
-<p class="caption"><a href="/2010/07/31/review-dean-britta-13-most-beautiful-the-barbican-london/">Review: Dean & Britta – 13 Most Beautiful – The Barbican, London</a></p>
+<p class="caption"><a href="https://www.fullofwishes.co.uk/2010/07/31/review-dean-britta-13-most-beautiful-the-barbican-london/">Review: Dean & Britta – 13 Most Beautiful – The Barbican, London</a></p>
 
 {% ahfowimage "https://farm5.static.flickr.com/4133/4845185552_355210c7f8.jpg" "Dean & Britta - 13MB at The Barbican" %}
 
@@ -157,4 +157,4 @@ https://www.youtube.com/watch?v=A3cnN8q8gBE
     The set was nicely mixed up and finished with a storming Friendly Advice followed by 23 Minutes in Brussels. An encore of a couple of covers, Blue Thunder and then Indian Summer, was a perfect ending.
 </p>
 </blockquote>
-<p class="caption"><a href="/2015/07/31/luna-and-flowers-at-sticky-mikes-in-brighton/">Luna and Flowers at Sticky Mike's in Brighton</a></p>
+<p class="caption"><a href="https://www.fullofwishes.co.uk/2015/07/31/luna-and-flowers-at-sticky-mikes-in-brighton/">Luna and Flowers at Sticky Mike's in Brighton</a></p>
