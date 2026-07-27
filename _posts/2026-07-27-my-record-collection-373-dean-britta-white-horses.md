@@ -31,7 +31,7 @@ The show was shown regularly on British TV during the summer holidays, dubbed in
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/white-horses-mit-helga-anders.jpg" "'mit Helga Anders'" %}
 
-If memory serves it was Sonic Boom who suggested that Dean & Britta cover the song... given that he is British, and approximately the same age as me I wonder if his love of the song was driven by similar experiences of summer holiday TV (and teenage infatuations).
+If memory serves it was Sonic Boom who suggested that Dean & Britta cover the song... given that he is British, and approximately the same age as me I wonder if his love of the song was driven by similar experiences of summer holiday TV (and pre-teenage infatuations).
 
  - *Catalogue Number:* AHFOW 11/040
  - *Artist:* Dean & Britta
