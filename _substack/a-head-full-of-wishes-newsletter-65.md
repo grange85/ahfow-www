@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=wHZXjzNKLLE
 
 ---
 
-It's Dean's birtheday tomorrow - since I haven't got a birthday post together you can [make do with last year's](/2025/08/01/happy-birthday-dean-wareham-2025-edition/) - which also has links to lots of previous posts all contain pics, and most contain mp3s and/or videos.
+It's Dean's birtheday tomorrow - since I haven't got a birthday post together you can [make do with last year's](https://www.fullofwishes.co.uk/2025/08/01/happy-birthday-dean-wareham-2025-edition/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20260731) - which also has links to lots of previous posts all contain pics, and most contain mp3s and/or videos.
 
-{% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/groningen-002-april-2025.jpg" "Dean in Groningen in Spring 2025" "/2025/08/01/happy-birthday-dean-wareham-2025-edition/" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/groningen-002-april-2025.jpg" "Dean in Groningen in Spring 2025" "https://www.fullofwishes.co.uk/2025/08/01/happy-birthday-dean-wareham-2025-edition/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20260731" %}
 
 ... and, if it's Dean's birthday tomorrow that means it must be Stanley's on Sunday.
 
@@ -74,7 +74,7 @@ This is the CD version of Luna's The Days of Our Nights that was released in the
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-days-of-our-nights-bb-cd.jpg" "Luna - The Days of Our Nights (Beggars Banquet CD)" %}
 
-The album's release and reception has been well covered in the previous posts in this series - particularly in the one for the [vinyl reissue](/2023/08/08/my-record-collection-recent-acquisition-1-luna-the-days-of-our-nights-lp/) from three years ago, so I'm not sure I have much to add.
+The album's release and reception has been well covered in the previous posts in this series - particularly in the one for the [vinyl reissue](https://www.fullofwishes.co.uk/2023/08/08/my-record-collection-recent-acquisition-1-luna-the-days-of-our-nights-lp/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20260731) from three years ago, so I'm not sure I have much to add.
 
 Dean and Sean were in the UK around the time of release for the Bowlie Weekender that they played at as a duo. I didn't go to this - I did ponder going and even rang up about it - specifically about bringing a two-year-old along - but decided the cost, and the two-year-old made it inconvenient. The NME reviewed it...
 
@@ -122,10 +122,10 @@ My long-standing Days coolness gets less cool with each passing year. Maybe beca
  - Bought from a record shop the week of release
  - [Buy 'The Days of Our Nights' on Bandcamp](https://luna.bandcamp.com/album/the-days-of-our-nights)
 
-Previously in [my record collection](/category/my-record-collection):
- - [[059] Luna The Days of Our Nights (LP)](/2023/08/08/my-record-collection-recent-acquisition-1-luna-the-days-of-our-nights-lp/)
- - [[084] Luna - The Days of Our Nights (Jericho CD)](/2023/10/26/my-record-collection-081-luna-the-days-of-our-nights-jericho-cd/)
- - [[258] Luna - The Days of Our Nights (Elektra promo CD)](/2025/06/12/my-record-collection-luna-the-days-of-our-nights/)
+Previously in [my record collection](https://www.fullofwishes.co.uk/category/my-record-collection?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20260731):
+ - [[059] Luna The Days of Our Nights (LP)](https://www.fullofwishes.co.uk/2023/08/08/my-record-collection-recent-acquisition-1-luna-the-days-of-our-nights-lp/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20260731)
+ - [[084] Luna - The Days of Our Nights (Jericho CD)](https://www.fullofwishes.co.uk/2023/10/26/my-record-collection-081-luna-the-days-of-our-nights-jericho-cd/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20260731)
+ - [[258] Luna - The Days of Our Nights (Elektra promo CD)](https://www.fullofwishes.co.uk/2025/06/12/my-record-collection-luna-the-days-of-our-nights/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20260731)
 
 ---
 
@@ -135,13 +135,13 @@ Previously in [my record collection](/category/my-record-collection):
 
 As well as Dean's birthday the 1st August is also the anniversary of Luna's show at the World Trade Center in 2011 - I wrote about it, and what followed in a blog post five years ago:
 
-[20 years ago in New York City](/2021/09/11/20-years-ago-in-new-york-city/)
+[20 years ago in New York City](https://www.fullofwishes.co.uk/2021/09/11/20-years-ago-in-new-york-city/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20260731)
 
-{% ahfowimage "https://www.fullofwishes.co.uk/2021/09/11/20-years-ago-in-new-york-city/" "Luna at the WTC - August 2011" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/02-luna/show_assets/2001-08-01/enlarged/Luna_080101ea.jpg" "Luna at the WTC - August 2011" "https://www.fullofwishes.co.uk/2021/09/11/20-years-ago-in-new-york-city/?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20260731" %}
 
 ---
 
 OK that'll do but... imagine me down the front here (I don't think I was at this gig but was at many like this).
 
-https://www.youtube.com/watch?v=jioa7NzY8fc
+https://www.youtube.com/watch?v=S3y9xisGOpc
 
