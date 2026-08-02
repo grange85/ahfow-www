@@ -26,4 +26,4 @@ I'm not sure this recording has been shared before which sort of surprised me, a
 
 Being a soundboard recording you can't really hear the audience except what the on-stage mics pick up which is always a strange experience. The plus side of course is just how well you can actually hear the band (although I might like to hear the bass a wee bit more).
 
-
+I'm a little surprised that I can't find any contemporary review or comment on the show Flagpole, an Athens
