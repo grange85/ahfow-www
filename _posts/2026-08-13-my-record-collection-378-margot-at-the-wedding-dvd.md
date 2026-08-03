@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '[376] Margot at the Wedding (DVD)'
-date: 2026-08-06 00:00 +0000
+title: '[378] Margot at the Wedding (DVD)'
+date: 2026-08-13 00:00 +0000
 series-title: My record collection 
 catno: 13/020
 author:
