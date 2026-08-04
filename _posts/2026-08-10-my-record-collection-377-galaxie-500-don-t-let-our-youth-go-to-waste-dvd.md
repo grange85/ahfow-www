@@ -106,7 +106,7 @@ The one other thing I know about this show is that Tracey Thorn and Ben Watt of 
 
 ### The booklet
 
-The booklet has an interview with Dean, and Damon and Naomi by James McNew of Yo La Tengo - it actually reads like it was meant to be an audio commentary which would have been nice, but ends up as a written commentary. It is a nice read and you can hardly notice that it was obviously two interviews. It's nicand casual and sometimes quite funny.
+The booklet has an interview with Dean, and Damon and Naomi by James McNew of Yo La Tengo - it actually reads like it was meant to be an audio commentary which would have been nice, but ends up as a written commentary. It is a nice read and you can hardly notice that it was obviously two interviews. It's very casual and sometimes quite funny.
 
 The booklet also has some photos of memorabilia that later turned up in the oral history book. The other significant bit of the booklet is on the back page...
 
