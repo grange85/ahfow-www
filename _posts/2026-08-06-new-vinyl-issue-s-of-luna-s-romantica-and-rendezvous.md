@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New vinyl issues of Luna's Romantica and Rendezvous
-date: 2026-08-06 10:09 +0100
+date: 2026-08-06 07:00 +0000
 series-title:
 catno:
 author:

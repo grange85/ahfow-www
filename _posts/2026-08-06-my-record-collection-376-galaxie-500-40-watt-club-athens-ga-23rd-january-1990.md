@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '[376] Galaxie 500 - 40 Watt Club, Athens, GA - 23rd January 1990'
-date: 2026-08-06 00:00 +0000
+date: 2026-08-06 09:00 +0000
 series-title: My record collection 
 catno: 10/061
 author:
