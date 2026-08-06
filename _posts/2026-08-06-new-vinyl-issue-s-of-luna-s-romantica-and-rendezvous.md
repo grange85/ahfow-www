@@ -1,7 +1,7 @@
 ---
 layout: post
-title: New vinyl issue(s) of Luna's Romantica
-date: 2026-08-04 17:09 +0100
+title: New vinyl issues of Luna's Romantica and Rendezvous
+date: 2026-08-06 10:09 +0100
 series-title:
 catno:
 author:
@@ -16,6 +16,11 @@ categories:
 tags:
 -
 ---
+**UPDATE 6th August**
+Wax Mage will be also be doing a fancy reissue of Luna's Rendezvous, also for pre-order on Friday.
+
+---
+
 Boutique vinyl label Wax Mage are re-issuing Luna's Romantica in "five exclusive Wax Mage variants" (plus it seems two others?) - pre-ordering of the release open on Friday 7th AUgust at 7pm ET.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/misc/luna-wax-mage-romantica.jpg" "Luna - Romantica (Wax Mage)" %}
