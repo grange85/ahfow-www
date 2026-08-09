@@ -30,7 +30,7 @@ I do like the way the film has been made, the movement of the actors, and the ca
 
 I haven't as yet managed to track down a copy of the soundtrack album but do have a download of it and it certainly has the fingerprints of the film's "music consultants" on it. As well as Dean & Britta's "Northern Blue" it has Evie Sands "One Fine Summer Morning" and Donovan's "Teen Angel" both of which have been covered by Dean and/or Britta.
 
-The thing about the Dean & Britta song is that it's listed first implying that it's the first song heard... but it isn't that's Steve Forbert's "Romeo's Tune" which is heard in the car as Margot and Claude are being driven to Pauline's. So... where is Nothern Blue? Is it what Claude is listening to on his headphones on the train? I guess it has to be - but, I can't hear it.
+The thing about the Dean & Britta song is that it's listed first implying that it's the first song heard... but it isn't, that's Steve Forbert's "Romeo's Tune" which is heard in the car as Margot and Claude are being driven to Pauline's. So... where is Nothern Blue? Is it what Claude is listening to on his headphones on the train? I guess it has to be - but, I can't hear it.
 
 I'm rather surprised that I haven't shared Northern Blue before since it is a rarity, having just shown up on the soundtrack album (and maybe not even in the film).
 
