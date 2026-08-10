@@ -24,11 +24,11 @@ I also ordered a Galaxie 500 T-shirt, to make the shipping more acceptable. I em
 
 The booklet is a beautiful piece of Naomi's art and design although that art and design does sometimes make the lyrics hard to read. The insert that came with [the LP](/2025/12/04/my-record-collection-the-wondrous-world-of-damon-naomi-lp/) was missing most of the booklet but did have readable lyrics.
 
+I rather love the (tiny) pic of Damon & Naomi sitting under a tree and looking so folky on the back of the booklet. I happen to know however that Damon is not so keen on it.
+
 The artwork that was used in the booklet was included in an exhibition of Naomi's art called Victorian Girls in 2016. I didn't make the exhibition (it being so far away) but did get a signed copy of the beautiful booklet.
 
-{% ahfowimage "https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/naomi-yang-exhibition-victorian-girl-3.jpg" "Naomi Yang - Victorian Girls" %}
-
-I rather love the (tiny) pic of Damon & Naomi sitting under a tree and looking so folky on the back of the booklet. I happen to know however that Damon is not so keen on it.
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/naomi-yang-victorian-girls.jpg" "Naomi Yang - Victorian Girls" %}
 
 The CD arrived with a hand-written note from Naomi.
 
