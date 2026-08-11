@@ -18,7 +18,7 @@ categories:
 tags:
 - the wire
 ---
-As a buyer/subscriber to varous magazines over the years I used to have boxes and boxes of cassettes and CDs that had been given away stuck to their front covers. For a while my collection included quite a few of these that contained album tracks. These magazines quite often had appearances by Galaxie 500 and Luna, and occasionally by Damon & Naomi. At some point I decided that they probably didn't warrant inclusion. A couple however slipped through the net.
+As a buyer/subscriber to various magazines over the years I used to have boxes and boxes of cassettes and CDs that had been given away stuck to their front covers. For a while my collection included quite a few of these that contained album tracks. These magazines quite often had appearances by Galaxie 500 and Luna, and occasionally by Damon & Naomi. At some point I decided that they probably didn't warrant inclusion. A couple however slipped through the net.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/wire-tapper-12-mojo-dream-pop.jpg" "The Wire Tapper 12 / MOJO Presents Dream Pop" %}
 
