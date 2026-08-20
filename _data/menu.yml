@@ -3,6 +3,8 @@ entries:
     url: /database/
   - title: Search
     url: /search/
+  - title: On this day
+    otd: true
   - title: Latest
     post_list: 
       limit: 5
