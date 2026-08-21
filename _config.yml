@@ -139,6 +139,7 @@ port: 4040
 markdown: kramdown
 environment: production
 future: false
+timezone: Europe/London
 
 # default excludes
 exclude:
