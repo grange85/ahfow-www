@@ -4,13 +4,8 @@
     {%- if item.url -%}
       <a href="{{ item.url }}">{{ item.title }}</a>
 	{%- elsif item.otd -%}
-	<a href="/database/on-this-day/{{ "now" | date: "%m"}}-{{ "now" | date: "%d" }}/">{{ item.title }}</a>
-	<script>
-		const d = new Date();
-		const mm = String(d.getMonth() + 1).padStart(2, '0');
-		const dd = String(d.getDate()).padStart(2, '0');
-		document.currentScript.previousElementSibling.href = `/database/on-this-day/${mm}-${dd}/`;
-	</script>
+	<a href="/database/on-this-day-dummy/{{ "now" | date: "%m"}}-{{ "now" | date: "%d" }}/" id="on-this-day-link">{{ item.title }}</a>
+	<script src="/assets/js/on-this-day.js"></script>
     {%- else -%}
       {{ item.title }}
     {%- endif -%}
