@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/grange85/no-style-please
-  revision: 482e148f3095dfda8da69ab7a931c8b91f6c92d9
+  revision: 8f424c44a4dff96b71f3fe316469c43a8fc76dee
   specs:
     no-style-please (0.4.7)
       jekyll (~> 4.3.3)
