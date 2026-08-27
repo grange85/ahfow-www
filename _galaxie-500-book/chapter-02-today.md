@@ -1,0 +1,3 @@
+# Today
+
+Galaxie 500's debut album was released in late 1988 on Aurora Records in the US, Shimmy Disc Europe (LP) and Schemer (CD) in Europe. In the summer of 1989 the band signed to Rough Trade who reissued it in both the US and UK. After Rough Trade Distribution went into receivership in 1991 all of Galaxie 500's albums including Today went out of print. In late 1991 or early 92 Damon bought Galaxie 500's masters and contracts on behalf of the band at an auction of Rough Trade's assets. The albums were eventually re-released in 1996 by Rykodisc. After the arrangement with Ryko ended in 2009 the albums were re-released on Damon & Naomi's 20\|20\20 label.
