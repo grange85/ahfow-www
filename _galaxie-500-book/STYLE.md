@@ -19,6 +19,41 @@ Living document — extend as new conventions get decided.
 - **Italics syntax** — always use underscores (`_like this_`), not asterisks. Consistency matters more than which one.
 - **Quotation marks** — write straight quotes in source; Pandoc's `smart` extension converts to typographic quotes at the LaTeX stage. Don't hand-type curly quotes.
 
+## Section headings & official catalogue numbers
+
+- Section heading format: `## <Release name> (<catalogue number>, <month year>)`
+  - e.g. `## Aurora (AU 002, October 1988)`
+- This is the *official* label catalogue number, identifying the release itself — not to be confused with your own AHFOW collection numbering, which lives in the metadata block instead (see below)
+
+## Metadata block
+
+Sits at the end of each entry. Has changed a lot across 3+ years of posts —
+this is the converged version going forward; older entries should be
+reformatted to match as they're compiled into the zine.
+
+- Field labels in **bold**, not italics (italics is reserved for dates, so this keeps the two visually distinct)
+- Fields, in order:
+  - **AHFOW Number:** — your own collection cataloguing number (e.g. `AHFOW 12/032`). Deliberately *not* called "Catalogue Number" to avoid clashing with the official catalogue number already given in the section heading
+  - **Artist:**
+  - **Title:**
+  - **Format:** — LP, CD, cassette, 7", flexi, etc.
+  - **Acquisition:** — freeform note on how/when/where it was bought. Always give this its own labelled line rather than leaving it as loose trailing prose
+  - **Notes:** — optional; only include when there's something genuinely extra to say that isn't already covered by the heading (release name/label/date) or the Format field. Drop it rather than let it restate the heading (e.g. don't write "Aurora LP" here when the heading already says Aurora and Format already says LP)
+
+Example:
+
+```markdown
+## Aurora (AU 002, October 1988)
+
+_17th May 1964_
+
+- **AHFOW Number:** AHFOW 12/032
+- **Artist:** Galaxie 500
+- **Title:** Today
+- **Format:** LP
+- **Acquisition:** Bought on eBay around 2010, for a lot less than they go for now — exact price lost to time
+```
+
 ## Links
 
 Print can't follow links, so every link needs a decision at compile time:
