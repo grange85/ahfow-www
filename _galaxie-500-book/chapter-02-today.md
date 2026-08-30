@@ -4,16 +4,16 @@ Galaxie 500's debut album was released in late 1988 on Aurora Records in the US,
 
 So, with such a complicated release history it's no surprise that there are quite a few copies of _Today_ in the collection.
 
-## Aurora Records (AU002, October 1988)
+## Aurora Records LP (AU002, October 1988)
 _18th August 2025_
 
-The last credit on the back of Galaxie 500's debut album _Today_ reads "Photograph by Eugene Atget" - back in 1990, without access to the Internet you'd just accept that sort of credit as it is, look at the lovely, and rather unusual, picture on the front, and then slip the record out of its sleeve and get on with the business of listening.
+The last credit on the back of Galaxie 500's debut album _Today_ reads "Photograph by Eugene Atget". Back in 1990, without access to the Internet, you'd just accept that sort of credit as it was written, look at the lovely and rather unusual picture on the front, and then slip the record out of its sleeve and get on with the business of listening.
 
 [TODO Image here]
 
-So, for a long time I never really gave much thought to _Eugene Atget_. Things like _was he a friend of the band?_ or _what other albums covers might he have taken photos for?_ just didn't cross my mind. But that all changed with the coming of the Internet, suddenly the urge to know everything can be satisfied, and those questions can now fairly easily be answered. For those two the answers are "no" and "none", because he didn't even take the photo _for_ this album.
+So, for a long time I never really gave much thought to _Eugene Atget_. Things like "was he a friend of the band?" or "what other albums covers might he have taken photos for?" just didn't cross my mind. But that all changed with the coming of the Internet, suddenly the urge to know everything could be satisfied, and those questions could fairly easily be answered. For those two the answers were "no" and "none", because he didn't even take the photo _for_ this album.
 
-Eugene Atget was a pioneer of photography who worked in the late 19th and early 20th century in Paris and was dead long before he could be commissioned to photograph for album covers. He took thousands of photographs of Paris and was considered a _documentary photographer_, taking photographs to provide an archive of the architecture and life of Paris. He would also suuply photographs for artists such as painters and stage designers. As such his work only became recognised as _art_ after his death in 1927.
+Eugene Atget was a pioneer of photography who worked in the late 19th and early 20th century in Paris and was dead long before he could be commissioned to photograph for album covers. He took thousands of photographs of Paris and was considered a documentary photographer, someone who was taking photographs to provide a record of the architecture and life of Paris. He would also suuply photographs for artists such as painters and stage designers. As such his work only became recognised as "art" after his death in 1927.
 
 There are a lot of Eugene Atget's photographs available online (MoMA has 2,914 of his photos online[^eugene-atget-moma]) and, after a little digging around I managed to track down the one that Naomi picked to use on _Today_:
 
@@ -29,9 +29,9 @@ Now obviously in 1988 when Naomi was designing the cover of Galaxie 500's debut 
 
 —Email from Naomi - 26th July 2025[^ny-email-2025-07-26]_
 
-Naomi also mentioned that she "stole the classic layout of a Blue Note jazz album," so the package was this wonderful mix of early 20th Century photography, mid 20th Century jazz design, and late 20th Century guitar rock, all combined to make this a perfect, unique, and timeless album.
+Naomi also mentioned that she "stole the classic layout of a Blue Note jazz album". So the package was this wonderful mix of early 20th Century photography, mid 20th Century jazz design, and late 20th Century guitar rock. All of this combined to make this a perfect, unique, and timeless album.
 
-After Naomi's email arrived I of course fell down a rabbit hole of Blue Note jazz album covers. I have a few Blue Note albums but none that were too close to Today. Not as close perhaps as this one?
+After Naomi's email arrived I of course fell down a rabbit hole of Blue Note jazz album covers. I have a few Blue Note albums but none that were too close to _Today_. Not as close perhaps as this one?
 
 [TODO Pic of Eric Dolphy's 'Out to Lunch']
 
@@ -56,7 +56,7 @@ Either way this is my original copy of _Today_ released on Shimmy Disc Europe. I
 
 It still has the price sticker on it so I know that I bought it at HMV and that I paid £7.49.
 
-Now my ears, after years of heavy metal (and other loud concert) abuse aren't really up to much but when I mentioned to Dean my multiple copies of _Today_ on vinyl he asked which one I liked best - was it an original or one that was remastered for the re-releases.
+Now my ears, after years of heavy metal (and other loud concert) abuse aren't really up to much but when I mentioned to Dean my multiple copies of _Today_ on vinyl he asked which one I liked best, was it an original LP or one that had been remastered for the LP re-releases in 2009.
 
 > That was probably the first time [I've] listened to them side-by-side and closely enough to try and form an opinion ~ although not sure that I came down on either side.
 > 
