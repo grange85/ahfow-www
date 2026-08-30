@@ -15,19 +15,19 @@ So, for a long time I never really gave much thought to _Eugene Atget_. Things l
 
 Eugene Atget was a pioneer of photography who worked in the late 19th and early 20th century in Paris and was dead long before he could be commissioned to photograph for album covers. He took thousands of photographs of Paris and was considered a _documentary photographer_, taking photographs to provide an archive of the architecture and life of Paris. He would also suuply photographs for artists such as painters and stage designers. As such his work only became recognised as _art_ after his death in 1927.
 
-There are a lot of Eugene Atget's photographs available online (MoMA has 2,914 of his photos online[^Eugene Atget MoMa]) and, after a little digging around I managed to track down the one that Naomi picked to use on Today:
+There are a lot of Eugene Atget's photographs available online (MoMA has 2,914 of his photos online[^eugene-atget-moma]) and, after a little digging around I managed to track down the one that Naomi picked to use on Today:
 
 [Original Atget photo here]
 
 Now obviously in 1988 when Naomi was designing the cover of Galaxie 500's debut album she didn't have the luxury of paging through the photos on MoMA's website so I asked her how she came to find the photo and how she came upon the work of Eugene Atget:
 
-> My father was the photographer John Yang[^John Yang] and so I grew up around a lot of classic black and white photography. My father had a large collection of photo books that I would look at, and we would go to photography shows together, usually at the Met or MoMa.
+> My father was the photographer John Yang[^john-yang] and so I grew up around a lot of classic black and white photography. My father had a large collection of photo books that I would look at, and we would go to photography shows together, usually at the Met or MoMa.
 > 
 > Eugene Atget was one of my father's favorite photographers, as was Minor White (whom he actually studied with in the 50’s for a summer), and Cartier Bresson, Edward Steichen, Andre Kertesz, Bill Brandt, Brassai…. the list goes on… so to me, these were household names! And so I knew their work at a young age.
 > 
 > So when I was thinking about the cover for “Today” I was just leafing through various books, wondering what might work, and I actually took the image for the cover of “Today” from a book my father had "The Work of Atget" (a multi-volume set, I can’t remember which volume) which was published by the Museum of Modern Art. In a way it is a strange juxtaposition: the word "Today" and an overgrown rose garden from 1921 in Paris, but somehow the lushness of it all seemed perfect to me.
 
-_&mdash;Email from Naomi - 26th July 2025[^NY Email]_
+_&mdash;Email from Naomi - 26th July 2025[^ny-email-2025-07-26]_
 
 Naomi also mentioned that she "stole the classic layout of a Blue Note jazz album" ~ so the package was this wonderful mix of early 20th Century photography, mid 20th Century jazz design, and late 20th Century guitar rock ~ all combined to make this perfect, unique, and timeless album.
 
@@ -49,13 +49,13 @@ Previously in [my record collection](/category/my-record-collection):
  - [\[074\] Galaxie 500 - Today (Video Arts Japan CD)](/2023/09/21/my-record-collection-071-galaxie-500-today-video-arts-japan-cd/)
  - [\[153\] Galaxie 500 - Today / Uncollected (2xCD)](/2024/06/20/my-record-collection-146-galaxie-500-today-uncollected-2xcd/)
 
-_&dagger; Of the photographers Naomi mentioned I was only familiar with the work of two of them, Henri Cartier-Bresson and Bill Brandt. So I had/have so much catching up to do!_
 
 ## Shimmy Disc Europe (SDE 8908LP, 1989)
+_10th April 2025_
 
 I always speculated that this was my _second_ Galaxie 500 purchase, after the CD of On Fire. That's probably true, although it might have been the first since I first heard On Fire on a cassette given to me by a journalist friend probably before it was released.
 
-[image here]
+[TODO image here]
 
 I've always been slightly puzzled why I bought On Fire on CD, and Today on LP which might suggest that I bought Today first but to be honest around the LP -> CD transition my buying was a little random... by the time of This Is Our Music I had probably fully embraced CDs - although continued to buy singles on vinyl.
 
@@ -86,7 +86,7 @@ However I listen it doesn't stop being a breathtaking ride though.
 
 So, Galaxie 500's Today puts in another appearance in this series in the form of the release on Dutch/German label Schemer. For some reason the first European releases of Today were on Schemer, for the CD, and Shimmy Disc Europe for the LP. 
 
-[image here]
+[TODO image here]
 
 This was the first CD release of the album and also the first appearance anywhere of _bonus track_ Crazy - and its only outing anywhere until it turned up on the _Uncollected_ disc in the box set in 1996. The Rough Trade reissue CD editions of Today did have an extra track but it was always the b-side of their first single, _King of Spain_.
 
@@ -101,19 +101,18 @@ This was another _fill out the collection_ purchase in 2012 - bought on eBay.
  - *Packaging:* Jewel case
  - *Format:* CD
  - Bought on eBay - can't find out what I paid... I'd guess no more than a fiver.
- - [Buy 'Today' on Bandcamp](https://galaxie500.bandcamp.com/album/today)
  
 ## Rough Trade US (R266-1, 1989)
 
 Slightly shocking that we've had to wait until the 15th entry in the series before Galaxie 500 put in an appearance - to be honest given how many copies of Today I have it's a surprise it has taken this long to reach a copy of Today! For a long time I was happy with the LP I bought of the album in 1990, and then the CD that came in the box set. But at some point it got out of hand.
 
-[image here]
+[TODO image here]
 
 This is the Rough Trade US re-release of Galaxie 500's debut album, released in 1991. I bought this in June 2012 but haven't managed to figure out from where, or how much I paid - it's a bit grubby so... hopefully not too much! 
 
 The run out grooves have the Aurora catalogue number etched into them... and then crossed out!
 
-[maybe see if I can photograph that]
+[TODO maybe see if I can photograph that]
 
  - *Catalogue Number:* AHFOW 12/031
  - *Artist:* Galaxie 500
@@ -123,3 +122,14 @@ The run out grooves have the Aurora catalogue number etched into them... and the
  - *Format:* LP
  - Bought in 2012 - price, unknown.
 
+
+
+
+
+
+
+
+## Footnotes
+[^ny-email-2025-07-26]: Of the photographers Naomi mentioned I was only familiar with the work of two of them, Henri Cartier-Bresson and Bill Brandt. So I had/have so much catching up to do!
+[^eugene-atget-moma]: TODO
+[^john-yang]: TODO
