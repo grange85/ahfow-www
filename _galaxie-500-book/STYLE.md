@@ -72,6 +72,26 @@ Print can't follow links, so every link needs a decision at compile time:
 - Placeholder footnotes still needing research: `[^label]: TODO — <what's needed>`
   - Grep-able via: `grep -rn "TODO —" .`
 
+## Punctuation & quotation style
+
+- Use **British/logical quotation style**, not American style: punctuation goes inside closing quotation marks only when it's actually part of the quoted material; otherwise it sits outside
+  - `The bonus track on this edition is "Crazy".` — the full stop isn't part of the song title, so it stays outside
+  - Consistent with the rest of the house style (UK date format, etc.)
+- This applies to song/track titles in quotation marks as well as direct quotations — same rule, same reasoning
+- Quoted material from other people (emails, interviews) stays verbatim regardless of this rule — see Blockquotes
+
+## Blockquotes
+
+- Standard Pandoc `>` syntax, one paragraph per `>`-prefixed block, blank `> ` line between paragraphs — converts cleanly to a LaTeX quote environment
+- Footnote markers work the same inside a blockquote as anywhere else
+- **Quoted material stays verbatim** — don't apply house style (title formatting, quotation-punctuation rule, etc.) to someone else's words. Typos, their own quote style, spacing — leave as given
+- Attribution line goes immediately below the blockquote (not prefixed with `>`), italicised, e.g.:
+  ```markdown
+  > Quoted text here.
+  _—Email from Naomi, 26th July 2025[^ny-email-2025-07-26]_
+  ```
+- Type dashes as real characters, not HTML entities (`&mdash;` etc.) — use an em dash — directly. In Vim: `Ctrl-K` then `-M` (em dash) or `-N` (en dash); check `:digraphs` to confirm the exact mapping on your system
+
 ## Images
 
 - Placeholder convention for images still needing a higher-res source — TBD, currently being removed and flagged inline as work proceeds
