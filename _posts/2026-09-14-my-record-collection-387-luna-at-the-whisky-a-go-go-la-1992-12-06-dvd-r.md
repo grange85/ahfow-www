@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[387] Luna at The Whisky a Go-Go, LA 1992-12-06 (DVD-R) '
+title: '[387] Luna at The Whisky a Go Go, LA 1992-12-06 (DVD-R) '
 date: 2026-09-14 00:00 +0000
 series-title: My record collection 
 catno: 13/023
@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-whisky-a-go-go-dvd.jpg
 categories:
 - luna
 - my record collection
@@ -18,7 +18,7 @@ tags:
 ---
 This is a video recording of an early Luna show that has been doing the rounds for quite a while. I have it on DVD-R but have no idea whether it was something I burnt myself from a download, or it was sent to me. I don't have a download on a drive which suggests the latter, but it is on a brand of DVD-R that I did use, and that is my handwriting,  which suggests the former.
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-whisky-a-go-go-dvd.jpg" "Luna at the Whisky a Go Go DVD" %}
 
 Back in 2006 Jim from the Galaxie 500 Mailing list posted his fairly low-res copies onto YouTube. [His channel](https://www.youtube.com/@jimaluko/videos) has plenty of Luna from back then, and more recently. I suspect the copy I is from this source, possibly sent to me by Jim... possibly even on VHS (although I couldn't find a VHS but I may have ditched it after digitisation).
 
@@ -33,10 +33,10 @@ Here's a playlist of all five parts.
 
 <div>
   <figure>
-    <a data-goatcounter-click="external-youtube.com-list=PLHP5CVdDmis4" data-goatcounter-title="YouTube-Luna at The Whisky a GoGo (playlist)" data-goatcounter-referrer="/2026/09/14/my-record-collection-387-luna-at-the-whiskey-a-go-go-la-1992-12-06-dvd-r/" href="https://www.youtube.com/playlist?list=PLHP5CVdDmis4">
+    <a data-goatcounter-click="external-youtube.com-list=PLHP5CVdDmis4" data-goatcounter-title="YouTube-Luna at The Whisky a Go Go (playlist)" data-goatcounter-referrer="/2026/09/14/my-record-collection-387-luna-at-the-whisky-a-go-go-la-1992-12-06-dvd-r/" href="https://www.youtube.com/playlist?list=PLHP5CVdDmis4">
         <img src="https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-whisky-a-gogo-1992-playlist.jpg">
     <figcaption class="figure-caption">
-      Playlist: Luna at The Whisky a GoGo in 1992 (play on YouTube)
+      Playlist: Luna at The Whisky a Go Go in 1992 (play on YouTube)
     </figcaption>
     </a>
   </figure>
@@ -46,5 +46,5 @@ It's worth checking that channel since there's lots of great early Luna video an
 
  - *Catalogue Number:* 13/023
  - *Artist:* Luna
- - *Title:* Luna - Whisky a GoGo 6th November 1992
+ - *Title:* Luna - Whisky a Go Go 6th November 1992
  - *Format:* DVD-R
