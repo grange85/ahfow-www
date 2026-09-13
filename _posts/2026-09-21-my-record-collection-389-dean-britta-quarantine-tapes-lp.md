@@ -28,13 +28,13 @@ I guess while it was lovely hearing the Luna, Dean & Britta, and Galaxie 500 son
 
 {% ahfowvideo "f6cEz-WSy_Q" "Dean & Britta - The Carnival is Over" %}
 
-"Massachusetts" spent four weeks at number one in the UK, and number eleven in the US for The Bee Gees.
+"Massachusetts" spent four weeks at number one in the UK, and reached number eleven in the US for The Bee Gees.
 
 {% ahfowvideo "v8w6VUicZ7w" "Dean & Britta - Massachusetts (We Love The Betsy, June 2020)" %}
 
-The LP is a lovely package, with Brian Calvin's lips on the front, and a lovely picture of Dean and Britta on the back, and being an LP it's a nice **big**, lovely picture, although since the sleeve doesn't mention who it's by or what the album is called, the shrink-wrap was adorned with a pink sticker to fill in those details. The printed inside sleeve has the track listing in colourful type, and the credits on the reverse. The LP itself is translucent green vinyl.
+The LP is a lovely package, with Brian Calvin's lips on the front, and a lovely picture of Dean and Britta on the back, and being an LP it's a nice **big**, lovely picture, although since the sleeve doesn't mention who it's by or what the album is called, the shrink-wrap was adorned with a pink sticker to fill in those details. The printed inside sleeve has the track listing in large, colourful type, and the credits on the reverse. The LP itself is translucent green vinyl.
 
-The LP was sold in a double pack with Dean's then _new_ album _I Have Nothing to Say to The Mayor of LA_ for $55 for the two, but postage bumped up the cost by another 50%!
+The LP was sold in a double pack with Dean's then _new_ album _I Have Nothing to Say to The Mayor of LA_ for $55 for the two, but postage bumped up the cost by another 50%. Maybe when this series is over I'll go back and count how many times I've moaned about the cost of international postage.
 
  - *Catalogue Number:* AHFOW 12/083
  - *Artist:* Dean & Britta
