@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[310] Damon & Naomi - More Sad Hits (20|20|20 LP reissue)'
+title: '[310] Damon & Naomi - More Sad Hits (20|20|20 CD reissue)'
 date: 2025-12-11 00:00 +0000
 series-title: My record collection
 catno: 10/126
