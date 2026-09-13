@@ -60,5 +60,5 @@ In January 2009 they toured Europe and I saw a great show at The Luminaire in Ki
  - [Buy 'More Sad Hits' on Bandcamp](https://damonandnaomi.bandcamp.com/album/more-sad-hits)
 
 Previously in [my record collection](/category/my-record-collection):
- - [[310] Damon & Naomi - More Sad Hits (20|20|20 CD reissue)](/2025/12/11/my-record-collection-damon-naomi-more-sad-hits-20-20-20-lp-reissue/)
+ - [[310] Damon & Naomi - More Sad Hits (20\|20\|20 CD reissue)](/2025/12/11/my-record-collection-damon-naomi-more-sad-hits-20-20-20-lp-reissue/)
  - [[081] Damon & Naomi - More Sad Hits](/2023/10/16/my-record-collection-078-damon-naomi-more-sad-hits/)
