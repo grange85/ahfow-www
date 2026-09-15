@@ -26,11 +26,22 @@ In May 2017 Luna launched a Pledgemusic campaign to fund the covers album, _A Se
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/luna-dear-paulina-and-lyric-sheet-signed.jpg" "Signed sleeve and lyric sheet" %}
 
-Now, I know people put out singles all the time, I know it must be a thrill, but also it's what they do. I ran a mailing list and a web page, that's what I did. Putting out a single was a significant event. It wasn't a record label putting out another single, it was a _fan_ putting out a single by a band he loves. Of course labels love their bands... but it's different. When there's another single by another band coming you just get on with it. For me this was a one-off. It was important for me to do it right, and do it as well as I could. And I wanted it to be something that I could look back on and say "wow, I made that happen".
+Now, I know people put out singles all the time, I know it must be a thrill, but also it's what they do. I ran a mailing list and a web page, that's what I did. Putting out a single was a significant event. It wasn't a record label putting out another single, it was a _fan_ putting out a single by a band he loves. Of course labels love their bands... but it's surely a different kind of love? When there's another single by another band you love coming along I guess it's something you just get on with. For me this was a one-off. It was important for me to do it right, and do it as well as I could. And I wanted it to be something that I could look back on and say "wow, I made that happen".
 
-Thousands of records have been cut at Abbey Road, so that "Dear Paulina" was cut at Abbey Road doesn't really mean anything. Except, it was cut at Abbey Road with Hazel and myself sitting on a sofa watching. It's the only record that that happened to&dagger;.
+Having said that I didn't really have any idea how to make it happen so am grateful to a lot of people who helped with that, whether it was friends or acquaintances, or the companiues I used to get it over the line. There were a number of significant milestones on the road to getting the single out... here are a few that pop into my head:
 
-You can probably tell that still, 27 years on, I still look back on "Dear Paulina" with a ridiculous amount of pride.
+- Asking Dean if I could and him saying "yes" - I really had no idea what I was doing, and it really was just a half-baked idea that I didn;t really expect to come to anything. When Dean said "yes" I suddenly had to start figuring things out.
+- The DAT arriving. Dean had suggested he might dig out a couple of demos for the single, which of course would have been amazing, but, more amazing was getting something as unique as Dear Paulina. A genuine Luna rarity that (as of now) only exists:
+  - in an unpleasant scene in a film
+  - on a 7" single released by me (546 copies)
+  - on the rarities bonus disc on the [Long Players 92-99 box set]() (2000 copies)
+ - Getting the single cut at Abbey Road Studios  
+   Now, thousands of records have been cut at Abbey Road, so the fact that "Dear Paulina" was cut at Abbey Road doesn't really mean anything. Except, it was cut at Abbey Road with Hazel and myself sitting on a sofa watching. It's the only record that that has happened to&dagger; (so far).
+ - Getting a finished article into my hands, and into the hands of the friends I had made on the mailing list. I just read through the archives with a glow at how it was received. I think because, while it reached a lot further than the mailing list members it was actually made _just_ for them/us!
+
+The big surprise to me was that I never actually managed to sell all the copies I had. It was trickier in the pre-Paypal days, and I guess '99 was close to vinyl's nadir, but I really was expecting them all to go instantly. In 1999 there were about 350 subscribers to the mailing list.
+
+You can probably tell that, 27 years on, I still look back on "Dear Paulina" with a ridiculous amount of pride.
 
  - *Catalogue Number:* AHFOW 11/048
  - *Artist:* Luna
