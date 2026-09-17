@@ -27,7 +27,7 @@ I have of course already ignored my own rules on a few occasions... but, here ar
 
 ### AHFOW 10/090 and AHFOW 11/047 Elefant Records tributes to Galaxie 500
 
-The "tribute album" had a flourishing in the late 80s, notably those produced by [Hal Wilner](https://en.wikipedia.org/wiki/Hal_Willner#Concept_albums_produced_by_Hal_Willner), but a watershed moment might be considered Terry Tolkin's [The Bridge: A Tribute to Neil Young](https://en.wikipedia.org/wiki/The_Bridge:_A_Tribute_to_Neil_Young) perhaps because of it's lean towards more left-field/alternative artists. In the wake of this so many tribute albums came out but it wasn't until 1997 that Galaxie 500 finally got a long ovedue tribute on Spanish label Elefant. The album _Snowstorm: A Tribute to Galaxie 500_ was preceded, a few months earlier, by a 7" EP called _A Tribute to Galaxie 500_ that was described as an "advance single".
+The "tribute album" had a flourishing in the late 80s, notably those produced by [Hal Wilner](https://en.wikipedia.org/wiki/Hal_Willner#Concept_albums_produced_by_Hal_Willner), but a watershed moment might be considered Terry Tolkin's [The Bridge: A Tribute to Neil Young](https://en.wikipedia.org/wiki/The_Bridge:_A_Tribute_to_Neil_Young) perhaps because of its lean towards more left-field/alternative artists. In the wake of this so many tribute albums came out but it wasn't until 1997 that Galaxie 500 finally got a long ovedue tribute on Spanish label Elefant. The album _Snowstorm: A Tribute to Galaxie 500_ was preceded, a few months earlier, by a 7" EP called _A Tribute to Galaxie 500_ that was described as an "advance single".
 
 The EP had four tracks:
  - US band Hula Hoop covered "Sorry"
@@ -61,7 +61,7 @@ The sleeve notes for the album were written by Andrea Troolin, who has already p
 
 ### AHFOW 10/096 - Never Lose That Feeling vol.2
 
-_Never Lose That Feeling_ was a series of three compilation albums released by indie label/promoters Club AC30 from 2005 to 2009, The albums were collections of mostly fairly obscure indie bands covering (generally) slightly less obscure indie/shoegaze classics. Volume two found it's way into my collection because it contains a cover of Spectrum's "How You Satisfy Me" by Britta. It also contains an interesting cover of Galaxie 500's Blue Thunder by East Anglian band [Fiel Garvie]() (who released three very lovely albums between 1999 and 2006 a couple of which you can find [on their Bandcamp](https://fielgarvie.bandcamp.com/music)).
+_Never Lose That Feeling_ was a series of three compilation albums released by indie label/promoters Club AC30 from 2005 to 2009, The albums were collections of mostly fairly obscure indie bands covering (generally) slightly less obscure indie/shoegaze classics. Volume two found its way into my collection because it contains a cover of Spectrum's "How You Satisfy Me" by Britta. It also contains an interesting cover of Galaxie 500's Blue Thunder by East Anglian band [Fiel Garvie]() (who released three very lovely albums between 1999 and 2006 a couple of which you can find [on their Bandcamp](https://fielgarvie.bandcamp.com/music)).
 
 {% ahfowvideo "3kx2FrPItqM" "Britta Phillips - How You Satisfy Me" %}
 

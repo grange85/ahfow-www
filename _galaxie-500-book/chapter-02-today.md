@@ -52,11 +52,11 @@ I always speculated that this was my second Galaxie 500 purchase, after the CD o
 
 I've always been slightly puzzled why I bought _On Fire_ on CD, and _Today_ on LP which might suggest that I bought _Today_ first but to be honest around the LP → CD transition my buying was a little random. By the time of _This Is Our Music_ I had fully embraced CDs (although continued to buy singles on vinyl).
 
-Either way this is my original copy of _Today_ released on Shimmy Disc Europe. It has of course been well played, and well loved, it being my only copy until the release of the Rykodisc box set in 1996.
+Either way this is my original copy of _Today_ released on Shimmy Disc Europe. It has of course been well played, and well loved, it being my only copy until the release of the Rykodisc CD box set in 1996.
 
 It still has the price sticker on it so I know that I bought it at HMV and that I paid £7.49.
 
-Now my ears, after years of heavy metal (and other loud concert) abuse aren't really up to much but when I mentioned to Dean my multiple copies of _Today_ on vinyl he asked which one I liked best, was it an original LP or one that had been remastered for the LP re-releases in 2009.
+Now my ears, after years of heavy metal (and other loud concert) abuse, aren't really up to much but when I mentioned to Dean my multiple copies of _Today_ on vinyl he asked which one I liked best, was it an original LP or one that had been remastered for the LP re-releases in 2009.
 
 > That was probably the first time [I've] listened to them side-by-side and closely enough to try and form an opinion ~ although not sure that I came down on either side.
 > 
