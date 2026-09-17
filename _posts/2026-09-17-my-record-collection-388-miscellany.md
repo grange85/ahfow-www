@@ -27,7 +27,7 @@ I have of course already ignored my own rules on a few occasions... but, here ar
 
 ### AHFOW 10/090 and AHFOW 11/047 Elefant Records tributes to Galaxie 500
 
-The "tribute album" had a flourishing in the late 80s, notably those produced by [Hal Wilner](https://en.wikipedia.org/wiki/Hal_Willner#Concept_albums_produced_by_Hal_Willner), but a watershed moment might be considered Terry Tolkin's [The Bridge: A Tribute to Neil Young](https://en.wikipedia.org/wiki/The_Bridge:_A_Tribute_to_Neil_Young) perhaps because of its lean towards more left-field/alternative artists. In the wake of this so many tribute albums came out but it wasn't until 1997 that Galaxie 500 finally got a long ovedue tribute on Spanish label Elefant. The album _Snowstorm: A Tribute to Galaxie 500_ was preceded, a few months earlier, by a 7" EP called _A Tribute to Galaxie 500_ that was described as an "advance single".
+The "tribute album" had a flourishing in the late 80s, notably those produced by [Hal Wilner](https://en.wikipedia.org/wiki/Hal_Willner#Concept_albums_produced_by_Hal_Willner), but a watershed moment might be considered Terry Tolkin's [The Bridge: A Tribute to Neil Young](https://en.wikipedia.org/wiki/The_Bridge:_A_Tribute_to_Neil_Young) perhaps because of its lean towards more left-field/alternative artists. In the wake of this so many tribute albums came out. It wasn't until 1997 that Galaxie 500 got a long ovedue tribute, on Spanish label Elefant. The album _Snowstorm: A Tribute to Galaxie 500_ was preceded, a few months earlier, by a 7" EP called _A Tribute to Galaxie 500_ that was described as an "advance single".
 
 The EP had four tracks:
  - US band Hula Hoop covered "Sorry"
@@ -45,7 +45,7 @@ The album opens with The BMX Bandits cover of "Tugboat", with guest vocals by An
 
 {% ahfowvideo "aBxC4EOfeXs" "BMX Bandits feat. Angel Corpus Christ - Tugboat" %}
 
-Polar who cover King of Spain, is long time friend Miguel (a friend I have actually met in the flesh) who contributed to both of my tribute albums as the fabulous [The Standby Connection](https://thestandbyconnection.bandcamp.com/). The drummer of Polar, and The Standby Connection Paco Grande also mastered [On Fire \| 30]
+Polar who cover King of Spain, is long time friend Miguel (a friend I have actually met in the flesh) who contributed to both of my tribute albums as the fabulous [The Standby Connection](https://thestandbyconnection.bandcamp.com/). The drummer of Polar, and The Standby Connection Paco Grande also mastered [On Fire \| 30](https://aheadfullofwishes.bandcamp.com/album/on-fire-30)
 
 {% ahfowvideo "zvA9vnXHSLU" "Polar - King of Spain" %}
 
@@ -79,7 +79,7 @@ This clip of them is perfect, it has Britta with lovely dark hair making eggy-br
 
 ### Max Q - Sometimes 
 
-Luna's first London show was at The Underworld in Camden (in the basement of The World's End pub) at the end of February 1992. One of the support bands that night were called Winterset and they gave out free singles. Not _their_ singles but clearly they had acquired a load of single from a charity shop, or one of The Record and Tape Exchanges. I never kept the one I got, to be honest I probably left it at the venue. I have no memory what it was.
+Luna's first London show was at The Underworld in Camden (in the basement of The World's End pub) at the end of February 1992. One of the support bands that night were called Winterset and they gave out free singles. Not _their_ singles but clearly they had acquired a load of 7"s from a charity shop, or one of The Record and Tape Exchanges. I never kept the one I got, to be honest I probably left it at the venue. I have no memory what it was.
 
 A while back I reminisced about the show and Mike got in touch and sent me a photo of the single he still had. It sort of made me feel a little negligent for not having kept mine. I kept in occasional touch with Mike and a couple of years ago he asked for my address and this arrived. 
 
