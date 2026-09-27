@@ -20,7 +20,7 @@ When I started this series back in January 2023 I never really thought about the
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-tugboat-king-of-spain-and-me.jpg" "Galaxie 500 - Tugboat" %}
 
-Galaxie 500 recorded Tugboat and King of Spain at Noise New York in February 1988 and it was released on Marc Aghini's _Aurora Records_ which came into existence specifically to release Galaxie 500's first single (and LP). The single was released in May 1988, I'm not sure of the actual date but here are a few dates I am fairly sure of (garnered from the excellent _Temperature's Rising_ book):
+Galaxie 500 recorded Tugboat and King of Spain at Noise New York in February 1988 and it was released on Marc Alghini's _Aurora Records_ which came into existence specifically to release Galaxie 500's first single (and LP). The single was released in May 1988, I'm not sure of the actual date but here are a few dates I am fairly sure of (garnered from the excellent _Temperature's Rising_ book):
 
  - There's an invoice for production of the single from _Nashville Record Productions_ dated 11th May. Total cost for 1000 copies: $980.22 (that would buy you about eight or nine copies now!)
  - There's a series of pictures of the band, and Marc, numbering the singles dated "May 1988".
