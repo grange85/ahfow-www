@@ -52,3 +52,5 @@ A beautiful pile of 7" singles arrived, including this. My copy is from the firs
 And that's the end of my collection. Although, of course it's not, it will continue to grow because thankfully Dean, Damon and Naomi seem to have no intention of calling it quits, and there are still some gaps in my collection that need filling.
 
 Two posts a week for three and a half years for something I thought I'd rattle off in a couple of months. Thanks for reading. I'll do a proper series _post mortem_ at some point although the next few weeks of my life will be a bit busy. The collection is now all boxed up and ready to move with us a few miles up the coast.
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/boxed-and-ready-to-go.jpg" "Boxed up and ready to go" %}
