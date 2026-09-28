@@ -30,7 +30,7 @@ Now, I know people put out singles all the time, I know it must be a thrill, but
 
 Having said that I didn't really have any idea how to make it happen so am grateful to a lot of people who helped with that, whether it was friends or acquaintances, or the companiues I used to get it over the line. There were a number of significant milestones on the road to getting the single out... here are a few that pop into my head:
 
-- Asking Dean if I could and him saying "yes" - I really had no idea what I was doing, and it really was just a half-baked idea that I didn;t really expect to come to anything. When Dean said "yes" I suddenly had to start figuring things out.
+- Asking Dean if I could and him saying "yes" - I really had no idea what I was doing, and it really was just a half-baked idea that I didn't really expect to come to anything. When Dean said "yes" I suddenly had to start figuring things out.
 - The DAT arriving. Dean had suggested he might dig out a couple of demos for the single, which of course would have been amazing, but, more amazing was getting something as unique as Dear Paulina. A genuine Luna rarity that (as of now) only exists:
   - in an unpleasant scene in a film
   - on a 7" single released by me (546 copies)
@@ -54,4 +54,4 @@ Previously in [my record collection](/category/my-record-collection):
  - [[141] Luna - Dear Paulina test pressings](/2024/05/09/my-record-collection-134-luna-dear-paulina-test-pressings/)
  - [[256] Luna - Dear Paulina (plain white sleeve)](/2025/06/05/my-record-collection-luna-dear-paulina-plain-white-sleeve/)
 
-_&dagger; I had been to Abbey Road for a single cut once before, when I sat on the sofa with Ken watching the Brian single being cut - that was also a thrill. You can [read about that on Substack too](https://aheadfullofwishes.substack.com/p/brian-ealing-and-understand)._
+_&dagger; I had been to Abbey Road for a single cut once before, when I sat on the sofa with Ken watching the Brian single being cut, that was also a thrill. You can [read about that on Substack too](https://aheadfullofwishes.substack.com/p/brian-ealing-and-understand)._
