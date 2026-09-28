@@ -18,7 +18,7 @@ tags:
 - britta phillips
 - sonic boom
 ---
-This is the third copy of Cheval Sombre's lovely first album in this series, but the first one that came into my posessions. It was sent to me by Dean ahead of release and is the reason that my [purchased CD is still in it's shrinkwrap](/2023/06/29/my-record-collection-047-cheval-sombre-self-titled/).
+This is the third copy of Cheval Sombre's lovely first album in this series, but the first one that came into my posessions. It was sent to me by Dean ahead of release and is the reason that my [purchased CD is still in its shrinkwrap](/2023/06/29/my-record-collection-047-cheval-sombre-self-titled/).
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/cheval-sombre-self-titled-promo-cd.jpg" "Cheval Sombre promo CD" %}
 

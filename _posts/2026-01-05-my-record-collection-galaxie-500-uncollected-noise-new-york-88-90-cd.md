@@ -21,7 +21,7 @@ This is a CD version of the expanded Uncollected that was released a couple of y
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-uncollected-nny-88-90-cd.jpg" "Uncollected Noise New York (CD)" %}
 
-Since I have two LP versions, and a digital download (since I bought one of the LP versions via Bandcamp) there was no real reason to take this out of it's shrink-wrap... but, I just have because I guess there's no real reason not to.
+Since I have two LP versions, and a digital download (since I bought one of the LP versions via Bandcamp) there was no real reason to take this out of its shrink-wrap... but, I just have because I guess there's no real reason not to.
 
 I probably haven't listened to this through since I listened to the LPs when they first arrived... this sort of album isn't really an _album_ and so isn't really something that requires listening to in one sitting. The tracks weren't recorded as an album they only live together through the coincidence that at the time of recording they weren't considered worthy of release, or had a different purpose. 
 

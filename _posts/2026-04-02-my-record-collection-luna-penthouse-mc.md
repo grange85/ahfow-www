@@ -30,7 +30,7 @@ He enjoyed his new life. He drank and partied and showed up late to work most da
 
  - **Sideshow by the Seashore** was a venue in Coney Island - the song contains Justin playing a theremin.
  - **Moon Palace** is named after a Paul Auster book and also references "Christopher Boyce" who was The Falcon in the film _The Falcon and the Snowman_.
- - **Double Feature** gave it's name to Dean and Britta's record label.
+ - **Double Feature** gave its name to Dean and Britta's record label.
  - **23 Minutes in Brussels** is probably Luna's most popular song - it consistently topped the annual survey, and a lyric was used as the title of their farewell tour rockumentary, and was played over the end credits. They first played it live in late 1994 although it changed quite a lot before it reached Penthouse. There's an mp3 on the [post about the 23 Minutes single](/2025/03/03/my-record-collection-luna-hedgehog-23-minutes-in-brussels-7/).
  - **Lost in Space** opens side two of the LP although Dean admitted in the [Life of the Record podcast](https://lifeoftherecord.com/luna-notes) that they "didn’t plan this as side one and side two because this is the CD era, the compact disc era. We just thought of it as sequencing the ten songs." 
  - I'm not sure I have a smippet of trivia about **Rhythm King** so here are Luna soundchecking it in 2016:

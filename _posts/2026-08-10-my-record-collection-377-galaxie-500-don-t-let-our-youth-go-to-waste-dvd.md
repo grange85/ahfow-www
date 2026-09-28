@@ -16,7 +16,7 @@ categories:
 tags:
 - 
 ---
-The previous copy of [Galaxie 500's 2004 DVD release in this series](/2024/11/11/my-record-collection-187-don-t-let-our-youth-go-to-waste-dvd/) was still in it's wrap so this is the first look at the actual content.
+The previous copy of [Galaxie 500's 2004 DVD release in this series](/2024/11/11/my-record-collection-187-don-t-let-our-youth-go-to-waste-dvd/) was still in its wrap so this is the first look at the actual content.
 
 {% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/galaxie-500-dvd-opened.jpg" "Galaxie 500 - Don't Let Our Youth Go to Waste (DVD)" %}
 

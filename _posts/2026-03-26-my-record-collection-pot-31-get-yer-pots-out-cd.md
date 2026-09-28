@@ -38,7 +38,7 @@ The version of Eye of the Storm is the one that was later released on the [Live 
 } %}
 
 
-The insert with the CD completely _forgets_ to mention anything about Eye of the Storm, I wonder if that's because of it's imminent use in the fake live album. If you're unaware of _the deception_ you can read about it in the post on [1001 Nights](/2026/02/12/my-record-collection-damon-naomi-1001-nights/) from a couple of months back.
+The insert with the CD completely _forgets_ to mention anything about Eye of the Storm, I wonder if that's because of its imminent use in the fake live album. If you're unaware of _the deception_ you can read about it in the post on [1001 Nights](/2026/02/12/my-record-collection-damon-naomi-1001-nights/) from a couple of months back.
 
 
  - *Catalogue Number:* AHFOW 05/032
