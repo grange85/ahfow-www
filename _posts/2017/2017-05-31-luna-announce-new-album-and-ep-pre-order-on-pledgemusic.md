@@ -18,7 +18,7 @@ tags:
 ---
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/luna-2017-promo-luz-gallardo.jpg" alt="Luna - A Sentimental Education (Photo: Luz Gallardo)" /><figcaption class="caption-text">Luna - A Sentimental Education (Photo: Luz Gallardo)</figcaption></figure>
 
-<p class="lead">Luna have just announced details of two new releases, an album of covers and an EP of instrumentals. Both are available to <a href="http://www.pledgemusic.com/projects/luna2">pre-order on Pledgemusic</a> where you can select from a number of bundles including vinyl, CD plus T-shirts and turntable mats and more! The records will be released in September.</p>
+<p class="lead">Luna have just announced details of two new releases, an album of covers and an EP of instrumentals. Both are available to pre-order on Pledgemusic where you can select from a number of bundles including vinyl, CD plus T-shirts and turntable mats and more! The records will be released in September.</p>
 <p>The album, A Sentimental Education, includes 10 covers including tracks by The Cure, The Velvet Underground (from Squeeze!), Yes and Fleetwood Mac amongst others (full tracklist below). The EP, A Place of Greater Safety, is a collection of instrumentals, a couple of which might be familiar to Luna fans.</p>
 <div class="col-md-6 float-right"><figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/sleeves/luna-a-sentimental-education-lo-res.jpg" alt="Luna - A Sentimental Education" /><figcaption class="caption-text">Luna - A Sentimental Education</figcaption></figure></div>
 <h3><a href="/database/luna/releases/luna-a-sentimental-education/">A Sentimental Education</a></h3>
@@ -41,6 +41,6 @@ tags:
 <li>Ides of March of the Trolls</li>
 <li>Spanish Odyssey</li></ul>
 
-<a href="http://www.pledgemusic.com/projects/luna2">Pre-order one of the bundles over on Pledgemusic now </a>
+Pre-order one of the bundles over on Pledgemusic now. 
 
 

@@ -24,6 +24,6 @@ tags:
 
 <p>The video features Rose McGowan and was (mostly) shot during the special show Luna performed at Gold Diggers in Hollywood last month.</p>
 
-<p>Fire in Cairo is one 10 covers on Luna's upcoming album A Sentimental Education to be released next month alongside an EP of instrumental originals. <a href="http://www.pledgemusic.com/projects/luna2">Head over to their Pledgemusic page</a> to order your copy.</p>
+<p>Fire in Cairo is one 10 covers on Luna's upcoming album A Sentimental Education to be released next month alongside an EP of instrumental originals. Head over to their Pledgemusic page to order your copy.</p>
 
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/02-luna/pictures/fire-in-cairo-grabs/luna-fire-in-cairo-video-grabs-01.jpg" alt="Dean Wareham of Luna in the video for Fire in Cairo" /><figcaption class="caption-text">Dean Wareham of Luna in the video for Fire in Cairo</figcaption></figure>

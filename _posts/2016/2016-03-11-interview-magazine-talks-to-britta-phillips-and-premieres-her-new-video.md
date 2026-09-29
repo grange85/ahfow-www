@@ -25,5 +25,5 @@ tags:
 <footer><a href="http://www.interviewmagazine.com/music/britta-phillips#_">Britta Phillips Branches out - Interview - March 2016</a></footer>
 </blockquote>
 
-<p>Luck or Magic will be release in April and you can pre-order the album (and buy lots of other goodies - including the fab poster below) on <a href="http://www.pledgemusic.com/projects/brittaphillips/">Britta's Pledge Music page</a></p>
+<p>Luck or Magic will be release in April and you can pre-order the album (and buy lots of other goodies - including the fab poster below) on Britta's Pledge Music page</p>
 <figure class="caption aligncenter"><img src="https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/britta-phillips-solo-poster-darren-grealish.jpg" alt="Britta Phillips poster by Darren Grealish" /><figcaption class="caption-text">Britta Phillips poster by Darren Grealish</figcaption></figure>
