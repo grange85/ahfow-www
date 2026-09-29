@@ -26,7 +26,7 @@ tags:
 
 <p>Pre-order Luck of Magic &hellip;
 <ul>
-	<li><a href="http://pledgemusic.com/brittaphillips/">Order Luck of Magic on Pledgemusic</a> &hellip; available with lots of bonus exclusive stuff</li>
+	<li>Order Luck of Magic on Pledgemusic &hellip; available with lots of bonus exclusive stuff</li>
 </ul>
 
 {% ahfowvideo "mrOpkUxhntE" "Britta Phillips - One Fine Summer Morning" %}
