@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The post mortem'
+title: 'My record collection, a post mortem'
 series-title: My record collection
 catno:
 author:
@@ -8,24 +8,30 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/almost-everything-collage.jpg
 categories:
 -
 tags:
 -
 ---
-This is the 400th, and last, post in the [my record collection series](/category/my-record-collection/), as well as the 392 numbered posts there were "progress reports" every fifty posts, an introduction, and, after the first 100 posts, a "quiz". My intention was to do that every 100 posts but there were so few entries to the first one I decided it wasn't worth the effort.
+This is the 400th, and last, post in my record collection series; as well as the 392 numbered posts, there was an introduction post, there were "progress reports" every fifty posts, and, after the first 100 posts, a "quiz". My intention was to do a quiz every 100 posts but there were so few entries to the first one I decided it wasn't worth the effort.
+
+{% ahfowimage "https://media.fullofwishes.co.uk/00-misc/my-record-collection/almost-everything-collage.jpg" "Almost everything" "https://media.fullofwishes.co.uk/00-misc/my-record-collection/almost-everything-collage-full.jpg" %}
 
 This post is to wrap it all up in a bunch of numbers and idle ramblings.
 
-I don't think I fully apprecaited the scale of this project when I started it in January 2023, and I didn't really have any idea if I could find something worth saying about all of these records
+I don't think I fully appreciated the scale of this project when I started it in January 2023, and I didn't really have any idea if I could find something worth saying about all of these records or indeed what I was aiming to achieve. I didn't want to "review" anything; my opinion on pretty much everything in the collection has always been pretty clear, and who really wants an opinion anyway? Perhaps if there had been somewhere to discuss each release, maybe like a mailing list, we could have aired our opinions there.
+
+I started with a spreadsheet containing a list of things in my collection, and a bunch of uncertainty. It seemed the first entry would define how the rest of the series would go, and fortunately it was one that I could write about. I knew where and when I bought it, how much I paid for it, and I even had a few newspaper clippings about it. So that's what the series became. Not every entry was so fortunate, but post #1 did set the template.
+
+The original plan was to cherry-pick items rather than include everything, but I found it hard to decide what to leave out, so quite early on, I decided not to leave anything out. That was the point at which the project went from something that would run for a few months to something that ran for over three years.
 
 ## Statistics
 
 ### Volume
 
 - **Total posts:** 399 (including non-collection posts like progress reports, quizzes, special posts)
-- **Main series posts:** ~392 (numbered collection entries)
+- **Main series posts:** 392 (numbered collection entries)
 - **Total words written:** 154,026 (that's more than A Tale of Two Cities by Charles Dickens)
 - **Average post length:** 386 words
 - **Median post length:** 344 words
@@ -39,9 +45,9 @@ I don't think I fully apprecaited the scale of this project when I started it in
 - **Total time span:** 1,352 days (3 years, 255 days)
 - **Yearly breakdown:**
   - **2023:** 106 posts, 33,287 words (314 avg words/post)
-  - **2024:** 110 posts, 41,667 words (379 avg words/post +21% vs 2023)
-  - **2025:** 105 posts, 43,972 words (419 avg words/post +36% vs 2023)
-  - **2026:** 78 posts, 35,100 words (450 avg words/post +43% bs 2023)
+  - **2024:** 110 posts, 41,667 words (379 avg words/post +21%)
+  - **2025:** 105 posts, 43,972 words (419 avg words/post +36%)
+  - **2026:** 78 posts, 35,100 words (450 avg words/post +43%)
 
 ### Galaxie 500
 - **Posts:** 64 (16.0% of all posts)
@@ -66,6 +72,18 @@ I don't think I fully apprecaited the scale of this project when I started it in
 - **Total words:** 12,255 (8.0% of all content)
 - **Average post length:** 323 words (most concise of the four)
 
+
+### By Format Type
+```
+CD          ████████████████████ 167 (43.3%)
+LP          ██████████ 86 (22.3%)
+7" single   █████████ 72 (18.6%)
+Cassette    ███ 20 (5.2%)
+DVD         ██ 14 (3.6%)
+12" single  ██ 11 (2.8%)
+VHS         █ 6 (1.5%)
+Other       █ 10 (2.6%)
+```
 
 ### Other stats
 - **Posts that have mentioned Motorhead:** 7
