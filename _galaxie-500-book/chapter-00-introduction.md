@@ -1,0 +1,1 @@
+I started a website dedicated to the band Galaxie 500, and its various off-shoot projects in late 1994 for no other reason than I had acquired some free web space and needed something to fill it with, and to learn how to fill it. In the summer of 1989 Ken and I were working at the BBC Film & Videotape Library in Brentford. 
