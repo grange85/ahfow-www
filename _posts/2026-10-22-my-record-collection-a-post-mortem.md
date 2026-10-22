@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'My record collection, a post mortem'
+title: My record collection, a post mortem
 series-title: My record collection
 catno:
 author:
@@ -13,6 +13,7 @@ categories:
 - my record collection
 tags:
 -
+date: 2026-10-22 21:58 +0100
 ---
 This is the 400th, and last, post in my record collection series; as well as the 392 numbered posts, there was an introduction post, there were "progress reports" every fifty posts, and, after the first 100 posts, a "quiz". My intention was to do a quiz every 100 posts but there were so few entries to the first one I decided it wasn't worth the effort.
 
