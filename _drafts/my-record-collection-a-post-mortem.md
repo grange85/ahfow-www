@@ -10,7 +10,7 @@ author:
   url: https://www.grange85.co.uk
 image: https://media.fullofwishes.co.uk/00-misc/my-record-collection/almost-everything-collage.jpg
 categories:
--
+- my record collection
 tags:
 -
 ---
@@ -22,14 +22,13 @@ This post is to wrap it all up in a bunch of numbers and idle ramblings.
 
 I don't think I fully appreciated the scale of this project when I started it in January 2023, and I didn't really have any idea if I could find something worth saying about all of these records or indeed what I was aiming to achieve. I didn't want to "review" anything; my opinion on pretty much everything in the collection has always been pretty clear, and who really wants an opinion anyway? Perhaps if there had been somewhere to discuss each release, maybe like a mailing list, we could have aired our opinions there.
 
-I started with a spreadsheet containing a list of things in my collection, and a bunch of uncertainty. It seemed the first entry would define how the rest of the series would go, and fortunately it was one that I could write about. I knew where and when I bought it, how much I paid for it, and I even had a few newspaper clippings about it. So that's what the series became. Not every entry was so fortunate, but post #1 did set the template.
+I started with a spreadsheet containing a list of things in my collection, and a bunch of uncertainty. It seemed the [first entry](/2023/01/20/my-record-collection-01-pierre-etoile/) would define how the rest of the series would go, and fortunately it was one that I could write about. I knew where and when I bought it, how much I paid for it, and I even had a few newspaper clippings about it. So that's what the series became. Not every entry was so fortunate, but post #1 did set the template.
 
 The original plan was to cherry-pick items rather than include everything, but I found it hard to decide what to leave out, so quite early on, I decided not to leave anything out. That was the point at which the project went from something that would run for a few months to something that ran for over three years.
 
 ## Statistics
 
 ### Volume
-
 - **Total posts:** 399 (including non-collection posts like progress reports, quizzes, special posts)
 - **Main series posts:** 392 (numbered collection entries)
 - **Total words written:** 154,026 (that's more than A Tale of Two Cities by Charles Dickens)
@@ -88,7 +87,7 @@ Other       █ 10 (2.6%)
 ### Other stats
 - **Posts that have mentioned Motorhead:** 7
 - **Posts that mentioned the Galaxie 500 Mailing List:** 52
-- **Times I used the word 'lovely':** 203
+- **Times I used the word 'lovely':** 203 (gorgeous: 24, splendid: 8)
 
 ### Things I have repeatedly moaned about over the course of this series
  - How the Internet was more social before "social media"
