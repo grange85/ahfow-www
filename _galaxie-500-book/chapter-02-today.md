@@ -1,6 +1,6 @@
 # Today
 
-Galaxie 500's debut album was released in late 1988 on Aurora Records in the US, Shimmy Disc Europe (LP) and Schemer (CD) in Europe. In the summer of 1989 the band signed to Rough Trade who reissued it in the US on CD and LP. After Rough Trade Distribution went into receivership in 1991 all of Galaxie 500's albums including _Today_ went out of print. In late 1991 or early 92 Damon bought Galaxie 500's masters and contracts on behalf of the band at an auction of Rough Trade's assets. The albums were eventually re-released in 1996 by Rykodisc. After the arrangement with Ryko ended in 2009 the albums were re-released on Damon & Naomi's 20\|20\20 label.
+Galaxie 500's debut album was released in late 1988 on Aurora Records in the US, Shimmy Disc Europe (LP) and Schemer (CD) in Europe. In the summer of 1989 the band signed to Rough Trade who reissued it in the US on CD and LP. After Rough Trade Distribution went into receivership in 1991 all of Galaxie 500's albums including _Today_ went out of print. In late 1991 or early 1992 Damon bought Galaxie 500's masters and contracts on behalf of the band at an auction of Rough Trade's assets. The albums were eventually re-released in 1996 by Rykodisc. After the arrangement with Ryko ended in 2009 the albums were re-released on Damon & Naomi's 20\|20\20 label.
 
 So, with such a complicated release history it's no surprise that there are quite a few copies of _Today_ in the collection.
 
@@ -19,15 +19,25 @@ There are a lot of Eugene Atget's photographs available online (MoMA has 2,914 o
 
 [TODO — Original Atget photo here]
 
-Now obviously in 1988 when Naomi was designing the cover of Galaxie 500's debut album she didn't have the luxury of paging through the photos on MoMA's website so I asked her how she came to find the photo and how she came upon the work of Eugene Atget:
+<blockquote>
+<p>
+    Now obviously in 1988 when Naomi was designing the cover of Galaxie 500's debut album she didn't have the luxury of paging through the photos on MoMA's website so I asked her how she came to find the photo and how she came upon the work of Eugene Atget:
+</p>
+    
+<p>
+    My father was the photographer John Yang[^john-yang] and so I grew up around a lot of classic black and white photography. My father had a large collection of photo books that I would look at, and we would go to photography shows together, usually at the Met or MoMa.
+</p>
+    
+<p>
+    Eugene Atget was one of my father's favorite photographers, as was Minor White (whom he actually studied with in the 50’s for a summer), and Cartier Bresson, Edward Steichen, Andre Kertesz, Bill Brandt, Brassai…. the list goes on… so to me, these were household names! And so I knew their work at a young age.
+</p>
+    
+<p>
+    So when I was thinking about the cover for "Today" I was just leafing through various books, wondering what might work, and I actually took the image for the cover of "Today" from a book my father had "The Work of Atget" (a multi-volume set, I can’t remember which volume) which was published by the Museum of Modern Art. In a way it is a strange juxtaposition: the word "Today" and an overgrown rose garden from 1921 in Paris, but somehow the lushness of it all seemed perfect to me.
+</p>
+</blockquote>
 
-> My father was the photographer John Yang[^john-yang] and so I grew up around a lot of classic black and white photography. My father had a large collection of photo books that I would look at, and we would go to photography shows together, usually at the Met or MoMa.
-> 
-> Eugene Atget was one of my father's favorite photographers, as was Minor White (whom he actually studied with in the 50’s for a summer), and Cartier Bresson, Edward Steichen, Andre Kertesz, Bill Brandt, Brassai…. the list goes on… so to me, these were household names! And so I knew their work at a young age.
-> 
-> So when I was thinking about the cover for "Today" I was just leafing through various books, wondering what might work, and I actually took the image for the cover of "Today" from a book my father had "The Work of Atget" (a multi-volume set, I can’t remember which volume) which was published by the Museum of Modern Art. In a way it is a strange juxtaposition: the word "Today" and an overgrown rose garden from 1921 in Paris, but somehow the lushness of it all seemed perfect to me.
-
-—Email from Naomi - 26th July 2025[^ny-email-2025-07-26]_
+<p class="caption">Email from Naomi - 26th July 2025[^ny-email-2025-07-26]</p>
 
 Naomi also mentioned that she "stole the classic layout of a Blue Note jazz album". So the package was this wonderful mix of early 20th Century photography, mid 20th Century jazz design, and late 20th Century guitar rock. All of this combined to make this a perfect, unique, and timeless album.
 
@@ -58,7 +68,8 @@ Now my ears, after years of heavy metal (and other loud concert) abuse, aren't r
 > 
 > In recent years when I play the vinyl I tend to pick one of the pre-Ryko ones (I have RT and Aurora vinyl to go with my SDE one) - but it's more likely for nostalgia than any other reason.
 > I think I nicely skirted around giving an answer there!
-—  _My email response - April 2017_
+
+—_My email response - April 2017_
 
 Dean was very much of the opinion that the earlier versions were superior — "so you agree with me :)".
 
@@ -104,7 +115,7 @@ The run out grooves have the Aurora catalogue number etched into them, and then 
 ## Domino – REWIGCD69
 _20th June 2024_
 
-Domino's double reissues of Galaxie 500's catalogue in 2010 were lovely, each studio album was doubled up with a more recent release and packages with nice glossy booklets each with a specially commissioned essay. 
+Domino's double reissues of Galaxie 500's catalogue in 2010 were lovely, each studio album was doubled up with a more recent release and packaged with nice glossy booklets each with a specially commissioned essay. 
 
 [TODO — image here]
 

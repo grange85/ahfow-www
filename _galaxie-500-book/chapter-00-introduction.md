@@ -1,3 +1,5 @@
+# Introduction
+
 So… at, I’d guess, about 22:30 on 27th June 1990 Galaxie 500 returned to the stage of The Subterania in west London, joined by Kramer, and played Ceremony, followed by Don’t Let Our Youth Go to Waste - and, although I didn’t realise it at the time, the course of my life took a turn… here’s how:
 
 I was working in the film stores at the BBC Film and Videotape Library - not a great job but the pay wasn’t too bad. I’d already been there five years so it was looking like I was stuck there. Then, Ken joined the BBC and he knew music better than anyone I had encountered before, and music that I liked, and music I didn’t know but that he knew I would like. He also knew music journalists so occasionally tapes would arrive with new music to listen to. One of those tapes had Galaxie 500 on it.
@@ -42,4 +44,6 @@ After too many years of doing nothing and not getting anywhere I happened upon a
 
 I spent seven very happy years at TNA before COVID threw a spanner in the works, I still enjoyed my work and loved TNA, but working from home didn’t really suit me. Hazel and I then moved 300 miles away from my workplace so working remotely became the only option! I stuck it out for a few more years and then, when I arrived at the age of 60, I decided to retire - and suddenly AHFoW became my only job!
 
+In January 2023 I thought it might be a good idea to write a short blog post about each item in my record collection. If I'd thought it through and realised that it would take three and a half years to complete I probably wouldn't have started it. I picked releases at random so there was no order to it. This is a collection of all the Galaxie 500 posts from that series. I have sorted them into release order so you there are likely to be references to releases that appear later in the book but hopefully that won't spoil things. It is after all just my own love letter to Galaxie 500. Hopefully you will appreciate it as that.
 
+--_Andy, October 2026_
