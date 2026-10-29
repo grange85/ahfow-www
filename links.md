@@ -10,7 +10,7 @@ title: Links
 
 ### Other links
 <ul>
- <li><a href="https://aheadfullofwishes.substack.com/p/from-the-archive-galaxie-500s-birthdays">Substack: Galaxie 500's birthdays</a></li>
+ <li><a href="https://aheadfullofwishes.substack.com/p/galaxie-500s-last-uk-tour">Substack: Galaxie 500's last UK tour</a></li>
   <li><a href="https://aheadfullofwishes.substack.com/">Subscribe on Substack for (free) weekly email newsletters (and more)</a></li>
   <li><a href="https://www.fullofwishes.co.uk/database/shows/upcoming.xml">Upcoming shows</a></li>
   <li><a href="https://www.fullofwishes.co.uk/category/my-record-collection/">My record collection</a></li>

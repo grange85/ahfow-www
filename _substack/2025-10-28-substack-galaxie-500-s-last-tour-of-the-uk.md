@@ -52,7 +52,7 @@ There are a couple of recordings of this show doing the rounds here's their seco
 
 I have nothing for this except that this is, to the best of my knowledge, the only time that Galaxie 500, or anyone who was ever in Galaxie 500, has played in Dundee. I'd like to hope that if it ever came to pass that I was living in or near Dundee that might change.
 
-### 5th November 1990 - Liverpool, Polytechnic
+### 6th November 1990 - Liverpool, Polytechnic
 
 It seems that Rough Trade had shelled out the train fare to send the inkies journos to Liverpool since the show was reviewed in both the NME and the Melody Maker a couple of weeks later:
 
