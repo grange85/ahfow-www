@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-piggie-alison-bagnall-2003-upscale.jpg
+image: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-piggie-alison-bagnall-2003-upscale-800.jpg
 categories:
 - lost tracks
 - dean & britta
@@ -47,7 +47,7 @@ When I mentioned this Hannah asked the obvious Q... what songs **have** been pla
 
 So digging through the various versions of Knives from Bavaria reminded me that there was a version of the song that was recorded for the Alison Bagnall film [Piggie](https://www.imdb.com/title/tt0368146/fullcredits/?ref_=tt_cst_sm) that Dean acted in back in 2003. I've never seen the film, I keep an eye out for it but it seems very few people have seen it - it has just three reviews on IMDB (all dating from around the time of release), and two on Letterboxd).
 
-{% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-piggie-alison-bagnall-2003-upscale.jpg" "Dean Wareham and Savannah Haske in Piggie (Alison Bagnall, 2003)" %}
+{% ahfowimage "https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-piggie-alison-bagnall-2003-upscale-800.jpg" "Dean Wareham and Savannah Haske in Piggie (Alison Bagnall, 2003)" %}
 
 The film premiered at the LA Film Festival in June 2003, and played at a few other festivals in the months that followed but has since seemingly disappeared into the ether, if anyone is able to furnish me with a copy of Piggie I'd very much appreciate it!
 
