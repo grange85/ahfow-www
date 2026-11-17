@@ -16,32 +16,32 @@ categories:
 tags:
 -
 ---
-I must admit that I've felt a little lost since I finished blogging about [my record collection](https://www.fullofwishes.co.uk/category/my-record-collection/), so I've been idling around adding little whistles and bells to AHFoW that only I would probably notice or use.
+I must admit that I've felt a little lost since I finished blogging about [my record collection](/category/my-record-collection/), so I've been idling around adding little whistles and bells to AHFoW that only I would probably notice or use.
 
 Over the weekend we had a guest staying. Hannah is a Galaxie 500 fan from London, most of my pals are Galaxie 500 fans (Hannah is the _fan_ who helped make the two AHFoW Galaxie 500 tribute CDs happen). While we were sitting in one evening the conversation turned to what I had been doing on the site recently and I mentioned one of those _whistles_, or _bells_. Since I now have a quite complrehensive database of gigs (partifularly Luna, Dean & Britta, and Damon & Naomi), and a fair few of them have setlists I thought it would be quite interesting to show what songs were being played most frequently.
 
 When I mentioned this Hannah asked the obvious Q... what songs **have** been played most frequently? So...
 
  - Galaxie 500 - this is my collection with the most gaps and holes so is probably not the most accurate. I have 52 shows with a setlist, here are the top 3
-     - [When Will You Come Home](https://www.fullofwishes.co.uk/database/tracks/when-will-you-come-home) - played 45 times
-     - [Decomposing Trees](https://www.fullofwishes.co.uk/database/tracks/decomposing-trees) - played 42 times
-     - [Don't Let Our Youth Go to Waste](https://www.fullofwishes.co.uk/database/tracks/don-t-let-our-youth-go-to-waste) - played 40 times
-     - ... [see the rest of the list](https://www.fullofwishes.co.uk/database/galaxie-500/shows/songs-played/).
+     - [When Will You Come Home](/database/tracks/when-will-you-come-home) - played 45 times
+     - [Decomposing Trees](/database/tracks/decomposing-trees) - played 42 times
+     - [Don't Let Our Youth Go to Waste](/database/tracks/don-t-let-our-youth-go-to-waste) - played 40 times
+     - ... [see the rest of the list](/database/galaxie-500/shows/songs-played/).
  - Luna - slightly better here - although it skews to later shows. I have 496 Luna setlists:
-     - [23 Minutes in Brussels](https://www.fullofwishes.co.uk/database/tracks/23-minutes-in-brussels) - played 389 times
-     - [Friendly Advice](https://www.fullofwishes.co.uk/database/tracks/friendly-advice) - played 326 times
-     - [Sideshow by The Seashore](https://www.fullofwishes.co.uk/database/tracks/sideshow-by-the-seashore) - played 307 times
-     - ... [see the rest of the list](https://www.fullofwishes.co.uk/database/luna/shows/songs-played/).
+     - [23 Minutes in Brussels](/database/tracks/23-minutes-in-brussels) - played 389 times
+     - [Friendly Advice](/database/tracks/friendly-advice) - played 326 times
+     - [Sideshow by The Seashore](/database/tracks/sideshow-by-the-seashore) - played 307 times
+     - ... [see the rest of the list](/database/luna/shows/songs-played/).
  - Damon & Naomi - I'm a little light on D&N setlists too. I have 72 shows with setlists:
-     - [Turn of the Century](https://www.fullofwishes.co.uk/database/tracks/turn-of-the-century) - played 32 times
-     - [Song to the Siren](https://www.fullofwishes.co.uk/database/tracks/song-to-the-siren) - played 27 times
-     - [A Shining Dream](https://www.fullofwishes.co.uk/database/tracks/a-shining-dream) - played 26 times
-     - ... [see the rest of the list](https://www.fullofwishes.co.uk/database/damon-and-naomi/shows/songs-played/).
+     - [Turn of the Century](/database/tracks/turn-of-the-century) - played 32 times
+     - [Song to the Siren](/database/tracks/song-to-the-siren) - played 27 times
+     - [A Shining Dream](/database/tracks/a-shining-dream) - played 26 times
+     - ... [see the rest of the list](/database/damon-and-naomi/shows/songs-played/).
  - Dean & Britta / Dean Wareham - I couple together Dean's solo, and Dean & Britta's duo shows because let's face it the vast majority of Dean shows have Britta. I have 253 shows, the lists are obviously affected somewhat by 13 Most Beautiful shows that have a pre-determined setlist:
-     - [Knives From Bavaria](https://www.fullofwishes.co.uk/database/tracks/knives-from-bavaria) played 124 times
-     - [Tugboat](https://www.fullofwishes.co.uk/database/tracks/knives-from-bavaria) played 117 times
-     - [I'll Keep It With Mine](https://www.fullofwishes.co.uk/database/tracks/knives-from-bavaria) played 105 times
-     - ... [see the rest of the list](https://www.fullofwishes.co.uk/database/dean-and-britta/shows/songs-played/).
+     - [Knives From Bavaria](/database/tracks/knives-from-bavaria) played 124 times
+     - [Tugboat](/database/tracks/knives-from-bavaria) played 117 times
+     - [I'll Keep It With Mine](/database/tracks/knives-from-bavaria) played 105 times
+     - ... [see the rest of the list](/database/dean-and-britta/shows/songs-played/).
 
 ... at this point in the evening Hazel, whose AHFoW knowledge is all acquired by osmosis, chimed in saying she had no idea what "Knives from Bavaria" was. I played her a version... and then another version, and another. I'm sure she knew it, she had after all seen them play it live in Hebden Bridge a year ago.
 
