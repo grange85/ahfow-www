@@ -18,6 +18,10 @@ title: Links
 </ul>
 
 ### Video
+
+{% ahfowvideo "7_myrS3Tw3Q" "A Peace of US release day live stream (2024)" "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/dean-britta-a-peace-of-us-live-stream-2024.jpg" %}
+
+
  - [Laetitia Sadier (Stereolab) and Mark Webber (Pulp) with Damon & Naomi ~ When Will You Come Home (Galaxie 500) / Cafe Oto, London](https://youtu.be/3oZhvxWfaIM)
  - [Dean & Britta ~ Tugboat (Galaxie 500) / The Holy GrAle, Durham](https://www.youtube.com/watch?v=nDuH5WrrZTU)
 
