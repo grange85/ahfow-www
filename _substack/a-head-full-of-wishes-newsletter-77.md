@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'A Head Full of Wishes newsletter #77'
-date: 2026-11-25 00:00 +0000
+date: 2026-11-27 00:00 +0000
 series-title: Substack
 author:
   display_name: Andy
