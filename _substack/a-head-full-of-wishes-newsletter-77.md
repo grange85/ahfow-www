@@ -14,12 +14,14 @@ categories:
 tags:
 -
 ---
-Since it's been another quiet week in the world of AHFoW I thought I'd look at some of the more obscure excursions by the ex-members of Galaxie 500. But before that I guess I should some up the little news there isI thought I'd look at some of the more obscure excursions by the ex-members of Galaxie 500. But before that I guess I should some up the little news there is, and some related _findings_:
+Since it's been another quiet week in the world of AHFoW I thought I'd look at some of the more obscure excursions by the ex-members of Galaxie 500. But before that I guess I should some up the little news there is, I thought I'd look at some of the more obscure excursions by the ex-members of Galaxie 500. But before that I guess I should some up the little news there is, and some related _findings_:
 
- - There's currently a "Black Friday" sale of Luna goodies that sees [20% of most items in the online store](https://shop.portmerch.com/collections/luna). The discount is only added/visible when you add to your basket. The sale runs until 4th Secember.
- - The shop on Dean Wareham's website also has [20% off plently of Dean, Dean & Britta, and Galaxie 500 items](https://deanwareham.com/shop), this also runs to the 4th Dec. Go fill your boots!
+ - There's currently a "Black Friday" sale of Luna goodies that sees [20% of most items in the online store](https://shop.portmerch.com/collections/luna). The discount is only added/visible when you add to your basket. The sale runs until 4th December.
+ - The shop on Dean Wareham's website also has [20% off plenty of Dean, Dean & Britta, and Galaxie 500 items](https://deanwareham.com/shop), this also runs to the 4th Dec. Go fill your boots!
  - Common Birds from Colorado played a lovely cover of Galaxie 500's Tugboat during their recent show:
- https://www.youtube.com/watch?v=gL7LvqttIcE
+
+{% ahfowvideo "gL7LvqttIcE" "Common Birds - Tugboat" %}
+
   Which is another to add to the long list of fab Tugboat covers, you can find some in this post from last year:
 https://aheadfullofwishes.substack.com/p/a-fleet-of-tugboats
 
@@ -68,7 +70,7 @@ Knives from Bavaria plays while Emily searches for some medication to help contr
 
 The film is a little fragmented in places, and occasionally feels a little contrived, but on the whole I did enjoy it. Maggie Cheung's performance is believable and sympathetic, she has such an expressive face. Nick Nolte is perfect in his role as a sympathetic and caring grandfather who wants Emily to succeed.
 
-Becuase the film is set within the music world, there are appearances from musicians playing fictionalised versions of themselves. As well as David Roback, we also see Metric perform Dead Disco at a live show and then the band talk after the show. Tricky is seen, but I don't think is heard. I'm not entirely sure how Tricky is supposed to help Emily see her son? Another contrivance??
+Because the film is set within the music world, there are appearances from musicians playing fictionalised versions of themselves. As well as David Roback, we also see Metric perform Dead Disco at a live show and then the band talk after the show. Tricky is seen, but I don't think is heard. I'm not entirely sure how Tricky is supposed to help Emily see her son? Another contrivance??
 
 {% ahfowaudio {
 "audiourl": "https://media.fullofwishes.co.uk/00-misc/audio/02_Maggie-Cheung_Strawberry-Stain.m4a",
@@ -88,7 +90,7 @@ Becuase the film is set within the music world, there are appearances from music
 
 ### Damon & Naomi - Spirit of Love (1997)
 
-In March 1997 Damon & Naomi played their first London show at the tiny 12 Bar Club. I still remember that show with a <a href="/articles/1997-03-19-review-damon-naomi-12-bar-club-london-uk-19th-march-1997">mixture of bliss and discomfort</a> but the most enduring of the blissful memories is the instrument that Naomi used. A <a href="http://en.wikipedia.org/wiki/Sruti_box">sruti box</a> is a simple one pitch harmonium that produces a beautiful drone. Since then Naomi has moved through a full harmonium and now plays a <a href="http://en.wikipedia.org/wiki/Clavia_Nord_Electro_2">Nord ELectro 2</a> and while I'm sure she (and the audience) appreciates the flexibility of these instruments I must admit I miss the beautiful simplicity of the sruti.
+In March 1997 Damon & Naomi played their first London show at the tiny 12 Bar Club. I still remember that show with a <a href="https://www.fullofwishes.co.uk/articles/1997-03-19-review-damon-naomi-12-bar-club-london-uk-19th-march-1997?utm_source=social&utm_medium=substack&utm_campaign=newsletter+20261127">mixture of bliss and discomfort</a> but the most enduring of the blissful memories is the instrument that Naomi used. A <a href="http://en.wikipedia.org/wiki/Sruti_box">sruti box</a> is a simple one pitch harmonium that produces a beautiful drone. Since then Naomi has moved through a full harmonium and now plays a <a href="http://en.wikipedia.org/wiki/Clavia_Nord_Electro_2">Nord Electro 2</a> and while I'm sure she (and the audience) appreciates the flexibility of these instruments I must admit I miss the beautiful simplicity of the sruti.
 
 In the July 1997 issue of Ptolemaic Terrascope Damon & Naomi gave an interview which showed off the still tender wounds of the Galaxie 500 split. As a fan it was a hard read. Up until that point I was blissfully unaware of just how sad the split was.
 
@@ -108,7 +110,7 @@ The 7" single that came with the magazine featured Damon & Naomi doing a cover o
 
 ### Luna - Sucking Ice Cubes (1994)
 
-Sucking Ice Cubes had its only official release as a bonus track on the Japanese release of Bewitched and in my opinion deserved a wider audience than that. Not a throwaway, a demo or an instrumental, Sucking Ice Cubes starts with guitar feedback, not the expected start to a Luna song, and carries on like it might have been a live gem if it had been given a chance - I can close my eyes and imagine this developing into the sort of stage classic that Black Postcards and 23 Minutes got to be...I can't imagine Dean & Britta doing it though...maybe it rocks too much?
+Sucking Ice Cubes had its only official release as a bonus track on the Japanese release of Bewitched and in my opinion deserved a wider audience than that. Not a throwaway, a demo or an instrumental, Sucking Ice Cubes starts with guitar feedback, not the expected start to a Luna song, and carries on like it might have been a live gem if it had been given a chance - I can close my eyes and imagine this developing into the sort of stage classic that Black Postcards and 23 Minutes got to be.
 
 {% ahfowaudio {
 "audiourl": "https://media.fullofwishes.co.uk/02-luna/audio/luna-sucking-ice-cubes.mp3",
@@ -117,3 +119,28 @@ Sucking Ice Cubes had its only official release as a bonus track on the Japanese
 "sourcecap": "Luna - Bewitched (Elektra - Japan 1994)"
 } %}
 
+---
+
+### Dean & Britta - Spiral (2007)
+
+In 2007 HBO created a multimedia/marketing campaign part of which was a Flash driven look into the fictional apartments of an apartment block in New York City, part of the presentation enabled viewers to select music while they "[Saw] what people do when they think no one is watching" and Dean & Britta provided one of the selections.
+
+Their piece called "Spiral" was made available via an HBO podcast which is were I grabbed this mp3.
+
+Sadly Flash has long been discontinued and it seems that Flash emulators like Ruffle haven't managed to get a working copy, I suspect because it heavily relied on script code and external resources so sadly you can no longer see the project in all it's glory, There is however a video clip that runs almost exactly the same length as Dean & Britta's contribution so... 
+
+Play this...
+
+{% ahfowaudio {
+"audiourl": "https://media.fullofwishes.co.uk/07-dean_and_britta/audio/Dean---Britta_HBO-Voyeur_00_Spiral.mp3",
+"audiocap": "Dean & Britta - Spiral (HBO Voyeur, 2007)"
+} %}
+
+while watching this muted:
+
+{% ahfowvideo "tH735bey3Bs" "HBO Voyeur" "https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/dean-and-britta-hbo-voyeur.jpg" %}
+
+
+---
+
+OK - that'll do for now, I guess I might dig out some more _lost tracks_ when I'm next struggling for things to post!
